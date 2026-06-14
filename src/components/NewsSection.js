@@ -39,11 +39,11 @@ const ArticleList = ({ items }) => {
                 </p>
               )}
 
-              <div className="flex items-center justify-between mt-4 text-xs text-gray-50
+              <div className="flex items-center justify-between mt-4 text-xs text-gray-500">
                 <span className={`px-2 py-1 rounded ${recent ? 'bg-blue-200 text-blue-800' : 'bg-blue-50 text-blue-700'}`}>
                   {item.source || 'Info'}
                 </span>
-                <span>{item.date}</span>
+                <span className="text-gray-500">{item.date}</span>
               </div>
 
               {item.url && (

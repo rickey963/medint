@@ -15,7 +15,7 @@
     "start": "react-scripts start",
     "build": "npm run copy-data && react-scripts build",
     "test": "react-scripts test",
-    "copy-data": "mkdir -p public/data && cp src/data/*.json public/data/"
+    "copy-data": "node -e \"const fs = require('fs'); if (!fs.existsSync('public/data')) fs.mkdirSync('public/data', { recursive: true }); fs.readdirSync('src/data').forEach(f => { if (f.endsWith('.json')) fs.copyFileSync(`src/data/${f}`, `public/data/${f}`); });\""
   },
   "eslintConfig": {
     "extends": [
