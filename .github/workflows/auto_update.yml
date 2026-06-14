@@ -1,0 +1,64 @@
+name: Medint Auto-Update (Scrape & Deploy)
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Scraper Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f scraper/requirements.txt ]; then pip install -r scraper/requirements.txt; fi
+
+      - name: Run All Scrapers
+        run: python scraper/engine.py
+
+      - name: Commit and Push Data Updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add src/data/*.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated Data Update: $(date)"
+            git push
+          else
+            echo "No data changes detected, skipping commit."
+          fi
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: package-lock.json
+
+      - name: Install Web Dependencies
+        run: npm ci
+
+      - name: Build Project
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
