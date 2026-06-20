@@ -39,9 +39,18 @@ jobs:
           git add src/data/*.json
           if ! git diff --cached --quiet; then
             git commit -m "Automated Data Update: $(date)"
-            # Use rebase with -X theirs to ensure the freshly scraped data wins in case of conflicts
-            git pull --rebase -X theirs origin main
-            git push origin main
+            # Retry loop to handle race conditions during concurrent runs
+            for i in {1..5}; do
+              echo "Attempt $i to push to origin main..."
+              git fetch origin main
+              git rebase origin/main -X theirs
+              if git push origin main; then
+                echo "Push successful!"
+                break
+              fi
+              echo "Push failed, retrying in 10s..."
+              sleep 10
+            done
           else
             echo "No data changes detected, skipping commit."
           fi
