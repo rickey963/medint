@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Alerts from './components/Alerts';
 import NewsSection from './components/NewsSection';
-import ResearchSection from './components/ResearchSection';
 
 const LegalCard = ({ title, effective_date, changes }) => (
   <div className="bg-white p-4 rounded shadow border-l-4 border-purple-500 mb-4">
