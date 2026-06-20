@@ -5,7 +5,7 @@ import ResearchSectionV2 from './components/ResearchSectionV2';
 import ClinicalTrialsSection from './components/ClinicalTrialsSection';
 import RegulatorySafetySection from './components/RegulatorySafetySection';
 import AISection from './components/AISection';
-import GuidelinesSectionV2 from './components/GuidelinesSectionV2';
+import GuidelinesSection from './components/GuidelinesSectionV2';
 
 const AlertsTicker = ({ data }) => {
   if (!data || data.length === 0) return null;
@@ -129,8 +129,8 @@ function App() {
             {/* Bottom Section: Article of the Day */}
             <div className="lg:col-span-2 flex items-center justify-center">
                <ArticleOfDay data={articleData} />
-            </div
-          </div
+            </div>
+          </div>
         </div>
       </main>
 
