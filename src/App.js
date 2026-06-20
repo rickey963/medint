@@ -1,10 +1,15 @@
 import React, { useState, useEffect } from 'react';
 import NewsSection from './components/NewsSection';
+import ClinicalIntelligenceFeed from './components/ClinicalIntelligenceFeed';
+import ResearchSectionV2 from './components/ResearchSectionV2';
+import ClinicalTrialsSection from './components/ClinicalTrialsSection';
+import RegulatorySafetySection from './components/RegulatorySafetySection';
+import AISection from './components/AISection';
+import GuidelinesSectionV2 from './components/GuidelinesSectionV2';
 
 const AlertsTicker = ({ data }) => {
   if (!data || data.length === 0) return null;
 
-  // Combine all alerts into one long string
   const alertText = data
     .map(item => `🚨 ${item.title} — ${item.summary}`)
     .join('   |   ');
@@ -51,7 +56,6 @@ const ArticleOfDay = ({ data }) => {
 function App() {
   const [alertsData, setAlertsData] = useState([]);
   const [articleData, setArticleData] = useState(null);
-  const [loading, setLoading] = useState(true);
   const [refreshTrigger, setRefreshTrigger] = useState(Date.now());
 
   const fetchData = async () => {
@@ -65,8 +69,6 @@ function App() {
       if (articleRes) setArticleData(articleRes);
     } catch (error) {
       console.error("Error loading dynamic content:", error);
-    } finally {
-      setLoading(false);
     }
   };
 
@@ -88,33 +90,47 @@ function App() {
 
       <AlertsTicker data={alertsData} />
 
-      <main className="flex-1 overflow-hidden p-4">
-        <div className="h-full max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 overflow-hidden">
-          {/* Tile 1: Polska */}
-          <NewsSection title="Polska" filename="news_pl.json" refreshTrigger={refreshTrigger} />
+      <main className="flex-1 overflow-y-auto p-4 custom-scrollbar">
+        <div className="max-w-7xl mx-auto">
+          {/* v2 Step 1: Hero Section - Clinical Intelligence Feed */}
+          <ClinicalIntelligenceFeed filename="clinical_intelligence.json" refreshTrigger={refreshTrigger} />
 
-          {/* Tile 2: Świat */}
-          <NewsSection title="Świat" filename="news_world.json" refreshTrigger={refreshTrigger} />
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {/* Tile 1: Polska */}
+            <NewsSection title="Polska" filename="news_pl.json" refreshTrigger={refreshTrigger} />
 
-          {/* Tile 3: Badania */}
-          <NewsSection title="Badania" filename="research.json" refreshTrigger={refreshTrigger} />
+            {/* Tile 2: Świat */}
+            <NewsSection title="Świat" filename="news_world.json" refreshTrigger={refreshTrigger} />
 
-          {/* Tile 4: Zmiany Prawne */}
-          <NewsSection title="Zmiany Prawne" filename="legal.json" refreshTrigger={refreshTrigger} />
+            {/* Tile 3: Badania (v2) */}
+            <ResearchSectionV2 title="Nowe Publikacje Naukowe" filename="research.json" refreshTrigger={refreshTrigger} />
 
-          {/* Tile 5: Leki */}
-          <NewsSection title="Leki" filename="drugs.json" refreshTrigger={refreshTrigger} />
+            {/* Tile 4: Badania Kliniczne (v2) */}
+            <ClinicalTrialsSection title="Badania Kliniczne" filename="clinical_trials.json" refreshTrigger={refreshTrigger} />
 
-          {/* Tile 6: Wytyczne */}
-          <NewsSection title="Wytyczne" filename="guidelines.json" refreshTrigger={refreshTrigger} />
+            {/* Tile 5: Bezpieczeństwo i Regulacje (v2) */}
+            <RegulatorySafetySection title="Bezpieczeństwo i Regulacje" filename="regulatory_safety.json" refreshTrigger={refreshTrigger} />
 
-          {/* Tile 7: Alerty Medyczne (Full list) */}
-          <NewsSection title="Alerty Medyczne" filename="alerts.json" refreshTrigger={refreshTrigger} />
+            {/* Tile 6: Wytyczne (v2) */}
+            <GuidelinesSectionV2 title="Wytyczne i Rekomendacje" filename="guidelines.json" refreshTrigger={refreshTrigger} />
 
-          {/* Bottom Section: Article of the Day - positioned relative to layout */}
-          <div className="lg:col-span-2 flex items-center justify-center">
-             <ArticleOfDay data={articleData} />
-          </div>
+            {/* Tile 7: AI w Medycynie (v2) */}
+            <AISection title="AI w Medycynie" filename="ai_medicine.json" refreshTrigger={refreshTrigger} />
+
+            {/* Tile 8: Zmiany Prawne */}
+            <NewsSection title="Zmiany Prawne" filename="legal.json" refreshTrigger={refreshTrigger} />
+
+            {/* Tile 9: Leki */}
+            <NewsSection title="Leki" filename="drugs.json" refreshTrigger={refreshTrigger} />
+
+            {/* Tile 10: Alerty Medyczne (Full list) */}
+            <NewsSection title="Alerty Medyczne" filename="alerts.json" refreshTrigger={refreshTrigger} />
+
+            {/* Bottom Section: Article of the Day */}
+            <div className="lg:col-span-2 flex items-center justify-center">
+               <ArticleOfDay data={articleData} />
+            </div
+          </div
         </div>
       </main>
 
