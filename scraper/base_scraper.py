@@ -31,26 +31,23 @@ class BaseScraper:
         if not text:
             return ""
         try:
-            # Simple check: if it's already Polish, don't translate
-            # Note: This is a naive check. GoogleTranslator handles auto-detection.
             return GoogleTranslator(source='auto', target=self.target_lang).translate(text)
         except Exception as e:
             logger.error(f"[{self.name}] Translation error: {e}")
             return text
 
     def format_date(self, date_str):
-        """Parses date and converts it to Warsaw time (GMT+1)."""
+        """Parses date and converts it to Warsaw time (GMT+1) in format: DD.MM.YYYY r. g. HH:MM"""
         if not date_str or date_str == "Recent":
             return "Recent"
         try:
-            # Parse date
             parsed_date = parser.parse(date_str)
             if parsed_date.tzinfo is None:
                 parsed_date = pytz.utc.localize(parsed_date)
 
             warsaw_tz = pytz.timezone('Europe/Warsaw')
             warsaw_date = parsed_date.astimezone(warsaw_tz)
-            return warsaw_date.strftime('%Y-%m-%d %H:%M')
+            return warsaw_date.strftime('%d.%m.%Y r. g. %H:%M')
         except Exception as e:
             logger.error(f"[{self.name}] Date parsing error for {date_str}: {e}")
             return date_str
@@ -96,14 +93,15 @@ class BaseScraper:
                     final_data.append(item)
                     seen_titles.add(title)
 
-            # Sort by date newest first
-            # Note: This requires dates to be in a sortable format (like ISO) or we sort before formatting
-            # For now, we assume the 'date' field is a sortable string or datetime object if provided
-            try:
-                final_data.sort(key=lambda x: x.get('date', ''), reverse=True)
-            except Exception as e:
-                logger.error(f"[{self.name}] Sorting error: {e}")
+            def get_sort_key(item):
+                d = item.get('date')
+                try:
+                    if not d or d == "Recent": return 0
+                    return parser.parse(d).timestamp()
+                except:
+                    return 0
 
+            final_data.sort(key=get_sort_key, reverse=True)
             final_data = final_data[:20]
 
             with open(self.target_json_path, 'w', encoding='utf-8') as f:
@@ -147,7 +145,11 @@ class RSSScraper(BaseScraper):
                 raw_date = pub_date_tag.get_text(strip=True) if pub_date_tag else "Recent"
                 description = description_tag.get_text(strip=True) if description_tag else ""
 
+                # Better summary cleaning: Remove the title if it's repeated in the description
                 clean_desc = BeautifulSoup(description, "html.parser").get_text()
+                if clean_desc.startswith(raw_title):
+                    clean_desc = clean_desc[len(raw_title):].strip()
+
                 sentences = re.split(r'(?<=[.!?])\s+', clean_desc)
                 summary_raw = " ".join(sentences[:3])
                 if len(sentences) > 3:

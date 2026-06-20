@@ -1,37 +1,38 @@
 import React, { useState, useEffect } from 'react';
 import NewsSection from './components/NewsSection';
 
-const LegalCard = ({ title, effective_date, changes, summary, date }) => (
-  <div className="bg-white p-4 rounded shadow border-l-4 border-purple-500 mb-4">
-    <h3 className="font-bold text-gray-800 text-lg">{title}</h3>
-    <p className="text-sm text-gray-500 mb-2">Data: {effective_date || date || 'Brak danych'}</p>
-    <div className="text-sm text-gray-700">
-      {changes && Array.isArray(changes) ? (
-        <ul className="list-disc list-inside">
-          {changes.map((c, i) => <li key={i}>{c}</li>)}
-        </ul>
-      ) : (
-        <p>{summary || 'Brak szczegółów'}</p>
-      )}
-    </div>
-  </div>
-);
+const AlertsTicker = ({ data }) => {
+  if (!data || data.length === 0) return null;
 
-const GuidelinesCard = ({ title, changes, summary, date }) => (
-  <div className="bg-white p-4 rounded shadow border-l-4 border-orange-500 mb-4">
-    <h3 className="font-bold text-gray-800">{title}</h3>
-    <div className="mt-2 text-sm text-gray-700">
-      {changes && Array.isArray(changes) ? (
-        <ul className="space-y-1">
-          {changes.map((c, i) => <li key={i}>• {c}</li>)}
-        </ul>
-      ) : (
-        <p>{summary || 'Brak szczegółów'}</p>
-      )}
+  // Combine all alerts into one long string
+  const alertText = data
+    .map(item => `🚨 ${item.title} — ${item.summary}`)
+    .join('   |   ');
+
+  return (
+    <div className="bg-red-600 text-white py-2 overflow-hidden whitespace-nowrap relative shadow-md">
+      <div className="animate-marquee absolute whitespace-nowrap hover:pause">
+        <span className="text-sm font-bold uppercase tracking-wide">
+          {alertText} {alertText}
+        </span>
+      </div>
+      <style dangerouslySetInnerHTML={{ __html: `
+        @keyframes marquee {
+          0% { transform: translateX(0); }
+          100% { transform: translateX(-50%); }
+        }
+        .animate-marquee {
+          animation: marquee 40s linear infinite;
+          display: inline-block;
+          padding-left: 100%;
+        }
+        .hover\\:pause:hover {
+          animation-play-state: paused;
+        }
+      `}} />
     </div>
-    <p className="text-[10px] text-gray-400 mt-2">{date}</p>
-  </div>
-);
+  );
+};
 
 const ArticleOfDay = ({ data }) => {
   if (!data) return null;
@@ -48,22 +49,19 @@ const ArticleOfDay = ({ data }) => {
 };
 
 function App() {
-  const [legalData, setLegalData] = useState([]);
-  const [guidelinesData, setGuidelinesData] = useState([]);
+  const [alertsData, setAlertsData] = useState([]);
   const [articleData, setArticleData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [refreshTrigger, setRefreshTrigger] = useState(Date.now());
 
   const fetchData = async () => {
     try {
-      const [legalRes, guidelinesRes, articleRes] = await Promise.all([
-        fetch(`./data/legal.json?t=${Date.now()}`).then(r => r.ok ? r.json() : null),
-        fetch(`./data/guidelines.json?t=${Date.now()}`).then(r => r.ok ? r.json() : null),
+      const [alertsRes, articleRes] = await Promise.all([
+        fetch(`./data/alerts.json?t=${Date.now()}`).then(r => r.ok ? r.json() : null),
         fetch(`./data/daily_article.json?t=${Date.now()}`).then(r => r.ok ? r.json() : null)
       ]);
 
-      if (legalRes) setLegalData(legalRes);
-      if (guidelinesRes) setGuidelinesData(guidelinesRes);
+      if (alertsRes) setAlertsData(alertsRes);
       if (articleRes) setArticleData(articleRes);
     } catch (error) {
       console.error("Error loading dynamic content:", error);
@@ -74,7 +72,6 @@ function App() {
 
   useEffect(() => {
     fetchData();
-    // Poll for new data every 2 minutes
     const interval = setInterval(() => {
       fetchData();
       setRefreshTrigger(Date.now());
@@ -83,14 +80,16 @@ function App() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-gray-100 pb-12">
-      <header className="bg-blue-900 text-white py-8 shadow-lg mb-8 text-center">
-        <h1 className="text-5xl font-black tracking-tighter uppercase italic">MEDINT</h1>
-        <p className="mt-2 text-blue-200 font-medium opacity-80">Monitoring Medycyny i Nauk Klinicznych</p>
+    <div className="h-screen bg-gray-100 flex flex-col overflow-hidden">
+      <header className="bg-blue-900 text-white py-6 shadow-lg text-center shrink-0">
+        <h1 className="text-4xl font-black tracking-tighter uppercase italic">MEDINT</h1>
+        <p className="text-blue-200 text-sm font-medium opacity-80">Monitoring Medycyny i Nauk Klinicznych</p>
       </header>
 
-      <main className="max-w-7xl mx-auto px-4">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <AlertsTicker data={alertsData} />
+
+      <main className="flex-1 overflow-hidden p-4">
+        <div className="h-full max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 overflow-hidden">
           {/* Tile 1: Polska */}
           <NewsSection title="Polska" filename="news_pl.json" refreshTrigger={refreshTrigger} />
 
@@ -101,39 +100,25 @@ function App() {
           <NewsSection title="Badania" filename="research.json" refreshTrigger={refreshTrigger} />
 
           {/* Tile 4: Zmiany Prawne */}
-          <div className="bg-gray-50 p-4 rounded-xl shadow-sm">
-            <h2 className="text-2xl font-bold text-gray-800 mb-4 border-b-2 border-purple-500 pb-2">Zmiany Prawne</h2>
-            <div className="max-h-[500px] overflow-y-auto pr-2 custom-scrollbar">
-              {loading ? <p>Ładowanie...</p> : legalData.map((item, i) => (
-                <LegalCard key={i} {...item} />
-              ))}
-            </div>
-          </div>
+          <NewsSection title="Zmiany Prawne" filename="legal.json" refreshTrigger={refreshTrigger} />
 
           {/* Tile 5: Leki */}
           <NewsSection title="Leki" filename="drugs.json" refreshTrigger={refreshTrigger} />
 
           {/* Tile 6: Wytyczne */}
-          <div className="bg-gray-50 p-4 rounded-xl shadow-sm">
-            <h2 className="text-2xl font-bold text-gray-800 mb-4 border-b-2 border-orange-500 pb-2">Wytyczne</h2>
-            <div className="max-h-[500px] overflow-y-auto pr-2 custom-scrollbar">
-              {loading ? <p>Ładowanie...</p> : guidelinesData.map((item, i) => (
-                <GuidelinesCard key={i} {...item} />
-              ))}
-            </div>
-          </div>
+          <NewsSection title="Wytyczne" filename="guidelines.json" refreshTrigger={refreshTrigger} />
 
-          {/* Tile 7: Alerty Medyczne */}
+          {/* Tile 7: Alerty Medyczne (Full list) */}
           <NewsSection title="Alerty Medyczne" filename="alerts.json" refreshTrigger={refreshTrigger} />
-        </div>
 
-        {/* Article of the Day - Wide section below tiles */}
-        <div className="mt-8 max-w-2xl mx-auto">
-          <ArticleOfDay data={articleData} />
+          {/* Bottom Section: Article of the Day - positioned relative to layout */}
+          <div className="lg:col-span-2 flex items-center justify-center">
+             <ArticleOfDay data={articleData} />
+          </div>
         </div>
       </main>
 
-      <footer className="mt-16 py-8 text-center text-gray-400 text-sm border-t border-gray-200">
+      <footer className="py-4 text-center text-gray-400 text-xs border-t border-gray-200 shrink-0 bg-gray-100">
         &copy; {new Date().getFullYear()} MEDINT - Wszystkie prawa zastrzeżone.
       </footer>
     </div>
