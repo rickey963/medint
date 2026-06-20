@@ -41,27 +41,34 @@ function App() {
   const [guidelinesData, setGuidelinesData] = useState([]);
   const [articleData, setArticleData] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [refreshTrigger, setRefreshTrigger] = useState(Date.now());
+
+  const fetchData = async () => {
+    try {
+      const [legalRes, guidelinesRes, articleRes] = await Promise.all([
+        fetch(`./data/legal.json?t=${Date.now()}`).then(r => r.ok ? r.json() : null),
+        fetch(`./data/guidelines.json?t=${Date.now()}`).then(r => r.ok ? r.json() : null),
+        fetch(`./data/daily_article.json?t=${Date.now()}`).then(r => r.ok ? r.json() : null)
+      ]);
+
+      if (legalRes) setLegalData(legalRes);
+      if (guidelinesRes) setGuidelinesData(guidelinesRes);
+      if (articleRes) setArticleData(articleRes);
+    } catch (error) {
+      console.error("Error loading dynamic content:", error);
+    } finally {
+      setLoading(false);
+    }
+  };
 
   useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const [legalRes, guidelinesRes, articleRes] = await Promise.all([
-          fetch('./data/legal.json').then(r => r.ok ? r.json() : null),
-          fetch('./data/guidelines.json').then(r => r.ok ? r.json() : null),
-          fetch('./data/daily_article.json').then(r => r.ok ? r.json() : null)
-        ]);
-
-        if (legalRes) setLegalData(legalRes);
-        if (guidelinesRes) setGuidelinesData(guidelinesRes);
-        if (articleRes) setArticleData(articleRes);
-      } catch (error) {
-        console.error("Error loading dynamic content:", error);
-      } finally {
-        setLoading(false);
-      }
-    };
-
     fetchData();
+    // Poll for new data every 2 minutes
+    const interval = setInterval(() => {
+      fetchData();
+      setRefreshTrigger(Date.now());
+    }, 120000);
+    return () => clearInterval(interval);
   }, []);
 
   return (
@@ -71,37 +78,47 @@ function App() {
         <p className="mt-2 text-blue-200 font-medium opacity-80">Monitoring Medycyny i Nauk Klinicznych</p>
       </header>
 
-      <main className="max-w-6xl mx-auto px-4">
-        {/* Section 1: Alerts */}
-        <Alerts />
+      <main className="max-w-7xl mx-auto px-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {/* Tile 1: Polska */}
+          <NewsSection title="Polska" filename="news_pl.json" refreshTrigger={refreshTrigger} />
 
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-          {/* Left & Center Columns: News and Research */}
-          <div className="lg:col-span-2 space-y-8">
-            <NewsSection title="Polska" filename="news_pl.json" />
-            <NewsSection title="Świat" filename="news_world.json" />
-            <ResearchSection title="Nowe Badania (EBM)" filename="research.json" />
+          {/* Tile 2: Świat */}
+          <NewsSection title="Świat" filename="news_world.json" refreshTrigger={refreshTrigger} />
+
+          {/* Tile 3: Badania */}
+          <NewsSection title="Badania" filename="research.json" refreshTrigger={refreshTrigger} />
+
+          {/* Tile 4: Zmiany Prawne */}
+          <div className="bg-gray-50 p-4 rounded-xl shadow-sm">
+            <h2 className="text-2xl font-bold text-gray-800 mb-4 border-b-2 border-purple-500 pb-2">Zmiany Prawne</h2>
+            <div className="max-h-[500px] overflow-y-auto pr-2 custom-scrollbar">
+              {loading ? <p>Ładowanie...</p> : legalData.map((item, i) => (
+                <LegalCard key={i} {...item} />
+              ))}
+            </div>
           </div>
 
-          {/* Sidebar: Legal and Guidelines */}
-          <div className="space-y-8">
-             <div>
-                <h2 className="text-xl font-bold text-gray-800 mb-4 border-b-2 border-purple-500 pb-2">Zmiany Prawne</h2>
-                {loading ? <p>Ładowanie...</p> : legalData.map((item, i) => (
-                  <LegalCard key={i} {...item} />
-                ))}
-             </div>
+          {/* Tile 5: Leki */}
+          <NewsSection title="Leki" filename="drugs.json" refreshTrigger={refreshTrigger} />
 
-             <div>
-                <h2 className="text-xl font-bold text-gray-800 mb-4 border-b-2 border-orange-500 pb-2">Wytyczne</h2>
-                {loading ? <p>Ładowanie...</p> : guidelinesData.map((item, i) => (
-                  <GuidelinesCard key={i} {...item} />
-                ))}
-             </div>
-
-             {/* Article of the Day */}
-             <ArticleOfDay data={articleData} />
+          {/* Tile 6: Wytyczne */}
+          <div className="bg-gray-50 p-4 rounded-xl shadow-sm">
+            <h2 className="text-2xl font-bold text-gray-800 mb-4 border-b-2 border-orange-500 pb-2">Wytyczne</h2>
+            <div className="max-h-[500px] overflow-y-auto pr-2 custom-scrollbar">
+              {loading ? <p>Ładowanie...</p> : guidelinesData.map((item, i) => (
+                <GuidelinesCard key={i} {...item} />
+              ))}
+            </div>
           </div>
+
+          {/* Tile 7: Alerty Medyczne */}
+          <NewsSection title="Alerty Medyczne" filename="alerts.json" refreshTrigger={refreshTrigger} />
+        </div>
+
+        {/* Article of the Day - Wide section below tiles */}
+        <div className="mt-8 max-w-2xl mx-auto">
+          <ArticleOfDay data={articleData} />
         </div>
       </main>
 

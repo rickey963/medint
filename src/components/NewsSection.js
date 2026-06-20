@@ -5,8 +5,8 @@ const ArticleList = ({ items }) => {
     if (!dateStr || dateStr === "Recent") return false;
     const date = new Date(dateStr);
     const now = new Date();
-    const thirtyMinutesAgo = new Date(now.getTime() - 30 * 60000);
-    return date > thirtyMinutesAgo;
+    const oneHourAgo = new Date(now.getTime() - 60 * 60000);
+    return date > oneHourAgo;
   };
 
   return (
@@ -64,12 +64,12 @@ const ArticleList = ({ items }) => {
   );
 };
 
-const NewsSection = ({ title, filename }) => {
+const NewsSection = ({ title, filename, refreshTrigger }) => {
   const [items, setItems] = useState([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`./data/${filename}`)
+    fetch(`./data/${filename}?t=${refreshTrigger}`)
       .then((response) => {
         if (!response.ok) throw new Error('Network response was not ok');
         return response.json();
@@ -82,7 +82,7 @@ const NewsSection = ({ title, filename }) => {
         console.error(`Error fetching ${filename}:`, error);
         setLoading(false);
       });
-  }, [filename]);
+  }, [filename, refreshTrigger]);
 
   if (loading) return null;
   if (items.length === 0) return null;

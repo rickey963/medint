@@ -1,29 +1,11 @@
 import os
-import requests
 from base_scraper import RSSScraper
-import logging
-
-logger = logging.getLogger(__name__)
-
-class EpidemicScraper(RSSScraper):
-    """
-    Scraper for epidemic and infectious disease sources (CDC, ECDC).
-    """
-    def run(self):
-        # Placeholder URLs - in a real implementation, we would use actual RSS endpoints
-        sources = [
-            {"name": "CDC", "url": "https://www.cdc.gov/rss/index.xml"},
-            {"name": "ECDC", "url": "https://www.ecdc.europa.eu/rss/news.xml"},
-        ]
-
-        DATA_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../src/data/alerts.json'))
-
-        for source in sources:
-            logger.info(f"Running scraper for {source['name']}")
-            scraper = RSSScraper(source['name'], source['url'], DATA_PATH)
-            scraper.run()
 
 if __name__ == "__main__":
-    # We use a dummy name/URL since run() overrides them
-    scraper = EpidemicScraper("Epidemic", "", "")
+    DATA_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../src/data/alerts.json'))
+    # Google News RSS search for epidemic/outbreak sources
+    QUERY = '(site:who.int/emergencies/disease-outbreak-news OR site:ecdc.europa.eu OR site:cdc.gov OR site:promed.org OR site:healthmap.org)'
+    RSS_URL = f"https://news.google.com/rss/search?q={QUERY}+epidemic+outbreak&hl=pl&gl=PL&ceid=PL:pl"
+
+    scraper = RSSScraper("Alerty", RSS_URL, DATA_PATH)
     scraper.run()

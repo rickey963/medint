@@ -1,29 +1,11 @@
 import os
-import requests
 from base_scraper import RSSScraper
-import logging
-
-logger = logging.getLogger(__name__)
-
-class PolishMedicalScraper(RSSScraper):
-    """
-    Scraper for various Polish medical RSS feeds.
-    """
-    def run(self):
-        # We'll use these as our primary RSS sources (real ones found via research)
-        sources = [
-            {"name": "MP.pl", "url": "https://www.mp.pl/rss"},
-            {"name": "PZH", "url": "https://pzh.gov.pl/rss"},
-            {"name": "NFZ", "url": "https://www.nfz.gov.pl/rss"},
-        ]
-
-        DATA_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../src/data/news_pl.json'))
-
-        for source in sources:
-            logger.info(f"Running scraper for {source['name']}")
-            scraper = RSSScraper(source['name'], source['url'], DATA_PATH)
-            scraper.run()
 
 if __name__ == "__main__":
-    scraper = PolishMedicalScraper("PolishMedical", "", "")
+    DATA_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../src/data/news_pl.json'))
+    # Google News RSS search for top Polish medical sites
+    QUERY = '(site:mp.pl OR site:pulsmedycyny.pl OR site:termedia.pl OR site:rynekzdrowia.pl OR site:medonet.pl OR site:nfz.gov.pl OR site:pacjent.gov.pl OR site:gov.pl/zdrowie)'
+    RSS_URL = f"https://news.google.com/rss/search?q={QUERY}+medicine&hl=pl&gl=PL&ceid=PL:pl"
+
+    scraper = RSSScraper("Polska", RSS_URL, DATA_PATH)
     scraper.run()

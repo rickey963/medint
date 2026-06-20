@@ -4,23 +4,56 @@ import json
 import os
 import logging
 import re
+from datetime import datetime
+import pytz
+from dateutil import parser
+from deep_translator import GoogleTranslator
 
 logger = logging.getLogger(__name__)
 
 class BaseScraper:
     """
     Base class for all MEDINT scrapers.
-    Provides common functionality like HTML fetching and error handling.
+    Provides common functionality like HTML fetching, translation, and date formatting.
     """
-    def __init__(self, name, source_url, target_json_path):
+    def __init__(self, name, source_url, target_json_path, lang='pl'):
         self.name = name
         self.source_url = source_url
         self.target_json_path = target_json_path
+        self.target_lang = lang
         self.session = requests.Session()
-        # Set a common User-Agent to avoid simple bot detection
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Chrome/91.0.4472.124) Safari/537.36'
         })
+
+    def translate_text(self, text):
+        """Translates text to the target language if it's not already in that language."""
+        if not text:
+            return ""
+        try:
+            # Simple check: if it's already Polish, don't translate
+            # Note: This is a naive check. GoogleTranslator handles auto-detection.
+            return GoogleTranslator(source='auto', target=self.target_lang).translate(text)
+        except Exception as e:
+            logger.error(f"[{self.name}] Translation error: {e}")
+            return text
+
+    def format_date(self, date_str):
+        """Parses date and converts it to Warsaw time (GMT+1)."""
+        if not date_str or date_str == "Recent":
+            return "Recent"
+        try:
+            # Parse date
+            parsed_date = parser.parse(date_str)
+            if parsed_date.tzinfo is None:
+                parsed_date = pytz.utc.localize(parsed_date)
+
+            warsaw_tz = pytz.timezone('Europe/Warsaw')
+            warsaw_date = parsed_date.astimezone(warsaw_tz)
+            return warsaw_date.strftime('%Y-%m-%d %H:%M')
+        except Exception as e:
+            logger.error(f"[{self.name}] Date parsing error for {date_str}: {e}")
+            return date_str
 
     def fetch_html(self):
         """Fetches the HTML content of the source URL."""
@@ -34,23 +67,18 @@ class BaseScraper:
             return None
 
     def parse(self, html):
-        """
-        To be implemented by subclasses.
-        Should return a list of dictionaries representing news/alerts/etc.
-        """
+        """To be implemented by subclasses."""
         raise NotImplementedError("Subclasses must implement the parse method.")
 
     def save_data(self, data):
-        """Savess the parsed data to the target JSON file."""
+        """Saves the parsed data to the target JSON file, sorted by date newest first."""
         if not data:
             logger.warning(f"[{self.name}] No data to save.")
             return
 
         try:
-            # Ensure directory exists
             os.makedirs(os.path.dirname(self.target_json_path), exist_ok=True)
 
-            # Load existing data if it exists (to avoid overwriting everything)
             existing_data = []
             if os.path.exists(self.target_json_path):
                 with open(self.target_json_path, 'r', encoding='utf-8') as f:
@@ -59,11 +87,7 @@ class BaseScraper:
                     except json.JSONDecodeError:
                         existing_data = []
 
-            # Merge and deduplicate (simple approach: use a unique ID if available, or just append)
             combined_data = data + existing_data
-
-            # In a real implementation, we would add complex deduplication here.
-            # For now, let's just take the new data and ensure no exact duplicates by title/date.
             seen_titles = set()
             final_data = []
             for item in combined_data:
@@ -72,7 +96,14 @@ class BaseScraper:
                     final_data.append(item)
                     seen_titles.add(title)
 
-            # Limit to 20 latest items as requested by user
+            # Sort by date newest first
+            # Note: This requires dates to be in a sortable format (like ISO) or we sort before formatting
+            # For now, we assume the 'date' field is a sortable string or datetime object if provided
+            try:
+                final_data.sort(key=lambda x: x.get('date', ''), reverse=True)
+            except Exception as e:
+                logger.error(f"[{self.name}] Sorting error: {e}")
+
             final_data = final_data[:20]
 
             with open(self.target_json_path, 'w', encoding='utf-8') as f:
@@ -97,7 +128,7 @@ class BaseScraper:
 
 class RSSScraper(BaseScraper):
     """
-    Generic RSS scraper for any standard RSS feed.
+    Generic RSS scraper with translation and date formatting.
     """
     def parse(self, html):
         soup = BeautifulSoup(html, 'lxml-xml')
@@ -111,24 +142,26 @@ class RSSScraper(BaseScraper):
             description_tag = article.find('description')
 
             if title_tag and link_tag:
-                title = title_tag.get_text(strip=True)
+                raw_title = title_tag.get_text(strip=True)
                 link = link_tag.get_text(strip=True)
-                pub_date = pub_date_tag.get_text(strip=True) if pub_date_tag else "Recent"
+                raw_date = pub_date_tag.get_text(strip=True) if pub_date_tag else "Recent"
                 description = description_tag.get_text(strip=True) if description_tag else ""
 
-                # Clean up HTML tags/entities in description for a clean summary
                 clean_desc = BeautifulSoup(description, "html.parser").get_text()
-
-                # Get first 3 sentences
                 sentences = re.split(r'(?<=[.!?])\s+', clean_desc)
-                summary = " ".join(sentences[:3])
+                summary_raw = " ".join(sentences[:3])
                 if len(sentences) > 3:
-                    summary += "..."
+                    summary_raw += "..."
+
+                # Translate and format
+                title = self.translate_text(raw_title)
+                summary = self.translate_text(summary_raw)
+                date = self.format_date(raw_date)
 
                 items.append({
                     'title': title,
                     'url': link,
-                    'date': pub_date,
+                    'date': date,
                     'summary': summary,
                     'source': self.name
                 })
