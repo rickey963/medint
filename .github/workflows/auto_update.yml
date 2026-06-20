@@ -34,13 +34,14 @@ jobs:
 
       - name: Commit and Push Data Updates
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "rickey@o2.pl"
+          git config --local user.name "rickey963"
           git add src/data/*.json
           if ! git diff --cached --quiet; then
             git commit -m "Automated Data Update: $(date)"
-            git pull --rebase
-            git push
+            # Use rebase with -X theirs to ensure the freshly scraped data wins in case of conflicts
+            git pull --rebase -X theirs origin main
+            git push origin main
           else
             echo "No data changes detected, skipping commit."
           fi
