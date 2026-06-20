@@ -1,22 +1,35 @@
 import React, { useState, useEffect } from 'react';
 import NewsSection from './components/NewsSection';
 
-const LegalCard = ({ title, effective_date, changes }) => (
+const LegalCard = ({ title, effective_date, changes, summary, date }) => (
   <div className="bg-white p-4 rounded shadow border-l-4 border-purple-500 mb-4">
     <h3 className="font-bold text-gray-800 text-lg">{title}</h3>
-    <p className="text-sm text-gray-500 mb-2">Data wejścia: {effective_date}</p>
-    <ul className="list-disc list-inside text-sm text-gray-700">
-      {changes.map((c, i) => <li key={i}>{c}</li>)}
-    </ul>
+    <p className="text-sm text-gray-500 mb-2">Data: {effective_date || date || 'Brak danych'}</p>
+    <div className="text-sm text-gray-700">
+      {changes && Array.isArray(changes) ? (
+        <ul className="list-disc list-inside">
+          {changes.map((c, i) => <li key={i}>{c}</li>)}
+        </ul>
+      ) : (
+        <p>{summary || 'Brak szczegółów'}</p>
+      )}
+    </div>
   </div>
 );
 
-const GuidelinesCard = ({ title, changes }) => (
+const GuidelinesCard = ({ title, changes, summary, date }) => (
   <div className="bg-white p-4 rounded shadow border-l-4 border-orange-500 mb-4">
     <h3 className="font-bold text-gray-800">{title}</h3>
-    <ul className="mt-2 space-y-1 text-sm text-gray-700">
-      {changes.map((c, i) => <li key={i}>• {c}</li>)}
-    </ul>
+    <div className="mt-2 text-sm text-gray-700">
+      {changes && Array.isArray(changes) ? (
+        <ul className="space-y-1">
+          {changes.map((c, i) => <li key={i}>• {c}</li>)}
+        </ul>
+      ) : (
+        <p>{summary || 'Brak szczegółów'}</p>
+      )}
+    </div>
+    <p className="text-[10px] text-gray-400 mt-2">{date}</p>
   </div>
 );
 
