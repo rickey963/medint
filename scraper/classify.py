@@ -114,10 +114,15 @@ def enrich_redundant_summaries(items, translate_fn, budget):
                 item['summary'] = translate_fn(description)
     return items
 
-# Same keywords previously hard-coded in src/App.js ALERT_KEYWORDS (kept in sync).
+# Kept in sync with src/App.js's ALERT_KEYWORDS. Deliberately specific phrases,
+# not loose single words like "alert"/"zagrożenie"/"epidemi" - those false-positive
+# on historical or unrelated coverage (e.g. an article *about* epidemiology, or
+# "zagrożenie" used loosely) and turn the ticker into noise instead of signal.
 ALERT_KEYWORDS = [
-    'wycofan', 'black box', 'ostrzeżenie', 'zagrożenie', 'epidemi',
-    'recall', 'fda warning', 'black-box', 'alert', 'outbreak', 'wybuch',
+    'wycofanie z obrotu', 'wycofanie leku', 'wycofanie serii', 'black box', 'black-box',
+    'nowe ognisko', 'ognisko zakażeń', 'wybuch epidemii', 'pandemi', 'nowy wariant',
+    'nowe zakażenia', 'nowy wirus', 'outbreak', 'recall', 'fda warning', 'who alert',
+    'disease outbreak',
 ]
 
 MAX_AGE_DAYS = 7
@@ -209,10 +214,23 @@ def classify_drugs(text):
 
 
 def classify_epidemiology(text):
-    epi_kw = ['outbreak', 'ognisko choroby', 'ognisko zakażeń', 'epidemi', 'pandemi',
-              'zachorowania', 'choroby zakaźne', 'zoonoza', 'zoonotic', 'antybiotykoopornoś',
-              'antibiotic resistance', 'antimicrobial resistance', 'szczepion', 'vaccination',
-              'vaccine', 'travel alert', 'alert podróżny', 'disease outbreak']
+    epi_kw = [
+        'outbreak', 'ognisko choroby', 'ognisko zakażeń', 'epidemi', 'pandemi',
+        'zachorowania', 'choroby zakaźne', 'zoonoza', 'zoonotic', 'antybiotykoopornoś',
+        'antibiotic resistance', 'antimicrobial resistance', 'szczepion', 'vaccination',
+        'vaccine', 'travel alert', 'alert podróżny', 'disease outbreak',
+        # Specific outbreak-prone diseases - real coverage rarely says "outbreak"
+        # explicitly (e.g. "W Kongo rośnie bilans ofiar eboli"), it just names the disease.
+        # Polish inflects disease names ("ofiar eboli", "zarażeni cholerą"), so a
+        # bare 'ebola'/'cholera' substring check would miss every grammatical case
+        # except nominative. Short stems like 'odr'/'choler' would overmatch
+        # unrelated words ("podróż", "choleryk"), so spell out the inflected forms
+        # actually used in Polish coverage instead of guessing a safe stem.
+        'ebol', 'cholera', 'cholerą', 'cholerze', 'cholery', 'odra ', 'odrę', 'odrą', 'odry',
+        'grypa ptaków', 'ptasia grypa', 'ospa wietrzn', 'mpox', 'dengue', 'malari',
+        'listerioz', 'salmonell', 'gorączk krwotoczn', 'marburg', 'żółt gorączk',
+        'dżum', 'wąglik', 'wściekliz',
+    ]
     if not any(kw in text for kw in epi_kw):
         return None
     return {'category': 'Epidemiologia'}
@@ -250,28 +268,166 @@ def classify_research(text):
     return {'study_type': study_type}
 
 
-HIGH_IMPACT_SOURCES = {'NEJM', 'The Lancet', 'JAMA', 'Nature Medicine', 'BMJ',
-                       'Science Translational Medicine', 'Nature', 'Science'}
+def _source_contains(source, *hints):
+    s = (source or '').lower()
+    return any(h in s for h in hints)
+
+
+# Google News' <source> tag is rarely the bare publisher name we'd expect - NEJM
+# shows up as "The New England Journal of Medicine", Science as "Science | AAAS",
+# and every BMJ specialty journal (Frontline Gastroenterology, Annals of the
+# Rheumatic Diseases, thorax.bmj.com...) under its own sub-journal name. Exact-set
+# membership silently missed all of these, so HIGH_IMPACT/fallback routing matched
+# almost nothing; substring hints catch the family regardless of which exact title
+# Google News attaches.
+HIGH_IMPACT_NAME_HINTS = (
+    'nejm', 'new england journal of medicine', 'lancet', 'jama', 'nature medicine',
+    'bmj', 'science translational medicine',
+)
+
+
+def _is_high_impact_source(source):
+    return _source_contains(source, *HIGH_IMPACT_NAME_HINTS)
+
+
+# Home tile for an approved source when nothing more specific matched (no safety/
+# trial/AI/epidemic/market/guideline keyword hit). Without this, an NEJM or WHO
+# item with a plain headline ("Daraxonrasib in Pancreatic Cancer") falls through to
+# the generic Świat/Polska catch-all and "Badania Kliniczne"/"Epidemiologia" stay
+# empty even though approved-source content for them existed in this run. Sources
+# that are inherently general-purpose outlets (Medonet, Puls Medycyny, Termedia,
+# Podyplomie...) are deliberately absent - their natural home already is Polska/Świat.
+# Checked in order, substring match against the lowercased outlet name.
+SOURCE_FALLBACK_HINTS = [
+    # Badania Kliniczne
+    ('new england journal of medicine', 'clinical_research.json'),
+    ('nejm', 'clinical_research.json'),
+    ('lancet', 'clinical_research.json'),
+    ('jama', 'clinical_research.json'),
+    ('cochrane', 'clinical_research.json'),
+    ('pubmed', 'clinical_research.json'),
+    ('europe pmc', 'clinical_research.json'),
+    ('clinicaltrials.gov', 'clinical_research.json'),
+    ('esmo', 'clinical_research.json'),
+    ('asco', 'clinical_research.json'),
+    ('bmj', 'clinical_research.json'),
+    # Regulatory & Drug Safety
+    ('fda', 'regulatory_safety.json'),
+    ('ema', 'regulatory_safety.json'),
+    ('drugs.com', 'regulatory_safety.json'),
+    ('urpl', 'regulatory_safety.json'),
+    # Wytyczne i Rekomendacje
+    ('nice', 'guidelines.json'),
+    ('eur-lex', 'guidelines.json'),
+    ('nil', 'guidelines.json'),
+    ('isap', 'guidelines.json'),
+    # AI w Medycynie
+    ('medscape', 'ai_medicine.json'),
+    ('nejm ai', 'ai_medicine.json'),
+    # Epidemiologia i Zdrowie Publiczne
+    ('world health organization', 'epidemiology.json'),
+    ('cdc', 'epidemiology.json'),
+    ('ecdc', 'epidemiology.json'),
+    ('promed', 'epidemiology.json'),
+    ('healthmap', 'epidemiology.json'),
+    # Rynek Farmaceutyczny i Biotech
+    ('stat news', 'pharma_market.json'),
+    ('stat | aaas', 'pharma_market.json'),
+    ('endpoints news', 'pharma_market.json'),
+    ('pink sheet', 'pharma_market.json'),
+]
+
+
+def _source_fallback_tile(source):
+    s = (source or '').lower()
+    if s == 'who':
+        return 'epidemiology.json'
+    for hint, tile in SOURCE_FALLBACK_HINTS:
+        if hint in s:
+            return tile
+    return None
 
 # Nature and Science cover all of science, not just medicine (astronomy, materials,
 # pure biology...). They're on the approved domain list (sources.py), so Google
 # News legitimately returns them - but an article about asteroid chemistry doesn't
 # belong in a medical tile just because it ran on nature.com. Anything from these
 # multi-disciplinary publishers needs an extra medical-relevance check; single-purpose
-# medical outlets (NEJM, Lancet, Medonet, Termedia...) don't.
-BROAD_SCIENCE_SOURCES = {'Nature', 'Science'}
+# medical outlets (NEJM, Lancet, Medonet, Termedia...) don't. Substring match so it
+# catches "Science | AAAS" too - but excludes anything with "Medicine" in the name
+# (Nature Medicine, Science Translational Medicine), since those self-declare a
+# medical-only focus and shouldn't be held to the broader relevance check.
+def _is_broad_science_source(source):
+    s = (source or '').lower()
+    if 'medicine' in s:
+        return False
+    return 'nature' in s or 'science' in s
 
 MEDICAL_RELEVANCE_KEYWORDS = [
+    # Deliberately excludes generic 'health'/'zdrowi' - matches consumer lifestyle
+    # pieces ("zdrowy styl życia") just as readily as actual clinical content. But
+    # 'medycyn'/'medicine' is kept - specific enough to be a real signal (an AI
+    # article that explicitly says "sztuczna inteligencja medyczna" is on-topic).
     'patient', 'pacjent', 'clinical', 'klinicz', 'disease', 'chorob', 'treatment', 'leczeni',
-    'therapy', 'terapi', 'drug', 'lek', 'cancer', 'nowotwor', 'rak ', 'vaccine', 'szczepion',
-    'diagnos', 'health', 'zdrowi', 'medicine', 'medycyn', 'surgery', 'chirurgi', 'hospital',
-    'szpital', 'doctor', 'lekarz', 'trial', 'badanie klinicz', 'syndrome', 'zespół', 'infection',
-    'infekcj', 'virus', 'wirus', 'mutation', 'mutacj', 'genom', 'biomarker',
+    'therapy', 'terapi', 'drug', 'lek ', 'leku', 'leki', 'cancer', 'nowotwor', 'rak ', 'vaccine',
+    'szczepion', 'diagnos', 'surgery', 'chirurgi', 'hospital', 'szpital', 'doctor', 'lekarz',
+    'trial', 'badanie klinicz', 'syndrome', 'zespół', 'infection', 'infekcj', 'virus', 'wirus',
+    'mutation', 'mutacj', 'genom', 'biomarker', 'wytyczne', 'refundacj', 'recepta', 'antybiotyk',
+    'medicine', 'medycyn', 'statyn', 'farmakolog',
 ]
 
 
 def _is_medically_relevant(text):
     return any(kw in text for kw in MEDICAL_RELEVANCE_KEYWORDS)
+
+
+# This is meant to be a useful tool for doctors and medical students, not a
+# consumer health-lifestyle feed. Medonet (unlike the rest of SOURCES_PL, which
+# are professional/government outlets) mixes real clinical news with curiosity-bait
+# lifestyle pieces ("Czy można bezpiecznie jeść smalec?", "Co najbardziej przyciąga
+# komary?") - those are approved-domain but not useful here, so they're dropped
+# rather than left to clutter the Polska tile.
+CONSUMER_PRESS_SOURCES = ('Medonet',)
+
+CLICKBAIT_PATTERNS = [
+    'sprawdzamy, czy', 'zagadka rozwiązana', 'wielki powrót', 'co najbardziej przyciąga',
+    'ruszała się', 'czy można bezpiecznie', 'to działa jak magnes', 'naprawdę wystarczy',
+    'dieta', 'przepis na', 'jak schudnąć', 'odżywianie', 'czy warto', 'sprawdź, czy',
+]
+
+
+def _looks_like_clickbait(text):
+    return any(p in text for p in CLICKBAIT_PATTERNS)
+
+
+# Keyword dictionary for the "Specjalizacja" mode (spec lists 19 fields). An item
+# can legitimately match more than one (e.g. "pediatric oncology"), so this tags
+# every match rather than picking a single best one.
+SPECIALIZATION_KEYWORDS = {
+    'Kardiologia': ['cardio', 'kardiolog', 'heart', 'serc', 'coronary', 'arrhythmia', 'arytmi', 'myocard', 'zawał'],
+    'Onkologia': ['oncolog', 'onkolog', 'cancer', 'nowotwor', 'rak ', 'tumor', 'guz ', 'chemotherap', 'chemioterap'],
+    'Neurologia': ['neurolog', 'brain', 'mózg', 'stroke', 'udar', 'epilep', 'padaczk', 'parkinson', 'alzheimer', 'demencj'],
+    'Psychiatria': ['psychiatr', 'depress', 'depresj', 'anxiety', 'lęk', 'schizophren', 'schizofreni', 'mental health', 'zdrowie psychiczne'],
+    'Endokrynologia i diabetologia': ['endocrin', 'endokrynolog', 'diabet', 'cukrzyc', 'thyroid', 'tarczyc', 'insulin', 'hormon'],
+    'Gastroenterologia i hepatologia': ['gastroenterolog', 'hepatolog', 'liver', 'wątrob', 'stomach', 'żołądk', 'bowel', 'jelit', 'cirrhosis', 'marskoś'],
+    'Nefrologia': ['nephrolog', 'nefrolog', 'kidney', 'nerk', 'dialysis', 'dializ', 'renal'],
+    'Pulmonologia': ['pulmonolog', 'lung', 'płuc', 'respiratory', 'oddechow', 'asthma', 'astma', 'copd', 'pochp'],
+    'Hematologia': ['hematolog', 'blood', 'krwi', 'anemia', 'anemi', 'leukemia', 'leukemi', 'lymphoma', 'chłoniak'],
+    'Choroby zakaźne': ['infectious disease', 'choroby zakaźne', 'infection', 'infekcj', 'virus', 'wirus', 'bacteria', 'bakteri', 'sepsis', 'sepsa'],
+    'Reumatologia i immunologia': ['rheumatolog', 'reumatolog', 'arthritis', 'zapalenie staw', 'autoimmune', 'autoimmunolog', 'lupus', 'toczeń'],
+    'Pediatria': ['pediatr', 'children', 'dzieci', 'child ', 'infant', 'niemowl', 'newborn', 'noworod'],
+    'Ginekologia i położnictwo': ['gynecolog', 'ginekolog', 'obstetric', 'położnictw', 'pregnan', 'ciąż', 'menstrual', 'menopaus', 'menopauz'],
+    'Chirurgia': ['surgery', 'chirurgi', 'surgical', 'operacj', 'transplant', 'przeszczep'],
+    'Ortopedia i traumatologia': ['orthoped', 'ortoped', 'fracture', 'złaman', 'joint replacement', 'bone', 'kość', 'trauma'],
+    'Urologia': ['urolog', 'prostate', 'prostat', 'bladder', 'pęcherz moczow'],
+    'Dermatologia': ['dermatolog', 'skin', 'skór', 'eczema', 'egzem', 'psoriasis', 'łuszczyc', 'melanoma', 'czerniak'],
+    'Okulistyka': ['ophthalm', 'okulist', 'eye ', 'oko ', 'retina', 'siatkówk', 'glaucoma', 'jaglic', 'cataract', 'zaćm'],
+    'Anestezjologia i intensywna terapia': ['anesthes', 'anestezjolog', 'intensive care', 'intensywn', ' icu ', 'sedation', 'sedacj'],
+    'Radiologia i diagnostyka obrazowa': ['radiolog', 'imaging', 'obrazow', 'mri', 'rezonans', 'ct scan', 'tomograf', 'ultrasound', 'ultrasonograf', 'x-ray', 'rentgen'],
+}
+
+
+def detect_specializations(text):
+    return [spec for spec, kws in SPECIALIZATION_KEYWORDS.items() if any(kw in text for kw in kws)]
 
 
 def is_alert(item, text):
@@ -296,8 +452,12 @@ def classify(item, origin):
     text = _text_of(item)
     source = item.get('source', '')
 
-    if source in BROAD_SCIENCE_SOURCES and not _is_medically_relevant(text):
+    if _is_broad_science_source(source) and not _is_medically_relevant(text):
         return None
+
+    # Tagged on every item regardless of tile, so the "Specjalizacja" view can
+    # filter the whole dashboard (hero + all tiles) down to one medical field.
+    item['specializations'] = detect_specializations(text)
 
     safety_level = classify_regulatory_safety(text)
     if safety_level:
@@ -311,7 +471,7 @@ def classify(item, origin):
             item.update(research_info)
         if trial_info:
             item.update(trial_info)
-        if source in HIGH_IMPACT_SOURCES:
+        if _is_high_impact_source(source):
             return 'clinical_intelligence.json'
         return 'clinical_research.json'
 
@@ -341,8 +501,23 @@ def classify(item, origin):
     if classify_drugs(text):
         return 'regulatory_safety.json'
 
-    if source in HIGH_IMPACT_SOURCES:
+    if _is_high_impact_source(source):
         return 'clinical_intelligence.json'
+
+    fallback_tile = _source_fallback_tile(source)
+    if fallback_tile:
+        return fallback_tile
+
+    # Nothing specific matched - this is the generic Polska/Świat catch-all. This
+    # is a tool for doctors and medical students, not a consumer health-lifestyle
+    # feed, so a consumer-press item only earns a spot here if it has *some* real
+    # clinical substance or is obvious clickbait-phrased; "Co najbardziej przyciąga
+    # komary?" doesn't, "Opieka długoterminowa w geriatrii" does. Professional/
+    # government PL sources (mp.pl, Termedia, NFZ, MZ...) are never subject to this -
+    # they don't run lifestyle clickbait in the first place.
+    if any(s in source for s in CONSUMER_PRESS_SOURCES):
+        if _looks_like_clickbait(text) or not _is_medically_relevant(text):
+            return None
 
     return 'news_pl.json' if origin == 'pl' else 'news_world.json'
 
@@ -384,8 +559,28 @@ def _save(path, items):
         json.dump(items, f, ensure_ascii=False, indent=2)
 
 
+def _passes_quality_gate(item, is_catchall):
+    """Re-applies the relevance/clickbait gates from classify() to *already
+    saved* items too, not just freshly collected ones. Without this, an item
+    saved before a quality rule existed (or before a rule was tightened) would
+    keep reappearing on every merge for up to MAX_AGE_DAYS, since _merge_and_save
+    normally only classifies new items - existing ones are trusted as-is.
+    `is_catchall` mirrors classify()'s consumer-press check, which only applies to
+    the generic Polska/Świat bucket - an item already routed into a specific tile
+    earned that spot via a strong keyword signal and shouldn't be second-guessed."""
+    text = _text_of(item)
+    source = item.get('source', '')
+    if _is_broad_science_source(source) and not _is_medically_relevant(text):
+        return False
+    if is_catchall and any(s in source for s in CONSUMER_PRESS_SOURCES):
+        if _looks_like_clickbait(text) or not _is_medically_relevant(text):
+            return False
+    return True
+
+
 def _merge_and_save(path, new_items, enrich_budget=None, window_days=MAX_AGE_DAYS):
-    existing = _load(path)
+    is_catchall = os.path.basename(path) in ('news_pl.json', 'news_world.json')
+    existing = [it for it in _load(path) if _passes_quality_gate(it, is_catchall)]
     combined = new_items + existing
     seen = set()
     deduped = []
@@ -445,21 +640,22 @@ def classify_and_save(items_with_origin):
             continue  # off-topic content from a multi-disciplinary publisher
         buckets.setdefault(target, []).append(item)
 
-        text = _text_of(item)
-        if is_alert(item, text):
-            alert_items.append({**item, 'type': 'ALERT'})
+        # Ticker is for breaking/current threats only - restrict candidates to the
+        # tiles whose entire purpose is safety/outbreak signals, not every tile
+        # (a loosely-worded "alert" keyword hit in, say, Polska news isn't one).
+        if target in ('regulatory_safety.json', 'epidemiology.json'):
+            text = _text_of(item)
+            if is_alert(item, text):
+                alert_items.append({**item, 'type': 'ALERT'})
 
-    # Research/guideline/market news doesn't go stale as fast as breaking news -
-    # press coverage of a case report or a pipeline deal can land days or weeks
-    # after the underlying event, so a 7-day window starves those tiles for no
-    # good reason. Safety alerts and outbreak news stay tight (genuinely time-critical).
-    SLOW_MOVING_WINDOW_DAYS = 90
-    SLOW_MOVING_TILES = {'clinical_research.json', 'guidelines.json', 'ai_medicine.json', 'pharma_market.json'}
-
+    # Strict 7-day freshness window everywhere - the user wants the dashboard to
+    # only ever show the newest medical news, never older "evergreen" coverage,
+    # even at the cost of a tile sometimes having few or no items in a given run.
     enrich_budget = [ENRICH_BUDGET_PER_RUN]
     for target, bucket_items in buckets.items():
-        window = SLOW_MOVING_WINDOW_DAYS if target in SLOW_MOVING_TILES else MAX_AGE_DAYS
-        _merge_and_save(os.path.join(DATA_DIR, target), bucket_items, enrich_budget=enrich_budget, window_days=window)
+        _merge_and_save(os.path.join(DATA_DIR, target), bucket_items, enrich_budget=enrich_budget)
 
     if alert_items:
-        _merge_and_save(os.path.join(DATA_DIR, 'alerts.json'), alert_items)
+        # Tighter than the regular 7-day tile window - the ticker is for breaking
+        # threats happening *now*, not anything still technically "this week".
+        _merge_and_save(os.path.join(DATA_DIR, 'alerts.json'), alert_items, window_days=2)

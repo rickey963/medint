@@ -101,6 +101,17 @@ export const ageInDays = (dateStr, referenceDate = new Date()) => {
 };
 
 /**
+ * True if the item was published within the last 60 minutes - used to give the
+ * very newest cards a subtle highlight so they stand out from the rest of the tile.
+ */
+export const isWithinLastHour = (dateStr, referenceDate = new Date()) => {
+  const parsed = parseAnyDate(dateStr);
+  if (!parsed) return false;
+  const diff = referenceDate.getTime() - parsed.getTime();
+  return diff >= 0 && diff <= 60 * 60 * 1000;
+};
+
+/**
  * Stable id derived from the title + url.  Used for React keys so that updates
  * with the same content don't re-mount cards.
  */

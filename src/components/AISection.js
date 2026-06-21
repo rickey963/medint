@@ -1,5 +1,5 @@
 import React from 'react';
-import { formatToPolishFormat } from '../utils/dateUtils';
+import { formatToPolishFormat, isWithinLastHour } from '../utils/dateUtils';
 import { cleanSummary } from '../utils/textUtils';
 import ImportanceBadge from './ImportanceBadge';
 
@@ -10,14 +10,23 @@ const AISection = ({ title, data }) => {
       <div className="flex-1 overflow-y-auto pr-2 custom-scrollbar">
         <div className="space-y-3">
           {data && data.length > 0 ? (
-            data.map((item, index) => (
-              <div key={index} className="p-3 rounded-lg transition-all duration-300 border border-indigo-500/20 hover:border-indigo-400/40 hover:bg-slate-800/60 bg-slate-800/30 group">
+            data.map((item, index) => {
+              const fresh = isWithinLastHour(item.date);
+              return (
+              <div key={index} className={`p-3 rounded-lg transition-all duration-300 border hover:border-indigo-400/40 hover:bg-slate-800/60 group ${
+                fresh ? 'border-blue-500/40 bg-blue-500/10 ring-1 ring-blue-400/30' : 'border-indigo-500/20 bg-slate-800/30'
+              }`}>
                 <a href={item.url} target="_blank" rel="noopener noreferrer" className="block">
                   <div className="flex justify-between items-start mb-2 gap-2">
                     <div className="flex gap-2 flex-wrap">
                       <span className="text-[9px] font-bold uppercase px-1.5 py-0.5 rounded bg-indigo-500/10 text-indigo-300 border border-indigo-500/20">
                         {item.ai_category || 'AI Research'}
                       </span>
+                      {fresh && (
+                        <span className="text-[9px] font-bold uppercase px-1.5 py-0.5 rounded bg-blue-400/20 text-blue-200 border border-blue-400/40 animate-pulse">
+                          ● Nowe
+                        </span>
+                      )}
                       <ImportanceBadge item={item} />
                     </div>
                     <span className="text-[10px] text-slate-500 shrink-0">{formatToPolishFormat(item.date)}</span>
@@ -34,7 +43,8 @@ const AISection = ({ title, data }) => {
                   </div>
                 </a>
               </div>
-            ))
+              );
+            })
           ) : (
             <p className="text-slate-500 text-center mt-10 text-sm">Brak aktualnych informacji o AI.</p>
           )}

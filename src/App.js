@@ -29,16 +29,36 @@ const DATA_FILES = [
   'alerts.json',
 ];
 
-// Mirrors scraper/classify.py's SLOW_MOVING_TILES: research/guideline/market press
-// coverage trails the underlying event by days or weeks, unlike breaking news, so
-// it shouldn't be held to the same 7-day window or the tile starves for no reason.
-const SLOW_MOVING_WINDOW_DAYS = 90;
-const SLOW_MOVING_FILES = new Set([
-  'clinical_research.json',
-  'guidelines.json',
-  'ai_medicine.json',
-  'pharma_market.json',
-]);
+const NAV_ITEMS = [
+  { key: 'dashboard', label: 'Dashboard', icon: '🏠' },
+  { key: 'specialization', label: 'Specjalizacja', icon: '🩺' },
+  { key: 'search', label: 'Wyszukiwarka', icon: '🔍' },
+  { key: 'settings', label: 'Ustawienia', icon: '⚙️' },
+];
+
+// Mirrors scraper/classify.py's SPECIALIZATION_KEYWORDS list/order.
+const SPECIALTIES = [
+  'Kardiologia',
+  'Onkologia',
+  'Neurologia',
+  'Psychiatria',
+  'Endokrynologia i diabetologia',
+  'Gastroenterologia i hepatologia',
+  'Nefrologia',
+  'Pulmonologia',
+  'Hematologia',
+  'Choroby zakaźne',
+  'Reumatologia i immunologia',
+  'Pediatria',
+  'Ginekologia i położnictwo',
+  'Chirurgia',
+  'Ortopedia i traumatologia',
+  'Urologia',
+  'Dermatologia',
+  'Okulistyka',
+  'Anestezjologia i intensywna terapia',
+  'Radiologia i diagnostyka obrazowa',
+];
 
 // Source prestige weights used by the "Article of the day" ranker.
 const SOURCE_WEIGHTS = {
@@ -108,43 +128,46 @@ const selectArticleOfDay = (allData) => {
 };
 
 /**
- * Generates the list of medical alerts shown in the red ticker.
- * Sources:
- *  - regulatory_safety with safety_level containing "WYCOFANIE", "BLACK BOX" or "ALERT"
- *  - any other category whose title or summary contains safety keywords
- *  - explicit alerts.json as fallback (kept empty by default).
+ * Generates the list of medical alerts shown in the red ticker. This is meant
+ * for *current, breaking* threats only - new outbreaks, viruses, infections,
+ * drug recalls/black-box warnings - never loosely-worded historical or unrelated
+ * coverage that happens to contain a word like "alert" or "zagrożenie".
+ * Sources are restricted to the tiles whose entire purpose is safety/outbreak
+ * signals (alerts.json, regulatory_safety, epidemiology), and items must be
+ * genuinely recent (<=48h), not just within the dashboard's general 7-day window.
  */
 const ALERT_KEYWORDS = [
-  'wycofan',
+  'wycofanie z obrotu',
+  'wycofanie leku',
+  'wycofanie serii',
   'black box',
-  'ostrzeżenie',
-  'zagrożenie',
-  'epidemi',
+  'black-box',
+  'nowe ognisko',
+  'ognisko zakażeń',
+  'wybuch epidemii',
+  'pandemi',
+  'nowy wariant',
+  'nowe zakażenia',
+  'nowy wirus',
+  'outbreak',
   'recall',
   'fda warning',
-  'black-box',
-  'alert',
+  'who alert',
+  'disease outbreak',
 ];
+
+const ALERT_MAX_AGE_HOURS = 48;
 
 const isAlertItem = (item) => {
   if (!item || !item.title) return false;
   if (item.type === 'ALERT') return true;
+  const ageHours = ageInDays(item.date) * 24;
+  if (ageHours < 0 || ageHours > ALERT_MAX_AGE_HOURS) return false;
   const safety = String(item.safety_level || '').toLowerCase();
-  if (
-    safety.includes('wycofanie') ||
-    safety.includes('wycofan') ||
-    safety.includes('black box') ||
-    safety.includes('alert')
-  ) {
+  if (safety.includes('wycofanie') || safety.includes('black box')) {
     return true;
   }
-  const text = (
-    (item.title || '') +
-    ' ' +
-    (item.summary || '') +
-    ' ' +
-    (item.drug_status || '')
-  ).toLowerCase();
+  const text = ((item.title || '') + ' ' + (item.summary || '')).toLowerCase();
   return ALERT_KEYWORDS.some((kw) => text.includes(kw));
 };
 
@@ -164,20 +187,12 @@ const generateAlerts = (allData) => {
     });
   };
 
-  [
-    'alerts',
-    'regulatory_safety',
-    'epidemiology',
-    'news_pl',
-    'news_world',
-    'guidelines',
-    'clinical_intelligence',
-  ].forEach((k) => {
+  ['alerts', 'regulatory_safety', 'epidemiology'].forEach((k) => {
     const list = allData[k];
     if (Array.isArray(list)) list.forEach(addItem);
   });
 
-  // Recency-bounded alerts (last 7 days) sorted newest first.
+  // Recency-bounded alerts (last 48h) sorted newest first.
   collected.sort((a, b) => {
     const da = normalizeDateKey(a.date) || 0;
     const db = normalizeDateKey(b.date) || 0;
@@ -258,16 +273,16 @@ const ArticleOfDay = ({ data }) => {
     '☆'.repeat(5 - Math.max(1, Math.min(5, prestige)));
 
   return (
-    <div className="bg-gradient-to-br from-blue-950 via-slate-900 to-slate-950 text-white p-6 rounded-xl shadow-2xl shadow-black/40 ring-1 ring-blue-500/20">
-      <div className="flex items-center justify-between mb-2 flex-wrap gap-2">
-        <h2 className="text-xs font-black uppercase tracking-[0.2em] text-blue-400">
-          Artykuł Dnia
+    <div className="bg-gradient-to-br from-blue-950 via-slate-900 to-slate-950 text-white p-3 rounded-xl shadow-2xl shadow-black/40 ring-1 ring-blue-500/20 h-full flex flex-col">
+      <div className="flex items-center justify-between mb-1.5 flex-wrap gap-1.5">
+        <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-blue-400">
+          📰 Artykuł Dnia
         </h2>
-        <div className="flex items-center gap-3">
-          <span className="text-[10px] font-bold uppercase text-blue-400/80">
+        <div className="flex items-center gap-2">
+          <span className="text-[9px] font-bold uppercase text-blue-400/80">
             {data.source || 'MEDINT'}
           </span>
-          <span className="text-[10px] font-bold uppercase text-blue-400/80">
+          <span className="text-[9px] font-bold uppercase text-blue-400/80">
             {dateLabel}
           </span>
         </div>
@@ -278,17 +293,17 @@ const ArticleOfDay = ({ data }) => {
         rel="noopener noreferrer"
         className="block hover:opacity-90 transition-opacity"
       >
-        <h3 className="text-xl font-bold mb-3 leading-tight text-slate-50">{data.title}</h3>
-        <p className="text-sm text-blue-200/90 leading-relaxed italic mb-4">
+        <h3 className="text-sm font-bold mb-1.5 leading-tight text-slate-50">{data.title}</h3>
+        <p className="text-xs text-blue-200/90 leading-snug italic mb-1.5 line-clamp-3">
           {data.summary ||
             data.conclusion ||
             'Najnowsze doniesienie medyczne wybrane na podstawie prestiżu źródła i daty publikacji.'}
         </p>
-        <div className="border-t border-blue-900/60 pt-3 flex items-center justify-between">
-          <span className="text-[10px] font-bold uppercase text-blue-400/80">
+        <div className="border-t border-blue-900/60 pt-1.5 flex items-center justify-between">
+          <span className="text-[9px] font-bold uppercase text-blue-400/80">
             Prestiż źródła: {star}
           </span>
-          <span className="text-[10px] font-bold uppercase text-blue-400">
+          <span className="text-[9px] font-bold uppercase text-blue-400">
             Przeczytaj pełny artykuł →
           </span>
         </div>
@@ -297,8 +312,69 @@ const ArticleOfDay = ({ data }) => {
   );
 };
 
+const NavBar = ({ activeView, setActiveView, selectedSpecialization, onClearSpecialization }) => (
+  <nav className="bg-slate-900/80 backdrop-blur border-b border-slate-800 shrink-0">
+    <div className="max-w-7xl mx-auto px-4 flex items-center gap-1 overflow-x-auto">
+      {NAV_ITEMS.map(({ key, label, icon }) => (
+        <button
+          key={key}
+          onClick={() => setActiveView(key)}
+          className={`px-4 py-2.5 text-sm font-semibold border-b-2 transition-colors whitespace-nowrap ${
+            activeView === key
+              ? 'border-blue-500 text-blue-300'
+              : 'border-transparent text-slate-400 hover:text-slate-200'
+          }`}
+        >
+          {icon} {label}
+        </button>
+      ))}
+      {selectedSpecialization && (
+        <button
+          onClick={onClearSpecialization}
+          className="ml-auto my-1.5 px-3 py-1 text-[11px] font-bold uppercase rounded-full bg-blue-500/10 text-blue-300 border border-blue-500/30 hover:bg-blue-500/20 transition-colors whitespace-nowrap"
+        >
+          Filtr: {selectedSpecialization} ✕
+        </button>
+      )}
+    </div>
+  </nav>
+);
+
+const SpecializationPicker = ({ selected, onSelect }) => (
+  <div className="max-w-7xl mx-auto px-4 py-6">
+    <h2 className="text-lg font-bold text-slate-100 mb-1">🩺 Wybierz specjalizację</h2>
+    <p className="text-sm text-slate-400 mb-4">
+      Dashboard, Clinical Intelligence Feed i wszystkie kafelki pokażą wyłącznie treści związane z wybraną dziedziną.
+    </p>
+    <div className="flex flex-wrap gap-2">
+      {SPECIALTIES.map((spec) => (
+        <button
+          key={spec}
+          onClick={() => onSelect(spec)}
+          className={`px-3 py-2 text-sm font-medium rounded-lg border transition-colors ${
+            selected === spec
+              ? 'bg-blue-600 text-white border-blue-500'
+              : 'bg-slate-900/60 text-slate-300 border-slate-800 hover:border-blue-700/50 hover:bg-slate-800/60'
+          }`}
+        >
+          {spec}
+        </button>
+      ))}
+    </div>
+  </div>
+);
+
+const ComingSoonView = ({ title, description }) => (
+  <div className="max-w-7xl mx-auto px-4 py-16 text-center">
+    <h2 className="text-xl font-bold text-slate-200 mb-2">{title}</h2>
+    <p className="text-sm text-slate-500">{description}</p>
+  </div>
+);
+
 function App() {
   const [allData, setAllData] = useState({});
+  const [activeView, setActiveView] = useState('dashboard');
+  const [selectedSpecialization, setSelectedSpecialization] = useState(null);
 
   const loadAllData = async () => {
     try {
@@ -311,10 +387,9 @@ function App() {
             const json = await response.json();
             const key = file.replace('.json', '');
             if (Array.isArray(json)) {
-              // Centralised: filter to recency window + sort newest first + assign id.
-              const windowDays = SLOW_MOVING_FILES.has(file) ? SLOW_MOVING_WINDOW_DAYS : 7;
+              // Centralised: strict 7-day freshness window + sort newest first + assign id.
               const filtered = json
-                .filter((item) => isRecent(item.date, new Date(), windowDays))
+                .filter((item) => isRecent(item.date))
                 .map((item) => ({ ...item, id: makeStableId(item) }))
                 .sort((a, b) => {
                   const da = normalizeDateKey(a.date) || 0;
@@ -342,66 +417,109 @@ function App() {
     return () => clearInterval(interval);
   }, []);
 
-  const getDataFor = (key) => allData[key] || [];
+  // When a specialization is active, it filters the whole dashboard (hero + every
+  // tile) - computed once here so getDataFor/articleOfDay/alerts all see it.
+  const filteredData = useMemo(() => {
+    if (!selectedSpecialization) return allData;
+    const out = {};
+    Object.keys(allData).forEach((key) => {
+      const list = allData[key];
+      out[key] = Array.isArray(list)
+        ? list.filter((item) => (item.specializations || []).includes(selectedSpecialization))
+        : list;
+    });
+    return out;
+  }, [allData, selectedSpecialization]);
+
+  const getDataFor = (key) => filteredData[key] || [];
 
   // Derived values: article of the day and ticker alerts.
-  const articleOfDay = useMemo(() => selectArticleOfDay(allData), [allData]);
-  const alerts = useMemo(() => generateAlerts(allData), [allData]);
+  const articleOfDay = useMemo(() => selectArticleOfDay(filteredData), [filteredData]);
+  const alerts = useMemo(() => generateAlerts(filteredData), [filteredData]);
+
+  const handleSelectSpecialization = (spec) => {
+    setSelectedSpecialization(spec);
+    setActiveView('dashboard');
+  };
 
   return (
     <div className="min-h-screen bg-transparent flex flex-col">
-      <header className="bg-slate-950/80 backdrop-blur border-b border-blue-900/30 text-white py-6 shadow-lg shadow-black/30 text-center shrink-0">
+      <header className="medical-pattern bg-slate-950/80 backdrop-blur border-b border-blue-900/30 text-white py-6 shadow-lg shadow-black/30 text-center shrink-0">
         <h1 className="text-4xl font-black tracking-tighter uppercase italic text-blue-100">
-          MEDINT
+          ⚕️ MEDINT
         </h1>
         <p className="text-blue-400/80 text-sm font-medium">
           Monitoring Medycyny i Nauk Klinicznych
         </p>
       </header>
 
-      {/* High Priority Section: Alerts ticker + hero (Clinical Intelligence Feed left, Article of the day right) */}
-      <div className="shrink-0">
-        <AlertsTicker data={alerts} />
-        <div className="max-w-7xl mx-auto px-4 py-4">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-stretch">
-            <ClinicalIntelligenceFeed data={getDataFor('clinical_intelligence')} />
-            {articleOfDay && <ArticleOfDay data={articleOfDay} />}
-          </div>
-        </div>
-      </div>
+      <NavBar
+        activeView={activeView}
+        setActiveView={setActiveView}
+        selectedSpecialization={selectedSpecialization}
+        onClearSpecialization={() => setSelectedSpecialization(null)}
+      />
 
-      <main className="flex-1 p-4 custom-scrollbar overflow-y-auto">
-        <div className="max-w-7xl mx-auto space-y-6">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <NewsSection title="Polska" data={getDataFor('news_pl')} />
-            <ClinicalResearchSection
-              title="Badania Kliniczne"
-              data={getDataFor('clinical_research')}
-            />
-            <RegulatorySafetySection
-              title="Regulatory & Drug Safety"
-              data={getDataFor('regulatory_safety')}
-            />
-            <GuidelinesSectionV2
-              title="Wytyczne i Rekomendacje"
-              data={getDataFor('guidelines')}
-            />
-            <AISection
-              title="AI w Medycynie"
-              data={getDataFor('ai_medicine')}
-            />
-            <NewsSection
-              title="Epidemiologia i Zdrowie Publiczne"
-              data={getDataFor('epidemiology')}
-            />
-            <NewsSection
-              title="Rynek Farmaceutyczny i Biotech"
-              data={getDataFor('pharma_market')}
-            />
-            <NewsSection title="Świat" data={getDataFor('news_world')} />
+      {activeView === 'specialization' && (
+        <SpecializationPicker selected={selectedSpecialization} onSelect={handleSelectSpecialization} />
+      )}
+      {activeView === 'search' && (
+        <ComingSoonView
+          title="🔍 Wyszukiwarka globalna"
+          description="Już wkrótce: wyszukiwanie po tytule, źródle, specjalizacji, dacie i poziomie ważności."
+        />
+      )}
+      {activeView === 'settings' && (
+        <ComingSoonView title="⚙️ Ustawienia" description="Już wkrótce." />
+      )}
+
+      {activeView === 'dashboard' && (
+        <>
+          {/* High Priority Section: Alerts ticker + hero (Clinical Intelligence Feed left, Article of the day right) */}
+          <div className="shrink-0">
+            <AlertsTicker data={alerts} />
+            <div className="max-w-7xl mx-auto px-4 py-4">
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-stretch">
+                <ClinicalIntelligenceFeed data={getDataFor('clinical_intelligence')} />
+                {articleOfDay && <ArticleOfDay data={articleOfDay} />}
+              </div>
+            </div>
           </div>
-        </div>
-      </main>
+
+          <main className="flex-1 p-4 custom-scrollbar overflow-y-auto">
+            <div className="max-w-7xl mx-auto space-y-6">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <NewsSection title={<>🏥 Polska</>} data={getDataFor('news_pl')} />
+                <ClinicalResearchSection
+                  title={<>🔬 Badania Kliniczne</>}
+                  data={getDataFor('clinical_research')}
+                />
+                <RegulatorySafetySection
+                  title={<>🛡️ Regulatory & Drug Safety</>}
+                  data={getDataFor('regulatory_safety')}
+                />
+                <GuidelinesSectionV2
+                  title={<>📋 Wytyczne i Rekomendacje</>}
+                  data={getDataFor('guidelines')}
+                />
+                <AISection
+                  title={<>🤖 AI w Medycynie</>}
+                  data={getDataFor('ai_medicine')}
+                />
+                <NewsSection
+                  title={<>🦠 Epidemiologia i Zdrowie Publiczne</>}
+                  data={getDataFor('epidemiology')}
+                />
+                <NewsSection
+                  title={<>🧬 Rynek Farmaceutyczny i Biotech</>}
+                  data={getDataFor('pharma_market')}
+                />
+                <NewsSection title={<>🌍 Świat</>} data={getDataFor('news_world')} />
+              </div>
+            </div>
+          </main>
+        </>
+      )}
 
       <footer className="py-4 text-center text-slate-500 text-xs border-t border-slate-800 shrink-0 bg-slate-950/60">
         &copy; {new Date().getFullYear()} MEDINT - Wszystkie prawa zastrzeżone.
