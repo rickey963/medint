@@ -18,6 +18,7 @@ import re
 import json
 import logging
 import requests
+from concurrent.futures import ThreadPoolExecutor
 from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 from datetime import datetime, timezone, timedelta
@@ -95,7 +96,12 @@ def enrich_redundant_summaries(items, translate_fn, budget):
     `budget` is a shared [remaining] single-element list, decremented in place, so
     a caller processing several buckets in one run can cap total outbound requests
     across all of them rather than per-bucket.
-    Mutates and returns `items`."""
+    Mutates and returns `items`. Budget bookkeeping (deciding which items qualify)
+    stays sequential - it's pure bookkeeping, not network I/O - but the actual
+    decode+fetch+translate work for the items that earned a slot runs concurrently,
+    since each one is an independent outbound request that was otherwise waiting
+    on every previous one for no reason."""
+    to_process = []
     for item in items:
         if budget[0] <= 0:
             break
@@ -106,12 +112,21 @@ def enrich_redundant_summaries(items, translate_fn, budget):
         if not needs_summary and 'news.google.com' not in url:
             continue
         budget[0] -= 1
-        real_url = _decode_google_news_url(url)
+        to_process.append((item, needs_summary))
+
+    def _process(entry):
+        item, needs_summary = entry
+        real_url = _decode_google_news_url(item['url'])
         item['url'] = real_url
         if needs_summary:
             description = _fetch_meta_description(real_url)
             if description:
                 item['summary'] = translate_fn(description)
+
+    if to_process:
+        with ThreadPoolExecutor(max_workers=min(10, len(to_process))) as executor:
+            list(executor.map(_process, to_process))
+
     return items
 
 # Kept in sync with src/App.js's ALERT_KEYWORDS. Deliberately specific phrases,

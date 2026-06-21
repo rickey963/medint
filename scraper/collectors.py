@@ -10,6 +10,7 @@ keyword query.
 
 import re
 import logging
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from bs4 import BeautifulSoup
 
 from base_scraper import BaseScraper
@@ -227,26 +228,37 @@ def fetch_gis_warnings():
 
 
 def fetch_all():
-    """Returns a list of (item, origin) tuples ready for classify.classify_and_save."""
+    """Returns a list of (item, origin) tuples ready for classify.classify_and_save.
+
+    The ~10 Google News queries are independent HTTP round-trips (split across
+    multiple requests in the first place specifically so big publishers don't
+    crowd out small ones - see sources.py), so there's no reason to run them
+    one after another: that was turning a ~70s slowest-request into a ~12-minute
+    sequential wait. Running them concurrently bounds the whole collection step
+    to roughly the slowest single request instead of the sum of all of them.
+    """
+    jobs = [
+        (fetch_pl, 'pl'),
+        (fetch_world, 'world'),
+        (fetch_world_regulators, 'world'),
+        (fetch_world_guidelines_research, 'world'),
+        (fetch_world_market, 'world'),
+        (fetch_world_intl_orgs, 'world'),
+        (fetch_world_us_gov, 'world'),
+        (fetch_world_academic_publishers, 'world'),
+        (fetch_pubmed, 'pubmed'),
+        (fetch_gis_warnings, 'pl'),
+    ]
     collected = []
-    for item in fetch_pl():
-        collected.append((item, 'pl'))
-    for item in fetch_world():
-        collected.append((item, 'world'))
-    for item in fetch_world_regulators():
-        collected.append((item, 'world'))
-    for item in fetch_world_guidelines_research():
-        collected.append((item, 'world'))
-    for item in fetch_world_market():
-        collected.append((item, 'world'))
-    for item in fetch_world_intl_orgs():
-        collected.append((item, 'world'))
-    for item in fetch_world_us_gov():
-        collected.append((item, 'world'))
-    for item in fetch_world_academic_publishers():
-        collected.append((item, 'world'))
-    for item in fetch_pubmed():
-        collected.append((item, 'pubmed'))
-    for item in fetch_gis_warnings():
-        collected.append((item, 'pl'))
+    with ThreadPoolExecutor(max_workers=len(jobs)) as executor:
+        future_to_origin = {executor.submit(fn): origin for fn, origin in jobs}
+        for future in as_completed(future_to_origin):
+            origin = future_to_origin[future]
+            try:
+                items = future.result()
+            except Exception as e:
+                logger.error("Collector failed: %s", e)
+                items = []
+            for item in items:
+                collected.append((item, origin))
     return collected

@@ -2,13 +2,13 @@ name: Medint Auto-Update (Scrape & Deploy)
 
 on:
   schedule:
-    # The source list now covers ~90 domains across 10 separate Google News
-    # queries (split up so big publishers don't crowd out small ones - see
-    # scraper/sources.py) and a single run takes ~12 minutes end to end. A
-    # 5-minute cron would mean 2-3 runs overlapping at all times, fighting over
-    # the same git push; 15 minutes leaves headroom and is still far more often
-    # than this volume of sources actually publishes new articles.
-    - cron: '*/15 * * * *'
+    # The 10 Google News queries (split across sources.py's groups so big
+    # publishers don't crowd out small ones) now run concurrently instead of
+    # sequentially, which cut the scrape step from ~12 minutes to ~4.5. Add the
+    # checkout/pip/npm/build/deploy steps around it and a full workflow run is
+    # ~7-9 minutes, so a 10-minute cron leaves headroom without the 2-3x
+    # overlap a 5-minute cron would cause.
+    - cron: '*/10 * * * *'
   workflow_dispatch:
   push:
     branches:
