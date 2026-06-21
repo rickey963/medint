@@ -93,6 +93,18 @@ def fetch_pl():
     return _parse_google_news_rss(html, helper, default_source='Polska')
 
 
+def fetch_pl_gov_policy():
+    """Separate query for PL government/policy/legal sources (NFZ, Sejm, MZ,
+    AOTM, URPL, NIL, prawo.pl...) - Termedia/Medonet/Medycyna Praktyczna alone
+    filled the combined query's 100-result cap, so these never appeared. See
+    sources.py."""
+    helper = BaseScraper('PL-Gov-Policy-Collector', sources.PL_GOV_POLICY_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Polska')
+
+
 def fetch_world():
     helper = BaseScraper('World-Collector', sources.WORLD_RSS_URL, '', lang='pl')
     html = helper.fetch_html()
@@ -239,6 +251,7 @@ def fetch_all():
     """
     jobs = [
         (fetch_pl, 'pl'),
+        (fetch_pl_gov_policy, 'pl'),
         (fetch_world, 'world'),
         (fetch_world_regulators, 'world'),
         (fetch_world_guidelines_research, 'world'),

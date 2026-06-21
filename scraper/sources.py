@@ -8,13 +8,21 @@ in classify.py, so an article is never lost just because it didn't match a
 narrow per-tile keyword query.
 """
 
-SOURCES_PL = [
+# Same crowding problem as the world sources (Google News caps a query at ~100
+# results, ranked by its own volume/authority signal): Termedia/Medonet/Medycyna
+# Praktyczna/Podyplomie alone filled the entire page, so NFZ, Sejm, prawo.pl,
+# AOTM, URPL, NIL and every other government/policy source never appeared at
+# all - confirmed empirically (one combined query returned 0 of them). Split
+# into its own group so government/legal/policy sources get a dedicated page.
+SOURCES_PL_MAJOR = [
     "mp.pl",
     "pulsmedycyny.pl",
     "termedia.pl",
     "podyplomie.pl",
-    "rynekzdrowia.pl",
     "medonet.pl",
+]
+
+SOURCES_PL_GOV_POLICY = [
     "nfz.gov.pl",
     "pacjent.gov.pl",
     "gov.pl/zdrowie",
@@ -28,9 +36,10 @@ SOURCES_PL = [
     # bodies, not random blogs - HTA/guidelines authority and pharma trade press.
     "aotm.gov.pl",
     "rynekaptek.pl",
+    "rynekzdrowia.pl",
     # Added so Polish health-law votes/changes (e.g. Sejm requiring doctors to
-    # disclose patients' PESEL numbers for billing) actually get collected -
-    # Sejm itself, plus the two main PL legal/health-policy trade outlets.
+    # disclose patients' PESEL numbers for billing, or doctors' pay) actually get
+    # collected - Sejm itself, plus the two main PL legal/health-policy outlets.
     "sejm.gov.pl",
     "prawo.pl",
     "politykazdrowotna.com",
@@ -44,6 +53,8 @@ SOURCES_PL = [
     "nipip.pl",              # Naczelna Izba Pielęgniarek i Położnych
     "gov.pl/web/konsultanci-krajowi",
 ]
+
+SOURCES_PL = SOURCES_PL_MAJOR + SOURCES_PL_GOV_POLICY
 
 # Google News RSS caps results at ~100 items per query and ranks by its own
 # relevance/authority signal, not by domain count - lumping all ~35 world domains
@@ -170,7 +181,8 @@ def build_site_query(domains):
 # place), so requiring the literal word too was a second, redundant filter that
 # silently starved entire sources (verified: removing it took a 0-article test
 # query against ESC/NICE/Fierce Pharma/BioSpace from 0 to 100 results).
-PL_QUERY = build_site_query(SOURCES_PL)
+PL_QUERY = build_site_query(SOURCES_PL_MAJOR)
+PL_QUERY_GOV_POLICY = build_site_query(SOURCES_PL_GOV_POLICY)
 WORLD_QUERY = build_site_query(SOURCES_WORLD_MAJOR)
 WORLD_QUERY_REGULATORS = build_site_query(SOURCES_WORLD_REGULATORS)
 WORLD_QUERY_GUIDELINES_RESEARCH = build_site_query(SOURCES_WORLD_GUIDELINES_RESEARCH)
@@ -180,6 +192,7 @@ WORLD_QUERY_US_GOV = build_site_query(SOURCES_US_GOV)
 WORLD_QUERY_ACADEMIC_PUBLISHERS = build_site_query(SOURCES_ACADEMIC_PUBLISHERS)
 
 PL_RSS_URL = f"https://news.google.com/rss/search?q={PL_QUERY}&hl=pl&gl=PL&ceid=PL:pl"
+PL_GOV_POLICY_RSS_URL = f"https://news.google.com/rss/search?q={PL_QUERY_GOV_POLICY}&hl=pl&gl=PL&ceid=PL:pl"
 WORLD_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY}&hl=en-US&gl=US&ceid=US:en"
 WORLD_REGULATORS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_REGULATORS}&hl=en-US&gl=US&ceid=US:en"
 WORLD_GUIDELINES_RESEARCH_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_GUIDELINES_RESEARCH}&hl=en-US&gl=US&ceid=US:en"

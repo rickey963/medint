@@ -500,6 +500,17 @@ def _has_stale_citation_year(title):
     return year <= datetime.now(timezone.utc).year - STALE_CITATION_MAX_AGE_YEARS
 
 
+# Some government sub-sites (NFZ's "Diety" newsletter section especially) get
+# crawled by Google News down to UI chrome, not just articles - "Wyszukaj"
+# (Search), "Biuletyn" (Newsletter), "Menu" etc. show up as if they were
+# headlines. A real article title is essentially never this short.
+MIN_TITLE_LENGTH = 15
+
+
+def _is_nav_chrome_title(title):
+    return len((title or '').strip()) < MIN_TITLE_LENGTH
+
+
 # Keyword dictionary for the "Specjalizacja" mode (spec lists 19 fields). An item
 # can legitimately match more than one (e.g. "pediatric oncology"), so this tags
 # every match rather than picking a single best one.
@@ -552,6 +563,9 @@ def classify(item, origin):
     """
     text = _text_of(item)
     source = item.get('source', '')
+
+    if _is_nav_chrome_title(item.get('title', '')):
+        return None
 
     if _has_stale_citation_year(item.get('title', '')):
         return None
@@ -680,12 +694,26 @@ def _passes_quality_gate(item, is_catchall):
     earned that spot via a strong keyword signal and shouldn't be second-guessed."""
     text = _text_of(item)
     source = item.get('source', '')
+    if _is_nav_chrome_title(item.get('title', '')):
+        return False
     if _has_stale_citation_year(item.get('title', '')):
         return False
     if _is_broad_science_source(source) and not _is_medically_relevant(text):
         return False
-    if is_catchall and any(s in source for s in CONSUMER_PRESS_SOURCES):
-        if _looks_like_clickbait(text) or not _is_medically_relevant(text):
+    if is_catchall:
+        if any(s in source for s in CONSUMER_PRESS_SOURCES):
+            if _looks_like_clickbait(text) or not _is_medically_relevant(text):
+                return False
+        # An item sitting in the generic Polska/Świat catch-all that would now
+        # match a specific tile's classifier belongs there instead - e.g. a
+        # Medonet piece about an Ebola outbreak in DRC is "Epidemiologia", not
+        # "Polska", even though Medonet is a PL source. Re-checking this against
+        # *today's* classifiers (not just the ones active when it was first
+        # saved) is what keeps already-persisted items from drifting out of sync
+        # as the rules get tightened.
+        if (classify_regulatory_safety(text) or classify_clinical_trial(text) or classify_research(text)
+                or classify_ai_medicine(text) or classify_epidemiology(text) or classify_pharma_market(text)
+                or classify_guidelines(text) or classify_legal(text) or classify_drugs(text)):
             return False
     return True
 

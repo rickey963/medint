@@ -25,8 +25,8 @@ const NewsSection = ({ title, data }) => {
                   rel="noopener noreferrer"
                   className="block"
                 >
-                  <div className="flex items-center justify-between mb-1.5 gap-2">
-                    <div className="flex items-center gap-1.5">
+                  <div className="flex justify-between items-start mb-2 gap-2">
+                    <div className="flex gap-1.5 flex-wrap">
                       {item.category && (
                         <span className="text-[9px] font-bold uppercase px-1.5 py-0.5 rounded bg-blue-500/10 text-blue-300 border border-blue-500/20 shrink-0">
                           {item.category}
@@ -37,25 +37,24 @@ const NewsSection = ({ title, data }) => {
                           ● Nowe
                         </span>
                       )}
+                      <ImportanceBadge item={item} />
                     </div>
-                    <ImportanceBadge item={item} />
+                    <span className="text-[10px] text-slate-500 shrink-0">{formatToPolishFormat(item.date)}</span>
                   </div>
 
-                  <h3 className="text-md font-semibold text-blue-100 leading-tight mb-1 group-hover:text-blue-400 transition-colors">
+                  <h3 className="text-sm font-semibold text-blue-100 leading-tight mb-2 group-hover:text-blue-400 transition-colors">
                     {item.title}
                   </h3>
 
                   {item.summary && (
-                    <p className="text-slate-400 text-xs mb-2 line-clamp-3">
+                    <p className="text-xs text-slate-400 line-clamp-3 mb-3">
                       {cleanSummary(item.summary, item.title)}
                     </p>
                   )}
 
-                  <div className="flex items-center justify-between mt-2 text-[10px] text-slate-500">
-                    <span className="px-1.5 py-0.5 rounded bg-slate-800 text-slate-400 font-medium">
-                      {item.source || 'Info'}
-                    </span>
-                    <span className="font-medium">{formatToPolishFormat(item.date)}</span>
+                  <div className="flex items-center justify-between">
+                    <span className="text-[10px] text-slate-500 font-medium">{item.source || 'Info'}</span>
+                    <span className="text-blue-400 text-[10px] font-bold">Czytaj →</span>
                   </div>
                 </a>
               </div>
