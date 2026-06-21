@@ -33,7 +33,10 @@ class BaseScraper:
             return text
 
     def format_date(self, date_str):
-        """Parses date and converts it to Warsaw time (GMT+1) in format: DD.MM.YYYY r. g. HH:MM"""
+        """Parses date and converts it to Warsaw time (GMT+1) in the machine-readable
+        format "YYYY-MM-DD HH:MM" expected by classify.py's recency filter and by the
+        frontend's parseAnyDate(). Polish display formatting happens only in the UI
+        (dateUtils.formatToPolishFormat) - never bake a locale-specific string here."""
         if not date_str or date_str == "Recent":
             return "Recent"
         try:
@@ -43,7 +46,7 @@ class BaseScraper:
 
             warsaw_tz = pytz.timezone('Europe/Warsaw')
             warsaw_date = parsed_date.astimezone(warsaw_tz)
-            return warsaw_date.strftime('%d.%m.%Y r. g. %H:%M')
+            return warsaw_date.strftime('%Y-%m-%d %H:%M')
         except Exception as e:
             logger.error(f"[{self.name}] Date parsing error for {date_str}: {e}")
             return date_str

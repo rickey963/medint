@@ -14,14 +14,105 @@ Alert-worthy articles (recalls, black-box warnings, outbreaks...) are
 """
 
 import os
+import re
 import json
 import logging
+import requests
+from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 from datetime import datetime, timezone, timedelta
 
 logger = logging.getLogger(__name__)
 
 DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../src/data'))
+
+# Google News RSS only ever gives us "<title>  <outlet>" as a description, never a
+# real excerpt. To produce a genuine, non-redundant 3-4 sentence Polish summary we
+# follow the link once and read the publisher's own <meta description> instead of
+# inventing text. Bounded per run so a single classify_and_save() call can't turn
+# into hundreds of outbound requests against a 5-minute cron.
+_ENRICH_SESSION = requests.Session()
+_ENRICH_SESSION.headers.update({
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Chrome/91.0.4472.124) Safari/537.36'
+})
+ENRICH_BUDGET_PER_RUN = 70
+
+
+def _looks_redundant(summary, title):
+    """True if `summary` carries no information beyond `title` (e.g. Google News'
+    "<title>  <outlet>" placeholder description)."""
+    if not summary:
+        return True
+    norm = lambda s: set(re.sub(r'[^\w\s]', ' ', s.lower()).split())
+    title_words = norm(title)
+    summary_words = norm(summary)
+    if not summary_words:
+        return True
+    overlap = len(title_words & summary_words) / len(summary_words)
+    return overlap > 0.8
+
+
+def _fetch_meta_description(url):
+    try:
+        resp = _ENRICH_SESSION.get(url, timeout=6, allow_redirects=True)
+        resp.raise_for_status()
+        # requests falls back to ISO-8859-1 whenever the server omits a charset in
+        # Content-Type, which mangles every Polish page served as UTF-8 without one.
+        # apparent_encoding sniffs the actual bytes instead of trusting that header.
+        if resp.encoding is None or resp.encoding.lower() == 'iso-8859-1':
+            resp.encoding = resp.apparent_encoding
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        tag = soup.find('meta', attrs={'property': 'og:description'}) or soup.find('meta', attrs={'name': 'description'})
+        content = (tag.get('content') if tag else '') or ''
+        content = content.strip()
+        return content or None
+    except Exception:
+        return None
+
+
+def _decode_google_news_url(url):
+    """Google News RSS links are JS-redirect interstitials (Google's consent wall
+    blocks a plain requests.get follow), so the only reliable way to reach the real
+    publisher URL is to decode the base64 payload in the link path."""
+    if not url or 'news.google.com' not in url:
+        return url
+    try:
+        from googlenewsdecoder import gnewsdecoder
+        result = gnewsdecoder(url, interval=0)
+        if result and result.get('status') and result.get('decoded_url'):
+            return result['decoded_url']
+    except Exception as e:
+        logger.warning("Google News URL decode failed: %s", e)
+    return url
+
+
+def enrich_redundant_summaries(items, translate_fn, budget):
+    """Resolves the real publisher URL behind the Google News redirect link and,
+    when the RSS feed gave us no real excerpt (the common case - Google News
+    descriptions are just "<title>  <outlet>"), replaces the summary with the
+    publisher's own meta description, translated to Polish.
+
+    `budget` is a shared [remaining] single-element list, decremented in place, so
+    a caller processing several buckets in one run can cap total outbound requests
+    across all of them rather than per-bucket.
+    Mutates and returns `items`."""
+    for item in items:
+        if budget[0] <= 0:
+            break
+        url = item.get('url')
+        if not url:
+            continue
+        needs_summary = _looks_redundant(item.get('summary'), item.get('title', ''))
+        if not needs_summary and 'news.google.com' not in url:
+            continue
+        budget[0] -= 1
+        real_url = _decode_google_news_url(url)
+        item['url'] = real_url
+        if needs_summary:
+            description = _fetch_meta_description(real_url)
+            if description:
+                item['summary'] = translate_fn(description)
+    return items
 
 # Same keywords previously hard-coded in src/App.js ALERT_KEYWORDS (kept in sync).
 ALERT_KEYWORDS = [
@@ -108,7 +199,7 @@ def classify_guidelines(text):
 
 def classify_legal(text):
     legal_kw = ['prawo medyczne', 'ustawa', 'rozporządzenie', 'dziennik ustaw',
-                'isap.gov.pl', 'eur-lex', 'nil.org.pl']
+                'isap.gov.pl', 'eur-lex', 'nil.org.pl', 'dziennikustaw.gov.pl']
     return any(kw in text for kw in legal_kw)
 
 
@@ -231,13 +322,17 @@ def _save(path, items):
         json.dump(items, f, ensure_ascii=False, indent=2)
 
 
-def _merge_and_save(path, new_items):
+def _merge_and_save(path, new_items, enrich_budget=None):
     existing = _load(path)
     combined = new_items + existing
     seen = set()
     deduped = []
     for it in combined:
-        key = (it.get('url') or it.get('title') or '').strip().lower()
+        # Title first: enrichment (see enrich_redundant_summaries) can rewrite an
+        # item's `url` from a Google News redirect to the decoded publisher URL on
+        # a later run, which would otherwise make the same article dedupe as "new"
+        # every time and double up in the feed.
+        key = (it.get('title') or it.get('url') or '').strip().lower()
         if not key or key in seen:
             continue
         if not _is_recent(it.get('date')):
@@ -250,8 +345,27 @@ def _merge_and_save(path, new_items):
         return parsed.timestamp() if parsed else 0
 
     deduped.sort(key=sort_key, reverse=True)
-    _save(path, deduped[:20])
-    logger.info("Saved %d items to %s", len(deduped[:20]), path)
+    final_items = deduped[:20]
+
+    # Only the items that actually survive dedup/recency/truncation are ever shown,
+    # so only spend the enrichment budget (one outbound fetch per item) on those -
+    # not on the hundreds of raw candidates (including years-old ones) that classify()
+    # bucketed but that never make it past this filter. `enrich_budget` is a shared
+    # [remaining] counter mutated in place across all buckets in one run.
+    if enrich_budget is not None:
+        enrich_redundant_summaries(final_items, _translate_to_pl, budget=enrich_budget)
+
+    _save(path, final_items)
+    logger.info("Saved %d items to %s", len(final_items), path)
+
+
+def _translate_to_pl(text):
+    from deep_translator import GoogleTranslator
+    try:
+        return GoogleTranslator(source='auto', target='pl').translate(text)
+    except Exception as e:
+        logger.error("Translation error during enrichment: %s", e)
+        return text
 
 
 def classify_and_save(items_with_origin):
@@ -271,8 +385,9 @@ def classify_and_save(items_with_origin):
         if is_alert(item, text):
             alert_items.append({**item, 'type': 'ALERT'})
 
+    enrich_budget = [ENRICH_BUDGET_PER_RUN]
     for target, bucket_items in buckets.items():
-        _merge_and_save(os.path.join(DATA_DIR, target), bucket_items)
+        _merge_and_save(os.path.join(DATA_DIR, target), bucket_items, enrich_budget=enrich_budget)
 
     if alert_items:
         _merge_and_save(os.path.join(DATA_DIR, 'alerts.json'), alert_items)

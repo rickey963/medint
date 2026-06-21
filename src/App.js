@@ -197,13 +197,13 @@ const AlertsTicker = ({ data }) => {
   if (activeAlerts.length === 0) return null;
 
   return (
-    <div className="bg-red-600 text-white py-2 overflow-hidden whitespace-nowrap relative shadow-md z-50">
+    <div className="bg-red-700 text-white h-10 md:h-11 overflow-hidden whitespace-nowrap relative shadow-lg shadow-red-950/40 z-50 flex items-center">
       <div
         ref={trackRef}
-        className="animate-marquee absolute whitespace-nowrap hover:pause"
+        className="animate-marquee absolute top-1/2 -translate-y-1/2 whitespace-nowrap hover:pause"
         style={{ animationDuration: `${duration}s` }}
       >
-        <span className="text-sm md:text-base font-bold uppercase tracking-wide">
+        <span className="text-sm md:text-base font-bold uppercase tracking-wide leading-none">
           {itemsText}    •    {itemsText}
         </span>
       </div>
@@ -236,16 +236,16 @@ const ArticleOfDay = ({ data }) => {
     '☆'.repeat(5 - Math.max(1, Math.min(5, prestige)));
 
   return (
-    <div className="bg-blue-900 text-white p-6 rounded-xl shadow-2xl ring-4 ring-blue-100">
+    <div className="bg-gradient-to-br from-blue-950 via-slate-900 to-slate-950 text-white p-6 rounded-xl shadow-2xl shadow-black/40 ring-1 ring-blue-500/20">
       <div className="flex items-center justify-between mb-2 flex-wrap gap-2">
-        <h2 className="text-xs font-black uppercase tracking-[0.2em] text-blue-300">
+        <h2 className="text-xs font-black uppercase tracking-[0.2em] text-blue-400">
           Artykuł Dnia
         </h2>
         <div className="flex items-center gap-3">
-          <span className="text-[10px] font-bold uppercase text-blue-400">
+          <span className="text-[10px] font-bold uppercase text-blue-400/80">
             {data.source || 'MEDINT'}
           </span>
-          <span className="text-[10px] font-bold uppercase text-blue-400">
+          <span className="text-[10px] font-bold uppercase text-blue-400/80">
             {dateLabel}
           </span>
         </div>
@@ -256,14 +256,14 @@ const ArticleOfDay = ({ data }) => {
         rel="noopener noreferrer"
         className="block hover:opacity-90 transition-opacity"
       >
-        <h3 className="text-xl font-bold mb-3 leading-tight">{data.title}</h3>
-        <p className="text-sm text-blue-100 opacity-95 leading-relaxed italic mb-4">
+        <h3 className="text-xl font-bold mb-3 leading-tight text-slate-50">{data.title}</h3>
+        <p className="text-sm text-blue-200/90 leading-relaxed italic mb-4">
           {data.summary ||
             data.conclusion ||
             'Najnowsze doniesienie medyczne wybrane na podstawie prestiżu źródła i daty publikacji.'}
         </p>
-        <div className="border-t border-blue-800 pt-3 flex items-center justify-between">
-          <span className="text-[10px] font-bold uppercase text-blue-400">
+        <div className="border-t border-blue-900/60 pt-3 flex items-center justify-between">
+          <span className="text-[10px] font-bold uppercase text-blue-400/80">
             Prestiż źródła: {star}
           </span>
           <span className="text-[10px] font-bold uppercase text-blue-400">
@@ -315,7 +315,7 @@ function App() {
 
   useEffect(() => {
     loadAllData();
-    const interval = setInterval(loadAllData, 300000); // 5 minutes
+    const interval = setInterval(loadAllData, 120000); // 2 minutes - picks up new data without a manual page reload
     return () => clearInterval(interval);
   }, []);
 
@@ -326,12 +326,12 @@ function App() {
   const alerts = useMemo(() => generateAlerts(allData), [allData]);
 
   return (
-    <div className="min-h-screen bg-gray-100 flex flex-col">
-      <header className="bg-blue-900 text-white py-6 shadow-lg text-center shrink-0">
-        <h1 className="text-4xl font-black tracking-tighter uppercase italic">
+    <div className="min-h-screen bg-transparent flex flex-col">
+      <header className="bg-slate-950/80 backdrop-blur border-b border-blue-900/30 text-white py-6 shadow-lg shadow-black/30 text-center shrink-0">
+        <h1 className="text-4xl font-black tracking-tighter uppercase italic text-blue-100">
           MEDINT
         </h1>
-        <p className="text-blue-200 text-sm font-medium opacity-80">
+        <p className="text-blue-400/80 text-sm font-medium">
           Monitoring Medycyny i Nauk Klinicznych
         </p>
       </header>
@@ -380,7 +380,7 @@ function App() {
         </div>
       </main>
 
-      <footer className="py-4 text-center text-gray-400 text-xs border-t border-gray-200 shrink-0 bg-gray-100">
+      <footer className="py-4 text-center text-slate-500 text-xs border-t border-slate-800 shrink-0 bg-slate-950/60">
         &copy; {new Date().getFullYear()} MEDINT - Wszystkie prawa zastrzeżone.
       </footer>
     </div>

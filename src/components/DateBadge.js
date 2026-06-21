@@ -10,7 +10,7 @@ const DateBadge = ({ date, className = '' }) => {
   return (
     <span
       className={
-        'text-[10px] font-bold uppercase text-gray-500 bg-gray-50 px-2 py-0.5 rounded border border-gray-200 whitespace-nowrap ' +
+        'text-[10px] font-bold uppercase text-slate-400 bg-slate-800 px-2 py-0.5 rounded border border-slate-700 whitespace-nowrap ' +
         className
       }
     >

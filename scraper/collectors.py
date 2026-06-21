@@ -18,8 +18,28 @@ import sources
 logger = logging.getLogger(__name__)
 
 
-def _clean_summary(description, raw_title):
-    clean_desc = BeautifulSoup(description, "html.parser").get_text()
+def _strip_outlet_suffix(text, outlet):
+    """Google News appends the outlet name to both <title> (" - Outlet") and
+    <description> ("  Outlet", no dash) of every item. Left in place, that suffix
+    gets fed to the translator together with the real title and can come back
+    mistranslated (e.g. "... - Nature" -> "... - Natura"), so strip it first."""
+    if not text or not outlet:
+        return text
+    stripped = text.rstrip()
+    for sep in (f" - {outlet}", outlet):
+        if stripped.lower().endswith(sep.lower()):
+            stripped = stripped[: len(stripped) - len(sep)].rstrip(' -–—')
+            break
+    return stripped
+
+
+def _clean_summary(description, raw_title, outlet=None):
+    # Google News RSS <description> is itself HTML-as-text (an <a> with the title,
+    # then "&nbsp;&nbsp;<font>Outlet</font>"). It must be unescaped/stripped to plain
+    # text BEFORE we try to remove the trailing outlet name - removing the suffix on
+    # the raw markup string just leaves "</font>" at the end and does nothing.
+    clean_desc = BeautifulSoup(description, "html.parser").get_text().strip()
+    clean_desc = _strip_outlet_suffix(clean_desc, outlet)
     if clean_desc.lower().startswith(raw_title.lower()):
         clean_desc = clean_desc[len(raw_title):].strip()
     sentences = re.split(r'(?<=[.!?])\s+', clean_desc)
@@ -51,7 +71,8 @@ def _parse_google_news_rss(html, helper, default_source):
         description = description_tag.get_text(strip=True) if description_tag else ""
         outlet = source_tag.get_text(strip=True) if source_tag else default_source
 
-        summary_raw = _clean_summary(description, raw_title)
+        raw_title = _strip_outlet_suffix(raw_title, outlet)
+        summary_raw = _clean_summary(description, raw_title, outlet)
 
         items.append({
             'title': helper.translate_text(raw_title),
