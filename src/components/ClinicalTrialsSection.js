@@ -36,7 +36,6 @@ const ClinicalTrialsSection = ({ title, filename, refreshTrigger }) => {
   const [filter, setFilter] = useState('Wszystkie');
 
   const specializations = ['Wszystkie', 'Onkologia', 'Kardiologia', 'Neurologia', 'Diabetologia', 'AI w Medycynie'];
-  const phases = ['Wszystkie', 'Faza I', 'Faza II', 'Faza III', 'Faza IV'];
 
   useEffect(() => {
     fetch(`./data/${filename}?t=${refreshTrigger}`)
