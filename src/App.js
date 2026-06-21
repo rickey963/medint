@@ -5,7 +5,7 @@ import ResearchSectionV2 from './components/ResearchSectionV2';
 import ClinicalTrialsSection from './components/ClinicalTrialsSection';
 import RegulatorySafetySection from './components/RegulatorySafetySection';
 import AISection from './components/AISection';
-import GuidelinesSection from './components/GuidelinesSectionV2';
+import GuidelinesSectionV2 from './components/GuidelinesSectionV2';
 
 const AlertsTicker = ({ data }) => {
   if (!data || data.length === 0) return null;

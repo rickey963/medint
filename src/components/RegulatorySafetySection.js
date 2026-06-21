@@ -29,7 +29,7 @@ const SafetyCard = ({ item }) => {
           <span className="text-blue-600 text-[10px] font-bold">Szczegóły →</span>
         </div>
       </a>
-    </div>>
+    </div >
   );
 };
 
