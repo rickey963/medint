@@ -5,6 +5,7 @@ import ClinicalResearchSection from './components/ClinicalResearchSection';
 import RegulatorySafetySection from './components/RegulatorySafetySection';
 import AISection from './components/AISection';
 import GuidelinesSectionV2 from './components/GuidelinesSectionV2';
+import SearchView from './components/SearchView';
 import {
   isRecent,
   formatToPolishFormat,
@@ -29,11 +30,23 @@ const DATA_FILES = [
   'alerts.json',
 ];
 
+// Human labels for each data file, used by the global search view's "Kafelek" filter.
+const TILE_LABELS = {
+  news_pl: 'Polska',
+  news_world: 'Świat',
+  clinical_research: 'Badania Kliniczne',
+  regulatory_safety: 'Regulatory & Drug Safety',
+  guidelines: 'Wytyczne i Rekomendacje',
+  ai_medicine: 'AI w Medycynie',
+  epidemiology: 'Epidemiologia i Zdrowie Publiczne',
+  pharma_market: 'Rynek Farmaceutyczny i Biotech',
+  clinical_intelligence: 'Clinical Intelligence Feed',
+};
+
 const NAV_ITEMS = [
   { key: 'dashboard', label: 'Dashboard', icon: '🏠' },
   { key: 'specialization', label: 'Specjalizacja', icon: '🩺' },
   { key: 'search', label: 'Wyszukiwarka', icon: '🔍' },
-  { key: 'settings', label: 'Ustawienia', icon: '⚙️' },
 ];
 
 // Mirrors scraper/classify.py's SPECIALIZATION_KEYWORDS list/order.
@@ -364,13 +377,6 @@ const SpecializationPicker = ({ selected, onSelect }) => (
   </div>
 );
 
-const ComingSoonView = ({ title, description }) => (
-  <div className="max-w-7xl mx-auto px-4 py-16 text-center">
-    <h2 className="text-xl font-bold text-slate-200 mb-2">{title}</h2>
-    <p className="text-sm text-slate-500">{description}</p>
-  </div>
-);
-
 function App() {
   const [allData, setAllData] = useState({});
   const [activeView, setActiveView] = useState('dashboard');
@@ -437,6 +443,26 @@ function App() {
   const articleOfDay = useMemo(() => selectArticleOfDay(filteredData), [filteredData]);
   const alerts = useMemo(() => generateAlerts(filteredData), [filteredData]);
 
+  // Global search operates over everything, unfiltered by the specialization
+  // toggle (it has its own filters) - "alerts" is excluded, it's a derived stub
+  // list (title/source/date only), not real articles. Deduped by id: the same
+  // article can legitimately sit in both its primary tile and the supplementary
+  // Clinical Intelligence Feed, which would otherwise show up twice in results.
+  const searchableArticles = useMemo(() => {
+    const combined = [];
+    const seenIds = new Set();
+    Object.keys(TILE_LABELS).forEach((key) => {
+      const list = allData[key];
+      if (!Array.isArray(list)) return;
+      list.forEach((item) => {
+        if (seenIds.has(item.id)) return;
+        seenIds.add(item.id);
+        combined.push({ ...item, _tileLabel: TILE_LABELS[key] });
+      });
+    });
+    return combined;
+  }, [allData]);
+
   const handleSelectSpecialization = (spec) => {
     setSelectedSpecialization(spec);
     setActiveView('dashboard');
@@ -464,13 +490,7 @@ function App() {
         <SpecializationPicker selected={selectedSpecialization} onSelect={handleSelectSpecialization} />
       )}
       {activeView === 'search' && (
-        <ComingSoonView
-          title="🔍 Wyszukiwarka globalna"
-          description="Już wkrótce: wyszukiwanie po tytule, źródle, specjalizacji, dacie i poziomie ważności."
-        />
-      )}
-      {activeView === 'settings' && (
-        <ComingSoonView title="⚙️ Ustawienia" description="Już wkrótce." />
+        <SearchView articles={searchableArticles} specialties={SPECIALTIES} tileLabels={TILE_LABELS} />
       )}
 
       {activeView === 'dashboard' && (
