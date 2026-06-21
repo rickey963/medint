@@ -1,10 +1,5 @@
 import requests
-from bs4 import BeautifulSoup
-import json
-import os
 import logging
-import re
-from datetime import datetime
 import pytz
 from dateutil import parser
 from deep_translator import GoogleTranslator
@@ -13,10 +8,11 @@ logger = logging.getLogger(__name__)
 
 class BaseScraper:
     """
-    Base class for all MEDINT scrapers.
-    Provides common functionality like HTML fetching, translation, and date formatting.
+    Shared helper used by the collectors (see collectors.py).
+    Provides HTML fetching, translation, and Warsaw-time date formatting.
+    Topic classification and JSON persistence live in classify.py.
     """
-    def __init__(self, name, source_url, target_json_path, lang='pl'):
+    def __init__(self, name, source_url, target_json_path='', lang='pl'):
         self.name = name
         self.source_url = source_url
         self.target_json_path = target_json_path
@@ -62,109 +58,3 @@ class BaseScraper:
         except requests.exceptions.RequestException as e:
             logger.error(f"[{self.name}] Failed to fetch {self.source_url}: {e}")
             return None
-
-    def parse(self, html):
-        """To be implemented by subclasses."""
-        raise NotImplementedError("Subclasses must implement the parse method.")
-
-    def save_data(self, data):
-        """Saves the parsed data to the target JSON file, sorted by date newest first."""
-        if not data:
-            logger.warning(f"[{self.name}] No data to save.")
-            return
-
-        try:
-            os.makedirs(os.path.dirname(self.target_json_path), exist_ok=True)
-
-            existing_data = []
-            if os.path.exists(self.target_json_path):
-                with open(self.target_json_path, 'r', encoding='utf-8') as f:
-                    try:
-                        existing_data = json.load(f)
-                    except json.JSONDecodeError:
-                        existing_data = []
-
-            combined_data = data + existing_data
-            seen_titles = set()
-            final_data = []
-            for item in combined_data:
-                title = item.get('title')
-                if title and title not in seen_titles:
-                    final_data.append(item)
-                    seen_titles.add(title)
-
-            def get_sort_key(item):
-                d = item.get('date')
-                try:
-                    if not d or d == "Recent": return 0
-                    return parser.parse(d).timestamp()
-                except:
-                    return 0
-
-            final_data.sort(key=get_sort_key, reverse=True)
-            final_data = final_data[:20]
-
-            with open(self.target_json_path, 'w', encoding='utf-8') as f:
-                json.dump(final_data, f, ensure_ascii=False, indent=2)
-
-            logger.info(f"[{self.name}] Successfully saved {len(final_data)} items to {self.target_json_path}")
-
-        except Exception as e:
-            logger.error(f"[{self.name}] Error saving data: {e}")
-
-    def run(self):
-        """The main execution loop for the scraper."""
-        html = self.fetch_html()
-        if html:
-            parsed_items = self.parse(html)
-            if parsed_items:
-                self.save_data(parsed_items)
-            else:
-                logger.warning(f"[{self.name}] No items parsed.")
-        else:
-            logger.error(f"[{self.name}] Scraper failed due to fetch error.")
-
-class RSSScraper(BaseScraper):
-    """
-    Generic RSS scraper with translation and date formatting.
-    """
-    def parse(self, html):
-        soup = BeautifulSoup(html, 'lxml-xml')
-        items = []
-        articles = soup.find_all('item')
-
-        for article in articles:
-            title_tag = article.find('title')
-            link_tag = article.find('link')
-            pub_date_tag = article.find('pubDate')
-            description_tag = article.find('description')
-
-            if title_tag and link_tag:
-                raw_title = title_tag.get_text(strip=True)
-                link = link_tag.get_text(strip=True)
-                raw_date = pub_date_tag.get_text(strip=True) if pub_date_tag else "Recent"
-                description = description_tag.get_text(strip=True) if description_tag else ""
-
-                # Better summary cleaning: Remove the title if it's repeated in the description
-                clean_desc = BeautifulSoup(description, "html.parser").get_text()
-                if clean_desc.startswith(raw_title):
-                    clean_desc = clean_desc[len(raw_title):].strip()
-
-                sentences = re.split(r'(?<=[.!?])\s+', clean_desc)
-                summary_raw = " ".join(sentences[:3])
-                if len(sentences) > 3:
-                    summary_raw += "..."
-
-                # Translate and format
-                title = self.translate_text(raw_title)
-                summary = self.translate_text(summary_raw)
-                date = self.format_date(raw_date)
-
-                items.append({
-                    'title': title,
-                    'url': link,
-                    'date': date,
-                    'summary': summary,
-                    'source': self.name
-                })
-        return items

@@ -1,0 +1,159 @@
+"""
+Broad collectors: pull every recent medical article from the approved source
+list (sources.py) without pre-filtering by topic. Topic assignment happens
+later in classify.py.
+
+Replaces the old one-narrow-query-per-tile scrapers, which could silently
+drop a relevant article just because it didn't match that tile's specific
+keyword query.
+"""
+
+import re
+import logging
+from bs4 import BeautifulSoup
+
+from base_scraper import BaseScraper
+import sources
+
+logger = logging.getLogger(__name__)
+
+
+def _clean_summary(description, raw_title):
+    clean_desc = BeautifulSoup(description, "html.parser").get_text()
+    if clean_desc.lower().startswith(raw_title.lower()):
+        clean_desc = clean_desc[len(raw_title):].strip()
+    sentences = re.split(r'(?<=[.!?])\s+', clean_desc)
+    summary = " ".join(sentences[:4])
+    if len(sentences) > 4:
+        summary += "..."
+    return summary
+
+
+def _parse_google_news_rss(html, helper, default_source):
+    """Parses a Google News RSS feed, pulling the real outlet name from the
+    <source> tag (Google News always includes it) instead of a generic label,
+    so source-prestige based ranking actually works."""
+    soup = BeautifulSoup(html, 'lxml-xml')
+    items = []
+    for article in soup.find_all('item'):
+        title_tag = article.find('title')
+        link_tag = article.find('link')
+        pub_date_tag = article.find('pubDate')
+        description_tag = article.find('description')
+        source_tag = article.find('source')
+
+        if not (title_tag and link_tag):
+            continue
+
+        raw_title = title_tag.get_text(strip=True)
+        link = link_tag.get_text(strip=True)
+        raw_date = pub_date_tag.get_text(strip=True) if pub_date_tag else "Recent"
+        description = description_tag.get_text(strip=True) if description_tag else ""
+        outlet = source_tag.get_text(strip=True) if source_tag else default_source
+
+        summary_raw = _clean_summary(description, raw_title)
+
+        items.append({
+            'title': helper.translate_text(raw_title),
+            'url': link,
+            'date': helper.format_date(raw_date),
+            'summary': helper.translate_text(summary_raw),
+            'source': outlet,
+        })
+    return items
+
+
+def fetch_pl():
+    helper = BaseScraper('PL-Collector', sources.PL_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Polska')
+
+
+def fetch_world():
+    helper = BaseScraper('World-Collector', sources.WORLD_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
+def fetch_pubmed():
+    helper = BaseScraper('PubMed-Collector', sources.PUBMED_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    soup = BeautifulSoup(html, 'lxml-xml')
+    items = []
+    for article in soup.find_all('item'):
+        title_tag = article.find('title')
+        link_tag = article.find('link')
+        pub_date_tag = article.find('pubDate')
+        description_tag = article.find('description')
+        if not (title_tag and link_tag):
+            continue
+        raw_title = title_tag.get_text(strip=True)
+        link = link_tag.get_text(strip=True)
+        raw_date = pub_date_tag.get_text(strip=True) if pub_date_tag else "Recent"
+        description = description_tag.get_text(strip=True) if description_tag else ""
+        summary_raw = _clean_summary(description, raw_title)
+        items.append({
+            'title': helper.translate_text(raw_title),
+            'url': link,
+            'date': helper.format_date(raw_date),
+            'summary': helper.translate_text(summary_raw),
+            'source': 'PubMed',
+        })
+    return items
+
+
+def fetch_gis_warnings():
+    """
+    GIS (Główny Inspektorat Sanitarny) has no RSS feed; warnings are listed at
+    gov.pl/web/gis/ostrzezenia (previously this pointed at the now-defunct
+    /komunikaty path). Each entry shows a title, link and a "DD.MM.YYYY" date.
+    """
+    helper = BaseScraper('GIS-Collector', sources.GIS_WARNINGS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    soup = BeautifulSoup(html, 'lxml')
+    items = []
+    for link_tag in soup.select('a[href*="/gis/"]'):
+        title = link_tag.get_text(strip=True)
+        href = link_tag.get('href', '')
+        if not title or len(title) < 10 or not href:
+            continue
+        if not href.startswith('http'):
+            href = f"https://www.gov.pl{href}"
+
+        date_str = "Recent"
+        container = link_tag.find_parent(['article', 'li', 'div'])
+        if container:
+            date_match = re.search(r'\b\d{2}\.\d{2}\.\d{4}\b', container.get_text(' ', strip=True))
+            if date_match:
+                date_str = date_match.group(0)
+
+        items.append({
+            'title': title,
+            'url': href,
+            'date': helper.format_date(date_str),
+            'summary': '',
+            'source': 'GIS',
+        })
+    return items
+
+
+def fetch_all():
+    """Returns a list of (item, origin) tuples ready for classify.classify_and_save."""
+    collected = []
+    for item in fetch_pl():
+        collected.append((item, 'pl'))
+    for item in fetch_world():
+        collected.append((item, 'world'))
+    for item in fetch_pubmed():
+        collected.append((item, 'pubmed'))
+    for item in fetch_gis_warnings():
+        collected.append((item, 'pl'))
+    return collected
