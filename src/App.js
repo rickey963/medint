@@ -273,16 +273,16 @@ const ArticleOfDay = ({ data }) => {
     '☆'.repeat(5 - Math.max(1, Math.min(5, prestige)));
 
   return (
-    <div className="bg-gradient-to-br from-blue-950 via-slate-900 to-slate-950 text-white p-3 rounded-xl shadow-2xl shadow-black/40 ring-1 ring-blue-500/20 h-full flex flex-col">
-      <div className="flex items-center justify-between mb-1.5 flex-wrap gap-1.5">
-        <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-blue-400">
+    <div className="bg-gradient-to-br from-blue-950 via-slate-900 to-slate-950 text-white p-4 rounded-xl shadow-2xl shadow-black/40 ring-1 ring-blue-500/20 h-[450px] flex flex-col lg:col-span-1">
+      <div className="flex items-center justify-between mb-3 flex-wrap gap-1.5 shrink-0">
+        <h2 className="text-xs font-black uppercase tracking-[0.2em] text-blue-400">
           📰 Artykuł Dnia
         </h2>
         <div className="flex items-center gap-2">
-          <span className="text-[9px] font-bold uppercase text-blue-400/80">
+          <span className="text-[10px] font-bold uppercase text-blue-400/80">
             {data.source || 'MEDINT'}
           </span>
-          <span className="text-[9px] font-bold uppercase text-blue-400/80">
+          <span className="text-[10px] font-bold uppercase text-blue-400/80">
             {dateLabel}
           </span>
         </div>
@@ -291,19 +291,19 @@ const ArticleOfDay = ({ data }) => {
         href={data.url || '#'}
         target="_blank"
         rel="noopener noreferrer"
-        className="block hover:opacity-90 transition-opacity"
+        className="block hover:opacity-90 transition-opacity flex-1 overflow-y-auto custom-scrollbar"
       >
-        <h3 className="text-sm font-bold mb-1.5 leading-tight text-slate-50">{data.title}</h3>
-        <p className="text-xs text-blue-200/90 leading-snug italic mb-1.5 line-clamp-3">
+        <h3 className="text-lg font-bold mb-3 leading-tight text-slate-50">{data.title}</h3>
+        <p className="text-sm text-blue-200/90 leading-relaxed italic mb-3">
           {data.summary ||
             data.conclusion ||
             'Najnowsze doniesienie medyczne wybrane na podstawie prestiżu źródła i daty publikacji.'}
         </p>
-        <div className="border-t border-blue-900/60 pt-1.5 flex items-center justify-between">
-          <span className="text-[9px] font-bold uppercase text-blue-400/80">
+        <div className="border-t border-blue-900/60 pt-3 flex items-center justify-between">
+          <span className="text-[10px] font-bold uppercase text-blue-400/80">
             Prestiż źródła: {star}
           </span>
-          <span className="text-[9px] font-bold uppercase text-blue-400">
+          <span className="text-[10px] font-bold uppercase text-blue-400">
             Przeczytaj pełny artykuł →
           </span>
         </div>
@@ -479,7 +479,7 @@ function App() {
           <div className="shrink-0">
             <AlertsTicker data={alerts} />
             <div className="max-w-7xl mx-auto px-4 py-4">
-              <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-stretch">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <ClinicalIntelligenceFeed data={getDataFor('clinical_intelligence')} />
                 {articleOfDay && <ArticleOfDay data={articleOfDay} />}
               </div>

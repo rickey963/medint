@@ -321,6 +321,12 @@ SOURCE_FALLBACK_HINTS = [
     ('eur-lex', 'guidelines.json'),
     ('nil', 'guidelines.json'),
     ('isap', 'guidelines.json'),
+    ('european society of cardiology', 'guidelines.json'),
+    ('escardio', 'guidelines.json'),
+    ('infectious diseases society', 'guidelines.json'),
+    ('idsa', 'guidelines.json'),
+    ('agencja oceny technologii medycznych', 'guidelines.json'),
+    ('aotmit', 'guidelines.json'),
     # AI w Medycynie
     ('medscape', 'ai_medicine.json'),
     ('nejm ai', 'ai_medicine.json'),
@@ -330,11 +336,18 @@ SOURCE_FALLBACK_HINTS = [
     ('ecdc', 'epidemiology.json'),
     ('promed', 'epidemiology.json'),
     ('healthmap', 'epidemiology.json'),
+    ('eurosurveillance', 'epidemiology.json'),
+    ('outbreak news today', 'epidemiology.json'),
     # Rynek Farmaceutyczny i Biotech
     ('stat news', 'pharma_market.json'),
     ('stat | aaas', 'pharma_market.json'),
     ('endpoints news', 'pharma_market.json'),
     ('pink sheet', 'pharma_market.json'),
+    ('fiercepharma', 'pharma_market.json'),
+    ('fierce pharma', 'pharma_market.json'),
+    ('biopharma dive', 'pharma_market.json'),
+    ('biospace', 'pharma_market.json'),
+    ('rynek aptek', 'pharma_market.json'),
 ]
 
 

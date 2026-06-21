@@ -100,6 +100,35 @@ def fetch_world():
     return _parse_google_news_rss(html, helper, default_source='Świat')
 
 
+def fetch_world_regulators():
+    """Separate query for high-volume government regulators (WHO/CDC/FDA/EMA/ECDC) -
+    see sources.py for why this can't just be folded into fetch_world()."""
+    helper = BaseScraper('World-Regulators-Collector', sources.WORLD_REGULATORS_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
+def fetch_world_guidelines_research():
+    """Separate query for smaller guideline bodies/research repositories - would
+    otherwise get crowded out by WHO/CDC/FDA's publication volume. See sources.py."""
+    helper = BaseScraper('World-Guidelines-Research-Collector', sources.WORLD_GUIDELINES_RESEARCH_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
+def fetch_world_market():
+    """Separate query for pharma/biotech market trade press - see sources.py."""
+    helper = BaseScraper('World-Market-Collector', sources.WORLD_MARKET_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
 def fetch_pubmed():
     helper = BaseScraper('PubMed-Collector', sources.PUBMED_RSS_URL, '', lang='pl')
     html = helper.fetch_html()
@@ -172,6 +201,12 @@ def fetch_all():
     for item in fetch_pl():
         collected.append((item, 'pl'))
     for item in fetch_world():
+        collected.append((item, 'world'))
+    for item in fetch_world_regulators():
+        collected.append((item, 'world'))
+    for item in fetch_world_guidelines_research():
+        collected.append((item, 'world'))
+    for item in fetch_world_market():
         collected.append((item, 'world'))
     for item in fetch_pubmed():
         collected.append((item, 'pubmed'))
