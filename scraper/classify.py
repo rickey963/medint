@@ -204,7 +204,9 @@ def classify_guidelines(text):
 
 def classify_legal(text):
     legal_kw = ['prawo medyczne', 'ustawa', 'rozporządzenie', 'dziennik ustaw',
-                'isap.gov.pl', 'eur-lex', 'nil.org.pl', 'dziennikustaw.gov.pl']
+                'isap.gov.pl', 'eur-lex', 'nil.org.pl', 'dziennikustaw.gov.pl',
+                'sejm', 'senat', 'głosowanie', 'nowelizacja', 'projekt ustawy',
+                'nowe przepisy', 'zmiana przepisów', 'obowiązek ujawniania', 'pesel']
     return any(kw in text for kw in legal_kw)
 
 
@@ -348,6 +350,54 @@ SOURCE_FALLBACK_HINTS = [
     ('biopharma dive', 'pharma_market.json'),
     ('biospace', 'pharma_market.json'),
     ('rynek aptek', 'pharma_market.json'),
+    # --- User-provided source list additions below ---
+    # Regulatory & Drug Safety
+    ('yellow card', 'regulatory_safety.json'),
+    ('mhra', 'regulatory_safety.json'),
+    ('drugbank', 'regulatory_safety.json'),
+    ('centers for medicare', 'regulatory_safety.json'),
+    ('cms.gov', 'regulatory_safety.json'),
+    # Wytyczne i Rekomendacje
+    ('british national formulary', 'guidelines.json'),
+    ('trip database', 'guidelines.json'),
+    ('bmj best practice', 'guidelines.json'),
+    ('uptodate', 'guidelines.json'),
+    ('agencja badań medycznych', 'guidelines.json'),
+    ('centrum medyczne kształcenia podyplomowego', 'guidelines.json'),
+    ('rzecznik praw pacjenta', 'guidelines.json'),
+    ('european commission', 'guidelines.json'),
+    ('health.ec.europa.eu', 'guidelines.json'),
+    # Epidemiologia i Zdrowie Publiczne
+    ('european food safety authority', 'epidemiology.json'),
+    ('efsa', 'epidemiology.json'),
+    ('pan american health organization', 'epidemiology.json'),
+    ('paho', 'epidemiology.json'),
+    ('unicef', 'epidemiology.json'),
+    ('unaids', 'epidemiology.json'),
+    ('iarc', 'epidemiology.json'),
+    ('our world in data', 'epidemiology.json'),
+    ('narodowy instytut zdrowia publicznego', 'epidemiology.json'),
+    ('pzh', 'epidemiology.json'),
+    ('główny inspektorat sanitarny', 'epidemiology.json'),
+    # Badania Kliniczne (US research bodies + academic publishers)
+    ('national institutes of health', 'clinical_research.json'),
+    ('national library of medicine', 'clinical_research.json'),
+    ('medlineplus', 'clinical_research.json'),
+    ('national cancer institute', 'clinical_research.json'),
+    ('niaid', 'clinical_research.json'),
+    ('nichd', 'clinical_research.json'),
+    ('agency for healthcare research and quality', 'clinical_research.json'),
+    ('ahrq', 'clinical_research.json'),
+    ('mdpi', 'clinical_research.json'),
+    ('frontiers in', 'clinical_research.json'),
+    ('sciencedirect', 'clinical_research.json'),
+    ('springer', 'clinical_research.json'),
+    ('wiley', 'clinical_research.json'),
+    ('oecd', 'clinical_research.json'),
+    ('world bank', 'clinical_research.json'),
+    # Polska (PL professional/government bodies without a more specific home)
+    ('centrum e-zdrowia', 'news_pl.json'),
+    ('naczelna izba pielęgniarek', 'news_pl.json'),
 ]
 
 
@@ -369,11 +419,16 @@ def _source_fallback_tile(source):
 # catches "Science | AAAS" too - but excludes anything with "Medicine" in the name
 # (Nature Medicine, Science Translational Medicine), since those self-declare a
 # medical-only focus and shouldn't be held to the broader relevance check.
+BROAD_SCIENCE_NAME_HINTS = (
+    'nature', 'science', 'mdpi', 'frontiers', 'sciencedirect', 'springer', 'wiley',
+)
+
+
 def _is_broad_science_source(source):
     s = (source or '').lower()
     if 'medicine' in s:
         return False
-    return 'nature' in s or 'science' in s
+    return any(h in s for h in BROAD_SCIENCE_NAME_HINTS)
 
 MEDICAL_RELEVANCE_KEYWORDS = [
     # Deliberately excludes generic 'health'/'zdrowi' - matches consumer lifestyle
@@ -410,6 +465,24 @@ CLICKBAIT_PATTERNS = [
 
 def _looks_like_clickbait(text):
     return any(p in text for p in CLICKBAIT_PATTERNS)
+
+
+# Some PL trade outlets (Termedia's "Przewodnik Lekarza" archive especially) get
+# re-indexed by Google News with a fresh crawl date even though the article itself
+# is years old ("Opieka długoterminowa w geriatrii ..., Przewodnik Lekarza 10/2006").
+# The RSS pubDate alone can't catch this - it reflects when Google (re-)discovered
+# the page, not when the underlying issue was published - so check the title itself
+# for an old journal-issue citation.
+_STALE_CITATION_RE = re.compile(r'/((?:19|20)\d{2})\b')
+STALE_CITATION_MAX_AGE_YEARS = 3
+
+
+def _has_stale_citation_year(title):
+    match = _STALE_CITATION_RE.search(title or '')
+    if not match:
+        return False
+    year = int(match.group(1))
+    return year <= datetime.now(timezone.utc).year - STALE_CITATION_MAX_AGE_YEARS
 
 
 # Keyword dictionary for the "Specjalizacja" mode (spec lists 19 fields). An item
@@ -465,6 +538,9 @@ def classify(item, origin):
     text = _text_of(item)
     source = item.get('source', '')
 
+    if _has_stale_citation_year(item.get('title', '')):
+        return None
+
     if _is_broad_science_source(source) and not _is_medically_relevant(text):
         return None
 
@@ -509,7 +585,13 @@ def classify(item, origin):
         return 'guidelines.json'
 
     if classify_legal(text):
-        return 'guidelines.json'
+        # Polish legal/parliamentary news about practice obligations (e.g. Sejm
+        # requiring doctors to disclose patients' PESEL numbers for billing) is
+        # exactly what a PL doctor expects to find in the Polska tile, not buried
+        # in Wytyczne i Rekomendacje (which is for clinical-practice guidelines,
+        # international ones especially). Non-PL legal sources (EUR-Lex...) still
+        # belong in Wytyczne.
+        return 'news_pl.json' if origin == 'pl' else 'guidelines.json'
 
     if classify_drugs(text):
         return 'regulatory_safety.json'
@@ -583,6 +665,8 @@ def _passes_quality_gate(item, is_catchall):
     earned that spot via a strong keyword signal and shouldn't be second-guessed."""
     text = _text_of(item)
     source = item.get('source', '')
+    if _has_stale_citation_year(item.get('title', '')):
+        return False
     if _is_broad_science_source(source) and not _is_medically_relevant(text):
         return False
     if is_catchall and any(s in source for s in CONSUMER_PRESS_SOURCES):

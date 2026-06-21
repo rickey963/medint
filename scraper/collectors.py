@@ -129,6 +129,37 @@ def fetch_world_market():
     return _parse_google_news_rss(html, helper, default_source='Świat')
 
 
+def fetch_world_intl_orgs():
+    """Separate query for EU/international health bodies (EFSA, PAHO, UNICEF,
+    OECD, World Bank, UNAIDS, IARC...) - see sources.py."""
+    helper = BaseScraper('World-Intl-Orgs-Collector', sources.WORLD_INTL_ORGS_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
+def fetch_world_us_gov():
+    """Separate query for US federal health agencies beyond CDC/FDA (NIH, NLM,
+    MedlinePlus, AHRQ, CMS, NCI, NIAID, NICHD) - see sources.py."""
+    helper = BaseScraper('World-US-Gov-Collector', sources.WORLD_US_GOV_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
+def fetch_world_academic_publishers():
+    """Separate query for large multi-disciplinary academic publishers (MDPI,
+    Frontiers, ScienceDirect, Springer, Wiley) - see sources.py for why these
+    need their own query (high volume) and the off-topic relevance gate."""
+    helper = BaseScraper('World-Academic-Publishers-Collector', sources.WORLD_ACADEMIC_PUBLISHERS_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
 def fetch_pubmed():
     helper = BaseScraper('PubMed-Collector', sources.PUBMED_RSS_URL, '', lang='pl')
     html = helper.fetch_html()
@@ -207,6 +238,12 @@ def fetch_all():
     for item in fetch_world_guidelines_research():
         collected.append((item, 'world'))
     for item in fetch_world_market():
+        collected.append((item, 'world'))
+    for item in fetch_world_intl_orgs():
+        collected.append((item, 'world'))
+    for item in fetch_world_us_gov():
+        collected.append((item, 'world'))
+    for item in fetch_world_academic_publishers():
         collected.append((item, 'world'))
     for item in fetch_pubmed():
         collected.append((item, 'pubmed'))

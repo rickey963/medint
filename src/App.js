@@ -142,12 +142,14 @@ const selectArticleOfDay = (allData) => {
 
 /**
  * Generates the list of medical alerts shown in the red ticker. This is meant
- * for *current, breaking* threats only - new outbreaks, viruses, infections,
- * drug recalls/black-box warnings - never loosely-worded historical or unrelated
- * coverage that happens to contain a word like "alert" or "zagrożenie".
- * Sources are restricted to the tiles whose entire purpose is safety/outbreak
- * signals (alerts.json, regulatory_safety, epidemiology), and items must be
- * genuinely recent (<=48h), not just within the dashboard's general 7-day window.
+ * for *current* threats - active outbreaks, viruses, infections, drug recalls/
+ * black-box warnings - never loosely-worded historical or unrelated coverage that
+ * happens to contain a word like "alert" or "zagrożenie". Sources are restricted
+ * to the tiles whose entire purpose is safety/outbreak signals (alerts.json,
+ * regulatory_safety, epidemiology). An ongoing outbreak (e.g. Ebola in DRC) stays
+ * "critical" for as long as it's in the news, not just its first 48h, so the
+ * window matches the dashboard's general 7-day freshness window rather than being
+ * tighter than it.
  */
 const ALERT_KEYWORDS = [
   'wycofanie z obrotu',
@@ -169,13 +171,18 @@ const ALERT_KEYWORDS = [
   'disease outbreak',
 ];
 
-const ALERT_MAX_AGE_HOURS = 48;
+const ALERT_MAX_AGE_HOURS = 7 * 24;
 
 const isAlertItem = (item) => {
   if (!item || !item.title) return false;
   if (item.type === 'ALERT') return true;
   const ageHours = ageInDays(item.date) * 24;
   if (ageHours < 0 || ageHours > ALERT_MAX_AGE_HOURS) return false;
+  // Trust the backend's own classification first (scraper/classify.py already
+  // decided this is an active outbreak or a recall/black-box item) rather than
+  // re-deriving it from English/Polish keyword phrasing alone, which misses
+  // named-disease coverage that doesn't literally say "outbreak"/"epidemia".
+  if (item.category === 'Epidemiologia') return true;
   const safety = String(item.safety_level || '').toLowerCase();
   if (safety.includes('wycofanie') || safety.includes('black box')) {
     return true;
@@ -498,10 +505,12 @@ function App() {
           {/* High Priority Section: Alerts ticker + hero (Clinical Intelligence Feed left, Article of the day right) */}
           <div className="shrink-0">
             <AlertsTicker data={alerts} />
-            <div className="max-w-7xl mx-auto px-4 py-4">
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <ClinicalIntelligenceFeed data={getDataFor('clinical_intelligence')} />
-                {articleOfDay && <ArticleOfDay data={articleOfDay} />}
+            <div className="p-4 pb-0">
+              <div className="max-w-7xl mx-auto">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                  <ClinicalIntelligenceFeed data={getDataFor('clinical_intelligence')} />
+                  {articleOfDay && <ArticleOfDay data={articleOfDay} />}
+                </div>
               </div>
             </div>
           </div>

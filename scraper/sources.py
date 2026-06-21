@@ -28,6 +28,21 @@ SOURCES_PL = [
     # bodies, not random blogs - HTA/guidelines authority and pharma trade press.
     "aotm.gov.pl",
     "rynekaptek.pl",
+    # Added so Polish health-law votes/changes (e.g. Sejm requiring doctors to
+    # disclose patients' PESEL numbers for billing) actually get collected -
+    # Sejm itself, plus the two main PL legal/health-policy trade outlets.
+    "sejm.gov.pl",
+    "prawo.pl",
+    "politykazdrowotna.com",
+    # User-provided list of additional PL government/professional health bodies.
+    "cez.gov.pl",            # Centrum e-Zdrowia
+    "pzh.gov.pl",            # Narodowy Instytut Zdrowia Publicznego PZH
+    "gov.pl/web/gis",        # Główny Inspektorat Sanitarny (already scraped separately for warnings; now also in the general feed)
+    "gov.pl/web/rpp",        # Rzecznik Praw Pacjenta
+    "cmkp.edu.pl",           # Centrum Medyczne Kształcenia Podyplomowego
+    "gov.pl/web/abm",        # Agencja Badań Medycznych
+    "nipip.pl",              # Naczelna Izba Pielęgniarek i Położnych
+    "gov.pl/web/konsultanci-krajowi",
 ]
 
 # Google News RSS caps results at ~100 items per query and ranks by its own
@@ -67,6 +82,7 @@ SOURCES_WORLD_GUIDELINES_RESEARCH = [
     "healthmap.org",
     "clinicaltrials.gov",
     "clinicaltrialsregister.eu",
+    "euclinicaltrials.eu",
     "drugs.com",
     "eur-lex.europa.eu",
     "arxiv.org",
@@ -80,6 +96,14 @@ SOURCES_WORLD_GUIDELINES_RESEARCH = [
     "idsociety.org",         # Infectious Diseases Society of America guidelines -> Wytyczne
     "eurosurveillance.org",  # ECDC's own peer-reviewed epidemiology journal -> Epidemiologia
     "outbreaknewstoday.com",  # dedicated outbreak-tracking trade press -> Epidemiologia
+    # User-provided drug/EBM reference sites - low Google News volume, safe to
+    # fold into this group rather than giving each its own query.
+    "yellowcard.mhra.gov.uk",  # UK pharmacovigilance reporting -> Regulatory & Drug Safety
+    "go.drugbank.com",         # DrugBank -> Regulatory & Drug Safety
+    "bnf.nice.org.uk",         # British National Formulary -> Wytyczne
+    "tripdatabase.com",        # EBM search engine -> Wytyczne
+    "bestpractice.bmj.com",    # BMJ Best Practice -> Wytyczne
+    "uptodate.com",            # UpToDate -> Wytyczne
 ]
 
 SOURCES_WORLD_MARKET = [
@@ -91,8 +115,49 @@ SOURCES_WORLD_MARKET = [
     "biospace.com",         # pharma/biotech trade press -> Rynek
 ]
 
+# International/EU health bodies beyond EMA/ECDC (already in REGULATORS) - lower
+# Google News volume than WHO/CDC/FDA, so they get their own group rather than
+# being swallowed by those.
+SOURCES_WORLD_INTL_ORGS = [
+    "health.ec.europa.eu",
+    "efsa.europa.eu",
+    "paho.org",
+    "unicef.org",
+    "oecd.org",
+    "worldbank.org",
+    "unaids.org",
+    "iarc.who.int",
+    "data.europa.eu",
+    "ourworldindata.org",
+]
+
+# US federal health agencies beyond CDC/FDA (already in REGULATORS).
+SOURCES_US_GOV = [
+    "nih.gov",
+    "nlm.nih.gov",
+    "medlineplus.gov",
+    "ahrq.gov",
+    "cms.gov",
+    "cancer.gov",
+    "niaid.nih.gov",
+    "nichd.nih.gov",
+]
+
+# Large multi-disciplinary academic publishers (MDPI, Frontiers, ScienceDirect,
+# Springer, Wiley) - like Nature/Science, these publish across every scientific
+# field, not just medicine, and are prolific enough to need their own query plus
+# the same off-topic relevance gate (see _is_broad_science_source in classify.py).
+SOURCES_ACADEMIC_PUBLISHERS = [
+    "mdpi.com",
+    "frontiersin.org",
+    "sciencedirect.com",
+    "link.springer.com",
+    "onlinelibrary.wiley.com",
+]
+
 SOURCES_WORLD = (
-    SOURCES_WORLD_MAJOR + SOURCES_WORLD_REGULATORS + SOURCES_WORLD_GUIDELINES_RESEARCH + SOURCES_WORLD_MARKET
+    SOURCES_WORLD_MAJOR + SOURCES_WORLD_REGULATORS + SOURCES_WORLD_GUIDELINES_RESEARCH
+    + SOURCES_WORLD_MARKET + SOURCES_WORLD_INTL_ORGS + SOURCES_US_GOV + SOURCES_ACADEMIC_PUBLISHERS
 )
 
 
@@ -110,12 +175,18 @@ WORLD_QUERY = build_site_query(SOURCES_WORLD_MAJOR)
 WORLD_QUERY_REGULATORS = build_site_query(SOURCES_WORLD_REGULATORS)
 WORLD_QUERY_GUIDELINES_RESEARCH = build_site_query(SOURCES_WORLD_GUIDELINES_RESEARCH)
 WORLD_QUERY_MARKET = build_site_query(SOURCES_WORLD_MARKET)
+WORLD_QUERY_INTL_ORGS = build_site_query(SOURCES_WORLD_INTL_ORGS)
+WORLD_QUERY_US_GOV = build_site_query(SOURCES_US_GOV)
+WORLD_QUERY_ACADEMIC_PUBLISHERS = build_site_query(SOURCES_ACADEMIC_PUBLISHERS)
 
 PL_RSS_URL = f"https://news.google.com/rss/search?q={PL_QUERY}&hl=pl&gl=PL&ceid=PL:pl"
 WORLD_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY}&hl=en-US&gl=US&ceid=US:en"
 WORLD_REGULATORS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_REGULATORS}&hl=en-US&gl=US&ceid=US:en"
 WORLD_GUIDELINES_RESEARCH_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_GUIDELINES_RESEARCH}&hl=en-US&gl=US&ceid=US:en"
 WORLD_MARKET_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_MARKET}&hl=en-US&gl=US&ceid=US:en"
+WORLD_INTL_ORGS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_INTL_ORGS}&hl=en-US&gl=US&ceid=US:en"
+WORLD_US_GOV_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_US_GOV}&hl=en-US&gl=US&ceid=US:en"
+WORLD_ACADEMIC_PUBLISHERS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_ACADEMIC_PUBLISHERS}&hl=en-US&gl=US&ceid=US:en"
 
 PUBMED_RSS_URL = "https://pubmed.ncbi.nlm.nih.gov/rss/search?term=medicine"
 
