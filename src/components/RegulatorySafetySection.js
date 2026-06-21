@@ -1,6 +1,7 @@
 import React from 'react';
 import { formatToPolishFormat } from '../utils/dateUtils';
 import { cleanSummary } from '../utils/textUtils';
+import ImportanceBadge from './ImportanceBadge';
 
 const RegulatorySafetySection = ({ title, data }) => {
   return (
@@ -12,13 +13,16 @@ const RegulatorySafetySection = ({ title, data }) => {
             data.map((item, index) => (
               <div key={index} className="p-3 rounded-lg transition-all duration-300 border border-slate-800 hover:border-blue-700/50 hover:bg-slate-800/60 bg-slate-800/30 group">
                 <a href={item.url} target="_blank" rel="noopener noreferrer" className="block">
-                  <div className="flex justify-between items-start mb-2">
-                    <span className={`text-[9px] font-bold uppercase px-1.5 py-0.5 rounded border ${
-                      item.safety_level ? 'bg-blue-500/10 text-blue-300 border-blue-500/20' : 'bg-slate-800 text-slate-400 border-slate-700'
-                    }`}>
-                      {item.safety_level || 'INFO'}
-                    </span>
-                    <span className="text-[10px] text-slate-500">{formatToPolishFormat(item.date)}</span>
+                  <div className="flex justify-between items-start mb-2 gap-2">
+                    <div className="flex gap-2 flex-wrap">
+                      <span className={`text-[9px] font-bold uppercase px-1.5 py-0.5 rounded border ${
+                        item.safety_level ? 'bg-blue-500/10 text-blue-300 border-blue-500/20' : 'bg-slate-800 text-slate-400 border-slate-700'
+                      }`}>
+                        {item.safety_level || 'INFO'}
+                      </span>
+                      <ImportanceBadge item={item} />
+                    </div>
+                    <span className="text-[10px] text-slate-500 shrink-0">{formatToPolishFormat(item.date)}</span>
                   </div>
                   <h3 className="text-sm font-semibold text-blue-100 leading-tight mb-2 group-hover:text-blue-400 transition-colors">
                     {item.title}

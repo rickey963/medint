@@ -208,6 +208,26 @@ def classify_drugs(text):
     return any(kw in text for kw in drug_kw)
 
 
+def classify_epidemiology(text):
+    epi_kw = ['outbreak', 'ognisko choroby', 'ognisko zakażeń', 'epidemi', 'pandemi',
+              'zachorowania', 'choroby zakaźne', 'zoonoza', 'zoonotic', 'antybiotykoopornoś',
+              'antibiotic resistance', 'antimicrobial resistance', 'szczepion', 'vaccination',
+              'vaccine', 'travel alert', 'alert podróżny', 'disease outbreak']
+    if not any(kw in text for kw in epi_kw):
+        return None
+    return {'category': 'Epidemiologia'}
+
+
+def classify_pharma_market(text):
+    market_kw = ['merger', 'acquisition', 'fuzj', 'przejęci', 'ipo', 'strategic partnership',
+                 'partnerstwo strategiczne', 'funding round', 'finansowanie startup', 'venture capital',
+                 'wyniki finansowe', 'earnings', 'drug pipeline', 'pipeline leków', 'inwestycj',
+                 'biotech', 'spółk']
+    if not any(kw in text for kw in market_kw):
+        return None
+    return {'category': 'Rynek'}
+
+
 def classify_research(text):
     research_kw = ['meta-analysis', 'metaanaliza', 'randomized controlled trial',
                     'badanie z randomizacją', 'rct', 'cohort', 'badanie kohortowe',
@@ -233,6 +253,26 @@ def classify_research(text):
 HIGH_IMPACT_SOURCES = {'NEJM', 'The Lancet', 'JAMA', 'Nature Medicine', 'BMJ',
                        'Science Translational Medicine', 'Nature', 'Science'}
 
+# Nature and Science cover all of science, not just medicine (astronomy, materials,
+# pure biology...). They're on the approved domain list (sources.py), so Google
+# News legitimately returns them - but an article about asteroid chemistry doesn't
+# belong in a medical tile just because it ran on nature.com. Anything from these
+# multi-disciplinary publishers needs an extra medical-relevance check; single-purpose
+# medical outlets (NEJM, Lancet, Medonet, Termedia...) don't.
+BROAD_SCIENCE_SOURCES = {'Nature', 'Science'}
+
+MEDICAL_RELEVANCE_KEYWORDS = [
+    'patient', 'pacjent', 'clinical', 'klinicz', 'disease', 'chorob', 'treatment', 'leczeni',
+    'therapy', 'terapi', 'drug', 'lek', 'cancer', 'nowotwor', 'rak ', 'vaccine', 'szczepion',
+    'diagnos', 'health', 'zdrowi', 'medicine', 'medycyn', 'surgery', 'chirurgi', 'hospital',
+    'szpital', 'doctor', 'lekarz', 'trial', 'badanie klinicz', 'syndrome', 'zespół', 'infection',
+    'infekcj', 'virus', 'wirus', 'mutation', 'mutacj', 'genom', 'biomarker',
+]
+
+
+def _is_medically_relevant(text):
+    return any(kw in text for kw in MEDICAL_RELEVANCE_KEYWORDS)
+
 
 def is_alert(item, text):
     return any(kw in text for kw in ALERT_KEYWORDS)
@@ -241,10 +281,23 @@ def is_alert(item, text):
 def classify(item, origin):
     """
     Mutates `item` with tile-specific fields and returns the target filename
-    (without directory) it should be saved to. `origin` is 'pl', 'world' or
-    'pubmed' and decides the fallback news bucket / language.
+    (without directory) it should be saved to, or None if the item should be
+    dropped entirely (off-topic content from a multi-disciplinary publisher).
+    `origin` is 'pl', 'world' or 'pubmed' and decides the fallback news bucket.
+
+    Tiles follow the 7-tile spec: Polska (news_pl), Badania Kliniczne
+    (clinical_research.json - trial registrations + RCT/meta-analysis/cohort/case
+    report results, merged into one bucket so neither half sits empty), Regulatory
+    & Drug Safety (regulatory_safety.json, now also covers drug news), Wytyczne i
+    Rekomendacje (guidelines.json, now also covers legal/regulatory-text changes),
+    AI w Medycynie (ai_medicine.json), Epidemiologia i Zdrowie Publiczne
+    (epidemiology.json), Rynek Farmaceutyczny i Biotech (pharma_market.json).
     """
     text = _text_of(item)
+    source = item.get('source', '')
+
+    if source in BROAD_SCIENCE_SOURCES and not _is_medically_relevant(text):
+        return None
 
     safety_level = classify_regulatory_safety(text)
     if safety_level:
@@ -252,14 +305,30 @@ def classify(item, origin):
         return 'regulatory_safety.json'
 
     trial_info = classify_clinical_trial(text)
-    if trial_info:
-        item.update(trial_info)
-        return 'clinical_trials.json'
+    research_info = classify_research(text)
+    if trial_info or research_info:
+        if research_info:
+            item.update(research_info)
+        if trial_info:
+            item.update(trial_info)
+        if source in HIGH_IMPACT_SOURCES:
+            return 'clinical_intelligence.json'
+        return 'clinical_research.json'
 
     ai_info = classify_ai_medicine(text)
     if ai_info:
         item.update(ai_info)
         return 'ai_medicine.json'
+
+    epi_info = classify_epidemiology(text)
+    if epi_info:
+        item.update(epi_info)
+        return 'epidemiology.json'
+
+    pharma_info = classify_pharma_market(text)
+    if pharma_info:
+        item.update(pharma_info)
+        return 'pharma_market.json'
 
     guideline_info = classify_guidelines(text)
     if guideline_info:
@@ -267,19 +336,12 @@ def classify(item, origin):
         return 'guidelines.json'
 
     if classify_legal(text):
-        return 'legal.json'
+        return 'guidelines.json'
 
     if classify_drugs(text):
-        return 'drugs.json'
+        return 'regulatory_safety.json'
 
-    research_info = classify_research(text)
-    if research_info:
-        item.update(research_info)
-        if item.get('source') in HIGH_IMPACT_SOURCES:
-            return 'clinical_intelligence.json'
-        return 'research.json'
-
-    if item.get('source') in HIGH_IMPACT_SOURCES:
+    if source in HIGH_IMPACT_SOURCES:
         return 'clinical_intelligence.json'
 
     return 'news_pl.json' if origin == 'pl' else 'news_world.json'
@@ -322,7 +384,7 @@ def _save(path, items):
         json.dump(items, f, ensure_ascii=False, indent=2)
 
 
-def _merge_and_save(path, new_items, enrich_budget=None):
+def _merge_and_save(path, new_items, enrich_budget=None, window_days=MAX_AGE_DAYS):
     existing = _load(path)
     combined = new_items + existing
     seen = set()
@@ -335,7 +397,7 @@ def _merge_and_save(path, new_items, enrich_budget=None):
         key = (it.get('title') or it.get('url') or '').strip().lower()
         if not key or key in seen:
             continue
-        if not _is_recent(it.get('date')):
+        if not _is_recent(it.get('date'), window_days=window_days):
             continue
         seen.add(key)
         deduped.append(it)
@@ -378,16 +440,26 @@ def classify_and_save(items_with_origin):
     alert_items = []
 
     for item, origin in items_with_origin:
-        text = _text_of(item)
         target = classify(item, origin)
+        if target is None:
+            continue  # off-topic content from a multi-disciplinary publisher
         buckets.setdefault(target, []).append(item)
 
+        text = _text_of(item)
         if is_alert(item, text):
             alert_items.append({**item, 'type': 'ALERT'})
 
+    # Research/guideline/market news doesn't go stale as fast as breaking news -
+    # press coverage of a case report or a pipeline deal can land days or weeks
+    # after the underlying event, so a 7-day window starves those tiles for no
+    # good reason. Safety alerts and outbreak news stay tight (genuinely time-critical).
+    SLOW_MOVING_WINDOW_DAYS = 90
+    SLOW_MOVING_TILES = {'clinical_research.json', 'guidelines.json', 'ai_medicine.json', 'pharma_market.json'}
+
     enrich_budget = [ENRICH_BUDGET_PER_RUN]
     for target, bucket_items in buckets.items():
-        _merge_and_save(os.path.join(DATA_DIR, target), bucket_items, enrich_budget=enrich_budget)
+        window = SLOW_MOVING_WINDOW_DAYS if target in SLOW_MOVING_TILES else MAX_AGE_DAYS
+        _merge_and_save(os.path.join(DATA_DIR, target), bucket_items, enrich_budget=enrich_budget, window_days=window)
 
     if alert_items:
         _merge_and_save(os.path.join(DATA_DIR, 'alerts.json'), alert_items)

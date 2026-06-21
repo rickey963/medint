@@ -1,8 +1,7 @@
 import React, { useState, useEffect, useMemo, useRef } from 'react';
 import NewsSection from './components/NewsSection';
 import ClinicalIntelligenceFeed from './components/ClinicalIntelligenceFeed';
-import ResearchSectionV2 from './components/ResearchSectionV2';
-import ClinicalTrialsSection from './components/ClinicalTrialsSection';
+import ClinicalResearchSection from './components/ClinicalResearchSection';
 import RegulatorySafetySection from './components/RegulatorySafetySection';
 import AISection from './components/AISection';
 import GuidelinesSectionV2 from './components/GuidelinesSectionV2';
@@ -14,19 +13,32 @@ import {
   makeStableId,
 } from './utils/dateUtils';
 
+// 7 thematic tiles per spec, plus the supplementary Clinical Intelligence Feed
+// (hero) and "Świat" catch-all for approved-domain world news that doesn't fit
+// any of the 7 (kept rather than dropped - see plan).
 const DATA_FILES = [
   'news_pl.json',
   'news_world.json',
-  'research.json',
-  'clinical_trials.json',
+  'clinical_research.json',
   'regulatory_safety.json',
   'guidelines.json',
   'ai_medicine.json',
-  'legal.json',
-  'drugs.json',
+  'epidemiology.json',
+  'pharma_market.json',
   'clinical_intelligence.json',
   'alerts.json',
 ];
+
+// Mirrors scraper/classify.py's SLOW_MOVING_TILES: research/guideline/market press
+// coverage trails the underlying event by days or weeks, unlike breaking news, so
+// it shouldn't be held to the same 7-day window or the tile starves for no reason.
+const SLOW_MOVING_WINDOW_DAYS = 90;
+const SLOW_MOVING_FILES = new Set([
+  'clinical_research.json',
+  'guidelines.json',
+  'ai_medicine.json',
+  'pharma_market.json',
+]);
 
 // Source prestige weights used by the "Article of the day" ranker.
 const SOURCE_WEIGHTS = {
@@ -61,16 +73,15 @@ const getSourceWeight = (item) => {
  */
 const selectArticleOfDay = (allData) => {
   const pools = [
-    'research',
+    'clinical_research',
     'clinical_intelligence',
     'news_world',
     'news_pl',
-    'clinical_trials',
     'regulatory_safety',
     'ai_medicine',
     'guidelines',
-    'legal',
-    'drugs',
+    'epidemiology',
+    'pharma_market',
   ];
   let best = null;
   let bestScore = -Infinity;
@@ -156,10 +167,10 @@ const generateAlerts = (allData) => {
   [
     'alerts',
     'regulatory_safety',
-    'drugs',
+    'epidemiology',
     'news_pl',
     'news_world',
-    'legal',
+    'guidelines',
     'clinical_intelligence',
   ].forEach((k) => {
     const list = allData[k];
@@ -184,28 +195,40 @@ const AlertsTicker = ({ data }) => {
   const [duration, setDuration] = useState(60);
 
   const activeAlerts = (data || []).filter((a) => a.title);
-  const itemsText = activeAlerts
-    .map((item) => `🚨 ${item.title} — ${item.source || 'MEDINT'}`)
-    .join('   •   ');
+  const itemsKey = activeAlerts.map((a) => a.title).join('|');
 
   useEffect(() => {
     if (!trackRef.current) return;
     const width = trackRef.current.scrollWidth / 2;
     setDuration(Math.max(20, width / TICKER_SPEED_PX_PER_SEC));
-  }, [itemsText]);
+  }, [itemsKey]);
 
   if (activeAlerts.length === 0) return null;
+
+  const renderAlertRow = (keyPrefix) =>
+    activeAlerts.map((item, i) => (
+      <React.Fragment key={`${keyPrefix}-${i}`}>
+        <a
+          href={item.url || '#'}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center text-sm md:text-base font-bold uppercase tracking-wide leading-none hover:underline shrink-0"
+        >
+          🚨 {item.title} — {item.source || 'MEDINT'}
+        </a>
+        <span className="mx-4 opacity-50 shrink-0">•</span>
+      </React.Fragment>
+    ));
 
   return (
     <div className="bg-red-700 text-white h-10 md:h-11 overflow-hidden whitespace-nowrap relative shadow-lg shadow-red-950/40 z-50 flex items-center">
       <div
         ref={trackRef}
-        className="animate-marquee absolute top-1/2 -translate-y-1/2 whitespace-nowrap hover:pause"
+        className="animate-marquee flex items-center whitespace-nowrap hover:pause"
         style={{ animationDuration: `${duration}s` }}
       >
-        <span className="text-sm md:text-base font-bold uppercase tracking-wide leading-none">
-          {itemsText}    •    {itemsText}
-        </span>
+        {renderAlertRow('a')}
+        {renderAlertRow('b')}
       </div>
       <style dangerouslySetInnerHTML={{ __html: `
         @keyframes marquee {
@@ -216,7 +239,6 @@ const AlertsTicker = ({ data }) => {
           animation-name: marquee;
           animation-timing-function: linear;
           animation-iteration-count: infinite;
-          display: inline-block;
           padding-left: 100%;
         }
         .hover\\:pause:hover {
@@ -289,9 +311,10 @@ function App() {
             const json = await response.json();
             const key = file.replace('.json', '');
             if (Array.isArray(json)) {
-              // Centralised: filter to last 7 days + sort newest first + assign id.
+              // Centralised: filter to recency window + sort newest first + assign id.
+              const windowDays = SLOW_MOVING_FILES.has(file) ? SLOW_MOVING_WINDOW_DAYS : 7;
               const filtered = json
-                .filter((item) => isRecent(item.date))
+                .filter((item) => isRecent(item.date, new Date(), windowDays))
                 .map((item) => ({ ...item, id: makeStableId(item) }))
                 .sort((a, b) => {
                   const da = normalizeDateKey(a.date) || 0;
@@ -336,35 +359,31 @@ function App() {
         </p>
       </header>
 
-      {/* High Priority Section: Alerts ticker + Hero article of the day */}
+      {/* High Priority Section: Alerts ticker + hero (Clinical Intelligence Feed left, Article of the day right) */}
       <div className="shrink-0">
         <AlertsTicker data={alerts} />
         <div className="max-w-7xl mx-auto px-4 py-4">
-          {articleOfDay && <ArticleOfDay data={articleOfDay} />}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-stretch">
+            <ClinicalIntelligenceFeed data={getDataFor('clinical_intelligence')} />
+            {articleOfDay && <ArticleOfDay data={articleOfDay} />}
+          </div>
         </div>
       </div>
 
       <main className="flex-1 p-4 custom-scrollbar overflow-y-auto">
         <div className="max-w-7xl mx-auto space-y-6">
-          <ClinicalIntelligenceFeed data={getDataFor('clinical_intelligence')} />
-
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <NewsSection title="Polska" data={getDataFor('news_pl')} />
-            <NewsSection title="Świat" data={getDataFor('news_world')} />
-            <ResearchSectionV2
-              title="Badania"
-              data={getDataFor('research')}
-            />
-            <ClinicalTrialsSection
+            <ClinicalResearchSection
               title="Badania Kliniczne"
-              data={getDataFor('clinical_trials')}
+              data={getDataFor('clinical_research')}
             />
             <RegulatorySafetySection
-              title="Sygnały Bezpieczeństwa"
+              title="Regulatory & Drug Safety"
               data={getDataFor('regulatory_safety')}
             />
             <GuidelinesSectionV2
-              title="Wytyczne"
+              title="Wytyczne i Rekomendacje"
               data={getDataFor('guidelines')}
             />
             <AISection
@@ -372,10 +391,14 @@ function App() {
               data={getDataFor('ai_medicine')}
             />
             <NewsSection
-              title="Zmiany Prawne"
-              data={getDataFor('legal')}
+              title="Epidemiologia i Zdrowie Publiczne"
+              data={getDataFor('epidemiology')}
             />
-            <NewsSection title="Leki" data={getDataFor('drugs')} />
+            <NewsSection
+              title="Rynek Farmaceutyczny i Biotech"
+              data={getDataFor('pharma_market')}
+            />
+            <NewsSection title="Świat" data={getDataFor('news_world')} />
           </div>
         </div>
       </main>

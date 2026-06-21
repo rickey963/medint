@@ -1,6 +1,7 @@
 import React from 'react';
 import { formatToPolishFormat } from '../utils/dateUtils';
 import { cleanSummary } from '../utils/textUtils';
+import ImportanceBadge from './ImportanceBadge';
 
 const NewsSection = ({ title, data }) => {
   return (
@@ -20,6 +21,15 @@ const NewsSection = ({ title, data }) => {
                   rel="noopener noreferrer"
                   className="block"
                 >
+                  <div className="flex items-center justify-between mb-1.5 gap-2">
+                    {item.category && (
+                      <span className="text-[9px] font-bold uppercase px-1.5 py-0.5 rounded bg-blue-500/10 text-blue-300 border border-blue-500/20 shrink-0">
+                        {item.category}
+                      </span>
+                    )}
+                    <ImportanceBadge item={item} />
+                  </div>
+
                   <h3 className="text-md font-semibold text-blue-100 leading-tight mb-1 group-hover:text-blue-400 transition-colors">
                     {item.title}
                   </h3>
