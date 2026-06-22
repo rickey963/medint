@@ -9,15 +9,6 @@
     "specializations": []
   },
   {
-    "title": "SciENcv – NCBI – NIH",
-    "title_original": "SciENcv - NCBI - NIH",
-    "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
-    "date": "2026-06-22 21:25",
-    "summary": "",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
-  },
-  {
     "title": "1622964486 - Wynik nukleotydowy",
     "title_original": "1622964486 - Nucleotide Result",
     "url": "https://www.ncbi.nlm.nih.gov/nuccore/XM_015146631.2",
@@ -57,6 +48,15 @@
     "specializations": []
   },
   {
+    "title": "(2S,4R)-2-metylo-3,4-dihydro-2H-chromeno-4,5-diol | C10H12O3 | Numer identyfikacyjny 162974441",
+    "title_original": "(2S,4R)-2-methyl-3,4-dihydro-2H-chromene-4,5-diol | C10H12O3 | CID 162974441",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/2S_4R_-2-methyl-3_4-dihydro-2H-chromene-4_5-diol",
+    "date": "2026-06-22 18:50",
+    "summary": "(2S,4R)-2-metylo-3,4-dihydro-2H-chromeno-4,5-diol | C10H12O3 | CID 162974441 — struktura, nazwy chemiczne, właściwości fizyczne i chemiczne, klasyfikacja, patenty, literatura, aktywność biologiczna, informacje dotyczące bezpieczeństwa/zagrożeń/toksyczności, listy dostawców i inne.",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": []
+  },
+  {
     "title": "Wojskowa Akademia Medyczna od 1 lipca znowu w Łodzi. Kiedy rusza rekrutacja?",
     "title_original": "Wojskowa Akademia Medyczna od 1 lipca znowu w Łodzi. Kiedy rusza rekrutacja?",
     "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/ksztalcenie/wojskowa-akademia-medyczna-od-1-lipca-znowu-w-lodzi-kiedy-rusza-rekrutacja/",
@@ -81,7 +81,7 @@
     "title_original": "Why a deviation investigation still takes two weeks in the age of AI",
     "url": "https://www.fiercepharma.com/sponsored/why-deviation-investigation-still-takes-two-weeks-age-ai",
     "date": "2026-06-22 17:19",
-    "summary": "Odchylenie jest oznaczane w przypadku partii o pojemności 2000 litrów. Produkt jest wstrzymany do czasu, aż ktoś wyjaśni, co się stało i czy nadal jest sprawny, a partia jest warta kilka milionów dolarów. | Większość z tych dwóch tygodni to nie nauka. Polega na wyszukiwaniu i gromadzeniu danych, na którym również po cichu zatrzymuje się większość sztucznej inteligencji sprzedawanej farmaceutom.",
+    "summary": "Odchylenie jest oznaczane w przypadku partii o pojemności 2000 litrów. Produkt jest wstrzymany do czasu, aż ktoś wyjaśni, co się stało i czy nadal jest sprawny, a partia jest warta kilka milionów dolarów. | Większość z tych dwóch tygodni to nie nauka. Polega na wyszukiwaniu i gromadzeniu danych, na którym również większość sztucznej inteligencji sprzedawanej farmaceutom po cichu zatrzymuje się.",
     "source": "Fierce Pharma",
     "specializations": [],
     "study_type": "Inne"
@@ -200,8 +200,8 @@
     "study_type": "Inne"
   },
   {
-    "title": "Samotność, niezdrowy tryb życia i incydentalne choroby kardiometaboliczne wśród osób dorosłych w średnim i starszym wieku w 33 krajach: badanie wielokohortowe.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42329687/",
+    "title": "Postrzeganie, zachowania i bariery wśród nastolatków cierpiących na otyłość, opiekunów i pracowników służby zdrowia w Meksyku: badanie ACTION Teens Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42330589/",
     "date": "2026-06-22 02:00",
     "summary": "",
     "source": "PubMed",
@@ -209,38 +209,44 @@
     "study_type": "Inne"
   },
   {
-    "title": "Testowanie internetowej interwencji w zakresie zapobiegania HIV, skoncentrowanej na rodzicach, wśród nastolatków homoseksualnych i biseksualnych: protokół randomizowanego, kontrolowanego badania.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42329680/",
+    "title": "Rola terapii mezenchymalnymi komórkami macierzystymi w regeneracji kości w osteoporozie: tłumaczenie kliniczne i ograniczenia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42330581/",
     "date": "2026-06-22 02:00",
     "summary": "",
     "source": "PubMed",
     "specializations": []
   },
   {
-    "title": "Nowe podejście do przerostu kory mózgowej w padaczce płata skroniowego.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42329679/",
+    "title": "Wstępne negatywne obrazowanie w padaczce genetycznej związanej z GATOR1 nie wyklucza istnienia ogniskowej, resekcyjnej strefy epileptogennej: przypadki ilustracyjne.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42330554/",
     "date": "2026-06-22 02:00",
     "summary": "",
     "source": "PubMed",
     "specializations": [
-      "Neurologia"
+      "Neurologia",
+      "Radiologia i diagnostyka obrazowa"
     ]
   },
   {
-    "title": "Enancjoselektywna synteza (8S,9S,16S)-Beraprostu w procesie diastereoselektywnej aromatyzacji Diels-olcha/Retro-Diels-olcha i Pd(TFA)(2) katalizowanym Yb(OTf)(3).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42329666/",
+    "title": "Odkrywanie dylematów etycznych w pielęgniarstwie onkologicznym dziecięcym: podejście jakościowe.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42330553/",
     "date": "2026-06-22 02:00",
     "summary": "",
     "source": "PubMed",
-    "specializations": []
+    "specializations": [
+      "Onkologia",
+      "Pediatria"
+    ]
   },
   {
-    "title": "Karboranylacja nukleotydów na późnym etapie możliwa dzięki reakcjom sprzęgania krzyżowego BN katalizowanymi przez Minisci i Pd: w kierunku syntezy oligonukleotydów modyfikowanych karboranylem.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42329658/",
+    "title": "Zastosowanie retraktora endoskopowego w leczeniu zrostów w jednostronnej, dwuwrotnej endoskopowej chirurgii lędźwiowej: przykłady ilustrujące.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42330552/",
     "date": "2026-06-22 02:00",
     "summary": "",
     "source": "PubMed",
-    "specializations": []
+    "specializations": [
+      "Chirurgia"
+    ]
   },
   {
     "title": "Badanie przezodbytnicze i ostre zapalenie wyrostka robaczkowego",
