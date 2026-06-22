@@ -19,7 +19,8 @@
     "specializations": []
   },
   {
-    "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na człowieku (FIH)",
+    "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na ludziach (FIH)",
+    "title_original": "Quantitative Systems Pharmacology (QSP)-Based Dose Selection for Minimum Anticipated Biological Effect Level (MABEL) in First-in- Human (FIH) Trials",
     "url": "https://www.fda.gov/media/193230/download",
     "date": "2026-06-22 17:55",
     "summary": "",
@@ -27,7 +28,7 @@
     "specializations": []
   },
   {
-    "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na ludziach (FIH)",
+    "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na człowieku (FIH)",
     "url": "https://www.fda.gov/media/193230/download",
     "date": "2026-06-22 17:55",
     "summary": "",
@@ -65,12 +66,13 @@
     "title_original": "Regenxbio to resubmit gene therapy as FDA backtracks on another drug rejection",
     "url": "https://www.biopharmadive.com/news/regenxbio-fda-resubmit-hunter-syndrome-gene-therapy/823381/",
     "date": "2026-06-22 17:43",
-    "summary": "Agencja podjęła kolejny krok w kierunku nadrobienia zaległości związanych z odrzuceniami z czasów Makarego, które wydawały się sprzeczne z wcześniejszymi umowami z producentami leków.",
+    "summary": "Agencja zrobiła kolejny krok w kierunku nadrobienia zaległości związanych z odmowami z czasów Makarego, które wydawały się sprzeczne z wcześniejszymi umowami z producentami leków.",
     "source": "BioPharma Dive",
     "specializations": []
   },
   {
     "title": "Kobiety w średnim wieku piją więcej, wiedzą mniej o ryzyku raka piersi",
+    "title_original": "Middle-Aged Women Drink More, Know Less About Breast Cancer Risk",
     "url": "https://www.drugs.com/news/middle-aged-women-drink-more-know-less-breast-cancer-risk-130404.html",
     "date": "2026-06-22 17:03",
     "summary": "",
@@ -99,7 +101,7 @@
     "specializations": []
   },
   {
-    "title": "Badania pokazują, że federalne naciski na zwiększenie liczby dokumentów podstawowej opieki zdrowotnej w USA nie powiodły się",
+    "title": "Badania pokazują, że federalne naciski na zwiększenie liczby dokumentów podstawowej opieki zdrowotnej w USA zakończyły się fiaskiem",
     "title_original": "Federal Push To Increase U.S. Primary Care Docs Has Fizzled, Study Says",
     "url": "https://www.drugs.com/news/federal-push-increase-u-s-primary-care-docs-has-fizzled-study-says-130408.html",
     "date": "2026-06-22 16:41",
@@ -146,6 +148,7 @@
   },
   {
     "title": "Aktywny fosforan wapnia Faza nierekrutacyjna Nie dotyczy Badania dotyczące leczenia zapalenia przyzębia / leczenia ubytków śródkostnych przyzębia",
+    "title_original": "Calcium Phosphate Active Not Recruiting Phase N/A Trials for Periodontitis / Periodontal Intrabony Defects Treatment",
     "url": "https://go.drugbank.com/drugs/DB11348/clinical_trials?conditions=DBCOND0077596%2CDBCOND0010286&phase=&purpose=treatment&status=active_not_recruiting",
     "date": "2026-06-22 15:32",
     "summary": "",
@@ -162,17 +165,6 @@
     "specializations": []
   },
   {
-    "title": "AbbVie przejmie Apogee, inwestując prawie 11 miliardów dolarów w długo działające leki autoimmunologiczne",
-    "title_original": "AbbVie to acquire Apogee, staking nearly $11B on long-acting autoimmune drugs",
-    "url": "https://www.biopharmadive.com/news/abbvie-apogee-acquire-zumilokibart-eczema-drugs/823353/",
-    "date": "2026-06-22 15:25",
-    "summary": "Największa transakcja AbbVie od ponad pół dekady obejmuje grupę leków na choroby układu odpornościowego – w tym konkurenta Dupixent – które według firmy mają potencjał sprzedażowy w postaci „megaprzeboju”.",
-    "source": "BioPharma Dive",
-    "specializations": [
-      "Reumatologia i immunologia"
-    ]
-  },
-  {
     "title": "Bixalomer Ukończono badania fazy 1 dotyczące zdrowych zachowań życiowych / Fosfor",
     "title_original": "Bixalomer Completed Phase 1 Trials for Healthy Lifestyle Behaviors / Phosphorus",
     "url": "https://go.drugbank.com/drugs/DB15200/clinical_trials?conditions=DBCOND0059969%2CDBCOND0135396&phase=1&status=completed",
@@ -180,6 +172,17 @@
     "summary": "",
     "source": "DrugBank",
     "specializations": []
+  },
+  {
+    "title": "AbbVie przejmie Apogee, inwestując prawie 11 miliardów dolarów w długo działające leki autoimmunologiczne",
+    "title_original": "AbbVie to acquire Apogee, staking nearly $11B on long-acting autoimmune drugs",
+    "url": "https://www.biopharmadive.com/news/abbvie-apogee-acquire-zumilokibart-eczema-drugs/823353/",
+    "date": "2026-06-22 15:25",
+    "summary": "Największa transakcja AbbVie od ponad pół dekady obejmuje grupę leków na choroby układu odpornościowego – wśród nich konkurent Dupixent – które według firmy mają potencjał sprzedażowy „megaprzebojowy”.",
+    "source": "BioPharma Dive",
+    "specializations": [
+      "Reumatologia i immunologia"
+    ]
   },
   {
     "title": "Verrica Pharmaceuticals ogłasza podanie dawki leku pierwszemu pacjentowi w USA w ramach drugiego kluczowego badania klinicznego (COVE-3) w ramach programu fazy 3 oceniającego YCANTH® (VP-102) w leczeniu brodawek pospolitych",
@@ -210,6 +213,7 @@
   },
   {
     "title": "Badania fazy 1 wycofania hydroksymocznika w leczeniu nadciśnienia płucnego (PH).",
+    "title_original": "Hydroxyurea Withdrawn Phase 1 Trials for Pulmonary Hypertension (PH) Treatment",
     "url": "https://go.drugbank.com/drugs/DB01005/clinical_trials?conditions=DBCOND0051788&phase=1&purpose=treatment&status=withdrawn",
     "date": "2026-06-22 14:37",
     "summary": "",
@@ -292,15 +296,6 @@
     ]
   },
   {
-    "title": "NIEKTÓRE - DZ4L5LW5SK | Usługa wyszukiwania UNII",
-    "title_original": "UNII - DZ4L5LW5SK | UNII Search Service",
-    "url": "https://precision.fda.gov/uniisearch/srs?search=DZ4L5LW5SK",
-    "date": "2026-06-22 10:44",
-    "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII).",
-    "source": "precisionFDA (.gov)",
-    "specializations": []
-  },
-  {
     "title": "Wyszukiwanie struktury",
     "url": "https://precision.fda.gov/ginas/app/ui/structure-search?structure=38a24b2b-c405-4cbd-b43f-e75bc77931ba",
     "date": "2026-06-22 10:44",
@@ -310,6 +305,7 @@
   },
   {
     "title": "1111111111111111 III II IIIIII II",
+    "title_original": "11111111111111111 Ill II IIIIII II",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/208969s002lbl.pdf",
     "date": "2026-06-22 10:24",
     "summary": "",
@@ -321,6 +317,15 @@
     "title_original": "UNII - M9K697V59A | UNII Search Service",
     "url": "https://precision.fda.gov/uniisearch/srs?search=M9K697V59A",
     "date": "2026-06-22 09:24",
+    "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII).",
+    "source": "precisionFDA (.gov)",
+    "specializations": []
+  },
+  {
+    "title": "NIEKTÓRE - 2V801ZDD0V | Usługa wyszukiwania UNII",
+    "title_original": "UNII - 2V801ZDD0V | UNII Search Service",
+    "url": "https://precision.fda.gov/uniisearch/srs?search=2V801ZDD0V",
+    "date": "2026-06-22 08:51",
     "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII).",
     "source": "precisionFDA (.gov)",
     "specializations": []
