@@ -1,5 +1,21 @@
 [
   {
+    "title": "Laboratoria Charles River",
+    "url": "https://www.fiercepharma.com/company/charles-river-laboratories",
+    "date": "2026-06-22 17:37",
+    "summary": "",
+    "source": "Fierce Pharma",
+    "specializations": []
+  },
+  {
+    "title": "Katalizuj sztuczną inteligencję",
+    "url": "https://www.fiercepharma.com/company/katalyze-ai",
+    "date": "2026-06-22 17:21",
+    "summary": "Katalyze AI kieruje się misją, aby leki ratujące życie były dostępne i niedrogie dla każdego. Wykorzystując zaawansowaną sztuczną inteligencję do usprawnienia i optymalizacji procesów bioprodukcji, pomagamy firmom farmaceutycznym zwiększyć wydajność produkcji, obniżyć koszty i zminimalizować ilość odpadów.",
+    "source": "Fierce Pharma",
+    "specializations": []
+  },
+  {
     "title": "REGENXBIO ponownie złoży wniosek o terapię genową Huntera po ostatniej decyzji FDA",
     "url": "https://www.biospace.com/fda/regenxbio-to-resubmit-application-for-hunter-gene-therapy-after-fdas-most-recent-pivot",
     "date": "2026-06-22 16:39",
@@ -58,7 +74,7 @@
     "title": "Po skardze firmy Pfizer Alnylam zbeształ działalność promocyjną",
     "url": "https://www.fiercepharma.com/marketing/alnylam-scolded-over-promotional-activity-after-pfizer-complaint",
     "date": "2026-06-22 15:46",
-    "summary": "Skarga firmy Pfizer dotycząca działań firmy Alnylam złożona na kongresie kardiologicznym skłoniła PMCPA do ukarania | Skarga firmy Pfizer dotycząca działań firmy Alnylam złożona na kongresie kardiologicznym skłoniła PMCPA do ukarania biotechnologii, chociaż brytyjski organ nadzoru ds. marketingu uchylił jej najsurowszą krytykę w postępowaniu odwoławczym.",
+    "summary": "Skarga firmy Pfizer dotycząca działalności firmy Alnylam złożona na kongresie kardiologicznym skłoniła PMCPA do ukarania | Skarga firmy Pfizer dotycząca działań firmy Alnylam złożona na kongresie kardiologicznym skłoniła PMCPA do ukarania biotechnologii, chociaż brytyjski organ nadzoru ds. marketingu uchylił jej najsurowszą krytykę w postępowaniu odwoławczym.",
     "source": "Fierce Pharma",
     "specializations": []
   },
@@ -100,7 +116,7 @@
     "title": "Dwukierunkowa fuzja krzyżowa z interakcją tensorową do przewidywania wiązania leku z celem",
     "url": "https://www.nature.com/articles/s41598-026-57915-2",
     "date": "2026-06-22 13:11",
-    "summary": "",
+    "summary": "Dokładne przewidywanie powinowactwa wiązania leku z obiektem docelowym ma kluczowe znaczenie w obliczeniowym odkrywaniu leków, pozostaje jednak trudne, ponieważ wiązaniem rządzą złożone, nieliniowe interakcje między podstrukturami chemicznymi a środowiskami reszt białkowych. Wiele istniejących podejść do głębokiego uczenia się uczy się reprezentacji leków i białek w dużej mierze w izolacji i łączy je dopiero na ostatnim etapie, co może osłabić ich zdolność do wychwytywania informacyjnych zależności międzymodalnych.",
     "source": "Nature",
     "specializations": [],
     "category": "Rynek"
@@ -135,7 +151,7 @@
     "title": "Wielka marka Big Pharma: kultura marketingowa Eli Lilly",
     "url": "https://www.fiercepharma.com/marketing/big-pharmas-big-brand-deep-dive-pharmas-marketing-culture-eli-lilly",
     "date": "2026-06-22 10:00",
-    "summary": "Firmy farmaceutyczne od wieków stanowią część globalnej gospodarki i naszych systemów opieki zdrowotnej. | Firmy farmaceutyczne od wieków stanowią część globalnej gospodarki i systemów opieki zdrowotnej. Teraz, gdy producenci leków odgrywają coraz bardziej widoczną rolę w głównym nurcie rozmów na temat zdrowia i kultury, Big Pharma ponownie zastanawia się, w jaki sposób promuje nie tylko swoje leki, ale także siebie.",
+    "summary": "Firmy farmaceutyczne od wieków są częścią globalnej gospodarki i naszych systemów opieki zdrowotnej. | Firmy farmaceutyczne od wieków stanowią część globalnej gospodarki i systemów opieki zdrowotnej. Teraz, gdy producenci leków odgrywają coraz bardziej widoczną rolę w głównym nurcie rozmów na temat zdrowia i kultury, Big Pharma ponownie zastanawia się, w jaki sposób promuje nie tylko swoje leki, ale także siebie.",
     "source": "Fierce Pharma",
     "specializations": []
   },
@@ -147,6 +163,17 @@
     "source": "Journal of Neurology, Neurosurgery and Psychiatry (JNNP)",
     "specializations": [
       "Onkologia"
+    ],
+    "category": "Rynek"
+  },
+  {
+    "title": "Genotyp genu apolipoproteiny L1 i wyniki nerek po oddaniu żywej nerki.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42329639/",
+    "date": "2026-06-22 02:00",
+    "summary": "",
+    "source": "PubMed",
+    "specializations": [
+      "Nefrologia"
     ],
     "category": "Rynek"
   },
