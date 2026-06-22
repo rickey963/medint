@@ -622,6 +622,24 @@ def _is_archive_document_url(url):
     return any(d in (url or '') for d in ARCHIVE_DOCUMENT_DOMAINS)
 
 
+# Reference/repository sites (ProMED, Eurosurveillance, CDC's image/equipment
+# catalogs...) expose their internal search and lookup pages at indexable
+# URLs, and Google sometimes surfaces those instead of an actual article -
+# "Szukaj - ProMED" (a search box, not a report), "Agnes Perrin-Guyomard –
+# Euronadzór" (an author-search result listing every paper by that name, not
+# one article), a CDC equipment-approval lookup page. None of these are
+# news regardless of how recently Google (re-)indexed them.
+SEARCH_OR_LOOKUP_URL_PATTERNS = (
+    '/search', '?search=', 'searchresults', 'advancedsearch',
+    'manufacturerdetails', '?value1=', '&option1=',
+)
+
+
+def _is_search_or_lookup_url(url):
+    u = (url or '').lower()
+    return any(p in u for p in SEARCH_OR_LOOKUP_URL_PATTERNS)
+
+
 # Keyword dictionary for the "Specjalizacja" mode (spec lists 19 fields). An item
 # can legitimately match more than one (e.g. "pediatric oncology"), so this tags
 # every match rather than picking a single best one.
@@ -675,7 +693,7 @@ def classify(item, origin):
     text = _text_of(item)
     source = item.get('source', '')
 
-    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')):
         return None
 
     if _has_stale_citation_year(item.get('title', '')):
@@ -805,7 +823,7 @@ def _passes_quality_gate(item, is_catchall):
     earned that spot via a strong keyword signal and shouldn't be second-guessed."""
     text = _text_of(item)
     source = item.get('source', '')
-    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')):
         return False
     if _has_stale_citation_year(item.get('title', '')):
         return False
