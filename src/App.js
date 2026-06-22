@@ -163,23 +163,28 @@ const selectArticleOfDay = (allData) => {
 
 /**
  * Generates the list of medical alerts shown in the red ticker. This is meant
- * for *current* threats - active outbreaks, viruses, infections, drug recalls/
- * black-box warnings - never loosely-worded historical or unrelated coverage that
- * happens to contain a word like "alert" or "zagrożenie". Sources are restricted
- * to the tiles whose entire purpose is safety/outbreak signals (alerts.json,
- * regulatory_safety, epidemiology). An ongoing outbreak (e.g. Ebola in DRC) stays
- * "critical" for as long as it's in the news, not just its first 48h, so the
- * window matches the dashboard's general 7-day freshness window rather than being
- * tighter than it.
+ * for *current* threats to human life/health - active outbreaks, viruses,
+ * infections, drug recalls/black-box warnings, declared public-health
+ * emergencies, mass poisonings/contamination - never loosely-worded historical
+ * or unrelated coverage that happens to contain a word like "alert" or
+ * "zagrożenie". The point is severity, not which tile classify.py happened to
+ * file it under, so every tile is scanned (not just Regulatory/Epidemiologia) -
+ * the keyword/safety_level/category gates below are what keeps it to genuine
+ * threats. An ongoing outbreak (e.g. Ebola in DRC) stays "critical" for as
+ * long as it's in the news, not just its first 48h, so the window matches the
+ * dashboard's general 7-day freshness window rather than being tighter than it.
  */
 const ALERT_KEYWORDS = [
   'wycofanie z obrotu',
   'wycofanie leku',
   'wycofanie serii',
+  'wycofanie szczepionki',
   'black box',
   'black-box',
   'nowe ognisko',
   'ognisko zakażeń',
+  'ognisko zakażenia szpitalnego',
+  'zakażenia szpitalne',
   'wybuch epidemii',
   'pandemi',
   'nowy wariant',
@@ -190,6 +195,17 @@ const ALERT_KEYWORDS = [
   'fda warning',
   'who alert',
   'disease outbreak',
+  'stan zagrożenia epidemicznego',
+  'stan zagrożenia zdrowia publicznego',
+  'public health emergency',
+  'zagrożenie zdrowia publicznego',
+  'zatrucie pokarmowe',
+  'zatrucie grupowe',
+  'mass poisoning',
+  'kontaminacja leku',
+  'zanieczyszczenie leku',
+  'contaminated drug',
+  'skażony lek',
 ];
 
 const ALERT_MAX_AGE_HOURS = 7 * 24;
@@ -219,7 +235,7 @@ const isAlertItem = (item) => {
   // but only when the title doesn't read as a retrospective citation.
   if (item.category === 'Epidemiologia' && !mentionsPastYear(item.title)) return true;
   const safety = String(item.safety_level || '').toLowerCase();
-  if (safety.includes('wycofanie') || safety.includes('black box')) {
+  if (safety.includes('wycofanie') || safety.includes('black box') || safety.includes('alert')) {
     return true;
   }
   const text = ((item.title || '') + ' ' + (item.summary || '')).toLowerCase();
@@ -242,7 +258,23 @@ const generateAlerts = (allData) => {
     });
   };
 
-  ['alerts', 'regulatory_safety', 'epidemiology'].forEach((k) => {
+  // Scan every tile, not just Regulatory/Epidemiologia - a life-threatening
+  // signal (e.g. a dangerous interaction found in a clinical trial, or a
+  // hospital-crisis story sitting in Polska/Świat) can legitimately surface
+  // anywhere; isAlertItem's keyword/safety_level/category gates above are
+  // what keeps this from turning into a generic headline ticker.
+  [
+    'alerts',
+    'regulatory_safety',
+    'epidemiology',
+    'clinical_research',
+    'clinical_intelligence',
+    'guidelines',
+    'ai_medicine',
+    'pharma_market',
+    'news_world',
+    'news_pl',
+  ].forEach((k) => {
     const list = allData[k];
     if (Array.isArray(list)) list.forEach(addItem);
   });
