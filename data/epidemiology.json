@@ -1,5 +1,14 @@
 [
   {
+    "title": "Palenie uszkadza narządy /1",
+    "title_original": "Smoking damages your organs /1",
+    "url": "https://www.who.int/tools/pictorial-health-warnings-on-tobacco-products/item/tobacco-image-database/smoking-damages-your-organs--1",
+    "date": "2026-06-22 22:32",
+    "summary": "Baza danych obrazkowych ostrzeżeń zdrowotnych Światowej Organizacji Zdrowia",
+    "source": "World Health Organization (WHO)",
+    "specializations": []
+  },
+  {
     "title": "Palenie zwiększa ryzyko niepłodności /1",
     "title_original": "Smoking increases the risk of infertility /1",
     "url": "https://www.who.int/tools/pictorial-health-warnings-on-tobacco-products/item/tobacco-image-database/smoking-increases-the-risk-of-infertility--1",
@@ -33,15 +42,6 @@
     "title_original": "Smoking causes oral cancer and damages teeth and gums /2",
     "url": "https://www.who.int/tools/pictorial-health-warnings-on-tobacco-products/item/tobacco-image-database/smoking-causes-oral-cancer-and-damages-teeth-and-gums--2",
     "date": "2026-06-22 22:16",
-    "summary": "Baza danych obrazkowych ostrzeżeń zdrowotnych Światowej Organizacji Zdrowia",
-    "source": "World Health Organization (WHO)",
-    "specializations": []
-  },
-  {
-    "title": "Palenie powoduje raka i prowadzi do śmierci /4",
-    "title_original": "Smoking causes cancer and leads to death /4",
-    "url": "https://www.who.int/tools/pictorial-health-warnings-on-tobacco-products/item/tobacco-image-database/smoking-causes-cancer-and-leads-to-death--4",
-    "date": "2026-06-22 22:14",
     "summary": "Baza danych obrazkowych ostrzeżeń zdrowotnych Światowej Organizacji Zdrowia",
     "source": "World Health Organization (WHO)",
     "specializations": []
@@ -105,7 +105,7 @@
     "title_original": "Adverse Outcomes of Travel-Related Cosmetic Procedures among US Residents, 2014–2024",
     "url": "https://wwwnc.cdc.gov/eid/article/32/6/pdfs/25-1883-combined.pdf",
     "date": "2026-06-22 19:37",
-    "summary": "",
+    "summary": "Opisujemy infekcje i inne niekorzystne skutki wśród mieszkańców USA, którzy podróżowali w celu zabiegów kosmetycznych na terenie Stanów Zjednoczonych lub za granicą w latach 2014–2024. Ogniska zdarzeń niepożądanych związanych z takimi procedurami często dotyczą wielu stanów i pacjentów oddzielonych geograficznie, co utrudnia wykrywanie ognisk i ich badanie.",
     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
     "specializations": []
   },
@@ -291,7 +291,7 @@
     "specializations": []
   },
   {
-    "title": "Na wypadek, gdybyś to przeoczył: amerykańska FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
+    "title": "Na wypadek, gdybyś to przeoczył: amerykańska agencja FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
     "title_original": "In Case You Missed It: US FDA Adcomm OKs Moderna Flu Vaccine, BIO Preview And More",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/vaccines/in-case-you-missed-it-us-fda-adcomm-oks-moderna-flu-vaccine-bio-preview-and-more-BJPBEA4FCFDWTN3P35Y2QN6QZU/",
     "date": "2026-06-21 16:00",
@@ -301,7 +301,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Na wypadek, gdybyś to przeoczył: amerykańska agencja FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
+    "title": "Na wypadek, gdybyś to przeoczył: amerykańska FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
     "title_original": "In Case You Missed It: US FDA Adcomm OKs Moderna Flu Vaccine, BIO Preview And More",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/vaccines/in-case-you-missed-it-us-fda-adcomm-oks-moderna-flu-vaccine-bio-preview-and-more-BJPBEA4FCFDWTN3P35Y2QN6QZU/",
     "date": "2026-06-21 16:00",
@@ -405,8 +405,8 @@
   {
     "title": "Zapalenie wsierdzia Loefflera: wielomodalne obrazowanie wspólnego fenotypu serca w odrębnych zespołach hipereozynofilowych",
     "title_original": "Loeffler Endocarditis: Multimodality Imaging of a Common Cardiac Phenotype in Distinct Hypereosinophilic Syndromes",
-    "url": "https://www.jacc.org/doi/abs/10.1016/j.jaccas.2026.108674",
-    "date": "2026-06-17 04:16",
+    "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2026.108674",
+    "date": "2026-06-17 03:41",
     "summary": "",
     "source": "JACC Journals",
     "specializations": [
