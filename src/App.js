@@ -12,6 +12,8 @@ import {
   normalizeDateKey,
   ageInDays,
   isToday,
+  isWithinLastHour,
+  isWithinLastTwoHours,
   makeStableId,
 } from './utils/dateUtils';
 
@@ -358,14 +360,26 @@ const ArticleOfDay = ({ data }) => {
   const prestige = getSourceWeight(data);
   const star = '★'.repeat(Math.max(1, Math.min(5, prestige))) +
     '☆'.repeat(5 - Math.max(1, Math.min(5, prestige)));
+  const fresh = isWithinLastHour(data.date);
+  const recent = isWithinLastTwoHours(data.date);
+  const freshnessRing = fresh
+    ? 'ring-2 ring-emerald-400/60 shadow-[0_0_22px_rgba(16,185,129,0.35)]'
+    : recent
+      ? 'ring-2 ring-emerald-500/30'
+      : 'ring-1 ring-blue-500/20';
 
   return (
-    <div className="bg-gradient-to-br from-blue-950 via-slate-900 to-slate-950 text-white p-4 rounded-xl shadow-2xl shadow-black/40 ring-1 ring-blue-500/20 h-[450px] flex flex-col lg:col-span-1">
+    <div className={`bg-gradient-to-br from-blue-950 via-slate-900 to-slate-950 text-white p-4 rounded-xl shadow-2xl shadow-black/40 h-[450px] flex flex-col lg:col-span-1 ${freshnessRing}`}>
       <div className="flex items-center justify-between mb-3 flex-wrap gap-1.5 shrink-0">
         <h2 className="text-xs font-black uppercase tracking-[0.2em] text-blue-400">
           📰 Artykuł Dnia
         </h2>
         <div className="flex items-center gap-2">
+          {fresh && (
+            <span className="text-[9px] font-bold uppercase px-1.5 py-0.5 rounded bg-emerald-400/25 text-emerald-200 border border-emerald-400/60 animate-pulse">
+              ● Nowe
+            </span>
+          )}
           <span className="text-[10px] font-bold uppercase text-blue-400/80">
             {data.source || 'MEDINT'}
           </span>
