@@ -279,9 +279,21 @@ def classify_legal(text):
     return any(kw in text for kw in legal_kw)
 
 
+# Plain substring matching on 'leku'/'drug' was a false-positive trap: 'leku'
+# (meant to catch "lek"/"leku"/"leki" = drug) matches inside the unrelated
+# word "mo-leku-larnej" (molecular) - which is how a routine allergy article
+# mentioning "diagnostyce molekularnej" got misrouted away from Polska on a
+# later re-check (its summary only gained that phrase after enrichment ran,
+# so the first classify() pass never saw it). 'drug' has the same problem
+# with Polish "drugiej"/"drugi" (second/other). Word-boundaried regex instead.
+_DRUG_KEYWORD_RE = re.compile(
+    r'\b(pharmacy|farmacj\w*|drug|pharmaceutical|lek(?:i|u|ów|iem|ami|ach|om)?)\b',
+    re.IGNORECASE | re.UNICODE,
+)
+
+
 def classify_drugs(text):
-    drug_kw = ['pharmacy', 'farmacj', 'drug', 'lek ', 'leku', 'leki', 'pharmaceutical']
-    return any(kw in text for kw in drug_kw)
+    return bool(_DRUG_KEYWORD_RE.search(text))
 
 
 def classify_epidemiology(text):
