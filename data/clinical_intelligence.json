@@ -40,6 +40,7 @@
   },
   {
     "title": "ED Nicol, S. Dhillon. Medycyna ekspedycyjna.",
+    "title_original": "ED Nicol, S Dhillon. Expedition Medicine.",
     "url": "https://militaryhealth.bmj.com/content/jramc/151/4/264.full.pdf",
     "date": "2026-06-22 15:09",
     "summary": "",
@@ -109,6 +110,7 @@
   },
   {
     "title": "Emocjonalny i psychologiczny wpływ aborcji: krytyka literatury",
+    "title_original": "Emotional and psychological impact of abortion: a critique of the literature",
     "url": "https://srh.bmj.com/content/familyplanning/34/3/181.full.pdf",
     "date": "2026-06-22 11:11",
     "summary": "",
@@ -182,6 +184,24 @@
     "specializations": []
   },
   {
+    "title": "Ostra plamica małopłytkowa wywołana kotrimoksazolem",
+    "title_original": "Co-trimoxazole induced acute thrombocytopenic purpura",
+    "url": "https://emj.bmj.com/content/emermed/20/3/e3.full.pdf",
+    "date": "2026-06-22 02:55",
+    "summary": "",
+    "source": "emj.bmj.com",
+    "specializations": []
+  },
+  {
+    "title": "Interakcja kortykosteroidów i katecholamin",
+    "title_original": "Interaction of corticosteroids and catecholamines",
+    "url": "https://thorax.bmj.com/content/thoraxjnl/30/4/430.full.pdf",
+    "date": "2026-06-22 02:41",
+    "summary": "",
+    "source": "thorax.bmj.com",
+    "specializations": []
+  },
+  {
     "title": "Streszczenia badań — The New England Journal of Medicine",
     "title_original": "Research Summaries - The New England Journal of Medicine",
     "url": "https://www.nejm.org/research-summaries",
@@ -192,6 +212,7 @@
   },
   {
     "title": "Pończochy o stopniowanym ucisku jako uzupełnienie farmakoprofilaktyki przeciwzakrzepowej u pacjentów poddawanych planowym zabiegom chirurgicznym (badanie GAPS): randomizowane badanie kontrolowane",
+    "title_original": "Graduated compression stockings as adjuvant to pharmaco-thromboprophylaxis in elective surgical patients (GAPS study): randomised controlled trial",
     "url": "https://www.bmj.com/content/bmj/369/bmj.m1309.full.pdf",
     "date": "2026-06-22 02:19",
     "summary": "",
@@ -202,7 +223,17 @@
     "study_type": "Inne"
   },
   {
+    "title": "Wpływ zakazu palenia w samochodach z dziećmi na narażenie na drugie",
+    "title_original": "Impact of banning smoking in cars with children on exposure to second",
+    "url": "https://thorax.bmj.com/content/thoraxjnl/75/4/345.full.pdf",
+    "date": "2026-06-22 02:06",
+    "summary": "",
+    "source": "thorax.bmj.com",
+    "specializations": []
+  },
+  {
     "title": "Wpływ zwiększenia dawki wziewnych kortykosteroidów na liczbę eozynofilów we krwi w astmie",
+    "title_original": "Impact of an increase in the inhaled corticosteroid dose on blood eosinophils in asthma",
     "url": "https://thorax.bmj.com/content/thoraxjnl/74/4/417.full.pdf",
     "date": "2026-06-22 01:49",
     "summary": "",
@@ -213,6 +244,7 @@
   },
   {
     "title": "Filtry wyszukiwania PubMed do badania przypuszczalnych czynników warunkujących choroby w postaci zanieczyszczenia powietrza na zewnątrz",
+    "title_original": "PubMed search filters for the study of putative outdoor air pollution determinants of disease",
     "url": "https://bmjopen.bmj.com/content/6/12/e013092.reviewer-comments",
     "date": "2026-06-22 01:44",
     "summary": "",
@@ -238,6 +270,7 @@
   },
   {
     "title": "Eksperymentalne i ilościowe techniki obrazowania w śródmiąższowej chorobie płuc",
+    "title_original": "Experimental and quantitative imaging techniques in interstitial lung disease",
     "url": "https://thorax.bmj.com/content/thoraxjnl/74/6/611.full.pdf",
     "date": "2026-06-22 01:25",
     "summary": "",
@@ -248,12 +281,31 @@
     ]
   },
   {
+    "title": "Orlistat z dietą okazał się skuteczny i bezpieczny w odchudzaniu i zmniejszeniu ryzyka choroby wieńcowej w otyłości",
+    "title_original": "Orlistat with diet was effective and safe for weight loss and coronary risk reduction in obesity",
+    "url": "https://ebm.bmj.com/content/ebmed/6/2/54.full.pdf",
+    "date": "2026-06-22 01:17",
+    "summary": "",
+    "source": "BMJ Evidence-Based Medicine",
+    "specializations": []
+  },
+  {
     "title": "Orlistat w połączeniu z dietą był skuteczny i bezpieczny w zmniejszaniu masy ciała i ryzyku choroby wieńcowej w otyłości",
     "url": "https://ebm.bmj.com/content/ebmed/6/2/54.full.pdf",
     "date": "2026-06-22 01:17",
     "summary": "",
     "source": "BMJ Evidence-Based Medicine",
     "specializations": []
+  },
+  {
+    "title": "Związek między programami przyspieszonego zatwierdzania przez FDA i EMA a wartością terapeutyczną nowych leków: retrospektywne badanie kohortowe",
+    "title_original": "Association between FDA and EMA expedited approval programs and therapeutic value of new medicines: retrospective cohort study",
+    "url": "https://www.bmj.com/content/bmj/371/bmj.m3434.full.pdf",
+    "date": "2026-06-22 01:10",
+    "summary": "",
+    "source": "The BMJ",
+    "specializations": [],
+    "study_type": "Badanie kohortowe"
   },
   {
     "title": "Etyczne wymiary etyki opieki geriatrycznej i psychiatrii: w kierunku definicji zawodowej",
@@ -266,11 +318,12 @@
     ]
   },
   {
-    "title": "Kauteryzacja szyjki macicy. Środki antykoncepcyjne i płodność",
-    "url": "https://www.bmj.com/content/bmj/1/4025/484.3.full.pdf",
-    "date": "2026-06-21 23:18",
+    "title": "Przegląd zakresu w celu zebrania dowodów dotyczących mechanizmu działania, farmakokinetyki, skuteczności i skutków ubocznych centchromanu jako pigułki antykoncepcyjnej",
+    "title_original": "Scoping review to map evidence on mechanism of action, pharmacokinetics, effectiveness and side effects of centchroman as a contraceptive pill",
+    "url": "https://bmjopen.bmj.com/content/bmjopen/9/10/e030373.full.pdf",
+    "date": "2026-06-22 00:09",
     "summary": "",
-    "source": "The BMJ",
+    "source": "BMJ Open",
     "specializations": []
   },
   {
@@ -284,6 +337,7 @@
   },
   {
     "title": "Skutki czynnościowe płuc przewlekłego narażenia na zanieczyszczenia powietrza",
+    "title_original": "Lung function effects of chronic exposure to air pollution",
     "url": "https://thorax.bmj.com/content/thoraxjnl/64/8/645.full.pdf",
     "date": "2026-06-21 22:05",
     "summary": "",
