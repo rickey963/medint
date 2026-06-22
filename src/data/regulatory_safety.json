@@ -1,6 +1,6 @@
 [
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -10,7 +10,7 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -29,7 +29,7 @@
     "specializations": []
   },
   {
-    "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na ludziach (FIH)",
+    "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na człowieku (FIH)",
     "title_original": "Quantitative Systems Pharmacology (QSP)-Based Dose Selection for Minimum Anticipated Biological Effect Level (MABEL) in First-in- Human (FIH) Trials",
     "url": "https://www.fda.gov/media/193230/download",
     "date": "2026-06-22 17:55",
@@ -38,7 +38,7 @@
     "specializations": []
   },
   {
-    "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na człowieku (FIH)",
+    "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na ludziach (FIH)",
     "title_original": "Quantitative Systems Pharmacology (QSP)-Based Dose Selection for Minimum Anticipated Biological Effect Level (MABEL) in First-in- Human (FIH) Trials",
     "url": "https://www.fda.gov/media/193230/download",
     "date": "2026-06-22 17:55",
@@ -60,7 +60,7 @@
     "title_original": "What happens when AI meets physics-based drug design?",
     "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
     "date": "2026-06-22 17:54",
-    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się stowarzyszone zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
+    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się zintegrowane zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
     "source": "statnews.com",
     "specializations": []
   },
@@ -78,7 +78,7 @@
     "title_original": "Regenxbio to resubmit gene therapy as FDA backtracks on another drug rejection",
     "url": "https://www.biopharmadive.com/news/regenxbio-fda-resubmit-hunter-syndrome-gene-therapy/823381/",
     "date": "2026-06-22 17:43",
-    "summary": "Agencja zrobiła kolejny krok w kierunku nadrobienia zaległości związanych z odmowami z czasów Makarego, które wydawały się sprzeczne z wcześniejszymi umowami z producentami leków.",
+    "summary": "Agencja podjęła kolejny krok w kierunku nadrobienia zaległości związanych z odrzuceniami z czasów Makarego, które wydawały się sprzeczne z wcześniejszymi umowami z producentami leków.",
     "source": "BioPharma Dive",
     "specializations": []
   },
@@ -177,15 +177,6 @@
     "specializations": []
   },
   {
-    "title": "Bixalomer Ukończono badania fazy 1 dotyczące zdrowych zachowań życiowych / Fosfor",
-    "title_original": "Bixalomer Completed Phase 1 Trials for Healthy Lifestyle Behaviors / Phosphorus",
-    "url": "https://go.drugbank.com/drugs/DB15200/clinical_trials?conditions=DBCOND0059969%2CDBCOND0135396&phase=1&status=completed",
-    "date": "2026-06-22 15:25",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": []
-  },
-  {
     "title": "AbbVie przejmie Apogee, inwestując prawie 11 miliardów dolarów w długo działające leki autoimmunologiczne",
     "title_original": "AbbVie to acquire Apogee, staking nearly $11B on long-acting autoimmune drugs",
     "url": "https://www.biopharmadive.com/news/abbvie-apogee-acquire-zumilokibart-eczema-drugs/823353/",
@@ -195,6 +186,15 @@
     "specializations": [
       "Reumatologia i immunologia"
     ]
+  },
+  {
+    "title": "Bixalomer Ukończono badania fazy 1 dotyczące zdrowych zachowań życiowych / Fosfor",
+    "title_original": "Bixalomer Completed Phase 1 Trials for Healthy Lifestyle Behaviors / Phosphorus",
+    "url": "https://go.drugbank.com/drugs/DB15200/clinical_trials?conditions=DBCOND0059969%2CDBCOND0135396&phase=1&status=completed",
+    "date": "2026-06-22 15:25",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": []
   },
   {
     "title": "Verrica Pharmaceuticals ogłasza podanie dawki leku pierwszemu pacjentowi w USA w ramach drugiego kluczowego badania klinicznego (COVE-3) w ramach programu fazy 3 oceniającego YCANTH® (VP-102) w leczeniu brodawek pospolitych",
@@ -224,6 +224,15 @@
     "specializations": []
   },
   {
+    "title": "Przeglądanie leków",
+    "title_original": "Browsing Drugs",
+    "url": "https://go.drugbank.com/drugs?approved=1&c=weight&d=up&page=34&query=Chloroquine+%28500mg%29",
+    "date": "2026-06-22 14:47",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": []
+  },
+  {
     "title": "Badania fazy 1 wycofania hydroksymocznika w leczeniu nadciśnienia płucnego (PH).",
     "title_original": "Hydroxyurea Withdrawn Phase 1 Trials for Pulmonary Hypertension (PH) Treatment",
     "url": "https://go.drugbank.com/drugs/DB01005/clinical_trials?conditions=DBCOND0051788&phase=1&purpose=treatment&status=withdrawn",
@@ -233,15 +242,6 @@
     "specializations": [
       "Pulmonologia"
     ]
-  },
-  {
-    "title": "Monofosforylolipid A Aktywny Nierekrutujący Faza 1 Badania dotyczące zapobiegania półpaścowi / półpaścowi",
-    "title_original": "Monophosphoryl lipid A Active Not Recruiting Phase 1 Trials for Herpes Zoster / Herpes Zoster Vaccine Prevention",
-    "url": "https://go.drugbank.com/drugs/DB19290/clinical_trials?conditions=DBCOND0028191%2CDBCOND0042221&phase=1&purpose=prevention&status=active_not_recruiting",
-    "date": "2026-06-22 14:28",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": []
   },
   {
     "title": "Bionyra przynosi 165 milionów dolarów na leki odpornościowe nowej generacji",
@@ -255,8 +255,8 @@
   {
     "title": "Rejestracja zakładu i lista urządzeń",
     "title_original": "Establishment Registration & Device Listing",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=181&q=T3J0aG9wZWRpYw==&pn=10&pf=0&sc=ena&rcount=207",
-    "date": "2026-06-22 13:48",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=171&q=T3J0aG9wZWRpYw==&pn=10&pf=0&sc=ena&rcount=207",
+    "date": "2026-06-22 13:19",
     "summary": "",
     "source": "accessdata.fda.gov",
     "specializations": [],
@@ -298,6 +298,15 @@
     "specializations": []
   },
   {
+    "title": "EMA rekomenduje dopuszczenie generycznego palbocyklibu w leczeniu raka piersi",
+    "title_original": "EMA rekomenduje dopuszczenie generycznego palbocyklibu w leczeniu raka piersi",
+    "url": "https://www.termedia.pl/ginekologia/EMA-rekomenduje-dopuszczenie-generycznego-palbocyklibu-w-leczeniu-raka-piersi,67792.html",
+    "date": "2026-06-22 11:02",
+    "summary": "Komitet ds. Produktów Leczniczych Stosowanych u Ludzi (Committee for Medicinal Products for Human Use, CHMP) Europejskiej Agencji Leków (European Medicines Agency, EMA) 23 kwietnia 2026 roku wydał",
+    "source": "Termedia",
+    "specializations": []
+  },
+  {
     "title": "Kiedy stosować leki biologiczne w TRU? - Wywiady - Reumatologia",
     "title_original": "Kiedy stosować leki biologiczne w TRU? - Wywiady - Reumatologia",
     "url": "https://www.mp.pl/reumatologia/wywiady/441555,kiedy-stosowac-leki-biologiczne-w-tru",
@@ -307,6 +316,15 @@
     "specializations": [
       "Reumatologia i immunologia"
     ]
+  },
+  {
+    "title": "NIEKTÓRE - DZ4L5LW5SK | Usługa wyszukiwania UNII",
+    "title_original": "UNII - DZ4L5LW5SK | UNII Search Service",
+    "url": "https://precision.fda.gov/uniisearch/srs?search=DZ4L5LW5SK",
+    "date": "2026-06-22 10:44",
+    "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII).",
+    "source": "precisionFDA (.gov)",
+    "specializations": []
   },
   {
     "title": "Wyszukiwanie struktury",
@@ -327,10 +345,10 @@
     "specializations": []
   },
   {
-    "title": "NIEKTÓRE - 2V801ZDD0V | Usługa wyszukiwania UNII",
-    "title_original": "UNII - 2V801ZDD0V | UNII Search Service",
-    "url": "https://precision.fda.gov/uniisearch/srs?search=2V801ZDD0V",
-    "date": "2026-06-22 08:51",
+    "title": "NIEKTÓRE - M9K697V59A | Usługa wyszukiwania UNII",
+    "title_original": "UNII - M9K697V59A | UNII Search Service",
+    "url": "https://precision.fda.gov/uniisearch/srs?search=M9K697V59A",
+    "date": "2026-06-22 09:24",
     "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII).",
     "source": "precisionFDA (.gov)",
     "specializations": []
@@ -448,7 +466,7 @@
     "title_original": "ASP Pricing Files",
     "url": "https://www.cms.gov/medicare/payment/part-b-drugs/asp-pricing-files",
     "date": "2026-06-18 09:00",
-    "summary": "Uzyskaj dostęp do plików cenowych CMS ASP dla leków Medicare Part B, w tym plików dotyczących kwartalnych limitów płatności, przejść dla pieszych NDC-HCPCS i danych historycznych wykorzystywanych do określania stawek zwrotu kosztów.",
+    "summary": "Uzyskaj dostęp do plików cenowych CMS ASP dla leków Medicare Część B, w tym plików kwartalnych limitów płatności, przejść dla pieszych NDC-HCPCS i danych historycznych wykorzystywanych do określania stawek zwrotu kosztów.",
     "source": "Centers for Medicare & Medicaid Services | CMS (.gov)",
     "specializations": []
   },
