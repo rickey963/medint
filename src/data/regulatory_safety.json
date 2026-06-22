@@ -224,15 +224,6 @@
     "specializations": []
   },
   {
-    "title": "Przeglądanie leków",
-    "title_original": "Browsing Drugs",
-    "url": "https://go.drugbank.com/drugs?approved=1&c=weight&d=up&page=34&query=Chloroquine+%28500mg%29",
-    "date": "2026-06-22 14:47",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": []
-  },
-  {
     "title": "Badania fazy 1 wycofania hydroksymocznika w leczeniu nadciśnienia płucnego (PH).",
     "title_original": "Hydroxyurea Withdrawn Phase 1 Trials for Pulmonary Hypertension (PH) Treatment",
     "url": "https://go.drugbank.com/drugs/DB01005/clinical_trials?conditions=DBCOND0051788&phase=1&purpose=treatment&status=withdrawn",
@@ -416,6 +407,17 @@
     "summary": "",
     "source": "accessdata.fda.gov",
     "specializations": []
+  },
+  {
+    "title": "Ibudilast zakończył badania fazy 2 dotyczące leczenia po ostrego zespołu Covid-19 / choroby kondycyjnej / choroby koronawirusowej 2019 (COVID-19)",
+    "title_original": "Ibudilast Completed Phase 2 Trials for Post-Acute COVID-19 Syndrome / Conditioning / Coronavirus Disease 2019 (COVID‑19) Treatment",
+    "url": "https://go.drugbank.com/drugs/DB05266/clinical_trials?conditions=DBCOND0024537%2CDBCOND0129755%2CDBCOND0140673&phase=2&purpose=treatment&status=completed",
+    "date": "2026-06-21 23:32",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Choroby zakaźne"
+    ]
   },
   {
     "title": "Zaktualizowano: 06/2026 PEŁNA INFORMACJA PRZEPISOWA: SPIS TREŚCI* OSTRZEŻENIE: Reaktywacja wirusa 1 WSKAZANIA I SPOSÓB UŻYCIA 2.2 Laboratorium i",
