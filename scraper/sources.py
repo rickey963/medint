@@ -87,34 +87,49 @@ SOURCES_WORLD_REGULATORS = [
     "ecdc.europa.eu",
 ]
 
-SOURCES_WORLD_GUIDELINES_RESEARCH = [
-    "translationalscience.org",
-    "promedmail.org",
-    "healthmap.org",
+# This used to be one 24-domain group. Tested with when:1d: Drugs.com (58) and
+# ClinicalTrials.gov (40) alone filled the entire 100-result page - the other
+# 22 domains (NICE, ESMO, ASCO, ESC, IDSA, UpToDate, PubMed, EuropePMC, arXiv,
+# medRxiv, ProMED, HealthMap, Eurosurveillance...) got *zero*. Split by rough
+# publishing-volume tier, each with its own query.
+SOURCES_TRIAL_REGISTRIES = [
     "clinicaltrials.gov",
     "clinicaltrialsregister.eu",
     "euclinicaltrials.eu",
     "drugs.com",
-    "eur-lex.europa.eu",
-    "arxiv.org",
-    "medrxiv.org",
+]
+
+SOURCES_GUIDELINE_BODIES = [
     "nice.org.uk",
     "esmo.org",
     "asco.org",
+    "escardio.org",          # European Society of Cardiology -> Wytyczne
+    "idsociety.org",         # Infectious Diseases Society of America -> Wytyczne
+    "bnf.nice.org.uk",       # British National Formulary -> Wytyczne
+    "tripdatabase.com",      # EBM search engine -> Wytyczne
+    "bestpractice.bmj.com",  # BMJ Best Practice -> Wytyczne
+    "uptodate.com",          # UpToDate -> Wytyczne
+]
+
+SOURCES_RESEARCH_LITERATURE = [
     "pubmed.ncbi.nlm.nih.gov",
     "europepmc.org",
-    "escardio.org",          # European Society of Cardiology guidelines -> Wytyczne
-    "idsociety.org",         # Infectious Diseases Society of America guidelines -> Wytyczne
-    "eurosurveillance.org",  # ECDC's own peer-reviewed epidemiology journal -> Epidemiologia
+    "arxiv.org",
+    "medrxiv.org",
+    "translationalscience.org",
+    "eur-lex.europa.eu",
+]
+
+SOURCES_OUTBREAK_TRACKING = [
+    "promedmail.org",
+    "healthmap.org",
+    "eurosurveillance.org",   # ECDC's own peer-reviewed epidemiology journal -> Epidemiologia
     "outbreaknewstoday.com",  # dedicated outbreak-tracking trade press -> Epidemiologia
-    # User-provided drug/EBM reference sites - low Google News volume, safe to
-    # fold into this group rather than giving each its own query.
+]
+
+SOURCES_DRUG_REFERENCE = [
     "yellowcard.mhra.gov.uk",  # UK pharmacovigilance reporting -> Regulatory & Drug Safety
     "go.drugbank.com",         # DrugBank -> Regulatory & Drug Safety
-    "bnf.nice.org.uk",         # British National Formulary -> Wytyczne
-    "tripdatabase.com",        # EBM search engine -> Wytyczne
-    "bestpractice.bmj.com",    # BMJ Best Practice -> Wytyczne
-    "uptodate.com",            # UpToDate -> Wytyczne
 ]
 
 # More elite-tier specialty journals for the Clinical Intelligence Feed
@@ -125,19 +140,27 @@ SOURCES_WORLD_GUIDELINES_RESEARCH = [
 # items are routinely just a raw guideline PDF filename as the "title"
 # ("cir.0000000000001415.9956256.pdf") with no real headline - not worth a
 # dedicated query of its own either, the quality floor is too low.
+# Tested with when:1d: 0 results, even on their own - these three publish too
+# rarely for a 1-day window; given their own query window:7d in sources_rss_urls.
 SOURCES_WORLD_TOP_JOURNALS = [
     "annals.org",            # Annals of Internal Medicine
     "jacc.org",              # Journal of the American College of Cardiology
     "ashpublications.org",   # Blood / Blood Advances (hematology)
 ]
 
+# Tested with when:1d: BioSpace (72) and statnews.com (13) dominate;
+# endpointsnews.com and pink.pharmaintelligence.informa.com got zero. Split off
+# the lower-volume two into their own (wider-window) query.
 SOURCES_WORLD_MARKET = [
     "statnews.com",
-    "endpointsnews.com",
-    "pink.pharmaintelligence.informa.com",
     "fiercepharma.com",     # pharma/biotech trade press -> Rynek
     "biopharmadive.com",    # pharma/biotech trade press -> Rynek
     "biospace.com",         # pharma/biotech trade press -> Rynek
+]
+
+SOURCES_WORLD_MARKET_MINOR = [
+    "endpointsnews.com",
+    "pink.pharmaintelligence.informa.com",
 ]
 
 # International/EU health bodies beyond EMA/ECDC (already in REGULATORS) - lower
@@ -156,9 +179,14 @@ SOURCES_WORLD_INTL_ORGS = [
     "ourworldindata.org",
 ]
 
-# US federal health agencies beyond CDC/FDA (already in REGULATORS).
+# US federal health agencies beyond CDC/FDA (already in REGULATORS). Tested
+# with when:1d: nih.gov alone took 86/100, the other 7 domains shared the rest
+# (most landing on zero) - split nih.gov off into its own query.
 SOURCES_US_GOV = [
     "nih.gov",
+]
+
+SOURCES_US_GOV_MINOR = [
     "nlm.nih.gov",
     "medlineplus.gov",
     "ahrq.gov",
@@ -172,8 +200,12 @@ SOURCES_US_GOV = [
 # Springer, Wiley) - like Nature/Science, these publish across every scientific
 # field, not just medicine, and are prolific enough to need their own query plus
 # the same off-topic relevance gate (see _is_broad_science_source in classify.py).
+# Tested with when:1d: MDPI took 97/100 on its own - split off the other four.
 SOURCES_ACADEMIC_PUBLISHERS = [
     "mdpi.com",
+]
+
+SOURCES_ACADEMIC_PUBLISHERS_MINOR = [
     "frontiersin.org",
     "sciencedirect.com",
     "link.springer.com",
@@ -181,21 +213,29 @@ SOURCES_ACADEMIC_PUBLISHERS = [
 ]
 
 SOURCES_WORLD = (
-    SOURCES_WORLD_MAJOR + SOURCES_WORLD_REGULATORS + SOURCES_WORLD_GUIDELINES_RESEARCH
-    + SOURCES_WORLD_MARKET + SOURCES_WORLD_INTL_ORGS + SOURCES_US_GOV + SOURCES_ACADEMIC_PUBLISHERS
+    SOURCES_WORLD_MAJOR + SOURCES_WORLD_REGULATORS
+    + SOURCES_TRIAL_REGISTRIES + SOURCES_GUIDELINE_BODIES + SOURCES_RESEARCH_LITERATURE
+    + SOURCES_OUTBREAK_TRACKING + SOURCES_DRUG_REFERENCE
+    + SOURCES_WORLD_MARKET + SOURCES_WORLD_MARKET_MINOR
+    + SOURCES_WORLD_INTL_ORGS
+    + SOURCES_US_GOV + SOURCES_US_GOV_MINOR
+    + SOURCES_ACADEMIC_PUBLISHERS + SOURCES_ACADEMIC_PUBLISHERS_MINOR
     + SOURCES_WORLD_TOP_JOURNALS
 )
 
 
-def build_site_query(domains):
+def build_site_query(domains, when='1d'):
     # Google News RSS ranks by its own relevance/popularity signal, not by date -
     # confirmed empirically: an unfiltered query's 100 results were almost all
     # "evergreen" pages Google re-crawled, with only 1-2 actually from today.
-    # "when:1d" is a real Google Search time-range operator that News RSS
+    # "when:Nd" is a real Google Search time-range operator that News RSS
     # honours, so this turns each query into "everything from this site in the
-    # last day" instead of "whatever Google currently ranks highest" - the
+    # last N days" instead of "whatever Google currently ranks highest" - the
     # difference between a feed that updates hourly and one that looks frozen.
-    return "(" + " OR ".join(f"site:{d}" for d in domains) + ") when:1d"
+    # Lower-volume domain groups use a wider window (when:5d/7d) - tested with
+    # when:1d, several (the new split-off "_MINOR" groups, SOURCES_WORLD_TOP_JOURNALS)
+    # came back with literally 0 results; they just don't publish daily.
+    return "(" + " OR ".join(f"site:{d}" for d in domains) + f") when:{when}"
 
 
 # No "+medycyna"/"+medicine" keyword suffix - every domain here is already a
@@ -207,22 +247,36 @@ PL_QUERY = build_site_query(SOURCES_PL_MAJOR)
 PL_QUERY_GOV_POLICY = build_site_query(SOURCES_PL_GOV_POLICY)
 WORLD_QUERY = build_site_query(SOURCES_WORLD_MAJOR)
 WORLD_QUERY_REGULATORS = build_site_query(SOURCES_WORLD_REGULATORS)
-WORLD_QUERY_GUIDELINES_RESEARCH = build_site_query(SOURCES_WORLD_GUIDELINES_RESEARCH)
+WORLD_QUERY_TRIAL_REGISTRIES = build_site_query(SOURCES_TRIAL_REGISTRIES)
+WORLD_QUERY_GUIDELINE_BODIES = build_site_query(SOURCES_GUIDELINE_BODIES, when='5d')
+WORLD_QUERY_RESEARCH_LITERATURE = build_site_query(SOURCES_RESEARCH_LITERATURE, when='5d')
+WORLD_QUERY_OUTBREAK_TRACKING = build_site_query(SOURCES_OUTBREAK_TRACKING, when='5d')
+WORLD_QUERY_DRUG_REFERENCE = build_site_query(SOURCES_DRUG_REFERENCE, when='5d')
 WORLD_QUERY_MARKET = build_site_query(SOURCES_WORLD_MARKET)
+WORLD_QUERY_MARKET_MINOR = build_site_query(SOURCES_WORLD_MARKET_MINOR, when='5d')
 WORLD_QUERY_INTL_ORGS = build_site_query(SOURCES_WORLD_INTL_ORGS)
 WORLD_QUERY_US_GOV = build_site_query(SOURCES_US_GOV)
+WORLD_QUERY_US_GOV_MINOR = build_site_query(SOURCES_US_GOV_MINOR, when='5d')
 WORLD_QUERY_ACADEMIC_PUBLISHERS = build_site_query(SOURCES_ACADEMIC_PUBLISHERS)
-WORLD_QUERY_TOP_JOURNALS = build_site_query(SOURCES_WORLD_TOP_JOURNALS)
+WORLD_QUERY_ACADEMIC_PUBLISHERS_MINOR = build_site_query(SOURCES_ACADEMIC_PUBLISHERS_MINOR, when='5d')
+WORLD_QUERY_TOP_JOURNALS = build_site_query(SOURCES_WORLD_TOP_JOURNALS, when='7d')
 
 PL_RSS_URL = f"https://news.google.com/rss/search?q={PL_QUERY}&hl=pl&gl=PL&ceid=PL:pl"
 PL_GOV_POLICY_RSS_URL = f"https://news.google.com/rss/search?q={PL_QUERY_GOV_POLICY}&hl=pl&gl=PL&ceid=PL:pl"
 WORLD_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY}&hl=en-US&gl=US&ceid=US:en"
 WORLD_REGULATORS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_REGULATORS}&hl=en-US&gl=US&ceid=US:en"
-WORLD_GUIDELINES_RESEARCH_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_GUIDELINES_RESEARCH}&hl=en-US&gl=US&ceid=US:en"
+WORLD_TRIAL_REGISTRIES_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_TRIAL_REGISTRIES}&hl=en-US&gl=US&ceid=US:en"
+WORLD_GUIDELINE_BODIES_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_GUIDELINE_BODIES}&hl=en-US&gl=US&ceid=US:en"
+WORLD_RESEARCH_LITERATURE_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_RESEARCH_LITERATURE}&hl=en-US&gl=US&ceid=US:en"
+WORLD_OUTBREAK_TRACKING_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_OUTBREAK_TRACKING}&hl=en-US&gl=US&ceid=US:en"
+WORLD_DRUG_REFERENCE_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_DRUG_REFERENCE}&hl=en-US&gl=US&ceid=US:en"
 WORLD_MARKET_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_MARKET}&hl=en-US&gl=US&ceid=US:en"
+WORLD_MARKET_MINOR_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_MARKET_MINOR}&hl=en-US&gl=US&ceid=US:en"
 WORLD_INTL_ORGS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_INTL_ORGS}&hl=en-US&gl=US&ceid=US:en"
 WORLD_US_GOV_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_US_GOV}&hl=en-US&gl=US&ceid=US:en"
+WORLD_US_GOV_MINOR_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_US_GOV_MINOR}&hl=en-US&gl=US&ceid=US:en"
 WORLD_ACADEMIC_PUBLISHERS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_ACADEMIC_PUBLISHERS}&hl=en-US&gl=US&ceid=US:en"
+WORLD_ACADEMIC_PUBLISHERS_MINOR_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_ACADEMIC_PUBLISHERS_MINOR}&hl=en-US&gl=US&ceid=US:en"
 WORLD_TOP_JOURNALS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_TOP_JOURNALS}&hl=en-US&gl=US&ceid=US:en"
 
 PUBMED_RSS_URL = "https://pubmed.ncbi.nlm.nih.gov/rss/search?term=medicine"

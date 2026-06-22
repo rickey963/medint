@@ -38,10 +38,16 @@ _ENRICH_SESSION.headers.update({
 })
 ENRICH_BUDGET_PER_RUN = 300
 
-# Per-tile cap in _merge_and_save. Raised from the original 20 so low-volume
-# sources (a government body, a smaller society) don't get squeezed out of a
-# bucket entirely by whichever publisher happens to post most often that day.
-MAX_ITEMS_PER_TILE = 50
+# Per-tile cap in _merge_and_save, plus a per-source-domain cap applied before
+# it. Splitting collector queries by volume tier (see sources.py) gets a
+# low-volume source's articles *fetched* at all, but a per-domain cap is what
+# actually guarantees shelf space in the final tile regardless of how the
+# queries are grouped - even within one query, a single very prolific outlet
+# could otherwise still fill every slot. Newest-first per source, so the
+# oldest of any one outlet's articles are what ages out as fresher ones from
+# every other outlet keep arriving.
+MAX_ITEMS_PER_TILE = 100
+MAX_ITEMS_PER_SOURCE = 5
 
 # Processing order for _merge_and_save - deliberately not dict insertion order
 # (which follows whichever collector's ThreadPoolExecutor future happened to
@@ -833,14 +839,26 @@ def _merge_and_save(path, new_items, enrich_budget=None, window_days=MAX_AGE_DAY
     # Every tile pools many distinct publishers of very different publishing
     # frequency (mp.pl/Termedia publish many times a day; a government body
     # like NFZ/NIL/URPL, or a society like ESC/IDSA, might post a few times a
-    # week) into one bucket. A flat top-20 cap meant the high-frequency
-    # outlets alone could fill every slot every run, silently squeezing out
+    # week) into one bucket. A flat top-N cap meant the high-frequency outlets
+    # alone could fill every slot every run, silently squeezing out
     # lower-frequency (but still legitimately fresh and correctly classified)
     # sources entirely - verified for news_pl.json specifically: NFZ/NIL/URPL
-    # items were passing classify() fine but never survived the cap. Raised
-    # everywhere so every configured source domain actually gets a chance to
-    # appear instead of just the handful with the highest daily volume.
-    final_items = deduped[:MAX_ITEMS_PER_TILE]
+    # items were passing classify() fine but never survived the cap. Capping
+    # per source (newest-first, so each outlet's own oldest articles are what
+    # ages out) guarantees every configured domain keeps its shelf space
+    # regardless of how often any other one publishes, and the overall tile
+    # cap is raised accordingly so that guarantee isn't immediately undone by
+    # a too-small total.
+    final_items = []
+    per_source_count = {}
+    for it in deduped:
+        if len(final_items) >= MAX_ITEMS_PER_TILE:
+            break
+        src = it.get('source') or 'MEDINT'
+        if per_source_count.get(src, 0) >= MAX_ITEMS_PER_SOURCE:
+            continue
+        per_source_count[src] = per_source_count.get(src, 0) + 1
+        final_items.append(it)
 
     # Only the items that actually survive dedup/recency/truncation are ever shown,
     # so only spend the enrichment budget (one outbound fetch per item) on those -

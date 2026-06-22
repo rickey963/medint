@@ -123,10 +123,50 @@ def fetch_world_regulators():
     return _parse_google_news_rss(html, helper, default_source='Świat')
 
 
-def fetch_world_guidelines_research():
-    """Separate query for smaller guideline bodies/research repositories - would
-    otherwise get crowded out by WHO/CDC/FDA's publication volume. See sources.py."""
-    helper = BaseScraper('World-Guidelines-Research-Collector', sources.WORLD_GUIDELINES_RESEARCH_RSS_URL, '', lang='pl')
+def fetch_world_trial_registries():
+    """Clinical trial registries + Drugs.com - split off from the old single
+    "guidelines/research" group, which they alone filled 98/100 of (see
+    sources.py)."""
+    helper = BaseScraper('World-Trial-Registries-Collector', sources.WORLD_TRIAL_REGISTRIES_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
+def fetch_world_guideline_bodies():
+    """Guideline-issuing bodies (NICE, ESMO, ASCO, ESC, IDSA, UpToDate...) -
+    lower volume than trial registries, own query + wider when: window."""
+    helper = BaseScraper('World-Guideline-Bodies-Collector', sources.WORLD_GUIDELINE_BODIES_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
+def fetch_world_research_literature():
+    """Research literature/preprint repositories (PubMed via Google News,
+    EuropePMC, arXiv, medRxiv, EUR-Lex) - own query, see sources.py."""
+    helper = BaseScraper('World-Research-Literature-Collector', sources.WORLD_RESEARCH_LITERATURE_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
+def fetch_world_outbreak_tracking():
+    """Dedicated outbreak/epidemiology trackers (ProMED, HealthMap,
+    Eurosurveillance, Outbreak News Today) - own query, see sources.py."""
+    helper = BaseScraper('World-Outbreak-Tracking-Collector', sources.WORLD_OUTBREAK_TRACKING_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
+def fetch_world_drug_reference():
+    """Drug/EBM reference sites (Yellow Card, DrugBank) - own query, see sources.py."""
+    helper = BaseScraper('World-Drug-Reference-Collector', sources.WORLD_DRUG_REFERENCE_RSS_URL, '', lang='pl')
     html = helper.fetch_html()
     if not html:
         return []
@@ -136,6 +176,16 @@ def fetch_world_guidelines_research():
 def fetch_world_market():
     """Separate query for pharma/biotech market trade press - see sources.py."""
     helper = BaseScraper('World-Market-Collector', sources.WORLD_MARKET_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
+def fetch_world_market_minor():
+    """endpointsnews.com / pink.pharmaintelligence.informa.com - split off
+    fetch_world_market, which BioSpace/statnews alone filled 85/100 of."""
+    helper = BaseScraper('World-Market-Minor-Collector', sources.WORLD_MARKET_MINOR_RSS_URL, '', lang='pl')
     html = helper.fetch_html()
     if not html:
         return []
@@ -153,8 +203,8 @@ def fetch_world_intl_orgs():
 
 
 def fetch_world_us_gov():
-    """Separate query for US federal health agencies beyond CDC/FDA (NIH, NLM,
-    MedlinePlus, AHRQ, CMS, NCI, NIAID, NICHD) - see sources.py."""
+    """Separate query for NIH - see sources.py (it alone filled 86/100 of the
+    original combined US-gov query)."""
     helper = BaseScraper('World-US-Gov-Collector', sources.WORLD_US_GOV_RSS_URL, '', lang='pl')
     html = helper.fetch_html()
     if not html:
@@ -162,11 +212,28 @@ def fetch_world_us_gov():
     return _parse_google_news_rss(html, helper, default_source='Świat')
 
 
+def fetch_world_us_gov_minor():
+    """NLM, MedlinePlus, AHRQ, CMS, NCI, NIAID, NICHD - split off fetch_world_us_gov."""
+    helper = BaseScraper('World-US-Gov-Minor-Collector', sources.WORLD_US_GOV_MINOR_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
 def fetch_world_academic_publishers():
-    """Separate query for large multi-disciplinary academic publishers (MDPI,
-    Frontiers, ScienceDirect, Springer, Wiley) - see sources.py for why these
-    need their own query (high volume) and the off-topic relevance gate."""
+    """Separate query for MDPI - see sources.py (it alone filled 97/100 of the
+    original combined academic-publishers query)."""
     helper = BaseScraper('World-Academic-Publishers-Collector', sources.WORLD_ACADEMIC_PUBLISHERS_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
+def fetch_world_academic_publishers_minor():
+    """Frontiers, ScienceDirect, Springer, Wiley - split off fetch_world_academic_publishers."""
+    helper = BaseScraper('World-Academic-Publishers-Minor-Collector', sources.WORLD_ACADEMIC_PUBLISHERS_MINOR_RSS_URL, '', lang='pl')
     html = helper.fetch_html()
     if not html:
         return []
@@ -289,11 +356,18 @@ def fetch_all():
         (fetch_pl_gov_policy, 'pl'),
         (fetch_world, 'world'),
         (fetch_world_regulators, 'world'),
-        (fetch_world_guidelines_research, 'world'),
+        (fetch_world_trial_registries, 'world'),
+        (fetch_world_guideline_bodies, 'world'),
+        (fetch_world_research_literature, 'world'),
+        (fetch_world_outbreak_tracking, 'world'),
+        (fetch_world_drug_reference, 'world'),
         (fetch_world_market, 'world'),
+        (fetch_world_market_minor, 'world'),
         (fetch_world_intl_orgs, 'world'),
         (fetch_world_us_gov, 'world'),
+        (fetch_world_us_gov_minor, 'world'),
         (fetch_world_academic_publishers, 'world'),
+        (fetch_world_academic_publishers_minor, 'world'),
         (fetch_world_top_journals, 'world'),
         (fetch_pubmed, 'pubmed'),
         (fetch_gis_warnings, 'pl'),

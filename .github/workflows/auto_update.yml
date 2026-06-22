@@ -59,6 +59,20 @@ jobs:
       - name: Run All Scrapers
         run: python scraper/engine.py
 
+      - name: Throttle self-trigger cadence
+        # The self-trigger chain (see the checkout step's PAT comment) was
+        # firing every ~1.5-3 minutes - GitHub Actions runners share IP ranges
+        # with thousands of other jobs, and Google News appears to start
+        # serving a stale cached result set to a heavily-querying IP rather
+        # than erroring outright: verified directly - a query run from this
+        # IP range returned the *same* ~100 items, frozen at one point in
+        # time for 2.5+ hours straight, while the identical query from a
+        # residential IP kept advancing normally the whole time. Forcing each
+        # cycle to take at least this long paces our own request rate down to
+        # something that keeps getting genuinely fresh results instead of a
+        # frozen cache, at the cost of a slower (but actually current) feed.
+        run: sleep 300
+
       - name: Commit and Push Data Updates
         run: |
           git config --local user.email "rickey@o2.pl"
