@@ -580,6 +580,7 @@ def _is_nav_chrome_title(title):
 SITE_CHROME_TITLE_HINTS = (
     'subskrypcje i zakupy', 'subscriptions and purchases', 'subscribe to',
     'zaloguj się', 'log in', 'sign in', 'create your free account',
+    'zarejestruj się', 'register now', 'create an account',
     'utwórz darmowe konto', 'cookie policy', 'polityka cookie',
     'newsletter sign', 'zapisz się do newslettera', 'privacy policy',
     'polityka prywatności', 'page not found', 'strona nie została znaleziona',
@@ -603,6 +604,22 @@ _FILENAME_TITLE_RE = re.compile(r'^[\w\-.]+\.(pdf|docx?|pptx?|xlsx?)$', re.IGNOR
 def _is_filename_title(title):
     first_segment = re.split(r'\s[—-]\s', (title or '').strip(), maxsplit=1)[0]
     return bool(_FILENAME_TITLE_RE.match(first_segment))
+
+
+# iris.who.int is WHO's institutional document *archive* - old (sometimes
+# decades-old) reports as static PDF downloads, not a news feed. Google can
+# still re-crawl/re-index one with today's date, which is how a 1995 malaria
+# control report ("KONTROLA MALARII") ended up in the alert ticker looking
+# like breaking news - the title itself never mentions a year, so the
+# title-based mentionsPastYear guard (see App.js) can't catch it; this has to
+# be filtered at the source instead.
+ARCHIVE_DOCUMENT_DOMAINS = (
+    'iris.who.int',
+)
+
+
+def _is_archive_document_url(url):
+    return any(d in (url or '') for d in ARCHIVE_DOCUMENT_DOMAINS)
 
 
 # Keyword dictionary for the "Specjalizacja" mode (spec lists 19 fields). An item
@@ -658,7 +675,7 @@ def classify(item, origin):
     text = _text_of(item)
     source = item.get('source', '')
 
-    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')):
         return None
 
     if _has_stale_citation_year(item.get('title', '')):
@@ -788,7 +805,7 @@ def _passes_quality_gate(item, is_catchall):
     earned that spot via a strong keyword signal and shouldn't be second-guessed."""
     text = _text_of(item)
     source = item.get('source', '')
-    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')):
         return False
     if _has_stale_citation_year(item.get('title', '')):
         return False
