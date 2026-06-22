@@ -634,6 +634,22 @@ def _is_archive_document_url(url):
     return any(d in (url or '') for d in ARCHIVE_DOCUMENT_DOMAINS)
 
 
+# Several approved domains (jamanetwork.com, who.int, unicef.org) run a
+# careers/job-board subdomain that Google indexes right alongside their real
+# articles - "Opis stanowiska — Specjalista techniczny" (a WHO job vacancy),
+# a UNICEF programme-associate listing, a JAMA Career Center surgeon posting.
+# None of these are medical news regardless of source prestige.
+JOB_BOARD_DOMAINS = (
+    'careers.who.int',
+    'jobs.unicef.org',
+    'careers.jamanetwork.com',
+)
+
+
+def _is_job_board_url(url):
+    return any(d in (url or '') for d in JOB_BOARD_DOMAINS)
+
+
 # Reference/repository sites (ProMED, Eurosurveillance, CDC's image/equipment
 # catalogs...) expose their internal search and lookup pages at indexable
 # URLs, and Google sometimes surfaces those instead of an actual article -
@@ -705,7 +721,7 @@ def classify(item, origin):
     text = _text_of(item)
     source = item.get('source', '')
 
-    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')) or _is_job_board_url(item.get('url', '')):
         return None
 
     if _has_stale_citation_year(item.get('title', '')):
@@ -835,7 +851,7 @@ def _passes_quality_gate(item, is_catchall):
     earned that spot via a strong keyword signal and shouldn't be second-guessed."""
     text = _text_of(item)
     source = item.get('source', '')
-    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')) or _is_job_board_url(item.get('url', '')):
         return False
     if _has_stale_citation_year(item.get('title', '')):
         return False
