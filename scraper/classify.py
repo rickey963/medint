@@ -541,8 +541,11 @@ def _is_medically_relevant(text):
 # are professional/government outlets) mixes real clinical news with curiosity-bait
 # lifestyle pieces ("Czy można bezpiecznie jeść smalec?", "Co najbardziej przyciąga
 # komary?") - those are approved-domain but not useful here, so they're dropped
-# rather than left to clutter the Polska tile.
-CONSUMER_PRESS_SOURCES = ('Medonet',)
+# rather than left to clutter the Polska tile. SOURCES_PL_GENERAL_NEWS (general
+# news outlets, not medical-specific) needs the same gate even more - their
+# query's topic keywords aren't perfectly precise, so an unrelated story
+# ("Keir Starmer podał się do dymisji") can still slip through.
+CONSUMER_PRESS_SOURCES = ('Medonet', 'Polska Agencja Prasowa', 'PAP', 'PolsatNews', 'Polskie Radio')
 
 CLICKBAIT_PATTERNS = [
     'sprawdzamy, czy', 'zagadka rozwiązana', 'wielki powrót', 'co najbardziej przyciąga',

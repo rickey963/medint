@@ -105,6 +105,17 @@ def fetch_pl_gov_policy():
     return _parse_google_news_rss(html, helper, default_source='Polska')
 
 
+def fetch_pl_general_news():
+    """polsatnews.pl/pap.pl/polskieradio24.pl - general-interest PL outlets,
+    not medical-specific, so the query itself (see build_general_news_query)
+    adds a medical-topic keyword constraint the other PL groups don't need."""
+    helper = BaseScraper('PL-General-News-Collector', sources.PL_GENERAL_NEWS_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Polska')
+
+
 def fetch_world():
     helper = BaseScraper('World-Collector', sources.WORLD_RSS_URL, '', lang='pl')
     html = helper.fetch_html()
@@ -354,6 +365,7 @@ def fetch_all():
     jobs = [
         (fetch_pl, 'pl'),
         (fetch_pl_gov_policy, 'pl'),
+        (fetch_pl_general_news, 'pl'),
         (fetch_world, 'world'),
         (fetch_world_regulators, 'world'),
         (fetch_world_trial_registries, 'world'),

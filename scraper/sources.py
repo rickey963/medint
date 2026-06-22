@@ -54,7 +54,18 @@ SOURCES_PL_GOV_POLICY = [
     "gov.pl/web/konsultanci-krajowi",
 ]
 
-SOURCES_PL = SOURCES_PL_MAJOR + SOURCES_PL_GOV_POLICY
+# General-interest PL news outlets (not medical-specific), unlike everything
+# else in SOURCES_PL - a bare site: query against them would return mostly
+# politics/sports/weather, so this group's query (see build_general_news_query)
+# adds a medical-topic keyword constraint that the other (already
+# medical-only) PL/world groups deliberately don't need.
+SOURCES_PL_GENERAL_NEWS = [
+    "polsatnews.pl",
+    "pap.pl",                # Polska Agencja Prasowa
+    "polskieradio24.pl",
+]
+
+SOURCES_PL = SOURCES_PL_MAJOR + SOURCES_PL_GOV_POLICY + SOURCES_PL_GENERAL_NEWS
 
 # Google News RSS caps results at ~100 items per query and ranks by its own
 # relevance/authority signal, not by domain count - lumping all ~35 world domains
@@ -238,6 +249,20 @@ def build_site_query(domains, when='1d'):
     return "(" + " OR ".join(f"site:{d}" for d in domains) + f") when:{when}"
 
 
+# General-interest outlets aren't medical-specific the way every other approved
+# domain is, so (unlike build_site_query) this adds a topic constraint -
+# otherwise site:polsatnews.pl etc. returns mostly politics/sports/weather.
+GENERAL_NEWS_MEDICAL_TOPIC_QUERY = (
+    "(zdrowie OR medycyna OR szpital OR pacjent OR lekarz OR choroba OR lek OR "
+    "szczepionka OR epidemia OR NFZ OR Ministerstwo Zdrowia)"
+)
+
+
+def build_general_news_query(domains, when='1d'):
+    site_part = "(" + " OR ".join(f"site:{d}" for d in domains) + ")"
+    return f"{site_part} {GENERAL_NEWS_MEDICAL_TOPIC_QUERY} when:{when}"
+
+
 # No "+medycyna"/"+medicine" keyword suffix - every domain here is already a
 # medical/health-specific outlet (that's what makes it "approved" in the first
 # place), so requiring the literal word too was a second, redundant filter that
@@ -245,6 +270,7 @@ def build_site_query(domains, when='1d'):
 # query against ESC/NICE/Fierce Pharma/BioSpace from 0 to 100 results).
 PL_QUERY = build_site_query(SOURCES_PL_MAJOR)
 PL_QUERY_GOV_POLICY = build_site_query(SOURCES_PL_GOV_POLICY)
+PL_QUERY_GENERAL_NEWS = build_general_news_query(SOURCES_PL_GENERAL_NEWS)
 WORLD_QUERY = build_site_query(SOURCES_WORLD_MAJOR)
 WORLD_QUERY_REGULATORS = build_site_query(SOURCES_WORLD_REGULATORS)
 WORLD_QUERY_TRIAL_REGISTRIES = build_site_query(SOURCES_TRIAL_REGISTRIES)
@@ -263,6 +289,7 @@ WORLD_QUERY_TOP_JOURNALS = build_site_query(SOURCES_WORLD_TOP_JOURNALS, when='7d
 
 PL_RSS_URL = f"https://news.google.com/rss/search?q={PL_QUERY}&hl=pl&gl=PL&ceid=PL:pl"
 PL_GOV_POLICY_RSS_URL = f"https://news.google.com/rss/search?q={PL_QUERY_GOV_POLICY}&hl=pl&gl=PL&ceid=PL:pl"
+PL_GENERAL_NEWS_RSS_URL = f"https://news.google.com/rss/search?q={PL_QUERY_GENERAL_NEWS}&hl=pl&gl=PL&ceid=PL:pl"
 WORLD_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY}&hl=en-US&gl=US&ceid=US:en"
 WORLD_REGULATORS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_REGULATORS}&hl=en-US&gl=US&ceid=US:en"
 WORLD_TRIAL_REGISTRIES_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_TRIAL_REGISTRIES}&hl=en-US&gl=US&ceid=US:en"
