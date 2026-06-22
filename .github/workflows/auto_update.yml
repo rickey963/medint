@@ -8,11 +8,23 @@ on:
     # checkout/pip/npm/build/deploy steps around it and a full workflow run is
     # ~7-9 minutes, so a 10-minute cron leaves headroom without the 2-3x
     # overlap a 5-minute cron would cause.
-    - cron: '*/10 * * * *'
+    # Offset to :03/:13/:23... instead of the exact :00/:10/:20 boundary —
+    # GitHub's scheduler queues everyone's round-number cron ticks together,
+    # and under load it silently drops ticks rather than just delaying them
+    # (observed: a 6-11h gap with zero schedule-triggered runs even though
+    # the workflow stayed "active"). Off-the-hour minutes see far less queue
+    # contention.
+    - cron: '3-59/10 * * * *'
   workflow_dispatch:
   push:
     branches:
       - main
+
+concurrency:
+  # Schedule and push triggers can land close together; queue them instead of
+  # running in parallel so they don't race on the same git push / Pages deploy.
+  group: medint-auto-update
+  cancel-in-progress: false
 
 jobs:
   update-and-deploy:
