@@ -315,3 +315,12 @@ GIS_WARNINGS_URL = "https://www.gov.pl/web/gis/ostrzezenia"
 # time by hours (confirmed repeatedly); reading the site's own sitemap +
 # each article's NewsArticle JSON-LD doesn't have that lag at all.
 TERMEDIA_SITEMAP_URL = "https://www.termedia.pl/sitemap-new.xml"
+
+
+def pulsmedycyny_sitemap_url():
+    # Puls Medycyny's sitemap is split into one file per calendar month
+    # (.../sitemap/2026-06.xml) rather than a single "latest" feed like
+    # Termedia's - computed at call time so it always points at the current
+    # month, not whichever month happened to be current when this was written.
+    import datetime
+    return f"https://pulsmedycyny.pl/sitemap/{datetime.datetime.utcnow():%Y-%m}.xml"

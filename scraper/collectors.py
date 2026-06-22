@@ -358,15 +358,17 @@ def fetch_gis_warnings():
     return items
 
 
-def _fetch_news_article_jsonld(session, url):
-    """Reads schema.org NewsArticle JSON-LD straight off the article page -
-    headline+description+exact ISO datePublished in one structured block.
-    Most publishers implement this because Google *requires* it for Google
-    News inclusion - which is exactly why reading it directly, instead of
-    waiting for Google to crawl/index/rank the page and serve it back to us,
-    sidesteps that lag entirely (confirmed on a live Termedia article: its
-    JSON-LD datePublished was *more current* than anything Google News'
-    RSS had surfaced for that domain in the prior several hours)."""
+def _fetch_article_metadata(session, url):
+    """Reads title/summary/timestamp straight off an article page - tries
+    schema.org NewsArticle JSON-LD first (most publishers implement it
+    because Google *requires* it for Google News inclusion), falling back to
+    plain og:title/og:description (near-universal even on sites without
+    JSON-LD - confirmed: pulsmedycyny.pl has no JSON-LD but og: tags work
+    fine). Reading this directly, instead of waiting for Google to crawl/
+    index/rank the page and serve it back to us, sidesteps that lag entirely
+    (confirmed on a live Termedia article: its JSON-LD datePublished was
+    *more current* than anything Google News' RSS had surfaced for that
+    domain in the prior several hours)."""
     try:
         resp = session.get(url, timeout=10)
         resp.raise_for_status()
@@ -379,21 +381,36 @@ def _fetch_news_article_jsonld(session, url):
                 data = next((d for d in data if isinstance(d, dict) and d.get('@type') in ('NewsArticle', 'Article')), None)
             if not isinstance(data, dict) or data.get('@type') not in ('NewsArticle', 'Article'):
                 continue
+            title = (data.get('headline') or '').strip()
+            date_iso = data.get('datePublished') or data.get('dateModified') or ''
+            if title:
+                return {
+                    'title': title,
+                    'summary': (data.get('description') or '').strip(),
+                    'date_iso': date_iso,
+                }
+
+        og_title = re.search(r'<meta[^>]*property="og:title"[^>]*content="([^"]*)"', resp.text)
+        og_desc = re.search(r'<meta[^>]*(?:property="og:description"|name="description")[^>]*content="([^"]*)"', resp.text)
+        if og_title and og_title.group(1).strip():
             return {
-                'title': (data.get('headline') or '').strip(),
-                'summary': (data.get('description') or '').strip(),
-                'date_iso': data.get('datePublished') or data.get('dateModified') or '',
+                'title': og_title.group(1).strip(),
+                'summary': (og_desc.group(1).strip() if og_desc else ''),
+                'date_iso': '',
             }
     except Exception as e:
-        logger.warning(f"Failed to read NewsArticle JSON-LD from {url}: {e}")
+        logger.warning(f"Failed to read article metadata from {url}: {e}")
     return None
 
 
 def fetch_via_sitemap(name, sitemap_url, source_label, max_articles=20):
     """Bypasses Google News entirely for one domain: reads its own sitemap
-    (a plain <url><loc>...</loc></url> list, freshest articles first) for
-    candidate URLs, then each article's own NewsArticle JSON-LD for the
-    real title/summary/timestamp - see _fetch_news_article_jsonld. No
+    (<url><loc>...<lastmod>...) for candidate URLs - sorted by <lastmod>
+    when present (e.g. pulsmedycyny.pl), otherwise trusting sitemap order as
+    freshest-first (e.g. Termedia's sitemap-new.xml, confirmed in that
+    order) - then each article's own metadata for the real title/summary/
+    timestamp; see _fetch_article_metadata. The sitemap's <lastmod> is the
+    date fallback when the page itself has no JSON-LD datePublished. No
     translation needed/wanted here since PL sources are already in Polish
     and this is the publisher's own verbatim text, not Google News' mangled
     "<title> <outlet>" placeholder."""
@@ -402,24 +419,37 @@ def fetch_via_sitemap(name, sitemap_url, source_label, max_articles=20):
     if not html:
         return []
     soup = BeautifulSoup(html, 'lxml-xml')
-    urls = [tag.get_text(strip=True) for tag in soup.find_all('loc')][:max_articles]
+    entries = []
+    for tag in soup.find_all('url'):
+        loc = tag.find('loc')
+        if not loc:
+            continue
+        lastmod = tag.find('lastmod')
+        entries.append((loc.get_text(strip=True), lastmod.get_text(strip=True) if lastmod else ''))
+    if any(lastmod for _, lastmod in entries):
+        entries.sort(key=lambda e: e[1], reverse=True)
+    entries = entries[:max_articles]
 
-    def _process(url):
-        article = _fetch_news_article_jsonld(helper.session, url)
-        if not article or not article['title'] or not article['date_iso']:
+    def _process(entry):
+        url, sitemap_lastmod = entry
+        article = _fetch_article_metadata(helper.session, url)
+        if not article or not article['title']:
+            return None
+        date_iso = article['date_iso'] or sitemap_lastmod
+        if not date_iso:
             return None
         return {
             'title': article['title'],
             'title_original': article['title'],
             'url': url,
-            'date': helper.format_date(article['date_iso']),
+            'date': helper.format_date(date_iso),
             'summary': article['summary'],
             'source': source_label,
         }
 
     items = []
-    with ThreadPoolExecutor(max_workers=min(10, len(urls) or 1)) as executor:
-        for result in executor.map(_process, urls):
+    with ThreadPoolExecutor(max_workers=min(10, len(entries) or 1)) as executor:
+        for result in executor.map(_process, entries):
             if result:
                 items.append(result)
     return items
@@ -429,6 +459,13 @@ def fetch_termedia_direct():
     """See fetch_via_sitemap - Termedia's own sitemap-new.xml + each
     article's JSON-LD, no Google News involved."""
     return fetch_via_sitemap('Termedia-Direct-Collector', sources.TERMEDIA_SITEMAP_URL, 'Termedia')
+
+
+def fetch_pulsmedycyny_direct():
+    """See fetch_via_sitemap - Puls Medycyny's own current-month sitemap
+    (with <lastmod> timestamps) + each article's og:title/og:description (no
+    JSON-LD on this site, confirmed), no Google News involved."""
+    return fetch_via_sitemap('PulsMedycyny-Direct-Collector', sources.pulsmedycyny_sitemap_url(), 'Puls Medycyny')
 
 
 def fetch_all():
@@ -446,6 +483,7 @@ def fetch_all():
         (fetch_pl_gov_policy, 'pl'),
         (fetch_pl_general_news, 'pl'),
         (fetch_termedia_direct, 'pl'),
+        (fetch_pulsmedycyny_direct, 'pl'),
         (fetch_world, 'world'),
         (fetch_world_regulators, 'world'),
         (fetch_world_trial_registries, 'world'),
