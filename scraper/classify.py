@@ -634,20 +634,24 @@ def _is_archive_document_url(url):
     return any(d in (url or '') for d in ARCHIVE_DOCUMENT_DOMAINS)
 
 
-# Several approved domains (jamanetwork.com, who.int, unicef.org) run a
-# careers/job-board subdomain that Google indexes right alongside their real
-# articles - "Opis stanowiska — Specjalista techniczny" (a WHO job vacancy),
-# a UNICEF programme-associate listing, a JAMA Career Center surgeon posting.
-# None of these are medical news regardless of source prestige.
-JOB_BOARD_DOMAINS = (
-    'careers.who.int',
-    'jobs.unicef.org',
-    'careers.jamanetwork.com',
+# Almost every large institution we collect from (WHO, JAMA, UNICEF, EMA so
+# far - new ones keep surfacing, e.g. "EMA Careers Portal" posting a Project
+# Management Specialist vacancy) runs a careers/job-board subdomain that
+# Google indexes right alongside their real articles. Rather than chasing
+# each one by exact domain as it turns up, match the URL/source shape these
+# job boards share instead - a "careers."/"jobs." subdomain, a "/careers/"
+# or "/job/" path segment, or a source name that says "careers" outright.
+_JOB_BOARD_URL_RE = re.compile(
+    r'://(careers|jobs)\.|/(careers|jobs|job)/', re.IGNORECASE,
 )
 
 
-def _is_job_board_url(url):
-    return any(d in (url or '') for d in JOB_BOARD_DOMAINS)
+def _is_job_board_url(item):
+    url = item.get('url') or ''
+    source = item.get('source') or ''
+    if _JOB_BOARD_URL_RE.search(url):
+        return True
+    return 'career' in source.lower()
 
 
 # Reference/repository sites (ProMED, Eurosurveillance, CDC's image/equipment
@@ -721,7 +725,7 @@ def classify(item, origin):
     text = _text_of(item)
     source = item.get('source', '')
 
-    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')) or _is_job_board_url(item.get('url', '')):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')) or _is_job_board_url(item):
         return None
 
     if _has_stale_citation_year(item.get('title', '')):
@@ -851,7 +855,7 @@ def _passes_quality_gate(item, is_catchall):
     earned that spot via a strong keyword signal and shouldn't be second-guessed."""
     text = _text_of(item)
     source = item.get('source', '')
-    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')) or _is_job_board_url(item.get('url', '')):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')) or _is_job_board_url(item):
         return False
     if _has_stale_citation_year(item.get('title', '')):
         return False
