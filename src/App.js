@@ -138,6 +138,14 @@ const selectArticleOfDay = (allData) => {
       if (!date) return;
       const ageDays = ageInDays(item.date);
       if (ageDays < 0 || ageDays > 7) return;
+      // Several top-prestige journals (NEJM/JAMA/Lancet/BMJ/JACC/Annals/
+      // Blood) sit behind Cloudflare, which blocks fetching a real excerpt -
+      // and PubMed (the fallback) only has abstracts for primary research,
+      // not their news/editorial pieces. Skipping summary-less items here
+      // means the single most-prominent hero slot always shows genuine
+      // content about that specific article rather than a generic
+      // boilerplate fallback line.
+      if (!item.summary || item.summary.trim().length < 20) return;
       const prestige = getSourceWeight(item);
 
       if (isToday(item.date)) {
