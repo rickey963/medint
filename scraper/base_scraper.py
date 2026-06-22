@@ -1,5 +1,6 @@
 import time
 import uuid
+import random
 import requests
 import logging
 import pytz
@@ -8,6 +9,17 @@ from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 from deep_translator import GoogleTranslator
 
 logger = logging.getLogger(__name__)
+
+# Rotated per-request (see fetch_html) in case Google's caching/ranking keys
+# on a UA+IP fingerprint specifically, rather than (or in addition to) the
+# URL string the existing cache-busting param already varies.
+_USER_AGENTS = (
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0',
+    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+)
+
 
 class BaseScraper:
     """
@@ -20,18 +32,25 @@ class BaseScraper:
         self.source_url = source_url
         self.target_json_path = target_json_path
         self.target_lang = lang
+        # A fresh Session (not a shared/module-level one) per scraper instance,
+        # and Connection: close below, so nothing about this request can ride
+        # an already-established (and possibly cache-pinned) TCP/TLS session
+        # from a previous call.
         self.session = requests.Session()
         self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Chrome/91.0.4472.124) Safari/537.36',
+            'User-Agent': random.choice(_USER_AGENTS),
             # Identical Google News RSS query strings kept returning the exact
             # same ~100 results for hours from GitHub Actions while the same
             # query from a residential connection kept advancing normally -
             # consistent with an intermediate cache keyed on the literal URL
             # (CDN/proxy level, not Google's own ranking) rather than on
             # requester identity. no-cache headers ask any such cache to
-            # revalidate instead of serving its stored copy.
+            # revalidate instead of serving its stored copy, and Connection:
+            # close prevents reusing a pooled connection that might be pinned
+            # to whichever cache/edge node served the last stale response.
             'Cache-Control': 'no-cache, no-store, max-age=0',
             'Pragma': 'no-cache',
+            'Connection': 'close',
         })
 
     def translate_text(self, text):
