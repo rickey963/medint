@@ -71,6 +71,14 @@
     ]
   },
   {
+    "title": "Aktywny fosforan wapnia Faza nierekrutacyjna Nie dotyczy Badania dotyczące leczenia zapalenia przyzębia / leczenia ubytków śródkostnych przyzębia",
+    "url": "https://go.drugbank.com/drugs/DB11348/clinical_trials?conditions=DBCOND0077596%2CDBCOND0010286&phase=&purpose=treatment&status=active_not_recruiting",
+    "date": "2026-06-22 15:32",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": []
+  },
+  {
     "title": "Inclisiran Active, faza nierekrutacyjna N/A Badania dotyczące miażdżycy / miażdżycowych chorób układu krążenia",
     "url": "https://go.drugbank.com/drugs/DB14901/clinical_trials?conditions=DBCOND0060578%2CDBCOND0078488&phase=&status=active_not_recruiting",
     "date": "2026-06-22 15:30",
@@ -113,6 +121,16 @@
     "specializations": []
   },
   {
+    "title": "Badania fazy 1 wycofania hydroksymocznika w leczeniu nadciśnienia płucnego (PH).",
+    "url": "https://go.drugbank.com/drugs/DB01005/clinical_trials?conditions=DBCOND0051788&phase=1&purpose=treatment&status=withdrawn",
+    "date": "2026-06-22 14:37",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Pulmonologia"
+    ]
+  },
+  {
     "title": "NRx Pharmaceuticals ogłasza przyznanie przez FDA protokołu rozszerzonego dostępu do stosowania leku NRX-101 na bazie D-cykloseryny do wzmacniania przezczaszkowej stymulacji magnetycznej w leczeniu depresji",
     "url": "https://www.biospace.com/press-releases/nrx-pharmaceuticals-announces-fda-grant-of-expanded-access-protocol-for-use-of-d-cycloserine-based-nrx-101-for-augmentation-of-transcranial-magnetic-stimulation-in-the-treatment-of-depression",
     "date": "2026-06-22 14:35",
@@ -129,6 +147,16 @@
     "summary": "Biotechnologia, której współzałożycielką jest Sofinnova Partners i były szef działu badań i rozwoju firmy Sanofi w dziedzinie immunologii, testuje nowe leki biologiczne przeciwko powszechnym chorobom immunologicznym.",
     "source": "BioPharma Dive",
     "specializations": []
+  },
+  {
+    "title": "Faza wycofania diklofenaku Nie dotyczy Badania dotyczące ran i urazów / Procedury chirurgiczne / Ból / Leczenie złamań żeber",
+    "url": "https://go.drugbank.com/drugs/DB00586/clinical_trials?conditions=DBCOND0012160%2CDBCOND0038350%2CDBCOND0047050%2CDBCOND0029417&phase=&purpose=treatment&status=withdrawn",
+    "date": "2026-06-22 13:44",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Chirurgia"
+    ]
   },
   {
     "title": "Rejestracja zakładu i lista urządzeń",
@@ -231,14 +259,6 @@
     "specializations": []
   },
   {
-    "title": "Sewofluran zakończył fazę N/A w leczeniu migotania przedsionków (AF).",
-    "url": "https://go.drugbank.com/drugs/DB01236/clinical_trials?status=completed&purpose=treatment&conditions=DBCOND0000503",
-    "date": "2026-06-22 06:26",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": []
-  },
-  {
     "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=21&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondate",
     "date": "2026-06-22 05:17",
@@ -247,24 +267,12 @@
     "specializations": []
   },
   {
-    "title": "Adalimumab ukończył badania fazy 3 dotyczące leczenia łuszczycy paznokci/łuszczycy plackowatej",
-    "url": "https://go.drugbank.com/drugs/DB00051/clinical_trials?conditions=DBCOND0029615%2CDBCOND0123044&phase=3&purpose=treatment&status=completed",
-    "date": "2026-06-22 02:37",
+    "title": "Wpływ zakazu palenia w samochodach z dziećmi na narażenie na drugie",
+    "url": "https://thorax.bmj.com/content/thoraxjnl/75/4/345.full.pdf",
+    "date": "2026-06-22 02:06",
     "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Dermatologia"
-    ]
-  },
-  {
-    "title": "Triamcynolon Zakończona faza N/A Badania dotyczące fakoemulsyfikacji / rozwoju zaćmy / leczenia stanów zapalnych",
-    "url": "https://go.drugbank.com/drugs/DB00620/clinical_trials?conditions=DBCOND0096028%2CDBCOND0172022%2CDBCOND0040659&phase=&purpose=treatment&status=completed",
-    "date": "2026-06-22 02:31",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Okulistyka"
-    ]
+    "source": "thorax.bmj.com",
+    "specializations": []
   },
   {
     "title": "Zasoby edukacyjne IND fazy 1",
@@ -307,6 +315,17 @@
     "summary": "",
     "source": "fda.gov",
     "specializations": []
+  },
+  {
+    "title": "Bezpieczeństwo ceftriaksonu w pediatrii: przegląd systematyczny",
+    "url": "https://adc.bmj.com/content/archdischild/early/2020/03/06/archdischild-2019-317950.full.pdf",
+    "date": "2026-06-22 01:53",
+    "summary": "",
+    "source": "Archives of Disease in Childhood",
+    "specializations": [
+      "Pediatria"
+    ],
+    "safety_level": "🟡 ALERT"
   },
   {
     "title": "NAJWAŻNIEJSZE INFORMACJE DOTYCZĄCE PRZEPISU Te najważniejsze informacje nie obejmują wszystkich informacji niezbędnych do bezpiecznego i skutecznego stosowania leku DATROWAY.",
@@ -367,19 +386,19 @@
     "specializations": []
   },
   {
-    "title": "Pliki cenowe ASP",
-    "url": "https://www.cms.gov/medicare/payment/part-b-drugs/asp-pricing-files",
-    "date": "2026-06-18 09:00",
-    "summary": "Uzyskaj dostęp do plików cenowych CMS ASP dla leków Medicare Część B, w tym plików kwartalnych limitów płatności, przejść dla pieszych NDC-HCPCS i danych historycznych wykorzystywanych do określania stawek zwrotu kosztów.",
-    "source": "Centers for Medicare & Medicaid Services | CMS (.gov)",
-    "specializations": []
-  },
-  {
     "title": "Molekularne i komórkowe korelaty lateralizacji kory ludzkiej",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42315596/",
     "date": "2026-06-18 09:00",
     "summary": "",
     "source": "National Institutes of Health (.gov)",
+    "specializations": []
+  },
+  {
+    "title": "Pliki cenowe ASP",
+    "url": "https://www.cms.gov/medicare/payment/part-b-drugs/asp-pricing-files",
+    "date": "2026-06-18 09:00",
+    "summary": "Uzyskaj dostęp do plików cenowych CMS ASP dla leków Medicare Part B, w tym plików dotyczących kwartalnych limitów płatności, przejść dla pieszych NDC-HCPCS i danych historycznych wykorzystywanych do określania stawek zwrotu kosztów.",
+    "source": "Centers for Medicare & Medicaid Services | CMS (.gov)",
     "specializations": []
   },
   {
