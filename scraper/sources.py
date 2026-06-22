@@ -120,9 +120,13 @@ SOURCES_WORLD_GUIDELINES_RESEARCH = [
 # More elite-tier specialty journals for the Clinical Intelligence Feed
 # ("top of the top"), split into their own query so they don't get crowded out
 # by the high-volume SOURCES_WORLD_MAJOR group the same way ESC/IDSA did.
+# ahajournals.org deliberately excluded: tested and it alone filled 100/100
+# results in this group (crowding out the other three entirely) AND its own
+# items are routinely just a raw guideline PDF filename as the "title"
+# ("cir.0000000000001415.9956256.pdf") with no real headline - not worth a
+# dedicated query of its own either, the quality floor is too low.
 SOURCES_WORLD_TOP_JOURNALS = [
     "annals.org",            # Annals of Internal Medicine
-    "ahajournals.org",       # AHA family: Circulation, Stroke, Hypertension
     "jacc.org",              # Journal of the American College of Cardiology
     "ashpublications.org",   # Blood / Blood Advances (hematology)
 ]

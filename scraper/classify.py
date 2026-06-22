@@ -36,7 +36,12 @@ _ENRICH_SESSION = requests.Session()
 _ENRICH_SESSION.headers.update({
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Chrome/91.0.4472.124) Safari/537.36'
 })
-ENRICH_BUDGET_PER_RUN = 200
+ENRICH_BUDGET_PER_RUN = 300
+
+# Per-tile cap in _merge_and_save. Raised from the original 20 so low-volume
+# sources (a government body, a smaller society) don't get squeezed out of a
+# bucket entirely by whichever publisher happens to post most often that day.
+MAX_ITEMS_PER_TILE = 50
 
 # Processing order for _merge_and_save - deliberately not dict insertion order
 # (which follows whichever collector's ThreadPoolExecutor future happened to
@@ -347,8 +352,8 @@ HIGH_IMPACT_NAME_HINTS = (
     # hosts only journals in its own single specialty, so trusting the whole
     # family by name doesn't risk pulling in off-topic non-medical content the
     # way a broad "cell"/"science" hint would.
-    'annals of internal medicine', 'annals.org', 'circulation', 'jacc',
-    'american heart association', 'journal of the american college of cardiology',
+    'annals of internal medicine', 'annals.org', 'jacc',
+    'journal of the american college of cardiology',
     'blood advances', 'blood', 'ashpublications.org',
 )
 
@@ -581,6 +586,19 @@ def _is_site_chrome_title(title):
     return any(h in t for h in SITE_CHROME_TITLE_HINTS)
 
 
+# Some publishers (AHA's journals especially) get indexed as a bare PDF
+# filename with no real <title> ("cir.0000000000001415.9956256.pdf — ...") -
+# a raw filename.ext, not a headline. Checked against the segment before any
+# " — "/" - " outlet suffix, since that's the part the publisher actually
+# supplied as the "title".
+_FILENAME_TITLE_RE = re.compile(r'^[\w\-.]+\.(pdf|docx?|pptx?|xlsx?)$', re.IGNORECASE)
+
+
+def _is_filename_title(title):
+    first_segment = re.split(r'\s[—-]\s', (title or '').strip(), maxsplit=1)[0]
+    return bool(_FILENAME_TITLE_RE.match(first_segment))
+
+
 # Keyword dictionary for the "Specjalizacja" mode (spec lists 19 fields). An item
 # can legitimately match more than one (e.g. "pediatric oncology"), so this tags
 # every match rather than picking a single best one.
@@ -634,7 +652,7 @@ def classify(item, origin):
     text = _text_of(item)
     source = item.get('source', '')
 
-    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')):
         return None
 
     if _has_stale_citation_year(item.get('title', '')):
@@ -764,7 +782,7 @@ def _passes_quality_gate(item, is_catchall):
     earned that spot via a strong keyword signal and shouldn't be second-guessed."""
     text = _text_of(item)
     source = item.get('source', '')
-    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')):
         return False
     if _has_stale_citation_year(item.get('title', '')):
         return False
@@ -812,7 +830,17 @@ def _merge_and_save(path, new_items, enrich_budget=None, window_days=MAX_AGE_DAY
         return parsed.timestamp() if parsed else 0
 
     deduped.sort(key=sort_key, reverse=True)
-    final_items = deduped[:20]
+    # Every tile pools many distinct publishers of very different publishing
+    # frequency (mp.pl/Termedia publish many times a day; a government body
+    # like NFZ/NIL/URPL, or a society like ESC/IDSA, might post a few times a
+    # week) into one bucket. A flat top-20 cap meant the high-frequency
+    # outlets alone could fill every slot every run, silently squeezing out
+    # lower-frequency (but still legitimately fresh and correctly classified)
+    # sources entirely - verified for news_pl.json specifically: NFZ/NIL/URPL
+    # items were passing classify() fine but never survived the cap. Raised
+    # everywhere so every configured source domain actually gets a chance to
+    # appear instead of just the handful with the highest daily volume.
+    final_items = deduped[:MAX_ITEMS_PER_TILE]
 
     # Only the items that actually survive dedup/recency/truncation are ever shown,
     # so only spend the enrichment budget (one outbound fetch per item) on those -
