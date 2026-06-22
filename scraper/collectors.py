@@ -77,6 +77,11 @@ def _parse_google_news_rss(html, helper, default_source):
 
         items.append({
             'title': helper.translate_text(raw_title),
+            # Kept so enrichment can search PubMed by title for journals
+            # behind Cloudflare (NEJM/JAMA/Lancet/BMJ/JACC/Annals/Blood all
+            # 403 a direct fetch) - PubMed indexes by the English title, and
+            # by the time enrichment runs `title` above is already Polish.
+            'title_original': raw_title,
             'url': link,
             'date': helper.format_date(raw_date),
             'summary': helper.translate_text(summary_raw),

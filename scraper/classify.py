@@ -101,7 +101,7 @@ def _truncate_for_translation(text, max_chars=MAX_TRANSLATE_CHARS):
 # going to fail, leaving more of it for sources that actually work.
 ENRICH_BLOCKED_DOMAINS = (
     'nejm.org', 'jamanetwork.com', 'thelancet.com', 'jacc.org',
-    'ahajournals.org', 'annals.org', 'ashpublications.org',
+    'ahajournals.org', 'annals.org', 'ashpublications.org', 'bmj.com',
 )
 
 
@@ -121,6 +121,64 @@ def _fetch_meta_description(url):
         content = (tag.get('content') if tag else '') or ''
         content = content.strip()
         return content or None
+    except Exception:
+        return None
+
+
+def _fetch_pubmed_abstract_by_title(title):
+    """Fallback for ENRICH_BLOCKED_DOMAINS (NEJM/JAMA/Lancet/BMJ/JACC/Annals/
+    Blood, all behind Cloudflare) - these journals' own papers are usually
+    also indexed in PubMed, and NCBI's E-utilities API isn't Cloudflare-
+    protected (confirmed working elsewhere - see fetch_pubmed in
+    collectors.py), so search PubMed by the article's *original English*
+    title and pull its abstract from there instead. `title` must be the
+    pre-translation title (see collectors.py's `title_original`) - PubMed
+    won't match a machine-translated Polish title against its English index.
+    """
+    if not title:
+        return None
+    try:
+        # Exact-phrase [title] matching mostly failed (Google News' scraped
+        # title differs slightly from PubMed's official one - punctuation,
+        # abbreviation...), so this is a broad free-text search instead, with
+        # the word-overlap check below guarding against grabbing an unrelated
+        # paper for a non-distinctive title.
+        search_url = (
+            'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi'
+            f'?db=pubmed&term={requests.utils.quote(title)}&retmax=1&retmode=json&sort=relevance'
+        )
+        resp = _ENRICH_SESSION.get(search_url, timeout=8)
+        resp.raise_for_status()
+        pmids = resp.json().get('esearchresult', {}).get('idlist', [])
+        if not pmids:
+            return None
+
+        summary_resp = _ENRICH_SESSION.get(
+            f'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id={pmids[0]}&retmode=json',
+            timeout=8,
+        )
+        summary_resp.raise_for_status()
+        candidate_title = summary_resp.json().get('result', {}).get(pmids[0], {}).get('title', '')
+        if not _looks_redundant(candidate_title, title):
+            # _looks_redundant computes word-set overlap; reused here as "is
+            # this PubMed hit actually the same article" rather than its
+            # usual "is this summary just the title again" job. overlap<=0.8
+            # at this point means the titles diverge too much to trust.
+            return None
+
+        fetch_url = (
+            'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi'
+            f'?db=pubmed&id={pmids[0]}&rettype=abstract&retmode=xml'
+        )
+        resp = _ENRICH_SESSION.get(fetch_url, timeout=8)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, 'lxml-xml')
+        # Structured abstracts split into labelled sections (Background/
+        # Methods/Results/Conclusion); join them into one block rather than
+        # keeping only the first.
+        parts = [tag.get_text(' ', strip=True) for tag in soup.find_all('AbstractText')]
+        text = ' '.join(p for p in parts if p).strip()
+        return text or None
     except Exception:
         return None
 
@@ -174,6 +232,8 @@ def enrich_redundant_summaries(items, translate_fn, budget):
         item['url'] = real_url
         if needs_summary:
             description = _fetch_meta_description(real_url)
+            if not description and item.get('title_original'):
+                description = _fetch_pubmed_abstract_by_title(item['title_original'])
             if description:
                 item['summary'] = translate_fn(_truncate_for_translation(description))
 
