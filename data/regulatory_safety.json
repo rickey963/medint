@@ -29,7 +29,7 @@
     "specializations": []
   },
   {
-    "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na ludziach (FIH)",
+    "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na człowieku (FIH)",
     "title_original": "Quantitative Systems Pharmacology (QSP)-Based Dose Selection for Minimum Anticipated Biological Effect Level (MABEL) in First-in- Human (FIH) Trials",
     "url": "https://www.fda.gov/media/193230/download",
     "date": "2026-06-22 17:55",
@@ -38,7 +38,7 @@
     "specializations": []
   },
   {
-    "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na człowieku (FIH)",
+    "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na ludziach (FIH)",
     "title_original": "Quantitative Systems Pharmacology (QSP)-Based Dose Selection for Minimum Anticipated Biological Effect Level (MABEL) in First-in- Human (FIH) Trials",
     "url": "https://www.fda.gov/media/193230/download",
     "date": "2026-06-22 17:55",
@@ -113,7 +113,7 @@
     "specializations": []
   },
   {
-    "title": "Badania pokazują, że federalne naciski na zwiększenie liczby dokumentów podstawowej opieki zdrowotnej w USA zakończyły się fiaskiem",
+    "title": "Badania pokazują, że federalne naciski na zwiększenie liczby dokumentów podstawowej opieki zdrowotnej w USA nie powiodły się",
     "title_original": "Federal Push To Increase U.S. Primary Care Docs Has Fizzled, Study Says",
     "url": "https://www.drugs.com/news/federal-push-increase-u-s-primary-care-docs-has-fizzled-study-says-130408.html",
     "date": "2026-06-22 16:41",
@@ -186,6 +186,15 @@
     "specializations": []
   },
   {
+    "title": "Bixalomer Ukończono badania fazy 1 dotyczące zdrowych zachowań życiowych / Fosfor",
+    "title_original": "Bixalomer Completed Phase 1 Trials for Healthy Lifestyle Behaviors / Phosphorus",
+    "url": "https://go.drugbank.com/drugs/DB15200/clinical_trials?conditions=DBCOND0059969%2CDBCOND0135396&phase=1&status=completed",
+    "date": "2026-06-22 15:25",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": []
+  },
+  {
     "title": "AbbVie przejmie Apogee, inwestując prawie 11 miliardów dolarów w długo działające leki autoimmunologiczne",
     "title_original": "AbbVie to acquire Apogee, staking nearly $11B on long-acting autoimmune drugs",
     "url": "https://www.biopharmadive.com/news/abbvie-apogee-acquire-zumilokibart-eczema-drugs/823353/",
@@ -195,15 +204,6 @@
     "specializations": [
       "Reumatologia i immunologia"
     ]
-  },
-  {
-    "title": "Bixalomer Ukończono badania fazy 1 dotyczące zdrowych zachowań życiowych / Fosfor",
-    "title_original": "Bixalomer Completed Phase 1 Trials for Healthy Lifestyle Behaviors / Phosphorus",
-    "url": "https://go.drugbank.com/drugs/DB15200/clinical_trials?conditions=DBCOND0059969%2CDBCOND0135396&phase=1&status=completed",
-    "date": "2026-06-22 15:25",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": []
   },
   {
     "title": "Verrica Pharmaceuticals ogłasza podanie dawki leku pierwszemu pacjentowi w USA w ramach drugiego kluczowego badania klinicznego (COVE-3) w ramach programu fazy 3 oceniającego YCANTH® (VP-102) w leczeniu brodawek pospolitych",
@@ -244,6 +244,16 @@
     ]
   },
   {
+    "title": "Rejestracja zakładu i lista urządzeń",
+    "title_original": "Establishment Registration & Device Listing",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=261&q=UmFkaW8gZnJlcXVlbmN5IEdlbmVyYXRvcg==&pn=10&pf=0&sc=end&rcount=263",
+    "date": "2026-06-22 14:10",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": [],
+    "safety_level": "🟢 REJESTRACJA"
+  },
+  {
     "title": "Bionyra przynosi 165 milionów dolarów na leki odpornościowe nowej generacji",
     "title_original": "Bionyra brings in $165M for next-generation immune drugs",
     "url": "https://www.biopharmadive.com/news/bionyra-immune-drug-startup-sofinnova-jeito/823296/",
@@ -253,21 +263,11 @@
     "specializations": []
   },
   {
-    "title": "Rejestracja zakładu i lista urządzeń",
-    "title_original": "Establishment Registration & Device Listing",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=171&q=T3J0aG9wZWRpYw==&pn=10&pf=0&sc=ena&rcount=207",
-    "date": "2026-06-22 13:19",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": [],
-    "safety_level": "🟢 REJESTRACJA"
-  },
-  {
     "title": "Czy lek na zaparcia może usunąć „mgłę mózgową” związaną z depresją?",
     "title_original": "Can a Constipation Drug Clear Depression’s ‘Brain Fog’?",
     "url": "https://www.medscape.com/viewarticle/can-constipation-drug-clear-depressions-brain-fog-2026a1000kz4",
     "date": "2026-06-22 12:25",
-    "summary": "Badanie potwierdzające koncepcję sugeruje, że agonista receptora 5-HT4, prukalopryd, zatwierdzony do stosowania w leczeniu przewlekłych zaparć, poprawia funkcje poznawcze u pacjentów z ustępującą depresją.",
+    "summary": "Badanie weryfikujące koncepcję sugeruje, że agonista receptora 5-HT4, prukalopryd, zatwierdzony do stosowania w leczeniu przewlekłych zaparć, poprawia funkcje poznawcze u pacjentów z ustępującą depresją.",
     "source": "Medscape",
     "specializations": [
       "Neurologia",
@@ -377,8 +377,8 @@
   {
     "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
     "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=21&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondate",
-    "date": "2026-06-22 05:17",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=1&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicenamedesc",
+    "date": "2026-06-22 04:37",
     "summary": "",
     "source": "accessdata.fda.gov",
     "specializations": []
@@ -401,9 +401,9 @@
     "specializations": []
   },
   {
-    "title": "Zasoby edukacyjne IND fazy 1",
-    "title_original": "Phase 1 IND Learning Resources",
-    "url": "https://www.fda.gov/industry/phase-1-investigational-new-drug-ind-navigator/phase-1-ind-learning-resources",
+    "title": "Przyspieszanie i unowocześnianie rozwoju klinicznego na wczesnym i późnym etapie",
+    "title_original": "Accelerating and Modernizing Early and Late-Stage Clinical Development",
+    "url": "https://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development",
     "date": "2026-06-22 02:00",
     "summary": "",
     "source": "fda.gov",
