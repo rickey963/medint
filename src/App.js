@@ -194,16 +194,30 @@ const ALERT_KEYWORDS = [
 
 const ALERT_MAX_AGE_HOURS = 7 * 24;
 
+// Catches titles like "...w prowincji Jiangsu, Chiny, 2024 r." - a retrospective
+// study *about* a past year's data, freshly indexed today. Being freshly
+// indexed doesn't make it a live threat, so a bare past-year mention in the
+// title disqualifies the automatic category trust below regardless of how
+// recent the item's own `date` is.
+const PAST_YEAR_RE = /\b(19|20)\d{2}\b/g;
+const mentionsPastYear = (title, referenceDate = new Date()) => {
+  if (!title) return false;
+  const currentYear = referenceDate.getFullYear();
+  const matches = title.match(PAST_YEAR_RE) || [];
+  return matches.some((y) => parseInt(y, 10) < currentYear);
+};
+
 const isAlertItem = (item) => {
   if (!item || !item.title) return false;
-  if (item.type === 'ALERT') return true;
   const ageHours = ageInDays(item.date) * 24;
   if (ageHours < 0 || ageHours > ALERT_MAX_AGE_HOURS) return false;
+  if (item.type === 'ALERT') return true;
   // Trust the backend's own classification first (scraper/classify.py already
   // decided this is an active outbreak or a recall/black-box item) rather than
   // re-deriving it from English/Polish keyword phrasing alone, which misses
-  // named-disease coverage that doesn't literally say "outbreak"/"epidemia".
-  if (item.category === 'Epidemiologia') return true;
+  // named-disease coverage that doesn't literally say "outbreak"/"epidemia" -
+  // but only when the title doesn't read as a retrospective citation.
+  if (item.category === 'Epidemiologia' && !mentionsPastYear(item.title)) return true;
   const safety = String(item.safety_level || '').toLowerCase();
   if (safety.includes('wycofanie') || safety.includes('black box')) {
     return true;

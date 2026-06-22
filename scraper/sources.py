@@ -117,6 +117,16 @@ SOURCES_WORLD_GUIDELINES_RESEARCH = [
     "uptodate.com",            # UpToDate -> Wytyczne
 ]
 
+# More elite-tier specialty journals for the Clinical Intelligence Feed
+# ("top of the top"), split into their own query so they don't get crowded out
+# by the high-volume SOURCES_WORLD_MAJOR group the same way ESC/IDSA did.
+SOURCES_WORLD_TOP_JOURNALS = [
+    "annals.org",            # Annals of Internal Medicine
+    "ahajournals.org",       # AHA family: Circulation, Stroke, Hypertension
+    "jacc.org",              # Journal of the American College of Cardiology
+    "ashpublications.org",   # Blood / Blood Advances (hematology)
+]
+
 SOURCES_WORLD_MARKET = [
     "statnews.com",
     "endpointsnews.com",
@@ -169,6 +179,7 @@ SOURCES_ACADEMIC_PUBLISHERS = [
 SOURCES_WORLD = (
     SOURCES_WORLD_MAJOR + SOURCES_WORLD_REGULATORS + SOURCES_WORLD_GUIDELINES_RESEARCH
     + SOURCES_WORLD_MARKET + SOURCES_WORLD_INTL_ORGS + SOURCES_US_GOV + SOURCES_ACADEMIC_PUBLISHERS
+    + SOURCES_WORLD_TOP_JOURNALS
 )
 
 
@@ -190,6 +201,7 @@ WORLD_QUERY_MARKET = build_site_query(SOURCES_WORLD_MARKET)
 WORLD_QUERY_INTL_ORGS = build_site_query(SOURCES_WORLD_INTL_ORGS)
 WORLD_QUERY_US_GOV = build_site_query(SOURCES_US_GOV)
 WORLD_QUERY_ACADEMIC_PUBLISHERS = build_site_query(SOURCES_ACADEMIC_PUBLISHERS)
+WORLD_QUERY_TOP_JOURNALS = build_site_query(SOURCES_WORLD_TOP_JOURNALS)
 
 PL_RSS_URL = f"https://news.google.com/rss/search?q={PL_QUERY}&hl=pl&gl=PL&ceid=PL:pl"
 PL_GOV_POLICY_RSS_URL = f"https://news.google.com/rss/search?q={PL_QUERY_GOV_POLICY}&hl=pl&gl=PL&ceid=PL:pl"
@@ -200,6 +212,7 @@ WORLD_MARKET_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_MARKE
 WORLD_INTL_ORGS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_INTL_ORGS}&hl=en-US&gl=US&ceid=US:en"
 WORLD_US_GOV_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_US_GOV}&hl=en-US&gl=US&ceid=US:en"
 WORLD_ACADEMIC_PUBLISHERS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_ACADEMIC_PUBLISHERS}&hl=en-US&gl=US&ceid=US:en"
+WORLD_TOP_JOURNALS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY_TOP_JOURNALS}&hl=en-US&gl=US&ceid=US:en"
 
 PUBMED_RSS_URL = "https://pubmed.ncbi.nlm.nih.gov/rss/search?term=medicine"
 

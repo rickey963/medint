@@ -300,6 +300,13 @@ def _source_contains(source, *hints):
 HIGH_IMPACT_NAME_HINTS = (
     'nejm', 'new england journal of medicine', 'lancet', 'jama', 'nature medicine',
     'bmj', 'science translational medicine',
+    # Elite specialty journals (see SOURCES_WORLD_TOP_JOURNALS) - each domain
+    # hosts only journals in its own single specialty, so trusting the whole
+    # family by name doesn't risk pulling in off-topic non-medical content the
+    # way a broad "cell"/"science" hint would.
+    'annals of internal medicine', 'annals.org', 'circulation', 'jacc',
+    'american heart association', 'journal of the american college of cardiology',
+    'blood advances', 'blood', 'ashpublications.org',
 )
 
 

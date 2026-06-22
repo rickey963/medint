@@ -173,6 +173,18 @@ def fetch_world_academic_publishers():
     return _parse_google_news_rss(html, helper, default_source='Świat')
 
 
+def fetch_world_top_journals():
+    """Separate query for elite specialty journals (Annals of Internal Medicine,
+    the AHA family, JACC, Blood) feeding the Clinical Intelligence Feed - see
+    sources.py for why these need their own query rather than joining
+    SOURCES_WORLD_MAJOR (crowding risk)."""
+    helper = BaseScraper('World-Top-Journals-Collector', sources.WORLD_TOP_JOURNALS_RSS_URL, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    return _parse_google_news_rss(html, helper, default_source='Świat')
+
+
 def fetch_pubmed():
     """pubmed.ncbi.nlm.nih.gov/rss/search is the browser-facing site and has
     started 403ing automated requests outright, so this goes through NCBI's
@@ -282,6 +294,7 @@ def fetch_all():
         (fetch_world_intl_orgs, 'world'),
         (fetch_world_us_gov, 'world'),
         (fetch_world_academic_publishers, 'world'),
+        (fetch_world_top_journals, 'world'),
         (fetch_pubmed, 'pubmed'),
         (fetch_gis_warnings, 'pl'),
     ]
