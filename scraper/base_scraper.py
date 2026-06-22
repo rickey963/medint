@@ -1,7 +1,10 @@
+import time
+import uuid
 import requests
 import logging
 import pytz
 from dateutil import parser
+from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 from deep_translator import GoogleTranslator
 
 logger = logging.getLogger(__name__)
@@ -19,7 +22,16 @@ class BaseScraper:
         self.target_lang = lang
         self.session = requests.Session()
         self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Chrome/91.0.4472.124) Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Chrome/91.0.4472.124) Safari/537.36',
+            # Identical Google News RSS query strings kept returning the exact
+            # same ~100 results for hours from GitHub Actions while the same
+            # query from a residential connection kept advancing normally -
+            # consistent with an intermediate cache keyed on the literal URL
+            # (CDN/proxy level, not Google's own ranking) rather than on
+            # requester identity. no-cache headers ask any such cache to
+            # revalidate instead of serving its stored copy.
+            'Cache-Control': 'no-cache, no-store, max-age=0',
+            'Pragma': 'no-cache',
         })
 
     def translate_text(self, text):
@@ -51,11 +63,22 @@ class BaseScraper:
             logger.error(f"[{self.name}] Date parsing error for {date_str}: {e}")
             return date_str
 
+    def _cache_busted_url(self, url):
+        """Appends a never-repeating query param so an intermediate cache
+        keyed on the exact URL string (rather than on freshness/identity)
+        can't serve a stored response - see the Cache-Control comment above
+        for why this exists."""
+        parts = urlsplit(url)
+        query = parse_qsl(parts.query, keep_blank_values=True)
+        query.append(('_cb', f'{int(time.time())}-{uuid.uuid4().hex[:8]}'))
+        return urlunsplit(parts._replace(query=urlencode(query)))
+
     def fetch_html(self):
         """Fetches the HTML content of the source URL."""
         try:
-            logger.info(f"[{self.name}] Fetching: {self.source_url}")
-            response = self.session.get(self.source_url, timeout=15)
+            url = self._cache_busted_url(self.source_url)
+            logger.info(f"[{self.name}] Fetching: {url}")
+            response = self.session.get(url, timeout=15)
             response.raise_for_status()
             return response.text
         except requests.exceptions.RequestException as e:
