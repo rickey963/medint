@@ -1,17 +1,20 @@
 import React from 'react';
-import { formatToPolishFormat, isWithinLastHour } from '../utils/dateUtils';
+import { formatToPolishFormat, isWithinLastHour, isWithinLastTwoHours } from '../utils/dateUtils';
 import { cleanSummary } from '../utils/textUtils';
 
 const IntelligenceRow = ({ item }) => {
   const summary = cleanSummary(item.summary, item.title);
   const fresh = isWithinLastHour(item.date);
+  const recent = isWithinLastTwoHours(item.date);
   return (
     <a
       href={item.url}
       target="_blank"
       rel="noopener noreferrer"
       className={`block px-3 py-2 border-b last:border-b-0 hover:bg-blue-500/10 transition-colors group ${
-        fresh ? 'bg-emerald-500/15 border-emerald-400/50 border-l-2 border-l-emerald-400 shadow-[0_0_12px_rgba(16,185,129,0.3)]' : 'border-slate-800'
+        fresh ? 'bg-emerald-500/15 border-emerald-400/50 border-l-2 border-l-emerald-400 shadow-[0_0_12px_rgba(16,185,129,0.3)]'
+          : recent ? 'bg-emerald-500/5 border-emerald-500/30 border-l-2 border-l-emerald-500/40'
+          : 'border-slate-800'
       }`}
     >
       <div className="flex items-center justify-between gap-2 mb-1">

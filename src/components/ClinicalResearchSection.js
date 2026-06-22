@@ -1,5 +1,5 @@
 import React from 'react';
-import { formatToPolishFormat, isWithinLastHour } from '../utils/dateUtils';
+import { formatToPolishFormat, isWithinLastHour, isWithinLastTwoHours } from '../utils/dateUtils';
 import { cleanSummary } from '../utils/textUtils';
 import ImportanceBadge from './ImportanceBadge';
 
@@ -17,9 +17,12 @@ const ClinicalResearchSection = ({ title, data }) => {
           {data && data.length > 0 ? (
             data.map((item, index) => {
               const fresh = isWithinLastHour(item.date);
+              const recent = isWithinLastTwoHours(item.date);
               return (
               <div key={index} className={`p-3 rounded-lg transition-all duration-300 border hover:border-blue-700/50 hover:bg-slate-800/60 group ${
-                fresh ? 'border-emerald-400 bg-emerald-500/15 ring-2 ring-emerald-400/50 shadow-[0_0_16px_rgba(16,185,129,0.4)]' : 'border-slate-800 bg-slate-800/30'
+                fresh ? 'border-emerald-400 bg-emerald-500/15 ring-2 ring-emerald-400/50 shadow-[0_0_16px_rgba(16,185,129,0.4)]'
+                  : recent ? 'border-emerald-500/40 bg-emerald-500/5 ring-1 ring-emerald-400/20'
+                  : 'border-slate-800 bg-slate-800/30'
               }`}>
                 <a href={item.url} target="_blank" rel="noopener noreferrer" className="block">
                   <div className="flex justify-between items-start mb-2 gap-2">

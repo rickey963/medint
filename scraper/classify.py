@@ -36,7 +36,14 @@ _ENRICH_SESSION = requests.Session()
 _ENRICH_SESSION.headers.update({
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Chrome/91.0.4472.124) Safari/537.36'
 })
-ENRICH_BUDGET_PER_RUN = 70
+ENRICH_BUDGET_PER_RUN = 200
+
+# Processing order for _merge_and_save - deliberately not dict insertion order
+# (which follows whichever collector's ThreadPoolExecutor future happened to
+# resolve first, i.e. random per run). clinical_intelligence.json is the hero
+# tile, so it gets first claim on the shared enrich_budget; anything not
+# listed here keeps whatever order buckets.items() yields.
+TILE_SAVE_PRIORITY = ['clinical_intelligence.json', 'clinical_research.json', 'regulatory_safety.json']
 
 
 def _looks_redundant(summary, title):
@@ -53,7 +60,20 @@ def _looks_redundant(summary, title):
     return overlap > 0.8
 
 
+# These publishers sit behind Cloudflare's bot challenge ("Just a moment...")
+# and return a 403 to every plain-requests fetch, no matter the User-Agent -
+# verified directly (curl-equivalent request to each). Skipping them outright
+# means the shared enrich_budget isn't burned on a 6s timeout that was always
+# going to fail, leaving more of it for sources that actually work.
+ENRICH_BLOCKED_DOMAINS = (
+    'nejm.org', 'jamanetwork.com', 'thelancet.com', 'jacc.org',
+    'ahajournals.org', 'annals.org', 'ashpublications.org',
+)
+
+
 def _fetch_meta_description(url):
+    if any(d in (url or '') for d in ENRICH_BLOCKED_DOMAINS):
+        return None
     try:
         resp = _ENRICH_SESSION.get(url, timeout=6, allow_redirects=True)
         resp.raise_for_status()
@@ -518,6 +538,26 @@ def _is_nav_chrome_title(title):
     return len((title or '').strip()) < MIN_TITLE_LENGTH
 
 
+# Google News occasionally indexes a publisher's account/paywall/login page as
+# if it were an article (e.g. NEJM's "Subskrypcje i zakupy" subscriptions
+# page) - long enough to pass MIN_TITLE_LENGTH, but it's site chrome, not
+# content. Checked against the *translated* Polish title, so both language
+# variants are listed.
+SITE_CHROME_TITLE_HINTS = (
+    'subskrypcje i zakupy', 'subscriptions and purchases', 'subscribe to',
+    'zaloguj się', 'log in', 'sign in', 'create your free account',
+    'utwórz darmowe konto', 'cookie policy', 'polityka cookie',
+    'newsletter sign', 'zapisz się do newslettera', 'privacy policy',
+    'polityka prywatności', 'page not found', 'strona nie została znaleziona',
+    'access denied', 'odmowa dostępu',
+)
+
+
+def _is_site_chrome_title(title):
+    t = (title or '').strip().lower()
+    return any(h in t for h in SITE_CHROME_TITLE_HINTS)
+
+
 # Keyword dictionary for the "Specjalizacja" mode (spec lists 19 fields). An item
 # can legitimately match more than one (e.g. "pediatric oncology"), so this tags
 # every match rather than picking a single best one.
@@ -571,7 +611,7 @@ def classify(item, origin):
     text = _text_of(item)
     source = item.get('source', '')
 
-    if _is_nav_chrome_title(item.get('title', '')):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')):
         return None
 
     if _has_stale_citation_year(item.get('title', '')):
@@ -701,7 +741,7 @@ def _passes_quality_gate(item, is_catchall):
     earned that spot via a strong keyword signal and shouldn't be second-guessed."""
     text = _text_of(item)
     source = item.get('source', '')
-    if _is_nav_chrome_title(item.get('title', '')):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')):
         return False
     if _has_stale_citation_year(item.get('title', '')):
         return False
@@ -799,8 +839,12 @@ def classify_and_save(items_with_origin):
     # only ever show the newest medical news, never older "evergreen" coverage,
     # even at the cost of a tile sometimes having few or no items in a given run.
     enrich_budget = [ENRICH_BUDGET_PER_RUN]
-    for target, bucket_items in buckets.items():
-        _merge_and_save(os.path.join(DATA_DIR, target), bucket_items, enrich_budget=enrich_budget)
+    ordered_targets = sorted(
+        buckets.keys(),
+        key=lambda t: TILE_SAVE_PRIORITY.index(t) if t in TILE_SAVE_PRIORITY else len(TILE_SAVE_PRIORITY),
+    )
+    for target in ordered_targets:
+        _merge_and_save(os.path.join(DATA_DIR, target), buckets[target], enrich_budget=enrich_budget)
 
     if alert_items:
         # Tighter than the regular 7-day tile window - the ticker is for breaking

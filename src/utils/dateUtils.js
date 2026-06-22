@@ -112,6 +112,19 @@ export const isWithinLastHour = (dateStr, referenceDate = new Date()) => {
 };
 
 /**
+ * True if the item is between 1h and 2h old - the second, more subtle
+ * highlight tier ("still recent, but not brand-new") that sits below
+ * isWithinLastHour's stronger one. The two are mutually exclusive by
+ * construction (this starts exactly where isWithinLastHour ends).
+ */
+export const isWithinLastTwoHours = (dateStr, referenceDate = new Date()) => {
+  const parsed = parseAnyDate(dateStr);
+  if (!parsed) return false;
+  const diff = referenceDate.getTime() - parsed.getTime();
+  return diff > 60 * 60 * 1000 && diff <= 2 * 60 * 60 * 1000;
+};
+
+/**
  * True if the date falls on the same Europe/Warsaw calendar day as
  * `referenceDate` (today by default). Used for the "Article of the day" pick,
  * which must reset at local midnight rather than drift on a rolling 24h/7d
