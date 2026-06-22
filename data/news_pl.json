@@ -1,5 +1,25 @@
 [
   {
+    "title": "Uwaga, tu sepsa",
+    "title_original": "Uwaga, tu sepsa",
+    "url": "https://www.termedia.pl/mz/Uwaga-tu-sepsa,66678.html",
+    "date": "2026-06-22 19:09",
+    "summary": "Sepsa może wystąpić u każdego i zabić nawet w kilka godzin. Dlatego tak ważne jest, aby zrobić wszystko, co możliwe, by do niej nie dochodziło lub – gdy to niemożliwe – szybko ją rozpoznać, leczyć i",
+    "source": "Termedia",
+    "specializations": [
+      "Choroby zakaźne"
+    ]
+  },
+  {
+    "title": "Nieprawidłowości w Szpitalu Południowym – dwa śledztwa i nowa rada nadzorcza",
+    "title_original": "Nieprawidłowości w Szpitalu Południowym – dwa śledztwa i nowa rada nadzorcza",
+    "url": "https://www.termedia.pl/mz/Nieprawidlowosci-w-Szpitalu-Poludniowym-dwa-sledztwa-i-nowa-rada-nadzorcza,67807.html",
+    "date": "2026-06-22 19:01",
+    "summary": "W sprawie Szpitala Południowego w Warszawie wszczęte zostały dwa śledztwa. Pierwsze dotyczy oszustwa na kwotę ponad pół miliona złotych. Drugie nadużycia uprawnień przez funkcjonariusza publicznego –",
+    "source": "Termedia",
+    "specializations": []
+  },
+  {
     "title": "Poród w Polsce - zbyt duży odsetek cesarskich cięć, a znieczulenie to wciąż luksus, podobnie jak porodówka w powiecie",
     "title_original": "Poród w Polsce - zbyt duży odsetek cesarskich cięć, a znieczulenie to wciąż luksus, podobnie jak porodówka w powiecie",
     "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/szpitale/porod-w-polsce-zbyt-duzy-odsetek-cesarskich-ciec-a-znieczulenie-to-wciaz-luksus-podobnie-jak-porodowka-w-powiecie/",
@@ -10,24 +30,6 @@
       "Ginekologia i położnictwo",
       "Ortopedia i traumatologia"
     ]
-  },
-  {
-    "title": "Długa lista zastrzeżeń NIK w sprawie opieki okołoporodowej",
-    "title_original": "Długa lista zastrzeżeń NIK w sprawie opieki okołoporodowej",
-    "url": "https://www.termedia.pl/mz/Dluga-lista-zastrzezen-NIK-w-sprawie-opieki-okoloporodowej,67805.html",
-    "date": "2026-06-22 18:55",
-    "summary": "Zbyt długo pracujący lekarze (rekordziści pełnili dyżury po\r\n96 godzin), pobieranie opłat za czynności pielęgnacyjne, które powinny być wykonywane\r\nbezpłatnie w ramach NFZ, za wysoki odsetek cesarskich cięć, brak dostępu do\r\nznieczulenia zewnątrzoponowego – to tylko część nieprawidłowości ujawnionych w\r\nnajnowszym raporcie NIK poświęconym opiece...",
-    "source": "Termedia",
-    "specializations": []
-  },
-  {
-    "title": "Nieprawidłowości w Szpitalu Południowym – dwa śledztwa i nowa rada nadzorcza",
-    "title_original": "Nieprawidłowości w Szpitalu Południowym – dwa śledztwa i nowa rada nadzorcza",
-    "url": "https://www.termedia.pl/mz/Nieprawidlowosci-w-Szpitalu-Poludniowym-dwa-sledztwa-i-nowa-rada-nadzorcza,67807.html",
-    "date": "2026-06-22 18:46",
-    "summary": "W sprawie Szpitala Południowego w Warszawie wszczęte zostały\r\ndwa śledztwa. Pierwsze dotyczy oszustwa na kwotę ponad pół miliona złotych.\r\nDrugie nadużycia uprawnień przez funkcjonariusza publicznego – poinformował w\r\nponiedziałek rzecznik Prokuratury Okręgowej w Warszawie prok. Piotr Antoni\r\nSkiba. Z kolei prezydent Warszawy Rafał Trzaskowski...",
-    "source": "Termedia",
-    "specializations": []
   },
   {
     "title": "Będą zmiany w zespole ds. anestezjologii. Wiemy, czy znajdą się w nim przedstawiciel PTAiIT i NRL",
@@ -69,9 +71,12 @@
     "title_original": "W Gliwicach otwarto centrum teranostyczne. To pierwszy w Polsce tak nowoczesny ośrodek”",
     "url": "https://www.termedia.pl/mz/W-Gliwicach-otwarto-centrum-teranostyczne-To-pierwszy-w-Polsce-tak-nowoczesny-osrodek-,67806.html",
     "date": "2026-06-22 17:29",
-    "summary": "Narodowy Instytut Onkologii w Gliwicach oddał do użytku\r\nOddział Terapii Izotopowej Zakładu Medycyny Nuklearnej i Endokrynologii\r\nOnkologicznej – kompleksowe centrum teranostyczne o strategicznym znaczeniu dla\r\nrozwoju nowoczesnej diagnostyki i leczenia nowotworów w Polsce.",
+    "summary": "Narodowy Instytut Onkologii w Gliwicach oddał do użytku Oddział Terapii Izotopowej Zakładu Medycyny Nuklearnej i Endokrynologii Onkologicznej – kompleksowe centrum teranostyczne o strategicznym",
     "source": "Termedia",
-    "specializations": []
+    "specializations": [
+      "Onkologia",
+      "Endokrynologia i diabetologia"
+    ]
   },
   {
     "title": "Psychiatria w POZ 2027",
@@ -91,6 +96,15 @@
     "date": "2026-06-22 16:47",
     "summary": "Alergie krzyżowe mogą odpowiadać za objawy, które pacjenci i lekarze nie zawsze wiążą z chorobą alergiczną. Reakcje między pyłkami roślin, pokarmami czy alergenami zwierząt coraz częściej są rozpoznawane dzięki diagnostyce molekularnej. Jak podkreśla prof. Radosław Gawlik, prezydent Polskiego Towarzystwa Alergologicznego, dodatni wynik testu wcale nie musi oznaczać alergii, bo kluczowe znaczenie mają objawy kliniczne.",
     "source": "Puls Medycyny",
+    "specializations": []
+  },
+  {
+    "title": "Długa lista zastrzeżeń NIK w sprawie opieki okołoporodowej",
+    "title_original": "Długa lista zastrzeżeń NIK w sprawie opieki okołoporodowej",
+    "url": "https://www.termedia.pl/mz/Dluga-lista-zastrzezen-NIK-w-sprawie-opieki-okoloporodowej,67805.html",
+    "date": "2026-06-22 16:40",
+    "summary": "Zbyt długo pracujący lekarze (rekordziści pełnili dyżury po 96 godzin), pobieranie opłat za czynności pielęgnacyjne, które powinny być wykonywane bezpłatnie w ramach NFZ, za wysoki odsetek cesarskich",
+    "source": "Termedia",
     "specializations": []
   },
   {
@@ -132,23 +146,21 @@
     "specializations": []
   },
   {
-    "title": "Prof. Wilczak na prestiżowym kursie uroginekologii w Alicante",
-    "title_original": "Prof. Wilczak na prestiżowym kursie uroginekologii w Alicante",
-    "url": "https://www.termedia.pl/ginekologia/Prof-Wilczak-na-prestizowym-kursie-uroginekologii-w-Alicante,67804.html",
-    "date": "2026-06-22 15:28",
-    "summary": "Od 17 do 19 czerwca br. na Universidad Miguel Hernández de Elche w Alicante odbyła się kolejna edycja międzynarodowego kursu MASTER’S DEGREE IN PELVIC FLOOR DYSFUNCTION, poświęconego nowoczesnym,",
-    "source": "Termedia",
-    "specializations": [
-      "Ginekologia i położnictwo"
-    ]
-  },
-  {
     "title": "Zmiany w Szpitalu Południowym. Trzaskowski zdecydował",
     "title_original": "Zmiany w Szpitalu Południowym. Trzaskowski zdecydował",
     "url": "https://www.polsatnews.pl/wiadomosc/2026-06-22/nowa-rada-nadzorcza-w-szpitalu-poludniowym-trzaskowski-zdecydowal/",
     "date": "2026-06-22 15:22",
     "summary": "",
     "source": "PolsatNews.pl",
+    "specializations": []
+  },
+  {
+    "title": "Kiedy dziecko z guzkiem gruczołu piersiowego w badaniu palpacyjnym należy skierować na USG?",
+    "title_original": "Kiedy dziecko z guzkiem gruczołu piersiowego w badaniu palpacyjnym należy skierować na USG?",
+    "url": "https://www.mp.pl/pediatria/praktyka-kliniczna/ekspert/441766,kiedy-dziecko-z-guzkiem-gruczolu-piersiowego-w-badaniu-palpacyjnym-nalezy-skierowac-na-usg",
+    "date": "2026-06-22 15:17",
+    "summary": "Kto powinien wykonywać takie badanie?",
+    "source": "Medycyna Praktyczna",
     "specializations": []
   },
   {
@@ -160,17 +172,6 @@
     "specializations": []
   },
   {
-    "title": "Chiny – formamid w pieluszkach? Jest śledztwo - Aktualności - Pediatria",
-    "title_original": "Chiny – formamid w pieluszkach? Jest śledztwo - Aktualności - Pediatria",
-    "url": "https://www.mp.pl/pediatria/aktualnosci/442020,chiny-formamid-w-pieluszkach-jest-sledztwo",
-    "date": "2026-06-22 13:42",
-    "summary": "Cztery chińskie urzędy państwowe powołały zespół śledczy do zbadania doniesień o obecności toksycznego formamidu w pieluszkach dla niemowląt – poinformowały w poniedziałek państwowe media.",
-    "source": "Medycyna Praktyczna",
-    "specializations": [
-      "Pediatria"
-    ]
-  },
-  {
     "title": "Pemigatynib (pemigatinib) opis substancji",
     "title_original": "Pemigatynib (pemigatinib) opis substancji",
     "url": "https://indeks.mp.pl/leki/desc.php?id=22990",
@@ -180,7 +181,7 @@
     "specializations": []
   },
   {
-    "title": "Polpril Nebi opis",
+    "title": "Polpril Nebi opis preparatu",
     "title_original": "Polpril Nebi opis preparatu",
     "url": "https://indeks.mp.pl/leki/desc.php?id=22989",
     "date": "2026-06-22 13:36",
@@ -189,7 +190,7 @@
     "specializations": []
   },
   {
-    "title": "Polpril Nebi opis preparatu",
+    "title": "Polpril Nebi opis",
     "title_original": "Polpril Nebi opis preparatu",
     "url": "https://indeks.mp.pl/leki/desc.php?id=22989",
     "date": "2026-06-22 13:36",
@@ -264,6 +265,15 @@
     "specializations": [
       "Pulmonologia"
     ]
+  },
+  {
+    "title": "Prawie 11 mln Polaków z NT",
+    "title_original": "Prawie 11 mln Polaków z NT",
+    "url": "https://kardiologia.mp.pl/wiadomosci/441968,prawie-11-mln-polakow-z-nadcisnieniem-tetniczym",
+    "date": "2026-06-22 08:31",
+    "summary": "W Polsce, pomimo rekomendacji, żeby łączyć leki, połowa chorych rozpoczyna leczenie od jednego leku. To jest przykład inercji terapeutycznej – mówi prof. dr hab. n. med. Krzysztof Narkiewicz.",
+    "source": "Kardiologia - Medycyna Praktyczna",
+    "specializations": []
   },
   {
     "title": "Kardiolodzy obalają mity o chorobach serca. \"Masz chore serce, musisz się oszczędzać\"",
