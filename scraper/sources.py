@@ -184,7 +184,14 @@ SOURCES_WORLD = (
 
 
 def build_site_query(domains):
-    return "(" + " OR ".join(f"site:{d}" for d in domains) + ")"
+    # Google News RSS ranks by its own relevance/popularity signal, not by date -
+    # confirmed empirically: an unfiltered query's 100 results were almost all
+    # "evergreen" pages Google re-crawled, with only 1-2 actually from today.
+    # "when:1d" is a real Google Search time-range operator that News RSS
+    # honours, so this turns each query into "everything from this site in the
+    # last day" instead of "whatever Google currently ranks highest" - the
+    # difference between a feed that updates hourly and one that looks frozen.
+    return "(" + " OR ".join(f"site:{d}" for d in domains) + ") when:1d"
 
 
 # No "+medycyna"/"+medicine" keyword suffix - every domain here is already a
