@@ -112,6 +112,23 @@ export const isWithinLastHour = (dateStr, referenceDate = new Date()) => {
 };
 
 /**
+ * True if the date falls on the same Europe/Warsaw calendar day as
+ * `referenceDate` (today by default). Used for the "Article of the day" pick,
+ * which must reset at local midnight rather than drift on a rolling 24h/7d
+ * window - otherwise a high-prestige item from yesterday can keep winning
+ * over everything published today.
+ */
+const warsawDayKey = (date) =>
+  new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Warsaw' }).format(date);
+
+export const isToday = (dateStr, referenceDate = new Date()) => {
+  const parsed = parseAnyDate(dateStr);
+  if (!parsed) return false;
+  if (parsed.getTime() > referenceDate.getTime()) return false;
+  return warsawDayKey(parsed) === warsawDayKey(referenceDate);
+};
+
+/**
  * Stable id derived from the title + url.  Used for React keys so that updates
  * with the same content don't re-mount cards.
  */

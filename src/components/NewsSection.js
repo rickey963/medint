@@ -16,7 +16,7 @@ const NewsSection = ({ title, data }) => {
               <div
                 key={index}
                 className={`p-3 rounded-lg transition-colors duration-300 border hover:border-blue-700/50 hover:bg-slate-800/60 group ${
-                  fresh ? 'border-blue-500/40 bg-blue-500/10 ring-1 ring-blue-400/30' : 'border-slate-800 bg-slate-800/30'
+                  fresh ? 'border-emerald-400 bg-emerald-500/15 ring-2 ring-emerald-400/50 shadow-[0_0_16px_rgba(16,185,129,0.4)]' : 'border-slate-800 bg-slate-800/30'
                 }`}
               >
                 <a
@@ -33,7 +33,7 @@ const NewsSection = ({ title, data }) => {
                         </span>
                       )}
                       {fresh && (
-                        <span className="text-[9px] font-bold uppercase px-1.5 py-0.5 rounded bg-blue-400/20 text-blue-200 border border-blue-400/40 shrink-0 animate-pulse">
+                        <span className="text-[9px] font-bold uppercase px-1.5 py-0.5 rounded bg-emerald-400/25 text-emerald-200 border border-emerald-400/60 shrink-0 animate-pulse">
                           ● Nowe
                         </span>
                       )}

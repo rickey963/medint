@@ -10,8 +10,8 @@ const IntelligenceRow = ({ item }) => {
       href={item.url}
       target="_blank"
       rel="noopener noreferrer"
-      className={`block px-3 py-2 border-b border-slate-800 last:border-b-0 hover:bg-blue-500/10 transition-colors group ${
-        fresh ? 'bg-blue-500/10' : ''
+      className={`block px-3 py-2 border-b last:border-b-0 hover:bg-blue-500/10 transition-colors group ${
+        fresh ? 'bg-emerald-500/15 border-emerald-400/50 border-l-2 border-l-emerald-400 shadow-[0_0_12px_rgba(16,185,129,0.3)]' : 'border-slate-800'
       }`}
     >
       <div className="flex items-center justify-between gap-2 mb-1">
@@ -20,7 +20,7 @@ const IntelligenceRow = ({ item }) => {
             {item.source || 'MEDINT'}
           </span>
           {fresh && (
-            <span className="text-[9px] font-bold uppercase px-1.5 py-0.5 rounded bg-blue-400/20 text-blue-200 border border-blue-400/40 animate-pulse shrink-0">
+            <span className="text-[9px] font-bold uppercase px-1.5 py-0.5 rounded bg-emerald-400/25 text-emerald-200 border border-emerald-400/60 animate-pulse shrink-0">
               ● Nowe
             </span>
           )}

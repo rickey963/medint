@@ -11,6 +11,7 @@ import {
   formatToPolishFormat,
   normalizeDateKey,
   ageInDays,
+  isToday,
   makeStableId,
 } from './utils/dateUtils';
 
@@ -101,8 +102,13 @@ const getSourceWeight = (item) => {
 
 /**
  * Picks the single most relevant article across all categories.
- * Score = (prestige_weight * 0.5) + recency_factor.
- * Recency_factor decays linearly from 5 (today) to 0 (7 days old).
+ *
+ * Restricted to today's (Europe/Warsaw calendar day) articles first, ranked
+ * purely by source prestige (ties broken by how recent within today) - this
+ * is meant to reset every morning to "today's top medical story", not drift
+ * toward whatever the highest-prestige item of the last week was. Falls back
+ * to the old 7-day recency-weighted scoring only for the rare case where
+ * nothing has been published yet today (e.g. right after local midnight).
  */
 const selectArticleOfDay = (allData) => {
   const pools = [
@@ -116,8 +122,11 @@ const selectArticleOfDay = (allData) => {
     'epidemiology',
     'pharma_market',
   ];
-  let best = null;
-  let bestScore = -Infinity;
+
+  let bestToday = null;
+  let bestTodayScore = -Infinity;
+  let bestFallback = null;
+  let bestFallbackScore = -Infinity;
 
   pools.forEach((key) => {
     const list = allData[key];
@@ -127,17 +136,29 @@ const selectArticleOfDay = (allData) => {
       if (!date) return;
       const ageDays = ageInDays(item.date);
       if (ageDays < 0 || ageDays > 7) return;
-      const recencyFactor = Math.max(0, 5 * (1 - ageDays / 7));
       const prestige = getSourceWeight(item);
-      const score = prestige * 0.5 + recencyFactor;
-      if (score > bestScore) {
-        bestScore = score;
-        best = item;
+
+      if (isToday(item.date)) {
+        // Among today's articles, rank by prestige; recency only breaks ties
+        // between equally-prestigious same-day items.
+        const recencyTiebreak = Math.max(0, 1 - ageDays);
+        const score = prestige * 10 + recencyTiebreak;
+        if (score > bestTodayScore) {
+          bestTodayScore = score;
+          bestToday = item;
+        }
+      }
+
+      const recencyFactor = Math.max(0, 5 * (1 - ageDays / 7));
+      const fallbackScore = prestige * 0.5 + recencyFactor;
+      if (fallbackScore > bestFallbackScore) {
+        bestFallbackScore = fallbackScore;
+        bestFallback = item;
       }
     });
   });
 
-  return best;
+  return bestToday || bestFallback;
 };
 
 /**

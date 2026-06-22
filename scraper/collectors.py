@@ -174,29 +174,52 @@ def fetch_world_academic_publishers():
 
 
 def fetch_pubmed():
+    """pubmed.ncbi.nlm.nih.gov/rss/search is the browser-facing site and has
+    started 403ing automated requests outright, so this goes through NCBI's
+    E-utilities API instead (esearch for the newest PMIDs, esummary for their
+    title/date) - the interface NCBI actually documents for programmatic use."""
     helper = BaseScraper('PubMed-Collector', sources.PUBMED_RSS_URL, '', lang='pl')
-    html = helper.fetch_html()
-    if not html:
+
+    search_url = (
+        'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi'
+        '?db=pubmed&term=medicine&sort=date&retmax=20&retmode=json'
+    )
+    try:
+        search_resp = helper.session.get(search_url, timeout=15)
+        search_resp.raise_for_status()
+        pmids = search_resp.json().get('esearchresult', {}).get('idlist', [])
+    except Exception as e:
+        logger.error(f"[PubMed-Collector] Failed to search PubMed: {e}")
         return []
-    soup = BeautifulSoup(html, 'lxml-xml')
+    if not pmids:
+        return []
+
+    summary_url = (
+        'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi'
+        f"?db=pubmed&id={','.join(pmids)}&retmode=json"
+    )
+    try:
+        summary_resp = helper.session.get(summary_url, timeout=15)
+        summary_resp.raise_for_status()
+        result = summary_resp.json().get('result', {})
+    except Exception as e:
+        logger.error(f"[PubMed-Collector] Failed to fetch PubMed summaries: {e}")
+        return []
+
     items = []
-    for article in soup.find_all('item'):
-        title_tag = article.find('title')
-        link_tag = article.find('link')
-        pub_date_tag = article.find('pubDate')
-        description_tag = article.find('description')
-        if not (title_tag and link_tag):
+    for pmid in pmids:
+        doc = result.get(pmid)
+        if not doc:
             continue
-        raw_title = title_tag.get_text(strip=True)
-        link = link_tag.get_text(strip=True)
-        raw_date = pub_date_tag.get_text(strip=True) if pub_date_tag else "Recent"
-        description = description_tag.get_text(strip=True) if description_tag else ""
-        summary_raw = _clean_summary(description, raw_title)
+        raw_title = (doc.get('title') or '').strip()
+        if not raw_title:
+            continue
+        raw_date = doc.get('sortpubdate') or doc.get('pubdate') or 'Recent'
         items.append({
             'title': helper.translate_text(raw_title),
-            'url': link,
+            'url': f'https://pubmed.ncbi.nlm.nih.gov/{pmid}/',
             'date': helper.format_date(raw_date),
-            'summary': helper.translate_text(summary_raw),
+            'summary': '',
             'source': 'PubMed',
         })
     return items
