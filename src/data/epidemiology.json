@@ -1,5 +1,25 @@
 [
   {
+    "title": "Palenie szkodzi tym, których kochasz /1",
+    "title_original": "Smoking harms those you love /1",
+    "url": "https://www.who.int/tools/pictorial-health-warnings-on-tobacco-products/item/tobacco-image-database/smoking-harms-those-you-love--1",
+    "date": "2026-06-22 22:09",
+    "summary": "Baza danych obrazkowych ostrzeżeń zdrowotnych Światowej Organizacji Zdrowia",
+    "source": "World Health Organization (WHO)",
+    "specializations": []
+  },
+  {
+    "title": "Palenie powoduje śmiertelnego raka wątroby",
+    "title_original": "Smoking causes fatal liver cancer",
+    "url": "https://www.who.int/tools/pictorial-health-warnings-on-tobacco-products/item/tobacco-image-database/smoking-causes-fatal-liver-cancer",
+    "date": "2026-06-22 22:08",
+    "summary": "Baza danych obrazkowych ostrzeżeń zdrowotnych Światowej Organizacji Zdrowia",
+    "source": "World Health Organization (WHO)",
+    "specializations": [
+      "Gastroenterologia i hepatologia"
+    ]
+  },
+  {
     "title": "Palenie może powodować nieodwracalne katastrofy zdrowotne",
     "title_original": "Smoking can cause irreparable health catastrophes",
     "url": "https://www.who.int/tools/pictorial-health-warnings-on-tobacco-products/item/tobacco-image-database/smoking-can-cause-irreparable-health-catastrophes",
@@ -99,15 +119,6 @@
     "specializations": []
   },
   {
-    "title": "KTO | Aktualności",
-    "title_original": "WHO | News releases",
-    "url": "https://www.who.int/malaysia/news/releases/263?page=7",
-    "date": "2026-06-22 19:24",
-    "summary": "",
-    "source": "World Health Organization (WHO)",
-    "specializations": []
-  },
-  {
     "title": "Clover Hill Dairy wycofuje wszystkie sery w związku ze śmiertelną epidemią listerii",
     "title_original": "Clover Hill Dairy Recalls All Cheese in Deadly Listeria Outbreak",
     "url": "https://www.drugs.com/news/clover-hill-dairy-recalls-all-cheese-deadly-listeria-outbreak-130411.html",
@@ -127,18 +138,6 @@
     "specializations": []
   },
   {
-    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorobowości",
-    "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
-    "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
-    "date": "2026-06-22 17:29",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Pediatria"
-    ],
-    "category": "Epidemiologia"
-  },
-  {
     "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorowalności",
     "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
     "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
@@ -151,13 +150,16 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Naprawa, recykling i odnawianie produktów wspomagających: w przypadku produktów do samoopieki i produktów ułatwiających poruszanie się",
-    "title_original": "Repair, recycle and refurbishment of assistive products: for self-care and mobility products",
-    "url": "https://www.who.int/europe/publications/i/item/WHO-EURO-2026-13398-53172-83114",
-    "date": "2026-06-22 17:04",
-    "summary": "Publikacje Światowej Organizacji Zdrowia",
-    "source": "World Health Organization (WHO)",
-    "specializations": []
+    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorobowości",
+    "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
+    "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
+    "date": "2026-06-22 17:29",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Pediatria"
+    ],
+    "category": "Epidemiologia"
   },
   {
     "title": "Władze podają, że potwierdzone przypadki epidemii wirusa Ebola w Kongo znajdują się na liście 1000 osób, z czego 254 zgony",
@@ -289,7 +291,7 @@
     "specializations": []
   },
   {
-    "title": "Na wypadek, gdybyś to przeoczył: amerykańska FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
+    "title": "Na wypadek, gdybyś to przeoczył: amerykańska agencja FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
     "title_original": "In Case You Missed It: US FDA Adcomm OKs Moderna Flu Vaccine, BIO Preview And More",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/vaccines/in-case-you-missed-it-us-fda-adcomm-oks-moderna-flu-vaccine-bio-preview-and-more-BJPBEA4FCFDWTN3P35Y2QN6QZU/",
     "date": "2026-06-21 16:00",
@@ -299,7 +301,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Na wypadek, gdybyś to przeoczył: amerykańska agencja FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
+    "title": "Na wypadek, gdybyś to przeoczył: amerykańska FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
     "title_original": "In Case You Missed It: US FDA Adcomm OKs Moderna Flu Vaccine, BIO Preview And More",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/vaccines/in-case-you-missed-it-us-fda-adcomm-oks-moderna-flu-vaccine-bio-preview-and-more-BJPBEA4FCFDWTN3P35Y2QN6QZU/",
     "date": "2026-06-21 16:00",
