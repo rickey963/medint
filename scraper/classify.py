@@ -709,6 +709,24 @@ def _is_archive_document_url(url):
     return any(d in (url or '') for d in ARCHIVE_DOCUMENT_DOMAINS)
 
 
+# NIH/NCBI run several account/tool/database subdomains alongside their
+# actual content, and Google indexes those pages too - "Ustawienia konta
+# NCBI" (account.ncbi.nlm.nih.gov, a login/account-settings page),
+# "SciENcv – NCBI – NIH" (a researcher-CV builder tool, not an article), raw
+# PubChem compound records (a chemical database entry, not news). None of
+# these are articles regardless of how the rest of nih.gov/ncbi.nlm.nih.gov
+# is a legitimate source.
+NON_ARTICLE_TOOL_DOMAINS = (
+    'account.ncbi.nlm.nih.gov',
+    'ncbi.nlm.nih.gov/labs/sciencv',
+    'pubchem.ncbi.nlm.nih.gov',
+)
+
+
+def _is_non_article_tool_url(url):
+    return any(d in (url or '') for d in NON_ARTICLE_TOOL_DOMAINS)
+
+
 # Almost every large institution we collect from (WHO, JAMA, UNICEF, EMA so
 # far - new ones keep surfacing, e.g. "EMA Careers Portal" posting a Project
 # Management Specialist vacancy) runs a careers/job-board subdomain that
@@ -800,7 +818,7 @@ def classify(item, origin):
     text = _text_of(item)
     source = item.get('source', '')
 
-    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')) or _is_job_board_url(item):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')) or _is_job_board_url(item) or _is_non_article_tool_url(item.get('url', '')):
         return None
 
     if _has_stale_citation_year(item.get('title', '')):
@@ -930,7 +948,7 @@ def _passes_quality_gate(item, is_catchall):
     earned that spot via a strong keyword signal and shouldn't be second-guessed."""
     text = _text_of(item)
     source = item.get('source', '')
-    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')) or _is_job_board_url(item):
+    if _is_nav_chrome_title(item.get('title', '')) or _is_site_chrome_title(item.get('title', '')) or _is_filename_title(item.get('title', '')) or _is_archive_document_url(item.get('url', '')) or _is_search_or_lookup_url(item.get('url', '')) or _is_job_board_url(item) or _is_non_article_tool_url(item.get('url', '')):
         return False
     if _has_stale_citation_year(item.get('title', '')):
         return False
