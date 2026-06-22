@@ -60,6 +60,29 @@ def _looks_redundant(summary, title):
     return overlap > 0.8
 
 
+# deep_translator's free GoogleTranslator wraps the legacy translate_a/single
+# endpoint, which has a hard request-length ceiling - some publishers (WHO
+# press releases especially) stuff their entire article into og:description,
+# and a long-enough one makes the call fail outright (observed: a ~1500-char
+# WHO description errored every time). The UI only ever shows a few clamped
+# lines anyway, so cut to a sentence boundary near MAX_TRANSLATE_CHARS before
+# translating rather than 0% of a too-long summary winning over 100% of a
+# safely-sized one.
+MAX_TRANSLATE_CHARS = 600
+
+
+def _truncate_for_translation(text, max_chars=MAX_TRANSLATE_CHARS):
+    if len(text) <= max_chars:
+        return text
+    sentences = re.split(r'(?<=[.!?])\s+', text)
+    out = ''
+    for s in sentences:
+        if len(out) + len(s) + 1 > max_chars:
+            break
+        out = f'{out} {s}'.strip()
+    return out or text[:max_chars]
+
+
 # These publishers sit behind Cloudflare's bot challenge ("Just a moment...")
 # and return a 403 to every plain-requests fetch, no matter the User-Agent -
 # verified directly (curl-equivalent request to each). Skipping them outright
@@ -141,7 +164,7 @@ def enrich_redundant_summaries(items, translate_fn, budget):
         if needs_summary:
             description = _fetch_meta_description(real_url)
             if description:
-                item['summary'] = translate_fn(description)
+                item['summary'] = translate_fn(_truncate_for_translation(description))
 
     if to_process:
         with ThreadPoolExecutor(max_workers=min(10, len(to_process))) as executor:
