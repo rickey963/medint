@@ -140,7 +140,7 @@
     "title_original": "Longitudinal changes in DNA methylation in IDH-mutant glioma fuel disease progression through altered cell state differentiation",
     "url": "https://www.nature.com/articles/s41588-026-02642-7",
     "date": "2026-06-22 12:39",
-    "summary": "Autorzy wykorzystują multiomiki jednokomórkowe do badania podłużnych próbek glejaków z mutacją dehydrogenazy izocytrynianowej. Ich analizy łączą progresję i hipometylację ze zmianami w topologii różnicowania i zwiększonym pojawianiem się stanów przypominających łodygę w przypadku agresywnej choroby.",
+    "summary": "Autorzy wykorzystują multiomiki jednokomórkowe do badania podłużnych próbek glejaków z mutacją dehydrogenazy izocytrynianowej. Ich analizy łączą progresję i hipometylację ze zmianami w topologii różnicowania i zwiększonym pojawianiem się stanów przypominających łodygę w agresywnej chorobie.",
     "source": "Nature",
     "specializations": []
   },
@@ -460,8 +460,17 @@
     "title_original": "Technology Resource Initiative – Paper of the Month – June 2026",
     "url": "https://irp.nida.nih.gov/tri-paper-june-2026/",
     "date": "2026-06-18 23:21",
-    "summary": "",
+    "summary": "Program badań stacjonarnych Narodowego Instytutu ds. Narkotyków to placówka badawcza w Baltimore w stanie Maryland. NIDA IRP poświęcona jest zrozumieniu przyczyn, konsekwencji i leczenia nadużywania narkotyków.",
     "source": "NIDA IRP (.gov)",
+    "specializations": []
+  },
+  {
+    "title": "[2606.20344] Pierścień kwantowy all-reduce: korzyści w zakresie komunikacji i prywatności w nauczaniu rozproszonym",
+    "title_original": "[2606.20344] Quantum ring all-reduce: communication and privacy advantages for distributed learning",
+    "url": "https://arxiv.org/abs/2606.20344",
+    "date": "2026-06-18 09:00",
+    "summary": "Modele uczenia maszynowego skalowano do niespotykanych dotąd rozmiarów, dzięki czemu szkolenie na rozproszonych urządzeniach stało się de facto standardem w tej dziedzinie. W tej pracy badamy, w jaki sposób komunikacja kwantowa może sprawić, że rozproszone szkolenia będą zarówno bardziej wydajne pod względem komunikacyjnym, jak i teoretycznie prywatne pod względem informacyjnym, zarówno w przypadku klasycznych, jak i kwantowych modeli uczenia się. Ring all-reduce to podstawowy element komunikacyjny stosowany w rozproszonych szkoleniach na dużą skalę.",
+    "source": "arXiv",
     "specializations": []
   },
   {
@@ -497,15 +506,6 @@
     "url": "https://arxiv.org/abs/2606.18639",
     "date": "2026-06-18 05:47",
     "summary": "Jeśli rekonstrukcja klina splątania jest dokładna, to (przy pewnych założeniach) składnik powierzchniowy we wzorze RT jest liczbą c, co wskazuje, że wybór stanu kwantowego w masie nie wpływa na geometrię. Ostatnio Cao, Cheng, Karthikeyan, Li i Preskill rozważali ogólne zaburzenie, odbiegające od dokładnej rekonstrukcji klina splątania. Zdefiniowano optymalną rekonstrukcję; na tej podstawie zdefiniowano efektywną funkcję pola niezależną w sposób nietrywialny od stanu kwantowego i przeanalizowano jej właściwości.",
-    "source": "arXiv",
-    "specializations": []
-  },
-  {
-    "title": "Niestabilność czarnych bran 5D Gaussa-Bonneta",
-    "title_original": "Instability of 5D Gauss-Bonnet black branes",
-    "url": "https://arxiv.org/pdf/2606.19049",
-    "date": "2026-06-18 05:47",
-    "summary": "",
     "source": "arXiv",
     "specializations": []
   }
