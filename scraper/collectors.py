@@ -9,6 +9,7 @@ keyword query.
 """
 
 import re
+import json
 import logging
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from bs4 import BeautifulSoup
@@ -357,6 +358,79 @@ def fetch_gis_warnings():
     return items
 
 
+def _fetch_news_article_jsonld(session, url):
+    """Reads schema.org NewsArticle JSON-LD straight off the article page -
+    headline+description+exact ISO datePublished in one structured block.
+    Most publishers implement this because Google *requires* it for Google
+    News inclusion - which is exactly why reading it directly, instead of
+    waiting for Google to crawl/index/rank the page and serve it back to us,
+    sidesteps that lag entirely (confirmed on a live Termedia article: its
+    JSON-LD datePublished was *more current* than anything Google News'
+    RSS had surfaced for that domain in the prior several hours)."""
+    try:
+        resp = session.get(url, timeout=10)
+        resp.raise_for_status()
+        for match in re.finditer(r'<script type="application/ld\+json">(.*?)</script>', resp.text, re.DOTALL):
+            try:
+                data = json.loads(match.group(1))
+            except (json.JSONDecodeError, ValueError):
+                continue
+            if isinstance(data, list):
+                data = next((d for d in data if isinstance(d, dict) and d.get('@type') in ('NewsArticle', 'Article')), None)
+            if not isinstance(data, dict) or data.get('@type') not in ('NewsArticle', 'Article'):
+                continue
+            return {
+                'title': (data.get('headline') or '').strip(),
+                'summary': (data.get('description') or '').strip(),
+                'date_iso': data.get('datePublished') or data.get('dateModified') or '',
+            }
+    except Exception as e:
+        logger.warning(f"Failed to read NewsArticle JSON-LD from {url}: {e}")
+    return None
+
+
+def fetch_via_sitemap(name, sitemap_url, source_label, max_articles=20):
+    """Bypasses Google News entirely for one domain: reads its own sitemap
+    (a plain <url><loc>...</loc></url> list, freshest articles first) for
+    candidate URLs, then each article's own NewsArticle JSON-LD for the
+    real title/summary/timestamp - see _fetch_news_article_jsonld. No
+    translation needed/wanted here since PL sources are already in Polish
+    and this is the publisher's own verbatim text, not Google News' mangled
+    "<title> <outlet>" placeholder."""
+    helper = BaseScraper(name, sitemap_url, '', lang='pl')
+    html = helper.fetch_html()
+    if not html:
+        return []
+    soup = BeautifulSoup(html, 'lxml-xml')
+    urls = [tag.get_text(strip=True) for tag in soup.find_all('loc')][:max_articles]
+
+    def _process(url):
+        article = _fetch_news_article_jsonld(helper.session, url)
+        if not article or not article['title'] or not article['date_iso']:
+            return None
+        return {
+            'title': article['title'],
+            'title_original': article['title'],
+            'url': url,
+            'date': helper.format_date(article['date_iso']),
+            'summary': article['summary'],
+            'source': source_label,
+        }
+
+    items = []
+    with ThreadPoolExecutor(max_workers=min(10, len(urls) or 1)) as executor:
+        for result in executor.map(_process, urls):
+            if result:
+                items.append(result)
+    return items
+
+
+def fetch_termedia_direct():
+    """See fetch_via_sitemap - Termedia's own sitemap-new.xml + each
+    article's JSON-LD, no Google News involved."""
+    return fetch_via_sitemap('Termedia-Direct-Collector', sources.TERMEDIA_SITEMAP_URL, 'Termedia')
+
+
 def fetch_all():
     """Returns a list of (item, origin) tuples ready for classify.classify_and_save.
 
@@ -371,6 +445,7 @@ def fetch_all():
         (fetch_pl, 'pl'),
         (fetch_pl_gov_policy, 'pl'),
         (fetch_pl_general_news, 'pl'),
+        (fetch_termedia_direct, 'pl'),
         (fetch_world, 'world'),
         (fetch_world_regulators, 'world'),
         (fetch_world_trial_registries, 'world'),

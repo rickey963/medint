@@ -309,3 +309,9 @@ WORLD_TOP_JOURNALS_RSS_URL = f"https://news.google.com/rss/search?q={WORLD_QUERY
 PUBMED_RSS_URL = "https://pubmed.ncbi.nlm.nih.gov/rss/search?term=medicine"
 
 GIS_WARNINGS_URL = "https://www.gov.pl/web/gis/ostrzezenia"
+
+# Bypasses Google News entirely for Termedia - see collectors.fetch_via_sitemap.
+# Google's own crawl-then-index pipeline for this domain lags real publish
+# time by hours (confirmed repeatedly); reading the site's own sitemap +
+# each article's NewsArticle JSON-LD doesn't have that lag at all.
+TERMEDIA_SITEMAP_URL = "https://www.termedia.pl/sitemap-new.xml"
