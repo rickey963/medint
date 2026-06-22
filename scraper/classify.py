@@ -57,6 +57,22 @@ MAX_ITEMS_PER_SOURCE = 5
 TILE_SAVE_PRIORITY = ['clinical_intelligence.json', 'clinical_research.json', 'regulatory_safety.json']
 
 
+def _titles_match(query_title, candidate_title):
+    """Is `candidate_title` (a PubMed search hit) actually the same article as
+    `query_title` (the one we searched for)? Google News sometimes truncates
+    a long title mid-word ("...a meta" instead of "...a meta-analysis of
+    5,006 patients") - overlap relative to the *candidate's* (longer) word
+    count would wrongly penalize that as a weak match, so this checks what
+    fraction of the (shorter, possibly truncated) query's words appear in the
+    candidate instead."""
+    norm = lambda s: set(re.sub(r'[^\w\s]', ' ', s.lower()).split())
+    query_words = norm(query_title)
+    candidate_words = norm(candidate_title)
+    if not query_words:
+        return False
+    return len(query_words & candidate_words) / len(query_words) > 0.8
+
+
 def _looks_redundant(summary, title):
     """True if `summary` carries no information beyond `title` (e.g. Google News'
     "<title>  <outlet>" placeholder description)."""
@@ -159,11 +175,7 @@ def _fetch_pubmed_abstract_by_title(title):
         )
         summary_resp.raise_for_status()
         candidate_title = summary_resp.json().get('result', {}).get(pmids[0], {}).get('title', '')
-        if not _looks_redundant(candidate_title, title):
-            # _looks_redundant computes word-set overlap; reused here as "is
-            # this PubMed hit actually the same article" rather than its
-            # usual "is this summary just the title again" job. overlap<=0.8
-            # at this point means the titles diverge too much to trust.
+        if not _titles_match(title, candidate_title):
             return None
 
         fetch_url = (
