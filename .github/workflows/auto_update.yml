@@ -36,6 +36,15 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          # A push made with the default GITHUB_TOKEN deliberately does not
+          # trigger this workflow's own `push` trigger (GitHub's anti-loop
+          # guard) — that's why GitHub's flaky native cron was the only thing
+          # keeping this alive, and why it died for hours whenever a tick was
+          # dropped. A PAT isn't subject to that guard, so pushing with it
+          # makes each run's commit kick off the next run immediately,
+          # turning this into a self-sustaining chain that doesn't depend on
+          # the schedule firing at all.
+          token: ${{ secrets.ACTIONS_PUSH_PAT }}
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -55,6 +64,14 @@ jobs:
           git config --local user.email "rickey@o2.pl"
           git config --local user.name "rickey963"
           git add src/data/*.json
+          # Always touch a heartbeat file so there's always something to
+          # commit, even when the scrape finds zero new articles. Without
+          # this, a quiet news cycle means no push, which means no
+          # self-trigger, which means the chain stalls until the unreliable
+          # `schedule` cron happens to fire again.
+          mkdir -p src/data
+          date -u +%FT%TZ > src/data/.last_run
+          git add src/data/.last_run
           if ! git diff --cached --quiet; then
             git commit -m "Automated Data Update: $(date)"
             # Retry loop to handle race conditions during concurrent runs
