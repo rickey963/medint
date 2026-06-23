@@ -14,7 +14,7 @@
     "title_original": "Medicare GLP-1 Bridge",
     "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
     "date": "2026-06-23 10:52",
-    "summary": "Centra usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz oddzielną krótkoterminową demonstrację (obecnie nazywaną „mostem Medicare GLP-1”)",
+    "summary": "Centra Usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz osobną krótkoterminową demonstrację (obecnie nazywaną „Mostem Medicare GLP-1”)",
     "source": "Centers for Medicare & Medicaid Services | CMS (.gov)",
     "specializations": []
   },
@@ -79,7 +79,7 @@
     "title_original": "Experimental Pharmacology and Drug Discovery",
     "url": "https://www.frontiersin.org/journals/pharmacology/sections/experimental-pharmacology-and-drug-discovery",
     "date": "2026-06-23 07:43",
-    "summary": "",
+    "summary": "Przeglądaj badania o otwartym dostępie dotyczące farmakologii eksperymentalnej i odkrywania leków, w tym takie tematy, jak chemia leków i reakcje fizjologiczne.",
     "source": "Frontiers",
     "specializations": []
   },
@@ -122,7 +122,7 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Skuteczność i bezpieczeństwo stosowania infigratynibu u pacjentów z opornym na leczenie zaawansowanym gruczolakorakiem żołądka lub połączenia żołądkowo-przełykowego z amplifikacją genu FGFR2: jednoramienne, wieloośrodkowe badanie fazy 2",
+    "title": "Skuteczność i bezpieczeństwo infigratynibu u pacjentów z opornym na leczenie zaawansowanym gruczolakorakiem żołądka lub połączenia żołądkowo-przełykowego z amplifikacją genu FGFR2: jednoramienne, wieloośrodkowe badanie fazy 2",
     "title_original": "Efficacy and safety of infigratinib in patients with refractory advanced gastric or gastroesophageal junction adenocarcinoma harboring FGFR2 gene amplification: a single-arm, multicenter phase 2 trial",
     "url": "https://www.nature.com/articles/s41416-026-03511-0",
     "date": "2026-06-23 06:28",
@@ -134,7 +134,7 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Skuteczność i bezpieczeństwo infigratynibu u pacjentów z opornym na leczenie zaawansowanym gruczolakorakiem żołądka lub połączenia żołądkowo-przełykowego z amplifikacją genu FGFR2: jednoramienne, wieloośrodkowe badanie fazy 2",
+    "title": "Skuteczność i bezpieczeństwo stosowania infigratynibu u pacjentów z opornym na leczenie zaawansowanym gruczolakorakiem żołądka lub połączenia żołądkowo-przełykowego z amplifikacją genu FGFR2: jednoramienne, wieloośrodkowe badanie fazy 2",
     "title_original": "Efficacy and safety of infigratinib in patients with refractory advanced gastric or gastroesophageal junction adenocarcinoma harboring FGFR2 gene amplification: a single-arm, multicenter phase 2 trial",
     "url": "https://www.nature.com/articles/s41416-026-03511-0",
     "date": "2026-06-23 06:28",
@@ -236,6 +236,18 @@
     "specializations": []
   },
   {
+    "title": "LTX-109 Ukończono badania fazy 2 dotyczące atopowego zapalenia skóry / Gram-dodatnich, infekcji skóry / infekcji skóry / leczenia łagodnego egzemy / dermatoz",
+    "title_original": "LTX-109 Completed Phase 2 Trials for Atopic Dermatitis / Gram-positive, Skin Infections / Skin Infections / Mild Eczema/Dermatoses Treatment",
+    "url": "https://go.drugbank.com/drugs/DB12711/clinical_trials?phase=2&status=completed&purpose=treatment&conditions=DBCOND0028414%2CDBCOND0048649%2CDBCOND0048650%2CDBCOND0040399",
+    "date": "2026-06-23 01:37",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Choroby zakaźne",
+      "Dermatologia"
+    ]
+  },
+  {
     "title": "TPLC – całkowity cykl życia produktu",
     "title_original": "TPLC - Total Product Life Cycle",
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=5916&min_report_year=2021&manufacturer=GUIDEAI%20HEALTH&pmndecision=SUBSTANTIALLY%20EQUIVALENT",
@@ -263,15 +275,6 @@
     "specializations": [
       "Pediatria"
     ]
-  },
-  {
-    "title": "Tobramycyna zakończyła badania fazy 3 dotyczące bakteryjnego zapalenia spojówek/leczenia ropnego bakteryjnego zapalenia spojówek",
-    "title_original": "Tobramycin Completed Phase 3 Trials for Bacterial Conjunctivitis / Purulent Bacterial Conjunctivitis Treatment",
-    "url": "https://go.drugbank.com/drugs/DB00684/clinical_trials?phase=3&status=completed&purpose=treatment&conditions=DBCOND0030770%2CDBCOND0047984",
-    "date": "2026-06-23 00:56",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": []
   },
   {
     "title": "510(k) Powiadomienie przed wprowadzeniem na rynek",
@@ -365,7 +368,7 @@
     "specializations": []
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -375,7 +378,7 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -436,7 +439,7 @@
     "title_original": "What happens when AI meets physics-based drug design?",
     "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
     "date": "2026-06-22 17:54",
-    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się stowarzyszone zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
+    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się zintegrowane zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
     "source": "statnews.com",
     "specializations": []
   },
