@@ -44,20 +44,11 @@
     "title_original": "T Cell Receptor repertoire analysis reveals antigenic convergence and immunotherapeutic opportunities in Prostate Cancer",
     "url": "https://www.medrxiv.org/content/10.64898/2026.06.12.26355376v1",
     "date": "2026-06-23 11:18",
-    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko nowotworu ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowe repertuary TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
+    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko guza ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowy repertuar TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
     "source": "medRxiv",
     "specializations": [
       "Urologia"
     ]
-  },
-  {
-    "title": "META-DIFF: potok oparty na k-merach, który wykrywa sekwencje występujące w różny sposób w metagenomice sekwencjonowania całego genomu | Raporty naukowe",
-    "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
-    "url": "https://www.nature.com/articles/s41598-026-59138-x",
-    "date": "2026-06-23 10:50",
-    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, co uniemożliwia wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
-    "source": "Nature",
-    "specializations": []
   },
   {
     "title": "META-DIFF: metoda oparta na k-merach, która wykrywa sekwencje występujące w różny sposób w metagenomice, sekwencjonowaniu całego genomu | Raporty naukowe",
@@ -69,11 +60,20 @@
     "specializations": []
   },
   {
+    "title": "META-DIFF: potok oparty na k-merach, który wykrywa sekwencje występujące w różny sposób w metagenomice sekwencjonowania całego genomu | Raporty naukowe",
+    "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
+    "url": "https://www.nature.com/articles/s41598-026-59138-x",
+    "date": "2026-06-23 10:50",
+    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, co uniemożliwia wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
+    "source": "Nature",
+    "specializations": []
+  },
+  {
     "title": "Zakończenie obywatelstwa wynikającego z urodzenia może być katastrofą dla zdrowia publicznego",
     "title_original": "Ending birthright citizenship could be a public health disaster",
     "url": "https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/",
     "date": "2026-06-23 10:41",
-    "summary": "Jeśli Sąd Najwyższy podtrzyma zarządzenie wykonawcze kończące obywatelstwo na mocy pierworództwa, może to „mieć poważne konsekwencje na styku bioetyki i zdrowia publicznego”.",
+    "summary": "Jeśli Sąd Najwyższy podtrzyma zarządzenie wykonawcze kończące obywatelstwo wynikające z urodzenia, może to „mieć poważne konsekwencje na styku bioetyki i zdrowia publicznego”.",
     "source": "statnews.com",
     "specializations": []
   },
@@ -134,6 +134,18 @@
     "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a efekty genetyczne są szczególnie obecne u konkretnego pacjenta.",
     "source": "medRxiv",
     "specializations": []
+  },
+  {
+    "title": "Zestawy wieloinfuzyjne na oddziale intensywnej terapii noworodków (NICU), ocena transportu masowego i opracowanie graficznego interfejsu użytkownika",
+    "title_original": "Multi-infusion setups in neonatal intensive care unit (NICU) a mass transport evaluation and graphical user interface development",
+    "url": "https://www.nature.com/articles/s41598-026-58667-9",
+    "date": "2026-06-23 06:50",
+    "summary": "Krytycznie chore noworodki na oddziałach intensywnej terapii wymagają złożonej terapii farmakologicznej i żywieniowej, często podawanej przez dostęp naczyniowy małego kalibru o pojedynczym świetle. Praktyka ta, zwana wielokrotnym wlewem, polega na jednoczesnym podawaniu wielu roztworów, co stwarza poważne wyzwania w zakresie zarządzania dynamiką płynów i bezpieczeństwa klinicznego. W tym badaniu analizowano wydajność typowych konfiguracji linii infuzyjnych, koncentrując się na czasie transportu i profilach stężeń roztworów dostarczanych pacjentowi.",
+    "source": "Nature",
+    "specializations": [
+      "Pediatria",
+      "Anestezjologia i intensywna terapia"
+    ]
   },
   {
     "title": "[2606.23321] Tmax: Prosty przepis na agentów terminalowych",
@@ -248,7 +260,7 @@
     ]
   },
   {
-    "title": "Zablokowane terapie chorób rzadkich znajdują nowe życie w ramach politycznie zmienionej amerykańskiej FDA",
+    "title": "Zatrzymane terapie chorób rzadkich znajdują nowe życie w ramach politycznie zmienionej amerykańskiej FDA",
     "title_original": "Stalled Rare Disease Therapies Find New Life Under Politically Reshaped US FDA",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/pathways-and-standards/approval-standards/stalled-rare-disease-therapies-find-new-life-under-politically-reshaped-us-fda-5XCXJN2OINCZPIB5ZXX36D77KY/",
     "date": "2026-06-22 23:41",
@@ -257,7 +269,7 @@
     "specializations": []
   },
   {
-    "title": "Zatrzymane terapie chorób rzadkich znajdują nowe życie w ramach politycznie zmienionej amerykańskiej FDA",
+    "title": "Zablokowane terapie chorób rzadkich znajdują nowe życie w ramach politycznie zmienionej amerykańskiej FDA",
     "title_original": "Stalled Rare Disease Therapies Find New Life Under Politically Reshaped US FDA",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/pathways-and-standards/approval-standards/stalled-rare-disease-therapies-find-new-life-under-politically-reshaped-us-fda-5XCXJN2OINCZPIB5ZXX36D77KY/",
     "date": "2026-06-22 23:41",
@@ -299,15 +311,6 @@
     "date": "2026-06-22 19:25",
     "summary": "",
     "source": "Frontiers",
-    "specializations": []
-  },
-  {
-    "title": "Szczepienia: nić ochrony przez pokolenia Wydarzenia",
-    "title_original": "Vaccination: A thread of protection across generations Events",
-    "url": "https://www.afro.who.int/countries/23362/events",
-    "date": "2026-06-22 19:21",
-    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
-    "source": "WHO | Regional Office for Africa",
     "specializations": []
   },
   {
@@ -636,15 +639,6 @@
     "url": "https://arxiv.org/abs/2606.20186",
     "date": "2026-06-19 09:51",
     "summary": "Badamy właściwości grafów (a raczej sekwencji grafów), stwierdzając, że pewna ograniczona liczba podgrafów jest w przybliżeniu tym, czego oczekuje się od losowego wykresu. Kilku autorów wykazało, że wiele takich właściwości charakteryzuje grafy quasi-losowe, ale są też pewne wyjątki. Kontynuujemy tutaj badania Jansona i Sósa (2013) i wprowadzamy kilka nowych wersji tych właściwości, aby lepiej zrozumieć, dlaczego wiele z tych właściwości jest quasi-losowych oraz aby zrozumieć strukturę wyjątków, które takie nie są.",
-    "source": "arXiv",
-    "specializations": []
-  },
-  {
-    "title": "[2606.21163] Książę Drinfelda",
-    "title_original": "[2606.21163] Duke for Drinfeld",
-    "url": "https://arxiv.org/abs/2606.21163",
-    "date": "2026-06-19 09:00",
-    "summary": "Dowodzimy, że pole funkcyjne jest analogiczne do twierdzenia Duke'a o równomiernym rozkładzie punktów CM, w układzie krzywych modułowych Drinfelda-Stuhlera. Nasze wyniki obejmują zatem, na ustawienie Drinfelda, zarówno twierdzenie Duke'a o krzywej modularnej, jak i S.-W. Równomierny rozkład Zhanga w przypadku krzywych Shimury. Równoważność sprowadza się za pomocą kryterium Weyla do zaniku okresów torycznych, co wzór Waldspurgera wyraża poprzez centralne wartości automorficznych funkcji $L$, ograniczonych w postaci siły Lindelöfa przez hipotezę Riemanna na polach funkcyjnych.",
     "source": "arXiv",
     "specializations": []
   },
