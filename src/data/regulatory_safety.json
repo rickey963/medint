@@ -206,7 +206,7 @@
     "title_original": "What happens when AI meets physics-based drug design?",
     "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
     "date": "2026-06-22 17:54",
-    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się stowarzyszone zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
+    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się zintegrowane zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
     "source": "statnews.com",
     "specializations": []
   },
@@ -304,6 +304,16 @@
     "specializations": []
   },
   {
+    "title": "Rejestracja zakładu i lista urządzeń",
+    "title_original": "Establishment Registration & Device Listing",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=261&q=UmFkaW8gZnJlcXVlbmN5IEdlbmVyYXRvcg==&pn=10&pf=0&sc=end&rcount=263",
+    "date": "2026-06-22 14:10",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": [],
+    "safety_level": "🟢 REJESTRACJA"
+  },
+  {
     "title": "Bionyra przynosi 165 milionów dolarów na leki odpornościowe nowej generacji",
     "title_original": "Bionyra brings in $165M for next-generation immune drugs",
     "url": "https://www.biopharmadive.com/news/bionyra-immune-drug-startup-sofinnova-jeito/823296/",
@@ -311,16 +321,6 @@
     "summary": "Biotechnologia, której współzałożycielką jest Sofinnova Partners i były szef działu badań i rozwoju firmy Sanofi w dziedzinie immunologii, testuje nowe leki biologiczne przeciwko powszechnym chorobom immunologicznym.",
     "source": "BioPharma Dive",
     "specializations": []
-  },
-  {
-    "title": "Rejestracja zakładu i lista urządzeń",
-    "title_original": "Establishment Registration & Device Listing",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=171&q=T3J0aG9wZWRpYw==&pn=10&pf=0&sc=ena&rcount=207",
-    "date": "2026-06-22 13:19",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": [],
-    "safety_level": "🟢 REJESTRACJA"
   },
   {
     "title": "Czy lek na zaparcia może usunąć „mgłę mózgową” związaną z depresją?",
@@ -390,15 +390,6 @@
     ]
   },
   {
-    "title": "Wyszukiwanie struktury",
-    "title_original": "Structure Search",
-    "url": "https://precision.fda.gov/ginas/app/ui/structure-search?structure=38a24b2b-c405-4cbd-b43f-e75bc77931ba",
-    "date": "2026-06-22 10:44",
-    "summary": "Ponieważ metody przewidywania struktury generują miliony publicznie dostępnych struktur białkowych, przeszukiwanie tych baz danych staje się wąskim gardłem. Foldseek dopasowuje strukturę białka zapytania do bazy danych, opisując interakcje trzeciorzędowych aminokwasów w białkach jako sekwencje w alfabecie strukturalnym. Foldseek skraca czas obliczeń o cztery do pięciu rzędów wielkości przy czułości odpowiednio 86%, 88% i 133% Dali, TM-align i CE.",
-    "source": "precisionFDA (.gov)",
-    "specializations": []
-  },
-  {
     "title": "1111111111111111 III II IIIIII II",
     "title_original": "11111111111111111 Ill II IIIIII II",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/208969s002lbl.pdf",
@@ -417,12 +408,30 @@
     "specializations": []
   },
   {
+    "title": "NIEKTÓRE - M9K697V59A | Usługa wyszukiwania UNII",
+    "title_original": "UNII - M9K697V59A | UNII Search Service",
+    "url": "https://precision.fda.gov/uniisearch/srs?search=M9K697V59A",
+    "date": "2026-06-22 09:24",
+    "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII).",
+    "source": "precisionFDA (.gov)",
+    "specializations": []
+  },
+  {
     "title": "Raport Forum Konsumentów: w małych miejscowościach za leki płacimy nawet o 112 proc. więcej",
     "title_original": "Raport Forum Konsumentów: w małych miejscowościach za leki płacimy nawet o 112 proc. więcej",
     "url": "https://pulsmedycyny.pl/puls-farmacji/apteki/raport-forum-konsumentow-w-malych-miejscowosciach-za-leki-placimy-nawet-o-112-proc-wiecej/",
     "date": "2026-06-22 08:40",
     "summary": "Najnowszy raport Forum Konsumentów obnaża głębokie dysproporcje na krajowym rynku aptecznym. Autorzy analizują dostępność leków oraz politykę cenową placówek sieciowych i niezależnych, punktują słabości obecnego modelu dystrybucji leków oraz wskazują, gdzie niezbędna jest interwencja regulatora oraz samorządów.",
     "source": "Puls Medycyny",
+    "specializations": []
+  },
+  {
+    "title": "Wyszukiwanie struktury",
+    "title_original": "Structure Search",
+    "url": "https://precision.fda.gov/ginas/app/ui/structure-search?structure=716391ad-9b00-44a2-8466-901bb411e972",
+    "date": "2026-06-22 07:17",
+    "summary": "",
+    "source": "precisionFDA (.gov)",
     "specializations": []
   },
   {
