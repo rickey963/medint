@@ -64,16 +64,6 @@
     "specializations": []
   },
   {
-    "title": "Rejestracja zakładu i lista urządzeń",
-    "title_original": "Establishment Registration & Device Listing",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=251&q=QUNVUFVOQ1RVUkUgTkVFRExFUw==&pn=10&pf=0&sc=end&rcount=503",
-    "date": "2026-06-23 06:08",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": [],
-    "safety_level": "🟢 REJESTRACJA"
-  },
-  {
     "title": "Pomoc dotycząca skutków ubocznych Imuranu?",
     "title_original": "Help regarding Imuran side effects?",
     "url": "https://www.drugs.com/answers/help-imuran-side-effects-3582637.html",
@@ -162,6 +152,15 @@
     "specializations": []
   },
   {
+    "title": "Olumakostat glasaretil Zakończono badania fazy 1 dotyczące leczenia trądziku pospolitego",
+    "title_original": "Olumacostat glasaretil Completed Phase 1 Trials for Acne Vulgaris Treatment",
+    "url": "https://go.drugbank.com/drugs/DB12642/clinical_trials?conditions=DBCOND0029828&phase=1&purpose=treatment&status=completed",
+    "date": "2026-06-23 00:49",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": []
+  },
+  {
     "title": "Most Medicare GLP-1",
     "title_original": "Medicare GLP-1 Bridge",
     "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
@@ -175,20 +174,11 @@
     "title_original": "Closely watched Pfizer lung cancer drug falls short in clinical trial",
     "url": "https://www.statnews.com/2026/06/22/pfizer-lung-cancer-sigvotatug-vedotin/",
     "date": "2026-06-22 23:37",
-    "summary": "Firma Pfizer stwierdziła, że ​​eksperymentalny lek, który miał nadzieję zastąpić powszechnie stosowaną chemioterapię w leczeniu jednej z najczęstszych postaci raka płuc, nie przeszedł testów klinicznych.",
+    "summary": "Firma Pfizer stwierdziła, że ​​eksperymentalny lek, który, jak miał nadzieję, mógłby zastąpić powszechnie stosowaną chemioterapię w leczeniu jednej z najczęstszych postaci raka płuc, nie przeszedł testów klinicznych.",
     "source": "statnews.com",
     "specializations": [
       "Pulmonologia"
     ]
-  },
-  {
-    "title": "Lenalidomid zakończył badania fazy 2 dotyczące leczenia szpiczaka mnogiego/niewydolności nerek",
-    "title_original": "Lenalidomide Completed Phase 2 Trials for Multiple Myeloma / Kidney Failure Treatment",
-    "url": "https://go.drugbank.com/drugs/DB00480/clinical_trials?phase=2&status=completed&purpose=treatment&conditions=DBCOND0028362%2CDBCOND0028259",
-    "date": "2026-06-22 23:23",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": []
   },
   {
     "title": "Seminarium internetowe: Zwiększanie skali platformy globalnej: współpraca na rzecz zlikwidowania luki w przeżywalności nowotworów u dzieci poprzez zrównoważony dostęp do leków o gwarantowanej jakości",
@@ -237,7 +227,7 @@
     "title_original": "Ile nowych leków dopuściła do obrotu EMA? Pierwsze podsumowanie",
     "url": "https://www.termedia.pl/mz/Ile-nowych-lekow-dopuscila-do-obrotu-EMA-Pierwsze-podsumowanie,67808.html",
     "date": "2026-06-22 19:50",
-    "summary": "W 2025 r. Europejska Agencja Leków (EMA) zarekomendowała\r\ndopuszczenie do obrotu 104 produktów leczniczych stosowanych u ludzi. Spośród\r\nnich 38 zawierało nową substancję czynną, która wcześniej nie była dopuszczona\r\ndo stosowania w UE – czytamy w najnowszym raporcie opublikowanym przez EMA.",
+    "summary": "W 2025 r. Europejska Agencja Leków (EMA) zarekomendowała dopuszczenie do obrotu 104 produktów leczniczych stosowanych u ludzi. Spośród nich 38 zawierało nową substancję czynną, która wcześniej nie",
     "source": "Termedia",
     "specializations": []
   },
@@ -246,7 +236,7 @@
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
-    "summary": "Światowa Organizacja Zdrowia (WHO) poszukuje ekspertów, którzy przyczynią się do opracowania Wytycznych WHO dotyczących zapobiegania, diagnozowania i leczenia majaczenia u osób starszych, w tym bezpieczeństwa stosowania leków i ich przepisywania.",
+    "summary": "",
     "source": "World Health Organization (WHO)",
     "specializations": [],
     "safety_level": "🟡 ALERT"
@@ -399,6 +389,16 @@
     "summary": "",
     "source": "European Medicines Agency (EMA)",
     "specializations": []
+  },
+  {
+    "title": "Rejestracja zakładu i lista urządzeń",
+    "title_original": "Establishment Registration & Device Listing",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=171&q=T3J0aG9wZWRpYw==&pn=10&pf=0&sc=ena&rcount=207",
+    "date": "2026-06-22 13:19",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": [],
+    "safety_level": "🟢 REJESTRACJA"
   },
   {
     "title": "Czy lek na zaparcia może usunąć „mgłę mózgową” związaną z depresją?",
