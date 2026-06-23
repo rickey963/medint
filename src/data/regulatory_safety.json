@@ -346,7 +346,7 @@
     "title_original": "EMA/PE/0000241855 - paediatric investigation plan",
     "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000241855",
     "date": "2026-06-23 09:39",
-    "summary": "",
+    "summary": "Ocena, nadzór i monitorowanie bezpieczeństwa leków w UE.",
     "source": "European Medicines Agency (EMA)",
     "specializations": [
       "Pediatria"
@@ -362,15 +362,6 @@
     "specializations": [
       "Pediatria"
     ]
-  },
-  {
-    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
-    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=361&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicename",
-    "date": "2026-06-23 09:17",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": []
   },
   {
     "title": "Od recepty do efektu leczenia. Dlaczego pacjenci nie osiągają celów terapeutycznych?",
@@ -442,6 +433,15 @@
       "Gastroenterologia i hepatologia"
     ],
     "safety_level": "🟡 ALERT"
+  },
+  {
+    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
+    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=481&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=01%2F03%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumberdesc",
+    "date": "2026-06-23 05:52",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": []
   },
   {
     "title": "510(k) Powiadomienie przed wprowadzeniem na rynek",
