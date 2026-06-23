@@ -50,7 +50,7 @@
     ]
   },
   {
-    "title": "W miarę jak liczba przypadków wirusa Ebola osiągnęła 1000, prawie 3 miliony dzieci i młodzieży we wschodnim Demokratycznej Republice Konga są narażone na rosnące ryzyko",
+    "title": "W miarę jak liczba przypadków wirusa Ebola osiągnęła 1000, prawie 3 miliony dzieci i nastolatków we wschodnim Demokratycznej Republice Konga jest zagrożonych rosnącym ryzykiem",
     "title_original": "As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo",
     "url": "https://www.unicef.org/press-releases/ebola-cases-hit-1000-almost-3-million-children-and-adolescents-face-rising-risks",
     "date": "2026-06-22 23:04",
@@ -63,7 +63,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "W miarę jak liczba przypadków wirusa Ebola osiągnęła 1000, prawie 3 miliony dzieci i nastolatków we wschodnim Demokratycznej Republice Konga jest zagrożonych rosnącym ryzykiem",
+    "title": "W miarę jak liczba przypadków wirusa Ebola osiągnęła 1000, prawie 3 miliony dzieci i młodzieży we wschodnim Demokratycznej Republice Konga są narażone na rosnące ryzyko",
     "title_original": "As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo",
     "url": "https://www.unicef.org/press-releases/ebola-cases-hit-1000-almost-3-million-children-and-adolescents-face-rising-risks",
     "date": "2026-06-22 23:04",
@@ -134,7 +134,7 @@
     "title_original": "Adverse Outcomes of Travel-Related Cosmetic Procedures among US Residents, 2014–2024",
     "url": "https://wwwnc.cdc.gov/eid/article/32/6/pdfs/25-1883-combined.pdf",
     "date": "2026-06-22 19:37",
-    "summary": "",
+    "summary": "Opisujemy infekcje i inne niekorzystne skutki wśród mieszkańców USA, którzy podróżowali w celu zabiegów kosmetycznych na terenie Stanów Zjednoczonych lub za granicą w latach 2014–2024. Ogniska zdarzeń niepożądanych związanych z takimi procedurami często dotyczą wielu stanów i pacjentów oddzielonych geograficznie, co utrudnia wykrywanie ognisk i ich badanie.",
     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
     "specializations": []
   },
@@ -167,13 +167,16 @@
     "specializations": []
   },
   {
-    "title": "Zaawansowane wyniki wyszukiwania — Biblioteka obrazów dotyczących zdrowia publicznego (PHIL)",
-    "title_original": "Advanced Search Results - Public Health Image Library(PHIL)",
-    "url": "https://wwwn.cdc.gov/PHIL/AdvancedSearchResults.aspx?Search=Belize&parentid=5715&catid=4118",
-    "date": "2026-06-22 18:34",
-    "summary": "Zaawansowane wyniki wyszukiwania — Biblioteka obrazów dotyczących zdrowia publicznego (PHIL)",
-    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-    "specializations": []
+    "title": "Doustna szczepionka przeciwko polio Stan nieznany. Faza 4. Badania kliniczne dla niemowląt / noworodków / zachorowań",
+    "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
+    "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
+    "date": "2026-06-22 17:29",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Pediatria"
+    ],
+    "category": "Epidemiologia"
   },
   {
     "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorowalności",
@@ -189,18 +192,6 @@
   },
   {
     "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorobowości",
-    "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
-    "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
-    "date": "2026-06-22 17:29",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Pediatria"
-    ],
-    "category": "Epidemiologia"
-  },
-  {
-    "title": "Doustna szczepionka przeciwko polio Stan nieznany. Faza 4. Badania kliniczne dla niemowląt / noworodków / zachorowań",
     "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
     "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
     "date": "2026-06-22 17:29",
@@ -277,6 +268,15 @@
     "category": "Epidemiologia"
   },
   {
+    "title": "Długoterminowe ryzyko zdrowotne związane z e-papierosami po rzuceniu palenia",
+    "title_original": "Long-term health risks of e-cigarettes after smoking cessation",
+    "url": "https://www.iarc.who.int/fr/news-events/long-term-health-risks-of-e-cigarettes-after-smoking-cessation/",
+    "date": "2026-06-22 11:19",
+    "summary": "",
+    "source": "IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
+    "specializations": []
+  },
+  {
     "title": "Ebola: ponad tysiąc zakażeń, służby tracą kontrolę nad epidemią",
     "title_original": "Ebola: ponad tysiąc zakażeń, służby tracą kontrolę nad epidemią",
     "url": "https://polskieradio24.pl/swiat/ponad-tysiac-przypadkow-eboli-sluzby-traca-kontrole-nad-epidemia",
@@ -285,15 +285,6 @@
     "source": "Polskie Radio 24",
     "specializations": [],
     "category": "Epidemiologia"
-  },
-  {
-    "title": "Długoterminowe ryzyko zdrowotne związane z e-papierosami po rzuceniu palenia",
-    "title_original": "Long-term health risks of e-cigarettes after smoking cessation",
-    "url": "https://www.iarc.who.int/fr/news-events/long-term-health-risks-of-e-cigarettes-after-smoking-cessation/",
-    "date": "2026-06-22 11:19",
-    "summary": "",
-    "source": "IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
-    "specializations": []
   },
   {
     "title": "Wzmocnienie gotowości Europy na walkę z chorobami przenoszonymi przez komary",
@@ -342,7 +333,7 @@
     "specializations": []
   },
   {
-    "title": "Na wypadek, gdybyś to przeoczył: amerykańska agencja FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
+    "title": "Na wypadek, gdybyś to przeoczył: amerykańska FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
     "title_original": "In Case You Missed It: US FDA Adcomm OKs Moderna Flu Vaccine, BIO Preview And More",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/vaccines/in-case-you-missed-it-us-fda-adcomm-oks-moderna-flu-vaccine-bio-preview-and-more-BJPBEA4FCFDWTN3P35Y2QN6QZU/",
     "date": "2026-06-21 16:00",
@@ -352,7 +343,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Na wypadek, gdybyś to przeoczył: amerykańska FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
+    "title": "Na wypadek, gdybyś to przeoczył: amerykańska agencja FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
     "title_original": "In Case You Missed It: US FDA Adcomm OKs Moderna Flu Vaccine, BIO Preview And More",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/vaccines/in-case-you-missed-it-us-fda-adcomm-oks-moderna-flu-vaccine-bio-preview-and-more-BJPBEA4FCFDWTN3P35Y2QN6QZU/",
     "date": "2026-06-21 16:00",
@@ -432,8 +423,8 @@
   {
     "title": "Zapalenie wsierdzia Loefflera: wielomodalne obrazowanie wspólnego fenotypu serca w odrębnych zespołach hipereozynofilowych",
     "title_original": "Loeffler Endocarditis: Multimodality Imaging of a Common Cardiac Phenotype in Distinct Hypereosinophilic Syndromes",
-    "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2026.108674",
-    "date": "2026-06-17 03:41",
+    "url": "https://www.jacc.org/doi/abs/10.1016/j.jaccas.2026.108674",
+    "date": "2026-06-17 04:16",
     "summary": "",
     "source": "JACC Journals",
     "specializations": [
