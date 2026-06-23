@@ -50,6 +50,17 @@
     "specializations": []
   },
   {
+    "title": "Zakończone badania fazy N/A nelarabiny dotyczące nieleczonej ostrej białaczki limfoblastycznej u dzieci / ostrej białaczki limfoblastycznej (ALL) / leczenia ostrej białaczki limfoblastycznej u dzieci z komórek T",
+    "title_original": "Nelarabine Completed Phase N/A Trials for Untreated Childhood Acute Lymphoblastic Leukemia / Acute Lymphoblastic Leukemia (ALL) / T-cell Childhood Acute Lymphoblastic Leukemia Treatment",
+    "url": "https://go.drugbank.com/drugs/DB01280/clinical_trials?conditions=DBCOND0031335%2CDBCOND0028599%2CDBCOND0029289&phase=&purpose=treatment&status=completed",
+    "date": "2026-06-23 11:58",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Pediatria"
+    ]
+  },
+  {
     "title": "Wycofanie urządzenia klasy 2 Philips Avalon",
     "title_original": "Class 2 Device Recall Philips Avalon",
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=220770",
@@ -299,17 +310,6 @@
     "specializations": []
   },
   {
-    "title": "Faza rekrutacji leku Tezacaftor Nie dotyczy Badania dotyczące mukowiscydozy u dzieci / zaburzeń węchu / zaburzeń węchu / mukowiscydozy (CF) / upośledzenia węchu / choroby / upośledzenia / przewlekłego zapalenia zatok",
-    "title_original": "Tezacaftor Recruiting Phase N/A Trials for Cystic Fibrosis in Children / Olfactory Disorders / Smell Dysfunction / Cystic Fibrosis (CF) / Olfactory Impairment / Disease / Impairment / Chronic Sinusitis",
-    "url": "https://go.drugbank.com/drugs/DB11712/clinical_trials?conditions=DBCOND0031648%2CDBCOND0040212%2CDBCOND0091411%2CDBCOND0037483%2CDBCOND0038827%2CDBCOND0035135%2CDBCOND0148248%2CDBCOND0078208&phase=&status=recruiting",
-    "date": "2026-06-23 00:57",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Pediatria"
-    ]
-  },
-  {
     "title": "510(k) Powiadomienie przed wprowadzeniem na rynek",
     "title_original": "510(k) Premarket Notification",
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K233946",
@@ -317,6 +317,17 @@
     "summary": "",
     "source": "accessdata.fda.gov",
     "specializations": []
+  },
+  {
+    "title": "Uważnie obserwowany lek na raka płuc firmy Pfizer nie przeszedł testów klinicznych | STAT",
+    "title_original": "Closely watched Pfizer lung cancer drug falls short in clinical trial | STAT",
+    "url": "https://www.statnews.com/2026/06/22/pfizer-lung-cancer-sigvotatug-vedotin/",
+    "date": "2026-06-22 23:37",
+    "summary": "Firma Pfizer stwierdziła, że ​​eksperymentalny lek, który, jak miał nadzieję, mógłby zastąpić powszechnie stosowaną chemioterapię w leczeniu jednej z najczęstszych postaci raka płuc, nie przeszedł testów klinicznych.",
+    "source": "statnews.com",
+    "specializations": [
+      "Pulmonologia"
+    ]
   },
   {
     "title": "Uważnie obserwowany lek na raka płuc firmy Pfizer nie przeszedł badań klinicznych | STAT",
@@ -412,7 +423,7 @@
     "specializations": []
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -422,7 +433,7 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -476,15 +487,6 @@
     "date": "2026-06-22 17:55",
     "summary": "",
     "source": "fda.gov",
-    "specializations": []
-  },
-  {
-    "title": "Co się stanie, gdy sztuczna inteligencja połączy się z projektowaniem leków opartym na fizyce?",
-    "title_original": "What happens when AI meets physics-based drug design?",
-    "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
-    "date": "2026-06-22 17:54",
-    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się stowarzyszone zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
-    "source": "statnews.com",
     "specializations": []
   },
   {
@@ -663,7 +665,7 @@
     "title_original": "Medicare GLP-1 Bridge",
     "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
     "date": "2026-06-22 09:00",
-    "summary": "Centra usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz oddzielną krótkoterminową demonstrację (obecnie nazywaną „mostem Medicare GLP-1”)",
+    "summary": "Centra Usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz osobną krótkoterminową demonstrację (obecnie nazywaną „Mostem Medicare GLP-1”)",
     "source": "Centers for Medicare & Medicaid Services | CMS (.gov)",
     "specializations": []
   },
