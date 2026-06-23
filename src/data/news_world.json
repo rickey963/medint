@@ -31,11 +31,20 @@
     ]
   },
   {
+    "title": "Rozkładanie heterogeniczności danych dotyczących raka jednokomórkowego u pacjentów za pomocą sieci neuronowych typu cross-attention",
+    "title_original": "Decomposing patient heterogeneity of single-cell cancer data by cross-attention neural networks",
+    "url": "https://www.medrxiv.org/content/10.1101/2025.06.04.25328900v2",
+    "date": "2026-06-23 11:18",
+    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a skutki genetyczne są szczególnie obecne u konkretnego pacjenta.",
+    "source": "medRxiv",
+    "specializations": []
+  },
+  {
     "title": "Analiza repertuaru receptorów komórek T ujawnia zbieżność antygenów i możliwości immunoterapeutyczne w leczeniu raka prostaty",
     "title_original": "T Cell Receptor repertoire analysis reveals antigenic convergence and immunotherapeutic opportunities in Prostate Cancer",
     "url": "https://www.medrxiv.org/content/10.64898/2026.06.12.26355376v1",
     "date": "2026-06-23 11:18",
-    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko nowotworu ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowe repertuary TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
+    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko guza ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowy repertuar TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
     "source": "medRxiv",
     "specializations": [
       "Urologia"
@@ -46,7 +55,7 @@
     "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
     "date": "2026-06-23 10:50",
-    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, co uniemożliwia wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
+    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, uniemożliwiając wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
     "source": "Nature",
     "specializations": []
   },
@@ -113,15 +122,6 @@
     "date": "2026-06-23 09:36",
     "summary": "",
     "source": "Evidence-Based Nursing Journal",
-    "specializations": []
-  },
-  {
-    "title": "Rozkładanie heterogeniczności danych dotyczących raka jednokomórkowego u pacjentów za pomocą sieci neuronowych typu cross-attention",
-    "title_original": "Decomposing patient heterogeneity of single-cell cancer data by cross-attention neural networks",
-    "url": "https://www.medrxiv.org/content/10.1101/2025.06.04.25328900v2",
-    "date": "2026-06-23 09:08",
-    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a efekty genetyczne są szczególnie obecne u konkretnego pacjenta.",
-    "source": "medRxiv",
     "specializations": []
   },
   {
@@ -229,7 +229,18 @@
     "specializations": []
   },
   {
-    "title": "Zatrzymane terapie chorób rzadkich znajdują nowe życie w ramach politycznie zmienionej amerykańskiej FDA",
+    "title": "Anglia przewodzi Europie pod względem zwrotu kosztów terapii modyfikującej przebieg choroby cukrzycy typu 1 firmy Sanofi Tzield",
+    "title_original": "England Leads Europe In Reimbursing Sanofi’s Type 1 Diabetes Disease-Modifying Therapy Tzield",
+    "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/health-technology-assessment/england-leads-europe-in-reimbursing-sanofis-type-1-diabetes-disease-modifying-therapy-tzield-VD2BAXQF2JDRTGDWUMFQRGVFK4/",
+    "date": "2026-06-23 03:30",
+    "summary": "Instytut oceny technologii medycznych NICE stwierdził, że chociaż model ekonomiczny przedstawiony przez firmę Sanofi dla Tzield zawierał pewne niepewności, najbardziej prawdopodobne szacunki opłacalności leku mieściły się w zakresie uznawanym za akceptowalny poziom wykorzystania zasobów Narodowej Służby Zdrowia.",
+    "source": "Citeline News & Insights",
+    "specializations": [
+      "Endokrynologia i diabetologia"
+    ]
+  },
+  {
+    "title": "Zablokowane terapie chorób rzadkich znajdują nowe życie w ramach politycznie zmienionej amerykańskiej FDA",
     "title_original": "Stalled Rare Disease Therapies Find New Life Under Politically Reshaped US FDA",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/pathways-and-standards/approval-standards/stalled-rare-disease-therapies-find-new-life-under-politically-reshaped-us-fda-5XCXJN2OINCZPIB5ZXX36D77KY/",
     "date": "2026-06-22 23:41",
@@ -238,7 +249,7 @@
     "specializations": []
   },
   {
-    "title": "Zablokowane terapie chorób rzadkich znajdują nowe życie w ramach politycznie zmienionej amerykańskiej FDA",
+    "title": "Zatrzymane terapie chorób rzadkich znajdują nowe życie w ramach politycznie zmienionej amerykańskiej FDA",
     "title_original": "Stalled Rare Disease Therapies Find New Life Under Politically Reshaped US FDA",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/pathways-and-standards/approval-standards/stalled-rare-disease-therapies-find-new-life-under-politically-reshaped-us-fda-5XCXJN2OINCZPIB5ZXX36D77KY/",
     "date": "2026-06-22 23:41",
@@ -285,16 +296,16 @@
   {
     "title": "Szczepienia: nić ochrony przez pokolenia Wydarzenia",
     "title_original": "Vaccination: A thread of protection across generations Events",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uVDZtQlZGYnFGNEx6blZXWjN6SFVMeVBJVU11bS04V0RkR2UwN3d2eWxrd09wTWRTTWZkU05zOE01YlN1SzVzS0w0WmhrN2N4OHI1VTlqQjJ5YkE?oc=5",
+    "url": "https://www.afro.who.int/countries/23362/events",
     "date": "2026-06-22 19:21",
-    "summary": "",
+    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
     "source": "WHO | Regional Office for Africa",
     "specializations": []
   },
   {
     "title": "Przekrojowe nierówności w samoocenie stanu zdrowia w Niemczech ze względu na płeć/płeć, migrację, edukację i dochody",
     "title_original": "Intersectional inequalities in self-rated health in Germany across sex/gender, migration, education and income",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV3hQVVJYRnJjSTZMSXpEbWZ5a0dLVk9oRmt0NWdRMU9SMWotOUNwQUFZY20wbnRYZ3VUTWE0bWh4clg4eko4R2FyX2ZFWURNZ1ZlZ19GcnZUR04xTlFOY1FYS3hoZnFkeVRlVzNyeDNnUVBkd2FOYXJqakJ4bHZWeFJB?oc=5",
+    "url": "https://jech.bmj.com/content/jech/early/2026/06/22/jech-2026-225920.full.pdf",
     "date": "2026-06-22 18:48",
     "summary": "",
     "source": "Journal of Epidemiology and Community Health (JECH)",
@@ -310,11 +321,20 @@
     "specializations": []
   },
   {
+    "title": "Szczepienia: nić ochrony przez pokolenia. Aktualności",
+    "title_original": "Vaccination: A thread of protection across generations News",
+    "url": "https://www.afro.who.int/countries/23362/news",
+    "date": "2026-06-22 18:13",
+    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
+    "source": "WHO | Regional Office for Africa",
+    "specializations": []
+  },
+  {
     "title": "WEBINAR: Świętujemy życie i dziedzictwo Davida Legge",
     "title_original": "WEBINAR: Celebrating the life and legacy of David Legge",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2I3YjNDb1ozYl9GLUlCSW1FaXZwZU03anVkZ3ZjcjNaeTJvMkZSanBCYjM4ZDBEOVoxSnZacWk5c0RENWpUYlQ5QUJpNkxwd3BiTTdRTWFwZG1iQS0xa3RadXpDZ05JQmFhbXpCeE5yLVRGVHF5WUhlMmZPYmJ2QjNtX0NlcFpkUnJ4OUc3NjFINl9Oc29yV0YwbEM5R3ZxdXk0LU1XRTQxS05EcmdpdUxWTmI4TDU3cF9tblR6U1lKOU0?oc=5",
+    "url": "https://ahpsr.who.int/newsroom/events/item/2026/06/29/default-calendar/webinar-celebrating-the-life-and-legacy-of-david-legge",
     "date": "2026-06-22 18:11",
-    "summary": "",
+    "summary": "David Legge (1944–2026) był pracownikiem naukowym zajmującym się zdrowiem publicznym, myślicielem w dziedzinie zdrowia globalnego i przez całe życie zwolennikiem sprawiedliwości zdrowotnej. Jako członek-założyciel Ludowego Ruchu Zdrowia i wiodący głos w dziedzinie ekonomii politycznej zdrowia, poprzez swoje nauczanie, pisanie i budowanie instytucji wywarł wpływ na pokolenia badaczy, decydentów i aktywistów. To seminarium internetowe gromadzi kolegów, współpracowników, studentów i przyjaciół, których życie i praca zostały ukształtowane przez idee i mentoring Davida.",
     "source": "ahpsr",
     "specializations": []
   },
@@ -330,18 +350,18 @@
   {
     "title": "Wydarzenia | KTO | Biuro Regionalne dla Afryki",
     "title_original": "Events | OMS | Bureau régional pour l'Afrique",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4VkdNb0MtbGZGQmRzckdfRlBVS3drYUs4b0RIV1BXUGxTMV94NUpCZUgxNGFpSlhDZEpPczRxb3A0QldTMFBERmF4bFFXZGVDT3NqMW41R3lwbkJkbUln?oc=5",
+    "url": "https://www.afro.who.int/fr/countries/23357/events",
     "date": "2026-06-22 17:10",
-    "summary": "",
+    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
     "source": "WHO | Regional Office for Africa",
     "specializations": []
   },
   {
     "title": "Granice w antybiotykach",
     "title_original": "Frontiers in Antibiotics",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBSmJzekNDQU14b255S243dm5JVXpGUi1VQVBtU1A0ZWZ5aUJYNk1jV29mbzAySmJtbmluUjVWRkZwdmw1NkQ0Q04tNi13LTJNbDA2VWZxa1pCNGFD?oc=5",
+    "url": "https://www.frontiersin.org/journals/antibiotics",
     "date": "2026-06-22 13:18",
-    "summary": "",
+    "summary": "Odkryj badania badające rozwiązania w zakresie oporności na antybiotyki, ich rozwój i dostarczanie w celu poprawy zdrowia światowej populacji.",
     "source": "Frontiers",
     "specializations": []
   },
@@ -623,9 +643,9 @@
   {
     "title": "[2606.21163] Książę Drinfelda",
     "title_original": "[2606.21163] Duke for Drinfeld",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxSXc5TFQ0NERwQklMWjI5blNScllSZU05andlaDNCVFBlMFhOREplRlFRNDE0cmFOSGNmRWE0YzA2ZU5vNU53?oc=5",
+    "url": "https://arxiv.org/abs/2606.21163",
     "date": "2026-06-19 09:00",
-    "summary": "",
+    "summary": "Dowodzimy, że pole funkcyjne jest analogiczne do twierdzenia Duke'a o równomiernym rozkładzie punktów CM, w układzie krzywych modułowych Drinfelda-Stuhlera. Nasze wyniki obejmują zatem, na ustawienie Drinfelda, zarówno twierdzenie Duke'a o krzywej modularnej, jak i S.-W. Równomierny rozkład Zhanga w przypadku krzywych Shimury. Równoważność sprowadza się za pomocą kryterium Weyla do zaniku okresów torycznych, co wzór Waldspurgera wyraża poprzez centralne wartości automorficznych funkcji $L$, ograniczonych w postaci siły Lindelöfa przez hipotezę Riemanna na polach funkcyjnych.",
     "source": "arXiv",
     "specializations": []
   },
