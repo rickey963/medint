@@ -73,15 +73,6 @@
     "specializations": []
   },
   {
-    "title": "Walidacja wyzwania",
-    "title_original": "Challenge Validation",
-    "url": "https://www.fda.gov/search?f%5B0%5D=prod%3A2286&f%5B1%5D=prod%3A2305&f%5B2%5D=prod%3A2323&f%5B3%5D=prod%3A2374&f%5B4%5D=prod%3A2393&f%5B5%5D=section%3A24598&s=",
-    "date": "2026-06-23 05:24",
-    "summary": "",
-    "source": "fda.gov",
-    "specializations": []
-  },
-  {
     "title": "Bayer i Iambic współpracują nad postępem w odkrywaniu leków za pomocą sztucznej inteligencji",
     "title_original": "Bayer and Iambic Collaborate to Advance Drug Discovery with AI",
     "url": "https://www.biospace.com/press-releases/bayer-and-iambic-collaborate-to-advance-drug-discovery-with-ai",
@@ -134,18 +125,6 @@
     "specializations": []
   },
   {
-    "title": "LTX-109 Ukończono badania fazy 2 dotyczące atopowego zapalenia skóry / Gram-dodatnich, infekcji skóry / infekcji skóry / leczenia łagodnego egzemy / dermatoz",
-    "title_original": "LTX-109 Completed Phase 2 Trials for Atopic Dermatitis / Gram-positive, Skin Infections / Skin Infections / Mild Eczema/Dermatoses Treatment",
-    "url": "https://go.drugbank.com/drugs/DB12711/clinical_trials?phase=2&status=completed&purpose=treatment&conditions=DBCOND0028414%2CDBCOND0048649%2CDBCOND0048650%2CDBCOND0040399",
-    "date": "2026-06-23 01:37",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Choroby zakaźne",
-      "Dermatologia"
-    ]
-  },
-  {
     "title": "TPLC – całkowity cykl życia produktu",
     "title_original": "TPLC - Total Product Life Cycle",
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=5916&min_report_year=2021&manufacturer=GUIDEAI%20HEALTH&pmndecision=SUBSTANTIALLY%20EQUIVALENT",
@@ -173,6 +152,15 @@
     "specializations": []
   },
   {
+    "title": "Olumakostat glasaretil Zakończono badania fazy 1 dotyczące leczenia trądziku pospolitego",
+    "title_original": "Olumacostat glasaretil Completed Phase 1 Trials for Acne Vulgaris Treatment",
+    "url": "https://go.drugbank.com/drugs/DB12642/clinical_trials?conditions=DBCOND0029828&phase=1&purpose=treatment&status=completed",
+    "date": "2026-06-23 00:49",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": []
+  },
+  {
     "title": "Most Medicare GLP-1",
     "title_original": "Medicare GLP-1 Bridge",
     "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
@@ -197,7 +185,7 @@
     "title_original": "Webinar: Scaling up the Global Platform: working together to close the childhood cancer survival gap through sustainable access to quality-assured medicines",
     "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/webinar-scaling-up-the-global-platform-working-together-to-close-the-childhood-cancer-survival-gap-through-sustainable-access-to-quality-assured-medicines",
     "date": "2026-06-22 22:25",
-    "summary": "Celem tego seminarium internetowego jest przybliżenie planów rozwoju Globalnej platformy dostępu do leków przeciwnowotworowych u dzieci (Globalna platforma), szczególnie nowym krajom zainteresowanym przyłączeniem się do tej jedynej w swoim rodzaju inicjatywy, założonej wspólnie przez WHO i Szpital Dziecięcy St. Jude we współpracy z UNICEF i Funduszem Strategicznym PAHO.",
+    "summary": "",
     "source": "World Health Organization (WHO)",
     "specializations": [
       "Onkologia",
@@ -244,17 +232,17 @@
     "specializations": []
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
-    "summary": "Światowa Organizacja Zdrowia (WHO) poszukuje ekspertów, którzy przyczynią się do opracowania Wytycznych WHO dotyczących zapobiegania, diagnozowania i leczenia majaczenia u osób starszych, w tym bezpieczeństwa stosowania leków i ich przepisywania.",
+    "summary": "",
     "source": "World Health Organization (WHO)",
     "specializations": [],
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -305,7 +293,7 @@
     "title_original": "What happens when AI meets physics-based drug design?",
     "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
     "date": "2026-06-22 17:54",
-    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się zintegrowane zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
+    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się stowarzyszone zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
     "source": "statnews.com",
     "specializations": []
   },
