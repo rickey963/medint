@@ -1,5 +1,16 @@
 [
   {
+    "title": "Oscylacja AMPK-TET2-5hmc reagująca na glukozę łączy stres metaboliczny z transkrypcją okołodobową i znaczeniem choroby Parkinsona",
+    "title_original": "Glucose-responsive AMPK-TET2-5hmc oscillation links metabolic stress to circadian transcription and Parkinson’s disease relevance",
+    "url": "https://www.nature.com/articles/s41531-026-01447-z",
+    "date": "2026-06-23 17:53",
+    "summary": "Zakłócenia rytmu dobowego i stres metaboliczny są powiązane z chorobą Parkinsona (PD), ale mechanizmy epigenetyczne łączące wahania składników odżywczych z regulacją dobową pozostają słabo poznane. Tutaj połączyliśmy profilowanie 5-hydroksymetylocytozyny (5hmC) obejmujące cały genom, zaburzenia genetyczne oparte na CRISPR i modele okołodobowe, aby zbadać, w jaki sposób dostępność glukozy kształtuje dynamikę epigenetyczną i transkrypcję okołodobową. Odkryliśmy, że niski poziom glukozy aktywuje kinazę białkową aktywowaną AMP (AMPK), zwiększając transkrypcję TET2 i zwiększając globalną przebudowę 5hmC.",
+    "source": "Nature",
+    "specializations": [
+      "Neurologia"
+    ]
+  },
+  {
     "title": "Lekarz z Teksasu oskarżony w sprawie o oszustwo na kwotę 89 milionów dolarów, gdy administracja namawia do represji w służbie zdrowia",
     "title_original": "Texas doctor charged in $89M fraud case as administration pushes health care crackdown",
     "url": "https://www.statnews.com/2026/06/23/texas-doctor-charged-fraud-case-cms-health-care-crackdown/",
@@ -83,7 +94,7 @@
     ]
   },
   {
-    "title": "Dr Atif Ali: „Praca z osobami zakażonymi wirusem HIV to potężny akt pozwalający zastąpić piętno nadzieją”",
+    "title": "Dr Atif Ali: „Praca z osobami zakażonymi wirusem HIV to potężny krok, który pozwala zastąpić piętno nadzieją”",
     "title_original": "Dr Atif Ali: “Working with people affected by HIV is a powerful act to replace stigma with hope”",
     "url": "https://www.emro.who.int/pak/pakistan-news/dr-atif-ali-working-with-people-affected-by-hiv-is-a-powerful-act-to-replace-stigma-with-hope.html",
     "date": "2026-06-23 14:43",
@@ -120,7 +131,7 @@
     "title_original": "T Cell Receptor repertoire analysis reveals antigenic convergence and immunotherapeutic opportunities in Prostate Cancer",
     "url": "https://www.medrxiv.org/content/10.64898/2026.06.12.26355376v1",
     "date": "2026-06-23 11:18",
-    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko guza ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowy repertuar TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
+    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko nowotworu ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowe repertuary TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
     "source": "medRxiv",
     "specializations": [
       "Urologia"
@@ -131,7 +142,7 @@
     "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
     "date": "2026-06-23 10:50",
-    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, uniemożliwiając wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
+    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, co uniemożliwia wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
     "source": "Nature",
     "specializations": []
   },
@@ -189,7 +200,7 @@
     "title_original": "Decomposing patient heterogeneity of single-cell cancer data by cross-attention neural networks",
     "url": "https://www.medrxiv.org/content/10.1101/2025.06.04.25328900v2",
     "date": "2026-06-23 09:08",
-    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a skutki genetyczne są szczególnie obecne u konkretnego pacjenta.",
+    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a efekty genetyczne są szczególnie obecne u konkretnego pacjenta.",
     "source": "medRxiv",
     "specializations": []
   },
@@ -207,7 +218,7 @@
     "title_original": "Multi-infusion setups in neonatal intensive care unit (NICU) a mass transport evaluation and graphical user interface development",
     "url": "https://www.nature.com/articles/s41598-026-58667-9",
     "date": "2026-06-23 06:50",
-    "summary": "Noworodki w stanie krytycznym przebywające na oddziałach intensywnej terapii wymagają złożonej terapii farmakologicznej i żywieniowej, często podawanej przez dostęp naczyniowy małego kalibru o pojedynczym świetle. Praktyka ta, znana jako wielokrotna infuzja, polega na jednoczesnym podawaniu wielu roztworów, co stwarza poważne wyzwania w zakresie zarządzania dynamiką płynów i bezpieczeństwa klinicznego. W tym badaniu analizowano działanie typowych konfiguracji linii infuzyjnych, koncentrując się na czasie transportu i profilach stężeń roztworów dostarczanych pacjentowi.",
+    "summary": "Noworodki w stanie krytycznym przebywające na oddziałach intensywnej terapii wymagają złożonej terapii farmakologicznej i żywieniowej, często podawanej przez dostęp naczyniowy małego kalibru o pojedynczym świetle. Praktyka ta, znana jako wielokrotna infuzja, polega na jednoczesnym podawaniu wielu roztworów, co stwarza poważne wyzwania w zakresie dynamiki płynów i bezpieczeństwa klinicznego. W tym badaniu analizowano wydajność typowych konfiguracji linii infuzyjnych, koncentrując się na czasie transportu i profilach stężeń roztworów dostarczanych pacjentowi.",
     "source": "Nature",
     "specializations": [
       "Pediatria",
@@ -318,9 +329,9 @@
   {
     "title": "Anglia przewodzi Europie pod względem zwrotu kosztów terapii modyfikującej przebieg choroby cukrzycy typu 1 firmy Sanofi Tzield",
     "title_original": "England Leads Europe In Reimbursing Sanofi’s Type 1 Diabetes Disease-Modifying Therapy Tzield",
-    "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOQUdnal8wQXZvZk0zeks1b0QwUmZZRmNmeUxVVEM1LTJDSm1yZGh4YVB6by1RenZPRGtpTHFXMHZVWFJDWWVSRUVYSGV4NHBLclJmR2lkdlhhODQxcGd1X09XVGoyNmp6TW1WclVOVTlUMTBSdFpNN3dmSXZ1NzFkU2MxeFNPR29IWnJIWlVSSlNOZV9QNjdZTEU2WmJ0QzFKYmxiNmVNLU52d2VtQTRlZTc5S2ducy1GR25RbDRHUmZOUWFybGM1dkhnMVNaQThkZm95ai1Jc3U5SzE2MGFyeTZzRjFxRERDNUJOWUhDbktMWGg1WkllUzVnM1VwRVdlX0lnaEFQNkFMUEdRTUlLRDF5TkUwSU05ZDFTenduVGN6YXZPOHlHaDBSUmNLNGNYVG1oMVY5QW1UVVkwcFBJ?oc=5",
+    "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/health-technology-assessment/england-leads-europe-in-reimbursing-sanofis-type-1-diabetes-disease-modifying-therapy-tzield-VD2BAXQF2JDRTGDWUMFQRGVFK4/",
     "date": "2026-06-23 03:30",
-    "summary": "",
+    "summary": "Instytut oceny technologii medycznych NICE stwierdził, że chociaż model ekonomiczny przedstawiony przez firmę Sanofi dla Tzield zawierał pewne niepewności, najbardziej prawdopodobne szacunki opłacalności leku mieściły się w zakresie uznawanym za akceptowalny poziom wykorzystania zasobów Narodowej Służby Zdrowia.",
     "source": "Citeline News & Insights",
     "specializations": [
       "Endokrynologia i diabetologia"
@@ -470,9 +481,9 @@
   {
     "title": "Granice w antybiotykach",
     "title_original": "Frontiers in Antibiotics",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBSmJzekNDQU14b255S243dm5JVXpGUi1VQVBtU1A0ZWZ5aUJYNk1jV29mbzAySmJtbmluUjVWRkZwdmw1NkQ0Q04tNi13LTJNbDA2VWZxa1pCNGFD?oc=5",
+    "url": "https://www.frontiersin.org/journals/antibiotics",
     "date": "2026-06-22 09:00",
-    "summary": "",
+    "summary": "Odkryj badania badające rozwiązania w zakresie oporności na antybiotyki, ich rozwój i dostarczanie w celu poprawy zdrowia światowej populacji.",
     "source": "Frontiers",
     "specializations": []
   },
