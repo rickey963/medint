@@ -51,6 +51,15 @@
     "specializations": []
   },
   {
+    "title": "Wydział Bezpieczeństwa Zdrowia, Biuro Regionalne WHO na Europę, Kopenhaga, Dania – Eurosurveillance",
+    "title_original": "Health Security Division, WHO Regional Office for Europe, Copenhagen, Denmark - Eurosurveillance",
+    "url": "https://www.eurosurveillance.org/search?option1=pub_affiliation&value1=Health+Security+Division%2C+WHO+Regional+Office+for+Europe%2C+Copenhagen%2C+Denmark&option912=resultCategory&value912=ResearchPublicationContent",
+    "date": "2026-06-23 08:19",
+    "summary": "",
+    "source": "Eurosurveillance",
+    "specializations": []
+  },
+  {
     "title": "Nazir Ahmed Ismail – Euronadzór",
     "title_original": "Nazir Ahmed Ismail - Eurosurveillance",
     "url": "https://www.eurosurveillance.org/search?value1=Nazir+Ahmed+Ismail&option1=author&noRedirect=true",
@@ -88,15 +97,6 @@
       "Kardiologia"
     ],
     "category": "Epidemiologia"
-  },
-  {
-    "title": "Christine Navarro – Euronadzór",
-    "title_original": "Christine Navarro - Eurosurveillance",
-    "url": "https://www.eurosurveillance.org/search?value1=Christine+Navarro&option1=author&noRedirect=true",
-    "date": "2026-06-23 07:35",
-    "summary": "",
-    "source": "Eurosurveillance",
-    "specializations": []
   },
   {
     "title": "Palenie zwiększa ryzyko wystąpienia poważnych powikłań związanych z COVID-19 i hospitalizacji /2",
@@ -146,7 +146,7 @@
     "specializations": []
   },
   {
-    "title": "W miarę jak liczba przypadków wirusa Ebola osiągnęła 1000, prawie 3 miliony dzieci i nastolatków we wschodnim Demokratycznej Republice Konga jest zagrożonych rosnącym ryzykiem",
+    "title": "W miarę jak liczba przypadków wirusa Ebola osiągnęła 1000, prawie 3 miliony dzieci i młodzieży we wschodnim Demokratycznej Republice Konga są narażone na rosnące ryzyko",
     "title_original": "As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo",
     "url": "https://www.unicef.org/press-releases/ebola-cases-hit-1000-almost-3-million-children-and-adolescents-face-rising-risks",
     "date": "2026-06-22 23:04",
@@ -159,7 +159,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "W miarę jak liczba przypadków wirusa Ebola osiągnęła 1000, prawie 3 miliony dzieci i młodzieży we wschodnim Demokratycznej Republice Konga są narażone na rosnące ryzyko",
+    "title": "W miarę jak liczba przypadków wirusa Ebola osiągnęła 1000, prawie 3 miliony dzieci i nastolatków we wschodnim Demokratycznej Republice Konga jest zagrożonych rosnącym ryzykiem",
     "title_original": "As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo",
     "url": "https://www.unicef.org/press-releases/ebola-cases-hit-1000-almost-3-million-children-and-adolescents-face-rising-risks",
     "date": "2026-06-22 23:04",
@@ -224,6 +224,27 @@
     "category": "Epidemiologia"
   },
   {
+    "title": "Biblioteka obrazów zdrowia publicznego (PHIL)",
+    "title_original": "Public Health Image Library (PHIL)",
+    "url": "https://wwwn.cdc.gov/PHIL/Details.aspx?pid=13154",
+    "date": "2026-06-22 19:04",
+    "summary": "Szczegóły — Biblioteka obrazów zdrowia publicznego (PHIL)",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "specializations": []
+  },
+  {
+    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorowalności",
+    "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
+    "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
+    "date": "2026-06-22 17:29",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Pediatria"
+    ],
+    "category": "Epidemiologia"
+  },
+  {
     "title": "Doustna szczepionka przeciwko polio Stan nieznany. Faza 4. Badania kliniczne dla niemowląt / noworodków / zachorowań",
     "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
     "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
@@ -237,18 +258,6 @@
   },
   {
     "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorobowości",
-    "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
-    "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
-    "date": "2026-06-22 17:29",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Pediatria"
-    ],
-    "category": "Epidemiologia"
-  },
-  {
-    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorowalności",
     "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
     "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
     "date": "2026-06-22 17:29",
@@ -304,15 +313,6 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Biblioteka obrazów zdrowia publicznego (PHIL)",
-    "title_original": "Public Health Image Library (PHIL)",
-    "url": "https://wwwn.cdc.gov/PHIL/Details.aspx?pid=14362",
-    "date": "2026-06-22 13:34",
-    "summary": "Szczegóły — Biblioteka obrazów zdrowia publicznego (PHIL)",
-    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-    "specializations": []
-  },
-  {
     "title": "W szczepieniach przeciwko HPV odnieśliśmy sukces, ale chcemy więcej ►",
     "title_original": "W szczepieniach przeciwko HPV odnieśliśmy sukces, ale chcemy więcej ►",
     "url": "https://www.termedia.pl/mz/W-szczepieniach-przeciwko-HPV-odnieslismy-sukces-ale-chcemy-wiecej-,67787.html",
@@ -325,15 +325,6 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Długoterminowe ryzyko zdrowotne związane z e-papierosami po rzuceniu palenia",
-    "title_original": "Long-term health risks of e-cigarettes after smoking cessation",
-    "url": "https://www.iarc.who.int/fr/news-events/long-term-health-risks-of-e-cigarettes-after-smoking-cessation/",
-    "date": "2026-06-22 11:19",
-    "summary": "",
-    "source": "IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
-    "specializations": []
-  },
-  {
     "title": "Ebola: ponad tysiąc zakażeń, służby tracą kontrolę nad epidemią",
     "title_original": "Ebola: ponad tysiąc zakażeń, służby tracą kontrolę nad epidemią",
     "url": "https://polskieradio24.pl/swiat/ponad-tysiac-przypadkow-eboli-sluzby-traca-kontrole-nad-epidemia",
@@ -342,6 +333,15 @@
     "source": "Polskie Radio 24",
     "specializations": [],
     "category": "Epidemiologia"
+  },
+  {
+    "title": "Długoterminowe ryzyko zdrowotne związane z e-papierosami po rzuceniu palenia",
+    "title_original": "Long-term health risks of e-cigarettes after smoking cessation",
+    "url": "https://www.iarc.who.int/fr/news-events/long-term-health-risks-of-e-cigarettes-after-smoking-cessation/",
+    "date": "2026-06-22 11:19",
+    "summary": "",
+    "source": "IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
+    "specializations": []
   },
   {
     "title": "Wzmocnienie gotowości Europy na walkę z chorobami przenoszonymi przez komary",
@@ -363,7 +363,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Na wypadek, gdybyś to przeoczył: amerykańska FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
+    "title": "Na wypadek, gdybyś to przeoczył: amerykańska agencja FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
     "title_original": "In Case You Missed It: US FDA Adcomm OKs Moderna Flu Vaccine, BIO Preview And More",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/vaccines/in-case-you-missed-it-us-fda-adcomm-oks-moderna-flu-vaccine-bio-preview-and-more-BJPBEA4FCFDWTN3P35Y2QN6QZU/",
     "date": "2026-06-21 16:00",
@@ -373,7 +373,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Na wypadek, gdybyś to przeoczył: amerykańska agencja FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
+    "title": "Na wypadek, gdybyś to przeoczył: amerykańska FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
     "title_original": "In Case You Missed It: US FDA Adcomm OKs Moderna Flu Vaccine, BIO Preview And More",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/vaccines/in-case-you-missed-it-us-fda-adcomm-oks-moderna-flu-vaccine-bio-preview-and-more-BJPBEA4FCFDWTN3P35Y2QN6QZU/",
     "date": "2026-06-21 16:00",
