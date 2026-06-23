@@ -27,6 +27,15 @@
     "specializations": []
   },
   {
+    "title": "Walidacja wyzwania",
+    "title_original": "Challenge Validation",
+    "url": "https://www.fda.gov/search?f%5B0%5D=prod%3A2286&f%5B1%5D=prod%3A2305&f%5B2%5D=prod%3A2323&f%5B3%5D=prod%3A2374&f%5B4%5D=prod%3A2393&f%5B5%5D=section%3A24598&s=",
+    "date": "2026-06-23 05:24",
+    "summary": "",
+    "source": "fda.gov",
+    "specializations": []
+  },
+  {
     "title": "Bayer i Iambic współpracują nad postępem w odkrywaniu leków za pomocą sztucznej inteligencji",
     "title_original": "Bayer and Iambic Collaborate to Advance Drug Discovery with AI",
     "url": "https://www.biospace.com/press-releases/bayer-and-iambic-collaborate-to-advance-drug-discovery-with-ai",
@@ -46,16 +55,6 @@
       "Neurologia",
       "Psychiatria"
     ]
-  },
-  {
-    "title": "Rejestracja zakładu i lista urządzeń",
-    "title_original": "Establishment Registration & Device Listing",
-    "url": "https://www.accessdata.fda.gov/SCripts/Cdrh/cfdOCS/cfrl/rl.cfm?lid=1013823&lpcd=CCK",
-    "date": "2026-06-23 02:19",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": [],
-    "safety_level": "🟢 REJESTRACJA"
   },
   {
     "title": "FDA zatwierdza doustny antybiotyk Utebzi w leczeniu powikłanych infekcji dróg moczowych",
@@ -112,6 +111,18 @@
     "specializations": []
   },
   {
+    "title": "LTX-109 Ukończono badania fazy 2 dotyczące atopowego zapalenia skóry / Gram-dodatnich, infekcji skóry / infekcji skóry / leczenia łagodnego egzemy / dermatoz",
+    "title_original": "LTX-109 Completed Phase 2 Trials for Atopic Dermatitis / Gram-positive, Skin Infections / Skin Infections / Mild Eczema/Dermatoses Treatment",
+    "url": "https://go.drugbank.com/drugs/DB12711/clinical_trials?phase=2&status=completed&purpose=treatment&conditions=DBCOND0028414%2CDBCOND0048649%2CDBCOND0048650%2CDBCOND0040399",
+    "date": "2026-06-23 01:37",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Choroby zakaźne",
+      "Dermatologia"
+    ]
+  },
+  {
     "title": "TPLC – całkowity cykl życia produktu",
     "title_original": "TPLC - Total Product Life Cycle",
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=5916&min_report_year=2021&manufacturer=GUIDEAI%20HEALTH&pmndecision=SUBSTANTIALLY%20EQUIVALENT",
@@ -152,20 +163,11 @@
     "title_original": "Closely watched Pfizer lung cancer drug falls short in clinical trial",
     "url": "https://www.statnews.com/2026/06/22/pfizer-lung-cancer-sigvotatug-vedotin/",
     "date": "2026-06-22 23:37",
-    "summary": "Firma Pfizer stwierdziła, że ​​eksperymentalny lek, który miał nadzieję zastąpić powszechnie stosowaną chemioterapię w leczeniu jednej z najczęstszych postaci raka płuc, nie przeszedł testów klinicznych.",
+    "summary": "Firma Pfizer stwierdziła, że ​​eksperymentalny lek, który, jak miał nadzieję, mógłby zastąpić powszechnie stosowaną chemioterapię w leczeniu jednej z najczęstszych postaci raka płuc, nie przeszedł testów klinicznych.",
     "source": "statnews.com",
     "specializations": [
       "Pulmonologia"
     ]
-  },
-  {
-    "title": "Lenalidomid zakończył badania fazy 2 dotyczące leczenia szpiczaka mnogiego/niewydolności nerek",
-    "title_original": "Lenalidomide Completed Phase 2 Trials for Multiple Myeloma / Kidney Failure Treatment",
-    "url": "https://go.drugbank.com/drugs/DB00480/clinical_trials?phase=2&status=completed&purpose=treatment&conditions=DBCOND0028362%2CDBCOND0028259",
-    "date": "2026-06-22 23:23",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": []
   },
   {
     "title": "Seminarium internetowe: Zwiększanie skali platformy globalnej: współpraca na rzecz zlikwidowania luki w przeżywalności nowotworów u dzieci poprzez zrównoważony dostęp do leków o gwarantowanej jakości",
@@ -214,7 +216,7 @@
     "title_original": "Ile nowych leków dopuściła do obrotu EMA? Pierwsze podsumowanie",
     "url": "https://www.termedia.pl/mz/Ile-nowych-lekow-dopuscila-do-obrotu-EMA-Pierwsze-podsumowanie,67808.html",
     "date": "2026-06-22 19:50",
-    "summary": "W 2025 r. Europejska Agencja Leków (EMA) zarekomendowała\r\ndopuszczenie do obrotu 104 produktów leczniczych stosowanych u ludzi. Spośród\r\nnich 38 zawierało nową substancję czynną, która wcześniej nie była dopuszczona\r\ndo stosowania w UE – czytamy w najnowszym raporcie opublikowanym przez EMA.",
+    "summary": "W 2025 r. Europejska Agencja Leków (EMA) zarekomendowała dopuszczenie do obrotu 104 produktów leczniczych stosowanych u ludzi. Spośród nich 38 zawierało nową substancję czynną, która wcześniej nie",
     "source": "Termedia",
     "specializations": []
   },
@@ -367,6 +369,16 @@
     "summary": "Biotechnologia, której współzałożycielką jest Sofinnova Partners i były szef działu badań i rozwoju firmy Sanofi w dziedzinie immunologii, testuje nowe leki biologiczne przeciwko powszechnym chorobom immunologicznym.",
     "source": "BioPharma Dive",
     "specializations": []
+  },
+  {
+    "title": "Rejestracja zakładu i lista urządzeń",
+    "title_original": "Establishment Registration & Device Listing",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=171&q=T3J0aG9wZWRpYw==&pn=10&pf=0&sc=ena&rcount=207",
+    "date": "2026-06-22 13:19",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": [],
+    "safety_level": "🟢 REJESTRACJA"
   },
   {
     "title": "Czy lek na zaparcia może usunąć „mgłę mózgową” związaną z depresją?",
@@ -532,6 +544,17 @@
     "summary": "",
     "source": "National Institutes of Health (.gov)",
     "specializations": []
+  },
+  {
+    "title": "Badania kliniczne dotyczące choroby przeszczep przeciwko gospodarzowi: zmiany w charakterystyce badania, badanych lekach i punktach końcowych w czasie",
+    "title_original": "Clinical trials in graft-versus-host disease: changes in study characteristics, investigated drugs, and endpoints over time",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42315021/",
+    "date": "2026-06-18 09:00",
+    "summary": "",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": [
+      "Chirurgia"
+    ]
   },
   {
     "title": "Pliki cenowe ASP",
