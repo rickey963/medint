@@ -382,15 +382,6 @@
     "specializations": []
   },
   {
-    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
-    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=431&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumber",
-    "date": "2026-06-23 07:10",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": []
-  },
-  {
     "title": "Skuteczność i bezpieczeństwo domacicznego wkraplania lidokainy podczas ambulatoryjnej histeroskopii: przegląd systematyczny i metaanaliza randomizowanych, kontrolowanych badań",
     "title_original": "The efficacy and safety of intrauterine lidocaine instillation during outpatient hysteroscopy: A systematic review and meta-analysis of randomized controlled trials",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41996905/",
@@ -433,6 +424,15 @@
       "Gastroenterologia i hepatologia"
     ],
     "safety_level": "🟡 ALERT"
+  },
+  {
+    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
+    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=481&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=01%2F03%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumberdesc",
+    "date": "2026-06-23 05:52",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": []
   },
   {
     "title": "Walidacja wyzwania",
@@ -784,7 +784,7 @@
     "title_original": "Medicare GLP-1 Bridge",
     "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
     "date": "2026-06-22 09:00",
-    "summary": "Centra usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz oddzielną krótkoterminową demonstrację (obecnie nazywaną „mostem Medicare GLP-1”)",
+    "summary": "Centra Usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz osobną krótkoterminową demonstrację (obecnie nazywaną „Mostem Medicare GLP-1”)",
     "source": "Centers for Medicare & Medicaid Services | CMS (.gov)",
     "specializations": []
   },
