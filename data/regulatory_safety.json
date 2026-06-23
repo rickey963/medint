@@ -1,5 +1,14 @@
 [
   {
+    "title": "Interakcje pomiędzy Metronidazolem i Sirolimusem",
+    "title_original": "Interactions between Metronidazole and Sirolimus",
+    "url": "https://www.drugs.com/drug-interactions/metronidazole-with-sirolimus-1617-0-2069-0.html?professional=1",
+    "date": "2026-06-23 07:42",
+    "summary": "",
+    "source": "Drugs.com",
+    "specializations": []
+  },
+  {
     "title": "Skuteczność i bezpieczeństwo domacicznego wkraplania lidokainy podczas ambulatoryjnej histeroskopii: przegląd systematyczny i metaanaliza randomizowanych, kontrolowanych badań",
     "title_original": "The efficacy and safety of intrauterine lidocaine instillation during outpatient hysteroscopy: A systematic review and meta-analysis of randomized controlled trials",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41996905/",
@@ -80,18 +89,6 @@
     ]
   },
   {
-    "title": "MannKind ogłasza zatwierdzenie przez FDA leku Afrezza, pierwszej i jedynej wziewnej insuliny doposiłkowej do stosowania u dzieci i młodzieży w wieku 6 lat i starszych chorych na cukrzycę",
-    "title_original": "MannKind Announces FDA Approval of Afrezza, the First and Only Inhaled Mealtime Insulin for Use in Children and Adolescents Aged 6 and Older Living with Diabetes",
-    "url": "https://www.drugs.com/newdrugs/mannkind-announces-fda-approval-afrezza-first-only-inhaled-mealtime-insulin-children-adolescents-6800.html",
-    "date": "2026-06-23 02:04",
-    "summary": "",
-    "source": "Drugs.com",
-    "specializations": [
-      "Endokrynologia i diabetologia",
-      "Pediatria"
-    ]
-  },
-  {
     "title": "Faza zakończona glukagonem Nie dotyczy Badania dotyczące leczenia cukrzycy typu 1",
     "title_original": "Glucagon Terminated Phase N/A Trials for Type 1 Diabetes Mellitus Treatment",
     "url": "https://go.drugbank.com/drugs/DB00040/clinical_trials?status=terminated&purpose=treatment&conditions=DBCOND0029465",
@@ -110,6 +107,18 @@
     "summary": "",
     "source": "DrugBank",
     "specializations": []
+  },
+  {
+    "title": "LTX-109 Ukończono badania fazy 2 dotyczące atopowego zapalenia skóry / Gram-dodatnich, infekcji skóry / infekcji skóry / leczenia łagodnego egzemy / dermatoz",
+    "title_original": "LTX-109 Completed Phase 2 Trials for Atopic Dermatitis / Gram-positive, Skin Infections / Skin Infections / Mild Eczema/Dermatoses Treatment",
+    "url": "https://go.drugbank.com/drugs/DB12711/clinical_trials?phase=2&status=completed&purpose=treatment&conditions=DBCOND0028414%2CDBCOND0048649%2CDBCOND0048650%2CDBCOND0040399",
+    "date": "2026-06-23 01:37",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Choroby zakaźne",
+      "Dermatologia"
+    ]
   },
   {
     "title": "TPLC – całkowity cykl życia produktu",
@@ -136,15 +145,6 @@
     "date": "2026-06-23 00:54",
     "summary": "",
     "source": "accessdata.fda.gov",
-    "specializations": []
-  },
-  {
-    "title": "Olumakostat glasaretil Zakończono badania fazy 1 dotyczące leczenia trądziku pospolitego",
-    "title_original": "Olumacostat glasaretil Completed Phase 1 Trials for Acne Vulgaris Treatment",
-    "url": "https://go.drugbank.com/drugs/DB12642/clinical_trials?conditions=DBCOND0029828&phase=1&purpose=treatment&status=completed",
-    "date": "2026-06-23 00:49",
-    "summary": "",
-    "source": "DrugBank",
     "specializations": []
   },
   {
@@ -219,7 +219,7 @@
     "specializations": []
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -229,7 +229,7 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -280,7 +280,7 @@
     "title_original": "What happens when AI meets physics-based drug design?",
     "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
     "date": "2026-06-22 17:54",
-    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się stowarzyszone zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
+    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się zintegrowane zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
     "source": "statnews.com",
     "specializations": []
   },
