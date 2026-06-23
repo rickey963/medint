@@ -227,18 +227,6 @@
     "specializations": []
   },
   {
-    "title": "LTX-109 Ukończono badania fazy 2 dotyczące atopowego zapalenia skóry / Gram-dodatnich, infekcji skóry / infekcji skóry / leczenia łagodnego egzemy / dermatoz",
-    "title_original": "LTX-109 Completed Phase 2 Trials for Atopic Dermatitis / Gram-positive, Skin Infections / Skin Infections / Mild Eczema/Dermatoses Treatment",
-    "url": "https://go.drugbank.com/drugs/DB12711/clinical_trials?phase=2&status=completed&purpose=treatment&conditions=DBCOND0028414%2CDBCOND0048649%2CDBCOND0048650%2CDBCOND0040399",
-    "date": "2026-06-23 01:37",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Choroby zakaźne",
-      "Dermatologia"
-    ]
-  },
-  {
     "title": "TPLC – całkowity cykl życia produktu",
     "title_original": "TPLC - Total Product Life Cycle",
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=5916&min_report_year=2021&manufacturer=GUIDEAI%20HEALTH&pmndecision=SUBSTANTIALLY%20EQUIVALENT",
@@ -274,6 +262,15 @@
     "date": "2026-06-23 00:54",
     "summary": "",
     "source": "accessdata.fda.gov",
+    "specializations": []
+  },
+  {
+    "title": "Olumakostat glasaretil Zakończono badania fazy 1 dotyczące leczenia trądziku pospolitego",
+    "title_original": "Olumacostat glasaretil Completed Phase 1 Trials for Acne Vulgaris Treatment",
+    "url": "https://go.drugbank.com/drugs/DB12642/clinical_trials?conditions=DBCOND0029828&phase=1&purpose=treatment&status=completed",
+    "date": "2026-06-23 00:49",
+    "summary": "",
+    "source": "DrugBank",
     "specializations": []
   },
   {
@@ -354,12 +351,12 @@
     "title_original": "Ile nowych leków dopuściła do obrotu EMA? Pierwsze podsumowanie",
     "url": "https://www.termedia.pl/mz/Ile-nowych-lekow-dopuscila-do-obrotu-EMA-Pierwsze-podsumowanie,67808.html",
     "date": "2026-06-22 19:50",
-    "summary": "W 2025 r. Europejska Agencja Leków (EMA) zarekomendowała\r\ndopuszczenie do obrotu 104 produktów leczniczych stosowanych u ludzi. Spośród\r\nnich 38 zawierało nową substancję czynną, która wcześniej nie była dopuszczona\r\ndo stosowania w UE – czytamy w najnowszym raporcie opublikowanym przez EMA.",
+    "summary": "W 2025 r. Europejska Agencja Leków (EMA) zarekomendowała dopuszczenie do obrotu 104 produktów leczniczych stosowanych u ludzi. Spośród nich 38 zawierało nową substancję czynną, która wcześniej nie",
     "source": "Termedia",
     "specializations": []
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -369,7 +366,7 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -430,7 +427,7 @@
     "title_original": "What happens when AI meets physics-based drug design?",
     "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
     "date": "2026-06-22 17:54",
-    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się zintegrowane zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
+    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się stowarzyszone zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
     "source": "statnews.com",
     "specializations": []
   },
@@ -628,7 +625,7 @@
     "title_original": "Medicare GLP-1 Bridge",
     "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
     "date": "2026-06-22 09:00",
-    "summary": "Centra Usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz osobną krótkoterminową demonstrację (obecnie nazywaną „Mostem Medicare GLP-1”)",
+    "summary": "Centra usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz oddzielną krótkoterminową demonstrację (obecnie nazywaną „mostem Medicare GLP-1”)",
     "source": "Centers for Medicare & Medicaid Services | CMS (.gov)",
     "specializations": []
   },
