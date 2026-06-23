@@ -1,14 +1,5 @@
 [
   {
-    "title": "SciENcv – NCBI – NIH",
-    "title_original": "SciENcv - NCBI - NIH",
-    "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
-    "date": "2026-06-23 06:22",
-    "summary": "",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
-  },
-  {
     "title": "Ilościowe i jakościowe określanie ryzyka w pomocy pacjentowi w podejmowaniu decyzji w przypadku znamion dysplastycznych: randomizowane badanie A/B",
     "title_original": "Quantitative versus qualitative risk framing in patient decision aids for dysplastic nevi: A randomized A/B testing study",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41893389/",
@@ -47,7 +38,16 @@
     "title_original": "N-acetyl-D-alanine | C5H9NO3 | CID 132213",
     "url": "https://pubchem.ncbi.nlm.nih.gov/compound/N-acetyl-D-alanine",
     "date": "2026-06-23 03:33",
-    "summary": "N-acetylo-D-alanina | C5H9NO3 | CID 132213 — struktura, nazwy chemiczne, właściwości fizyczne i chemiczne, klasyfikacja, patenty, literatura, aktywność biologiczna, informacje o bezpieczeństwie/zagrożeniach/toksyczności, listy dostawców i inne.",
+    "summary": "N-acetylo-D-alanina | C5H9NO3 | CID 132213 — struktura, nazwy chemiczne, właściwości fizyczne i chemiczne, klasyfikacja, patenty, literatura, aktywność biologiczna, informacje dotyczące bezpieczeństwa/zagrożeń/toksyczności, listy dostawców i inne.",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": []
+  },
+  {
+    "title": "SciENcv – NCBI – NIH",
+    "title_original": "SciENcv - NCBI - NIH",
+    "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
+    "date": "2026-06-23 03:21",
+    "summary": "",
     "source": "National Institutes of Health (.gov)",
     "specializations": []
   },
@@ -341,7 +341,7 @@
     "study_type": "Inne"
   },
   {
-    "title": "Bazyliksymab Rekrutacja do badań fazy 2 do allogenicznego przeszczepiania hematopoetycznych komórek macierzystych (HSCT) / opornej na leczenie steroidami ostrej choroby przeszczep przeciwko gospodarzowi (SR aGVHD) / choroby przeszczep przeciwko gospodarzowi (GVHD) / leczenia ostrej choroby przeszczep przeciwko gospodarzowi (GVHD)",
+    "title": "Bazyliksymab Rekrutacja do badań fazy 2 do allogenicznego przeszczepiania hematopoetycznych komórek macierzystych (HSCT) / opornej na leczenie steroidami ostrej choroby przeszczep przeciwko gospodarzowi (SR aGVHD) / choroby przeszczep przeciwko gospodarzowi (GVHD) / leczenia ostrej choroby przeszczep przeciw gospodarzowi (GVHD)",
     "title_original": "Basiliximab Recruiting Phase 2 Trials for Allogeneic Hematopoietic Stem Cell Transplantation (HSCT) / Steroid Refractory Acute Graft Versus Host Disease (SR aGVHD) / Graft-versus-host Disease (GVHD) / Acute Graft-Versus-Host Disease (GVHD) Treatment",
     "url": "https://go.drugbank.com/drugs/DB00074/clinical_trials?conditions=DBCOND0125377%2CDBCOND0054311%2CDBCOND0088786%2CDBCOND0162211&phase=2&purpose=treatment&status=recruiting",
     "date": "2026-06-22 01:35",
