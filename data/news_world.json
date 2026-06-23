@@ -38,7 +38,7 @@
     ]
   },
   {
-    "title": "Dr Atif Ali: „Praca z osobami zakażonymi wirusem HIV to potężny akt pozwalający zastąpić piętno nadzieją”",
+    "title": "Dr Atif Ali: „Praca z osobami zakażonymi wirusem HIV to potężny krok, który pozwala zastąpić piętno nadzieją”",
     "title_original": "Dr Atif Ali: “Working with people affected by HIV is a powerful act to replace stigma with hope”",
     "url": "https://www.emro.who.int/pak/pakistan-news/dr-atif-ali-working-with-people-affected-by-hiv-is-a-powerful-act-to-replace-stigma-with-hope.html",
     "date": "2026-06-23 14:43",
@@ -93,7 +93,7 @@
     "title_original": "T Cell Receptor repertoire analysis reveals antigenic convergence and immunotherapeutic opportunities in Prostate Cancer",
     "url": "https://www.medrxiv.org/content/10.64898/2026.06.12.26355376v1",
     "date": "2026-06-23 11:18",
-    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko guza ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowy repertuar TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
+    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko nowotworu ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowe repertuary TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
     "source": "medRxiv",
     "specializations": [
       "Urologia"
@@ -129,6 +129,15 @@
     ]
   },
   {
+    "title": "Najpierw online",
+    "title_original": "Online First",
+    "url": "https://bjsm.bmj.com/content/early/recent/1000",
+    "date": "2026-06-23 10:14",
+    "summary": "",
+    "source": "BJSM",
+    "specializations": []
+  },
+  {
     "title": "Połączona przezczaszkowa stymulacja prądem stałym i terapia korygująca funkcje poznawcze nieznacznie spowalniają pogorszenie funkcji poznawczych u starszych dzieci",
     "title_original": "Combined transcranial direct current stimulation and cognitive remediation therapy modestly slows cognitive decline in older adu",
     "url": "https://ebn.bmj.com/content/ebnurs/29/3/158.full.pdf",
@@ -153,9 +162,20 @@
     "title_original": "Decomposing patient heterogeneity of single-cell cancer data by cross-attention neural networks",
     "url": "https://www.medrxiv.org/content/10.1101/2025.06.04.25328900v2",
     "date": "2026-06-23 09:08",
-    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a skutki genetyczne są szczególnie obecne u konkretnego pacjenta.",
+    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a efekty genetyczne są szczególnie obecne u konkretnego pacjenta.",
     "source": "medRxiv",
     "specializations": []
+  },
+  {
+    "title": "Inaktywacja wirusa - Natura",
+    "title_original": "Virus inactivation - Nature",
+    "url": "https://www.nature.com/search?query=Virus%20inactivation&facet-discipline=%22Science%2C%20Humanities%20and%20Social%20Sciences%2C%20multidisciplinary%22",
+    "date": "2026-06-23 08:39",
+    "summary": "",
+    "source": "Nature",
+    "specializations": [
+      "Choroby zakaźne"
+    ]
   },
   {
     "title": "[2606.22851] Szybsze wyliczanie liczb pierwszych",
@@ -165,18 +185,6 @@
     "summary": "Opisujemy kilka nowych algorytmów znajdowania wszystkich liczb pierwszych aż do zadanej granicy $N$, osiągając pierwsze w historii przyspieszenie o dodatnią potęgę $\\log N$ na starożytnym sicie Eratostenesa. Najszybsza wersja, która nie jest w pełni rygorystyczna, działa w operacjach bitowych \\[ N (\\log \\log N)^{1+o(1)} \\], gdy jest analizowana w wielotaśmowym modelu Turinga. Ulepsza to najlepsze istniejące algorytmy autorstwa Pritcharda (1981), Atkina-Bernsteina (2004) i Siergiejewa (2016) o współczynnik prawie $\\log N$.",
     "source": "arXiv",
     "specializations": []
-  },
-  {
-    "title": "Zestawy wieloinfuzyjne na oddziale intensywnej terapii noworodków (NICU), ocena transportu masowego i opracowanie graficznego interfejsu użytkownika",
-    "title_original": "Multi-infusion setups in neonatal intensive care unit (NICU) a mass transport evaluation and graphical user interface development",
-    "url": "https://www.nature.com/articles/s41598-026-58667-9",
-    "date": "2026-06-23 06:50",
-    "summary": "Noworodki w stanie krytycznym przebywające na oddziałach intensywnej terapii wymagają złożonej terapii farmakologicznej i żywieniowej, często podawanej przez dostęp naczyniowy małego kalibru o pojedynczym świetle. Praktyka ta, znana jako wielokrotna infuzja, polega na jednoczesnym podawaniu wielu roztworów, co stwarza poważne wyzwania w zakresie zarządzania dynamiką płynów i bezpieczeństwa klinicznego. W tym badaniu analizowano działanie typowych konfiguracji linii infuzyjnych, koncentrując się na czasie transportu i profilach stężeń roztworów dostarczanych pacjentowi.",
-    "source": "Nature",
-    "specializations": [
-      "Pediatria",
-      "Anestezjologia i intensywna terapia"
-    ]
   },
   {
     "title": "[2606.23321] Tmax: Prosty przepis na agentów terminalowych",
@@ -309,21 +317,21 @@
     "specializations": []
   },
   {
-    "title": "Mechanistyczna koncepcja życia: eseje biologiczne",
-    "title_original": "The mechanistic conception of life: biological essays",
-    "url": "https://collections.awsprod.nlm.nih.gov/?f%5Bdrep2.subjectAggregate%5D%5B%5D=Physiological+Phenomena&f%5Bdrep2.subjectGenre%5D%5B%5D=Collected+Work&f%5Bexample_query_facet_field%5D%5B%5D=years_1900",
-    "date": "2026-06-22 23:19",
-    "summary": "",
-    "source": "collections.awsprod.nlm.nih.gov",
-    "specializations": []
-  },
-  {
     "title": "Palenie fajki wodnej i skutki zdrowotne: przegląd dowodów i plan działania dla międzynarodowego konsorcjum",
     "title_original": "Waterpipe smoking and health outcomes: review of evidence and road map for an international consortium",
     "url": "https://tobaccocontrol.bmj.com/content/early/2026/06/22/tc-2025-059374",
     "date": "2026-06-22 23:19",
     "summary": "",
     "source": "Tobacco Control",
+    "specializations": []
+  },
+  {
+    "title": "Mechanistyczna koncepcja życia: eseje biologiczne",
+    "title_original": "The mechanistic conception of life: biological essays",
+    "url": "https://collections.awsprod.nlm.nih.gov/?f%5Bdrep2.subjectAggregate%5D%5B%5D=Physiological+Phenomena&f%5Bdrep2.subjectGenre%5D%5B%5D=Collected+Work&f%5Bexample_query_facet_field%5D%5B%5D=years_1900",
+    "date": "2026-06-22 23:19",
+    "summary": "",
+    "source": "collections.awsprod.nlm.nih.gov",
     "specializations": []
   },
   {
@@ -363,6 +371,15 @@
     "specializations": []
   },
   {
+    "title": "Szczepienia: nić ochrony przez pokolenia Wydarzenia",
+    "title_original": "Vaccination: A thread of protection across generations Events",
+    "url": "https://www.afro.who.int/countries/23362/events",
+    "date": "2026-06-22 19:21",
+    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
+    "source": "WHO | Regional Office for Africa",
+    "specializations": []
+  },
+  {
     "title": "Przekrojowe nierówności w samoocenie stanu zdrowia w Niemczech ze względu na płeć/płeć, migrację, edukację i dochody",
     "title_original": "Intersectional inequalities in self-rated health in Germany across sex/gender, migration, education and income",
     "url": "https://jech.bmj.com/content/jech/early/2026/06/22/jech-2026-225920.full.pdf",
@@ -378,15 +395,6 @@
     "date": "2026-06-22 18:48",
     "summary": "",
     "source": "Journal of Epidemiology and Community Health (JECH)",
-    "specializations": []
-  },
-  {
-    "title": "Szczepienia: nić ochrony przez pokolenia. Aktualności",
-    "title_original": "Vaccination: A thread of protection across generations News",
-    "url": "https://www.afro.who.int/countries/23362/news",
-    "date": "2026-06-22 18:13",
-    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
-    "source": "WHO | Regional Office for Africa",
     "specializations": []
   },
   {
