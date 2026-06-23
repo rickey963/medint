@@ -38,15 +38,6 @@
     "specializations": []
   },
   {
-    "title": "Zapytania kliniczne",
-    "title_original": "Clinical Queries",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/clinical?term=Syndromic%20X-linked%20intellectual%20disability%20Raymond%20type",
-    "date": "2026-06-22 22:23",
-    "summary": "",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
-  },
-  {
     "title": "https — Portal zgłoszeń | NCBI",
     "title_original": "https - Submission Portal | NCBI",
     "url": "https://dataview.ncbi.nlm.nih.gov/?archive=bioproject",
@@ -56,12 +47,35 @@
     "specializations": []
   },
   {
+    "title": "Rekrutacja durwalumabu do fazy 2 badań w leczeniu raka wątrobowokomórkowego/dysbakteriozy",
+    "title_original": "Durvalumab Recruiting Phase 2 Trials for Hepatocellular Carcinoma / Dysbacteriosis Treatment",
+    "url": "https://go.drugbank.com/drugs/DB11714/clinical_trials?phase=2&status=recruiting&purpose=treatment&conditions=DBCOND0011451%2CDBCOND0030090",
+    "date": "2026-06-22 21:46",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Gastroenterologia i hepatologia",
+      "Choroby zakaźne"
+    ],
+    "phase": "Nieokreślona",
+    "specialization": "Ogólne"
+  },
+  {
     "title": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PSY w szwedzkiej praktyce (ALLERDOGSWEDEN)",
     "title_original": "Evaluation of ALLERgen Specific Vaccination of DOG Allergic Patients in Swedish Practice (ALLERDOGSWEDEN)",
     "url": "https://clinicaltrials.gov/study/NCT07651891",
     "date": "2026-06-22 21:44",
     "summary": "",
     "source": "ClinicalTrials.gov",
+    "specializations": []
+  },
+  {
+    "title": "Czy mogę zachować status badacza na wczesnym etapie, jeśli nagroda NIH zostanie mi przeniesiona?",
+    "title_original": "Can I Retain Early Stage Investigator Status if an NIH Award is Transferred to Me?",
+    "url": "https://grants.nih.gov/news-events/nih-extramural-nexus-news/2026/06/can-i-retain-early-stage-investigator-status-if-an-nih-award-is-transferred-to-me",
+    "date": "2026-06-22 20:04",
+    "summary": "",
+    "source": "National Institutes of Health (.gov)",
     "specializations": []
   },
   {
@@ -107,7 +121,7 @@
     "study_type": "Inne"
   },
   {
-    "title": "Rakowiak wielozastawkowy serca: rola echokardiografii w diagnostyce i selekcji do wszczepienia heterotopowej zastawki dwukawalnej",
+    "title": "Wielozastawkowa rakowiakowa choroba serca: rola echokardiografii w diagnostyce i selekcji do wszczepienia heterotopowej zastawki dwukawalnej",
     "title_original": "Multivalvular Carcinoid Heart Disease: The Role of Echocardiography in Diagnosis and Selection for Heterotopic Bicaval Valve Implantation",
     "url": "https://www.mdpi.com/2075-4418/16/12/1942",
     "date": "2026-06-22 15:49",
@@ -118,7 +132,7 @@
     ]
   },
   {
-    "title": "Wielozastawkowa rakowiakowa choroba serca: rola echokardiografii w diagnostyce i selekcji do wszczepienia heterotopowej zastawki dwukawalnej",
+    "title": "Rakowiak wielozastawkowy serca: rola echokardiografii w diagnostyce i selekcji do wszczepienia heterotopowej zastawki dwukawalnej",
     "title_original": "Multivalvular Carcinoid Heart Disease: The Role of Echocardiography in Diagnosis and Selection for Heterotopic Bicaval Valve Implantation",
     "url": "https://www.mdpi.com/2075-4418/16/12/1942",
     "date": "2026-06-22 15:49",
@@ -220,6 +234,33 @@
     "study_type": "Inne"
   },
   {
+    "title": "Ratunek przez radioterapię i anty-CTLA4/PD-1 po niepowodzeniu terapii anty-PD-1 u chorych na NSCLC z przerzutami: badanie II fazy RECLAIM.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331381/",
+    "date": "2026-06-22 02:00",
+    "summary": "",
+    "source": "PubMed",
+    "specializations": [],
+    "study_type": "Inne"
+  },
+  {
+    "title": "Przegląd patentowy antagonistów receptora GPR84 (2020-obecnie).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331362/",
+    "date": "2026-06-22 02:00",
+    "summary": "",
+    "source": "PubMed",
+    "specializations": []
+  },
+  {
+    "title": "Bariery, ułatwienia i obiecujące interwencje mające na celu ograniczenie siedzącego trybu życia podczas rehabilitacji po udarze i po nim - przegląd zakresu.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331341/",
+    "date": "2026-06-22 02:00",
+    "summary": "",
+    "source": "PubMed",
+    "specializations": [
+      "Neurologia"
+    ]
+  },
+  {
     "title": "Postrzeganie, zachowania i bariery wśród nastolatków żyjących z otyłością, opiekunów i pracowników służby zdrowia w Meksyku: badanie nastolatków ACTION.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42330589/",
     "date": "2026-06-22 02:00",
@@ -235,38 +276,6 @@
     "summary": "",
     "source": "PubMed",
     "specializations": []
-  },
-  {
-    "title": "Wstępne negatywne obrazowanie w padaczce genetycznej związanej z GATOR1 nie wyklucza istnienia ogniskowej, resekcyjnej strefy epileptogennej: przypadki ilustracyjne.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42330554/",
-    "date": "2026-06-22 02:00",
-    "summary": "",
-    "source": "PubMed",
-    "specializations": [
-      "Neurologia",
-      "Radiologia i diagnostyka obrazowa"
-    ]
-  },
-  {
-    "title": "Odkrywanie dylematów etycznych w pielęgniarstwie onkologicznym dziecięcym: podejście jakościowe.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42330553/",
-    "date": "2026-06-22 02:00",
-    "summary": "",
-    "source": "PubMed",
-    "specializations": [
-      "Onkologia",
-      "Pediatria"
-    ]
-  },
-  {
-    "title": "Zastosowanie retraktora endoskopowego w leczeniu zrostów w jednostronnej, dwuwrotnej endoskopowej chirurgii lędźwiowej: przykłady ilustracyjne.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42330552/",
-    "date": "2026-06-22 02:00",
-    "summary": "",
-    "source": "PubMed",
-    "specializations": [
-      "Chirurgia"
-    ]
   },
   {
     "title": "Badanie przezodbytnicze i ostre zapalenie wyrostka robaczkowego",
@@ -352,17 +361,6 @@
     "summary": "Bezpłatny i otwarty dostęp do globalnych danych rozwojowych",
     "source": "World Bank Open Data",
     "specializations": []
-  },
-  {
-    "title": "ANLL Rekrutacja, faza 1 prób kwasu askorbinowego (DB00126)",
-    "title_original": "ANLL Recruiting Phase 1 Trials for Ascorbic acid (DB00126)",
-    "url": "https://go.drugbank.com/indications/DBCOND0042650/clinical_trials/DB00126?phase=1&status=recruiting",
-    "date": "2026-06-21 00:19",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [],
-    "phase": "Faza I",
-    "specialization": "Ogólne"
   },
   {
     "title": "Opis przypadku: Terapia podskórną pompą insulinową wspomaganą czujnikiem u wcześniaka o masie ciała 510 g i hiperglikemii",
