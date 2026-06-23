@@ -9,15 +9,6 @@
     "specializations": []
   },
   {
-    "title": "Allana Murphy – Euronadzór",
-    "title_original": "Allana Murphy - Eurosurveillance",
-    "url": "https://www.eurosurveillance.org/search?value1=Allana+Murphy&option1=author&noRedirect=true",
-    "date": "2026-06-23 07:01",
-    "summary": "",
-    "source": "Eurosurveillance",
-    "specializations": []
-  },
-  {
     "title": "Epidemia wirusa Andes na statku wycieczkowym: bieżąca sytuacja | Hantawirus",
     "title_original": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus",
     "url": "https://www.cdc.gov/hantavirus/situation-summary/index.html",
@@ -182,7 +173,16 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorowalności",
+    "title": "Biblioteka obrazów zdrowia publicznego (PHIL)",
+    "title_original": "Public Health Image Library (PHIL)",
+    "url": "https://wwwn.cdc.gov/PHIL/Details.aspx?pid=13154",
+    "date": "2026-06-22 19:04",
+    "summary": "Szczegóły — Biblioteka obrazów zdrowia publicznego (PHIL)",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "specializations": []
+  },
+  {
+    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorobowości",
     "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
     "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
     "date": "2026-06-22 17:29",
@@ -194,7 +194,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorobowości",
+    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorowalności",
     "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
     "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
     "date": "2026-06-22 17:29",
@@ -271,15 +271,6 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Biblioteka obrazów zdrowia publicznego (PHIL)",
-    "title_original": "Public Health Image Library (PHIL)",
-    "url": "https://wwwn.cdc.gov/PHIL/Details.aspx?pid=14362",
-    "date": "2026-06-22 13:34",
-    "summary": "Szczegóły — Biblioteka obrazów zdrowia publicznego (PHIL)",
-    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-    "specializations": []
-  },
-  {
     "title": "W szczepieniach przeciwko HPV odnieśliśmy sukces, ale chcemy więcej ►",
     "title_original": "W szczepieniach przeciwko HPV odnieśliśmy sukces, ale chcemy więcej ►",
     "url": "https://www.termedia.pl/mz/W-szczepieniach-przeciwko-HPV-odnieslismy-sukces-ale-chcemy-wiecej-,67787.html",
@@ -292,15 +283,6 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Długoterminowe ryzyko zdrowotne związane z e-papierosami po rzuceniu palenia",
-    "title_original": "Long-term health risks of e-cigarettes after smoking cessation",
-    "url": "https://www.iarc.who.int/fr/news-events/long-term-health-risks-of-e-cigarettes-after-smoking-cessation/",
-    "date": "2026-06-22 11:19",
-    "summary": "",
-    "source": "IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
-    "specializations": []
-  },
-  {
     "title": "Ebola: ponad tysiąc zakażeń, służby tracą kontrolę nad epidemią",
     "title_original": "Ebola: ponad tysiąc zakażeń, służby tracą kontrolę nad epidemią",
     "url": "https://polskieradio24.pl/swiat/ponad-tysiac-przypadkow-eboli-sluzby-traca-kontrole-nad-epidemia",
@@ -309,6 +291,15 @@
     "source": "Polskie Radio 24",
     "specializations": [],
     "category": "Epidemiologia"
+  },
+  {
+    "title": "Długoterminowe ryzyko zdrowotne związane z e-papierosami po rzuceniu palenia",
+    "title_original": "Long-term health risks of e-cigarettes after smoking cessation",
+    "url": "https://www.iarc.who.int/fr/news-events/long-term-health-risks-of-e-cigarettes-after-smoking-cessation/",
+    "date": "2026-06-22 11:19",
+    "summary": "",
+    "source": "IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
+    "specializations": []
   },
   {
     "title": "Wzmocnienie gotowości Europy na walkę z chorobami przenoszonymi przez komary",
@@ -333,6 +324,15 @@
     "title": "Agnes Perrin-Guyomard – Euronadzór",
     "title_original": "Agnes Perrin-Guyomard - Eurosurveillance",
     "url": "https://www.eurosurveillance.org/search?value1=Agnes+Perrin-Guyomard&option1=author&noRedirect=true",
+    "date": "2026-06-21 19:38",
+    "summary": "",
+    "source": "Eurosurveillance",
+    "specializations": []
+  },
+  {
+    "title": "Jens Andre Hammerl – Euronadzór",
+    "title_original": "Jens Andre Hammerl - Eurosurveillance",
+    "url": "https://www.eurosurveillance.org/search?value1=Jens+Andre+Hammerl&option1=author&noRedirect=true",
     "date": "2026-06-21 19:38",
     "summary": "",
     "source": "Eurosurveillance",
