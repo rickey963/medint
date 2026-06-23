@@ -1,5 +1,14 @@
 [
   {
+    "title": "SciENcv – NCBI – NIH",
+    "title_original": "SciENcv - NCBI - NIH",
+    "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
+    "date": "2026-06-23 18:27",
+    "summary": "",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": []
+  },
+  {
     "title": "niesklasyfikowany Amniota",
     "title_original": "unclassified Amniota",
     "url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?command=show&mode=node&id=2250117&lvl=",
@@ -75,15 +84,6 @@
     "specializations": [
       "Onkologia"
     ]
-  },
-  {
-    "title": "SciENcv – NCBI – NIH",
-    "title_original": "SciENcv - NCBI - NIH",
-    "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
-    "date": "2026-06-23 15:23",
-    "summary": "",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
   },
   {
     "title": "Zmutowana szczepionka peptydowa KRAS z podwójną blokadą punktu kontrolnego w przerzutowym raku jelita grubego: badanie fazy I",
@@ -330,16 +330,6 @@
     "specialization": "Ogólne"
   },
   {
-    "title": "Krajowe badanie młodzieży dotyczące tytoniu: FDA publikuje artykuł w czasopiśmie recenzowanym i publikuje wyniki za rok 2025",
-    "title_original": "National Youth Tobacco Survey: FDA Publishes Peer-Reviewed Journal Article, Releases 2025 Findings",
-    "url": "https://www.fda.gov/tobacco-products/ctp-newsroom/national-youth-tobacco-survey-fda-publishes-peer-reviewed-journal-article-releases-2025-findings",
-    "date": "2026-06-23 02:00",
-    "summary": "",
-    "source": "fda.gov",
-    "specializations": [],
-    "study_type": "Inne"
-  },
-  {
     "title": "Zaktualizowany przegląd patentów na inhibitory kinazy 1A regulowanej przez fosforylację tyrozyny o podwójnej specyficzności (DYRK1A) (2020-obecnie).",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42334856/",
     "date": "2026-06-23 02:00",
@@ -378,6 +368,16 @@
     "summary": "",
     "source": "PubMed",
     "specializations": []
+  },
+  {
+    "title": "Krajowe badanie młodzieży dotyczące tytoniu: FDA publikuje artykuł w czasopiśmie recenzowanym i publikuje wyniki za rok 2025",
+    "title_original": "National Youth Tobacco Survey: FDA Publishes Peer-Reviewed Journal Article, Releases 2025 Findings",
+    "url": "https://www.fda.gov/tobacco-products/ctp-newsroom/national-youth-tobacco-survey-fda-publishes-peer-reviewed-journal-article-releases-2025-findings",
+    "date": "2026-06-23 02:00",
+    "summary": "",
+    "source": "fda.gov",
+    "specializations": [],
+    "study_type": "Inne"
   },
   {
     "title": "LTX-109 Completed Phase 2 Trials for Atopic Dermatitis / Gram-positive, Skin Infections / Skin Infections / Mild Eczema/Dermatoses Treatment",
