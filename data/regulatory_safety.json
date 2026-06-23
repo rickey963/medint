@@ -236,18 +236,6 @@
     "specializations": []
   },
   {
-    "title": "LTX-109 Ukończono badania fazy 2 dotyczące atopowego zapalenia skóry / Gram-dodatnich, infekcji skóry / infekcji skóry / leczenia łagodnego egzemy / dermatoz",
-    "title_original": "LTX-109 Completed Phase 2 Trials for Atopic Dermatitis / Gram-positive, Skin Infections / Skin Infections / Mild Eczema/Dermatoses Treatment",
-    "url": "https://go.drugbank.com/drugs/DB12711/clinical_trials?phase=2&status=completed&purpose=treatment&conditions=DBCOND0028414%2CDBCOND0048649%2CDBCOND0048650%2CDBCOND0040399",
-    "date": "2026-06-23 01:37",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Choroby zakaźne",
-      "Dermatologia"
-    ]
-  },
-  {
     "title": "TPLC – całkowity cykl życia produktu",
     "title_original": "TPLC - Total Product Life Cycle",
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=5916&min_report_year=2021&manufacturer=GUIDEAI%20HEALTH&pmndecision=SUBSTANTIALLY%20EQUIVALENT",
@@ -286,11 +274,20 @@
     "specializations": []
   },
   {
+    "title": "Olumakostat glasaretil Zakończono badania fazy 1 dotyczące leczenia trądziku pospolitego",
+    "title_original": "Olumacostat glasaretil Completed Phase 1 Trials for Acne Vulgaris Treatment",
+    "url": "https://go.drugbank.com/drugs/DB12642/clinical_trials?conditions=DBCOND0029828&phase=1&purpose=treatment&status=completed",
+    "date": "2026-06-23 00:49",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": []
+  },
+  {
     "title": "Uważnie obserwowany lek firmy Pfizer na raka płuc nie przeszedł testów klinicznych",
     "title_original": "Closely watched Pfizer lung cancer drug falls short in clinical trial",
     "url": "https://www.statnews.com/2026/06/22/pfizer-lung-cancer-sigvotatug-vedotin/",
     "date": "2026-06-22 23:37",
-    "summary": "Firma Pfizer stwierdziła, że ​​eksperymentalny lek, który miał nadzieję zastąpić powszechnie stosowaną chemioterapię w leczeniu jednej z najczęstszych postaci raka płuc, nie przeszedł testów klinicznych.",
+    "summary": "Firma Pfizer stwierdziła, że ​​eksperymentalny lek, który, jak miał nadzieję, mógłby zastąpić powszechnie stosowaną chemioterapię w leczeniu jednej z najczęstszych postaci raka płuc, nie przeszedł testów klinicznych.",
     "source": "statnews.com",
     "specializations": [
       "Pulmonologia"
@@ -368,7 +365,7 @@
     "specializations": []
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -378,7 +375,7 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -439,7 +436,7 @@
     "title_original": "What happens when AI meets physics-based drug design?",
     "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
     "date": "2026-06-22 17:54",
-    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się zintegrowane zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
+    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się stowarzyszone zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
     "source": "statnews.com",
     "specializations": []
   },
@@ -628,7 +625,7 @@
     "title_original": "Medicare GLP-1 Bridge",
     "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
     "date": "2026-06-22 09:00",
-    "summary": "Centra Usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz osobną krótkoterminową demonstrację (obecnie nazywaną „Mostem Medicare GLP-1”)",
+    "summary": "Centra usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz oddzielną krótkoterminową demonstrację (obecnie nazywaną „mostem Medicare GLP-1”)",
     "source": "Centers for Medicare & Medicaid Services | CMS (.gov)",
     "specializations": []
   },
@@ -813,6 +810,17 @@
     "title_original": "A Bleeding Risk Score for Cancer-Associated Venous Thromboembolism in Patients Receiving Direct Oral Anticoagulants",
     "url": "https://www.jacc.org/doi/10.1016/j.jaccao.2026.05.002",
     "date": "2026-06-17 02:05",
+    "summary": "",
+    "source": "JACC Journals",
+    "specializations": [
+      "Onkologia"
+    ]
+  },
+  {
+    "title": "Odcinek podcastu: Ocena ryzyka krwawienia w przypadku żylnej choroby zakrzepowo-zatorowej związanej z nowotworem u pacjentów otrzymujących bezpośrednie doustne leki przeciwzakrzepowe | JACC: KardioOnkologia",
+    "title_original": "Podcast Episode: A Bleeding Risk Score for Cancer-Associated Venous Thromboembolism in Patients Receiving Direct Oral Anticoagulants | JACC: CardioOncology",
+    "url": "https://www.jacc.org/do/10.1016/27ae7c08-63c7-483b-8ab6-20581f0bce13/full/",
+    "date": "2026-06-16 21:52",
     "summary": "",
     "source": "JACC Journals",
     "specializations": [
