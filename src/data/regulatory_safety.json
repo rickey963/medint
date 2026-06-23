@@ -21,6 +21,16 @@
     ]
   },
   {
+    "title": "Rejestracja zakładu i lista urządzeń",
+    "title_original": "Establishment Registration & Device Listing",
+    "url": "https://www.accessdata.fda.gov/SCripts/Cdrh/cfdOCS/cfrl/rl.cfm?lid=1013823&lpcd=CCK",
+    "date": "2026-06-23 02:19",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": [],
+    "safety_level": "🟢 REJESTRACJA"
+  },
+  {
     "title": "FDA zatwierdza doustny antybiotyk Utebzi w leczeniu powikłanych infekcji dróg moczowych",
     "title_original": "FDA Approves Oral Utebzi Antibiotic for Complicated Urinary Tract Infections",
     "url": "https://www.drugs.com/news/fda-approves-oral-utebzi-antibiotic-complicated-urinary-tract-infections-130418.html",
@@ -75,18 +85,6 @@
     "specializations": []
   },
   {
-    "title": "LTX-109 Ukończono badania fazy 2 dotyczące atopowego zapalenia skóry / Gram-dodatnich, infekcji skóry / infekcji skóry / leczenia łagodnego egzemy / dermatoz",
-    "title_original": "LTX-109 Completed Phase 2 Trials for Atopic Dermatitis / Gram-positive, Skin Infections / Skin Infections / Mild Eczema/Dermatoses Treatment",
-    "url": "https://go.drugbank.com/drugs/DB12711/clinical_trials?phase=2&status=completed&purpose=treatment&conditions=DBCOND0028414%2CDBCOND0048649%2CDBCOND0048650%2CDBCOND0040399",
-    "date": "2026-06-23 01:37",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Choroby zakaźne",
-      "Dermatologia"
-    ]
-  },
-  {
     "title": "Tobramycyna zakończyła badania fazy 3 dotyczące bakteryjnego zapalenia spojówek/leczenia ropnego bakteryjnego zapalenia spojówek",
     "title_original": "Tobramycin Completed Phase 3 Trials for Bacterial Conjunctivitis / Purulent Bacterial Conjunctivitis Treatment",
     "url": "https://go.drugbank.com/drugs/DB00684/clinical_trials?phase=3&status=completed&purpose=treatment&conditions=DBCOND0030770%2CDBCOND0047984",
@@ -127,11 +125,20 @@
     "title_original": "Closely watched Pfizer lung cancer drug falls short in clinical trial",
     "url": "https://www.statnews.com/2026/06/22/pfizer-lung-cancer-sigvotatug-vedotin/",
     "date": "2026-06-22 23:37",
-    "summary": "Firma Pfizer stwierdziła, że ​​eksperymentalny lek, który, jak miał nadzieję, mógłby zastąpić powszechnie stosowaną chemioterapię w leczeniu jednej z najczęstszych postaci raka płuc, nie przeszedł testów klinicznych.",
+    "summary": "Firma Pfizer stwierdziła, że ​​eksperymentalny lek, który miał nadzieję zastąpić powszechnie stosowaną chemioterapię w leczeniu jednej z najczęstszych postaci raka płuc, nie przeszedł testów klinicznych.",
     "source": "statnews.com",
     "specializations": [
       "Pulmonologia"
     ]
+  },
+  {
+    "title": "Lenalidomid zakończył badania fazy 2 dotyczące leczenia szpiczaka mnogiego/niewydolności nerek",
+    "title_original": "Lenalidomide Completed Phase 2 Trials for Multiple Myeloma / Kidney Failure Treatment",
+    "url": "https://go.drugbank.com/drugs/DB00480/clinical_trials?phase=2&status=completed&purpose=treatment&conditions=DBCOND0028362%2CDBCOND0028259",
+    "date": "2026-06-22 23:23",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": []
   },
   {
     "title": "Seminarium internetowe: Zwiększanie skali platformy globalnej: współpraca na rzecz zlikwidowania luki w przeżywalności nowotworów u dzieci poprzez zrównoważony dostęp do leków o gwarantowanej jakości",
@@ -180,7 +187,7 @@
     "title_original": "Ile nowych leków dopuściła do obrotu EMA? Pierwsze podsumowanie",
     "url": "https://www.termedia.pl/mz/Ile-nowych-lekow-dopuscila-do-obrotu-EMA-Pierwsze-podsumowanie,67808.html",
     "date": "2026-06-22 19:50",
-    "summary": "W 2025 r. Europejska Agencja Leków (EMA) zarekomendowała dopuszczenie do obrotu 104 produktów leczniczych stosowanych u ludzi. Spośród nich 38 zawierało nową substancję czynną, która wcześniej nie",
+    "summary": "W 2025 r. Europejska Agencja Leków (EMA) zarekomendowała\r\ndopuszczenie do obrotu 104 produktów leczniczych stosowanych u ludzi. Spośród\r\nnich 38 zawierało nową substancję czynną, która wcześniej nie była dopuszczona\r\ndo stosowania w UE – czytamy w najnowszym raporcie opublikowanym przez EMA.",
     "source": "Termedia",
     "specializations": []
   },
@@ -342,16 +349,6 @@
     "summary": "Biotechnologia, której współzałożycielką jest Sofinnova Partners i były szef działu badań i rozwoju firmy Sanofi w dziedzinie immunologii, testuje nowe leki biologiczne przeciwko powszechnym chorobom immunologicznym.",
     "source": "BioPharma Dive",
     "specializations": []
-  },
-  {
-    "title": "Rejestracja zakładu i lista urządzeń",
-    "title_original": "Establishment Registration & Device Listing",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=171&q=T3J0aG9wZWRpYw==&pn=10&pf=0&sc=ena&rcount=207",
-    "date": "2026-06-22 13:19",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": [],
-    "safety_level": "🟢 REJESTRACJA"
   },
   {
     "title": "Czy lek na zaparcia może usunąć „mgłę mózgową” związaną z depresją?",
