@@ -326,7 +326,7 @@
     "title_original": "EMA/PE/0000233122 - paediatric investigation plan",
     "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000233122",
     "date": "2026-06-23 09:51",
-    "summary": "Ocena, nadzór i monitorowanie bezpieczeństwa leków w UE.",
+    "summary": "",
     "source": "European Medicines Agency (EMA)",
     "specializations": [
       "Pediatria"
@@ -337,7 +337,7 @@
     "title_original": "EMA/PE/0000241855 - paediatric investigation plan",
     "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000241855",
     "date": "2026-06-23 09:39",
-    "summary": "Ocena, nadzór i monitorowanie bezpieczeństwa leków w UE.",
+    "summary": "",
     "source": "European Medicines Agency (EMA)",
     "specializations": [
       "Pediatria"
@@ -348,7 +348,7 @@
     "title_original": "EMA/PE/0000231892 - paediatric investigation plan",
     "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000231892",
     "date": "2026-06-23 09:34",
-    "summary": "Ocena, nadzór i monitorowanie bezpieczeństwa leków w UE.",
+    "summary": "",
     "source": "European Medicines Agency (EMA)",
     "specializations": [
       "Pediatria"
@@ -370,15 +370,6 @@
     "date": "2026-06-23 07:43",
     "summary": "Przeglądaj badania o otwartym dostępie dotyczące farmakologii eksperymentalnej i odkrywania leków, w tym takie tematy, jak chemia leków i reakcje fizjologiczne.",
     "source": "Frontiers",
-    "specializations": []
-  },
-  {
-    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
-    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=431&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumber",
-    "date": "2026-06-23 07:10",
-    "summary": "",
-    "source": "accessdata.fda.gov",
     "specializations": []
   },
   {
@@ -426,7 +417,35 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Walidacja wyzwania",
+    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
+    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=201&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=05%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondate",
+    "date": "2026-06-23 06:21",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": []
+  },
+  {
+    "title": "Rejestracja zakładu i lista urządzeń",
+    "title_original": "Establishment Registration & Device Listing",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=251&q=QUNVUFVOQ1RVUkUgTkVFRExFUw==&pn=10&pf=0&sc=end&rcount=503",
+    "date": "2026-06-23 06:08",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": [],
+    "safety_level": "🟢 REJESTRACJA"
+  },
+  {
+    "title": "510(k) Powiadomienie przed wprowadzeniem na rynek",
+    "title_original": "510(k) Premarket Notification",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K822117",
+    "date": "2026-06-23 05:38",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": []
+  },
+  {
+    "title": "Weryfikacja wyzwania",
     "title_original": "Challenge Validation",
     "url": "https://www.fda.gov/search?f%5B0%5D=prod%3A2286&f%5B1%5D=prod%3A2305&f%5B2%5D=prod%3A2323&f%5B3%5D=prod%3A2374&f%5B4%5D=prod%3A2393&f%5B5%5D=section%3A24598&s=",
     "date": "2026-06-23 05:24",
@@ -458,30 +477,12 @@
     ]
   },
   {
-    "title": "TPLC – całkowity cykl życia produktu",
-    "title_original": "TPLC - Total Product Life Cycle",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=5916&min_report_year=2021&manufacturer=GUIDEAI%20HEALTH&pmndecision=SUBSTANTIALLY%20EQUIVALENT",
-    "date": "2026-06-23 01:37",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": []
-  },
-  {
     "title": "Leki morskie | Lipiec 2026 r. — Przeglądaj artykuły",
     "title_original": "Marine Drugs | July 2026 - Browse Articles",
     "url": "https://www.mdpi.com/1660-3397/24/7",
     "date": "2026-06-23 01:27",
     "summary": "",
     "source": "MDPI",
-    "specializations": []
-  },
-  {
-    "title": "510(k) Powiadomienie przed wprowadzeniem na rynek",
-    "title_original": "510(k) Premarket Notification",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K233946",
-    "date": "2026-06-23 00:54",
-    "summary": "",
-    "source": "accessdata.fda.gov",
     "specializations": []
   },
   {
@@ -784,7 +785,7 @@
     "title_original": "Medicare GLP-1 Bridge",
     "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
     "date": "2026-06-22 09:00",
-    "summary": "Centra Usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz osobną krótkoterminową demonstrację (obecnie nazywaną „Mostem Medicare GLP-1”)",
+    "summary": "Centra usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz oddzielną krótkoterminową demonstrację (obecnie nazywaną „mostem Medicare GLP-1”)",
     "source": "Centers for Medicare & Medicaid Services | CMS (.gov)",
     "specializations": []
   },
