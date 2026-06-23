@@ -1,5 +1,18 @@
 [
   {
+    "title": "Arytmia pochodzenia komorowego Rekrutacja fazy 4 badań dla histydyny (DB00117)",
+    "title_original": "Arrhythmia of ventricular origin Recruiting Phase 4 Trials for Histidine (DB00117)",
+    "url": "https://go.drugbank.com/indications/DBCOND0102378/clinical_trials/DB00117?phase=4&status=recruiting",
+    "date": "2026-06-23 05:03",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Kardiologia"
+    ],
+    "phase": "Nieokreślona",
+    "specialization": "Ogólne"
+  },
+  {
     "title": "Elastomery ciekłokrystaliczne do zastosowań ortopedycznych: Analiza porównawcza receptur i właściwości lepkosprężystych",
     "title_original": "Liquid crystal elastomers for orthopedic applications: Comparative analysis of formulations and viscoelastic properties",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41895251/",
@@ -49,11 +62,11 @@
     "specializations": []
   },
   {
-    "title": "Zespół genomu Xanthobacter autothrophicus ASM587108v1",
-    "title_original": "Xanthobacter autotrophicus genome assembly ASM587108v1",
-    "url": "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_005871085",
-    "date": "2026-06-23 02:49",
-    "summary": "- Xanthobacter autotroficus",
+    "title": "PLD1 - fosfolipaza D1 (gepard)",
+    "title_original": "PLD1 - phospholipase D1 (cheetah)",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/gene/106990052",
+    "date": "2026-06-23 03:04",
+    "summary": "Informacje o docelowym genie dla PLD1 - fosfolipazy D1 (gepard). Znajdź choroby powiązane z tym celem biologicznym i związki testowane przeciwko niemu w eksperymentach biologicznych.",
     "source": "National Institutes of Health (.gov)",
     "specializations": []
   },
@@ -212,7 +225,7 @@
     "study_type": "Case Report"
   },
   {
-    "title": "Wielozastawkowa rakowiakowa choroba serca: rola echokardiografii w diagnostyce i selekcji do wszczepienia heterotopowej zastawki dwukawalnej",
+    "title": "Rakowiak wielozastawkowy serca: rola echokardiografii w diagnostyce i selekcji do wszczepienia heterotopowej zastawki dwukawalnej",
     "title_original": "Multivalvular Carcinoid Heart Disease: The Role of Echocardiography in Diagnosis and Selection for Heterotopic Bicaval Valve Implantation",
     "url": "https://www.mdpi.com/2075-4418/16/12/1942",
     "date": "2026-06-22 15:49",
@@ -223,7 +236,7 @@
     ]
   },
   {
-    "title": "Rakowiak wielozastawkowy serca: rola echokardiografii w diagnostyce i selekcji do wszczepienia heterotopowej zastawki dwukawalnej",
+    "title": "Wielozastawkowa rakowiakowa choroba serca: rola echokardiografii w diagnostyce i selekcji do wszczepienia heterotopowej zastawki dwukawalnej",
     "title_original": "Multivalvular Carcinoid Heart Disease: The Role of Echocardiography in Diagnosis and Selection for Heterotopic Bicaval Valve Implantation",
     "url": "https://www.mdpi.com/2075-4418/16/12/1942",
     "date": "2026-06-22 15:49",
@@ -325,19 +338,6 @@
   },
   {
     "title": "Bazyliksymab Rekrutacja do badań fazy 2 do allogenicznego przeszczepiania hematopoetycznych komórek macierzystych (HSCT) / opornej na leczenie steroidami ostrej choroby przeszczep przeciwko gospodarzowi (SR aGVHD) / choroby przeszczep przeciwko gospodarzowi (GVHD) / leczenia ostrej choroby przeszczep przeciw gospodarzowi (GVHD)",
-    "title_original": "Basiliximab Recruiting Phase 2 Trials for Allogeneic Hematopoietic Stem Cell Transplantation (HSCT) / Steroid Refractory Acute Graft Versus Host Disease (SR aGVHD) / Graft-versus-host Disease (GVHD) / Acute Graft-Versus-Host Disease (GVHD) Treatment",
-    "url": "https://go.drugbank.com/drugs/DB00074/clinical_trials?conditions=DBCOND0125377%2CDBCOND0054311%2CDBCOND0088786%2CDBCOND0162211&phase=2&purpose=treatment&status=recruiting",
-    "date": "2026-06-22 01:35",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Chirurgia"
-    ],
-    "phase": "Nieokreślona",
-    "specialization": "Ogólne"
-  },
-  {
-    "title": "Bazyliksymab Rekrutacja do badań fazy 2 do allogenicznego przeszczepiania hematopoetycznych komórek macierzystych (HSCT) / opornej na leczenie steroidami ostrej choroby przeszczep przeciwko gospodarzowi (SR aGVHD) / choroby przeszczep przeciwko gospodarzowi (GVHD) / leczenia ostrej choroby przeszczep przeciwko gospodarzowi (GVHD)",
     "title_original": "Basiliximab Recruiting Phase 2 Trials for Allogeneic Hematopoietic Stem Cell Transplantation (HSCT) / Steroid Refractory Acute Graft Versus Host Disease (SR aGVHD) / Graft-versus-host Disease (GVHD) / Acute Graft-Versus-Host Disease (GVHD) Treatment",
     "url": "https://go.drugbank.com/drugs/DB00074/clinical_trials?conditions=DBCOND0125377%2CDBCOND0054311%2CDBCOND0088786%2CDBCOND0162211&phase=2&purpose=treatment&status=recruiting",
     "date": "2026-06-22 01:35",
