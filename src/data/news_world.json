@@ -24,7 +24,7 @@
     "title_original": "Dr Atif Ali: “Working with people affected by HIV is a powerful act to replace stigma with hope”",
     "url": "https://www.emro.who.int/pak/pakistan-news/dr-atif-ali-working-with-people-affected-by-hiv-is-a-powerful-act-to-replace-stigma-with-hope.html",
     "date": "2026-06-23 14:43",
-    "summary": "Dr Atif Ali, członek pakistańskiego zespołu ds. kontroli chorób WHO, opowiada o tym, dlaczego zdecydował się poświęcić swoją karierę walce z wirusem HIV.Dr Atif Ali udziela wskazówek zespołowi zajmującemu się badaniem przesiewowym w kierunku HIV przed przystąpieniem do wykonywania testów w...",
+    "summary": "",
     "source": "emro.who.int",
     "specializations": [
       "Choroby zakaźne"
@@ -146,6 +146,15 @@
     "date": "2026-06-23 09:08",
     "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a efekty genetyczne są szczególnie obecne u konkretnego pacjenta.",
     "source": "medRxiv",
+    "specializations": []
+  },
+  {
+    "title": "[2606.22851] Szybsze wyliczanie liczb pierwszych",
+    "title_original": "[2606.22851] Faster enumeration of primes",
+    "url": "https://arxiv.org/abs/2606.22851",
+    "date": "2026-06-23 07:53",
+    "summary": "Opisujemy kilka nowych algorytmów znajdowania wszystkich liczb pierwszych aż do zadanej granicy $N$, osiągając pierwsze w historii przyspieszenie o dodatnią potęgę $\\log N$ na starożytnym sicie Eratostenesa. Najszybsza wersja, która nie jest w pełni rygorystyczna, działa w operacjach bitowych \\[ N (\\log \\log N)^{1+o(1)} \\], gdy jest analizowana w wielotaśmowym modelu Turinga. Ulepsza to najlepsze istniejące algorytmy autorstwa Pritcharda (1981), Atkina-Bernsteina (2004) i Siergiejewa (2016) o współczynnik prawie $\\log N$.",
+    "source": "arXiv",
     "specializations": []
   },
   {
@@ -369,15 +378,6 @@
     "date": "2026-06-22 18:48",
     "summary": "",
     "source": "Journal of Epidemiology and Community Health (JECH)",
-    "specializations": []
-  },
-  {
-    "title": "Szczepienia: nić ochrony przez pokolenia. Aktualności",
-    "title_original": "Vaccination: A thread of protection across generations News",
-    "url": "https://www.afro.who.int/countries/23362/news",
-    "date": "2026-06-22 18:13",
-    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
-    "source": "WHO | Regional Office for Africa",
     "specializations": []
   },
   {
@@ -679,15 +679,6 @@
     "url": "https://arxiv.org/abs/2606.20186",
     "date": "2026-06-19 09:51",
     "summary": "Badamy właściwości grafów (a raczej sekwencji grafów), stwierdzając, że pewna ograniczona liczba podgrafów jest w przybliżeniu tym, czego oczekuje się od losowego wykresu. Kilku autorów wykazało, że wiele takich właściwości charakteryzuje grafy quasi-losowe, ale są też pewne wyjątki. Kontynuujemy tutaj badania Jansona i Sósa (2013) i wprowadzamy kilka nowych wersji tych właściwości, aby lepiej zrozumieć, dlaczego wiele z tych właściwości jest quasi-losowych oraz aby zrozumieć strukturę wyjątków, które takie nie są.",
-    "source": "arXiv",
-    "specializations": []
-  },
-  {
-    "title": "[2606.21163] Książę Drinfelda",
-    "title_original": "[2606.21163] Duke for Drinfeld",
-    "url": "https://arxiv.org/abs/2606.21163",
-    "date": "2026-06-19 09:00",
-    "summary": "Dowodzimy, że pole funkcyjne jest analogiczne do twierdzenia Duke'a o równomiernym rozkładzie punktów CM, w układzie krzywych modułowych Drinfelda-Stuhlera. Nasze wyniki obejmują zatem, na ustawienie Drinfelda, zarówno twierdzenie Duke'a o krzywej modularnej, jak i S.-W. Równomierny rozkład Zhanga w przypadku krzywych Shimury. Równoważność sprowadza się za pomocą kryterium Weyla do zaniku okresów torycznych, co wzór Waldspurgera wyraża poprzez centralne wartości automorficznych funkcji $L$, ograniczonych w postaci siły Lindelöfa przez hipotezę Riemanna na polach funkcyjnych.",
     "source": "arXiv",
     "specializations": []
   },
