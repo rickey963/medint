@@ -1,5 +1,14 @@
 [
   {
+    "title": "SciENcv – NCBI – NIH",
+    "title_original": "SciENcv - NCBI - NIH",
+    "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
+    "date": "2026-06-23 00:19",
+    "summary": "",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": []
+  },
+  {
     "title": "Gen - GCA_900163885.1",
     "title_original": "Gene - GCA_900163885.1",
     "url": "https://www.ncbi.nlm.nih.gov/datasets/gene/GCA_900163885.1",
@@ -9,10 +18,30 @@
     "specializations": []
   },
   {
+    "title": "ClinicalTrials.gov: Medycyna ziołowa",
+    "title_original": "ClinicalTrials.gov: Herbal Medicine",
+    "url": "https://clinicaltrials.gov/search?intr=%22herbal+medicine%22&aggFilters=status:not%20rec",
+    "date": "2026-06-22 23:48",
+    "summary": "",
+    "source": "ClinicalTrials.gov",
+    "specializations": [],
+    "phase": "Nieokreślona",
+    "specialization": "Ogólne"
+  },
+  {
     "title": "h t t p s : / / f t p . n c b ja . n lm. ni godz. g o v / b l a s t / d b / F A S T A",
     "title_original": "h t t p s : / / f t p . n c b i . n l m . n i h . g o v / b l a s t / d b / F A S T A",
     "url": "https://ftp.ncbi.nlm.nih.gov/blast/db/FASTA",
     "date": "2026-06-22 23:47",
+    "summary": "",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": []
+  },
+  {
+    "title": "Zapytania kliniczne",
+    "title_original": "Clinical Queries",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/clinical?term=Syndromic%20X-linked%20intellectual%20disability%20Raymond%20type",
+    "date": "2026-06-22 22:23",
     "summary": "",
     "source": "National Institutes of Health (.gov)",
     "specializations": []
@@ -33,24 +62,6 @@
     "date": "2026-06-22 21:44",
     "summary": "",
     "source": "ClinicalTrials.gov",
-    "specializations": []
-  },
-  {
-    "title": "SciENcv – NCBI – NIH",
-    "title_original": "SciENcv - NCBI - NIH",
-    "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
-    "date": "2026-06-22 21:25",
-    "summary": "",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
-  },
-  {
-    "title": "1622964486 - Wynik nukleotydowy",
-    "title_original": "1622964486 - Nucleotide Result",
-    "url": "https://www.ncbi.nlm.nih.gov/nuccore/XM_015146631.2",
-    "date": "2026-06-22 20:35",
-    "summary": "",
-    "source": "National Institutes of Health (.gov)",
     "specializations": []
   },
   {
@@ -90,13 +101,13 @@
     "title_original": "Why a deviation investigation still takes two weeks in the age of AI",
     "url": "https://www.fiercepharma.com/sponsored/why-deviation-investigation-still-takes-two-weeks-age-ai",
     "date": "2026-06-22 17:19",
-    "summary": "Odchylenie jest oznaczane w przypadku partii o pojemności 2000 litrów. Produkt jest wstrzymany do czasu, aż ktoś wyjaśni, co się stało i czy nadal jest sprawny, a partia jest warta kilka milionów dolarów. | Większość z tych dwóch tygodni to nie nauka. Polega na wyszukiwaniu i gromadzeniu danych, na którym również po cichu zatrzymuje się większość sztucznej inteligencji sprzedawanej farmaceutom.",
+    "summary": "Odchylenie jest oznaczane w przypadku partii o pojemności 2000 litrów. Produkt jest wstrzymany do czasu, aż ktoś wyjaśni, co się stało i czy nadal jest sprawny, a partia jest warta kilka milionów dolarów. | Większość z tych dwóch tygodni to nie nauka. Polega na wyszukiwaniu i gromadzeniu danych, na którym również większość sztucznej inteligencji sprzedawanej farmaceutom po cichu zatrzymuje się.",
     "source": "Fierce Pharma",
     "specializations": [],
     "study_type": "Inne"
   },
   {
-    "title": "Wielozastawkowa rakowiakowa choroba serca: rola echokardiografii w diagnostyce i selekcji do wszczepienia heterotopowej zastawki dwukawalnej",
+    "title": "Rakowiak wielozastawkowy serca: rola echokardiografii w diagnostyce i selekcji do wszczepienia heterotopowej zastawki dwukawalnej",
     "title_original": "Multivalvular Carcinoid Heart Disease: The Role of Echocardiography in Diagnosis and Selection for Heterotopic Bicaval Valve Implantation",
     "url": "https://www.mdpi.com/2075-4418/16/12/1942",
     "date": "2026-06-22 15:49",
@@ -107,7 +118,7 @@
     ]
   },
   {
-    "title": "Rakowiak wielozastawkowy serca: rola echokardiografii w diagnostyce i selekcji do wszczepienia heterotopowej zastawki dwukawalnej",
+    "title": "Wielozastawkowa rakowiakowa choroba serca: rola echokardiografii w diagnostyce i selekcji do wszczepienia heterotopowej zastawki dwukawalnej",
     "title_original": "Multivalvular Carcinoid Heart Disease: The Role of Echocardiography in Diagnosis and Selection for Heterotopic Bicaval Valve Implantation",
     "url": "https://www.mdpi.com/2075-4418/16/12/1942",
     "date": "2026-06-22 15:49",
