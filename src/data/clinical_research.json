@@ -1,32 +1,5 @@
 [
   {
-    "title": "SciENcv – NCBI – NIH",
-    "title_original": "SciENcv - NCBI - NIH",
-    "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
-    "date": "2026-06-23 15:23",
-    "summary": "",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
-  },
-  {
-    "title": "3-tert-butylo-5-dokozoksy-2-hydroksybenzaldehyd | C33H58O3 ​​| Numer identyfikacyjny 51031396",
-    "title_original": "3-Tert-butyl-5-docosoxy-2-hydroxybenzaldehyde | C33H58O3 | CID 51031396",
-    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/3-Tert-butyl-5-docosoxy-2-hydroxybenzaldehyde",
-    "date": "2026-06-23 14:23",
-    "summary": "3-tert-butylo-5-dokozoksy-2-hydroksybenzaldehyd | C33H58O3 ​​| CID 51031396 — struktura, nazwy chemiczne, właściwości fizyczne i chemiczne, klasyfikacja, patenty, literatura, aktywność biologiczna, informacje dotyczące bezpieczeństwa/zagrożeń/toksyczności, listy dostawców i inne.",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
-  },
-  {
-    "title": "4-(2-Chloropropylo)tieno[3,2-d]pirymidyna | C9H9ClN2S | Numer identyfikacyjny 63205712",
-    "title_original": "4-(2-Chloropropyl)thieno[3,2-d]pyrimidine | C9H9ClN2S | CID 63205712",
-    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/4-_2-Chloropropyl_thieno_3_2-d_pyrimidine",
-    "date": "2026-06-23 13:56",
-    "summary": "4-(2-Chloropropylo)tieno[3,2-d]pirymidyna | C9H9ClN2S | CID 63205712 — struktura, nazwy chemiczne, właściwości fizyczne i chemiczne, klasyfikacja, patenty, literatura, aktywność biologiczna, informacje dotyczące bezpieczeństwa/zagrożeń/toksyczności, listy dostawców i inne.",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
-  },
-  {
     "title": "340367759 - Wynik nukleotydowy",
     "title_original": "340367759 - Nucleotide Result",
     "url": "https://www.ncbi.nlm.nih.gov/nuccore/XM_003382373.1",
@@ -48,11 +21,29 @@
     "study_type": "Inne"
   },
   {
+    "title": "1177467 — Wynik BioProjektu",
+    "title_original": "1177467 - BioProject Result",
+    "url": "http://www.ncbi.nlm.nih.gov/bioproject/1177467",
+    "date": "2026-06-23 13:13",
+    "summary": "BioProjekt to zbiór danych biologicznych związanych z pojedynczą inicjatywą, pochodzących od jednej organizacji lub konsorcjum. Rekord BioProject zapewnia użytkownikom jedno miejsce, w którym można znaleźć łącza do różnych typów danych wygenerowanych dla tego projektu",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": []
+  },
+  {
     "title": "1177467 - Wynik BioProjectu",
     "title_original": "1177467 - BioProject Result",
     "url": "http://www.ncbi.nlm.nih.gov/bioproject/1177467",
     "date": "2026-06-23 13:13",
     "summary": "BioProjekt to zbiór danych biologicznych związanych z pojedynczą inicjatywą, pochodzących od jednej organizacji lub konsorcjum. Rekord BioProject zapewnia użytkownikom jedno miejsce, w którym można znaleźć łącza do różnych typów danych wygenerowanych dla tego projektu",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": []
+  },
+  {
+    "title": "2694684958 - Wynik nukleotydowy",
+    "title_original": "2694684958 - Nucleotide Result",
+    "url": "https://www.ncbi.nlm.nih.gov/nuccore/PP446604",
+    "date": "2026-06-23 13:09",
+    "summary": "",
     "source": "National Institutes of Health (.gov)",
     "specializations": []
   },
@@ -67,6 +58,15 @@
     "study_type": "Inne"
   },
   {
+    "title": "https — Portal zgłoszeń | NCBI",
+    "title_original": "https - Submission Portal | NCBI",
+    "url": "https://dataview.ncbi.nlm.nih.gov/?archive=bioproject",
+    "date": "2026-06-23 12:57",
+    "summary": "",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": []
+  },
+  {
     "title": "Szczegóły badania | NCT07661823 | QAIAx (AIhealth4U) – AI Public Health Central: Microcity-A (dotyczy Quantum AI Agency, czyli AI City Hall Project, UPSTO nr aplikacji 64/074 526, 64/063 557, 63/903 181, 63/729 428",
     "title_original": "Study Details | NCT07661823 | QAIAx (AIhealth4U) - AI Public Health Central: Microcity-A (re Quantum AI Agency Aka AI City Hall Project, UPSTO App Nos. 64/074,526, 64/063,557, 63/903,181, 63/729,428",
     "url": "https://clinicaltrials.gov/study/NCT07661823",
@@ -76,7 +76,7 @@
     "specializations": []
   },
   {
-    "title": "Szczegóły badania | NCT07660848 | Badanie wstrzyknięć HRS-4729 i wstrzyknięć HRS9531 u uczestników ze stłuszczeniowym zapaleniem wątroby związanym z dysfunkcjami metabolicznymi",
+    "title": "Szczegóły badania | NCT07660848 | Badanie zastrzyków HRS-4729 i zastrzyków HRS9531 u uczestników ze stłuszczeniowym zapaleniem wątroby związanym z dysfunkcjami metabolicznymi",
     "title_original": "Study Details | NCT07660848 | A Study of HRS-4729 Injection and HRS9531 Injection in Participants With Metabolic Dysfunction-Associated Steatohepatitis",
     "url": "https://clinicaltrials.gov/study/NCT07660848",
     "date": "2026-06-23 12:23",
@@ -88,7 +88,7 @@
     "study_type": "Inne"
   },
   {
-    "title": "Szczegóły badania | NCT07660848 | Badanie zastrzyków HRS-4729 i zastrzyków HRS9531 u uczestników ze stłuszczeniowym zapaleniem wątroby związanym z dysfunkcjami metabolicznymi",
+    "title": "Szczegóły badania | NCT07660848 | Badanie wstrzyknięć HRS-4729 i wstrzyknięć HRS9531 u uczestników ze stłuszczeniowym zapaleniem wątroby związanym z dysfunkcjami metabolicznymi",
     "title_original": "Study Details | NCT07660848 | A Study of HRS-4729 Injection and HRS9531 Injection in Participants With Metabolic Dysfunction-Associated Steatohepatitis",
     "url": "https://clinicaltrials.gov/study/NCT07660848",
     "date": "2026-06-23 12:23",
@@ -166,7 +166,7 @@
     "title_original": "Ekspresowe badanie posłanki Pępek. Szłapka: Będzie musiała to precyzyjnie wyjaśnić",
     "url": "https://www.polsatnews.pl/wiadomosc/2026-06-23/ekspresowe-badanie-poslanki-pepek-szlapka-bedzie-musiala-to-precyzyjnie-wyjasnic/",
     "date": "2026-06-23 08:22",
-    "summary": "",
+    "summary": "Posłanka KO skorzystała ze świadczeń szpitala w Żywcu poza kolejką - podał portal Zero.pl. Małgorzata Pępek miała czekać na badanie trzy tygodnie, mimo że czas oczekiwania na nie wynosił około półtora roku. - Będzie musiała to wszystko bardzo precyzyjnie wyjaśnić i pewnie też w zależności od tego, jak to będzie wyglądało, będą konsekwencje - powiedział w Graffiti rzecznik rządu Adam Szłapka.",
     "source": "PolsatNews.pl",
     "specializations": [],
     "study_type": "Inne"
