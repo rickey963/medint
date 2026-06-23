@@ -140,16 +140,6 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Rejestracja zakładu i lista urządzeń",
-    "title_original": "Establishment Registration & Device Listing",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/Cfdocs/cfrl/TextResults.cfm?dls=621&q=Tml0cmlsZSBnbG92ZXM=&pn=10&pf=0&sc=end&rcount=640",
-    "date": "2026-06-22 20:24",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": [],
-    "safety_level": "🟢 REJESTRACJA"
-  },
-  {
     "title": "Wycofywanie nieodpowiednich leków w całym systemie opieki zdrowotnej",
     "title_original": "Deprescribing Inappropriate Medicines Across a Health System",
     "url": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2850555",
@@ -225,21 +215,21 @@
     "specializations": []
   },
   {
+    "title": "Co się stanie, gdy sztuczna inteligencja połączy się z projektowaniem leków opartym na fizyce?",
+    "title_original": "What happens when AI meets physics-based drug design?",
+    "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
+    "date": "2026-06-22 17:54",
+    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się stowarzyszone zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
+    "source": "statnews.com",
+    "specializations": []
+  },
+  {
     "title": "Działania FDA mające na celu przyspieszenie i modernizację wczesnego i późnego etapu rozwoju klinicznego",
     "title_original": "FDA Actions to Accelerate and Modernize Early and Late-Stage Clinical Development",
     "url": "https://www.fda.gov/media/193225/download?attachment",
     "date": "2026-06-22 17:54",
     "summary": "",
     "source": "fda.gov",
-    "specializations": []
-  },
-  {
-    "title": "Co się stanie, gdy sztuczna inteligencja połączy się z projektowaniem leków opartym na fizyce?",
-    "title_original": "What happens when AI meets physics-based drug design?",
-    "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
-    "date": "2026-06-22 17:54",
-    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się zintegrowane zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
-    "source": "statnews.com",
     "specializations": []
   },
   {
@@ -336,6 +326,16 @@
     "specializations": []
   },
   {
+    "title": "Rejestracja zakładu i lista urządzeń",
+    "title_original": "Establishment Registration & Device Listing",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=171&q=T3J0aG9wZWRpYw==&pn=10&pf=0&sc=ena&rcount=207",
+    "date": "2026-06-22 13:19",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": [],
+    "safety_level": "🟢 REJESTRACJA"
+  },
+  {
     "title": "Czy lek na zaparcia może usunąć „mgłę mózgową” związaną z depresją?",
     "title_original": "Can a Constipation Drug Clear Depression’s ‘Brain Fog’?",
     "url": "https://www.medscape.com/viewarticle/can-constipation-drug-clear-depressions-brain-fog-2026a1000kz4",
@@ -403,6 +403,15 @@
     ]
   },
   {
+    "title": "Wyszukiwanie struktury",
+    "title_original": "Structure Search",
+    "url": "https://precision.fda.gov/ginas/app/ui/structure-search?structure=38a24b2b-c405-4cbd-b43f-e75bc77931ba",
+    "date": "2026-06-22 10:44",
+    "summary": "",
+    "source": "precisionFDA (.gov)",
+    "specializations": []
+  },
+  {
     "title": "1111111111111111 III II IIIIII II",
     "title_original": "11111111111111111 Ill II IIIIII II",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/208969s002lbl.pdf",
@@ -412,12 +421,12 @@
     "specializations": []
   },
   {
-    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
-    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm?start_search=121&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondatedesc",
-    "date": "2026-06-22 10:12",
-    "summary": "",
-    "source": "accessdata.fda.gov",
+    "title": "NIEKTÓRE - M9K697V59A | Usługa wyszukiwania UNII",
+    "title_original": "UNII - M9K697V59A | UNII Search Service",
+    "url": "https://precision.fda.gov/uniisearch/srs?search=M9K697V59A",
+    "date": "2026-06-22 09:24",
+    "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII).",
+    "source": "precisionFDA (.gov)",
     "specializations": []
   },
   {
@@ -430,12 +439,12 @@
     "specializations": []
   },
   {
-    "title": "Wyszukiwanie struktury",
-    "title_original": "Structure Search",
-    "url": "https://precision.fda.gov/ginas/app/ui/structure-search?structure=716391ad-9b00-44a2-8466-901bb411e972",
-    "date": "2026-06-22 07:17",
+    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
+    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=21&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondate",
+    "date": "2026-06-22 05:17",
     "summary": "",
-    "source": "precisionFDA (.gov)",
+    "source": "accessdata.fda.gov",
     "specializations": []
   },
   {
