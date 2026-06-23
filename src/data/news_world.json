@@ -9,15 +9,6 @@
     "specializations": []
   },
   {
-    "title": "Monitor szczepień z żółtą kartką",
-    "title_original": "Yellow Card Vaccine Monitor",
-    "url": "https://yellowcard.mhra.gov.uk/YCVM",
-    "date": "2026-06-23 17:27",
-    "summary": "Strona główna MHRA służąca do zgłaszania podejrzeń skutków ubocznych lub niepożądanych reakcji na leki lub szczepionki, a także incydentów związanych z urządzeniami medycznymi",
-    "source": "GOV.UK",
-    "specializations": []
-  },
-  {
     "title": "Transformacja w Fogarty",
     "title_original": "Transformation at Fogarty",
     "url": "https://www.fic.nih.gov/News/GlobalHealthMatters/may-june-2026/Pages/transformation-at-forgarty.aspx",
@@ -27,7 +18,7 @@
     "specializations": []
   },
   {
-    "title": "Health Canada oferuje sponsorom badań klinicznych bezproblemowy start w oparciu o zgodność z E6(R3).",
+    "title": "Health Canada oferuje sponsorom badań klinicznych bezbłędny start w oparciu o zgodność z E6(R3).",
     "title_original": "Health Canada Offers Clinical Trial Sponsors A No-Fault Head Start On E6(R3) Compliance",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/health-canada-offers-clinical-trial-sponsors-a-no-fault-head-start-on-e6r3-compliance-7CBW3HQ77ZE3LJJHP7EXIE2DAU/",
     "date": "2026-06-23 16:38",
@@ -36,7 +27,7 @@
     "specializations": []
   },
   {
-    "title": "Health Canada oferuje sponsorom badań klinicznych bezbłędny start w oparciu o zgodność z E6(R3).",
+    "title": "Health Canada oferuje sponsorom badań klinicznych bezproblemowy start w oparciu o zgodność z E6(R3).",
     "title_original": "Health Canada Offers Clinical Trial Sponsors A No-Fault Head Start On E6(R3) Compliance",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/health-canada-offers-clinical-trial-sponsors-a-no-fault-head-start-on-e6r3-compliance-7CBW3HQ77ZE3LJJHP7EXIE2DAU/",
     "date": "2026-06-23 16:38",
@@ -136,7 +127,7 @@
     ]
   },
   {
-    "title": "META-DIFF: metoda oparta na k-merach, która wykrywa sekwencje występujące w różny sposób w metagenomice, sekwencjonowaniu całego genomu | Raporty naukowe",
+    "title": "META-DIFF: potok oparty na k-merach, który wykrywa sekwencje występujące w różny sposób w metagenomice sekwencjonowania całego genomu | Raporty naukowe",
     "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
     "date": "2026-06-23 10:50",
@@ -145,11 +136,11 @@
     "specializations": []
   },
   {
-    "title": "META-DIFF: potok oparty na k-merach, który wykrywa sekwencje występujące w różny sposób w metagenomice sekwencjonowania całego genomu | Raporty naukowe",
+    "title": "META-DIFF: metoda oparta na k-merach, która wykrywa sekwencje występujące w różny sposób w metagenomice, sekwencjonowaniu całego genomu | Raporty naukowe",
     "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
     "date": "2026-06-23 10:50",
-    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, co uniemożliwia wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
+    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, uniemożliwiając wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
     "source": "Nature",
     "specializations": []
   },
@@ -198,7 +189,7 @@
     "title_original": "Decomposing patient heterogeneity of single-cell cancer data by cross-attention neural networks",
     "url": "https://www.medrxiv.org/content/10.1101/2025.06.04.25328900v2",
     "date": "2026-06-23 09:08",
-    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a efekty genetyczne są szczególnie obecne u konkretnego pacjenta.",
+    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a skutki genetyczne są szczególnie obecne u konkretnego pacjenta.",
     "source": "medRxiv",
     "specializations": []
   },
@@ -216,7 +207,7 @@
     "title_original": "Multi-infusion setups in neonatal intensive care unit (NICU) a mass transport evaluation and graphical user interface development",
     "url": "https://www.nature.com/articles/s41598-026-58667-9",
     "date": "2026-06-23 06:50",
-    "summary": "Krytycznie chore noworodki na oddziałach intensywnej terapii wymagają złożonej terapii farmakologicznej i żywieniowej, często podawanej przez dostęp naczyniowy małego kalibru o pojedynczym świetle. Praktyka ta, zwana wielokrotnym wlewem, polega na jednoczesnym podawaniu wielu roztworów, co stwarza poważne wyzwania w zakresie zarządzania dynamiką płynów i bezpieczeństwa klinicznego. W tym badaniu analizowano wydajność typowych konfiguracji linii infuzyjnych, koncentrując się na czasie transportu i profilach stężeń roztworów dostarczanych pacjentowi.",
+    "summary": "Noworodki w stanie krytycznym przebywające na oddziałach intensywnej terapii wymagają złożonej terapii farmakologicznej i żywieniowej, często podawanej przez dostęp naczyniowy małego kalibru o pojedynczym świetle. Praktyka ta, znana jako wielokrotna infuzja, polega na jednoczesnym podawaniu wielu roztworów, co stwarza poważne wyzwania w zakresie zarządzania dynamiką płynów i bezpieczeństwa klinicznego. W tym badaniu analizowano działanie typowych konfiguracji linii infuzyjnych, koncentrując się na czasie transportu i profilach stężeń roztworów dostarczanych pacjentowi.",
     "source": "Nature",
     "specializations": [
       "Pediatria",
@@ -327,9 +318,9 @@
   {
     "title": "Anglia przewodzi Europie pod względem zwrotu kosztów terapii modyfikującej przebieg choroby cukrzycy typu 1 firmy Sanofi Tzield",
     "title_original": "England Leads Europe In Reimbursing Sanofi’s Type 1 Diabetes Disease-Modifying Therapy Tzield",
-    "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOQUdnal8wQXZvZk0zeks1b0QwUmZZRmNmeUxVVEM1LTJDSm1yZGh4YVB6by1RenZPRGtpTHFXMHZVWFJDWWVSRUVYSGV4NHBLclJmR2lkdlhhODQxcGd1X09XVGoyNmp6TW1WclVOVTlUMTBSdFpNN3dmSXZ1NzFkU2MxeFNPR29IWnJIWlVSSlNOZV9QNjdZTEU2WmJ0QzFKYmxiNmVNLU52d2VtQTRlZTc5S2ducy1GR25RbDRHUmZOUWFybGM1dkhnMVNaQThkZm95ai1Jc3U5SzE2MGFyeTZzRjFxRERDNUJOWUhDbktMWGg1WkllUzVnM1VwRVdlX0lnaEFQNkFMUEdRTUlLRDF5TkUwSU05ZDFTenduVGN6YXZPOHlHaDBSUmNLNGNYVG1oMVY5QW1UVVkwcFBJ?oc=5",
+    "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/health-technology-assessment/england-leads-europe-in-reimbursing-sanofis-type-1-diabetes-disease-modifying-therapy-tzield-VD2BAXQF2JDRTGDWUMFQRGVFK4/",
     "date": "2026-06-23 03:30",
-    "summary": "",
+    "summary": "Instytut oceny technologii medycznych NICE stwierdził, że chociaż model ekonomiczny przedstawiony przez firmę Sanofi dla Tzield zawierał pewne niepewności, najbardziej prawdopodobne szacunki opłacalności leku mieściły się w zakresie uznawanym za akceptowalny poziom wykorzystania zasobów Narodowej Służby Zdrowia.",
     "source": "Citeline News & Insights",
     "specializations": [
       "Endokrynologia i diabetologia"
@@ -383,9 +374,9 @@
   {
     "title": "WEBINAR: Świętujemy życie i dziedzictwo Davida Legge",
     "title_original": "WEBINAR: Celebrating the life and legacy of David Legge",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2I3YjNDb1ozYl9GLUlCSW1FaXZwZU03anVkZ3ZjcjNaeTJvMkZSanBCYjM4ZDBEOVoxSnZacWk5c0RENWpUYlQ5QUJpNkxwd3BiTTdRTWFwZG1iQS0xa3RadXpDZ05JQmFhbXpCeE5yLVRGVHF5WUhlMmZPYmJ2QjNtX0NlcFpkUnJ4OUc3NjFINl9Oc29yV0YwbEM5R3ZxdXk0LU1XRTQxS05EcmdpdUxWTmI4TDU3cF9tblR6U1lKOU0?oc=5",
+    "url": "https://ahpsr.who.int/newsroom/events/item/2026/06/29/default-calendar/webinar-celebrating-the-life-and-legacy-of-david-legge",
     "date": "2026-06-22 18:11",
-    "summary": "",
+    "summary": "David Legge (1944–2026) był pracownikiem naukowym zajmującym się zdrowiem publicznym, myślicielem w dziedzinie zdrowia globalnego i przez całe życie zwolennikiem sprawiedliwości zdrowotnej. Jako członek-założyciel Ludowego Ruchu Zdrowia i wiodący głos w dziedzinie ekonomii politycznej zdrowia, poprzez swoje nauczanie, pisanie i budowanie instytucji wywarł wpływ na pokolenia badaczy, decydentów i aktywistów. To seminarium internetowe gromadzi kolegów, współpracowników, studentów i przyjaciół, których życie i praca zostały ukształtowane przez idee i mentoring Davida.",
     "source": "ahpsr",
     "specializations": []
   },
@@ -479,9 +470,9 @@
   {
     "title": "Granice w antybiotykach",
     "title_original": "Frontiers in Antibiotics",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBSmJzekNDQU14b255S243dm5JVXpGUi1VQVBtU1A0ZWZ5aUJYNk1jV29mbzAySmJtbmluUjVWRkZwdmw1NkQ0Q04tNi13LTJNbDA2VWZxa1pCNGFD?oc=5",
+    "url": "https://www.frontiersin.org/journals/antibiotics",
     "date": "2026-06-22 09:00",
-    "summary": "",
+    "summary": "Odkryj badania badające rozwiązania w zakresie oporności na antybiotyki, ich rozwój i dostarczanie w celu poprawy zdrowia światowej populacji.",
     "source": "Frontiers",
     "specializations": []
   },
