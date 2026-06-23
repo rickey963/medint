@@ -1,14 +1,5 @@
 [
   {
-    "title": "Od recepty do efektu leczenia. Dlaczego pacjenci nie osiągają celów terapeutycznych?",
-    "title_original": "Od recepty do efektu leczenia. Dlaczego pacjenci nie osiągają celów terapeutycznych?",
-    "url": "https://pulsmedycyny.pl/medycyna/kardiologia/od-recepty-do-efektu-leczenia-dlaczego-pacjenci-nie-osiagaja-celow-terapeutycznych",
-    "date": "2026-06-23 08:00",
-    "summary": "Dlaczego mimo coraz skuteczniejszych leków wielu pacjentów nie osiąga celów terapeutycznych? Problem adherencji jest znacznie bardziej złożony, niż mogłoby się wydawać. Skuteczne leczenie wymaga nie tylko przepisania odpowiedniej terapii, ale także zbudowania motywacji pacjenta, zapewnienia mu wsparcia i regularnych przypomnień o leczeniu. Przeszkodą mogą być również czynniki praktyczne, takie jak koszty terapii, dostępność leków czy trudności w realizacji zaleceń terapeutycznych – mówi prof. Przemysław Kardas.",
-    "source": "Puls Medycyny",
-    "specializations": []
-  },
-  {
     "title": "Wszechobecne substancje chemiczne mogą wpływać na poród i masę urodzeniową dziecka",
     "title_original": "Wszechobecne substancje chemiczne mogą wpływać na poród i masę urodzeniową dziecka",
     "url": "https://www.termedia.pl/mz/Wszechobecne-substancje-chemiczne-moga-wplywac-na-porod-i-mase-urodzeniowa-dziecka,67784.html",
@@ -105,6 +96,15 @@
     ]
   },
   {
+    "title": "Nieprawidłowości w Szpitalu Południowym – dwa śledztwa i nowa rada nadzorcza",
+    "title_original": "Nieprawidłowości w Szpitalu Południowym – dwa śledztwa i nowa rada nadzorcza",
+    "url": "https://www.termedia.pl/mz/Nieprawidlowosci-w-Szpitalu-Poludniowym-dwa-sledztwa-i-nowa-rada-nadzorcza,67807.html",
+    "date": "2026-06-22 19:01",
+    "summary": "W sprawie Warszawskiego Szpitala Południowego wszczęte zostały dwa śledztwa. Pierwsze dotyczy oszustwa na kwotę ponad pół miliona złotych. Drugie – nadużycia uprawnień przez funkcjonariusza",
+    "source": "Termedia",
+    "specializations": []
+  },
+  {
     "title": "Poród w Polsce - zbyt duży odsetek cesarskich cięć, a znieczulenie to wciąż luksus, podobnie jak porodówka w powiecie",
     "title_original": "Poród w Polsce - zbyt duży odsetek cesarskich cięć, a znieczulenie to wciąż luksus, podobnie jak porodówka w powiecie",
     "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/szpitale/porod-w-polsce-zbyt-duzy-odsetek-cesarskich-ciec-a-znieczulenie-to-wciaz-luksus-podobnie-jak-porodowka-w-powiecie/",
@@ -115,15 +115,6 @@
       "Ginekologia i położnictwo",
       "Ortopedia i traumatologia"
     ]
-  },
-  {
-    "title": "Nieprawidłowości w Szpitalu Południowym – dwa śledztwa i nowa rada nadzorcza",
-    "title_original": "Nieprawidłowości w Szpitalu Południowym – dwa śledztwa i nowa rada nadzorcza",
-    "url": "https://www.termedia.pl/mz/Nieprawidlowosci-w-Szpitalu-Poludniowym-dwa-sledztwa-i-nowa-rada-nadzorcza,67807.html",
-    "date": "2026-06-22 18:46",
-    "summary": "W sprawie Warszawskiego Szpitala Południowego wszczęte zostały\r\ndwa śledztwa. Pierwsze dotyczy oszustwa na kwotę ponad pół miliona złotych.\r\nDrugie – nadużycia uprawnień przez funkcjonariusza publicznego – poinformował 22 czerwca rzecznik Prokuratury Okręgowej w Warszawie prok. Piotr Antoni\r\nSkiba. Prezydent Warszawy Rafał Trzaskowski podał...",
-    "source": "Termedia",
-    "specializations": []
   },
   {
     "title": "Będą zmiany w zespole ds. anestezjologii. Wiemy, czy znajdą się w nim przedstawiciel PTAiIT i NRL",
@@ -165,9 +156,12 @@
     "title_original": "W Gliwicach otwarto centrum teranostyczne. To pierwszy w Polsce tak nowoczesny ośrodek”",
     "url": "https://www.termedia.pl/mz/W-Gliwicach-otwarto-centrum-teranostyczne-To-pierwszy-w-Polsce-tak-nowoczesny-osrodek-,67806.html",
     "date": "2026-06-22 17:29",
-    "summary": "Narodowy Instytut Onkologii w Gliwicach oddał do użytku\r\nOddział Terapii Izotopowej Zakładu Medycyny Nuklearnej i Endokrynologii\r\nOnkologicznej – kompleksowe centrum teranostyczne o strategicznym znaczeniu dla\r\nrozwoju nowoczesnej diagnostyki i leczenia nowotworów w Polsce.",
+    "summary": "Narodowy Instytut Onkologii w Gliwicach oddał do użytku Oddział Terapii Izotopowej Zakładu Medycyny Nuklearnej i Endokrynologii Onkologicznej – kompleksowe centrum teranostyczne o strategicznym",
     "source": "Termedia",
-    "specializations": []
+    "specializations": [
+      "Onkologia",
+      "Endokrynologia i diabetologia"
+    ]
   },
   {
     "title": "Alergie krzyżowe coraz częstsze. Prof. Gawlik: wynik testu nie wystarcza do rozpoznania alergii",
@@ -186,6 +180,18 @@
     "summary": "W skład nowej rady nadzorczej Warszawskiego Szpitala Południowego weszli Anna Walicka-Dąbrowska, Katarzyna Taraszkiewicz-Sirocka i prof. Mariusz Bidziński - poinformował w poniedziałek 22 czerwca prezydent Warszawy Rafał Trzaskowski.",
     "source": "Puls Medycyny",
     "specializations": []
+  },
+  {
+    "title": "Europejski Plan Zdrowia Mózgu coraz bliżej? Adam Jarubas: to powinien być priorytet UE",
+    "title_original": "Europejski Plan Zdrowia Mózgu coraz bliżej? Adam Jarubas: to powinien być priorytet UE",
+    "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/neurologia/europejski-plan-zdrowia-mozgu-coraz-blizej-adam-jarubas-to-powinien-byc-priorytet-ue/",
+    "date": "2026-06-22 15:50",
+    "summary": "Choroby mózgu należą do największych wyzwań zdrowotnych, społecznych i gospodarczych w Europie. Starzenie się społeczeństw, rosnąca liczba pacjentów z chorobami neurodegeneracyjnymi oraz nierówności w dostępie do diagnostyki i leczenia sprawiają, że Unia Europejska potrzebuje osobnej strategii w tym obszarze - przekonywał podczas konferencji „Neurologia w Polsce w kontekście europejskiego planu zdrowia mózgu” dr Adam Jarubas.",
+    "source": "Puls Medycyny",
+    "specializations": [
+      "Neurologia",
+      "Urologia"
+    ]
   },
   {
     "title": "Trzaskowski: Warszawski Szpital Południowy ma nową radę nadzorczą",
@@ -242,15 +248,6 @@
     "specializations": []
   },
   {
-    "title": "Centrum e-Zdrowia uruchamia opcję realizacji jednej recepty w różnych aptekach",
-    "title_original": "Centrum e-Zdrowia uruchamia opcję realizacji jednej recepty w różnych aptekach",
-    "url": "https://www.podyplomie.pl/aktualnosci/centrum-e-zdrowia-uruchamia-opcje-realizacji-jednej-recepty-w-roznych-aptekach",
-    "date": "2026-06-22 13:05",
-    "summary": "Nowa funkcjonalność ma ograniczyć liczbę wizyt pacjentów po nowe zlecenia i zwiększyć dostępność leków",
-    "source": "Podyplomie",
-    "specializations": []
-  },
-  {
     "title": "Przelanie lub przetoczenie krwi",
     "title_original": "Przelanie lub przetoczenie krwi",
     "url": "https://podyplomie.pl/czasopisma/medical-tribune/2017/07-08/przelanie-lub-przetoczenie-krwi",
@@ -280,24 +277,6 @@
     "specializations": [
       "Endokrynologia i diabetologia"
     ]
-  },
-  {
-    "title": "SOPHARMA AD (192/2026) Zawiadomienie od Ogniana Iwanowa Doniewa zgodnie z Rozporządzeniem 596/2014 dotyczące transakcji z dnia 19.06.2026 r. warrantami „Sopharma” AD | Biznes PAP",
-    "title_original": "SOPHARMA AD (192/2026) Notification from Ognian Ivanov Donev in accordance with Regulation 596/2014 for transactions on 19.06.2026 with warrants of \"Sopharma\" AD | Biznes PAP",
-    "url": "https://biznes.pap.pl/wiadomosci/firmy/sopharma-ad-1922026-notification-ognian-ivanov-donev-accordance-regulation-5962014",
-    "date": "2026-06-22 10:17",
-    "summary": "Podstawa prawna: Art. 56 ust. 1 pkt 2 ustawy o zawiadomieniu o ofercie publicznej przez Ogniana Iwanowa Doniewa zgodnie z rozporządzeniem nr 596/2014 dla transakcji z dnia 19.06.2026 r. warrantami „Sopharma” AD https://espiebi.pap.pl",
-    "source": "PAP Biznes",
-    "specializations": []
-  },
-  {
-    "title": "SOPHARMA AD (191/2026) Zawiadomienie od Ogniana Iwanowa Doniewa zgodnie z Rozporządzeniem 596/2014 dotyczące transakcji w dniu 19.06.2026 r. akcjami „Sopharma” AD | Biznes PAP",
-    "title_original": "SOPHARMA AD (191/2026) Notification from Ognian Ivanov Donev in accordance with Regulation 596/2014 for transactions on 19.06.2026 with shares of \"Sopharma\" AD | Biznes PAP",
-    "url": "https://biznes.pap.pl/wiadomosci/firmy/sopharma-ad-1912026-notification-ognian-ivanov-donev-accordance-regulation-5962014",
-    "date": "2026-06-22 10:04",
-    "summary": "Podstawa prawna: Art. 56 ust. 1 pkt 2 ustawy o zawiadomieniu o ofercie publicznej przez Ogniana Iwanowa Doniewa zgodnie z rozporządzeniem nr 596/2014 dla transakcji w dniu 19.06.2026 r. akcjami „Sopharma” AD https://espiebi.pap.pl",
-    "source": "PAP Biznes",
-    "specializations": []
   },
   {
     "title": "Wszczepienie innowacyjnych bioprotez płucnych",
