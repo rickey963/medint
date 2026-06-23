@@ -151,16 +151,6 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Rejestracja zakładu i lista urządzeń",
-    "title_original": "Establishment Registration & Device Listing",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/Cfdocs/cfrl/TextResults.cfm?dls=621&q=Tml0cmlsZSBnbG92ZXM=&pn=10&pf=0&sc=end&rcount=640",
-    "date": "2026-06-22 20:24",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": [],
-    "safety_level": "🟢 REJESTRACJA"
-  },
-  {
     "title": "Wycofywanie nieodpowiednich leków w całym systemie opieki zdrowotnej",
     "title_original": "Deprescribing Inappropriate Medicines Across a Health System",
     "url": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2850555",
@@ -179,7 +169,7 @@
     "specializations": []
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -189,7 +179,7 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i wycofywanie leków)",
+    "title": "Zaproszenie do zgłaszania ekspertów: Wytyczne WHO dotyczące zapobiegania, diagnozowania i leczenia majaczenia u osób starszych (w tym bezpieczeństwo stosowania leków i zaprzestanie przepisywania leków)",
     "title_original": "Call for Experts: WHO Guideline on the Prevention, Diagnosis and Management of Delirium in Older Adults (including Medication Safety and Deprescribing)",
     "url": "https://www.who.int/news-room/articles-detail/call-for-experts--who-guideline-on-the-prevention--diagnosis-and-management-of-delirium-in-older-adults-(including-medication-safety-and-deprescribing)",
     "date": "2026-06-22 18:19",
@@ -236,21 +226,21 @@
     "specializations": []
   },
   {
+    "title": "Co się stanie, gdy sztuczna inteligencja połączy się z projektowaniem leków opartym na fizyce?",
+    "title_original": "What happens when AI meets physics-based drug design?",
+    "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
+    "date": "2026-06-22 17:54",
+    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się stowarzyszone zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
+    "source": "statnews.com",
+    "specializations": []
+  },
+  {
     "title": "Działania FDA mające na celu przyspieszenie i modernizację wczesnego i późnego etapu rozwoju klinicznego",
     "title_original": "FDA Actions to Accelerate and Modernize Early and Late-Stage Clinical Development",
     "url": "https://www.fda.gov/media/193225/download?attachment",
     "date": "2026-06-22 17:54",
     "summary": "",
     "source": "fda.gov",
-    "specializations": []
-  },
-  {
-    "title": "Co się stanie, gdy sztuczna inteligencja połączy się z projektowaniem leków opartym na fizyce?",
-    "title_original": "What happens when AI meets physics-based drug design?",
-    "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
-    "date": "2026-06-22 17:54",
-    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się zintegrowane zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
-    "source": "statnews.com",
     "specializations": []
   },
   {
@@ -336,6 +326,16 @@
     "summary": "Biotechnologia, której współzałożycielką jest Sofinnova Partners i były szef działu badań i rozwoju firmy Sanofi w dziedzinie immunologii, testuje nowe leki biologiczne przeciwko powszechnym chorobom immunologicznym.",
     "source": "BioPharma Dive",
     "specializations": []
+  },
+  {
+    "title": "Rejestracja zakładu i lista urządzeń",
+    "title_original": "Establishment Registration & Device Listing",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=171&q=T3J0aG9wZWRpYw==&pn=10&pf=0&sc=ena&rcount=207",
+    "date": "2026-06-22 13:19",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": [],
+    "safety_level": "🟢 REJESTRACJA"
   },
   {
     "title": "Czy lek na zaparcia może usunąć „mgłę mózgową” związaną z depresją?",
