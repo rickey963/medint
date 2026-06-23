@@ -44,7 +44,7 @@
     "title_original": "T Cell Receptor repertoire analysis reveals antigenic convergence and immunotherapeutic opportunities in Prostate Cancer",
     "url": "https://www.medrxiv.org/content/10.64898/2026.06.12.26355376v1",
     "date": "2026-06-23 11:18",
-    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko guza ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowy repertuar TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
+    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko nowotworu ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowe repertuary TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
     "source": "medRxiv",
     "specializations": [
       "Urologia"
@@ -55,7 +55,7 @@
     "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
     "date": "2026-06-23 10:50",
-    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, uniemożliwiając wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
+    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, co uniemożliwia wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
     "source": "Nature",
     "specializations": []
   },
@@ -131,7 +131,7 @@
     "title_original": "Decomposing patient heterogeneity of single-cell cancer data by cross-attention neural networks",
     "url": "https://www.medrxiv.org/content/10.1101/2025.06.04.25328900v2",
     "date": "2026-06-23 09:08",
-    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a skutki genetyczne są szczególnie obecne u konkretnego pacjenta.",
+    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a efekty genetyczne są szczególnie obecne u konkretnego pacjenta.",
     "source": "medRxiv",
     "specializations": []
   },
@@ -302,6 +302,15 @@
     "specializations": []
   },
   {
+    "title": "Szczepienia: nić ochrony przez pokolenia Wydarzenia",
+    "title_original": "Vaccination: A thread of protection across generations Events",
+    "url": "https://www.afro.who.int/countries/23362/events",
+    "date": "2026-06-22 19:21",
+    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
+    "source": "WHO | Regional Office for Africa",
+    "specializations": []
+  },
+  {
     "title": "Przekrojowe nierówności w samoocenie stanu zdrowia w Niemczech ze względu na płeć/płeć, migrację, edukację i dochody",
     "title_original": "Intersectional inequalities in self-rated health in Germany across sex/gender, migration, education and income",
     "url": "https://jech.bmj.com/content/jech/early/2026/06/22/jech-2026-225920.full.pdf",
@@ -317,15 +326,6 @@
     "date": "2026-06-22 18:48",
     "summary": "",
     "source": "Journal of Epidemiology and Community Health (JECH)",
-    "specializations": []
-  },
-  {
-    "title": "Szczepienia: nić ochrony przez pokolenia. Aktualności",
-    "title_original": "Vaccination: A thread of protection across generations News",
-    "url": "https://www.afro.who.int/countries/23362/news",
-    "date": "2026-06-22 18:13",
-    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
-    "source": "WHO | Regional Office for Africa",
     "specializations": []
   },
   {
