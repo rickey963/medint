@@ -20,6 +20,15 @@
     "specializations": []
   },
   {
+    "title": "Monitor szczepień z żółtą kartką",
+    "title_original": "Yellow Card Vaccine Monitor",
+    "url": "https://yellowcard.mhra.gov.uk/YCVM",
+    "date": "2026-06-23 17:27",
+    "summary": "Strona główna MHRA służąca do zgłaszania podejrzeń skutków ubocznych lub niepożądanych reakcji na leki lub szczepionki, a także incydentów związanych z urządzeniami medycznymi",
+    "source": "GOV.UK",
+    "specializations": []
+  },
+  {
     "title": "Transformacja w Fogarty",
     "title_original": "Transformation at Fogarty",
     "url": "https://www.fic.nih.gov/News/GlobalHealthMatters/may-june-2026/Pages/transformation-at-forgarty.aspx",
@@ -29,7 +38,7 @@
     "specializations": []
   },
   {
-    "title": "Health Canada oferuje sponsorom badań klinicznych bezproblemowy start w oparciu o zgodność z E6(R3).",
+    "title": "Health Canada oferuje sponsorom badań klinicznych bezbłędny start w oparciu o zgodność z E6(R3).",
     "title_original": "Health Canada Offers Clinical Trial Sponsors A No-Fault Head Start On E6(R3) Compliance",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/health-canada-offers-clinical-trial-sponsors-a-no-fault-head-start-on-e6r3-compliance-7CBW3HQ77ZE3LJJHP7EXIE2DAU/",
     "date": "2026-06-23 16:38",
@@ -38,7 +47,7 @@
     "specializations": []
   },
   {
-    "title": "Health Canada oferuje sponsorom badań klinicznych bezbłędny start w oparciu o zgodność z E6(R3).",
+    "title": "Health Canada oferuje sponsorom badań klinicznych bezproblemowy start w oparciu o zgodność z E6(R3).",
     "title_original": "Health Canada Offers Clinical Trial Sponsors A No-Fault Head Start On E6(R3) Compliance",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/health-canada-offers-clinical-trial-sponsors-a-no-fault-head-start-on-e6r3-compliance-7CBW3HQ77ZE3LJJHP7EXIE2DAU/",
     "date": "2026-06-23 16:38",
@@ -114,7 +123,7 @@
     ]
   },
   {
-    "title": "Dr Atif Ali: „Praca z osobami zakażonymi wirusem HIV to potężny akt pozwalający zastąpić piętno nadzieją”",
+    "title": "Dr Atif Ali: „Praca z osobami zakażonymi wirusem HIV to potężny krok, który pozwala zastąpić piętno nadzieją”",
     "title_original": "Dr Atif Ali: “Working with people affected by HIV is a powerful act to replace stigma with hope”",
     "url": "https://www.emro.who.int/pak/pakistan-news/dr-atif-ali-working-with-people-affected-by-hiv-is-a-powerful-act-to-replace-stigma-with-hope.html",
     "date": "2026-06-23 14:43",
@@ -151,23 +160,23 @@
     "title_original": "T Cell Receptor repertoire analysis reveals antigenic convergence and immunotherapeutic opportunities in Prostate Cancer",
     "url": "https://www.medrxiv.org/content/10.64898/2026.06.12.26355376v1",
     "date": "2026-06-23 11:18",
-    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko guza ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowy repertuar TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
+    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko nowotworu ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowe repertuary TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
     "source": "medRxiv",
     "specializations": [
       "Urologia"
     ]
   },
   {
-    "title": "META-DIFF: metoda oparta na k-merach, która wykrywa sekwencje występujące w różny sposób w metagenomice, sekwencjonowaniu całego genomu | Raporty naukowe",
+    "title": "META-DIFF: potok oparty na k-merach, który wykrywa sekwencje występujące w różny sposób w metagenomice sekwencjonowania całego genomu | Raporty naukowe",
     "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
     "date": "2026-06-23 10:50",
-    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, uniemożliwiając wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
+    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, co uniemożliwia wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
     "source": "Nature",
     "specializations": []
   },
   {
-    "title": "META-DIFF: potok oparty na k-merach, który wykrywa sekwencje występujące w różny sposób w metagenomice sekwencjonowania całego genomu | Raporty naukowe",
+    "title": "META-DIFF: metoda oparta na k-merach, która wykrywa sekwencje występujące w różny sposób w metagenomice, sekwencjonowaniu całego genomu | Raporty naukowe",
     "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
     "date": "2026-06-23 10:50",
@@ -319,7 +328,7 @@
   {
     "title": "UTERUS PENTAS- macica pentas 7x, 11x, 18x, 30x płyn",
     "title_original": "UTERUS PENTAS- uterus pentas 7x, 11x, 18x, 30x liquid",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcjRaSFpxbWJlRGhpSmo1UXc5dHM1SmJ1UjZyZ0RDcUEzTmduLUdkdHJmUlFYb3N2WUpoWFZGczVlamJCMFNkTUUzVGpsdkUwVkk3djlkSXBESHF1YlpNLUV5Mktjd0wyNlVYOWZCX1RKSS1hOHlxYnRTTlcxNmJkZC0wOXFFdjNmdjFWd2FYbDAwM0FLWjNMNEROZlZnS1N6OGk0?oc=5",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=548bf27d-6b32-81d0-e063-6394a90a1e35&version=1",
     "date": "2026-06-23 03:55",
     "summary": "",
     "source": "DailyMed (.gov)",
@@ -328,7 +337,7 @@
   {
     "title": "TOOTHACHE- chlorowodorek poliheksametylenobiguanidu w sprayu",
     "title_original": "TOOTHACHE- polyhexamethylene biguanide hydrochloride spray",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2Ezd2wwZWY2STdpUW1zSUVwTVdIOURCMXhKOUhCUnM2SmxTNDA1eWlwRklRa2RkVkUySmVPZzBJRWRxZGhqLUVyLUN4bWU4WjVpV2tmakNjRy03V2UybHhjRGNCdUVPcTQ4aGRWRjRQSEFORXVfTjRDcUNzV1dLTU10YjVMc1owT1hzemdYMnRpdktRSDBISkNkVVBVLVRXbGJZ?oc=5",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=54ad2ceb-272f-e5ba-e063-6394a90aec5f&version=1",
     "date": "2026-06-23 03:55",
     "summary": "",
     "source": "DailyMed (.gov)",
@@ -337,7 +346,7 @@
   {
     "title": "GAVNZ WART REMOVER PATCHES – plaster usuwający brodawki z kwasem salicylowym 40%.",
     "title_original": "GAVNZ WART REMOVER PATCHES- salicylic acid 40% wart remover patches patch",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1dFczhMa3dVSnRLM01IZ080cVR0RXJmS2dmLVExLUhpS25ERXJveC04ckFWS21hY20tRDZMaWtmcGR3QXdOU2RhRngzc1pvR1Vfb0h1YkZyaWNZRExfUGtLZDdDNHVFZGcwS0lGTE1kbk14MFVObG1uYmxyekFMQVdIMk5jc2xjemk1ZjdRTWJnZXR6V0FtaEgyUk81WkpKbWxJ?oc=5",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=54839f38-dd77-eb80-e063-6294a90a2eed&version=1",
     "date": "2026-06-23 03:55",
     "summary": "",
     "source": "DailyMed (.gov)",
@@ -346,16 +355,16 @@
   {
     "title": "Anglia przewodzi Europie w finalizowaniu zwrotu kosztów terapii modyfikującej przebieg choroby T1D firmy Sanofi Tzield",
     "title_original": "England Leads Europe In Finalizing Reimbursement For Sanofi’s T1D Disease-Modifying Therapy Tzield",
-    "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOQUdnal8wQXZvZk0zeks1b0QwUmZZRmNmeUxVVEM1LTJDSm1yZGh4YVB6by1RenZPRGtpTHFXMHZVWFJDWWVSRUVYSGV4NHBLclJmR2lkdlhhODQxcGd1X09XVGoyNmp6TW1WclVOVTlUMTBSdFpNN3dmSXZ1NzFkU2MxeFNPR29IWnJIWlVSSlNOZV9QNjdZTEU2WmJ0QzFKYmxiNmVNLU52d2VtQTRlZTc5S2ducy1GR25RbDRHUmZOUWFybGM1dkhnMVNaQThkZm95ai1Jc3U5SzE2MGFyeTZzRjFxRERDNUJOWUhDbktMWGg1WkllUzVnM1VwRVdlX0lnaEFQNkFMUEdRTUlLRDF5TkUwSU05ZDFTenduVGN6YXZPOHlHaDBSUmNLNGNYVG1oMVY5QW1UVVkwcFBJ?oc=5",
+    "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/health-technology-assessment/england-leads-europe-in-reimbursing-sanofis-type-1-diabetes-disease-modifying-therapy-tzield-VD2BAXQF2JDRTGDWUMFQRGVFK4/",
     "date": "2026-06-23 03:30",
-    "summary": "",
+    "summary": "Instytut oceny technologii medycznych NICE stwierdził, że chociaż model ekonomiczny przedstawiony przez firmę Sanofi dla Tzield zawierał pewne niepewności, najbardziej prawdopodobne szacunki opłacalności leku mieściły się w zakresie uznawanym za akceptowalny poziom wykorzystania zasobów Narodowej Służby Zdrowia.",
     "source": "Citeline News & Insights",
     "specializations": []
   },
   {
     "title": "Mechanistyczna koncepcja życia: eseje biologiczne",
     "title_original": "The mechanistic conception of life: biological essays",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNTjRjTlcwRVkxYkFXY0ctQmFWNkd2Mm9uYlRuNzg4VUhzT0hjZDRmSTBfWFRUS1pWUVY3LWppSnhZNUpicHJDY0k3dWVqd1VLQjM4SjZHTlU2X1c5T05YNllhcFNoai00d2NKVnZ1ZFJqSXdQb09HZVpTcVZJS3c3R1JGanBPaW1vMEwtTVA5RHNvMWllLWc2SGd4ZkFPLXRhRDNyRG1xbGt4eWJ1d2xkWllkS3RLSGtXSDA5cFFGdWpvWmliZFNHLThOYmpsSWsxSlJUYWRzaFE3WDBiTElxeUI0cUdpdXZSX2pkcG5uYU9BVkxGaXlXVVo4aUNhOHMwdFJUOUNxd2wyaklVZlBkYlJpdXlYS012OG11c1BnUG0xM2s?oc=5",
+    "url": "https://collections.awsprod.nlm.nih.gov/?f%5Bdrep2.subjectAggregate%5D%5B%5D=Physiological+Phenomena&f%5Bdrep2.subjectGenre%5D%5B%5D=Collected+Work&f%5Bexample_query_facet_field%5D%5B%5D=years_1900",
     "date": "2026-06-22 23:19",
     "summary": "",
     "source": "collections.awsprod.nlm.nih.gov",
