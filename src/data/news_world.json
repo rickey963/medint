@@ -100,16 +100,16 @@
     ]
   },
   {
-    "title": "META-DIFF: metoda oparta na k-merach, która wykrywa sekwencje występujące w różny sposób w metagenomice, sekwencjonowaniu całego genomu | Raporty naukowe",
+    "title": "META-DIFF: potok oparty na k-merach, który wykrywa sekwencje występujące w różny sposób w metagenomice sekwencjonowania całego genomu | Raporty naukowe",
     "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
     "date": "2026-06-23 10:50",
-    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, uniemożliwiając wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
+    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, co uniemożliwia wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
     "source": "Nature",
     "specializations": []
   },
   {
-    "title": "META-DIFF: potok oparty na k-merach, który wykrywa sekwencje występujące w różny sposób w metagenomice sekwencjonowania całego genomu | Raporty naukowe",
+    "title": "META-DIFF: metoda oparta na k-merach, która wykrywa sekwencje występujące w różny sposób w metagenomice, sekwencjonowaniu całego genomu | Raporty naukowe",
     "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
     "date": "2026-06-23 10:50",
@@ -165,17 +165,6 @@
     "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a efekty genetyczne są szczególnie obecne u konkretnego pacjenta.",
     "source": "medRxiv",
     "specializations": []
-  },
-  {
-    "title": "Inaktywacja wirusa - Natura",
-    "title_original": "Virus inactivation - Nature",
-    "url": "https://www.nature.com/search?query=Virus%20inactivation&facet-discipline=%22Science%2C%20Humanities%20and%20Social%20Sciences%2C%20multidisciplinary%22",
-    "date": "2026-06-23 08:39",
-    "summary": "",
-    "source": "Nature",
-    "specializations": [
-      "Choroby zakaźne"
-    ]
   },
   {
     "title": "[2606.22851] Szybsze wyliczanie liczb pierwszych",
