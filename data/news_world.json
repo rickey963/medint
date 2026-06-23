@@ -40,20 +40,11 @@
     ]
   },
   {
-    "title": "Rozkładanie heterogeniczności danych dotyczących raka jednokomórkowego u pacjentów za pomocą sieci neuronowych typu cross-attention",
-    "title_original": "Decomposing patient heterogeneity of single-cell cancer data by cross-attention neural networks",
-    "url": "https://www.medrxiv.org/content/10.1101/2025.06.04.25328900v2",
-    "date": "2026-06-23 11:18",
-    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a skutki genetyczne są szczególnie obecne u konkretnego pacjenta.",
-    "source": "medRxiv",
-    "specializations": []
-  },
-  {
     "title": "Analiza repertuaru receptorów komórek T ujawnia zbieżność antygenów i możliwości immunoterapeutyczne w leczeniu raka prostaty",
     "title_original": "T Cell Receptor repertoire analysis reveals antigenic convergence and immunotherapeutic opportunities in Prostate Cancer",
     "url": "https://www.medrxiv.org/content/10.64898/2026.06.12.26355376v1",
     "date": "2026-06-23 11:18",
-    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko guza ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowy repertuar TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
+    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko nowotworu ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowe repertuary TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
     "source": "medRxiv",
     "specializations": [
       "Urologia"
@@ -64,7 +55,7 @@
     "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
     "date": "2026-06-23 10:50",
-    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, uniemożliwiając wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
+    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, co uniemożliwia wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
     "source": "Nature",
     "specializations": []
   },
@@ -136,6 +127,15 @@
     "specializations": []
   },
   {
+    "title": "Rozkładanie heterogeniczności danych dotyczących raka jednokomórkowego u pacjentów za pomocą sieci neuronowych typu cross-attention",
+    "title_original": "Decomposing patient heterogeneity of single-cell cancer data by cross-attention neural networks",
+    "url": "https://www.medrxiv.org/content/10.1101/2025.06.04.25328900v2",
+    "date": "2026-06-23 09:08",
+    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a efekty genetyczne są szczególnie obecne u konkretnego pacjenta.",
+    "source": "medRxiv",
+    "specializations": []
+  },
+  {
     "title": "Zestawy wieloinfuzyjne na oddziale intensywnej terapii noworodków (NICU), ocena transportu masowego i opracowanie graficznego interfejsu użytkownika",
     "title_original": "Multi-infusion setups in neonatal intensive care unit (NICU) a mass transport evaluation and graphical user interface development",
     "url": "https://www.nature.com/articles/s41598-026-58667-9",
@@ -146,6 +146,15 @@
       "Pediatria",
       "Anestezjologia i intensywna terapia"
     ]
+  },
+  {
+    "title": "[2606.23321] Tmax: Prosty przepis na agentów terminalowych",
+    "title_original": "[2606.23321] Tmax: A simple recipe for terminal agents",
+    "url": "https://arxiv.org/abs/2606.23321",
+    "date": "2026-06-23 06:41",
+    "summary": "Agenci korzystający z terminali szybko stali się najpopularniejszą aplikacją modeli językowych (LM). Pomimo ich rozpowszechnienia, stosunkowo niewiele prac akademickich dotyczyło szkolenia tych modeli w oparciu o RL, prawdopodobnie ze względu na trudne testy porównawcze, brak danych i brak prostych receptur podstawowych. Przedstawiamy Tmax, najsilniejszą jak dotąd receptę open RL dla agentów terminalowych, przybliżającą receptury otwartych danych do granic możliwości. Choć prosty, nasz przepis osiąga 27% na Terminal-Bench 2.0 przy parametrach tylko 9B, przewyższając znacznie większe modele z wcześniejszych prac.",
+    "source": "arXiv",
+    "specializations": []
   },
   {
     "title": "EnterpriseClawBench: Agenci do testów porównawczych z rzeczywistych sesji w miejscu pracy",
@@ -305,6 +314,15 @@
     "specializations": []
   },
   {
+    "title": "Szczepienia: nić ochrony przez pokolenia Wydarzenia",
+    "title_original": "Vaccination: A thread of protection across generations Events",
+    "url": "https://www.afro.who.int/countries/23362/events",
+    "date": "2026-06-22 19:21",
+    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
+    "source": "WHO | Regional Office for Africa",
+    "specializations": []
+  },
+  {
     "title": "Przekrojowe nierówności w samoocenie stanu zdrowia w Niemczech ze względu na płeć/płeć, migrację, edukację i dochody",
     "title_original": "Intersectional inequalities in self-rated health in Germany across sex/gender, migration, education and income",
     "url": "https://jech.bmj.com/content/jech/early/2026/06/22/jech-2026-225920.full.pdf",
@@ -320,15 +338,6 @@
     "date": "2026-06-22 18:48",
     "summary": "",
     "source": "Journal of Epidemiology and Community Health (JECH)",
-    "specializations": []
-  },
-  {
-    "title": "Szczepienia: nić ochrony przez pokolenia. Aktualności",
-    "title_original": "Vaccination: A thread of protection across generations News",
-    "url": "https://www.afro.who.int/countries/23362/news",
-    "date": "2026-06-22 18:13",
-    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
-    "source": "WHO | Regional Office for Africa",
     "specializations": []
   },
   {
@@ -645,9 +654,9 @@
   {
     "title": "[2606.21163] Książę Drinfelda",
     "title_original": "[2606.21163] Duke for Drinfeld",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxSXc5TFQ0NERwQklMWjI5blNScllSZU05andlaDNCVFBlMFhOREplRlFRNDE0cmFOSGNmRWE0YzA2ZU5vNU53?oc=5",
+    "url": "https://arxiv.org/abs/2606.21163",
     "date": "2026-06-19 09:00",
-    "summary": "",
+    "summary": "Dowodzimy, że pole funkcyjne jest analogiczne do twierdzenia Duke'a o równomiernym rozkładzie punktów CM, w układzie krzywych modułowych Drinfelda-Stuhlera. Nasze wyniki obejmują zatem, na ustawienie Drinfelda, zarówno twierdzenie Duke'a o krzywej modularnej, jak i S.-W. Równomierny rozkład Zhanga w przypadku krzywych Shimury. Równoważność sprowadza się za pomocą kryterium Weyla do zaniku okresów torycznych, co wzór Waldspurgera wyraża poprzez centralne wartości automorficznych funkcji $L$, ograniczonych w postaci siły Lindelöfa przez hipotezę Riemanna na polach funkcyjnych.",
     "source": "arXiv",
     "specializations": []
   },
@@ -667,15 +676,6 @@
     "date": "2026-06-18 23:21",
     "summary": "Program badań stacjonarnych Narodowego Instytutu ds. Narkotyków to placówka badawcza w Baltimore w stanie Maryland. NIDA IRP poświęcona jest zrozumieniu przyczyn, konsekwencji i leczenia nadużywania narkotyków.",
     "source": "NIDA IRP (.gov)",
-    "specializations": []
-  },
-  {
-    "title": "[2606.20344] Pierścień kwantowy all-reduce: korzyści w zakresie komunikacji i prywatności w nauczaniu rozproszonym",
-    "title_original": "[2606.20344] Quantum ring all-reduce: communication and privacy advantages for distributed learning",
-    "url": "https://arxiv.org/abs/2606.20344",
-    "date": "2026-06-18 09:00",
-    "summary": "Modele uczenia maszynowego skalowano do niespotykanych dotąd rozmiarów, dzięki czemu szkolenie na rozproszonych urządzeniach stało się de facto standardem w tej dziedzinie. W tej pracy badamy, w jaki sposób komunikacja kwantowa może sprawić, że rozproszone szkolenia będą zarówno bardziej wydajne pod względem komunikacyjnym, jak i teoretycznie prywatne pod względem informacyjnym, zarówno w przypadku klasycznych, jak i kwantowych modeli uczenia się. Ring all-reduce to podstawowy element komunikacyjny stosowany w rozproszonych szkoleniach na dużą skalę.",
-    "source": "arXiv",
     "specializations": []
   }
 ]
