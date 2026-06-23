@@ -1,5 +1,14 @@
 [
   {
+    "title": "META-DIFF: metoda oparta na k-merach, która wykrywa sekwencje występujące w różny sposób w metagenomice, sekwencjonowaniu całego genomu | Raporty naukowe",
+    "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
+    "url": "https://www.nature.com/articles/s41598-026-59138-x",
+    "date": "2026-06-23 10:50",
+    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, uniemożliwiając wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
+    "source": "Nature",
+    "specializations": []
+  },
+  {
     "title": "META-DIFF: potok oparty na k-merach, który wykrywa sekwencje występujące w różny sposób w metagenomice sekwencjonowania całego genomu | Raporty naukowe",
     "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
@@ -31,7 +40,7 @@
     "title_original": "Ending birthright citizenship could be a public health disaster",
     "url": "https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/",
     "date": "2026-06-23 10:37",
-    "summary": "Jeśli Sąd Najwyższy podtrzyma zarządzenie wykonawcze kończące obywatelstwo na mocy pierworództwa, może to „mieć poważne konsekwencje na styku bioetyki i zdrowia publicznego”.",
+    "summary": "Jeśli Sąd Najwyższy podtrzyma zarządzenie wykonawcze kończące obywatelstwo wynikające z urodzenia, może to „mieć poważne konsekwencje na styku bioetyki i zdrowia publicznego”.",
     "source": "statnews.com",
     "specializations": []
   },
@@ -89,7 +98,7 @@
     "title_original": "Multi-infusion setups in neonatal intensive care unit (NICU) a mass transport evaluation and graphical user interface development",
     "url": "https://www.nature.com/articles/s41598-026-58667-9",
     "date": "2026-06-23 06:50",
-    "summary": "Noworodki w stanie krytycznym przebywające na oddziałach intensywnej terapii wymagają złożonej terapii farmakologicznej i żywieniowej, często podawanej przez dostęp naczyniowy małego kalibru o pojedynczym świetle. Praktyka ta, znana jako wielokrotna infuzja, polega na jednoczesnym podawaniu wielu roztworów, co stwarza poważne wyzwania w zakresie dynamiki płynów i bezpieczeństwa klinicznego. W tym badaniu analizowano wydajność typowych konfiguracji linii infuzyjnych, koncentrując się na czasie transportu i profilach stężeń roztworów dostarczanych pacjentowi.",
+    "summary": "Krytycznie chore noworodki na oddziałach intensywnej terapii wymagają złożonej terapii farmakologicznej i żywieniowej, często podawanej przez dostęp naczyniowy małego kalibru o pojedynczym świetle. Praktyka ta, zwana wielokrotnym wlewem, polega na jednoczesnym podawaniu wielu roztworów, co stwarza poważne wyzwania w zakresie zarządzania dynamiką płynów i bezpieczeństwa klinicznego. W tym badaniu analizowano wydajność typowych konfiguracji linii infuzyjnych, koncentrując się na czasie transportu i profilach stężeń roztworów dostarczanych pacjentowi.",
     "source": "Nature",
     "specializations": [
       "Pediatria",
@@ -200,7 +209,7 @@
     ]
   },
   {
-    "title": "Zablokowane terapie chorób rzadkich znajdują nowe życie w ramach politycznie zmienionej amerykańskiej FDA",
+    "title": "Zatrzymane terapie chorób rzadkich znajdują nowe życie w ramach politycznie zmienionej amerykańskiej FDA",
     "title_original": "Stalled Rare Disease Therapies Find New Life Under Politically Reshaped US FDA",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/pathways-and-standards/approval-standards/stalled-rare-disease-therapies-find-new-life-under-politically-reshaped-us-fda-5XCXJN2OINCZPIB5ZXX36D77KY/",
     "date": "2026-06-22 23:41",
@@ -209,7 +218,7 @@
     "specializations": []
   },
   {
-    "title": "Zatrzymane terapie chorób rzadkich znajdują nowe życie w ramach politycznie zmienionej amerykańskiej FDA",
+    "title": "Zablokowane terapie chorób rzadkich znajdują nowe życie w ramach politycznie zmienionej amerykańskiej FDA",
     "title_original": "Stalled Rare Disease Therapies Find New Life Under Politically Reshaped US FDA",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/pathways-and-standards/approval-standards/stalled-rare-disease-therapies-find-new-life-under-politically-reshaped-us-fda-5XCXJN2OINCZPIB5ZXX36D77KY/",
     "date": "2026-06-22 23:41",
@@ -240,7 +249,7 @@
     "title_original": "Mavacamten improves energy balance in a pre-clinical model of RASopathy-associated hypertrophic cardiomyopathy",
     "url": "https://www.nature.com/articles/s41390-026-05208-9",
     "date": "2026-06-22 19:56",
-    "summary": "Aktywujące mutacje w szlaku RAS-MAPK stanowią około 20% przypadków kardiomiopatii przerostowej u dzieci (HCM) i wiążą się ze złymi wynikami leczenia. Mavacamten jest zatwierdzony do leczenia obturacyjnego HCM; jednakże do badań klinicznych nie włączono dotychczas pacjentów z HCM związanym z RAS. Naszym celem było scharakteryzowanie zaburzeń funkcjonalnych i energetycznych w modelu RAS-HCM in vitro oraz ocena działania terapeutycznego mawacamtenu.",
+    "summary": "Aktywujące mutacje w szlaku RAS-MAPK stanowią około 20% przypadków kardiomiopatii przerostowej u dzieci i wiążą się ze złymi wynikami leczenia. Mavacamten jest zatwierdzony do leczenia obturacyjnego HCM; jednakże do badań klinicznych nie włączono dotychczas pacjentów z HCM związanym z RAS. Naszym celem było scharakteryzowanie zaburzeń funkcjonalnych i energetycznych w modelu RAS-HCM in vitro oraz ocena działania terapeutycznego mawacamtenu.",
     "source": "Nature",
     "specializations": []
   },
@@ -249,7 +258,7 @@
     "title_original": "WHO and the BFA Foundation Sign Agreement for Cholera Response in Benguela Media Centre",
     "url": "https://www.afro.who.int/countries/23371/multimedia",
     "date": "2026-06-22 19:26",
-    "summary": "",
+    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
     "source": "WHO | Regional Office for Africa",
     "specializations": []
   },
@@ -267,20 +276,9 @@
     "title_original": "Vaccination: A thread of protection across generations Events",
     "url": "https://www.afro.who.int/countries/23362/events",
     "date": "2026-06-22 19:21",
-    "summary": "",
+    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
     "source": "WHO | Regional Office for Africa",
     "specializations": []
-  },
-  {
-    "title": "Komórki nowotworowe przyjmują bezprecedensowe strategie wytwarzania cząsteczki, która chroni je przed śmiercią zależną od żelaza",
-    "title_original": "Cancer cells adopt unprecedented strategies to produce a molecule that protects them from iron-dependent death",
-    "url": "https://www.nature.com/articles/d41586-026-01802-3",
-    "date": "2026-06-22 18:58",
-    "summary": "Odkrycie, że cząsteczki sperminy w komórkach wiążą się z żelazem, zapobiegając wywołaniu ferroptozy, rodzaju śmierci komórki, otwiera strategie leczenia uszkodzeń tkanek i raka.",
-    "source": "Nature",
-    "specializations": [
-      "Onkologia"
-    ]
   },
   {
     "title": "Przekrojowe nierówności w samoocenie stanu zdrowia w Niemczech ze względu na płeć/płeć, migrację, edukację i dochody",
@@ -298,6 +296,15 @@
     "date": "2026-06-22 18:48",
     "summary": "",
     "source": "Journal of Epidemiology and Community Health (JECH)",
+    "specializations": []
+  },
+  {
+    "title": "Szczepienia: nić ochrony przez pokolenia. Aktualności",
+    "title_original": "Vaccination: A thread of protection across generations News",
+    "url": "https://www.afro.who.int/countries/23362/news",
+    "date": "2026-06-22 18:13",
+    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
+    "source": "WHO | Regional Office for Africa",
     "specializations": []
   },
   {
@@ -323,7 +330,7 @@
     "title_original": "Events | OMS | Bureau régional pour l'Afrique",
     "url": "https://www.afro.who.int/fr/countries/23357/events",
     "date": "2026-06-22 17:10",
-    "summary": "",
+    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
     "source": "WHO | Regional Office for Africa",
     "specializations": []
   },
@@ -332,16 +339,7 @@
     "title_original": "Plus d'informations | OMS | Bureau régional pour l'Afrique",
     "url": "https://www.afro.who.int/fr/health-topics/news?healthtopic=610&page=503",
     "date": "2026-06-22 14:21",
-    "summary": "",
-    "source": "WHO | Regional Office for Africa",
-    "specializations": []
-  },
-  {
-    "title": "Inicjatywa regionalna w Dakarze ma na celu wyeliminowanie krytycznych luk w jakości danych, aby wzmocnić wysiłki na rzecz zwalczania polio w całej Afryce",
-    "title_original": "Regional Initiative in Dakar targets critical data quality gaps to strengthen polio eradication efforts across Africa",
-    "url": "https://www.afro.who.int/countries/senegal/news/regional-initiative-dakar-targets-critical-data-quality-gaps-strengthen-polio-eradication-efforts",
-    "date": "2026-06-22 14:00",
-    "summary": "",
+    "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób. Jako wiodący organ ds. zdrowia w systemie Organizacji Narodów Zjednoczonych (ONZ) pomagamy zapewnić bezpieczeństwo powietrza, którym oddychamy, żywności, którą spożywamy, wody, którą pijemy oraz leków i szczepionek, które nas leczą i chronią.",
     "source": "WHO | Regional Office for Africa",
     "specializations": []
   },
