@@ -283,7 +283,7 @@
     "title_original": "What happens when AI meets physics-based drug design?",
     "url": "https://www.statnews.com/sponsor/2026/06/22/what-happens-when-ai-meets-physics-based-drug-design/",
     "date": "2026-06-22 17:54",
-    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się stowarzyszone zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
+    "summary": "Sztuczna inteligencja, modelowanie oparte na fizyce i uczenie się zintegrowane zmieniają sposób odkrywania nowych leków. Na konferencji STAT Breakthrough West 2026",
     "source": "statnews.com",
     "specializations": []
   },
@@ -453,7 +453,7 @@
     "title_original": "Structure Search",
     "url": "https://precision.fda.gov/ginas/app/ui/structure-search?structure=38a24b2b-c405-4cbd-b43f-e75bc77931ba",
     "date": "2026-06-22 10:44",
-    "summary": "Ponieważ metody przewidywania struktury generują miliony publicznie dostępnych struktur białkowych, przeszukiwanie tych baz danych staje się wąskim gardłem. Foldseek dopasowuje strukturę białka zapytania do bazy danych, opisując interakcje trzeciorzędowych aminokwasów w białkach jako sekwencje w alfabecie strukturalnym. Foldseek skraca czas obliczeń o cztery do pięciu rzędów wielkości przy czułości odpowiednio 86%, 88% i 133% Dali, TM-align i CE.",
+    "summary": "",
     "source": "precisionFDA (.gov)",
     "specializations": []
   },
@@ -467,21 +467,30 @@
     "specializations": []
   },
   {
+    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
+    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm?start_search=121&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondatedesc",
+    "date": "2026-06-22 10:12",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": []
+  },
+  {
+    "title": "NIEKTÓRE - M9K697V59A | Usługa wyszukiwania UNII",
+    "title_original": "UNII - M9K697V59A | UNII Search Service",
+    "url": "https://precision.fda.gov/uniisearch/srs?search=M9K697V59A",
+    "date": "2026-06-22 09:24",
+    "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII).",
+    "source": "precisionFDA (.gov)",
+    "specializations": []
+  },
+  {
     "title": "Raport Forum Konsumentów: w małych miejscowościach za leki płacimy nawet o 112 proc. więcej",
     "title_original": "Raport Forum Konsumentów: w małych miejscowościach za leki płacimy nawet o 112 proc. więcej",
     "url": "https://pulsmedycyny.pl/puls-farmacji/apteki/raport-forum-konsumentow-w-malych-miejscowosciach-za-leki-placimy-nawet-o-112-proc-wiecej/",
     "date": "2026-06-22 08:40",
     "summary": "Najnowszy raport Forum Konsumentów obnaża głębokie dysproporcje na krajowym rynku aptecznym. Autorzy analizują dostępność leków oraz politykę cenową placówek sieciowych i niezależnych, punktują słabości obecnego modelu dystrybucji leków oraz wskazują, gdzie niezbędna jest interwencja regulatora oraz samorządów.",
     "source": "Puls Medycyny",
-    "specializations": []
-  },
-  {
-    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
-    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=21&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondate",
-    "date": "2026-06-22 05:17",
-    "summary": "",
-    "source": "accessdata.fda.gov",
     "specializations": []
   },
   {
