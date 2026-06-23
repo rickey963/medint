@@ -38,7 +38,7 @@
     ]
   },
   {
-    "title": "Dr Atif Ali: „Praca z osobami zakażonymi wirusem HIV to potężny akt pozwalający zastąpić piętno nadzieją”",
+    "title": "Dr Atif Ali: „Praca z osobami zakażonymi wirusem HIV to potężny krok, który pozwala zastąpić piętno nadzieją”",
     "title_original": "Dr Atif Ali: “Working with people affected by HIV is a powerful act to replace stigma with hope”",
     "url": "https://www.emro.who.int/pak/pakistan-news/dr-atif-ali-working-with-people-affected-by-hiv-is-a-powerful-act-to-replace-stigma-with-hope.html",
     "date": "2026-06-23 14:43",
@@ -93,7 +93,7 @@
     "title_original": "T Cell Receptor repertoire analysis reveals antigenic convergence and immunotherapeutic opportunities in Prostate Cancer",
     "url": "https://www.medrxiv.org/content/10.64898/2026.06.12.26355376v1",
     "date": "2026-06-23 11:18",
-    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko guza ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowy repertuar TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
+    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko nowotworu ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowe repertuary TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
     "source": "medRxiv",
     "specializations": [
       "Urologia"
@@ -104,7 +104,7 @@
     "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
     "date": "2026-06-23 10:50",
-    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, uniemożliwiając wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
+    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, co uniemożliwia wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
     "source": "Nature",
     "specializations": []
   },
@@ -162,7 +162,7 @@
     "title_original": "Decomposing patient heterogeneity of single-cell cancer data by cross-attention neural networks",
     "url": "https://www.medrxiv.org/content/10.1101/2025.06.04.25328900v2",
     "date": "2026-06-23 09:08",
-    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a skutki genetyczne są szczególnie obecne u konkretnego pacjenta.",
+    "summary": "Zmienność ekspresji genów w komórkach nowotworowych przypisuje się wielu czynnikom dziedzicznym i środowiskowym, w tym wariantom genetycznym i krajobrazowi komórkowemu. Rozkładu różnych źródeł informacji nie da się przeprowadzić w przypadku samej sekwencji RNA jednokomórkowej. Pokazujemy jednak, że nasze nowe podejście może je podzielić przy pomocy wielu pacjentów, zakładając, że typy komórek są szeroko rozpowszechnione, a efekty genetyczne są szczególnie obecne u konkretnego pacjenta.",
     "source": "medRxiv",
     "specializations": []
   },
@@ -174,18 +174,6 @@
     "summary": "Opisujemy kilka nowych algorytmów znajdowania wszystkich liczb pierwszych aż do zadanej granicy $N$, osiągając pierwsze w historii przyspieszenie o dodatnią potęgę $\\log N$ na starożytnym sicie Eratostenesa. Najszybsza wersja, która nie jest w pełni rygorystyczna, działa w operacjach bitowych \\[ N (\\log \\log N)^{1+o(1)} \\], gdy jest analizowana w wielotaśmowym modelu Turinga. Ulepsza to najlepsze istniejące algorytmy autorstwa Pritcharda (1981), Atkina-Bernsteina (2004) i Siergiejewa (2016) o współczynnik prawie $\\log N$.",
     "source": "arXiv",
     "specializations": []
-  },
-  {
-    "title": "Zestawy wieloinfuzyjne na oddziale intensywnej terapii noworodków (NICU), ocena transportu masowego i opracowanie graficznego interfejsu użytkownika",
-    "title_original": "Multi-infusion setups in neonatal intensive care unit (NICU) a mass transport evaluation and graphical user interface development",
-    "url": "https://www.nature.com/articles/s41598-026-58667-9",
-    "date": "2026-06-23 06:50",
-    "summary": "Noworodki w stanie krytycznym przebywające na oddziałach intensywnej terapii wymagają złożonej terapii farmakologicznej i żywieniowej, często podawanej przez dostęp naczyniowy małego kalibru o pojedynczym świetle. Praktyka ta, znana jako wielokrotna infuzja, polega na jednoczesnym podawaniu wielu roztworów, co stwarza poważne wyzwania w zakresie zarządzania dynamiką płynów i bezpieczeństwa klinicznego. W tym badaniu analizowano działanie typowych konfiguracji linii infuzyjnych, koncentrując się na czasie transportu i profilach stężeń roztworów dostarczanych pacjentowi.",
-    "source": "Nature",
-    "specializations": [
-      "Pediatria",
-      "Anestezjologia i intensywna terapia"
-    ]
   },
   {
     "title": "[2606.23321] Tmax: Prosty przepis na agentów terminalowych",
@@ -408,15 +396,6 @@
     "specializations": []
   },
   {
-    "title": "Granice w antybiotykach",
-    "title_original": "Frontiers in Antibiotics",
-    "url": "https://www.frontiersin.org/journals/antibiotics",
-    "date": "2026-06-22 13:18",
-    "summary": "Odkryj badania badające rozwiązania w zakresie oporności na antybiotyki, ich rozwój i dostarczanie w celu poprawy zdrowia światowej populacji.",
-    "source": "Frontiers",
-    "specializations": []
-  },
-  {
     "title": "Edytor partii dystrybucyjnych",
     "url": "https://pdmdb.cancer.gov/web/apex/r/dctd_01/pdm/26?p26_distributionlotseqnbr=193&clear=26",
     "date": "2026-06-22 12:44",
@@ -492,6 +471,15 @@
     "date": "2026-06-22 09:27",
     "summary": "",
     "source": "Annals of the Rheumatic Diseases",
+    "specializations": []
+  },
+  {
+    "title": "Granice w antybiotykach",
+    "title_original": "Frontiers in Antibiotics",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBSmJzekNDQU14b255S243dm5JVXpGUi1VQVBtU1A0ZWZ5aUJYNk1jV29mbzAySmJtbmluUjVWRkZwdmw1NkQ0Q04tNi13LTJNbDA2VWZxa1pCNGFD?oc=5",
+    "date": "2026-06-22 09:00",
+    "summary": "",
+    "source": "Frontiers",
     "specializations": []
   },
   {
