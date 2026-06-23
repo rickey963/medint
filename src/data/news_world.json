@@ -9,6 +9,15 @@
     "specializations": []
   },
   {
+    "title": "Monitor szczepień z żółtą kartką",
+    "title_original": "Yellow Card Vaccine Monitor",
+    "url": "https://yellowcard.mhra.gov.uk/YCVM",
+    "date": "2026-06-23 17:27",
+    "summary": "Strona główna MHRA służąca do zgłaszania podejrzeń skutków ubocznych lub niepożądanych reakcji na leki lub szczepionki, a także incydentów związanych z urządzeniami medycznymi",
+    "source": "GOV.UK",
+    "specializations": []
+  },
+  {
     "title": "Transformacja w Fogarty",
     "title_original": "Transformation at Fogarty",
     "url": "https://www.fic.nih.gov/News/GlobalHealthMatters/may-june-2026/Pages/transformation-at-forgarty.aspx",
@@ -18,7 +27,7 @@
     "specializations": []
   },
   {
-    "title": "Health Canada oferuje sponsorom badań klinicznych bezbłędny start w oparciu o zgodność z E6(R3).",
+    "title": "Health Canada oferuje sponsorom badań klinicznych bezproblemowy start w oparciu o zgodność z E6(R3).",
     "title_original": "Health Canada Offers Clinical Trial Sponsors A No-Fault Head Start On E6(R3) Compliance",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/health-canada-offers-clinical-trial-sponsors-a-no-fault-head-start-on-e6r3-compliance-7CBW3HQ77ZE3LJJHP7EXIE2DAU/",
     "date": "2026-06-23 16:38",
@@ -27,7 +36,7 @@
     "specializations": []
   },
   {
-    "title": "Health Canada oferuje sponsorom badań klinicznych bezproblemowy start w oparciu o zgodność z E6(R3).",
+    "title": "Health Canada oferuje sponsorom badań klinicznych bezbłędny start w oparciu o zgodność z E6(R3).",
     "title_original": "Health Canada Offers Clinical Trial Sponsors A No-Fault Head Start On E6(R3) Compliance",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/health-canada-offers-clinical-trial-sponsors-a-no-fault-head-start-on-e6r3-compliance-7CBW3HQ77ZE3LJJHP7EXIE2DAU/",
     "date": "2026-06-23 16:38",
@@ -83,7 +92,7 @@
     ]
   },
   {
-    "title": "Dr Atif Ali: „Praca z osobami zakażonymi wirusem HIV to potężny krok, który pozwala zastąpić piętno nadzieją”",
+    "title": "Dr Atif Ali: „Praca z osobami zakażonymi wirusem HIV to potężny akt pozwalający zastąpić piętno nadzieją”",
     "title_original": "Dr Atif Ali: “Working with people affected by HIV is a powerful act to replace stigma with hope”",
     "url": "https://www.emro.who.int/pak/pakistan-news/dr-atif-ali-working-with-people-affected-by-hiv-is-a-powerful-act-to-replace-stigma-with-hope.html",
     "date": "2026-06-23 14:43",
@@ -120,20 +129,11 @@
     "title_original": "T Cell Receptor repertoire analysis reveals antigenic convergence and immunotherapeutic opportunities in Prostate Cancer",
     "url": "https://www.medrxiv.org/content/10.64898/2026.06.12.26355376v1",
     "date": "2026-06-23 11:18",
-    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko nowotworu ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowe repertuary TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
+    "summary": "Tło: Repertuar receptora komórek T β (TCRβ) odzwierciedla adaptacyjną odpowiedź immunologiczną kierowaną przez antygen i zapewnia wgląd w interakcję immunologiczną nowotworu. W raku prostaty (PCa) immunosupresyjne mikrośrodowisko guza ogranicza efektywną aktywację limfocytów T, a czynniki antygenowe kształtujące wewnątrzguzowy repertuar TCR pozostają słabo zdefiniowane. Celem tego badania było scharakteryzowanie dopasowanych repertuarów TCRβ nowotworowych i obwodowych pochodzących od wcześniej nieleczonych pacjentów z PCa oraz identyfikacja wspólnych klonotypów i swoistości antygenowych związanych z ciężkością choroby.",
     "source": "medRxiv",
     "specializations": [
       "Urologia"
     ]
-  },
-  {
-    "title": "META-DIFF: potok oparty na k-merach, który wykrywa sekwencje występujące w różny sposób w metagenomice sekwencjonowania całego genomu | Raporty naukowe",
-    "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
-    "url": "https://www.nature.com/articles/s41598-026-59138-x",
-    "date": "2026-06-23 10:50",
-    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, co uniemożliwia wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
-    "source": "Nature",
-    "specializations": []
   },
   {
     "title": "META-DIFF: metoda oparta na k-merach, która wykrywa sekwencje występujące w różny sposób w metagenomice, sekwencjonowaniu całego genomu | Raporty naukowe",
@@ -141,6 +141,15 @@
     "url": "https://www.nature.com/articles/s41598-026-59138-x",
     "date": "2026-06-23 10:50",
     "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, uniemożliwiając wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
+    "source": "Nature",
+    "specializations": []
+  },
+  {
+    "title": "META-DIFF: potok oparty na k-merach, który wykrywa sekwencje występujące w różny sposób w metagenomice sekwencjonowania całego genomu | Raporty naukowe",
+    "title_original": "META-DIFF: a k-mer-based pipeline that detects differentially abundant sequences in metagenomics whole genome sequencing | Scientific Reports",
+    "url": "https://www.nature.com/articles/s41598-026-59138-x",
+    "date": "2026-06-23 10:50",
+    "summary": "Tradycyjne badania metagenomiczne z kontrolą przypadku są ograniczone przez ich zależność od taksonomicznych i funkcjonalnych baz danych. Ponieważ adnotacje mają miejsce przed analizą różnicową, ograniczają się one do znanych elementów i oddzielają funkcję od taksonomii. Chociaż pojawiły się strategie binowania mające na celu rekonstrukcję genomów i złagodzenie tego problemu, nadal wymagają one etapu składania, co uniemożliwia wykorzystanie wszystkich dostępnych danych sekwencjonowania. Tutaj przedstawiamy META-DIFF, potok oparty na k-merach o różnej liczebności, niezależnie od jakichkolwiek wcześniejszych adnotacji.",
     "source": "Nature",
     "specializations": []
   },
@@ -207,7 +216,7 @@
     "title_original": "Multi-infusion setups in neonatal intensive care unit (NICU) a mass transport evaluation and graphical user interface development",
     "url": "https://www.nature.com/articles/s41598-026-58667-9",
     "date": "2026-06-23 06:50",
-    "summary": "Noworodki w stanie krytycznym przebywające na oddziałach intensywnej terapii wymagają złożonej terapii farmakologicznej i żywieniowej, często podawanej przez dostęp naczyniowy małego kalibru o pojedynczym świetle. Praktyka ta, znana jako wielokrotna infuzja, polega na jednoczesnym podawaniu wielu roztworów, co stwarza poważne wyzwania w zakresie dynamiki płynów i bezpieczeństwa klinicznego. W tym badaniu analizowano wydajność typowych konfiguracji linii infuzyjnych, koncentrując się na czasie transportu i profilach stężeń roztworów dostarczanych pacjentowi.",
+    "summary": "Krytycznie chore noworodki na oddziałach intensywnej terapii wymagają złożonej terapii farmakologicznej i żywieniowej, często podawanej przez dostęp naczyniowy małego kalibru o pojedynczym świetle. Praktyka ta, zwana wielokrotnym wlewem, polega na jednoczesnym podawaniu wielu roztworów, co stwarza poważne wyzwania w zakresie zarządzania dynamiką płynów i bezpieczeństwa klinicznego. W tym badaniu analizowano wydajność typowych konfiguracji linii infuzyjnych, koncentrując się na czasie transportu i profilach stężeń roztworów dostarczanych pacjentowi.",
     "source": "Nature",
     "specializations": [
       "Pediatria",
@@ -472,7 +481,7 @@
     "title_original": "Frontiers in Antibiotics",
     "url": "https://www.frontiersin.org/journals/antibiotics",
     "date": "2026-06-22 09:00",
-    "summary": "Odkryj badania badające rozwiązania w zakresie oporności na antybiotyki, ich rozwój i dostarczanie w celu poprawy zdrowia światowej populacji.",
+    "summary": "",
     "source": "Frontiers",
     "specializations": []
   },
