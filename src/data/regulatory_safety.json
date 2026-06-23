@@ -248,6 +248,24 @@
     "specializations": []
   },
   {
+    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
+    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=481&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=01%2F03%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumberdesc",
+    "date": "2026-06-23 05:52",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": []
+  },
+  {
+    "title": "510(k) Powiadomienie przed wprowadzeniem na rynek",
+    "title_original": "510(k) Premarket Notification",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K822117",
+    "date": "2026-06-23 05:38",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": []
+  },
+  {
     "title": "Triazolam zakończył badania fazy 3 dotyczące depresji / zaburzeń psychofizjologicznych / demencji / lęku psychicznego / leczenia schizofrenii",
     "title_original": "Triazolam Terminated Phase 3 Trials for Depression / Psychophysiological Disorders / Dementia / psychiatric anxiety / Schizophrenias Treatment",
     "url": "https://go.drugbank.com/drugs/DB00897/clinical_trials?conditions=DBCOND0017457%2CDBCOND0018735%2CDBCOND0099705%2CDBCOND0172355%2CDBCOND0033618&phase=3&purpose=treatment&status=terminated",
@@ -310,16 +328,7 @@
     "specializations": []
   },
   {
-    "title": "510(k) Powiadomienie przed wprowadzeniem na rynek",
-    "title_original": "510(k) Premarket Notification",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K233946",
-    "date": "2026-06-23 00:54",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": []
-  },
-  {
-    "title": "Uważnie obserwowany lek na raka płuc firmy Pfizer nie przeszedł testów klinicznych | STAT",
+    "title": "Uważnie obserwowany lek na raka płuc firmy Pfizer nie przeszedł badań klinicznych | STAT",
     "title_original": "Closely watched Pfizer lung cancer drug falls short in clinical trial | STAT",
     "url": "https://www.statnews.com/2026/06/22/pfizer-lung-cancer-sigvotatug-vedotin/",
     "date": "2026-06-22 23:37",
@@ -330,7 +339,7 @@
     ]
   },
   {
-    "title": "Uważnie obserwowany lek na raka płuc firmy Pfizer nie przeszedł badań klinicznych | STAT",
+    "title": "Uważnie obserwowany lek na raka płuc firmy Pfizer nie przeszedł testów klinicznych | STAT",
     "title_original": "Closely watched Pfizer lung cancer drug falls short in clinical trial | STAT",
     "url": "https://www.statnews.com/2026/06/22/pfizer-lung-cancer-sigvotatug-vedotin/",
     "date": "2026-06-22 23:37",
@@ -574,16 +583,6 @@
     "specializations": []
   },
   {
-    "title": "Rejestracja zakładu i lista urządzeń",
-    "title_original": "Establishment Registration & Device Listing",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=171&q=T3J0aG9wZWRpYw==&pn=10&pf=0&sc=ena&rcount=207",
-    "date": "2026-06-22 13:19",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": [],
-    "safety_level": "🟢 REJESTRACJA"
-  },
-  {
     "title": "Bidirectional cross-modal fusion with tensor interaction for drug-target binding prediction",
     "title_original": "Bidirectional cross-modal fusion with tensor interaction for drug-target binding prediction",
     "url": "https://www.nature.com/articles/s41598-026-57915-2",
@@ -665,7 +664,7 @@
     "title_original": "Medicare GLP-1 Bridge",
     "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
     "date": "2026-06-22 09:00",
-    "summary": "Centra Usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz osobną krótkoterminową demonstrację (obecnie nazywaną „Mostem Medicare GLP-1”)",
+    "summary": "Centra usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz oddzielną krótkoterminową demonstrację (obecnie nazywaną „mostem Medicare GLP-1”)",
     "source": "Centers for Medicare & Medicaid Services | CMS (.gov)",
     "specializations": []
   },
