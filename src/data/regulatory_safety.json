@@ -29,7 +29,7 @@
     "specializations": []
   },
   {
-    "title": "Faza rekrutacji lornoksykamu Nie dotyczy Badania dotyczące zapalenia kaletki/bólu/zapalenia torebki, bólu klejowego/nocyplastycznego/adhezyjnego zapalenia torebki barku/aktywność, bólu motorycznego/barku/leczenia bólu neuropatycznego",
+    "title": "Faza rekrutacji lornoksykamu Nie dotyczy Badania dotyczące zapalenia kaletki/bólu/zapalenia torebki, bólu klejowego/nocyplastycznego/adhezyjnego zapalenia torebki barku/aktywność, bólu ruchowego/barku/leczenia bólu neuropatycznego",
     "title_original": "Lornoxicam Recruiting Phase N/A Trials for Bursitis / Pain / Capsulitis, Adhesive / Nociplastic Pain / Adhesive Capsulitis of the Shoulder / Activity, Motor / Shoulder Pain / Neuropathic Pain Treatment",
     "url": "https://go.drugbank.com/drugs/DB06725/clinical_trials?conditions=DBCOND0091442%2CDBCOND0031999%2CDBCOND0016442%2CDBCOND0136337%2CDBCOND0031639%2CDBCOND0141176%2CDBCOND0012160%2CDBCOND0002120&phase=&purpose=treatment&status=recruiting",
     "date": "2026-06-23 22:28",
@@ -38,7 +38,7 @@
     "specializations": []
   },
   {
-    "title": "Faza rekrutacji lornoksykamu Nie dotyczy Badania dotyczące zapalenia kaletki/bólu/zapalenia torebki, bólu klejowego/nocyplastycznego/adhezyjnego zapalenia torebki barku/aktywność, bólu ruchowego/barku/leczenia bólu neuropatycznego",
+    "title": "Faza rekrutacji lornoksykamu Nie dotyczy Badania dotyczące zapalenia kaletki/bólu/zapalenia torebki, bólu klejowego/nocyplastycznego/adhezyjnego zapalenia torebki barku/aktywność, bólu motorycznego/barku/leczenia bólu neuropatycznego",
     "title_original": "Lornoxicam Recruiting Phase N/A Trials for Bursitis / Pain / Capsulitis, Adhesive / Nociplastic Pain / Adhesive Capsulitis of the Shoulder / Activity, Motor / Shoulder Pain / Neuropathic Pain Treatment",
     "url": "https://go.drugbank.com/drugs/DB06725/clinical_trials?conditions=DBCOND0091442%2CDBCOND0031999%2CDBCOND0016442%2CDBCOND0136337%2CDBCOND0031639%2CDBCOND0141176%2CDBCOND0012160%2CDBCOND0002120&phase=&purpose=treatment&status=recruiting",
     "date": "2026-06-23 22:28",
@@ -346,25 +346,6 @@
     "safety_level": "🔴 WYCOFanie"
   },
   {
-    "title": "Rejestracja zakładu i lista urządzeń",
-    "title_original": "Establishment Registration & Device Listing",
-    "url": "https://www.accessdata.fda.gov/SCripts/Cdrh/cfdOCS/cfrl/rl.cfm?lid=1012936&lpcd=IYO",
-    "date": "2026-06-23 11:01",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": [],
-    "safety_level": "🟢 REJESTRACJA"
-  },
-  {
-    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
-    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm?start_search=451&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondatedesc",
-    "date": "2026-06-23 10:57",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": []
-  },
-  {
     "title": "Eli Lilly zapewniła 79-letniemu pacjentowi dostęp do niezwykłego leku na otyłość. Kto to był?",
     "title_original": "Eli Lilly gave extraordinary obesity drug access to a 79-year-old patient. Who was it?",
     "url": "https://www.statnews.com/2026/06/23/eli-lilly-unusual-weight-loss-drug-trial-compassionate-use-retatrutide-trump/",
@@ -485,6 +466,25 @@
       "Gastroenterologia i hepatologia"
     ],
     "safety_level": "🟡 ALERT"
+  },
+  {
+    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
+    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=201&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=05%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondate",
+    "date": "2026-06-23 06:21",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": []
+  },
+  {
+    "title": "Rejestracja zakładu i lista urządzeń",
+    "title_original": "Establishment Registration & Device Listing",
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=251&q=QUNVUFVOQ1RVUkUgTkVFRExFUw==&pn=10&pf=0&sc=end&rcount=503",
+    "date": "2026-06-23 06:08",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": [],
+    "safety_level": "🟢 REJESTRACJA"
   },
   {
     "title": "510(k) Powiadomienie przed wprowadzeniem na rynek",
@@ -784,7 +784,7 @@
     "title_original": "Medicare GLP-1 Bridge",
     "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
     "date": "2026-06-22 09:00",
-    "summary": "Centra usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz oddzielną krótkoterminową demonstrację (obecnie nazywaną „mostem Medicare GLP-1”)",
+    "summary": "Centra Usług Medicare i Medicaid (CMS) ogłosiły model lepszego podejścia do stylu życia i odżywiania na rzecz kompleksowego zdrowia (BALANCE) oraz osobną krótkoterminową demonstrację (obecnie nazywaną „Mostem Medicare GLP-1”)",
     "source": "Centers for Medicare & Medicaid Services | CMS (.gov)",
     "specializations": []
   },
