@@ -194,15 +194,43 @@ def _enrich_sejm_legislative_template(soup):
     real act title ("Rozporządzenie Ministra ... w sprawie ...") sits in the
     <h2> right after the #h_title heading. Tried unconditionally (cheap, and
     returns None immediately) rather than gated on domain, since it's the
-    same template across at least two different domains."""
+    same template across at least two different domains.
+
+    These pages have no separate prose abstract anywhere - the act title
+    *is* the description, so a "summary" line just repeating it verbatim
+    adds nothing (this was the user's specific complaint). The publication
+    metadata table right below it (Data ogłoszenia / Nazwa dziennika / Rok /
+    Pozycja) gives a second, genuinely different sentence instead.
+
+    Returns (title, summary) or (None, None)."""
     h1 = soup.find(id='h_title')
     if not h1:
-        return None
+        return None, None
     h2 = h1.find_next('h2')
     if not h2:
-        return None
+        return None, None
     real_title = ' '.join(h2.get_text(' ', strip=True).split())
-    return real_title or None
+    if not real_title:
+        return None, None
+
+    meta = {}
+    table = h2.find_next('table')
+    if table:
+        for row in table.find_all('tr'):
+            cells = [c.get_text(' ', strip=True) for c in row.find_all(['th', 'td'])]
+            if len(cells) >= 2 and cells[0]:
+                meta[cells[0].rstrip(':').lower()] = cells[1]
+
+    dziennik = meta.get('nazwa dziennika')
+    rok = meta.get('rok')
+    pozycja = meta.get('pozycja')
+    data_ogloszenia = meta.get('data ogłoszenia')
+    if dziennik and rok and pozycja:
+        summary = f"Opublikowano w {dziennik} {rok}, poz. {pozycja}"
+        summary += f", z dniem ogłoszenia {data_ogloszenia}." if data_ogloszenia else "."
+    else:
+        summary = real_title
+    return real_title, summary
 
 
 # Bot-wall/CAPTCHA interstitials (Cloudflare, PerimeterX, Akamai...) return
@@ -226,19 +254,47 @@ def _looks_like_bot_wall(text):
     return any(p in text_lower for p in BOT_WALL_PHRASES)
 
 
+# Footer/contact boilerplate (confirmed on NFZ: a page's first long <p> was
+# its own street address) - reject candidates that look like an address
+# block or site-wide legal footer rather than article text.
+BOILERPLATE_PATTERNS = [
+    r'\b\d{2}-\d{3}\b',  # Polish postal code (e.g. "02-528")
+    r'\bul\.\s*\w+',  # "ul. Rakowiecka" - street address
+    r'\bnip\b', r'\bregon\b', r'\bcentrala\b', r'adres dor[ęe]cze[nń]',
+    r'wszelkie prawa zastrzeżone', r'all rights reserved', r'©',
+]
+
+# A real article lede essentially never opens with "Label: value" - that's
+# a government/admin record field (confirmed on nfz.gov.pl: "Adres Doręczeń
+# Elektronicznych (ADE): AE:PL-..."), not prose. Catches this whole class of
+# boilerplate generically instead of one phrase at a time.
+LABEL_VALUE_START_RE = re.compile(r'^[^:]{3,60}:\s*\S')
+
+
+def _looks_like_boilerplate(text):
+    if LABEL_VALUE_START_RE.match(text):
+        return True
+    text_lower = text.lower()
+    return any(re.search(p, text_lower) for p in BOILERPLATE_PATTERNS)
+
+
+def _is_usable_candidate(text):
+    return not _looks_like_bot_wall(text) and not _looks_like_boilerplate(text)
+
+
 def _enrich_generic(soup):
     og = soup.find('meta', attrs={'property': 'og:description'})
-    if og and og.get('content') and not _looks_like_bot_wall(og['content']):
+    if og and og.get('content') and _is_usable_candidate(og['content']):
         return og['content']
     meta = soup.find('meta', attrs={'name': 'description'})
-    if meta and meta.get('content') and 'error 404' not in meta['content'].lower() and not _looks_like_bot_wall(meta['content']):
+    if meta and meta.get('content') and 'error 404' not in meta['content'].lower() and _is_usable_candidate(meta['content']):
         return meta['content']
     jsonld_desc = _extract_jsonld_description(soup)
-    if jsonld_desc and not _looks_like_bot_wall(jsonld_desc):
+    if jsonld_desc and _is_usable_candidate(jsonld_desc):
         return jsonld_desc
     for p in soup.find_all('p'):
         text = p.get_text(' ', strip=True)
-        if len(text) > 60 and not _looks_like_bot_wall(text):
+        if len(text) > 60 and _is_usable_candidate(text):
             return text
     return None
 
@@ -264,10 +320,10 @@ def _enrich_real_content(item):
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, 'html.parser')
 
-        real_title = _enrich_sejm_legislative_template(soup)
+        real_title, real_summary = _enrich_sejm_legislative_template(soup)
         if real_title:
             item['title'] = real_title
-            item['summary_raw'] = _trim_sentences(_clean_html(real_title), 3)
+            item['summary_raw'] = _trim_sentences(_clean_html(real_summary), 3)
             return item
 
         description = _enrich_generic(soup)
