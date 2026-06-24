@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-24T20:54:19Z",
+  "last_updated": "2026-06-24T20:54:46Z",
   "poland": [
+    {
+      "title": "Wyszukiwarka tagów - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/wyszukiwarka-tagow/nowy-model-opieki-czp,4397.html",
+      "date": "2026-06-24T19:00:01Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Narodowy Fundusz Zdrowia - Centrala ul. Rakowiecka 26/30 02-528 Warszawa."
+    },
     {
       "title": "Zdrowe warzywa, zaskakujący efekt. 278 tys. zgonów rocznie - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zdrowe-warzywa-zaskakujacy-efekt-278-tys-zgonow-rocznie,285873,11.html",
@@ -208,22 +216,6 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Klinika Kardiologii Szpitala Medicover przy al. Rzeczpospolitej w Warszawie realizuje projekt wspÃ³Åfinansowany ze ÅrodkÃ³w Unii Europejskiej w ramach Krajowego Planu Odbudowy i ZwiÄkszania OdpornoÅci (KPO). Inwestycja dotyczy rozwoju infrastruktury oraz doposaÅ¼enia w obszarze diagnostyki i leczenia chorÃ³b ukÅadu krÄ Å¼enia."
-    },
-    {
-      "title": "Mit o ośmiu szklankach wody wciąż żywy. Uczeni tłumaczą, ile to optymalna objętość - Żywienie Medonet",
-      "url": "https://zywienie.medonet.pl/produkty-spozywcze/napoje/osiem-szklanek-wody-to-mylaca-regula-zobacz-ile-naprawde-musisz-wypijac/yjzejk8",
-      "date": "2026-06-24T06:02:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "SÅyszysz zalecenie: \"pij osiem szklanek wody dziennie\", wypijasz tyle i sÄ dzisz, Å¼e to wystarczy? SpecjaliÅci podkreÅlajÄ , Å¼e organizm czÅowieka nie dziaÅa wedÅug jednej, uniwersalnej normy. A zasada oÅmiu szklanek to, jak siÄ okazuje, duÅ¼ym uproszczeniem."
-    },
-    {
-      "title": "Publikacje autora - lek. Katarzyna Nowik - Podyplomie.pl",
-      "url": "https://podyplomie.pl/autor/katarzyna-nowik",
-      "date": "2026-06-23T19:22:07Z",
-      "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
-      "summary": "lek. Katarzyna Nowik. 1 artykuł naukowy w serwisie Podyplomie.pl."
     }
   ],
   "world": [
@@ -274,6 +266,14 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dlaczego Afryka potrzebuje regionalnych ośrodków badawczo-rozwojowych w zakresie podstawowych badań naukowych i tłumaczeń, aby przyspieszyć lokalną produkcję."
+    },
+    {
+      "title": "Krótkoterminowa DAPT w celu zapobiegania okluzji przeszczepu żyły odpiszczelowej po CABG – lekarz NEJM",
+      "url": "https://clinician.nejm.org/short-term-dapt-prevent-saphenous-vein-graft-occlusion-cabg-CLINjwNA60227",
+      "date": "2026-06-24T08:30:15Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     },
     {
       "title": "Menedżer Portfolio Cyfrowego - Zastępca Architekta Rozwiązań - The BMJ",
@@ -362,14 +362,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Chirurgiczna analiza wideo zachowująca prywatność z uczeniem się roju — wyniki międzynarodowej kohorty wyrostka robaczkowego NEJM AI."
-    },
-    {
-      "title": "53-letnia kobieta z bólem ucha i osłabieniem twarzy – dowody NEJM",
-      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDmr2500144?query=recirc_crossjournalmorepubs",
-      "date": "2026-06-23T14:47:18Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "53-letnia kobieta z bólem ucha i osłabieniem twarzy Dowody NEJM."
     }
   ],
   "guidelines": [
@@ -424,6 +416,14 @@
       "summary": "Niniejszy raport stanowi podsumowanie konsultacji technicznych WHO skupionych na usprawnieniu badań przesiewowych noworodków, diagnozowaniu i leczeniu wad wrodzonych w ramach krajowych systemów opieki zdrowotnej w krajach o niskich i średnich dochodach (LMIC). W ramach inicjatywy, przeprowadzonej w latach 2024–2025 w ramach serii globalnych konsultacji, zbadano programy kierowane przez państwo i modele operacyjne opracowane przez wiodące kraje LMIC i wybrane kraje o wyższych średnich dochodach. W raporcie poruszono kwestię rosnącego udziału wad wrodzonych w śmiertelności i niepełnosprawności dzieci jako zakaźnych przyczyn spadku liczby zgonów, podkreślając potrzebę włączenia przez LMIC badań przesiewowych noworodków, diagnostyki, leczenia i opieki długoterminowej w przypadku jednego lub kilku priorytetowych schorzeń do rutynowych usług zdrowotnych i powszechnego ubezpieczenia zdrowotnego."
     },
     {
+      "title": "Szybki systematyczny przegląd klinicznych czynników ryzyka ciężkiego zakażenia wirusem Syncytialnego układu oddechowego u dorosłych skutkującego hospitalizacją, przyjęciem na oddział intensywnej terapii lub śmiercią - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/publications-data/rapid-systematic-review-clinical-risk-factors-severe-respiratory-syncytial-virus",
+      "date": "2026-06-23T12:58:47Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Celem tego szybkiego przeglądu systematycznego było zidentyfikowanie i ocena siły i spójności powiązań między klinicznymi czynnikami ryzyka a ciężkimi skutkami zakażenia RSV u dorosłych."
+    },
+    {
       "title": "Seminarium internetowe: Zwiększanie skali platformy globalnej: wspólna praca nad zmniejszeniem luki w przeżywalności nowotworów u dzieci poprzez zrównoważony dostęp do leków o gwarantowanej jakości – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/webinar-scaling-up-the-global-platform-working-together-to-close-the-childhood-cancer-survival-gap-through-sustainable-access-to-quality-assured-medicines",
       "date": "2026-06-23T12:07:27Z",
@@ -446,6 +446,14 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Urzędnicy Ministerstwa Zdrowia z Kenii, Malawi i Zambii dołączyli do ponad 80 zainteresowanych stron zajmujących się szczepionkami przeciw gruźlicy (TB), w tym osób, które przebyły gruźlicę oraz przedstawicieli społeczeństwa obywatelskiego, agencji technicznych i regulacyjnych, darczyńców i partnerów wykonawczych, aby przyspieszyć przygotowanie krajów do wprowadzenia nowych szczepionek przeciw gruźlicy, obecnie znajdujących się w fazie rozwoju klinicznego, dla dorosłych i młodzieży, podczas warsztatów zorganizowanych przez Światową Organizację Zdrowia (WHO) w Nairobi w Kenii w dniach 3–5 czerwca."
+    },
+    {
+      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 rok – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/publications-data/invasive-meningococcal-disease-annual-epidemiological-report-2024",
+      "date": "2026-06-23T08:46:01Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "W 2024 r. w 30 krajach Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) zgłoszono 2233 potwierdzonych przypadków inwazyjnej choroby meningokokowej (IMD), w tym 202 zgony."
     },
     {
       "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania osobami potencjalnie narażonymi na wirusa Andów — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -478,6 +486,14 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Uczestnicy wykonują górską pozę podczas Międzynarodowego Dnia Jogi, który odbędzie się 21 czerwca 2026 r. na terenie Palais des Nations w Genewie. © Stała Misja IndiiWHO obchodziła 12. Międzynarodowy Dzień Jogi w dniu 21 czerwca 2026 r. W tym roku Dzień Narodów Zjednoczonych poświęcony był tematowi „jogi dla zdrowego starzenia się”, uznając potencjalne korzyści płynące z uprawiania jogi w miarę starzenia się. Doktor Tedros Adhanom Ghebreyesus, dyrektor generalny WHO, udostępnił w niedzielę w mediach społecznościowych film: „W miarę jak ludzie żyją dłużej, naszym celem jest nie tylko więcej, ale i lepsze lata."
+    },
+    {
+      "title": "Wzmocnienie gotowości Europy na choroby przenoszone przez komary – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/news-events/strengthening-europes-preparedness-against-mosquito-borne-diseases",
+      "date": "2026-06-22T07:45:19Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Konferencja na temat chorób przenoszonych przez komary, zorganizowana przez cypryjską prezydencję Rady UE i Ministerstwo Zdrowia Cypru przy wsparciu ECDC, skupiała się na rosnącym wpływie takich chorób na zdrowie publiczne w Europie i omawiała wyzwania w zakresie zwalczania komarów."
     },
     {
       "title": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Modelowanie i prognozowanie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -538,9 +554,9 @@
       "summary": "Osoby zarządzające zapisami badań: w przypadku przesyłania informacji o rejestracji lub wynikach należy zapoznać się z definicjami elementów danych."
     },
     {
-      "title": "Szczegóły badania | NCT07661342 | Badanie DEPART w Yale – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07661342",
-      "date": "2026-06-22T07:00:00Z",
+      "title": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PSY w szwedzkiej praktyce (ALLERDOGSWEDEN) – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07651891",
+      "date": "2026-06-22T19:44:55Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Osoby zarządzające zapisami badań: w przypadku przesyłania informacji o rejestracji lub wynikach należy zapoznać się z definicjami elementów danych."
@@ -636,14 +652,6 @@
       "summary": "Etykiety i limity dotyczące terapii testosteronem mogą ulec zmianie zgodnie z propozycją FDA Drugs.com."
     },
     {
-      "title": "System oparty na AI-OCT Noninferior do wykrywania cukrzycowego obrzęku plamki - Drugs.com",
-      "url": "https://www.drugs.com/news/ai-oct-based-noninferior-diabetic-macular-edema-detection-130427.html",
-      "date": "2026-06-23T17:33:36Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "System oparty na AI-OCT Noninferior do wykrywania cukrzycowego obrzęku plamki Drugs.com."
-    },
-    {
       "title": "Zaktualizowane wytyczne dotyczące protokołów głównych amerykańskiej FDA obejmują szczegółowe plany komunikacji – Citeline News & Insights",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/updated-us-fda-master-protocols-guidance-includes-specific-communication-plans-ABG2XIJTCVCBTFL3U23FGS4PBU/",
       "date": "2026-06-23T17:21:33Z",
@@ -713,7 +721,7 @@
       "date": "2026-06-22T11:37:54Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Evrysdi – bezpośrednia komunikacja z pracownikami służby zdrowia (DHPC) Europejska Agencja Leków (EMA)."
+      "summary": "Niniejsza bezpośrednia komunikacja z pracownikami służby zdrowia (DHPC) zawiera ważne informacje dla pracowników służby zdrowia przepisujących, wydających lub podających leki. Zawiera także plan komunikacji ze szczegółami dotyczącymi przewidywanych odbiorców i datą rozpowszechnienia."
     },
     {
       "title": "Definium donosi, że trafienie fazy 3 leku LSD w ciężkiej postaci depresji – Endpoints News",
@@ -816,12 +824,12 @@
       "summary": "Urzędnicy Ministerstwa Zdrowia z Kenii, Malawi i Zambii dołączyli do ponad 80 zainteresowanych stron zajmujących się szczepionkami przeciw gruźlicy (TB), w tym osób, które przebyły gruźlicę oraz przedstawicieli społeczeństwa obywatelskiego, agencji technicznych i regulacyjnych, darczyńców i partnerów wykonawczych, aby przyspieszyć przygotowanie krajów do wprowadzenia nowych szczepionek przeciw gruźlicy, obecnie znajdujących się w fazie rozwoju klinicznego, dla dorosłych i młodzieży, podczas warsztatów zorganizowanych przez Światową Organizację Zdrowia (WHO) w Nairobi w Kenii w dniach 3–5 czerwca."
     },
     {
-      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-06-22T19:25:07Z",
-      "source": "CDC Outbreaks",
+      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 rok – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/publications-data/invasive-meningococcal-disease-annual-epidemiological-report-2024",
+      "date": "2026-06-23T08:46:01Z",
+      "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
+      "summary": "W 2024 r. w 30 krajach Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) zgłoszono 2233 potwierdzonych przypadków inwazyjnej choroby meningokokowej (IMD), w tym 202 zgony."
     }
   ]
 }
