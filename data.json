@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-24T21:08:17Z",
+  "last_updated": "2026-06-24T21:08:58Z",
   "poland": [
+    {
+      "title": "Wyszukiwarka tagów - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/wyszukiwarka-tagow/nowy-model-opieki-czp,4397.html",
+      "date": "2026-06-24T19:00:01Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Wyszukiwarka tagów Narodowy Fundusz Zdrowia (NFZ)."
+    },
     {
       "title": "Zdrowe warzywa, zaskakujący efekt. 278 tys. zgonów rocznie - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zdrowe-warzywa-zaskakujacy-efekt-278-tys-zgonow-rocznie,285873,11.html",
@@ -216,14 +224,6 @@
       "source": "Medycyna po Dyplomie",
       "confirmed_by": 1,
       "summary": "lek. Katarzyna Nowik. 1 artykuł naukowy w serwisie Podyplomie.pl."
-    },
-    {
-      "title": "Okulistyka po Dyplomie numery archiwalne czasopisma, strona 4 - Podyplomie.pl",
-      "url": "http://podyplomie.pl/czasopisma/okulistyka-po-dyplomie/archiwalne-numery/4",
-      "date": "2026-06-23T17:46:35Z",
-      "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
-      "summary": "Okulistyka po Dyplomie numery archiwalne czasopisma, strona 4 Podyplomie.pl."
     }
   ],
   "world": [
@@ -234,6 +234,14 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
+    },
+    {
+      "title": "Diagnostyka obwodu szyi w wykrywaniu stłuszczeniowej choroby wątroby u dorosłych: przegląd systematyczny i protokół metaanalizy - BMJ Open",
+      "url": "https://bmjopen.bmj.com/content/16/6/e117491",
+      "date": "2026-06-24T15:14:11Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Wprowadzenie Stłuszczeniowa choroba wątroby (SLD), zwłaszcza jej formy metaboliczne (stłuszczeniowe zapalenie wątroby związane z dysfunkcjami metabolicznymi i stłuszczeniowe zapalenie wątroby związane z dysfunkcjami metabolicznymi), są bardzo rozpowszechnione na całym świecie, lecz pozostają w znacznym stopniu niedodiagnozowane. Obwód szyi (NC) jest prostą miarą antropometryczną odzwierciedlającą otyłość górnej części ciała i ryzyko kardiometaboliczne i jest coraz częściej badany jako potencjalne narzędzie do badań przesiewowych lub oceny ryzyka SLD. Jednakże istniejące dowody są niejednorodne i w żadnej kompleksowej metaanalizie nie dokonano syntezy skuteczności diagnostycznej NC w wykrywaniu SLD."
     },
     {
       "title": "Notatka do wycofania: Immunochemioterapia o określonej porze dnia w niedrobnokomórkowym raku płuca: randomizowane badanie III fazy - Nature",
@@ -274,22 +282,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dlaczego Afryka potrzebuje regionalnych ośrodków badawczo-rozwojowych w zakresie podstawowych badań naukowych i tłumaczeń, aby przyspieszyć lokalną produkcję."
-    },
-    {
-      "title": "Krótkoterminowa DAPT w celu zapobiegania okluzji przeszczepu żyły odpiszczelowej po CABG – klinicysta NEJM",
-      "url": "https://clinician.nejm.org/short-term-dapt-prevent-saphenous-vein-graft-occlusion-cabg-CLINjwNA60227",
-      "date": "2026-06-24T08:30:15Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
-    },
-    {
-      "title": "Menedżer Portfolio Cyfrowego - Zastępca Architekta Rozwiązań - The BMJ",
-      "url": "https://www.bmj.com/healthcareers/job/823010/digital-portfolio-manager-deputy-solutions-architect/",
-      "date": "2026-06-24T06:16:58Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Humber Health Partnership wdraża nowy, ważny elektroniczny rekord pacjenta (EPR), który przekształci cyfrową opiekę w naszych szpitalach i usługach..."
     },
     {
       "title": "FDA rezygnuje z egzekwowania przepisów wobec Whoop po ulepszeniu funkcji pomiaru ciśnienia krwi – statnews.com",
@@ -356,20 +348,20 @@
       "summary": "Dowody na medycynę opartą na faktach — wezwanie do teorii i nowy problem Dowody NEJM."
     },
     {
+      "title": "Zautomatyzowane monitorowanie procesów klinicznych i operacyjnych - BMJ Health & Care Informatics",
+      "url": "https://informatics.bmj.com/content/33/1/e102219",
+      "date": "2026-06-23T15:43:28Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Automatyzację w opiece zdrowotnej często postrzega się w kontekście wydajności. Te dwa artykuły Editors’ Choice sugerują ważniejszą rolę: poprawę spójności, wierności i przydatności klinicznej danych. W BMJ Health & Care Informatics Slattery i wsp.1 oraz Loo i wsp.2 badają zautomatyzowane monitorowanie w dwóch bardzo różnych miejscach – na oddziale intensywnej terapii noworodków (NICU) i na sali operacyjnej – ale dochodzą do podobnych wniosków."
+    },
+    {
       "title": "Badanie dotyczące szczepionki przeciwko COVID, którego CDC nie chce, abyś oglądał – Medscape",
       "url": "https://www.medscape.com/viewarticle/covid-vaccine-study-cdc-doesnt-want-you-see-2026a1000l3b",
       "date": "2026-06-23T15:12:29Z",
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Przełożeni w CDC zablokowali publikację badania skuteczności szczepionki przeciwko Covid-19, powołując się na słabości metodologiczne. Teraz badanie zostało opublikowane i każdy może je przeczytać."
-    },
-    {
-      "title": "Chirurgiczna analiza wideo zapewniająca ochronę prywatności z uczeniem się roju — wyniki międzynarodowej kohorty wyrostka robaczkowego - NEJM AI",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2501116?query=recirc_crossjournalmorepubs",
-      "date": "2026-06-23T14:47:19Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Chirurgiczna analiza wideo zachowująca prywatność z uczeniem się roju — wyniki międzynarodowej kohorty wyrostka robaczkowego NEJM AI."
     }
   ],
   "guidelines": [
@@ -506,6 +498,14 @@
   ],
   "clinical_trials": [
     {
+      "title": "Szczegóły badania | NCT07663110 | Walka z opornością i ekonomika opieki zdrowotnej poprzez badania przesiewowe CPE – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07663110",
+      "date": "2026-06-24T08:08:15Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07663110 | Walka z opornością i ekonomika opieki zdrowotnej poprzez badania przesiewowe CPE ClinicalTrials.gov."
+    },
+    {
       "title": "Szczegóły badania | NCT07662512 | Różne stężenia ozonu w chorobie zwyrodnieniowej stawu kolanowego – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07662512",
       "date": "2026-06-24T06:51:58Z",
@@ -544,14 +544,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07661524 | Muzykoterapia pasywna a aktywna Choroba Parkinsona ClinicalTrials.gov."
-    },
-    {
-      "title": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PSY w szwedzkiej praktyce (ALLERDOGSWEDEN) – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07651891",
-      "date": "2026-06-22T19:44:55Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PSA w szwedzkiej praktyce (ALLERDOGSWEDEN) ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07661342 | Badanie DEPART w Yale – ClinicalTrials.gov",
