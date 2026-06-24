@@ -35,7 +35,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Seminarium internetowe WHO dotyczące sytuacji nadzwyczajnych w zakresie zdrowia EPI-WIN: Bezpieczna, skalowalna opieka nad wirusem Ebola (Bundibugyo) w Demokratycznej Republice Konga: operacje, wytyczne kliniczne i projekt ośrodka leczniczego",
+    "title": "Seminarium internetowe WHO dotyczące sytuacji kryzysowych EPI-WIN: Bezpieczna, skalowalna opieka nad wirusem Ebola (Bundibugyo) w Demokratycznej Republice Konga: operacje, wytyczne kliniczne i projekt ośrodka leczniczego",
     "title_original": "WHO Health Emergencies EPI-WIN webinar: Safe, scalable Ebola (Bundibugyo) care in DR Congo: operations, clinical guidelines and treatment-centre design",
     "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/who-health-emergencies-epi-win-webinar-safe-scalable-ebola-(bundibugyo)-care-in-dr-congo--operations-clinical-guidelines-and-treatment-centre-design",
     "date": "2026-06-24 13:00",
@@ -48,7 +48,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Seminarium internetowe WHO dotyczące sytuacji kryzysowych EPI-WIN: Bezpieczna, skalowalna opieka nad wirusem Ebola (Bundibugyo) w Demokratycznej Republice Konga: operacje, wytyczne kliniczne i projekt ośrodka leczniczego",
+    "title": "Seminarium internetowe WHO dotyczące sytuacji nadzwyczajnych w zakresie zdrowia EPI-WIN: Bezpieczna, skalowalna opieka nad wirusem Ebola (Bundibugyo) w Demokratycznej Republice Konga: operacje, wytyczne kliniczne i projekt ośrodka leczniczego",
     "title_original": "WHO Health Emergencies EPI-WIN webinar: Safe, scalable Ebola (Bundibugyo) care in DR Congo: operations, clinical guidelines and treatment-centre design",
     "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/who-health-emergencies-epi-win-webinar-safe-scalable-ebola-(bundibugyo)-care-in-dr-congo--operations-clinical-guidelines-and-treatment-centre-design",
     "date": "2026-06-24 13:00",
@@ -122,15 +122,6 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Biblioteka obrazów zdrowia publicznego (PHIL)",
-    "title_original": "Public Health Image Library (PHIL)",
-    "url": "https://wwwn.cdc.gov/phil/Details.aspx?pid=6114",
-    "date": "2026-06-24 11:23",
-    "summary": "Szczegóły — Biblioteka obrazów zdrowia publicznego (PHIL)",
-    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-    "specializations": []
-  },
-  {
     "title": "Angiostrongylus cantonensis szczurzy robak płucny wykryty u szczurów, Madagaskar, lata 2022–2023",
     "title_original": "Angiostrongylus cantonensis Rat Lungworm Detected in Rats, Madagascar, 2022–2023",
     "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0142",
@@ -155,7 +146,7 @@
     "title_original": "BCG enables protection against malaria through adjuvanting an adenovirus-vectored vaccine",
     "url": "https://www.nature.com/articles/s41541-026-01506-9",
     "date": "2026-06-24 06:37",
-    "summary": "Szczepienie BCG przeciwko gruźlicy może również zmniejszyć częstość występowania malarii poprzez nieswoistą wrodzoną aktywację immunologiczną. Zbadaliśmy, czy podawanie BCG razem ze szczepionką przeciwko malarii wektorem adenowirusowym poprawia ochronę myszy przed malarią. Koimmunizacja poszerzyła i wzmocniła wczesne wrodzone odpowiedzi cytokin, umożliwiając silną ochronę zależną od limfocytów T CD8+. Nasze odkrycia sugerują, że współimmunizacja BCG i wektorem adenowirusowym jest obiecującą strategią zwalczania zarówno gruźlicy, jak i malarii w regionach podwójnie endemicznych.",
+    "summary": "Szczepienie BCG przeciwko gruźlicy może również zmniejszyć częstość występowania malarii poprzez nieswoistą wrodzoną aktywację immunologiczną. Zbadaliśmy, czy podawanie BCG wraz ze szczepionką przeciwko malarii wektorem adenowirusowym poprawia ochronę myszy przed malarią. Koimmunizacja poszerzyła i wzmocniła wczesne wrodzone odpowiedzi cytokin, umożliwiając silną ochronę zależną od limfocytów T CD8+. Nasze odkrycia sugerują, że współimmunizacja BCG i wektorem adenowirusowym jest obiecującą strategią zwalczania zarówno gruźlicy, jak i malarii w regionach podwójnie endemicznych.",
     "source": "Nature",
     "specializations": [
       "Choroby zakaźne"
@@ -174,7 +165,25 @@
     ]
   },
   {
-    "title": "Szybki, systematyczny przegląd klinicznych czynników ryzyka ciężkiego zakażenia wirusem Syncytial układu oddechowego u dorosłych skutkującego hospitalizacją",
+    "title": "Objawy Powassana",
+    "title_original": "Symptoms of Powassan",
+    "url": "https://www.cdc.gov/powassan/signs-symptoms/index.html",
+    "date": "2026-06-24 03:05",
+    "summary": "Objawy Powassana obejmują gorączkę, ból głowy, osłabienie i inne. Skonsultuj się z lekarzem w celu postawienia diagnozy.",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "specializations": []
+  },
+  {
+    "title": "Zespół badawczy I-MOVE-COVID-19 w szpitalu – Eurosurveillance",
+    "title_original": "I-MOVE-COVID-19 hospital study team - Eurosurveillance",
+    "url": "https://www.eurosurveillance.org/search?value1=I-MOVE-COVID-19+hospital+study+team&option1=author&noRedirect=true",
+    "date": "2026-06-24 00:58",
+    "summary": "",
+    "source": "Eurosurveillance",
+    "specializations": []
+  },
+  {
+    "title": "Szybki systematyczny przegląd klinicznych czynników ryzyka ciężkiego zakażenia wirusem Syncytial układu oddechowego u dorosłych skutkującego hospitalizacją",
     "title_original": "Rapid systematic review of clinical risk factors for severe Respiratory Syncytial Virus infection in adults resulting in hospitalisation",
     "url": "https://www.ecdc.europa.eu/sites/default/files/documents/rapid-systematic-review-RSV-infection.pdf",
     "date": "2026-06-24 00:11",
@@ -186,7 +195,7 @@
     ]
   },
   {
-    "title": "Szybki systematyczny przegląd klinicznych czynników ryzyka ciężkiego zakażenia wirusem Syncytial układu oddechowego u dorosłych skutkującego hospitalizacją",
+    "title": "Szybki, systematyczny przegląd klinicznych czynników ryzyka ciężkiego zakażenia wirusem Syncytial układu oddechowego u dorosłych skutkującego hospitalizacją",
     "title_original": "Rapid systematic review of clinical risk factors for severe Respiratory Syncytial Virus infection in adults resulting in hospitalisation",
     "url": "https://www.ecdc.europa.eu/sites/default/files/documents/rapid-systematic-review-RSV-infection.pdf",
     "date": "2026-06-24 00:11",
@@ -253,15 +262,6 @@
     "title_original": "Franco Pagotto - Eurosurveillance",
     "url": "https://www.eurosurveillance.org/search?value1=Franco+Pagotto&option1=author&noRedirect=true",
     "date": "2026-06-23 19:42",
-    "summary": "",
-    "source": "Eurosurveillance",
-    "specializations": []
-  },
-  {
-    "title": "Victor M. Corman – Euronadzór",
-    "title_original": "Victor M Corman - Eurosurveillance",
-    "url": "https://www.eurosurveillance.org/search?value1=Victor+M+Corman&option1=author&noRedirect=true",
-    "date": "2026-06-23 19:38",
     "summary": "",
     "source": "Eurosurveillance",
     "specializations": []
@@ -617,7 +617,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Doustna szczepionka przeciwko polio Stan nieznany. Faza 4. Badania kliniczne dla niemowląt / noworodków / zachorowań",
+    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorowalności",
     "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
     "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
     "date": "2026-06-22 17:29",
@@ -629,7 +629,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorowalności",
+    "title": "Doustna szczepionka przeciwko polio Stan nieznany. Faza 4. Badania kliniczne dla niemowląt / noworodków / zachorowań",
     "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
     "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
     "date": "2026-06-22 17:29",
@@ -769,7 +769,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Na wypadek, gdybyś to przeoczył: amerykańska FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
+    "title": "Na wypadek, gdybyś to przeoczył: amerykańska agencja FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
     "title_original": "In Case You Missed It: US FDA Adcomm OKs Moderna Flu Vaccine, BIO Preview And More",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/vaccines/in-case-you-missed-it-us-fda-adcomm-oks-moderna-flu-vaccine-bio-preview-and-more-BJPBEA4FCFDWTN3P35Y2QN6QZU/",
     "date": "2026-06-21 16:00",
@@ -779,7 +779,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Na wypadek, gdybyś to przeoczył: amerykańska agencja FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
+    "title": "Na wypadek, gdybyś to przeoczył: amerykańska FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
     "title_original": "In Case You Missed It: US FDA Adcomm OKs Moderna Flu Vaccine, BIO Preview And More",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/vaccines/in-case-you-missed-it-us-fda-adcomm-oks-moderna-flu-vaccine-bio-preview-and-more-BJPBEA4FCFDWTN3P35Y2QN6QZU/",
     "date": "2026-06-21 16:00",
