@@ -1,19 +1,883 @@
 {
-  "last_updated": "2026-06-24T20:45:30Z",
-  "poland": [],
-  "world": [],
-  "guidelines": [],
-  "epidemiology": [],
-  "clinical_trials": [],
-  "pharma_market": [],
-  "critical_alerts": [
+  "last_updated": "2026-06-24T20:45:57Z",
+  "poland": [
     {
-      "title": "Sytuacja stabilna - brak nowych alertów medycznych",
-      "summary": "",
-      "url": "",
-      "source": "",
-      "date": "2026-06-24T20:45:30Z"
+      "title": "Wyszukiwarka tagów - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/wyszukiwarka-tagow/nowy-model-opieki-czp,4397.html",
+      "date": "2026-06-24T19:00:01Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Wyszukiwarka tagów Narodowy Fundusz Zdrowia (NFZ)."
+    },
+    {
+      "title": "Zdrowe warzywa, zaskakujący efekt. 278 tys. zgonów rocznie - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zdrowe-warzywa-zaskakujacy-efekt-278-tys-zgonow-rocznie,285873,11.html",
+      "date": "2026-06-24T18:30:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Zdrowe warzywa, zaskakujący efekt. 278 tys. zgonów rocznie Rynek Zdrowia."
+    },
+    {
+      "title": "Programy profilaktyczne - Gdzie się leczyć - NFZ - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://gsl.nfz.gov.pl/GSL/GSL/ProgramyProfilaktyczne",
+      "date": "2026-06-24T18:24:38Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Programy profilaktyczne - Gdzie się leczyć - NFZ Narodowy Fundusz Zdrowia (NFZ)."
+    },
+    {
+      "title": "Leczenie ran i oparzeń w gabinecie lekarza rodzinnego - TRANSMISJA VIP | Webinar - Termedia",
+      "url": "https://www.termedia.pl/Konferencja-Leczenie-ran-i-oparzen-w-TRANSMISJA-VIP,3040,45353.html",
+      "date": "2026-06-24T18:00:08Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Leczenie ran i oparzeń w gabinecie lekarza rodzinnego - TRANSMISJA VIP | Webinar Termedia."
+    },
+    {
+      "title": "Gdzie się leczyć - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://gsl.nfz.gov.pl/",
+      "date": "2026-06-24T17:50:33Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Gdzie się leczyć Narodowy Fundusz Zdrowia (NFZ)."
+    },
+    {
+      "title": "GSL - Gdzie się leczyć - NFZ - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://gsl.nfz.gov.pl/GSL/",
+      "date": "2026-06-24T17:15:17Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "GSL - Gdzie się leczyć - NFZ Narodowy Fundusz Zdrowia (NFZ)."
+    },
+    {
+      "title": "wyszukiwarki NFZ - Gdzie się leczyć - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://gsl.nfz.gov.pl/GSL/GSL/POZ",
+      "date": "2026-06-24T17:11:16Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "wyszukiwarki NFZ - Gdzie się leczyć Narodowy Fundusz Zdrowia (NFZ)."
+    },
+    {
+      "title": "Kiedy poznamy wyniki kontroli SOR-ów? Oświadczenie konsultanta krajowego - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Prawo/Kiedy-poznamy-wyniki-kontroli-SOR-ow-Oswiadczenie-konsultanta-krajowego,285870,2.html",
+      "date": "2026-06-24T17:00:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Kiedy poznamy wyniki kontroli SOR-ów? Oświadczenie konsultanta krajowego Rynek Zdrowia."
+    },
+    {
+      "title": "Przełom w rokowaniu SMA. Prof. Kotulska: najmłodsze dzieci rozwijają się niemal prawidłowo. A starsi pacjenci? - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/medycyna/neurologia/przelom-w-rokowaniu-sma-prof-kotulska-najmlodsze-dzieci-rozwijaja-sie-niemal-prawidlowo-a-starsi-pacjenci/",
+      "date": "2026-06-24T16:51:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Przełom w rokowaniu SMA. Prof. Kotulska: najmłodsze dzieci rozwijają się niemal prawidłowo."
+    },
+    {
+      "title": "32 postępowania i 12 zgonów. Prokuratura ujawnia skalę spraw w Szpitalu Południowym - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Prawo/32-postepowania-i-12-zgonow-Prokuratura-ujawnia-skale-spraw-w-Szpitalu-Poludniowym,285866,2.html",
+      "date": "2026-06-24T15:55:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "32 postępowania i 12 zgonów. Prokuratura ujawnia skalę spraw w Szpitalu Południowym Rynek Zdrowia."
+    },
+    {
+      "title": "Stanowisko Minister Zdrowia - Gov.pl",
+      "url": "https://www.gov.pl/web/zdrowie/stanowisko-minister-zdrowia",
+      "date": "2026-06-24T14:41:43Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Stanowisko Minister Zdrowia Gov.pl."
+    },
+    {
+      "title": "Stanowisko Konsultanta Krajowego w dziedzinie Medycyny Ratunkowej prof. dr hab. med. Jerzego Roberta Ładnego dot. kontroli w SOR Szpitala Południowego i Bródnowskiego w Warszawie - Gov.pl",
+      "url": "https://www.gov.pl/web/zdrowie/stanowisko-konsultanta-krajowego-w-dziedzinie-medycyny-ratunkowej-prof-dr-hab-med-jerzego-roberta-ladnego-dot-kontroli-w-sor-szpitala-poludniowego-i-brodnowskiego-w-warszawie",
+      "date": "2026-06-24T14:36:43Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Stanowisko Konsultanta Krajowego w dziedzinie Medycyny Ratunkowej prof. dr hab. med."
+    },
+    {
+      "title": "Zarządzenie nr 60/2026/DSOZ - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/zarzadzenia-prezesa-nfz/zarzadzenie-nr-602026dsoz,7947.html",
+      "date": "2026-06-24T14:29:03Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Zarządzenie nr 60/2026/DSOZ Narodowy Fundusz Zdrowia (NFZ)."
+    },
+    {
+      "title": "Informacja dot. zleconej kontroli SOR Warszawskiego Szpitala Południowego sp. z o.o. i SOR Mazowieckiego Szpitala Bródnowskiego sp. z o.o. - Gov.pl",
+      "url": "https://www.gov.pl/web/zdrowie/informacja-dot-zleconej-kontroli-sor-warszawskiego-szpitala-poludniowego-sp-z-oo-i-sor-mazowieckiego-szpitala-brodnowskiego-sp-z-oo",
+      "date": "2026-06-24T14:21:43Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Informacja dot. zleconej kontroli SOR Warszawskiego Szpitala Południowego sp. z o.o."
+    },
+    {
+      "title": "W Elblągu neurochirurdzy usunęli rozległego guza przysadki - Podyplomie.pl",
+      "url": "https://www.podyplomie.pl/aktualnosci/w-elblagu-neurochirurdzy-usuneli-rozleglego-guza-przysadki",
+      "date": "2026-06-24T14:02:00Z",
+      "source": "Medycyna po Dyplomie",
+      "confirmed_by": 1,
+      "summary": "W Elblągu neurochirurdzy usunęli rozległego guza przysadki Podyplomie.pl."
+    },
+    {
+      "title": "Premier: partnerem do rozmów z NIL jest MZ - Z kraju - Kurier - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/kurier/442296,premier-partnerem-do-rozmow-z-nil-jest-mz",
+      "date": "2026-06-24T13:55:01Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Premier: partnerem do rozmów z NIL jest MZ - Z kraju - Kurier Medycyna Praktyczna."
+    },
+    {
+      "title": "Postępowanie dietetyczne u osób z cukrzycą typu 1 uprawiających sport - Artykuły - Insulinoterapia - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/insulinoterapia/artykuly/442268,postepowanie-dietetyczne-u-osob-z-cukrzyca-typu-1-uprawiajacych-sport",
+      "date": "2026-06-24T13:24:46Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Postępowanie dietetyczne u osób z cukrzycą typu 1 uprawiających sport - Artykuły - Insulinoterapia Medycyna Praktyczna."
+    },
+    {
+      "title": "Petycja z 18 czerwca w sprawie podjęcia prac legislacyjnych i organizacyjnych zmierzających do włączenia medycyny pracy do publicznego systemu opieki zdrowotnej - Gov.pl",
+      "url": "https://www.gov.pl/web/zdrowie/petycja-z-18-czerwca-w-sprawie-podjecia-prac-legislacyjnych-i-organizacyjnych-zmierzajacych-do-wlaczenia-medycyny-pracy-do-publicznego-systemu-opieki-zdrowotnej",
+      "date": "2026-06-24T13:09:08Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Petycja z 18 czerwca w sprawie podjęcia prac legislacyjnych i organizacyjnych zmierzających do włączenia medycyny pracy do publicznego systemu opieki zdrowotnej Gov.pl."
+    },
+    {
+      "title": "Zdrowie kobiet – jak skutecznie leczyć nowotwory ginekologiczne ► - Termedia",
+      "url": "https://www.termedia.pl/mz/Zdrowie-kobiet-jak-skutecznie-leczyc-nowotwory-ginekologiczne-,67844.html",
+      "date": "2026-06-24T12:47:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Zdrowie kobiet – jak skutecznie leczyć nowotwory ginekologiczne ► Termedia."
+    },
+    {
+      "title": "Nabór wniosków o udzielenie grantów w projekcie „Dostępna stomatologia” - Gov.pl",
+      "url": "https://www.gov.pl/web/zdrowie/nabor-wnioskow-o-udzielenie-grantow-w-projekcie-dostepna-stomatologia2",
+      "date": "2026-06-24T11:32:15Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Nabór wniosków o udzielenie grantów w projekcie „Dostępna stomatologia” Gov.pl."
+    },
+    {
+      "title": "Komunikat Ministra Zdrowia w sprawie preskrypcji leków refundowanych zawierających dapagliflozynę - Gov.pl",
+      "url": "https://www.gov.pl/web/zdrowie/komunikat-ministra-zdrowia-w-sprawie-preskrypcji-lekow-refundowanych-zawierajacych-dapagliflozyne",
+      "date": "2026-06-24T11:14:07Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Komunikat Ministra Zdrowia w sprawie preskrypcji leków refundowanych zawierających dapagliflozynę Gov.pl."
+    },
+    {
+      "title": "Populacyjny przesiew pod kątem alergii, Krajowa Sieć Alergologiczna? Ekspert: alergologia powinna być w systemie priorytetem - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/medycyna/alergologia/populacyjny-przesiew-pod-katem-alergii-krajowa-siec-alergologiczna-ekspert-alergologia-powinna-byc-w-systemie-priorytetem",
+      "date": "2026-06-24T10:38:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Populacyjny przesiew pod kątem alergii, Krajowa Sieć Alergologiczna? Ekspert: alergologia powinna być w systemie priorytetem Puls Medycyny."
+    },
+    {
+      "title": "Kryteria Rzymskie V w praktyce lekarza - najważniejsze zmiany i ich znaczenie kliniczne - Intro | Webinar - Termedia",
+      "url": "https://www.termedia.pl/Konferencja-Kryteria-Rzymskie-V-w-praktyce-Intro,3050,45334.html",
+      "date": "2026-06-24T09:45:06Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Kryteria Rzymskie V w praktyce lekarza - najważniejsze zmiany i ich znaczenie kliniczne - Intro | Webinar Termedia."
+    },
+    {
+      "title": "A jednak dymisja minister zdrowia? - Termedia",
+      "url": "https://www.termedia.pl/mz/A-jednak-dymisja-minister-zdrowia-,67838.html",
+      "date": "2026-06-24T09:00:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "A jednak dymisja minister zdrowia? Termedia."
+    },
+    {
+      "title": "Moje Zdrowie - Pacjent gov",
+      "url": "https://pacjent.gov.pl/node/7134",
+      "date": "2026-06-24T08:44:50Z",
+      "source": "Internetowe Konto Pacjenta",
+      "confirmed_by": 1,
+      "summary": "Moje Zdrowie Pacjent gov."
+    },
+    {
+      "title": "Cukrzyca ciążowa a programowanie metaboliczne - Termedia",
+      "url": "https://www.termedia.pl/mz/Cukrzyca-ciazowa-a-programowanie-metaboliczne,67832.html",
+      "date": "2026-06-24T08:22:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Cukrzyca ciążowa a programowanie metaboliczne Termedia."
+    },
+    {
+      "title": "Opieka alergologiczna to kluczowa opieka. Trwają obchody Światowego Tygodnia Alergii. - Medonet",
+      "url": "https://www.medonet.pl/zdrowie/opieka-alergologiczna-to-kluczowa-opieka-trwaja-obchody-swiatowego-tygodnia-alergii/qf41dm3",
+      "date": "2026-06-24T07:53:43Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Opieka alergologiczna to kluczowa opieka. Trwają obchody Światowego Tygodnia Alergii. Medonet."
+    },
+    {
+      "title": "Były ordynator ujawnia kulisy Szpitala Południowego. \"To skutkowało nawet śmiercią chorych\" - Medonet",
+      "url": "https://www.medonet.pl/zdrowie/wiadomosci/szpital-poludniowy-pod-lupa-prokuratury-o-tym-wie-caly-szpital/44x36j5",
+      "date": "2026-06-24T07:34:58Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Były ordynator ujawnia kulisy Szpitala Południowego. \"To skutkowało nawet śmiercią chorych\" Medonet."
+    },
+    {
+      "title": "Rozwój Kliniki Kardiologii Szpitala Medicover w Warszawie dzięki wsparciu z KPO - Medonet",
+      "url": "https://www.medonet.pl/zdrowie/rozwoj-kliniki-kardiologii-szpitala-medicover-w-warszawie-dzieki-wsparciu-z-kpo/z9bwhs5",
+      "date": "2026-06-24T06:11:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Rozwój Kliniki Kardiologii Szpitala Medicover w Warszawie dzięki wsparciu z KPO Medonet."
     }
   ],
-  "daily_top5": []
+  "world": [
+    {
+      "title": "Korekta wydawcy: Doustny małocząsteczkowy agonista receptora GLP-1, aleniglipron u osób z nadwagą lub otyłością: randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 2b - Nature",
+      "url": "https://www.nature.com/articles/s41591-026-04532-1",
+      "date": "2026-06-24T18:56:53Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Korekta wydawcy: Doustny małocząsteczkowy agonista receptora GLP-1, aleniglipron u osób z nadwagą lub otyłością: randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 2b Nature."
+    },
+    {
+      "title": "Notatka do wycofania: Immunochemioterapia o określonej porze dnia w niedrobnokomórkowym raku płuca: randomizowane badanie III fazy - Nature",
+      "url": "https://www.nature.com/articles/s41591-026-04508-1",
+      "date": "2026-06-24T15:09:29Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Uwaga do wycofania: Immunochemioterapia prowadzona w ciągu dnia w niedrobnokomórkowym raku płuc: randomizowane badanie fazy 3 Nature."
+    },
+    {
+      "title": "655 milionów ludzi nadal żyjących bez prądu podkreśla pilną potrzebę osiągnięcia celu dotyczącego powszechnego dostępu do energii – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target",
+      "date": "2026-06-24T12:08:26Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "655 milionów ludzi w dalszym ciągu żyjących bez prądu podkreśla pilną potrzebę osiągnięcia celu dotyczącego powszechnego dostępu do energii Światowej Organizacji Zdrowia (WHO)."
+    },
+    {
+      "title": "Przedsięwzięcie okulistyczne przyciąga uwagę inwestorów i zbiera 330 milionów dolarów – statnews.com",
+      "url": "https://www.statnews.com/2026/06/24/ophthalmology-biotech-ollin-biosciences/",
+      "date": "2026-06-24T11:04:40Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Przedsięwzięcie okulistyczne przyciąga uwagę inwestorów i zbiera 330 milionów dolarów statnews.com."
+    },
+    {
+      "title": "Zautomatyzowana ponowna analiza danych genomicznych na potrzeby diagnostyki chorób rzadkich na dużą skalę – Natura",
+      "url": "https://www.nature.com/articles/s41591-026-04477-5",
+      "date": "2026-06-24T09:54:46Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Zautomatyzowana ponowna analiza danych genomicznych na potrzeby diagnostyki chorób rzadkich na dużą skalę."
+    },
+    {
+      "title": "Inspirowanie, kształtowanie i utrzymywanie afrykańskiego programu badań i rozwoju - Natura",
+      "url": "https://www.nature.com/articles/s41591-026-04480-w",
+      "date": "2026-06-24T09:32:49Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Inspirowanie, kształtowanie i utrzymywanie afrykańskiego programu badań i rozwoju Natura."
+    },
+    {
+      "title": "Menedżer Portfolio Cyfrowego - Zastępca Architekta Rozwiązań - The BMJ",
+      "url": "https://www.bmj.com/healthcareers/job/823010/digital-portfolio-manager-deputy-solutions-architect/",
+      "date": "2026-06-24T06:16:58Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Menedżer Portfolio Cyfrowego - Zastępca Architekta Rozwiązań The BMJ."
+    },
+    {
+      "title": "FDA rezygnuje z egzekwowania przepisów wobec Whoop po ulepszeniu funkcji pomiaru ciśnienia krwi – statnews.com",
+      "url": "https://www.statnews.com/2026/06/23/fda-drops-enforcement-against-wearable-maker-whoop/",
+      "date": "2026-06-23T23:39:32Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "FDA rezygnuje z egzekwowania prawa przeciwko Whoop po wprowadzeniu zmian na stronie statnews.com dotyczącej ciśnienia krwi."
+    },
+    {
+      "title": "Bezpieczeństwo i skuteczność dziesięciu popularnych dodatków do zapłodnienia in vitro: przegląd systematyczny i metaanaliza - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00054-3/fulltext",
+      "date": "2026-06-23T22:33:06Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Bezpieczeństwo i skuteczność dziesięciu popularnych dodatków do zapłodnienia in vitro: przegląd systematyczny i metaanaliza The Lancet."
+    },
+    {
+      "title": "Ocena wspólnie zaprojektowanego zasobu na temat dodatków do zapłodnienia in vitro: randomizowane badanie internetowe z pojedynczą ślepą próbą prowadzone w grupach równoległych – The Lancet",
+      "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00114-7/fulltext",
+      "date": "2026-06-23T22:33:05Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Ocena wspólnie zaprojektowanego zasobu na temat dodatków do zapłodnienia in vitro: internetowe, równoległe, pojedynczo zaślepione, randomizowane badanie The Lancet."
+    },
+    {
+      "title": "Departament Sprawiedliwości ogłasza setki zarzutów w związku z wielomiliardowym zwalczaniem oszustw w służbie zdrowia – statnews.com",
+      "url": "https://www.statnews.com/2026/06/23/texas-doctor-charged-fraud-case-cms-health-care-crackdown/",
+      "date": "2026-06-23T21:27:35Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Departament Sprawiedliwości ogłasza setki zarzutów w związku z wielomiliardowymi oszustwami w służbie zdrowia, atakami na statnews.com."
+    },
+    {
+      "title": "Krew: dlaczego najstarsza próbka medycyny została niedoszacowana – Medscape",
+      "url": "https://www.medscape.com/viewarticle/blood-why-medicines-oldest-sample-has-been-underestimated-2026a1000l7z",
+      "date": "2026-06-23T20:15:15Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Krew: dlaczego najstarsza próbka medycyny została niedoceniona Medscape."
+    },
+    {
+      "title": "Przedziałowe współczynniki prawdopodobieństwa — odcienie szarości, gdziekolwiek się udam — dowód NEJM",
+      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDe2600145",
+      "date": "2026-06-23T16:59:35Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przedziałowe współczynniki prawdopodobieństwa — odcienie szarości, gdziekolwiek pójdę Dowody NEJM."
+    },
+    {
+      "title": "Ursodeoksycholan berberyny — wprowadzenie tradycyjnej medycyny chińskiej do naszego świata — dowody NEJM",
+      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDe2600088",
+      "date": "2026-06-23T16:29:55Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Ursodeoksycholan berberyny — wprowadzenie tradycyjnej medycyny chińskiej do naszego świata Dowody NEJM."
+    },
+    {
+      "title": "Dowody na medycynę opartą na faktach — wezwanie do teorii i nowy problem - Dowody NEJM",
+      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDe2500311",
+      "date": "2026-06-23T16:27:54Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Dowody na medycynę opartą na faktach — wezwanie do teorii i nowy problem Dowody NEJM."
+    },
+    {
+      "title": "Badanie dotyczące szczepionki przeciwko COVID, którego CDC nie chce, abyś oglądał – Medscape",
+      "url": "https://www.medscape.com/viewarticle/covid-vaccine-study-cdc-doesnt-want-you-see-2026a1000l3b",
+      "date": "2026-06-23T15:12:29Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Badanie szczepionki przeciwko COVID CDC nie chce, abyś oglądał Medscape."
+    },
+    {
+      "title": "Chirurgiczna analiza wideo zapewniająca ochronę prywatności z uczeniem się roju — wyniki międzynarodowej kohorty wyrostka robaczkowego - NEJM AI",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2501116?query=recirc_crossjournalmorepubs",
+      "date": "2026-06-23T14:47:19Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Chirurgiczna analiza wideo zachowująca prywatność z uczeniem się roju — wyniki międzynarodowej kohorty wyrostka robaczkowego NEJM AI."
+    },
+    {
+      "title": "53-letnia kobieta z bólem ucha i osłabieniem twarzy – dowody NEJM",
+      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDmr2500144?query=recirc_crossjournalmorepubs",
+      "date": "2026-06-23T14:47:18Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "53-letnia kobieta z bólem ucha i osłabieniem twarzy Dowody NEJM."
+    }
+  ],
+  "guidelines": [
+    {
+      "title": "Dziennik Ustaw 2026 r. poz. 828 - Dziennik Ustaw",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/828",
+      "date": "2026-06-23T22:59:25Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Dziennik Ustaw 2026 r. poz. 828 Dziennik Ustaw."
+    },
+    {
+      "title": "Dziennik Ustaw 2026 r. poz. 824 - Dziennik Ustaw",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/824",
+      "date": "2026-06-23T22:59:18Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Dziennik Ustaw 2026 r. poz. 824 Dziennik Ustaw."
+    },
+    {
+      "title": "Dziennik Ustaw 2026 r. poz. 829 - Dziennik Ustaw",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/829",
+      "date": "2026-06-23T22:58:49Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Dziennik Ustaw 2026 r. poz. 829 Dziennik Ustaw."
+    },
+    {
+      "title": "Publikacja wniosku o rejestrację oznaczenia geograficznego zgodnie z art. 15 ust. 4 rozporządzenia Parlamentu Europejskieg - EUR-Lex",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=OJ:C_202601038&qid=1776312068267",
+      "date": "2026-06-23T08:06:21Z",
+      "source": "EUR-Lex Health Law",
+      "confirmed_by": 1,
+      "summary": "Publikacja wniosku o rejestrację oznaczenia geograficznego zgodnie z art. 15 ust. 4 rozporządzenia Parlamentu Europejskieg EUR-Lex."
+    },
+    {
+      "title": "Dziennik Ustaw 2026 r. poz. 820 - Dziennik Ustaw",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/820",
+      "date": "2026-06-22T13:52:46Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Dziennik Ustaw 2026 r. poz. 820 Dziennik Ustaw."
+    },
+    {
+      "title": "Monitor Polski 2026 r. poz. 629 - Dziennik Ustaw",
+      "url": "https://dziennikustaw.gov.pl/MP/2026/629",
+      "date": "2026-06-22T10:54:33Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Monitor Polski 2026 r. poz. 629 Dziennik Ustaw."
+    },
+    {
+      "title": "Zgłoszenie zamiaru koncentracji (Sprawa M.12456 – PLD / NBIM / TARGET ASSET BÖNEN) - EUR-Lex",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=OJ:C_202603335",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "EUR-Lex Health Law",
+      "confirmed_by": 1,
+      "summary": "Zgłoszenie zamiaru koncentracji (Sprawa M.12456 – PLD / NBIM / TARGET ASSET BÖNEN) EUR-Lex."
+    },
+    {
+      "title": "NL - EUR-Lex - Unia Europejska - EUR-Lex",
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/SIG/?uri=OJ:C_202301640",
+      "date": "2026-06-22T01:06:58Z",
+      "source": "EUR-Lex Health Law",
+      "confirmed_by": 1,
+      "summary": "NL - EUR-Lex - Unia Europejska EUR-Lex."
+    }
+  ],
+  "epidemiology": [
+    {
+      "title": "655 milionów ludzi nadal żyjących bez prądu podkreśla pilną potrzebę osiągnięcia celu dotyczącego powszechnego dostępu do energii – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target",
+      "date": "2026-06-24T12:08:26Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "655 milionów ludzi w dalszym ciągu żyjących bez prądu podkreśla pilną potrzebę osiągnięcia celu dotyczącego powszechnego dostępu do energii Światowej Organizacji Zdrowia (WHO)."
+    },
+    {
+      "title": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0552",
+      "date": "2026-06-23T18:38:23Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Wzmocnienie potencjału w zakresie badań przesiewowych noworodków, diagnozowania i leczenia wad wrodzonych: konsultacje techniczne WHO w sprawie planowania i wdrażania usług zintegrowanych z krajowymi systemami opieki zdrowotnej w krajach o niskich i średnich dochodach – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/publications/i/item/9789240122086",
+      "date": "2026-06-23T16:09:45Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Wzmocnienie zdolności w zakresie badań przesiewowych noworodków, diagnozowania i leczenia wad wrodzonych: konsultacje techniczne WHO w sprawie planowania i wdrażania usług zintegrowanych z krajowymi systemami opieki zdrowotnej w krajach o niskim i średnim dochodzie Światowa Organizacja Zdrowia (WHO)."
+    },
+    {
+      "title": "Szybki systematyczny przegląd klinicznych czynników ryzyka ciężkiego zakażenia wirusem Syncytial układu oddechowego u dorosłych skutkującego hospitalizacją, przyjęciem na oddział intensywnej terapii lub śmiercią - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/publications-data/rapid-systematic-review-clinical-risk-factors-severe-respiratory-syncytial-virus",
+      "date": "2026-06-23T12:58:47Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Szybki, systematyczny przegląd klinicznych czynników ryzyka ciężkiego zakażenia wirusem Syncytialnego układu oddechowego u dorosłych skutkującego hospitalizacją, przyjęciem na oddział intensywnej terapii lub śmiercią Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)."
+    },
+    {
+      "title": "Seminarium internetowe: Zwiększanie skali platformy globalnej: wspólna praca nad zmniejszeniem luki w przeżywalności nowotworów u dzieci poprzez zrównoważony dostęp do leków o gwarantowanej jakości – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/webinar-scaling-up-the-global-platform-working-together-to-close-the-childhood-cancer-survival-gap-through-sustainable-access-to-quality-assured-medicines",
+      "date": "2026-06-23T12:07:27Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Seminarium internetowe: Zwiększanie skali platformy globalnej: wspólna praca nad wypełnieniem luki w przeżywalności nowotworów u dzieci poprzez zrównoważony dostęp do leków o gwarantowanej jakości Światowa Organizacja Zdrowia (WHO)."
+    },
+    {
+      "title": "WHO wzywa do zwiększenia skali badań przesiewowych noworodków, aby poprawić wczesne wykrywanie i leczenie wad wrodzonych – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects",
+      "date": "2026-06-23T10:14:13Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "WHO wzywa do zwiększenia skali badań przesiewowych noworodków, aby poprawić wczesne wykrywanie i leczenie wad wrodzonych. Światowa Organizacja Zdrowia (WHO)."
+    },
+    {
+      "title": "Kraje afrykańskie spotykają się, aby przygotować się na przyszłe wprowadzenie na rynek nowych szczepionek przeciw gruźlicy dla dorosłych i młodzieży – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/23-06-2026-african-countries-convene-to-prepare-for-future-rollout-of-new-tb-vaccines-for-adults-and-adolescents",
+      "date": "2026-06-23T09:40:08Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Kraje afrykańskie spotykają się, aby przygotować się do przyszłego wprowadzenia na rynek nowych szczepionek przeciw gruźlicy dla dorosłych i młodzieży Światowa Organizacja Zdrowia (WHO)."
+    },
+    {
+      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 r. – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/publications-data/invasive-meningococcal-disease-annual-epidemiological-report-2024",
+      "date": "2026-06-23T08:46:01Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Inwazyjna choroba meningokokowa – roczny raport epidemiologiczny za rok 2024 Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)."
+    },
+    {
+      "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania osobami potencjalnie narażonymi na wirusa Andów — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/hantavirus/php/emergency-guidance/index.html",
+      "date": "2026-06-23T00:20:23Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania osobami potencjalnie narażonymi na kontakt z wirusem Andów Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-06-22T19:25:07Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia wirusa Ebola: Obecna sytuacja Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Ryc. 3 – Ciężkie choroby układu oddechowego i śmierć związane z epidemią ludzkiego rinowirusa B14 wśród osób starszych, Francja, 2024 r. – tom 32, numer 5 – maj 2026 r. – Czasopismo Emerging Infectious Diseases – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/5/25-0981-f3",
+      "date": "2026-06-22T19:10:54Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Ryc. 3 – Ciężkie choroby układu oddechowego i śmierć związane z epidemią ludzkiego rinowirusa B14 wśród osób starszych, Francja, 2024 r. – tom 32, numer 5 – maj 2026 r. – czasopismo Emerging Infectious Diseases Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "WHO świętuje wpływ jogi na zdrowe starzenie się – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/22-06-2026-who-celebrates-the-power-of-yoga-for-healthy-ageing",
+      "date": "2026-06-22T13:52:30Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "WHO świętuje wpływ jogi na zdrowe starzenie się Światowa Organizacja Zdrowia (WHO)."
+    },
+    {
+      "title": "Wzmocnienie gotowości Europy na choroby przenoszone przez komary – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/news-events/strengthening-europes-preparedness-against-mosquito-borne-diseases",
+      "date": "2026-06-22T07:45:19Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Wzmocnienie gotowości Europy na choroby przenoszone przez komary Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)."
+    },
+    {
+      "title": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Modelowanie i prognozowanie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Centra modelowania i prognozowania kontroli i zapobiegania chorobom | CDC (.gov)."
+    }
+  ],
+  "clinical_trials": [
+    {
+      "title": "Szczegóły badania | NCT07660705 | Edukacja wideo z kodem QR dla członków rodziny na oddziałach intensywnej terapii – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07660705",
+      "date": "2026-06-23T10:21:07Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07660705 | Edukacja wideo z kodem QR dla członków rodziny oddziałów intensywnej terapii ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07659847 | Ocena układu sercowo-naczyniowego 5 lat po MIS-C – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07659847",
+      "date": "2026-06-23T10:20:50Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07659847 | Ocena układu sercowo-naczyniowego 5 lat po MIS-C ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07658547 | Wykorzystanie chatbotów AI dla zdrowia psychicznego – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07658547",
+      "date": "2026-06-23T09:37:19Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07658547 | Wykorzystanie chatbotów AI w leczeniu zdrowia psychicznego ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07661524 | Muzykoterapia pasywna a aktywna Choroba Parkinsona - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07661524",
+      "date": "2026-06-23T09:21:56Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07661524 | Muzykoterapia pasywna a aktywna Choroba Parkinsona ClinicalTrials.gov."
+    },
+    {
+      "title": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PSY w szwedzkiej praktyce (ALLERDOGSWEDEN) – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07651891",
+      "date": "2026-06-22T19:44:55Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PIES w szwedzkiej praktyce (ALLERDOGSWEDEN) ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07661342 | Badanie DEPART w Yale – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07661342",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07661342 | Badanie DEPART na Yale ClinicalTrials.gov."
+    }
+  ],
+  "pharma_market": [
+    {
+      "title": "Ionis wygrywa rozszerzenie etykiety FDA dla potencjalnego hitowego wskazania do stosowania trójglicerydów – Endpoints News",
+      "url": "https://endpoints.news/ionis-wins-fda-label-expansion-to-reduce-triglycerides-pancreatitis/",
+      "date": "2026-06-24T20:31:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Ionis wygrywa rozszerzenie etykiety FDA dla potencjalnego hitu wskazania trójglicerydów Endpoints News."
+    },
+    {
+      "title": "FDA wspiera lek Trodelvy firmy Gilead w leczeniu potrójnie ujemnego raka piersi pierwszego rzutu - Endpoints News",
+      "url": "https://endpoints.news/fda-backs-gileads-trodelvy-for-first-line-triple-negative-breast-cancer/",
+      "date": "2026-06-24T20:19:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "FDA wspiera Trodelvy firmy Gilead w leczeniu potrójnie ujemnego raka piersi pierwszego rzutu Wiadomości o punktach końcowych."
+    },
+    {
+      "title": "Remiks, który zajmie miejsce Nasdaq dla Passage Bio w odwrotnej fuzji dla degradatora mRNA - Endpoints News",
+      "url": "https://endpoints.news/remix-does-reverse-merger-with-passage-bio-for-mrna-degrader/",
+      "date": "2026-06-24T20:05:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Remiks, aby zająć miejsce Nasdaq dla Passage Bio w odwrotnej fuzji dla degradatora mRNA Endpoints News."
+    },
+    {
+      "title": "Przebudowa serca może zwiastować ryzyko raka",
+      "url": "https://www.drugs.com/news/cardiac-remodeling-may-portend-cancer-risk-130445.html",
+      "date": "2026-06-24T17:37:43Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Przebudowa serca może zwiastować ryzyko raka Drugs.com."
+    },
+    {
+      "title": "Novartis zawiera z Antaresem pakt dotyczący odkrywania małych cząsteczek za 105 mln dolarów z góry – Endpoints News",
+      "url": "https://endpoints.news/novartis-taps-antares-in-small-molecule-discovery-pact-with-105m-upfront/",
+      "date": "2026-06-24T14:56:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Novartis zawiera z Antaresem pakt dotyczący odkrywania małych cząsteczek, przekazując z góry 105 mln dolarów Endpoints News."
+    },
+    {
+      "title": "Wizja Verastemu KRAS G12D; ADC Therapeutics reorganizuje się, zwalnia 17% personelu - Endpoints News",
+      "url": "https://endpoints.news/verastems-kras-g12d-vision-adc-therapeutics-reorganizes-lays-off-17-of-staff/",
+      "date": "2026-06-24T14:17:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Wizja Verastemu KRAS G12D; ADC Therapeutics reorganizuje się, zwalnia 17% personelu Endpoints News."
+    },
+    {
+      "title": "Ollin zarabia 330 mln dolarów na przeprowadzenie trzeciej fazy testów pretendenta Vabysmo z Chin - Endpoints News",
+      "url": "https://endpoints.news/ollin-nets-330m-to-run-phase-3-trials-of-vabysmo-challenger-from-china/",
+      "date": "2026-06-24T11:00:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Ollin zarabia 330 mln dolarów na przeprowadzenie trzeciej fazy prób pretendenta Vabysmo z China Endpoints News."
+    },
+    {
+      "title": "Notatnik BIO: KNU, potencjalne transakcje w Chinach Zakaz ma duży wpływ na zawieranie transakcji - Citeline News & Insights",
+      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/conferences/bio/bio-notebook-mfn-potential-china-deals-ban-weigh-heavily-on-dealmaking-MVIHMD7HWZGKDAQKYWKQRAGX2I/",
+      "date": "2026-06-24T02:10:57Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "Notatnik BIO: MFN, potencjalny zakaz transakcji w Chinach ma duży wpływ na zawieranie transakcji Citeline News & Insights."
+    },
+    {
+      "title": "FDA zatwierdza pierwsze leczenie, które zmniejsza ryzyko ostrej trzustki – fda.gov",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-shown-reduce-risk-acute-pancreatitis-adults-severe-hypertriglyceridemia",
+      "date": "2026-06-24T00:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "FDA zatwierdza pierwsze leczenie, które wykazało zmniejszenie ryzyka ostrej trzustki fda.gov."
+    },
+    {
+      "title": "FDA zatwierdza palbocyklib z trastuzumabem, z pertuzumabem lub bez, - fda.gov",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-palbociclib-trastuzumab-or-without-pertuzumab-and-endocrine-therapy-maintenance",
+      "date": "2026-06-24T00:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "FDA zatwierdza palbocyklib z trastuzumabem, z pertuzumabem lub bez, fda.gov."
+    },
+    {
+      "title": "Etykiety i limity dotyczące terapii testosteronem mogą ulec zmianie zgodnie z propozycją FDA - Drugs.com",
+      "url": "https://www.drugs.com/news/testosterone-therapy-labels-limits-may-change-under-fda-proposal-130425.html",
+      "date": "2026-06-23T17:33:36Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Etykiety i limity dotyczące terapii testosteronem mogą ulec zmianie zgodnie z propozycją FDA Drugs.com."
+    },
+    {
+      "title": "Zaktualizowane wytyczne dotyczące głównych protokołów amerykańskiej FDA obejmują szczegółowe plany komunikacji – Citeline News & Insights",
+      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/updated-us-fda-master-protocols-guidance-includes-specific-communication-plans-ABG2XIJTCVCBTFL3U23FGS4PBU/",
+      "date": "2026-06-23T17:21:33Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "Zaktualizowane wytyczne dotyczące głównych protokołów amerykańskiej FDA zawierają szczegółowe plany komunikacji Citeline News & Insights."
+    },
+    {
+      "title": "Dezinformacja o filtrach przeciwsłonecznych popularna na TikToku, wyniki badania – Drugs.com",
+      "url": "https://www.drugs.com/news/sunscreen-misinformation-popular-tiktok-study-finds-130420.html",
+      "date": "2026-06-23T15:18:56Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Dezinformacja o filtrach przeciwsłonecznych popularna na TikTok – wynika z badania Drugs.com."
+    },
+    {
+      "title": "Notatnik BIO: elastyczność regulacyjna pod inną nazwą — Citeline News & Insights",
+      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/conferences/bio/bio-notebook-regulatory-flexibility-by-any-other-name-2UOL5XCNMNA7FEEKPCIOPAKHXY/",
+      "date": "2026-06-23T02:11:28Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "Notatnik BIO: Elastyczność przepisów pod dowolną inną nazwą Citeline News & Insights."
+    },
+    {
+      "title": "Nowatorski schemat leczenia obiecującego cukrzycowego obrzęku plamki – Drugs.com",
+      "url": "https://www.drugs.com/news/novel-regimen-promising-diabetic-macular-edema-130414.html",
+      "date": "2026-06-22T19:08:33Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Nowatorski schemat leczenia obiecujący w leczeniu cukrzycowego obrzęku plamki Drugs.com."
+    },
+    {
+      "title": "Interwencja dotycząca stylu życia w przypadku stanu przedcukrzycowego zmniejsza ryzyko wystąpienia wielu chorób – Drugs.com",
+      "url": "https://www.drugs.com/news/lifestyle-intervention-prediabetes-yields-decline-multimorbidity-130413.html",
+      "date": "2026-06-22T18:44:44Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Interwencja dotycząca stylu życia w przypadku stanu przedcukrzycowego powoduje spadek plonów na stronie Multimorbidity Drugs.com."
+    },
+    {
+      "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na człowieku (FIH) - fda.gov",
+      "url": "https://www.fda.gov/media/193230/download",
+      "date": "2026-06-22T15:55:01Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na człowieku (FIH) fda.gov."
+    },
+    {
+      "title": "Wysokie przeszkody utrudniają pacjentom z nerkami zabieganie o przeszczepy ratujące życie – Drugs.com",
+      "url": "https://www.drugs.com/news/hurdles-thwart-kidney-patients-pursuit-saving-transplants-130405.html",
+      "date": "2026-06-22T14:41:19Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Wysokie przeszkody utrudniają pacjentom z nerkami podejmowanie ratujących życie przeszczepów Drugs.com."
+    },
+    {
+      "title": "Spotkanie zainteresowanych stron ETF na temat biodystrybucji szczepionek mRNA – Europejska Agencja Leków (EMA)",
+      "url": "https://www.ema.europa.eu/en/events/etf-stakeholders-meeting-biodistribution-mrna-vaccines",
+      "date": "2026-06-22T14:23:10Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Spotkanie zainteresowanych stron ETF na temat biodystrybucji szczepionek mRNA Europejska Agencja Leków (EMA)."
+    },
+    {
+      "title": "Evrysdi – bezpośrednia komunikacja z pracownikami służby zdrowia (DHPC) – Europejska Agencja Leków (EMA)",
+      "url": "https://www.ema.europa.eu/en/medicines/dhpc/evrysdi-0",
+      "date": "2026-06-22T11:37:54Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Evrysdi – bezpośrednia komunikacja z pracownikami służby zdrowia (DHPC) Europejska Agencja Leków (EMA)."
+    },
+    {
+      "title": "Definium donosi, że trafienie fazy 3 leku LSD w ciężkiej postaci depresji – Endpoints News",
+      "url": "https://endpoints.news/definium-reports-phase-3-hit-for-lsd-drug-in-severe-form-of-depression/",
+      "date": "2026-06-22T11:06:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Definium donosi, że trafienie fazy 3 leku LSD w ciężkiej postaci depresji Endpoints News."
+    },
+    {
+      "title": "AbbVie przekazuje 10,9 miliarda dolarów na rzecz długo działających kandydatów na leki I&I firmy Apogee - Endpoints News",
+      "url": "https://endpoints.news/abbvie-makes-10-9b-move-for-apogees-long-acting-ii-drug-candidates/",
+      "date": "2026-06-22T11:03:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "AbbVie przekazuje 10,9 miliarda dolarów na rzecz Endpoints News, długo działającego leku Apogee na leki I&I."
+    },
+    {
+      "title": "Farmy MorningStar dobrowolnie wycofują dwie odmiany ze względu na możliwą obecność plastiku - fda.gov",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/morningstar-farms-voluntarily-recalling-two-varieties-due-possible-plastic-presence",
+      "date": "2026-06-22T04:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Farmy MorningStar dobrowolnie wycofują dwie odmiany ze względu na możliwą obecność plastiku fda.gov."
+    },
+    {
+      "title": "Przyspieszanie i modernizacja rozwoju klinicznego na wczesnym i późnym etapie – fda.gov",
+      "url": "https://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development",
+      "date": "2026-06-22T00:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Przyspieszanie i modernizacja rozwoju klinicznego na wczesnym i późnym etapie fda.gov."
+    },
+    {
+      "title": "Nawigator fazy 1 badania nowych leków (IND) – fda.gov",
+      "url": "https://www.fda.gov/industry/phase-1-investigational-new-drug-ind-navigator",
+      "date": "2026-06-22T00:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Nawigator fazy 1 badania nowych leków (IND) fda.gov."
+    },
+    {
+      "title": "Protokoły główne dotyczące opracowywania leków i produktów biologicznych – fda.gov",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/master-protocols-drug-and-biological-product-development",
+      "date": "2026-06-22T00:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Protokoły główne dotyczące opracowywania leków i produktów biologicznych fda.gov."
+    }
+  ],
+  "critical_alerts": [
+    {
+      "title": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0552",
+      "date": "2026-06-23T18:38:23Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-06-22T19:25:07Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia wirusa Ebola: Obecna sytuacja Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    }
+  ],
+  "daily_top5": [
+    {
+      "title": "Notatka do wycofania: Immunochemioterapia o określonej porze dnia w niedrobnokomórkowym raku płuca: randomizowane badanie III fazy - Nature",
+      "url": "https://www.nature.com/articles/s41591-026-04508-1",
+      "date": "2026-06-24T15:09:29Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Uwaga do wycofania: Immunochemioterapia prowadzona w ciągu dnia w niedrobnokomórkowym raku płuc: randomizowane badanie fazy 3 Nature."
+    },
+    {
+      "title": "Przełom w rokowaniu SMA. Prof. Kotulska: najmłodsze dzieci rozwijają się niemal prawidłowo. A starsi pacjenci? - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/medycyna/neurologia/przelom-w-rokowaniu-sma-prof-kotulska-najmlodsze-dzieci-rozwijaja-sie-niemal-prawidlowo-a-starsi-pacjenci/",
+      "date": "2026-06-24T16:51:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Przełom w rokowaniu SMA. Prof. Kotulska: najmłodsze dzieci rozwijają się niemal prawidłowo."
+    },
+    {
+      "title": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0552",
+      "date": "2026-06-23T18:38:23Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 r. – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/publications-data/invasive-meningococcal-disease-annual-epidemiological-report-2024",
+      "date": "2026-06-23T08:46:01Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Inwazyjna choroba meningokokowa – roczny raport epidemiologiczny za rok 2024 Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)."
+    },
+    {
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-06-22T19:25:07Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia wirusa Ebola: Obecna sytuacja Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    }
+  ]
 }
