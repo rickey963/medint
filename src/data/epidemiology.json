@@ -122,6 +122,15 @@
     "category": "Epidemiologia"
   },
   {
+    "title": "Biblioteka obrazów zdrowia publicznego (PHIL)",
+    "title_original": "Public Health Image Library (PHIL)",
+    "url": "https://wwwn.cdc.gov/phil/Details.aspx?pid=6114",
+    "date": "2026-06-24 11:23",
+    "summary": "Szczegóły — Biblioteka obrazów zdrowia publicznego (PHIL)",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "specializations": []
+  },
+  {
     "title": "Angiostrongylus cantonensis szczurzy robak płucny wykryty u szczurów, Madagaskar, lata 2022–2023",
     "title_original": "Angiostrongylus cantonensis Rat Lungworm Detected in Rats, Madagascar, 2022–2023",
     "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0142",
@@ -163,24 +172,6 @@
     "specializations": [
       "Pulmonologia"
     ]
-  },
-  {
-    "title": "Objawy Powassana",
-    "title_original": "Symptoms of Powassan",
-    "url": "https://www.cdc.gov/powassan/signs-symptoms/index.html",
-    "date": "2026-06-24 03:05",
-    "summary": "Objawy Powassana obejmują gorączkę, ból głowy, osłabienie i inne. Skonsultuj się z lekarzem w celu postawienia diagnozy.",
-    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-    "specializations": []
-  },
-  {
-    "title": "Zespół badawczy I-MOVE-COVID-19 w szpitalu – Eurosurveillance",
-    "title_original": "I-MOVE-COVID-19 hospital study team - Eurosurveillance",
-    "url": "https://www.eurosurveillance.org/search?value1=I-MOVE-COVID-19+hospital+study+team&option1=author&noRedirect=true",
-    "date": "2026-06-24 00:58",
-    "summary": "",
-    "source": "Eurosurveillance",
-    "specializations": []
   },
   {
     "title": "Szybki, systematyczny przegląd klinicznych czynników ryzyka ciężkiego zakażenia wirusem Syncytial układu oddechowego u dorosłych skutkującego hospitalizacją",
@@ -229,42 +220,6 @@
       "Choroby zakaźne"
     ],
     "category": "Epidemiologia"
-  },
-  {
-    "title": "Międzynarodowy zespół ANDV – Eurosurveillance",
-    "title_original": "the International ANDV team - Eurosurveillance",
-    "url": "https://www.eurosurveillance.org/search?value1=the+International+ANDV+team&option1=author&noRedirect=true",
-    "date": "2026-06-23 20:44",
-    "summary": "",
-    "source": "Eurosurveillance",
-    "specializations": []
-  },
-  {
-    "title": "Pilar Soler Crespo – Euronadzór",
-    "title_original": "Pilar Soler Crespo - Eurosurveillance",
-    "url": "https://www.eurosurveillance.org/search?value1=Pilar+Soler+Crespo&option1=author&noRedirect=true",
-    "date": "2026-06-23 20:11",
-    "summary": "",
-    "source": "Eurosurveillance",
-    "specializations": []
-  },
-  {
-    "title": "Esther M Schadd – Euronadzór",
-    "title_original": "Esther M Schadd - Eurosurveillance",
-    "url": "https://www.eurosurveillance.org/search?value1=Esther+M+Schadd&option1=author&noRedirect=true",
-    "date": "2026-06-23 19:51",
-    "summary": "",
-    "source": "Eurosurveillance",
-    "specializations": []
-  },
-  {
-    "title": "Franco Pagotto – Euronadzór",
-    "title_original": "Franco Pagotto - Eurosurveillance",
-    "url": "https://www.eurosurveillance.org/search?value1=Franco+Pagotto&option1=author&noRedirect=true",
-    "date": "2026-06-23 19:42",
-    "summary": "",
-    "source": "Eurosurveillance",
-    "specializations": []
   },
   {
     "title": "Gabapentynoidy są powiązane z ryzykiem złamania biodra",
@@ -483,15 +438,6 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Szukaj - Poczta ProMED",
-    "title_original": "Search - ProMED Mail",
-    "url": "https://www.promedmail.org/search",
-    "date": "2026-06-23 08:30",
-    "summary": "",
-    "source": "Promedmail.org",
-    "specializations": []
-  },
-  {
     "title": "Śląskie – ponad 400 pacjentów z wszczepionymi urządzeniami kardiologicznymi bezpiecznie przeszło radioterapię",
     "title_original": "Śląskie – ponad 400 pacjentów z wszczepionymi urządzeniami kardiologicznymi bezpiecznie przeszło radioterapię",
     "url": "https://kardiologia.mp.pl/wiadomosci/442065,slaskie-ponad-400-pacjentow-z-wszczepionymi-urzadzeniami-kardiologicznymi-bezpiecznie-przeszlo-radioterapie",
@@ -617,6 +563,18 @@
     "category": "Epidemiologia"
   },
   {
+    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorobowości",
+    "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
+    "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
+    "date": "2026-06-22 17:29",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Pediatria"
+    ],
+    "category": "Epidemiologia"
+  },
+  {
     "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorowalności",
     "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
     "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
@@ -630,18 +588,6 @@
   },
   {
     "title": "Doustna szczepionka przeciwko polio Stan nieznany. Faza 4. Badania kliniczne dla niemowląt / noworodków / zachorowań",
-    "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
-    "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
-    "date": "2026-06-22 17:29",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Pediatria"
-    ],
-    "category": "Epidemiologia"
-  },
-  {
-    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorobowości",
     "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
     "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
     "date": "2026-06-22 17:29",
@@ -799,6 +745,24 @@
     "category": "Epidemiologia"
   },
   {
+    "title": "Autorzy ci w równym stopniu przyczynili się do powstania tej pracy i mają wspólne ostatnie autorstwo. - Euronadzór",
+    "title_original": "These authors contributed equally to this work and share last authorship. - Eurosurveillance",
+    "url": "https://www.eurosurveillance.org/search?option1=pub_affiliation&value1=These+authors+contributed+equally+to+this+work+and+share+last+authorship.&option912=resultCategory&value912=ResearchPublicationContent",
+    "date": "2026-06-21 08:40",
+    "summary": "",
+    "source": "Eurosurveillance",
+    "specializations": []
+  },
+  {
+    "title": "F Annabel Niessen – Euronadzór",
+    "title_original": "F Annabel Niessen - Eurosurveillance",
+    "url": "https://www.eurosurveillance.org/search?value1=F+Annabel+Niessen&option1=author&noRedirect=true",
+    "date": "2026-06-21 06:11",
+    "summary": "",
+    "source": "Eurosurveillance",
+    "specializations": []
+  },
+  {
     "title": "Streptococcus pneumoniae typ 12F otoczkowy polisacharyd błonica antygen koniugat białkowy CRM197 Aktywny Nierekrutujący Faza 3 Badania dotyczące zapalenia płuc / Szczepionki, Pneumokoki / Zapobieganie infekcjom pneumokokowym",
     "title_original": "Streptococcus pneumoniae type 12F capsular polysaccharide diphtheria CRM197 protein conjugate antigen Active Not Recruiting Phase 3 Trials for Pneumonia / Vaccines, Pneumococcal / Pneumococcal Infection Prevention",
     "url": "https://go.drugbank.com/drugs/DB16716/clinical_trials?conditions=DBCOND0031818%2CDBCOND0014196%2CDBCOND0033872&phase=3&purpose=prevention&status=active_not_recruiting",
@@ -821,6 +785,15 @@
       "Choroby zakaźne"
     ],
     "category": "Epidemiologia"
+  },
+  {
+    "title": "Terry C. Jones – Euronadzór",
+    "title_original": "Terry C Jones - Eurosurveillance",
+    "url": "https://www.eurosurveillance.org/search?value1=Terry+C+Jones&option1=author&noRedirect=true",
+    "date": "2026-06-21 01:11",
+    "summary": "",
+    "source": "Eurosurveillance",
+    "specializations": []
   },
   {
     "title": "Salmonella enterica subsp. enterica serovar Zespół genomu Enteritidis ASM197262v2",
