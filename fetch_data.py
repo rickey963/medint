@@ -590,6 +590,20 @@ def _all_text(sections, *keys):
     return out
 
 
+def _references_a_past_year(title):
+    """The alert ticker is for what's happening *now* - a retrospective case
+    report citing a specific past year in its own headline (confirmed
+    example: a CDC journal case report titled "...Algieria, 2025 r...",
+    matched into alerts only because it happened to contain the word
+    "epidemia") is never that, even though it's freshly published/indexed
+    and wouldn't fail the general dashboard's staleness check (which only
+    rejects years >3 back - a deliberately looser bar for the dashboard
+    tiles than what an "urgent" alert should demand)."""
+    current_year = datetime.datetime.now(datetime.timezone.utc).year
+    years = {int(y) for y in re.findall(r'\b(19\d{2}|20\d{2})\b', title)}
+    return bool(years) and years != {current_year}
+
+
 def build_critical_alerts(sections):
     """Returns full article objects (not just titles) since these feed both
     the scrolling ticker and the standalone "Alerty medyczne" card widget."""
@@ -597,6 +611,8 @@ def build_critical_alerts(sections):
     seen_titles = set()
     for item, text in _all_text(sections, *ALERT_SECTIONS):
         if item['title'] in seen_titles:
+            continue
+        if _references_a_past_year(item['title']):
             continue
         if any(kw in text for kw in CRITICAL_KEYWORDS):
             alerts.append(item)
@@ -644,7 +660,11 @@ def _score_item(item):
 
 
 def build_daily_top5(sections):
-    all_items = [item for key in ALERT_SECTIONS for item in sections.get(key, [])]
+    # Same reasoning as build_critical_alerts' _references_a_past_year check:
+    # "co musisz wiedzieć dzisiaj" promises what's current, not a retrospective
+    # case report that merely happens to score well on prestige/keywords.
+    all_items = [item for key in ALERT_SECTIONS for item in sections.get(key, [])
+                 if not _references_a_past_year(item['title'])]
     if not all_items:
         return []
     ranked = sorted(all_items, key=_score_item, reverse=True)
