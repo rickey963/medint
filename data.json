@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-06-24T21:12:02Z",
+  "last_updated": "2026-06-24T21:12:28Z",
   "poland": [
-    {
-      "title": "Wyszukiwarka tagów - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/wyszukiwarka-tagow/nowy-model-opieki-czp,4397.html",
-      "date": "2026-06-24T19:00:01Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Wyszukiwarka tagów Narodowy Fundusz Zdrowia (NFZ)."
-    },
     {
       "title": "Zdrowe warzywa, zaskakujący efekt. 278 tys. zgonów rocznie - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zdrowe-warzywa-zaskakujacy-efekt-278-tys-zgonow-rocznie,285873,11.html",
@@ -216,6 +208,14 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "TreÅci z serwisu Medonet majÄ na celu polepszenie, a nie zastÄ pienie, kontaktu pomiÄdzy UÅ¼ytkownikiem a jego lekarzem. Serwis ma charakter wyÅÄ cznie informacyjno-edukacyjny. Przed zastosowaniem siÄ do porad z zakresu wiedzy specjalistycznej, w szczegÃ³lnoÅci medycznych, zawartych w Serwisie naleÅ¼y bezwzglÄdnie skonsultowaÄ siÄ z lekarzem."
+    },
+    {
+      "title": "Finanse - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/finanse/",
+      "date": "2026-06-23T20:07:21Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Jeśli procedowane obecnie zmiany ustawowe wejdą w życie, Agencja Oceny Technologicznych Medycznych i Taryfikacji (AOTMiT) zamierza już w październiku przeprowadzić pierwszą kompleksową zbiórkę danych i przedstawić raport o całkowitych zarobkach lekarzy – poinformował w środę prezes Agencji Daniel Rutkowski."
     }
   ],
   "world": [
@@ -274,14 +274,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dlaczego Afryka potrzebuje regionalnych ośrodków badawczo-rozwojowych w zakresie podstawowych badań naukowych i tłumaczeń, aby przyspieszyć lokalną produkcję."
-    },
-    {
-      "title": "Krótkoterminowa DAPT w celu zapobiegania okluzji przeszczepu żyły odpiszczelowej po CABG – lekarz NEJM",
-      "url": "https://clinician.nejm.org/short-term-dapt-prevent-saphenous-vein-graft-occlusion-cabg-CLINjwNA60227",
-      "date": "2026-06-24T08:30:15Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     },
     {
       "title": "FDA rezygnuje z egzekwowania przepisów wobec Whoop po ulepszeniu funkcji pomiaru ciśnienia krwi – statnews.com",
@@ -362,6 +354,14 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Chirurgiczna analiza wideo zachowująca prywatność z uczeniem się roju — wyniki międzynarodowej kohorty wyrostka robaczkowego NEJM AI."
+    },
+    {
+      "title": "53-letnia kobieta z bólem ucha i osłabieniem twarzy – dowody NEJM",
+      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDmr2500144?query=recirc_crossjournalmorepubs",
+      "date": "2026-06-23T14:47:18Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "53-letnia kobieta z bólem ucha i osłabieniem twarzy Dowody NEJM."
     }
   ],
   "guidelines": [
@@ -392,12 +392,28 @@
   ],
   "epidemiology": [
     {
+      "title": "655 milionów ludzi nadal żyjących bez prądu podkreśla pilną potrzebę osiągnięcia celu dotyczącego powszechnego dostępu do energii – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target",
+      "date": "2026-06-24T12:08:26Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Najnowsze dane wskazują na nierówny postęp, co podkreśla pilną potrzebę skupienia się na przystępności cenowej i społecznościach bezbronnych."
+    },
+    {
       "title": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0552",
       "date": "2026-06-23T18:38:23Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025."
+    },
+    {
+      "title": "Wzmocnienie potencjału w zakresie badań przesiewowych noworodków, diagnozowania i leczenia wad wrodzonych: konsultacje techniczne WHO w sprawie planowania i wdrażania usług zintegrowanych z krajowymi systemami opieki zdrowotnej w krajach o niskich i średnich dochodach – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/publications/i/item/9789240122086",
+      "date": "2026-06-23T16:09:45Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Niniejszy raport stanowi podsumowanie konsultacji technicznych WHO skupionych na usprawnieniu badań przesiewowych noworodków, diagnozowaniu i leczeniu wad wrodzonych w ramach krajowych systemów opieki zdrowotnej w krajach o niskich i średnich dochodach (LMIC). W ramach inicjatywy, przeprowadzonej w latach 2024–2025 w ramach serii globalnych konsultacji, zbadano programy kierowane przez państwo i modele operacyjne opracowane przez wiodące kraje LMIC i wybrane kraje o wyższych średnich dochodach. W raporcie poruszono kwestię rosnącego udziału wad wrodzonych w śmiertelności i niepełnosprawności dzieci jako zakaźnych przyczyn spadku liczby zgonów, podkreślając potrzebę włączenia przez LMIC badań przesiewowych noworodków, diagnostyki, leczenia i opieki długoterminowej w przypadku jednego lub kilku priorytetowych schorzeń do rutynowych usług zdrowotnych i powszechnego ubezpieczenia zdrowotnego."
     },
     {
       "title": "Szybki systematyczny przegląd klinicznych czynników ryzyka ciężkiego zakażenia wirusem Syncytialnego układu oddechowego u dorosłych skutkującego hospitalizacją, przyjęciem na oddział intensywnej terapii lub śmiercią - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -408,12 +424,28 @@
       "summary": "Celem tego szybkiego przeglądu systematycznego było zidentyfikowanie i ocena siły i spójności powiązań między klinicznymi czynnikami ryzyka a ciężkimi skutkami zakażenia RSV u dorosłych."
     },
     {
-      "title": "Strona wyszukiwania ogólnego — Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0852+2611+9277+Spesialis+Hiasan+Dinding+Molding+Ruang+Tamu+Murah+Menteng+Jakarta+Pusat",
-      "date": "2026-06-23T10:52:39Z",
+      "title": "Seminarium internetowe: Zwiększanie skali platformy globalnej: wspólna praca nad zmniejszeniem luki w przeżywalności nowotworów u dzieci poprzez zrównoważony dostęp do leków o gwarantowanej jakości – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/webinar-scaling-up-the-global-platform-working-together-to-close-the-childhood-cancer-survival-gap-through-sustainable-access-to-quality-assured-medicines",
+      "date": "2026-06-23T12:07:27Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Strona wyszukiwania ogólnego Światowa Organizacja Zdrowia (WHO)."
+      "summary": "Celem tego seminarium internetowego jest przybliżenie planów rozwoju Globalnej platformy dostępu do leków przeciwnowotworowych u dzieci (Globalna platforma), szczególnie nowym krajom zainteresowanym przyłączeniem się do tej jedynej w swoim rodzaju inicjatywy, założonej wspólnie przez WHO i Szpital Dziecięcy St. Jude we współpracy z UNICEF i Funduszem Strategicznym PAHO."
+    },
+    {
+      "title": "WHO wzywa do zwiększenia skali badań przesiewowych noworodków, aby poprawić wczesne wykrywanie i leczenie wad wrodzonych – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects",
+      "date": "2026-06-23T10:14:13Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Światowa Organizacja Zdrowia (WHO) wzywa dziś kraje do rozszerzenia badań przesiewowych noworodków pod kątem wad wrodzonych, podkreślając, jak wczesne wykrywanie i leczenie może uratować życie i zmniejszyć trwającą całe życie niepełnosprawność milionów dzieci. Nowy raport WHO zatytułowany „Wzmocnienie możliwości badań przesiewowych noworodków, diagnozowanie i leczenie wad wrodzonych” wskazuje, że badania przesiewowe noworodków stanowią ważną szansę na przyspieszenie postępu w zakresie przeżycia dzieci."
+    },
+    {
+      "title": "Kraje afrykańskie spotykają się, aby przygotować się do przyszłego wprowadzenia na rynek nowych szczepionek przeciw gruźlicy dla dorosłych i młodzieży – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/23-06-2026-african-countries-convene-to-prepare-for-future-rollout-of-new-tb-vaccines-for-adults-and-adolescents",
+      "date": "2026-06-23T09:40:08Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Urzędnicy Ministerstwa Zdrowia z Kenii, Malawi i Zambii dołączyli do ponad 80 zainteresowanych stron zajmujących się szczepionkami przeciw gruźlicy (TB), w tym osób, które przebyły gruźlicę oraz przedstawicieli społeczeństwa obywatelskiego, agencji technicznych i regulacyjnych, darczyńców i partnerów wykonawczych, aby przyspieszyć przygotowanie krajów do wprowadzenia nowych szczepionek przeciw gruźlicy, obecnie znajdujących się w fazie rozwoju klinicznego, dla dorosłych i młodzieży, podczas warsztatów zorganizowanych przez Światową Organizację Zdrowia (WHO) w Nairobi w Kenii w dniach 3–5 czerwca."
     },
     {
       "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 rok – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -440,6 +472,14 @@
       "summary": "Rysunek 3 . Drzewo filogenetyczne sekwencji HRV-B krążących w Marsylii podczas ciężkiej choroby układu oddechowego i śmierci związanej z wybuchem epidemii HRV-B14 wśród starszych dorosłych, Francja, 2024. Dopasowanie sekwencji genu kodującego białko wirusowe 1 przeprowadzono przy użyciu MUSCLE ( https://www.ebi.ac.uk/Tools/msa/muscle ) ze standardowymi parametrami dla sekwencji nukleotydowych."
     },
     {
+      "title": "WHO świętuje wpływ jogi na zdrowe starzenie się – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/22-06-2026-who-celebrates-the-power-of-yoga-for-healthy-ageing",
+      "date": "2026-06-22T13:52:30Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "21 czerwca 2026 r. WHO obchodziła 12. Międzynarodowy Dzień Jogi. W tym roku Dzień Organizacji Narodów Zjednoczonych poświęcony był tematowi „joga dla zdrowego starzenia się”, uznając potencjalne korzyści płynące z uprawiania jogi w miarę starzenia się."
+    },
+    {
       "title": "Wzmocnienie gotowości Europy na choroby przenoszone przez komary – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/news-events/strengthening-europes-preparedness-against-mosquito-borne-diseases",
       "date": "2026-06-22T07:45:19Z",
@@ -457,14 +497,6 @@
     }
   ],
   "clinical_trials": [
-    {
-      "title": "Szczegóły badania | NCT07663110 | Walka z opornością i ekonomika opieki zdrowotnej poprzez badania przesiewowe CPE – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07663110",
-      "date": "2026-06-24T08:08:15Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07663110 | Walka z opornością i ekonomika opieki zdrowotnej poprzez badania przesiewowe CPE ClinicalTrials.gov."
-    },
     {
       "title": "Szczegóły badania | NCT07662512 | Różne stężenia ozonu w chorobie zwyrodnieniowej stawu kolanowego – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07662512",
@@ -512,6 +544,14 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PIES w szwedzkiej praktyce (ALLERDOGSWEDEN) ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07661342 | Badanie DEPART w Yale – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07661342",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07661342 | Badanie DEPART na Yale ClinicalTrials.gov."
     }
   ],
   "pharma_market": [
@@ -681,7 +721,7 @@
       "date": "2026-06-22T11:37:54Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Evrysdi – bezpośrednia komunikacja z pracownikami służby zdrowia (DHPC) Europejska Agencja Leków (EMA)."
+      "summary": "Niniejsza bezpośrednia komunikacja z pracownikami służby zdrowia (DHPC) zawiera ważne informacje dla pracowników służby zdrowia przepisujących, wydających lub podających leki. Zawiera także plan komunikacji ze szczegółami dotyczącymi przewidywanych odbiorców i datą rozpowszechnienia."
     },
     {
       "title": "Definium donosi, że trafienie fazy 3 leku LSD w ciężkiej postaci depresji – Endpoints News",
@@ -768,6 +808,14 @@
       "summary": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025."
     },
     {
+      "title": "Kraje afrykańskie spotykają się, aby przygotować się do przyszłego wprowadzenia na rynek nowych szczepionek przeciw gruźlicy dla dorosłych i młodzieży – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/23-06-2026-african-countries-convene-to-prepare-for-future-rollout-of-new-tb-vaccines-for-adults-and-adolescents",
+      "date": "2026-06-23T09:40:08Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Urzędnicy Ministerstwa Zdrowia z Kenii, Malawi i Zambii dołączyli do ponad 80 zainteresowanych stron zajmujących się szczepionkami przeciw gruźlicy (TB), w tym osób, które przebyły gruźlicę oraz przedstawicieli społeczeństwa obywatelskiego, agencji technicznych i regulacyjnych, darczyńców i partnerów wykonawczych, aby przyspieszyć przygotowanie krajów do wprowadzenia nowych szczepionek przeciw gruźlicy, obecnie znajdujących się w fazie rozwoju klinicznego, dla dorosłych i młodzieży, podczas warsztatów zorganizowanych przez Światową Organizację Zdrowia (WHO) w Nairobi w Kenii w dniach 3–5 czerwca."
+    },
+    {
       "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 rok – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/invasive-meningococcal-disease-annual-epidemiological-report-2024",
       "date": "2026-06-23T08:46:01Z",
@@ -782,14 +830,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
-    },
-    {
-      "title": "Ryc. 3 – Ciężkie choroby układu oddechowego i śmierć związane z epidemią ludzkiego rinowirusa B14 wśród osób starszych, Francja, 2024 r. – tom 32, numer 5 – maj 2026 r. – Czasopismo Emerging Infectious Diseases – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/5/25-0981-f3",
-      "date": "2026-06-22T19:10:54Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Rysunek 3 . Drzewo filogenetyczne sekwencji HRV-B krążących w Marsylii podczas ciężkiej choroby układu oddechowego i śmierci związanej z wybuchem epidemii HRV-B14 wśród starszych dorosłych, Francja, 2024. Dopasowanie sekwencji genu kodującego białko wirusowe 1 przeprowadzono przy użyciu MUSCLE ( https://www.ebi.ac.uk/Tools/msa/muscle ) ze standardowymi parametrami dla sekwencji nukleotydowych."
     }
   ]
 }
