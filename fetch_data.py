@@ -178,9 +178,10 @@ def _dedupe(items):
 
 
 def fetch_section(name_to_url_kind):
-    """Fetches every source in a section concurrently, dedupes, caps, then
-    translates+decodes only the items that actually survive (cheaper and
-    avoids wasting a translation call on something we're about to drop)."""
+    """Fetches every source in a section concurrently, dedupes, caps, decodes
+    + quality-filters, then translates only the items that actually survive
+    (cheaper and avoids wasting a translation call on something we're about
+    to drop)."""
     with ThreadPoolExecutor(max_workers=max(1, len(name_to_url_kind))) as executor:
         futures = [executor.submit(fetch_source, name, url, kind) for name, url, kind in name_to_url_kind]
         all_items = [item for f in futures for item in f.result()]
@@ -188,10 +189,20 @@ def fetch_section(name_to_url_kind):
     all_items.sort(key=lambda it: it['date'], reverse=True)
     deduped = _dedupe(all_items)[:MAX_ARTICLES_PER_SECTION]
 
-    def _finalize(item):
-        title_original = item['title']
+    # Decode the real publisher URL and drop low-quality items *before*
+    # translating - PDFs, login walls, search/tool pages and garbled titles
+    # are exactly the kind of "old reference page Google re-crawled today"
+    # results that made stale content look freshly dated, and there's no
+    # point spending a translation call on something about to be dropped.
+    survivors = []
+    for item in deduped:
         if item['kind'] == 'google_news':
             item['url'] = _decode_google_news_url(item['url'])
+        if not _is_low_quality(item):
+            survivors.append(item)
+
+    def _finalize(item):
+        title_original = item['title']
         if item['source'] in POLISH_SOURCES:
             item['title'] = title_original
             item['summary'] = item['summary_raw']
@@ -203,8 +214,77 @@ def fetch_section(name_to_url_kind):
         del item['kind']
         return item
 
-    finalized = list(TRANSLATE_EXECUTOR.map(_finalize, deduped))
+    finalized = list(TRANSLATE_EXECUTOR.map(_finalize, survivors))
     return finalized
+
+
+# Reference/tool/login pages that Google News sometimes surfaces with
+# today's crawl date even though the underlying content is old or isn't an
+# article at all - this is the actual root cause of "data says today but the
+# article is from years ago" (confirmed during testing: e.g. mp.pl paywall
+# redirects, a PDF download, a pill-lookup tool page, a font asset URL).
+JUNK_URL_PATTERNS = [
+    r'\.pdf(?:[?#]|$)', r'/articletopdf/', r'\.docx?(?:[?#]|$)', r'\.pptx?(?:[?#]|$)',
+    r'\.xml(?:[?#]|$)', r'\.fmx\d*(?:[?#]|$)',
+    r'\.(?:woff2?|ttf|eot|css|js|png|jpe?g|svg|ico|gif)(?:[?#]|$)',
+    r'/(?:login|logowanie|signin|sign-in)(?:[/?]|$)', r'/auth/login', r'konto/logowanie',
+    r'/search(?:[/?]|$)', r'imprints\.php',
+]
+
+JUNK_TITLE_SUBSTRINGS = [
+    'subscribe', 'log in', 'sign in', 'cookie policy', 'just a moment',
+    'access denied', 'page not found', '404', 'search results',
+    'wyszukiwanie', 'wyszukaj', 'strona nie znaleziona', 'błąd 404',
+]
+
+# A raw filename embedded in the title (e.g. "C_202603170PL.000101.fmx.xml")
+# instead of a real headline - Google sometimes indexes a legal database's
+# document-export filename as if it were the article title.
+FILENAME_TITLE_RE = re.compile(r'\b[\w\-]+\.(?:xml|fmx\d*|pdf|docx?|xlsx?|pptx?)\b', re.IGNORECASE)
+
+# An article whose only year reference is years in the past is an archived/
+# reindexed document, not news - this is the actual root cause behind
+# "today's date but the article is from 1946/2024": Google News' pubDate
+# reflects when it (re)crawled the page, not the document's real date, and
+# for static legal/reference archives that's often today even though the
+# content itself - and the year printed right in its own title - is not.
+STALE_TITLE_YEAR_MAX_AGE = 3
+
+
+def _has_only_stale_years(title):
+    years = [int(y) for y in re.findall(r'\b(19\d{2}|20\d{2})\b', title)]
+    if not years:
+        return False
+    current_year = datetime.datetime.now(datetime.timezone.utc).year
+    return all(current_year - y > STALE_TITLE_YEAR_MAX_AGE for y in years)
+
+
+def _is_low_quality(item):
+    url_lower = (item.get('url') or '').lower()
+    if any(re.search(p, url_lower) for p in JUNK_URL_PATTERNS):
+        return True
+    title = (item.get('title') or '').strip()
+    if len(title) < 10 or title.startswith('-'):
+        return True
+    if FILENAME_TITLE_RE.search(title):
+        return True
+    if _has_only_stale_years(title):
+        return True
+    title_lower = title.lower()
+    if any(s in title_lower for s in JUNK_TITLE_SUBSTRINGS):
+        return True
+    # The source name appearing twice in its own title (e.g. "NL - EUR-Lex -
+    # Unia Europejska - EUR-Lex") is a generic nav/locale page, not an article.
+    source_lower = (item.get('source') or '').lower()
+    if source_lower and title_lower.count(source_lower) >= 2:
+        return True
+    # Garbled titles like "h t t p s - ISAP - Sejm" - many single-character
+    # "words" in a row, a pattern feedparser/Google News occasionally produces
+    # for non-article pages instead of a real headline.
+    tokens = title.split()
+    if tokens and sum(1 for t in tokens if len(t) == 1) / len(tokens) > 0.4:
+        return True
+    return False
 
 
 # ---------------------------------------------------------------------------

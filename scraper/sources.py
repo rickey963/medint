@@ -45,6 +45,18 @@ def _google_news_url(domain, when="3d", locale=True, extra=None):
     )
 
 
+def _google_news_url_named(name_query, when="3d", locale=True):
+    # Plain name search instead of site:-scoped - for sources whose own
+    # domain returns 0 Google News results even unfiltered (confirmed for
+    # endpointsnews.com), but whose real articles surface fine under a
+    # quoted publication-name search.
+    query = f"{name_query} when:{when}"
+    return GOOGLE_NEWS_BASE.format(
+        query=urllib.parse.quote_plus(query),
+        locale=GOOGLE_NEWS_LOCALE_PL if locale else GOOGLE_NEWS_LOCALE_EN,
+    )
+
+
 # --- 1. Polska ---------------------------------------------------------------
 SOURCES_POLSKA = [
     ("Medycyna Praktyczna", _google_news_url("mp.pl"), "google_news"),
@@ -102,7 +114,11 @@ SOURCES_RYNEK_FARMACEUTYCZNY = [
     ("EMA", _google_news_url("ema.europa.eu", locale=False), "google_news"),
     ("FDA Drug News", _google_news_url("fda.gov", locale=False, extra="drug"), "google_news"),
     ("Pink Sheet", _google_news_url("pink.pharmaintelligence.informa.com", locale=False), "google_news"),
-    ("Endpoints News", _google_news_url("endpointsnews.com", locale=False), "google_news"),
+    # A site:endpointsnews.com query returns 0 results (tested: Google News
+    # has nothing indexed under that domain restriction) even though the
+    # publication's real articles - now hosted at endpoints.news - show up
+    # immediately under a plain name search. Named search instead of site:.
+    ("Endpoints News", _google_news_url_named('"Endpoints News"', locale=False), "google_news"),
 ]
 
 # --- 6. Wytyczne i rekomendacje --------------------------------------------------
@@ -110,10 +126,18 @@ SOURCES_RYNEK_FARMACEUTYCZNY = [
 # repeated here - it already lives in the Polska tile above, and the user
 # asked not to duplicate sources across tiles.
 SOURCES_WYTYCZNE = [
-    ("ISAP", _google_news_url("isap.sejm.gov.pl"), "google_news"),
+    # when:3d (the default) returned only one item, and a junk one at that -
+    # tested with when:7d: 5 real, correctly-dated legislative items instead.
+    # ISAP simply doesn't publish daily, so it needs the wider window.
+    ("ISAP", _google_news_url("isap.sejm.gov.pl", when="7d"), "google_news"),
     ("Dziennik Ustaw RP", _google_news_url("dziennikustaw.gov.pl"), "google_news"),
     ("Naczelna Izba Lekarska", _google_news_url("nil.org.pl"), "google_news"),
-    ("EUR-Lex Health Law", _google_news_url("eur-lex.europa.eu", extra='zdrowie OR "health law"'), "google_news"),
+    # No "extra" topic keyword - tested and confirmed: combining when: with
+    # an extra keyword phrase against this low-volume domain reliably
+    # returns 0 results (the few documents in the window essentially never
+    # contain the literal word), while site: + when: alone returns real,
+    # freshly dated EU legal items.
+    ("EUR-Lex Health Law", _google_news_url("eur-lex.europa.eu"), "google_news"),
 ]
 
 ALL_SECTIONS = {
