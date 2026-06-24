@@ -105,12 +105,18 @@ SOURCES_EPIDEMIOLOGIA = [
 
 # --- 4. Badania kliniczne ------------------------------------------------------
 # Not part of the user's original source list (no category covers clinical
-# trials) - filled with the two official trial registries on the user's
-# explicit instruction, since both already proved reliable in the old
-# version of this project.
+# trials) - filled with the official trial registry plus trade press on the
+# user's explicit instruction to broaden this tile's source coverage.
+# EU Clinical Trials Register deliberately dropped (tested, not just left
+# unused): its Google News results are all generic CTIS portal/navigation
+# pages ("Clinical Trials in the European Union - EMA" repeated verbatim),
+# never an individual trial - unlike ClinicalTrials.gov, whose per-study
+# detail pages ("Study Details | NCTxxxxx | <real study name>") index fine.
 SOURCES_BADANIA_KLINICZNE = [
     ("ClinicalTrials.gov", _google_news_url("clinicaltrials.gov", locale=False), "google_news"),
-    ("EU Clinical Trials Register", _google_news_url("euclinicaltrials.eu", locale=False), "google_news"),
+    ("Clinical Trials Arena", _google_news_url("clinicaltrialsarena.com", locale=False, when="14d"), "google_news"),
+    ("Applied Clinical Trials", _google_news_url("appliedclinicaltrialsonline.com", locale=False, when="14d"), "google_news"),
+    ("TrialSite News", _google_news_url("trialsitenews.com", locale=False, when="14d"), "google_news"),
 ]
 
 # --- 5. Rynek farmaceutyczny i Biotech ------------------------------------------
@@ -124,6 +130,12 @@ SOURCES_RYNEK_FARMACEUTYCZNY = [
     # publication's real articles - now hosted at endpoints.news - show up
     # immediately under a plain name search. Named search instead of site:.
     ("Endpoints News", _google_news_url_named('"Endpoints News"', locale=False), "google_news"),
+    # Added on request to broaden this tile beyond the original 5 - all
+    # three verified by direct query before adding (real, current pharma/
+    # biotech trade-press headlines, not landing pages).
+    ("FiercePharma", _google_news_url("fiercepharma.com", locale=False, when="7d"), "google_news"),
+    ("BioPharma Dive", _google_news_url("biopharmadive.com", locale=False, when="7d"), "google_news"),
+    ("BioSpace", _google_news_url("biospace.com", locale=False, when="7d"), "google_news"),
 ]
 
 # --- 6. Wytyczne i rekomendacje --------------------------------------------------

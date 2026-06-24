@@ -31,7 +31,17 @@ logger = logging.getLogger(__name__)
 # with html.parser, just noisy in the logs without this.
 warnings.filterwarnings('ignore', category=XMLParsedAsHTMLWarning)
 
-MAX_ARTICLES_PER_SOURCE = 8
+# Google News ranks results by its own relevance signal within the
+# when:Nd window, *not* strictly by recency - confirmed on alertmedyczny.pl:
+# its top 8 "relevant" results were mostly perennial author-bio/category
+# pages (over a year old, correctly dropped by the freshness filter below),
+# while ~10 genuinely fresh, on-topic articles published that same day sat
+# just past that cutoff and never got a chance. A low cap here was silently
+# discarding real news before the freshness/quality/dedup funnel downstream
+# even saw it. Raised well past what any single source should usually need,
+# since everything past this point still has to clear every other filter
+# anyway - this only widens the *candidate* pool.
+MAX_ARTICLES_PER_SOURCE = 20
 MAX_ARTICLES_PER_SECTION = 30
 FRESHNESS_WINDOW_HOURS = 72
 DEDUPE_OVERLAP_THRESHOLD = 0.5
