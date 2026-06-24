@@ -406,6 +406,40 @@ def _dedupe(items):
     return kept
 
 
+# Every source in a tile gets its own dedicated query specifically so it
+# isn't crowded out by louder sources sharing one combined query (see
+# scraper/sources.py's docstring) - but a flat "take the 30 newest across
+# the whole section" cap *after* fetching undid that protection one step
+# later, since a single high-volume source's newest 8 items could still
+# fill most/all of those 30 slots, leaving low-volume sources with nothing
+# even though they had something to say. Round-robin by source instead: one
+# pass takes each source's next-most-recent item before any source gets a
+# second, guaranteeing every configured source a fair shot at a slot.
+PER_SOURCE_SECTION_CAP = 6
+
+
+def _cap_fairly_by_source(items, total_cap, per_source_cap):
+    by_source = {}
+    for item in items:  # already sorted newest-first
+        by_source.setdefault(item['source'], []).append(item)
+    result = []
+    while len(result) < total_cap:
+        progressed = False
+        for bucket in by_source.values():
+            if not bucket:
+                continue
+            if sum(1 for r in result if r['source'] == bucket[0]['source']) >= per_source_cap:
+                continue
+            result.append(bucket.pop(0))
+            progressed = True
+            if len(result) >= total_cap:
+                break
+        if not progressed:
+            break
+    result.sort(key=lambda it: it['date'], reverse=True)
+    return result
+
+
 def fetch_section(name_to_url_kind, section_key=None):
     """Fetches every source in a section concurrently, dedupes, caps, decodes
     + quality-filters, enriches with the real page content, then translates
@@ -420,7 +454,7 @@ def fetch_section(name_to_url_kind, section_key=None):
         all_items = [item for f in futures for item in f.result()]
 
     all_items.sort(key=lambda it: it['date'], reverse=True)
-    deduped = _dedupe(all_items)[:MAX_ARTICLES_PER_SECTION]
+    deduped = _cap_fairly_by_source(_dedupe(all_items), MAX_ARTICLES_PER_SECTION, PER_SOURCE_SECTION_CAP)
 
     # Decode the real publisher URL and drop low-quality items *before*
     # enriching/translating - PDFs, login walls, search/tool pages and
@@ -562,6 +596,21 @@ def _is_low_quality(item):
     # for non-article pages instead of a real headline.
     tokens = title.split()
     if tokens and sum(1 for t in tokens if len(t) == 1) / len(tokens) > 0.4:
+        return True
+    # Photo galleries and paginated tag/category listings (confirmed on
+    # politykazdrowotna.com: "Zdjęcia z..." galleries and "...- strona 13"
+    # listing pages) - real substance, but not an article with actual text.
+    if title_lower.startswith('zdjęcia ') or title_lower.startswith('zdjęcia z'):
+        return True
+    if re.search(r'-\s*strona\s+\d+', title_lower):
+        return True
+    # An author bio/tag page's "headline" is just the person's name (e.g.
+    # "Sławomir Skomra - PolitykaZdrowotna.com") - strip the trailing
+    # " - <source>"-style suffix and check what's left isn't just 1-2
+    # capitalized words with nothing else (a real headline never is).
+    headline = re.sub(r'\s*[-–]\s*[^-–]+$', '', title)
+    headline_words = headline.split()
+    if 1 <= len(headline_words) <= 2 and all(w[:1].isupper() for w in headline_words):
         return True
     return False
 
