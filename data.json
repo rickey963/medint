@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T21:16:33Z",
+  "last_updated": "2026-06-24T21:17:03Z",
   "poland": [
     {
       "title": "Wyszukiwarka tagów - Narodowy Fundusz Zdrowia (NFZ)",
@@ -216,14 +216,6 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "TreÅci z serwisu Medonet majÄ na celu polepszenie, a nie zastÄ pienie, kontaktu pomiÄdzy UÅ¼ytkownikiem a jego lekarzem. Serwis ma charakter wyÅÄ cznie informacyjno-edukacyjny. Przed zastosowaniem siÄ do porad z zakresu wiedzy specjalistycznej, w szczegÃ³lnoÅci medycznych, zawartych w Serwisie naleÅ¼y bezwzglÄdnie skonsultowaÄ siÄ z lekarzem."
-    },
-    {
-      "title": "Publikacje autora - lek. Katarzyna Nowik - Podyplomie.pl",
-      "url": "https://podyplomie.pl/autor/katarzyna-nowik",
-      "date": "2026-06-23T19:22:07Z",
-      "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
-      "summary": "lek. Katarzyna Nowik. 1 artykuł naukowy w serwisie Podyplomie.pl."
     }
   ],
   "world": [
@@ -400,6 +392,14 @@
   ],
   "epidemiology": [
     {
+      "title": "Epidemia wirusa Ebola: co robi CDC – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/what-cdc-is-doing.html",
+      "date": "2026-06-24T20:28:13Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "Dowiedz się, jak CDC reaguje na obecną epidemię wirusa Ebola."
+    },
+    {
       "title": "655 milionów ludzi nadal żyjących bez prądu podkreśla pilną potrzebę osiągnięcia celu dotyczącego powszechnego dostępu do energii – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target",
       "date": "2026-06-24T12:08:26Z",
@@ -462,6 +462,14 @@
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "W 2024 r. w 30 krajach Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) zgłoszono 2233 potwierdzonych przypadków inwazyjnej choroby meningokokowej (IMD), w tym 202 zgony."
+    },
+    {
+      "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania osobami potencjalnie narażonymi na wirusa Andów — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/hantavirus/php/emergency-guidance/index.html",
+      "date": "2026-06-23T00:20:23Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Wytyczne dotyczące postępowania z osobami potencjalnie narażonymi na wirusa Andy podczas obecnej epidemii."
     },
     {
       "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -782,6 +790,14 @@
   ],
   "critical_alerts": [
     {
+      "title": "Epidemia wirusa Ebola: co robi CDC – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/what-cdc-is-doing.html",
+      "date": "2026-06-24T20:28:13Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "Dowiedz się, jak CDC reaguje na obecną epidemię wirusa Ebola."
+    },
+    {
       "title": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0552",
       "date": "2026-06-23T18:38:23Z",
@@ -799,6 +815,22 @@
     }
   ],
   "daily_top5": [
+    {
+      "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania osobami potencjalnie narażonymi na wirusa Andów — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/hantavirus/php/emergency-guidance/index.html",
+      "date": "2026-06-23T00:20:23Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Wytyczne dotyczące postępowania z osobami potencjalnie narażonymi na wirusa Andy podczas obecnej epidemii."
+    },
+    {
+      "title": "Epidemia wirusa Ebola: co robi CDC – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/what-cdc-is-doing.html",
+      "date": "2026-06-24T20:28:13Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "Dowiedz się, jak CDC reaguje na obecną epidemię wirusa Ebola."
+    },
     {
       "title": "Notatka do wycofania: Immunochemioterapia o określonej porze dnia w niedrobnokomórkowym raku płuca: randomizowane badanie III fazy - Nature",
       "url": "https://www.nature.com/articles/s41591-026-04508-1",
@@ -822,22 +854,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Podczas warsztatów zorganizowanych przez Światową Organizację Zdrowia (WHO) w Nairobi w Kenii w dniach 3–5 czerwca urzędnicy Ministerstwa Zdrowia z Kenii, Malawi i Zambii dołączyli do ponad 80 zainteresowanych stron zajmujących się szczepionkami przeciwko gruźlicy (TB), w tym osób, które przebyły gruźlicę, przedstawicieli społeczeństwa obywatelskiego, agencji technicznych i regulacyjnych, darczyńców i partnerów wykonawczych, aby przyspieszyć przygotowanie krajów do wprowadzenia nowych szczepionek przeciw gruźlicy, obecnie znajdujących się w fazie rozwoju klinicznego, dla dorosłych i młodzieży."
-    },
-    {
-      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 rok – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/publications-data/invasive-meningococcal-disease-annual-epidemiological-report-2024",
-      "date": "2026-06-23T08:46:01Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "W 2024 r. w 30 krajach Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) zgłoszono 2233 potwierdzonych przypadków inwazyjnej choroby meningokokowej (IMD), w tym 202 zgony."
-    },
-    {
-      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-06-22T19:25:07Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
     }
   ]
 }
