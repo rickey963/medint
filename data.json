@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T20:11:40Z",
+  "last_updated": "2026-06-24T20:12:11Z",
   "poland": [
     {
       "title": "Zdrowe warzywa, zaskakujący efekt. 278 tys. zgonów rocznie - Rynek Zdrowia",
@@ -10,20 +10,20 @@
       "summary": "Zdrowe warzywa, zaskakujący efekt. 278 tys. zgonów rocznie Rynek Zdrowia."
     },
     {
-      "title": "Programy profilaktyczne - Gdzie się leczyć - NFZ - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://gsl.nfz.gov.pl/GSL/GSL/ProgramyProfilaktyczne",
-      "date": "2026-06-24T18:24:38Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Programy profilaktyczne - Gdzie się leczyć - NFZ Narodowy Fundusz Zdrowia (NFZ)."
-    },
-    {
       "title": "Leczenie ran i oparzeń w gabinecie lekarza rodzinnego - TRANSMISJA VIP | Webinar - Termedia",
       "url": "https://www.termedia.pl/Konferencja-Leczenie-ran-i-oparzen-w-TRANSMISJA-VIP,3040,45353.html",
       "date": "2026-06-24T18:00:08Z",
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Leczenie ran i oparzeń w gabinecie lekarza rodzinnego - TRANSMISJA VIP | Webinar Termedia."
+    },
+    {
+      "title": "Gdzie się leczyć - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://gsl.nfz.gov.pl/",
+      "date": "2026-06-24T17:50:33Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Gdzie się leczyć Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
       "title": "GSL - Gdzie się leczyć - NFZ - Narodowy Fundusz Zdrowia (NFZ)",
@@ -50,12 +50,12 @@
       "summary": "32 postępowania i 12 zgonów. Prokuratura ujawnia skalę spraw w Szpitalu Południowym Rynek Zdrowia."
     },
     {
-      "title": "Gdzie się leczyć - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://gsl.nfz.gov.pl/",
-      "date": "2026-06-24T14:48:33Z",
+      "title": "Programy profilaktyczne - Gdzie się leczyć - NFZ - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://gsl.nfz.gov.pl/GSL/GSL/ProgramyProfilaktyczne",
+      "date": "2026-06-24T15:24:44Z",
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
-      "summary": "Gdzie się leczyć Narodowy Fundusz Zdrowia (NFZ)."
+      "summary": "Programy profilaktyczne - Gdzie się leczyć - NFZ Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
       "title": "Stanowisko Minister Zdrowia - Gov.pl",
@@ -268,6 +268,14 @@
       "summary": "Inspirowanie, kształtowanie i utrzymywanie afrykańskiego programu badań i rozwoju Natura."
     },
     {
+      "title": "Krótkoterminowa DAPT w celu zapobiegania okluzji przeszczepu żyły odpiszczelowej po CABG – lekarz NEJM",
+      "url": "https://clinician.nejm.org/short-term-dapt-prevent-saphenous-vein-graft-occlusion-cabg-CLINjwNA60227",
+      "date": "2026-06-24T08:30:15Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Krótkoterminowa DAPT w celu zapobiegania okluzji przeszczepu żyły odpiszczelowej po CABG NEJM Lekarz."
+    },
+    {
       "title": "Menedżer Portfolio Cyfrowego - Zastępca Architekta Rozwiązań - The BMJ",
       "url": "https://www.bmj.com/healthcareers/job/823010/digital-portfolio-manager-deputy-solutions-architect/",
       "date": "2026-06-24T06:16:58Z",
@@ -362,14 +370,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "53-letnia kobieta z bólem ucha i osłabieniem twarzy Dowody NEJM."
-    },
-    {
-      "title": "Immunoterapia niepłodności w autoimmunologicznej przedwczesnej niewydolności jajników – dowody NEJM",
-      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDoa2500303?query=recirc_crossjournalmorepubs",
-      "date": "2026-06-23T14:47:18Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Immunoterapia płodności w autoimmunologicznej przedwczesnej niewydolności jajników Dowody NEJM."
     }
   ],
   "guidelines": [
@@ -546,14 +546,6 @@
   ],
   "clinical_trials": [
     {
-      "title": "Szczegóły badania | NCT07663110 | Walka z opornością i ekonomika opieki zdrowotnej poprzez badania przesiewowe CPE – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07663110",
-      "date": "2026-06-24T08:08:15Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07663110 | Walka z opornością i ekonomika opieki zdrowotnej poprzez badania przesiewowe CPE ClinicalTrials.gov."
-    },
-    {
       "title": "Szczegóły badania | NCT07662512 | Różne stężenia ozonu w chorobie zwyrodnieniowej stawu kolanowego – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07662512",
       "date": "2026-06-24T06:51:58Z",
@@ -600,6 +592,14 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PIES w szwedzkiej praktyce (ALLERDOGSWEDEN) ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07661342 | Badanie DEPART w Yale – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07661342",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07661342 | Badanie DEPART na Yale ClinicalTrials.gov."
     }
   ],
   "pharma_market": [
@@ -674,6 +674,14 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Etykiety i limity dotyczące terapii testosteronem mogą ulec zmianie zgodnie z propozycją FDA Drugs.com."
+    },
+    {
+      "title": "System oparty na AI-OCT Noninferior do wykrywania cukrzycowego obrzęku plamki - Drugs.com",
+      "url": "https://www.drugs.com/news/ai-oct-based-noninferior-diabetic-macular-edema-detection-130427.html",
+      "date": "2026-06-23T17:33:36Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "System oparty na AI-OCT Noninferior do wykrywania cukrzycowego obrzęku plamki Drugs.com."
     },
     {
       "title": "Zaktualizowane wytyczne dotyczące protokołów głównych amerykańskiej FDA obejmują szczegółowe plany komunikacji – Citeline News & Insights",
