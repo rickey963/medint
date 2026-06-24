@@ -59,7 +59,7 @@
     "study_type": "Inne"
   },
   {
-    "title": "1. Sekwencja całkowitego mRNA okrężnicy myszy ASF +-B.theta +-włókno pszenne BioProject Dostęp: PRJNA1298791 ID: 1298791",
+    "title": "1. Sekwencja mRNA całkowitego okrężnicy myszy ASF +-B.theta +-włókno pszenne BioProject Dostęp: PRJNA1298791 ID: 1298791",
     "title_original": "1. total colon mRNA-seq of ASF mouse +-B.theta +-wheat fiber BioProject Accession: PRJNA1298791 ID: 1298791",
     "url": "https://ncbi.nlm.nih.gov/bioproject/PRJNA1298791",
     "date": "2026-06-24 09:50",
@@ -68,7 +68,7 @@
     "specializations": []
   },
   {
-    "title": "1. Sekwencja mRNA całkowitego okrężnicy myszy ASF +-B.theta +-włókno pszenne BioProject Dostęp: PRJNA1298791 ID: 1298791",
+    "title": "1. Sekwencja całkowitego mRNA okrężnicy myszy ASF +-B.theta +-włókno pszenne BioProject Dostęp: PRJNA1298791 ID: 1298791",
     "title_original": "1. total colon mRNA-seq of ASF mouse +-B.theta +-wheat fiber BioProject Accession: PRJNA1298791 ID: 1298791",
     "url": "https://ncbi.nlm.nih.gov/bioproject/PRJNA1298791",
     "date": "2026-06-24 09:50",
@@ -129,17 +129,6 @@
     ]
   },
   {
-    "title": "Obiektywna charakterystyka snu i odpowiedź na immunoterapię neoadiuwantową w raku żołądka/​GEJ",
-    "title_original": "Objective Sleep Characteristics and Neoadjuvant Immunotherapy Response in Gastric/​GEJ Cancer",
-    "url": "https://clinicaltrials.gov/study/NCT07662005",
-    "date": "2026-06-24 08:48",
-    "summary": "",
-    "source": "ClinicalTrials.gov",
-    "specializations": [
-      "Gastroenterologia i hepatologia"
-    ]
-  },
-  {
     "title": "Modyfikacja fenotypu dziąseł przy użyciu macierzy kolagenowej w porównaniu z bezkomórkową allogeniczną macierzą skórną: porównawcze badanie przedkliniczne",
     "title_original": "Gingival phenotype modification using collagen matrix versus acellular allogenic dermal matrix: A comparative preclinical study",
     "url": "https://www.nature.com/articles/s41598-026-59088-4",
@@ -150,6 +139,17 @@
       "Dermatologia"
     ],
     "study_type": "Inne"
+  },
+  {
+    "title": "Obiektywna charakterystyka snu i odpowiedź na immunoterapię neoadiuwantową w raku żołądka/​GEJ",
+    "title_original": "Objective Sleep Characteristics and Neoadjuvant Immunotherapy Response in Gastric/​GEJ Cancer",
+    "url": "https://clinicaltrials.gov/study/NCT07662005",
+    "date": "2026-06-24 08:48",
+    "summary": "",
+    "source": "ClinicalTrials.gov",
+    "specializations": [
+      "Gastroenterologia i hepatologia"
+    ]
   },
   {
     "title": "Medycyna | 2026 — Przeglądaj problemy",
@@ -264,7 +264,7 @@
     "specializations": []
   },
   {
-    "title": "Rozszyfrowanie roli DNA drobnoustrojów tkanki tłuszczowej w dysfunkcjach metabolicznych związanych z otyłością.",
+    "title": "Rozszyfrowanie roli mikrobiologicznego DNA tkanki tłuszczowej w dysfunkcjach metabolicznych związanych z otyłością.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42339619/",
     "date": "2026-06-24 02:00",
     "summary": "",
@@ -920,7 +920,7 @@
     "title_original": "DNA-mediated alteration of the reversion frequency of transformed NIH/3T3 cells.",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC393556/?page=5",
     "date": "2026-06-20 20:31",
-    "summary": "Do selekcji specyficznych sekwencji DNA wywołujących efekt fenotypowy zastosowano selekcję komórek bezpośrednio po transfekcji DNA całych komórek do komórek ssaczych za pośrednictwem DNA. Całe mysie lub ludzkie DNA rozszczepiono na dystrybucję ...",
+    "summary": "Do selekcji specyficznych sekwencji DNA wywołujących efekt fenotypowy zastosowano selekcję komórek bezpośrednio po transfekcji DNA całych komórek do komórek ssaczych za pośrednictwem DNA. Całe mysie lub ludzkie DNA rozszczepiono na dystrybucję...",
     "source": "PubMed Central (PMC) (.gov)",
     "specializations": []
   },
