@@ -1,0 +1,266 @@
+/* style.css - MEDINT, light medical theme */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+/* Custom scrollbar for the light theme */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f0f9ff; /* sky-50 */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #bae6fd; /* sky-200 */
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #7dd3fc; /* sky-300 */
+}
+
+/* Pasek krytycznych alertów - przesuwa się od prawej do lewej, bardzo wolno,
+   tak by dało się spokojnie przeczytać; treść zduplikowana (a/b) tak, że
+   translateX(-50%) zapętla się bez widocznego skoku. */
+.ticker-viewport {
+    overflow: hidden;
+    position: relative;
+    height: 1.1rem;
+}
+
+.ticker-track {
+    display: flex;
+    width: max-content;
+    animation: ticker-scroll 45s linear infinite;
+}
+
+.ticker-track span {
+    white-space: nowrap;
+    padding-right: 5rem;
+}
+
+@keyframes ticker-scroll {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+}
+
+/* Kafelki informacji (News Cards) */
+.news-card {
+    background: #ffffff;
+    border: 1px solid #e0f2fe; /* sky-100 */
+    padding: 0.5rem 0.65rem;
+    border-radius: 0.5rem;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.news-card:hover {
+    transform: translateY(-3px);
+    border-color: #0ea5e9; /* sky-500 */
+    box-shadow: 0 10px 20px -8px rgba(14, 165, 233, 0.25);
+}
+
+/* Styl dla świeżych artykułów (ostatnia 1 godzina) */
+.new-article {
+    border-left: 4px solid #22c55e; /* green-500 */
+    animation: pulse-subtle 2s infinite;
+}
+
+@keyframes pulse-subtle {
+    0% { background-color: rgba(34, 197, 94, 0.06); }
+    50% { background-color: rgba(34, 197, 94, 0.18); }
+    100% { background-color: rgba(34, 197, 94, 0.06); }
+}
+
+.news-title {
+    font-size: 0.78rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 0.25rem;
+    color: #0f172a; /* slate-900 */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.news-snippet {
+    font-size: 0.7rem;
+    color: #64748b; /* slate-500 */
+    line-height: 1.35;
+    margin-bottom: 0.3rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Source link (left) + timestamp (right), pinned to the card's bottom edge */
+.news-footer {
+    margin-top: auto;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem;
+}
+
+.news-link {
+    font-size: 0.62rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #0284c7; /* sky-600 */
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.news-date {
+    font-size: 0.6rem;
+    color: #94a3b8; /* slate-400 */
+    font-family: ui-monospace, monospace;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.news-link:hover {
+    text-decoration: underline;
+}
+
+/* Potwierdzone przez N źródeł */
+.confirmed-badge {
+    font-size: 0.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #0284c7; /* sky-600 */
+    background: rgba(14, 165, 233, 0.1);
+    border: 1px solid rgba(14, 165, 233, 0.3);
+    padding: 0.05rem 0.3rem;
+    border-radius: 0.25rem;
+    margin-left: 0.3rem;
+}
+
+/* "Co musisz wiedzieć dzisiaj" - top 5 list */
+.top5-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+    padding: 0.4rem 0.2rem;
+    border-bottom: 1px solid #f0f9ff;
+}
+
+.top5-item:last-child {
+    border-bottom: none;
+}
+
+.top5-rank {
+    flex-shrink: 0;
+    width: 1.4rem;
+    height: 1.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #0ea5e9;
+    color: #fff;
+    font-size: 0.65rem;
+    font-weight: 800;
+}
+
+.top5-title {
+    display: block;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: #0f172a;
+    text-decoration: none;
+    line-height: 1.35;
+}
+
+.top5-title:hover {
+    color: #0284c7;
+    text-decoration: underline;
+}
+
+.top5-meta {
+    font-size: 0.62rem;
+    color: #94a3b8;
+    margin-top: 0.1rem;
+}
+
+/* "Alerty medyczne" - red alert cards */
+.alert-card {
+    background: #fef2f2; /* red-50 */
+    border: 1px solid #fecaca; /* red-200 */
+    border-radius: 0.5rem;
+    padding: 0.45rem 0.6rem;
+}
+
+.alert-card-tag {
+    font-size: 0.6rem;
+    font-weight: 800;
+    color: #dc2626; /* red-600 */
+    letter-spacing: 0.05em;
+    margin-bottom: 0.15rem;
+}
+
+.alert-card-title {
+    display: block;
+    font-size: 0.76rem;
+    font-weight: 700;
+    color: #7f1d1d; /* red-900 */
+    text-decoration: none;
+    line-height: 1.35;
+}
+
+.alert-card-title:hover {
+    text-decoration: underline;
+}
+
+.alert-card-summary {
+    font-size: 0.68rem;
+    color: #991b1b; /* red-800 */
+    margin-top: 0.2rem;
+    line-height: 1.3;
+}
+
+.alert-card-meta {
+    font-size: 0.6rem;
+    color: #b91c1c;
+    margin-top: 0.25rem;
+    opacity: 0.8;
+}
+
+/* News containers: fixed height (fits viewport), internal list scrolls so more
+   than the first few articles remain reachable without growing the panel. */
+/* !important: Tailwind's Play CDN injects its generated stylesheet at
+   runtime (after this file loads), so a plain "overflow-hidden" utility
+   class added anywhere on these elements would otherwise win the cascade
+   and silently re-disable scrolling. */
+[id^="news-"] {
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+    padding-right: 6px;
+}
+
+[id^="news-"]::-webkit-scrollbar {
+    width: 4px;
+}
+
+[id^="news-"]::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+[id^="news-"]::-webkit-scrollbar-thumb {
+    background: #bae6fd; /* sky-200 */
+    border-radius: 2px;
+}

@@ -1,28 +1,18 @@
-name: Medint Auto-Update (Scrape & Deploy)
+name: MEDINT Auto-Update (Fetch & Deploy)
 
 on:
   schedule:
-    # The 10 Google News queries (split across sources.py's groups so big
-    # publishers don't crowd out small ones) now run concurrently instead of
-    # sequentially, which cut the scrape step from ~12 minutes to ~4.5. Add the
-    # checkout/pip/npm/build/deploy steps around it and a full workflow run is
-    # ~7-9 minutes, so a 10-minute cron leaves headroom without the 2-3x
-    # overlap a 5-minute cron would cause.
-    # Offset to :03/:13/:23... instead of the exact :00/:10/:20 boundary —
-    # GitHub's scheduler queues everyone's round-number cron ticks together,
-    # and under load it silently drops ticks rather than just delaying them
-    # (observed: a 6-11h gap with zero schedule-triggered runs even though
-    # the workflow stayed "active"). Off-the-hour minutes see far less queue
-    # contention.
-    - cron: '3-59/10 * * * *'
+    # Native GitHub Actions cron is unreliable on its own (the old React/CRA
+    # version of this project saw multi-hour gaps even while "active") - kept
+    # only as a rare fallback. The push-triggered self-chain below (see
+    # checkout step's token) is what actually drives the ~1-3 minute cadence.
+    - cron: '7-59/15 * * * *'
   workflow_dispatch:
   push:
     branches:
       - main
 
 concurrency:
-  # Schedule and push triggers can land close together; queue them instead of
-  # running in parallel so they don't race on the same git push / Pages deploy.
   group: medint-auto-update
   cancel-in-progress: false
 
@@ -35,46 +25,39 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-          # A push made with the default GITHUB_TOKEN deliberately does not
-          # trigger this workflow's own `push` trigger (GitHub's anti-loop
-          # guard) — that's why GitHub's flaky native cron was the only thing
-          # keeping this alive, and why it died for hours whenever a tick was
-          # dropped. A PAT isn't subject to that guard, so pushing with it
-          # makes each run's commit kick off the next run immediately,
-          # turning this into a self-sustaining chain that doesn't depend on
-          # the schedule firing at all.
+          # Full history isn't needed - the commit step re-fetches origin/main
+          # and rebases before pushing, so a shallow clone of the tip is enough
+          # and skips downloading the (large, ever-growing) automated-commit history.
+          fetch-depth: 1
+          # A push made with the default GITHUB_TOKEN does not trigger this
+          # workflow's own `push` trigger (GitHub's anti-loop guard). A PAT
+          # isn't subject to that guard, so pushing with it makes each run's
+          # commit kick off the next run immediately - a self-sustaining
+          # chain that doesn't depend on the schedule firing at all.
+          # Requires a repo secret named ACTIONS_PUSH_PAT (same as osint).
           token: ${{ secrets.ACTIONS_PUSH_PAT }}
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+          cache: 'pip'
 
-      - name: Install Scraper Dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f scraper/requirements.txt ]; then pip install -r scraper/requirements.txt; fi
+          pip install -r requirements.txt
 
-      - name: Run All Scrapers
-        run: python scraper/engine.py
+      - name: Run data fetcher
+        run: python fetch_data.py
 
       - name: Commit and Push Data Updates
         run: |
           git config --local user.email "rickey@o2.pl"
           git config --local user.name "rickey963"
-          git add src/data/*.json
-          # Always touch a heartbeat file so there's always something to
-          # commit, even when the scrape finds zero new articles. Without
-          # this, a quiet news cycle means no push, which means no
-          # self-trigger, which means the chain stalls until the unreliable
-          # `schedule` cron happens to fire again.
-          mkdir -p src/data
-          date -u +%FT%TZ > src/data/.last_run
-          git add src/data/.last_run
+          git add data.json
           if ! git diff --cached --quiet; then
-            git commit -m "Automated Data Update: $(date)"
-            # Retry loop to handle race conditions during concurrent runs
+            git commit -m "Automated MEDINT Data Update: $(date -u +%FT%TZ)"
             for i in {1..5}; do
               echo "Attempt $i to push to origin main..."
               git fetch origin main
@@ -89,22 +72,8 @@ jobs:
           else
             echo "No data changes detected, skipping commit."
           fi
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: package-lock.json
-
-      - name: Install Web Dependencies
-        run: npm ci
-
-      - name: Build Project
-        run: npm run build
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
+      # No separate deploy step: GitHub Pages for this repo should be set to
+      # serve directly from main/root (same as osint) - pushing data.json to
+      # main *is* the deploy. No build step, no gh-pages branch, no extra
+      # action needed. Verify in repo Settings -> Pages that source is set to
+      # "Deploy from a branch" / main / root.

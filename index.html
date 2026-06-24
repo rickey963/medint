@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MEDINT - monitoring medyczny</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-sky-50 text-slate-800 font-sans antialiased h-screen overflow-hidden flex flex-col">
+
+    <!-- 1. ALERT KRYTYCZNY (Full Width, Top, scrolling ticker) -->
+    <div id="critical-banner" class="w-full bg-red-600 text-white py-1.5 shadow-2xl z-[100] relative shrink-0 flex items-center overflow-hidden">
+        <span class="shrink-0 pl-4 pr-3 font-black uppercase tracking-tighter text-xs flex items-center gap-2">
+            <span class="animate-pulse">🔴</span> ALERT
+        </span>
+        <div class="ticker-viewport flex-1 min-w-0">
+            <div id="critical-ticker" class="ticker-track font-black uppercase tracking-tighter text-xs">
+                <span id="critical-alert-text-a">ŁADOWANIE ALERTÓW MEDYCZNYCH...</span>
+                <span id="critical-alert-text-b" aria-hidden="true">ŁADOWANIE ALERTÓW MEDYCZNYCH...</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- HEADER WITH LAST UPDATED -->
+    <header class="bg-white/90 backdrop-blur-md border-b border-sky-200 px-4 py-1.5 shadow-sm shrink-0">
+        <div class="w-full flex flex-col md:flex-row justify-between items-center gap-2">
+            <h1 class="text-base font-black tracking-tighter text-sky-700 uppercase italic flex items-center gap-2">
+                <span>🩺</span> MEDINT - monitoring medyczny
+            </h1>
+            <div id="last-update" class="text-[9px] font-mono text-slate-500 bg-sky-50 px-3 py-0.5 rounded border border-sky-200">
+                OSTATNIA AKTUALIZACJA: <span id="update-time">--:--</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="w-full flex-1 min-h-0 flex flex-col gap-2 px-4 py-2 overflow-hidden">
+
+        <!-- TOP: "Co musisz wiedzieć dzisiaj" (left) + "Alerty medyczne" (right) -->
+        <div class="flex-[1.1] min-h-0 grid grid-cols-1 lg:grid-cols-5 gap-3">
+
+            <section class="lg:col-span-3 min-h-0 flex flex-col gap-1 bg-white border border-sky-200 rounded-2xl shadow-sm p-3 overflow-hidden">
+                <h2 class="text-[11px] font-bold uppercase tracking-widest text-sky-700 border-b border-sky-100 pb-1 shrink-0 flex items-center gap-1.5">
+                    <span>💉</span> Co musisz wiedzieć dzisiaj
+                </h2>
+                <div id="daily-top5" class="flex-1 min-h-0 flex flex-col gap-1.5 overflow-y-auto pr-1"></div>
+            </section>
+
+            <aside class="lg:col-span-2 min-h-0 flex flex-col gap-1 bg-white border border-red-200 rounded-2xl shadow-sm p-3 overflow-hidden">
+                <h2 class="text-[11px] font-bold uppercase tracking-widest text-red-600 border-b border-red-100 pb-1 shrink-0 flex items-center gap-1.5">
+                    <span>🚨</span> Alerty medyczne
+                </h2>
+                <div id="medical-alerts" class="flex-1 min-h-0 flex flex-col gap-1.5 overflow-y-auto pr-1"></div>
+            </aside>
+        </div>
+
+        <!-- BOTTOM: 6 topical tiles -->
+        <section id="news-grid" class="flex-[1.6] min-h-0 grid grid-cols-2 md:grid-cols-3 gap-3 overflow-hidden">
+            <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden bg-white border border-sky-100 rounded-2xl shadow-sm p-2">
+                <h2 class="text-xs font-bold text-blue-700 uppercase border-b border-blue-100 pb-1 shrink-0 flex items-center gap-1.5"><span>🇵🇱</span> Polska</h2>
+                <div id="news-poland" class="min-h-0 flex-1 flex flex-col gap-2"></div>
+            </div>
+            <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden bg-white border border-teal-100 rounded-2xl shadow-sm p-2">
+                <h2 class="text-xs font-bold text-teal-700 uppercase border-b border-teal-100 pb-1 shrink-0 flex items-center gap-1.5"><span>🌍</span> Świat</h2>
+                <div id="news-world" class="min-h-0 flex-1 flex flex-col gap-2"></div>
+            </div>
+            <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden bg-white border border-indigo-100 rounded-2xl shadow-sm p-2">
+                <h2 class="text-xs font-bold text-indigo-700 uppercase border-b border-indigo-100 pb-1 shrink-0 flex items-center gap-1.5"><span>📋</span> Wytyczne i rekomendacje</h2>
+                <div id="news-guidelines" class="min-h-0 flex-1 flex flex-col gap-2"></div>
+            </div>
+            <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden bg-white border border-amber-100 rounded-2xl shadow-sm p-2">
+                <h2 class="text-xs font-bold text-amber-700 uppercase border-b border-amber-100 pb-1 shrink-0 flex items-center gap-1.5"><span>🦠</span> Epidemiologia i zdrowie publiczne</h2>
+                <div id="news-epidemiology" class="min-h-0 flex-1 flex flex-col gap-2"></div>
+            </div>
+            <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden bg-white border border-purple-100 rounded-2xl shadow-sm p-2">
+                <h2 class="text-xs font-bold text-purple-700 uppercase border-b border-purple-100 pb-1 shrink-0 flex items-center gap-1.5"><span>🧪</span> Badania kliniczne</h2>
+                <div id="news-clinical-trials" class="min-h-0 flex-1 flex flex-col gap-2"></div>
+            </div>
+            <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden bg-white border border-emerald-100 rounded-2xl shadow-sm p-2">
+                <h2 class="text-xs font-bold text-emerald-700 uppercase border-b border-emerald-100 pb-1 shrink-0 flex items-center gap-1.5"><span>💊</span> Rynek farmaceutyczny i Biotech</h2>
+                <div id="news-pharma-market" class="min-h-0 flex-1 flex flex-col gap-2"></div>
+            </div>
+        </section>
+
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
