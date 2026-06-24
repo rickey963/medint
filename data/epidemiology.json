@@ -1,5 +1,14 @@
 [
   {
+    "title": "Objawy Powassana",
+    "title_original": "Symptoms of Powassan",
+    "url": "https://www.cdc.gov/powassan/signs-symptoms/index.html",
+    "date": "2026-06-24 03:05",
+    "summary": "Objawy Powassana obejmują gorączkę, ból głowy, osłabienie i inne. Skonsultuj się z lekarzem w celu postawienia diagnozy.",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "specializations": []
+  },
+  {
     "title": "Objawy żółtej febry",
     "title_original": "Symptoms of Yellow Fever",
     "url": "https://www.cdc.gov/yellow-fever/signs-symptoms/index.html",
@@ -41,15 +50,6 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Ogólna strona wyszukiwania",
-    "title_original": "General search page",
-    "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+1305+0400++%5B%5BADEFA%5D%5D++Harga+Pengadaan+Geobag+Pengendali+Banjir+Terpercaya+Surakarta+Jawa+Tengah",
-    "date": "2026-06-23 22:53",
-    "summary": "",
-    "source": "World Health Organization (WHO)",
-    "specializations": []
-  },
-  {
     "title": "Odkrycie chinowca jako środka przeciwmalarycznego, Wicekrólestwo Peru, około 1630 r.",
     "title_original": "Discovery of Cinchona as Antimalarial, Viceroyalty of Peru, Circa 1630",
     "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0042_article",
@@ -57,18 +57,6 @@
     "summary": "Odkrycie Cinchona jako środka przeciwmalarycznego, Peru",
     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
     "specializations": []
-  },
-  {
-    "title": "Neurologiczna bąblowica pęcherzykowa u goryla poporodowego trzymanego w zoo, Holandia, 2024 r.",
-    "title_original": "Neurologic Alveolar Echinococcosis in Postpartum Zoo-Housed Gorilla, the Netherlands, 2024",
-    "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0136",
-    "date": "2026-06-23 21:58",
-    "summary": "Neurologiczna bąblowica pęcherzykowa u goryla poporodowego trzymanego w zoo, Holandia, 2024 r.",
-    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-    "specializations": [
-      "Neurologia",
-      "Urologia"
-    ]
   },
   {
     "title": "Choroby zakaźne: patogeneza i terapia",
@@ -115,6 +103,15 @@
     "date": "2026-06-23 20:44",
     "summary": "",
     "source": "Eurosurveillance",
+    "specializations": []
+  },
+  {
+    "title": "Ogólna strona wyszukiwania",
+    "title_original": "General search page",
+    "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+1305+0400++%5B%5BAdefa%5D%5D++Pusat+Penjualan+Geocell+HDPE+Proyek+Nias+Sumatera+Utara",
+    "date": "2026-06-23 20:22",
+    "summary": "",
+    "source": "World Health Organization (WHO)",
     "specializations": []
   },
   {
@@ -502,6 +499,18 @@
     "category": "Epidemiologia"
   },
   {
+    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorobowości",
+    "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
+    "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
+    "date": "2026-06-22 17:29",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Pediatria"
+    ],
+    "category": "Epidemiologia"
+  },
+  {
     "title": "Doustna szczepionka przeciwko polio Stan nieznany. Faza 4. Badania kliniczne dla niemowląt / noworodków / zachorowań",
     "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
     "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
@@ -515,18 +524,6 @@
   },
   {
     "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorowalności",
-    "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
-    "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
-    "date": "2026-06-22 17:29",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Pediatria"
-    ],
-    "category": "Epidemiologia"
-  },
-  {
-    "title": "Doustna szczepionka przeciwko polio, stan nieznany, faza 4. Badania kliniczne dla niemowląt/noworodków/zachorobowości",
     "title_original": "Oral Polio Vaccine Unknown Status Phase 4 Trials for Infants / Newborns / Morbidity",
     "url": "https://go.drugbank.com/drugs/DB15864/clinical_trials?conditions=DBCOND0012067%2CDBCOND0093462%2CDBCOND0057034%2CDBCOND0088134%2CDBCOND0030555%2CDBCOND0051777%2CDBCOND0059516%2CDBCOND0081712%2CDBCOND0031429&phase=4&purpose=prevention&status=unknown_status",
     "date": "2026-06-22 17:29",
@@ -644,7 +641,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Na wypadek, gdybyś to przeoczył: amerykańska FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
+    "title": "Na wypadek, gdybyś to przeoczył: amerykańska agencja FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
     "title_original": "In Case You Missed It: US FDA Adcomm OKs Moderna Flu Vaccine, BIO Preview And More",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/vaccines/in-case-you-missed-it-us-fda-adcomm-oks-moderna-flu-vaccine-bio-preview-and-more-BJPBEA4FCFDWTN3P35Y2QN6QZU/",
     "date": "2026-06-21 16:00",
@@ -654,7 +651,7 @@
     "category": "Epidemiologia"
   },
   {
-    "title": "Na wypadek, gdybyś to przeoczył: amerykańska agencja FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
+    "title": "Na wypadek, gdybyś to przeoczył: amerykańska FDA Adcomm zatwierdza szczepionkę przeciw grypie Moderna, podgląd BIO i nie tylko",
     "title_original": "In Case You Missed It: US FDA Adcomm OKs Moderna Flu Vaccine, BIO Preview And More",
     "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/vaccines/in-case-you-missed-it-us-fda-adcomm-oks-moderna-flu-vaccine-bio-preview-and-more-BJPBEA4FCFDWTN3P35Y2QN6QZU/",
     "date": "2026-06-21 16:00",
