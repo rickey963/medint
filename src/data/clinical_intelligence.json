@@ -27,15 +27,6 @@
     "specializations": []
   },
   {
-    "title": "Opracowanie i wdrożenie systemu AI do generowania wypisów do klinicznych testów na obecność narkotyków w moczu",
-    "title_original": "Development and Implementation of an AI System for Generating Clinical Urine Drug Test Sign-Outs",
-    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2850599",
-    "date": "2026-06-23 22:14",
-    "summary": "",
-    "source": "JAMA",
-    "specializations": []
-  },
-  {
     "title": "Opracowanie i wdrożenie systemu AI do generowania wylogowań z klinicznych testów na obecność narkotyków w moczu",
     "title_original": "Development and Implementation of an AI System for Generating Clinical Urine Drug Test Sign-Outs",
     "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2850599",
@@ -45,12 +36,12 @@
     "specializations": []
   },
   {
-    "title": "Przedziałowe współczynniki prawdopodobieństwa — odcienie szarości, gdziekolwiek się udam",
-    "title_original": "Interval Likelihood Ratios — Shades of Gray Wherever I Go",
-    "url": "https://evidence.nejm.org/doi/pdf/10.1056/EVIDe2600145",
-    "date": "2026-06-23 21:33",
+    "title": "Opracowanie i wdrożenie systemu AI do generowania wypisów do klinicznych testów na obecność narkotyków w moczu",
+    "title_original": "Development and Implementation of an AI System for Generating Clinical Urine Drug Test Sign-Outs",
+    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2850599",
+    "date": "2026-06-23 22:14",
     "summary": "",
-    "source": "NEJM Evidence",
+    "source": "JAMA",
     "specializations": []
   },
   {
@@ -72,15 +63,6 @@
     "specializations": []
   },
   {
-    "title": "Berberyna-ursodeoksycholan — wprowadzenie tradycyjnej medycyny chińskiej do naszego świata",
-    "title_original": "Berberine-Ursodeoxycholate — Bringing Traditional Chinese Medicine to Our World",
-    "url": "https://evidence.nejm.org/doi/pdf/10.1056/EVIDe2600088?download=true",
-    "date": "2026-06-23 19:38",
-    "summary": "",
-    "source": "NEJM Evidence",
-    "specializations": []
-  },
-  {
     "title": "Randomizowane badanie interwałowych współczynników wiarygodności dla podejmowania decyzji klinicznych",
     "title_original": "A Randomized Trial of Interval Likelihood Ratios for Clinical Decision-Making",
     "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDoa2500249",
@@ -89,6 +71,24 @@
     "source": "NEJM Evidence",
     "specializations": [],
     "study_type": "Inne"
+  },
+  {
+    "title": "Przedziałowe współczynniki prawdopodobieństwa — odcienie szarości, gdziekolwiek się udam",
+    "title_original": "Interval Likelihood Ratios — Shades of Gray Wherever I Go",
+    "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDe2600145",
+    "date": "2026-06-23 18:59",
+    "summary": "",
+    "source": "NEJM Evidence",
+    "specializations": []
+  },
+  {
+    "title": "Berberyna-ursodeoksycholan — wprowadzenie tradycyjnej medycyny chińskiej do naszego świata",
+    "title_original": "Berberine-Ursodeoxycholate — Bringing Traditional Chinese Medicine to Our World",
+    "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDe2600088",
+    "date": "2026-06-23 18:29",
+    "summary": "",
+    "source": "NEJM Evidence",
+    "specializations": []
   },
   {
     "title": "Berberine-Ursodeoxycholate — Bringing Traditional Chinese Medicine to Our World",
@@ -165,6 +165,17 @@
     "specializations": []
   },
   {
+    "title": "Kiedy ten sam pacjent nie jest tym samym pacjentem: zjawisko Willa Rogersa we współczesnej opiece kardiologicznej",
+    "title_original": "When the Same Patient Is Not the Same Patient: The Will Rogers Phenomenon in Contemporary Cardiovascular Care",
+    "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.05.009",
+    "date": "2026-06-23 16:47",
+    "summary": "",
+    "source": "JACC Journals",
+    "specializations": [
+      "Kardiologia"
+    ]
+  },
+  {
     "title": "Chirurgiczna analiza wideo zachowująca prywatność z funkcją uczenia się roju — wyniki międzynarodowej kohorty wyrostka robaczkowego",
     "title_original": "Privacy-Preserving Surgical Video Analysis with Swarm Learning — Results from a Multinational Appendectomy Cohort",
     "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2501116?query=recirc_crossjournalmorepubs",
@@ -183,17 +194,6 @@
     "summary": "",
     "source": "NEJM AI",
     "specializations": []
-  },
-  {
-    "title": "Kiedy ten sam pacjent nie jest tym samym pacjentem: zjawisko Willa Rogersa we współczesnej opiece kardiologicznej",
-    "title_original": "When the Same Patient Is Not the Same Patient: The Will Rogers Phenomenon in Contemporary Cardiovascular Care",
-    "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.05.009",
-    "date": "2026-06-23 16:47",
-    "summary": "",
-    "source": "JACC Journals",
-    "specializations": [
-      "Kardiologia"
-    ]
   },
   {
     "title": "Chirurgiczna analiza wideo zachowująca prywatność z uczeniem się roju — wyniki międzynarodowej kohorty wyrostka robaczkowego",
@@ -273,7 +273,7 @@
     "specializations": []
   },
   {
-    "title": "Doustny semaglutyd dla pacjentów z cukrzycą typu 2 z wysokim ryzykiem sercowo-naczyniowym",
+    "title": "Doustny semaglutyd dla pacjentów z cukrzycą typu 2 o wysokim ryzyku sercowo-naczyniowym",
     "title_original": "Oral Semaglutide for Type 2 Diabetic Patients at High Cardiovascular Risk",
     "url": "https://clinician.nejm.org/nejm-jw.NA49344?show-author=true&author-id=AU031",
     "date": "2026-06-23 13:31",
@@ -285,7 +285,7 @@
     ]
   },
   {
-    "title": "Doustny semaglutyd dla pacjentów z cukrzycą typu 2 o wysokim ryzyku sercowo-naczyniowym",
+    "title": "Doustny semaglutyd dla pacjentów z cukrzycą typu 2 z wysokim ryzykiem sercowo-naczyniowym",
     "title_original": "Oral Semaglutide for Type 2 Diabetic Patients at High Cardiovascular Risk",
     "url": "https://clinician.nejm.org/nejm-jw.NA49344?show-author=true&author-id=AU031",
     "date": "2026-06-23 13:31",
