@@ -1,5 +1,14 @@
 [
   {
+    "title": "ClinVar — witryna FTP NCBI — NIH",
+    "title_original": "ClinVar - NCBI FTP Site - NIH",
+    "url": "https://ftp.ncbi.nlm.nih.gov/pub/clinvar",
+    "date": "2026-06-24 10:18",
+    "summary": "",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": []
+  },
+  {
     "title": "Artykuły redakcyjne Przegląd systematyczny Badania oryginalne",
     "title_original": "Editorials Systematic review Original research",
     "url": "https://ejhp.bmj.com/content/33/4.toc.pdf",
@@ -51,15 +60,6 @@
     "title_original": "SciENcv - NCBI - NIH",
     "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
     "date": "2026-06-24 09:32",
-    "summary": "",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
-  },
-  {
-    "title": "RefSeq — witryna FTP NCBI — NIH",
-    "title_original": "RefSeq - NCBI FTP Site - NIH",
-    "url": "https://ftp.ncbi.nlm.nih.gov/refseq/release/",
-    "date": "2026-06-24 09:16",
     "summary": "",
     "source": "National Institutes of Health (.gov)",
     "specializations": []
@@ -904,7 +904,7 @@
     "title_original": "DNA-mediated alteration of the reversion frequency of transformed NIH/3T3 cells.",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC393556/?page=5",
     "date": "2026-06-20 20:31",
-    "summary": "",
+    "summary": "Do selekcji specyficznych sekwencji DNA wywołujących efekt fenotypowy zastosowano selekcję komórek bezpośrednio po transfekcji DNA całych komórek do komórek ssaczych za pośrednictwem DNA. Całe mysie lub ludzkie DNA rozszczepiono na dystrybucję...",
     "source": "PubMed Central (PMC) (.gov)",
     "specializations": []
   },
