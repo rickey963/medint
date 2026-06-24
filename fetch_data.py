@@ -492,13 +492,19 @@ JUNK_URL_PATTERNS = [
     r'\.(?:woff2?|ttf|eot|css|js|png|jpe?g|svg|ico|gif)(?:[?#]|$)',
     r'/(?:login|logowanie|signin|sign-in)(?:[/?]|$)', r'/auth/login', r'konto/logowanie',
     r'/search(?:[/?]|$)', r'imprints\.php',
+    # NFZ's patient-locator tool subdomain - a search tool, not a news source.
+    r'gsl\.nfz\.gov\.pl', r'wyszukiwarka-tagow',
 ]
 
 JUNK_TITLE_SUBSTRINGS = [
     'subscribe', 'log in', 'sign in', 'cookie policy', 'just a moment',
     'access denied', 'page not found', '404', 'search results',
-    'wyszukiwanie', 'wyszukaj', 'strona nie znaleziona', 'błąd 404',
+    'wyszukiwanie', 'wyszukaj', 'wyszukiwarka', 'strona nie znaleziona', 'błąd 404',
     'akt prawny - sejm',
+    # NFZ's "Gdzie się leczyć" (GSL) is a patient-locator search tool, not a
+    # news source - its landing/results pages get indexed by Google News
+    # purely because they mention NFZ a lot, not because they're articles.
+    'gdzie się leczyć',
 ]
 
 # A raw filename embedded in the title (e.g. "C_202603170PL.000101.fmx.xml")
