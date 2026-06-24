@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-06-24T21:27:44Z",
+  "last_updated": "2026-06-24T21:28:12Z",
   "poland": [
-    {
-      "title": "GSL - Gdzie się leczyć - NFZ - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://gsl.nfz.gov.pl/GSL/",
-      "date": "2026-06-24T20:18:40Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Wyszukiwarka „Gdzie się leczyć?” to prosty sposób na uzyskanie listy miejsc, w których każdy pacjent może otrzymać pomoc medyczną w ramach powszechnego ubezpieczenia zdrowotnego."
-    },
     {
       "title": "Wyszukiwarka tagów - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/wyszukiwarka-tagow/nowy-model-opieki-czp,4397.html",
@@ -40,6 +32,14 @@
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
       "summary": "Gdzie się leczyć Narodowy Fundusz Zdrowia (NFZ)."
+    },
+    {
+      "title": "GSL - Gdzie się leczyć - NFZ - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://gsl.nfz.gov.pl/GSL/",
+      "date": "2026-06-24T17:15:17Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Wyszukiwarka „Gdzie się leczyć?” to prosty sposób na uzyskanie listy miejsc, w których każdy pacjent może otrzymać pomoc medyczną w ramach powszechnego ubezpieczenia zdrowotnego."
     },
     {
       "title": "Kiedy poznamy wyniki kontroli SOR-ów? Oświadczenie konsultanta krajowego - Rynek Zdrowia",
@@ -218,12 +218,12 @@
       "summary": "TreÅci z serwisu Medonet majÄ na celu polepszenie, a nie zastÄ pienie, kontaktu pomiÄdzy UÅ¼ytkownikiem a jego lekarzem. Serwis ma charakter wyÅÄ cznie informacyjno-edukacyjny. Przed zastosowaniem siÄ do porad z zakresu wiedzy specjalistycznej, w szczegÃ³lnoÅci medycznych, zawartych w Serwisie naleÅ¼y bezwzglÄdnie skonsultowaÄ siÄ z lekarzem."
     },
     {
-      "title": "Publikacje autora - lek. Katarzyna Nowik - Podyplomie.pl",
-      "url": "https://podyplomie.pl/autor/katarzyna-nowik",
-      "date": "2026-06-23T19:22:07Z",
-      "source": "Medycyna po Dyplomie",
+      "title": "Finanse - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/finanse/",
+      "date": "2026-06-23T20:07:21Z",
+      "source": "Puls Medycyny",
       "confirmed_by": 1,
-      "summary": "lek. Katarzyna Nowik. 1 artykuł naukowy w serwisie Podyplomie.pl."
+      "summary": "Jeśli procedowane obecnie zmiany ustawowe wejdą w życie, Agencja Oceny Technologicznych Medycznych i Taryfikacji (AOTMiT) zamierza już w październiku przeprowadzić pierwszą kompleksową zbiórkę danych i przedstawić raport o całkowitych zarobkach lekarzy – poinformował w środę prezes Agencji Daniel Rutkowski."
     }
   ],
   "world": [
@@ -274,6 +274,14 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dlaczego Afryka potrzebuje regionalnych ośrodków badawczo-rozwojowych w zakresie podstawowych badań naukowych i tłumaczeń, aby przyspieszyć lokalną produkcję."
+    },
+    {
+      "title": "Krótkoterminowa DAPT w celu zapobiegania okluzji przeszczepu żyły odpiszczelowej po CABG – klinicysta NEJM",
+      "url": "https://clinician.nejm.org/short-term-dapt-prevent-saphenous-vein-graft-occlusion-cabg-CLINjwNA60227",
+      "date": "2026-06-24T08:30:15Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     },
     {
       "title": "Menedżer Portfolio Cyfrowego - Zastępca Architekta Rozwiązań - The BMJ",
@@ -362,14 +370,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Chirurgiczna analiza wideo zachowująca prywatność z uczeniem się roju — wyniki międzynarodowej kohorty wyrostka robaczkowego NEJM AI."
-    },
-    {
-      "title": "53-letnia kobieta z bólem ucha i osłabieniem twarzy – dowody NEJM",
-      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDmr2500144?query=recirc_crossjournalmorepubs",
-      "date": "2026-06-23T14:47:18Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "53-letnia kobieta z bólem ucha i osłabieniem twarzy Dowody NEJM."
     }
   ],
   "guidelines": [
@@ -408,6 +408,14 @@
       "summary": "Najnowsze dane wskazują na nierówny postęp, co podkreśla pilną potrzebę skupienia się na przystępności cenowej i społecznościach bezbronnych."
     },
     {
+      "title": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0552",
+      "date": "2026-06-23T18:38:23Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025."
+    },
+    {
       "title": "Wzmocnienie potencjału w zakresie badań przesiewowych noworodków, diagnozowania i leczenia wad wrodzonych: konsultacje techniczne WHO w sprawie planowania i wdrażania usług zintegrowanych z krajowymi systemami opieki zdrowotnej w krajach o niskich i średnich dochodach – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/9789240122086",
       "date": "2026-06-23T16:09:45Z",
@@ -440,7 +448,7 @@
       "summary": "Światowa Organizacja Zdrowia (WHO) wzywa dziś kraje do rozszerzenia badań przesiewowych noworodków pod kątem wad wrodzonych, podkreślając, jak wczesne wykrywanie i leczenie może uratować życie i zmniejszyć trwającą całe życie niepełnosprawność milionów dzieci. W nowym raporcie WHO zatytułowanym Wzmocnienie zdolności do badań przesiewowych noworodków, diagnozowanie i leczenie wad wrodzonych wskazano, że badania przesiewowe noworodków stanowią ważną szansę na przyspieszenie postępu w zakresie przeżycia dzieci."
     },
     {
-      "title": "Kraje afrykańskie spotykają się, aby przygotować się na przyszłe wprowadzenie na rynek nowych szczepionek przeciw gruźlicy dla dorosłych i młodzieży – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Kraje afrykańskie spotykają się, aby przygotować się do przyszłego wprowadzenia na rynek nowych szczepionek przeciw gruźlicy dla dorosłych i młodzieży – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/23-06-2026-african-countries-convene-to-prepare-for-future-rollout-of-new-tb-vaccines-for-adults-and-adolescents",
       "date": "2026-06-23T09:40:08Z",
       "source": "WHO Disease Outbreak News",
@@ -448,12 +456,20 @@
       "summary": "Podczas warsztatów zorganizowanych przez Światową Organizację Zdrowia (WHO) w Nairobi w Kenii w dniach 3–5 czerwca urzędnicy Ministerstwa Zdrowia z Kenii, Malawi i Zambii dołączyli do ponad 80 zainteresowanych stron zajmujących się szczepionkami przeciwko gruźlicy (TB), w tym osób, które przebyły gruźlicę, przedstawicieli społeczeństwa obywatelskiego, agencji technicznych i regulacyjnych, darczyńców i partnerów wykonawczych, aby przyspieszyć przygotowanie krajów do wprowadzenia nowych szczepionek przeciw gruźlicy, obecnie znajdujących się w fazie rozwoju klinicznego, dla dorosłych i młodzieży."
     },
     {
-      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 r. – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 rok – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/invasive-meningococcal-disease-annual-epidemiological-report-2024",
       "date": "2026-06-23T08:46:01Z",
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "W 2024 r. w 30 krajach Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) zgłoszono 2233 potwierdzonych przypadków inwazyjnej choroby meningokokowej (IMD), w tym 202 zgony."
+    },
+    {
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-06-22T19:25:07Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
     },
     {
       "title": "Ryc. 3 – Ciężkie choroby układu oddechowego i śmierć związane z epidemią ludzkiego rinowirusa B14 wśród osób starszych, Francja, 2024 r. – tom 32, numer 5 – maj 2026 r. – Czasopismo Emerging Infectious Diseases – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -478,9 +494,25 @@
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Konferencja na temat chorób przenoszonych przez komary, zorganizowana przez cypryjską prezydencję Rady UE i Ministerstwo Zdrowia Cypru przy wsparciu ECDC, skupiała się na rosnącym wpływie takich chorób na zdrowie publiczne w Europie i omawiała wyzwania w zakresie zwalczania komarów."
+    },
+    {
+      "title": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Modelowanie i prognozowanie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Strona Rt CFA zawiera szacunki dotyczące trendów epidemii Covid-19 w USA, stanach i krajach HSA."
     }
   ],
   "clinical_trials": [
+    {
+      "title": "Szczegóły badania | NCT07662512 | Różne stężenia ozonu w chorobie zwyrodnieniowej stawu kolanowego – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07662512",
+      "date": "2026-06-24T06:51:58Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07662512 | Różne stężenia ozonu w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
+    },
     {
       "title": "Szczegóły badania | NCT07660705 | Edukacja wideo z kodem QR dla członków rodziny na oddziałach intensywnej terapii – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07660705",
@@ -519,7 +551,7 @@
       "date": "2026-06-22T19:44:55Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PIES w szwedzkiej praktyce (ALLERDOGSWEDEN) ClinicalTrials.gov."
+      "summary": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PSA w szwedzkiej praktyce (ALLERDOGSWEDEN) ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07661342 | Badanie DEPART w Yale – ClinicalTrials.gov",
@@ -540,7 +572,7 @@
       "summary": "Ionis uzyskuje zgodę FDA na rozszerzenie Tryngolza na ciężką hipertriglicerydemię, rynek znacznie większy niż rzadkie wprowadzenie na rynek FCS, przy czym szczytowa sprzedaż w USA przekracza 3 miliardy dolarów."
     },
     {
-      "title": "FDA wspiera lek Trodelvy firmy Gilead w leczeniu potrójnie ujemnego raka piersi pierwszego rzutu - Endpoints News",
+      "title": "FDA wspiera Trodelvy firmy Gilead w leczeniu potrójnie ujemnego raka piersi pierwszego rzutu - Endpoints News",
       "url": "https://endpoints.news/fda-backs-gileads-trodelvy-for-first-line-triple-negative-breast-cancer/",
       "date": "2026-06-24T20:19:00Z",
       "source": "Endpoints News",
@@ -620,6 +652,14 @@
       "summary": "Etykiety i limity dotyczące terapii testosteronem mogą ulec zmianie zgodnie z propozycją FDA Drugs.com."
     },
     {
+      "title": "System oparty na AI-OCT Noninferior do wykrywania cukrzycowego obrzęku plamki - Drugs.com",
+      "url": "https://www.drugs.com/news/ai-oct-based-noninferior-diabetic-macular-edema-detection-130427.html",
+      "date": "2026-06-23T17:33:36Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "System oparty na AI-OCT Noninferior do wykrywania cukrzycowego obrzęku plamki Drugs.com."
+    },
+    {
       "title": "Zaktualizowane wytyczne dotyczące głównych protokołów amerykańskiej FDA obejmują szczegółowe plany komunikacji – Citeline News & Insights",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/updated-us-fda-master-protocols-guidance-includes-specific-communication-plans-ABG2XIJTCVCBTFL3U23FGS4PBU/",
       "date": "2026-06-23T17:21:33Z",
@@ -660,7 +700,7 @@
       "summary": "Interwencja dotycząca stylu życia w przypadku stanu przedcukrzycowego powoduje spadek plonów na stronie Multimorbidity Drugs.com."
     },
     {
-      "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na człowieku (FIH) - fda.gov",
+      "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na ludziach (FIH) - fda.gov",
       "url": "https://www.fda.gov/media/193230/download",
       "date": "2026-06-22T15:55:01Z",
       "source": "FDA Drug News",
@@ -673,7 +713,7 @@
       "date": "2026-06-22T14:41:19Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Wysokie przeszkody utrudniają pacjentom z nerkami podejmowanie ratujących życie przeszczepów Drugs.com."
+      "summary": "Wysokie przeszkody utrudniają pacjentom z nerkami podjęcie ratujących życie przeszczepów Drugs.com."
     },
     {
       "title": "Spotkanie zainteresowanych stron ETF na temat biodystrybucji szczepionek mRNA – Europejska Agencja Leków (EMA)",
@@ -689,7 +729,7 @@
       "date": "2026-06-22T11:37:54Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Niniejsza bezpośrednia komunikacja z pracownikami służby zdrowia (DHPC) zawiera ważne informacje dla pracowników służby zdrowia przepisujących, wydających lub podających leki. Zawiera także plan komunikacji ze szczegółami dotyczącymi przewidywanych odbiorców i datą rozpowszechnienia."
+      "summary": "Evrysdi – bezpośrednia komunikacja z pracownikami służby zdrowia (DHPC) Europejska Agencja Leków (EMA)."
     },
     {
       "title": "Definium donosi, że trafienie fazy 3 leku LSD w ciężkiej postaci depresji – Endpoints News",
@@ -742,11 +782,20 @@
   ],
   "critical_alerts": [
     {
-      "title": "Sytuacja stabilna - brak nowych alertów medycznych",
-      "summary": "",
-      "url": "",
-      "source": "",
-      "date": "2026-06-24T21:27:44Z"
+      "title": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0552",
+      "date": "2026-06-23T18:38:23Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025."
+    },
+    {
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-06-22T19:25:07Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
     }
   ],
   "daily_top5": [
@@ -759,7 +808,15 @@
       "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
     },
     {
-      "title": "Kraje afrykańskie spotykają się, aby przygotować się na przyszłe wprowadzenie na rynek nowych szczepionek przeciw gruźlicy dla dorosłych i młodzieży – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0552",
+      "date": "2026-06-23T18:38:23Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia oftalmomiozy wywołanej zakażeniem rui ovis, Algieria, 2025."
+    },
+    {
+      "title": "Kraje afrykańskie spotykają się, aby przygotować się do przyszłego wprowadzenia na rynek nowych szczepionek przeciw gruźlicy dla dorosłych i młodzieży – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/23-06-2026-african-countries-convene-to-prepare-for-future-rollout-of-new-tb-vaccines-for-adults-and-adolescents",
       "date": "2026-06-23T09:40:08Z",
       "source": "WHO Disease Outbreak News",
@@ -767,7 +824,7 @@
       "summary": "Podczas warsztatów zorganizowanych przez Światową Organizację Zdrowia (WHO) w Nairobi w Kenii w dniach 3–5 czerwca urzędnicy Ministerstwa Zdrowia z Kenii, Malawi i Zambii dołączyli do ponad 80 zainteresowanych stron zajmujących się szczepionkami przeciwko gruźlicy (TB), w tym osób, które przebyły gruźlicę, przedstawicieli społeczeństwa obywatelskiego, agencji technicznych i regulacyjnych, darczyńców i partnerów wykonawczych, aby przyspieszyć przygotowanie krajów do wprowadzenia nowych szczepionek przeciw gruźlicy, obecnie znajdujących się w fazie rozwoju klinicznego, dla dorosłych i młodzieży."
     },
     {
-      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 r. – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 rok – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/invasive-meningococcal-disease-annual-epidemiological-report-2024",
       "date": "2026-06-23T08:46:01Z",
       "source": "ECDC",
@@ -775,20 +832,12 @@
       "summary": "W 2024 r. w 30 krajach Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) zgłoszono 2233 potwierdzonych przypadków inwazyjnej choroby meningokokowej (IMD), w tym 202 zgony."
     },
     {
-      "title": "Ryc. 3 – Ciężkie choroby układu oddechowego i śmierć związane z epidemią ludzkiego rinowirusa B14 wśród osób starszych, Francja, 2024 r. – tom 32, numer 5 – maj 2026 r. – Czasopismo Emerging Infectious Diseases – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/5/25-0981-f3",
-      "date": "2026-06-22T19:10:54Z",
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-06-22T19:25:07Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Rysunek 3 . Drzewo filogenetyczne sekwencji HRV-B krążących w Marsylii podczas ciężkiej choroby układu oddechowego i śmierci związanej z epidemią HRV-B14 wśród osób starszych, Francja, 2024. Dopasowanie sekwencji genu kodującego białko wirusowe 1 przeprowadzono przy użyciu MUSCLE ( https://www.ebi.ac.uk/Tools/msa/muscle ) ze standardowymi parametrami dla sekwencji nukleotydowych."
-    },
-    {
-      "title": "655 milionów ludzi nadal żyjących bez prądu podkreśla pilną potrzebę osiągnięcia celu dotyczącego powszechnego dostępu do energii – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target",
-      "date": "2026-06-24T12:08:26Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Najnowsze dane wskazują na nierówny postęp, co podkreśla pilną potrzebę skupienia się na przystępności cenowej i społecznościach bezbronnych."
+      "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
     }
   ]
 }
