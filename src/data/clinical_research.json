@@ -1,5 +1,14 @@
 [
   {
+    "title": "SciENcv – NCBI – NIH",
+    "title_original": "SciENcv - NCBI - NIH",
+    "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
+    "date": "2026-06-24 03:25",
+    "summary": "",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": []
+  },
+  {
     "title": "Arytmia pochodzenia komorowego Rekrutacja fazy 4 badań dla chlorku magnezu (DB09407)",
     "title_original": "Arrhythmia of ventricular origin Recruiting Phase 4 Trials for Magnesium chloride (DB09407)",
     "url": "https://go.drugbank.com/indications/DBCOND0102378/clinical_trials/DB09407?phase=4&status=recruiting",
@@ -37,15 +46,6 @@
     "study_type": "Meta-analiza"
   },
   {
-    "title": "Oktanian 2-(2-metylobutoksy)etylu | C15H30O3 | Numer identyfikacyjny 178217359",
-    "title_original": "2-(2-Methylbutoxy)ethyl octanoate | C15H30O3 | CID 178217359",
-    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/2-_2-Methylbutoxy_ethyl-octanoate",
-    "date": "2026-06-24 01:06",
-    "summary": "",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
-  },
-  {
     "title": "Od silników molekularnych po architekturę chromosomów",
     "title_original": "From molecular motors to chromosome architecture",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42330291/",
@@ -55,10 +55,10 @@
     "specializations": []
   },
   {
-    "title": "SciENcv – NCBI – NIH",
-    "title_original": "SciENcv - NCBI - NIH",
-    "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
-    "date": "2026-06-24 00:23",
+    "title": "2-Fluoro-4-(2-fenyloetylo)anilina | C14H14FN | Numer identyfikacyjny 68753743",
+    "title_original": "2-Fluoro-4-(2-phenylethyl)aniline | C14H14FN | CID 68753743",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Fluoro-4-_2-phenylethyl_aniline",
+    "date": "2026-06-24 00:30",
     "summary": "",
     "source": "National Institutes of Health (.gov)",
     "specializations": []
@@ -194,6 +194,17 @@
     "specializations": []
   },
   {
+    "title": "Szczegóły badania | NCT07660952 | Wpływ okularów IE na wyniki pacjentów z rezonansem magnetycznym",
+    "title_original": "Study Details | NCT07660952 | Effect of IE Glasses on MRI Patient Outcomes",
+    "url": "https://clinicaltrials.gov/study/NCT07660952",
+    "date": "2026-06-23 12:23",
+    "summary": "",
+    "source": "ClinicalTrials.gov",
+    "specializations": [
+      "Radiologia i diagnostyka obrazowa"
+    ]
+  },
+  {
     "title": "Szczegóły badania | NCT07660848 | Badanie zastrzyków HRS-4729 i zastrzyków HRS9531 u uczestników ze stłuszczeniowym zapaleniem wątroby związanym z dysfunkcjami metabolicznymi",
     "title_original": "Study Details | NCT07660848 | A Study of HRS-4729 Injection and HRS9531 Injection in Participants With Metabolic Dysfunction-Associated Steatohepatitis",
     "url": "https://clinicaltrials.gov/study/NCT07660848",
@@ -204,17 +215,6 @@
       "Gastroenterologia i hepatologia"
     ],
     "study_type": "Inne"
-  },
-  {
-    "title": "Szczegóły badania | NCT07660952 | Wpływ okularów IE na wyniki pacjentów z rezonansem magnetycznym",
-    "title_original": "Study Details | NCT07660952 | Effect of IE Glasses on MRI Patient Outcomes",
-    "url": "https://clinicaltrials.gov/study/NCT07660952",
-    "date": "2026-06-23 12:23",
-    "summary": "",
-    "source": "ClinicalTrials.gov",
-    "specializations": [
-      "Radiologia i diagnostyka obrazowa"
-    ]
   },
   {
     "title": "Szczegóły badania | NCT07660848 | Badanie wstrzyknięć HRS-4729 i wstrzyknięć HRS9531 u uczestników ze stłuszczeniowym zapaleniem wątroby związanym z dysfunkcjami metabolicznymi",
