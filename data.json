@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T23:32:34Z",
+  "last_updated": "2026-06-24T23:32:57Z",
   "poland": [
     {
       "title": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. - Alert Medyczny",
@@ -7,7 +7,7 @@
       "date": "2026-06-24T23:28:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "MZ wyjaśnia zasady refundacji generyków dapagliflozyny od 1 lipca 2026 r. Sprawdź wskazania, ograniczenia patentowe i zasady zamiany leków."
+      "summary": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. Alert Medyczny."
     },
     {
       "title": "Leczenie ran i oparzeń w gabinecie lekarza rodzinnego - TRANSMISJA VIP | Webinar - Termedia",
@@ -55,7 +55,7 @@
       "date": "2026-06-24T15:49:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Abbisko Therapeutics i Eli Lilly podpisały umowę R&D o potencjalnej wartości 1,9 mld dolarów na rozwój innowacyjnych terapii i nowych leków."
+      "summary": "Eli Lilly rozszerza współpracę z Abbisko Therapeutics. Umowa może być warta 1,9 mld dolarów Alert Medyczny."
     },
     {
       "title": "Unia Europejska wprowadza zakaz etapami. Niedługo już nie kupisz - Rynek Zdrowia",
@@ -71,7 +71,7 @@
       "date": "2026-06-24T14:49:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Strona społeczna Trójstronnego Zespołu ds. Ochrony Zdrowia przerwała obrady i oczekuje od rządu planu zmian oraz stabilizacji finansów NFZ."
+      "summary": "Trójstronny Zespół ds. Ochrony Zdrowia przerywa obrady. Strona społeczna żąda planu od rządu Alert Medyczny."
     },
     {
       "title": "Stanowisko Minister Zdrowia - Gov.pl",
@@ -594,14 +594,6 @@
       "summary": "Streszczenie ACT: Uruchomienie operacji TrialBlazer, wzrost złożoności protokołu i infrastruktura danych na potrzeby internetowych badań klinicznych stosowanych w oparciu o sztuczną inteligencję."
     },
     {
-      "title": "Szczegóły badania | NCT07664059 | Ocena postawy u pacjentów z wadami zgryzu – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07664059",
-      "date": "2026-06-24T07:36:04Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07664059 | Ocena postawy u pacjentów z wadami zgryzu ClinicalTrials.gov."
-    },
-    {
       "title": "Od gromadzenia do zaufania: dlaczego wiarygodność danych z badań klinicznych zaczyna się wcześnie - Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/sponsored/from-collection-to-confidence-why-clinical-trial-data-reliability-starts-early/",
       "date": "2026-06-24T06:24:52Z",
@@ -688,6 +680,14 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07659847 | Ocena układu sercowo-naczyniowego 5 lat po MIS-C ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07658573 | Multimodalny model AI do przewidywania ryzyka progresji CRPC – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07658573",
+      "date": "2026-06-23T10:10:13Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07658573 | Multimodalny model AI do przewidywania ryzyka progresji CRPC ClinicalTrials.gov."
     },
     {
       "title": "SPINRAZA w leczeniu rdzeniowego zaniku mięśni, USA – Arena Badań Klinicznych",
@@ -780,30 +780,6 @@
       "summary": "Genetyczny wyznacznik ciężkiej choroby zidentyfikowany w IBD Drugs.com."
     },
     {
-      "title": "Co czytamy - Nurkowanie BioPharma",
-      "url": "https://www.biopharmadive.com/what-we-are-reading/",
-      "date": "2026-06-24T17:11:01Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "BioPharma."
-    },
-    {
-      "title": "Inwestorzy inwestują 115 mln dolarów w RQ Bio w poszukiwaniu zapobiegawczego leku na grypę - BioPharma Dive",
-      "url": "https://www.biopharmadive.com/news/rq-bio-flu-antibody-drug-financing-startup/823621/",
-      "date": "2026-06-24T15:47:16Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "Startup twierdzi, że ma „zróżnicowane” przeciwciało, które może zapewnić długotrwałą ochronę przed różnymi szczepami grypy."
-    },
-    {
-      "title": "Dla Wall Street biotechnicy zajmujący się psychodelikami są bardziej członkami drużyny niż rywalami – BioPharma Dive",
-      "url": "https://www.biopharmadive.com/news/psychedelics-definium-biotech-research-field-results-validate/823510/",
-      "date": "2026-06-24T15:29:50Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "Niektórzy analitycy twierdzą, że nawet dla konkurentów duże zwycięstwo Definium Therapeutics w badaniach klinicznych pomaga zweryfikować dziedzinę psychedeliczną i „wprowadzić ją jeszcze bardziej do głównego nurtu”."
-    },
-    {
       "title": "Dyrektor Lilly twierdzi, że MFN będzie mieć wpływ na strategię firmy dotyczącą wprowadzenia tabletek na odchudzanie w Europie: raport – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/lilly-exec-says-company-will-focus-telehealth-sales-obesity-pill-europe-report",
       "date": "2026-06-24T15:20:12Z",
@@ -836,14 +812,6 @@
       "summary": "Sztuczna inteligencja Medicare wpędza pacjentów i lekarzy w błędy i opóźnienia Drugs.com."
     },
     {
-      "title": "Sangamo organizuje sprzedaż upadłościową; VC wspierają powiązanego z Chinami konkurenta Beam – BioPharma Dive",
-      "url": "https://www.biopharmadive.com/news/sangamo-bankruptcy-serapha-china-saturnus-cenrifki-carsgen/823588/",
-      "date": "2026-06-24T14:44:50Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "Eli Lilly i Astellas będą głównymi oferentami na aukcji aktywów Sangamo. W innym miejscu syndykat inwestorów przeznaczył 230 milionów dolarów na start-up zajmujący się edycją genów, a firma Merck KGaA zawarła umowę „budowa na zakup”."
-    },
-    {
       "title": "FDA zatrudnia 2200 osób po zeszłorocznych cięciach DOGE – BioSpace",
       "url": "https://www.biospace.com/fda/fda-hiring-2-200-people-to-staff-up-after-last-years-doge-cuts",
       "date": "2026-06-24T14:43:53Z",
@@ -860,12 +828,28 @@
       "summary": "Naukowcy twierdzą, że Belly śmieje się z prymitywnego mózgu na Drugs.com."
     },
     {
+      "title": "Dobre zdrowie serca mamy zmniejsza ryzyko opóźnień w rozwoju dziecka",
+      "url": "https://www.drugs.com/news/mom-s-good-heart-health-lowers-risk-baby-s-developmental-delays-130439.html",
+      "date": "2026-06-24T14:36:54Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Dobre zdrowie serca mamy zmniejsza ryzyko opóźnień w rozwoju dziecka Drugs.com."
+    },
+    {
       "title": "Ze względów bezpieczeństwa ADC Therapeutics planuje redukcję personelu o 17%, aby zwiększyć zasoby firmy Zynlonta - Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/amid-safety-concerns-adc-therapeutics-plots-17-staff-cuts-push-resources-behind-lead-adc",
       "date": "2026-06-24T14:19:21Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "W następstwie niedawnej obawy o bezpieczeństwo w związku z potwierdzającym badaniem leku Zynlonta, koniugatu przeciwciało, firma ADC Therapeutics zaciska pasa, starając się jak najlepiej wykorzystać swój lek przeciwnowotworowy.&nbs | W następstwie niedawnej obawy o bezpieczeństwo w związku z potwierdzającym badaniem leku Zynlonta, koniugatu przeciwciało, firma ADC Therapeutics zaciska pasa, starając się jak najlepiej wykorzystać swój lek przeciwnowotworowy."
+    },
+    {
+      "title": "Wizja Verastemu KRAS G12D; ADC Therapeutics reorganizuje się, zwalnia 17% personelu - Endpoints News",
+      "url": "https://endpoints.news/verastems-kras-g12d-vision-adc-therapeutics-reorganizes-lays-off-17-of-staff/",
+      "date": "2026-06-24T14:17:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Verastem Eyes przyspieszył zatwierdzenie leku KRAS G12D w 3 nowotworach; ADC Therapeutics redukuje 17% personelu w wyniku restrukturyzacji."
     },
     {
       "title": "Revance zatrudnia tancerza do tworzenia choreografii w mediach społecznościowych dla rywala z botoksem – Fierce Pharma",
@@ -932,6 +916,14 @@
       "summary": "Sangamo Therapeutics zwolni 51 pracowników, pozostawiając 77 osób do kontynuowania prac nad programami kluczowymi dla ofert Astellas i Eli Lilly."
     },
     {
+      "title": "Incyte wycofuje pozew, ponieważ CMS ustępuje w sprawie klasyfikacji Opzelura – Fierce Pharma",
+      "url": "https://www.fiercepharma.com/pharma/incyte-drops-lawsuit-cms-relents-classification-opzelura",
+      "date": "2026-06-23T17:32:06Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Według a. Incyte osiągnęła porozumienie z Centers for Medicare & Medicaid Services (CMS) w sprawie kryteriów rabatu na leczenie egzemy i bielactwa nabytego, Opzelura."
+    },
+    {
       "title": "Zaktualizowane wytyczne dotyczące głównych protokołów amerykańskiej FDA obejmują szczegółowe plany komunikacji – Citeline News & Insights",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/updated-us-fda-master-protocols-guidance-includes-specific-communication-plans-ABG2XIJTCVCBTFL3U23FGS4PBU/",
       "date": "2026-06-23T17:21:33Z",
@@ -946,6 +938,14 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Elastyczność i wyjaśnienia regulacyjne: Informacje dotyczące chemii, produkcji i kontroli (CMC) na potrzeby fazy oryginału „First in Human” (FIH) fda.gov."
+    },
+    {
+      "title": "Spotkanie Wykonawczej Grupy Sterującej ds. Niedoborów i Bezpieczeństwa Produktów Leczniczych (MSSG) – czerwiec 2026 r. – Europejska Agencja Leków (EMA)",
+      "url": "https://www.ema.europa.eu/en/events/meeting-executive-steering-group-shortages-safety-medicinal-products-mssg-june-2026",
+      "date": "2026-06-23T05:29:55Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Spotkanie Wykonawczej Grupy Sterującej ds. Niedoborów i Bezpieczeństwa Produktów Leczniczych (MSSG) – czerwiec 2026 r. Europejska Agencja Leków (EMA)."
     },
     {
       "title": "Notatnik BIO: elastyczność regulacyjna pod inną nazwą — Citeline News & Insights",
@@ -1013,7 +1013,7 @@
       "date": "2026-06-24T23:28:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "MZ wyjaśnia zasady refundacji generyków dapagliflozyny od 1 lipca 2026 r. Sprawdź wskazania, ograniczenia patentowe i zasady zamiany leków."
+      "summary": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. Alert Medyczny."
     },
     {
       "title": "Miesiąc samoopieki 2026 – Światowa Organizacja Zdrowia (WHO)",
