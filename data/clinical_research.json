@@ -1,14 +1,5 @@
 [
   {
-    "title": "ClinVar — witryna FTP NCBI — NIH",
-    "title_original": "ClinVar - NCBI FTP Site - NIH",
-    "url": "https://ftp.ncbi.nlm.nih.gov/pub/clinvar",
-    "date": "2026-06-24 10:18",
-    "summary": "",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
-  },
-  {
     "title": "Artykuły redakcyjne Przegląd systematyczny Badania oryginalne",
     "title_original": "Editorials Systematic review Original research",
     "url": "https://ejhp.bmj.com/content/33/4.toc.pdf",
@@ -38,7 +29,7 @@
     "study_type": "Inne"
   },
   {
-    "title": "1. Sekwencja mRNA całkowitego okrężnicy myszy ASF +-B.theta +-włókno pszenne BioProject Dostęp: PRJNA1298791 ID: 1298791",
+    "title": "1. Sekwencja całkowitego mRNA okrężnicy myszy ASF +-B.theta +-włókno pszenne BioProject Dostęp: PRJNA1298791 ID: 1298791",
     "title_original": "1. total colon mRNA-seq of ASF mouse +-B.theta +-wheat fiber BioProject Accession: PRJNA1298791 ID: 1298791",
     "url": "https://ncbi.nlm.nih.gov/bioproject/PRJNA1298791",
     "date": "2026-06-24 09:50",
@@ -47,7 +38,7 @@
     "specializations": []
   },
   {
-    "title": "1. Sekwencja całkowitego mRNA okrężnicy myszy ASF +-B.theta +-włókno pszenne BioProject Dostęp: PRJNA1298791 ID: 1298791",
+    "title": "1. Sekwencja mRNA całkowitego okrężnicy myszy ASF +-B.theta +-włókno pszenne BioProject Dostęp: PRJNA1298791 ID: 1298791",
     "title_original": "1. total colon mRNA-seq of ASF mouse +-B.theta +-wheat fiber BioProject Accession: PRJNA1298791 ID: 1298791",
     "url": "https://ncbi.nlm.nih.gov/bioproject/PRJNA1298791",
     "date": "2026-06-24 09:50",
@@ -60,6 +51,15 @@
     "title_original": "SciENcv - NCBI - NIH",
     "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
     "date": "2026-06-24 09:32",
+    "summary": "",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": []
+  },
+  {
+    "title": "RefSeq — witryna FTP NCBI — NIH",
+    "title_original": "RefSeq - NCBI FTP Site - NIH",
+    "url": "https://ftp.ncbi.nlm.nih.gov/refseq/release/",
+    "date": "2026-06-24 09:16",
     "summary": "",
     "source": "National Institutes of Health (.gov)",
     "specializations": []
@@ -102,6 +102,17 @@
     "source": "ClinicalTrials.gov",
     "specializations": [
       "Nefrologia"
+    ]
+  },
+  {
+    "title": "Obiektywna charakterystyka snu i odpowiedź na immunoterapię neoadiuwantową w raku żołądka/​GEJ",
+    "title_original": "Objective Sleep Characteristics and Neoadjuvant Immunotherapy Response in Gastric/​GEJ Cancer",
+    "url": "https://clinicaltrials.gov/study/NCT07662005",
+    "date": "2026-06-24 08:48",
+    "summary": "",
+    "source": "ClinicalTrials.gov",
+    "specializations": [
+      "Gastroenterologia i hepatologia"
     ]
   },
   {
@@ -210,7 +221,7 @@
     "study_type": "Inne"
   },
   {
-    "title": "Wpływ wskaźnika trójglicerydowo-glukozowego na rokowanie krótkoterminowe u pacjentów z ostrym zapaleniem mięśnia sercowego.",
+    "title": "Wpływ wskaźnika triglicerydowo-glukozowego na rokowanie krótkoterminowe u pacjentów z ostrym zapaleniem mięśnia sercowego.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42337398/",
     "date": "2026-06-24 02:00",
     "summary": "",
@@ -566,15 +577,6 @@
   },
   {
     "title": "Szczegóły badania | NCT07661823 | QAIAx (AIhealth4U) – AI Public Health Central: Microcity-A (dotyczy Quantum AI Agency, czyli AI City Hall Project, UPSTO nr aplikacji 64/074 526, 64/063 557, 63/903 181, 63/729 428",
-    "title_original": "Study Details | NCT07661823 | QAIAx (AIhealth4U) - AI Public Health Central: Microcity-A (re Quantum AI Agency Aka AI City Hall Project, UPSTO App Nos. 64/074,526, 64/063,557, 63/903,181, 63/729,428",
-    "url": "https://clinicaltrials.gov/study/NCT07661823",
-    "date": "2026-06-23 12:55",
-    "summary": "",
-    "source": "ClinicalTrials.gov",
-    "specializations": []
-  },
-  {
-    "title": "Szczegóły badania | NCT07661823 | QAIAx (AIhealth4U) – Centrala zdrowia publicznego AI: Microcity-A (dot. Quantum AI Agency, czyli AI City Hall Project, aplikacje UPSTO nr 64/074 526, 64/063 557, 63/903 181, 63/729 428",
     "title_original": "Study Details | NCT07661823 | QAIAx (AIhealth4U) - AI Public Health Central: Microcity-A (re Quantum AI Agency Aka AI City Hall Project, UPSTO App Nos. 64/074,526, 64/063,557, 63/903,181, 63/729,428",
     "url": "https://clinicaltrials.gov/study/NCT07661823",
     "date": "2026-06-23 12:55",
