@@ -1,5 +1,16 @@
 [
   {
+    "title": "Adalimumab ukończył badania fazy 2 dotyczące przewlekłej łuszczycy plackowatej / łuszczycy plackowatej",
+    "title_original": "Adalimumab Completed Phase 2 Trials for Chronic Plaque Psoriasis / Plaque Psoriasis",
+    "url": "https://go.drugbank.com/drugs/DB00051/clinical_trials?phase=2&status=completed&conditions=DBCOND0033442%2CDBCOND0029615",
+    "date": "2026-06-24 08:27",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Dermatologia"
+    ]
+  },
+  {
     "title": "Wycofanie urządzenia klasy 2 VOCSNPro",
     "title_original": "Class 2 Device Recall VOCSNPro",
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=220084",
@@ -70,15 +81,6 @@
     ]
   },
   {
-    "title": "NIEKTÓRE - QM8SNH9TP7 | Usługa wyszukiwania UNII",
-    "title_original": "UNII - QM8SNH9TP7 | UNII Search Service",
-    "url": "https://precision.fda.gov/uniisearch/srs?search=QM8SNH9TP7",
-    "date": "2026-06-24 04:01",
-    "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII).",
-    "source": "precisionFDA (.gov)",
-    "specializations": []
-  },
-  {
     "title": "Bicalutamid o nieznanym statusie, badania fazy 4 dotyczące nowotworów prostaty / opieki wspomagającej w przypadku nowotworów",
     "title_original": "Bicalutamide Unknown Status Phase 4 Trials for Prostatic Neoplasms / Neoplasms Supportive Care",
     "url": "https://go.drugbank.com/drugs/DB01128/clinical_trials?conditions=DBCOND0027948%2CDBCOND0028225&phase=4&purpose=supportive_care&status=unknown_status",
@@ -122,6 +124,15 @@
     "specializations": []
   },
   {
+    "title": "NIEKTÓRE - 95B9M9KUY5 | Usługa wyszukiwania UNII",
+    "title_original": "UNII - 95B9M9KUY5 | UNII Search Service",
+    "url": "https://precision.fda.gov/uniisearch/srs?search=95B9M9KUY5",
+    "date": "2026-06-24 00:47",
+    "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII).",
+    "source": "precisionFDA (.gov)",
+    "specializations": []
+  },
+  {
     "title": "Bezpieczeństwo i skuteczność dziesięciu popularnych dodatków do zapłodnienia in vitro: przegląd systematyczny i metaanaliza",
     "title_original": "Safety and effectiveness of ten common in-vitro fertilisation add-ons: a systematic review and meta-analysis",
     "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00054-3/fulltext",
@@ -140,17 +151,6 @@
     "source": "The Lancet",
     "specializations": [],
     "safety_level": "🟡 ALERT"
-  },
-  {
-    "title": "Zakończone badania fazy 1 worucyklibu dotyczące ostrej białaczki szpikowej / przewlekłej białaczki limfatycznej / chłoniaka z komórek płaszcza (MCL) / chłoniaków limfocytowych / chłoniaka grudkowego (FL) / chłoniaka strefy brzeżnej (MZL) / chłoniaka z małych limfocytów / Marg",
-    "title_original": "Voruciclib Terminated Phase 1 Trials for Acute Myeloid Leukemia / Chronic Lymphocytic Leukemia / Mantle Cell Lymphoma (MCL) / Lymphocytic Lymphomas / Follicular Lymphoma (FL) / Marginal Zone Lymphoma (MZL) / Small Lymphocytic Lymphoma / Marg",
-    "url": "https://go.drugbank.com/drugs/DB15157/clinical_trials?conditions=DBCOND0029883%2CDBCOND0028332%2CDBCOND0028221%2CDBCOND0071151%2CDBCOND0044702%2CDBCOND0071979%2CDBCOND0042100%2CDBCOND0110322%2CDBCOND0023538&phase=1&purpose=treatment&status=terminated",
-    "date": "2026-06-24 00:31",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Hematologia"
-    ]
   },
   {
     "title": "Cukrzyca typu 1: lek opóźniający wystąpienie zatwierdzony do stosowania w NHS",
@@ -292,7 +292,7 @@
     "safety_level": "🟡 ALERT"
   },
   {
-    "title": "Wielkie zakłady o otyłość i wzrost potencjału Chin w sprzedaży leków o wartości 2 000 USD w 2032 r.: Oceń",
+    "title": "Duże zakłady na otyłość i wzrost sprzedaży leków w Chinach o wartości 2 miliardów dolarów w 2032 r.: Oceń",
     "title_original": "Big obesity bets and China's rise fuel potential $2T in 2032 drug sales: Evaluate",
     "url": "https://www.fiercepharma.com/pharma/big-obesity-bets-and-chinas-rise-fuel-potential-2t-2032-drug-sales-evaluate",
     "date": "2026-06-23 15:00",
@@ -301,7 +301,7 @@
     "specializations": []
   },
   {
-    "title": "Duże zakłady na otyłość i wzrost sprzedaży leków w Chinach o wartości 2 miliardów dolarów w 2032 r.: Oceń",
+    "title": "Wielkie zakłady o otyłość i wzrost potencjału Chin w sprzedaży leków o wartości 2 000 USD w 2032 r.: Oceń",
     "title_original": "Big obesity bets and China's rise fuel potential $2T in 2032 drug sales: Evaluate",
     "url": "https://www.fiercepharma.com/pharma/big-obesity-bets-and-chinas-rise-fuel-potential-2t-2032-drug-sales-evaluate",
     "date": "2026-06-23 15:00",
@@ -414,7 +414,7 @@
     "specializations": []
   },
   {
-    "title": "Joyce Obidi1, Graƒ Dores1, Kinnera Chada1, Joann Gruber1, Barbee Whitaker1, Emily Storch1, Alan Williams1, Juan M. Banda2 Saur",
+    "title": "Joyce Obidi1, Gra`a Dores1, Kinnera Chada1, Joann Gruber1, Barbee Whitaker1, Emily Storch1, Alan Williams1, Juan M Banda2 Saur",
     "title_original": "Joyce Obidi1, Graҫa Dores1, Kinnera Chada1, Joann Gruber1, Barbee Whitaker1, Emily Storch1, Alan Williams1, Juan M Banda2 Saur",
     "url": "https://www.fda.gov/media/193204/download",
     "date": "2026-06-23 11:55",
@@ -432,7 +432,7 @@
     "specializations": []
   },
   {
-    "title": "Joyce Obidi1, Gra`a Dores1, Kinnera Chada1, Joann Gruber1, Barbee Whitaker1, Emily Storch1, Alan Williams1, Juan M Banda2 Saur",
+    "title": "Joyce Obidi1, Graƒ Dores1, Kinnera Chada1, Joann Gruber1, Barbee Whitaker1, Emily Storch1, Alan Williams1, Juan M. Banda2 Saur",
     "title_original": "Joyce Obidi1, Graҫa Dores1, Kinnera Chada1, Joann Gruber1, Barbee Whitaker1, Emily Storch1, Alan Williams1, Juan M Banda2 Saur",
     "url": "https://www.fda.gov/media/193204/download",
     "date": "2026-06-23 11:55",
