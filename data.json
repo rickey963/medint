@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T19:55:34Z",
+  "last_updated": "2026-06-24T19:56:08Z",
   "poland": [
     {
       "title": "Zdrowe warzywa, zaskakujący efekt. 278 tys. zgonów rocznie - Rynek Zdrowia",
@@ -224,14 +224,6 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Mit o ośmiu szklankach wody wciąż żywy. Uczeni tłumaczą, ile to optymalna objętość Żywienie Medonet."
-    },
-    {
-      "title": "Publikacje autora - lek. Katarzyna Nowik - Podyplomie.pl",
-      "url": "https://podyplomie.pl/autor/katarzyna-nowik",
-      "date": "2026-06-23T19:22:07Z",
-      "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
-      "summary": "Publikacje autora - lek. Katarzyna Nowik Podyplomie.pl."
     }
   ],
   "world": [
@@ -250,14 +242,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Uwaga do wycofania: Immunochemioterapia prowadzona w ciągu dnia w niedrobnokomórkowym raku płuc: randomizowane badanie fazy 3 Nature."
-    },
-    {
-      "title": "Specjalistyczna pielęgniarka kliniczna – opieka paliatywna i opieka u schyłku życia – BMJ",
-      "url": "https://www.bmj.com/healthcareers/job/823425/clinical-nurse-specialist-palliative-and-end-of-life-care/",
-      "date": "2026-06-24T13:08:46Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Specjalistyczna pielęgniarka kliniczna – opieka paliatywna i opieka u schyłku życia BMJ."
     },
     {
       "title": "655 milionów ludzi nadal żyjących bez prądu podkreśla pilną potrzebę osiągnięcia celu dotyczącego powszechnego dostępu do energii – Światowa Organizacja Zdrowia (WHO)",
@@ -378,6 +362,14 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "53-letnia kobieta z bólem ucha i osłabieniem twarzy Dowody NEJM."
+    },
+    {
+      "title": "Immunoterapia niepłodności w autoimmunologicznej przedwczesnej niewydolności jajników – dowody NEJM",
+      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDoa2500303?query=recirc_crossjournalmorepubs",
+      "date": "2026-06-23T14:47:18Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Immunoterapia płodności w autoimmunologicznej przedwczesnej niewydolności jajników Dowody NEJM."
     }
   ],
   "guidelines": [
@@ -668,22 +660,6 @@
       "summary": "Etykiety i limity dotyczące terapii testosteronem mogą ulec zmianie zgodnie z propozycją FDA Drugs.com."
     },
     {
-      "title": "System oparty na AI-OCT Noninferior do wykrywania cukrzycowego obrzęku plamki - Drugs.com",
-      "url": "https://www.drugs.com/news/ai-oct-based-noninferior-diabetic-macular-edema-detection-130427.html",
-      "date": "2026-06-23T17:33:36Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "System oparty na AI-OCT Noninferior do wykrywania cukrzycowego obrzęku plamki Drugs.com."
-    },
-    {
-      "title": "Zaktualizowane wytyczne dotyczące protokołów głównych amerykańskiej FDA obejmują szczegółowe plany komunikacji – Citeline News & Insights",
-      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/updated-us-fda-master-protocols-guidance-includes-specific-communication-plans-ABG2XIJTCVCBTFL3U23FGS4PBU/",
-      "date": "2026-06-23T17:21:33Z",
-      "source": "Pink Sheet",
-      "confirmed_by": 1,
-      "summary": "Zaktualizowane wytyczne dotyczące głównych protokołów amerykańskiej FDA zawierają szczegółowe plany komunikacji Citeline News & Insights."
-    },
-    {
       "title": "Dezinformacja o filtrach przeciwsłonecznych popularna na TikToku, wyniki badania – Drugs.com",
       "url": "https://www.drugs.com/news/sunscreen-misinformation-popular-tiktok-study-finds-130420.html",
       "date": "2026-06-23T15:18:56Z",
@@ -722,6 +698,14 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Interwencja dotycząca stylu życia w przypadku stanu przedcukrzycowego powoduje spadek plonów na stronie Multimorbidity Drugs.com."
+    },
+    {
+      "title": "Komisja Europejska przyspieszy akt wykonawczy dyrektywy ściekowej, aby zapewnić przejrzystość kosztów - Citeline News & Insights",
+      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/compliance/manufacturing/european-commission-will-accelerate-wastewater-directive-implementing-act-to-give-cost-clarity-CMOOFLN3O5BJVHBKZW54K4IVE4/",
+      "date": "2026-06-22T16:09:42Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "Komisja Europejska przyspieszy wprowadzenie aktu wykonawczego do dyrektywy ściekowej, aby zapewnić przejrzystość kosztów Citeline News & Insights."
     },
     {
       "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na ludziach (FIH) – fda.gov",
