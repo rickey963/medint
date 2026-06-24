@@ -430,6 +430,16 @@
     "safety_level": "🔴 WYCOFanie"
   },
   {
+    "title": "Rejestracja zakładu i lista urządzeń",
+    "title_original": "Establishment Registration & Device Listing",
+    "url": "https://www.accessdata.fda.gov/SCripts/Cdrh/cfdOCS/cfrl/rl.cfm?lid=1012936&lpcd=IYO",
+    "date": "2026-06-23 11:01",
+    "summary": "",
+    "source": "accessdata.fda.gov",
+    "specializations": [],
+    "safety_level": "🟢 REJESTRACJA"
+  },
+  {
     "title": "Eli Lilly zapewniła 79-letniemu pacjentowi dostęp do niezwykłego leku na otyłość. Kto to był?",
     "title_original": "Eli Lilly gave extraordinary obesity drug access to a 79-year-old patient. Who was it?",
     "url": "https://www.statnews.com/2026/06/23/eli-lilly-unusual-weight-loss-drug-trial-compassionate-use-retatrutide-trump/",
@@ -499,15 +509,6 @@
     ]
   },
   {
-    "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo)",
-    "title_original": "Device Classification Under Section 513(f)(2)(De Novo)",
-    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=361&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F21%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicename",
-    "date": "2026-06-23 09:17",
-    "summary": "",
-    "source": "accessdata.fda.gov",
-    "specializations": []
-  },
-  {
     "title": "Od recepty do efektu leczenia. Dlaczego pacjenci nie osiągają celów terapeutycznych?",
     "title_original": "Od recepty do efektu leczenia. Dlaczego pacjenci nie osiągają celów terapeutycznych?",
     "url": "https://pulsmedycyny.pl/medycyna/kardiologia/od-recepty-do-efektu-leczenia-dlaczego-pacjenci-nie-osiagaja-celow-terapeutycznych/",
@@ -530,7 +531,7 @@
     "title_original": "The efficacy and safety of intrauterine lidocaine instillation during outpatient hysteroscopy: A systematic review and meta-analysis of randomized controlled trials",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41996905/",
     "date": "2026-06-23 06:57",
-    "summary": "",
+    "summary": "Celem tego przeglądu systematycznego i metaanalizy była ocena skuteczności i bezpieczeństwa stosowania lidokainy podawanej domacicznie w celu złagodzenia bólu podczas histeroskopii ambulatoryjnej poprzez syntezę dowodów z randomizowanych badań kontrolowanych (RCT). Przeprowadzono kompleksowe wyszukiwanie RCT do września 2025 r. w PubMed, Scopus, CENTRAL i Web of Science. Głównym punktem końcowym był ból, a drugorzędnymi skutkami były zadowolenie pacjenta, potrzeba dodatkowego leczenia przeciwbólowego i zdarzenia niepożądane.",
     "source": "National Institutes of Health (.gov)",
     "specializations": [],
     "safety_level": "🟡 ALERT"
