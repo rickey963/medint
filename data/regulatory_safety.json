@@ -29,6 +29,15 @@
     "safety_level": "🔴 WYCOFanie"
   },
   {
+    "title": "Badania fazy otyłości dla disulfiramu (DB00822)",
+    "title_original": "Obesity Phase Trials for Disulfiram (DB00822)",
+    "url": "https://go.drugbank.com/indications/DBCOND0015947/clinical_trials/DB00822",
+    "date": "2026-06-24 08:45",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": []
+  },
+  {
     "title": "Kompleksowe, rozszerzone oprzyrządowanie do płyt bazowych klasy 2",
     "title_original": "Class 2 Device Recall OffAxis Comprehensive Augmented Baseplate Instrumentation",
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=220690",
@@ -74,6 +83,17 @@
     "summary": "",
     "source": "Drugs.com",
     "specializations": []
+  },
+  {
+    "title": "Insulina glulizynowa Zakończono badania fazy 4 dotyczące leczenia hiperglikemii u pacjentów hospitalizowanych / cukrzycy typu 2 / leczenia hiperglikemii",
+    "title_original": "Insulin glulisine Completed Phase 4 Trials for Inpatient Hyperglycemia / Type 2 Diabetes / Hyperglycemia Treatment",
+    "url": "https://go.drugbank.com/drugs/DB01309/clinical_trials?conditions=DBCOND0020377%2CDBCOND0039830%2CDBCOND0030616&phase=4&purpose=treatment&status=completed",
+    "date": "2026-06-24 07:01",
+    "summary": "",
+    "source": "DrugBank",
+    "specializations": [
+      "Endokrynologia i diabetologia"
+    ]
   },
   {
     "title": "Komisja Europejska zatwierdza Trodelvy® jako lek pierwszego rzutu u pacjentek z potrójnie ujemnym rakiem piersi z przerzutami, który nie jest kandydatem na inhibitory PD-(l)1",
@@ -136,28 +156,6 @@
     "specializations": [
       "Onkologia",
       "Urologia"
-    ]
-  },
-  {
-    "title": "Daktolisib wycofany z badań fazy 3 dotyczących klinicznie objawowych chorób układu oddechowego/zapobiegania chorobom",
-    "title_original": "Dactolisib Withdrawn Phase 3 Trials for Clinically Symptomatic Respiratory Illness / sickness Prevention",
-    "url": "https://go.drugbank.com/drugs/DB11651/clinical_trials?conditions=DBCOND0123599%2CDBCOND0100051&phase=3&purpose=prevention&status=withdrawn",
-    "date": "2026-06-24 02:36",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Pulmonologia"
-    ]
-  },
-  {
-    "title": "Anpocogin zakończył badania fazy 2 dotyczące leczenia choroby koronawirusowej 2019 (COVID‑19)",
-    "title_original": "Anpocogin Completed Phase 2 Trials for Coronavirus Disease 2019 (COVID‑19) Treatment",
-    "url": "https://go.drugbank.com/drugs/DB06552/clinical_trials?phase=2&status=completed&purpose=treatment&conditions=DBCOND0129755",
-    "date": "2026-06-24 02:30",
-    "summary": "",
-    "source": "DrugBank",
-    "specializations": [
-      "Choroby zakaźne"
     ]
   },
   {
@@ -561,7 +559,7 @@
     "title_original": "The efficacy and safety of intrauterine lidocaine instillation during outpatient hysteroscopy: A systematic review and meta-analysis of randomized controlled trials",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41996905/",
     "date": "2026-06-23 06:57",
-    "summary": "Celem tego przeglądu systematycznego i metaanalizy była ocena skuteczności i bezpieczeństwa stosowania lidokainy podawanej domacicznie w celu złagodzenia bólu podczas histeroskopii ambulatoryjnej poprzez syntezę dowodów z randomizowanych badań kontrolowanych (RCT). Przeprowadzono kompleksowe wyszukiwanie RCT do września 2025 r. w PubMed, Scopus, CENTRAL i Web of Science. Głównym punktem końcowym był ból, a drugorzędnymi skutkami były zadowolenie pacjenta, potrzeba dodatkowego leczenia przeciwbólowego i zdarzenia niepożądane.",
+    "summary": "",
     "source": "National Institutes of Health (.gov)",
     "specializations": [],
     "safety_level": "🟡 ALERT"
