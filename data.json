@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T20:48:05Z",
+  "last_updated": "2026-06-24T20:48:28Z",
   "poland": [
     {
       "title": "Wyszukiwarka tagów - Narodowy Fundusz Zdrowia (NFZ)",
@@ -370,6 +370,14 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "53-letnia kobieta z bólem ucha i osłabieniem twarzy Dowody NEJM."
+    },
+    {
+      "title": "Immunoterapia niepłodności w autoimmunologicznej przedwczesnej niewydolności jajników – dowody NEJM",
+      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDoa2500303?query=recirc_crossjournalmorepubs",
+      "date": "2026-06-23T14:47:18Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Immunoterapia płodności w autoimmunologicznej przedwczesnej niewydolności jajników Dowody NEJM."
     }
   ],
   "guidelines": [
@@ -396,14 +404,6 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Rozporządzenie Ministra Zdrowia z dnia 29 maja 2026 r. zmieniające rozporządzenie w sprawie przeprowadzania badań lekarskich pracowników, zakresu profilaktycznej opieki zdrowotnej nad pracownikami oraz orzeczeń lekarskich wydawanych do celów przewidzianych w Kodeksie pracy."
-    },
-    {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 27 maja 2026 r. w sprawie krajowych laboratoriów referencyjnych w zakresie badań jakości wody przeznaczonej do spożycia przez ludzi oraz badań jakości wody w kąpieliskach",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/707",
-      "date": "2026-05-27T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Rozporządzenie Ministra Zdrowia z dnia 27 maja 2026 r. w sprawie krajowych laboratoriów referencyjnych w zakresie badań jakości wody przeznaczonej do spożycia przez ludzi oraz badań jakości wody w kąpieliskach."
     }
   ],
   "epidemiology": [
