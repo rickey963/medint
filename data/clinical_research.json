@@ -38,15 +38,6 @@
     "specializations": []
   },
   {
-    "title": "SciENcv – NCBI – NIH",
-    "title_original": "SciENcv - NCBI - NIH",
-    "url": "https://www.ncbi.nlm.nih.gov/labs/sciencv/",
-    "date": "2026-06-24 06:25",
-    "summary": "",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
-  },
-  {
     "title": "Interakcje [18F]FDG z albuminą surowicy ludzkiej: badania wiązania i modelowania molekularnego",
     "title_original": "[18F]FDG interactions with human serum albumin: Binding and molecular modeling studies",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41956223/",
@@ -54,6 +45,17 @@
     "summary": "",
     "source": "National Institutes of Health (.gov)",
     "specializations": []
+  },
+  {
+    "title": "Wewnątrzosobnicza zmienność poznawcza przewiduje konwersję beta amyloidu, PET tau i demencję w zespole Downa: potencjalny marker odporności poznawczej",
+    "title_original": "Intraindividual cognitive variability predicts amyloid beta, tau PET, and dementia conversion in Down syndrome: a potential marker of cognitive resilience",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251495",
+    "date": "2026-06-24 06:07",
+    "summary": "",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": [
+      "Neurologia"
+    ]
   },
   {
     "title": "Recenzje AlphaFuel kontra konkurencja: który suplement wygrywa?",
@@ -507,17 +509,6 @@
     "specializations": []
   },
   {
-    "title": "Szczegóły badania | NCT07660952 | Wpływ okularów IE na wyniki pacjentów z rezonansem magnetycznym",
-    "title_original": "Study Details | NCT07660952 | Effect of IE Glasses on MRI Patient Outcomes",
-    "url": "https://clinicaltrials.gov/study/NCT07660952",
-    "date": "2026-06-23 12:23",
-    "summary": "",
-    "source": "ClinicalTrials.gov",
-    "specializations": [
-      "Radiologia i diagnostyka obrazowa"
-    ]
-  },
-  {
     "title": "Szczegóły badania | NCT07660848 | Badanie zastrzyków HRS-4729 i zastrzyków HRS9531 u uczestników ze stłuszczeniowym zapaleniem wątroby związanym z dysfunkcjami metabolicznymi",
     "title_original": "Study Details | NCT07660848 | A Study of HRS-4729 Injection and HRS9531 Injection in Participants With Metabolic Dysfunction-Associated Steatohepatitis",
     "url": "https://clinicaltrials.gov/study/NCT07660848",
@@ -528,6 +519,17 @@
       "Gastroenterologia i hepatologia"
     ],
     "study_type": "Inne"
+  },
+  {
+    "title": "Szczegóły badania | NCT07660952 | Wpływ okularów IE na wyniki pacjentów z rezonansem magnetycznym",
+    "title_original": "Study Details | NCT07660952 | Effect of IE Glasses on MRI Patient Outcomes",
+    "url": "https://clinicaltrials.gov/study/NCT07660952",
+    "date": "2026-06-23 12:23",
+    "summary": "",
+    "source": "ClinicalTrials.gov",
+    "specializations": [
+      "Radiologia i diagnostyka obrazowa"
+    ]
   },
   {
     "title": "Szczegóły badania | NCT07660848 | Badanie wstrzyknięć HRS-4729 i wstrzyknięć HRS9531 u uczestników ze stłuszczeniowym zapaleniem wątroby związanym z dysfunkcjami metabolicznymi",
