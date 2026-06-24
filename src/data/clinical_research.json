@@ -70,15 +70,6 @@
     "study_type": "Inne"
   },
   {
-    "title": "4-(2-metylopropoksy)benzenosulfonohydrazyd | C10H16N2O3S | Numer identyfikacyjny 12571121",
-    "title_original": "4-(2-Methylpropoxy)benzenesulfonohydrazide | C10H16N2O3S | CID 12571121",
-    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/4-_2-Methylpropoxy_benzenesulfonohydrazide",
-    "date": "2026-06-24 10:33",
-    "summary": "4-(2-metylopropoksy)benzenosulfonohydrazyd | C10H16N2O3S | CID 12571121 — struktura, nazwy chemiczne, właściwości fizyczne i chemiczne, klasyfikacja, patenty, literatura, aktywność biologiczna, informacje dotyczące bezpieczeństwa/zagrożeń/toksyczności, listy dostawców i inne.",
-    "source": "National Institutes of Health (.gov)",
-    "specializations": []
-  },
-  {
     "title": "ClinVar — witryna FTP NCBI — NIH",
     "title_original": "ClinVar - NCBI FTP Site - NIH",
     "url": "https://ftp.ncbi.nlm.nih.gov/pub/clinvar",
@@ -96,6 +87,15 @@
     "source": "European Journal of Hospital Pharmacy (EJHP)",
     "specializations": [],
     "study_type": "Systematic Review"
+  },
+  {
+    "title": "1037005 — Wynik BioProjektu",
+    "title_original": "1037005 - BioProject Result",
+    "url": "https://www.ncbi.nlm.nih.gov/bioproject/1037005",
+    "date": "2026-06-24 10:01",
+    "summary": "BioProjekt to zbiór danych biologicznych związanych z pojedynczą inicjatywą, pochodzących od jednej organizacji lub konsorcjum. Rekord BioProject zapewnia użytkownikom jedno miejsce, w którym można znaleźć łącza do różnych typów danych wygenerowanych dla tego projektu",
+    "source": "National Institutes of Health (.gov)",
+    "specializations": []
   },
   {
     "title": "Badanie bez kolejki? Posłanka KO pod lupą - Z kraju - Kurier",
@@ -187,13 +187,16 @@
     "specializations": []
   },
   {
-    "title": "Medycyna rozrodu, tom 7 (2026)",
-    "title_original": "Reproductive Medicine , Volume 7 (2026)",
-    "url": "https://www.mdpi.com/2673-3897/7?issue=3",
-    "date": "2026-06-24 06:39",
+    "title": "Postęp badań nad biomarkerami krwiopochodnymi w diagnostyce i ocenie prognostycznej ostrego udaru niedokrwiennego mózgu",
+    "title_original": "Research Progress of Blood-Based Biomarkers for the Diagnosis and Prognostic Evaluation of Acute Ischemic Stroke",
+    "url": "https://www.mdpi.com/2218-273X/16/7/937/review_report",
+    "date": "2026-06-24 07:03",
     "summary": "",
     "source": "MDPI",
-    "specializations": []
+    "specializations": [
+      "Neurologia",
+      "Hematologia"
+    ]
   },
   {
     "title": "Recenzje NeuroPrime — Kompletny przewodnik (5)",
@@ -348,7 +351,7 @@
     ]
   },
   {
-    "title": "FP62 Endoskopowe stentowanie wstępne pod kontrolą USG i hepatikogastrostomia ze stentowaniem przednim w leczeniu złośliwej niedrożności dystalnych dróg żółciowych: przegląd systematyczny i metaanaliza",
+    "title": "FP62 Endoskopowe stentowanie antegrade pod kontrolą USG i hepatikogastrostomia ze stentowaniem przednim w leczeniu złośliwej niedrożności dystalnych dróg żółciowych: przegląd systematyczny i metaanaliza",
     "title_original": "FP62 Endoscopic ultrasound-guided antegrade stenting and hepaticogastrostomy with antegrade stenting for malignant distal biliary obstruction: a systematic review and meta-analysis",
     "url": "https://gut.bmj.com/content/75/Suppl_1/A88.1",
     "date": "2026-06-23 21:23",
@@ -358,7 +361,7 @@
     "study_type": "Meta-analiza"
   },
   {
-    "title": "FP62 Endoskopowe stentowanie antegrade pod kontrolą USG i hepatikogastrostomia ze stentowaniem przednim w leczeniu złośliwej niedrożności dystalnych dróg żółciowych: przegląd systematyczny i metaanaliza",
+    "title": "FP62 Endoskopowe stentowanie wstępne pod kontrolą USG i hepatikogastrostomia ze stentowaniem przednim w leczeniu złośliwej niedrożności dystalnych dróg żółciowych: przegląd systematyczny i metaanaliza",
     "title_original": "FP62 Endoscopic ultrasound-guided antegrade stenting and hepaticogastrostomy with antegrade stenting for malignant distal biliary obstruction: a systematic review and meta-analysis",
     "url": "https://gut.bmj.com/content/75/Suppl_1/A88.1",
     "date": "2026-06-23 21:23",
@@ -941,7 +944,7 @@
     "title_original": "DNA-mediated alteration of the reversion frequency of transformed NIH/3T3 cells.",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC393556/?page=5",
     "date": "2026-06-20 20:31",
-    "summary": "Do selekcji specyficznych sekwencji DNA wywołujących efekt fenotypowy zastosowano selekcję komórek bezpośrednio po transfekcji DNA całych komórek do komórek ssaczych za pośrednictwem DNA. Całe mysie lub ludzkie DNA rozszczepiono na dystrybucję ...",
+    "summary": "",
     "source": "PubMed Central (PMC) (.gov)",
     "specializations": []
   },
