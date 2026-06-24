@@ -126,18 +126,35 @@ SOURCES_RYNEK_FARMACEUTYCZNY = [
 # repeated here - it already lives in the Polska tile above, and the user
 # asked not to duplicate sources across tiles.
 SOURCES_WYTYCZNE = [
-    # when:3d (the default) returned only one item, and a junk one at that -
-    # tested with when:7d: 5 real, correctly-dated legislative items instead.
-    # ISAP simply doesn't publish daily, so it needs the wider window.
-    ("ISAP", _google_news_url("isap.sejm.gov.pl", when="7d"), "google_news"),
-    ("Dziennik Ustaw RP", _google_news_url("dziennikustaw.gov.pl"), "google_news"),
+    # ISAP/Dziennik Ustaw publish every law, not just health ones - fetch_data.py
+    # additionally requires medical relevance for this tile (_is_medically_relevant),
+    # but that check only has a chance to pass if health-related acts are actually
+    # among the few articles each source returns. Scoping the query itself to
+    # health-related acts (tested: this combination does NOT zero out here,
+    # unlike the lower-volume EUR-Lex domain below) makes that far more likely,
+    # and when:14d (these don't publish daily) gives it more to find.
+    # 4th field overrides fetch_data.py's global 72h freshness cutoff - these
+    # two publish health-related acts too rarely for that window to ever
+    # have anything to show within it, even with the query above already
+    # scoped to health-related acts specifically. 14*24h matches the when:14d
+    # Google News window above, so nothing matched by the query gets thrown
+    # away again immediately afterwards by a stricter local freshness check.
+    ("ISAP", _google_news_url("isap.sejm.gov.pl", when="30d", extra='"Minister Zdrowia" OR zdrowia OR zdrowotn'), "google_news", 30 * 24),
+    ("Dziennik Ustaw RP", _google_news_url("dziennikustaw.gov.pl", when="30d", extra='"Minister Zdrowia" OR zdrowia OR zdrowotn'), "google_news", 30 * 24),
+    # Most of NIL's Google-News-indexed articles route straight to a PDF
+    # download (nil.org.pl/articleToPdf/...) with no HTML version - those get
+    # dropped by the no-PDFs quality gate, same as every other source, so
+    # this one often contributes nothing. Left in (it's an explicitly
+    # requested, genuinely medical source) rather than dropped outright.
     ("Naczelna Izba Lekarska", _google_news_url("nil.org.pl"), "google_news"),
     # No "extra" topic keyword - tested and confirmed: combining when: with
     # an extra keyword phrase against this low-volume domain reliably
     # returns 0 results (the few documents in the window essentially never
-    # contain the literal word), while site: + when: alone returns real,
-    # freshly dated EU legal items.
-    ("EUR-Lex Health Law", _google_news_url("eur-lex.europa.eu"), "google_news"),
+    # contain the literal word), while site: + when: alone returns real EU
+    # legal items. fetch_data.py's medical-relevance filter is what keeps
+    # this tile's EUR-Lex items on-topic instead. Widened window for the same
+    # reason as ISAP/Dziennik Ustaw above - more candidates for that filter.
+    ("EUR-Lex Health Law", _google_news_url("eur-lex.europa.eu", when="14d"), "google_news", 14 * 24),
 ]
 
 ALL_SECTIONS = {

@@ -15,15 +15,21 @@ import re
 import json
 import logging
 import datetime
+import warnings
 from concurrent.futures import ThreadPoolExecutor
 
 import feedparser
+import requests
+from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
 from deep_translator import GoogleTranslator
 
 from scraper import sources
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
+# A handful of enrichment targets (EUR-Lex) serve XML, not HTML - harmless
+# with html.parser, just noisy in the logs without this.
+warnings.filterwarnings('ignore', category=XMLParsedAsHTMLWarning)
 
 MAX_ARTICLES_PER_SOURCE = 8
 MAX_ARTICLES_PER_SECTION = 30
@@ -36,6 +42,15 @@ DEDUPE_OVERLAP_THRESHOLD = 0.5
 # cap, N sections each opening their own translate pool multiplies concurrent
 # requests against Google's free endpoint and triggers connection resets.
 TRANSLATE_EXECUTOR = ThreadPoolExecutor(max_workers=8)
+
+# Every source here is fetched through Google News (see scraper/sources.py),
+# whose RSS <description> is always just "<title> - <source>" - never real
+# article text. Enriching with the publisher's own page content (real
+# summary, and for some sites a real headline) needs one extra HTTP GET per
+# surviving item, so it gets its own capped, shared pool for the same reason
+# TRANSLATE_EXECUTOR is shared - several sections enrich concurrently.
+ENRICH_EXECUTOR = ThreadPoolExecutor(max_workers=10)
+ENRICH_TIMEOUT_SECONDS = 8
 
 # Sources whose native content is already Polish (see scraper/sources.py) -
 # running these through Google Translate anyway would just be a slow PL->PL
@@ -80,17 +95,67 @@ def _parse_date(entry):
     return datetime.datetime.now(datetime.timezone.utc)
 
 
+URL_DECODE_CACHE_PATH = 'url_decode_cache.json'
+_url_decode_cache = None
+
+# Decoding is 2 HTTP requests to Google per URL (confirmed by reading
+# googlenewsdecoder's source - a GET for a signature/timestamp pair, then a
+# POST to batchexecute). With ~30 items per section across 6 concurrently
+# running sections, an uncached run was issuing 100+ simultaneous decode
+# requests and Google started returning 429 Too Many Requests for *all* of
+# them - which is the actual root cause behind links not resolving (the item
+# silently keeps the raw, undecoded news.google.com redirect). Two
+# mitigations: (1) cache successful decodes to disk so the same article -
+# which typically recurs across many consecutive fetch cycles within the
+# freshness window - only ever needs decoding once; (2) a small shared
+# executor caps how many decode requests are in flight at once, regardless
+# of how many sections are fetching concurrently.
+DECODE_EXECUTOR = ThreadPoolExecutor(max_workers=3)
+
+
+def _load_url_decode_cache():
+    global _url_decode_cache
+    if _url_decode_cache is None:
+        try:
+            with open(URL_DECODE_CACHE_PATH, 'r', encoding='utf-8') as f:
+                _url_decode_cache = json.load(f)
+        except (FileNotFoundError, json.JSONDecodeError):
+            _url_decode_cache = {}
+    return _url_decode_cache
+
+
+def save_url_decode_cache():
+    if _url_decode_cache is not None:
+        with open(URL_DECODE_CACHE_PATH, 'w', encoding='utf-8') as f:
+            json.dump(_url_decode_cache, f, ensure_ascii=False)
+
+
+def _decode_google_news_url_uncached(url):
+    from googlenewsdecoder import gnewsdecoder
+    # One retry, with a short pause first - a transient/rate-limited failure
+    # here silently leaves the raw Google redirect URL in place, and
+    # enrichment would then fetch *Google's own* interstitial/cookie-consent
+    # page instead of the real article (confirmed during testing).
+    for attempt in range(2):
+        try:
+            result = gnewsdecoder(url, interval=1)
+            if result and result.get('status') and result.get('decoded_url'):
+                return result['decoded_url']
+        except Exception as e:
+            logger.warning(f"Google News URL decode failed (attempt {attempt + 1}): {e}")
+    return url
+
+
 def _decode_google_news_url(url):
     if not url or 'news.google.com' not in url:
         return url
-    try:
-        from googlenewsdecoder import gnewsdecoder
-        result = gnewsdecoder(url, interval=0)
-        if result and result.get('status') and result.get('decoded_url'):
-            return result['decoded_url']
-    except Exception as e:
-        logger.warning(f"Google News URL decode failed: {e}")
-    return url
+    cache = _load_url_decode_cache()
+    if url in cache:
+        return cache[url]
+    decoded = DECODE_EXECUTOR.submit(_decode_google_news_url_uncached, url).result()
+    if decoded != url:
+        cache[url] = decoded
+    return decoded
 
 
 def _translate(text, target='pl'):
@@ -107,7 +172,114 @@ FEED_USER_AGENT = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
                     '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36')
 
 
-def fetch_source(name, url, kind):
+def _extract_jsonld_description(soup):
+    import json as _json
+    for script in soup.find_all('script', attrs={'type': 'application/ld+json'}):
+        try:
+            data = _json.loads(script.string or '')
+        except (ValueError, TypeError):
+            continue
+        candidates = data if isinstance(data, list) else [data]
+        for entry in candidates:
+            if isinstance(entry, dict) and entry.get('description'):
+                return entry['description']
+    return None
+
+
+def _enrich_sejm_legislative_template(soup):
+    """dziennikustaw.gov.pl (Dziennik Ustaw *and* Monitor Polski) and
+    isap.sejm.gov.pl share the Sejm's legislative-document template, which
+    never puts the actual act name in <title>/<h1> - that's always just
+    "Dziennik Ustaw 2026 r. poz. 828", which tells a reader nothing. The
+    real act title ("Rozporządzenie Ministra ... w sprawie ...") sits in the
+    <h2> right after the #h_title heading. Tried unconditionally (cheap, and
+    returns None immediately) rather than gated on domain, since it's the
+    same template across at least two different domains."""
+    h1 = soup.find(id='h_title')
+    if not h1:
+        return None
+    h2 = h1.find_next('h2')
+    if not h2:
+        return None
+    real_title = ' '.join(h2.get_text(' ', strip=True).split())
+    return real_title or None
+
+
+# Bot-wall/CAPTCHA interstitials (Cloudflare, PerimeterX, Akamai...) return
+# HTTP 200 with a real <p>/meta description - their own, about *us* being
+# suspected of being a bot, not the article. Caught for real on isap.sejm.gov.pl.
+BOT_WALL_PHRASES = [
+    'were browsing', 'made us think you were a bot', 'are you a robot',
+    'verify you are human', 'access to this page has been denied', 'captcha',
+    'checking your browser', 'enable javascript and cookies',
+    # Cookie-consent banner boilerplate - the other recurring false "summary"
+    # the generic <p> fallback grabs when a page's real content isn't a
+    # plain server-rendered paragraph (confirmed on dziennikustaw.gov.pl).
+    'accept all', 'we will also use cookies', 'this site uses cookies',
+    'this website uses cookies', 'używamy plików cookies', 'plikow cookies',
+    'zgadzasz się na ich użycie', 'polityce prywatności',
+]
+
+
+def _looks_like_bot_wall(text):
+    text_lower = text.lower()
+    return any(p in text_lower for p in BOT_WALL_PHRASES)
+
+
+def _enrich_generic(soup):
+    og = soup.find('meta', attrs={'property': 'og:description'})
+    if og and og.get('content') and not _looks_like_bot_wall(og['content']):
+        return og['content']
+    meta = soup.find('meta', attrs={'name': 'description'})
+    if meta and meta.get('content') and 'error 404' not in meta['content'].lower() and not _looks_like_bot_wall(meta['content']):
+        return meta['content']
+    jsonld_desc = _extract_jsonld_description(soup)
+    if jsonld_desc and not _looks_like_bot_wall(jsonld_desc):
+        return jsonld_desc
+    for p in soup.find_all('p'):
+        text = p.get_text(' ', strip=True)
+        if len(text) > 60 and not _looks_like_bot_wall(text):
+            return text
+    return None
+
+
+def _enrich_real_content(item):
+    """Google News' own <description> is always just "<title> - <source>",
+    never real article text (confirmed for every source here, since they're
+    all fetched via Google News - see scraper/sources.py), so the publisher's
+    own page has to be fetched to get an actual summary. Best-effort: on any
+    failure (timeout, paywall, blocked bot, no usable content found) the
+    item keeps its original title/summary_raw untouched."""
+    url = item.get('url') or ''
+    if not url or not url.startswith('http'):
+        return item
+    if 'news.google.com' in url:
+        # URL decode failed upstream (see _decode_google_news_url's retry) -
+        # fetching this would hit Google's own redirect/consent interstitial,
+        # not the real article, and that interstitial's boilerplate text has
+        # been mistaken for a real summary before. Leave the item alone.
+        return item
+    try:
+        resp = requests.get(url, timeout=ENRICH_TIMEOUT_SECONDS, headers={'User-Agent': FEED_USER_AGENT})
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, 'html.parser')
+
+        real_title = _enrich_sejm_legislative_template(soup)
+        if real_title:
+            item['title'] = real_title
+            item['summary_raw'] = _trim_sentences(_clean_html(real_title), 3)
+            return item
+
+        description = _enrich_generic(soup)
+        if description:
+            item['summary_raw'] = _trim_sentences(_clean_html(description), 3)
+    except Exception as e:
+        logger.warning(f"Enrichment failed for {url}: {e}")
+    return item
+
+
+def fetch_source(name, url, kind, max_age_hours=None):
+    max_age_hours = FRESHNESS_WINDOW_HOURS if max_age_hours is None else max_age_hours
     feed = None
     last_err = None
     # One retry with a browser-like UA covers both intermittent connection
@@ -134,7 +306,7 @@ def fetch_source(name, url, kind):
             link = entry.get('link', '')
             date = _parse_date(entry)
             age_hours = (datetime.datetime.now(datetime.timezone.utc) - date).total_seconds() / 3600
-            if age_hours < 0 or age_hours > FRESHNESS_WINDOW_HOURS:
+            if age_hours < 0 or age_hours > max_age_hours:
                 continue
             items.append({
                 'title': title,
@@ -177,29 +349,46 @@ def _dedupe(items):
     return kept
 
 
-def fetch_section(name_to_url_kind):
+def fetch_section(name_to_url_kind, section_key=None):
     """Fetches every source in a section concurrently, dedupes, caps, decodes
-    + quality-filters, then translates only the items that actually survive
-    (cheaper and avoids wasting a translation call on something we're about
-    to drop)."""
+    + quality-filters, enriches with the real page content, then translates
+    only the items that actually survive (cheaper and avoids wasting a
+    translation call on something we're about to drop)."""
     with ThreadPoolExecutor(max_workers=max(1, len(name_to_url_kind))) as executor:
-        futures = [executor.submit(fetch_source, name, url, kind) for name, url, kind in name_to_url_kind]
+        # Entries are (name, url, kind) or (name, url, kind, max_age_hours) -
+        # the optional 4th field overrides FRESHNESS_WINDOW_HOURS for sources
+        # that publish too infrequently for the global 72h cutoff (see
+        # scraper/sources.py's SOURCES_WYTYCZNE).
+        futures = [executor.submit(fetch_source, *entry) for entry in name_to_url_kind]
         all_items = [item for f in futures for item in f.result()]
 
     all_items.sort(key=lambda it: it['date'], reverse=True)
     deduped = _dedupe(all_items)[:MAX_ARTICLES_PER_SECTION]
 
     # Decode the real publisher URL and drop low-quality items *before*
-    # translating - PDFs, login walls, search/tool pages and garbled titles
-    # are exactly the kind of "old reference page Google re-crawled today"
-    # results that made stale content look freshly dated, and there's no
-    # point spending a translation call on something about to be dropped.
+    # enriching/translating - PDFs, login walls, search/tool pages and
+    # garbled titles are exactly the kind of "old reference page Google
+    # re-crawled today" results that made stale content look freshly dated,
+    # and there's no point spending an extra page fetch + translation call
+    # on something about to be dropped.
     survivors = []
     for item in deduped:
         if item['kind'] == 'google_news':
             item['url'] = _decode_google_news_url(item['url'])
         if not _is_low_quality(item):
             survivors.append(item)
+
+    survivors = list(ENRICH_EXECUTOR.map(_enrich_real_content, survivors))
+
+    # The "Wytyczne i rekomendacje" sources (ISAP, Dziennik Ustaw, EUR-Lex)
+    # are general legal registries, not medical-specific outlets - without
+    # this they surface every law/EU act published that day (an agricultural
+    # import rule, a merger notification...), not just health-related ones.
+    # Checked *after* enrichment - Dziennik Ustaw's real act title (the only
+    # place the actual subject matter appears - see _enrich_dziennik_ustaw)
+    # only exists once enrichment has run.
+    if section_key == 'guidelines':
+        survivors = [it for it in survivors if _is_medically_relevant(f"{it['title']} {it['summary_raw']}")]
 
     def _finalize(item):
         title_original = item['title']
@@ -216,6 +405,24 @@ def fetch_section(name_to_url_kind):
 
     finalized = list(TRANSLATE_EXECUTOR.map(_finalize, survivors))
     return finalized
+
+
+# ISAP/Dziennik Ustaw/EUR-Lex publish every law, not just health-related
+# ones - this keeps "Wytyczne i rekomendacje" scoped to medicine specifically.
+MEDICAL_RELEVANCE_PATTERNS = [
+    r'zdrow\w*', r'lekarz\w*', r'\blek\w*', r'leczy\w*', r'leczen\w*',
+    r'pacjent\w*', r'medyc\w*', r'szpital\w*', r'farmaceut\w*', r'farmacj\w*', r'apte\w*',
+    r'szczepion\w*', r'\bnfz\b', r'minister\w+ zdrowia', r'chorob\w*', r'klinicz\w*',
+    r'sanitar\w*', r'epidemi\w*', r'pandemi\w*', r'psychiatr\w*', r'stomatolog\w*',
+    r'pielęgniar\w*', r'ratownictw\w* medyczn\w*', r'niepełnosprawn\w*', r'zdrowotn\w*',
+    r'diagnoz\w*', r'terapeut\w*', r'rehabilitacj\w*', r'\bcovid\w*', r'wirus\w*', r'\bgrypa\b',
+    r'\bwho\b', r'\bema\b', r'\bfda\b', r'\becdc\b', r'badani\w* klinicz\w*', r'wyrob\w* medyczn\w*',
+]
+
+
+def _is_medically_relevant(text):
+    text_lower = text.lower()
+    return any(re.search(p, text_lower) for p in MEDICAL_RELEVANCE_PATTERNS)
 
 
 # Reference/tool/login pages that Google News sometimes surfaces with
@@ -235,6 +442,7 @@ JUNK_TITLE_SUBSTRINGS = [
     'subscribe', 'log in', 'sign in', 'cookie policy', 'just a moment',
     'access denied', 'page not found', '404', 'search results',
     'wyszukiwanie', 'wyszukaj', 'strona nie znaleziona', 'błąd 404',
+    'akt prawny - sejm',
 ]
 
 # A raw filename embedded in the title (e.g. "C_202603170PL.000101.fmx.xml")
@@ -265,6 +473,14 @@ def _is_low_quality(item):
         return True
     title = (item.get('title') or '').strip()
     if len(title) < 10 or title.startswith('-'):
+        return True
+    # A Polish-source title starting with a lowercase letter is a truncated
+    # mid-sentence fragment (Google News occasionally indexes just the part
+    # of a longer title that matched the search query), not a real headline -
+    # confirmed for "szpitalnego oddziału ratunkowego - Sejm" from ISAP.
+    # Scoped to Polish sources only: legitimate English headlines sometimes
+    # start with a lowercase gene/brand name (e.g. "mRNA vaccine...").
+    if item.get('source') in POLISH_SOURCES and title[0].islower():
         return True
     if FILENAME_TITLE_RE.search(title):
         return True
@@ -384,7 +600,7 @@ def main():
     with ThreadPoolExecutor(max_workers=len(sources.ALL_SECTIONS)) as executor:
         logger.info(f"Fetching {len(sources.ALL_SECTIONS)} sections concurrently...")
         section_futures = {
-            key: executor.submit(fetch_section, source_list)
+            key: executor.submit(fetch_section, source_list, key)
             for key, source_list in sources.ALL_SECTIONS.items()
         }
         sections = {key: f.result() for key, f in section_futures.items()}
@@ -403,6 +619,7 @@ def main():
 
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
+    save_url_decode_cache()
     logger.info("Done - data.json updated.")
 
 

@@ -62,13 +62,17 @@ function updateCriticalTicker(alerts) {
     const a = document.getElementById('critical-alert-text-a');
     const b = document.getElementById('critical-alert-text-b');
     if (!track || !a || !b) return;
-    const titles = (alerts && alerts.length ? alerts.map((al) => al.title) : ['Sytuacja stabilna - brak nowych alertów medycznych']);
-    const text = titles.join('   •   ');
-    a.textContent = text;
-    b.textContent = text;
+    const items = (alerts && alerts.length ? alerts : [{ title: 'Sytuacja stabilna - brak nowych alertów medycznych', url: '' }]);
+    const plainText = items.map((al) => al.title).join('   •   ');
+    const html = items.map((al) => (al.url
+        ? `<a href="${al.url}" target="_blank" rel="noopener noreferrer">${al.title}</a>`
+        : `<span>${al.title}</span>`)).join('   •   ');
+    a.innerHTML = html;
+    b.innerHTML = html;
     // Slow, constant reading speed regardless of how much text there is -
     // longer alert lists get a longer loop instead of scrolling faster.
-    track.style.animationDuration = `${Math.max(25, text.length * 0.22)}s`;
+    // (Slowed down further per request: higher floor + slower per-character rate.)
+    track.style.animationDuration = `${Math.max(32, plainText.length * 0.28)}s`;
 }
 
 function renderDailyTop5(items) {
