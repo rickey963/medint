@@ -71,6 +71,11 @@ SOURCES_POLSKA = [
     # broad - the ministry name keeps the query scoped to actual MZ news.
     ("Ministerstwo Zdrowia RP", _google_news_url("gov.pl", extra='"Ministerstwo Zdrowia"'), "google_news"),
     ("alertmedyczny.pl", _google_news_url("alertmedyczny.pl"), "google_news"),
+    # doz.pl is mainly an online pharmacy storefront - site: alone would
+    # mostly return product pages, so this is scoped to its "Czytelnia"
+    # (DozNews) editorial section specifically.
+    ("DOZ.pl", _google_news_url("doz.pl", extra="czytelnia"), "google_news"),
+    ("Serwis Zdrowie (PAP)", _google_news_url("zdrowie.pap.pl"), "google_news"),
 ]
 
 # --- 2. Świat -----------------------------------------------------------------
@@ -155,6 +160,11 @@ SOURCES_WYTYCZNE = [
     # this tile's EUR-Lex items on-topic instead. Widened window for the same
     # reason as ISAP/Dziennik Ustaw above - more candidates for that filter.
     ("EUR-Lex Health Law", _google_news_url("eur-lex.europa.eu", when="14d"), "google_news", 14 * 24),
+    # Both cover the Polish health *system*/policy beat (workforce, funding,
+    # accreditation, NFZ/MZ decisions) rather than general medical news, so
+    # they fit this tile's subject matter better than the Polska tile.
+    ("Polityka Zdrowotna", _google_news_url("politykazdrowotna.com"), "google_news"),
+    ("Remedium.md", _google_news_url("remedium.md"), "google_news"),
 ]
 
 ALL_SECTIONS = {

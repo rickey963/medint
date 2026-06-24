@@ -60,6 +60,7 @@ POLISH_SOURCES = frozenset({
     'Rynek Zdrowia', 'Medonet', 'Narodowy Fundusz Zdrowia',
     'Internetowe Konto Pacjenta', 'Ministerstwo Zdrowia RP', 'alertmedyczny.pl',
     'ISAP', 'Dziennik Ustaw RP', 'Naczelna Izba Lekarska',
+    'DOZ.pl', 'Serwis Zdrowie (PAP)', 'Polityka Zdrowotna', 'Remedium.md',
 })
 
 
