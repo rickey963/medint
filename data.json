@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-24T19:35:13Z",
+  "last_updated": "2026-06-24T19:35:36Z",
   "poland": [
+    {
+      "title": "Programy profilaktyczne - Gdzie się leczyć - NFZ - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://gsl.nfz.gov.pl/GSL/GSL/ProgramyProfilaktyczne",
+      "date": "2026-06-24T18:24:38Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Programy profilaktyczne - Gdzie się leczyć - NFZ Narodowy Fundusz Zdrowia (NFZ)."
+    },
     {
       "title": "Leczenie ran i oparzeń w gabinecie lekarza rodzinnego - TRANSMISJA VIP | Webinar - Termedia",
       "url": "https://www.termedia.pl/Konferencja-Leczenie-ran-i-oparzen-w-TRANSMISJA-VIP,3040,45353.html",
@@ -8,6 +16,14 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Leczenie ran i oparzeń w gabinecie lekarza rodzinnego - TRANSMISJA VIP | Webinar Termedia."
+    },
+    {
+      "title": "Gdzie się leczyć - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://gsl.nfz.gov.pl/",
+      "date": "2026-06-24T17:50:33Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Gdzie się leczyć Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
       "title": "GSL - Gdzie się leczyć - NFZ - Narodowy Fundusz Zdrowia (NFZ)",
@@ -24,22 +40,6 @@
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
       "summary": "wyszukiwarki NFZ - Gdzie się leczyć Narodowy Fundusz Zdrowia (NFZ)."
-    },
-    {
-      "title": "Programy profilaktyczne - Gdzie się leczyć - NFZ - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://gsl.nfz.gov.pl/GSL/GSL/ProgramyProfilaktyczne",
-      "date": "2026-06-24T15:24:44Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Programy profilaktyczne - Gdzie się leczyć - NFZ Narodowy Fundusz Zdrowia (NFZ)."
-    },
-    {
-      "title": "Gdzie się leczyć - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://gsl.nfz.gov.pl/",
-      "date": "2026-06-24T14:48:33Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Gdzie się leczyć Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
       "title": "Stanowisko Minister Zdrowia - Gov.pl",
@@ -265,7 +265,7 @@
       "date": "2026-06-24T15:09:29Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "Uwaga do wycofania: Immunochemioterapia mierzona w ciągu dnia w niedrobnokomórkowym raku płuc: randomizowane badanie fazy 3 Nature."
+      "summary": "Uwaga do wycofania: Immunochemioterapia prowadzona w ciągu dnia w niedrobnokomórkowym raku płuc: randomizowane badanie fazy 3 Nature."
     },
     {
       "title": "— „The New England Journal of Medicine”.",
@@ -298,14 +298,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Inspirowanie, kształtowanie i utrzymywanie afrykańskiego programu badań i rozwoju Natura."
-    },
-    {
-      "title": "Krótkoterminowa DAPT w celu zapobiegania okluzji przeszczepu żyły odpiszczelowej po CABG – klinicysta NEJM",
-      "url": "https://clinician.nejm.org/short-term-dapt-prevent-saphenous-vein-graft-occlusion-cabg-CLINjwNA60227",
-      "date": "2026-06-24T08:30:15Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Krótkoterminowa DAPT w celu zapobiegania okluzji przeszczepu żyły odpiszczelowej po CABG NEJM Lekarz."
     },
     {
       "title": "Menedżer Portfolio Cyfrowego - Zastępca Architekta Rozwiązań - The BMJ",
@@ -393,7 +385,7 @@
       "date": "2026-06-23T23:39:32Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "FDA rezygnuje z egzekwowania przepisów wobec Whoop po wprowadzeniu zmian na stronie statnews.com dotyczącej ciśnienia krwi."
+      "summary": "FDA rezygnuje z egzekwowania prawa przeciwko Whoop po wprowadzeniu zmian na stronie statnews.com dotyczącej ciśnienia krwi."
     },
     {
       "title": "Bezpieczeństwo i skuteczność dziesięciu popularnych dodatków do zapłodnienia in vitro: przegląd systematyczny i metaanaliza - The Lancet",
@@ -482,6 +474,14 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Chirurgiczna analiza wideo zachowująca prywatność z uczeniem się roju — wyniki międzynarodowej kohorty wyrostka robaczkowego NEJM AI."
+    },
+    {
+      "title": "53-letnia kobieta z bólem ucha i osłabieniem twarzy – dowody NEJM",
+      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDmr2500144?query=recirc_crossjournalmorepubs",
+      "date": "2026-06-23T14:47:18Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "53-letnia kobieta z bólem ucha i osłabieniem twarzy Dowody NEJM."
     }
   ],
   "guidelines": [
@@ -500,14 +500,6 @@
       "source": "ISAP",
       "confirmed_by": 1,
       "summary": "h t t p s - ISAP - Sejm Sejm."
-    },
-    {
-      "title": "Dziennik Ustaw 2026 r. poz. 828 - Dziennik Ustaw",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/828",
-      "date": "2026-06-23T22:59:25Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Dziennik Ustaw 2026 r. poz. 828 Dziennik Ustaw."
     },
     {
       "title": "Dziennik Ustaw 2026 r. poz. 826 - Dziennik Ustaw",
@@ -532,6 +524,14 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Dziennik Ustaw 2026 r. poz. 829 Dziennik Ustaw."
+    },
+    {
+      "title": "Wyszukiwanie aktów prawnych - Dziennik Ustaw",
+      "url": "https://dziennikustaw.gov.pl/szukaj?pSize=100&pNumber=1&title=dumps+cc+com+%E3%80%90BestSite%3A+Amsiga.com+%E3%80%91.Qn1I",
+      "date": "2026-06-22T20:25:51Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Wyszukiwanie aktów prawnych Dziennik Ustaw."
     },
     {
       "title": "Profilaktyka jako fundament zdrowego społeczeństwa – przedstawiciele NRL na Kongresie Zdrowie 360 - NIL",
@@ -576,7 +576,7 @@
   ],
   "epidemiology": [
     {
-      "title": "Epidemia włośnicy powiązana z niedogotowanym mięsem Bear Jerky, Karolina Północna, USA, 2024 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Epidemia włośnicy powiązana z niedogotowanym mięsem Bear Jerky, Karolina Północna, USA, 2024 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/pdfs/26-0062.pdf",
       "date": "2026-06-24T19:18:57Z",
       "source": "CDC Outbreaks",
@@ -621,7 +621,7 @@
       "date": "2026-06-23T12:58:47Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Szybki systematyczny przegląd klinicznych czynników ryzyka ciężkiego zakażenia wirusem Syncytialnego układu oddechowego u dorosłych skutkującego hospitalizacją, przyjęciem na oddział intensywnej terapii lub śmiercią Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)."
+      "summary": "Szybki, systematyczny przegląd klinicznych czynników ryzyka ciężkiego zakażenia wirusem Syncytialnego układu oddechowego u dorosłych skutkującego hospitalizacją, przyjęciem na oddział intensywnej terapii lub śmiercią Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)."
     },
     {
       "title": "Oświadczenie o ochronie prywatności ECDC Wydarzenia i spotkania fizyczne – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -648,7 +648,7 @@
       "summary": "WHO wzywa do zwiększenia skali badań przesiewowych noworodków, aby poprawić wczesne wykrywanie i leczenie wad wrodzonych. Światowa Organizacja Zdrowia (WHO)."
     },
     {
-      "title": "Kraje afrykańskie spotykają się, aby przygotować się do przyszłego wprowadzenia na rynek nowych szczepionek przeciw gruźlicy dla dorosłych i młodzieży – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Kraje afrykańskie spotykają się, aby przygotować się na przyszłe wprowadzenie na rynek nowych szczepionek przeciw gruźlicy dla dorosłych i młodzieży – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/23-06-2026-african-countries-convene-to-prepare-for-future-rollout-of-new-tb-vaccines-for-adults-and-adolescents",
       "date": "2026-06-23T09:40:08Z",
       "source": "WHO Disease Outbreak News",
@@ -656,7 +656,7 @@
       "summary": "Kraje afrykańskie spotykają się, aby przygotować się do przyszłego wprowadzenia na rynek nowych szczepionek przeciw gruźlicy dla dorosłych i młodzieży Światowa Organizacja Zdrowia (WHO)."
     },
     {
-      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 rok – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 r. – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/invasive-meningococcal-disease-annual-epidemiological-report-2024",
       "date": "2026-06-23T08:46:01Z",
       "source": "ECDC",
@@ -746,14 +746,6 @@
       "summary": "ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07662512 | Różne stężenia ozonu w chorobie zwyrodnieniowej stawu kolanowego – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07662512",
-      "date": "2026-06-24T06:51:58Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07662512 | Różne stężenia ozonu w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
-    },
-    {
       "title": "Szczegóły badania | NCT07660705 | Edukacja wideo z kodem QR dla członków rodziny na oddziałach intensywnej terapii – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07660705",
       "date": "2026-06-23T10:21:07Z",
@@ -786,12 +778,20 @@
       "summary": "Szczegóły badania | NCT07661524 | Muzykoterapia pasywna a aktywna Choroba Parkinsona ClinicalTrials.gov."
     },
     {
+      "title": "ClinicalTrials.gov: Ziołolecznictwo – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/search?intr=%22herbal+medicine%22&aggFilters=status:not%20rec",
+      "date": "2026-06-22T21:48:12Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "ClinicalTrials.gov: Ziołolecznictwo ClinicalTrials.gov."
+    },
+    {
       "title": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PSY w szwedzkiej praktyce (ALLERDOGSWEDEN) – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07651891",
       "date": "2026-06-22T19:44:55Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PSA w szwedzkiej praktyce (ALLERDOGSWEDEN) ClinicalTrials.gov."
+      "summary": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PIES w szwedzkiej praktyce (ALLERDOGSWEDEN) ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07661342 | Badanie DEPART w Yale – ClinicalTrials.gov",
@@ -804,12 +804,12 @@
   ],
   "pharma_market": [
     {
-      "title": "Przebudowa serca może zwiastować ryzyko raka",
-      "url": "https://www.drugs.com/news/cardiac-remodeling-may-portend-cancer-risk-130445.html",
-      "date": "2026-06-24T17:37:43Z",
+      "title": "Zdjęcia pigułek „571 białych i okrągłych” – Drugs.com",
+      "url": "https://www.drugs.com/imprints.php?imprint=571&color=12&shape=24",
+      "date": "2026-06-24T09:13:22Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Przebudowa serca może zwiastować ryzyko raka Drugs.com."
+      "summary": "Zdjęcia tabletek „571 Białe i okrągłe” Drugs.com."
     },
     {
       "title": "Notatnik BIO: KNU, potencjalne transakcje w Chinach Zakaz ma duży wpływ na zawieranie transakcji - Citeline News & Insights",
@@ -860,14 +860,6 @@
       "summary": "Dezinformacja o filtrach przeciwsłonecznych popularna na TikTok – wynika z badania Drugs.com."
     },
     {
-      "title": "EMA/PE/0000233122 – plan badań pediatrycznych – Europejska Agencja Leków (EMA)",
-      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000233122",
-      "date": "2026-06-23T07:51:21Z",
-      "source": "EMA",
-      "confirmed_by": 1,
-      "summary": "EMA/PE/0000233122 – plan badań pediatrycznych Europejska Agencja Leków (EMA)."
-    },
-    {
       "title": "EMA/PE/0000241855 – plan badań pediatrycznych – Europejska Agencja Leków (EMA)",
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000241855",
       "date": "2026-06-23T07:39:47Z",
@@ -916,7 +908,7 @@
       "summary": "Komisja Europejska przyspieszy wprowadzenie aktu wykonawczego do dyrektywy ściekowej, aby zapewnić przejrzystość kosztów Citeline News & Insights."
     },
     {
-      "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na ludziach (FIH) - fda.gov",
+      "title": "Dobór dawki w oparciu o farmakologię systemów ilościowych (QSP) w celu uzyskania minimalnego przewidywanego poziomu efektu biologicznego (MABEL) w badaniach po raz pierwszy na człowieku (FIH) - fda.gov",
       "url": "https://www.fda.gov/media/193230/download",
       "date": "2026-06-22T15:55:01Z",
       "source": "FDA Drug News",
@@ -929,7 +921,7 @@
       "date": "2026-06-22T14:41:19Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Wysokie przeszkody utrudniają pacjentom z nerkami podjęcie ratujących życie przeszczepów Drugs.com."
+      "summary": "Wysokie przeszkody utrudniają pacjentom z nerkami podejmowanie ratujących życie przeszczepów Drugs.com."
     },
     {
       "title": "Spotkanie zainteresowanych stron ETF na temat biodystrybucji szczepionek mRNA – Europejska Agencja Leków (EMA)",
@@ -990,7 +982,7 @@
   ],
   "critical_alerts": [
     {
-      "title": "Epidemia włośnicy powiązana z niedogotowanym mięsem Bear Jerky, Karolina Północna, USA, 2024 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Epidemia włośnicy powiązana z niedogotowanym mięsem Bear Jerky, Karolina Północna, USA, 2024 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/pdfs/26-0062.pdf",
       "date": "2026-06-24T19:18:57Z",
       "source": "CDC Outbreaks",
@@ -1016,7 +1008,7 @@
   ],
   "daily_top5": [
     {
-      "title": "Epidemia włośnicy powiązana z niedogotowanym mięsem Bear Jerky, Karolina Północna, USA, 2024 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Epidemia włośnicy powiązana z niedogotowanym mięsem Bear Jerky, Karolina Północna, USA, 2024 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/pdfs/26-0062.pdf",
       "date": "2026-06-24T19:18:57Z",
       "source": "CDC Outbreaks",
@@ -1029,7 +1021,7 @@
       "date": "2026-06-24T15:09:29Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "Uwaga do wycofania: Immunochemioterapia mierzona w ciągu dnia w niedrobnokomórkowym raku płuc: randomizowane badanie fazy 3 Nature."
+      "summary": "Uwaga do wycofania: Immunochemioterapia prowadzona w ciągu dnia w niedrobnokomórkowym raku płuc: randomizowane badanie fazy 3 Nature."
     },
     {
       "title": "Najnowsze wiadomości medyczne, badania kliniczne, wytyczne – dziś w Medscape – Medscape",
