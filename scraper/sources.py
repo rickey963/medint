@@ -76,6 +76,15 @@ SOURCES_POLSKA = [
     # (DozNews) editorial section specifically.
     ("DOZ.pl", _google_news_url("doz.pl", extra="czytelnia"), "google_news"),
     ("Serwis Zdrowie (PAP)", _google_news_url("zdrowie.pap.pl"), "google_news"),
+    # Moved here from the Wytyczne tile (see that section's comment) - both
+    # cover the Polish health *system*/policy beat (workforce, hospital
+    # closures, funding, rankings, salary disputes) as general reporting, not
+    # actual guidelines/recommendations, which is what that tile's name
+    # promises. Confirmed by inspecting real output: these two sources were
+    # filling 18 of that tile's ~20 slots with exactly this kind of general
+    # policy news, crowding out the tile's actual subject matter.
+    ("Polityka Zdrowotna", _google_news_url("politykazdrowotna.com"), "google_news"),
+    ("Remedium.md", _google_news_url("remedium.md"), "google_news"),
 ]
 
 # --- 2. Świat -----------------------------------------------------------------
@@ -142,6 +151,16 @@ SOURCES_RYNEK_FARMACEUTYCZNY = [
 # "Rynek Zdrowia" from the user's legal-changes list is deliberately not
 # repeated here - it already lives in the Polska tile above, and the user
 # asked not to duplicate sources across tiles.
+#
+# Scoped strictly to sources that actually publish guidelines/recommendations
+# (binding legal acts, or a professional body's own position statements) -
+# not general health-system reporting. Polityka Zdrowotna and Remedium.md
+# were removed from here and moved to the Polska tile: real output showed
+# their Google News results are almost entirely general policy/system news
+# (hospital closures, staffing crises, rankings, salary disputes), not
+# guidelines, which mismatched this tile's stated purpose even though the
+# articles themselves were legitimate health news belonging somewhere on the
+# dashboard.
 SOURCES_WYTYCZNE = [
     # ISAP/Dziennik Ustaw publish every law, not just health ones - fetch_data.py
     # additionally requires medical relevance for this tile (_is_medically_relevant),
@@ -172,11 +191,6 @@ SOURCES_WYTYCZNE = [
     # this tile's EUR-Lex items on-topic instead. Widened window for the same
     # reason as ISAP/Dziennik Ustaw above - more candidates for that filter.
     ("EUR-Lex Health Law", _google_news_url("eur-lex.europa.eu", when="14d"), "google_news", 14 * 24),
-    # Both cover the Polish health *system*/policy beat (workforce, funding,
-    # accreditation, NFZ/MZ decisions) rather than general medical news, so
-    # they fit this tile's subject matter better than the Polska tile.
-    ("Polityka Zdrowotna", _google_news_url("politykazdrowotna.com"), "google_news"),
-    ("Remedium.md", _google_news_url("remedium.md"), "google_news"),
 ]
 
 ALL_SECTIONS = {
