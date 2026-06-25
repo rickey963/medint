@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T16:51:32Z",
+  "last_updated": "2026-06-25T16:52:37Z",
   "poland": [
     {
       "title": "\"Świat zawirował, w uszach zaczęło mi piszczeć. Myślałam, że to koniec\" - Medonet",
@@ -63,7 +63,7 @@
       "date": "2026-06-25T14:30:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
+      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
     },
     {
       "title": "Robot wspomaga endoprotezoplastyki kolana w Tarnobrzegu - Podyplomie.pl",
@@ -87,7 +87,7 @@
       "date": "2026-06-25T13:44:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Urtica informuje o prawdopodobnym wycieku danych osobowych. Spółka zgłasza incydent do UODO Alert Medyczny."
+      "summary": "Urtica poinformowała o prawdopodobnym wycieku danych osobowych. Sprawdź, jakie dane mogły zostać ujawnione i jakie zalecenia wydano."
     },
     {
       "title": "\"Pacjent wyjechał na wózku\". Nawet 800 zgonów rocznie z powodu tej choroby - Medonet",
@@ -159,7 +159,7 @@
       "date": "2026-06-25T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
+      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
     },
     {
       "title": "Jak nawodnić organizm? Sposoby na prawidłowe nawodnienie podczas upałów - DOZ",
@@ -170,20 +170,12 @@
       "summary": "Odpowiednie nawodnienie jest kluczowe dla prawidłowego funkcjonowania organizmu. Sprawdź, jak skutecznie nawodnić organizm, dlaczego picie wody ma znaczenie i jak zadbać o codzienną równowagę płynów. Dowiedz się więcej na DOZ.pl."
     },
     {
-      "title": "Świąd, bezsenność, depresja. Prof. Nowicki: ciężkości AZS nie można oceniać wyłącznie po zmianach skórnych - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/alergologia/swiad-bezsennosc-depresja-prof-nowicki-ciezkosci-azs-nie-mozna-oceniac-wylacznie-po-zmianach-skornych",
-      "date": "2026-06-25T12:06:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "Atopowe zapalenie skóry nie jest wyłącznie problemem dermatologicznym. To przewlekła choroba zapalna, która może zaburzać sen, obniżać nastrój i głęboko ingerować w życie chorego oraz jego bliskich. O roli bariery naskórkowej, znaczeniu leczenia miejscowego i momentach, w których konieczna jest eskalacja terapii, mówi „Pulsowi Medycyny” prof."
-    },
-    {
       "title": "Senat przyjął ustawę o wynagrodzeniach medyków. Dane trafią do AOTMiT z numerem PESEL lub PWZ - Alert Medyczny",
       "url": "https://alertmedyczny.pl/senat-przyjal-ustawe-o-wynagrodzeniach-medykow-dane-trafia-do-aotmit-z-numerem-pesel-lub-pwz/",
       "date": "2026-06-25T11:51:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Senat przyjął ustawę o wynagrodzeniach medyków. Dane trafią do AOTMiT z numerem PESEL lub PWZ Alert Medyczny."
+      "summary": "Senat przyjął ustawę zmieniającą zasady przekazywania danych o wynagrodzeniach medyków do AOTMiT. Dane będą powiązane z PESEL lub PWZ."
     },
     {
       "title": "Czy można ograniczyć stosowanie deksametazonu w profilaktyce CINV? - Termedia",
@@ -192,6 +184,14 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Nudności i wymioty indukowane chemioterapią (CINV) pozostają jednym z najistotniejszych działań niepożądanych leczenia onkologicznego, wpływających zarówno na jakość życia pacjentów, jak i przestrzeganie założeń terapeutycznych. Okazuje się, że coraz większe znaczenie kliniczne zyskują strategie ograniczające ekspozycję na..."
+    },
+    {
+      "title": "Rezydenci krytykują nadzór nad szkoleniem specjalizacyjnym - Remedium.md",
+      "url": "https://remedium.md/publikacje/wiadomosci/rezydenci-krytykuja-nadzor-nad-szkoleniem-specjalizacyjnym",
+      "date": "2026-06-25T11:34:00Z",
+      "source": "Remedium.md",
+      "confirmed_by": 1,
+      "summary": "Warunki zatrudnienia lek. Dawida Kacprzyka w Szpitalu Południowym wywołały kontrowersje. Porozumienie Rezydentów wskazuje na nieprawidłowości i brak nadzoru nad specjalizacjami."
     },
     {
       "title": "Młodzi lekarze zarzucają rządowi wybiórcze podejście do jawności finansów publicznych - Podyplomie.pl",
@@ -224,14 +224,6 @@
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Centrum Symulacji Medycznych Warszawskiego Uniwersytetu Medycznego jest największym i najnowocześniejszym w Polsce. Zostało sfinansowane ze środków z KPO.„WUM jako uczelnia uzyskał (Z KPO – PAP) 190 mln zł, które z kolei inwestujemy w nowoczesną dydaktykę. Najwięcej środków pochłonęło najnowocześniejsze w Polsce Centrum Symulacji Medycznych” – podkreśla Rafał Krenke, rektor WUM."
-    },
-    {
-      "title": "Trójstronny Zespół ds. Ochrony Zdrowia przerwał obrady. Strona społeczna żąda planu reform od rządu - Remedium.md",
-      "url": "https://remedium.md/publikacje/wiadomosci/trojstronny-zespol-ds-ochrony-zdrowia-przerwal-obrady-strona-spoleczna-zada-planu-reform-od-rzadu",
-      "date": "2026-06-25T10:06:00Z",
-      "source": "Remedium.md",
-      "confirmed_by": 2,
-      "summary": "Przerwanie posiedzenia Trójstronnego Zespołu ds. Ochrony Zdrowia z powodu braku planu reform i stabilizacji NFZ. Strona społeczna żąda odpowiedzi od rządu i obecności minister zdrowia."
     },
     {
       "title": "Asystent AI pomoże nauczycielom korzystać z wiedzy ekspertów UMW - Termedia",
@@ -312,14 +304,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "W czwartek radni Warszawy zbiorą się na dwóch sesjach, w tym absolutoryjnej, by zdecydować o wotum zaufania i absolutorium dla prezydenta Rafała Trzaskowskiego. W planie jest informacja o sytuacji w Szpitalu Południowym."
-    },
-    {
-      "title": "Przełom w rokowaniu SMA. Prof. Kotulska: najmłodsze dzieci rozwijają się niemal prawidłowo. A starsi pacjenci? - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/neurologia/przelom-w-rokowaniu-sma-prof-kotulska-najmlodsze-dzieci-rozwijaja-sie-niemal-prawidlowo-a-starsi-pacjenci/",
-      "date": "2026-06-24T16:51:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "Wprowadzenie leczenia przyczynowego i powszechnego skriningu noworodków zmieniło naturalny przebieg rdzeniowego zaniku mięśni (SMA) w Polsce. Obecne opcje terapeutyczne pozwalają uzyskać u dzieci przedobjawowych rozwój zbliżony do prawidłowego, a u chorych objawowych – realną poprawę stanu funkcjonalnego. - U dzieci leczonych od urodzenia nie obserwujemy już klasycznego, dramatycznego obrazu klinicznego, który jeszcze kilka lat temu był typowy dla SMA typu 1 – podkreśla prof."
     },
     {
       "title": "NIL przedstawiła postulaty zmian w ochronie zdrowia - Remedium.md",
@@ -412,6 +396,14 @@
       "summary": "W czasie, gdy późna diagnoza w dalszym ciągu zagraża życiu tysięcy kobiet, prowincja Huíla podejmuje zdecydowany krok, wzmacniając profilaktykę i wczesne wykrywanie nowotworów."
     },
     {
+      "title": "Kolejna przeszkoda dla kampanii Departamentu Sprawiedliwości przeciwko zdrowiu trans – statnews.com",
+      "url": "https://www.statnews.com/2026/06/25/health-news-another-roadblock-for-doj-campaign-against-trans-health/",
+      "date": "2026-06-25T11:50:26Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Nowa ustawa proponuje poszerzenie dostępu do metadonu, 5,7 biliona dolarów na opiekę zdrowotną w USA i więcej wiadomości zdrowotnych z „Porannych rund”."
+    },
+    {
       "title": "Sztuka i rzecznictwo: kwestie zdrowia psychicznego - BMJ",
       "url": "https://www.bmj.com/content/393/bmj-2026-100061",
       "date": "2026-06-25T11:45:35Z",
@@ -500,14 +492,6 @@
       "summary": "Metadon na uzależnienie od opioidów był dostępny wyłącznie w specjalistycznych klinikach. Dwupartyjna ustawa znacznie rozszerzyłaby dostęp."
     },
     {
-      "title": "W obliczu brutalnej ucieczki poobijani producenci szczepionek nadal widzą powód do nadziei – statnews.com",
-      "url": "https://www.statnews.com/2026/06/25/vaccine-industry-dark-period-causes-for-hope/",
-      "date": "2026-06-25T08:30:49Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "To niezwykły czas dla branży szczepionek. Jednak w opinii zgromadzonych w tym tygodniu na konferencji BIO nie jest ona wcale taka ponura."
-    },
-    {
       "title": "Biosecure nie powstrzymało rozwoju biotechnologii w Chinach. Niektórzy prawodawcy chcą zrobić więcej – statnews.com",
       "url": "https://www.statnews.com/2026/06/25/china-biotech-next-steps-after-biosecure-act/",
       "date": "2026-06-25T08:30:49Z",
@@ -577,7 +561,7 @@
       "date": "2026-06-25T00:59:01Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
+      "summary": "CME | Tygodnik NEJM CME The New England Journal of Medicine."
     },
     {
       "title": "Polityka szpitala dotycząca kwasu traneksamowego mająca na celu ograniczenie transfuzji podczas poważnych operacji niekardiochirurgicznych — The New England Journal of Medicine",
@@ -672,7 +656,7 @@
       "summary": "S. enterica ser. Czytanie powiązane z suszonym bydłem."
     },
     {
-      "title": "Ognisko obejmujące wiele krajów Zakażenia Salmonella Bovismorbificans ST377 związane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Bovismorbificans ST377 związane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/multi-country-outbreak-salmonella-bovismorbificans-st377-infections-linked",
       "date": "2026-06-25T12:01:42Z",
       "source": "ECDC",
@@ -749,7 +733,7 @@
       "date": "2026-06-24T18:12:07Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Zjednoczeni na rzecz położenia kresu AIDS: Nowa deklaracja polityczna stanowi ostateczny impuls do przyspieszenia postępów w kierunku położenia kresu AIDS jako zagrożenia dla zdrowia publicznego do roku 2030 Światowej Organizacji Zdrowia (WHO)."
+      "summary": "Podczas spotkania wysokiego szczebla Zgromadzenia Ogólnego Narodów Zjednoczonych w sprawie HIV i AIDS w 2026 r. zdecydowana większość państw członkowskich przyjęła w odpowiednim czasie deklarację polityczną potwierdzającą ich wspólne zobowiązanie do położenia kresu AIDS jako zagrożeniu dla zdrowia publicznego do 2030 r. oraz określającą strategiczne priorytety i cele przyspieszonych działań na następne 5 lat."
     },
     {
       "title": "WHA79 – WHO wspiera dialogi wysokiego szczebla na temat raka, innowacji i równego dostępu – Światowa Organizacja Zdrowia (WHO)",
@@ -914,6 +898,14 @@
       "summary": "Jonathan Andrus, CRIO, o tym, dlaczego fragmentacja danych sponsorów witryny utrzymuje się i co może z tym zrobić Central eSource. Stosowane badania kliniczne online."
     },
     {
+      "title": "Szczegóły badania | NCT07666997 | Bezpieczeństwo antykoncepcyjnego miedzianego pierścienia dopochwowego - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07666997",
+      "date": "2026-06-25T10:49:34Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07666997 | Bezpieczeństwo antykoncepcyjnego miedzianego pierścienia dopochwowego ClinicalTrials.gov."
+    },
+    {
       "title": "BIO 2026: Jak cięcia NIH zagroziły konkurencyjności USA w stosunku do Chin – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/bio-2026-how-nih-cuts-have-threatened-us-competitiveness-against-china/",
       "date": "2026-06-25T10:42:53Z",
@@ -944,6 +936,14 @@
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Wielka Brytania zapisuje sukces Hiszpanii w wyścigu do globalnej konkurencyjności w badaniach klinicznych Clinical Trials Arena."
+    },
+    {
+      "title": "Szczegóły badania | NCT07664904 | Związek periostyny ​​i ODI, EQ-5D - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07664904",
+      "date": "2026-06-25T09:39:50Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07664904 | Związek periostyny ​​i ODI, EQ-5D ClinicalTrials.gov."
     },
     {
       "title": "UCLA i CHLA dołączają do Globalnej Sieci Badań nad Autyzmem – Trialsitenews.com",
@@ -1232,14 +1232,6 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Departament Zdrowia i Opieki Społecznej Stanów Zjednoczonych (HHS) ogłosił 22 czerwca nową, ambitną inicjatywę mającą na celu przywrócenie Ameryce wiodącej pozycji w badaniach klinicznych. Prowadzeni przez sekretarza HHS Roberta F."
-    },
-    {
-      "title": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PSY w szwedzkiej praktyce (ALLERDOGSWEDEN) – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07651891",
-      "date": "2026-06-22T19:44:55Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Ocena szczepień swoistych dla ALLERgenów u pacjentów z alergią na PSA w szwedzkiej praktyce (ALLERDOGSWEDEN) ClinicalTrials.gov."
     },
     {
       "title": "Styl życia zamiast pigułek? Badanie NIH wykazało, że długoterminowa interwencja dotycząca stylu życia zmniejszyła obciążenie chorobami przewlekłymi, podczas gdy metformina nie – trisitenews.com",
@@ -1585,7 +1577,7 @@
       "date": "2026-06-23T15:07:37Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "EMEA-000922-PIP02-10 – plan badań pediatrycznych Europejska Agencja Leków (EMA)."
+      "summary": "Mieszanka ekstraktów alergenowych Phleum pratense, Dactylis glomerata, Festuca elatior, Lolium perenne i Poa pratensis (Grasses-Mix) i Secale graine (50/50): Powiadomienie o zaprzestaniu prac rozwojowych dla dzieci objętych uzgodnioną decyzją PIP."
     },
     {
       "title": "Elastyczność i wyjaśnienia regulacyjne: Informacje dotyczące chemii, produkcji i kontroli (CMC) dotyczące fazy oryginalnej, pierwszej w organizmie człowieka (FIH) - fda.gov",
@@ -1672,7 +1664,7 @@
       "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
     },
     {
-      "title": "Ognisko obejmujące wiele krajów Zakażenia Salmonella Bovismorbificans ST377 związane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Bovismorbificans ST377 związane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/multi-country-outbreak-salmonella-bovismorbificans-st377-infections-linked",
       "date": "2026-06-25T12:01:42Z",
       "source": "ECDC",
