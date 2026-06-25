@@ -741,11 +741,34 @@ def _score_item(item):
         age_hours = max(0, (datetime.datetime.now(datetime.timezone.utc) - date).total_seconds() / 3600)
     except (TypeError, ValueError):
         age_hours = 999
-    score = SOURCE_PRESTIGE.get(item['source'], 1) * 2
+    # Prestige weighted heavier (x4, not x2) so a genuinely top-tier source
+    # (WHO, NEJM, The Lancet...) reliably outranks a high-volume but
+    # lower-prestige one that merely matched more keywords.
+    score = SOURCE_PRESTIGE.get(item['source'], 1) * 4
     score += max(0, 24 - age_hours) / 24 * 3
+    # No real click-tracking exists on this dashboard - confirmed_by (how
+    # many independent outlets are reporting the same story) is the closest
+    # available proxy for "what's actually getting picked up today", which
+    # is what the user means by "najlepiej klikane".
+    score += min(item.get('confirmed_by', 1), 5) * 2
     text = f"{item['title']} {item['summary']}".lower()
     score += sum(weight for kw, weight in HIGH_IMPORTANCE_KEYWORDS if kw in text)
     return score
+
+
+# "Co musisz wiedzieć dzisiaj" promises what's happening *today*, not
+# whatever happened to score well within the dashboard's general 72h
+# freshness window - scoped much tighter than the tiles themselves.
+DAILY_TOP5_MAX_AGE_HOURS = 24
+
+
+def _is_from_today(item):
+    try:
+        date = datetime.datetime.strptime(item['date'], '%Y-%m-%dT%H:%M:%SZ').replace(tzinfo=datetime.timezone.utc)
+    except (TypeError, ValueError):
+        return False
+    age_hours = (datetime.datetime.now(datetime.timezone.utc) - date).total_seconds() / 3600
+    return 0 <= age_hours <= DAILY_TOP5_MAX_AGE_HOURS
 
 
 def build_daily_top5(sections):
@@ -753,11 +776,15 @@ def build_daily_top5(sections):
     # "co musisz wiedzieć dzisiaj" promises what's current, not a retrospective
     # case report that merely happens to score well on prestige/keywords.
     all_items = [item for key in ALERT_SECTIONS for item in sections.get(key, [])
-                 if not _references_a_past_year(item['title'])]
+                 if _is_from_today(item) and not _references_a_past_year(item['title'])]
     if not all_items:
         return []
-    ranked = sorted(all_items, key=_score_item, reverse=True)
-    return ranked[:5]
+    ranked = sorted(all_items, key=_score_item, reverse=True)[:5]
+    # The ranking above only decides *which* 5 make the cut - the user wants
+    # the displayed order to be newest-first regardless of score, not
+    # score-order (which had no relation to recency at all).
+    ranked.sort(key=lambda it: it['date'], reverse=True)
+    return ranked
 
 
 # ---------------------------------------------------------------------------
