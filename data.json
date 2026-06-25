@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T17:07:46Z",
+  "last_updated": "2026-06-25T17:08:56Z",
   "poland": [
     {
       "title": "\"Świat zawirował, w uszach zaczęło mi piszczeć. Myślałam, że to koniec\" - Medonet",
@@ -63,7 +63,15 @@
       "date": "2026-06-25T14:30:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
+      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
+    },
+    {
+      "title": "Senat przyjął ustawę o powiązaniu danych o wynagrodzeniach lekarzy z PESEL lub PWZ - Remedium.md",
+      "url": "https://remedium.md/publikacje/wiadomosci/senat-przyjal-ustawe-o-powiazaniu-danych-o-wynagrodzeniach-lekarzy-z-pesel-lub-pwz",
+      "date": "2026-06-25T14:04:00Z",
+      "source": "Remedium.md",
+      "confirmed_by": 2,
+      "summary": "Senat przyjął ustawę o ujawnianiu wynagrodzeń lekarzy w Polsce. Nowe przepisy wiążą zarobki z PESEL-em. Projekt trafi do prezydenta, mimo apelów o weto."
     },
     {
       "title": "Robot wspomaga endoprotezoplastyki kolana w Tarnobrzegu - Podyplomie.pl",
@@ -87,7 +95,7 @@
       "date": "2026-06-25T13:44:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Urtica informuje o prawdopodobnym wycieku danych osobowych. Spółka zgłasza incydent do UODO Alert Medyczny."
+      "summary": "Urtica poinformowała o prawdopodobnym wycieku danych osobowych. Sprawdź, jakie dane mogły zostać ujawnione i jakie zalecenia wydano."
     },
     {
       "title": "\"Pacjent wyjechał na wózku\". Nawet 800 zgonów rocznie z powodu tej choroby - Medonet",
@@ -120,14 +128,6 @@
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
       "summary": "Biuletyn Informacji Publicznej Narodowy Fundusz Zdrowia (NFZ)."
-    },
-    {
-      "title": "Rezydenci krytykują Centralny Rejestr Umów - Remedium.md",
-      "url": "https://remedium.md/publikacje/wiadomosci/rezydenci-krytykuja-centralny-rejestr-umow",
-      "date": "2026-06-25T12:50:00Z",
-      "source": "Remedium.md",
-      "confirmed_by": 1,
-      "summary": "OZL krytykuje nowy Centralny Rejestr Umów (CRU). Rezydenci wskazują lukę: szpitale-spółki unikną raportowania, co ograniczy kontrolę nad wydatkami w ochronie zdrowia."
     },
     {
       "title": "Komunikat dotyczący nadchodzącej fali upałów - Gov.pl",
@@ -175,7 +175,7 @@
       "date": "2026-06-25T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
+      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
     },
     {
       "title": "Jak nawodnić organizm? Sposoby na prawidłowe nawodnienie podczas upałów - DOZ",
@@ -194,20 +194,20 @@
       "summary": "Atopowe zapalenie skóry nie jest wyłącznie problemem dermatologicznym. To przewlekła choroba zapalna, która może zaburzać sen, obniżać nastrój i głęboko ingerować w życie chorego oraz jego bliskich. O roli bariery naskórkowej, znaczeniu leczenia miejscowego i momentach, w których konieczna jest eskalacja terapii, mówi „Pulsowi Medycyny” prof."
     },
     {
-      "title": "Senat przyjął ustawę o wynagrodzeniach medyków. Dane trafią do AOTMiT z numerem PESEL lub PWZ - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/senat-przyjal-ustawe-o-wynagrodzeniach-medykow-dane-trafia-do-aotmit-z-numerem-pesel-lub-pwz/",
-      "date": "2026-06-25T11:51:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Senat przyjął ustawę o wynagrodzeniach medyków. Dane trafią do AOTMiT z numerem PESEL lub PWZ Alert Medyczny."
-    },
-    {
       "title": "Czy można ograniczyć stosowanie deksametazonu w profilaktyce CINV? - Termedia",
       "url": "https://www.termedia.pl/onkologia/Czy-mozna-ograniczyc-stosowanie-deksametazonu-w-profilaktyce-CINV-,67870.html",
       "date": "2026-06-25T11:42:00Z",
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Nudności i wymioty indukowane chemioterapią (CINV) pozostają jednym z najistotniejszych działań niepożądanych leczenia onkologicznego, wpływających zarówno na jakość życia pacjentów, jak i przestrzeganie założeń terapeutycznych. Okazuje się, że coraz większe znaczenie kliniczne zyskują strategie ograniczające ekspozycję na..."
+    },
+    {
+      "title": "Rezydenci krytykują nadzór nad szkoleniem specjalizacyjnym - Remedium.md",
+      "url": "https://remedium.md/publikacje/wiadomosci/rezydenci-krytykuja-nadzor-nad-szkoleniem-specjalizacyjnym",
+      "date": "2026-06-25T11:34:00Z",
+      "source": "Remedium.md",
+      "confirmed_by": 1,
+      "summary": "Warunki zatrudnienia lek. Dawida Kacprzyka w Szpitalu Południowym wywołały kontrowersje. Porozumienie Rezydentów wskazuje na nieprawidłowości i brak nadzoru nad specjalizacjami."
     },
     {
       "title": "Młodzi lekarze zarzucają rządowi wybiórcze podejście do jawności finansów publicznych - Podyplomie.pl",
@@ -234,6 +234,14 @@
       "summary": "Centrum Symulacji Medycznych Warszawskiego Uniwersytetu Medycznego jest największym i najnowocześniejszym w Polsce. Zostało sfinansowane ze środków z KPO.„WUM jako uczelnia uzyskał (Z KPO – PAP) 190 mln zł, które z kolei inwestujemy w nowoczesną dydaktykę. Najwięcej środków pochłonęło najnowocześniejsze w Polsce Centrum Symulacji Medycznych” – podkreśla Rafał Krenke, rektor WUM."
     },
     {
+      "title": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/ministra-zdrowia-ogranicza-katalog-pism-podpisywanych-osobiscie-jest-nowe-zarzadzenie/",
+      "date": "2026-06-25T10:13:00Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
+    },
+    {
       "title": "Trójstronny Zespół ds. Ochrony Zdrowia przerwał obrady. Strona społeczna żąda planu reform od rządu - Remedium.md",
       "url": "https://remedium.md/publikacje/wiadomosci/trojstronny-zespol-ds-ochrony-zdrowia-przerwal-obrady-strona-spoleczna-zada-planu-reform-od-rzadu",
       "date": "2026-06-25T10:06:00Z",
@@ -256,6 +264,14 @@
       "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 1,
       "summary": "To o poczekalnię najczęściej pytają pacjenci, którzy korzystają już z centralnej e-rejestracji. Dowiedz się, jak działa i może Ci pomóc w umówieniu wizyty u lekarza specjalisty."
+    },
+    {
+      "title": "Doświadczenia z dzieciństwa zostawiają komórkowy ślad na całe życie - Aktualności - Genetyka - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/genetyka/aktualnosci/442345,doswiadczenia-z-dziecinstwa-zostawiaja-komorkowy-slad-na-cale-zycie",
+      "date": "2026-06-25T08:22:25Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Wydarzenia i przeżycia z wczesnych etapów życia zostawiają w komórkach ślad wpływający na zdrowie przez kolejne dekady – sugeruje badanie na rezusach. Tłumacząc ten mechanizm naukowcy wskazują na to, że wczesne przeżycia wpływają na ak."
     },
     {
       "title": "Kurzajki to objaw zakażenia HPV - Serwis Zdrowie",
@@ -322,14 +338,6 @@
       "summary": "Wprowadzenie leczenia przyczynowego i powszechnego skriningu noworodków zmieniło naturalny przebieg rdzeniowego zaniku mięśni (SMA) w Polsce. Obecne opcje terapeutyczne pozwalają uzyskać u dzieci przedobjawowych rozwój zbliżony do prawidłowego, a u chorych objawowych – realną poprawę stanu funkcjonalnego. - U dzieci leczonych od urodzenia nie obserwujemy już klasycznego, dramatycznego obrazu klinicznego, który jeszcze kilka lat temu był typowy dla SMA typu 1 – podkreśla prof."
     },
     {
-      "title": "NIL przedstawiła postulaty zmian w ochronie zdrowia - Remedium.md",
-      "url": "https://remedium.md/publikacje/wiadomosci/nil-przedstawila-postulaty-zmian-w-ochronie-zdrowia",
-      "date": "2026-06-24T13:12:00Z",
-      "source": "Remedium.md",
-      "confirmed_by": 1,
-      "summary": "NRL żąda limitu czasu pracy dla wszystkich lekarzy, zmiany wyceny świadczeń i zakazu łączenia funkcji kierowniczych z członkostwem w partii. Postulaty po aferze w Szpitalu Południowym."
-    },
-    {
       "title": "Uzdrowisko Ustroń po modernizacji: 8 tys. zabiegów dziennie dla 2 tys. pacjentów - Serwis Zdrowie",
       "url": "https://zdrowie.pap.pl/leczenie/uzdrowisko-ustron-po-modernizacji-8-tys-zabiegow-dziennie-dla-2-tys-pacjentow",
       "date": "2026-06-24T12:22:01Z",
@@ -356,14 +364,6 @@
   ],
   "world": [
     {
-      "title": "Antysemityzm: lekarze żądają, aby NHS porzuciła kontrowersyjną definicję i wzywała do „wstrzymania” recenzji Manna - The BMJ",
-      "url": "https://www.bmj.com/content/393/bmj-2026-100085",
-      "date": "2026-06-25T15:49:15Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "BMA będzie lobbować w NHS, aby zaprzestała obowiązkowego przyjmowania definicji antysemityzmu przyjętej przez Międzynarodowy Sojusz na rzecz Pamięci o Holokauście (IHRA). Przemawiając na dorocznym spotkaniu przedstawicieli związku w Brighton, członkowie ostrzegli, że definicja IHRA została „uzbrojona” w celu rozprawienia się z wolnością słowa. W odrębnym wniosku członkowie BMA wezwali także do natychmiastowego wstrzymania wdrażania zaleceń wynikających z niedawnego rządowego przeglądu Manna ze względu na jego wpływ na wolność słowa."
-    },
-    {
       "title": "Demokraci naciskają na Biały Dom, kto ma specjalny dostęp do nowego leku na otyłość Eli Lilly – statnews.com",
       "url": "https://www.statnews.com/2026/06/25/senate-hassan-questions-rfk-jr-eli-lilly-retatrutide-trial-trump/",
       "date": "2026-06-25T15:05:33Z",
@@ -386,14 +386,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Konsultanci i lekarze specjaliści w Irlandii Północnej rozpoczęli bezprecedensowe strajki w sprawie wynagrodzeń. Chociaż nie jest to całkowity strajk, oznacza to, że od godziny 7:00 25 czerwca do godziny 6:59 następnego dnia dostępna będzie wyłącznie ochrona w nagłych wypadkach, zwana „ochroną na Boże Narodzenie”. To pierwsze takie działanie konsultantów i specjalistów w regionie."
-    },
-    {
-      "title": "Niemcy stoją w obliczu amerykańskiego dochodzenia handlowego w sprawie cen leków, podczas gdy Berlin trzyma się planów reform – BMJ",
-      "url": "https://www.bmj.com/content/393/bmj-2026-100080",
-      "date": "2026-06-25T12:45:47Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Niemcy stoją przed amerykańskim dochodzeniem handlowym w związku z tym, co administracja Trumpa określa jako „utrzymujące się niedopłaty” za innowacyjne leki. Jamieson Greer, przedstawiciel USA ds. handlu, powiedział, że dochodzenie wykaże, czy praktyki cenowe Berlina w zakresie opatentowanych leków były „nieuzasadnione lub dyskryminujące” oraz „obciążały lub ograniczały” handel w USA1. Dochodzenie wszczęto w czasie, gdy prezydent Donald Trump prowadził negocjacje z kilkunastu firmami farmaceutycznymi w sprawie obniżenia cen leków w USA, stosując ceny ustalane w kilku krajach o wysokich dochodach, w tym w Niemczech, jako punkty odniesienia. Jest następstwem wielomiesięcznych rozmów między urzędnikami amerykańskimi i niemieckimi próbującymi rozstrzygnąć spór."
     },
     {
       "title": "Brak różnic między płciami w przypadku zgonów po anafilaksji – Medscape",
@@ -434,14 +426,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Nowe badanie analizuje wpływ krajowego programu szczepień przeciwko HPV w Anglii, rozpoczętego prawie dwie dekady temu – wykazując ogromny spadek umieralności z powodu raka szyjki macicy wśród młodych kobiet."
-    },
-    {
-      "title": "Konsultant Urolog – Praca stała lub na czas określony (12 miesięcy) – The BMJ",
-      "url": "https://www.bmj.com/careers/job/823651/consultant-urologist-permanent-or-fixed-term-opportunity-12-months-/?TrackID=8&utm_source=rss&utm_medium=feed&utm_campaign=general",
-      "date": "2026-06-25T10:45:49Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Nasz Klient poszukuje Konsultanta Urologa, który dołączy do cenionej i innowacyjnej usługi specjalistycznej zapewniającej kompleksową opiekę urologiczną."
     },
     {
       "title": "Wpływ zachęt finansowych . . . i inne badania - The BMJ",
@@ -490,14 +474,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Mirvetuximab nie uzyskał pozytywnego wyniku w pierwszym randomizowanym badaniu oceniającym koniugat przeciwciało-lek i standardową karboplatynę u pacjentek z rakiem jajnika wrażliwym na platynę."
-    },
-    {
-      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
-      "date": "2026-06-25T09:17:45Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Bundibugyo Ebola The Lancet."
     },
     {
       "title": "Moja dorosła córka ma zespół Downa. Jej życie jest zupełnie inne, niż oczekiwali eksperci – statnews.com",
@@ -588,12 +564,36 @@
       "summary": "Długotrwałe leczenie i zaawansowana choroba wywołana wirusem HIV — priorytet zdrowia publicznego The New England Journal of Medicine."
     },
     {
+      "title": "Niejednorodność ciężkiej astmy w Europie: opinia SHARP-a - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(26)00165-7/fulltext",
+      "date": "2026-06-25T02:58:56Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Heterogeniczność ciężkiej astmy w Europie: opinia SHARP The Lancet."
+    },
+    {
+      "title": "Schistosomatoza żeńskich narządów płciowych: ukryta na widoku - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00173-1/fulltext",
+      "date": "2026-06-25T01:25:44Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Schistosomatoza żeńskich narządów płciowych: ukryta na widoku The Lancet."
+    },
+    {
       "title": "CME | Tygodnik NEJM CME – The New England Journal of Medicine",
       "url": "https://cme.nejm.org/weekly/10.1056/NEJMcme2600929",
       "date": "2026-06-25T00:59:01Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
+    },
+    {
+      "title": "Polityka szpitala dotycząca kwasu traneksamowego mająca na celu ograniczenie transfuzji podczas poważnych operacji niekardiochirurgicznych - The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2515820",
+      "date": "2026-06-25T00:46:42Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Polityka szpitalna dotycząca kwasu traneksamowego mająca na celu ograniczenie transfuzji podczas poważnych operacji niekardiochirurgicznych The New England Journal of Medicine."
     },
     {
       "title": "Skuteczność i bezpieczeństwo tirofibanu po skutecznej reperfuzji wewnątrznaczyniowej w ostrym udarze niedokrwiennym mózgu (ATTRACTION) w Chinach: wieloośrodkowe, podwójnie ślepe, randomizowane badanie kontrolowane - The Lancet",
@@ -604,6 +604,14 @@
       "summary": "Skuteczność i bezpieczeństwo tirofibanu po skutecznej reperfuzji wewnątrznaczyniowej w ostrym udarze niedokrwiennym (ATTRACTION) w Chinach: wieloośrodkowe, podwójnie ślepe, randomizowane badanie kontrolowane The Lancet."
     },
     {
+      "title": "Ograniczenia w mediach społecznościowych wymagają terminowej i skoordynowanej oceny – BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-100020",
+      "date": "2026-06-24T23:28:08Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Polityka publiczna jest jednym z najpotężniejszych narzędzi dostępnych rządom w celu poprawy zdrowia publicznego. Australijskie ustawodawstwo dotyczące minimalnego wieku w mediach społecznościowych to polityka o znacznym potencjale oddziaływania w Australii i na arenie międzynarodowej. Ma na celu zmniejszenie (lub opóźnienie) narażenia na szkody w Internecie i wspieranie zdrowszego rozwoju w okresie dojrzewania."
+    },
+    {
       "title": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej - The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01023-8/fulltext?rss=yes",
       "date": "2026-06-24T23:27:46Z",
@@ -612,28 +620,20 @@
       "summary": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej The Lancet."
     },
     {
+      "title": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a - The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00904-9/fulltext",
+      "date": "2026-06-24T23:27:42Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a The Lancet."
+    },
+    {
       "title": "Aby sprostać szybko zmieniającym się potrzebom, potrzebne są nowe rozwiązania: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach - The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01187-6/fulltext?rss=yes",
       "date": "2026-06-24T23:26:15Z",
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Aby sprostać szybko zmieniającym się potrzebom, konieczne są nowe reakcje: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach The Lancet."
-    },
-    {
-      "title": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania różnymi metodami – The Lancet",
-      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00285-3/fulltext",
-      "date": "2026-06-24T13:24:41Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania przeprowadzonego różnymi metodami The Lancet."
-    },
-    {
-      "title": "Łączony przeszczep pęcherza i nerki: pierwsza próba wykonalności na ludziach - The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00718-X/abstract",
-      "date": "2026-06-24T07:56:28Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Łączony przeszczep pęcherza i nerki: pierwsza próba wykonalności na ludziach The Lancet."
     }
   ],
   "guidelines": [
@@ -1614,14 +1614,6 @@
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
-      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
-      "date": "2026-06-25T09:17:45Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Bundibugyo Ebola The Lancet."
-    },
-    {
       "title": "Przeciwciała reagujące krzyżowo z wirusem Bundibugyo u fretek zaszczepionych szczepionką przeciwko wirusowi Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0948_article",
       "date": "2026-06-24T20:13:58Z",
@@ -1680,20 +1672,20 @@
       "summary": "W czasie, gdy późna diagnoza w dalszym ciągu zagraża życiu tysięcy kobiet, prowincja Huíla podejmuje zdecydowany krok, wzmacniając profilaktykę i wczesne wykrywanie nowotworów."
     },
     {
+      "title": "Od konsultacji do partnerstwa: Komisja Społeczeństwa Obywatelskiego WHO planuje kolejny etap - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/25-06-2026-from-consultation-to-partnership--who-civil-society-commission-charts-next-phase",
+      "date": "2026-06-25T11:48:32Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "W dniu 2 kwietnia 2026 r. Komisja Społeczeństwa Obywatelskiego WHO (CSC) odbyła swoje trzecie doroczne zgromadzenie ogólne, w którym wzięło udział ponad 120 uczestników w celu podsumowania postępów i ustalenia priorytetów na lata 2026–2028."
+    },
+    {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-06-25T10:58:40Z",
       "source": "ECDC",
       "confirmed_by": 2,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
-    },
-    {
-      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
-      "date": "2026-06-25T09:17:45Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Bundibugyo Ebola The Lancet."
     }
   ]
 }
