@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T01:07:19Z",
+  "last_updated": "2026-06-25T01:07:46Z",
   "poland": [
     {
       "title": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. - Alert Medyczny",
@@ -7,7 +7,7 @@
       "date": "2026-06-24T23:28:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. Alert Medyczny."
+      "summary": "MZ wyjaśnia zasady refundacji generyków dapagliflozyny od 1 lipca 2026 r. Sprawdź wskazania, ograniczenia patentowe i zasady zamiany leków."
     },
     {
       "title": "Leczenie ran i oparzeń w gabinecie lekarza rodzinnego - TRANSMISJA VIP | Webinar - Termedia",
@@ -55,7 +55,7 @@
       "date": "2026-06-24T15:49:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Eli Lilly rozszerza współpracę z Abbisko Therapeutics. Umowa może być warta 1,9 mld dolarów Alert Medyczny."
+      "summary": "Abbisko Therapeutics i Eli Lilly podpisały umowę R&D o potencjalnej wartości 1,9 mld dolarów na rozwój innowacyjnych terapii i nowych leków."
     },
     {
       "title": "Trójstronny Zespół ds. Ochrony Zdrowia przerywa obrady. Strona społeczna żąda planu od rządu - Alert Medyczny",
@@ -63,7 +63,7 @@
       "date": "2026-06-24T14:49:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Trójstronny Zespół ds. Ochrony Zdrowia przerywa obrady. Strona społeczna żąda planu od rządu Alert Medyczny."
+      "summary": "Strona społeczna Trójstronnego Zespołu ds. Ochrony Zdrowia przerwała obrady i oczekuje od rządu planu zmian oraz stabilizacji finansów NFZ."
     },
     {
       "title": "Stanowisko Minister Zdrowia - Gov.pl",
@@ -578,14 +578,6 @@
   ],
   "clinical_trials": [
     {
-      "title": "Poza uznawaniem przychodów: ponowne przemyślenie kontraktowania CRO w ramach umowy o wspólne wykonanie CURED – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-rethinking-cro-contracting-cured-shared-performance-contract",
-      "date": "2026-06-24T19:59:47Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Poza uznawaniem przychodów: ponowne przemyślenie kontraktowania CRO poprzez umowę o wspólne wykonanie CURED Stosowane badania kliniczne online."
-    },
-    {
       "title": "Globalne doroczne spotkanie DIA 2026: O przywództwie, otyłości i nauce, która na nowo definiuje to, co jest możliwe – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/2026-dia-global-annual-meeting-leadership-obesity-science",
       "date": "2026-06-24T18:27:49Z",
@@ -600,6 +592,14 @@
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "Roger Joby, David Webber i Simon Taylor przeprowadzili stosowane badania kliniczne online."
+    },
+    {
+      "title": "Streszczenie ACT: Uruchomienie operacji TrialBlazer, wzrost złożoności protokołów i infrastruktura danych dla sztucznej inteligencji – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/operation-trialblazer-protocol-complexity-data-infrastructure-ai",
+      "date": "2026-06-24T10:10:11Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Streszczenie ACT: Uruchomienie operacji TrialBlazer, wzrost złożoności protokołu i infrastruktura danych na potrzeby internetowych badań klinicznych stosowanych w oparciu o sztuczną inteligencję."
     },
     {
       "title": "Szczegóły badania | NCT07663110 | Walka z opornością i ekonomika opieki zdrowotnej poprzez badania przesiewowe CPE – ClinicalTrials.gov",
@@ -1013,7 +1013,7 @@
       "date": "2026-06-24T23:28:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. Alert Medyczny."
+      "summary": "MZ wyjaśnia zasady refundacji generyków dapagliflozyny od 1 lipca 2026 r. Sprawdź wskazania, ograniczenia patentowe i zasady zamiany leków."
     }
   ]
 }
