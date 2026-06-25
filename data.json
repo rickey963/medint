@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T13:09:58Z",
+  "last_updated": "2026-06-25T13:11:05Z",
   "poland": [
     {
       "title": "Komunikat dotyczący nadchodzącej fali upałów - Gov.pl",
@@ -120,6 +120,14 @@
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
       "summary": "Biuletyn Informacji Publicznej Świętokrzyskiego OW NFZ Narodowy Fundusz Zdrowia (NFZ)."
+    },
+    {
+      "title": "Komunikat dla świadczeniodawców - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/komunikat-dla-swiadczeniodawcow,8964.html",
+      "date": "2026-06-25T10:49:54Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 2,
+      "summary": "Od dnia 1 lipca 2026 r. przestaje obowiązywać codzienne raportowanie pierwszego wolnego terminu (PWT) przez świadczeniodawców posiadających umowy o udzielanie świadczeń opieki zdrowotnej we..."
     },
     {
       "title": "Karolina Sawicka. Decyzja o wprowadzeniu dopłaty do urlopu macierzyńskiego to dla nas strategiczna inwestycja w kapitał ludzki i realny krok w stronę budowania pełnej równości płci w strukturach holdingu - Medonet",
@@ -280,6 +288,14 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Coraz więcej nowoczesnych leków trafia na listy refundacyjne, ale bez szybkiej i kompleksowej diagnostyki molekularnej wielu pacjentów nie może z nich skorzystać. Eksperci uczestniczący w debacie podczas Kompendium Oncology Exchange podkreślali, że o skuteczności leczenia coraz częściej decyduje nie dostępność terapii, lecz czas diagnozy, jakość badań i sprawna organizacja opieki nad pacjentem."
+    },
+    {
+      "title": "W Elblągu neurochirurdzy usunęli rozległego guza przysadki - Podyplomie.pl",
+      "url": "https://www.podyplomie.pl/aktualnosci/w-elblagu-neurochirurdzy-usuneli-rozleglego-guza-przysadki",
+      "date": "2026-06-24T14:02:00Z",
+      "source": "Medycyna po Dyplomie",
+      "confirmed_by": 1,
+      "summary": "Zabieg przeprowadzono na bloku operacyjnym doposażonym dzięki środkom z Krajowego Planu Odbudowy."
     },
     {
       "title": "NIL przedstawiła postulaty zmian w ochronie zdrowia - Remedium.md",
@@ -644,7 +660,24 @@
       "summary": "Ten zestaw narzędzi wspiera komunikację na temat wytycznych WHO dotyczących interwencji w zakresie samoopieki na rzecz zdrowia i dobrego samopoczucia, wersja z 2022 r. Niniejsze wytyczne stanowią ramy dla interwencji w zakresie samoopieki, zaleceń, stwierdzeń o dobrych praktykach i kluczowych rozważań dotyczących ich wdrożenia."
     }
   ],
-  "guidelines": [],
+  "guidelines": [
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 8 czerwca 2026 r. w sprawie pozwoleń i dokumentów niezbędnych do przywozu, wywozu, wewnątrzwspólnotowego nabycia lub wewnątrzwspólnotowej dostawy środków odurzających, substancji psychotropowych lub prekursorów kategorii 1",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/827",
+      "date": "2026-06-08T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 827, z dniem ogłoszenia 2026-06-23."
+    },
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 3 czerwca 2026 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/754",
+      "date": "2026-06-03T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 754, z dniem ogłoszenia 2026-06-10."
+    }
+  ],
   "epidemiology": [
     {
       "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Bovismorbificans ST377 powiązane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1259,14 +1292,6 @@
       "summary": "AstraZeneca ma | AstraZeneca nawiązała współpracę z YMCA z USA, aby zwiększyć świadomość na temat badań przesiewowych i wczesnego wykrywania raka."
     },
     {
-      "title": "Ceny tofacytynibu, kupony, karty Copay i pomoc dla pacjenta – Drugs.com",
-      "url": "https://www.drugs.com/price-guide/tofacitinib",
-      "date": "2026-06-25T05:12:50Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Ceny tofacytynibu, kupony, karty Copay i pomoc dla pacjentów Drugs.com."
-    },
-    {
       "title": "ARS Pharmaceuticals dostarcza aktualizacje handlowe i finansowe - BioSpace",
       "url": "https://www.biospace.com/press-releases/ars-pharmaceuticals-provides-commercial-and-financial-updates",
       "date": "2026-06-25T04:02:36Z",
@@ -1281,22 +1306,6 @@
       "source": "Pink Sheet",
       "confirmed_by": 1,
       "summary": "Trzeci dzień BIO obejmował debatę na temat pochodzenia i przyszłości CNPV, refleksje na temat strategii zawierania transakcji oraz tego, w jaki sposób zapalenie układu nerwowego stanowi rosnącą ścieżkę w badaniach nad chorobą Alzheimera."
-    },
-    {
-      "title": "Portale pacjentów są teraz rutynową częścią opieki zdrowotnej – Drugs.com",
-      "url": "https://www.drugs.com/news/patient-portals-now-routine-part-health-care-130449.html",
-      "date": "2026-06-25T00:37:55Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Portale pacjentów są teraz rutynową częścią Health Care Drugs.com."
-    },
-    {
-      "title": "Kobiety stosujące terapię hormonalną prowadzą zdrowszy styl życia – Drugs.com",
-      "url": "https://www.drugs.com/news/women-using-hormone-therapy-have-healthier-lifestyles-130450.html",
-      "date": "2026-06-25T00:27:19Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Kobiety stosujące terapię hormonalną prowadzą zdrowszy styl życia Drugs.com."
     },
     {
       "title": "Zachęty do innowacji wśród opcji cenowych leków oferowanych przez Demokratów w Senacie – Citeline News & Insights",
@@ -1369,30 +1378,6 @@
       "source": "BioSpace",
       "confirmed_by": 1,
       "summary": "Po zgłoszeniu 27 zgonów w grupie otrzymującej lek na raka krwi, firma ADC Therapeutics redukuje zatrudnienie, zwalniając około 30 pracowników."
-    },
-    {
-      "title": "Przebudowa serca może zwiastować ryzyko raka",
-      "url": "https://www.drugs.com/news/cardiac-remodeling-may-portend-cancer-risk-130445.html",
-      "date": "2026-06-24T17:37:43Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Przebudowa serca może zwiastować ryzyko raka Drugs.com."
-    },
-    {
-      "title": "Genetyczny wyznacznik ciężkiej choroby zidentyfikowany w IBD – Drugs.com",
-      "url": "https://www.drugs.com/news/genetic-determinant-severe-identified-ibd-130447.html",
-      "date": "2026-06-24T17:37:43Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Genetyczny wyznacznik ciężkiej choroby zidentyfikowany w IBD Drugs.com."
-    },
-    {
-      "title": "Cyfrowy telemonitoring pomaga w leczeniu nadciśnienia – Drugs.com",
-      "url": "https://www.drugs.com/news/digital-telemonitoring-aids-hypertension-outcomes-130446.html",
-      "date": "2026-06-24T17:37:43Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Cyfrowy telemonitoring pomaga w leczeniu nadciśnienia Drugs.com."
     },
     {
       "title": "Co czytamy - Nurkowanie BioPharma",
@@ -1491,6 +1476,14 @@
       "summary": "Verastem Eyes przyspieszył zatwierdzenie leku KRAS G12D w 3 nowotworach; ADC Therapeutics redukuje 17% personelu w wyniku restrukturyzacji."
     },
     {
+      "title": "Badanie Endpoints 100: dyrektorzy generalni firm biotechnologicznych przewidują manewry MFN i oferują kilka pomysłów FDA - Endpoints News",
+      "url": "https://endpoints.news/endpoints-h1-2026-ceo-survey-fallout-from-mfn-and-suggestions-for-the-fda/",
+      "date": "2026-06-24T14:00:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Rok temu o tej porze dyrektorzy biotechnologii byli w najgorszym nastroju, jaki widzieliśmy w ciągu ośmiu lat, gdy ich ankietowaliśmy. IPO miały miejsce…."
+    },
+    {
       "title": "Akcjonariusze CardioMech powołują Ramina Mousaviego na Prezesa Zarządu - BioSpace",
       "url": "https://www.biospace.com/press-releases/cardiomech-shareholders-appoint-ramin-mousavi-as-chairman-of-the-board",
       "date": "2026-06-24T13:28:33Z",
@@ -1507,12 +1500,28 @@
       "summary": "Prezes Richard Fang mianowany tymczasowym dyrektorem generalnym."
     },
     {
+      "title": "AdvanCell wynajmuje siedzibę główną w USA, produkcję radiofarmaceutyczną pod Bostonem – Fierce Pharma",
+      "url": "https://www.fiercepharma.com/manufacturing/advancell-enters-long-term-lease-us-radiopharmaceutical-production",
+      "date": "2026-06-24T12:40:26Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "AdvanCell, twórca radiofarmaceutyków na etapie klinicznym, już to zrobił."
+    },
+    {
       "title": "Ollin uzupełnia kwotę 330 mln dolarów na wsparcie kluczowych testów pretendenta Vabysmo – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/ollin-biosciences-financing-china-innovent-vabysmo-amd-dme/823564/",
       "date": "2026-06-24T11:24:42Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "Jedna z największych rund finansowania przedsięwzięć w tym roku następuje tuż po bezpośrednim badaniu, które wykazało, że lek Ollina – licencjonowany od chińskiego dewelopera – ma pewną przewagę nad lekami na oczy firmy Roche."
+    },
+    {
+      "title": "BostonGene zaprezentuje innowacje AI na targach BIO 2026 - BioSpace",
+      "url": "https://www.biospace.com/press-releases/bostongene-to-present-ai-innovations-at-bio-2026",
+      "date": "2026-06-24T04:24:14Z",
+      "source": "BioSpace",
+      "confirmed_by": 1,
+      "summary": "Pokazanie, jak zaawansowane modele sztucznej inteligencji zmieniają rozwój kliniczny i przyspieszają medycynę precyzyjną."
     },
     {
       "title": "Notatnik BIO: KNU, potencjalne transakcje w Chinach Zakaz ma duży wpływ na zawieranie transakcji - Citeline News & Insights",
@@ -1563,6 +1572,14 @@
       "summary": "Porażka pogarsza perspektywy leku, który Pfizer uważa za ważny czynnik w przyszłości, chociaż niektórzy analitycy optymistycznie oceniają szanse leku w innym badaniu."
     },
     {
+      "title": "Jak Kardigan przekształcił pozostałości transakcji w pierwszą ofertę publiczną o wartości 400 mln dolarów – BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/how-kardigan-spun-deal-leftovers-into-a-400m-ipo/823524/",
+      "date": "2026-06-23T16:16:56Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Dyrektor generalny Tassos Gianakakos powiedział, że posiadanie aktywów na późnym etapie rozwoju i wzmocnionego zespołu w MyoKardia naprawdę spodobało się inwestorom. Ogromna oferta publiczna SpaceX również nie zaszkodziła."
+    },
+    {
       "title": "EMEA-000922-PIP02-10 – plan badań pediatrycznych – Europejska Agencja Leków (EMA)",
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-000922-pip02-10",
       "date": "2026-06-23T15:07:37Z",
@@ -1593,6 +1610,22 @@
       "source": "EMA",
       "confirmed_by": 1,
       "summary": "Dobra praktyka produkcyjna: Wielostronne warsztaty na temat wkładu ekspertów w rozwój wytycznych dotyczących sztucznej inteligencji (załącznik 22) Europejska Agencja Leków (EMA)."
+    },
+    {
+      "title": "Spotkanie Wykonawczej Grupy Sterującej ds. Niedoborów i Bezpieczeństwa Produktów Leczniczych (MSSG) – czerwiec 2026 r. – Europejska Agencja Leków (EMA)",
+      "url": "https://www.ema.europa.eu/en/events/meeting-executive-steering-group-shortages-safety-medicinal-products-mssg-june-2026",
+      "date": "2026-06-23T05:29:55Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Spotkanie Wykonawczej Grupy Sterującej ds. Niedoborów i Bezpieczeństwa Produktów Leczniczych (MSSG) – czerwiec 2026 r. Europejska Agencja Leków (EMA)."
+    },
+    {
+      "title": "Rejestracja zakładu i wykaz urządzeń — accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRL/TextResults.cfm?dls=261&q=SW50cmFjcmFuaWFsIGJhbGxvb24=&pn=10&pf=0&sc=&rcount=530",
+      "date": "2026-06-23T04:42:20Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Rejestracja zakładu i lista urządzeń accessdata.fda.gov."
     }
   ],
   "critical_alerts": [
