@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T11:26:00Z",
+  "last_updated": "2026-06-25T11:26:40Z",
   "poland": [
     {
       "title": "Zaproszenie na panel dyskusyjny „Po męsku o zdrowiu” - Gov.pl",
@@ -170,14 +170,6 @@
       "summary": "ZPP alarmuje o pogarszającej się sytuacji finansowej szpitali powiatowych. Samorządy przedstawiają pięć postulatów do rządu, MZ i NFZ."
     },
     {
-      "title": "Kwitnie od czerwca do sierpnia. Toksyczna roślina wykańcza serce - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/Kwitnie-od-czerwca-do-sierpnia-Toksyczna-roslina-wykancza-serce,285891,11.html",
-      "date": "2026-06-25T07:40:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "W sezonie letnim trudno przejść obok niej obojętnie. Wysokie pędy obsypane efektownymi kwiatami przyciągają uwagę i często stają się ozdobą przydomowych rabat. Niewiele osób zdaje sobie jednak sprawę, że za atrakcyjnym wyglądem kryje się roślina, która może stanowić śmiertelne zagrożenie."
-    },
-    {
       "title": "Tak szybko ochłodzisz się w upał. Lekarz pokazuje prosty trik. \"Efekt niesamowity\" - Medonet",
       "url": "https://www.medonet.pl/narodowy-test-zdrowia-polakow/zyj-zdrowiej/jak-ochlodzic-cialo-w-upaly-lekarz-ma-prosty-sposob-stosuja-w-szpitalu/3pd2p68",
       "date": "2026-06-25T07:03:00Z",
@@ -248,6 +240,14 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Leczenie ran i oparzeń w gabinecie lekarza rodzinnego - TRANSMISJA VIP | Webinar Termedia."
+    },
+    {
+      "title": "Tym nigdy nie smaruj oparzonej słońcem skóry. Będzie jeszcze gorzej - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Tym-nigdy-nie-smaruj-oparzonej-sloncem-skory-Bedzie-jeszcze-gorzej,285855,14.html",
+      "date": "2026-06-24T17:21:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "W upalne dni wystarczy chwila nieuwagi, by skóra stała się czerwona, bolesna i piekąca. Oparzenia słoneczne to nie tylko przejściowy dyskomfort – mogą prowadzić do trwałych uszkodzeń skóry i zwiększać ryzyko nowotworów. Eksperci przypominają, że równie ważne jak ochrona przed słońcem jest właściwe postępowanie po oparzeniu."
     },
     {
       "title": "Przełom w rokowaniu SMA. Prof. Kotulska: najmłodsze dzieci rozwijają się niemal prawidłowo. A starsi pacjenci? - Puls Medycyny",
@@ -444,20 +444,20 @@
       "summary": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B The New England Journal of Medicine."
     },
     {
+      "title": "Hiperbaryczna terapia tlenowa może pomóc w opornym na leczenie zapaleniu jelita grubego - Medscape",
+      "url": "https://www.medscape.com/viewarticle/hyperbaric-oxygen-therapy-improves-refractory-colitis-2026a1000lir",
+      "date": "2026-06-25T06:00:21Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Tlenoterapia hiperbaryczna jest dobrze tolerowana w przypadku opornego na leczenie wrzodziejącego zapalenia jelita grubego i poprawia wyniki kliniczne wraz z poprawą perfuzji jelit."
+    },
+    {
       "title": "Czynniki kostne są niewystarczająco wykorzystywane i zmniejszają się w leczeniu raka prostaty - Medscape",
       "url": "https://www.medscape.com/viewarticle/bone-agents-underused-and-declining-prostate-cancer-2026a1000lih",
       "date": "2026-06-25T04:55:16Z",
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Wielu pacjentów z opornym na kastrację rakiem prostaty z przerzutami nie otrzymuje środków modyfikujących kości pomimo zalecenia wytycznych."
-    },
-    {
-      "title": "Jedna trzecia stypendiów z zakresu dermatologii dziecięcej nie jest równa - Medscape",
-      "url": "https://www.medscape.com/viewarticle/one-third-pediatric-dermatology-fellowships-fail-match-2026a1000lid",
-      "date": "2026-06-25T04:05:58Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Wiele stanowisk w ramach stypendiów z zakresu dermatologii dziecięcej pozostaje nieobsadzonych w latach 2009–2023, co uwydatnia ciągły niedobór siły roboczej i regionalne dysproporcje w dostępie do opieki."
     },
     {
       "title": "Niejednorodność ciężkiej astmy w Europie: opinia SHARP-a - The Lancet",
@@ -529,7 +529,7 @@
       "date": "2026-06-24T23:28:08Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Ograniczenia w mediach społecznościowych wymagają terminowej i skoordynowanej oceny BMJ."
+      "summary": "Polityka publiczna jest jednym z najpotężniejszych narzędzi dostępnych rządom w celu poprawy zdrowia publicznego. Australijskie ustawodawstwo dotyczące minimalnego wieku w mediach społecznościowych to polityka o znacznym potencjale oddziaływania w Australii i na arenie międzynarodowej. Ma na celu zmniejszenie (lub opóźnienie) narażenia na szkody w Internecie i wspieranie zdrowszego rozwoju w okresie dojrzewania."
     },
     {
       "title": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej - The Lancet",
@@ -928,14 +928,6 @@
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "Poza uznawaniem przychodów: ponowne przemyślenie kontraktowania CRO poprzez umowę o wspólne wykonanie CURED Stosowane badania kliniczne online."
-    },
-    {
-      "title": "Globalne doroczne spotkanie DIA 2026: O przywództwie, otyłości i nauce, która na nowo definiuje to, co jest możliwe – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/2026-dia-global-annual-meeting-leadership-obesity-science",
-      "date": "2026-06-24T18:27:49Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Globalne doroczne spotkanie DIA 2026: O przywództwie, otyłości i nauce, która na nowo definiuje możliwości Stosowane badania kliniczne online."
     },
     {
       "title": "UCI Health rozpoczyna pierwsze na świecie badanie neuronalnych komórek macierzystych w leczeniu choroby Huntingtona",
