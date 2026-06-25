@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T03:10:57Z",
+  "last_updated": "2026-06-25T03:11:32Z",
   "poland": [
     {
       "title": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. - Alert Medyczny",
@@ -56,22 +56,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Abbisko Therapeutics i Eli Lilly podpisały umowę R&D o potencjalnej wartości 1,9 mld dolarów na rozwój innowacyjnych terapii i nowych leków."
-    },
-    {
-      "title": "Posiedzenie zespołu trójstronnego przerwane. Strona społeczna domaga się od rządu planu zmian w ochronie zdrowia - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/finanse/posiedzenie-zespolu-trojstronnego-przerwane-strona-spoleczna-domaga-sie-od-rzadu-planu-zmian-w-ochronie-zdrowia",
-      "date": "2026-06-24T15:30:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "24 czerwca Trójstronny Zespół ds. Ochrony Zdrowia miał dyskutować o podwyżkach wynagrodzeń medyków z związku z rekomendacjami AOTMiT, jednak strona społeczna przerwała posiedzenie. Obrady mają zostać wznowione dopiero po przedstawieniu przez stronę rządową planu zmian w systemie ochrony zdrowia oraz przywrócenia stabilności finansowej Narodowego Funduszu Zdrowia."
-    },
-    {
-      "title": "Diagnostyka wąskim gardłem onkologii. Eksperci: pacjenci tracą szansę na leczenie od samego początku - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/onkologia/diagnostyka-waskim-gardlem-onkologii-eksperci-pacjenci-traca-szanse-na-leczenie-od-samego-poczatku",
-      "date": "2026-06-24T15:25:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "Coraz więcej nowoczesnych leków trafia na listy refundacyjne, ale bez szybkiej i kompleksowej diagnostyki molekularnej wielu pacjentów nie może z nich skorzystać. Eksperci uczestniczący w debacie podczas Kompendium Oncology Exchange podkreślali, że o skuteczności leczenia coraz częściej decyduje nie dostępność terapii, lecz czas diagnozy, jakość badań i sprawna organizacja opieki nad pacjentem."
     },
     {
       "title": "Czego nie robić przy zakrzepicy? Trzy groźne sytuacje. Kardiolog: można zrobić sobie krzywdę - Medonet",
@@ -138,6 +122,14 @@
       "summary": "Reprezentanci środowiska lekarskiego raczej stawali na głowie, żeby koncentrować się na ochronie uprzywilejowanej pozycji niektórych lekarzy, a nie na realnej kontroli i zmianie stanu rzeczy – powiedział w środę premier Donald Tusk."
     },
     {
+      "title": "Przełom w leczeniu raka płuca. Część chorych może żyć nawet 7 lat bez progresji choroby [ASCO 2026] - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/medycyna/onkologia/przelom-w-leczeniu-raka-pluca-czesc-chorych-moze-zyc-nawet-7-lat-bez-progresji-choroby-asco-2026/",
+      "date": "2026-06-24T13:50:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Rak płuca staje się chorobą przewlekłą, czego dowodzą kolejne analizy. Badanie III fazy CROWN, które przedstawiono podczas tegorocznego kongresu ASCO w Chicago wykazało, że 55 proc. pacjentów z NDRP ALK+, którzy otrzymywali inhibitor ALK trzeciej generacji w pierwszej linii leczenia, żyje 7 lat bez progresji choroby."
+    },
+    {
       "title": "Instytut Chorób Serca UMW uruchomił kardiologię i kardiochirurgię dziecięcą - Podyplomie.pl",
       "url": "https://podyplomie.pl/aktualnosci/instytut-chorob-serca-umw-uruchomil-kardiologie-i-kardiochirurgie-dziecieca",
       "date": "2026-06-24T13:21:00Z",
@@ -168,6 +160,14 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "We Francji odnotowano pierwsze w historii kraju zakaÅ¼enie wirusem ebola. Pacjentem okazaÅ siÄ lekarz, ktÃ³ry wrÃ³ciÅ z Demokratycznej Republiki Konga, gdzie wciÄ Å¼ trwa epidemia tej Åmiertelnej choroby. InformacjÄ przekazaÅo francuskie ministerstwo zdrowia."
+    },
+    {
+      "title": "Populacyjny przesiew pod kątem alergii, Krajowa Sieć Alergologiczna? Ekspert: alergologia powinna być w systemie priorytetem - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/medycyna/alergologia/populacyjny-przesiew-pod-katem-alergii-krajowa-siec-alergologiczna-ekspert-alergologia-powinna-byc-w-systemie-priorytetem",
+      "date": "2026-06-24T10:38:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "40 proc. Polaków ma alergię, to najczęstsza przewlekła choroba wieku dziecięcego. Problem narasta, warto więc rozważyć populacyjne badania przesiewowe pod kątem alergii, zaś opiekę nad chorymi zorganizować w modelu Krajowej Sieci Alergologicznej, na wzór takich sieci tworzonych w obszarze kardiologii i onkologii – uważa prof."
     },
     {
       "title": "Zdrowie w kolorze purpury - Serwis Zdrowie",
@@ -212,20 +212,20 @@
       "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
     },
     {
-      "title": "Polityka szpitala dotycząca kwasu traneksamowego mająca na celu ograniczenie transfuzji podczas poważnych operacji niekardiochirurgicznych — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2515820",
-      "date": "2026-06-25T00:46:42Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Polityka szpitalna dotycząca kwasu traneksamowego mająca na celu ograniczenie transfuzji podczas poważnych operacji niekardiochirurgicznych The New England Journal of Medicine."
-    },
-    {
       "title": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B - The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2515131",
       "date": "2026-06-25T00:02:31Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B The New England Journal of Medicine."
+    },
+    {
+      "title": "Strategia wobec gruźlicy opornej na ryfampicynę – The New England Journal of Medicine",
+      "url": "https://www.nejm.org/do/10.1056/NEJMdo008541/full/",
+      "date": "2026-06-24T23:58:29Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Strategia dotycząca gruźlicy opornej na ryfampicynę The New England Journal of Medicine."
     },
     {
       "title": "Skuteczność i bezpieczeństwo tirofibanu po skutecznej reperfuzji wewnątrznaczyniowej w ostrym udarze niedokrwiennym mózgu (ATTRACTION) w Chinach: wieloośrodkowe, podwójnie ślepe, randomizowane badanie kontrolowane - The Lancet",
@@ -682,7 +682,7 @@
       "summary": "HHS rozpoczyna operację TrialBlazer, aby przywrócić USA wiodącą pozycję w stosowanych badaniach klinicznych online."
     },
     {
-      "title": "mAb anty-TL1A firmy MSD, przejęte za 10,8 miliarda dolarów, wygrywa w badaniu fazy III – Clinical Trials Arena",
+      "title": "mAb anty-TL1A firmy MSD, przejęte za 10,8 miliarda dolarów, wygrywa w fazie III badania – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/msds-anti-tl1a-mab-from-10-8bn-acquisition-wins-in-phase-iii-trial/",
       "date": "2026-06-23T11:07:10Z",
       "source": "Clinical Trials Arena",
@@ -711,7 +711,7 @@
       "date": "2026-06-23T10:31:39Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Informacje o projekcie ACT: Partnerstwo ICON-Microsoft AI, obciążenie ośrodka DCT i stosowane online badania kliniczne w zakresie odkrywania neuroimmunologicznego z wykorzystaniem sztucznej inteligencji."
+      "summary": "Informacje o projekcie ACT: Partnerstwo ICON-Microsoft AI, obciążenie ośrodka DCT i stosowane online badania kliniczne w zakresie odkrycia neuroimmunologicznego z wykorzystaniem sztucznej inteligencji."
     },
     {
       "title": "Szczegóły badania | NCT07660952 | Wpływ okularów IE na wyniki pacjentów z rezonansem magnetycznym - ClinicalTrials.gov",
