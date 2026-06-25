@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T02:52:04Z",
+  "last_updated": "2026-06-25T02:52:33Z",
   "poland": [
     {
       "title": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. - Alert Medyczny",
@@ -204,20 +204,12 @@
       "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
     },
     {
-      "title": "Polityka szpitala dotycząca kwasu traneksamowego mająca na celu ograniczenie transfuzji podczas poważnych operacji niekardiochirurgicznych - The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2515820",
-      "date": "2026-06-25T00:46:42Z",
+      "title": "Strategia wobec gruźlicy opornej na ryfampicynę – The New England Journal of Medicine",
+      "url": "https://www.nejm.org/do/10.1056/NEJMdo008541/full/",
+      "date": "2026-06-24T23:58:29Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Polityka szpitalna dotycząca kwasu traneksamowego mająca na celu ograniczenie transfuzji podczas poważnych operacji niekardiochirurgicznych The New England Journal of Medicine."
-    },
-    {
-      "title": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B - The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2515131",
-      "date": "2026-06-25T00:02:31Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B The New England Journal of Medicine."
+      "summary": "Strategia dotycząca gruźlicy opornej na ryfampicynę The New England Journal of Medicine."
     },
     {
       "title": "Skuteczność i bezpieczeństwo tirofibanu po skutecznej reperfuzji wewnątrznaczyniowej w ostrym udarze niedokrwiennym mózgu (ATTRACTION) w Chinach: wieloośrodkowe, podwójnie ślepe, randomizowane badanie kontrolowane - The Lancet",
@@ -250,6 +242,14 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Aby sprostać szybko zmieniającym się potrzebom, konieczne są nowe reakcje: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach The Lancet."
+    },
+    {
+      "title": "Ablacja pola pulsacyjnego jako terapia początkowa w leczeniu uporczywego migotania przedsionków – The New England Journal of Medicine",
+      "url": "https://www.nejm.org/do/10.1056/NEJMdo008538/full/",
+      "date": "2026-06-24T22:25:14Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Ablacja pola pulsacyjnego jako terapia początkowa w przypadku trwałego migotania przedsionków The New England Journal of Medicine."
     },
     {
       "title": "Eli Lilly zajmuje się leczeniem wypadania włosów dzięki inwestycji w start-up AI Absci – statnews.com",
@@ -504,14 +504,6 @@
       "summary": "Przeciwciała reagujące krzyżowo z wirusem Bundibugyo u fretek zaszczepionych szczepionką przeciwko wirusowi Ebola."
     },
     {
-      "title": "Transkrypcja – Aktualizacja reakcji CDC na hantawirus – 24.06.26 – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-hantavirus-response-6-24-26.html",
-      "date": "2026-06-24T19:15:52Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Dostępny jest również plik audio."
-    },
-    {
       "title": "KTO | Komunikaty prasowe – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/releases/42?_x_tr_hl=ja&_x_tr_pto=sc&_x_tr_sl=en&_x_tr_tl=ja&limit=all",
       "date": "2026-06-24T15:50:48Z",
@@ -582,6 +574,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Rysunek 3 . Drzewo filogenetyczne sekwencji HRV-B krążących w Marsylii podczas ciężkiej choroby układu oddechowego i śmierci związanej z wybuchem epidemii HRV-B14 wśród starszych dorosłych, Francja, 2024. Dopasowanie sekwencji genu kodującego białko wirusowe 1 przeprowadzono przy użyciu MUSCLE ( https://www.ebi.ac.uk/Tools/msa/muscle ) ze standardowymi parametrami dla sekwencji nukleotydowych."
+    },
+    {
+      "title": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Modelowanie i prognozowanie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Strona Rt CFA zawiera szacunki dotyczące trendów epidemicznych Covid-19 w USA, stanach i krajach HSA."
     }
   ],
   "clinical_trials": [
@@ -712,14 +712,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07660952 | Wpływ okularów IE na wyniki pacjentów z rezonansem magnetycznym ClinicalTrials.gov."
-    },
-    {
-      "title": "Szczegóły badania | NCT07660705 | Edukacja wideo z kodem QR dla członków rodziny na oddziałach intensywnej terapii – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07660705",
-      "date": "2026-06-23T10:21:07Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07660705 | Edukacja wideo z kodem QR dla członków rodziny oddziałów intensywnej terapii ClinicalTrials.gov."
     },
     {
       "title": "SPINRAZA w leczeniu rdzeniowego zaniku mięśni, USA – Arena Badań Klinicznych",
