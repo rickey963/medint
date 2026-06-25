@@ -41,8 +41,8 @@ warnings.filterwarnings('ignore', category=XMLParsedAsHTMLWarning)
 # even saw it. Raised well past what any single source should usually need,
 # since everything past this point still has to clear every other filter
 # anyway - this only widens the *candidate* pool.
-MAX_ARTICLES_PER_SOURCE = 20
-MAX_ARTICLES_PER_SECTION = 30
+MAX_ARTICLES_PER_SOURCE = 30
+MAX_ARTICLES_PER_SECTION = 50
 FRESHNESS_WINDOW_HOURS = 72
 DEDUPE_OVERLAP_THRESHOLD = 0.5
 
@@ -425,7 +425,7 @@ def _dedupe(items):
 # even though they had something to say. Round-robin by source instead: one
 # pass takes each source's next-most-recent item before any source gets a
 # second, guaranteeing every configured source a fair shot at a slot.
-PER_SOURCE_SECTION_CAP = 6
+PER_SOURCE_SECTION_CAP = 15
 
 
 def _cap_fairly_by_source(items, total_cap, per_source_cap):
@@ -637,7 +637,31 @@ CRITICAL_KEYWORDS = [
     'zakażenie szpitalne', 'alarm epidemiologiczny', 'zagrożenie zdrowia publicznego',
     'zanieczyszczona partia', 'skażona partia', 'kontaminacja leku', 'wycofanie zgody',
     'wstrzymanie badania klinicznego', 'przerwanie badania klinicznego', 'zatrucie pokarmowe',
+    # Named outbreak diseases - without these, a same-day situation report with
+    # real case/death counts (e.g. an ECDC/WHO Ebola update) only ever matched
+    # the generic keywords above by accident (sharing the word "epidemia"),
+    # while CDC's evergreen "About the outbreak" overview page (no numbers at
+    # all, just a generic landing-page description) matched just as easily -
+    # so the ticker ended up showing the vaguer page instead of the report
+    # with actual figures. Naming the diseases directly fixes that.
+    'ebola', 'marburg', 'mpox', 'ospa małpia', 'cholera', 'dżuma', 'wąglik',
+    'ptasia grypa', 'h5n1', 'h5n5', 'odra', 'listerioza', 'legioneloza',
+    'salmonelloza', 'gorączka krwotoczna', 'wirus nipah', 'polio', 'wirus zachodniego nilu',
 ]
+
+# A real-time outbreak update reports a concrete case/death count - this is
+# the actual difference between a CDC "About the outbreak" landing page
+# (generic, no numbers, indexed every day regardless of news) and a same-day
+# WHO/ECDC situation report (e.g. "127 potwierdzonych przypadków, 42 zgony").
+# Used to push the latter to the front of the ticker instead of letting a
+# higher-prestige source's vague overview crowd it out.
+CASE_NUMBER_RE = re.compile(
+    r'\d+\s*(przypad|zgon|zakaż|zakaz|ofiar|chor|case|death|infect)', re.IGNORECASE
+)
+
+
+def _has_case_numbers(text):
+    return bool(CASE_NUMBER_RE.search(text))
 
 ALERT_SECTIONS = ('poland', 'world', 'guidelines', 'epidemiology', 'clinical_trials', 'pharma_market')
 
@@ -677,7 +701,12 @@ def build_critical_alerts(sections):
         if any(kw in text for kw in CRITICAL_KEYWORDS):
             alerts.append(item)
             seen_titles.add(item['title'])
-    alerts.sort(key=lambda it: it['date'], reverse=True)
+    # Concrete, numbered situation reports first, then newest-first within
+    # each group - a generic "about the outbreak" page from today shouldn't
+    # outrank yesterday's report that actually says how many people are sick.
+    alerts.sort(key=lambda it: (
+        _has_case_numbers(f"{it['title']} {it['summary']}"), it['date']
+    ), reverse=True)
     if not alerts:
         now = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
         return [{

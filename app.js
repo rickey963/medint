@@ -5,7 +5,7 @@
 const DATA_URL = 'data.json';
 const REFRESH_INTERVAL = 60000; // 60s - dashboard refreshes itself, no reload needed
 const FRESH_THRESHOLD_MINUTES = 60; // articles newer than this pulse green (osint uses 30 - here widened to 1h)
-const MAX_ARTICLES_PER_CATEGORY = 30;
+const MAX_ARTICLES_PER_CATEGORY = 50;
 
 document.addEventListener('DOMContentLoaded', () => {
     loadData();
