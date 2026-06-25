@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T00:14:08Z",
+  "last_updated": "2026-06-25T00:14:32Z",
   "poland": [
     {
       "title": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. - Alert Medyczny",
@@ -7,7 +7,7 @@
       "date": "2026-06-24T23:28:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. Alert Medyczny."
+      "summary": "MZ wyjaśnia zasady refundacji generyków dapagliflozyny od 1 lipca 2026 r. Sprawdź wskazania, ograniczenia patentowe i zasady zamiany leków."
     },
     {
       "title": "Leczenie ran i oparzeń w gabinecie lekarza rodzinnego - TRANSMISJA VIP | Webinar - Termedia",
@@ -55,7 +55,7 @@
       "date": "2026-06-24T15:49:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Eli Lilly rozszerza współpracę z Abbisko Therapeutics. Umowa może być warta 1,9 mld dolarów Alert Medyczny."
+      "summary": "Abbisko Therapeutics i Eli Lilly podpisały umowę R&D o potencjalnej wartości 1,9 mld dolarów na rozwój innowacyjnych terapii i nowych leków."
     },
     {
       "title": "Unia Europejska wprowadza zakaz etapami. Niedługo już nie kupisz - Rynek Zdrowia",
@@ -71,7 +71,7 @@
       "date": "2026-06-24T14:49:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Trójstronny Zespół ds. Ochrony Zdrowia przerywa obrady. Strona społeczna żąda planu od rządu Alert Medyczny."
+      "summary": "Strona społeczna Trójstronnego Zespołu ds. Ochrony Zdrowia przerwała obrady i oczekuje od rządu planu zmian oraz stabilizacji finansów NFZ."
     },
     {
       "title": "Stanowisko Minister Zdrowia - Gov.pl",
@@ -220,28 +220,20 @@
       "summary": "Kliniczne implikacje małego dojrzewania The New England Journal of Medicine."
     },
     {
+      "title": "25 czerwca 2026 r. — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/image-challenge?ci=20260625",
+      "date": "2026-06-24T21:22:55Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "25 czerwca 2026 r. The New England Journal of Medicine."
+    },
+    {
       "title": "Przypadek 18-2026: 53-letni mężczyzna z osłabieniem, bólem i utratą masy ciała w nogach — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMcpc2517891",
-      "date": "2026-06-24T22:20:38Z",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2517891",
+      "date": "2026-06-24T21:22:53Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Przypadek 18-2026: 53-letni mężczyzna z osłabieniem, bólem i utratą masy ciała w nogach, The New England Journal of Medicine."
-    },
-    {
-      "title": "Natychmiastowa lub odroczona PCI ze zmianą niewinną w zawale mięśnia sercowego – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMx260017",
-      "date": "2026-06-24T22:20:36Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Natychmiastowa lub odroczona PCI ze zmianą niewinną w zawale mięśnia sercowego The New England Journal of Medicine."
-    },
-    {
-      "title": "Zapobieganie i leczenie alergii na orzeszki ziemne — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMcp2314424",
-      "date": "2026-06-24T22:20:35Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Zapobieganie i leczenie alergii na orzeszki ziemne The New England Journal of Medicine."
     },
     {
       "title": "Korekta wydawcy: Doustny małocząsteczkowy agonista receptora GLP-1, aleniglipron u osób z nadwagą lub otyłością: randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 2b - Nature",
@@ -586,6 +578,14 @@
   ],
   "clinical_trials": [
     {
+      "title": "Poza uznawaniem przychodów: ponowne przemyślenie kontraktowania CRO w ramach umowy o wspólne wykonanie CURED – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-rethinking-cro-contracting-cured-shared-performance-contract",
+      "date": "2026-06-24T19:59:47Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Poza uznawaniem przychodów: ponowne przemyślenie kontraktowania CRO poprzez umowę o wspólne wykonanie CURED Stosowane badania kliniczne online."
+    },
+    {
       "title": "Globalne doroczne spotkanie DIA 2026: O przywództwie, otyłości i nauce, która na nowo definiuje to, co jest możliwe – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/2026-dia-global-annual-meeting-leadership-obesity-science",
       "date": "2026-06-24T18:27:49Z",
@@ -706,14 +706,6 @@
       "summary": "SPINRAZA w leczeniu rdzeniowego zaniku mięśni, amerykańska arena badań klinicznych."
     },
     {
-      "title": "Globalne doroczne spotkanie DIA 2026: Gdzie modele mieszane tworzą największą wartość i co jest potrzebne, aby zadziałały – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/2026-dia-global-annual-meeting-mixed-models-value",
-      "date": "2026-06-22T22:05:00Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Globalne doroczne spotkanie DIA 2026: Gdzie modele mieszane tworzą największą wartość i co jest potrzebne, aby nadawały się do stosowania w badaniach klinicznych online."
-    },
-    {
       "title": "HHS chce przenieść badania kliniczne do domu. Czy Waszyngton może naprawić system, który pomógł stworzyć? - wersja próbnanews.com",
       "url": "https://www.trialsitenews.com/a/hhs-wants-to-bring-clinical-trials-home.-can-washington-fix-the-system-it-helped-create-02fdd434",
       "date": "2026-06-22T21:46:48Z",
@@ -770,6 +762,14 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Remix Therapeutics wejdzie na giełdę poprzez odwrotną fuzję z Passage Bio, zdobywając notowanie na giełdzie Nasdaq wraz z lokacją o wartości 100 milionów dolarów w związku z rozwojem degradatora mRNA REM-422 w leczeniu raka."
+    },
+    {
+      "title": "„Inspekcje ukierunkowane” amerykańskiej FDA skupiają się na najbardziej krytycznych aspektach prowadzenia badań klinicznych – Citeline News & Insights",
+      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/compliance/us-fdas-directed-inspections-focus-on-most-critical-aspects-of-clinical-trial-conduct-CDTSUWK5ZVBPBCSGJ5T2RDXQNA/",
+      "date": "2026-06-24T18:12:57Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "Bardziej ukierunkowany format inspekcji monitorujących badania biologiczne, stosowany przez agencję, może skutkować mniejszą liczbą obserwacji na formularzu 483, powiedział urzędnik FDA podczas dorocznego spotkania DIA."
     },
     {
       "title": "Przebudowa serca może zwiastować ryzyko raka",
@@ -876,6 +876,14 @@
       "summary": "W następstwie niedawnej obawy o bezpieczeństwo w związku z potwierdzającym badaniem leku Zynlonta, koniugatu przeciwciało, firma ADC Therapeutics zaciska pasa, starając się jak najlepiej wykorzystać swój lek przeciwnowotworowy.&nbs | W następstwie niedawnej obawy o bezpieczeństwo w związku z potwierdzającym badaniem leku Zynlonta, koniugatu przeciwciało, firma ADC Therapeutics zaciska pasa, starając się jak najlepiej wykorzystać swój lek przeciwnowotworowy."
     },
     {
+      "title": "UNII-62LN840SFZ | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
+      "url": "https://precision.fda.gov/uniisearch/srs?search=62LN840SFZ",
+      "date": "2026-06-24T12:16:04Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
+    },
+    {
       "title": "Revance zatrudnia tancerza do tworzenia choreografii w mediach społecznościowych dla rywala z botoksem – Fierce Pharma",
       "url": "https://www.fiercepharma.com/marketing/revance-taps-dancer-julianne-hough-choreograph-social-media-push-botox-rival",
       "date": "2026-06-24T07:43:53Z",
@@ -906,14 +914,6 @@
       "source": "Pink Sheet",
       "confirmed_by": 1,
       "summary": "Kontynuacją dorocznego spotkania BIO jest to, że dyrektorzy firm farmaceutycznych reagują na potencjalne przepisy blokujące umowy z Chinami, przyglądają się wpływowi polityki cenowej kraju najbardziej uprzywilejowanego na warunki transakcji, nowy zestaw narzędzi sztucznej inteligencji firmy NVIDIA do zastosowań w naukach przyrodniczych oraz wysiłki FDA w zakresie rekrutacji."
-    },
-    {
-      "title": "NIEKTÓRE - 9NZ7111A9O | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
-      "url": "https://precision.fda.gov/uniisearch/srs?search=9NZ7111A9O",
-      "date": "2026-06-24T00:24:03Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
     },
     {
       "title": "FDA zatwierdza sacituzumab govitecan-hziy w monoterapii i w leczeniu skojarzonym - fda.gov",
@@ -954,14 +954,6 @@
       "source": "Pink Sheet",
       "confirmed_by": 1,
       "summary": "Nowy, zaktualizowany projekt wytycznych szczegółowo opisuje komunikację między sponsorami protokołu głównego a sponsorami leków, a także FDA, a także dodaje więcej informacji na temat świadomej zgody."
-    },
-    {
-      "title": "Notatnik BIO: elastyczność regulacyjna pod inną nazwą — Citeline News & Insights",
-      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/conferences/bio/bio-notebook-regulatory-flexibility-by-any-other-name-2UOL5XCNMNA7FEEKPCIOPAKHXY/",
-      "date": "2026-06-23T02:11:28Z",
-      "source": "Pink Sheet",
-      "confirmed_by": 1,
-      "summary": "Najciekawsze wydarzenia z pierwszego dnia Międzynarodowej Konwencji BIO."
     }
   ],
   "critical_alerts": [
@@ -1013,7 +1005,7 @@
       "date": "2026-06-24T23:28:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. Alert Medyczny."
+      "summary": "MZ wyjaśnia zasady refundacji generyków dapagliflozyny od 1 lipca 2026 r. Sprawdź wskazania, ograniczenia patentowe i zasady zamiany leków."
     },
     {
       "title": "Miesiąc samoopieki 2026 – Światowa Organizacja Zdrowia (WHO)",
