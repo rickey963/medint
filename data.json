@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T14:04:04Z",
+  "last_updated": "2026-06-25T14:07:07Z",
   "poland": [
     {
       "title": "Urtica informuje o prawdopodobnym wycieku danych osobowych. Spółka zgłasza incydent do UODO - Alert Medyczny",
@@ -364,6 +364,14 @@
       "summary": "Nowe badanie analizuje wpływ krajowego programu szczepień przeciwko HPV w Anglii, rozpoczętego prawie dwie dekady temu – wykazując ogromny spadek umieralności z powodu raka szyjki macicy wśród młodych kobiet."
     },
     {
+      "title": "Ciemna zmiana na sutku - BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2025-086627",
+      "date": "2026-06-25T10:46:08Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Kobieta po sześćdziesiątce miała od sześciu miesięcy bezbolesną, ciemną zmianę na lewym sutku. Mammografia wypadła prawidłowo i postawiono diagnozę niebieskiego znamiona – łagodnego pieprzyka barwnikowego. Zgłosiła się ponownie 18 miesięcy później z nową krwawą wydzieliną ze zmiany w lewym sutku, która nie zmieniła się pod względem wielkości."
+    },
+    {
       "title": "Wpływ zachęt finansowych . . . i inne badania - The BMJ",
       "url": "https://www.bmj.com/content/393/bmj-2026-597013",
       "date": "2026-06-25T10:45:48Z",
@@ -612,14 +620,6 @@
       "summary": "Nowe badanie opublikowane w Nature wykorzystuje sztuczną inteligencję do identyfikacji osób z grupy wysokiego ryzyka nagłej śmierci sercowej i wskazuje możliwą przyczynę."
     },
     {
-      "title": "W BIO rzut okiem na partnerstwo Lilly i Chai – statnews.com",
-      "url": "https://www.statnews.com/2026/06/24/biotech-news-bio-2026-glimpse-behind-lilly-and-chai-partnership/",
-      "date": "2026-06-24T15:15:16Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "RIP Sangamo, rozwój produkcji leków i więcej wiadomości biotechnologicznych z The Readout."
-    },
-    {
       "title": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania różnymi metodami – The Lancet",
       "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00285-3/fulltext",
       "date": "2026-06-24T13:24:41Z",
@@ -656,52 +656,20 @@
   ],
   "epidemiology": [
     {
-      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Bovismorbificans ST377 powiązane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/publications-data/multi-country-outbreak-salmonella-bovismorbificans-st377-infections-linked",
-      "date": "2026-06-25T12:01:42Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "W okresie od stycznia do maja 2026 r. zgłoszono 109 potwierdzonych przypadków Salmonella Bovismorbificans ST377 z 10 krajów Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) (Austria, Belgia, Czechy, Dania, Finlandia, Niemcy, Irlandia, Luksemburg, Hiszpania i Holandia) oraz Wielkiej Brytanii."
-    },
-    {
-      "title": "Eksperci One Health w Lyonie wytyczają ścieżkę od zaangażowania do skoordynowanych działań w zakresie budowania potencjału – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news/item/25-06-2026-one-health-experts-in-lyon-chart-path-from-commitment-to-coordinated-action-on-capacity-building",
-      "date": "2026-06-25T11:48:32Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "W kwietniu przywódcy środowisk akademickich, rządowych i organizacji międzynarodowych zebrali się w Lyonie we Francji podczas festiwalu One Health, aby wzmocnić globalną współpracę w zakresie uczenia się i budowania potencjału w ramach One Health. Spotkanie dostarczyło jasnych wezwań do działania: wyjścia poza podnoszenie świadomości do praktycznego, skalowalnego wdrożenia oraz nadania priorytetu inwestycjom w ludzi i partnerstw międzysektorowych przed tworzeniem nowych ram. Uczestnicy docenili silny globalny impet i bogactwo istniejących inicjatyw „Jedno zdrowie”. Głównym zidentyfikowanym wyzwaniem było jednak przekształcenie koncepcji One Health w skoordynowane, mierzalne i operacyjne działania."
-    },
-    {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-06-25T10:58:40Z",
-      "source": "ECDC",
-      "confirmed_by": 2,
-      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
-    },
-    {
-      "title": "Ruszyły już zapisy na ESCAIDE 2026, wiodącą europejską konferencję dotyczącą zdrowia publicznego, odbywającą się w Sztokholmie i online – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/news-events/registrations-now-open-attend-escaide-2026-europes-leading-public-health-conference",
-      "date": "2026-06-25T10:11:39Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Można już zarejestrować się na tegoroczną Europejską Konferencję Naukową na temat Stosowanej Epidemiologii Chorób Zakaźnych (ESCAIDE), która odbędzie się w Sztokholmie oraz online w dniach 18–20 listopada 2026 r. Rejestracja jest bezpłatna."
-    },
-    {
-      "title": "Ruszyły już zapisy do udziału online w ESCAIDE 2026, wiodącej europejskiej konferencji poświęconej zdrowiu publicznemu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health",
-      "date": "2026-06-25T10:11:39Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Można już zarejestrować się na tegoroczną Europejską Konferencję Naukową na temat Stosowanej Epidemiologii Chorób Zakaźnych (ESCAIDE), która odbędzie się w Sztokholmie oraz online w dniach 18–20 listopada 2026 r. Rejestracja jest bezpłatna."
-    },
-    {
       "title": "Żółta febra – Globalny – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON610",
       "date": "2026-06-25T02:09:23Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Żółta febra to choroba wirusowa występująca na obszarach Afryki i obu Ameryk, przenoszona przez zakażone komary. Po wzroście liczby przypadków w obu Amerykach w 2025 r. aktywność przenoszenia wirusa utrzymała się do 2026 r. Od 1 stycznia do 26 maja 2026 r. sześć krajów zgłosiło łącznie 79 infekcji u ludzi wraz z licznymi epizootiami, co wskazuje na aktywne krążenie leśne."
+    },
+    {
+      "title": "Epidemia wirusa Ebola: co robi CDC – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/what-cdc-is-doing.html",
+      "date": "2026-06-24T20:28:13Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Dowiedz się, jak CDC reaguje na obecną epidemię wirusa Ebola."
     },
     {
       "title": "Przeciwciała reagujące krzyżowo z wirusem Bundibugyo u fretek zaszczepionych szczepionką przeciwko wirusowi Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -840,20 +808,12 @@
       "summary": "Komitet sterujący platformy inwestycyjnej dotyczącej wpływu na zdrowie (HIIP) zatwierdził nowe propozycje pomocy technicznej dla Angoli i Tadżykistanu, co stanowi ważny kamień milowy w dalszej ekspansji platformy w Afryce i Azji."
     },
     {
-      "title": "Szybki systematyczny przegląd klinicznych czynników ryzyka ciężkiego zakażenia wirusem Syncytial układu oddechowego u dorosłych skutkującego hospitalizacją, przyjęciem na oddział intensywnej terapii lub śmiercią - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/publications-data/rapid-systematic-review-clinical-risk-factors-severe-respiratory-syncytial-virus",
-      "date": "2026-06-23T12:58:47Z",
-      "source": "ECDC",
+      "title": "Seminarium internetowe: Zwiększanie skali platformy globalnej: wspólna praca nad zmniejszeniem luki w przeżywalności nowotworów u dzieci poprzez zrównoważony dostęp do leków o gwarantowanej jakości – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/webinar-scaling-up-the-global-platform-working-together-to-close-the-childhood-cancer-survival-gap-through-sustainable-access-to-quality-assured-medicines",
+      "date": "2026-06-23T12:07:27Z",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Celem tego szybkiego przeglądu systematycznego było zidentyfikowanie i ocena siły i spójności powiązań między klinicznymi czynnikami ryzyka a ciężkimi skutkami zakażenia RSV u dorosłych."
-    },
-    {
-      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 r. – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/publications-data/invasive-meningococcal-disease-annual-epidemiological-report-2024",
-      "date": "2026-06-23T08:46:01Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "W 2024 r. w 30 krajach Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) zgłoszono 2233 potwierdzonych przypadków inwazyjnej choroby meningokokowej (IMD), w tym 202 zgony."
+      "summary": "Celem tego seminarium internetowego jest przybliżenie planów rozwoju Globalnej platformy dostępu do leków przeciwnowotworowych u dzieci (Globalna platforma), szczególnie nowym krajom zainteresowanym przyłączeniem się do tej jedynej w swoim rodzaju inicjatywy, założonej wspólnie przez WHO i Szpital Dziecięcy St. Jude we współpracy z UNICEF i Funduszem Strategicznym PAHO."
     },
     {
       "title": "Epidemia ślimaków New World — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1601,18 +1561,10 @@
       "date": "2026-06-23T08:52:22Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Dobra praktyka produkcyjna: Wielostronne warsztaty na temat wkładu ekspertów w rozwój wytycznych dotyczących sztucznej inteligencji (załącznik 22) Europejska Agencja Leków (EMA)."
+      "summary": "Grupa Robocza Inspektorów ds. Dobrej Praktyki Produkcyjnej (GMP) / Dobrej Praktyki Dystrybucyjnej (GDP) EMA organizuje dwudniowe warsztaty, które mają pomóc w kształtowaniu opartego na ryzyku podejścia do stosowania generatywnej sztucznej inteligencji (AI) w produkcji leków."
     }
   ],
   "critical_alerts": [
-    {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-06-25T10:58:40Z",
-      "source": "ECDC",
-      "confirmed_by": 2,
-      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
-    },
     {
       "title": "Ebola: Francja ogłasza pierwszy przypadek po powrocie z DRK – pozytywny wynik testu lekarza – BMJ",
       "url": "https://www.bmj.com/content/393/bmj-2026-100079",
@@ -1620,6 +1572,14 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Francuscy urzędnicy podali, że lekarz we Francji uzyskał pozytywny wynik testu na obecność wirusa Ebola po powrocie z misji humanitarnej w Demokratycznej Republice Konga (DRK). Jak podało francuskie ministerstwo zdrowia, pacjent, którego przypadek jest pierwszym w historii odnotowanym we Francji, został natychmiast przyjęty na specjalistyczny oddział szpitalny, a jego stan jest „stabilny”. Minister zdrowia Stéphanie Rist powiedziała, że ​​pięciu pasażerów znajdujących się najbliżej pacjenta miało…."
+    },
+    {
+      "title": "Epidemia wirusa Ebola: co robi CDC – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/what-cdc-is-doing.html",
+      "date": "2026-06-24T20:28:13Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Dowiedz się, jak CDC reaguje na obecną epidemię wirusa Ebola."
     },
     {
       "title": "Przeciwciała reagujące krzyżowo z wirusem Bundibugyo u fretek zaszczepionych szczepionką przeciwko wirusowi Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1656,44 +1616,44 @@
   ],
   "daily_top5": [
     {
-      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Bovismorbificans ST377 powiązane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/publications-data/multi-country-outbreak-salmonella-bovismorbificans-st377-infections-linked",
-      "date": "2026-06-25T12:01:42Z",
-      "source": "ECDC",
+      "title": "Huíla uruchamia innowacyjny projekt mający na celu wzmocnienie profilaktyki i wczesnej diagnostyki raka piersi i szyjki macicy – ​​WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/countries/angola/news/huila-launches-innovative-project-strengthen-prevention-and-early-diagnosis-breast-and-cervical",
+      "date": "2026-06-25T09:06:36Z",
+      "source": "WHO",
       "confirmed_by": 1,
-      "summary": "W okresie od stycznia do maja 2026 r. zgłoszono 109 potwierdzonych przypadków Salmonella Bovismorbificans ST377 z 10 krajów Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) (Austria, Belgia, Czechy, Dania, Finlandia, Niemcy, Irlandia, Luksemburg, Hiszpania i Holandia) oraz Wielkiej Brytanii."
+      "summary": "W czasie, gdy późna diagnoza w dalszym ciągu zagraża życiu tysięcy kobiet, prowincja Huíla podejmuje zdecydowany krok, wzmacniając profilaktykę i wczesne wykrywanie nowotworów."
     },
     {
-      "title": "Eksperci One Health w Lyonie wytyczają ścieżkę od zaangażowania do skoordynowanych działań w zakresie budowania potencjału – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news/item/25-06-2026-one-health-experts-in-lyon-chart-path-from-commitment-to-coordinated-action-on-capacity-building",
-      "date": "2026-06-25T11:48:32Z",
+      "title": "RFP 043-2026: Ocena krajowych wykazów leków i zasad ograniczeń: wzorce wykorzystania i skutki finansowe na poziomie szpitala – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/westernpacific/articles/item/rfp-043-2026--evaluation-of-national-formulary-listing-and-restriction-policies--utilization-patterns-and-financial-impact-at-hospital-level",
+      "date": "2026-06-25T07:33:56Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Światowa Organizacja Zdrowia (WHO) Indonezja pragnie zaprosić Państwa do złożenia wniosku w sprawie oceny krajowych wykazów leków i zasad ograniczeń: wzorce wykorzystania i wpływ finansowy na poziomie szpitala, nr ref. RFP 043-2026. Dalsze szczegóły dotyczące niezbędnych wymagań można znaleźć w załączonej dokumentacji przetargowej. Odpowiednie ogłoszenie o przetargu dla niniejszego zapytania ofertowego jest również opublikowane w zawiadomieniu o zamówieniach WHO. W związku z tym zapraszamy do wzięcia udziału w spotkaniu online przed złożeniem oferty we wtorek 30 czerwca 2026 r. w godzinach 10:00–11:00 (czasu w Dżakarcie)."
+    },
+    {
+      "title": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B - The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2515131",
+      "date": "2026-06-25T06:45:50Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B The New England Journal of Medicine."
+    },
+    {
+      "title": "Niejednorodność ciężkiej astmy w Europie: opinia SHARP-a - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(26)00165-7/fulltext",
+      "date": "2026-06-25T02:58:56Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Heterogeniczność ciężkiej astmy w Europie: opinia SHARP The Lancet."
+    },
+    {
+      "title": "Żółta febra – Globalny – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON610",
+      "date": "2026-06-25T02:09:23Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "W kwietniu przywódcy środowisk akademickich, rządowych i organizacji międzynarodowych zebrali się w Lyonie we Francji podczas festiwalu One Health, aby wzmocnić globalną współpracę w zakresie uczenia się i budowania potencjału w ramach One Health. Spotkanie dostarczyło jasnych wezwań do działania: wyjścia poza podnoszenie świadomości do praktycznego, skalowalnego wdrożenia oraz nadania priorytetu inwestycjom w ludzi i partnerstw międzysektorowych przed tworzeniem nowych ram. Uczestnicy docenili silny globalny impet i bogactwo istniejących inicjatyw „Jedno zdrowie”. Głównym zidentyfikowanym wyzwaniem było jednak przekształcenie koncepcji One Health w skoordynowane, mierzalne i operacyjne działania."
-    },
-    {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-06-25T10:58:40Z",
-      "source": "ECDC",
-      "confirmed_by": 2,
-      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
-    },
-    {
-      "title": "Ruszyły już zapisy na ESCAIDE 2026, wiodącą europejską konferencję dotyczącą zdrowia publicznego, odbywającą się w Sztokholmie i online – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/news-events/registrations-now-open-attend-escaide-2026-europes-leading-public-health-conference",
-      "date": "2026-06-25T10:11:39Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Można już zarejestrować się na tegoroczną Europejską Konferencję Naukową na temat Stosowanej Epidemiologii Chorób Zakaźnych (ESCAIDE), która odbędzie się w Sztokholmie oraz online w dniach 18–20 listopada 2026 r. Rejestracja jest bezpłatna."
-    },
-    {
-      "title": "Ruszyły już zapisy do udziału online w ESCAIDE 2026, wiodącej europejskiej konferencji poświęconej zdrowiu publicznemu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health",
-      "date": "2026-06-25T10:11:39Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Można już zarejestrować się na tegoroczną Europejską Konferencję Naukową na temat Stosowanej Epidemiologii Chorób Zakaźnych (ESCAIDE), która odbędzie się w Sztokholmie oraz online w dniach 18–20 listopada 2026 r. Rejestracja jest bezpłatna."
+      "summary": "Żółta febra to choroba wirusowa występująca na obszarach Afryki i obu Ameryk, przenoszona przez zakażone komary. Po wzroście liczby przypadków w obu Amerykach w 2025 r. aktywność przenoszenia wirusa utrzymała się do 2026 r. Od 1 stycznia do 26 maja 2026 r. sześć krajów zgłosiło łącznie 79 infekcji u ludzi wraz z licznymi epizootiami, co wskazuje na aktywne krążenie leśne."
     }
   ]
 }
