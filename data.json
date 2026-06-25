@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T19:44:12Z",
+  "last_updated": "2026-06-25T19:45:04Z",
   "poland": [
     {
       "title": "Komunikaty i ostrzeżenia (strona 11) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Płońsku - Gov.pl",
@@ -135,7 +135,7 @@
       "date": "2026-06-25T14:30:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
+      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
     },
     {
       "title": "Sobierańska-Grenda o Szpitalu Południowym: państwo zareagowało w sposób natychmiastowy - PolitykaZdrowotna.com",
@@ -175,7 +175,7 @@
       "date": "2026-06-25T13:44:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Urtica informuje o prawdopodobnym wycieku danych osobowych. Spółka zgłasza incydent do UODO Alert Medyczny."
+      "summary": "Urtica poinformowała o prawdopodobnym wycieku danych osobowych. Sprawdź, jakie dane mogły zostać ujawnione i jakie zalecenia wydano."
     },
     {
       "title": "\"Pacjent wyjechał na wózku\". Nawet 800 zgonów rocznie z powodu tej choroby - Medonet",
@@ -215,7 +215,7 @@
       "date": "2026-06-25T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
+      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
     },
     {
       "title": "Świąd, bezsenność, depresja. Prof. Nowicki: ciężkości AZS nie można oceniać wyłącznie po zmianach skórnych - Puls Medycyny",
@@ -271,7 +271,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
+      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -540,12 +540,12 @@
       "summary": "Tlenoterapia hiperbaryczna jest dobrze tolerowana w przypadku opornego na leczenie wrzodziejącego zapalenia jelita grubego i poprawia wyniki kliniczne wraz z poprawą perfuzji jelit."
     },
     {
-      "title": "Orv Hetil – Lista treści – Medscape",
-      "url": "https://www.medscape.com/viewpublication/8060_992",
-      "date": "2026-06-25T05:09:01Z",
+      "title": "Czynniki kostne są niewystarczająco wykorzystywane i zmniejszają się w leczeniu raka prostaty - Medscape",
+      "url": "https://www.medscape.com/viewarticle/bone-agents-underused-and-declining-prostate-cancer-2026a1000lih",
+      "date": "2026-06-25T04:55:16Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Orv Hetil – Lista treści Medscape."
+      "summary": "Wielu pacjentów z opornym na kastrację rakiem prostaty z przerzutami nie otrzymuje środków modyfikujących kości pomimo zatwierdzenia wytycznych."
     },
     {
       "title": "Niejednorodność ciężkiej astmy w Europie: opinia SHARP-a - The Lancet",
@@ -644,14 +644,6 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 827, z dniem ogłoszenia 2026-06-23."
-    },
-    {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 3 czerwca 2026 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/754",
-      "date": "2026-06-03T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 754, z dniem ogłoszenia 2026-06-10."
     }
   ],
   "epidemiology": [
@@ -696,20 +688,20 @@
       "summary": "W okresie od stycznia do maja 2026 r. zgłoszono 109 potwierdzonych przypadków Salmonella Bovismorbificans ST377 z 10 krajów Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) (Austria, Belgia, Czechy, Dania, Finlandia, Niemcy, Irlandia, Luksemburg, Hiszpania i Holandia) oraz Wielkiej Brytanii."
     },
     {
-      "title": "Eksperci One Health w Lyonie wytyczają ścieżkę od zaangażowania do skoordynowanych działań w zakresie budowania potencjału – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news/item/25-06-2026-one-health-experts-in-lyon-chart-path-from-commitment-to-coordinated-action-on-capacity-building",
-      "date": "2026-06-25T11:48:45Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "W kwietniu przywódcy środowisk akademickich, rządowych i organizacji międzynarodowych zebrali się w Lyonie we Francji podczas festiwalu One Health, aby wzmocnić globalną współpracę w zakresie uczenia się i budowania potencjału w ramach One Health. Spotkanie dostarczyło jasnych wezwań do działania: wyjścia poza podnoszenie świadomości do praktycznego, skalowalnego wdrożenia oraz nadania priorytetu inwestycjom w ludzi i partnerstw międzysektorowych przed tworzeniem nowych ram. Uczestnicy docenili silny globalny impet i bogactwo istniejących inicjatyw „Jedno zdrowie”. Głównym zidentyfikowanym wyzwaniem było jednak przekształcenie koncepcji One Health w skoordynowane, mierzalne i operacyjne działania."
-    },
-    {
       "title": "Od konsultacji do partnerstwa: Komisja Społeczeństwa Obywatelskiego WHO planuje kolejny etap - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/25-06-2026-from-consultation-to-partnership--who-civil-society-commission-charts-next-phase",
       "date": "2026-06-25T11:48:32Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "W dniu 2 kwietnia 2026 r. Komisja Społeczeństwa Obywatelskiego WHO (CSC) odbyła swoje trzecie doroczne zgromadzenie ogólne, w którym wzięło udział ponad 120 uczestników w celu podsumowania postępów i ustalenia priorytetów na lata 2026–2028."
+    },
+    {
+      "title": "Eksperci One Health w Lyonie wytyczają ścieżkę od zaangażowania do skoordynowanych działań w zakresie budowania potencjału – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/25-06-2026-one-health-experts-in-lyon-chart-path-from-commitment-to-coordinated-action-on-capacity-building",
+      "date": "2026-06-25T11:48:32Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "W kwietniu przywódcy środowisk akademickich, rządowych i organizacji międzynarodowych zebrali się w Lyonie we Francji podczas festiwalu One Health, aby wzmocnić globalną współpracę w zakresie uczenia się i budowania potencjału w ramach One Health. Spotkanie dostarczyło jasnych wezwań do działania: wyjścia poza podnoszenie świadomości do praktycznego, skalowalnego wdrożenia oraz nadania priorytetu inwestycjom w ludzi i partnerstw międzysektorowych przed tworzeniem nowych ram. Uczestnicy docenili silny globalny impet i bogactwo istniejących inicjatyw „Jedno zdrowie”. Głównym zidentyfikowanym wyzwaniem było jednak przekształcenie koncepcji One Health w skoordynowane, mierzalne i operacyjne działania."
     },
     {
       "title": "Ruszyły już zapisy na ESCAIDE 2026, wiodącą europejską konferencję na temat zdrowia publicznego, odbywającą się w Sztokholmie i online – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -897,6 +889,14 @@
     }
   ],
   "clinical_trials": [
+    {
+      "title": "Medycyna przyrodnicza wycofuje badanie dotyczące czasu trwania wirusowego raka płuc po czteromiesięcznym badaniu – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/nature-medicine-retracts-viral-lung-cancer-timing-study-four-month-investigation",
+      "date": "2026-06-25T18:25:03Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Nature Medicine wycofuje badanie dotyczące czasu trwania wirusowego raka płuc po czteromiesięcznych badaniach klinicznych prowadzonych online."
+    },
     {
       "title": "FDA ostrzega Amazon przed sprzedażą niezatwierdzonych leków na penisa",
       "url": "https://www.trialsitenews.com/a/fda-warns-amazon-over-fulfilled-sales-of-unapproved-penile-treatment-drugs-70c41b3e",
@@ -1268,6 +1268,22 @@
       "summary": "Rod Wong z RTW broni udzielania licencji Chinom, twierdzi, że to hoduje amerykańskie ciasto biotechnologiczne i odpowiada na krytykę wprowadzenia Serapha Bio na rynek."
     },
     {
+      "title": "Bardzo niewielu mężczyzn omawia z lekarzem badania przesiewowe w kierunku raka prostaty – Drugs.com",
+      "url": "https://www.drugs.com/news/very-few-men-discuss-prostate-cancer-screening-their-doctor-130452.html",
+      "date": "2026-06-25T17:09:32Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Bardzo niewielu mężczyzn omawia badania przesiewowe w kierunku raka prostaty ze swoim lekarzem Drugs.com."
+    },
+    {
+      "title": "Estrogenowa antykoncepcja może chronić mózgi kobiet w miarę starzenia się – Drugs.com",
+      "url": "https://www.drugs.com/news/estrogen-birth-control-may-protect-women-s-brains-they-age-130454.html",
+      "date": "2026-06-25T16:59:02Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Estrogenowa antykoncepcja może chronić mózgi kobiet w miarę starzenia się Drugs.com."
+    },
+    {
       "title": "Remiks upubliczniony w wyniku odwrotnej fuzji z niegdyś świetnie prosperującym Passage Bio – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/passage-bio-remix-reverse-merger-gene-therapy-wilson/823775/",
       "date": "2026-06-25T16:33:23Z",
@@ -1370,14 +1386,6 @@
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "Jubilant HollisterStier, jednostka CDMO indyjskiej firmy Jubilant Pharmova, zarobiła."
-    },
-    {
-      "title": "Desmoda Ceny, kupony, karty Copay i pomoc dla pacjenta - Drugs.com",
-      "url": "https://www.drugs.com/price-guide/desmoda",
-      "date": "2026-06-25T10:40:29Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Desmoda Ceny, kupony, karty Copay i leki pomagające pacjentom.com."
     },
     {
       "title": "Firma zajmująca się chorobami autoimmunologicznymi Oblenio Bio zdobywa 62 mln dolarów pod przewodnictwem Pfizer Ventures - Endpoints News",
@@ -1538,14 +1546,6 @@
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "Eli Lilly i Astellas będą głównymi oferentami na aukcji aktywów Sangamo. W innym miejscu syndykat inwestorów przeznaczył 230 milionów dolarów na start-up zajmujący się edycją genów, a firma Merck KGaA zawarła umowę „budowa na zakup”."
-    },
-    {
-      "title": "FDA zatrudnia 2200 osób po zeszłorocznych cięciach DOGE – BioSpace",
-      "url": "https://www.biospace.com/fda/fda-hiring-2-200-people-to-staff-up-after-last-years-doge-cuts",
-      "date": "2026-06-24T14:43:53Z",
-      "source": "BioSpace",
-      "confirmed_by": 1,
-      "summary": "Do tej pory FDA zatrudniła 600 nowych pracowników i poszukuje kolejnych 1600, ponieważ tymczasowe kierownictwo agencji ma na celu odbudowanie siły roboczej i morale po ponad roku intensywnego ubytku."
     },
     {
       "title": "Ollin uzupełnia kwotę 330 mln dolarów na wsparcie kluczowych testów pretendenta Vabysmo - BioPharma Dive",
