@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T15:22:02Z",
+  "last_updated": "2026-06-25T15:26:10Z",
   "poland": [
     {
       "title": "Podpisano umowę o dofinansowanie projektu FERS dla Państwowego Instytutu Medycznego MSWiA - Gov.pl",
@@ -18,20 +18,12 @@
       "summary": "Czy system badań przyłóżkowych (POCT) w Polsce jest wystarczająco uregulowany prawnie? A może kluczowe przepisy są rozproszone w wielu aktach prawnych i..."
     },
     {
-      "title": "Ogłoszenie o zamówieniu - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/bip/zamowienia-publiczne/ogloszenie-o-zamowieniu-nfz-bag-szp-251-17-2026,6907.html",
-      "date": "2026-06-25T14:34:50Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
-      "summary": "Wychodząc naprzeciw oczekiwaniom rynku postanowiliśmy wdrażać Platformę Marketplanet e-Zamawiajacy, która w przyszłości będzie podstawowym narzędziem, które umożliwi Państwu składanie ofert na..."
-    },
-    {
       "title": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” - Alert Medyczny",
       "url": "https://alertmedyczny.pl/ministra-zdrowia-uspokaja-ws-podwyzek-medykow-od-1-lipca-zapisy-ustawy-zostana-zrealizowane/",
       "date": "2026-06-25T14:30:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
+      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
     },
     {
       "title": "Sobierańska-Grenda o Szpitalu Południowym: państwo zareagowało w sposób natychmiastowy - PolitykaZdrowotna.com",
@@ -63,7 +55,7 @@
       "date": "2026-06-25T13:44:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Urtica poinformowała o prawdopodobnym wycieku danych osobowych. Sprawdź, jakie dane mogły zostać ujawnione i jakie zalecenia wydano."
+      "summary": "Urtica informuje o prawdopodobnym wycieku danych osobowych. Spółka zgłasza incydent do UODO Alert Medyczny."
     },
     {
       "title": "\"Pacjent wyjechał na wózku\". Nawet 800 zgonów rocznie z powodu tej choroby - Medonet",
@@ -94,7 +86,7 @@
       "url": "https://www.nfz.gov.pl/bip/petycje/zlozone-petycje/petycja-11092024,105.html",
       "date": "2026-06-25T13:13:02Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Biuletyn Informacji Publicznej Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -143,7 +135,7 @@
       "date": "2026-06-25T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
+      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
     },
     {
       "title": "Jak nawodnić organizm? Sposoby na prawidłowe nawodnienie podczas upałów - DOZ",
@@ -167,7 +159,7 @@
       "date": "2026-06-25T11:51:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Senat przyjął ustawę zmieniającą zasady przekazywania danych o wynagrodzeniach medyków do AOTMiT. Dane będą powiązane z PESEL lub PWZ."
+      "summary": "Senat przyjął ustawę o wynagrodzeniach medyków. Dane trafią do AOTMiT z numerem PESEL lub PWZ Alert Medyczny."
     },
     {
       "title": "Czy można ograniczyć stosowanie deksametazonu w profilaktyce CINV? - Termedia",
@@ -192,6 +184,14 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Już od początku lipca pacjenci zyskają dostęp do kolejnych refundowanych preparatów zawierających dapagliflozynę. Ministerstwo Zdrowia podkreśla jednak, że nowe zasady nie obejmą wszystkich zastosowań tej substancji. O zakresie refundacji zdecydowały obowiązujące regulacje patentowe oraz konkretne kryteria medyczne."
+    },
+    {
+      "title": "Biuletyn Informacji Publicznej Świętokrzyskiego OW NFZ - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/biuletyn-informacji-publicznej-swietokrzyskiego-ow-nfz/omunikaty/",
+      "date": "2026-06-25T10:49:59Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Biuletyn Informacji Publicznej Świętokrzyskiego OW NFZ Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
       "title": "Karolina Sawicka. Decyzja o wprowadzeniu dopłaty do urlopu macierzyńskiego to dla nas strategiczna inwestycja w kapitał ludzki i realny krok w stronę budowania pełnej równości płci w strukturach holdingu - Medonet",
@@ -356,14 +356,6 @@
       "summary": "Konsultanci i lekarze specjaliści w Irlandii Północnej rozpoczęli bezprecedensowe strajki w sprawie wynagrodzeń. Chociaż nie jest to całkowity strajk, oznacza to, że od godziny 7:00 25 czerwca do godziny 6:59 następnego dnia dostępna będzie wyłącznie ochrona w nagłych wypadkach, zwana „ochroną na Boże Narodzenie”. To pierwsze takie działanie konsultantów i specjalistów w regionie."
     },
     {
-      "title": "Niemcy stoją w obliczu amerykańskiego dochodzenia handlowego w sprawie cen leków, podczas gdy Berlin trzyma się planów reform – BMJ",
-      "url": "https://www.bmj.com/content/393/bmj-2026-100080",
-      "date": "2026-06-25T12:45:47Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Niemcy stoją przed amerykańskim dochodzeniem handlowym w związku z tym, co administracja Trumpa określa jako „utrzymujące się niedopłaty” za innowacyjne leki. Jamieson Greer, przedstawiciel USA ds. handlu, powiedział, że dochodzenie wykaże, czy praktyki cenowe Berlina w zakresie opatentowanych leków były „nieuzasadnione lub dyskryminujące” oraz „obciążały lub ograniczały” handel w USA1. Dochodzenie wszczęto w czasie, gdy prezydent Donald Trump prowadził negocjacje z kilkunastu firmami farmaceutycznymi w sprawie obniżenia cen leków w USA, stosując ceny ustalane w kilku krajach o wysokich dochodach, w tym w Niemczech, jako punkty odniesienia. Jest następstwem wielomiesięcznych rozmów między urzędnikami amerykańskimi i niemieckimi próbującymi rozstrzygnąć spór."
-    },
-    {
       "title": "Brak różnic między płciami w przypadku zgonów po anafilaksji – Medscape",
       "url": "https://www.medscape.com/viewarticle/no-gender-disparity-deaths-after-anaphylaxis-2026a1000lnc",
       "date": "2026-06-25T12:21:04Z",
@@ -524,6 +516,14 @@
       "summary": "Tlenoterapia hiperbaryczna jest dobrze tolerowana w przypadku opornego na leczenie wrzodziejącego zapalenia jelita grubego i poprawia wyniki kliniczne wraz z poprawą perfuzji jelit."
     },
     {
+      "title": "Niejednorodność ciężkiej astmy w Europie: opinia SHARP-a - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(26)00165-7/fulltext",
+      "date": "2026-06-25T02:58:56Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Heterogeniczność ciężkiej astmy w Europie: opinia SHARP The Lancet."
+    },
+    {
       "title": "CME | Tygodnik NEJM CME – The New England Journal of Medicine",
       "url": "https://cme.nejm.org/weekly/10.1056/NEJMcme2600929",
       "date": "2026-06-25T00:59:01Z",
@@ -556,12 +556,12 @@
       "summary": "Skuteczność i bezpieczeństwo tirofibanu po skutecznej reperfuzji wewnątrznaczyniowej w ostrym udarze niedokrwiennym (ATTRACTION) w Chinach: wieloośrodkowe, podwójnie ślepe, randomizowane badanie kontrolowane The Lancet."
     },
     {
-      "title": "Nauka z australijskiej polityki dotyczącej ograniczeń wiekowych w mediach społecznościowych – The BMJ",
-      "url": "https://www.bmj.com/content/393/bmj-2026-100017",
-      "date": "2026-06-24T23:28:24Z",
+      "title": "Ograniczenia w mediach społecznościowych wymagają terminowej i skoordynowanej oceny – BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-100020",
+      "date": "2026-06-24T23:28:08Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Dowody wskazują, że samo ustawodawstwo nie wystarczy Rządy na całym świecie rozważają wprowadzenie ograniczeń wiekowych dla mediów społecznościowych w związku z obawami dotyczącymi szkód w Internecie i zdrowia psychicznego123. W czerwcu 2026 r. rząd Wielkiej Brytanii ogłosił, że wprowadzi przepisy, wyraźnie wzorowane na podejściu Australii, zakazujące platformom mediów społecznościowych oferowania usług osobom poniżej 16. roku życia, przy czym ochrona ma nastąpić wiosną 2027 r.4 Jednak pierwsza prospektywna ocena krajowych ograniczeń wiekowych w mediach społecznościowych wykazała w dużej mierze zerowe ustalenia, a ich interpretacja jest nie proste. W powiązanym badaniu (doi:10.1136/bmj-2026-363695) Barnes i współpracownicy przedstawiają ograniczone dowody na krótkoterminowy wpływ australijskiej ustawy o minimalnym wieku mediów społecznościowych na korzystanie przez nastolatków z mediów społecznościowych.5 Wyniki nieuchronnie ukształtują debaty w krajach rozważających podobną politykę. Kluczowym pytaniem nie jest jednak to, czy polityka ta okazała się skuteczna."
+      "summary": "Polityka publiczna jest jednym z najpotężniejszych narzędzi dostępnych rządom w celu poprawy zdrowia publicznego. Australijskie ustawodawstwo dotyczące minimalnego wieku w mediach społecznościowych to polityka o znacznym potencjale oddziaływania w Australii i na arenie międzynarodowej. Ma na celu zmniejszenie (lub opóźnienie) narażenia na szkody w Internecie i wspieranie zdrowszego rozwoju w okresie dojrzewania."
     },
     {
       "title": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej - The Lancet",
@@ -572,12 +572,28 @@
       "summary": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej The Lancet."
     },
     {
+      "title": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a - The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00904-9/fulltext",
+      "date": "2026-06-24T23:27:42Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a The Lancet."
+    },
+    {
       "title": "Aby sprostać szybko zmieniającym się potrzebom, potrzebne są nowe rozwiązania: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach - The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01187-6/fulltext?rss=yes",
       "date": "2026-06-24T23:26:15Z",
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Aby sprostać szybko zmieniającym się potrzebom, konieczne są nowe reakcje: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach The Lancet."
+    },
+    {
+      "title": "Ocena wczesnego wpływu australijskiej ustawy o minimalnym wieku mediów społecznościowych na korzystanie przez młodzież z mediów społecznościowych: badanie obserwacyjne – The BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-363695",
+      "date": "2026-06-24T22:44:05Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Cele Zbadanie wczesnego wpływu pierwszej na świecie polityki krajowej (Ustawa o minimalnym wieku mediów społecznościowych z 2024 r., która ustaliła minimalny krajowy wiek posiadania kont w wyznaczonych platformach mediów społecznościowych na 16 lat) na korzystanie z mediów społecznościowych przez młodzież oraz opisanie korzystania przez młodzież z platform mediów społecznościowych podlegających ustawie, doświadczenia ze strategiami weryfikacji wieku, wszelkich wysiłków zmierzających do ich obejścia oraz wszelkich dostrzeganych substytucji lub przemieszczeń behawioralnych. Projekt Badanie obserwacyjne. Ustawianie Badanie społeczne przeprowadzone w całej Australii."
     },
     {
       "title": "Wydatki na opiekę zdrowotną w USA gwałtownie wzrosły w 2025 r. dzięki stosowaniu GLP-1 i większej opiece zdrowotnej – statnews.com",
@@ -594,22 +610,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
-    },
-    {
-      "title": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania różnymi metodami – The Lancet",
-      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00285-3/fulltext",
-      "date": "2026-06-24T13:24:41Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania przeprowadzonego różnymi metodami The Lancet."
-    },
-    {
-      "title": "Łączony przeszczep pęcherza i nerki: pierwsza próba wykonalności na ludziach - The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00718-X/abstract",
-      "date": "2026-06-24T07:56:28Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Łączony przeszczep pęcherza i nerki: pierwsza próba wykonalności na ludziach The Lancet."
     }
   ],
   "guidelines": [
@@ -620,14 +620,6 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 827, z dniem ogłoszenia 2026-06-23."
-    },
-    {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 3 czerwca 2026 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/754",
-      "date": "2026-06-03T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 754, z dniem ogłoszenia 2026-06-10."
     }
   ],
   "epidemiology": [
