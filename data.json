@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T01:14:00Z",
+  "last_updated": "2026-06-25T01:14:44Z",
   "poland": [
     {
       "title": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. - Alert Medyczny",
@@ -7,7 +7,7 @@
       "date": "2026-06-24T23:28:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. Alert Medyczny."
+      "summary": "MZ wyjaśnia zasady refundacji generyków dapagliflozyny od 1 lipca 2026 r. Sprawdź wskazania, ograniczenia patentowe i zasady zamiany leków."
     },
     {
       "title": "Leczenie ran i oparzeń w gabinecie lekarza rodzinnego - TRANSMISJA VIP | Webinar - Termedia",
@@ -55,7 +55,7 @@
       "date": "2026-06-24T15:49:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Eli Lilly rozszerza współpracę z Abbisko Therapeutics. Umowa może być warta 1,9 mld dolarów Alert Medyczny."
+      "summary": "Abbisko Therapeutics i Eli Lilly podpisały umowę R&D o potencjalnej wartości 1,9 mld dolarów na rozwój innowacyjnych terapii i nowych leków."
     },
     {
       "title": "Trójstronny Zespół ds. Ochrony Zdrowia przerywa obrady. Strona społeczna żąda planu od rządu - Alert Medyczny",
@@ -63,7 +63,7 @@
       "date": "2026-06-24T14:49:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Trójstronny Zespół ds. Ochrony Zdrowia przerywa obrady. Strona społeczna żąda planu od rządu Alert Medyczny."
+      "summary": "Strona społeczna Trójstronnego Zespołu ds. Ochrony Zdrowia przerwała obrady i oczekuje od rządu planu zmian oraz stabilizacji finansów NFZ."
     },
     {
       "title": "Stanowisko Minister Zdrowia - Gov.pl",
@@ -98,28 +98,12 @@
       "summary": "Fala upałów może być groźna nie tylko dla zdrowia, ale także dla osób przyjmujących leki. Wysokie temperatury wpływają na działanie niektórych preparatów, zwiększając ryzyko odwodnienia, spadków ciśnienia czy groźnych działań niepożądanych. Eksperci ostrzegają, że szczególną ostrożność powinny zachować osoby starsze i przewlekle chore.Alternatywnie, mocniejsza wersja:."
     },
     {
-      "title": "Informacja dot. zleconej kontroli SOR Warszawskiego Szpitala Południowego sp. z o.o. i SOR Mazowieckiego Szpitala Bródnowskiego sp. z o.o. - Gov.pl",
-      "url": "https://www.gov.pl/web/zdrowie/informacja-dot-zleconej-kontroli-sor-warszawskiego-szpitala-poludniowego-sp-z-oo-i-sor-mazowieckiego-szpitala-brodnowskiego-sp-z-oo",
-      "date": "2026-06-24T14:21:43Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Minister Zdrowia zlecił Wojewodzie Mazowieckiemu oraz Konsultantowi Krajowemu w dziedzinie Medycyny Ratunkowej przeprowadzenie kontroli w SOR Warszawskiego Szpitala Południowego sp. z o.o. i SOR Mazowieckiego Szpitala Bródnowskiego sp."
-    },
-    {
       "title": "W Elblągu neurochirurdzy usunęli rozległego guza przysadki - Podyplomie.pl",
       "url": "https://www.podyplomie.pl/aktualnosci/w-elblagu-neurochirurdzy-usuneli-rozleglego-guza-przysadki",
       "date": "2026-06-24T14:02:00Z",
       "source": "Medycyna po Dyplomie",
       "confirmed_by": 1,
       "summary": "Zabieg przeprowadzono na bloku operacyjnym doposażonym dzięki środkom z Krajowego Planu Odbudowy."
-    },
-    {
-      "title": "Premier: partnerem do rozmów z NIL jest MZ - Z kraju - Kurier - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/kurier/442296,premier-partnerem-do-rozmow-z-nil-jest-mz",
-      "date": "2026-06-24T13:55:01Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Reprezentanci środowiska lekarskiego raczej stawali na głowie, żeby koncentrować się na ochronie uprzywilejowanej pozycji niektórych lekarzy, a nie na realnej kontroli i zmianie stanu rzeczy – powiedział w środę premier Donald Tusk."
     },
     {
       "title": "Przełom w leczeniu raka płuca. Część chorych może żyć nawet 7 lat bez progresji choroby [ASCO 2026] - Puls Medycyny",
@@ -212,6 +196,14 @@
   ],
   "world": [
     {
+      "title": "Strategia wobec gruźlicy opornej na ryfampicynę – The New England Journal of Medicine",
+      "url": "https://www.nejm.org/do/10.1056/NEJMdo008541/full/",
+      "date": "2026-06-24T23:58:29Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Strategia dla gruźlicy opornej na ryfampicynę The New England Journal of Medicine."
+    },
+    {
       "title": "Ograniczenia w mediach społecznościowych wymagają terminowej i skoordynowanej oceny – BMJ",
       "url": "https://www.bmj.com/content/393/bmj-2026-100020",
       "date": "2026-06-24T23:28:08Z",
@@ -226,14 +218,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Kliniczne implikacje małego dojrzewania The New England Journal of Medicine."
-    },
-    {
-      "title": "Przypadek 18-2026: 53-letni mężczyzna z osłabieniem, bólem i utratą masy ciała w nogach — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMcpc2517891",
-      "date": "2026-06-24T22:20:38Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przypadek 18-2026: 53-letni mężczyzna z osłabieniem, bólem i utratą masy ciała w nogach, The New England Journal of Medicine."
     },
     {
       "title": "Zapobieganie i leczenie alergii na orzeszki ziemne — The New England Journal of Medicine",
@@ -257,7 +241,7 @@
       "date": "2026-06-24T18:53:06Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "Schuele i in. podzielą się praktycznymi spostrzeżeniami ze wspólnych inicjatyw w regionie Wielkich Jezior Afrykańskich, których celem jest poszerzenie dostępu do nadzoru genomicznego patogenu. Wskazują na zastosowania, kluczowe wyzwania i rozwiązania specyficzne dla kontekstu w zakresie ustanawiania i utrzymywania lokalnego potencjału sekwencjonowania."
+      "summary": "Budowanie potencjału w zakresie nadzoru genomicznego mpoxu i innych pojawiających się chorób w obszarach o ograniczonych zasobach w regionie Wielkich Jezior Afrykańskich."
     },
     {
       "title": "AI wkracza w irytującą tajemnicę medyczną: co powoduje nagłą śmierć sercową? - statnews.com",
@@ -300,7 +284,7 @@
       "summary": "U dzieci z nieswoistym zapaleniem jelit utrzymujący się ból kości może sygnalizować przewlekłe, niebakteryjne zapalenie kości i szpiku, rzadkie schorzenie, które często dotyka kończyn dolnych i miednicy."
     },
     {
-      "title": "Obstawiając zmiany FDA, Regenxbio przedstawi terapię genową Duchenne’a do zatwierdzenia – statnews.com",
+      "title": "Obstawiając zmiany FDA, Regenxbio przedstawi do zatwierdzenia terapię genową Duchenne’a – statnews.com",
       "url": "https://www.statnews.com/2026/06/24/regenxbio-duchenne-gene-therapy-fda-submission/",
       "date": "2026-06-24T11:59:47Z",
       "source": "STAT News",
@@ -568,7 +552,7 @@
       "summary": "Celem tego szybkiego przeglądu systematycznego było zidentyfikowanie i ocena siły i spójności powiązań między klinicznymi czynnikami ryzyka a ciężkimi skutkami zakażenia RSV u dorosłych."
     },
     {
-      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 rok – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Inwazyjna choroba meningokokowa – Roczny raport epidemiologiczny za 2024 r. – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/invasive-meningococcal-disease-annual-epidemiological-report-2024",
       "date": "2026-06-23T08:46:01Z",
       "source": "ECDC",
@@ -576,7 +560,7 @@
       "summary": "W 2024 r. w 30 krajach Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) zgłoszono 2233 potwierdzonych przypadków inwazyjnej choroby meningokokowej (IMD), w tym 202 zgony."
     },
     {
-      "title": "Ryc. 3 – Ciężkie choroby układu oddechowego i śmierć związane z epidemią ludzkiego rinowirusa B14 wśród osób starszych, Francja, 2024 r. – tom 32, numer 5 – maj 2026 r. – Czasopismo Emerging Infectious Diseases – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Ryc. 3 – Ciężkie choroby układu oddechowego i śmierć związane z epidemią ludzkiego rinowirusa B14 wśród osób starszych, Francja, 2024 r. – tom 32, numer 5 – maj 2026 r. – czasopismo Emerging Infectious Diseases – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/5/25-0981-f3",
       "date": "2026-06-22T19:10:54Z",
       "source": "CDC Outbreaks",
@@ -624,14 +608,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07664059 | Ocena postawy u pacjentów z wadami zgryzu ClinicalTrials.gov."
-    },
-    {
-      "title": "Szczegóły badania | NCT07662512 | Różne stężenia ozonu w chorobie zwyrodnieniowej stawu kolanowego – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07662512",
-      "date": "2026-06-24T06:51:58Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07662512 | Różne stężenia ozonu w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
     },
     {
       "title": "Od gromadzenia do zaufania: dlaczego wiarygodność danych z badań klinicznych zaczyna się wcześnie - Arena Badań Klinicznych",
@@ -772,7 +748,7 @@
       "summary": "Ionis uzyskuje zgodę FDA na rozszerzenie Tryngolza na ciężką hipertriglicerydemię, rynek znacznie większy niż rzadkie wprowadzenie na rynek FCS, przy czym szczytowa sprzedaż w USA przekracza 3 miliardy dolarów."
     },
     {
-      "title": "FDA wspiera Trodelvy firmy Gilead w leczeniu potrójnie ujemnego raka piersi pierwszego rzutu - Endpoints News",
+      "title": "FDA wspiera lek Trodelvy firmy Gilead w leczeniu potrójnie ujemnego raka piersi pierwszego rzutu - Endpoints News",
       "url": "https://endpoints.news/fda-backs-gileads-trodelvy-for-first-line-triple-negative-breast-cancer/",
       "date": "2026-06-24T20:19:00Z",
       "source": "Endpoints News",
@@ -793,7 +769,7 @@
       "date": "2026-06-24T18:12:57Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Bardziej ukierunkowany format inspekcji monitorujących badania biologiczne stosowany przez agencję może prowadzić do mniejszej liczby obserwacji na formularzu 483, powiedział urzędnik FDA podczas dorocznego spotkania DIA."
+      "summary": "Bardziej ukierunkowany format inspekcji monitorujących badania biologiczne, stosowany przez agencję, może skutkować mniejszą liczbą obserwacji na formularzu 483, powiedział urzędnik FDA podczas dorocznego spotkania DIA."
     },
     {
       "title": "Przebudowa serca może zwiastować ryzyko raka",
@@ -836,7 +812,7 @@
       "summary": "Niektórzy analitycy twierdzą, że nawet dla konkurentów duże zwycięstwo Definium Therapeutics w badaniach klinicznych pomaga zweryfikować dziedzinę psychedeliczną i „wprowadzić ją jeszcze bardziej do głównego nurtu”."
     },
     {
-      "title": "Dyrektor Lilly twierdzi, że MFN będzie miało wpływ na strategię firmy dotyczącą wprowadzenia tabletek na odchudzanie w Europie: raport – Fierce Pharma",
+      "title": "Dyrektor Lilly twierdzi, że MFN będzie mieć wpływ na strategię firmy dotyczącą wprowadzenia tabletek na odchudzanie w Europie: raport – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/lilly-exec-says-company-will-focus-telehealth-sales-obesity-pill-europe-report",
       "date": "2026-06-24T15:20:12Z",
       "source": "FiercePharma",
@@ -876,7 +852,7 @@
       "summary": "Eli Lilly i Astellas będą głównymi oferentami na aukcji aktywów Sangamo. W innym miejscu syndykat inwestorów przeznaczył 230 milionów dolarów na start-up zajmujący się edycją genów, a firma Merck KGaA zawarła umowę „budowa na zakup”."
     },
     {
-      "title": "FDA zatrudni 2200 osób po zeszłorocznych cięciach DOGE – BioSpace",
+      "title": "FDA zatrudnia 2200 osób po zeszłorocznych cięciach DOGE – BioSpace",
       "url": "https://www.biospace.com/fda/fda-hiring-2-200-people-to-staff-up-after-last-years-doge-cuts",
       "date": "2026-06-24T14:43:53Z",
       "source": "BioSpace",
@@ -884,7 +860,7 @@
       "summary": "Do tej pory FDA zatrudniła 600 nowych pracowników i poszukuje kolejnych 1600, ponieważ tymczasowe kierownictwo agencji ma na celu odbudowanie siły roboczej i morale po ponad roku intensywnego ubytku."
     },
     {
-      "title": "Naukowcy twierdzą, że Belly śmieje się z prymitywnego mózgu - Drugs.com",
+      "title": "Naukowcy twierdzą, że Belly śmieje się z prymitywnego mózgu",
       "url": "https://www.drugs.com/news/belly-laughs-spring-primitive-brain-researchers-say-130440.html",
       "date": "2026-06-24T14:36:54Z",
       "source": "Drugs.com",
@@ -906,6 +882,14 @@
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "AdvanCell, twórca radiofarmaceutyków na etapie klinicznym, już to zrobił."
+    },
+    {
+      "title": "UNII-62LN840SFZ | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
+      "url": "https://precision.fda.gov/uniisearch/srs?search=62LN840SFZ",
+      "date": "2026-06-24T12:16:04Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
     },
     {
       "title": "BostonGene zaprezentuje innowacje AI na targach BIO 2026 - BioSpace",
@@ -930,14 +914,6 @@
       "source": "Pink Sheet",
       "confirmed_by": 1,
       "summary": "Kontynuacją dorocznego spotkania BIO jest to, że dyrektorzy firm farmaceutycznych reagują na potencjalne przepisy blokujące umowy z Chinami, przyglądają się wpływowi polityki cenowej kraju najbardziej uprzywilejowanego na warunki transakcji, nowy zestaw narzędzi sztucznej inteligencji firmy NVIDIA do zastosowań w naukach przyrodniczych oraz wysiłki FDA w zakresie rekrutacji."
-    },
-    {
-      "title": "NIEKTÓRE - 9NZ7111A9O | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
-      "url": "https://precision.fda.gov/uniisearch/srs?search=9NZ7111A9O",
-      "date": "2026-06-24T00:24:03Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
     },
     {
       "title": "FDA zatwierdza sacituzumab govitecan-hziy w monoterapii i w leczeniu skojarzonym - fda.gov",
@@ -1016,20 +992,20 @@
       "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
     },
     {
+      "title": "Strategia wobec gruźlicy opornej na ryfampicynę – The New England Journal of Medicine",
+      "url": "https://www.nejm.org/do/10.1056/NEJMdo008541/full/",
+      "date": "2026-06-24T23:58:29Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Strategia dla gruźlicy opornej na ryfampicynę The New England Journal of Medicine."
+    },
+    {
       "title": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. - Alert Medyczny",
       "url": "https://alertmedyczny.pl/dapagliflozyna-mz-wyjasnia-zasady-refundacji-generykow-od-1-lipca-2026-r/",
       "date": "2026-06-24T23:28:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. Alert Medyczny."
-    },
-    {
-      "title": "Miesiąc samoopieki 2026 – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/self-care-month-2026",
-      "date": "2026-06-24T23:08:31Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Testuj – kiedy potrzebujesz linii bazowej. Aby pomóc w utrzymaniu i poprawie swojego zdrowia i dobrego samopoczucia, potrzebujesz jasnego obrazu tego, gdzie jesteś teraz."
+      "summary": "MZ wyjaśnia zasady refundacji generyków dapagliflozyny od 1 lipca 2026 r. Sprawdź wskazania, ograniczenia patentowe i zasady zamiany leków."
     }
   ]
 }
