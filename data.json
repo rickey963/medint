@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T21:03:02Z",
+  "last_updated": "2026-06-25T21:03:49Z",
   "poland": [
     {
       "title": "Dawid Kacprzyk chce współpracować z prokuraturą? Mec. Dubois: wobec mojego klienta toczy się lincz - Puls Medycyny",
@@ -32,14 +32,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "19 Konferencja Zdrowe Kości i Stawy - POLECAMY | Konferencja stacjonarna Termedia."
-    },
-    {
-      "title": "Odwrócona strona endoprotezoplastyki barku - PARTNERZY | Konferencja stacjonarna - Termedia",
-      "url": "https://www.termedia.pl/Konferencja-Odwrocona-strona-endoprotezoplastyki-barku-PARTNERZY,3028,44742.html",
-      "date": "2026-06-25T18:30:55Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "Odwrócona strona endoprotezoplastyki barku - PARTNERZY | Konferencja stacjonarna Termedia."
     },
     {
       "title": "Atak nożownika w szpitalu w Jastrzębiu-Zdroju. Są ranni wśród personelu i pacjentów - Medonet",
@@ -186,6 +178,14 @@
       "summary": "W Wojewódzkim Szpitalu w Tarnobrzegu wykonano pierwsze w województwie podkarpackim zabiegi endoprotezoplastyki stawu kolanowego z wykorzystaniem systemu..."
     },
     {
+      "title": "Tego najbardziej potrzebują pacjenci onkologiczni - Termedia",
+      "url": "https://www.termedia.pl/onkologia/Tego-najbardziej-potrzebuja-pacjenci-onkologiczni,67874.html",
+      "date": "2026-06-25T13:57:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Czas na komunikację lekarza z pacjentem, godność pacjenta, jego seksualne potrzeby, strefę odpoczynku, ale także dostęp do kultury i sztuki – na te czynniki w kontekście poprawy dobrostanu hospitalizowanych pacjentów onkologicznych najczęściej wskazywali uczestnicy sejmowego zespołu ds. profilaktyki nowotworowej."
+    },
+    {
       "title": "\"Pacjent wyjechał na wózku\". Nawet 800 zgonów rocznie z powodu tej choroby - Medonet",
       "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-zakazne/mialem-na-oddziale-kilka-zgonow-pierwsze-objawy-kleszczowego-zapalenia-mozgu-sa-mylace/df03drg",
       "date": "2026-06-25T13:32:00Z",
@@ -290,14 +290,6 @@
       "summary": "To o poczekalnię najczęściej pytają pacjenci, którzy korzystają już z centralnej e-rejestracji. Dowiedz się, jak działa i może Ci pomóc w umówieniu wizyty u lekarza specjalisty."
     },
     {
-      "title": "Doświadczenia z dzieciństwa zostawiają komórkowy ślad na całe życie - Aktualności - Genetyka - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/genetyka/aktualnosci/442345,doswiadczenia-z-dziecinstwa-zostawiaja-komorkowy-slad-na-cale-zycie",
-      "date": "2026-06-25T08:22:25Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Wydarzenia i przeżycia z wczesnych etapów życia zostawiają w komórkach ślad wpływający na zdrowie przez kolejne dekady – sugeruje badanie na rezusach. Tłumacząc ten mechanizm naukowcy wskazują na to, że wczesne przeżycia wpływają na ak."
-    },
-    {
       "title": "Kurzajki to objaw zakażenia HPV - Serwis Zdrowie",
       "url": "https://zdrowie.pap.pl/choroby/kurzajki-objaw-zakazenia-hpv",
       "date": "2026-06-25T08:19:25Z",
@@ -320,6 +312,14 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Polskie placówki medyczne od lat gromadzą ogromne ilości danych. Problemem nie jest już brak informacji, ale ich rozproszenie oraz niewystarczające wykorzystanie w procesach zarządczych. Tymczasem odpowiednio analizowane dane mogą wspierać podejmowanie trafniejszych decyzji, poprawiać efektywność działania szpitali i przekładać się na lepszą opiekę nad pacjentami."
+    },
+    {
+      "title": "Rozmowy w Trójstronnym Zespole zerwane - Ochrona zdrowia - mp.pl",
+      "url": "https://ochronazdrowia.mp.pl/aktualnosci/442326,rozmowy-w-trojstronnym-zespole-zerwane",
+      "date": "2026-06-25T06:23:19Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Po blisko czterech godzinach posiedzenia strona społeczna Trójstronnego Zespołu ds. Ochrony Zdrowia wyszła z sali. Związkowcy i pracodawcy wydali wspólny komunikat, tłumacząc powody swojej decyzji."
     },
     {
       "title": "Uzdrowisko Ustroń po modernizacji: 8 tys. zabiegów dziennie dla 2 tys. pacjentów - Serwis Zdrowie",
@@ -385,7 +385,7 @@
       "date": "2026-06-25T15:49:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "BMA będzie lobbować w NHS, aby zaprzestała obowiązkowego przyjmowania definicji antysemityzmu przyjętej przez Międzynarodowy Sojusz na rzecz Pamięci o Holokauście (IHRA). Przemawiając na dorocznym spotkaniu przedstawicieli związku w Brighton, członkowie ostrzegli, że definicja IHRA została „uzbrojona” w celu rozprawienia się z wolnością słowa. W odrębnym wniosku członkowie BMA wezwali także do natychmiastowego wstrzymania wdrażania zaleceń wynikających z niedawnego rządowego przeglądu Manna ze względu na jego wpływ na wolność słowa."
+      "summary": "Antysemityzm: Lekarze żądają, aby NHS porzuciła kontrowersyjną definicję i wzywała do „przerwy” w recenzji Manna The BMJ."
     },
     {
       "title": "Demokraci naciskają na Biały Dom, kto ma specjalny dostęp do nowego leku na otyłość Eli Lilly – statnews.com",
@@ -457,7 +457,7 @@
       "date": "2026-06-25T11:45:35Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Jonathan Bassett/The Wellcome Collection Kolekcja Wellcome otwiera tego lata dwie równoległe wystawy przedstawiające opiekę i leczenie pacjentów cierpiących na choroby psychiczne w Wielkiej Brytanii. Audrey Amissa: …."
+      "summary": "Sztuka i rzecznictwo: zdrowie psychiczne ma znaczenie The BMJ."
     },
     {
       "title": "Szczepienia przeciwko HPV powiązane z radykalnym zmniejszeniem liczby zgonów z powodu raka szyjki macicy – ​​Natura",
@@ -508,14 +508,6 @@
       "summary": "„Kobiety są w pełni zdolne do podejmowania trudnych decyzji, ale znaczący wybór wymaga wiarygodnych, sprawdzonych informacji” – pisze Michelle Sie Whitten z Global Down Syndrome Foundation."
     },
     {
-      "title": "Dwupartyjny projekt ustawy ma umożliwić bezpośrednie przepisywanie metadonu w leczeniu uzależnienia od opioidów – statnews.com",
-      "url": "https://www.statnews.com/2026/06/25/bipartisan-bill-methadone-prescription-pharmacy-pickup/",
-      "date": "2026-06-25T08:34:59Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Metadon na uzależnienie od opioidów był dostępny wyłącznie w specjalistycznych klinikach. Dwupartyjna ustawa znacznie rozszerzyłaby dostęp."
-    },
-    {
       "title": "Kanada wprowadza ustawę o bezpiecznych mediach społecznościowych w celu ochrony dzieci – Medscape",
       "url": "https://www.medscape.com/viewarticle/canada-introduces-safe-social-media-act-protect-children-2026a1000lj9",
       "date": "2026-06-25T07:39:58Z",
@@ -556,14 +548,6 @@
       "summary": "Wielu pacjentów z opornym na kastrację rakiem prostaty z przerzutami nie otrzymuje środków modyfikujących kości pomimo zalecenia wytycznych."
     },
     {
-      "title": "Jedna trzecia stypendiów z zakresu dermatologii dziecięcej nie spełnia oczekiwań - Medscape",
-      "url": "https://www.medscape.com/viewarticle/one-third-pediatric-dermatology-fellowships-fail-match-2026a1000lid",
-      "date": "2026-06-25T04:05:58Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Wiele stanowisk w ramach stypendiów z zakresu dermatologii dziecięcej pozostaje nieobsadzonych w latach 2009–2023, co uwydatnia ciągły niedobór siły roboczej i regionalne dysproporcje w dostępie do opieki."
-    },
-    {
       "title": "Niejednorodność ciężkiej astmy w Europie: opinia SHARP-a - The Lancet",
       "url": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(26)00165-7/fulltext",
       "date": "2026-06-25T02:58:56Z",
@@ -580,20 +564,12 @@
       "summary": "Żółta febra to choroba wirusowa występująca na obszarach Afryki i obu Ameryk, przenoszona przez zakażone komary. Po wzroście liczby przypadków w obu Amerykach w 2025 r. aktywność przenoszenia wirusa utrzymała się do 2026 r. Od 1 stycznia do 26 maja 2026 r. sześć krajów zgłosiło łącznie 79 infekcji u ludzi wraz z licznymi epizootiami, co wskazuje na aktywne krążenie leśne."
     },
     {
-      "title": "Schistosomatoza żeńskich narządów płciowych: ukryta na widoku - The Lancet",
-      "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00173-1/fulltext",
-      "date": "2026-06-25T01:25:44Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Schistosomatoza żeńskich narządów płciowych: ukryta na widoku The Lancet."
-    },
-    {
       "title": "CME | Tygodnik NEJM CME – The New England Journal of Medicine",
       "url": "https://cme.nejm.org/weekly/10.1056/NEJMcme2517891",
       "date": "2026-06-25T01:17:05Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "CME | Tygodnik NEJM CME The New England Journal of Medicine."
+      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
     },
     {
       "title": "CME | Tygodnik NEJM CME – The New England Journal of Medicine",
@@ -601,7 +577,7 @@
       "date": "2026-06-25T00:59:01Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "CME | Tygodnik NEJM CME The New England Journal of Medicine."
+      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
     },
     {
       "title": "Polityka szpitala dotycząca kwasu traneksamowego mająca na celu ograniczenie transfuzji podczas poważnych operacji niekardiochirurgicznych — The New England Journal of Medicine",
@@ -612,20 +588,20 @@
       "summary": "Polityka szpitalna dotycząca kwasu traneksamowego mająca na celu ograniczenie transfuzji podczas poważnych operacji niekardiochirurgicznych The New England Journal of Medicine."
     },
     {
-      "title": "Strategia wobec gruźlicy opornej na ryfampicynę – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/do/10.1056/NEJMdo008541/full/",
-      "date": "2026-06-24T23:58:29Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Strategia dotycząca gruźlicy opornej na ryfampicynę The New England Journal of Medicine."
-    },
-    {
       "title": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej - The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01023-8/fulltext?rss=yes",
       "date": "2026-06-24T23:27:46Z",
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej The Lancet."
+    },
+    {
+      "title": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a - The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00904-9/fulltext",
+      "date": "2026-06-24T23:27:42Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a The Lancet."
     },
     {
       "title": "Aby sprostać szybko zmieniającym się potrzebom, potrzebne są nowe rozwiązania: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach - The Lancet",
@@ -642,14 +618,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
-    },
-    {
-      "title": "Budowanie potencjału w zakresie nadzoru genomicznego mpoxu i innych pojawiających się chorób w obszarach o ograniczonych zasobach w regionie Wielkich Jezior Afrykańskich - Przyroda",
-      "url": "https://www.nature.com/articles/s43856-026-01713-4",
-      "date": "2026-06-24T18:53:06Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Schuele i in. podzielą się praktycznymi spostrzeżeniami ze wspólnych inicjatyw w regionie Wielkich Jezior Afrykańskich, których celem jest poszerzenie dostępu do nadzoru genomicznego patogenu. Wskazują na zastosowania, kluczowe wyzwania i rozwiązania specyficzne dla kontekstu w zakresie ustanawiania i utrzymywania lokalnego potencjału sekwencjonowania."
     },
     {
       "title": "Zjednoczeni na rzecz położenia kresu AIDS: Nowa deklaracja polityczna stanowi ostateczny impuls do przyspieszenia postępów w kierunku położenia kresu AIDS jako zagrożenia dla zdrowia publicznego do 2030 r. – Światowa Organizacja Zdrowia (WHO)",
@@ -674,14 +642,6 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Łączony przeszczep pęcherza i nerki: pierwsza próba wykonalności na ludziach The Lancet."
-    },
-    {
-      "title": "Przeszczep nerki i pęcherza: nowa definicja możliwości chirurgicznych u pacjentów ze współistniejącą chorobą pęcherza i nerek - The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01025-1/abstract",
-      "date": "2026-06-24T07:56:18Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Przeszczep nerki i pęcherza: nowa definicja opcji chirurgicznych dla pacjentów ze współistniejącą chorobą pęcherza i nerek The Lancet."
     }
   ],
   "guidelines": [
@@ -970,22 +930,6 @@
       "summary": "Jonathan Andrus, CRIO, o tym, dlaczego fragmentacja danych sponsorów witryny utrzymuje się i co może z tym zrobić Central eSource. Stosowane badania kliniczne online."
     },
     {
-      "title": "Szczegóły badania | NCT07664410 | Teranostyczny PET do walidacji celu i wykrywania nowotworu – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07664410",
-      "date": "2026-06-25T10:55:55Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07664410 | Teranostyczny PET do walidacji celu i wykrywania nowotworu ClinicalTrials.gov."
-    },
-    {
-      "title": "Szczegóły badania | NCT07666997 | Bezpieczeństwo antykoncepcyjnego miedzianego pierścienia dopochwowego - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07666997",
-      "date": "2026-06-25T10:49:34Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07666997 | Bezpieczeństwo antykoncepcyjnego miedzianego pierścienia dopochwowego ClinicalTrials.gov."
-    },
-    {
       "title": "BIO 2026: Jak cięcia NIH zagroziły konkurencyjności USA w stosunku do Chin – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/bio-2026-how-nih-cuts-have-threatened-us-competitiveness-against-china/",
       "date": "2026-06-25T10:42:53Z",
@@ -1016,6 +960,14 @@
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Wielka Brytania zaznacza sukces Hiszpanii w wyścigu do globalnej konkurencyjności badań klinicznych w Clinic Trials Arena."
+    },
+    {
+      "title": "Szczegóły badania | NCT07664904 | Związek periostyny ​​i ODI, EQ-5D - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07664904",
+      "date": "2026-06-25T09:39:50Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07664904 | Związek periostyny ​​i ODI, EQ-5D ClinicalTrials.gov."
     },
     {
       "title": "UCLA i CHLA dołączają do Globalnej Sieci Badań nad Autyzmem – Trialsitenews.com",
@@ -1120,6 +1072,14 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07662512 | Różne stężenia ozonu w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
+    },
+    {
+      "title": "Obiektywna charakterystyka snu i odpowiedź na immunoterapię neoadjuwantową w leczeniu raka żołądka/​GEJ – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07662005",
+      "date": "2026-06-24T06:48:34Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Obiektywna charakterystyka snu i odpowiedź na immunoterapię neoadjuwantową w leczeniu raka żołądka/​GEJ ClinicalTrials.gov."
     },
     {
       "title": "Od gromadzenia do zaufania: dlaczego wiarygodność danych z badań klinicznych zaczyna się wcześnie - Arena Badań Klinicznych",
@@ -1724,14 +1684,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Przeciwciała reagujące krzyżowo z wirusem Bundibugyo u fretek zaszczepionych szczepionką przeciwko wirusowi Ebola."
-    },
-    {
-      "title": "Budowanie potencjału w zakresie nadzoru genomicznego mpoxu i innych pojawiających się chorób w obszarach o ograniczonych zasobach w regionie Wielkich Jezior Afrykańskich - Przyroda",
-      "url": "https://www.nature.com/articles/s43856-026-01713-4",
-      "date": "2026-06-24T18:53:06Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Schuele i in. podzielą się praktycznymi spostrzeżeniami ze wspólnych inicjatyw w regionie Wielkich Jezior Afrykańskich, których celem jest poszerzenie dostępu do nadzoru genomicznego patogenu. Wskazują na zastosowania, kluczowe wyzwania i rozwiązania specyficzne dla kontekstu w zakresie ustanawiania i utrzymywania lokalnego potencjału sekwencjonowania."
     },
     {
       "title": "Webinarium WHO w nagłych przypadkach zdrowotnych EPI-WIN: Bezpieczna, skalowalna opieka nad wirusem Ebola (Bundibugyo) w Demokratycznej Republice Konga: operacje, wytyczne kliniczne i projekt ośrodków terapeutycznych - Światowa Organizacja Zdrowia (WHO)",
