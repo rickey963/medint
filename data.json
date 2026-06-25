@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T10:29:30Z",
+  "last_updated": "2026-06-25T10:30:09Z",
   "poland": [
     {
       "title": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie - Alert Medyczny",
@@ -7,7 +7,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
+      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
     },
     {
       "title": "Kontrola planowa w trakcie realizacji projektu nr FENX.06.01-IP.03-0003/24, pn. „Modernizacja i rozbudowa sieci łączności radiowej Państwowego Ratownictwa Medycznego w województwie łódzkim - Gov.pl",
@@ -47,7 +47,7 @@
       "date": "2026-06-25T09:45:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prezes UODO zapowiedział kontrolę w Szpitalu Południowym w Warszawie. Sprawdzi m.in. monitoring z rejestracją dźwięku."
+      "summary": "Kolejna instytucja sprawdzi Szpital Południowy. Kontrolę zapowiedział Prezes UODO Alert Medyczny."
     },
     {
       "title": "Jak słońce działa na witaminę D? Niepokojące odkrycie. Profesor: uderzające - Medonet",
@@ -79,7 +79,7 @@
       "date": "2026-06-25T09:21:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rada Zdrowia przy Prezydencie RP chce rozwoju Centrów Zdrowia Psychicznego. Rekomendacje dotyczące przyszłości CZP trafią do MZ."
+      "summary": "Prezydencka Rada Zdrowia o przyszłości CZP. Rekomendacje zostaną przekazane do MZ Alert Medyczny."
     },
     {
       "title": "Najzimniejsze miejsce w Polsce odkryte w Tatrach - PolitykaZdrowotna.com",
@@ -122,6 +122,14 @@
       "summary": "41 proc. seniorów mieszka bez windy, a ponad 33 proc. mieszkań nie spełnia wymogów dostępności”."
     },
     {
+      "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/lodz2631,2880.html",
+      "date": "2026-06-25T08:22:00Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 2,
+      "summary": "Praca w Funduszu to nauka, doświadczenie i satysfakcja z tworzenia wartości, które mają realny wpływ na otaczającą nas rzeczywistość. Jesteśmy organizacją publiczną, nadzorowaną..."
+    },
+    {
       "title": "Kurzajki to objaw zakażenia HPV - Serwis Zdrowie",
       "url": "https://zdrowie.pap.pl/choroby/kurzajki-objaw-zakazenia-hpv",
       "date": "2026-06-25T08:19:25Z",
@@ -143,7 +151,7 @@
       "date": "2026-06-25T07:55:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "ZPP alarmuje o pogarszającej się sytuacji finansowej szpitali powiatowych. Samorządy przedstawiają pięć postulatów do rządu, MZ i NFZ."
+      "summary": "Powiaty ostrzegają przed kryzysem szpitali. Pięć postulatów do ministerstwa zdrowia i NFZ Alert Medyczny."
     },
     {
       "title": "Kwitnie od czerwca do sierpnia. Toksyczna roślina wykańcza serce - Rynek Zdrowia",
@@ -288,14 +296,6 @@
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "20 czerwca w Ustroniu (woj. śląskie) odbyła się uroczystość związana z zakończeniem modernizacji kompleksu sanatoryjnego Uzdrowisko Ustroń. Odnowiono ok."
-    },
-    {
-      "title": "Szpitale powiatowe alarmują o pogłębiającym się kryzysie. ZPP apeluje o pilne działania rządu - Remedium.md",
-      "url": "https://remedium.md/publikacje/wiadomosci/szpitale-powiatowe-alarmuja-o-poglebiajacym-sie-kryzysie-zpp-apeluje-o-pilne-dzialania-rzadu",
-      "date": "2026-06-24T10:47:00Z",
-      "source": "Remedium.md",
-      "confirmed_by": 1,
-      "summary": "91% szpitali powiatowych w 2025 r. na minusie. Związek Powiatów alarmuje o kryzysie i domaga się 5 pilnych działań rządu i NFZ, by ratować ochronę zdrowia."
     },
     {
       "title": "Zdrowie w kolorze purpury - Serwis Zdrowie",
@@ -533,8 +533,8 @@
     },
     {
       "title": "25 czerwca 2026 r. — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/image-challenge%3Fci%3D11102011?ci=20260625",
-      "date": "2026-06-24T22:52:30Z",
+      "url": "https://www.nejm.org/image-challenge%20ci=20180719?ci=20260625",
+      "date": "2026-06-24T22:52:02Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "25 czerwca 2026 r. The New England Journal of Medicine."
@@ -650,6 +650,14 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dlaczego Afryka potrzebuje regionalnych ośrodków badawczo-rozwojowych w zakresie podstawowych badań naukowych i tłumaczeń, aby przyspieszyć lokalną produkcję."
+    },
+    {
+      "title": "Kraje afrykańskie spotykają się, aby przygotować się na przyszłe wprowadzenie na rynek nowych szczepionek przeciw gruźlicy dla dorosłych i młodzieży – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/23-06-2026-african-countries-convene-to-prepare-for-future-rollout-of-new-tb-vaccines-for-adults-and-adolescents",
+      "date": "2026-06-23T21:45:00Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Podczas warsztatów zorganizowanych przez Światową Organizację Zdrowia (WHO) w Nairobi w Kenii w dniach 3–5 czerwca urzędnicy Ministerstwa Zdrowia z Kenii, Malawi i Zambii dołączyli do ponad 80 zainteresowanych stron zajmujących się szczepionkami przeciwko gruźlicy (TB), w tym osób, które przebyły gruźlicę, przedstawicieli społeczeństwa obywatelskiego, agencji technicznych i regulacyjnych, darczyńców i partnerów wykonawczych, aby przyspieszyć przygotowanie krajów do wprowadzenia nowych szczepionek przeciw gruźlicy, obecnie znajdujących się w fazie rozwoju klinicznego, dla dorosłych i młodzieży."
     }
   ],
   "guidelines": [
@@ -1484,6 +1492,14 @@
       "summary": "Jedna z największych rund finansowania przedsięwzięć w tym roku następuje tuż po bezpośrednim badaniu, które wykazało, że lek Ollina – licencjonowany od chińskiego dewelopera – ma pewną przewagę nad lekami na oczy firmy Roche."
     },
     {
+      "title": "UNII-ZV1MM336WB | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
+      "url": "https://precision.fda.gov/uniisearch/srs?search=ZV1MM336WB",
+      "date": "2026-06-24T10:19:49Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
+    },
+    {
       "title": "BostonGene zaprezentuje innowacje AI na targach BIO 2026 - BioSpace",
       "url": "https://www.biospace.com/press-releases/bostongene-to-present-ai-innovations-at-bio-2026",
       "date": "2026-06-24T04:24:14Z",
@@ -1508,30 +1524,6 @@
       "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
     },
     {
-      "title": "FDA zatwierdza sacituzumab govitecan-hziy w monoterapii i w leczeniu skojarzonym - fda.gov",
-      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-sacituzumab-govitecan-hziy-monotherapy-and-combination-pembrolizumab-first-line",
-      "date": "2026-06-24T00:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "FDA zatwierdza sacituzumab govitecan-hziy w monoterapii i w połączeniu fda.gov."
-    },
-    {
-      "title": "FDA zatwierdza palbocyklib z trastuzumabem, z pertuzumabem lub bez, - fda.gov",
-      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-palbociclib-trastuzumab-or-without-pertuzumab-and-endocrine-therapy-maintenance",
-      "date": "2026-06-24T00:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "FDA zatwierdza palbocyklib z trastuzumabem, z pertuzumabem lub bez, fda.gov."
-    },
-    {
-      "title": "FDA zatwierdza pierwsze leczenie, które zmniejsza ryzyko ostrej trzustki – fda.gov",
-      "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-shown-reduce-risk-acute-pancreatitis-adults-severe-hypertriglyceridemia",
-      "date": "2026-06-24T00:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "FDA zatwierdza pierwsze leczenie, które wykazało zmniejszenie ryzyka ostrej trzustki fda.gov."
-    },
-    {
       "title": "Lek Pfizer nabyty w ramach transakcji Seagen rozczarowuje w badaniu dotyczącym raka płuc - BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/pfizer-sigvotatug-vedotin-lung-cancer-results-seagen/823501/",
       "date": "2026-06-23T16:16:56Z",
@@ -1540,20 +1532,36 @@
       "summary": "Porażka pogarsza perspektywy leku, który Pfizer uważa za ważny czynnik w przyszłości, chociaż niektórzy analitycy optymistycznie oceniają szanse leku w innym badaniu."
     },
     {
-      "title": "Elastyczność i wyjaśnienia regulacyjne: Informacje dotyczące chemii, produkcji i kontroli (CMC) dotyczące fazy oryginalnej, pierwszej w organizmie człowieka (FIH) - fda.gov",
-      "url": "https://www.fda.gov/media/193163/download",
-      "date": "2026-06-23T09:56:03Z",
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=51&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F23%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=dknumberdesc",
+      "date": "2026-06-23T10:49:57Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Elastyczność i wyjaśnienia regulacyjne: Informacje dotyczące chemii, produkcji i kontroli (CMC) na potrzeby fazy oryginału „First in Human” (FIH) fda.gov."
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
-      "title": "Elastyczność i wyjaśnienia regulacyjne: Informacje dotyczące chemii, produkcji i kontroli (CMC) dotyczące fazy oryginalnej, pierwszej w organizmie człowieka (FIH) - fda.gov",
-      "url": "https://www.fda.gov/media/193164/download",
-      "date": "2026-06-23T09:55:58Z",
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=1&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F23%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicantdesc",
+      "date": "2026-06-23T10:46:44Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Elastyczność i wyjaśnienia regulacyjne: Informacje dotyczące chemii, produkcji i kontroli (CMC) na potrzeby fazy oryginału „First in Human” (FIH) fda.gov."
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=1&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F23%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicant",
+      "date": "2026-06-23T10:16:47Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Rejestracja zakładu i wykaz urządzeń — accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/SCripts/Cdrh/cfdOCS/cfrl/rl.cfm?lid=1012936&lpcd=IYO",
+      "date": "2026-06-23T09:01:17Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Rejestracja zakładu i lista urządzeń accessdata.fda.gov."
     },
     {
       "title": "Spotkanie Wykonawczej Grupy Sterującej ds. Niedoborów i Bezpieczeństwa Produktów Leczniczych (MSSG) – czerwiec 2026 r. – Europejska Agencja Leków (EMA)",
@@ -1640,12 +1648,12 @@
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
-      "title": "Powiaty ostrzegają przed kryzysem szpitali. Pięć postulatów do ministerstwa zdrowia i NFZ - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/powiaty-ostrzegaja-przed-kryzysem-szpitali-piec-postulatow-do-ministerstwa-zdrowia-i-nfz/",
-      "date": "2026-06-25T07:55:00Z",
-      "source": "alertmedyczny.pl",
+      "title": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B - The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2515131",
+      "date": "2026-06-25T06:45:50Z",
+      "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "ZPP alarmuje o pogarszającej się sytuacji finansowej szpitali powiatowych. Samorządy przedstawiają pięć postulatów do rządu, MZ i NFZ."
+      "summary": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B The New England Journal of Medicine."
     },
     {
       "title": "Webinarium WHO w nagłych przypadkach zdrowotnych EPI-WIN: Bezpieczna, skalowalna opieka nad wirusem Ebola (Bundibugyo) w Demokratycznej Republice Konga: operacje, wytyczne kliniczne i projekt ośrodków terapeutycznych - Światowa Organizacja Zdrowia (WHO)",
