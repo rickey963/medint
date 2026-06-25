@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-25T12:37:38Z",
+  "last_updated": "2026-06-25T12:38:42Z",
   "poland": [
+    {
+      "title": "Komunikat - Regionalna Dyrekcja Ochrony Środowiska we Wrocławiu - Gov.pl",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/komunikat",
+      "date": "2026-06-25T12:37:19Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Uwaga! Zbliżają się upały, ograniczajmy wyjścia na zewnątrz i pamiętajmy o ryzykach pożarowych."
+    },
     {
       "title": "KSK – MZ chce premiować jakość w szpitalach - Kardiologia - Medycyna Praktyczna",
       "url": "https://kardiologia.mp.pl/wiadomosci/442363,ksk-mz-chce-premiowac-jakosc-w-szpitalach",
@@ -23,7 +31,7 @@
       "date": "2026-06-25T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
+      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
     },
     {
       "title": "Jak nawodnić organizm? Sposoby na prawidłowe nawodnienie podczas upałów - DOZ",
@@ -39,7 +47,7 @@
       "date": "2026-06-25T11:51:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Senat przyjął ustawę o wynagrodzeniach medyków. Dane trafią do AOTMiT z numerem PESEL lub PWZ Alert Medyczny."
+      "summary": "Senat przyjął ustawę zmieniającą zasady przekazywania danych o wynagrodzeniach medyków do AOTMiT. Dane będą powiązane z PESEL lub PWZ."
     },
     {
       "title": "Uwaga! Zbliżają się upały, ograniczajmy wyjścia na zewnątrz i pamiętajmy o ryzykach pożarowych - Gov.pl",
@@ -90,14 +98,6 @@
       "summary": "Na podstawie art. 48 ust. 1 i 5 oraz art."
     },
     {
-      "title": "Komunikat - Regionalna Dyrekcja Ochrony Środowiska w Łodzi - Gov.pl",
-      "url": "https://www.gov.pl/web/rdos-lodz/komunikat6",
-      "date": "2026-06-25T11:00:48Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Uwaga! Zbliżają się upały, ograniczajmy wyjścia na zewnątrz i pamiętajmy o ryzykach pożarowych."
-    },
-    {
       "title": "1 lipca pacjenci się zdziwią. Mocno odczują tę zmianę w aptekach - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/1-lipca-pacjenci-sie-zdziwia-Mocno-odczuja-te-zmiane-w-aptekach,285901,1.html",
       "date": "2026-06-25T10:50:00Z",
@@ -143,7 +143,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
+      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
     },
     {
       "title": "Asystent AI pomoże nauczycielom korzystać z wiedzy ekspertów UMW - Termedia",
@@ -159,7 +159,7 @@
       "date": "2026-06-25T09:45:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Kolejna instytucja sprawdzi Szpital Południowy. Kontrolę zapowiedział Prezes UODO Alert Medyczny."
+      "summary": "Prezes UODO zapowiedział kontrolę w Szpitalu Południowym w Warszawie. Sprawdzi m.in. monitoring z rejestracją dźwięku."
     },
     {
       "title": "\"Obecnie mamy do czynienia z dramatyczną zapaścią systemową, w której aż dwieście gmin nie oferuje młodzieży absolutnie żadnego wsparcia specjalistycznego\" - PolitykaZdrowotna.com",
@@ -290,6 +290,14 @@
       "summary": "Jeśli procedowane obecnie zmiany ustawowe wejdą w życie, Agencja Oceny Technologicznych Medycznych i Taryfikacji (AOTMiT) zamierza w październiku przeprowadzić pierwszą kompleksową zbiórkę danych i przedstawić raport o całkowitych zarobkac."
     },
     {
+      "title": "W Elblągu neurochirurdzy usunęli rozległego guza przysadki - Podyplomie.pl",
+      "url": "https://www.podyplomie.pl/aktualnosci/w-elblagu-neurochirurdzy-usuneli-rozleglego-guza-przysadki",
+      "date": "2026-06-24T14:02:00Z",
+      "source": "Medycyna po Dyplomie",
+      "confirmed_by": 1,
+      "summary": "Zabieg przeprowadzono na bloku operacyjnym doposażonym dzięki środkom z Krajowego Planu Odbudowy."
+    },
+    {
       "title": "Przełom w leczeniu raka płuca. Część chorych może żyć nawet 7 lat bez progresji choroby [ASCO 2026] - Puls Medycyny",
       "url": "https://pulsmedycyny.pl/medycyna/onkologia/przelom-w-leczeniu-raka-pluca-czesc-chorych-moze-zyc-nawet-7-lat-bez-progresji-choroby-asco-2026/",
       "date": "2026-06-24T13:50:00Z",
@@ -364,14 +372,6 @@
       "summary": "Nowe badanie analizuje wpływ krajowego programu szczepień przeciwko HPV w Anglii, rozpoczętego prawie dwie dekady temu – wykazując ogromny spadek umieralności z powodu raka szyjki macicy wśród młodych kobiet."
     },
     {
-      "title": "Ocena wczesnego wpływu australijskiej ustawy o minimalnym wieku mediów społecznościowych na korzystanie przez młodzież z mediów społecznościowych: badanie obserwacyjne – The BMJ",
-      "url": "https://www.bmj.com/content/393/bmj-2026-363695/rapid-responses",
-      "date": "2026-06-25T10:47:50Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Cele Zbadanie wczesnego wpływu pierwszej na świecie polityki krajowej (Ustawa o minimalnym wieku mediów społecznościowych z 2024 r., która ustaliła minimalny krajowy wiek posiadania kont w wyznaczonych platformach mediów społecznościowych na 16 lat) na korzystanie z mediów społecznościowych przez młodzież oraz opisanie korzystania przez młodzież z platform mediów społecznościowych podlegających ustawie, doświadczenia ze strategiami weryfikacji wieku, wszelkich wysiłków zmierzających do ich obejścia oraz wszelkich dostrzeganych substytucji lub przemieszczeń behawioralnych. Projekt Badanie obserwacyjne. Ustawianie Badanie społeczne przeprowadzone w całej Australii."
-    },
-    {
       "title": "Wpływ zachęt finansowych . . . i inne badania - The BMJ",
       "url": "https://www.bmj.com/content/393/bmj-2026-597013",
       "date": "2026-06-25T10:45:48Z",
@@ -436,6 +436,14 @@
       "summary": "W czasie, gdy późna diagnoza w dalszym ciągu zagraża życiu tysięcy kobiet, prowincja Huíla podejmuje zdecydowany krok, wzmacniając profilaktykę i wczesne wykrywanie nowotworów."
     },
     {
+      "title": "Inspirowanie, kształtowanie i utrzymywanie afrykańskiego programu badań i rozwoju - Natura",
+      "url": "https://www.nature.com/articles/s41591-026-04480-w",
+      "date": "2026-06-25T08:00:34Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Dlaczego Afryka potrzebuje regionalnych ośrodków badawczo-rozwojowych w zakresie podstawowych badań naukowych i tłumaczeń, aby przyspieszyć lokalną produkcję."
+    },
+    {
       "title": "Kanada wprowadza ustawę o bezpiecznych mediach społecznościowych w celu ochrony dzieci – Medscape",
       "url": "https://www.medscape.com/viewarticle/canada-introduces-safe-social-media-act-protect-children-2026a1000lj9",
       "date": "2026-06-25T07:39:58Z",
@@ -484,6 +492,14 @@
       "summary": "Wielu pacjentów z opornym na kastrację rakiem prostaty z przerzutami nie otrzymuje środków modyfikujących kości pomimo zatwierdzenia wytycznych."
     },
     {
+      "title": "Schistosomatoza żeńskich narządów płciowych: ukryta na widoku - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00173-1/abstract",
+      "date": "2026-06-25T02:15:09Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Schistosomatoza żeńskich narządów płciowych: ukryta na widoku The Lancet."
+    },
+    {
       "title": "CME | Tygodnik NEJM CME – The New England Journal of Medicine",
       "url": "https://cme.nejm.org/weekly/10.1056/NEJMcme2600929",
       "date": "2026-06-25T00:59:01Z",
@@ -516,20 +532,12 @@
       "summary": "Skuteczność i bezpieczeństwo tirofibanu po skutecznej reperfuzji wewnątrznaczyniowej w ostrym udarze niedokrwiennym (ATTRACTION) w Chinach: wieloośrodkowe, podwójnie ślepe, randomizowane badanie kontrolowane The Lancet."
     },
     {
-      "title": "Nauka z australijskiej polityki dotyczącej ograniczeń wiekowych w mediach społecznościowych – The BMJ",
-      "url": "https://www.bmj.com/content/393/bmj-2026-100017",
-      "date": "2026-06-24T23:28:24Z",
+      "title": "Ograniczenia w mediach społecznościowych wymagają terminowej i skoordynowanej oceny – BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-100020",
+      "date": "2026-06-24T23:28:08Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Dowody wskazują, że samo ustawodawstwo nie wystarczy Rządy na całym świecie rozważają wprowadzenie ograniczeń wiekowych dla mediów społecznościowych w związku z obawami dotyczącymi szkód w Internecie i zdrowia psychicznego123. W czerwcu 2026 r. rząd Wielkiej Brytanii ogłosił, że wprowadzi przepisy, wyraźnie wzorowane na podejściu Australii, zakazujące platformom mediów społecznościowych oferowania usług osobom poniżej 16. roku życia, przy czym ochrona ma nastąpić wiosną 2027 r.4 Jednak pierwsza prospektywna ocena krajowych ograniczeń wiekowych w mediach społecznościowych wykazała w dużej mierze zerowe ustalenia, a ich interpretacja jest nie proste. W powiązanym badaniu (doi:10.1136/bmj-2026-363695) Barnes i współpracownicy przedstawiają ograniczone dowody na krótkoterminowy wpływ australijskiej ustawy o minimalnym wieku mediów społecznościowych na korzystanie przez nastolatków z mediów społecznościowych.5 Wyniki nieuchronnie ukształtują debaty w krajach rozważających podobną politykę. Kluczowym pytaniem nie jest jednak to, czy polityka ta okazała się skuteczna."
-    },
-    {
-      "title": "Badania pokazują, że australijski zakaz korzystania z mediów społecznościowych dla osób poniżej 16 roku życia jest powszechnie obchodzony, ponieważ Wielka Brytania planuje podobne ograniczenia – BMJ",
-      "url": "https://www.bmj.com/content/393/bmj-2026-100067",
-      "date": "2026-06-24T23:28:15Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Nowe dane wskazują, że australijski zakaz korzystania z mediów społecznościowych dla osób poniżej 16 roku życia nie ograniczył korzystania z nich przez młodzież, a badacze doszli do wniosku, że obecne weryfikacje wieku na platformach są „nieoptymalne”.1 Odkrycie, choć wstępne, ma konsekwencje dla Wielkiej Brytanii, która planuje podobny całkowity zakaz korzystania z platform mediów społecznościowych przez osoby poniżej 16 roku życia, takie jak Snapchat, TikTok, YouTube, Instagram, Facebook i X.2 W badaniu obserwacyjnym wzięło udział 436 osób w wieku od 12 do 17 lat. w Nowej Południowej Walii, którzy zostali objęci ankietą na krótko przed wejściem w życie australijskiej ustawy o minimalnym wieku mediów społecznościowych w grudniu 2025 r. i ponownie około trzy miesiące później. Uczestników zapytano o ich nawyki związane z korzystaniem z mediów społecznościowych w ciągu ostatnich siedmiu dni oraz doświadczenia z kontrolami weryfikacyjnymi platformy i wszelkimi próbami ich obejścia. Jak wynika z badania opublikowanego w The BMJ, ponad 85% ankietowanych stwierdziło, że nadal korzysta z platform mediów społecznościowych, głównie za pośrednictwem własnych kont."
+      "summary": "Polityka publiczna jest jednym z najpotężniejszych narzędzi dostępnych rządom w celu poprawy zdrowia publicznego. Australijskie ustawodawstwo dotyczące minimalnego wieku w mediach społecznościowych to polityka o znacznym potencjale oddziaływania w Australii i na arenie międzynarodowej. Ma na celu zmniejszenie (lub opóźnienie) narażenia na szkody w Internecie i wspieranie zdrowszego rozwoju w okresie dojrzewania."
     },
     {
       "title": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej - The Lancet",
@@ -546,6 +554,14 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Aby sprostać szybko zmieniającym się potrzebom, konieczne są nowe reakcje: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach The Lancet."
+    },
+    {
+      "title": "Ocena wczesnego wpływu australijskiej ustawy o minimalnym wieku mediów społecznościowych na korzystanie przez młodzież z mediów społecznościowych: badanie obserwacyjne – The BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-363695",
+      "date": "2026-06-24T22:44:05Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Cele Zbadanie wczesnego wpływu pierwszej na świecie polityki krajowej (Ustawa o minimalnym wieku mediów społecznościowych z 2024 r., która ustaliła minimalny krajowy wiek posiadania kont w wyznaczonych platformach mediów społecznościowych na 16 lat) na korzystanie z mediów społecznościowych przez młodzież oraz opisanie korzystania przez młodzież z platform mediów społecznościowych podlegających ustawie, doświadczenia ze strategiami weryfikacji wieku, wszelkich wysiłków zmierzających do ich obejścia oraz wszelkich dostrzeganych substytucji lub przemieszczeń behawioralnych. Projekt Badanie obserwacyjne. Ustawianie Badanie społeczne przeprowadzone w całej Australii."
     },
     {
       "title": "Wydatki na opiekę zdrowotną w USA gwałtownie wzrosły w 2025 r. dzięki stosowaniu GLP-1 i większej opiece zdrowotnej – statnews.com",
@@ -612,12 +628,20 @@
       "summary": "RIP Sangamo, rozwój produkcji leków i więcej wiadomości biotechnologicznych z The Readout."
     },
     {
-      "title": "Notatka do wycofania: Immunochemioterapia o określonej porze dnia w niedrobnokomórkowym raku płuca: randomizowane badanie III fazy - Nature",
-      "url": "https://www.nature.com/articles/s41591-026-04508-1",
-      "date": "2026-06-24T15:09:29Z",
-      "source": "Nature Medicine",
+      "title": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania różnymi metodami – The Lancet",
+      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00285-3/fulltext",
+      "date": "2026-06-24T13:24:41Z",
+      "source": "The Lancet",
       "confirmed_by": 1,
-      "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
+      "summary": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania przeprowadzonego różnymi metodami The Lancet."
+    },
+    {
+      "title": "Statyczna praca fizjoterapeuty w fundacji Countess of Chester Hospital NHS Foundation Trust (kariera zdrowotna) | 823177 - BMJ",
+      "url": "https://www.bmj.com/healthcareers/job/823177/static-physiotherapist/",
+      "date": "2026-06-24T13:23:32Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Statyczna praca fizjoterapeuty w Chester w fundacji Countess of Chester Hospital NHS Foundation Trust (kariera zdrowotna). Aplikuj już dziś."
     },
     {
       "title": "655 milionów ludzi nadal żyjących bez prądu podkreśla pilną potrzebę osiągnięcia celu dotyczącego powszechnego dostępu do energii – Światowa Organizacja Zdrowia (WHO)",
@@ -634,14 +658,6 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Łączony przeszczep pęcherza i nerki: pierwsza próba wykonalności na ludziach The Lancet."
-    },
-    {
-      "title": "Przeszczep nerki i pęcherza: nowa definicja możliwości chirurgicznych u pacjentów ze współistniejącą chorobą pęcherza i nerek - The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01025-1/abstract",
-      "date": "2026-06-24T07:56:18Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Przeszczep nerki i pęcherza: nowa definicja możliwości chirurgicznych dla pacjentów ze współistniejącą chorobą pęcherza i nerek The Lancet."
     }
   ],
   "guidelines": [
