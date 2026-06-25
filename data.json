@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T12:51:46Z",
+  "last_updated": "2026-06-25T12:52:29Z",
   "poland": [
     {
       "title": "Komunikat dotyczący nadchodzącej fali upałów - Gov.pl",
@@ -31,7 +31,7 @@
       "date": "2026-06-25T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
+      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
     },
     {
       "title": "Jak nawodnić organizm? Sposoby na prawidłowe nawodnienie podczas upałów - DOZ",
@@ -47,7 +47,7 @@
       "date": "2026-06-25T11:51:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Senat przyjął ustawę o wynagrodzeniach medyków. Dane trafią do AOTMiT z numerem PESEL lub PWZ Alert Medyczny."
+      "summary": "Senat przyjął ustawę zmieniającą zasady przekazywania danych o wynagrodzeniach medyków do AOTMiT. Dane będą powiązane z PESEL lub PWZ."
     },
     {
       "title": "Uwaga! Zbliżają się upały, ograniczajmy wyjścia na zewnątrz i pamiętajmy o ryzykach pożarowych - Gov.pl",
@@ -143,7 +143,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
+      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
     },
     {
       "title": "Asystent AI pomoże nauczycielom korzystać z wiedzy ekspertów UMW - Termedia",
@@ -159,7 +159,7 @@
       "date": "2026-06-25T09:45:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Kolejna instytucja sprawdzi Szpital Południowy. Kontrolę zapowiedział Prezes UODO Alert Medyczny."
+      "summary": "Prezes UODO zapowiedział kontrolę w Szpitalu Południowym w Warszawie. Sprawdzi m.in. monitoring z rejestracją dźwięku."
     },
     {
       "title": "\"Obecnie mamy do czynienia z dramatyczną zapaścią systemową, w której aż dwieście gmin nie oferuje młodzieży absolutnie żadnego wsparcia specjalistycznego\" - PolitykaZdrowotna.com",
@@ -290,6 +290,14 @@
       "summary": "Coraz więcej nowoczesnych leków trafia na listy refundacyjne, ale bez szybkiej i kompleksowej diagnostyki molekularnej wielu pacjentów nie może z nich skorzystać. Eksperci uczestniczący w debacie podczas Kompendium Oncology Exchange podkreślali, że o skuteczności leczenia coraz częściej decyduje nie dostępność terapii, lecz czas diagnozy, jakość badań i sprawna organizacja opieki nad pacjentem."
     },
     {
+      "title": "Prezes AOTMiT o zbiórce danych o płacach - Z kraju - Kurier - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/kurier/442299,prezes-aotmit-o-zbiorce-danych-o-placach",
+      "date": "2026-06-24T14:30:04Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Jeśli procedowane obecnie zmiany ustawowe wejdą w życie, Agencja Oceny Technologicznych Medycznych i Taryfikacji (AOTMiT) zamierza w październiku przeprowadzić pierwszą kompleksową zbiórkę danych i przedstawić raport o całkowitych zarobkac."
+    },
+    {
       "title": "W Elblągu neurochirurdzy usunęli rozległego guza przysadki - Podyplomie.pl",
       "url": "https://www.podyplomie.pl/aktualnosci/w-elblagu-neurochirurdzy-usuneli-rozleglego-guza-przysadki",
       "date": "2026-06-24T14:02:00Z",
@@ -356,6 +364,22 @@
       "summary": "Niemcy stoją przed amerykańskim dochodzeniem handlowym w związku z tym, co administracja Trumpa określa jako „utrzymujące się niedopłaty” za innowacyjne leki. Jamieson Greer, przedstawiciel USA ds. handlu, powiedział, że dochodzenie wykaże, czy praktyki cenowe Berlina w zakresie opatentowanych leków były „nierozsądne lub dyskryminujące” oraz „obciążały lub ograniczały” handel w USA1. Dochodzenie wszczęto w czasie, gdy prezydent Donald Trump prowadził negocjacje z kilkunastu firmami farmaceutycznymi w sprawie obniżenia cen leków w USA, stosując ceny ustalone w kilku krajach o wysokich dochodach, w tym w Niemczech, jako punkty odniesienia. Jest następstwem wielomiesięcznych rozmów między urzędnikami amerykańskimi i niemieckimi próbującymi rozstrzygnąć spór."
     },
     {
+      "title": "Brak różnic między płciami w przypadku zgonów po anafilaksji – Medscape",
+      "url": "https://www.medscape.com/viewarticle/no-gender-disparity-deaths-after-anaphylaxis-2026a1000lnc",
+      "date": "2026-06-25T12:21:04Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Pobyt w szpitalu, opłaty szpitalne i inne drugorzędne wyniki również były podobne u pacjentów płci męskiej i żeńskiej."
+    },
+    {
+      "title": "Czy bimekizumab może dorównać inhibitorom IL-23 pod względem przeżycia po leczeniu łuszczycą po niepowodzeniu inhibitora IL-17? - Medyczny",
+      "url": "https://www.medscape.com/viewarticle/can-bimekizumab-match-il-23-inhibitors-drug-survival-after-2026a1000l80",
+      "date": "2026-06-25T12:00:21Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Badanie retrospektywne wykazało, że bimekizumab zapewnia przeżycie leku porównywalne z inhibitorami interleukiny-23 po niepowodzeniu inhibitorów interleukiny-17 u pacjentów z łuszczycą."
+    },
+    {
       "title": "Sztuka i rzecznictwo: kwestie zdrowia psychicznego - BMJ",
       "url": "https://www.bmj.com/content/393/bmj-2026-100061",
       "date": "2026-06-25T11:45:35Z",
@@ -369,7 +393,7 @@
       "date": "2026-06-25T11:41:59Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "Nowe badanie analizuje wpływ krajowego programu szczepień przeciwko HPV w Anglii, rozpoczętego prawie dwie dekady temu – wykazując ogromny spadek umieralności z powodu raka szyjki macicy wśród młodych kobiet."
+      "summary": "Nowe badanie analizuje wpływ krajowego programu szczepień przeciwko HPV w Anglii, zapoczątkowanego prawie dwie dekady temu – wykazując ogromny spadek umieralności z powodu raka szyjki macicy wśród młodych kobiet."
     },
     {
       "title": "Wpływ zachęt finansowych . . . i inne badania - The BMJ",
@@ -484,22 +508,6 @@
       "summary": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B The New England Journal of Medicine."
     },
     {
-      "title": "Hiperbaryczna terapia tlenowa może pomóc w opornym na leczenie zapaleniu jelita grubego - Medscape",
-      "url": "https://www.medscape.com/viewarticle/hyperbaric-oxygen-therapy-improves-refractory-colitis-2026a1000lir",
-      "date": "2026-06-25T06:00:21Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Tlenoterapia hiperbaryczna jest dobrze tolerowana w przypadku opornego na leczenie wrzodziejącego zapalenia jelita grubego i poprawia wyniki kliniczne wraz z poprawą perfuzji jelit."
-    },
-    {
-      "title": "Czynniki kostne są niewystarczająco wykorzystywane i zmniejszają się w leczeniu raka prostaty - Medscape",
-      "url": "https://www.medscape.com/viewarticle/bone-agents-underused-and-declining-prostate-cancer-2026a1000lih",
-      "date": "2026-06-25T04:55:16Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Wielu pacjentów z opornym na kastrację rakiem prostaty z przerzutami nie otrzymuje środków modyfikujących kości pomimo zalecenia wytycznych."
-    },
-    {
       "title": "Niejednorodność ciężkiej astmy w Europie: opinia SHARP-a - The Lancet",
       "url": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(26)00165-7/fulltext",
       "date": "2026-06-25T02:58:56Z",
@@ -596,14 +604,6 @@
       "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
     },
     {
-      "title": "Budowanie potencjału w zakresie nadzoru genomicznego mpoxu i innych pojawiających się chorób w obszarach o ograniczonych zasobach w regionie Wielkich Jezior Afrykańskich - Przyroda",
-      "url": "https://www.nature.com/articles/s43856-026-01713-4",
-      "date": "2026-06-24T18:53:06Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Schuele i in. podzielą się praktycznymi spostrzeżeniami ze wspólnych inicjatyw w regionie Wielkich Jezior Afrykańskich, których celem jest poszerzenie dostępu do nadzoru genomicznego patogenu. Wskazują na zastosowania, kluczowe wyzwania i rozwiązania specyficzne dla kontekstu w zakresie ustanawiania i utrzymywania lokalnego potencjału sekwencjonowania."
-    },
-    {
       "title": "Jak wykorzystałem radio publiczne do rekrutacji 20 000 uczestników do recenzowanego badania na temat przerw na spacer – statnews.com",
       "url": "https://www.statnews.com/2026/06/24/short-walking-breaks-sitting-health-research/",
       "date": "2026-06-24T15:49:10Z",
@@ -671,6 +671,14 @@
     }
   ],
   "epidemiology": [
+    {
+      "title": "Ognisko Salmonelli w wielu krajach powiązane z kiełkami lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds",
+      "date": "2026-06-25T12:01:30Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Zgodnie z szybką oceną epidemii opublikowaną przez EFSA i ECDC, nasiona kiełkujące lucerny uznano za prawdopodobne źródło ogniska infekcji Salmonella Bovismorbificans obejmującego wiele krajów."
+    },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
@@ -1622,14 +1630,6 @@
       "summary": "Przeciwciała reagujące krzyżowo z wirusem Bundibugyo u fretek zaszczepionych szczepionką przeciwko wirusowi Ebola."
     },
     {
-      "title": "Budowanie potencjału w zakresie nadzoru genomicznego mpoxu i innych pojawiających się chorób w obszarach o ograniczonych zasobach w regionie Wielkich Jezior Afrykańskich - Przyroda",
-      "url": "https://www.nature.com/articles/s43856-026-01713-4",
-      "date": "2026-06-24T18:53:06Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Schuele i in. podzielą się praktycznymi spostrzeżeniami ze wspólnych inicjatyw w regionie Wielkich Jezior Afrykańskich, których celem jest poszerzenie dostępu do nadzoru genomicznego patogenu. Wskazują na zastosowania, kluczowe wyzwania i rozwiązania specyficzne dla kontekstu w zakresie ustanawiania i utrzymywania lokalnego potencjału sekwencjonowania."
-    },
-    {
       "title": "Webinarium WHO w nagłych przypadkach zdrowotnych EPI-WIN: Bezpieczna, skalowalna opieka nad wirusem Ebola (Bundibugyo) w Demokratycznej Republice Konga: operacje, wytyczne kliniczne i projekt ośrodków terapeutycznych - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/who-health-emergencies-epi-win-webinar-safe-scalable-ebola-(bundibugyo)-care-in-dr-congo--operations-clinical-guidelines-and-treatment-centre-design",
       "date": "2026-06-24T11:00:00Z",
@@ -1655,6 +1655,14 @@
     }
   ],
   "daily_top5": [
+    {
+      "title": "Ognisko Salmonelli w wielu krajach powiązane z kiełkami lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds",
+      "date": "2026-06-25T12:01:30Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Zgodnie z szybką oceną epidemii opublikowaną przez EFSA i ECDC, nasiona kiełkujące lucerny uznano za prawdopodobne źródło ogniska infekcji Salmonella Bovismorbificans obejmującego wiele krajów."
+    },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
@@ -1686,14 +1694,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Światowa Organizacja Zdrowia (WHO) Indonezja pragnie zaprosić Państwa do złożenia wniosku w sprawie oceny krajowych wykazów leków i zasad ograniczeń: wzorce wykorzystania i wpływ finansowy na poziomie szpitala, nr ref. RFP 043-2026. Dalsze szczegóły dotyczące niezbędnych wymagań można znaleźć w załączonej dokumentacji przetargowej. Odpowiednie ogłoszenie o przetargu dla niniejszego zapytania ofertowego jest również opublikowane w zawiadomieniu o zamówieniach WHO. W związku z tym zapraszamy do wzięcia udziału w spotkaniu online przed złożeniem oferty we wtorek 30 czerwca 2026 r. w godzinach 10:00–11:00 (czasu w Dżakarcie)."
-    },
-    {
-      "title": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B - The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2515131",
-      "date": "2026-06-25T06:45:50Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B The New England Journal of Medicine."
     }
   ]
 }
