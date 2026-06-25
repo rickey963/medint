@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-25T13:45:25Z",
+  "last_updated": "2026-06-25T13:47:32Z",
   "poland": [
+    {
+      "title": "Urtica informuje o prawdopodobnym wycieku danych osobowych. Spółka zgłasza incydent do UODO - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/urtica-informuje-o-prawdopodobnym-wycieku-danych-osobowych-spolka-zglasza-incydent-do-uodo/",
+      "date": "2026-06-25T13:44:00Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Urtica poinformowała o prawdopodobnym wycieku danych osobowych. Sprawdź, jakie dane mogły zostać ujawnione i jakie zalecenia wydano."
+    },
     {
       "title": "\"Pacjent wyjechał na wózku\". Nawet 800 zgonów rocznie z powodu tej choroby - Medonet",
       "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-zakazne/mialem-na-oddziale-kilka-zgonow-pierwsze-objawy-kleszczowego-zapalenia-mozgu-sa-mylace/df03drg",
@@ -55,7 +63,7 @@
       "date": "2026-06-25T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
+      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
     },
     {
       "title": "Jak nawodnić organizm? Sposoby na prawidłowe nawodnienie podczas upałów - DOZ",
@@ -66,20 +74,12 @@
       "summary": "Odpowiednie nawodnienie jest kluczowe dla prawidłowego funkcjonowania organizmu. Sprawdź, jak skutecznie nawodnić organizm, dlaczego picie wody ma znaczenie i jak zadbać o codzienną równowagę płynów. Dowiedz się więcej na DOZ.pl."
     },
     {
-      "title": "Świąd, bezsenność, depresja. Prof. Nowicki: ciężkości AZS nie można oceniać wyłącznie po zmianach skórnych - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/alergologia/swiad-bezsennosc-depresja-prof-nowicki-ciezkosci-azs-nie-mozna-oceniac-wylacznie-po-zmianach-skornych",
-      "date": "2026-06-25T12:06:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "Atopowe zapalenie skóry nie jest wyłącznie problemem dermatologicznym. To przewlekła choroba zapalna, która może zaburzać sen, obniżać nastrój i głęboko ingerować w życie chorego oraz jego bliskich. O roli bariery naskórkowej, znaczeniu leczenia miejscowego i momentach, w których konieczna jest eskalacja terapii, mówi „Pulsowi Medycyny” prof."
-    },
-    {
       "title": "Senat przyjął ustawę o wynagrodzeniach medyków. Dane trafią do AOTMiT z numerem PESEL lub PWZ - Alert Medyczny",
       "url": "https://alertmedyczny.pl/senat-przyjal-ustawe-o-wynagrodzeniach-medykow-dane-trafia-do-aotmit-z-numerem-pesel-lub-pwz/",
       "date": "2026-06-25T11:51:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Senat przyjął ustawę o wynagrodzeniach medyków. Dane trafią do AOTMiT z numerem PESEL lub PWZ Alert Medyczny."
+      "summary": "Senat przyjął ustawę zmieniającą zasady przekazywania danych o wynagrodzeniach medyków do AOTMiT. Dane będą powiązane z PESEL lub PWZ."
     },
     {
       "title": "Uwaga! Zbliżają się upały, ograniczajmy wyjścia na zewnątrz i pamiętajmy o ryzykach pożarowych - Gov.pl",
@@ -183,7 +183,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
+      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
     },
     {
       "title": "Asystent AI pomoże nauczycielom korzystać z wiedzy ekspertów UMW - Termedia",
@@ -192,14 +192,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Uniwersytet Medyczny we Wrocławiu oraz Connect 4 Kids pracują nad bezpłatnym narzędziem dla nauczycieli edukacji zdrowotnej. Asystent AI będzie korzystał z treści publikacji Edukacja zdrowotna. Podręcznik dla nauczycieli”, opracowanej przez ekspertów UMW."
-    },
-    {
-      "title": "Kolejna instytucja sprawdzi Szpital Południowy. Kontrolę zapowiedział Prezes UODO - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/kolejna-instytucja-sprawdzi-szpital-poludniowy-kontrole-zapowiedzial-prezes-uodo/",
-      "date": "2026-06-25T09:45:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Kolejna instytucja sprawdzi Szpital Południowy. Kontrolę zapowiedział Prezes UODO Alert Medyczny."
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -266,6 +258,14 @@
       "summary": "Ustawa dotycząca monitoringu zarobków medyków po PESEL-u jest już po dyskusji w Senacie - nie zgłosozno poprawek. Dziś odbędzie się głosowanie. - Dane przede wszystkim pomogą nam sprawdzić, jak duże jest ewentualne zjawisko kominów płacowych - tłumaczyła wiceministra zdrowia Katarzyna Kęcka."
     },
     {
+      "title": "Dane są, ale wciąż nie pracują na rzecz szpitali. Kluczem jest integracja i analiza - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Dane-sa-ale-wciaz-nie-pracuja-na-rzecz-szpitali-Kluczem-jest-integracja-i-analiza,285749,1.html",
+      "date": "2026-06-25T06:30:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Polskie placówki medyczne od lat gromadzą ogromne ilości danych. Problemem nie jest już brak informacji, ale ich rozproszenie oraz niewystarczające wykorzystanie w procesach zarządczych. Tymczasem odpowiednio analizowane dane mogą wspierać podejmowanie trafniejszych decyzji, poprawiać efektywność działania szpitali i przekładać się na lepszą opiekę nad pacjentami."
+    },
+    {
       "title": "Rozmowy w Trójstronnym Zespole zerwane - Ochrona zdrowia - mp.pl",
       "url": "https://ochronazdrowia.mp.pl/aktualnosci/442326,rozmowy-w-trojstronnym-zespole-zerwane",
       "date": "2026-06-25T06:23:19Z",
@@ -288,6 +288,14 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Coraz więcej nowoczesnych leków trafia na listy refundacyjne, ale bez szybkiej i kompleksowej diagnostyki molekularnej wielu pacjentów nie może z nich skorzystać. Eksperci uczestniczący w debacie podczas Kompendium Oncology Exchange podkreślali, że o skuteczności leczenia coraz częściej decyduje nie dostępność terapii, lecz czas diagnozy, jakość badań i sprawna organizacja opieki nad pacjentem."
+    },
+    {
+      "title": "Przełom w leczeniu raka płuca. Część chorych może żyć nawet 7 lat bez progresji choroby [ASCO 2026] - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/medycyna/onkologia/przelom-w-leczeniu-raka-pluca-czesc-chorych-moze-zyc-nawet-7-lat-bez-progresji-choroby-asco-2026/",
+      "date": "2026-06-24T13:50:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Rak płuca staje się chorobą przewlekłą, czego dowodzą kolejne analizy. Badanie III fazy CROWN, które przedstawiono podczas tegorocznego kongresu ASCO w Chicago wykazało, że 55 proc. pacjentów z NDRP ALK+, którzy otrzymywali inhibitor ALK trzeciej generacji w pierwszej linii leczenia, żyje 7 lat bez progresji choroby."
     },
     {
       "title": "NIL przedstawiła postulaty zmian w ochronie zdrowia - Remedium.md",
@@ -1260,6 +1268,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Candel Therapeutics mianuje Marka Simsa na stanowisko dyrektora handlowego BioSpace",
+      "url": "https://www.biospace.com/press-releases/candel-therapeutics-appoints-mark-sims-as-chief-commercial-officer",
+      "date": "2026-06-25T13:44:54Z",
+      "source": "BioSpace",
+      "confirmed_by": 1,
+      "summary": "NEEDHAM, Massachusetts, 25 czerwca 2026 r. (GLOBE NEWSWIRE) — Candel Therapeutics, Inc. (Candel lub the Company) (Nasdaq: CADL), firma biofarmaceutyczna na etapie klinicznym, skupiająca się na opracowywaniu multimodalnych immunoterapii w celu poprawy wyników leczenia pacjentów chorych na raka, ogłosiła dzisiaj mianowanie Marka Simsa na stanowisko dyrektora handlowego firmy ze skutkiem od 6 lipca 2026 r."
+    },
+    {
       "title": "Nuvation Bio ogłasza proponowaną ofertę zamiennych obligacji Senior Notes – BioSpace",
       "url": "https://www.biospace.com/press-releases/nuvation-bio-announces-proposed-convertible-senior-notes-offering",
       "date": "2026-06-25T12:46:49Z",
@@ -1522,14 +1538,6 @@
       "source": "BioSpace",
       "confirmed_by": 1,
       "summary": "CardioMech wzmacnia zespół kierowniczy, aby przyspieszyć rozwój technologii minimalnie inwazyjnej naprawy zastawki mitralnej (TMVr) opartej na cewniku."
-    },
-    {
-      "title": "Picard Medical ogłasza zmianę przywództwa - BioSpace",
-      "url": "https://www.biospace.com/press-releases/picard-medical-announces-leadership-transition",
-      "date": "2026-06-24T13:28:23Z",
-      "source": "BioSpace",
-      "confirmed_by": 1,
-      "summary": "Prezes Richard Fang mianowany tymczasowym dyrektorem generalnym."
     },
     {
       "title": "Ollin uzupełnia kwotę 330 mln dolarów na wsparcie kluczowych testów pretendenta Vabysmo – BioPharma Dive",
