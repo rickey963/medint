@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T13:50:03Z",
+  "last_updated": "2026-06-25T13:53:46Z",
   "poland": [
     {
       "title": "Urtica informuje o prawdopodobnym wycieku danych osobowych. Spółka zgłasza incydent do UODO - Alert Medyczny",
@@ -7,7 +7,7 @@
       "date": "2026-06-25T13:44:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Urtica informuje o prawdopodobnym wycieku danych osobowych. Spółka zgłasza incydent do UODO Alert Medyczny."
+      "summary": "Urtica poinformowała o prawdopodobnym wycieku danych osobowych. Sprawdź, jakie dane mogły zostać ujawnione i jakie zalecenia wydano."
     },
     {
       "title": "\"Pacjent wyjechał na wózku\". Nawet 800 zgonów rocznie z powodu tej choroby - Medonet",
@@ -42,6 +42,14 @@
       "summary": "Uwaga! Zbliżają się upały, ograniczajmy wyjścia na zewnątrz i pamiętajmy o ryzykach pożarowych."
     },
     {
+      "title": "Komunikat w sprawie jakości wody do kąpieli na Kąpielisku Jastrowie z dnia 25.06.2026 - Gov.pl",
+      "url": "https://www.gov.pl/web/psse-zlotow/komunikat-w-sprawie-jakosci-wody-kaipelisko-jastrowie-z-dnia-25062026",
+      "date": "2026-06-25T12:39:36Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Komunikat w sprawie jakości wody do kąpieli na Kąpielisku Jastrowie z dnia 25.06.2026 Gov.pl."
+    },
+    {
       "title": "KSK – MZ chce premiować jakość w szpitalach - Kardiologia - Medycyna Praktyczna",
       "url": "https://kardiologia.mp.pl/wiadomosci/442363,ksk-mz-chce-premiowac-jakosc-w-szpitalach",
       "date": "2026-06-25T12:31:34Z",
@@ -63,7 +71,7 @@
       "date": "2026-06-25T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
+      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
     },
     {
       "title": "Jak nawodnić organizm? Sposoby na prawidłowe nawodnienie podczas upałów - DOZ",
@@ -79,7 +87,7 @@
       "date": "2026-06-25T11:51:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Senat przyjął ustawę o wynagrodzeniach medyków. Dane trafią do AOTMiT z numerem PESEL lub PWZ Alert Medyczny."
+      "summary": "Senat przyjął ustawę zmieniającą zasady przekazywania danych o wynagrodzeniach medyków do AOTMiT. Dane będą powiązane z PESEL lub PWZ."
     },
     {
       "title": "Uwaga! Zbliżają się upały, ograniczajmy wyjścia na zewnątrz i pamiętajmy o ryzykach pożarowych - Gov.pl",
@@ -106,20 +114,12 @@
       "summary": "Prawo i Sprawiedliwość pokazało swoje pomysły na uregulowanie systemu wynagradzania lekarzy. Specjalny raport wskazujący m.in. na utworzenie centralnego rejestru umów czy większą kontrolę państwa nad rynkiem usług medycznych to pokłosie afery w Szpitalu Południowym."
     },
     {
-      "title": "Komunikat dotyczący jakości wody w kąpielisku pn. „Kąpielisko Miejskie” przy ul. Rybackiej 4 w Opolu Lubelskim 25.06.2026 - Gov.pl",
-      "url": "https://www.gov.pl/web/psse-opole-lubelskie/komunikat-dotyczacy-jakosci-wody-w-kapielisku-pn-kapielisko-miejskie-przy-ul-rybackiej-4-w-opolu-lubelskim-25062026",
-      "date": "2026-06-25T11:35:03Z",
+      "title": "Komunikat dotyczący jakości wody w kąpielisku pn. „W Dolinie 10. Stawów” przy ul. Spacerowej w Poniatowej 25.06.2026 - Gov.pl",
+      "url": "https://www.gov.pl/web/psse-opole-lubelskie/komunikat-dotyczacy-jakosci-wody-w-kapielisku-pn-w-dolinie-10-stawow-przy-ul-spacerowej-w-poniatowej-25062026",
+      "date": "2026-06-25T11:38:49Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Komunikat dotyczący jakości wody w kąpielisku pn. „Kąpielisko Miejskie” przy ul. Rybackiej 4 w Opolu Lubelskim 25.06.2026 Gov.pl."
-    },
-    {
-      "title": "Zaproszenie na panel dyskusyjny „Po męsku o zdrowiu” - Gov.pl",
-      "url": "https://www.gov.pl/web/zdrowie/zaproszenie-na-panel-dyskusyjny-po-mesku-o-zdrowiu2",
-      "date": "2026-06-25T11:22:04Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Z okazji przypadającego w tym tygodniu Dnia Ojca zapraszamy na okolicznościowy panel dyskusyjny „Po męsku o zdrowiu”."
+      "summary": "Komunikat dotyczący jakości wody w kąpielisku pn. „W Dolinie 10. Stawów” przy ul."
     },
     {
       "title": "Młodzi lekarze zarzucają rządowi wybiórcze podejście do jawności finansów publicznych - Podyplomie.pl",
@@ -183,7 +183,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
+      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
     },
     {
       "title": "Asystent AI pomoże nauczycielom korzystać z wiedzy ekspertów UMW - Termedia",
@@ -380,6 +380,14 @@
       "summary": "Jonathan Bassett/The Wellcome Collection Kolekcja Wellcome otwiera tego lata dwie równoległe wystawy przedstawiające opiekę i leczenie pacjentów cierpiących na choroby psychiczne w Wielkiej Brytanii. Audrey Amissa: …."
     },
     {
+      "title": "Szczepienia przeciwko HPV powiązane z radykalnym zmniejszeniem liczby zgonów z powodu raka szyjki macicy – ​​Natura",
+      "url": "https://www.nature.com/articles/d41591-026-00033-3",
+      "date": "2026-06-25T11:41:59Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Nowe badanie analizuje wpływ krajowego programu szczepień przeciwko HPV w Anglii, rozpoczętego prawie dwie dekady temu – wykazując ogromny spadek umieralności z powodu raka szyjki macicy wśród młodych kobiet."
+    },
+    {
       "title": "Wpływ zachęt finansowych . . . i inne badania - The BMJ",
       "url": "https://www.bmj.com/content/393/bmj-2026-597013",
       "date": "2026-06-25T10:45:48Z",
@@ -388,12 +396,44 @@
       "summary": "Tom Nolan dokonuje przeglądu badań z tego tygodnia. Karbocysteina i hipertoniczna sól fizjologiczna są często stosowane w leczeniu krytycznie chorych pacjentów z ostrą niewydolnością oddechową i trudnymi do usunięcia wydzielinami. W dużym, randomizowanym, kontrolowanym badaniu ponuro stwierdzono, że żadna z interwencji nie skracała czasu trwania wentylacji mechanicznej i każda z nich wiązała się ze szkodami. W badaniu 1956 uczestników przydzielono losowo do grupy otrzymującej karbocysteinę (750 mg trzy razy dziennie, dojelitowo), hipertoniczny roztwór soli fizjologicznej w nebulizacji (4 ml cztery razy dziennie), oba leki lub zwykłą terapię."
     },
     {
+      "title": "Ebola: Francja ogłasza pierwszy przypadek po powrocie z DRK – pozytywny wynik testu lekarza – BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-100079",
+      "date": "2026-06-25T10:45:28Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Francuscy urzędnicy podali, że lekarz we Francji uzyskał pozytywny wynik testu na obecność wirusa Ebola po powrocie z misji humanitarnej w Demokratycznej Republice Konga (DRK). Pacjent, którego przypadek jest pierwszym w historii odnotowanym we Francji, został natychmiast przyjęty na specjalistyczny oddział szpitalny, a jego stan jest „stabilny” – podało francuskie ministerstwo zdrowia. Minister zdrowia Stéphanie Rist powiedziała, że ​​pięciu pasażerów znajdujących się najbliżej pacjenta miało…."
+    },
+    {
       "title": "Classroom of Elite Manga: Przeczytaj oficjalne rozdziały i spoilery – Biblioteka Cochrane",
       "url": "https://www.cochranelibrary.com/documents/20195/493911647/Classroom+of+the+Elite+Manga_+Read+Official+Chapters+%26+Spoilers+%287%29.pdf/",
       "date": "2026-06-25T09:53:57Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
       "summary": "Klasa elitarnej mangi: Przeczytaj oficjalne rozdziały i spoilery Cochrane Library."
+    },
+    {
+      "title": "Leczenie indukcyjne oparte na teklistamabie u nowo zdiagnozowanego szpiczaka mnogiego kwalifikującego się do przeszczepu: badanie II fazy - Natura",
+      "url": "https://www.nature.com/articles/s41591-026-04471-x",
+      "date": "2026-06-25T09:53:47Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "W trwającym badaniu II fazy GMMG-HD10/DSMM-XX (MajesTEC-5) u pacjentów z kwalifikującym się do przeszczepu, nowo zdiagnozowanym szpiczakiem mnogim, indukcja za pomocą bispecyficznego teklistamabu angażującego BCMA×CD3 w skojarzeniu z daratumumabem i lenalidomidem, z bortezomibem lub bez, miała podobny profil toksyczności jak inne schematy dwuswoiste, przy zachęcającym i głębokim odsetku odpowiedzi."
+    },
+    {
+      "title": "Metaboliczne determinanty wyników immunoterapii nowotworów zidentyfikowane za pomocą profilowania osocza - Natura",
+      "url": "https://www.nature.com/articles/s41591-026-04481-9",
+      "date": "2026-06-25T09:49:52Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Analiza metabolomiczna próbek osocza oparta na spektrometrii mas od wielu kohort pacjentów leczonych immunoterapią w pięciu różnych typach nowotworów, a następnie uczenie maszynowe umożliwiło identyfikację sygnatur metabolicznych, a także badanie funkcjonalne, ujawnia związek zwiększonego poziomu histydyny w osoczu z przedłużonym przeżyciem i jej potencjałem w zakresie interwencji terapeutycznej."
+    },
+    {
+      "title": "Neoadjuwantowa stereotaktyczna radioterapia ciała durwalumabem i oleclumabem na ostrym dyżurze - Nature",
+      "url": "https://www.nature.com/articles/s41591-026-04453-z",
+      "date": "2026-06-25T09:49:51Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "W randomizowanym badaniu II fazy Neo-CheckRay pacjentki z rakiem piersi ER+HER2− we wczesnym stadium zaawansowania otrzymywały neoadjuwantową immunomodulującą stereotaktyczną radioterapię z durwalumabem lub bez niego oraz z oleklumabem z przeciwciałem anty-CD73 lub bez niego, co doprowadziło do zachęcających odpowiedzi klinicznych po dodaniu durwalumabu, w tym u pacjentów z guzami z ujemnym statusem PD-L1."
     },
     {
       "title": "Opieka podstawowa spotyka się ze sztuczną inteligencją - Medscape",
@@ -418,6 +458,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "W czasie, gdy późna diagnoza w dalszym ciągu zagraża życiu tysięcy kobiet, prowincja Huíla podejmuje zdecydowany krok, wzmacniając profilaktykę i wczesne wykrywanie nowotworów."
+    },
+    {
+      "title": "Inspirowanie, kształtowanie i utrzymywanie afrykańskiego programu badań i rozwoju - Natura",
+      "url": "https://www.nature.com/articles/s41591-026-04480-w",
+      "date": "2026-06-25T08:00:34Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Dlaczego Afryka potrzebuje regionalnych ośrodków badawczo-rozwojowych w zakresie podstawowych badań naukowych i tłumaczeń, aby przyspieszyć lokalną produkcję."
     },
     {
       "title": "Kanada wprowadza ustawę o bezpiecznych mediach społecznościowych w celu ochrony dzieci – Medscape",
@@ -460,12 +508,12 @@
       "summary": "Tlenoterapia hiperbaryczna jest dobrze tolerowana w przypadku opornego na leczenie wrzodziejącego zapalenia jelita grubego i poprawia wyniki kliniczne wraz z poprawą perfuzji jelit."
     },
     {
-      "title": "Orv Hetil – Lista treści – Medscape",
-      "url": "https://www.medscape.com/viewpublication/8060_992",
-      "date": "2026-06-25T05:09:01Z",
+      "title": "Czynniki kostne są niewystarczająco wykorzystywane i zmniejszają się w leczeniu raka prostaty - Medscape",
+      "url": "https://www.medscape.com/viewarticle/bone-agents-underused-and-declining-prostate-cancer-2026a1000lih",
+      "date": "2026-06-25T04:55:16Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Orv Hetil – Lista treści Medscape."
+      "summary": "Wielu pacjentów z opornym na kastrację rakiem prostaty z przerzutami nie otrzymuje środków modyfikujących kości pomimo zatwierdzenia wytycznych."
     },
     {
       "title": "CME | Tygodnik NEJM CME – The New England Journal of Medicine",
@@ -508,14 +556,6 @@
       "summary": "Dowody wskazują, że samo ustawodawstwo nie wystarczy Rządy na całym świecie rozważają wprowadzenie ograniczeń wiekowych dla mediów społecznościowych w związku z obawami dotyczącymi szkód w Internecie i zdrowia psychicznego123. W czerwcu 2026 r. rząd Wielkiej Brytanii ogłosił, że wprowadzi przepisy, wyraźnie wzorowane na podejściu Australii, zakazujące platformom mediów społecznościowych oferowania usług osobom poniżej 16. roku życia, przy czym ochrona ma nastąpić wiosną 2027 r.4 Jednak pierwsza prospektywna ocena krajowych ograniczeń wiekowych w mediach społecznościowych wykazała w dużej mierze zerowe ustalenia, a ich interpretacja jest nie proste. W powiązanym badaniu (doi:10.1136/bmj-2026-363695) Barnes i współpracownicy przedstawiają ograniczone dowody na krótkoterminowy wpływ australijskiej ustawy o minimalnym wieku mediów społecznościowych na korzystanie przez nastolatków z mediów społecznościowych.5 Wyniki nieuchronnie ukształtują debaty w krajach rozważających podobną politykę. Kluczowym pytaniem nie jest jednak to, czy polityka ta okazała się skuteczna."
     },
     {
-      "title": "Badania pokazują, że australijski zakaz korzystania z mediów społecznościowych dla osób poniżej 16 roku życia jest powszechnie obchodzony, ponieważ Wielka Brytania planuje podobne ograniczenia – BMJ",
-      "url": "https://www.bmj.com/content/393/bmj-2026-100067",
-      "date": "2026-06-24T23:28:15Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Nowe dane wskazują, że australijski zakaz korzystania z mediów społecznościowych dla osób poniżej 16 roku życia nie ograniczył korzystania z nich przez młodzież, a badacze doszli do wniosku, że obecne weryfikacje wieku na platformach są „nieoptymalne”.1 Odkrycie, choć wstępne, ma konsekwencje dla Wielkiej Brytanii, która planuje podobny całkowity zakaz korzystania z platform mediów społecznościowych przez osoby poniżej 16 roku życia, takie jak Snapchat, TikTok, YouTube, Instagram, Facebook i X.2 W badaniu obserwacyjnym wzięło udział 436 osób w wieku od 12 do 17 lat. w Nowej Południowej Walii, którzy zostali objęci ankietą na krótko przed wejściem w życie australijskiej ustawy o minimalnym wieku mediów społecznościowych w grudniu 2025 r. i ponownie około trzy miesiące później. Uczestników zapytano o ich nawyki związane z korzystaniem z mediów społecznościowych w ciągu ostatnich siedmiu dni oraz doświadczenia z kontrolami weryfikacyjnymi platformy i wszelkimi próbami ich obejścia. Jak wynika z badania opublikowanego w The BMJ, ponad 85% ankietowanych stwierdziło, że nadal korzysta z platform mediów społecznościowych, głównie za pośrednictwem własnych kont."
-    },
-    {
       "title": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej - The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01023-8/fulltext?rss=yes",
       "date": "2026-06-24T23:27:46Z",
@@ -540,14 +580,6 @@
       "summary": "Aby sprostać szybko zmieniającym się potrzebom, konieczne są nowe reakcje: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach The Lancet."
     },
     {
-      "title": "25 czerwca 2026 r. — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/image-challenge%20ci=20180719?ci=20260625&startFrom=1&startPage=1",
-      "date": "2026-06-24T22:22:35Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "25 czerwca 2026 r. The New England Journal of Medicine."
-    },
-    {
       "title": "Wydatki na opiekę zdrowotną w USA gwałtownie wzrosły w 2025 r. dzięki stosowaniu GLP-1 i większej opiece zdrowotnej – statnews.com",
       "url": "https://www.statnews.com/2026/06/24/health-care-spending-up-7-point-3-percent-6-trillion-dollars-2026/",
       "date": "2026-06-24T20:05:29Z",
@@ -562,6 +594,14 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Eli Lilly inwestuje w mały start-up opracowujący lek przyspieszający porost włosów i potencjalnie leczący endometriozę."
+    },
+    {
+      "title": "Korekta wydawcy: Doustny małocząsteczkowy agonista receptora GLP-1, aleniglipron u osób z nadwagą lub otyłością: randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 2b - Nature",
+      "url": "https://www.nature.com/articles/s41591-026-04532-1",
+      "date": "2026-06-24T18:56:53Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
     },
     {
       "title": "Jak wykorzystałem radio publiczne do rekrutacji 20 000 uczestników do recenzowanego badania na temat przerw na spacer – statnews.com",
@@ -588,14 +628,6 @@
       "summary": "Nowe badanie opublikowane w Nature wykorzystuje sztuczną inteligencję do identyfikacji osób z wysokim ryzykiem nagłej śmierci sercowej i wskazuje możliwą przyczynę."
     },
     {
-      "title": "W BIO rzut okiem na partnerstwo Lilly i Chai – statnews.com",
-      "url": "https://www.statnews.com/2026/06/24/biotech-news-bio-2026-glimpse-behind-lilly-and-chai-partnership/",
-      "date": "2026-06-24T15:15:16Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "RIP Sangamo, rozwój produkcji leków i więcej wiadomości biotechnologicznych z The Readout."
-    },
-    {
       "title": "655 milionów ludzi nadal żyjących bez prądu podkreśla pilną potrzebę osiągnięcia celu dotyczącego powszechnego dostępu do energii – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target",
       "date": "2026-06-24T12:08:26Z",
@@ -604,36 +636,12 @@
       "summary": "Najnowsze dane wskazują na nierówny postęp, co podkreśla pilną potrzebę skupienia się na przystępności cenowej i społecznościach bezbronnych."
     },
     {
-      "title": "Interwencje w zakresie samoopieki na rzecz zdrowia i dobrego samopoczucia: Zestaw narzędzi komunikacyjnych 2026 – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/publications/m/item/self-care-interventions-for-health-and-well-being--communications-toolkit-2026",
-      "date": "2026-06-24T10:37:25Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Ten zestaw narzędzi wspiera komunikację na temat wytycznych WHO dotyczących interwencji w zakresie samoopieki na rzecz zdrowia i dobrego samopoczucia, wersja z 2022 r. Niniejsze wytyczne stanowią ramy dla interwencji w zakresie samoopieki, zaleceń, stwierdzeń o dobrych praktykach i kluczowych rozważań dotyczących ich wdrożenia."
-    },
-    {
       "title": "Łączony przeszczep pęcherza i nerki: pierwsza próba wykonalności na ludziach - The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00718-X/abstract",
       "date": "2026-06-24T07:56:28Z",
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Łączony przeszczep pęcherza i nerki: pierwsza próba wykonalności na ludziach The Lancet."
-    },
-    {
-      "title": "Przeszczep nerki i pęcherza: nowa definicja możliwości chirurgicznych u pacjentów ze współistniejącą chorobą pęcherza i nerek - The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01025-1/abstract",
-      "date": "2026-06-24T07:56:18Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Przeszczep nerki i pęcherza: nowa definicja możliwości chirurgicznych dla pacjentów ze współistniejącą chorobą pęcherza i nerek The Lancet."
-    },
-    {
-      "title": "Plagiat i zdublowana publikacja - Natura",
-      "url": "https://www.nature.com/npjhydrosph/editorial-policies/plagiarism",
-      "date": "2026-06-23T18:49:58Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Plagiat i zdublowana publikacja."
     }
   ],
   "guidelines": [
@@ -1460,14 +1468,6 @@
       "summary": "Antares Therapeutics podpisuje z góry umowę o wartości 105 mln dolarów z firmą Novartis na odkrycie małych cząsteczek przeciwko nieuleczalnym celom nowotworowym, a kamienie milowe osiągną kwotę do 1,8 mld dolarów."
     },
     {
-      "title": "Sztuczna inteligencja Medicare wpędza pacjentów i lekarzy w błędy i opóźnienia – Drugs.com",
-      "url": "https://www.drugs.com/news/medicare-s-ai-push-snarls-patients-doctors-errors-delays-130442.html",
-      "date": "2026-06-24T14:48:24Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Sztuczna inteligencja Medicare wpędza pacjentów i lekarzy w błędy i opóźnienia Drugs.com."
-    },
-    {
       "title": "Sangamo organizuje sprzedaż upadłościową; VC wspierają powiązanego z Chinami konkurenta Beam – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/sangamo-bankruptcy-serapha-china-saturnus-cenrifki-carsgen/823588/",
       "date": "2026-06-24T14:44:50Z",
@@ -1612,6 +1612,14 @@
       "source": "ECDC",
       "confirmed_by": 2,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
+    },
+    {
+      "title": "Ebola: Francja ogłasza pierwszy przypadek po powrocie z DRK – pozytywny wynik testu lekarza – BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-100079",
+      "date": "2026-06-25T10:45:28Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Francuscy urzędnicy podali, że lekarz we Francji uzyskał pozytywny wynik testu na obecność wirusa Ebola po powrocie z misji humanitarnej w Demokratycznej Republice Konga (DRK). Pacjent, którego przypadek jest pierwszym w historii odnotowanym we Francji, został natychmiast przyjęty na specjalistyczny oddział szpitalny, a jego stan jest „stabilny” – podało francuskie ministerstwo zdrowia. Minister zdrowia Stéphanie Rist powiedziała, że ​​pięciu pasażerów znajdujących się najbliżej pacjenta miało…."
     },
     {
       "title": "Przeciwciała reagujące krzyżowo z wirusem Bundibugyo u fretek zaszczepionych szczepionką przeciwko wirusowi Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
