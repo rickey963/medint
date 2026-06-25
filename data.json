@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T19:19:58Z",
+  "last_updated": "2026-06-25T19:22:00Z",
   "poland": [
     {
       "title": "Komunikaty i ostrzeżenia (strona 11) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Płońsku - Gov.pl",
@@ -127,7 +127,7 @@
       "date": "2026-06-25T14:30:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
+      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
     },
     {
       "title": "Sobierańska-Grenda o Szpitalu Południowym: państwo zareagowało w sposób natychmiastowy - PolitykaZdrowotna.com",
@@ -167,7 +167,7 @@
       "date": "2026-06-25T13:44:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Urtica poinformowała o prawdopodobnym wycieku danych osobowych. Sprawdź, jakie dane mogły zostać ujawnione i jakie zalecenia wydano."
+      "summary": "Urtica informuje o prawdopodobnym wycieku danych osobowych. Spółka zgłasza incydent do UODO Alert Medyczny."
     },
     {
       "title": "\"Pacjent wyjechał na wózku\". Nawet 800 zgonów rocznie z powodu tej choroby - Medonet",
@@ -215,7 +215,7 @@
       "date": "2026-06-25T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
+      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
     },
     {
       "title": "Świąd, bezsenność, depresja. Prof. Nowicki: ciężkości AZS nie można oceniać wyłącznie po zmianach skórnych - Puls Medycyny",
@@ -271,7 +271,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
+      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -340,14 +340,6 @@
   ],
   "world": [
     {
-      "title": "Proponowane biuro naukowe CDC mogłoby zaostrzyć kontrolę polityczną w agencji – statnews.com",
-      "url": "https://www.statnews.com/2026/06/25/cdc-new-science-office-tighter-political-control/",
-      "date": "2026-06-25T16:15:37Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Pod rządami Trumpa przywódcy polityczni sprawują większą kontrolę nad federalnymi agencjami zdrowia."
-    },
-    {
       "title": "Antysemityzm: lekarze żądają, aby NHS porzuciła kontrowersyjną definicję i wezwała do „wstrzymania” recenzji Manna - The BMJ",
       "url": "https://www.bmj.com/content/393/bmj-2026-100085",
       "date": "2026-06-25T15:49:15Z",
@@ -356,28 +348,12 @@
       "summary": "BMA będzie lobbować w NHS, aby zaprzestała obowiązkowego przyjmowania definicji antysemityzmu przyjętej przez Międzynarodowy Sojusz na rzecz Pamięci o Holokauście (IHRA). Przemawiając na dorocznym spotkaniu przedstawicieli związku w Brighton, członkowie ostrzegli, że definicja IHRA została „uzbrojona” w celu rozprawienia się z wolnością słowa. W odrębnym wniosku członkowie BMA wezwali także do natychmiastowego wstrzymania wdrażania zaleceń wynikających z niedawnego rządowego przeglądu Manna ze względu na jego wpływ na wolność słowa."
     },
     {
-      "title": "Demokraci naciskają na Biały Dom, kto ma specjalny dostęp do nowego leku na otyłość Eli Lilly – statnews.com",
-      "url": "https://www.statnews.com/2026/06/25/senate-hassan-questions-rfk-jr-eli-lilly-retatrutide-trial-trump/",
-      "date": "2026-06-25T15:05:33Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Niezwykły dostęp do eksperymentalnego leku przykuł uwagę także amerykańskiej opinii publicznej."
-    },
-    {
       "title": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów – NEJM AI",
       "url": "https://ai.nejm.org/doi/full/10.1056/AI-S2600646?query=recirc_crossjournalmorepubs",
       "date": "2026-06-25T15:01:06Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
-    },
-    {
-      "title": "Narzędzia CRISPR nowej generacji poprawiają dokładność edycji zarodków, ale budzą także wątpliwości etyczne – statnews.com",
-      "url": "https://www.statnews.com/2026/06/25/crispr-base-editing-human-embryo-study/",
-      "date": "2026-06-25T15:00:33Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Naukowcy podają, że zastosowanie edycji genomu we wczesnych embrionach odsłoniło zasłonę dotyczącą roli jednego z kluczowych genów odpowiedzialnych za pierwsze etapy rozwoju człowieka."
     },
     {
       "title": "Strajk: w Irlandii Północnej rozpoczyna się akcja protestacyjna lekarzy szpitalnych – BMJ",
@@ -476,30 +452,6 @@
       "summary": "Mirvetuximab nie uzyskał pozytywnego wyniku w pierwszym randomizowanym badaniu oceniającym koniugat przeciwciało-lek i standardową karboplatynę u pacjentek z rakiem jajnika wrażliwym na platynę."
     },
     {
-      "title": "Moja dorosła córka ma zespół Downa. Jej życie jest zupełnie inne, niż oczekiwali eksperci – statnews.com",
-      "url": "https://www.statnews.com/2026/06/25/prenatal-down-syndrome-diagnosis-screening-life-expectancy-health-facts/",
-      "date": "2026-06-25T08:35:48Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "„Kobiety są w pełni zdolne do podejmowania trudnych decyzji, ale znaczący wybór wymaga wiarygodnych, sprawdzonych informacji” – pisze Michelle Sie Whitten z Global Down Syndrome Foundation."
-    },
-    {
-      "title": "Dwupartyjny projekt ustawy ma umożliwić bezpośrednie przepisywanie metadonu w leczeniu uzależnienia od opioidów – statnews.com",
-      "url": "https://www.statnews.com/2026/06/25/bipartisan-bill-methadone-prescription-pharmacy-pickup/",
-      "date": "2026-06-25T08:34:59Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Metadon na uzależnienie od opioidów był dostępny wyłącznie w specjalistycznych klinikach. Dwupartyjna ustawa znacznie rozszerzyłaby dostęp."
-    },
-    {
-      "title": "Biosecure nie powstrzymało rozwoju biotechnologii w Chinach. Niektórzy prawodawcy chcą zrobić więcej – statnews.com",
-      "url": "https://www.statnews.com/2026/06/25/china-biotech-next-steps-after-biosecure-act/",
-      "date": "2026-06-25T08:30:49Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Kładą podwaliny pod ustawodawstwo i regulacje mające na celu przeciwdziałanie chińskim firmom biofarmaceutycznym."
-    },
-    {
       "title": "Inspirowanie, kształtowanie i utrzymywanie afrykańskiego programu badań i rozwoju - Natura",
       "url": "https://www.nature.com/articles/s41591-026-04480-w",
       "date": "2026-06-25T08:00:34Z",
@@ -548,6 +500,14 @@
       "summary": "Wielu pacjentów z opornym na kastrację rakiem prostaty z przerzutami nie otrzymuje środków modyfikujących kości pomimo zalecenia wytycznych."
     },
     {
+      "title": "Jedna trzecia stypendiów z zakresu dermatologii dziecięcej nie jest równa - Medscape",
+      "url": "https://www.medscape.com/viewarticle/one-third-pediatric-dermatology-fellowships-fail-match-2026a1000lid",
+      "date": "2026-06-25T04:05:58Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Wiele stanowisk w ramach stypendiów z zakresu dermatologii dziecięcej pozostaje nieobsadzonych w latach 2009–2023, co uwydatnia ciągły niedobór siły roboczej i regionalne dysproporcje w dostępie do opieki."
+    },
+    {
       "title": "Niejednorodność ciężkiej astmy w Europie: opinia SHARP-a - The Lancet",
       "url": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(26)00165-7/fulltext",
       "date": "2026-06-25T02:58:56Z",
@@ -577,7 +537,7 @@
       "date": "2026-06-25T00:59:01Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "CME | Tygodnik NEJM CME The New England Journal of Medicine."
+      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
     },
     {
       "title": "Polityka szpitala dotycząca kwasu traneksamowego mająca na celu ograniczenie transfuzji podczas poważnych operacji niekardiochirurgicznych — The New England Journal of Medicine",
@@ -612,6 +572,22 @@
       "summary": "Aby sprostać szybko zmieniającym się potrzebom, potrzebne są nowe reakcje: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach The Lancet."
     },
     {
+      "title": "25 czerwca 2026 r. — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/image-challenge%20ci=20180719?ci=20260625",
+      "date": "2026-06-24T22:52:02Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "25 czerwca 2026 r. The New England Journal of Medicine."
+    },
+    {
+      "title": "Korekta wydawcy: Doustny małocząsteczkowy agonista receptora GLP-1, aleniglipron u osób z nadwagą lub otyłością: randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 2b - Nature",
+      "url": "https://www.nature.com/articles/s41591-026-04532-1",
+      "date": "2026-06-24T18:56:53Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
+    },
+    {
       "title": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania różnymi metodami – The Lancet",
       "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00285-3/fulltext",
       "date": "2026-06-24T13:24:41Z",
@@ -620,12 +596,28 @@
       "summary": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania przeprowadzonego różnymi metodami The Lancet."
     },
     {
+      "title": "Jak wykorzystałem radio publiczne do rekrutacji 20 000 uczestników do recenzowanego badania na temat przerw na spacer – statnews.com",
+      "url": "https://www.statnews.com/?p=1488515",
+      "date": "2026-06-24T09:06:41Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "„Przy odpowiedniej strukturze Amerykanie zakasają rękawy, podejmą naukę i zaufają wynikowi” – ​​pisze Manoush Zomorodi."
+    },
+    {
       "title": "Łączony przeszczep pęcherza i nerki: pierwsza próba wykonalności na ludziach - The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00718-X/abstract",
       "date": "2026-06-24T07:56:28Z",
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Łączony przeszczep pęcherza i nerki: pierwsza próba wykonalności na ludziach The Lancet."
+    },
+    {
+      "title": "Przeszczep nerki i pęcherza: nowa definicja możliwości chirurgicznych u pacjentów ze współistniejącą chorobą pęcherza i nerek - The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01025-1/abstract",
+      "date": "2026-06-24T07:56:18Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Przeszczep nerki i pęcherza: nowa definicja opcji chirurgicznych dla pacjentów ze współistniejącą chorobą pęcherza i nerek The Lancet."
     }
   ],
   "guidelines": [
@@ -906,22 +898,6 @@
       "summary": "Jonathan Andrus, CRIO, o tym, dlaczego fragmentacja danych sponsorów witryny utrzymuje się i co może z tym zrobić Central eSource. Stosowane badania kliniczne online."
     },
     {
-      "title": "Szczegóły badania | NCT07664410 | Teranostyczny PET do walidacji celu i wykrywania nowotworu – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07664410",
-      "date": "2026-06-25T10:55:55Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07664410 | Teranostyczny PET do walidacji celu i wykrywania nowotworu ClinicalTrials.gov."
-    },
-    {
-      "title": "Szczegóły badania | NCT07666997 | Bezpieczeństwo antykoncepcyjnego miedzianego pierścienia dopochwowego - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07666997",
-      "date": "2026-06-25T10:49:34Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07666997 | Bezpieczeństwo antykoncepcyjnego miedzianego pierścienia dopochwowego ClinicalTrials.gov."
-    },
-    {
       "title": "BIO 2026: Jak cięcia NIH zagroziły konkurencyjności USA w stosunku do Chin – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/bio-2026-how-nih-cuts-have-threatened-us-competitiveness-against-china/",
       "date": "2026-06-25T10:42:53Z",
@@ -952,6 +928,14 @@
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Wielka Brytania zapisuje sukces Hiszpanii w wyścigu do globalnej konkurencyjności badań klinicznych Clinical Trials Arena."
+    },
+    {
+      "title": "Szczegóły badania | NCT07664904 | Związek periostyny ​​i ODI, EQ-5D - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07664904",
+      "date": "2026-06-25T09:39:50Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07664904 | Związek periostyny ​​i ODI, EQ-5D ClinicalTrials.gov."
     },
     {
       "title": "UCLA i CHLA dołączają do Globalnej Sieci Badań nad Autyzmem – Trialsitenews.com",
