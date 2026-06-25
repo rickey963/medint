@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T00:48:21Z",
+  "last_updated": "2026-06-25T00:48:47Z",
   "poland": [
     {
       "title": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. - Alert Medyczny",
@@ -7,7 +7,7 @@
       "date": "2026-06-24T23:28:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. Alert Medyczny."
+      "summary": "MZ wyjaśnia zasady refundacji generyków dapagliflozyny od 1 lipca 2026 r. Sprawdź wskazania, ograniczenia patentowe i zasady zamiany leków."
     },
     {
       "title": "Leczenie ran i oparzeń w gabinecie lekarza rodzinnego - TRANSMISJA VIP | Webinar - Termedia",
@@ -55,7 +55,7 @@
       "date": "2026-06-24T15:49:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Eli Lilly rozszerza współpracę z Abbisko Therapeutics. Umowa może być warta 1,9 mld dolarów Alert Medyczny."
+      "summary": "Abbisko Therapeutics i Eli Lilly podpisały umowę R&D o potencjalnej wartości 1,9 mld dolarów na rozwój innowacyjnych terapii i nowych leków."
     },
     {
       "title": "Trójstronny Zespół ds. Ochrony Zdrowia przerywa obrady. Strona społeczna żąda planu od rządu - Alert Medyczny",
@@ -63,7 +63,7 @@
       "date": "2026-06-24T14:49:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Trójstronny Zespół ds. Ochrony Zdrowia przerywa obrady. Strona społeczna żąda planu od rządu Alert Medyczny."
+      "summary": "Strona społeczna Trójstronnego Zespołu ds. Ochrony Zdrowia przerwała obrady i oczekuje od rządu planu zmian oraz stabilizacji finansów NFZ."
     },
     {
       "title": "Stanowisko Minister Zdrowia - Gov.pl",
@@ -119,7 +119,7 @@
       "date": "2026-06-24T13:50:00Z",
       "source": "Puls Medycyny",
       "confirmed_by": 1,
-      "summary": "Przełom w leczeniu raka płuca. Część chorych może żyć nawet 7 lat bez progresji choroby [ASCO 2026] Puls Medycyny."
+      "summary": "Rak płuca staje się chorobą przewlekłą, czego dowodzą kolejne analizy. Badanie III fazy CROWN, które przedstawiono podczas tegorocznego kongresu ASCO w Chicago wykazało, że 55 proc. pacjentów z NDRP ALK+, którzy otrzymywali inhibitor ALK trzeciej generacji w pierwszej linii leczenia, żyje 7 lat bez progresji choroby."
     },
     {
       "title": "Instytut Chorób Serca UMW uruchomił kardiologię i kardiochirurgię dziecięcą - Podyplomie.pl",
@@ -748,6 +748,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Zachęty do innowacji wśród opcji cenowych leków oferowanych przez Demokratów w Senacie – Citeline News & Insights",
+      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/pricing-debate/innovation-incentives-among-senate-democrats-menu-of-drug-pricing-options-SAWLU3H32FFSBNMGTJ6NO35AMU/",
+      "date": "2026-06-24T22:27:28Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "Zarys potencjalnej polityki cenowej opublikowany przez Senackich Demokratów ma na celu ustalenie programu na wypadek zmiany składu Izby w wyborach śródokresowych, ale niektóre z nich mogą wygenerować wsparcie ponadpartyjne, w tym pomysły zachęcające do „nauki wysokiego ryzyka”. Senaccy Demokraci uwzględnili zachęty dla „wysokiego ri."
+    },
+    {
       "title": "Ionis wygrywa rozszerzenie etykiety FDA dla potencjalnego hitowego wskazania do stosowania trójglicerydów – Endpoints News",
       "url": "https://endpoints.news/ionis-wins-fda-label-expansion-to-reduce-triglycerides-pancreatitis/",
       "date": "2026-06-24T20:31:00Z",
@@ -892,14 +900,6 @@
       "summary": "AdvanCell, twórca radiofarmaceutyków na etapie klinicznym, już to zrobił."
     },
     {
-      "title": "UNII-62LN840SFZ | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
-      "url": "https://precision.fda.gov/uniisearch/srs?search=62LN840SFZ",
-      "date": "2026-06-24T12:16:04Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
-    },
-    {
       "title": "BostonGene zaprezentuje innowacje AI na targach BIO 2026 - BioSpace",
       "url": "https://www.biospace.com/press-releases/bostongene-to-present-ai-innovations-at-bio-2026",
       "date": "2026-06-24T04:24:14Z",
@@ -922,6 +922,14 @@
       "source": "Pink Sheet",
       "confirmed_by": 1,
       "summary": "Kontynuacją dorocznego spotkania BIO jest to, że dyrektorzy firm farmaceutycznych reagują na potencjalne przepisy blokujące umowy z Chinami, przyglądają się wpływowi polityki cenowej kraju najbardziej uprzywilejowanego na warunki transakcji, nowy zestaw narzędzi sztucznej inteligencji firmy NVIDIA do zastosowań w naukach przyrodniczych oraz wysiłki FDA w zakresie rekrutacji."
+    },
+    {
+      "title": "NIEKTÓRE - 9NZ7111A9O | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
+      "url": "https://precision.fda.gov/uniisearch/srs?search=9NZ7111A9O",
+      "date": "2026-06-24T00:24:03Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
     },
     {
       "title": "FDA zatwierdza sacituzumab govitecan-hziy w monoterapii i w leczeniu skojarzonym - fda.gov",
@@ -954,14 +962,6 @@
       "source": "BioSpace",
       "confirmed_by": 1,
       "summary": "Sangamo Therapeutics zwolni 51 pracowników, pozostawiając 77 osób do kontynuowania prac nad programami kluczowymi dla ofert Astellas i Eli Lilly."
-    },
-    {
-      "title": "Zaktualizowane wytyczne dotyczące głównych protokołów amerykańskiej FDA obejmują szczegółowe plany komunikacji – Citeline News & Insights",
-      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/updated-us-fda-master-protocols-guidance-includes-specific-communication-plans-ABG2XIJTCVCBTFL3U23FGS4PBU/",
-      "date": "2026-06-23T17:21:33Z",
-      "source": "Pink Sheet",
-      "confirmed_by": 1,
-      "summary": "Nowy, zaktualizowany projekt wytycznych szczegółowo opisuje komunikację między sponsorami protokołu głównego a sponsorami leków, a także FDA, a także dodaje więcej informacji na temat świadomej zgody."
     }
   ],
   "critical_alerts": [
@@ -1013,7 +1013,7 @@
       "date": "2026-06-24T23:28:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dapagliflozyna: MZ wyjaśnia zasady refundacji generyków od 1 lipca 2026 r. Alert Medyczny."
+      "summary": "MZ wyjaśnia zasady refundacji generyków dapagliflozyny od 1 lipca 2026 r. Sprawdź wskazania, ograniczenia patentowe i zasady zamiany leków."
     },
     {
       "title": "Miesiąc samoopieki 2026 – Światowa Organizacja Zdrowia (WHO)",
