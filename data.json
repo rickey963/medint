@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T12:51:02Z",
+  "last_updated": "2026-06-25T12:51:46Z",
   "poland": [
     {
       "title": "Komunikat dotyczący nadchodzącej fali upałów - Gov.pl",
@@ -31,7 +31,7 @@
       "date": "2026-06-25T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
+      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
     },
     {
       "title": "Jak nawodnić organizm? Sposoby na prawidłowe nawodnienie podczas upałów - DOZ",
@@ -47,7 +47,7 @@
       "date": "2026-06-25T11:51:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Senat przyjął ustawę zmieniającą zasady przekazywania danych o wynagrodzeniach medyków do AOTMiT. Dane będą powiązane z PESEL lub PWZ."
+      "summary": "Senat przyjął ustawę o wynagrodzeniach medyków. Dane trafią do AOTMiT z numerem PESEL lub PWZ Alert Medyczny."
     },
     {
       "title": "Uwaga! Zbliżają się upały, ograniczajmy wyjścia na zewnątrz i pamiętajmy o ryzykach pożarowych - Gov.pl",
@@ -114,14 +114,6 @@
       "summary": "Biuletyn Informacji Publicznej Świętokrzyskiego OW NFZ Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
-      "title": "Komunikat dla świadczeniodawców - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/komunikat-dla-swiadczeniodawcow,8964.html",
-      "date": "2026-06-25T10:49:54Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
-      "summary": "Od dnia 1 lipca 2026 r. przestaje obowiązywać codzienne raportowanie pierwszego wolnego terminu (PWT) przez świadczeniodawców posiadających umowy o udzielanie świadczeń opieki zdrowotnej we..."
-    },
-    {
       "title": "Karolina Sawicka. Decyzja o wprowadzeniu dopłaty do urlopu macierzyńskiego to dla nas strategiczna inwestycja w kapitał ludzki i realny krok w stronę budowania pełnej równości płci w strukturach holdingu - Medonet",
       "url": "https://www.medonet.pl/zdrowie-i-wellbeing-pracownikow/eksperckie-wywiady/karolina-sawicka-decyzja-o-wprowadzeniu-doplaty-do-urlopu-macierzynskiego-to-dla-nas-strategiczna-inwestycja-w-kapital-ludzki-i-realny-krok-w-strone-budowania-pelnej-rownosci-plci-w-strukturach-holdingu/twjh214",
       "date": "2026-06-25T10:47:45Z",
@@ -151,7 +143,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
+      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
     },
     {
       "title": "Asystent AI pomoże nauczycielom korzystać z wiedzy ekspertów UMW - Termedia",
@@ -167,7 +159,7 @@
       "date": "2026-06-25T09:45:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prezes UODO zapowiedział kontrolę w Szpitalu Południowym w Warszawie. Sprawdzi m.in. monitoring z rejestracją dźwięku."
+      "summary": "Kolejna instytucja sprawdzi Szpital Południowy. Kontrolę zapowiedział Prezes UODO Alert Medyczny."
     },
     {
       "title": "\"Obecnie mamy do czynienia z dramatyczną zapaścią systemową, w której aż dwieście gmin nie oferuje młodzieży absolutnie żadnego wsparcia specjalistycznego\" - PolitykaZdrowotna.com",
@@ -176,6 +168,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "\"Obecnie mamy do czynienia z dramatyczną zapaścią systemową, w której aż dwieście gmin nie oferuje młodzieży absolutnie żadnego wsparcia specjalistycznego\" PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/warszawa2648,2883.html",
+      "date": "2026-06-25T09:10:00Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 2,
+      "summary": "Praca w Funduszu to nauka, doświadczenie i satysfakcja z tworzenia wartości, które mają realny wpływ na otaczającą nas rzeczywistość. Jesteśmy organizacją publiczną, nadzorowaną..."
     },
     {
       "title": "Najzimniejsze miejsce w Polsce odkryte w Tatrach - PolitykaZdrowotna.com",
@@ -192,6 +192,14 @@
       "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 1,
       "summary": "To o poczekalnię najczęściej pytają pacjenci, którzy korzystają już z centralnej e-rejestracji. Dowiedz się, jak działa i może Ci pomóc w umówieniu wizyty u lekarza specjalisty."
+    },
+    {
+      "title": "Słońce, a nasza skóra. Jak uniknąć oparzeń słonecznych? - Akademia NFZ",
+      "url": "https://akademia.nfz.gov.pl/artykuly/slonce-a-nasza-skora-jak-uniknac-oparzen-slonecznych/",
+      "date": "2026-06-25T08:25:16Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Zakładka artykuły, w której znajdziesz treści o profilaktyce, chorobach, zdrowych nawykach, czy szczepieniach."
     },
     {
       "title": "Kurzajki to objaw zakażenia HPV - Serwis Zdrowie",
@@ -282,14 +290,6 @@
       "summary": "Coraz więcej nowoczesnych leków trafia na listy refundacyjne, ale bez szybkiej i kompleksowej diagnostyki molekularnej wielu pacjentów nie może z nich skorzystać. Eksperci uczestniczący w debacie podczas Kompendium Oncology Exchange podkreślali, że o skuteczności leczenia coraz częściej decyduje nie dostępność terapii, lecz czas diagnozy, jakość badań i sprawna organizacja opieki nad pacjentem."
     },
     {
-      "title": "Prezes AOTMiT o zbiórce danych o płacach - Z kraju - Kurier - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/kurier/442299,prezes-aotmit-o-zbiorce-danych-o-placach",
-      "date": "2026-06-24T14:30:04Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Jeśli procedowane obecnie zmiany ustawowe wejdą w życie, Agencja Oceny Technologicznych Medycznych i Taryfikacji (AOTMiT) zamierza w październiku przeprowadzić pierwszą kompleksową zbiórkę danych i przedstawić raport o całkowitych zarobkac."
-    },
-    {
       "title": "W Elblągu neurochirurdzy usunęli rozległego guza przysadki - Podyplomie.pl",
       "url": "https://www.podyplomie.pl/aktualnosci/w-elblagu-neurochirurdzy-usuneli-rozleglego-guza-przysadki",
       "date": "2026-06-24T14:02:00Z",
@@ -378,6 +378,14 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Tom Nolan dokonuje przeglądu badań z tego tygodnia. Karbocysteina i hipertoniczna sól fizjologiczna są często stosowane w leczeniu krytycznie chorych pacjentów z ostrą niewydolnością oddechową i trudnymi do usunięcia wydzielinami. W dużym, randomizowanym, kontrolowanym badaniu ponuro stwierdzono, że żadna z interwencji nie skracała czasu trwania wentylacji mechanicznej i każda z nich wiązała się ze szkodami. W badaniu 1956 uczestników przydzielono losowo do grupy otrzymującej karbocysteinę (750 mg trzy razy dziennie, dojelitowo), hipertoniczny roztwór soli fizjologicznej w nebulizacji (4 ml cztery razy dziennie), oba leki lub zwykłą terapię."
+    },
+    {
+      "title": "Ebola: Francja ogłasza pierwszy przypadek po powrocie z DRK – pozytywny wynik testu lekarza – BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-100079",
+      "date": "2026-06-25T10:45:28Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Francuscy urzędnicy podali, że lekarz we Francji uzyskał pozytywny wynik testu na obecność wirusa Ebola po powrocie z misji humanitarnej w Demokratycznej Republice Konga (DRK). Jak podało francuskie ministerstwo zdrowia, pacjent, którego przypadek jest pierwszym w historii odnotowanym we Francji, został natychmiast przyjęty na specjalistyczny oddział szpitalny, a jego stan jest „stabilny”. Minister zdrowia Stéphanie Rist powiedziała, że ​​pięciu pasażerów znajdujących się najbliżej pacjenta miało…."
     },
     {
       "title": "Classroom of the Elite Manga: Przeczytaj oficjalne rozdziały i spoilery – Biblioteka Cochrane",
@@ -548,14 +556,6 @@
       "summary": "Dowody wskazują, że samo ustawodawstwo nie wystarczy Rządy na całym świecie rozważają wprowadzenie ograniczeń wiekowych dla mediów społecznościowych w związku z obawami dotyczącymi szkód w Internecie i zdrowia psychicznego123. W czerwcu 2026 r. rząd Wielkiej Brytanii ogłosił, że wprowadzi przepisy, wyraźnie wzorowane na podejściu Australii, zakazujące platformom mediów społecznościowych oferowania usług osobom poniżej 16. roku życia, przy czym ochrona ma nastąpić wiosną 2027 r.4 Jednak pierwsza prospektywna ocena krajowych ograniczeń wiekowych w mediach społecznościowych wykazała w dużej mierze zerowe ustalenia, a ich interpretacja jest nie proste. W powiązanym badaniu (doi:10.1136/bmj-2026-363695) Barnes i współpracownicy przedstawiają ograniczone dowody na krótkoterminowy wpływ australijskiej ustawy o minimalnym wieku mediów społecznościowych na korzystanie przez nastolatków z mediów społecznościowych.5 Wyniki nieuchronnie ukształtują debaty w krajach rozważających podobną politykę. Kluczowym pytaniem nie jest jednak to, czy polityka ta okazała się skuteczna."
     },
     {
-      "title": "Badania pokazują, że australijski zakaz korzystania z mediów społecznościowych dla osób poniżej 16 roku życia jest powszechnie obchodzony, ponieważ Wielka Brytania planuje podobne ograniczenia – The BMJ",
-      "url": "https://www.bmj.com/content/393/bmj-2026-100067",
-      "date": "2026-06-24T23:28:15Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Nowe dane wskazują, że australijski zakaz korzystania z mediów społecznościowych dla osób poniżej 16 roku życia nie ograniczył korzystania z nich przez młodzież, a badacze doszli do wniosku, że obecne weryfikacje wieku na platformach są „nieoptymalne”.1 Odkrycie, choć wstępne, ma konsekwencje dla Wielkiej Brytanii, która planuje podobny całkowity zakaz korzystania z platform mediów społecznościowych przez osoby poniżej 16 roku życia, takie jak Snapchat, TikTok, YouTube, Instagram, Facebook i X.2 W badaniu obserwacyjnym wzięło udział 436 osób w wieku od 12 do 17 lat. w Nowej Południowej Walii, którzy zostali objęci ankietą na krótko przed wejściem w życie australijskiej ustawy o minimalnym wieku mediów społecznościowych w grudniu 2025 r. i ponownie około trzy miesiące później. Uczestników zapytano o ich nawyki związane z korzystaniem z mediów społecznościowych w ciągu ostatnich siedmiu dni oraz doświadczenia z kontrolami weryfikacyjnymi platformy i wszelkimi próbami ich obejścia. Jak wynika z badania opublikowanego w The BMJ, ponad 85% ankietowanych stwierdziło, że nadal korzysta z platform mediów społecznościowych, głównie za pośrednictwem własnych kont."
-    },
-    {
       "title": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej - The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01023-8/fulltext?rss=yes",
       "date": "2026-06-24T23:27:46Z",
@@ -671,14 +671,6 @@
     }
   ],
   "epidemiology": [
-    {
-      "title": "Ognisko Salmonelli w wielu krajach powiązane z kiełkami lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds",
-      "date": "2026-06-25T12:01:30Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Zgodnie z szybką oceną epidemii opublikowaną przez EFSA i ECDC, nasiona kiełkujące lucerny uznano za prawdopodobne źródło ogniska infekcji Salmonella Bovismorbificans obejmującego wiele krajów."
-    },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
@@ -1056,6 +1048,14 @@
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "Od wyboru kraju do aktywacji ośrodka: wypełnianie luki między potencjałem ośrodka a rzeczywistymi wynikami stosowanych badań klinicznych online."
+    },
+    {
+      "title": "Ukryta biologia autyzmu? Przełomowe badanie Nature Neuroscience identyfikuje dwa powtarzalne podtypy mózgu u myszy i ludzi",
+      "url": "https://www.trialsitenews.com/a/autisms-hidden-biology-landmark-nature-neuroscience-study-identifies-two-reproducible-brain-subtypes-across-mice-and-humans-713c77fd",
+      "date": "2026-06-23T17:22:01Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Marco Pagani z Włoskiego Instytutu Technologii i Child Mind Institute wraz z międzynarodowym konsorcjum opublikował w czasopiśmie Nature Neuroscience obszerne badanie sprawdzające, czy dobrze znana heterogeniczność kliniczna autyzmu odzwierciedla podstawowe różnice biologiczne. Wykorzystując międzygatunkowe funkcjonalne analizy MRI 20 modeli myszy związanych z autyzmem oraz skany mózgu 940 osób z autyzmem i 1036 osób z grupy kontrolnej neurotypowej, badacze zidentyfikowali dwa powtarzalne podtypy łączności autyzmu: podtyp hipokonektywności powiązany głównie z dysfunkcją synaptyczną i podtyp hiperłączności powiązany ze szlakami immunologicznymi i transkrypcyjnymi. Te dwa podtypy odpowiadają za około 25% przypadków autyzmu w zbiorze danych u ludzi, co sugeruje, że autyzm może składać się z wielu odrębnych biologicznie schorzeń, a nie z pojedynczego zaburzenia."
     },
     {
       "title": "HHS rozpoczyna operację TrialBlazer, aby przywrócić USA wiodącą pozycję w badaniach klinicznych – stosowane badania kliniczne online",
@@ -1606,6 +1606,14 @@
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
+      "title": "Ebola: Francja ogłasza pierwszy przypadek po powrocie z DRK – pozytywny wynik testu lekarza – BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-100079",
+      "date": "2026-06-25T10:45:28Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Francuscy urzędnicy podali, że lekarz we Francji uzyskał pozytywny wynik testu na obecność wirusa Ebola po powrocie z misji humanitarnej w Demokratycznej Republice Konga (DRK). Jak podało francuskie ministerstwo zdrowia, pacjent, którego przypadek jest pierwszym w historii odnotowanym we Francji, został natychmiast przyjęty na specjalistyczny oddział szpitalny, a jego stan jest „stabilny”. Minister zdrowia Stéphanie Rist powiedziała, że ​​pięciu pasażerów znajdujących się najbliżej pacjenta miało…."
+    },
+    {
       "title": "Przeciwciała reagujące krzyżowo z wirusem Bundibugyo u fretek zaszczepionych szczepionką przeciwko wirusowi Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0948_article",
       "date": "2026-06-24T20:13:58Z",
@@ -1648,14 +1656,6 @@
   ],
   "daily_top5": [
     {
-      "title": "Ognisko Salmonelli w wielu krajach powiązane z kiełkami lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds",
-      "date": "2026-06-25T12:01:30Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Zgodnie z szybką oceną epidemii opublikowaną przez EFSA i ECDC, nasiona kiełkujące lucerny uznano za prawdopodobne źródło ogniska infekcji Salmonella Bovismorbificans obejmującego wiele krajów."
-    },
-    {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-06-25T10:58:40Z",
@@ -1686,6 +1686,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Światowa Organizacja Zdrowia (WHO) Indonezja pragnie zaprosić Państwa do złożenia wniosku w sprawie oceny krajowych wykazów leków i zasad ograniczeń: wzorce wykorzystania i wpływ finansowy na poziomie szpitala, nr ref. RFP 043-2026. Dalsze szczegóły dotyczące niezbędnych wymagań można znaleźć w załączonej dokumentacji przetargowej. Odpowiednie ogłoszenie o przetargu dla niniejszego zapytania ofertowego jest również opublikowane w zawiadomieniu o zamówieniach WHO. W związku z tym zapraszamy do wzięcia udziału w spotkaniu online przed złożeniem oferty we wtorek 30 czerwca 2026 r. w godzinach 10:00–11:00 (czasu w Dżakarcie)."
+    },
+    {
+      "title": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B - The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2515131",
+      "date": "2026-06-25T06:45:50Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Wyniki fazy 3 leczenia bepirowirsenem przewlekłego zakażenia wirusem zapalenia wątroby typu B The New England Journal of Medicine."
     }
   ]
 }
