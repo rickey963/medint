@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T09:10:15Z",
+  "last_updated": "2026-06-25T09:11:01Z",
   "poland": [
     {
       "title": "Najzimniejsze miejsce w Polsce odkryte w Tatrach - PolitykaZdrowotna.com",
@@ -96,6 +96,14 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Brytyjski lekarz ujawnia, jak ochÅodziÄ ciaÅo w gorÄ ce noce. I nie jest to Å¼adna skomplikowana sztuczka â jak zapewnia dr Betteridge, metodÄ tÄ wykorzystuje siÄ nawet w szpitalach, prytwane stosuje jÄ rÃ³wnieÅ¼ on sam. WystarczÄ dwa maÅe woreczki w lodem i koszulka."
+    },
+    {
+      "title": "ChRP vs. dyspepsja - Remedium.md",
+      "url": "https://remedium.md/poradniki/manuale/ch-rp-vs-dyspepsja",
+      "date": "2026-06-25T07:01:55Z",
+      "source": "Remedium.md",
+      "confirmed_by": 1,
+      "summary": "Choroba refluksowa przełyku czy dyspepsja czynnościowa? Poznaj różnice, diagnostykę, objawy alarmowe, leczenie oraz aktualne zalecenia dla lekarzy POZ i gastroenterologów."
     },
     {
       "title": "Ministra zdrowia i konsultant krajowy zabrali głos po doniesieniach o warszawskich SOR-ach - Alert Medyczny",
@@ -255,7 +263,7 @@
       "date": "2026-06-24T13:50:00Z",
       "source": "Puls Medycyny",
       "confirmed_by": 1,
-      "summary": "Rak płuca staje się chorobą przewlekłą, czego dowodzą kolejne analizy. Badanie III fazy CROWN, które przedstawiono podczas tegorocznego kongresu ASCO w Chicago wykazało, że 55 proc. pacjentów z NDRP ALK+, którzy otrzymywali inhibitor ALK trzeciej generacji w pierwszej linii leczenia, żyje 7 lat bez progresji choroby."
+      "summary": "Przełom w leczeniu raka płuca. Część chorych może żyć nawet 7 lat bez progresji choroby [ASCO 2026] Puls Medycyny."
     },
     {
       "title": "NIL przedstawiła postulaty zmian w ochronie zdrowia - Remedium.md",
@@ -644,12 +652,12 @@
       "summary": "Podczas warsztatów zorganizowanych przez Światową Organizację Zdrowia (WHO) w Nairobi w Kenii w dniach 3–5 czerwca urzędnicy Ministerstwa Zdrowia z Kenii, Malawi i Zambii dołączyli do ponad 80 zainteresowanych stron zajmujących się szczepionkami przeciwko gruźlicy (TB), w tym osób, które przebyły gruźlicę, przedstawicieli społeczeństwa obywatelskiego, agencji technicznych i regulacyjnych, darczyńców i partnerów wykonawczych, aby przyspieszyć przygotowanie krajów do wprowadzenia nowych szczepionek przeciw gruźlicy, obecnie znajdujących się w fazie rozwoju klinicznego, dla dorosłych i młodzieży."
     },
     {
-      "title": "Zmiana celów w opracowywaniu leków na otyłość - Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04462-y",
-      "date": "2026-06-23T09:22:50Z",
+      "title": "Plagiat i zdublowana publikacja - Natura",
+      "url": "https://www.nature.com/npjhydrosph/editorial-policies/plagiarism",
+      "date": "2026-06-23T18:49:58Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "Opracowywanie leków na otyłość musi wykraczać poza nacisk na coraz większą utratę wagi i priorytetowo traktować tolerancję, trwałe korzyści i trwałość leków. przykładem tej zmiany są dwa niedawne badania, a dalsze są w toku."
+      "summary": "Plagiat i zdublowana publikacja."
     }
   ],
   "guidelines": [
@@ -1324,14 +1332,6 @@
       "summary": "Bardziej ukierunkowany format inspekcji monitorujących badania biologiczne, stosowany przez agencję, może skutkować mniejszą liczbą obserwacji na formularzu 483, powiedział urzędnik FDA podczas dorocznego spotkania DIA."
     },
     {
-      "title": "Trening oporowy powiązany z niższym ryzykiem CVD u kobiet – Drugs.com",
-      "url": "https://www.drugs.com/news/resistance-training-linked-lower-cvd-risk-women-130448.html",
-      "date": "2026-06-24T18:05:29Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Trening oporowy powiązany z niższym ryzykiem CVD u kobiet Drugs.com."
-    },
-    {
       "title": "ADC Therapeutics zwalnia personel po śmierci 27 pacjentów – czytamy w Zynlonta - BioSpace",
       "url": "https://www.biospace.com/business/adc-therapeutics-lays-off-staff-after-27-patient-deaths-mar-zynlonta-readout",
       "date": "2026-06-24T17:39:05Z",
@@ -1418,6 +1418,14 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Antares Therapeutics podpisuje z góry umowę o wartości 105 mln dolarów z firmą Novartis na odkrycie małych cząsteczek przeciwko nieuleczalnym celom nowotworowym, a kamienie milowe osiągną kwotę do 1,8 mld dolarów."
+    },
+    {
+      "title": "Sztuczna inteligencja Medicare wpędza pacjentów i lekarzy w błędy i opóźnienia – Drugs.com",
+      "url": "https://www.drugs.com/news/medicare-s-ai-push-snarls-patients-doctors-errors-delays-130442.html",
+      "date": "2026-06-24T14:48:24Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Sztuczna inteligencja Medicare wpędza pacjentów i lekarzy w błędy i opóźnienia Drugs.com."
     },
     {
       "title": "Sangamo organizuje sprzedaż upadłościową; VC wspierają powiązanego z Chinami konkurenta Beam – BioPharma Dive",
