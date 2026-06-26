@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T19:50:38Z",
+  "last_updated": "2026-06-26T19:51:17Z",
   "poland": [
     {
       "title": "Otarcia na udach w upały. Sposoby na otarcia ud i zapobieganie im - DOZ",
@@ -15,7 +15,7 @@
       "date": "2026-06-26T18:50:29Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Bądź na bieżąco z Funduszami Europejskimi."
+      "summary": "Projekt wspierający samorządy w planowaniu działań z zakresu zdrowia publicznego z dofinansowaniem Portal Funduszy Europejskich."
     },
     {
       "title": "Paryż bez alkoholu - Termedia",
@@ -143,7 +143,7 @@
       "date": "2026-06-26T14:09:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "KE wszczęła dochodzenie wobec Sanofi. Sprawdzi, czy kampania dotycząca szczepionki przeciw grypie naruszyła zasady konkurencji UE."
+      "summary": "KE wszczęła dochodzenie wobec Sanofi. Chodzi o promocję szczepionki przeciw grypie Alert Medyczny."
     },
     {
       "title": "Zespół Koordynacyjny ds. Chorób Ultrarzadkich - protokoły z posiedzeń - Narodowy Fundusz Zdrowia (NFZ)",
@@ -167,7 +167,7 @@
       "date": "2026-06-26T13:46:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "MZ analizuje limit czasu pracy wszystkich lekarzy. Zmiany mają być odpowiedzią na wyniki kontroli NIK i aferę Szpitala Południowego."
+      "summary": "Limit godzin pracy dla wszystkich lekarzy? Ministra zdrowia spotka się z samorządem 9 lipca Alert Medyczny."
     },
     {
       "title": "Dane o zarobkach lekarzy powiązane z nr PESEL. Prezes NRL: jeśli prezydent podpisze ustawę, pójdziemy do trybunałów - Puls Medycyny",
@@ -199,7 +199,7 @@
       "date": "2026-06-26T13:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rzecznik Praw Lekarzy NIL apeluje o pilne działania po ataku nożownika w szpitalu. Proponuje zmiany prawa i rejestr agresji wobec medyków."
+      "summary": "Rzecznik Praw Lekarzy NIL chce pilnego posiedzenia po ataku nożownika w szpitalu Alert Medyczny."
     },
     {
       "title": "19-latek zaatakował personel i pacjentów w szpitalu w Jastrzębiu-Zdroju - Remedium.md",
@@ -660,7 +660,16 @@
       "summary": "Choroba wywołana wirusem Bundibugyo w 2026 r. — reakcje kliniczne i zdrowie publiczne The New England Journal of Medicine."
     }
   ],
-  "guidelines": [],
+  "guidelines": [
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 8 czerwca 2026 r. w sprawie pozwoleń i dokumentów niezbędnych do przywozu, wywozu, wewnątrzwspólnotowego nabycia lub wewnątrzwspólnotowej dostawy środków odurzających, substancji psychotropowych lub prekursorów kategorii 1",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/827",
+      "date": "2026-06-08T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 827, z dniem ogłoszenia 2026-06-23."
+    }
+  ],
   "epidemiology": [
     {
       "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -961,6 +970,14 @@
       "summary": "Pierwszy pacjent, któremu podano dawkę w badaniu HARNESS-1 firmy Racura w RC220 Clinical Trials Arena."
     },
     {
+      "title": "Szczegóły badania | NCT07669831 | Skuteczność pozaustrojowej fali uderzeniowej w zapaleniu powięzi plantatora - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07669831",
+      "date": "2026-06-26T10:55:56Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07669831 | Skuteczność pozaustrojowej fali uderzeniowej w zapaleniu powięzi plantatora ClinicalTrials.gov."
+    },
+    {
       "title": "ACT Brief: Uzupełnianie luk w danych sponsora ośrodka, wycofanie dużego badania i zatwierdzenie pierwszej linii przez TNBC – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/site-sponsor-data-study-retraction-tnbc-first-line-approval",
       "date": "2026-06-26T10:22:49Z",
@@ -969,20 +986,36 @@
       "summary": "ACT Brief: Uzupełnianie luk w danych sponsora ośrodka, wycofanie dużego badania i stosowane badania kliniczne online w trybie pierwszej linii TNBC."
     },
     {
-      "title": "Badanie kliniczne dotyczące algorytmu optymalizacji odstępu przewodzenia elektrokardiogramu z jednym odprowadzeniem – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07667465",
-      "date": "2026-06-26T09:30:20Z",
+      "title": "Szczegóły badania | NCT07667452 | Opracowanie i zastosowanie modelu rozpoznawania pojedynczej cechy niewydolności serca w oparciu o algorytmy optymalizacji sztucznej inteligencji - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07667452",
+      "date": "2026-06-26T10:01:08Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Badanie kliniczne dotyczące algorytmu optymalizacji odstępu przewodzenia elektrokardiogramu z pojedynczym odprowadzeniem ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07667452 | Opracowanie i zastosowanie modelu rozpoznawania pojedynczej cechy niewydolności serca w oparciu o algorytmy optymalizacji sztucznej inteligencji ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07668492 | Rekonstrukcja 3D, VR i uczenie maszynowe w obrazie ciała w bariatrii - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07668492",
-      "date": "2026-06-26T05:36:07Z",
+      "title": "Szczegóły badania | NCT07667322 | Badanie mające na celu zbadanie bezpieczeństwa, tolerancji, farmakokinetyki, immunogenności i farmakodynamiki nowego podskórnego preparatu ocrelizumabu u uczestników chorych na stwardnienie rozsiane – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07667322",
+      "date": "2026-06-26T09:40:48Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07668492 | Rekonstrukcja 3D, VR i uczenie maszynowe w obrazie ciała w Bariatrics ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07667322 | Badanie mające na celu zbadanie bezpieczeństwa, tolerancji, farmakokinetyki, immunogenności i farmakodynamiki nowego podskórnego preparatu ocrelizumabu u uczestników chorych na stwardnienie rozsiane ClinicalTrials.gov."
+    },
+    {
+      "title": "Wczesna ekspozycja na Covid może kształtować odporność na lata – szczepionka mRNA powiązana ze zmianą klasy IgG4 – Trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/early-covid-exposure-may-shape-immunity-for-yearsmrna-vax-linked-to-igg4-class-switching-2182b951",
+      "date": "2026-06-25T20:19:33Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Carla Martin Pérez i współpracownicy z ISGlobal, Barcelona Institute for Global Health, wraz ze współpracownikami z Uniwersytetu w Barcelonie, IDIBAPS, CIBER i Burnet Institute podają w czasopiśmie Communications Medicine, że pierwsze narażenie osoby na SARS-CoV-2 w wyniku infekcji lub szczepienia mRNA wydaje się kształtować późniejsze reakcje podklas przeciwciał. To podłużne badanie kohortowe hiszpańskich pracowników służby zdrowia wykazało, że wielokrotne szczepienie mRNA było związane ze zwiększeniem poziomu przeciwciał IgG2 i IgG4, szczególnie wśród osób zaszczepionych przed zakażeniem. Podczas krążenia preparatu Omicron wyższe poziomy IgG2 i IgG4 wiązały się z większym ryzykiem przełomowej infekcji, podczas gdy wyższe poziomy IgG1, Fc&gamma; przeciwciała wiążące receptor i przeciwciała wiążące C1q były powiązane z ochroną."
+    },
+    {
+      "title": "Fundacja Michaela J. Foxa inwestuje 2,5 miliona dolarów w rozszerzenie precyzyjnego badania Parkinsona ukierunkowanego na LRRK2 - Trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/michael-j.-fox-foundation-invests-2.5-million-to-expand-precision-parkinsons-trial-targeting-lrrk2-49c8b11a",
+      "date": "2026-06-25T19:26:05Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Fundacja Michaela J. Foxa (MJFF) przyznała Neuron23 grant w wysokości 2,5 miliona dolarów na rozszerzenie globalnego badania klinicznego fazy 2 NEULARK oceniającego NEU-411, eksperymentalny doustny inhibitor LRRK2 stosowany w leczeniu wczesnej choroby Parkinsona. Dofinansowanie uruchomi cztery dodatkowe ośrodki badawcze w Izraelu i wesprze badania genetyczne w celu identyfikacji pacjentów z podwyższoną aktywnością LRRK2 – strategia medycyny precyzyjnej, której celem jest dopasowanie terapii do choroby wywołującej biologię."
     },
     {
       "title": "Medycyna przyrodnicza wycofuje badanie dotyczące czasu trwania wirusowego raka płuc po czteromiesięcznym badaniu – stosowane badania kliniczne online",
@@ -1089,12 +1122,28 @@
       "summary": "XOCOVA (ensitrelvir) w leczeniu PEP wirusa Covid-19, Japan Clinical Trials Arena."
     },
     {
-      "title": "Badanie oceniające stężenie nipokalimabu w mleku zdrowych kobiet karmiących piersią – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07669077",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "ClinicalTrials.gov",
+      "title": "UCLA i CHLA dołączają do Globalnej Sieci Badań nad Autyzmem – Trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/ucla-and-chla-join-global-autism-trial-network-de262934",
+      "date": "2026-06-25T04:19:10Z",
+      "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Badanie oceniające stężenie nipokalimabu w mleku zdrowych kobiet karmiących piersią ClinicalTrials.gov."
+      "summary": "Badania nad autyzmem wchodzą w nową fazę. Uniwersytet Kalifornijski w Los Angeles (UCLA) i Szpital Dziecięcy w Los Angeles (CHLA) pozyskały do ​​17,25 mln dolarów w ramach projektu Aligning Research to Impact Autism (ARIA), dzięki czemu stały się jedną z pierwszych 12 międzynarodowych placówek sieci Innovative Medicine and Precision Approaches to Clinical Trials (IMPACT). Inicjatywa jest ambitna."
+    },
+    {
+      "title": "Pytanie warte 6,5 miliarda dolarów: czy Ameryka wreszcie poważnie podchodzi do oszustw w służbie zdrowia? - wersja próbnanews.com",
+      "url": "https://www.trialsitenews.com/a/the-6.5-billion-question-is-america-finally-getting-serious-about-healthcare-fraud-26a9dcf0",
+      "date": "2026-06-25T03:17:20Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Oszustwa w służbie zdrowia są często przedstawiane jako problem księgowy. Najnowsze działania egzekwowania prawa Departamentu Sprawiedliwości Stanów Zjednoczonych (DOJ) sugerują coś znacznie bardziej niepokojącego: kryzys bezpieczeństwa pacjentów ukryty za kodami rozliczeniowymi, systemami zwrotu kosztów i złożonością administracyjną."
+    },
+    {
+      "title": "Pierwsze dziecko poniżej 12 roku życia poddane eutanazji zgodnie z nowym holenderskim prawem – Trialssitenews.com",
+      "url": "https://www.trialsitenews.com/a/first-child-under-12-euthanized-under-new-dutch-law-e66b5ff4",
+      "date": "2026-06-24T21:26:08Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Według doniesień po raz pierwszy od czasu, gdy Holandia rozszerzyła swoje ramy dotyczące eutanazji w 2024 r., w wyniku eutanazji przeprowadzonej przez lekarza zmarło dziecko w wieku poniżej 12 lat. Sprawa, ujawniona przez holenderską minister zdrowia Sophie Hermans w raporcie dla parlamentu, dotyczyła ciężko chorego dziecka cierpiącego w okolicznościach, które zdaniem władz spełniały krajowe kryteria prawne. Opublikowano kilka szczegółów."
     },
     {
       "title": "Poza uznawaniem przychodów: ponowne przemyślenie kontraktowania CRO w ramach umowy o wspólne wykonanie CURED – stosowane badania kliniczne online",
@@ -1103,6 +1152,14 @@
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "Poza uznawaniem przychodów: ponowne przemyślenie kontraktowania CRO poprzez umowę o wspólne wykonanie CURED Stosowane badania kliniczne online."
+    },
+    {
+      "title": "UCI Health rozpoczyna pierwsze na świecie badanie neuronalnych komórek macierzystych w leczeniu choroby Huntingtona",
+      "url": "https://www.trialsitenews.com/a/uci-health-launches-worlds-first-neural-stem-cell-trial-for-huntingtons-disease-c62bf21f",
+      "date": "2026-06-24T16:24:47Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Uniwersytet Kalifornijski w Irvine (UCI) Health ogłosił, że pierwszy pacjent został poddany leczeniu w ramach – jak to określa instytucja – pierwszego na świecie badania klinicznego na ludziach z wykorzystaniem nerwowych komórek macierzystych pochodzących z embrionalnych komórek macierzystych w leczeniu choroby Huntingtona – śmiertelnej choroby neurodegeneracyjnej, na którą cierpi około 40 000 Amerykanów. Badanie fazy 1b/2a jest sponsorowane przez Leslie M. Thompsona, profesora Donalda Brena na Uniwersytecie Kalifornijskim w Irvine, a klinicznie prowadzi główny badacz Ravi Rajmohan."
     },
     {
       "title": "Firma Pfizer podaje najważniejsze dane z badania SigVie-002 dla NSCLC – Clinical Trials Arena",
@@ -1161,23 +1218,31 @@
       "summary": "Szczegóły badania | NCT07064473 | EASi-PROTKT™ – badanie sprawdzające wikadrostat (BI 690517) w skojarzeniu z empagliflozyną u osób z cukrzycą typu 2, wysokim ciśnieniem krwi i chorobami układu krążenia ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT03915964 | Badanie baricytynibu (LY3009104) u uczestników chorych na reumatoidalne zapalenie stawów – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03915964",
-      "date": "2026-06-24T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT03915964 | Badanie baricytynibu (LY3009104) u uczestników chorych na reumatoidalne zapalenie stawów ClinicalTrials.gov."
-    },
-    {
       "title": "Od gromadzenia do zaufania: dlaczego wiarygodność danych z badań klinicznych zaczyna się wcześnie - Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/sponsored/from-collection-to-confidence-why-clinical-trial-data-reliability-starts-early/",
       "date": "2026-06-24T06:24:52Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Od gromadzenia do zaufania: dlaczego wiarygodność danych z badań klinicznych zaczyna się wcześnie? Arena Badań Klinicznych."
+    },
+    {
+      "title": "Iwermektyna i rak: badanie w NCI – Trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/ivermectin-and-cancer-under-investigation-at-nci-41844747",
+      "date": "2026-06-23T22:18:43Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Od lat iwermektyna jest jednym z najbardziej dyskutowanych leków o zmienionym przeznaczeniu we współczesnej medycynie. Choć lek przeciwpasożytniczy stał się powszechnie znany w erze Covid-19, w laboratoriach onkologicznych toczy się osobna historia naukowa. Obecnie badacze akademiccy, ośrodki onkologiczne, a nawet badacze związani z Narodowym Instytutem Raka (NCI) badają, czy iwermektyna posiada właściwości przeciwnowotworowe warte rygorystycznych badań."
     }
   ],
   "pharma_market": [
+    {
+      "title": "Pieniądze z ugody na opioidy pokrywają koszty usług mających na celu walkę z uzależnieniem na obszarach wiejskich Kentucky – Drugs.com",
+      "url": "https://www.drugs.com/news/opioid-settlement-money-pays-services-battle-rural-kentucky-130473.html",
+      "date": "2026-06-26T16:11:10Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Pieniądze z ugody na opioidy pokrywają koszty usług mających na celu walkę z uzależnieniem na obszarach wiejskich Kentucky Drugs.com."
+    },
     {
       "title": "Nowy dyrektor generalny Alkermes ma plan przechytrzyć Lilly i Takedę – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/alkermes-blair-jackson-narcolepsy-drug-orexin-ceo-succession/823893/",
@@ -1385,14 +1450,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Pacjenci z toczniem mają zwiększone ryzyko PChN, Mortality Drugs.com."
-    },
-    {
-      "title": "Specyficzne cechy związane z ryzykiem wczesnego raka jelita grubego – Drugs.com",
-      "url": "https://www.drugs.com/news/specific-characteristics-linked-risk-early-onset-colorectal-cancer-130465.html",
-      "date": "2026-06-25T20:45:45Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Specyficzne cechy związane z ryzykiem wczesnego wystąpienia raka jelita grubego Drugs.com."
     },
     {
       "title": "Bayer odnosi przełomowe zwycięstwo, gdy Sąd Najwyższy unieważnia wyrok Roundup w sprawie Fierce Pharma",
