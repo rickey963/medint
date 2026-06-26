@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T19:08:03Z",
+  "last_updated": "2026-06-26T19:08:41Z",
   "poland": [
     {
       "title": "Szpital w Lesku otwiera ZOL po zamknięciu porodówki. Duże zapotrzebowanie na opiekę długoterminową - PolitykaZdrowotna.com",
@@ -111,7 +111,7 @@
       "date": "2026-06-26T14:09:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "KE wszczęła dochodzenie wobec Sanofi. Sprawdzi, czy kampania dotycząca szczepionki przeciw grypie naruszyła zasady konkurencji UE."
+      "summary": "KE wszczęła dochodzenie wobec Sanofi. Chodzi o promocję szczepionki przeciw grypie Alert Medyczny."
     },
     {
       "title": "Zespół Koordynacyjny ds. Chorób Ultrarzadkich - protokoły z posiedzeń - Narodowy Fundusz Zdrowia (NFZ)",
@@ -135,7 +135,7 @@
       "date": "2026-06-26T13:46:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "MZ analizuje limit czasu pracy wszystkich lekarzy. Zmiany mają być odpowiedzią na wyniki kontroli NIK i aferę Szpitala Południowego."
+      "summary": "Limit godzin pracy dla wszystkich lekarzy? Ministra zdrowia spotka się z samorządem 9 lipca Alert Medyczny."
     },
     {
       "title": "Dane o zarobkach lekarzy powiązane z nr PESEL. Prezes NRL: jeśli prezydent podpisze ustawę, pójdziemy do trybunałów - Puls Medycyny",
@@ -175,7 +175,7 @@
       "date": "2026-06-26T13:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rzecznik Praw Lekarzy NIL apeluje o pilne działania po ataku nożownika w szpitalu. Proponuje zmiany prawa i rejestr agresji wobec medyków."
+      "summary": "Rzecznik Praw Lekarzy NIL chce pilnego posiedzenia po ataku nożownika w szpitalu Alert Medyczny."
     },
     {
       "title": "19-latek zaatakował personel i pacjentów w szpitalu w Jastrzębiu-Zdroju - Remedium.md",
@@ -207,7 +207,7 @@
       "date": "2026-06-26T12:01:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO. „Gazeta Wyborcza” opisuje kulisy przetargu i stanowiska stron."
+      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO Alert Medyczny."
     },
     {
       "title": "400 europejskich miast na liście. Rekord stresu termicznego - Rynek Zdrowia",
@@ -644,14 +644,6 @@
       "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
     },
     {
-      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
-      "date": "2026-06-25T09:17:45Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Ebola Bundibugyo The Lancet."
-    },
-    {
       "title": "Choroba wywołana wirusem Bundibugyo w 2026 r. — reakcje kliniczne i zdrowie publiczne — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2607216",
       "date": "2026-06-25T07:37:58Z",
@@ -668,7 +660,16 @@
       "summary": "Długotrwałe leczenie i zaawansowana choroba wywołana wirusem HIV — priorytet zdrowia publicznego The New England Journal of Medicine."
     }
   ],
-  "guidelines": [],
+  "guidelines": [
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 8 czerwca 2026 r. w sprawie pozwoleń i dokumentów niezbędnych do przywozu, wywozu, wewnątrzwspólnotowego nabycia lub wewnątrzwspólnotowej dostawy środków odurzających, substancji psychotropowych lub prekursorów kategorii 1",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/827",
+      "date": "2026-06-08T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 827, z dniem ogłoszenia 2026-06-23."
+    }
+  ],
   "epidemiology": [
     {
       "title": "Oświadczenie TAG-TP w sprawie immunomodulatorów i terapii ukierunkowanych na gospodarza w leczeniu choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
@@ -719,6 +720,14 @@
       "summary": "Uzyskaj odpowiedzi na pytania dotyczące wirusa Ebola i wybuchu epidemii wiosną 2026 r. w DRK i Ugandzie."
     },
     {
+      "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+1305+0400+Pusat+Alat+XRF+Tambang+Wilayah+Merangin+Jambi++%5B%5BTigapillar%5D%5D+",
+      "date": "2026-06-26T04:24:44Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
+    },
+    {
       "title": "Specyfikacje techniczne ośrodków leczenia chorób filowirusowych – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/9789240123519",
       "date": "2026-06-26T04:16:32Z",
@@ -733,6 +742,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Zakażenia S. stercoralis u biorców narządów."
+    },
+    {
+      "title": "Od konsultacji do partnerstwa: Komisja Społeczeństwa Obywatelskiego WHO planuje kolejny etap - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/25-06-2026-from-consultation-to-partnership--who-civil-society-commission-charts-next-phase",
+      "date": "2026-06-25T19:35:40Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Komisja Społeczeństwa Obywatelskiego WHO (CSC) odbyła swoje trzecie doroczne walne zgromadzenie wirtualnie 2 kwietnia 2026 r., w którym ponad 120 uczestników wzięło udział w podsumowaniu postępów i ustaleniu priorytetów na lata 2026–2028."
     },
     {
       "title": "Uruchomienie planu wzmocnienia reakcji na choroby grzybicze i oporności na środki przeciwgrzybicze – Światowa Organizacja Zdrowia (WHO)",
@@ -765,14 +782,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 2,
       "summary": "S. enterica ser. Czytanie powiązane z suszonym bydłem."
-    },
-    {
-      "title": "Od konsultacji do partnerstwa: Komisja Społeczeństwa Obywatelskiego WHO planuje kolejny etap - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news/item/25-06-2026-from-consultation-to-partnership--who-civil-society-commission-charts-next-phase",
-      "date": "2026-06-25T12:22:30Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Komisja Społeczeństwa Obywatelskiego WHO (CSC) odbyła swoje trzecie doroczne walne zgromadzenie wirtualnie 2 kwietnia 2026 r., w którym ponad 120 uczestników wzięło udział w podsumowaniu postępów i ustaleniu priorytetów na lata 2026–2028."
     },
     {
       "title": "Ognisko obejmujące wiele krajów Zakażenia Salmonella Bovismorbificans ST377 związane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -901,14 +910,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Demokratyczna Republika Konga reaguje na 17. epidemię wirusa Ebola wywołaną wirusem Bundibugyo we wschodnich prowincjach Ituri, Kiwu Północne i Kiwu Południowe. Na chorobę wirusową Bundibugyo nie ma licencjonowanej szczepionki ani specjalnego leczenia, co sprawia, że ​​wczesne wykrycie, wysokiej jakości opieka wspomagająca oraz bezpieczne, dobrze zaprojektowane placówki lecznicze to najpotężniejsze narzędzia ratujące życie. W tym seminarium internetowym uczestniczy WHO i eksperci krajowi, aby skupić się na bezpiecznej i skalowalnej opiece zdrowotnej."
-    },
-    {
-      "title": "Seminarium internetowe – Udoskonalanie kluczowych usług dostosowanych do potrzeb populacji w ramach podstawowej opieki zdrowotnej: ochrona, adaptacja, integracja, utrzymanie – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/07/07/default-calendar/webinar-enhancing-key-populations-sensitive-services-within-primary-health-care-protect-adapt-integrate-sustain",
-      "date": "2026-06-24T08:26:17Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Dołącz do seminarium internetowego WHO na temat sposobu wykorzystania istniejących dowodów i wytycznych WHO do informowania praktyki, wspierając kraje w planowaniu, ustalaniu priorytetów i wdrażaniu zintegrowanych, kluczowych usług dostosowanych do potrzeb populacji w ramach systemów podstawowej opieki zdrowotnej (PHC)."
     },
     {
       "title": "Aktualizacja dochodzenia: Epidemia Listerii, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1653,20 +1654,20 @@
       "summary": "Ten algorytm ambulatoryjny przeznaczony jest dla podmiotów świadczących opiekę zdrowotną w USA w celu oceny pacjentów pod kątem choroby Ebola."
     },
     {
-      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
-      "date": "2026-06-25T09:17:45Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Ebola Bundibugyo The Lancet."
-    },
-    {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-06-25T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
+    },
+    {
+      "title": "Błonica na Haiti – Poziom 1 – Należy przestrzegać zwykłych środków ostrożności – Informacje dotyczące zdrowia w podróży | Zdrowie podróżnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level1/diphtheria-haiti",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Na Haiti wybuchła epidemia błonicy."
     }
   ],
   "daily_top5": [
