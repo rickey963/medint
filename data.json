@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-06-26T03:14:31Z",
+  "last_updated": "2026-06-26T03:15:07Z",
   "poland": [
-    {
-      "title": "Pacjentka 40+ w okresie transformacji menopauzalnej - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/medycynarodzinna/ekspert/pytania-do-eksperta/395967,pacjentka-40-w-okresie-transformacji-menopauzalnej",
-      "date": "2026-06-25T23:03:45Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Na co powinien zwrócić uwagę lekarz rodzinny w opiece nad kobietą 40+, która przechodzi transformację menopauzalną?"
-    },
     {
       "title": "Publikacje autora - lek. Kamil Wężyk - Podyplomie",
       "url": "https://podyplomie.pl/autor/kamil-wezyk",
@@ -167,7 +159,7 @@
       "date": "2026-06-25T14:30:21Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
+      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
     },
     {
       "title": "Sobierańska-Grenda o Szpitalu Południowym: państwo zareagowało w sposób natychmiastowy - PolitykaZdrowotna.com",
@@ -234,20 +226,12 @@
       "summary": "Uwaga! Zbliżają się upały, ograniczajmy wyjścia na zewnątrz i pamiętajmy o ryzykach pożarowych."
     },
     {
-      "title": "KSK – MZ chce premiować jakość w szpitalach - Kardiologia - Medycyna Praktyczna",
-      "url": "https://kardiologia.mp.pl/wiadomosci/442363,ksk-mz-chce-premiowac-jakosc-w-szpitalach",
-      "date": "2026-06-25T12:31:34Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Do konsultacji trafił projekt rozporządzenia Ministra Zdrowia w sprawie sposobu ustalania wysokości współczynników korygujących oraz wysokości ryczałtu dla ośrodka koordynującego."
-    },
-    {
       "title": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu - Alert Medyczny",
       "url": "https://alertmedyczny.pl/nowe-sledztwo-wokol-szpitala-poludniowego-prokuratura-bada-falszowanie-kart-zgonu/",
       "date": "2026-06-25T12:25:06Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
+      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
     },
     {
       "title": "Świąd, bezsenność, depresja. Prof. Nowicki: ciężkości AZS nie można oceniać wyłącznie po zmianach skórnych - Puls Medycyny",
@@ -287,7 +271,15 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
+      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
+    },
+    {
+      "title": "Kolejna instytucja sprawdzi Szpital Południowy. Kontrolę zapowiedział Prezes UODO - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/kolejna-instytucja-sprawdzi-szpital-poludniowy-kontrole-zapowiedzial-prezes-uodo/",
+      "date": "2026-06-25T09:45:00Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Prezes UODO zapowiedział kontrolę w Szpitalu Południowym w Warszawie. Sprawdzi m.in. monitoring z rejestracją dźwięku."
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -296,14 +288,6 @@
       "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 1,
       "summary": "To o poczekalnię najczęściej pytają pacjenci, którzy korzystają już z centralnej e-rejestracji. Dowiedz się, jak działa i może Ci pomóc w umówieniu wizyty u lekarza specjalisty."
-    },
-    {
-      "title": "Doświadczenia z dzieciństwa zostawiają komórkowy ślad na całe życie - Aktualności - Genetyka - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/genetyka/aktualnosci/442345,doswiadczenia-z-dziecinstwa-zostawiaja-komorkowy-slad-na-cale-zycie",
-      "date": "2026-06-25T08:22:25Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Wydarzenia i przeżycia z wczesnych etapów życia zostawiają w komórkach ślad wpływający na zdrowie przez kolejne dekady – sugeruje badanie na rezusach. Tłumacząc ten mechanizm naukowcy wskazują na to, że wczesne przeżycia wpływają na ak."
     },
     {
       "title": "Kurzajki to objaw zakażenia HPV - Serwis Zdrowie",
@@ -452,6 +436,14 @@
       "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
     },
     {
+      "title": "Narzędzia CRISPR nowej generacji poprawiają dokładność edycji zarodków, ale budzą także wątpliwości etyczne – statnews.com",
+      "url": "https://www.statnews.com/2026/06/25/crispr-base-editing-human-embryo-study/",
+      "date": "2026-06-25T15:00:33Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Naukowcy podają, że zastosowanie edycji genomu we wczesnych embrionach odsłoniło zasłonę dotyczącą roli jednego z kluczowych genów odpowiedzialnych za pierwsze etapy rozwoju człowieka."
+    },
+    {
       "title": "Strajk: w Irlandii Północnej rozpoczyna się akcja protestacyjna lekarzy szpitalnych – BMJ",
       "url": "https://www.bmj.com/content/393/bmj-2026-100081",
       "date": "2026-06-25T14:47:25Z",
@@ -484,36 +476,12 @@
       "summary": "W czasie, gdy późna diagnoza w dalszym ciągu zagraża życiu tysięcy kobiet, prowincja Huíla podejmuje zdecydowany krok, wzmacniając profilaktykę i wczesne wykrywanie nowotworów."
     },
     {
-      "title": "Szczepienia przeciwko HPV powiązane z radykalnym zmniejszeniem liczby zgonów z powodu raka szyjki macicy – ​​Natura",
-      "url": "https://www.nature.com/articles/d41591-026-00033-3",
-      "date": "2026-06-25T11:41:59Z",
-      "source": "Nature Medicine",
+      "title": "Sztuka i rzecznictwo: kwestie zdrowia psychicznego - BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-100061",
+      "date": "2026-06-25T11:45:35Z",
+      "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Nowe badanie analizuje wpływ krajowego programu szczepień przeciwko HPV w Anglii, rozpoczętego prawie dwie dekady temu – wykazując ogromny spadek umieralności z powodu raka szyjki macicy wśród młodych kobiet."
-    },
-    {
-      "title": "Leczenie indukcyjne oparte na teklistamabie u nowo zdiagnozowanego szpiczaka mnogiego kwalifikującego się do przeszczepu: badanie II fazy - Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04471-x",
-      "date": "2026-06-25T09:53:47Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "W trwającym badaniu II fazy GMMG-HD10/DSMM-XX (MajesTEC-5) u pacjentów z kwalifikującym się do przeszczepu, nowo zdiagnozowanym szpiczakiem mnogim, indukcja za pomocą bispecyficznego teklistamabu angażującego BCMA×CD3 w skojarzeniu z daratumumabem i lenalidomidem, z bortezomibem lub bez, miała podobny profil toksyczności jak inne schematy dwuswoiste, przy zachęcającym i głębokim odsetku odpowiedzi."
-    },
-    {
-      "title": "Metaboliczne determinanty wyników immunoterapii nowotworów zidentyfikowane za pomocą profilowania osocza - Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04481-9",
-      "date": "2026-06-25T09:49:52Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Analiza metabolomiczna próbek osocza oparta na spektrometrii mas od wielu kohort pacjentów leczonych immunoterapią w pięciu różnych typach nowotworów, a następnie uczenie maszynowe umożliwiło identyfikację sygnatur metabolicznych, a także badanie funkcjonalne, ujawnia związek zwiększonego poziomu histydyny w osoczu z przedłużonym przeżyciem i jej potencjałem w zakresie interwencji terapeutycznej."
-    },
-    {
-      "title": "Neoadjuwantowa stereotaktyczna radioterapia ciała durwalumabem i oleclumabem na ostrym dyżurze - Nature",
-      "url": "https://www.nature.com/articles/s41591-026-04453-z",
-      "date": "2026-06-25T09:49:51Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "W randomizowanym badaniu II fazy Neo-CheckRay pacjentki z rakiem piersi ER+HER2− we wczesnym stadium zaawansowania otrzymywały neoadjuwantową immunomodulującą stereotaktyczną radioterapię z durwalumabem lub bez niego oraz z oleklumabem z przeciwciałem anty-CD73 lub bez niego, co doprowadziło do zachęcających odpowiedzi klinicznych po dodaniu durwalumabu, w tym u pacjentów z guzami z ujemnym statusem PD-L1."
+      "summary": "Jonathan Bassett/The Wellcome Collection Kolekcja Wellcome otwiera tego lata dwie równoległe wystawy przedstawiające opiekę i leczenie pacjentów cierpiących na choroby psychiczne w Wielkiej Brytanii. Audrey Amissa: …."
     },
     {
       "title": "Mirvetuximab nie zwiększa przeżycia w leczeniu OC kwalifikującym się do platyny - Medscape",
@@ -580,6 +548,14 @@
       "summary": "Heterogeniczność ciężkiej astmy w Europie: opinia SHARP The Lancet."
     },
     {
+      "title": "Żółta febra – Globalny – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON610",
+      "date": "2026-06-25T02:09:23Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Żółta febra to choroba wirusowa występująca na obszarach Afryki i obu Ameryk, przenoszona przez zakażone komary. Po wzroście liczby przypadków w obu Amerykach w 2025 r. aktywność przenoszenia wirusa utrzymała się do 2026 r. Od 1 stycznia do 26 maja 2026 r. sześć krajów zgłosiło łącznie 79 infekcji u ludzi wraz z licznymi epizootiami, co wskazuje na aktywne krążenie leśne."
+    },
+    {
       "title": "Schistosomatoza żeńskich narządów płciowych: ukryta na widoku - The Lancet",
       "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00173-1/fulltext",
       "date": "2026-06-25T01:25:44Z",
@@ -602,6 +578,14 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
+    },
+    {
+      "title": "Polityka szpitala dotycząca kwasu traneksamowego mająca na celu ograniczenie transfuzji podczas poważnych operacji niekardiochirurgicznych — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2515820",
+      "date": "2026-06-25T00:46:42Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Polityka szpitalna dotycząca kwasu traneksamowego mająca na celu ograniczenie transfuzji podczas poważnych operacji niekardiochirurgicznych The New England Journal of Medicine."
     },
     {
       "title": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a - The Lancet",
@@ -628,12 +612,12 @@
       "summary": "Aby sprostać szybko zmieniającym się potrzebom, potrzebne są nowe reakcje: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach The Lancet."
     },
     {
-      "title": "Korekta wydawcy: Doustny małocząsteczkowy agonista receptora GLP-1, aleniglipron u osób z nadwagą lub otyłością: randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 2b - Nature",
-      "url": "https://www.nature.com/articles/s41591-026-04532-1",
-      "date": "2026-06-24T18:56:53Z",
+      "title": "Plagiat i zdublowana publikacja - Natura",
+      "url": "https://www.nature.com/npjhydrosph/editorial-policies/plagiarism",
+      "date": "2026-06-23T18:49:58Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
+      "summary": "Plagiat i zdublowana publikacja."
     }
   ],
   "guidelines": [
