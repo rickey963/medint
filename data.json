@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-26T15:52:03Z",
+  "last_updated": "2026-06-26T15:55:06Z",
   "poland": [
+    {
+      "title": "Zdrowe lato w Twoim telefonie z aplikacją mojeIKP - Pacjent gov",
+      "url": "https://pacjent.gov.pl/aktualnosc/zdrowe-lato-w-twoim-telefonie-z-aplikacja-mojeikp",
+      "date": "2026-06-26T15:51:45Z",
+      "source": "Internetowe Konto Pacjenta",
+      "confirmed_by": 1,
+      "summary": "Ostatni dzwonek już wybrzmiał! Tornistry lądują w kącie, a przed nami upragnione lato i zasłużony urlop. To idealny moment, by wziąć głęboki oddech, spędzić czas z bliskimi i w końcu zadbać o siebie."
+    },
     {
       "title": "15 Ogólnopolski Kongres Starzenia – Pacjent 65+ w codziennej praktyce lekarskiej - Intro | Konferencja stacjonarna - Termedia",
       "url": "https://www.termedia.pl/Konferencja-15-Ogolnopolski-Kongres-Starzenia--TRANSMISJA,3051,45359.html",
@@ -82,6 +90,14 @@
       "summary": "KE wszczęła dochodzenie wobec Sanofi. Sprawdzi, czy kampania dotycząca szczepionki przeciw grypie naruszyła zasady konkurencji UE."
     },
     {
+      "title": "Zespół Koordynacyjny ds. Chorób Ultrarzadkich - protokoły z posiedzeń - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/dla-swiadczeniodawcy/zespoly-koordynacyjne/zespoly-koordynujace/zespol-koordynacyjny-ds-chorob-ultrarzadkich-protokoly-z-posiedzen,230.html",
+      "date": "2026-06-26T14:06:01Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Protokoły z posiedzeń."
+    },
+    {
       "title": "Prof. Balwicki: Powstało Centrum Leczenia Uzależnienia od Nikotyny - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/prof-balwicki-powstalo-n2389445",
       "date": "2026-06-26T14:00:00Z",
@@ -144,14 +160,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "We Francji odnotowano pierwszy przypadek wirusa Ebola - poinformowało tamtejsze ministerstwo zdrowia. Zakażoną osobą jest lekarz, który wrócił z Demokratycznej Republiki Konga (DRK). Główny Inspektorat Sanitarny wyjaśnia, jakie jest ryzyko dla Polski."
-    },
-    {
-      "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/dk2682,2886.html",
-      "date": "2026-06-26T12:14:00Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
     },
     {
       "title": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO - Alert Medyczny",
@@ -282,20 +290,28 @@
       "summary": "Minister zdrowia łagodzi wymagania kadrowe dotyczące całodobowej obsady oddziałów prowadzących hospitalizację planową."
     },
     {
-      "title": "Jak nawodnić organizm? Sposoby na prawidłowe nawodnienie podczas upałów - DOZ",
-      "url": "https://www.doz.pl/czytelnia/a18715-Jak_nawodnic_organizm_Sposoby_na_prawidlowe_nawodnieniem_podczas_upalow",
-      "date": "2026-06-26T07:13:44Z",
-      "source": "DOZ.pl",
-      "confirmed_by": 1,
-      "summary": "Odpowiednie nawodnienie jest kluczowe dla prawidłowego funkcjonowania organizmu. Sprawdź, jak skutecznie nawodnić organizm, dlaczego picie wody ma znaczenie i jak zadbać o codzienną równowagę płynów. Dowiedz się więcej na DOZ.pl."
-    },
-    {
       "title": "Leczyć czy operować? Jak podjąć właściwą decyzję dla pacjenta z bólem kręgosłupa - Remedium.md",
       "url": "https://remedium.md/wideo/leczyc-czy-operowac-jak-podjac-wlasciwa-decyzje-dla-pacjenta-z-bolem-kregoslupa-251",
       "date": "2026-06-26T07:06:11Z",
       "source": "Remedium.md",
       "confirmed_by": 1,
       "summary": "Ból kręgosłupa to jeden z tych problemów, które niemal codziennie trafiają do gabinetów lekarzy rodzinnych, neurologów i ortopedów – a jednocześnie wciąż budzą wiele pytań diagnostycznych i terapeutycznych."
+    },
+    {
+      "title": "Prezydent Warszawy o Szpitalu Południowym - Z kraju - Kurier - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/kurier/442520,prezydent-warszawy-o-szpitalu-poludniowym",
+      "date": "2026-06-26T06:44:55Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Prezydent m.st. Warszawy Rafał Trzaskowski przedstawił radnym informację na temat zasad organizacji pracy i udzielania świadczeń, a także systemu wynagradzania i naboru personelu medycznego w miejskich podmiotach leczniczych, ze szczególnym uwz."
+    },
+    {
+      "title": "Kraków – ORL o nowych zasadach przetwarzania informacji o wynagrodzeniach lekarzy - Medycyna Praktyczna",
+      "url": "https://prawo.mp.pl/wiadomosci/442517,krakow-orl-o-nowych-zasadach-przetwarzania-informacji-o-wynagrodzeniach-lekarzy",
+      "date": "2026-06-26T06:44:55Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Dla wspólnego bezpieczeństwa potrzebna jest transparentność systemowa, a nie selektywna transparentność jednej grupy zawodowej."
     },
     {
       "title": "Wakacje to czas na zabawę - Serwis Zdrowie",
@@ -356,12 +372,12 @@
       "summary": "Gruczolak przysadki mózgowej związany z zespołem Schöpfa-Schulza-Passarge'a BMJ Case Reports."
     },
     {
-      "title": "Wczesne badania przesiewowe dotyczące żywienia zmniejszają liczbę zgonów dzieci w Nigerii – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/nigeria/news/early-nutrition-screening-reduces-child-deaths-nigeria",
-      "date": "2026-06-26T12:00:00Z",
-      "source": "WHO",
+      "title": "Przygotowanie do oceny - BMJ",
+      "url": "https://www.bmj.com/careers/article/preparing-for-appraisal",
+      "date": "2026-06-26T11:40:03Z",
+      "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Yola, Aisha Ibrahim obserwowała, jak jej 18-miesięczny syn Dauda bawi się przed ich domem w osiedlu Maliki 2 na obszarze samorządu lokalnego Demsa w stanie Adamawa. Zaledwie kilka tygodni wcześniej osłabł, schudł i przestał jeść."
+      "summary": "Ocenę często można postrzegać jako czynność polegającą na zaznaczeniu jednego pola wyboru, ale jeśli zostanie przeprowadzona prawidłowo, daje lekarzom cenną okazję do ponownego nastawienia się."
     },
     {
       "title": "Lekarz wart 5 milionów dolarów: cichy wzrost bogactwa lekarzy – Medscape",
@@ -402,14 +418,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Pierwszy rok australijskiego programu badań przesiewowych w kierunku raka płuc wydaje się sukcesem i cieszy się dużym zainteresowaniem wśród docelowej populacji, czyli nałogowych palaczy."
-    },
-    {
-      "title": "Czystsze powietrze, zdrowsze życie: bardziej rygorystyczne przepisy dotyczące zanieczyszczeń powietrza na zachodnim Pacyfiku mogą uratować życie 1,1 miliona osób – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/palau/news/feature-stories/item/cleaner-air--healthier-lives--tighter-air-pollution-regulations-across-the-western-pacific-could-save-1.1-million-lives",
-      "date": "2026-06-26T10:36:34Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Zanieczyszczenie powietrza stanowi główne zagrożenie dla zdrowia na zachodnim Pacyfiku, powodując choroby i stanowiąc duże obciążenie dla ludzi i systemów opieki zdrowotnej. Z raportu Światowej Organizacji Zdrowia (WHO) wynika, że ​​przestrzeganie wytycznych WHO dotyczących jakości powietrza mogłoby zapobiec około 1,1 milionom zgonów w regionie. Chociaż większość ludzi żyje na obszarach, na których obowiązują standardy jakości powietrza, są one często słabsze od zaleceń WHO."
     },
     {
       "title": "Czy po odstawieniu leku starsze osoby otrzymują nieodpowiednie leki? - Medyczny",
@@ -468,14 +476,6 @@
       "summary": "Dwa badania pokazują, że adaptacyjna neuromodulacja może poprawić chód w chorobie Parkinsona, dopasowując stymulację do odpowiedniego obwodu we właściwym momencie, wskazując strategie rozkładające złożone objawy na możliwe do ukierunkowania komponenty przestrzenne i czasowe."
     },
     {
-      "title": "Wdrażanie tego, co sprawdza się w polityce alkoholowej: raport z postępu prac nad inicjatywą SAFER – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/publications/i/item/9789240120587",
-      "date": "2026-06-26T09:08:56Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Szkody spowodowane alkoholem są przyczyną milionów zgonów każdego roku i pozostają główną, możliwą do uniknięcia przeszkodą dla zdrowia, równości i zrównoważonego rozwoju."
-    },
-    {
       "title": "„Gorąca strefa” skłoniła mnie do pracy z pacjentami z ebolą. Teraz mam mieszane uczucia co do książki - statnews.com",
       "url": "https://www.statnews.com/2026/06/26/the-hot-zone-richard-preston-ebola-narrative/",
       "date": "2026-06-26T08:33:09Z",
@@ -492,22 +492,6 @@
       "summary": "Opioidy zawierające medetomidynę powodują ciężkie, zagrażające życiu odstawienie w więzieniach. Oto dlaczego wiele placówek pozostaje źle wyposażonych, aby poradzić sobie z narastającym kryzysem."
     },
     {
-      "title": "Brytyjska Agencja Bezpieczeństwa Zdrowia – BMJ",
-      "url": "https://www.bmj.com/healthcareers/employer/141481/uk-health-security-agency/",
-      "date": "2026-06-26T07:40:56Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Wyszukaj i aplikuj o pracę w brytyjskiej Agencji Bezpieczeństwa Zdrowia w BMJ Health Careers."
-    },
-    {
-      "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+1305+0400+Pusat+Alat+XRF+Tambang+Wilayah+Merangin+Jambi++%5B%5BTigapillar%5D%5D+",
-      "date": "2026-06-26T04:24:44Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
-    },
-    {
       "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
       "url": "https://www.nejm.org/research-summaries",
       "date": "2026-06-26T03:05:15Z",
@@ -521,15 +505,7 @@
       "date": "2026-06-26T03:01:16Z",
       "source": "The Lancet",
       "confirmed_by": 1,
-      "summary": "Niedobory leków w Indiach zmuszają lekarzy do racjonowania chemioterapii The Lancet."
-    },
-    {
-      "title": "Publikacje | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/fr/countries/publications?country=38&page=3",
-      "date": "2026-06-26T02:56:37Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
+      "summary": "Niedobór leków w Indiach zmusza lekarzy do racjonowania chemioterapii The Lancet."
     },
     {
       "title": "Rozmiar epidemii wirusa Ebola w 2026 r. i ryzyko transgranicznego przeniesienia wirusa Bundibugyo w prowincji Ituri w Demokratycznej Republice Konga oraz jego konsekwencje dla gotowości: ponownie skalibrowane badanie oparte na modelowaniu stochastycznym - The Lancet",
@@ -596,12 +572,20 @@
       "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
     },
     {
+      "title": "Więcej informacji | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/fr/health-topics/news?healthtopic=569&page=514",
+      "date": "2026-06-25T14:08:28Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
+    },
+    {
       "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
       "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
       "date": "2026-06-25T09:17:45Z",
       "source": "The Lancet",
       "confirmed_by": 1,
-      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Ebola Bundibugyo The Lancet."
+      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Bundibugyo Ebola The Lancet."
     },
     {
       "title": "Informacje epidemiologiczne w czasie rzeczywistym w sytuacjach zagrożenia zdrowia publicznego: epidemia wirusa Bundibugyo w 2026 r. – The Lancet",
@@ -625,7 +609,15 @@
       "date": "2026-06-25T01:17:05Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
+      "summary": "CME | Tygodnik NEJM CME The New England Journal of Medicine."
+    },
+    {
+      "title": "Wiadomości | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/fr/countries/23355/news",
+      "date": "2026-06-24T23:33:13Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
     }
   ],
   "guidelines": [],
@@ -647,7 +639,7 @@
       "summary": "Niniejsze wydanie raportu ECDC o zagrożeniach chorobami zakaźnymi (CDTR) obejmuje okres od 19 do 26 czerwca 2026 r. i zawiera aktualne informacje na temat wirusa Ebola, zakażeń wirusem Zachodniego Nilu, gorączki krwotocznej krymsko-kongijskiej, grypy A(H9N2), cholery, mopksu, dengi, rozmieszczenia ekspertów, choroby chikungunya związanej z podróżami w krajach UE/EOG oraz przegląd wirusów układu oddechowego epidemiologia w UE/EOG."
     },
     {
-      "title": "Podręcznik dotyczący szczepień przeciwko wirusowi układu oddechowego: monitorowanie i raportowanie szczepień przeciwko grypie sezonowej, COVID-19 i wirusowi syncytialnemu układu oddechowego - Światowa Organizacja Zdrowia (WHO)",
+      "title": "Podręcznik dotyczący szczepień przeciwko wirusom układu oddechowego: monitorowanie i raportowanie szczepień przeciwko grypie sezonowej, COVID-19 i wirusowi syncytialnemu układu oddechowego - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/9789240118829",
       "date": "2026-06-26T13:22:10Z",
       "source": "WHO Disease Outbreak News",
@@ -1025,12 +1017,12 @@
       "summary": "ACT Brief: Przywództwo DIA w obliczu niepewności, nowe podejście do kontraktów CRO i stosowane badania kliniczne online dotyczące ekspansji firmy Eli Lilly."
     },
     {
-      "title": "Szczegóły badania | NCT07665125 | Elektroakupunktura kontra akupunktura zatapiana w nici w chorobie zwyrodnieniowej stawu kolanowego - ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07665125 | Elektroakupunktura kontra akupunktura zatapiająca nitki w chorobie zwyrodnieniowej stawu kolanowego - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07665125",
       "date": "2026-06-25T10:09:46Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07665125 | Elektroakupunktura a akupunktura zatapiana w nici w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07665125 | Elektroakupunktura a akupunktura zatapialna w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
     },
     {
       "title": "Wielka Brytania dodaje do zakładek sukces Hiszpanii w wyścigu do globalnej konkurencyjności w badaniach klinicznych – Clinical Trials Arena",
@@ -1078,7 +1070,7 @@
       "date": "2026-06-24T21:26:08Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Według doniesień po raz pierwszy od czasu, gdy Holandia rozszerzyła swoje ramy dotyczące eutanazji w 2024 r., w wyniku eutanazji przeprowadzonej przez lekarza zmarło dziecko w wieku poniżej 12 lat. Sprawa, ujawniona przez holenderską minister zdrowia Sophie Hermans w raporcie dla parlamentu, dotyczyła ciężko chorego dziecka cierpiącego w okolicznościach, które zdaniem władz spełniały krajowe kryteria prawne. Opublikowano kilka szczegółów."
+      "summary": "Według doniesień po raz pierwszy od rozszerzenia w Holandii ram dotyczących eutanazji w 2024 r. dziecko w wieku poniżej 12 lat zmarło w wyniku eutanazji przeprowadzonej pod okiem lekarza. Sprawa, ujawniona przez holenderską minister zdrowia Sophie Hermans w raporcie dla parlamentu, dotyczyła ciężko chorego dziecka cierpiącego w okolicznościach, które zdaniem władz spełniały krajowe kryteria prawne. Opublikowano kilka szczegółów."
     },
     {
       "title": "Poza uznawaniem przychodów: ponowne przemyślenie kontraktowania CRO w ramach umowy o wspólne wykonanie CURED – stosowane badania kliniczne online",
@@ -1224,7 +1216,7 @@
       "date": "2026-06-26T15:33:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Dyrektor generalna firmy Akeso, Michelle Xia, mówi Endpoints, że analiza danych pacjentów z Chin i krajów zachodnich dotyczących iwonescimabu jest przesadzona, a FDA podejmie decyzję o zatwierdzeniu przez USA do 14 listopada."
+      "summary": "Dyrektor generalna firmy Akeso, Michelle Xia, mówi Endpoints, że analiza danych pacjentów z Chin i krajów zachodnich dotyczących iwonescimabu jest przesadzona, a FDA podejmie decyzję o zatwierdzeniu leku w USA do 14 listopada."
     },
     {
       "title": "Michael Gilman odchodzi na emeryturę ze stanowiska dyrektora generalnego Arrakis; Daniel Skovronsky dołącza do zarządu Illuminy – Endpoints News",
@@ -1520,7 +1512,7 @@
       "date": "2026-06-25T07:00:00Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Aplikacja Replimune jest najnowszym przykładem zmiany postaw w FDA. W innym miejscu Revolution Medicine przedstawiło więcej danych blokujących RAS i ofertę akcji Definium, która przyniosła 800 milionów dolarów."
+      "summary": "Aplikacja Replimune jest najnowszym przykładem zmiany postaw w FDA. W innym miejscu Revolution Medicines przedstawiło więcej danych blokujących RAS i ofertę akcji Definium, która przyniosła 800 milionów dolarów."
     },
     {
       "title": "Notatnik BIO: sekcja zwłok CNPV – Citeline News & Insights",
@@ -1618,7 +1610,7 @@
       "date": "2026-06-25T09:17:45Z",
       "source": "The Lancet",
       "confirmed_by": 1,
-      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Ebola Bundibugyo The Lancet."
+      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Bundibugyo Ebola The Lancet."
     }
   ],
   "daily_top5": [
