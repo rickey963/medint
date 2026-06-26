@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T04:15:58Z",
+  "last_updated": "2026-06-26T04:16:43Z",
   "poland": [
     {
       "title": "Ekspert o Szpitalu Południowym: punktowe wypalenie nie wystarczy - Medonet",
@@ -175,7 +175,7 @@
       "date": "2026-06-25T14:30:21Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
+      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
     },
     {
       "title": "Sobierańska-Grenda o Szpitalu Południowym: państwo zareagowało w sposób natychmiastowy - PolitykaZdrowotna.com",
@@ -255,7 +255,7 @@
       "date": "2026-06-25T12:25:06Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
+      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
     },
     {
       "title": "Świąd, bezsenność, depresja. Prof. Nowicki: ciężkości AZS nie można oceniać wyłącznie po zmianach skórnych - Puls Medycyny",
@@ -287,7 +287,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
+      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -304,14 +304,6 @@
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Kurzajki, określane w medycynie jako brodawki wirusowe skóry, należą do najczęstszych rozpoznań dermatologicznych w populacji dzieci, młodzieży i młodych dorosłych. Choć zazwyczaj traktowane są jako problem kosmetyczny, ich obecność jest klinicznym śladem zakażenia wirusem brodawczaka ludzkiego – HPV (Human Papillomavirus). W ostatnich kilkunastu latach badania podstawowe i kliniczne znacząco pogłębiły wiedzę na temat biologii tego wirusa, mechanizmów jego transmisji oraz relacji z układem odpornościowym gospodarza."
-    },
-    {
-      "title": "Uzdrowisko Ustroń po modernizacji: 8 tys. zabiegów dziennie dla 2 tys. pacjentów - Serwis Zdrowie",
-      "url": "https://zdrowie.pap.pl/leczenie/uzdrowisko-ustron-po-modernizacji-8-tys-zabiegow-dziennie-dla-2-tys-pacjentow",
-      "date": "2026-06-24T12:22:01Z",
-      "source": "Serwis Zdrowie (PAP)",
-      "confirmed_by": 1,
-      "summary": "20 czerwca w Ustroniu (woj. śląskie) odbyła się uroczystość związana z zakończeniem modernizacji kompleksu sanatoryjnego Uzdrowisko Ustroń. Odnowiono ok."
     },
     {
       "title": "Tata powinien dbać o swoje zdrowie - Pacjent gov",
@@ -338,6 +330,14 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
+    },
+    {
+      "title": "Uczenie się na podstawie doświadczeń - The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01249-3/abstract",
+      "date": "2026-06-26T03:01:31Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Uczenie się na podstawie doświadczeń The Lancet."
     },
     {
       "title": "Classroom of Elite Manga: Przeczytaj oficjalne rozdziały i spoilery – Biblioteka Cochrane",
@@ -388,14 +388,6 @@
       "summary": "Właściwości psychometryczne listy kontrolnej roli dla hiszpańskojęzycznych osób po udarze BMJ Open."
     },
     {
-      "title": "Analiza strategiczna recept elektronicznych w Iranie: badanie jakościowe – BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e101872?rss=1",
-      "date": "2026-06-25T17:45:33Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Analiza strategiczna recept elektronicznych w Iranie: badanie jakościowe BMJ Open."
-    },
-    {
       "title": "Cassidy proponuje ustawę ograniczającą program zniżek na leki 340B – statnews.com",
       "url": "https://www.statnews.com/2026/06/25/cassidy-bill-rein-in-340b-drug-discount-program/",
       "date": "2026-06-25T17:35:37Z",
@@ -410,14 +402,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Pod rządami prezydenta Trumpa przywódcy polityczni sprawują większą kontrolę nad federalnymi agencjami zdrowia."
-    },
-    {
-      "title": "Antysemityzm: lekarze żądają, aby NHS porzuciła kontrowersyjną definicję i wzywała do „wstrzymania” recenzji Manna - The BMJ",
-      "url": "https://www.bmj.com/content/393/bmj-2026-100085",
-      "date": "2026-06-25T15:49:15Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "BMA będzie lobbować w NHS, aby zaprzestała obowiązkowego przyjmowania definicji antysemityzmu przyjętej przez Międzynarodowy Sojusz na rzecz Pamięci o Holokauście (IHRA). Przemawiając na dorocznym spotkaniu przedstawicieli związku w Brighton, członkowie ostrzegli, że definicja IHRA została „uzbrojona” w celu rozprawienia się z wolnością słowa. W odrębnym wniosku członkowie BMA wezwali także do natychmiastowego wstrzymania wdrażania zaleceń wynikających z niedawnego rządowego przeglądu Manna ze względu na jego wpływ na wolność słowa."
     },
     {
       "title": "Debata o Chinach staje się coraz głośniejsza w Waszyngtonie – statnews.com",
@@ -482,6 +466,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "W kwietniu przywódcy środowisk akademickich, rządowych i organizacji międzynarodowych zebrali się w Lyonie we Francji podczas festiwalu One Health, aby wzmocnić globalną współpracę w zakresie uczenia się i budowania potencjału w ramach One Health. Spotkanie dostarczyło jasnych wezwań do działania: wyjścia poza podnoszenie świadomości do praktycznego, skalowalnego wdrożenia oraz nadania priorytetu inwestycjom w ludzi i partnerstw międzysektorowych przed tworzeniem nowych ram. Uczestnicy docenili silny globalny impet i bogactwo istniejących inicjatyw „Jedno zdrowie”. Głównym zidentyfikowanym wyzwaniem było jednak przekształcenie koncepcji One Health w skoordynowane, mierzalne i operacyjne działania."
+    },
+    {
+      "title": "Sztuka i rzecznictwo: kwestie zdrowia psychicznego - BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-100061",
+      "date": "2026-06-25T11:45:35Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Jonathan Bassett/The Wellcome Collection Kolekcja Wellcome otwiera tego lata dwie równoległe wystawy przedstawiające opiekę i leczenie pacjentów cierpiących na choroby psychiczne w Wielkiej Brytanii. Audrey Amissa: …."
     },
     {
       "title": "Szczepienia przeciwko HPV powiązane z radykalnym zmniejszeniem liczby zgonów z powodu raka szyjki macicy – ​​Natura",
@@ -882,6 +874,14 @@
   ],
   "clinical_trials": [
     {
+      "title": "Wczesna ekspozycja na Covid może kształtować odporność na lata – szczepionka mRNA powiązana ze zmianą klasy IgG4 – Trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/early-covid-exposure-may-shape-immunity-for-yearsmrna-vax-linked-to-igg4-class-switching-2182b951",
+      "date": "2026-06-25T20:19:33Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Carla Martin Pérez i współpracownicy z ISGlobal, Barcelona Institute for Global Health, wraz ze współpracownikami z Uniwersytetu w Barcelonie, IDIBAPS, CIBER i Burnet Institute podają w czasopiśmie Communications Medicine, że pierwsze narażenie osoby na SARS-CoV-2 w wyniku infekcji lub szczepienia mRNA wydaje się kształtować późniejsze reakcje podklas przeciwciał. To podłużne badanie kohortowe hiszpańskich pracowników służby zdrowia wykazało, że wielokrotne szczepienie mRNA było związane ze zwiększeniem poziomu przeciwciał IgG2 i IgG4, szczególnie wśród osób zaszczepionych przed zakażeniem. Podczas krążenia preparatu Omicron wyższe poziomy IgG2 i IgG4 wiązały się z większym ryzykiem przełomowej infekcji, podczas gdy wyższe poziomy IgG1, Fc&gamma; przeciwciała wiążące receptor i przeciwciała wiążące C1q były powiązane z ochroną."
+    },
+    {
       "title": "Fundacja Michaela J. Foxa inwestuje 2,5 miliona dolarów w rozszerzenie precyzyjnego badania Parkinsona ukierunkowanego na LRRK2 - Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/michael-j.-fox-foundation-invests-2.5-million-to-expand-precision-parkinsons-trial-targeting-lrrk2-49c8b11a",
       "date": "2026-06-25T19:26:05Z",
@@ -914,22 +914,6 @@
       "summary": "Niedokrwistość w nefropatii IgA – arena badań klinicznych."
     },
     {
-      "title": "Szczegóły badania | NCT07664410 | Teranostyczny PET do walidacji celu i wykrywania nowotworu – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07664410",
-      "date": "2026-06-25T10:55:55Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07664410 | Teranostyczny PET do walidacji celu i wykrywania nowotworu ClinicalTrials.gov."
-    },
-    {
-      "title": "Szczegóły badania | NCT07666997 | Bezpieczeństwo antykoncepcyjnego miedzianego pierścienia dopochwowego - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07666997",
-      "date": "2026-06-25T10:49:34Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07666997 | Bezpieczeństwo antykoncepcyjnego miedzianego pierścienia dopochwowego ClinicalTrials.gov."
-    },
-    {
       "title": "BIO 2026: Jak cięcia NIH zagroziły konkurencyjności USA w stosunku do Chin – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/bio-2026-how-nih-cuts-have-threatened-us-competitiveness-against-china/",
       "date": "2026-06-25T10:42:53Z",
@@ -954,20 +938,20 @@
       "summary": "ACT Brief: Przywództwo DIA w obliczu niepewności, nowe podejście do kontraktów CRO i stosowane badania kliniczne online dotyczące ekspansji firmy Eli Lilly."
     },
     {
+      "title": "Szczegóły badania | NCT07665125 | Elektroakupunktura a akupunktura zatapiająca nitki w chorobie zwyrodnieniowej stawu kolanowego - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07665125",
+      "date": "2026-06-25T10:09:46Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07665125 | Elektroakupunktura kontra akupunktura zatapiana w nici w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
+    },
+    {
       "title": "Wielka Brytania dodaje do zakładek sukces Hiszpanii w wyścigu do globalnej konkurencyjności w badaniach klinicznych – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/features/uk-bookmarks-spains-success-in-race-to-global-clinical-trials-competitiveness/",
       "date": "2026-06-25T09:57:52Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Wielka Brytania zaznacza sukces Hiszpanii w wyścigu do globalnej konkurencyjności badań klinicznych w Clinic Trials Arena."
-    },
-    {
-      "title": "Szczegóły badania | NCT07664904 | Związek periostyny ​​i ODI, EQ-5D - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07664904",
-      "date": "2026-06-25T09:39:50Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07664904 | Związek periostyny ​​i ODI, EQ-5D ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07665307 | Opóźnione toksyczności po CAR-T – ClinicalTrials.gov",
@@ -1218,6 +1202,22 @@
       "summary": "Szczegóły badania | NCT07658547 | Wykorzystanie chatbotów AI w leczeniu zdrowia psychicznego ClinicalTrials.gov."
     },
     {
+      "title": "Szczegóły badania | NCT07659834 | Suplement diety zapewniający długowieczność - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07659834",
+      "date": "2026-06-23T09:35:35Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07659834 | Suplement diety zapewniający długowieczność ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07661524 | Muzykoterapia pasywna a aktywna Choroba Parkinsona - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07661524",
+      "date": "2026-06-23T09:21:56Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07661524 | Muzykoterapia pasywna a aktywna Choroba Parkinsona ClinicalTrials.gov."
+    },
+    {
       "title": "SPINRAZA w leczeniu rdzeniowego zaniku mięśni, USA – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/projects/spinraza-nusinersen-for-the-treatment-of-spinal-muscular-atrophy-sma/",
       "date": "2026-06-23T07:00:00Z",
@@ -1308,14 +1308,6 @@
       "summary": "Bayer odniósł kluczowe zwycięstwo w swojej obronie przed procesami sądowymi Roundup jako USA | Bayer odniósł kluczowe zwycięstwo w swojej obronie przed pozwami Roundup, ponieważ Sąd Najwyższy Stanów Zjednoczonych uchylił wyrok ławy przysięgłych z Missouri wart 1,25 miliona dolarów, która stanęła po stronie mężczyzny, który twierdził, że lata ekspozycji na herbicyd spowodowały u niego chłoniaka nieziarniczego."
     },
     {
-      "title": "Lista dostępnych zbiorów danych – hfpappexternal.fda.gov",
-      "url": "https://hfpappexternal.fda.gov/scripts/fdcc/index.cfm?id=SODIUMDISTEARYLPHOSPHATE",
-      "date": "2026-06-25T17:18:15Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Lista dostępnych zbiorów danych hfpappexternal.fda.gov."
-    },
-    {
       "title": "Rod Wong z RTW o tym, jak Chiny zmieniły (i nie zmieniły) strategię inwestycyjną swojej firmy – Endpoints News",
       "url": "https://endpoints.news/rtws-rod-wong-on-how-china-has-and-hasnt-changed-his-firms-investments/",
       "date": "2026-06-25T17:11:00Z",
@@ -1404,14 +1396,6 @@
       "summary": "NEEDHAM, Massachusetts, 25 czerwca 2026 r. (GLOBE NEWSWIRE) — Candel Therapeutics, Inc. (Candel lub the Company) (Nasdaq: CADL), firma biofarmaceutyczna na etapie klinicznym, skupiająca się na opracowywaniu multimodalnych immunoterapii w celu poprawy wyników leczenia pacjentów chorych na raka, ogłosiła dzisiaj mianowanie Marka Simsa na stanowisko dyrektora handlowego firmy ze skutkiem od 6 lipca 2026 r."
     },
     {
-      "title": "NIEKTÓRE - LAJ42W4HAB | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
-      "url": "https://precision.fda.gov/uniisearch/srs?search=LAJ42W4HAB",
-      "date": "2026-06-25T13:01:18Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
-    },
-    {
       "title": "Drugi bloker RAS firmy Revolution podwaja wskaźnik odpowiedzi na chemioterapię w raku trzustki – BioSpace",
       "url": "https://www.biospace.com/drug-development/revolutions-second-ras-blocker-doubles-chemo-response-rate-in-pancreatic-cancer",
       "date": "2026-06-25T12:49:44Z",
@@ -1474,6 +1458,14 @@
       "source": "BioSpace",
       "confirmed_by": 1,
       "summary": "W cyklu od 1 lipca 2026 r. nie wydano nowych komercyjnych dodatków do receptur ani decyzji dotyczących zasięgu leku neffy ® (epinefryna w aerozolu do nosa); do kontynuowania rozmów z płatnikami w celu potencjalnego włączenia w przyszłości."
+    },
+    {
+      "title": "Wycofanie urządzenia klasy 2 Surgify Halo – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220190",
+      "date": "2026-06-25T03:36:50Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 2 Surgify Halo accessdata.fda.gov."
     },
     {
       "title": "Notatnik BIO: sekcja zwłok CNPV – Citeline News & Insights",
@@ -1562,6 +1554,14 @@
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "Eli Lilly i Astellas będą głównymi oferentami na aukcji aktywów Sangamo. W innym miejscu syndykat inwestorów przeznaczył 230 milionów dolarów na start-up zajmujący się edycją genów, a firma Merck KGaA zawarła umowę „budowa na zakup”."
+    },
+    {
+      "title": "Ollin uzupełnia kwotę 330 mln dolarów na wsparcie kluczowych testów pretendenta Vabysmo - BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/ollin-biosciences-financing-china-innovent-vabysmo-amd-dme/823564/",
+      "date": "2026-06-24T11:24:42Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Jedna z największych rund finansowania przedsięwzięć w tym roku następuje tuż po bezpośrednim badaniu, które wykazało, że lek Ollina – licencjonowany od chińskiego dewelopera – ma pewną przewagę nad lekami na oczy firmy Roche."
     },
     {
       "title": "UNII-ZV1MM336WB | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
@@ -1672,6 +1672,14 @@
       "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
     },
     {
+      "title": "Uczenie się na podstawie doświadczeń - The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01249-3/abstract",
+      "date": "2026-06-26T03:01:31Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Uczenie się na podstawie doświadczeń The Lancet."
+    },
+    {
       "title": "Rozmiar epidemii wirusa Ebola w 2026 r. i ryzyko transgranicznego przeniesienia wirusa Bundibugyo w prowincji Ituri w Demokratycznej Republice Konga oraz jego konsekwencje dla gotowości: ponownie skalibrowane badanie oparte na modelowaniu stochastycznym - The Lancet",
       "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00320-8/fulltext",
       "date": "2026-06-25T22:52:29Z",
@@ -1686,14 +1694,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
-    },
-    {
-      "title": "Komunikaty i ostrzeżenia (strona 11) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Płońsku - Gov.pl",
-      "url": "https://www.gov.pl/web/psse-plonsk/komunikaty?page=11&size=10",
-      "date": "2026-06-25T19:16:54Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Komunikaty i ostrzeżenia (strona 11) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Płońsku Gov.pl."
     },
     {
       "title": "Uruchomienie planu wzmocnienia reakcji na choroby grzybicze i oporności na środki przeciwgrzybicze – Światowa Organizacja Zdrowia (WHO)",
