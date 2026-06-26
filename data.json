@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T21:55:49Z",
+  "last_updated": "2026-06-26T21:56:38Z",
   "poland": [
     {
       "title": "Rzecznik Praw Pacjenta zachęca do korzystania z ogólnopolskiego telefonu zaufania - Rynek Zdrowia",
@@ -32,22 +32,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Temperatur sięgających 40 st. C spodziewają się meteorolodzy we Francji – z tego powodu w Paryżu są kłopoty z przyjmowaniem nowych pacjentów do szpitali. Pomóc ma zakaz sprzedaży alkoholu."
-    },
-    {
-      "title": "Banany i jagody: zakazane połączenie. Zabójczy dla cennych związków - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Nauka/Banany-i-jagody-zakazane-polaczenie-Zabojczy-dla-cennych-zwiazkow,285956,9.html",
-      "date": "2026-06-26T18:24:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Banany i jagody wydają się wręcz stworzone do wspólnych koktajli. Naukowcy burzą jednak tę smaczną wizję. Banan okazuje się „zabójczy” dla związków zawartych w jagodach."
-    },
-    {
-      "title": "Czy politycy żyją w tym samym systemie co pacjenci? [FELIETON] - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/felieton/czy-politycy-zyja-w-tym-samym-systemie-co-pacjenci-felieton/",
-      "date": "2026-06-26T17:00:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "Tak, ja też coraz częściej odnoszę wrażenie, że politycy nie żyją w tym samym systemie co pacjenci. Gdyby żyli, ochrona zdrowia wyglądałaby inaczej. Bo trudno mi uwierzyć, że ktoś, kto miesiącami czeka na wizytę, walczy o miejsce w oddziale i bezsilnie obserwuje niewydolność systemu, nawet nie próbuje tego zmienić."
     },
     {
       "title": "Lekarze chcą zakazu wnoszenia niebezpiecznych przedmiotów do szpitali. W tle zarobki i hejt - Rynek Zdrowia",
@@ -167,7 +151,7 @@
       "date": "2026-06-26T14:09:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "KE wszczęła dochodzenie wobec Sanofi. Chodzi o promocję szczepionki przeciw grypie Alert Medyczny."
+      "summary": "KE wszczęła dochodzenie wobec Sanofi. Sprawdzi, czy kampania dotycząca szczepionki przeciw grypie naruszyła zasady konkurencji UE."
     },
     {
       "title": "Zespół Koordynacyjny ds. Chorób Ultrarzadkich - protokoły z posiedzeń - Narodowy Fundusz Zdrowia (NFZ)",
@@ -191,7 +175,7 @@
       "date": "2026-06-26T13:46:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Limit godzin pracy dla wszystkich lekarzy? Ministra zdrowia spotka się z samorządem 9 lipca Alert Medyczny."
+      "summary": "MZ analizuje limit czasu pracy wszystkich lekarzy. Zmiany mają być odpowiedzią na wyniki kontroli NIK i aferę Szpitala Południowego."
     },
     {
       "title": "Szpital Wojewódzki w Koszalinie przejmie szpital gruźliczy. Sejmik zdecydował o fuzji placówek - PolitykaZdrowotna.com",
@@ -223,7 +207,7 @@
       "date": "2026-06-26T13:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rzecznik Praw Lekarzy NIL chce pilnego posiedzenia po ataku nożownika w szpitalu Alert Medyczny."
+      "summary": "Rzecznik Praw Lekarzy NIL apeluje o pilne działania po ataku nożownika w szpitalu. Proponuje zmiany prawa i rejestr agresji wobec medyków."
     },
     {
       "title": "19-latek zaatakował personel i pacjentów w szpitalu w Jastrzębiu-Zdroju - Remedium.md",
@@ -242,12 +226,28 @@
       "summary": "Donald Tusk krytykuje samorząd lekarski, który chce limitu 78h tygodniowo dla lekarzy. Premier zarzuca ochronę status quo, a nie reformę systemu ochrony zdrowia."
     },
     {
+      "title": "Pierwszy przypadek Eboli w Europie. GIS wyjaśnia, jakie jest zagrożenie dla Polski - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/medycyna/choroby-zakazne/pierwszy-przypadek-eboli-w-europie-gis-wyjasnia-jakie-jest-zagrozenie-dla-polski/",
+      "date": "2026-06-26T12:27:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "We Francji odnotowano pierwszy przypadek wirusa Ebola - poinformowało tamtejsze ministerstwo zdrowia. Zakażoną osobą jest lekarz, który wrócił z Demokratycznej Republiki Konga (DRK). Główny Inspektorat Sanitarny wyjaśnia, jakie jest ryzyko dla Polski."
+    },
+    {
       "title": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO - Alert Medyczny",
       "url": "https://alertmedyczny.pl/szpital-poludniowy-zaplacil-725-tys-zl-za-przygotowanie-wniosku-do-kpo/",
       "date": "2026-06-26T12:01:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO Alert Medyczny."
+      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO. „Gazeta Wyborcza” opisuje kulisy przetargu i stanowiska stron."
+    },
+    {
+      "title": "400 europejskich miast na liście. Rekord stresu termicznego - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Nauka/400-europejskich-miast-na-liscie-Rekord-stresu-termicznego,285971,9.html",
+      "date": "2026-06-26T11:51:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Tropikalne upały, które obecnie nękają Europę, nie byłyby możliwe, gdyby nie zmiany klimatyczne – wynika z badania międzynarodowej organizacji World Weather Attribution (WWA). Według niej w prawie 400 europejskich miastach został lub niebawem zostanie pobity rekord stresu termicznego."
     },
     {
       "title": "Ten pająk czai się nad wodą. Gdy ukąsi, dzieją się nietypowe rzeczy - Medonet",
@@ -346,14 +346,6 @@
       "summary": "Zbliżają się wakacje i wielu rodziców martwi się o to, co będą w tym czasie robiły ich dzieci. Odczuwają obawę, że inni rodzice już zapisali dzieci na obozy, kolonie i kursy, a oni jeszcze nie. Martwią się, że jeżeli niczego nie zorganizują, to dziecko będzie się nudzić i skończy z telefonem albo przed komputerem."
     },
     {
-      "title": "Pacjentka 40+ w okresie transformacji menopauzalnej - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/medycynarodzinna/ekspert/pytania-do-eksperta/395967,pacjentka-40-w-okresie-transformacji-menopauzalnej",
-      "date": "2026-06-25T23:12:29Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Na co powinien zwrócić uwagę lekarz rodzinny w opiece nad kobietą 40+, która przechodzi transformację menopauzalną?"
-    },
-    {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
       "url": "https://pacjent.gov.pl/aktualnosc/czym-jest-poczekalnia-w-e-rejestracji",
       "date": "2026-06-25T08:54:46Z",
@@ -418,14 +410,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Gruczolak przysadki mózgowej związany z zespołem Schöpfa-Schulza-Passarge'a BMJ Case Reports."
-    },
-    {
-      "title": "Częstość występowania i korelaty lęku i depresji wśród osób LGBT w Nepalu: badanie przekrojowe - BMJ Open",
-      "url": "https://bmjopen.bmj.com/content/16/4/e105946.alerts",
-      "date": "2026-06-26T14:04:03Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Cele Lesbijki, geje, osoby biseksualne i transpłciowe (LGBT) spotykają się z marginalizacją i dyskryminacją pomimo postępu prawnego, takiego jak w Nepalu. Chociaż Nepal zapewnia konstytucyjną ochronę praw osób LGBT, społeczność nadal boryka się z napiętnowaniem społecznym, molestowaniem i wyzwaniami związanymi ze zdrowiem psychicznym. W Nepalu istnieją ograniczone badania dotyczące zdrowia psychicznego osób LGBT, przy czym badania koncentrują się głównie na zdrowiu seksualnym."
     },
     {
       "title": "Wczesne badania przesiewowe dotyczące żywienia zmniejszają liczbę zgonów dzieci w Nigerii – WHO | Biuro Regionalne dla Afryki",
@@ -572,6 +556,38 @@
       "summary": "Szkody spowodowane alkoholem są przyczyną milionów zgonów każdego roku i pozostają główną, możliwą do uniknięcia przeszkodą dla zdrowia, równości i zrównoważonego rozwoju."
     },
     {
+      "title": "„Gorąca strefa” skłoniła mnie do pracy z pacjentami z ebolą. Teraz mam mieszane uczucia co do książki - statnews.com",
+      "url": "https://www.statnews.com/2026/06/26/the-hot-zone-richard-preston-ebola-narrative/",
+      "date": "2026-06-26T08:33:09Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "„Rzeczywistość związana z wirusem Ebola jest jednocześnie mniej sensacyjna i znacznie trudniejsza, niż większość ludzi sobie wyobraża” – pisze Krutika Kuppalli."
+    },
+    {
+      "title": "Co to jest nadciśnienie płucne i dlaczego nowy GLP-1 miałby pomóc? - statnews.com",
+      "url": "https://www.statnews.com/2026/06/26/what-is-pulmonary-hypertension-and-would-glp-1-help/",
+      "date": "2026-06-26T08:32:45Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Doniesienie o nietypowym dostępie do eksperymentalnego leku na otyłość wzbudziło zainteresowanie chorobą, nadciśnieniem płucnym."
+    },
+    {
+      "title": "Więzienia to pierwsza linia walki z nowym, niebezpiecznym rodzajem odstawienia narkotyków – statnews.com",
+      "url": "https://www.statnews.com/2026/06/26/medetomidine-opioid-withdrawal-crisis-jails/",
+      "date": "2026-06-26T08:32:45Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Opioidy zawierające medetomidynę powodują ciężkie, zagrażające życiu odstawienie w więzieniach. Oto dlaczego wiele placówek pozostaje źle wyposażonych, aby poradzić sobie z narastającym kryzysem."
+    },
+    {
+      "title": "Demokraci naciskają na Biały Dom, kto ma specjalny dostęp do nowego leku na otyłość Eli Lilly – statnews.com",
+      "url": "https://www.statnews.com/2026/06/25/senate-hassan-questions-rfk-jr-eli-lilly-retatrutide-trial-trump/",
+      "date": "2026-06-26T06:55:48Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Niezwykły dostęp do eksperymentalnego leku przykuł uwagę także amerykańskiej opinii publicznej."
+    },
+    {
       "title": "Esej o nagrodzie Wakleya – Wu Lien Teha 2026: dlaczego medycyna i dlaczego warto pozostać? - Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01233-X/abstract",
       "date": "2026-06-26T03:49:09Z",
@@ -604,6 +620,22 @@
       "summary": "Rak u młodych dorosłych: wyjście z cienia? Lancet."
     },
     {
+      "title": "Nowa karta ACIP poszerza kryteria dla członków i wzywa do przeglądu alternatyw dla szczepionek – statnews.com",
+      "url": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/",
+      "date": "2026-06-25T20:20:18Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Nowy statut panelu doradzającego CDC w zakresie stosowania szczepionek zasadniczo zmienia zakres obowiązków komisji, bagatelizując jej rolę w zalecaniu stosowania nowych szczepionek."
+    },
+    {
+      "title": "Podczas BIO 2026 branża zmagała się z polityką Waszyngtonu i usprawnieniem działania sztucznej inteligencji – statnews.com",
+      "url": "https://www.statnews.com/2026/06/25/bio-2026-biotech-conference-san-diego-key-takeaways/",
+      "date": "2026-06-25T19:20:08Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Dyrektorzy biotechnologii ujawniają obawy dotyczące chińskiej biotechnologii, rentowności sztucznej inteligencji i trwałości ruchów cen leków Trumpa."
+    },
+    {
       "title": "Podwójna terapia β-laktamami przeciwko izolatom Pseudomonas aeruginosa wysokiego ryzyka: dynamiczne badanie modelu infekcji in vitro integrujące genomikę populacji z systemami ilościowymi, modelowaniem i symulacjami farmakologicznymi - The Lancet",
       "url": "https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(26)00019-4/fulltext",
       "date": "2026-06-25T17:05:51Z",
@@ -628,22 +660,6 @@
       "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
     },
     {
-      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
-      "date": "2026-06-25T09:17:45Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Bundibugyo Ebola The Lancet."
-    },
-    {
-      "title": "Wczesne podanie budezonidu dotchawiczego ze środkiem powierzchniowo czynnym nie zmniejsza dysplazji oskrzelowo-płucnej ani śmierci u skrajnie wcześniaków - Vera Health",
-      "url": "https://verahealth.ai/fr/news/d55763eb",
-      "date": "2026-06-25T08:45:54Z",
-      "source": "Cochrane Library",
-      "confirmed_by": 1,
-      "summary": "Wiadomości medyczne i spostrzeżenia z badań Vera Health — najnowsze aktualizacje."
-    },
-    {
       "title": "Choroba wywołana wirusem Bundibugyo w 2026 r. — reakcje kliniczne i zdrowie publiczne — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2607216",
       "date": "2026-06-25T07:37:58Z",
@@ -660,14 +676,6 @@
       "summary": "Biomarkery z krwi pępowinowej mogą pomóc we wczesnej diagnostyce encefalopatii noworodkowej (NE) i wykrywaniu noworodków, które mogą odnieść korzyść z interwencji. Przeprowadzono przegląd systematyczny i metaanalizę. Przeszukano PubMed, Scopus, OVID MEDLINE, Embase i Cochrane do lipca 2024 r."
     },
     {
-      "title": "Długotrwałe leczenie i zaawansowana choroba wywołana wirusem HIV – priorytet zdrowia publicznego – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMp2605547",
-      "date": "2026-06-25T04:25:18Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Długotrwałe leczenie i zaawansowana choroba wywołana wirusem HIV — priorytet zdrowia publicznego The New England Journal of Medicine."
-    },
-    {
       "title": "Nasze obecne luki w wykrywaniu czerniaka – czasy dermatologii",
       "url": "https://www.dermatologytimes.com/view/our-current-gap-in-melanoma-detection",
       "date": "2026-06-24T19:13:57Z",
@@ -682,14 +690,6 @@
       "source": "Cochrane Library",
       "confirmed_by": 1,
       "summary": "Nowe materiały będą lepiej wspierać osoby prowadzące szkolenia dla autorów Cochrane."
-    },
-    {
-      "title": "Jak wykorzystałem radio publiczne do rekrutacji 20 000 uczestników do recenzowanego badania na temat przerw na spacer – statnews.com",
-      "url": "https://www.statnews.com/?p=1488515",
-      "date": "2026-06-24T09:06:41Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "„Przy odpowiedniej strukturze Amerykanie zakasają rękawy, podejmą naukę i zaufają wynikowi” – ​​pisze Manoush Zomorodi."
     },
     {
       "title": "Zapobieganie OHSS w zapłodnieniu in vitro/ICSI: badanie dotyczące kabergoliny w skojarzeniu z leczeniem przerywanym zostało wycofane ze względu na krytyczne problemy związane z randomizacją - Vera Health",
@@ -819,7 +819,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
       "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
@@ -843,7 +843,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -851,7 +851,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -867,7 +867,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1588,12 +1588,20 @@
   ],
   "pharma_market": [
     {
-      "title": "Częstość występowania dysfunkcji prawej komory ~40 procent w HFpEF – Drugs.com",
-      "url": "https://www.drugs.com/news/prevalence-right-ventricular-dysfunction-40-percent-hfpef-130476.html",
-      "date": "2026-06-26T19:12:21Z",
+      "title": "Kobiety cierpiące na stan przedrzucawkowy mają zwiększone ryzyko późniejszego nadciśnienia i przewlekłej choroby nerek – Drugs.com",
+      "url": "https://www.drugs.com/news/women-preeclampsia-have-increased-risk-later-hypertension-ckd-130478.html",
+      "date": "2026-06-26T19:47:49Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Częstość występowania dysfunkcji prawej komory ~40 procent w HFpEF Drugs.com."
+      "summary": "Kobiety cierpiące na stan przedrzucawkowy mają zwiększone ryzyko późniejszego nadciśnienia, CKD Drugs.com."
+    },
+    {
+      "title": "Unikalne identyfikatory sygnatur białkowych Choroba zapalna jelit u dzieci – Drugs.com",
+      "url": "https://www.drugs.com/news/unique-protein-signature-ids-pediatric-onset-inflammatory-bowel-130475.html",
+      "date": "2026-06-26T19:18:36Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Unikalne identyfikatory sygnatur białkowych Choroba zapalna jelit u dzieci Drugs.com."
     },
     {
       "title": "Pieniądze z ugody na opioidy pokrywają koszty usług mających na celu walkę z uzależnieniem na obszarach wiejskich Kentucky – Drugs.com",
@@ -1812,14 +1820,6 @@
       "summary": "Historia objawów wstrząsu mózgu powiązana ze zwiększonym prawdopodobieństwem wystąpienia szumu w uszach Drugs.com."
     },
     {
-      "title": "Pacjenci z toczniem mają zwiększone ryzyko PChN i śmiertelności – Drugs.com",
-      "url": "https://www.drugs.com/news/patients-lupus-have-increased-risk-ckd-mortality-130462.html",
-      "date": "2026-06-25T21:22:41Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Pacjenci z toczniem mają zwiększone ryzyko PChN, Mortality Drugs.com."
-    },
-    {
       "title": "Bayer odnosi przełomowe zwycięstwo, gdy Sąd Najwyższy unieważnia wyrok Roundup w sprawie Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/bayer-scores-major-win-scotus-overturns-roundup-verdict",
       "date": "2026-06-25T17:52:19Z",
@@ -1966,6 +1966,22 @@
       "summary": "To 67. raport sytuacyjny dotyczący wybuchu mpoxu w wielu krajach. Niniejszy raport zawiera szczegółowe informacje na temat globalnej sytuacji epidemiologicznej w zakresie mpox na dzień 31 maja 2026 r. i w Afryce na dzień 14 czerwca 2026 r., wraz z aktualizacjami działań operacyjnych na dzień 17 czerwca 2026 r."
     },
     {
+      "title": "Pierwszy przypadek Eboli w Europie. GIS wyjaśnia, jakie jest zagrożenie dla Polski - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/medycyna/choroby-zakazne/pierwszy-przypadek-eboli-w-europie-gis-wyjasnia-jakie-jest-zagrozenie-dla-polski/",
+      "date": "2026-06-26T12:27:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "We Francji odnotowano pierwszy przypadek wirusa Ebola - poinformowało tamtejsze ministerstwo zdrowia. Zakażoną osobą jest lekarz, który wrócił z Demokratycznej Republiki Konga (DRK). Główny Inspektorat Sanitarny wyjaśnia, jakie jest ryzyko dla Polski."
+    },
+    {
+      "title": "„Gorąca strefa” skłoniła mnie do pracy z pacjentami z ebolą. Teraz mam mieszane uczucia co do książki - statnews.com",
+      "url": "https://www.statnews.com/2026/06/26/the-hot-zone-richard-preston-ebola-narrative/",
+      "date": "2026-06-26T08:33:09Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "„Rzeczywistość związana z wirusem Ebola jest jednocześnie mniej sensacyjna i znacznie trudniejsza, niż większość ludzi sobie wyobraża” – pisze Krutika Kuppalli."
+    },
+    {
       "title": "Wirus Ebola i Bundibugyo — często zadawane pytania — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/faq/index.html",
       "date": "2026-06-26T04:44:21Z",
@@ -1996,22 +2012,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Ten algorytm ambulatoryjny przeznaczony jest dla podmiotów świadczących opiekę zdrowotną w USA w celu oceny pacjentów pod kątem choroby Ebola."
-    },
-    {
-      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
-      "date": "2026-06-25T09:17:45Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Bundibugyo Ebola The Lancet."
-    },
-    {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
-      "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
     }
   ],
   "daily_top5": [
