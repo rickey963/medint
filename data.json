@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T19:51:17Z",
+  "last_updated": "2026-06-26T19:51:55Z",
   "poland": [
     {
       "title": "Otarcia na udach w upały. Sposoby na otarcia ud i zapobieganie im - DOZ",
@@ -15,7 +15,7 @@
       "date": "2026-06-26T18:50:29Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Projekt wspierający samorządy w planowaniu działań z zakresu zdrowia publicznego z dofinansowaniem Portal Funduszy Europejskich."
+      "summary": "Bądź na bieżąco z Funduszami Europejskimi."
     },
     {
       "title": "Paryż bez alkoholu - Termedia",
@@ -143,7 +143,7 @@
       "date": "2026-06-26T14:09:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "KE wszczęła dochodzenie wobec Sanofi. Chodzi o promocję szczepionki przeciw grypie Alert Medyczny."
+      "summary": "KE wszczęła dochodzenie wobec Sanofi. Sprawdzi, czy kampania dotycząca szczepionki przeciw grypie naruszyła zasady konkurencji UE."
     },
     {
       "title": "Zespół Koordynacyjny ds. Chorób Ultrarzadkich - protokoły z posiedzeń - Narodowy Fundusz Zdrowia (NFZ)",
@@ -167,7 +167,7 @@
       "date": "2026-06-26T13:46:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Limit godzin pracy dla wszystkich lekarzy? Ministra zdrowia spotka się z samorządem 9 lipca Alert Medyczny."
+      "summary": "MZ analizuje limit czasu pracy wszystkich lekarzy. Zmiany mają być odpowiedzią na wyniki kontroli NIK i aferę Szpitala Południowego."
     },
     {
       "title": "Dane o zarobkach lekarzy powiązane z nr PESEL. Prezes NRL: jeśli prezydent podpisze ustawę, pójdziemy do trybunałów - Puls Medycyny",
@@ -199,7 +199,7 @@
       "date": "2026-06-26T13:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rzecznik Praw Lekarzy NIL chce pilnego posiedzenia po ataku nożownika w szpitalu Alert Medyczny."
+      "summary": "Rzecznik Praw Lekarzy NIL apeluje o pilne działania po ataku nożownika w szpitalu. Proponuje zmiany prawa i rejestr agresji wobec medyków."
     },
     {
       "title": "19-latek zaatakował personel i pacjentów w szpitalu w Jastrzębiu-Zdroju - Remedium.md",
@@ -1236,14 +1236,6 @@
   ],
   "pharma_market": [
     {
-      "title": "Pieniądze z ugody na opioidy pokrywają koszty usług mających na celu walkę z uzależnieniem na obszarach wiejskich Kentucky – Drugs.com",
-      "url": "https://www.drugs.com/news/opioid-settlement-money-pays-services-battle-rural-kentucky-130473.html",
-      "date": "2026-06-26T16:11:10Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Pieniądze z ugody na opioidy pokrywają koszty usług mających na celu walkę z uzależnieniem na obszarach wiejskich Kentucky Drugs.com."
-    },
-    {
       "title": "Nowy dyrektor generalny Alkermes ma plan przechytrzyć Lilly i Takedę – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/alkermes-blair-jackson-narcolepsy-drug-orexin-ceo-succession/823893/",
       "date": "2026-06-26T16:02:39Z",
@@ -1388,12 +1380,28 @@
       "summary": "Wycofanie urządzenia klasy 2 Intera Oncology accessdata.fda.gov."
     },
     {
+      "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220753",
+      "date": "2026-06-26T06:37:13Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
+    },
+    {
       "title": "Kladrybina: zastosowania, dawkowanie, skutki uboczne, ostrzeżenia - Drugs.com",
       "url": "https://www.drugs.com/cladribine.html",
       "date": "2026-06-26T06:09:34Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Kladrybina: zastosowania, dawkowanie, skutki uboczne, ostrzeżenia Drugs.com."
+    },
+    {
+      "title": "Wycofanie urządzenia klasy 1 z rynku Abiomed 14 Fr x 13 cm Niskoprofilowy zestaw wprowadzający do aparatu Impella CP - accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220455",
+      "date": "2026-06-26T05:54:45Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 1 z rynku Abiomed 14 Fr x 13 cm Niskoprofilowy zestaw wprowadzający do Impella CP accessdata.fda.gov."
     },
     {
       "title": "FDA proponuje przepis, który pomógłby pociągnąć zagranicznych producentów wyrobów tytoniowych do odpowiedzialności i chronić zdrowie publiczne – fda.gov",
@@ -1452,12 +1460,28 @@
       "summary": "Pacjenci z toczniem mają zwiększone ryzyko PChN, Mortality Drugs.com."
     },
     {
+      "title": "Specyficzne cechy związane z ryzykiem wczesnego raka jelita grubego – Drugs.com",
+      "url": "https://www.drugs.com/news/specific-characteristics-linked-risk-early-onset-colorectal-cancer-130465.html",
+      "date": "2026-06-25T20:45:45Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Specyficzne cechy związane z ryzykiem wczesnego wystąpienia raka jelita grubego Drugs.com."
+    },
+    {
       "title": "Bayer odnosi przełomowe zwycięstwo, gdy Sąd Najwyższy unieważnia wyrok Roundup w sprawie Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/bayer-scores-major-win-scotus-overturns-roundup-verdict",
       "date": "2026-06-25T17:52:19Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "Bayer odniósł kluczowe zwycięstwo w swojej obronie przed procesami Roundup jako USA | Bayer odniósł kluczowe zwycięstwo w obronie przed pozwami Roundup, ponieważ Sąd Najwyższy Stanów Zjednoczonych uchylił wyrok ławy przysięgłych z Missouri wart 1,25 miliona dolarów, która stanęła po stronie mężczyzny, który twierdził, że lata ekspozycji na herbicyd spowodowały u niego chłoniaka nieziarniczego."
+    },
+    {
+      "title": "Lista dostępnych zbiorów danych – hfpappexternal.fda.gov",
+      "url": "https://hfpappexternal.fda.gov/scripts/fdcc/index.cfm?id=SODIUMDISTEARYLPHOSPHATE",
+      "date": "2026-06-25T17:18:15Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Lista dostępnych zbiorów danych hfpappexternal.fda.gov."
     },
     {
       "title": "Wiadomości z branży biotechnologicznej i farmaceutycznej - BioPharma Dive",
@@ -1532,14 +1556,6 @@
       "summary": "NEEDHAM, Massachusetts, 25 czerwca 2026 r. (GLOBE NEWSWIRE) — Candel Therapeutics, Inc. (Candel lub the Company) (Nasdaq: CADL), firma biofarmaceutyczna na etapie klinicznym, skupiająca się na opracowywaniu multimodalnych immunoterapii w celu poprawy wyników leczenia pacjentów chorych na raka, ogłosiła dzisiaj mianowanie Marka Simsa na stanowisko dyrektora handlowego firmy ze skutkiem od 6 lipca 2026 r."
     },
     {
-      "title": "NIEKTÓRE - LAJ42W4HAB | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
-      "url": "https://precision.fda.gov/uniisearch/srs?search=LAJ42W4HAB",
-      "date": "2026-06-25T13:01:18Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
-    },
-    {
       "title": "Drugi bloker RAS firmy Revolution podwaja wskaźnik odpowiedzi na chemioterapię w raku trzustki – BioSpace",
       "url": "https://www.biospace.com/drug-development/revolutions-second-ras-blocker-doubles-chemo-response-rate-in-pancreatic-cancer",
       "date": "2026-06-25T12:49:44Z",
@@ -1570,14 +1586,6 @@
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "Jubilant HollisterStier, jednostka CDMO indyjskiej firmy Jubilant Pharmova, zarobiła."
-    },
-    {
-      "title": "Wycofanie wyrobów medycznych – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=98966",
-      "date": "2026-06-25T07:41:20Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Wyrób medyczny przypomina accessdata.fda.gov."
     },
     {
       "title": "Notatnik BIO: sekcja zwłok CNPV – Citeline News & Insights",
