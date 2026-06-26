@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T04:44:30Z",
+  "last_updated": "2026-06-26T04:45:13Z",
   "poland": [
     {
       "title": "Długi pogarszają kondycję psychiczną Polaków. 40 proc. odczuwa skutki finansowych problemów - PolitykaZdrowotna.com",
@@ -340,14 +340,6 @@
   ],
   "world": [
     {
-      "title": "Publikacje | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/fr/countries/publications?country=38&page=3",
-      "date": "2026-06-26T02:56:37Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
-    },
-    {
       "title": "Classroom of the Elite Manga: Przeczytaj oficjalne rozdziały i spoilery – Biblioteka Cochrane",
       "url": "https://www.cochranelibrary.com/documents/20195/493911647/Classroom+of+the+Elite+Manga_+Read+Official+Chapters+%26+Spoilers+%287%29.pdf/",
       "date": "2026-06-25T23:01:39Z",
@@ -370,6 +362,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
+    },
+    {
+      "title": "Czy warto spróbować kreatyny na zdrowie mózgu? - Medyczny",
+      "url": "https://www.medscape.com/viewarticle/creatine-supplementation-brain-health-worth-try-2026a1000kuz",
+      "date": "2026-06-25T19:30:49Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Badania nad suplementacją kreatyną przeniosły się z siłowni do laboratorium mózgu, co skłoniło neurolog Heidi Moawad do przeglądu danych na temat potencjału kreatyny w zakresie poprawy zdrowia poznawczego."
     },
     {
       "title": "Podczas BIO 2026 branża zmagała się z polityką Waszyngtonu i usprawnieniem działania sztucznej inteligencji – statnews.com",
@@ -474,14 +474,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Pobyt w szpitalu, opłaty szpitalne i inne drugorzędne wyniki również były podobne u pacjentów płci męskiej i żeńskiej."
-    },
-    {
-      "title": "Czy bimekizumab może dorównać inhibitorom IL-23 pod względem przetrwania po leczeniu po niepowodzeniu inhibitora IL-17 w łuszczycy? - Medyczny",
-      "url": "https://www.medscape.com/viewarticle/can-bimekizumab-match-il-23-inhibitors-drug-survival-after-2026a1000l80",
-      "date": "2026-06-25T12:00:21Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Badanie retrospektywne wykazało, że bimekizumab zapewnia przeżycie leku porównywalne z inhibitorami interleukiny-23 po niepowodzeniu inhibitorów interleukiny-17 u pacjentów z łuszczycą."
     },
     {
       "title": "Huíla uruchamia innowacyjny projekt mający na celu wzmocnienie profilaktyki i wczesnej diagnostyki raka piersi i szyjki macicy – ​​WHO | Biuro Regionalne dla Afryki",
@@ -881,6 +873,14 @@
     }
   ],
   "clinical_trials": [
+    {
+      "title": "Wczesna ekspozycja na Covid może kształtować odporność na lata – szczepionka mRNA powiązana ze zmianą klasy IgG4 – Trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/early-covid-exposure-may-shape-immunity-for-yearsmrna-vax-linked-to-igg4-class-switching-2182b951",
+      "date": "2026-06-25T20:19:33Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Carla Martin Pérez i współpracownicy z ISGlobal, Barcelona Institute for Global Health, wraz ze współpracownikami z Uniwersytetu w Barcelonie, IDIBAPS, CIBER i Burnet Institute podają w czasopiśmie Communications Medicine, że pierwsze narażenie osoby na SARS-CoV-2 w wyniku infekcji lub szczepienia mRNA wydaje się kształtować późniejsze reakcje podklas przeciwciał. To podłużne badanie kohortowe hiszpańskich pracowników służby zdrowia wykazało, że wielokrotne szczepienie mRNA było związane ze zwiększeniem poziomu przeciwciał IgG2 i IgG4, szczególnie wśród osób zaszczepionych przed zakażeniem. Podczas krążenia preparatu Omicron wyższe poziomy IgG2 i IgG4 wiązały się z większym ryzykiem przełomowej infekcji, podczas gdy wyższe poziomy IgG1, Fc&gamma; przeciwciała wiążące receptor i przeciwciała wiążące C1q były powiązane z ochroną."
+    },
     {
       "title": "Fundacja Michaela J. Foxa inwestuje 2,5 miliona dolarów w rozszerzenie precyzyjnego badania Parkinsona ukierunkowanego na LRRK2 - Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/michael-j.-fox-foundation-invests-2.5-million-to-expand-precision-parkinsons-trial-targeting-lrrk2-49c8b11a",
@@ -1593,7 +1593,7 @@
       "date": "2026-06-24T02:10:57Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "W trakcie corocznego spotkania BIO dyrektorzy firm farmaceutycznych reagują na potencjalne przepisy blokujące umowy z Chinami, przyglądają się wpływowi polityki cenowej kraju najbardziej uprzywilejowanego na warunki transakcji, nowy zestaw narzędzi sztucznej inteligencji firmy NVIDIA do zastosowań w naukach przyrodniczych oraz wysiłki FDA w zakresie rekrutacji."
+      "summary": "Kontynuacją dorocznego spotkania BIO jest to, że dyrektorzy firm farmaceutycznych reagują na potencjalne przepisy blokujące umowy z Chinami, przyglądają się wpływowi polityki cenowej kraju najbardziej uprzywilejowanego na warunki transakcji, nowy zestaw narzędzi sztucznej inteligencji firmy NVIDIA do zastosowań w naukach przyrodniczych oraz wysiłki FDA w zakresie rekrutacji."
     },
     {
       "title": "EMEA-000922-PIP02-10 – plan badań pediatrycznych – Europejska Agencja Leków (EMA)",
@@ -1688,20 +1688,20 @@
       "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki lecznicze stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
     },
     {
-      "title": "Publikacje | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/fr/countries/publications?country=38&page=3",
-      "date": "2026-06-26T02:56:37Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
-    },
-    {
       "title": "Rozmiar epidemii wirusa Ebola w 2026 r. i ryzyko transgranicznego przeniesienia wirusa Bundibugyo w prowincji Ituri w Demokratycznej Republice Konga oraz jego konsekwencje dla gotowości: ponownie skalibrowane badanie oparte na modelowaniu stochastycznym - The Lancet",
       "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00320-8/fulltext",
       "date": "2026-06-25T22:52:29Z",
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Rozmiar epidemii wirusa Ebola w 2026 r. i ryzyko transgranicznego rozprzestrzenienia się wirusa Bundibugyo w prowincji Ituri w Demokratycznej Republice Konga oraz jego konsekwencje dla gotowości: ponownie skalibrowane badanie oparte na modelowaniu stochastycznym The Lancet."
+    },
+    {
+      "title": "Tematy zdrowotne | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/pt/countries/23308/health-topics",
+      "date": "2026-06-25T22:33:08Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
     },
     {
       "title": "Uruchomienie planu wzmocnienia reakcji na choroby grzybicze i oporności na środki przeciwgrzybicze – Światowa Organizacja Zdrowia (WHO)",
