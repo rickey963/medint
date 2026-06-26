@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T03:39:07Z",
+  "last_updated": "2026-06-26T03:39:52Z",
   "poland": [
     {
       "title": "Pacjentka 40+ w okresie transformacji menopauzalnej - Medycyna Praktyczna",
@@ -167,7 +167,7 @@
       "date": "2026-06-25T14:30:21Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
+      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
     },
     {
       "title": "Sobierańska-Grenda o Szpitalu Południowym: państwo zareagowało w sposób natychmiastowy - PolitykaZdrowotna.com",
@@ -247,7 +247,7 @@
       "date": "2026-06-25T12:25:06Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
+      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
     },
     {
       "title": "Świąd, bezsenność, depresja. Prof. Nowicki: ciężkości AZS nie można oceniać wyłącznie po zmianach skórnych - Puls Medycyny",
@@ -287,7 +287,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
+      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -298,20 +298,20 @@
       "summary": "To o poczekalnię najczęściej pytają pacjenci, którzy korzystają już z centralnej e-rejestracji. Dowiedz się, jak działa i może Ci pomóc w umówieniu wizyty u lekarza specjalisty."
     },
     {
-      "title": "Doświadczenia z dzieciństwa zostawiają komórkowy ślad na całe życie - Aktualności - Genetyka - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/genetyka/aktualnosci/442345,doswiadczenia-z-dziecinstwa-zostawiaja-komorkowy-slad-na-cale-zycie",
-      "date": "2026-06-25T08:22:25Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Wydarzenia i przeżycia z wczesnych etapów życia zostawiają w komórkach ślad wpływający na zdrowie przez kolejne dekady – sugeruje badanie na rezusach. Tłumacząc ten mechanizm naukowcy wskazują na to, że wczesne przeżycia wpływają na ak."
-    },
-    {
       "title": "Kurzajki to objaw zakażenia HPV - Serwis Zdrowie",
       "url": "https://zdrowie.pap.pl/choroby/kurzajki-objaw-zakazenia-hpv",
       "date": "2026-06-25T08:19:25Z",
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Kurzajki, określane w medycynie jako brodawki wirusowe skóry, należą do najczęstszych rozpoznań dermatologicznych w populacji dzieci, młodzieży i młodych dorosłych. Choć zazwyczaj traktowane są jako problem kosmetyczny, ich obecność jest klinicznym śladem zakażenia wirusem brodawczaka ludzkiego – HPV (Human Papillomavirus). W ostatnich kilkunastu latach badania podstawowe i kliniczne znacząco pogłębiły wiedzę na temat biologii tego wirusa, mechanizmów jego transmisji oraz relacji z układem odpornościowym gospodarza."
+    },
+    {
+      "title": "Rozmowy w Trójstronnym Zespole zerwane - Ochrona zdrowia - mp.pl",
+      "url": "https://ochronazdrowia.mp.pl/aktualnosci/442326,rozmowy-w-trojstronnym-zespole-zerwane",
+      "date": "2026-06-25T06:23:19Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Po blisko czterech godzinach posiedzenia strona społeczna Trójstronnego Zespołu ds. Ochrony Zdrowia wyszła z sali. Związkowcy i pracodawcy wydali wspólny komunikat, tłumacząc powody swojej decyzji."
     },
     {
       "title": "Uzdrowisko Ustroń po modernizacji: 8 tys. zabiegów dziennie dla 2 tys. pacjentów - Serwis Zdrowie",
@@ -882,6 +882,14 @@
   ],
   "clinical_trials": [
     {
+      "title": "Wczesna ekspozycja na Covid może kształtować odporność na lata – szczepionka mRNA powiązana ze zmianą klasy IgG4 – Trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/early-covid-exposure-may-shape-immunity-for-yearsmrna-vax-linked-to-igg4-class-switching-2182b951",
+      "date": "2026-06-25T20:19:33Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Carla Martin Pérez i współpracownicy z ISGlobal, Barcelona Institute for Global Health, wraz ze współpracownikami z Uniwersytetu w Barcelonie, IDIBAPS, CIBER i Burnet Institute podają w czasopiśmie Communications Medicine, że pierwsze narażenie osoby na SARS-CoV-2 w wyniku infekcji lub szczepienia mRNA wydaje się kształtować późniejsze reakcje podklas przeciwciał. To podłużne badanie kohortowe hiszpańskich pracowników służby zdrowia wykazało, że wielokrotne szczepienie mRNA było związane ze zwiększeniem poziomu przeciwciał IgG2 i IgG4, szczególnie wśród osób zaszczepionych przed zakażeniem. Podczas krążenia preparatu Omicron wyższe poziomy IgG2 i IgG4 wiązały się z większym ryzykiem przełomowej infekcji, podczas gdy wyższe poziomy IgG1, Fc&gamma; przeciwciała wiążące receptor i przeciwciała wiążące C1q były powiązane z ochroną."
+    },
+    {
       "title": "Fundacja Michaela J. Foxa inwestuje 2,5 miliona dolarów w rozszerzenie precyzyjnego badania Parkinsona ukierunkowanego na LRRK2 - Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/michael-j.-fox-foundation-invests-2.5-million-to-expand-precision-parkinsons-trial-targeting-lrrk2-49c8b11a",
       "date": "2026-06-25T19:26:05Z",
@@ -1244,6 +1252,62 @@
       "summary": "Biogen wstrzymuje lub anuluje większość programów badawczo-rozwojowych w ramach wykupu Apellis za 5,6 miliarda dolarów i zwalnia pracowników, koncentrując się na Empaveli i Syfovre."
     },
     {
+      "title": "Oczekuje się, że koszty opieki nad osobami chorymi na demencję w 2026 r. w Stanach Zjednoczonych wyniosą 818 miliardów dolarów - Drugs.com",
+      "url": "https://www.drugs.com/news/2026-costs-dementia-care-expected-818-billion-united-states-130466.html",
+      "date": "2026-06-25T23:46:57Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Oczekuje się, że koszty opieki nad osobami z demencją w 2026 r. wyniosą 818 miliardów dolarów w Stanach Zjednoczonych Drugs.com."
+    },
+    {
+      "title": "Historia objawów wstrząśnienia mózgu powiązana ze zwiększonym ryzykiem wystąpienia szumu w uszach – Drugs.com",
+      "url": "https://www.drugs.com/news/concussion-symptom-history-linked-increased-odds-tinnitus-130464.html",
+      "date": "2026-06-25T21:22:41Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Historia objawów wstrząsu mózgu powiązana ze zwiększonym prawdopodobieństwem wystąpienia szumu w uszach Drugs.com."
+    },
+    {
+      "title": "Specyficzne cechy związane z ryzykiem wczesnego raka jelita grubego – Drugs.com",
+      "url": "https://www.drugs.com/news/specific-characteristics-linked-risk-early-onset-colorectal-cancer-130465.html",
+      "date": "2026-06-25T20:45:45Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Specyficzne cechy związane z ryzykiem wczesnego wystąpienia raka jelita grubego Drugs.com."
+    },
+    {
+      "title": "Negatywne powiązanie między postrzeganiem choroby a zachowaniem w zakresie samokontroli w przypadku IBD - Drugs.com",
+      "url": "https://www.drugs.com/news/negative-link-seen-between-illness-perception-self-management-behavior-ibd-130459.html",
+      "date": "2026-06-25T19:52:07Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Negatywne powiązanie między postrzeganiem choroby a zachowaniem związanym z samokontrolą w IBD Drugs.com."
+    },
+    {
+      "title": "Wielowymiarowa ocena ryzyka korzystna w identyfikacji klinicznie istotnego raka prostaty - Drugs.com",
+      "url": "https://www.drugs.com/news/multivariable-risk-score-beneficial-identifying-clinically-significant-prostate-cancer-130458.html",
+      "date": "2026-06-25T19:52:07Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Wielowymiarowa ocena ryzyka korzystna w identyfikacji klinicznie istotnego raka prostaty Drugs.com."
+    },
+    {
+      "title": "Znaczące powiązanie między wirusowym zapaleniem wątroby typu C a nadczynnością pęcherza – Drugs.com",
+      "url": "https://www.drugs.com/news/significant-association-id-d-between-hepatitis-c-overactive-bladder-130461.html",
+      "date": "2026-06-25T19:38:14Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Znaczące zidentyfikowane powiązanie między wirusowym zapaleniem wątroby typu C a nadczynnością pęcherza Drugs.com."
+    },
+    {
+      "title": "Społeczne determinanty zdrowia powiązane z nieprawidłowościami neurobiologicznymi w schizofrenii – Drugs.com",
+      "url": "https://www.drugs.com/news/social-determinants-health-tied-neurobiological-abnormalities-schizophrenia-130463.html",
+      "date": "2026-06-25T19:27:36Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Społeczne determinanty zdrowia powiązane z nieprawidłowościami neurobiologicznymi w schizofrenii Drugs.com."
+    },
+    {
       "title": "Bayer odnosi przełomowe zwycięstwo, gdy Sąd Najwyższy unieważnia wyrok Roundup w sprawie Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/bayer-scores-major-win-scotus-overturns-roundup-verdict",
       "date": "2026-06-25T17:52:19Z",
@@ -1396,14 +1460,6 @@
       "summary": "Jubilant HollisterStier, jednostka CDMO indyjskiej firmy Jubilant Pharmova, zarobiła."
     },
     {
-      "title": "Firma zajmująca się chorobami autoimmunologicznymi Oblenio Bio zdobywa 62 mln dolarów pod przewodnictwem Pfizer Ventures - Endpoints News",
-      "url": "https://endpoints.news/autoimmune-disease-company-oblenio-bio-clinches-62m-in-series-b/",
-      "date": "2026-06-25T10:00:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "Oblenio Bio pozyskuje 62 miliony dolarów z serii B prowadzonej przez Pfizer Venture Investments na rozwój LBL-051, trójspecyficznego TCE ukierunkowanego na BCMA, CD19 i CD3, do pierwszych badań na ludziach w zakresie chorób autoimmunologicznych."
-    },
-    {
       "title": "AstraZeneca wraz z YMCA – Fierce Pharma przedstawia społeczną strategię badań przesiewowych w kierunku raka",
       "url": "https://www.fiercepharma.com/marketing/astrazeneca-spells-out-community-cancer-screening-strategy-ymca",
       "date": "2026-06-25T08:30:35Z",
@@ -1516,36 +1572,12 @@
       "summary": "Niektórzy analitycy twierdzą, że nawet dla konkurentów duże zwycięstwo Definium Therapeutics w badaniach klinicznych pomaga zweryfikować dziedzinę psychedeliczną i „wprowadzić ją jeszcze bardziej do głównego nurtu”."
     },
     {
-      "title": "Stada, będąca nowym właścicielem CapVest, przejmuje hordę europejskich marek konsumenckich – Fierce Pharma",
-      "url": "https://www.fiercepharma.com/pharma/stada-under-new-capvest-ownership-picks-horde-european-consumer-health-brands-orifarm",
-      "date": "2026-06-24T15:20:43Z",
-      "source": "FiercePharma",
-      "confirmed_by": 1,
-      "summary": "Niemiecki producent leków generycznych Stada powraca na rynek po przejęciu go przez CapVest Partners w zeszłym roku, zaopatrując się w 16 marek witamin, minerałów i suplementów (VMS) Orifarm | Transakcja pozwala firmie Stada zwiększyć obecność produktów z zakresu ochrony zdrowia konsumentów w europejskich aptekach, podczas gdy Orifarm może skupić się na produktach farmaceutycznych."
-    },
-    {
-      "title": "Dyrektor generalny BIO Crowley i lekarz DOD Overton to najlepsi kandydaci na komisarza FDA: RBC – BioSpace",
-      "url": "https://www.biospace.com/fda/bio-ceo-crowley-dod-doctor-overton-are-top-candidates-for-fda-commissioner-rbc",
-      "date": "2026-06-24T14:48:55Z",
-      "source": "BioSpace",
-      "confirmed_by": 1,
-      "summary": "Nowy raport RBC Capital Markets wymienia dyrektora naczelnego Biotechnology Innovation Organisation Johna Crowleya i lekarkę wojskową Heidi Overton jako potencjalnych kandydatów na komisarza FDA – oprócz obecnego pełniącego obowiązki lidera agencji, głównego organu regulacyjnego ds. żywności Kyle’a Diamantasa."
-    },
-    {
       "title": "Sangamo organizuje sprzedaż upadłościową; VC wspierają powiązanego z Chinami konkurenta Beam – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/sangamo-bankruptcy-serapha-china-saturnus-cenrifki-carsgen/823588/",
       "date": "2026-06-24T14:44:50Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "Eli Lilly i Astellas będą głównymi oferentami na aukcji aktywów Sangamo. W innym miejscu syndykat inwestorów przeznaczył 230 milionów dolarów na start-up zajmujący się edycją genów, a firma Merck KGaA zawarła umowę „budowa na zakup”."
-    },
-    {
-      "title": "Ollin uzupełnia kwotę 330 mln dolarów na wsparcie kluczowych testów pretendenta Vabysmo - BioPharma Dive",
-      "url": "https://www.biopharmadive.com/news/ollin-biosciences-financing-china-innovent-vabysmo-amd-dme/823564/",
-      "date": "2026-06-24T11:24:42Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "Jedna z największych rund finansowania przedsięwzięć w tym roku następuje tuż po bezpośrednim badaniu, które wykazało, że lek Ollina – licencjonowany od chińskiego dewelopera – ma pewną przewagę nad lekami na oczy firmy Roche."
     },
     {
       "title": "UNII-ZV1MM336WB | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
@@ -1570,14 +1602,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
-    },
-    {
-      "title": "FDA zatwierdza sacituzumab govitecan-hziy w monoterapii i w leczeniu skojarzonym - fda.gov",
-      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-sacituzumab-govitecan-hziy-monotherapy-and-combination-pembrolizumab-first-line",
-      "date": "2026-06-24T00:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "FDA zatwierdza sacituzumab govitecan-hziy w monoterapii i w połączeniu fda.gov."
     },
     {
       "title": "EMEA-000922-PIP02-10 – plan badań pediatrycznych – Europejska Agencja Leków (EMA)",
