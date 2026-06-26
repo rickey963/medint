@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T20:50:07Z",
+  "last_updated": "2026-06-26T20:50:49Z",
   "poland": [
     {
       "title": "Otarcia na udach w upały. Sposoby na otarcia ud i zapobieganie im - DOZ",
@@ -51,7 +51,7 @@
     },
     {
       "title": "Zdrowe lato w Twoim telefonie z aplikacją mojeIKP - Pacjent gov",
-      "url": "https://pacjent.gov.pl/aktualnosc/zdrowe-lato-w-twoim-telefonie-z-aplikacja-mojeikp",
+      "url": "http://pacjent.gov.pl/aktualnosc/zdrowe-lato-w-twoim-telefonie-z-aplikacja-mojeikp",
       "date": "2026-06-26T15:51:45Z",
       "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 1,
@@ -224,6 +224,14 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "We Francji odnotowano pierwszy przypadek wirusa Ebola - poinformowało tamtejsze ministerstwo zdrowia. Zakażoną osobą jest lekarz, który wrócił z Demokratycznej Republiki Konga (DRK). Główny Inspektorat Sanitarny wyjaśnia, jakie jest ryzyko dla Polski."
+    },
+    {
+      "title": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/szpital-poludniowy-zaplacil-725-tys-zl-za-przygotowanie-wniosku-do-kpo/",
+      "date": "2026-06-26T12:01:00Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO. „Gazeta Wyborcza” opisuje kulisy przetargu i stanowiska stron."
     },
     {
       "title": "400 europejskich miast na liście. Rekord stresu termicznego - Rynek Zdrowia",
@@ -468,54 +476,6 @@
       "summary": "W przypadku zamiany więcej niż 1 na 4 dotyczy potencjalnie nieodpowiedniego leku."
     },
     {
-      "title": "Wciągająca rzeczywistość wirtualna z synchroniczną neurostymulacją w celu rekonwalescencji kończyn górnych po udarze: randomizowana próba wykonalności - Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04486-4",
-      "date": "2026-06-26T10:01:48Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Platforma multimodalna łącząca wciągającą rzeczywistość wirtualną z protokołem synchronicznej neurostymulacji sensorycznej osiągnęła lepsze wyniki niż konwencjonalna rehabilitacja u osób po przewlekłym udarze, poprawiając motorykę kończyn górnych, przywracając reprezentację ciała i lepszą ostrość dotyku, umożliwiając jednocześnie obiektywne kinematyczne śledzenie powrotu do zdrowia."
-    },
-    {
-      "title": "Ocena solidności i gotowości dużych modeli pionierskich w zastosowaniach sztucznej inteligencji w zdrowiu – Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04501-8",
-      "date": "2026-06-26T10:01:47Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Kontrowersyjna ocena wiodących modeli sztucznej inteligencji odkrywa luki między sukcesem a solidnością testów porównawczych, podkreślając ograniczenia obecnych testów porównawczych sztucznej inteligencji w dziedzinie zdrowia i ich zdolności do uchwycenia klinicznie istotnych wyników."
-    },
-    {
-      "title": "Generacyjny system wspomagania decyzji klinicznych z obsługą sztucznej inteligencji w podstawowej opiece zdrowotnej: pragmatyczne badanie z randomizacją w klastrach - Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04503-6",
-      "date": "2026-06-26T10:01:47Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Pragmatyczne, randomizowane badanie klastrowe wykazało, że wspomaganie podejmowania decyzji za pomocą ChatGPT-4o w kenijskich placówkach podstawowej opieki zdrowotnej nie zmniejszyło znacząco niepowodzeń leczenia w ciągu 14 dni w porównaniu ze zwykłą opieką."
-    },
-    {
-      "title": "Kliramitug w leczeniu wyczerpania transtyretyny amyloidu sercowego: długoterminowa obserwacja badania NI006-101 - Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04487-3",
-      "date": "2026-06-26T10:01:47Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "W otwartym badaniu stanowiącym kontynuację badania NI006-101, w którym pacjentów z kardiomiopatią amyloidozy transtyretynowej leczono przeciwciałem monoklonalnym cliramitug, skierowanym przeciwko nieprawidłowo sfałdowanej transtyretynie, długoterminowa obserwacja trwająca średnio 29,3 miesiąca wykazała korzystne bezpieczeństwo stosowania, dalsze zmniejszenie obciążenia amyloidem serca oraz poprawę strukturalnych, funkcjonalnych i biomarkerowych punktów końcowych."
-    },
-    {
-      "title": "Ponowne podanie terapii genowej za pośrednictwem AAV w leczeniu głuchoty związanej z OTOF: badanie jednoramienne - Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04505-4",
-      "date": "2026-06-26T09:49:41Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "W ramach badania klinicznego ponowne podanie terapii genowej AAV czterem pacjentom z wrodzoną głuchotą, którzy otrzymali wcześniej pierwszą dawkę terapii genowej i wytworzyły się w nich przeciwciała neutralizujące, było bezpieczne i doprowadziło do dalszej poprawy słuchu."
-    },
-    {
-      "title": "Adaptacyjna stymulacja mózgu 2.0 dla chodu parkinsonowskiego - Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04489-1",
-      "date": "2026-06-26T09:33:00Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Dwa badania pokazują, że adaptacyjna neuromodulacja może poprawić chód w chorobie Parkinsona, dopasowując stymulację do odpowiedniego obwodu we właściwym momencie, wskazując strategie rozkładające złożone objawy na możliwe do ukierunkowania komponenty przestrzenne i czasowe."
-    },
-    {
       "title": "Wdrażanie tego, co sprawdza się w polityce alkoholowej: raport z postępu prac nad inicjatywą SAFER – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/9789240120587",
       "date": "2026-06-26T09:08:56Z",
@@ -556,6 +516,22 @@
       "summary": "Niezwykły dostęp do eksperymentalnego leku przykuł uwagę także amerykańskiej opinii publicznej."
     },
     {
+      "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+1305+0400+Pusat+Alat+XRF+Tambang+Wilayah+Merangin+Jambi++%5B%5BTigapillar%5D%5D+",
+      "date": "2026-06-26T04:24:44Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
+    },
+    {
+      "title": "Esej o nagrodzie Wakleya – Wu Lien Teha 2026: dlaczego medycyna i dlaczego warto pozostać? - Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01233-X/abstract",
+      "date": "2026-06-26T03:49:09Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Esej o nagrodzie Wakleya – Wu Lien Teha 2026: dlaczego medycyna i dlaczego warto pozostać? Lancet."
+    },
+    {
       "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
       "url": "https://www.nejm.org/research-summaries",
       "date": "2026-06-26T03:05:15Z",
@@ -578,14 +554,6 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Rak u młodych dorosłych: wyjście z cienia? Lancet."
-    },
-    {
-      "title": "Rozmiar epidemii wirusa Ebola w 2026 r. i ryzyko transgranicznego przeniesienia wirusa Bundibugyo w prowincji Ituri w Demokratycznej Republice Konga oraz jego konsekwencje dla gotowości: ponownie skalibrowane badanie oparte na modelowaniu stochastycznym - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00320-8/fulltext",
-      "date": "2026-06-25T22:52:29Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Rozmiar epidemii wirusa Ebola w 2026 r. i ryzyko transgranicznego rozprzestrzenienia się wirusa Bundibugyo w prowincji Ituri w Demokratycznej Republice Konga oraz jego konsekwencje dla gotowości: ponownie skalibrowane badanie oparte na modelowaniu stochastycznym The Lancet."
     },
     {
       "title": "Nowa karta ACIP poszerza kryteria dla członków i wzywa do przeglądu alternatyw dla szczepionek – statnews.com",
@@ -612,6 +580,14 @@
       "summary": "Dyrektorzy biotechnologii ujawniają obawy dotyczące chińskiej biotechnologii, rentowności sztucznej inteligencji i trwałości ruchów cen leków Trumpa."
     },
     {
+      "title": "Tajemniczy przypadek leku na otyłość Eli Lilly – statnews.com",
+      "url": "https://www.statnews.com/2026/06/25/readout-loud-podcast-eli-lilly-fda-obesity-trump-absci-regenxbio/",
+      "date": "2026-06-25T19:00:33Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Kto uzyskał wyłączny dostęp do długo oczekiwanego kandydata na otyłość Eli Lilly? I dlaczego producenci leków wydają tak dużo na przejęcia? Dowiesz się tego w „Readout LOUD.” w tym tygodniu."
+    },
+    {
       "title": "Podwójna terapia β-laktamami przeciwko izolatom Pseudomonas aeruginosa wysokiego ryzyka: dynamiczne badanie modelu infekcji in vitro integrujące genomikę populacji z systemami ilościowymi, modelowaniem i symulacjami farmakologicznymi - The Lancet",
       "url": "https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(26)00019-4/fulltext",
       "date": "2026-06-25T17:05:51Z",
@@ -628,12 +604,28 @@
       "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
     },
     {
+      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
+      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
+      "date": "2026-06-25T09:17:45Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku epidemii Bundibugyo Ebola The Lancet."
+    },
+    {
       "title": "Choroba wywołana wirusem Bundibugyo w 2026 r. — reakcje kliniczne i zdrowie publiczne — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2607216",
       "date": "2026-06-25T07:37:58Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Choroba wywołana wirusem Bundibugyo w 2026 r. — reakcje kliniczne i zdrowie publiczne The New England Journal of Medicine."
+    },
+    {
+      "title": "Długotrwałe leczenie i zaawansowana choroba wywołana wirusem HIV – priorytet zdrowia publicznego – The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMp2605547",
+      "date": "2026-06-25T04:25:18Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Długotrwałe leczenie i zaawansowana choroba wywołana wirusem HIV — priorytet zdrowia publicznego The New England Journal of Medicine."
     }
   ],
   "guidelines": [],
@@ -645,6 +637,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 2,
       "summary": "Dostępny jest również plik audio."
+    },
+    {
+      "title": "Epidemia mpox w wielu krajach, Raport o sytuacji zewnętrznej nr 67 – 26 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/publications/m/item/multi-country-outbreak-of-mpox--external-situation-report--67---26-june-2026",
+      "date": "2026-06-26T18:00:13Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "To 67. raport sytuacyjny dotyczący wybuchu mpoxu w wielu krajach. Niniejszy raport zawiera szczegółowe informacje na temat globalnej sytuacji epidemiologicznej w zakresie mpox na dzień 31 maja 2026 r. i w Afryce na dzień 14 czerwca 2026 r., wraz z aktualizacjami działań operacyjnych na dzień 17 czerwca 2026 r."
     },
     {
       "title": "Oświadczenie TAG-TP w sprawie immunomodulatorów i terapii ukierunkowanych na gospodarza w leczeniu choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
@@ -677,6 +677,14 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Publikacje Światowej Organizacji Zdrowia."
+    },
+    {
+      "title": "Nowy raport WHO przedstawia postępy w realizacji inicjatywy dotyczącej polityki alkoholowej SAFER – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/26-06-2026-new-who-report-charts-progress-on-the-safer-alcohol-policy-initiative",
+      "date": "2026-06-26T10:25:02Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Szacuje się, że szkody spowodowane alkoholem powodują każdego roku około 2,6 miliona zgonów i pozostają jednym z najbardziej zaniedbywanych i możliwych do uniknięcia zagrożeń dla zdrowia i rozwoju. Nowy raport WHO, wdrażający to, co sprawdza się w polityce alkoholowej: raport z postępu inicjatywy SAFER, dokumentuje, w jaki sposób kraje przechodzą od zaangażowania do realizacji, oraz określa priorytety na kolejny etap. Zainaugurowany w 2018 r. na spotkaniu wysokiego szczebla Organizacji Narodów Zjednoczonych w sprawie chorób niezakaźnych i formalnie zatwierdzony w ramach Globalnego planu działania dotyczącego alkoholu na lata 2022–2030, SAFER stał się główną platformą działań WHO w pięciu obszarach o dużym wpływie: ograniczanie dostępności, prowadzenie pojazdu pod wpływem alkoholu środki zaradcze, badania przesiewowe i leczenie, ograniczenia marketingowe i ustalanie cen poprzez opodatkowanie. Kraje przekładające BEZPIECZEŃSTWO na działania krajowe i społeczne Wdrożenie na poziomie krajowym podkreśla, w jaki sposób partnerstwa i skoordynowane działania mogą napędzać zmiany w polityce i systemie opieki zdrowotnej. Uganda, pierwszy kraj, który przyjął SAFER jako platformę krajową, zintegrowała badania przesiewowe, krótką interwencję i skierowanie do leczenia do podstawowej opieki zdrowotnej, a także wspierała reformy swoich ustaw o podatku akcyzowym."
     },
     {
       "title": "Biotest butelek CDC — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -839,14 +847,6 @@
       "summary": "Przeciwciała reagujące krzyżowo z wirusem Bundibugyo u fretek zaszczepionych szczepionką przeciwko wirusowi Ebola."
     },
     {
-      "title": "Zjednoczeni na rzecz położenia kresu AIDS: Nowa deklaracja polityczna stanowi ostateczny impuls do przyspieszenia postępów w kierunku położenia kresu AIDS jako zagrożenia dla zdrowia publicznego do 2030 r. – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news/item/24-06-2026-united-to-end-aids-new-political-declaration-launches-final-push-to-accelerate-progress-towards-ending-aids-as-a-public-health-threat-by-2030",
-      "date": "2026-06-24T18:06:10Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Zjednoczeni na rzecz położenia kresu AIDS: Nowa deklaracja polityczna stanowi ostateczny impuls do przyspieszenia postępów w kierunku położenia kresu AIDS jako zagrożenia dla zdrowia publicznego do roku 2030 Światowej Organizacji Zdrowia (WHO)."
-    },
-    {
       "title": "WHA79 – WHO wspiera dialogi wysokiego szczebla na temat raka, innowacji i równego dostępu – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/24-06-2026-wha79-who-supports-high-level-dialogues-on-cancer-innovation-and-equitable-access",
       "date": "2026-06-24T16:29:39Z",
@@ -877,14 +877,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Najnowsze dane wskazują na nierówny postęp, co podkreśla pilną potrzebę skupienia się na przystępności cenowej i społecznościach bezbronnych."
-    },
-    {
-      "title": "Webinarium WHO w nagłych przypadkach zdrowotnych EPI-WIN: Bezpieczna, skalowalna opieka nad wirusem Ebola (Bundibugyo) w Demokratycznej Republice Konga: operacje, wytyczne kliniczne i projekt ośrodków terapeutycznych - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/who-health-emergencies-epi-win-webinar-safe-scalable-ebola-(bundibugyo)-care-in-dr-congo--operations-clinical-guidelines-and-treatment-centre-design",
-      "date": "2026-06-24T11:00:00Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Demokratyczna Republika Konga reaguje na 17. epidemię wirusa Ebola wywołaną wirusem Bundibugyo we wschodnich prowincjach Ituri, Kiwu Północne i Kiwu Południowe. Na chorobę wirusową Bundibugyo nie ma licencjonowanej szczepionki ani specjalnego leczenia, co sprawia, że ​​wczesne wykrycie, wysokiej jakości opieka wspomagająca oraz bezpieczne, dobrze zaprojektowane placówki lecznicze to najpotężniejsze narzędzia ratujące życie. W tym seminarium internetowym uczestniczy WHO i eksperci krajowi, aby skupić się na bezpiecznej i skalowalnej opiece zdrowotnej."
     }
   ],
   "clinical_trials": [
@@ -1371,6 +1363,14 @@
       "summary": "Wycofanie urządzenia klasy 2 Intera Oncology accessdata.fda.gov."
     },
     {
+      "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220753",
+      "date": "2026-06-26T06:37:13Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
+    },
+    {
       "title": "Kladrybina: zastosowania, dawkowanie, skutki uboczne, ostrzeżenia - Drugs.com",
       "url": "https://www.drugs.com/cladribine.html",
       "date": "2026-06-26T06:09:34Z",
@@ -1443,6 +1443,14 @@
       "summary": "Bayer odniósł kluczowe zwycięstwo w swojej obronie przed procesami sądowymi Roundup jako USA | Bayer odniósł kluczowe zwycięstwo w swojej obronie przed pozwami Roundup, ponieważ Sąd Najwyższy Stanów Zjednoczonych uchylił wyrok ławy przysięgłych z Missouri wart 1,25 miliona dolarów, która stanęła po stronie mężczyzny, który twierdził, że lata ekspozycji na herbicyd spowodowały u niego chłoniaka nieziarniczego."
     },
     {
+      "title": "Lista dostępnych zbiorów danych – hfpappexternal.fda.gov",
+      "url": "https://hfpappexternal.fda.gov/scripts/fdcc/index.cfm?id=SODIUMDISTEARYLPHOSPHATE",
+      "date": "2026-06-25T17:18:15Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Lista dostępnych zbiorów danych hfpappexternal.fda.gov."
+    },
+    {
       "title": "Wiadomości z branży biotechnologicznej i farmaceutycznej - BioPharma Dive",
       "url": "https://www.biopharmadive.com/?page=2&ref=antoinebuteau.com",
       "date": "2026-06-25T17:13:59Z",
@@ -1507,14 +1515,6 @@
       "summary": "NEEDHAM, Massachusetts, 25 czerwca 2026 r. (GLOBE NEWSWIRE) — Candel Therapeutics, Inc. (Candel lub the Company) (Nasdaq: CADL), firma biofarmaceutyczna na etapie klinicznym, skupiająca się na opracowywaniu multimodalnych immunoterapii w celu poprawy wyników leczenia pacjentów chorych na raka, ogłosiła dzisiaj mianowanie Marka Simsa na stanowisko dyrektora handlowego firmy ze skutkiem od 6 lipca 2026 r."
     },
     {
-      "title": "NIEKTÓRE - LAJ42W4HAB | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
-      "url": "https://precision.fda.gov/uniisearch/srs?search=LAJ42W4HAB",
-      "date": "2026-06-25T13:01:18Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
-    },
-    {
       "title": "Drugi bloker RAS firmy Revolution podwaja wskaźnik odpowiedzi na chemioterapię w raku trzustki – BioSpace",
       "url": "https://www.biospace.com/drug-development/revolutions-second-ras-blocker-doubles-chemo-response-rate-in-pancreatic-cancer",
       "date": "2026-06-25T12:49:44Z",
@@ -1547,14 +1547,6 @@
       "summary": "Po 35 latach badań i rozwoju produktów farmaceutycznych firma Ionis po raz pierwszy wprowadziła na rynek swoje leki w 2024 r. | Ionis uzyskał pozwolenie FDA na rozszerzenie leku Tryngolza na pierwszy lek specjalnie zatwierdzony do leczenia ciężkiej hipertriglicerydemii. To ukłon znacznie zwiększy potencjał generowania przychodów leku oligonukleotydowego antysensownego."
     },
     {
-      "title": "Wycofanie wyrobów medycznych – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=98966",
-      "date": "2026-06-25T07:41:20Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Wyrób medyczny przypomina accessdata.fda.gov."
-    },
-    {
       "title": "Notatnik BIO: sekcja zwłok CNPV – Citeline News & Insights",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/conferences/bio/bio-notebook-a-post-mortem-on-cnpv-B24VUQ2TQRDHVOCHGEW7S5LFDQ/",
       "date": "2026-06-25T02:34:50Z",
@@ -1579,6 +1571,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 2,
       "summary": "Dostępny jest również plik audio."
+    },
+    {
+      "title": "Epidemia mpox w wielu krajach, Raport o sytuacji zewnętrznej nr 67 – 26 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/publications/m/item/multi-country-outbreak-of-mpox--external-situation-report--67---26-june-2026",
+      "date": "2026-06-26T18:00:13Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "To 67. raport sytuacyjny dotyczący wybuchu mpoxu w wielu krajach. Niniejszy raport zawiera szczegółowe informacje na temat globalnej sytuacji epidemiologicznej w zakresie mpox na dzień 31 maja 2026 r. i w Afryce na dzień 14 czerwca 2026 r., wraz z aktualizacjami działań operacyjnych na dzień 17 czerwca 2026 r."
     },
     {
       "title": "Pierwszy przypadek Eboli w Europie. GIS wyjaśnia, jakie jest zagrożenie dla Polski - Puls Medycyny",
@@ -1613,14 +1613,6 @@
       "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki leczenia stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
     },
     {
-      "title": "Rozmiar epidemii wirusa Ebola w 2026 r. i ryzyko transgranicznego przeniesienia wirusa Bundibugyo w prowincji Ituri w Demokratycznej Republice Konga oraz jego konsekwencje dla gotowości: ponownie skalibrowane badanie oparte na modelowaniu stochastycznym - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00320-8/fulltext",
-      "date": "2026-06-25T22:52:29Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Rozmiar epidemii wirusa Ebola w 2026 r. i ryzyko transgranicznego rozprzestrzenienia się wirusa Bundibugyo w prowincji Ituri w Demokratycznej Republice Konga oraz jego konsekwencje dla gotowości: ponownie skalibrowane badanie oparte na modelowaniu stochastycznym The Lancet."
-    },
-    {
       "title": "Plakat: Ocena opieki ambulatoryjnej nad pacjentami zakażonymi wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/hcp/communication-resources/ambulatory-care-evaluation.html",
       "date": "2026-06-25T16:19:58Z",
@@ -1629,12 +1621,12 @@
       "summary": "Ten algorytm ambulatoryjny przeznaczony jest dla podmiotów świadczących opiekę zdrowotną w USA w celu oceny pacjentów pod kątem choroby Ebola."
     },
     {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "CDC Outbreaks",
+      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
+      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
+      "date": "2026-06-25T09:17:45Z",
+      "source": "The Lancet",
       "confirmed_by": 1,
-      "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
+      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku epidemii Bundibugyo Ebola The Lancet."
     }
   ],
   "daily_top5": [
@@ -1647,12 +1639,12 @@
       "summary": "Dostępny jest również plik audio."
     },
     {
-      "title": "Oświadczenie TAG-TP w sprawie immunomodulatorów i terapii ukierunkowanych na gospodarza w leczeniu choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/japan/news/detail-global/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
-      "date": "2026-06-26T17:23:03Z",
-      "source": "WHO",
+      "title": "Epidemia mpox w wielu krajach, Raport o sytuacji zewnętrznej nr 67 – 26 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/publications/m/item/multi-country-outbreak-of-mpox--external-situation-report--67---26-june-2026",
+      "date": "2026-06-26T18:00:13Z",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "W kontekście ustalania priorytetów leków, które mają zostać uwzględnione w badaniach klinicznych nad chorobą wirusową Bundibugyo (BVD), Techniczna Grupa Doradcza ds. ustalania priorytetów terapii TAG-TP rozpoczęła badanie krajobrazu nowych lub zmienionych środków immunomodulujących i ukierunkowanych na gospodarza."
+      "summary": "To 67. raport sytuacyjny dotyczący wybuchu mpoxu w wielu krajach. Niniejszy raport zawiera szczegółowe informacje na temat globalnej sytuacji epidemiologicznej w zakresie mpox na dzień 31 maja 2026 r. i w Afryce na dzień 14 czerwca 2026 r., wraz z aktualizacjami działań operacyjnych na dzień 17 czerwca 2026 r."
     },
     {
       "title": "Badania pokazują, że otyłość najszybciej rośnie u młodych dorosłych – The BMJ",
@@ -1663,20 +1655,20 @@
       "summary": "Nowe badania wykazały, że otyłość najszybciej rośnie wśród młodszych dorosłych w Anglii, a także wśród osób z grup defaworyzowanych. Jak wynika z analizy elektronicznej dokumentacji zdrowotnej ponad 54 milionów dorosłych w Anglii w latach 2019–2025, nierówności we wskaźnikach otyłości pogłębiły się od czasu pandemii Covid-19.1 Ministrowie w Wielkiej Brytanii coraz częściej sięgają po leki odchudzające, takie jak GLP-1, jako metodę leczenia otyłości. Autorzy badania ostrzegli jednak, że poleganie wyłącznie na trwających całe życie terapiach lekowych prawdopodobnie nie będzie wystarczające ani trwałe w walce z kryzysem otyłości."
     },
     {
+      "title": "Nowy raport WHO przedstawia postępy w realizacji inicjatywy dotyczącej polityki alkoholowej SAFER – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/26-06-2026-new-who-report-charts-progress-on-the-safer-alcohol-policy-initiative",
+      "date": "2026-06-26T10:25:02Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Szacuje się, że szkody spowodowane alkoholem powodują każdego roku około 2,6 miliona zgonów i pozostają jednym z najbardziej zaniedbywanych i możliwych do uniknięcia zagrożeń dla zdrowia i rozwoju. Nowy raport WHO, wdrażający to, co sprawdza się w polityce alkoholowej: raport z postępu inicjatywy SAFER, dokumentuje, w jaki sposób kraje przechodzą od zaangażowania do realizacji, oraz określa priorytety na kolejny etap. Zainaugurowany w 2018 r. na spotkaniu wysokiego szczebla Organizacji Narodów Zjednoczonych w sprawie chorób niezakaźnych i formalnie zatwierdzony w ramach Globalnego planu działania dotyczącego alkoholu na lata 2022–2030, SAFER stał się główną platformą działań WHO w pięciu obszarach o dużym wpływie: ograniczanie dostępności, prowadzenie pojazdu pod wpływem alkoholu środki zaradcze, badania przesiewowe i leczenie, ograniczenia marketingowe i ustalanie cen poprzez opodatkowanie. Kraje przekładające BEZPIECZEŃSTWO na działania krajowe i społeczne Wdrożenie na poziomie krajowym podkreśla, w jaki sposób partnerstwa i skoordynowane działania mogą napędzać zmiany w polityce i systemie opieki zdrowotnej. Uganda, pierwszy kraj, który przyjął SAFER jako platformę krajową, zintegrowała badania przesiewowe, krótką interwencję i skierowanie do leczenia do podstawowej opieki zdrowotnej, a także wspierała reformy swoich ustaw o podatku akcyzowym."
+    },
+    {
       "title": "Specyfikacje techniczne ośrodków leczenia chorób filowirusowych – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/9789240123519",
       "date": "2026-06-26T04:16:32Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki leczenia stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
-    },
-    {
-      "title": "Rozmiar epidemii wirusa Ebola w 2026 r. i ryzyko transgranicznego przeniesienia wirusa Bundibugyo w prowincji Ituri w Demokratycznej Republice Konga oraz jego konsekwencje dla gotowości: ponownie skalibrowane badanie oparte na modelowaniu stochastycznym - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00320-8/fulltext",
-      "date": "2026-06-25T22:52:29Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Rozmiar epidemii wirusa Ebola w 2026 r. i ryzyko transgranicznego rozprzestrzenienia się wirusa Bundibugyo w prowincji Ituri w Demokratycznej Republice Konga oraz jego konsekwencje dla gotowości: ponownie skalibrowane badanie oparte na modelowaniu stochastycznym The Lancet."
     }
   ]
 }
