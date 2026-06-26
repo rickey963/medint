@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T11:36:37Z",
+  "last_updated": "2026-06-26T11:37:23Z",
   "poland": [
     {
       "title": "Jest zarządzenie prezesa NFZ. Follow-up onkologiczny będzie opłacony w 100 procentach - PolitykaZdrowotna.com",
@@ -104,6 +104,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Krajowa Sieć Kardiologiczna i pieniądze. Ministerstwo Zdrowia pokazuje system motywacyjny PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Wiadomości (strona 19) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Pyrzycach - Gov.pl",
+      "url": "https://www.gov.pl/web/psse-pyrzyce/aktualnosci2?page=19&size=10",
+      "date": "2026-06-26T09:16:59Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Wiadomości (strona 19) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Pyrzycach Gov.pl."
     },
     {
       "title": "LightBone z ZUT: wstrzykiwalny biomateriał zamiast śrub ortopedycznych - PolitykaZdrowotna.com",
@@ -290,14 +298,6 @@
       "summary": "Bezpieczeństwo pacjentów, zwiększenie transparentności wydatkowania publicznych środków oraz odbudowa zaufania do systemu ochrony zdrowia to główne tematy konferencji prasowej, która odbyła się dziś w Ministerstwie Zdrowia. W spotkaniu udział wzięli minister zdrowia Jolanta Sobierańska-Grenda, prezes NFZ Filip Nowak, prezes AOTMiT Daniel Rutkowski oraz Konsultant Krajowy w dziedzinie medycyny ratunkowej prof. Jerzy Robert Ładny."
     },
     {
-      "title": "Podpisano umowę o dofinansowanie projektu FERS dla Państwowego Instytutu Medycznego MSWiA - Gov.pl",
-      "url": "https://www.gov.pl/web/zdrowie/podpisano-umowe-o-dofinansowanie-projektu-fers-dla-panstwowego-instytutu-medycznego-mswia",
-      "date": "2026-06-25T14:57:43Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "24.06.2026 r. podpisano umowę o dofinansowanie projektu pt. „Podniesienie kompetencji kadry medycznej i zarządzającej różnego szczebla szpitali”, realizowanego przez Państwowy Instytut Medyczny Ministerstwa Spraw Wewnętrznych i Administracji."
-    },
-    {
       "title": "Ogłoszenie o zamówieniu - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/bip/zamowienia-publiczne/ogloszenie-o-zamowieniu-nfz-bag-szp-251-17-2026,6907.html",
       "date": "2026-06-25T14:34:50Z",
@@ -353,7 +353,7 @@
       "date": "2026-06-26T11:19:08Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Rośnie luka w opiece zdrowotnej w USA BMJ."
+      "summary": "Polityka rządu zaostrzy wskaźniki niedoubezpieczenia i wyzwań związanych z siłą roboczą W maju 2026 r. Commonwealth Fund, niezależna fundacja zajmująca się badaniami nad polityką zdrowotną z siedzibą w USA, opublikowała ocenę wydatków na opiekę zdrowotną, wyników i wykorzystania usług w USA w porównaniu z 19 innymi krajami należącymi do Organizacji Współpracy Gospodarczej i Rozwoju (OECD)1. Wyniki są otrzeźwiające. Przez dziesięciolecia Stany Zjednoczone wydawały na opiekę zdrowotną więcej niż jakikolwiek inny kraj i tendencja ta utrzymywała się przez cały 2024 r., osiągając 18% produktu krajowego brutto, czyli prawie dwukrotnie więcej niż średnia OECD. Mimo to około 8% populacji, czyli 27 milionów ludzi, nie jest ubezpieczonych."
     },
     {
       "title": "Trening drzew owocowych: chirurg przełykowo-żołądkowy ćwiczący kreatywność i cierpliwość - BMJ",
@@ -361,7 +361,15 @@
       "date": "2026-06-26T11:18:50Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Trening drzew owocowych: chirurg przełykowo-żołądkowy ćwiczący kreatywność i cierpliwość BMJ."
+      "summary": "David Chan mówi Kathy Oxtoby, że espalier jest formą eskapizmu „Jako chirurg z natury jestem dość niecierpliwy” – mówi David Chan, konsultant chirurga przełykowo-żołądkowego, dyrektor linii usług i honorowy profesor nadzwyczajny na Uniwersytecie w Plymouth od 2019 r. „Chirurdzy zazwyczaj pragną natychmiastowych rezultatów. Ogrodnictwo, a zwłaszcza uprawa drzew owocowych, to ćwiczenie wymagające i rozwijające cierpliwość."
+    },
+    {
+      "title": "Czy po odstawieniu leku starsze osoby otrzymują nieodpowiednie leki? - Medyczny",
+      "url": "https://www.medscape.com/viewarticle/older-adults-receive-inappropriate-meds-after-discontinuing-2026a1000lsb?src=rss",
+      "date": "2026-06-26T10:29:52Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "W przypadku zamiany więcej niż 1 na 4 dotyczy potencjalnie nieodpowiedniego leku."
     },
     {
       "title": "Wciągająca rzeczywistość wirtualna z synchroniczną neurostymulacją w celu rekonwalescencji kończyn górnych po udarze: randomizowana próba wykonalności - Natura",
@@ -434,6 +442,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Yola, Aisha Ibrahim obserwowała, jak jej 18-miesięczny syn Dauda bawi się przed ich domem w osiedlu Maliki 2 na obszarze samorządu lokalnego Demsa w stanie Adamawa. Zaledwie kilka tygodni wcześniej osłabł, schudł i przestał jeść."
+    },
+    {
+      "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+1305+0400+Pusat+Alat+XRF+Tambang+Wilayah+Merangin+Jambi++%5B%5BTigapillar%5D%5D+",
+      "date": "2026-06-26T04:24:44Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "Esej o nagrodzie Wakleya – Wu Lien Teha 2026: dlaczego medycyna i dlaczego warto pozostać? - Lancet",
@@ -524,14 +540,6 @@
       "summary": "Kto uzyskał wyłączny dostęp do długo oczekiwanego kandydata na otyłość Eli Lilly? I dlaczego producenci leków wydają tak dużo na przejęcia? Dowiesz się tego w „Readout LOUD.” w tym tygodniu."
     },
     {
-      "title": "Choroba wirusowa Nipah - Indie - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON609",
-      "date": "2026-06-25T18:20:09Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "W dniu 11 czerwca 2026 r. Departament Zdrowia stanu Kerala potwierdził jeden potwierdzony laboratoryjnie przypadek zakażenia wirusem Nipah (NiV) w ​​dystrykcie Kozhikode w stanie Kerala w Indiach. Przypadek dotyczy dorosłego mężczyzny, u którego objawy wystąpiły w dniu 30 maja 2026 r. i został hospitalizowany w dniu 10 czerwca 2026 r. Wystąpiły u niego objawy neurologiczne i w momencie zgłoszenia przebywał na oddziale intensywnej terapii (OIOM), poddawany wspomaganiu wentylacji."
-    },
-    {
       "title": "Właściwości psychometryczne listy kontrolnej roli dla hiszpańskojęzycznych osób po udarze - BMJ Open",
       "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e105421?rss=1",
       "date": "2026-06-25T17:45:33Z",
@@ -561,7 +569,7 @@
       "date": "2026-06-25T15:49:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Antysemityzm: Lekarze żądają, aby NHS porzuciła kontrowersyjną definicję i wzywała do „przerwy” w recenzji Manna The BMJ."
+      "summary": "BMA będzie lobbować w NHS, aby zaprzestała obowiązkowego przyjmowania definicji antysemityzmu przyjętej przez Międzynarodowy Sojusz na rzecz Pamięci o Holokauście (IHRA). Przemawiając na dorocznym spotkaniu przedstawicieli związku w Brighton, członkowie ostrzegli, że definicja IHRA została „uzbrojona” w celu rozprawienia się z wolnością słowa. W odrębnym wniosku członkowie BMA wezwali także do natychmiastowego wstrzymania wdrażania zaleceń wynikających z niedawnego rządowego przeglądu Manna ze względu na jego wpływ na wolność słowa."
     },
     {
       "title": "Debata o Chinach staje się głośniejsza w Waszyngtonie – statnews.com",
@@ -585,7 +593,7 @@
       "date": "2026-06-25T14:47:25Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Strajk: w Irlandii Północnej rozpoczyna się akcja protestacyjna lekarzy szpitalnych The BMJ."
+      "summary": "Konsultanci i lekarze specjaliści w Irlandii Północnej rozpoczęli bezprecedensowe strajki w sprawie wynagrodzeń. Chociaż nie jest to całkowity strajk, oznacza to, że od godziny 7:00 25 czerwca do godziny 6:59 następnego dnia dostępna będzie wyłącznie ochrona w nagłych wypadkach, zwana „ochroną na Boże Narodzenie”. To pierwsze takie działanie konsultantów i specjalistów w regionie."
     },
     {
       "title": "Mirvetuximab nie zwiększa przeżycia w leczeniu OC kwalifikującym się do platyny - Medscape",
@@ -610,14 +618,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Symulacja, rzeczywistość wirtualna i sztuczna inteligencja zmieniają kształt edukacji medycznej, umożliwiając uczniom zdobywanie umiejętności, personalizowanie szkoleń i przygotowywanie się do złożonych scenariuszy klinicznych."
-    },
-    {
-      "title": "Hiperbaryczna terapia tlenowa może pomóc w opornym na leczenie zapaleniu jelita grubego - Medscape",
-      "url": "https://www.medscape.com/viewarticle/hyperbaric-oxygen-therapy-improves-refractory-colitis-2026a1000lir",
-      "date": "2026-06-25T06:00:21Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Tlenoterapia hiperbaryczna jest dobrze tolerowana w przypadku opornego na leczenie wrzodziejącego zapalenia jelita grubego i poprawia wyniki kliniczne wraz z poprawą perfuzji jelit."
     },
     {
       "title": "Długotrwałe leczenie i zaawansowana choroba wywołana wirusem HIV – priorytet zdrowia publicznego – The New England Journal of Medicine",
@@ -1396,14 +1396,6 @@
       "summary": "Bayer odniósł kluczowe zwycięstwo w swojej obronie przed procesami sądowymi Roundup jako USA | Bayer odniósł kluczowe zwycięstwo w swojej obronie przed pozwami Roundup, ponieważ Sąd Najwyższy Stanów Zjednoczonych uchylił wyrok ławy przysięgłych z Missouri wart 1,25 miliona dolarów, która stanęła po stronie mężczyzny, który twierdził, że lata ekspozycji na herbicyd spowodowały u niego chłoniaka nieziarniczego."
     },
     {
-      "title": "Lista dostępnych zbiorów danych – hfpappexternal.fda.gov",
-      "url": "https://hfpappexternal.fda.gov/scripts/fdcc/index.cfm?id=SODIUMDISTEARYLPHOSPHATE",
-      "date": "2026-06-25T17:18:15Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Lista dostępnych zbiorów danych hfpappexternal.fda.gov."
-    },
-    {
       "title": "Rod Wong z RTW o tym, jak Chiny zmieniły (i nie zmieniły) strategię inwestycyjną swojej firmy – Endpoints News",
       "url": "https://endpoints.news/rtws-rod-wong-on-how-china-has-and-hasnt-changed-his-firms-investments/",
       "date": "2026-06-25T17:11:00Z",
@@ -1492,14 +1484,6 @@
       "summary": "NEEDHAM, Massachusetts, 25 czerwca 2026 r. (GLOBE NEWSWIRE) — Candel Therapeutics, Inc. (Candel lub the Company) (Nasdaq: CADL), firma biofarmaceutyczna na etapie klinicznym, skupiająca się na opracowywaniu multimodalnych immunoterapii w celu poprawy wyników leczenia pacjentów chorych na raka, ogłosiła dzisiaj mianowanie Marka Simsa na stanowisko dyrektora handlowego firmy ze skutkiem od 6 lipca 2026 r."
     },
     {
-      "title": "NIEKTÓRE - LAJ42W4HAB | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
-      "url": "https://precision.fda.gov/uniisearch/srs?search=LAJ42W4HAB",
-      "date": "2026-06-25T13:01:18Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
-    },
-    {
       "title": "Drugi bloker RAS firmy Revolution podwaja wskaźnik odpowiedzi na chemioterapię w raku trzustki – BioSpace",
       "url": "https://www.biospace.com/drug-development/revolutions-second-ras-blocker-doubles-chemo-response-rate-in-pancreatic-cancer",
       "date": "2026-06-25T12:49:44Z",
@@ -1548,12 +1532,20 @@
       "summary": "AstraZeneca ma | AstraZeneca nawiązała współpracę z YMCA z USA, aby zwiększyć świadomość na temat badań przesiewowych i wczesnego wykrywania raka."
     },
     {
-      "title": "Wycofanie urządzenia klasy 2 Surgify Halo – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220184",
-      "date": "2026-06-25T06:40:14Z",
+      "title": "Monitor telemetryczny klasy 2 firmy Philips 5500 1,4 GHz. - accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220889",
+      "date": "2026-06-25T06:40:13Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Wycofanie urządzenia klasy 2 Surgify Halo accessdata.fda.gov."
+      "summary": "Monitor telemetryczny klasy 2 firmy Philips 5500 1,4 GHz. accessdata.fda.gov."
+    },
+    {
+      "title": "Wersja Persona dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220738",
+      "date": "2026-06-25T06:40:13Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 2. Wersja Persona accessdata.fda.gov."
     },
     {
       "title": "ARS Pharmaceuticals dostarcza aktualizacje handlowe i finansowe - BioSpace",
@@ -1704,12 +1696,12 @@
   ],
   "daily_top5": [
     {
-      "title": "Wdrażanie tego, co sprawdza się w polityce alkoholowej: raport z postępu prac nad inicjatywą SAFER – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/publications/i/item/9789240120587",
-      "date": "2026-06-26T09:08:56Z",
-      "source": "WHO",
+      "title": "Wiadomości (strona 19) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Pyrzycach - Gov.pl",
+      "url": "https://www.gov.pl/web/psse-pyrzyce/aktualnosci2?page=19&size=10",
+      "date": "2026-06-26T09:16:59Z",
+      "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Szkody spowodowane alkoholem są przyczyną milionów zgonów każdego roku i pozostają główną, możliwą do uniknięcia przeszkodą dla zdrowia, równości i zrównoważonego rozwoju."
+      "summary": "Wiadomości (strona 19) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Pyrzycach Gov.pl."
     },
     {
       "title": "Specyfikacje techniczne ośrodków leczenia chorób filowirusowych – Światowa Organizacja Zdrowia (WHO)",
