@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T05:59:06Z",
+  "last_updated": "2026-06-26T05:59:43Z",
   "poland": [
     {
       "title": "UV w natarciu. Jak organizm broni się przed słońcem - Serwis Zdrowie",
@@ -215,7 +215,7 @@
       "date": "2026-06-25T14:30:21Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
+      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
     },
     {
       "title": "Senat przyjął ustawę o powiązaniu danych o wynagrodzeniach lekarzy z PESEL lub PWZ - Remedium.md",
@@ -271,7 +271,7 @@
       "date": "2026-06-25T12:25:06Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
+      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
     },
     {
       "title": "Świąd, bezsenność, depresja. Prof. Nowicki: ciężkości AZS nie można oceniać wyłącznie po zmianach skórnych - Puls Medycyny",
@@ -303,7 +303,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
+      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -629,7 +629,7 @@
       "date": "2026-06-26T04:16:32Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki lecznicze stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
+      "summary": "Specyfikacje techniczne ośrodków leczenia chorób filowirusowych Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -757,7 +757,7 @@
       "date": "2026-06-24T16:29:39Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "WHA79 – WHO wspiera dialogi wysokiego szczebla na temat raka, innowacji i równego dostępu Światowa Organizacja Zdrowia (WHO)."
+      "summary": "Przy okazji 79. Światowego Zgromadzenia Zdrowia (WHA79) Światowa Organizacja Zdrowia (WHO) wspierała spotkania na wysokim szczeblu zwołane przez Sekretariat Wspólnoty Narodów i Organizację Internationale de la Francophonie (OIF), wzmacniając rolę WHO jako platformy dialogu, współpracy i zbiorowych działań w zakresie globalnych priorytetów zdrowotnych."
     },
     {
       "title": "KTO | Komunikaty prasowe – Światowa Organizacja Zdrowia (WHO)",
@@ -1606,14 +1606,6 @@
   ],
   "critical_alerts": [
     {
-      "title": "Specyfikacje techniczne ośrodków leczenia chorób filowirusowych – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/publications/i/item/9789240123519",
-      "date": "2026-06-26T04:16:32Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki lecznicze stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
-    },
-    {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-06-26T03:59:35Z",
@@ -1668,6 +1660,14 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Demokratyczna Republika Konga reaguje na 17. epidemię wirusa Ebola wywołaną wirusem Bundibugyo we wschodnich prowincjach Ituri, Kiwu Północne i Kiwu Południowe. Na chorobę wirusową Bundibugyo nie ma licencjonowanej szczepionki ani specjalnego leczenia, co sprawia, że ​​wczesne wykrycie, wysokiej jakości opieka wspomagająca oraz bezpieczne, dobrze zaprojektowane placówki lecznicze to najpotężniejsze narzędzia ratujące życie. W tym seminarium internetowym uczestniczy WHO i eksperci krajowi, aby skupić się na bezpiecznej i skalowalnej opiece zdrowotnej."
+    },
+    {
+      "title": "Epidemia ślimaków New World — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/new-world-screwworm/situation-summary/index.html",
+      "date": "2026-06-23T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Aktualna sytuacja w związku z epidemią ślimaków Nowego Świata w Ameryce Środkowej i Meksyku."
     }
   ],
   "daily_top5": [
@@ -1677,7 +1677,7 @@
       "date": "2026-06-26T04:16:32Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki lecznicze stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
+      "summary": "Specyfikacje techniczne ośrodków leczenia chorób filowirusowych Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "Esej o nagrodzie Wakleya – Wu Lien Teha 2026: dlaczego medycyna i dlaczego warto pozostać? - Lancet",
