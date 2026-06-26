@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T02:35:24Z",
+  "last_updated": "2026-06-26T02:36:10Z",
   "poland": [
     {
       "title": "Pacjentka 40+ w okresie transformacji menopauzalnej - Medycyna Praktyczna",
@@ -159,7 +159,7 @@
       "date": "2026-06-25T14:30:21Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
+      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
     },
     {
       "title": "Sobierańska-Grenda o Szpitalu Południowym: państwo zareagowało w sposób natychmiastowy - PolitykaZdrowotna.com",
@@ -176,14 +176,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "11-letnia pacjentka Uniwersyteckiego Centrum Klinicznego w Katowicach otrzymała terapię genową Luxturna stosowaną w leczeniu wrodzonej ślepoty Lebera, aby powstrzymać postęp choroby. Było to pierwsze podanie tego leku w katowickim ośrodku."
-    },
-    {
-      "title": "14 dni na diagnozę pacjenta. Senat za nowelizacją ustawy o Krajowej Sieci Onkologicznej - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/14-dni-na-diagnoze-pacjenta-Senat-za-nowelizacja-ustawy-o-Krajowej-Sieci-Onkologicznej,285928,14.html",
-      "date": "2026-06-25T14:10:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Doprecyzowanie roli koordynatora opieki oraz wprowadzenie elektronicznej karty DiLO - to główne założenia ustawy o Krajowej Sieci Onkologicznej, którą w czwartek poparł Senat."
     },
     {
       "title": "Senat przyjął ustawę o powiązaniu danych o wynagrodzeniach lekarzy z PESEL lub PWZ - Remedium.md",
@@ -247,7 +239,7 @@
       "date": "2026-06-25T12:25:06Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
+      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
     },
     {
       "title": "Świąd, bezsenność, depresja. Prof. Nowicki: ciężkości AZS nie można oceniać wyłącznie po zmianach skórnych - Puls Medycyny",
@@ -295,7 +287,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
+      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -516,6 +508,14 @@
       "summary": "Mirvetuximab nie uzyskał pozytywnego wyniku w pierwszym randomizowanym badaniu oceniającym koniugat przeciwciało-lek i standardową karboplatynę u pacjentek z rakiem jajnika wrażliwym na platynę."
     },
     {
+      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
+      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
+      "date": "2026-06-25T09:17:45Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Ebola Bundibugyo The Lancet."
+    },
+    {
       "title": "Kanada wprowadza ustawę o bezpiecznych mediach społecznościowych w celu ochrony dzieci – Medscape",
       "url": "https://www.medscape.com/viewarticle/canada-introduces-safe-social-media-act-protect-children-2026a1000lj9",
       "date": "2026-06-25T07:39:58Z",
@@ -596,20 +596,20 @@
       "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
     },
     {
+      "title": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a - The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00904-9/abstract",
+      "date": "2026-06-25T00:22:53Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a The Lancet."
+    },
+    {
       "title": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej - The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01023-8/fulltext?rss=yes",
       "date": "2026-06-24T23:27:46Z",
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej The Lancet."
-    },
-    {
-      "title": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a - The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00904-9/fulltext",
-      "date": "2026-06-24T23:27:42Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a The Lancet."
     },
     {
       "title": "Aby sprostać szybko zmieniającym się potrzebom, potrzebne są nowe rozwiązania: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach - The Lancet",
@@ -626,14 +626,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
-    },
-    {
-      "title": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania różnymi metodami – The Lancet",
-      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00285-3/fulltext",
-      "date": "2026-06-24T13:24:41Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania przeprowadzonego różnymi metodami The Lancet."
     }
   ],
   "guidelines": [
@@ -1638,6 +1630,14 @@
       "summary": "Ten algorytm ambulatoryjny przeznaczony jest dla podmiotów świadczących opiekę zdrowotną w USA w celu oceny pacjentów pod kątem choroby Ebola."
     },
     {
+      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
+      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
+      "date": "2026-06-25T09:17:45Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Ebola Bundibugyo The Lancet."
+    },
+    {
       "title": "Epidemia wirusa Ebola: co robi CDC – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/what-cdc-is-doing.html",
       "date": "2026-06-24T20:28:13Z",
@@ -1704,12 +1704,12 @@
       "summary": "W kwietniu przywódcy środowisk akademickich, rządowych i organizacji międzynarodowych zebrali się w Lyonie we Francji podczas festiwalu One Health, aby wzmocnić globalną współpracę w zakresie uczenia się i budowania potencjału w ramach One Health. Spotkanie dostarczyło jasnych wezwań do działania: wyjścia poza podnoszenie świadomości do praktycznego, skalowalnego wdrożenia oraz nadania priorytetu inwestycjom w ludzi i partnerstw międzysektorowych przed tworzeniem nowych ram. Uczestnicy docenili silny globalny impet i bogactwo istniejących inicjatyw „Jedno zdrowie”. Głównym zidentyfikowanym wyzwaniem było jednak przekształcenie koncepcji One Health w skoordynowane, mierzalne i operacyjne działania."
     },
     {
-      "title": "Choroba wirusowa Nipah - Indie - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON609",
-      "date": "2026-06-25T18:20:09Z",
-      "source": "WHO Disease Outbreak News",
+      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
+      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
+      "date": "2026-06-25T09:17:45Z",
+      "source": "The Lancet",
       "confirmed_by": 1,
-      "summary": "W dniu 11 czerwca 2026 r. Departament Zdrowia stanu Kerala potwierdził jeden potwierdzony laboratoryjnie przypadek zakażenia wirusem Nipah (NiV) w ​​dystrykcie Kozhikode w stanie Kerala w Indiach. Przypadek dotyczy dorosłego mężczyzny, u którego objawy wystąpiły w dniu 30 maja 2026 r. i został hospitalizowany w dniu 10 czerwca 2026 r. Wystąpiły u niego objawy neurologiczne i w momencie zgłoszenia przebywał na oddziale intensywnej terapii (OIOM), poddawany wspomaganiu wentylacji."
+      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Ebola Bundibugyo The Lancet."
     }
   ]
 }
