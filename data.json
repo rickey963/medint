@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T19:33:05Z",
+  "last_updated": "2026-06-26T19:33:42Z",
   "poland": [
     {
       "title": "Otarcia na udach w upały. Sposoby na otarcia ud i zapobieganie im - DOZ",
@@ -43,7 +43,7 @@
     },
     {
       "title": "Zdrowe lato w Twoim telefonie z aplikacją mojeIKP - Pacjent gov",
-      "url": "http://pacjent.gov.pl/aktualnosc/zdrowe-lato-w-twoim-telefonie-z-aplikacja-mojeikp",
+      "url": "https://pacjent.gov.pl/aktualnosc/zdrowe-lato-w-twoim-telefonie-z-aplikacja-mojeikp",
       "date": "2026-06-26T15:51:45Z",
       "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 1,
@@ -135,7 +135,7 @@
       "date": "2026-06-26T14:09:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "KE wszczęła dochodzenie wobec Sanofi. Chodzi o promocję szczepionki przeciw grypie Alert Medyczny."
+      "summary": "KE wszczęła dochodzenie wobec Sanofi. Sprawdzi, czy kampania dotycząca szczepionki przeciw grypie naruszyła zasady konkurencji UE."
     },
     {
       "title": "Zespół Koordynacyjny ds. Chorób Ultrarzadkich - protokoły z posiedzeń - Narodowy Fundusz Zdrowia (NFZ)",
@@ -159,7 +159,7 @@
       "date": "2026-06-26T13:46:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Limit godzin pracy dla wszystkich lekarzy? Ministra zdrowia spotka się z samorządem 9 lipca Alert Medyczny."
+      "summary": "MZ analizuje limit czasu pracy wszystkich lekarzy. Zmiany mają być odpowiedzią na wyniki kontroli NIK i aferę Szpitala Południowego."
     },
     {
       "title": "Dane o zarobkach lekarzy powiązane z nr PESEL. Prezes NRL: jeśli prezydent podpisze ustawę, pójdziemy do trybunałów - Puls Medycyny",
@@ -191,7 +191,7 @@
       "date": "2026-06-26T13:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rzecznik Praw Lekarzy NIL chce pilnego posiedzenia po ataku nożownika w szpitalu Alert Medyczny."
+      "summary": "Rzecznik Praw Lekarzy NIL apeluje o pilne działania po ataku nożownika w szpitalu. Proponuje zmiany prawa i rejestr agresji wobec medyków."
     },
     {
       "title": "19-latek zaatakował personel i pacjentów w szpitalu w Jastrzębiu-Zdroju - Remedium.md",
@@ -357,6 +357,14 @@
   "world": [
     {
       "title": "Oświadczenie TAG-TP w sprawie immunomodulatorów i terapii ukierunkowanych na gospodarza w leczeniu choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/japan/news/detail-global/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
+      "date": "2026-06-26T17:23:03Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "W kontekście ustalania priorytetów leków, które mają zostać uwzględnione w badaniach klinicznych nad chorobą wirusową Bundibugyo (BVD), Techniczna Grupa Doradcza ds. ustalania priorytetów terapii TAG-TP rozpoczęła badanie krajobrazu nowych lub zmienionych środków immunomodulujących i ukierunkowanych na gospodarza."
+    },
+    {
+      "title": "Oświadczenie TAG-TP w sprawie immunomodulatorów i terapii ukierunkowanych na gospodarza w leczeniu choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
       "date": "2026-06-26T17:06:07Z",
       "source": "WHO",
@@ -370,14 +378,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "EMA twierdzi, że korzyści ze stosowania leku Tavneos nie przewyższają już ryzyka w leczeniu czynnej ziarniniakowatości z zapaleniem naczyń."
-    },
-    {
-      "title": "Joga dla zdrowego starzenia się: praktyka światowa i dowody kliniczne – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/commentaries/detail/yoga-for-healthy-ageing-global-practice-and-clinical-evidence",
-      "date": "2026-06-26T15:32:59Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "W ostatnich latach joga stała się przedmiotem poważnych badań medycznych i naukowych. Coraz większa liczba dowodów naukowych odkrywa szereg pozytywnych i wymiernych skutków uprawiania jogi."
     },
     {
       "title": "Reakcja zdrowia publicznego na ospę Clade Ib Mpox z wielokrotnym narażeniem w miejscach zamieszkania w skupiskach – New Hampshire, luty 2025 r. – Dowody NEJM",
@@ -412,12 +412,12 @@
       "summary": "Gruczolak przysadki mózgowej związany z zespołem Schöpfa-Schulza-Passarge'a BMJ Case Reports."
     },
     {
-      "title": "Podręcznik dotyczący szczepień przeciwko wirusom układu oddechowego: monitorowanie i raportowanie szczepień przeciwko grypie sezonowej, COVID-19 i wirusowi syncytialnemu układu oddechowego - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/publications/i/item/9789240118829",
-      "date": "2026-06-26T13:22:10Z",
+      "title": "Wczesne badania przesiewowe dotyczące żywienia zmniejszają liczbę zgonów dzieci w Nigerii – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/countries/nigeria/news/early-nutrition-screening-reduces-child-deaths-nigeria",
+      "date": "2026-06-26T12:00:00Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Publikacje Światowej Organizacji Zdrowia."
+      "summary": "Yola, Aisha Ibrahim obserwowała, jak jej 18-miesięczny syn Dauda bawi się przed ich domem w osiedlu Maliki 2 na obszarze samorządu lokalnego Demsa w stanie Adamawa. Zaledwie kilka tygodni wcześniej osłabł, schudł i przestał jeść."
     },
     {
       "title": "Przygotowanie do oceny - BMJ",
@@ -474,6 +474,14 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Pierwszy rok australijskiego programu badań przesiewowych w kierunku raka płuc wydaje się sukcesem i cieszy się dużym zainteresowaniem wśród docelowej populacji, czyli nałogowych palaczy."
+    },
+    {
+      "title": "Czystsze powietrze, zdrowsze życie: bardziej rygorystyczne przepisy dotyczące zanieczyszczeń powietrza na zachodnim Pacyfiku mogą uratować życie 1,1 miliona osób – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/palau/news/feature-stories/item/cleaner-air--healthier-lives--tighter-air-pollution-regulations-across-the-western-pacific-could-save-1.1-million-lives",
+      "date": "2026-06-26T10:36:34Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Zanieczyszczenie powietrza stanowi główne zagrożenie dla zdrowia na zachodnim Pacyfiku, powodując choroby i stanowiąc duże obciążenie dla ludzi i systemów opieki zdrowotnej. Z raportu Światowej Organizacji Zdrowia (WHO) wynika, że ​​przestrzeganie wytycznych WHO dotyczących jakości powietrza mogłoby zapobiec około 1,1 milionom zgonów w regionie. Chociaż większość ludzi żyje na obszarach, na których obowiązują standardy jakości powietrza, są one często słabsze od zaleceń WHO."
     },
     {
       "title": "Czy po odstawieniu leku starsze osoby otrzymują nieodpowiednie leki? - Medyczny",
@@ -1284,22 +1292,6 @@
       "summary": "Dyrektor generalna firmy Akeso, Michelle Xia, mówi Endpoints, że analiza danych pacjentów z Chin i krajów zachodnich dotyczących iwonescimabu jest przesadzona, a FDA podejmie decyzję o zatwierdzeniu przez USA do 14 listopada."
     },
     {
-      "title": "Naukowcy twierdzą, że statyny rzadko powodują poważne problemy z mięśniami - Drugs.com",
-      "url": "https://www.drugs.com/news/statins-rarely-cause-severe-muscle-problems-researchers-say-130470.html",
-      "date": "2026-06-26T14:49:46Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Statyny rzadko powodują poważne problemy z mięśniami, twierdzą naukowcy Drugs.com."
-    },
-    {
-      "title": "Nawet w niebieskich stanach szpitale w dalszym ciągu rezygnują z opieki afirmującej płeć dla młodzieży – Drugs.com",
-      "url": "https://www.drugs.com/news/even-blue-states-hospitals-continue-drop-gender-affirming-care-youths-130471.html",
-      "date": "2026-06-26T14:49:46Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Nawet w niebieskich stanach szpitale w dalszym ciągu rezygnują z opieki afirmującej płeć dla młodzieży Drugs.com."
-    },
-    {
       "title": "Lycia zbiera 75 milionów dolarów na leczenie alergii pokarmowej i choroby Gravesa-Basedowa – Endpoints News",
       "url": "https://endpoints.news/lycia-raises-75m-for-food-allergy-and-graves-disease/",
       "date": "2026-06-26T14:13:00Z",
@@ -1356,6 +1348,14 @@
       "summary": "W dniu 23 czerwca 2026 roku Komitet ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP) przyjął pozytywną opinię zalecającą zmianę warunków pozwolenia na dopuszczenie do obrotu produktu leczniczego Datroway. Podmiotem odpowiedzialnym posiadającym pozwolenie na dopuszczenie do obrotu tego produktu leczniczego jest Daiichi Sankyo Europe GmbH. CHMP przyjął następujące nowe wskazanie: Datroway w monoterapii jest wskazany w leczeniu pierwszego rzutu dorosłych pacjentów z nieoperacyjnym lub przerzutowym potrójnie ujemnym rakiem piersi (TNBC), którzy nie są kandydatami do leczenia inhibitorami PD-1/PD-L1 (patrz punkt 5.1)."
     },
     {
+      "title": "Leqvio - opinia w sprawie zmiany pozwolenia na dopuszczenie do obrotu - Europejska Agencja Leków (EMA)",
+      "url": "https://www.ema.europa.eu/en/medicines/human/variation/leqvio",
+      "date": "2026-06-26T10:00:00Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "W dniu 25 czerwca 2026 roku Komitet ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP) przyjął pozytywną opinię zalecającą zmianę warunków pozwolenia na dopuszczenie do obrotu produktu leczniczego Leqvio. Podmiotem odpowiedzialnym posiadającym pozwolenie na dopuszczenie do obrotu tego produktu leczniczego jest Novartis Europharm Limited. CHMP przyjął następujące rozszerzenie istniejącego wskazania: Leqvio jest wskazany do stosowania u dorosłych z pierwotną hipercholesterolemią (heterozygotyczną rodzinną i nierodzinną) lub dyslipidemią mieszaną jako uzupełnienie diety oraz u dzieci i młodzieży w wieku 12 lat i starszych z heterozygotyczną hipercholesterolemią rodzinną (HeFH): w skojarzeniu ze statyną lub statyną z innymi terapiami hipolipemizującymi u pacjentów, którzy nie są w stanie osiągnąć LDL-C celów leczenia przy użyciu maksymalnej tolerowanej dawki statyny, samodzielnie lub w skojarzeniu z innymi terapiami hipolipemizującymi u pacjentów, którzy nie tolerują statyn lub u których stosowanie statyny jest przeciwwskazane."
+    },
+    {
       "title": "Japonia planuje do 2040 r. inwestycje publiczno-prywatne o wartości 370 miliardów dolarów, aby ożywić branżę farmaceutyczną - Citeline News & Insights",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/japan-plans-370bn-in-public-private-investment-by-2040-to-boost-pharma-TU5BPEFRLZCUVMP5ZFDS3NWY4M/",
       "date": "2026-06-26T07:44:42Z",
@@ -1380,12 +1380,12 @@
       "summary": "Wycofanie urządzenia klasy 2 Intera Oncology accessdata.fda.gov."
     },
     {
-      "title": "Kladrybina: zastosowania, dawkowanie, skutki uboczne, ostrzeżenia - Drugs.com",
-      "url": "https://www.drugs.com/cladribine.html",
-      "date": "2026-06-26T06:09:34Z",
-      "source": "Drugs.com",
+      "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220753",
+      "date": "2026-06-26T06:37:13Z",
+      "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Kladrybina: zastosowania, dawkowanie, skutki uboczne, ostrzeżenia Drugs.com."
+      "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
     },
     {
       "title": "FDA proponuje przepis, który pomógłby pociągnąć zagranicznych producentów wyrobów tytoniowych do odpowiedzialności i chronić zdrowie publiczne – fda.gov",
@@ -1404,14 +1404,6 @@
       "summary": "Biogen wstrzymuje lub anuluje większość programów badawczo-rozwojowych w ramach wykupu Apellis za 5,6 miliarda dolarów i zwalnia pracowników, koncentrując się na Empaveli i Syfovre."
     },
     {
-      "title": "Oczekuje się, że koszty opieki nad osobami chorymi na demencję w 2026 r. w Stanach Zjednoczonych wyniosą 818 miliardów dolarów - Drugs.com",
-      "url": "https://www.drugs.com/news/2026-costs-dementia-care-expected-818-billion-united-states-130466.html",
-      "date": "2026-06-25T23:46:57Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Oczekuje się, że koszty opieki nad osobami z demencją w 2026 r. wyniosą 818 miliardów dolarów w Stanach Zjednoczonych Drugs.com."
-    },
-    {
       "title": "Fosun Pharma planuje globalne działania wykraczające poza onkologię, napędzane wielozadaniową strategią dotyczącą choroby Alzheimera - Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/fosun-pharma-plots-global-push-beyond-oncology-fueled-multi-asset-alzheimers-strategy",
       "date": "2026-06-25T23:00:00Z",
@@ -1426,30 +1418,6 @@
       "source": "Pink Sheet",
       "confirmed_by": 1,
       "summary": "Pakiet wydany przez senatora Billa Cassidy'ego jest ważnym „wyznacznikiem” w debacie na temat reform, ale wprowadzenie przepisów w najbliższej perspektywie byłoby wyzwaniem."
-    },
-    {
-      "title": "Historia objawów wstrząśnienia mózgu powiązana ze zwiększonym ryzykiem wystąpienia szumu w uszach – Drugs.com",
-      "url": "https://www.drugs.com/news/concussion-symptom-history-linked-increased-odds-tinnitus-130464.html",
-      "date": "2026-06-25T21:22:41Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Historia objawów wstrząsu mózgu powiązana ze zwiększonym prawdopodobieństwem wystąpienia szumu w uszach Drugs.com."
-    },
-    {
-      "title": "Pacjenci z toczniem mają zwiększone ryzyko PChN i śmiertelności – Drugs.com",
-      "url": "https://www.drugs.com/news/patients-lupus-have-increased-risk-ckd-mortality-130462.html",
-      "date": "2026-06-25T21:22:41Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Pacjenci z toczniem mają zwiększone ryzyko PChN, Mortality Drugs.com."
-    },
-    {
-      "title": "Specyficzne cechy związane z ryzykiem wczesnego raka jelita grubego – Drugs.com",
-      "url": "https://www.drugs.com/news/specific-characteristics-linked-risk-early-onset-colorectal-cancer-130465.html",
-      "date": "2026-06-25T20:45:45Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Specyficzne cechy związane z ryzykiem wczesnego wystąpienia raka jelita grubego Drugs.com."
     },
     {
       "title": "Bayer odnosi przełomowe zwycięstwo, gdy Sąd Najwyższy unieważnia wyrok Roundup w sprawie Fierce Pharma",
@@ -1492,12 +1460,28 @@
       "summary": "Plus wiadomości o Leyden Labs, Otsuka, Pfizer i Hutchmed."
     },
     {
+      "title": "Merck KGaA zawiera największą od dekady transakcję zakupu za 11,3 miliarda dolarów dla Bio-Techne – Endpoints News",
+      "url": "https://endpoints.news/merck-kgaa-makes-largest-deal-in-a-decade-in-11-3b-buy-for-bio-techne/",
+      "date": "2026-06-25T15:23:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 2,
+      "summary": "Merck KGaA przejmie Bio-Techne za 11,3 miliarda dolarów, co będzie największą transakcją od dekady, rozszerzającą działalność w zakresie narzędzi do nauk przyrodniczych, biologii przestrzennej i diagnostyki."
+    },
+    {
       "title": "BIO 2026: Zapomnij o dwutorowości – transakcje z biofarmacją są bardziej złożone niż kiedykolwiek – BioSpace",
       "url": "https://www.biospace.com/business/bio-2026-forget-dual-track-biopharma-deals-are-more-complex-than-ever",
       "date": "2026-06-25T15:20:04Z",
       "source": "BioSpace",
       "confirmed_by": 1,
       "summary": "Procesy dwu-, a nawet potrójne lub poczwórne ponownie powróciły w 2026 r. dzięki nadmiarowi fuzji i przejęć, który ponownie zapełnił portfele inwestorów. Big Pharma zwraca uwagę, że czas ma kluczowe znaczenie, jeśli chce dokonywać przejęć."
+    },
+    {
+      "title": "Antares dostaje 105 mln dolarów od Novartis na nowe leki przeciwnowotworowe – BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/novartis-antares-deal-cancer-drugs/823761/",
+      "date": "2026-06-25T15:00:04Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Adam Friedman, dyrektor generalny spółki Scorpion Therapeutics, powiedział, że transakcja pomoże obu firmom przyspieszyć badania „szybciej, niż którekolwiek z nas mogłoby to zrobić samodzielnie”."
     },
     {
       "title": "BIO 2026: Inicjatywa IND FDA krokiem w kierunku normalizacji po nieudanym roku - BioSpace",
@@ -1556,6 +1540,14 @@
       "summary": "Życie z niepełnosprawnością fizyczną nie powinno pozbawiać Cię przygód. Taki jest motyw przewodni nowej kampanii firmy Novartis „Pokonuj moje ograniczenia i zwiedzaj miejsca”. | Życie z niepełnosprawnością fizyczną nie powinno pozbawiać Cię przygód."
     },
     {
+      "title": "Kombinacja TROP-2 Trodelvy i Keytruda firmy Gilead zdobywa pierwsze punkty FDA w walce z rakiem piersi - BioSpace",
+      "url": "https://www.biospace.com/fda/gileads-trop-2-trodelvy-keytruda-combo-win-first-line-fda-nods-for-breast-cancer",
+      "date": "2026-06-25T12:24:44Z",
+      "source": "BioSpace",
+      "confirmed_by": 2,
+      "summary": "Trodelvy firmy Gilead można teraz stosować w monoterapii lub w połączeniu z lekiem Keytruda firmy Merck w leczeniu niektórych pacjentów z potrójnie ujemnym rakiem piersi."
+    },
+    {
       "title": "Ionis osiąga transformacyjny rozwój etykiety FDA dla Tryngolza – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/ionis-scores-landmark-fda-label-expansion-tryngolza",
       "date": "2026-06-25T12:13:20Z",
@@ -1570,6 +1562,14 @@
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "Jubilant HollisterStier, jednostka CDMO indyjskiej firmy Jubilant Pharmova, zarobiła."
+    },
+    {
+      "title": "AstraZeneca wraz z YMCA – Fierce Pharma przedstawia społeczną strategię badań przesiewowych w kierunku raka",
+      "url": "https://www.fiercepharma.com/marketing/astrazeneca-spells-out-community-cancer-screening-strategy-ymca",
+      "date": "2026-06-25T08:30:35Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "AstraZeneca ma | AstraZeneca nawiązała współpracę z YMCA z USA, aby zwiększyć świadomość na temat badań przesiewowych i wczesnego wykrywania raka."
     },
     {
       "title": "Wycofanie wyrobów medycznych – accessdata.fda.gov",
@@ -1673,8 +1673,8 @@
     },
     {
       "title": "Oświadczenie TAG-TP w sprawie immunomodulatorów i terapii ukierunkowanych na gospodarza w leczeniu choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news/item/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
-      "date": "2026-06-26T17:06:07Z",
+      "url": "https://www.who.int/japan/news/detail-global/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
+      "date": "2026-06-26T17:23:03Z",
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "W kontekście ustalania priorytetów leków, które mają zostać uwzględnione w badaniach klinicznych nad chorobą wirusową Bundibugyo (BVD), Techniczna Grupa Doradcza ds. ustalania priorytetów terapii TAG-TP rozpoczęła badanie krajobrazu nowych lub zmienionych środków immunomodulujących i ukierunkowanych na gospodarza."
