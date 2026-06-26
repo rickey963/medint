@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T11:02:41Z",
+  "last_updated": "2026-06-26T11:03:26Z",
   "poland": [
     {
       "title": "Pierwotny hiperaldosteronizm. Prof. Kądziela: dlaczego TK nie wystarcza do postawienia rozpoznania - Puls Medycyny",
@@ -569,7 +569,15 @@
       "date": "2026-06-25T14:47:25Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Konsultanci i lekarze specjaliści w Irlandii Północnej rozpoczęli bezprecedensowe strajki w sprawie wynagrodzeń. Chociaż nie jest to całkowity strajk, oznacza to, że od godziny 7:00 25 czerwca do godziny 6:59 następnego dnia dostępna będzie wyłącznie ochrona w nagłych wypadkach, zwana „ochroną na Boże Narodzenie”. To pierwsze takie działanie konsultantów i specjalistów w regionie."
+      "summary": "Strajk: w Irlandii Północnej rozpoczyna się akcja protestacyjna lekarzy szpitalnych The BMJ."
+    },
+    {
+      "title": "Brak różnic między płciami w przypadku zgonów po anafilaksji – Medscape",
+      "url": "https://www.medscape.com/viewarticle/no-gender-disparity-deaths-after-anaphylaxis-2026a1000lnc",
+      "date": "2026-06-25T12:21:04Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Pobyt w szpitalu, opłaty szpitalne i inne drugorzędne wyniki również były podobne u pacjentów płci męskiej i żeńskiej."
     },
     {
       "title": "Mirvetuximab nie zwiększa przeżycia w leczeniu OC kwalifikującym się do platyny - Medscape",
@@ -645,6 +653,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
+    },
+    {
+      "title": "Biotest butelek CDC — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mosquitoes/php/insecticide-resistance/cdc-bottle-bioassay.html",
+      "date": "2026-06-26T09:27:33Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "U komarów może wystąpić oporność na środki owadobójcze. Przeprowadzić badania, aby zapobiec lub opóźnić oporność."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -880,14 +896,6 @@
     }
   ],
   "clinical_trials": [
-    {
-      "title": "Wspierana przez Lilly firma Absci przekazuje 100 milionów dolarów na leczenie leczenia endometriozy i wypadania włosów – Clinical Trials Arena",
-      "url": "https://www.clinicaltrialsarena.com/news/absci-100m-financing-endometriosis-pattern-hair-loss-therapy/",
-      "date": "2026-06-26T09:28:50Z",
-      "source": "Clinical Trials Arena",
-      "confirmed_by": 1,
-      "summary": "Wspierana przez Lilly firma Absci przekazuje 100 milionów dolarów na leczenie endometriozy i terapię wypadania włosów w ośrodku badań klinicznych."
-    },
     {
       "title": "Pierwszy pacjent, któremu podano dawkę leku RC220 w badaniu HARNESS-1 firmy Racura – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/first-patient-dosed-racuras-harness-1-trial/",
@@ -1387,14 +1395,6 @@
       "summary": "Lista dostępnych zbiorów danych hfpappexternal.fda.gov."
     },
     {
-      "title": "Wiadomości z branży biotechnologicznej i farmaceutycznej - BioPharma Dive",
-      "url": "https://www.biopharmadive.com/?page=2&ref=antoinebuteau.com",
-      "date": "2026-06-25T17:13:59Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "BioPharma Dive dostarcza wiadomości i analizy dla kadry kierowniczej z branży biotechnologicznej i biofarmaceutycznej. Poruszamy takie tematy, jak badania kliniczne, odkrywanie i rozwój leków, marketing farmaceutyczny, zezwolenia i regulacje FDA i nie tylko."
-    },
-    {
       "title": "Rod Wong z RTW o tym, jak Chiny zmieniły (i nie zmieniły) strategię inwestycyjną swojej firmy – Endpoints News",
       "url": "https://endpoints.news/rtws-rod-wong-on-how-china-has-and-hasnt-changed-his-firms-investments/",
       "date": "2026-06-25T17:11:00Z",
@@ -1416,7 +1416,7 @@
       "date": "2026-06-25T16:07:53Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Warsztaty na temat pogłębiania danych potwierdzających słuszność koncepcji w opracowywaniu leków dla onkologii dziecięcej Europejska Agencja Leków (EMA)."
+      "summary": "EMA organizuje warsztaty, aby uzyskać perspektywę wielu zainteresowanych stron na temat generowania i wykorzystywania odpowiednich danych potwierdzających słuszność koncepcji w onkologii dziecięcej."
     },
     {
       "title": "Recordati licencjonuje lek Ionis; Finansowanie BARDA firmy Vaxart zostaje obcięte – Wiadomości o punktach końcowych",
@@ -1601,6 +1601,14 @@
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "Niektórzy analitycy twierdzą, że nawet dla konkurentów duże zwycięstwo Definium Therapeutics w badaniach klinicznych pomaga zweryfikować dziedzinę psychedeliczną i „wprowadzić ją jeszcze bardziej do głównego nurtu”."
+    },
+    {
+      "title": "Sangamo organizuje sprzedaż upadłościową; VC wspierają powiązanego z Chinami konkurenta Beam – BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/sangamo-bankruptcy-serapha-china-saturnus-cenrifki-carsgen/823588/",
+      "date": "2026-06-24T14:44:50Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Eli Lilly i Astellas będą głównymi oferentami na aukcji aktywów Sangamo. W innym miejscu syndykat inwestorów przeznaczył 230 milionów dolarów na start-up zajmujący się edycją genów, a firma Merck KGaA zawarła umowę „budowa na zakup”."
     },
     {
       "title": "EMEA-000922-PIP02-10 – plan badań pediatrycznych – Europejska Agencja Leków (EMA)",
