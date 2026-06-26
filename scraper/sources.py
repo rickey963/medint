@@ -116,8 +116,16 @@ SOURCES_EPIDEMIOLOGIA = [
     ("WHO Disease Outbreak News", _google_news_url("who.int", locale=False, extra='"Disease Outbreak News"'), "google_news"),
     ("ECDC", _google_news_url("ecdc.europa.eu", locale=False), "google_news"),
     ("CDC Outbreaks", _google_news_url("cdc.gov", locale=False, extra="outbreak"), "google_news"),
-    ("ProMED", _google_news_url("promedmail.org", locale=False), "google_news"),
-    ("HealthMap", _google_news_url("healthmap.org", locale=False), "google_news"),
+    # ProMED (promedmail.org) and HealthMap (healthmap.org) were dropped here:
+    # both are genuinely unreachable - zero results under any site:/named
+    # Google News query AND no working native RSS feed (every candidate feed
+    # URL returns 0 entries / bozo=1). Replaced with two infectious-disease
+    # surveillance outlets that serve the same purpose and actually index:
+    # CIDRAP (strong, ~28 fresh outbreak items: measles, Ebola, Legionnaires')
+    # and Outbreak News Today. when:14d - outbreak reporting is less frequent
+    # than a daily news wire, matching the local freshness override.
+    ("CIDRAP", _google_news_url("cidrap.umn.edu", when="14d", locale=False), "google_news", 14 * 24),
+    ("Outbreak News Today", _google_news_url("outbreaknewstoday.com", when="14d", locale=False), "google_news", 14 * 24),
 ]
 
 # --- 4. Badania kliniczne ------------------------------------------------------
