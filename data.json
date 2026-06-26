@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T19:34:20Z",
+  "last_updated": "2026-06-26T19:35:01Z",
   "poland": [
     {
       "title": "Otarcia na udach w upały. Sposoby na otarcia ud i zapobieganie im - DOZ",
@@ -135,7 +135,7 @@
       "date": "2026-06-26T14:09:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "KE wszczęła dochodzenie wobec Sanofi. Chodzi o promocję szczepionki przeciw grypie Alert Medyczny."
+      "summary": "KE wszczęła dochodzenie wobec Sanofi. Sprawdzi, czy kampania dotycząca szczepionki przeciw grypie naruszyła zasady konkurencji UE."
     },
     {
       "title": "Zespół Koordynacyjny ds. Chorób Ultrarzadkich - protokoły z posiedzeń - Narodowy Fundusz Zdrowia (NFZ)",
@@ -159,7 +159,7 @@
       "date": "2026-06-26T13:46:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Limit godzin pracy dla wszystkich lekarzy? Ministra zdrowia spotka się z samorządem 9 lipca Alert Medyczny."
+      "summary": "MZ analizuje limit czasu pracy wszystkich lekarzy. Zmiany mają być odpowiedzią na wyniki kontroli NIK i aferę Szpitala Południowego."
     },
     {
       "title": "Dane o zarobkach lekarzy powiązane z nr PESEL. Prezes NRL: jeśli prezydent podpisze ustawę, pójdziemy do trybunałów - Puls Medycyny",
@@ -191,7 +191,7 @@
       "date": "2026-06-26T13:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rzecznik Praw Lekarzy NIL chce pilnego posiedzenia po ataku nożownika w szpitalu Alert Medyczny."
+      "summary": "Rzecznik Praw Lekarzy NIL apeluje o pilne działania po ataku nożownika w szpitalu. Proponuje zmiany prawa i rejestr agresji wobec medyków."
     },
     {
       "title": "19-latek zaatakował personel i pacjentów w szpitalu w Jastrzębiu-Zdroju - Remedium.md",
@@ -357,6 +357,14 @@
   "world": [
     {
       "title": "Oświadczenie TAG-TP w sprawie immunomodulatorów i terapii ukierunkowanych na gospodarza w leczeniu choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/japan/news/detail-global/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
+      "date": "2026-06-26T17:23:03Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "W kontekście ustalania priorytetów leków, które mają zostać uwzględnione w badaniach klinicznych nad chorobą wirusową Bundibugyo (BVD), Techniczna Grupa Doradcza ds. ustalania priorytetów terapii TAG-TP rozpoczęła badanie krajobrazu nowych lub zmienionych środków immunomodulujących i ukierunkowanych na gospodarza."
+    },
+    {
+      "title": "Oświadczenie TAG-TP w sprawie immunomodulatorów i terapii ukierunkowanych na gospodarza w leczeniu choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
       "date": "2026-06-26T17:06:07Z",
       "source": "WHO",
@@ -370,14 +378,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "EMA twierdzi, że korzyści ze stosowania leku Tavneos nie przewyższają już ryzyka w leczeniu czynnej ziarniniakowatości z zapaleniem naczyń."
-    },
-    {
-      "title": "Joga dla zdrowego starzenia się: praktyka światowa i dowody kliniczne – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/commentaries/detail/yoga-for-healthy-ageing-global-practice-and-clinical-evidence",
-      "date": "2026-06-26T15:32:59Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "W ostatnich latach joga stała się przedmiotem poważnych badań medycznych i naukowych. Coraz większa liczba dowodów naukowych odkrywa szereg pozytywnych i wymiernych skutków uprawiania jogi."
     },
     {
       "title": "Reakcja zdrowia publicznego na ospę Clade Ib Mpox z wielokrotnym narażeniem w miejscach zamieszkania w skupiskach – New Hampshire, luty 2025 r. – Dowody NEJM",
@@ -412,12 +412,12 @@
       "summary": "Gruczolak przysadki mózgowej związany z zespołem Schöpfa-Schulza-Passarge'a BMJ Case Reports."
     },
     {
-      "title": "Podręcznik dotyczący szczepień przeciwko wirusom układu oddechowego: monitorowanie i raportowanie szczepień przeciwko grypie sezonowej, COVID-19 i wirusowi syncytialnemu układu oddechowego - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/publications/i/item/9789240118829",
-      "date": "2026-06-26T13:22:10Z",
+      "title": "Wczesne badania przesiewowe dotyczące żywienia zmniejszają liczbę zgonów dzieci w Nigerii – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/countries/nigeria/news/early-nutrition-screening-reduces-child-deaths-nigeria",
+      "date": "2026-06-26T12:00:00Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Publikacje Światowej Organizacji Zdrowia."
+      "summary": "Yola, Aisha Ibrahim obserwowała, jak jej 18-miesięczny syn Dauda bawi się przed ich domem w osiedlu Maliki 2 na obszarze samorządu lokalnego Demsa w stanie Adamawa. Zaledwie kilka tygodni wcześniej osłabł, schudł i przestał jeść."
     },
     {
       "title": "Przygotowanie do oceny - BMJ",
@@ -474,6 +474,14 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Pierwszy rok australijskiego programu badań przesiewowych w kierunku raka płuc wydaje się sukcesem i cieszy się dużym zainteresowaniem wśród docelowej populacji, czyli nałogowych palaczy."
+    },
+    {
+      "title": "Czystsze powietrze, zdrowsze życie: bardziej rygorystyczne przepisy dotyczące zanieczyszczeń powietrza na zachodnim Pacyfiku mogą uratować życie 1,1 miliona osób – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/palau/news/feature-stories/item/cleaner-air--healthier-lives--tighter-air-pollution-regulations-across-the-western-pacific-could-save-1.1-million-lives",
+      "date": "2026-06-26T10:36:34Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Zanieczyszczenie powietrza stanowi główne zagrożenie dla zdrowia na zachodnim Pacyfiku, powodując choroby i stanowiąc duże obciążenie dla ludzi i systemów opieki zdrowotnej. Z raportu Światowej Organizacji Zdrowia (WHO) wynika, że ​​przestrzeganie wytycznych WHO dotyczących jakości powietrza mogłoby zapobiec około 1,1 milionom zgonów w regionie. Chociaż większość ludzi żyje na obszarach, na których obowiązują standardy jakości powietrza, są one często słabsze od zaleceń WHO."
     },
     {
       "title": "Czy po odstawieniu leku starsze osoby otrzymują nieodpowiednie leki? - Medyczny",
@@ -1673,8 +1681,8 @@
     },
     {
       "title": "Oświadczenie TAG-TP w sprawie immunomodulatorów i terapii ukierunkowanych na gospodarza w leczeniu choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news/item/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
-      "date": "2026-06-26T17:06:07Z",
+      "url": "https://www.who.int/japan/news/detail-global/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
+      "date": "2026-06-26T17:23:03Z",
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "W kontekście ustalania priorytetów leków, które mają zostać uwzględnione w badaniach klinicznych nad chorobą wirusową Bundibugyo (BVD), Techniczna Grupa Doradcza ds. ustalania priorytetów terapii TAG-TP rozpoczęła badanie krajobrazu nowych lub zmienionych środków immunomodulujących i ukierunkowanych na gospodarza."
