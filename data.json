@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T08:57:40Z",
+  "last_updated": "2026-06-26T08:58:21Z",
   "poland": [
     {
       "title": "Raport o zdrowiu i gospodarce w Polsce. Nawet 144 tys. zgonów rocznie możliwych do uniknięcia - PolitykaZdrowotna.com",
@@ -47,7 +47,7 @@
       "date": "2026-06-26T07:32:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "ABM opublikowała listę rankingową TRANSMED I po odwołaniach. Dofinansowanie otrzymało 7 dodatkowych projektów o wartości ponad 67,4 mln zł."
+      "summary": "ABM opublikowała ostateczną listę TRANSMED I. Po odwołaniach 67,4 mln zł dla 7 projektów Alert Medyczny."
     },
     {
       "title": "Doprowadza do wypadania zębów. W Polsce leje się strumieniami - Rynek Zdrowia",
@@ -95,7 +95,7 @@
       "date": "2026-06-26T07:02:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rzecznik Praw Pacjenta prowadzi postępowania dotyczące SOR w Szpitalu Południowym. Sprawdzane są możliwe naruszenia praw pacjentów."
+      "summary": "Rzecznik Praw Pacjenta sprawdza doniesienia o SOR w Szpitalu Południowym Alert Medyczny."
     },
     {
       "title": "Prezydent Warszawy o Szpitalu Południowym - Z kraju - Kurier - Medycyna Praktyczna",
@@ -120,6 +120,14 @@
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Zbliżają się wakacje i wielu rodziców martwi się o to, co będą w tym czasie robiły ich dzieci. Odczuwają obawę, że inni rodzice już zapisali dzieci na obozy, kolonie i kursy, a oni jeszcze nie. Martwią się, że jeżeli niczego nie zorganizują, to dziecko będzie się nudzić i skończy z telefonem albo przed komputerem."
+    },
+    {
+      "title": "Mikrobiota i nadciśnienie tętnicze. Prof. Ufnal: korelacja to jeszcze nie przyczyna - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/medycyna/kardiologia/mikrobiota-i-nadcisnienie-tetnicze-prof-ufnal-korelacja-to-jeszcze-nie-przyczyna",
+      "date": "2026-06-26T06:00:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Oś jelitowo-naczyniowa coraz częściej pojawia się w dyskusjach o nadciśnieniu tętniczym, stanie zapalnym i chorobach układu krążenia. Choć badania nad mikrobiotą są jednym z najbardziej interesujących obszarów współczesnej medycyny, wciąż należy ostrożnie oddzielać korelacje od dowodów na związek przyczynowo-skutkowy. – Nie ulegałbym temu, co Anglosasi określają jako hype."
     },
     {
       "title": "UV w natarciu. Jak organizm broni się przed słońcem - Serwis Zdrowie",
@@ -250,14 +258,6 @@
       "summary": "\"PamiÄtam jak dziÅ, Å¼e gwaÅtownie schyliÅam siÄ po coÅ i poczuÅam, Å¼e mam nogi jak z waty. DosÅownie Åwiat wokÃ³Å mnie zawirowaÅ, w uszach zaczÄÅo mi piszczeÄ, pierwszy raz zdarzyÅo mi siÄ coÅ takiego. Po plecach przechodzi mi dreszcz, oblaÅy mnie siÃ³dme poty\" â pisze w liÅcie do Medonetu nasza czytelniczka, ktÃ³ra wspomina, Å¼e dÅugie przebywanie na sÅoÅcu skoÅczyÅo siÄ dla niej Åºle, a mogÅo â znacznie gorzej."
     },
     {
-      "title": "Pokrzywka, łysienie plackowate, bielactwo. Prof. Walecka: jakich zmian potrzebują lekarze i pacjenci - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/dermatologia/pokrzywka-lysienie-plackowate-bielactwo-prof-walecka-jakich-zmian-potrzebuja-lekarze-i-pacjenci/",
-      "date": "2026-06-25T15:30:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "Przewlekła pokrzywka spontaniczna, hidradenitis suppurativa, łysienie plackowate, ciężki wyprysk rąk, bielactwo czy uogólniona łuszczyca krostkowa to choroby, w których eksperci apelują o szerszy dostęp do nowoczesnych terapii. Jak podkreśla prof. Irena Walecka, w części z nich stawką jest nie tylko poprawa jakości życia pacjentów, ale także zapobieganie trwałym powikłaniom, a w niektórych przypadkach nawet ratowanie życia."
-    },
-    {
       "title": "Podpisano umowę o dofinansowanie projektu FERS dla Państwowego Instytutu Medycznego MSWiA - Gov.pl",
       "url": "https://www.gov.pl/web/zdrowie/podpisano-umowe-o-dofinansowanie-projektu-fers-dla-panstwowego-instytutu-medycznego-mswia",
       "date": "2026-06-25T14:57:43Z",
@@ -274,20 +274,12 @@
       "summary": "Czy system badań przyłóżkowych (POCT) w Polsce jest wystarczająco uregulowany prawnie? A może kluczowe przepisy są rozproszone w wielu aktach prawnych i..."
     },
     {
-      "title": "Ogłoszenie o zamówieniu - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/bip/zamowienia-publiczne/ogloszenie-o-zamowieniu-nfz-bag-szp-251-17-2026,6907.html",
-      "date": "2026-06-25T14:34:50Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Wychodząc naprzeciw oczekiwaniom rynku postanowiliśmy wdrażać Platformę Marketplanet e-Zamawiajacy, która w przyszłości będzie podstawowym narzędziem, które umożliwi Państwu składanie ofert na..."
-    },
-    {
       "title": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” - Alert Medyczny",
       "url": "https://alertmedyczny.pl/ministra-zdrowia-uspokaja-ws-podwyzek-medykow-od-1-lipca-zapisy-ustawy-zostana-zrealizowane/",
       "date": "2026-06-25T14:30:21Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
+      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
     },
     {
       "title": "Senat przyjął ustawę o powiązaniu danych o wynagrodzeniach lekarzy z PESEL lub PWZ - Remedium.md",
@@ -306,6 +298,14 @@
       "summary": "W Wojewódzkim Szpitalu w Tarnobrzegu wykonano pierwsze w województwie podkarpackim zabiegi endoprotezoplastyki stawu kolanowego z wykorzystaniem systemu..."
     },
     {
+      "title": "\"Pacjent wyjechał na wózku\". Nawet 800 zgonów rocznie z powodu tej choroby - Medonet",
+      "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-zakazne/mialem-na-oddziale-kilka-zgonow-pierwsze-objawy-kleszczowego-zapalenia-mozgu-sa/df03drg",
+      "date": "2026-06-25T13:32:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "â MieliÅmy kilka zgonÃ³w dwa czy trzy lata temu. Rok temu czy dwa mieliÅmy teÅ¼ pacjenta, ktÃ³ry wyjechaÅ ode mnie z oddziaÅu na wÃ³zku. MiaÅ ciÄÅ¼kie i trwaÅe uszkodzenie mÃ³zgu, przeÅ¼yÅ, ale byÅ niezdolny do samodzielnego Å¼ycia bez opieki â mÃ³wi prof."
+    },
+    {
       "title": "Rezydenci krytykują Centralny Rejestr Umów - Remedium.md",
       "url": "https://remedium.md/publikacje/wiadomosci/rezydenci-krytykuja-centralny-rejestr-umow",
       "date": "2026-06-25T12:50:00Z",
@@ -319,7 +319,7 @@
       "date": "2026-06-25T12:25:06Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
+      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
     },
     {
       "title": "Rezydenci krytykują nadzór nad szkoleniem specjalizacyjnym - Remedium.md",
@@ -634,6 +634,14 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
+    },
+    {
+      "title": "Budowanie potencjału w zakresie nadzoru genomicznego mpoxu i innych pojawiających się chorób w obszarach o ograniczonych zasobach w regionie Wielkich Jezior Afrykańskich - Przyroda",
+      "url": "https://www.nature.com/articles/s43856-026-01713-4",
+      "date": "2026-06-24T18:53:06Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Schuele i in. podzielą się praktycznymi spostrzeżeniami ze wspólnych inicjatyw w regionie Wielkich Jezior Afrykańskich, których celem jest poszerzenie dostępu do nadzoru genomicznego patogenu. Wskazują na zastosowania, kluczowe wyzwania i rozwiązania specyficzne dla kontekstu w zakresie ustanawiania i utrzymywania lokalnego potencjału sekwencjonowania."
     }
   ],
   "guidelines": [
@@ -1604,12 +1612,12 @@
       "summary": "Niektórzy analitycy twierdzą, że nawet dla konkurentów duże zwycięstwo Definium Therapeutics w badaniach klinicznych pomaga zweryfikować dziedzinę psychedeliczną i „wprowadzić ją jeszcze bardziej do głównego nurtu”."
     },
     {
-      "title": "Notatnik BIO: KNU, potencjalne transakcje w Chinach Zakaz ma duży wpływ na zawieranie transakcji - Citeline News & Insights",
-      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/conferences/bio/bio-notebook-mfn-potential-china-deals-ban-weigh-heavily-on-dealmaking-MVIHMD7HWZGKDAQKYWKQRAGX2I/",
-      "date": "2026-06-24T02:10:57Z",
-      "source": "Pink Sheet",
+      "title": "Sangamo organizuje sprzedaż upadłościową; VC wspierają powiązanego z Chinami konkurenta Beam – BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/sangamo-bankruptcy-serapha-china-saturnus-cenrifki-carsgen/823588/",
+      "date": "2026-06-24T14:44:50Z",
+      "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Kontynuacją dorocznego spotkania BIO jest to, że dyrektorzy firm farmaceutycznych reagują na potencjalne przepisy blokujące umowy z Chinami, przyglądają się wpływowi polityki cenowej kraju najbardziej uprzywilejowanego na warunki transakcji, nowy zestaw narzędzi sztucznej inteligencji firmy NVIDIA do zastosowań w naukach przyrodniczych oraz wysiłki FDA w zakresie rekrutacji."
+      "summary": "Eli Lilly i Astellas będą głównymi oferentami na aukcji aktywów Sangamo. W innym miejscu syndykat inwestorów przeznaczył 230 milionów dolarów na start-up zajmujący się edycją genów, a firma Merck KGaA zawarła umowę „budowa na zakup”."
     },
     {
       "title": "EMEA-000922-PIP02-10 – plan badań pediatrycznych – Europejska Agencja Leków (EMA)",
