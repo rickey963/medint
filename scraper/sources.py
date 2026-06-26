@@ -98,7 +98,15 @@ SOURCES_SWIAT = [
     ("Nature Medicine", _google_news_url("nature.com", locale=False, extra='"Nature Medicine"'), "google_news"),
     ("WHO", _google_news_url("who.int", locale=False), "google_news"),
     ("The Lancet", _google_news_url("thelancet.com", locale=False), "google_news"),
-    ("Cochrane Library", _google_news_url("cochranelibrary.com", locale=False), "google_news"),
+    # A site:cochranelibrary.com query is unusable - that domain's Google News
+    # index is polluted with SEO spam (IPTV-subscription and supplement-review
+    # pages that somehow rank under the domain), and real Cochrane reviews
+    # don't surface at all. A named "Cochrane systematic review" search returns
+    # the genuine articles instead (confirmed: real reviews on breast-cancer
+    # risk models, opioids for low back pain, etc.), same named-search approach
+    # used for Endpoints News below where site: also fails. when:30d because
+    # Cochrane publishes far less frequently than a daily news wire.
+    ("Cochrane Library", _google_news_url_named("Cochrane systematic review", when="30d", locale=False), "google_news", 30 * 24),
 ]
 
 # --- 3. Epidemiologia i zdrowie publiczne -------------------------------------
@@ -161,36 +169,58 @@ SOURCES_RYNEK_FARMACEUTYCZNY = [
 # guidelines, which mismatched this tile's stated purpose even though the
 # articles themselves were legitimate health news belonging somewhere on the
 # dashboard.
+# This tile must cover actual guidelines/recommendations across the whole of
+# medicine from Poland, Europe and the world. It mixes two kinds of source:
+#
+#  (a) General legal registries (ISAP, Dziennik Ustaw, EUR-Lex) - they publish
+#      every law, not just health ones, so fetch_data.py additionally requires
+#      medical relevance for them (see LEGAL_REGISTRY_SOURCES there). The query
+#      itself is also scoped to health-related acts so that filter has health
+#      items to work with.
+#
+#  (b) Dedicated medical guideline bodies (AOTMiT, NICE, ESC, ESMO, CDC, AHA/
+#      ACC, plus a cross-specialty "clinical practice guideline" search). These
+#      are inherently medical, so they DON'T get the Polish-keyword relevance
+#      gate (it would wrongly drop their English guideline titles). They do get
+#      a congress/e-learning/award promo filter instead (_is_guideline_event_junk).
+#
+# Every entry carries a 4th field overriding fetch_data.py's global 72h
+# freshness cutoff: guidelines and recommendations publish far too infrequently
+# for a 72h window to ever have anything to show, so the local freshness check
+# is widened to match each source's Google News when: window.
 SOURCES_WYTYCZNE = [
-    # ISAP/Dziennik Ustaw publish every law, not just health ones - fetch_data.py
-    # additionally requires medical relevance for this tile (_is_medically_relevant),
-    # but that check only has a chance to pass if health-related acts are actually
-    # among the few articles each source returns. Scoping the query itself to
-    # health-related acts (tested: this combination does NOT zero out here,
-    # unlike the lower-volume EUR-Lex domain below) makes that far more likely,
-    # and when:14d (these don't publish daily) gives it more to find.
-    # 4th field overrides fetch_data.py's global 72h freshness cutoff - these
-    # two publish health-related acts too rarely for that window to ever
-    # have anything to show within it, even with the query above already
-    # scoped to health-related acts specifically. 14*24h matches the when:14d
-    # Google News window above, so nothing matched by the query gets thrown
-    # away again immediately afterwards by a stricter local freshness check.
+    # --- Poland: binding legal acts (general registries - medical-filtered) ---
     ("ISAP", _google_news_url("isap.sejm.gov.pl", when="30d", extra='"Minister Zdrowia" OR zdrowia OR zdrowotn'), "google_news", 30 * 24),
     ("Dziennik Ustaw RP", _google_news_url("dziennikustaw.gov.pl", when="30d", extra='"Minister Zdrowia" OR zdrowia OR zdrowotn'), "google_news", 30 * 24),
+    # --- Poland: HTA recommendations (AOTMiT) + professional body (NIL) ---
+    # AOTMiT is the Polish HTA agency - "Rekomendacja Prezesa"/"Stanowisko Rady"
+    # are exactly the kind of formal recommendations this tile is named for.
+    ("AOTMiT", _google_news_url("aotm.gov.pl", when="30d"), "google_news", 30 * 24),
     # Most of NIL's Google-News-indexed articles route straight to a PDF
     # download (nil.org.pl/articleToPdf/...) with no HTML version - those get
-    # dropped by the no-PDFs quality gate, same as every other source, so
-    # this one often contributes nothing. Left in (it's an explicitly
-    # requested, genuinely medical source) rather than dropped outright.
-    ("Naczelna Izba Lekarska", _google_news_url("nil.org.pl"), "google_news"),
-    # No "extra" topic keyword - tested and confirmed: combining when: with
-    # an extra keyword phrase against this low-volume domain reliably
-    # returns 0 results (the few documents in the window essentially never
-    # contain the literal word), while site: + when: alone returns real EU
-    # legal items. fetch_data.py's medical-relevance filter is what keeps
-    # this tile's EUR-Lex items on-topic instead. Widened window for the same
-    # reason as ISAP/Dziennik Ustaw above - more candidates for that filter.
+    # dropped by the no-PDFs quality gate, so this one often contributes
+    # nothing. Left in (an explicitly requested, genuinely medical source).
+    ("Naczelna Izba Lekarska", _google_news_url("nil.org.pl", when="30d"), "google_news", 30 * 24),
+    # --- Europe: binding EU health law (general registry - medical-filtered) ---
+    # No "extra" topic keyword - tested: combining when: with an extra keyword
+    # phrase against this low-volume domain reliably returns 0 results, while
+    # site: + when: alone returns real EU legal items. The medical-relevance
+    # filter is what keeps these on-topic instead.
     ("EUR-Lex Health Law", _google_news_url("eur-lex.europa.eu", when="14d"), "google_news", 14 * 24),
+    # --- Europe: medical-society clinical guidelines ---
+    ("NICE", _google_news_url("nice.org.uk", when="30d", locale=False), "google_news", 30 * 24),
+    ("ESC (kardiologia)", _google_news_url("escardio.org", when="30d", locale=False), "google_news", 30 * 24),
+    ("ESMO (onkologia)", _google_news_url("esmo.org", when="30d", locale=False), "google_news", 30 * 24),
+    # --- World: public-health recommendations + cross-specialty guidelines ---
+    # CDC scoped to guideline/recommendation content - distinct from the
+    # outbreak-scoped "CDC Outbreaks" entry in the epidemiology tile.
+    ("CDC (rekomendacje)", _google_news_url("cdc.gov", when="30d", locale=False, extra="guideline OR recommendations"), "google_news", 30 * 24),
+    # Named searches (not site:-scoped): the highest-precision guideline feeds
+    # in testing - "<x> guideline"/"clinical practice guideline" returns real,
+    # freshly issued guidelines across every specialty (cardiology, oncology,
+    # endocrinology, nephrology, neurology...) from many publishers at once.
+    ("Wytyczne AHA/ACC", _google_news_url_named('"American Heart Association" guideline', when="30d", locale=False), "google_news", 30 * 24),
+    ("Wytyczne kliniczne", _google_news_url_named('"clinical practice guideline"', when="30d", locale=False), "google_news", 30 * 24),
 ]
 
 ALL_SECTIONS = {

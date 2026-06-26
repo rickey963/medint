@@ -73,6 +73,17 @@ POLISH_SOURCES = frozenset({
     'DOZ.pl', 'Serwis Zdrowie (PAP)', 'Polityka Zdrowotna', 'Remedium.md',
 })
 
+# Sources in the "Wytyczne i rekomendacje" tile that are general legal
+# registries (every law, not just health) rather than medical-specific
+# guideline publishers. Only these get the extra Polish-keyword
+# medical-relevance gate in fetch_section - applying that gate to the medical
+# guideline bodies in the same tile (NICE, ESC, ESMO, AHA/ACC...) would
+# wrongly drop their English-language guideline titles, which by definition
+# contain none of the Polish medical keywords the gate looks for.
+LEGAL_REGISTRY_SOURCES = frozenset({
+    'ISAP', 'Dziennik Ustaw RP', 'EUR-Lex Health Law',
+})
+
 
 # ---------------------------------------------------------------------------
 # Fetch / clean / translate
@@ -341,7 +352,13 @@ def _enrich_real_content(item):
         if description:
             item['summary_raw'] = _trim_sentences(_clean_html(description), 3)
     except Exception as e:
-        logger.warning(f"Enrichment failed for {url}: {e}")
+        # Enrichment is best-effort: the item survives with its Google News
+        # title/summary regardless. Many high-value publishers (NEJM, Lancet,
+        # drugs.com, clinicaltrialsarena...) sit behind Cloudflare/Akamai bot
+        # walls that return 403 to any non-browser client - that's expected
+        # and unavoidable with plain HTTP, not a failure worth a WARNING on
+        # every run. Logged at debug so real surprises can still be inspected.
+        logger.debug(f"Enrichment skipped for {url}: {e}")
     return item
 
 
@@ -481,15 +498,23 @@ def fetch_section(name_to_url_kind, section_key=None):
 
     survivors = list(ENRICH_EXECUTOR.map(_enrich_real_content, survivors))
 
-    # The "Wytyczne i rekomendacje" sources (ISAP, Dziennik Ustaw, EUR-Lex)
-    # are general legal registries, not medical-specific outlets - without
-    # this they surface every law/EU act published that day (an agricultural
-    # import rule, a merger notification...), not just health-related ones.
-    # Checked *after* enrichment - Dziennik Ustaw's real act title (the only
-    # place the actual subject matter appears - see _enrich_dziennik_ustaw)
-    # only exists once enrichment has run.
+    # "Wytyczne i rekomendacje" tile post-filters, applied after enrichment
+    # (Dziennik Ustaw's real act title - the only place its subject matter
+    # appears - only exists once enrichment has run):
+    #   - legal registries (ISAP/Dziennik Ustaw/EUR-Lex) publish every law,
+    #     not just health ones, so they additionally must pass the medical-
+    #     relevance gate. The dedicated medical guideline bodies skip it (it
+    #     would drop their English titles - see LEGAL_REGISTRY_SOURCES).
+    #   - the guideline bodies also surface congress/e-learning/award promos
+    #     through Google News, which aren't guidelines - those are dropped for
+    #     every source in this tile.
     if section_key == 'guidelines':
-        survivors = [it for it in survivors if _is_medically_relevant(f"{it['title']} {it['summary_raw']}")]
+        survivors = [
+            it for it in survivors
+            if (it['source'] not in LEGAL_REGISTRY_SOURCES
+                or _is_medically_relevant(f"{it['title']} {it['summary_raw']}"))
+            and not _is_guideline_event_junk(it['title'])
+        ]
 
     def _finalize(item):
         title_original = item['title']
@@ -524,6 +549,28 @@ MEDICAL_RELEVANCE_PATTERNS = [
 def _is_medically_relevant(text):
     text_lower = text.lower()
     return any(re.search(p, text_lower) for p in MEDICAL_RELEVANCE_PATTERNS)
+
+
+# The medical-society guideline sources (ESC, ESMO, NICE...) also surface
+# congress promos, e-learning, exams and award/job notices through Google
+# News - real society activity, but not a guideline or recommendation, which
+# is what this tile promises. Confirmed on ESC ("Present Your Research at
+# EAPCI Congress", "ESC Online Learning", "ESC Cardio Talk"). Scoped to the
+# guidelines tile only (see fetch_section) so these common English words can't
+# over-filter ordinary news in the other tiles. Kept deliberately to
+# unambiguous promo/event terms - a real guideline title never contains them.
+GUIDELINE_EVENT_JUNK = [
+    'congress', 'webinar', 'symposium', 'masterclass', 'workshop',
+    'online learning', 'e-learning', 'elearning', 'cardio talk', 'podcast',
+    'present your research', 'call for abstracts', 'abstract submission',
+    'register now', 'registration', 'fellowship', 'scholarship', 'award',
+    'membership', 'vacancy', 'save the date', 'daily reporter', 'newsletter',
+]
+
+
+def _is_guideline_event_junk(title):
+    t = (title or '').lower()
+    return any(s in t for s in GUIDELINE_EVENT_JUNK)
 
 
 # Reference/tool/login pages that Google News sometimes surfaces with
