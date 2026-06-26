@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-26T00:25:15Z",
+  "last_updated": "2026-06-26T00:25:58Z",
   "poland": [
+    {
+      "title": "Pacjentka 40+ w okresie transformacji menopauzalnej - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/medycynarodzinna/ekspert/pytania-do-eksperta/395967,pacjentka-40-w-okresie-transformacji-menopauzalnej",
+      "date": "2026-06-25T23:03:45Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Na co powinien zwrócić uwagę lekarz rodzinny w opiece nad kobietą 40+, która przechodzi transformację menopauzalną?"
+    },
     {
       "title": "Dawid Kacprzyk chce współpracować z prokuraturą? Mec. Dubois: wobec mojego klienta toczy się lincz - Puls Medycyny",
       "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/prawo/dawid-kacprzyk-chce-wspolpracowac-z-prokuratura-mec-dubois-wobec-mojego-klienta-toczy-sie-lincz/",
@@ -151,7 +159,7 @@
       "date": "2026-06-25T14:30:21Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
+      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
     },
     {
       "title": "Sobierańska-Grenda o Szpitalu Południowym: państwo zareagowało w sposób natychmiastowy - PolitykaZdrowotna.com",
@@ -226,12 +234,20 @@
       "summary": "Uwaga! Zbliżają się upały, ograniczajmy wyjścia na zewnątrz i pamiętajmy o ryzykach pożarowych."
     },
     {
+      "title": "KSK – MZ chce premiować jakość w szpitalach - Kardiologia - Medycyna Praktyczna",
+      "url": "https://kardiologia.mp.pl/wiadomosci/442363,ksk-mz-chce-premiowac-jakosc-w-szpitalach",
+      "date": "2026-06-25T12:31:34Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Do konsultacji trafił projekt rozporządzenia Ministra Zdrowia w sprawie sposobu ustalania wysokości współczynników korygujących oraz wysokości ryczałtu dla ośrodka koordynującego."
+    },
+    {
       "title": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu - Alert Medyczny",
       "url": "https://alertmedyczny.pl/nowe-sledztwo-wokol-szpitala-poludniowego-prokuratura-bada-falszowanie-kart-zgonu/",
       "date": "2026-06-25T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
+      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
     },
     {
       "title": "Świąd, bezsenność, depresja. Prof. Nowicki: ciężkości AZS nie można oceniać wyłącznie po zmianach skórnych - Puls Medycyny",
@@ -279,15 +295,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
-    },
-    {
-      "title": "Kolejna instytucja sprawdzi Szpital Południowy. Kontrolę zapowiedział Prezes UODO - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/kolejna-instytucja-sprawdzi-szpital-poludniowy-kontrole-zapowiedzial-prezes-uodo/",
-      "date": "2026-06-25T09:45:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Prezes UODO zapowiedział kontrolę w Szpitalu Południowym w Warszawie. Sprawdzi m.in. monitoring z rejestracją dźwięku."
+      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -372,6 +380,14 @@
       "summary": "Pod rządami prezydenta Trumpa przywódcy polityczni sprawują większą kontrolę nad federalnymi agencjami zdrowia."
     },
     {
+      "title": "Antysemityzm: lekarze żądają, aby NHS porzuciła kontrowersyjną definicję i wzywała do „wstrzymania” recenzji Manna - The BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-100085",
+      "date": "2026-06-25T15:49:15Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "BMA będzie lobbować w NHS, aby zaprzestała obowiązkowego przyjmowania definicji antysemityzmu przyjętej przez Międzynarodowy Sojusz na rzecz Pamięci o Holokauście (IHRA). Przemawiając na dorocznym spotkaniu przedstawicieli związku w Brighton, członkowie ostrzegli, że definicja IHRA została „uzbrojona” w celu rozprawienia się z wolnością słowa. W odrębnym wniosku członkowie BMA wezwali także do natychmiastowego wstrzymania wdrażania zaleceń wynikających z niedawnego rządowego przeglądu Manna ze względu na jego wpływ na wolność słowa."
+    },
+    {
       "title": "Demokraci naciskają na Biały Dom, kto ma specjalny dostęp do nowego leku na otyłość Eli Lilly – statnews.com",
       "url": "https://www.statnews.com/2026/06/25/senate-hassan-questions-rfk-jr-eli-lilly-retatrutide-trial-trump/",
       "date": "2026-06-25T15:05:33Z",
@@ -436,28 +452,12 @@
       "summary": "W czasie, gdy późna diagnoza w dalszym ciągu zagraża życiu tysięcy kobiet, prowincja Huíla podejmuje zdecydowany krok, wzmacniając profilaktykę i wczesne wykrywanie nowotworów."
     },
     {
-      "title": "Sztuka i rzecznictwo: kwestie zdrowia psychicznego - BMJ",
-      "url": "https://www.bmj.com/content/393/bmj-2026-100061",
-      "date": "2026-06-25T11:45:35Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Jonathan Bassett/The Wellcome Collection Kolekcja Wellcome otwiera tego lata dwie równoległe wystawy przedstawiające opiekę i leczenie pacjentów cierpiących na choroby psychiczne w Wielkiej Brytanii. Audrey Amissa: …."
-    },
-    {
       "title": "Szczepienia przeciwko HPV powiązane z radykalnym zmniejszeniem liczby zgonów z powodu raka szyjki macicy – ​​Natura",
       "url": "https://www.nature.com/articles/d41591-026-00033-3",
       "date": "2026-06-25T11:41:59Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Nowe badanie analizuje wpływ krajowego programu szczepień przeciwko HPV w Anglii, rozpoczętego prawie dwie dekady temu – wykazując ogromny spadek umieralności z powodu raka szyjki macicy wśród młodych kobiet."
-    },
-    {
-      "title": "Konsultant Urolog – Praca stała lub na czas określony (12 miesięcy) – The BMJ",
-      "url": "https://www.bmj.com/careers/job/823651/consultant-urologist-permanent-or-fixed-term-opportunity-12-months-/?TrackID=8&utm_source=rss&utm_medium=feed&utm_campaign=general",
-      "date": "2026-06-25T10:45:49Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Nasz Klient poszukuje Konsultanta Urologa, który dołączy do cenionej i innowacyjnej usługi specjalistycznej zapewniającej kompleksową opiekę urologiczną."
     },
     {
       "title": "Globalna aktywność wirusów układu oddechowego: cotygodniowa aktualizacja nr 583 – Światowa Organizacja Zdrowia (WHO)",
@@ -498,6 +498,14 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Mirvetuximab nie uzyskał pozytywnego wyniku w pierwszym randomizowanym badaniu oceniającym koniugat przeciwciało-lek i standardową karboplatynę u pacjentek z rakiem jajnika wrażliwym na platynę."
+    },
+    {
+      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
+      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
+      "date": "2026-06-25T09:17:45Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku epidemii Bundibugyo Ebola The Lancet."
     },
     {
       "title": "Kanada wprowadza ustawę o bezpiecznych mediach społecznościowych w celu ochrony dzieci – Medscape",
@@ -610,22 +618,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
-    },
-    {
-      "title": "Budowanie potencjału w zakresie nadzoru genomicznego mpoxu i innych pojawiających się chorób w obszarach o ograniczonych zasobach w regionie Wielkich Jezior Afrykańskich - Przyroda",
-      "url": "https://www.nature.com/articles/s43856-026-01713-4",
-      "date": "2026-06-24T18:53:06Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Schuele i in. podzielą się praktycznymi spostrzeżeniami ze wspólnych inicjatyw w regionie Wielkich Jezior Afrykańskich, których celem jest poszerzenie dostępu do nadzoru genomicznego patogenu. Wskazują na zastosowania, kluczowe wyzwania i rozwiązania specyficzne dla kontekstu w zakresie ustanawiania i utrzymywania lokalnego potencjału sekwencjonowania."
-    },
-    {
-      "title": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania różnymi metodami – The Lancet",
-      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00285-3/fulltext",
-      "date": "2026-06-24T13:24:41Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania przeprowadzonego różnymi metodami The Lancet."
     }
   ],
   "guidelines": [
@@ -636,14 +628,6 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 827, z dniem ogłoszenia 2026-06-23."
-    },
-    {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 3 czerwca 2026 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/754",
-      "date": "2026-06-03T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 754, z dniem ogłoszenia 2026-06-10."
     }
   ],
   "epidemiology": [
@@ -898,14 +882,6 @@
   ],
   "clinical_trials": [
     {
-      "title": "Wczesna ekspozycja na Covid może kształtować odporność na lata – szczepionka mRNA powiązana ze zmianą klasy IgG4 – Trialsitenews.com",
-      "url": "https://www.trialsitenews.com/a/early-covid-exposure-may-shape-immunity-for-yearsmrna-vax-linked-to-igg4-class-switching-2182b951",
-      "date": "2026-06-25T20:19:33Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Carla Martin Pérez i współpracownicy z ISGlobal, Barcelona Institute for Global Health, wraz ze współpracownikami z Uniwersytetu w Barcelonie, IDIBAPS, CIBER i Burnet Institute podają w czasopiśmie Communications Medicine, że pierwsze narażenie osoby na SARS-CoV-2 w wyniku infekcji lub szczepienia mRNA wydaje się kształtować późniejsze reakcje podklas przeciwciał. To podłużne badanie kohortowe hiszpańskich pracowników służby zdrowia wykazało, że wielokrotne szczepienie mRNA było związane ze zwiększeniem poziomu przeciwciał IgG2 i IgG4, szczególnie wśród osób zaszczepionych przed zakażeniem. Podczas krążenia preparatu Omicron wyższe poziomy IgG2 i IgG4 wiązały się z większym ryzykiem przełomowej infekcji, podczas gdy wyższe poziomy IgG1, Fc&gamma; przeciwciała wiążące receptor i przeciwciała wiążące C1q były powiązane z ochroną."
-    },
-    {
       "title": "Fundacja Michaela J. Foxa inwestuje 2,5 miliona dolarów w rozszerzenie precyzyjnego badania Parkinsona ukierunkowanego na LRRK2 - Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/michael-j.-fox-foundation-invests-2.5-million-to-expand-precision-parkinsons-trial-targeting-lrrk2-49c8b11a",
       "date": "2026-06-25T19:26:05Z",
@@ -1136,14 +1112,6 @@
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "Od wyboru kraju do aktywacji ośrodka: wypełnianie luki między potencjałem ośrodka a rzeczywistymi wynikami stosowanych badań klinicznych online."
-    },
-    {
-      "title": "Ukryta biologia autyzmu? Przełomowe badanie Nature Neuroscience identyfikuje dwa powtarzalne podtypy mózgu u myszy i ludzi",
-      "url": "https://www.trialsitenews.com/a/autisms-hidden-biology-landmark-nature-neuroscience-study-identifies-two-reproducible-brain-subtypes-across-mice-and-humans-713c77fd",
-      "date": "2026-06-23T17:22:01Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Marco Pagani z Włoskiego Instytutu Technologii i Child Mind Institute wraz z międzynarodowym konsorcjum opublikował w czasopiśmie Nature Neuroscience obszerne badanie sprawdzające, czy dobrze znana heterogeniczność kliniczna autyzmu odzwierciedla podstawowe różnice biologiczne. Wykorzystując międzygatunkowe funkcjonalne analizy MRI 20 modeli myszy związanych z autyzmem oraz skany mózgu 940 osób z autyzmem i 1036 osób z grupy kontrolnej neurotypowej, badacze zidentyfikowali dwa powtarzalne podtypy łączności autyzmu: podtyp hipokonektywności powiązany głównie z dysfunkcją synaptyczną i podtyp hiperłączności powiązany ze szlakami immunologicznymi i transkrypcyjnymi. Te dwa podtypy odpowiadają za około 25% przypadków autyzmu w zbiorze danych u ludzi, co sugeruje, że autyzm może składać się z wielu odrębnych biologicznie schorzeń, a nie z pojedynczego zaburzenia."
     },
     {
       "title": "HHS rozpoczyna operację TrialBlazer, aby przywrócić USA wiodącą pozycję w badaniach klinicznych – stosowane badania kliniczne online",
@@ -1670,6 +1638,14 @@
       "summary": "Ten algorytm ambulatoryjny przeznaczony jest dla podmiotów świadczących opiekę zdrowotną w USA w celu oceny pacjentów pod kątem choroby Ebola."
     },
     {
+      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
+      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
+      "date": "2026-06-25T09:17:45Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku epidemii Bundibugyo Ebola The Lancet."
+    },
+    {
       "title": "Epidemia wirusa Ebola: co robi CDC – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/what-cdc-is-doing.html",
       "date": "2026-06-24T20:28:13Z",
@@ -1684,14 +1660,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Przeciwciała reagujące krzyżowo z wirusem Bundibugyo u fretek zaszczepionych szczepionką przeciwko wirusowi Ebola."
-    },
-    {
-      "title": "Budowanie potencjału w zakresie nadzoru genomicznego mpoxu i innych pojawiających się chorób w obszarach o ograniczonych zasobach w regionie Wielkich Jezior Afrykańskich - Przyroda",
-      "url": "https://www.nature.com/articles/s43856-026-01713-4",
-      "date": "2026-06-24T18:53:06Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Schuele i in. podzielą się praktycznymi spostrzeżeniami ze wspólnych inicjatyw w regionie Wielkich Jezior Afrykańskich, których celem jest poszerzenie dostępu do nadzoru genomicznego patogenu. Wskazują na zastosowania, kluczowe wyzwania i rozwiązania specyficzne dla kontekstu w zakresie ustanawiania i utrzymywania lokalnego potencjału sekwencjonowania."
     },
     {
       "title": "Webinarium WHO w nagłych przypadkach zdrowotnych EPI-WIN: Bezpieczna, skalowalna opieka nad wirusem Ebola (Bundibugyo) w Demokratycznej Republice Konga: operacje, wytyczne kliniczne i projekt ośrodków terapeutycznych - Światowa Organizacja Zdrowia (WHO)",
@@ -1744,12 +1712,12 @@
       "summary": "W dniu 11 czerwca 2026 r. Departament Zdrowia stanu Kerala potwierdził jeden potwierdzony laboratoryjnie przypadek zakażenia wirusem Nipah (NiV) w ​​dystrykcie Kozhikode w stanie Kerala w Indiach. Przypadek dotyczy dorosłego mężczyzny, u którego objawy wystąpiły w dniu 30 maja 2026 r. i został hospitalizowany w dniu 10 czerwca 2026 r. Wystąpiły u niego objawy neurologiczne i w momencie zgłoszenia przebywał na oddziale intensywnej terapii (OIOM), poddawany wspomaganiu wentylacji."
     },
     {
-      "title": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów – NEJM AI",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AI-S2600646?query=recirc_crossjournalmorepubs",
-      "date": "2026-06-25T15:01:06Z",
-      "source": "NEJM",
+      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
+      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
+      "date": "2026-06-25T09:17:45Z",
+      "source": "The Lancet",
       "confirmed_by": 1,
-      "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
+      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku epidemii Bundibugyo Ebola The Lancet."
     }
   ]
 }
