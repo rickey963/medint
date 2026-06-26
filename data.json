@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T02:16:25Z",
+  "last_updated": "2026-06-26T02:17:09Z",
   "poland": [
     {
       "title": "Pacjentka 40+ w okresie transformacji menopauzalnej - Medycyna Praktyczna",
@@ -159,7 +159,7 @@
       "date": "2026-06-25T14:30:21Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministra zdrowia zapewniła, że ustawowe podwyżki dla medyków od 1 lipca zostaną zrealizowane. Wyjaśniła też analizę rekomendacji AOTMiT."
+      "summary": "Ministra zdrowia uspokaja ws. podwyżek medyków od 1 lipca: : „Zapisy ustawy zostaną zrealizowane” Alert Medyczny."
     },
     {
       "title": "Sobierańska-Grenda o Szpitalu Południowym: państwo zareagowało w sposób natychmiastowy - PolitykaZdrowotna.com",
@@ -247,7 +247,7 @@
       "date": "2026-06-25T12:25:06Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prokuratura bada podejrzenie podrobienia kart zgonu 20 osób w Prosektorium Szpitala Południowego. Śledczy nie łączą sprawy z SOR."
+      "summary": "Nowe śledztwo wokół Szpitala Południowego. Prokuratura bada fałszowanie kart zgonu Alert Medyczny."
     },
     {
       "title": "Świąd, bezsenność, depresja. Prof. Nowicki: ciężkości AZS nie można oceniać wyłącznie po zmianach skórnych - Puls Medycyny",
@@ -295,7 +295,7 @@
       "date": "2026-06-25T10:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Minister Zdrowia zmieniła katalog pism podpisywanych osobiście. Nowe zarządzenie obowiązuje od 24 czerwca 2026 r."
+      "summary": "Ministra zdrowia ogranicza katalog pism podpisywanych osobiście. Jest nowe zarządzenie Alert Medyczny."
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -436,12 +436,28 @@
       "summary": "Niezwykły dostęp do eksperymentalnego leku przykuł uwagę także amerykańskiej opinii publicznej."
     },
     {
+      "title": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów – NEJM AI",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AI-S2600646?query=recirc_crossjournalmorepubs",
+      "date": "2026-06-25T15:01:06Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
+    },
+    {
       "title": "Narzędzia CRISPR nowej generacji poprawiają dokładność edycji zarodków, ale budzą także wątpliwości etyczne – statnews.com",
       "url": "https://www.statnews.com/2026/06/25/crispr-base-editing-human-embryo-study/",
       "date": "2026-06-25T15:00:33Z",
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Naukowcy podają, że zastosowanie edycji genomu we wczesnych embrionach odsłoniło zasłonę dotyczącą roli jednego z kluczowych genów odpowiedzialnych za pierwsze etapy rozwoju człowieka."
+    },
+    {
+      "title": "Strajk: w Irlandii Północnej rozpoczyna się akcja protestacyjna lekarzy szpitalnych – BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-100081",
+      "date": "2026-06-25T14:47:25Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Konsultanci i lekarze specjaliści w Irlandii Północnej rozpoczęli bezprecedensowe strajki w sprawie wynagrodzeń. Chociaż nie oznacza to całkowitego strajku, oznacza to, że od godziny 7:00 25 czerwca do godziny 6:59 następnego dnia dostępna będzie wyłącznie ochrona w nagłych wypadkach, zwana „ochroną na Boże Narodzenie”. To pierwsze takie działanie konsultantów i specjalistów w regionie."
     },
     {
       "title": "Niemcy stoją w obliczu amerykańskiego dochodzenia handlowego w sprawie cen leków, podczas gdy Berlin trzyma się planów reform – BMJ",
@@ -508,14 +524,6 @@
       "summary": "Mirvetuximab nie uzyskał pozytywnego wyniku w pierwszym randomizowanym badaniu oceniającym koniugat przeciwciało-lek i standardową karboplatynę u pacjentek z rakiem jajnika wrażliwym na platynę."
     },
     {
-      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
-      "date": "2026-06-25T09:17:45Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Ebola Bundibugyo The Lancet."
-    },
-    {
       "title": "Kanada wprowadza ustawę o bezpiecznych mediach społecznościowych w celu ochrony dzieci – Medscape",
       "url": "https://www.medscape.com/viewarticle/canada-introduces-safe-social-media-act-protect-children-2026a1000lj9",
       "date": "2026-06-25T07:39:58Z",
@@ -556,14 +564,6 @@
       "summary": "Wielu pacjentów z opornym na kastrację rakiem prostaty z przerzutami nie otrzymuje środków modyfikujących kości pomimo zalecenia wytycznych."
     },
     {
-      "title": "Proste narzędzie do oceny delirium przy łóżku pacjenta – lekarz NEJM",
-      "url": "https://clinician.nejm.org/nejm-jw.NA36039?show-author=true&author-id=AU1923",
-      "date": "2026-06-25T04:39:17Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
-    },
-    {
       "title": "Niejednorodność ciężkiej astmy w Europie: opinia SHARP-a - The Lancet",
       "url": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(26)00165-7/fulltext",
       "date": "2026-06-25T02:58:56Z",
@@ -588,20 +588,20 @@
       "summary": "Schistosomatoza żeńskich narządów płciowych: ukryta na widoku The Lancet."
     },
     {
-      "title": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a - The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00904-9/abstract",
-      "date": "2026-06-25T00:22:53Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a The Lancet."
-    },
-    {
-      "title": "25 czerwca 2026 r. — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/image-challengeJaccoud&?ci=20260625&startFrom=1&startPage=1",
-      "date": "2026-06-24T23:52:35Z",
+      "title": "CME | Tygodnik NEJM CME – The New England Journal of Medicine",
+      "url": "https://cme.nejm.org/weekly/10.1056/NEJMcme2517891",
+      "date": "2026-06-25T01:17:05Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "25 czerwca 2026 r. The New England Journal of Medicine."
+      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
+    },
+    {
+      "title": "CME | Tygodnik NEJM CME – The New England Journal of Medicine",
+      "url": "https://cme.nejm.org/weekly/10.1056/NEJMcme2600929",
+      "date": "2026-06-25T00:59:01Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
     },
     {
       "title": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej - The Lancet",
@@ -612,20 +612,20 @@
       "summary": "Doustny agonista receptora greliny: nowa obietnica poprawy funkcji skurczowej The Lancet."
     },
     {
+      "title": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a - The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00904-9/fulltext",
+      "date": "2026-06-24T23:27:42Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Bezpieczeństwo, farmakokinetyka i skuteczność eksploracyjna doustnego agonisty receptora greliny AC01 w niewydolności serca ze zmniejszoną frakcją wyrzutową (GOAL-HF1): randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 1b/2a The Lancet."
+    },
+    {
       "title": "Aby sprostać szybko zmieniającym się potrzebom, potrzebne są nowe rozwiązania: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach - The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01187-6/fulltext?rss=yes",
       "date": "2026-06-24T23:26:15Z",
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Aby sprostać szybko zmieniającym się potrzebom, potrzebne są nowe reakcje: Komisja Lancetu ds. zdrowia i dobrego samopoczucia nastolatków w Chinach The Lancet."
-    },
-    {
-      "title": "Atak na równość w medycynie — odcinek 2.8 ITT — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/do/10.1056/NEJMdo008604/full/",
-      "date": "2026-06-24T22:22:39Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Atak na równość w medycynie — odcinek ITT 2.8 The New England Journal of Medicine."
     },
     {
       "title": "Korekta wydawcy: Doustny małocząsteczkowy agonista receptora GLP-1, aleniglipron u osób z nadwagą lub otyłością: randomizowane, podwójnie ślepe, kontrolowane placebo badanie fazy 2b - Nature",
@@ -636,20 +636,12 @@
       "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
     },
     {
-      "title": "Czy programy leczenia astmy mogą poprawić samoopiekę u starszych osób dorosłych? - Lekarz NEJM",
-      "url": "https://clinician.nejm.org/nejm-jw.NA49313?show-author=true&author-id=AU1810",
-      "date": "2026-06-24T17:53:08Z",
-      "source": "NEJM",
+      "title": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania różnymi metodami – The Lancet",
+      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00285-3/fulltext",
+      "date": "2026-06-24T13:24:41Z",
+      "source": "The Lancet",
       "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
-    },
-    {
-      "title": "Krótkoterminowa DAPT w celu zapobiegania okluzji przeszczepu żyły odpiszczelowej po CABG – klinicysta NEJM",
-      "url": "https://clinician.nejm.org/short-term-dapt-prevent-saphenous-vein-graft-occlusion-cabg-CLINjwNA60227",
-      "date": "2026-06-24T08:30:15Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+      "summary": "Wpływ okresu okołomenopauzalnego, menopauzy i okresu pomenopauzalnego na zdrowie fizyczne i psychiczne w zróżnicowanej populacji globalnej (Projekt MARIE – rozdział globalny WP 2a): przekrojowe dane ilościowe z badania przeprowadzonego różnymi metodami The Lancet."
     }
   ],
   "guidelines": [
@@ -1654,14 +1646,6 @@
       "summary": "Ten algorytm ambulatoryjny przeznaczony jest dla podmiotów świadczących opiekę zdrowotną w USA w celu oceny pacjentów pod kątem choroby Ebola."
     },
     {
-      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
-      "date": "2026-06-25T09:17:45Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Ebola Bundibugyo The Lancet."
-    },
-    {
       "title": "Epidemia wirusa Ebola: co robi CDC – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/what-cdc-is-doing.html",
       "date": "2026-06-24T20:28:13Z",
@@ -1728,12 +1712,12 @@
       "summary": "W kwietniu przywódcy środowisk akademickich, rządowych i organizacji międzynarodowych zebrali się w Lyonie we Francji podczas festiwalu One Health, aby wzmocnić globalną współpracę w zakresie uczenia się i budowania potencjału w ramach One Health. Spotkanie dostarczyło jasnych wezwań do działania: wyjścia poza podnoszenie świadomości do praktycznego, skalowalnego wdrożenia oraz nadania priorytetu inwestycjom w ludzi i partnerstw międzysektorowych przed tworzeniem nowych ram. Uczestnicy docenili silny globalny impet i bogactwo istniejących inicjatyw „Jedno zdrowie”. Głównym zidentyfikowanym wyzwaniem było jednak przekształcenie koncepcji One Health w skoordynowane, mierzalne i operacyjne działania."
     },
     {
-      "title": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w obliczu epidemii Bundibugyo Ebola - The Lancet",
-      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00315-4/fulltext",
-      "date": "2026-06-25T09:17:45Z",
-      "source": "The Lancet",
+      "title": "Choroba wirusowa Nipah - Indie - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON609",
+      "date": "2026-06-25T18:20:09Z",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Priorytety badań klinicznych, strategie adaptacyjne i sprawiedliwe partnerstwa w przypadku wybuchu epidemii wirusa Ebola Bundibugyo The Lancet."
+      "summary": "W dniu 11 czerwca 2026 r. Departament Zdrowia stanu Kerala potwierdził jeden potwierdzony laboratoryjnie przypadek zakażenia wirusem Nipah (NiV) w ​​dystrykcie Kozhikode w stanie Kerala w Indiach. Przypadek dotyczy dorosłego mężczyzny, u którego objawy wystąpiły w dniu 30 maja 2026 r. i został hospitalizowany w dniu 10 czerwca 2026 r. Wystąpiły u niego objawy neurologiczne i w momencie zgłoszenia przebywał na oddziale intensywnej terapii (OIOM), poddawany wspomaganiu wentylacji."
     }
   ]
 }
