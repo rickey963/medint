@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T16:18:54Z",
+  "last_updated": "2026-06-26T16:26:04Z",
   "poland": [
     {
       "title": "Zdrowe lato w Twoim telefonie z aplikacją mojeIKP - Pacjent gov",
@@ -136,14 +136,6 @@
       "source": "DOZ.pl",
       "confirmed_by": 1,
       "summary": "Jak zapobiegać otarciom na udach podczas upałów? Jaką odzież i preparaty ochronne do skóry wybrać? Jak leczyć otarcia, które już powstały?"
-    },
-    {
-      "title": "Większość Polaków uważa, że lekarze w Polsce zarabiają za dużo – sondaż - Remedium.md",
-      "url": "https://remedium.md/publikacje/wiadomosci/wiekszosc-polakow-uwaza-ze-lekarze-w-polsce-zarabiaja-za-duzo-sondaz",
-      "date": "2026-06-26T13:22:00Z",
-      "source": "Remedium.md",
-      "confirmed_by": 1,
-      "summary": "Większość Polaków uważa, że lekarze w Polsce zarabiają za dużo – sondaż Remedium.md."
     },
     {
       "title": "Szpiczak plazmocytowy – czas na przełom w leczeniu nawrotu ► - Termedia",
@@ -336,6 +328,14 @@
       "source": "Remedium.md",
       "confirmed_by": 2,
       "summary": "Senat przyjął ustawę o ujawnianiu wynagrodzeń lekarzy w Polsce. Nowe przepisy wiążą zarobki z PESEL-em. Projekt trafi do prezydenta, mimo apelów o weto."
+    },
+    {
+      "title": "Rezydenci krytykują Centralny Rejestr Umów - Remedium.md",
+      "url": "https://remedium.md/publikacje/wiadomosci/rezydenci-krytykuja-centralny-rejestr-umow",
+      "date": "2026-06-25T12:50:00Z",
+      "source": "Remedium.md",
+      "confirmed_by": 1,
+      "summary": "OZL krytykuje nowy Centralny Rejestr Umów (CRU). Rezydenci wskazują lukę: szpitale-spółki unikną raportowania, co ograniczy kontrolę nad wydatkami w ochronie zdrowia."
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -561,7 +561,7 @@
       "date": "2026-06-26T03:01:16Z",
       "source": "The Lancet",
       "confirmed_by": 1,
-      "summary": "Niedobór leków w Indiach zmusza lekarzy do racjonowania chemioterapii The Lancet."
+      "summary": "Niedobory leków w Indiach zmuszają lekarzy do racjonowania chemioterapii The Lancet."
     },
     {
       "title": "Rak u młodych dorosłych: wyjście z cienia? - Lancet",
@@ -646,6 +646,14 @@
   ],
   "guidelines": [],
   "epidemiology": [
+    {
+      "title": "Joga dla zdrowego starzenia się: praktyka światowa i dowody kliniczne – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/commentaries/detail/yoga-for-healthy-ageing-global-practice-and-clinical-evidence",
+      "date": "2026-06-26T15:32:59Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "W ostatnich latach joga stała się przedmiotem poważnych badań medycznych i naukowych. Coraz większa liczba dowodów naukowych odkrywa szereg pozytywnych i wymiernych skutków uprawiania jogi."
+    },
     {
       "title": "Globalne podsumowanie przypadków ptasiej grypy H5N1 u ludzi od sierpnia 2025 r. do czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/bird-flu/spotlights/global-summary-06262026.html",
@@ -879,14 +887,6 @@
       "summary": "Najnowsze dane wskazują na nierówny postęp, co podkreśla pilną potrzebę skupienia się na przystępności cenowej i społecznościach bezbronnych."
     },
     {
-      "title": "Webinarium WHO w nagłych przypadkach zdrowotnych EPI-WIN: Bezpieczna, skalowalna opieka nad wirusem Ebola (Bundibugyo) w Demokratycznej Republice Konga: operacje, wytyczne kliniczne i projekt ośrodków terapeutycznych - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/who-health-emergencies-epi-win-webinar-safe-scalable-ebola-(bundibugyo)-care-in-dr-congo--operations-clinical-guidelines-and-treatment-centre-design",
-      "date": "2026-06-24T11:00:00Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Demokratyczna Republika Konga reaguje na 17. epidemię wirusa Ebola wywołaną wirusem Bundibugyo we wschodnich prowincjach Ituri, Kiwu Północne i Kiwu Południowe. Na chorobę wirusową Bundibugyo nie ma licencjonowanej szczepionki ani specjalnego leczenia, co sprawia, że ​​wczesne wykrycie, wysokiej jakości opieka wspomagająca oraz bezpieczne, dobrze zaprojektowane placówki lecznicze to najpotężniejsze narzędzia ratujące życie. W tym seminarium internetowym uczestniczy WHO i eksperci krajowi, aby skupić się na bezpiecznej i skalowalnej opiece zdrowotnej."
-    },
-    {
       "title": "Aktualizacja dochodzenia: Epidemia Listerii, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/listeria/outbreaks/soft-cheese-06-26/investigation.html",
       "date": "2026-06-24T07:00:00Z",
@@ -921,6 +921,14 @@
       "summary": "Pierwszy pacjent, któremu podano dawkę w badaniu HARNESS-1 firmy Racura w RC220 Clinical Trials Arena."
     },
     {
+      "title": "ACT Brief: Uzupełnianie luk w danych sponsora ośrodka, wycofanie dużego badania i zatwierdzenie pierwszej linii przez TNBC – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/site-sponsor-data-study-retraction-tnbc-first-line-approval",
+      "date": "2026-06-26T10:22:49Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "ACT Brief: Uzupełnianie luk w danych sponsora ośrodka, wycofanie dużego badania i stosowane badania kliniczne online w trybie pierwszej linii TNBC."
+    },
+    {
       "title": "Szczegóły badania | NCT07667322 | Badanie mające na celu zbadanie bezpieczeństwa, tolerancji, farmakokinetyki, immunogenności i farmakodynamiki nowego podskórnego preparatu ocrelizumabu u uczestników chorych na stwardnienie rozsiane – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07667322",
       "date": "2026-06-26T09:40:48Z",
@@ -953,6 +961,14 @@
       "summary": "Szczegóły badania | NCT07668492 | Rekonstrukcja 3D, VR i uczenie maszynowe w obrazie ciała w Bariatrics ClinicalTrials.gov."
     },
     {
+      "title": "Budowanie długoterminowej wartości poprzez partnerstwa z dostawcami usług funkcjonalnych — stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/long-term-value-functional-service-provider-partnerships",
+      "date": "2026-06-26T00:02:45Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Budowanie długoterminowej wartości poprzez partnerstwa z dostawcami usług funkcjonalnych. Stosowane badania kliniczne online."
+    },
+    {
       "title": "Wczesna ekspozycja na Covid może kształtować odporność na lata – szczepionka mRNA powiązana ze zmianą klasy IgG4 – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/early-covid-exposure-may-shape-immunity-for-yearsmrna-vax-linked-to-igg4-class-switching-2182b951",
       "date": "2026-06-25T20:19:33Z",
@@ -969,6 +985,14 @@
       "summary": "Fundacja Michaela J. Foxa (MJFF) przyznała Neuron23 grant w wysokości 2,5 miliona dolarów na rozszerzenie globalnego badania klinicznego fazy 2 NEULARK oceniającego NEU-411, eksperymentalny doustny inhibitor LRRK2 stosowany w leczeniu wczesnej choroby Parkinsona. Dofinansowanie uruchomi cztery dodatkowe ośrodki badawcze w Izraelu i wesprze badania genetyczne w celu identyfikacji pacjentów z podwyższoną aktywnością LRRK2 – strategia medycyny precyzyjnej, której celem jest dopasowanie terapii do choroby wywołującej biologię."
     },
     {
+      "title": "Medycyna przyrodnicza wycofuje badanie dotyczące czasu trwania wirusowego raka płuc po czteromiesięcznym badaniu – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/nature-medicine-retracts-viral-lung-cancer-timing-study-four-month-investigation",
+      "date": "2026-06-25T18:25:03Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Nature Medicine wycofuje badanie dotyczące czasu trwania wirusowego raka płuc po czteromiesięcznych badaniach klinicznych prowadzonych online."
+    },
+    {
       "title": "FDA ostrzega Amazon przed sprzedażą niezatwierdzonych leków na penisa",
       "url": "https://www.trialsitenews.com/a/fda-warns-amazon-over-fulfilled-sales-of-unapproved-penile-treatment-drugs-70c41b3e",
       "date": "2026-06-25T17:26:15Z",
@@ -983,6 +1007,14 @@
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Niedokrwistość w nefropatii IgA – arena badań klinicznych."
+    },
+    {
+      "title": "Jonathan Andrus, CRIO, o tym, dlaczego fragmentacja danych sponsorów witryny utrzymuje się i co może z tym zrobić Central eSource – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/jonathan-andrus-crio-site-sponsor-data-fragmentation-central-esource",
+      "date": "2026-06-25T11:02:17Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Jonathan Andrus, CRIO, o tym, dlaczego fragmentacja danych sponsorów witryny utrzymuje się i co może z tym zrobić Central eSource. Stosowane badania kliniczne online."
     },
     {
       "title": "Szczegóły badania | NCT07664410 | Teranostyczny PET do walidacji celu i wykrywania nowotworu – ClinicalTrials.gov",
@@ -1017,7 +1049,7 @@
       "summary": "Ollin Biosciences pozyskuje 330 mln dolarów na finansowanie fazy III badań OLN324 Clinical Trials Arena."
     },
     {
-      "title": "Próba leczenia przewlekłego szumu w uszach za pomocą terapii dźwiękiem i terapii poznawczo-behawioralnej – ClinicalTrials.gov",
+      "title": "Próba leczenia przewlekłego szumu w uszach za pomocą terapii dźwiękiem i terapii poznawczo-behawioralnej - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07665385",
       "date": "2026-06-25T10:36:37Z",
       "source": "ClinicalTrials.gov",
@@ -1025,12 +1057,20 @@
       "summary": "Próba leczenia przewlekłego szumu w uszach za pomocą terapii dźwiękiem i terapii poznawczo-behawioralnej ClinicalTrials.gov."
     },
     {
+      "title": "ACT Brief: Przywództwo DIA w obliczu niepewności, nowe podejście do kontraktów CRO i ekspansja Eli Lilly – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/dia-leadership-cro-contracts-eli-lilly-expansion",
+      "date": "2026-06-25T10:25:55Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "ACT Brief: Przywództwo DIA w obliczu niepewności, nowe podejście do kontraktów CRO i stosowane badania kliniczne online dotyczące ekspansji firmy Eli Lilly."
+    },
+    {
       "title": "Szczegóły badania | NCT07665125 | Elektroakupunktura kontra akupunktura zatapiana w nici w chorobie zwyrodnieniowej stawu kolanowego - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07665125",
       "date": "2026-06-25T10:09:46Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07665125 | Elektroakupunktura a akupunktura zatapialna w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07665125 | Elektroakupunktura a akupunktura zatapiana w nici w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
     },
     {
       "title": "Wielka Brytania dodaje do zakładek sukces Hiszpanii w wyścigu do globalnej konkurencyjności w badaniach klinicznych – Clinical Trials Arena",
@@ -1081,12 +1121,28 @@
       "summary": "Według doniesień po raz pierwszy od rozszerzenia w Holandii ram dotyczących eutanazji w 2024 r. dziecko w wieku poniżej 12 lat zmarło w wyniku eutanazji przeprowadzonej pod okiem lekarza. Sprawa, ujawniona przez holenderską minister zdrowia Sophie Hermans w raporcie dla parlamentu, dotyczyła ciężko chorego dziecka cierpiącego w okolicznościach, które zdaniem władz spełniały krajowe kryteria prawne. Opublikowano kilka szczegółów."
     },
     {
+      "title": "Poza uznawaniem przychodów: ponowne przemyślenie kontraktowania CRO w ramach umowy o wspólne wykonanie CURED – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-rethinking-cro-contracting-cured-shared-performance-contract",
+      "date": "2026-06-24T19:59:47Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Poza uznawaniem przychodów: ponowne przemyślenie kontraktowania CRO poprzez umowę o wspólne wykonanie CURED Stosowane badania kliniczne online."
+    },
+    {
       "title": "UCI Health rozpoczyna pierwsze na świecie badanie neuronalnych komórek macierzystych w leczeniu choroby Huntingtona",
       "url": "https://www.trialsitenews.com/a/uci-health-launches-worlds-first-neural-stem-cell-trial-for-huntingtons-disease-c62bf21f",
       "date": "2026-06-24T16:24:47Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Uniwersytet Kalifornijski w Irvine (UCI) Health ogłosił, że pierwszy pacjent został poddany leczeniu w ramach – jak to określa instytucja – pierwszego na świecie badania klinicznego na ludziach z wykorzystaniem nerwowych komórek macierzystych pochodzących z embrionalnych komórek macierzystych w leczeniu choroby Huntingtona – śmiertelnej choroby neurodegeneracyjnej, na którą cierpi około 40 000 Amerykanów. Badanie fazy 1b/2a jest sponsorowane przez Leslie M. Thompsona, profesora Donalda Brena na Uniwersytecie Kalifornijskim w Irvine, a klinicznie prowadzi główny badacz Ravi Rajmohan."
+    },
+    {
+      "title": "Roger Joby, David Webber i Simon Taylor – Stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/authors/roger-joby-david-webber-simon-taylor",
+      "date": "2026-06-24T15:57:00Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Roger Joby, David Webber i Simon Taylor przeprowadzili stosowane badania kliniczne online."
     },
     {
       "title": "Firma Pfizer podaje najważniejsze dane z badania SigVie-002 dla NSCLC – Clinical Trials Arena",
@@ -1103,6 +1159,14 @@
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Ascletis otrzymuje zgodę FDA na badanie fazy I dotyczące leczenia otyłości Clinical Trials Arena."
+    },
+    {
+      "title": "Streszczenie ACT: Uruchomienie operacji TrialBlazer, wzrost złożoności protokołów i infrastruktura danych dla sztucznej inteligencji – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/operation-trialblazer-protocol-complexity-data-infrastructure-ai",
+      "date": "2026-06-24T10:10:11Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Streszczenie ACT: Uruchomienie operacji TrialBlazer, wzrost złożoności protokołu i infrastruktura danych na potrzeby internetowych badań klinicznych stosowanych w oparciu o sztuczną inteligencję."
     },
     {
       "title": "Szczegóły badania | NCT07663110 | Walka z opornością i ekonomika opieki zdrowotnej poprzez badania przesiewowe CPE – ClinicalTrials.gov",
@@ -1137,12 +1201,12 @@
       "summary": "Szczegóły badania | NCT07064473 | EASi-PROTKT™ – badanie sprawdzające wikadrostat (BI 690517) w skojarzeniu z empagliflozyną u osób z cukrzycą typu 2, wysokim ciśnieniem krwi i chorobami układu krążenia ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07662512 | Różne stężenia ozonu w chorobie zwyrodnieniowej stawu kolanowego – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07662512",
-      "date": "2026-06-24T06:51:58Z",
+      "title": "Szczegóły badania | NCT07666308 | Terapia lustrzana oparta na rzeczywistości wirtualnej i cykl FES w rehabilitacji po udarze - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07666308",
+      "date": "2026-06-24T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07662512 | Różne stężenia ozonu w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07666308 | Terapia lustrzana oparta na rzeczywistości wirtualnej i cykl FES w rehabilitacji po udarze ClinicalTrials.gov."
     },
     {
       "title": "Od gromadzenia do zaufania: dlaczego wiarygodność danych z badań klinicznych zaczyna się wcześnie - Arena Badań Klinicznych",
@@ -1163,6 +1227,14 @@
   ],
   "pharma_market": [
     {
+      "title": "W BIO pojawia się napięcie w związku z regulacjami dotyczącymi transakcji biotechnologicznych w Chinach – BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/bio-2026-us-china-biotech-competition/823723/",
+      "date": "2026-06-26T16:03:46Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Inwestorzy, kadra kierownicza i analitycy branży biotechnologicznej obawiają się, że całkowity zakaz zawierania umów z chińskimi firmami może ograniczyć ambicje krajowych przedsiębiorców w tym sektorze."
+    },
+    {
       "title": "Nowy dyrektor generalny Alkermes ma plan przechytrzyć Lilly i Takedę – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/alkermes-blair-jackson-narcolepsy-drug-orexin-ceo-succession/823893/",
       "date": "2026-06-26T16:02:39Z",
@@ -1177,14 +1249,6 @@
       "source": "Pink Sheet",
       "confirmed_by": 1,
       "summary": "Według Europejskiej Agencji Leków kluczowe badanie, które wykorzystano do dopuszczenia do obrotu w UE preparatu Tavneos firmy Amgen/CSL Vifor, przeprowadzono z naruszeniem zasad dobrej praktyki klinicznej."
-    },
-    {
-      "title": "W BIO pojawia się napięcie w związku z regulacjami dotyczącymi transakcji biotechnologicznych w Chinach – BioPharma Dive",
-      "url": "https://www.biopharmadive.com/news/bio-2026-us-china-biotech-competition/823723/",
-      "date": "2026-06-26T15:56:38Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "Inwestorzy, kadra kierownicza i analitycy branży biotechnologicznej obawiają się, że całkowity zakaz zawierania umów z chińskimi firmami może ograniczyć ambicje krajowych przedsiębiorców w tym sektorze."
     },
     {
       "title": "FDA akceptuje zgłoszenie Replimune; Merck KGaA traci 11 miliardów dolarów na usługi z zakresu nauk przyrodniczych – BioPharma Dive",
@@ -1235,12 +1299,12 @@
       "summary": "Sześć nowych leków rekomendowanych do zatwierdzenia; kolejnych 12 leków rekomendowanych w celu rozszerzenia wskazań terapeutycznych."
     },
     {
-      "title": "Opzelura - opinia w sprawie zmiany pozwolenia na dopuszczenie do obrotu - Europejska Agencja Leków (EMA)",
-      "url": "https://www.ema.europa.eu/en/medicines/human/variation/opzelura",
+      "title": "Datroway – opinia w sprawie zmiany pozwolenia na dopuszczenie do obrotu – Europejska Agencja Leków (EMA)",
+      "url": "https://www.ema.europa.eu/en/medicines/human/variation/datroway",
       "date": "2026-06-26T10:00:00Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "W dniu 25 czerwca 2026 roku Komitet ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP) przyjął pozytywną opinię, zalecając zmianę warunków pozwolenia na dopuszczenie do obrotu produktu leczniczego Opzelura. Podmiotem odpowiedzialnym posiadającym pozwolenie na dopuszczenie do obrotu tego produktu leczniczego jest firma Incyte Biosciences Distribution B.V. CHMP przyjął następujące nowe wskazanie: Bielactwo nabyte Opzelura jest wskazane w leczeniu bielactwa nabytego niesegmentowego z zajęciem twarzy u dorosłych i młodzieży w wieku od 12 lat."
+      "summary": "W dniu 23 czerwca 2026 roku Komitet ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP) przyjął pozytywną opinię zalecającą zmianę warunków pozwolenia na dopuszczenie do obrotu produktu leczniczego Datroway. Podmiotem odpowiedzialnym posiadającym pozwolenie na dopuszczenie do obrotu tego produktu leczniczego jest Daiichi Sankyo Europe GmbH. CHMP przyjął następujące nowe wskazanie: Datroway w monoterapii jest wskazany w leczeniu pierwszego rzutu dorosłych pacjentów z nieoperacyjnym lub przerzutowym potrójnie ujemnym rakiem piersi (TNBC), którzy nie są kandydatami do leczenia inhibitorami PD-1/PD-L1 (patrz punkt 5.1)."
     },
     {
       "title": "Japonia planuje do 2040 r. inwestycje publiczno-prywatne o wartości 370 miliardów dolarów, aby ożywić branżę farmaceutyczną - Citeline News & Insights",
@@ -1368,7 +1432,7 @@
       "date": "2026-06-25T17:52:19Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Bayer odniósł kluczowe zwycięstwo w swojej obronie przed procesami sądowymi Roundup jako USA | Bayer odniósł kluczowe zwycięstwo w swojej obronie przed pozwami Roundup, ponieważ Sąd Najwyższy Stanów Zjednoczonych uchylił wyrok ławy przysięgłych z Missouri wart 1,25 miliona dolarów, która stanęła po stronie mężczyzny, który twierdził, że lata ekspozycji na herbicyd spowodowały u niego chłoniaka nieziarniczego."
+      "summary": "Bayer odniósł kluczowe zwycięstwo w swojej obronie przed procesami Roundup jako USA | Bayer odniósł kluczowe zwycięstwo w swojej obronie przed pozwami Roundup, ponieważ Sąd Najwyższy Stanów Zjednoczonych uchylił wyrok ławy przysięgłych z Missouri wart 1,25 miliona dolarów, która stanęła po stronie mężczyzny, który twierdził, że lata ekspozycji na herbicyd spowodowały u niego chłoniaka nieziarniczego."
     },
     {
       "title": "Wiadomości z branży biotechnologicznej i farmaceutycznej - BioPharma Dive",
@@ -1387,7 +1451,7 @@
       "summary": "Rod Wong z RTW broni udzielania licencji Chinom, twierdzi, że to hoduje amerykańskie ciasto biotechnologiczne i odpowiada na krytykę wprowadzenia Serapha Bio na rynek."
     },
     {
-      "title": "Remiks upubliczniony w wyniku odwrotnej fuzji z niegdyś świetnie prosperującym Passage Bio – BioPharma Dive",
+      "title": "Remiks trafi na giełdę w wyniku odwrotnej fuzji z niegdyś świetnie prosperującym Passage Bio – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/passage-bio-remix-reverse-merger-gene-therapy-wilson/823775/",
       "date": "2026-06-25T16:33:23Z",
       "source": "BioPharma Dive",
@@ -1435,14 +1499,6 @@
       "summary": "Pod rządami Trumpa kształtowanie polityki w FDA nie przebiegało normalnie, ale byli organy regulacyjne uznają nowy pilotażowy program badawczy nowej agencji za oznakę normalności."
     },
     {
-      "title": "Złoty Trójkąt i luki: ponowne przemyślenie brytyjskiej biotechnologii - BioSpace",
-      "url": "https://www.biospace.com/drug-development/the-golden-triangle-and-the-gaps-rethinking-uk-biotech",
-      "date": "2026-06-25T14:29:51Z",
-      "source": "BioSpace",
-      "confirmed_by": 1,
-      "summary": "W tym odcinku Denaturad, stanowiącym część naszej serii poświęconej europejskiemu ekosystemowi inwestycyjnemu w dziedzinie nauk przyrodniczych, usłyszycie Hakana Gokera, dyrektora zarządzającego w M Ventures i Mainę Bhaman, partnera w Sofinnova Partners. Badamy brytyjski ekosystem biotechnologiczny: od ewoluującej roli Złotego Trójkąta po…."
-    },
-    {
       "title": "FDA rzuca ostre światło na Pinnacle po tym, jak znalazła błędy w filmach o terapii fotodynamicznej – Fierce Pharma",
       "url": "https://www.fiercepharma.com/marketing/fda-shines-harsh-light-pinnacle-after-finding-fault-photodynamic-therapy-videos",
       "date": "2026-06-25T14:12:02Z",
@@ -1473,6 +1529,14 @@
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "Życie z niepełnosprawnością fizyczną nie powinno pozbawiać Cię przygód. Taki jest motyw przewodni nowej kampanii firmy Novartis „Pokonuj moje ograniczenia i zwiedzaj miejsca”. | Życie z niepełnosprawnością fizyczną nie powinno pozbawiać Cię przygód."
+    },
+    {
+      "title": "Kombinacja TROP-2 Trodelvy i Keytruda firmy Gilead zdobywa pierwsze punkty FDA w walce z rakiem piersi - BioSpace",
+      "url": "https://www.biospace.com/fda/gileads-trop-2-trodelvy-keytruda-combo-win-first-line-fda-nods-for-breast-cancer",
+      "date": "2026-06-25T12:24:44Z",
+      "source": "BioSpace",
+      "confirmed_by": 2,
+      "summary": "Trodelvy firmy Gilead można teraz stosować w monoterapii lub w połączeniu z lekiem Keytruda firmy Merck w leczeniu niektórych pacjentów z potrójnie ujemnym rakiem piersi."
     },
     {
       "title": "FDA zatwierdza transformacyjną ekspansję Tryngolza – Fierce Pharma firmy Ionis",
@@ -1575,20 +1639,20 @@
   ],
   "daily_top5": [
     {
+      "title": "Joga dla zdrowego starzenia się: praktyka światowa i dowody kliniczne – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/commentaries/detail/yoga-for-healthy-ageing-global-practice-and-clinical-evidence",
+      "date": "2026-06-26T15:32:59Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "W ostatnich latach joga stała się przedmiotem poważnych badań medycznych i naukowych. Coraz większa liczba dowodów naukowych odkrywa szereg pozytywnych i wymiernych skutków uprawiania jogi."
+    },
+    {
       "title": "Badania pokazują, że otyłość najszybciej rośnie u młodych dorosłych – The BMJ",
       "url": "https://www.bmj.com/content/393/bmj-2026-100097",
       "date": "2026-06-26T14:50:56Z",
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Nowe badania wykazały, że otyłość najszybciej rośnie wśród młodszych dorosłych w Anglii, a także wśród osób z grup znajdujących się w niekorzystnej sytuacji. Jak wynika z analizy elektronicznej dokumentacji zdrowotnej ponad 54 milionów dorosłych w Anglii w latach 2019–2025, nierówności we wskaźnikach otyłości pogłębiły się od czasu pandemii Covid-19.1 Ministrowie w Wielkiej Brytanii coraz częściej sięgają po leki odchudzające, takie jak GLP-1, jako metodę leczenia otyłości. Autorzy badania ostrzegli jednak, że poleganie wyłącznie na trwających całe życie terapiach lekowych prawdopodobnie nie będzie wystarczające ani trwałe w walce z kryzysem otyłości."
-    },
-    {
-      "title": "Sprawozdanie na temat zagrożeń chorobami zakaźnymi, 19–26 czerwca 2026 r., tydzień 26 – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-19-26-june-2026-week-26",
-      "date": "2026-06-26T13:52:25Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Niniejsze wydanie raportu ECDC o zagrożeniach chorobami zakaźnymi (CDTR) obejmuje okres od 19 do 26 czerwca 2026 r. i zawiera aktualne informacje na temat wirusa Ebola, zakażeń wirusem Zachodniego Nilu, gorączki krwotocznej krymsko-kongijskiej, grypy A(H9N2), cholery, mopksu, dengi, rozmieszczenia ekspertów, choroby chikungunya związanej z podróżami w krajach UE/EOG oraz przegląd wirusów układu oddechowego epidemiologia w UE/EOG."
     },
     {
       "title": "Specyfikacje techniczne ośrodków leczenia chorób filowirusowych – Światowa Organizacja Zdrowia (WHO)",
