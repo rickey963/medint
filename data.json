@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T10:56:58Z",
+  "last_updated": "2026-06-27T10:57:53Z",
   "poland": [
     {
       "title": "Międzynarodowy Dzień Przeciwdziałania Narkomanii. RPP zachęca do korzystania z bezpłatnego telefonu wsparcia - PolitykaZdrowotna.com",
@@ -1384,6 +1384,14 @@
       "summary": "Można już zarejestrować się na tegoroczną Europejską Konferencję Naukową na temat Stosowanej Epidemiologii Chorób Zakaźnych (ESCAIDE), która odbędzie się w Sztokholmie oraz online w dniach 18–20 listopada 2026 r. Rejestracja jest bezpłatna."
     },
     {
+      "title": "Pytania i odpowiedzi dotyczące obecnej epidemii wirusa Ebola – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/topics-z/ebola-disease/surveillance-and-updates/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Podstawowe fakty dotyczące obecnej epidemii choroby Ebola w Demokratycznej Republice Konga i Ugandzie."
+    },
+    {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-06-25T07:00:00Z",
@@ -1406,14 +1414,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Na Haiti wybuchła epidemia błonicy."
-    },
-    {
-      "title": "Pytania i odpowiedzi dotyczące obecnej epidemii wirusa Ebola – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/topics-z/ebola-disease/surveillance-and-updates/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Podstawowe fakty dotyczące obecnej epidemii choroby Ebola w Demokratycznej Republice Konga i Ugandzie."
     },
     {
       "title": "Żółta febra – Globalny – Światowa Organizacja Zdrowia (WHO)",
@@ -2212,20 +2212,20 @@
       "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
     },
     {
-      "title": "Wycofanie urządzenia klasy 2 Intera Oncology – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220721",
-      "date": "2026-06-26T06:37:13Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Wycofanie urządzenia klasy 2 Intera Oncology accessdata.fda.gov."
-    },
-    {
       "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220753",
       "date": "2026-06-26T06:37:13Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
+    },
+    {
+      "title": "Wycofanie urządzenia klasy 2 Intera Oncology – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220721",
+      "date": "2026-06-26T06:37:13Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 2 Intera Oncology accessdata.fda.gov."
     },
     {
       "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
