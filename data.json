@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T06:16:10Z",
+  "last_updated": "2026-06-27T06:16:53Z",
   "poland": [
     {
       "title": "Ekstremalne upały nad Polską. Dr Paweł Banaś: zagrożenie nawet dla młodych i zdrowych osób - Alert Medyczny",
@@ -449,7 +449,7 @@
       "date": "2026-06-26T19:56:50Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Opis zdarzeniaOd ostatniej aktualizacji z dnia 14 czerwca 2026 r. (raport sytuacyjny nr 5) epidemia choroby wirusowej Bundibugyo (BVD) w Demokratycznej Republice Konga w dalszym ciągu ewoluuje, a skumulowana zapadalność przekracza próg 1000 przypadków potwierdzonych laboratoryjnie, a liczba dotkniętych stref zdrowia stale rośnie. W wielu gorących punktach i nowo dotkniętych strefach zdrowia nadal obserwuje się trwałe przenoszenie wirusa przez społeczność. W Ugandzie po prawie dwóch tygodniach bez przypadku zgłoszono jeden nowy potwierdzony przypadek."
+      "summary": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 06, dane na dzień 21 czerwca 2026 r. WHO | Biuro Regionalne dla Afryki."
     },
     {
       "title": "Oświadczenie TAG-TP w sprawie immunomodulatorów i terapii ukierunkowanych na gospodarza w leczeniu choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
@@ -1014,6 +1014,14 @@
       "summary": "Multidyscyplinarne podejście do śródoperacyjnego oszczędzania krwi zmniejsza hemodylucję, ulepsza technologię bajpasów, wykorzystuje metody autologiczne i stosuje leki przeciwfibrynolityczne."
     },
     {
+      "title": "Protokół z przebiegu XVII Krajowego Zjazdu Lekarzy - NIL",
+      "url": "https://nil.org.pl/izba/krajowy-zjazd-lekarzy/xvii-krajowy-zjazd-lekarzy/9295-protokol-z-przebiegu-xvii-krajowego-zjazdu-lekarzy",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
+    },
+    {
       "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
       "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
       "date": "2026-06-22T00:26:59Z",
@@ -1041,14 +1049,6 @@
       "title": "Rzecznicy Praw Lekarza OIL - NIL",
       "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil/rzecznicy-praw-lekarza-oil",
       "date": "2026-06-19T14:53:25Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Zgłoszenia do RPL zbiorowych problemów lekarzy - NIL",
-      "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil/zgloszenia-do-rpl-zbiorowych-problemow-lekarzy",
-      "date": "2026-06-19T14:53:24Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
@@ -2206,20 +2206,20 @@
   ],
   "critical_alerts": [
     {
-      "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 06, dane na dzień 21 czerwca 2026 r. – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2",
-      "date": "2026-06-26T19:56:50Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Opis zdarzeniaOd ostatniej aktualizacji z dnia 14 czerwca 2026 r. (raport sytuacyjny nr 5) epidemia choroby wirusowej Bundibugyo (BVD) w Demokratycznej Republice Konga w dalszym ciągu ewoluuje, a skumulowana zapadalność przekracza próg 1000 przypadków potwierdzonych laboratoryjnie, a liczba dotkniętych stref zdrowia stale rośnie. W wielu gorących punktach i nowo dotkniętych strefach zdrowia nadal obserwuje się trwałe przenoszenie wirusa przez społeczność. W Ugandzie po prawie dwóch tygodniach bez przypadku zgłoszono jeden nowy potwierdzony przypadek."
-    },
-    {
       "title": "Epidemia botulizmu u niemowląt powiązana ze sproszkowanym preparatem dla niemowląt, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/index.html",
       "date": "2026-06-27T02:34:29Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Informacja o wybuchu zatrucia jadem kiełbasianym u niemowląt w związku z odżywką dla niemowląt Nara Organics."
+    },
+    {
+      "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 06, dane na dzień 21 czerwca 2026 r. – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2",
+      "date": "2026-06-26T19:56:50Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 06, dane na dzień 21 czerwca 2026 r. WHO | Biuro Regionalne dla Afryki."
     },
     {
       "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2280,12 +2280,12 @@
       "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
     },
     {
-      "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 06, dane na dzień 21 czerwca 2026 r. – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2",
-      "date": "2026-06-26T19:56:50Z",
+      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+      "date": "2026-06-27T03:36:53Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Opis zdarzeniaOd ostatniej aktualizacji z dnia 14 czerwca 2026 r. (raport sytuacyjny nr 5) epidemia choroby wirusowej Bundibugyo (BVD) w Demokratycznej Republice Konga w dalszym ciągu ewoluuje, a skumulowana zapadalność przekracza próg 1000 przypadków potwierdzonych laboratoryjnie, a liczba dotkniętych stref zdrowia stale rośnie. W wielu gorących punktach i nowo dotkniętych strefach zdrowia nadal obserwuje się trwałe przenoszenie wirusa przez społeczność. W Ugandzie po prawie dwóch tygodniach bez przypadku zgłoszono jeden nowy potwierdzony przypadek."
+      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
       "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
