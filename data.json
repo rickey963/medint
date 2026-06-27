@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T04:20:40Z",
+  "last_updated": "2026-06-27T04:21:22Z",
   "poland": [
     {
       "title": "Paryż bez alkoholu - Termedia",
@@ -64,6 +64,14 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Powiatowa Stacja Sanitarno-Epidemiologiczna w Koninie informuje o zakończeniu pilotażowej edycji programu edukacyjnego #MłodziŚwiadomi, skierowanego do uczniów szkół ponadpodstawowych z Konina i powiatu konińskiego."
+    },
+    {
+      "title": "Zdrowe lato w Twoim telefonie z aplikacją mojeIKP - Pacjent gov",
+      "url": "http://pacjent.gov.pl/aktualnosc/zdrowe-lato-w-twoim-telefonie-z-aplikacja-mojeikp",
+      "date": "2026-06-26T15:51:45Z",
+      "source": "Internetowe Konto Pacjenta",
+      "confirmed_by": 1,
+      "summary": "Ostatni dzwonek już wybrzmiał! Tornistry lądują w kącie, a przed nami upragnione lato i zasłużony urlop. To idealny moment, by wziąć głęboki oddech, spędzić czas z bliskimi i w końcu zadbać o siebie."
     },
     {
       "title": "15 Ogólnopolski Kongres Starzenia – Pacjent 65+ w codziennej praktyce lekarskiej - Termedia",
@@ -250,14 +258,6 @@
       "summary": "Ryba - informacje i artykuły związane z powyższą tematyką. Wszystko na temat medycyny, systemu ochrony zdrowia, zarządzania w służbie zdrowia i in."
     },
     {
-      "title": "MZ zapowiada zmiany po aferze w Szpitalu Południowym. W planach limit czasu pracy medyków - Remedium.md",
-      "url": "https://remedium.md/publikacje/wiadomosci/mz-zapowiada-zmiany-po-aferze-w-szpitalu-poludniowym-w-planach-limit-czasu-pracy-medykow",
-      "date": "2026-06-26T10:06:00Z",
-      "source": "Remedium.md",
-      "confirmed_by": 1,
-      "summary": "Ministerstwo Zdrowia planuje limity czasu pracy medyków i przejrzystość płac po aferze w Szpitalu Południowym. Poznaj szczegóły nowych kontroli NFZ."
-    },
-    {
       "title": "Dlaczego NNW to konieczność dla aktywnych? Ubezpieczenie dla biegaczy, rowerzystów, narciarzy i innych sportowców - Serwis Zdrowie",
       "url": "https://zdrowie.pap.pl/leczenie/dlaczego-nnw-koniecznosc-dla-aktywnych-ubezpieczenie-dla-biegaczy-rowerzystow-narciarzy-i",
       "date": "2026-06-26T09:48:51Z",
@@ -312,6 +312,14 @@
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Zbliżają się wakacje i wielu rodziców martwi się o to, co będą w tym czasie robiły ich dzieci. Odczuwają obawę, że inni rodzice już zapisali dzieci na obozy, kolonie i kursy, a oni jeszcze nie. Martwią się, że jeżeli niczego nie zorganizują, to dziecko będzie się nudzić i skończy z telefonem albo przed komputerem."
+    },
+    {
+      "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
+      "url": "https://pacjent.gov.pl/aktualnosc/czym-jest-poczekalnia-w-e-rejestracji",
+      "date": "2026-06-25T08:54:46Z",
+      "source": "Internetowe Konto Pacjenta",
+      "confirmed_by": 1,
+      "summary": "To o poczekalnię najczęściej pytają pacjenci, którzy korzystają już z centralnej e-rejestracji. Dowiedz się, jak działa i może Ci pomóc w umówieniu wizyty u lekarza specjalisty."
     }
   ],
   "world": [
@@ -604,20 +612,20 @@
       "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
     },
     {
+      "title": "Choroba kociego pazura – lekarz NEJM",
+      "url": "https://clinician.nejm.org/10.1056/CLINicmNA60317",
+      "date": "2026-06-25T12:23:03Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
+    },
+    {
       "title": "Choroba wywołana wirusem Bundibugyo w 2026 r. — reakcje kliniczne i zdrowie publiczne — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2607216",
       "date": "2026-06-25T07:37:58Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Choroba wywołana wirusem Bundibugyo w 2026 r. — reakcje kliniczne i zdrowie publiczne The New England Journal of Medicine."
-    },
-    {
-      "title": "Co nowego w przypadku zaawansowanych nowotworów żołądka i przełyku HER2+? - Lekarz NEJM",
-      "url": "https://clinician.nejm.org/s-new-advanced-her2-gastroesophageal-cancers-CLINjwNA60255",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     },
     {
       "title": "Biomarkery krwi pępowinowej u niemowląt z encefalopatią noworodkową: przegląd systematyczny i metaanaliza - Natura",
@@ -896,20 +904,20 @@
   ],
   "epidemiology": [
     {
-      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-27T03:36:53Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
-    },
-    {
       "title": "Epidemia botulizmu u niemowląt powiązana ze sproszkowanym preparatem dla niemowląt, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/index.html",
       "date": "2026-06-27T02:34:29Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Informacja o wybuchu zatrucia jadem kiełbasianym u niemowląt w związku z odżywką dla niemowląt Nara Organics."
+    },
+    {
+      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+      "date": "2026-06-27T02:01:12Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
       "title": "Nowa karta ACIP może pozwolić RFK Jr. na dalsze ograniczenie dostępu do szczepionek, twierdzą krytycy – CIDRAP",
@@ -1984,12 +1992,12 @@
   ],
   "daily_top5": [
     {
-      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-27T03:36:53Z",
-      "source": "WHO Disease Outbreak News",
+      "title": "Epidemia botulizmu u niemowląt powiązana ze sproszkowanym preparatem dla niemowląt, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/index.html",
+      "date": "2026-06-27T02:34:29Z",
+      "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
+      "summary": "Informacja o wybuchu zatrucia jadem kiełbasianym u niemowląt w związku z odżywką dla niemowląt Nara Organics."
     },
     {
       "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 06, dane na dzień 21 czerwca 2026 r. – WHO | Biuro Regionalne dla Afryki",
