@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T22:50:02Z",
+  "last_updated": "2026-06-27T22:50:51Z",
   "poland": [
     {
       "title": "Śmiertelnie groźne e-papierosy - Termedia",
@@ -561,7 +561,7 @@
       "date": "2026-06-27T06:18:45Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Jatrogenny chylothorax to rzadkie, ale poważne powikłanie, które może wystąpić po umieszczeniu cewnika do żyły centralnej (CVC). Zwykle wiąże się to z kaniulacją lewej żyły szyjnej wewnętrznej (IJV) ze względu na anatomiczne położenie przewodu piersiowego. Jednakże donoszono, że kaniulacja prawego IJV powoduje również chylothorax."
+      "summary": "Prawy chylothorax po kaniulacji prawej żyły szyjnej wewnętrznej BMJ Case Reports."
     },
     {
       "title": "Pielęgniarka personelu okołoporodowego – praca w Chorley w fundacji NHS Foundation Trust w Lancashire i Południowej Cumbrii (kariera w służbie zdrowia) | 822590 - BMJ",
@@ -814,12 +814,12 @@
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
     },
     {
-      "title": "Secukinumab w leczeniu umiarkowanego do ciężkiego ropnego zapalenia gruczołów potowych u osób w wieku od 12 do 17 lat – witryna internetowa NICE",
+      "title": "Secukinumab w leczeniu ropnego zapalenia powiek i powiek o nasileniu umiarkowanym do ciężkiego u osób w wieku od 12 do 17 lat – witryna internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/prioritisation/gid-ta12044",
       "date": "2026-06-27T07:09:20Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Rada Priorytetowa NICE zebrała się 10 czerwca 2026 r. i stwierdziła, że ​​ocena tego produktu nie byłaby odpowiednia."
+      "summary": "Rada Priorytetowa NICE zebrała się 10 czerwca 2026 r. i stwierdziła, że ​​ocena tego produktu nie byłaby właściwa."
     },
     {
       "title": "Epidemia botulizmu u niemowląt powiązana ze sproszkowanym preparatem dla niemowląt, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -974,12 +974,28 @@
       "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej ESMO."
     },
     {
+      "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
+      "date": "2026-06-24T16:46:28Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
+    },
+    {
       "title": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu TNBC nieoperacyjnego lub z przerzutami - ESMO",
       "url": "https://www.esmo.org/oncology-news/fda-approves-datopotamab-deruxtecan-dlnk-for-unresectable-or-metastatic-tnbc",
       "date": "2026-06-24T11:15:34Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieoperacyjnego lub przerzutowego TNBC ESMO."
+    },
+    {
+      "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta10413/documents/html-content-7",
+      "date": "2026-06-24T10:36:02Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik NICE."
     },
     {
       "title": "Niezbędna jest zwiększona świadomość na temat objawów niewydolności serca podczas ciąży i po niej – www.heart.org",
@@ -1094,44 +1110,12 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Keith C. Ferdinand: Niedaleko Dziewiątego Okręgu – www.heart.org",
-      "url": "https://www.heart.org/en/around-the-aha/keith-c-ferdinand-never-far-from-the-ninth-ward",
-      "date": "2026-06-16T07:00:00Z",
+      "title": "Leczenie wewnątrznaczyniowe udaru niedokrwiennego dużego rdzenia - professional.heart.org",
+      "url": "https://professional.heart.org/en/videos/large-core-ischemic-stroke",
+      "date": "2026-06-18T00:09:37Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Lekarz Roku swoje skupienie na bardziej sprawiedliwej opiece zdrowotnej wywodzi z wychowania w Nowym Orleanie."
-    },
-    {
-      "title": "Notatki | Dokumenty projektowe | Infigratynib do leczenia nawrotowego lub opornego na leczenie zaawansowanego raka dróg żółciowych z fuzją lub rearanżacją FGFR2 [ID3992] | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta10882/documents/html-content",
-      "date": "2026-06-10T02:12:11Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Notatki | Dokumenty projektowe | Infigratynib do leczenia nawrotowego lub opornego na leczenie zaawansowanego raka dróg żółciowych z fuzją lub rearanżacją FGFR2 [ID3992] | Poradnik NICE."
-    },
-    {
-      "title": "Notatki | Dokumenty projektowe | Pembrolizumab z lenwatynibem w leczeniu nieleczonego raka płaskonabłonkowego głowy i szyi z dodatnim wynikiem testu PD-L1, nawrotowego lub z przerzutami [ID5118] | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta11005/documents/html-content-4",
-      "date": "2026-06-08T17:30:39Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z lenwatynibem w leczeniu nieleczonego raka płaskonabłonkowego głowy i szyi z dodatnim wynikiem testu PD-L1, nawrotowego lub z przerzutami [ID5118] | Poradnik NICE."
-    },
-    {
-      "title": "HTG740 Litotrypsja wewnątrznaczyniowa w leczeniu zwapnionych tętnic wieńcowych podczas przezskórnej interwencji wieńcowej: podsumowanie końcowe – strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/htg740/evidence/overview-final-pdf-15242701789",
-      "date": "2026-06-06T07:00:00Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "HTG740 Litotrypsja wewnątrznaczyniowa w leczeniu zwapnionych tętnic wieńcowych podczas przezskórnej interwencji wieńcowej: przegląd końcowej strony internetowej NICE."
-    },
-    {
-      "title": "Przegląd procedur interwencyjnych litotrypsji wewnątrznaczyniowej w leczeniu zwapnionych tętnic wieńcowych podczas przezskórnego zabiegu wieńcowego - witryna internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/htg740/documents/supporting-documentation",
-      "date": "2026-06-06T07:00:00Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Przegląd procedur interwencyjnych litotrypsji wewnątrznaczyniowej w leczeniu zwapnionych tętnic wieńcowych podczas przezskórnej operacji wieńcowej Strona internetowa NICE."
+      "summary": "Nester Gonzalez, lekarz medycyny."
     }
   ],
   "epidemiology": [
@@ -1762,7 +1746,7 @@
       "summary": "Szczegóły badania | NCT07669103 | Prospektywna baza danych dotycząca chirurgii raka kości ClinicalTrials.gov."
     },
     {
-      "title": "Badanie kliniczne dotyczące algorytmu optymalizacji odstępu przewodzenia elektrokardiogramu w jednym odprowadzeniu - ClinicalTrials.gov",
+      "title": "Badanie kliniczne dotyczące algorytmu optymalizacji odstępu przewodzenia elektrokardiogramu z pojedynczym odprowadzeniem – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07667465",
       "date": "2026-06-26T09:30:20Z",
       "source": "ClinicalTrials.gov",
