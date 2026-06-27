@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T17:01:28Z",
+  "last_updated": "2026-06-27T17:02:20Z",
   "poland": [
     {
       "title": "Marcin leczy za darmo na statku. \"Mówili: zabiją cię tam, nie wrócisz\" - Medonet",
@@ -239,7 +239,7 @@
       "date": "2026-06-26T18:50:29Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Bądź na bieżąco z Funduszami Europejskimi."
+      "summary": "Projekt wspierający samorządy w planowaniu działań z zakresu zdrowia publicznego z dofinansowaniem Portal Funduszy Europejskich."
     },
     {
       "title": "Projekt wspierający samorządy w planowaniu działań z zakresu zdrowia publicznego z dofinansowaniem - Portal Funduszy Europejskich",
@@ -593,7 +593,7 @@
       "date": "2026-06-26T23:30:53Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Poniższa grafika podsumowuje strategię omawiania analgezji z kobietami w ciąży i pracy z nimi w celu znalezienia odpowiedniego poziomu łagodzenia bólu w ich konkretnej sytuacji."
+      "summary": "Analgezja w ciąży BMJ."
     },
     {
       "title": "Praca dla psychiatrów w regionie Azji i Pacyfiku - BMJ",
@@ -753,7 +753,7 @@
       "date": "2026-06-26T14:50:56Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Nowe badania wykazały, że otyłość najszybciej rośnie wśród młodszych dorosłych w Anglii, a także wśród osób z grup defaworyzowanych. Jak wynika z analizy elektronicznej dokumentacji zdrowotnej ponad 54 milionów dorosłych w Anglii w latach 2019–2025, nierówności we wskaźnikach otyłości pogłębiły się od czasu pandemii Covid-19.1 Ministrowie w Wielkiej Brytanii coraz częściej sięgają po leki odchudzające, takie jak GLP-1, jako metodę leczenia otyłości. Autorzy badania ostrzegli jednak, że poleganie wyłącznie na trwających całe życie terapiach lekowych prawdopodobnie nie będzie wystarczające ani trwałe w walce z kryzysem otyłości."
+      "summary": "Badania pokazują, że otyłość najszybciej rośnie wśród młodych dorosłych."
     },
     {
       "title": "Gruczolak przysadki mózgowej związany z zespołem Schöpfa-Schulza-Passarge'a - BMJ Case Reports",
@@ -942,14 +942,6 @@
       "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
-      "date": "2026-06-24T16:46:28Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
-    },
-    {
       "title": "Przegląd | Seladelpar na wcześniej leczone pierwotne zapalenie dróg żółciowych | Poradnik - strona internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/ta1171",
       "date": "2026-06-24T13:21:13Z",
@@ -964,6 +956,14 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta10413/documents/html-content-7",
+      "date": "2026-06-24T10:36:02Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik NICE."
     },
     {
       "title": "Niezbędna jest zwiększona świadomość na temat objawów niewydolności serca podczas ciąży i po niej – www.heart.org",
@@ -1416,6 +1416,14 @@
       "summary": "Można już zarejestrować się na tegoroczną Europejską Konferencję Naukową na temat Stosowanej Epidemiologii Chorób Zakaźnych (ESCAIDE), która odbędzie się w Sztokholmie oraz online w dniach 18–20 listopada 2026 r. Rejestracja jest bezpłatna."
     },
     {
+      "title": "Pytania i odpowiedzi dotyczące obecnej epidemii wirusa Ebola – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/topics-z/ebola-disease/surveillance-and-updates/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Podstawowe fakty na temat obecnej epidemii choroby Ebola w Demokratycznej Republice Konga i Ugandzie."
+    },
+    {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-06-25T07:00:00Z",
@@ -1446,14 +1454,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Charakterystyka próbek pobranych od pacjentów z objawami podczas epidemii chikungunya, prowincja Matanzas, Kuba, 2025*."
-    },
-    {
-      "title": "Pytania i odpowiedzi dotyczące obecnej epidemii wirusa Ebola – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/topics-z/ebola-disease/surveillance-and-updates/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Podstawowe fakty dotyczące obecnej epidemii choroby Ebola w Demokratycznej Republice Konga i Ugandzie."
     },
     {
       "title": "Żółta febra – Globalny – Światowa Organizacja Zdrowia (WHO)",
@@ -1634,7 +1634,7 @@
       "summary": "Narzędzie AI firmy Clariyon zwiększa przestrzeganie zasad leczenia sepsy w szpitalnym badaniu Clinical Trials Arena."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Pierwszy pacjent, któremu podano dawkę leku RC220 w badaniu HARNESS-1 firmy Racura – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/first-patient-dosed-racuras-harness-1-trial/",
       "date": "2026-06-26T11:13:10Z",
       "source": "Clinical Trials Arena",
