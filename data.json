@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T04:31:59Z",
+  "last_updated": "2026-06-27T04:32:39Z",
   "poland": [
     {
       "title": "Paryż bez alkoholu - Termedia",
@@ -687,26 +687,18 @@
     },
     {
       "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm?s_cid=OS_mm7524a2_w",
       "date": "2026-06-25T17:03:11Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "W niniejszym raporcie opisano liczbę zgonów spowodowanych przedawkowaniem narkotyków, które miały miejsce w hotelach i motelach w USA w latach 2022–2024."
     },
     {
-      "title": "Wizyty na oddziałach ratunkowych w związku z podejrzeniem próby samobójczej — Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
-      "date": "2026-06-25T17:03:11Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
-      "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
-    },
-    {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-06-25T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 4,
       "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
     },
     {
@@ -854,6 +846,14 @@
       "summary": "Multidyscyplinarne podejście do śródoperacyjnego oszczędzania krwi zmniejsza hemodylucję, ulepsza technologię bajpasów, wykorzystuje metody autologiczne i stosuje leki przeciwfibrynolityczne."
     },
     {
+      "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania osobami potencjalnie narażonymi na wirusa Andów — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/hantavirus/php/emergency-guidance/index.html",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Wytyczne dotyczące postępowania z osobami potencjalnie narażonymi na wirusa Andy podczas obecnej epidemii."
+    },
+    {
       "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
       "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
       "date": "2026-06-22T00:26:59Z",
@@ -896,20 +896,20 @@
   ],
   "epidemiology": [
     {
-      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-27T03:36:53Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
-    },
-    {
       "title": "Epidemia botulizmu u niemowląt powiązana ze sproszkowanym preparatem dla niemowląt, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/index.html",
       "date": "2026-06-27T02:34:29Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Informacja o wybuchu zatrucia jadem kiełbasianym u niemowląt w związku z odżywką dla niemowląt Nara Organics."
+    },
+    {
+      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+      "date": "2026-06-27T02:01:12Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
       "title": "Nowa karta ACIP może pozwolić RFK Jr. na dalsze ograniczenie dostępu do szczepionek, twierdzą krytycy – CIDRAP",
@@ -1580,6 +1580,46 @@
       "summary": "Ekonomista zajmujący się zdrowiem stwierdził, że wywieranie presji na zagraniczne kraje, aby płaciły więcej za leki, niekoniecznie obniży ceny leków w USA, ponieważ firmy prawdopodobnie nie będą dobrowolnie obniżać cen na swoim najbardziej dochodowym rynku."
     },
     {
+      "title": "Równoważna poprawa w zakresie egzemy obserwowana w przypadku zespołowej opieki online i opieki osobistej – Drugs.com",
+      "url": "https://www.drugs.com/news/equivalent-improvements-eczema-seen-team-based-online-care-person-care-130481.html",
+      "date": "2026-06-26T21:18:24Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Równoważna poprawa w zakresie egzemy zaobserwowana dzięki zespołowej opiece online, In-Person Care Drugs.com."
+    },
+    {
+      "title": "Ćwiczenia w domu możliwe dla osób, które przebyły chłoniaka, rozpoczynających rehabilitację kardio-onkologiczną - Drugs.com",
+      "url": "https://www.drugs.com/news/home-based-exercise-feasible-lymphoma-survivors-entering-cardio-oncology-rehab-130480.html",
+      "date": "2026-06-26T21:18:24Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Ćwiczenia w domu możliwe dla osób, które przeżyły chłoniaka, rozpoczynających rehabilitację kardio-onkologiczną Drugs.com."
+    },
+    {
+      "title": "Kobiety cierpiące na stan przedrzucawkowy mają zwiększone ryzyko późniejszego nadciśnienia i przewlekłej choroby nerek – Drugs.com",
+      "url": "https://www.drugs.com/news/women-preeclampsia-have-increased-risk-later-hypertension-ckd-130478.html",
+      "date": "2026-06-26T19:47:49Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Kobiety cierpiące na stan przedrzucawkowy mają zwiększone ryzyko późniejszego nadciśnienia, CKD Drugs.com."
+    },
+    {
+      "title": "Unikalne identyfikatory sygnatur białkowych Choroba zapalna jelit u dzieci – Drugs.com",
+      "url": "https://www.drugs.com/news/unique-protein-signature-ids-pediatric-onset-inflammatory-bowel-130475.html",
+      "date": "2026-06-26T19:18:36Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Unikalne identyfikatory sygnatur białkowych Choroba zapalna jelit u dzieci Drugs.com."
+    },
+    {
+      "title": "NIEKTÓRE - NUV7S4KI1I | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
+      "url": "https://precision.fda.gov/uniisearch/srs?search=NUV7S4KI1I",
+      "date": "2026-06-26T16:52:42Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
+    },
+    {
       "title": "Nowy dyrektor generalny Alkermes ma plan przechytrzyć Lilly i Takedę – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/alkermes-blair-jackson-narcolepsy-drug-orexin-ceo-succession/823893/",
       "date": "2026-06-26T16:03:46Z",
@@ -1634,6 +1674,14 @@
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "Dziewięć miesięcy po napadzie na biura Sanofi w unan | Komisja Europejska wszczęła formalne postępowanie w ramach dochodzenia antymonopolowego przeciwko spółce Sanofi. Śledztwo dotyczy marketingu francuskiej firmy farmaceutycznej szczepionki przeciw grypie przeznaczonej dla seniorów z grupy ryzyka, Efluelda."
+    },
+    {
+      "title": "Naukowcy twierdzą, że statyny rzadko powodują poważne problemy z mięśniami - Drugs.com",
+      "url": "https://www.drugs.com/news/statins-rarely-cause-severe-muscle-problems-researchers-say-130470.html",
+      "date": "2026-06-26T14:49:46Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Statyny rzadko powodują poważne problemy z mięśniami, twierdzą naukowcy Drugs.com."
     },
     {
       "title": "Lycia zbiera 75 milionów dolarów na leczenie alergii pokarmowej i choroby Gravesa-Basedowa – Endpoints News",
@@ -1716,6 +1764,14 @@
       "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
     },
     {
+      "title": "Kladrybina: zastosowania, dawkowanie, skutki uboczne, ostrzeżenia - Drugs.com",
+      "url": "https://www.drugs.com/cladribine.html",
+      "date": "2026-06-26T06:09:34Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Kladrybina: zastosowania, dawkowanie, skutki uboczne, ostrzeżenia Drugs.com."
+    },
+    {
       "title": "Wycofanie urządzenia klasy 1 z rynku Abiomed 14 Fr x 13 cm Niskoprofilowy zestaw wprowadzający do aparatu Impella CP - accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220455",
       "date": "2026-06-26T05:54:45Z",
@@ -1738,6 +1794,14 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Biogen wstrzymuje lub anuluje większość programów badawczo-rozwojowych w ramach wykupu Apellis za 5,6 miliarda dolarów i zwalnia pracowników, koncentrując się na Empaveli i Syfovre."
+    },
+    {
+      "title": "Oczekuje się, że koszty opieki nad osobami chorymi na demencję w 2026 r. w Stanach Zjednoczonych wyniosą 818 miliardów dolarów - Drugs.com",
+      "url": "https://www.drugs.com/news/2026-costs-dementia-care-expected-818-billion-united-states-130466.html",
+      "date": "2026-06-25T23:46:57Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Oczekuje się, że koszty opieki nad osobami z demencją w 2026 r. wyniosą 818 miliardów dolarów w Stanach Zjednoczonych Drugs.com."
     },
     {
       "title": "Fosun Pharma planuje globalne działania wykraczające poza onkologię, napędzane wielozadaniową strategią dotyczącą choroby Alzheimera - Fierce Pharma",
@@ -1772,14 +1836,6 @@
       "summary": "Bayer odniósł kluczowe zwycięstwo w swojej obronie przed procesami Roundup jako USA | Bayer odniósł kluczowe zwycięstwo w obronie przed pozwami Roundup, ponieważ Sąd Najwyższy Stanów Zjednoczonych uchylił wyrok ławy przysięgłych z Missouri wart 1,25 miliona dolarów, która stanęła po stronie mężczyzny, który twierdził, że lata ekspozycji na herbicyd spowodowały u niego chłoniaka nieziarniczego."
     },
     {
-      "title": "Lista dostępnych zbiorów danych – hfpappexternal.fda.gov",
-      "url": "https://hfpappexternal.fda.gov/scripts/fdcc/index.cfm?id=SODIUMDISTEARYLPHOSPHATE",
-      "date": "2026-06-25T17:18:15Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Lista dostępnych zbiorów danych hfpappexternal.fda.gov."
-    },
-    {
       "title": "Wiadomości z branży biotechnologicznej i farmaceutycznej - BioPharma Dive",
       "url": "https://www.biopharmadive.com/?page=2&ref=antoinebuteau.com",
       "date": "2026-06-25T17:13:59Z",
@@ -1796,36 +1852,12 @@
       "summary": "Rod Wong z RTW broni udzielania licencji Chinom, twierdzi, że to hoduje amerykańskie ciasto biotechnologiczne i odpowiada na krytykę wprowadzenia Serapha Bio na rynek."
     },
     {
-      "title": "Remiks upubliczniony w wyniku odwrotnej fuzji z niegdyś świetnie prosperującym Passage Bio – BioPharma Dive",
-      "url": "https://www.biopharmadive.com/news/passage-bio-remix-reverse-merger-gene-therapy-wilson/823775/",
-      "date": "2026-06-25T16:33:23Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "Transakcja oznacza najnowszy zwrot w losach Passage Bio, jednej ze spółek założonych przez pioniera terapii genowej Jima Wilsona."
-    },
-    {
-      "title": "Recordati licencjonuje lek Ionis; Finansowanie BARDA firmy Vaxart zostaje obcięte – Wiadomości o punktach końcowych",
-      "url": "https://endpoints.news/recordati-licenses-ionis-drug-vaxarts-barda-funding-is-cut/",
-      "date": "2026-06-25T15:28:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "Plus wiadomości o Leyden Labs, Otsuka, Pfizer i Hutchmed."
-    },
-    {
       "title": "BIO 2026: Zapomnij o dwutorowości – transakcje z biofarmacją są bardziej złożone niż kiedykolwiek – BioSpace",
       "url": "https://www.biospace.com/business/bio-2026-forget-dual-track-biopharma-deals-are-more-complex-than-ever",
       "date": "2026-06-25T15:20:04Z",
       "source": "BioSpace",
       "confirmed_by": 1,
       "summary": "Procesy dwu-, a nawet potrójne lub poczwórne ponownie powróciły w 2026 r. dzięki nadmiarowi fuzji i przejęć, który ponownie zapełnił portfele inwestorów. Big Pharma zwraca uwagę, że czas ma kluczowe znaczenie, jeśli chce dokonywać przejęć."
-    },
-    {
-      "title": "Antares dostaje 105 mln dolarów od Novartis na nowe leki przeciwnowotworowe – BioPharma Dive",
-      "url": "https://www.biopharmadive.com/news/novartis-antares-deal-cancer-drugs/823761/",
-      "date": "2026-06-25T15:00:04Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "Adam Friedman, dyrektor generalny spółki Scorpion Therapeutics, powiedział, że transakcja pomoże obu firmom przyspieszyć badania „szybciej, niż którekolwiek z nas mogłoby to zrobić samodzielnie”."
     },
     {
       "title": "BIO 2026: Inicjatywa IND FDA krokiem w kierunku normalizacji po nieudanym roku - BioSpace",
@@ -1874,22 +1906,6 @@
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "Życie z niepełnosprawnością fizyczną nie powinno pozbawiać Cię przygód. Taki jest motyw przewodni nowej kampanii firmy Novartis „Pokonuj moje ograniczenia i zwiedzaj miejsca”. | Życie z niepełnosprawnością fizyczną nie powinno pozbawiać Cię przygód."
-    },
-    {
-      "title": "Kombinacja TROP-2 Trodelvy i Keytruda firmy Gilead zdobywa pierwsze punkty FDA w walce z rakiem piersi - BioSpace",
-      "url": "https://www.biospace.com/fda/gileads-trop-2-trodelvy-keytruda-combo-win-first-line-fda-nods-for-breast-cancer",
-      "date": "2026-06-25T12:24:44Z",
-      "source": "BioSpace",
-      "confirmed_by": 2,
-      "summary": "Trodelvy firmy Gilead można teraz stosować w monoterapii lub w połączeniu z lekiem Keytruda firmy Merck w leczeniu niektórych pacjentów z potrójnie ujemnym rakiem piersi."
-    },
-    {
-      "title": "Ionis osiąga transformacyjny rozwój etykiety FDA dla Tryngolza – Fierce Pharma",
-      "url": "https://www.fiercepharma.com/pharma/ionis-scores-landmark-fda-label-expansion-tryngolza",
-      "date": "2026-06-25T12:13:20Z",
-      "source": "FiercePharma",
-      "confirmed_by": 1,
-      "summary": "Po 35 latach badań i rozwoju produktów farmaceutycznych firma Ionis po raz pierwszy wprowadziła na rynek swoje leki w 2024 r. | Ionis uzyskał pozwolenie FDA na rozszerzenie leku Tryngolza na pierwszy lek specjalnie zatwierdzony do leczenia ciężkiej hipertriglicerydemii. To ukłon znacznie zwiększy potencjał generowania przychodów leku oligonukleotydowego antysensownego."
     },
     {
       "title": "Notatnik BIO: sekcja zwłok CNPV – Citeline News & Insights",
@@ -1976,12 +1992,12 @@
   ],
   "daily_top5": [
     {
-      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-27T03:36:53Z",
-      "source": "WHO Disease Outbreak News",
+      "title": "Epidemia botulizmu u niemowląt powiązana ze sproszkowanym preparatem dla niemowląt, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/index.html",
+      "date": "2026-06-27T02:34:29Z",
+      "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
+      "summary": "Informacja o wybuchu zatrucia jadem kiełbasianym u niemowląt w związku z odżywką dla niemowląt Nara Organics."
     },
     {
       "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 06, dane na dzień 21 czerwca 2026 r. – WHO | Biuro Regionalne dla Afryki",
