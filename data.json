@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T17:17:05Z",
+  "last_updated": "2026-06-27T17:17:59Z",
   "poland": [
     {
       "title": "Marcin leczy za darmo na statku. \"Mówili: zabiją cię tam, nie wrócisz\" - Medonet",
@@ -371,7 +371,7 @@
     },
     {
       "title": "15 Ogólnopolski Kongres Starzenia – Pacjent 65+ w codziennej praktyce lekarskiej - Termedia",
-      "url": "https://www.termedia.pl/Konferencja-15-Ogolnopolski-Kongres-Starzenia--KONTAKT,3051,45366.html",
+      "url": "https://www.termedia.pl/Konferencja-15-Ogolnopolski-Kongres-Starzenia--O-KONFERENCJI,3051,45361.html",
       "date": "2026-06-26T15:30:55Z",
       "source": "Termedia",
       "confirmed_by": 1,
@@ -379,7 +379,7 @@
     },
     {
       "title": "15 Ogólnopolski Kongres Starzenia – Pacjent 65+ w codziennej praktyce lekarskiej - Termedia",
-      "url": "https://www.termedia.pl/Konferencja-15-Ogolnopolski-Kongres-Starzenia--O-KONFERENCJI,3051,45361.html",
+      "url": "https://www.termedia.pl/Konferencja-15-Ogolnopolski-Kongres-Starzenia--KONTAKT,3051,45366.html",
       "date": "2026-06-26T15:30:55Z",
       "source": "Termedia",
       "confirmed_by": 1,
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "Weź pod uwagę malarię u powracającego podróżnika pediatrycznego – klinicysty NEJM",
+      "url": "https://clinician.nejm.org/consider-malaria-pediatric-returning-traveler-CLINjwNA60249",
+      "date": "2026-06-27T16:05:43Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+    },
     {
       "title": "HISTORIA RECENZJI BMJ Open publikuje wszystkie recenzje zaakceptowanych manuskryptów. Recenzenci proszeni są o wypełnienie testu - BMJ Open",
       "url": "https://bmjopen.bmj.com/content/5/4/e007435.reviewer-comments",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Publikacje Światowej Organizacji Zdrowia."
-    },
-    {
-      "title": "Podręcznik dotyczący szczepień przeciwko wirusowi układu oddechowego: monitorowanie i raportowanie szczepień przeciwko grypie sezonowej, COVID-19 i wirusowi syncytialnemu układu oddechowego - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/publications/i/item/9789240118829",
-      "date": "2026-06-26T13:22:10Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Publikacje Światowej Organizacji Zdrowia."
     }
   ],
   "guidelines": [
@@ -942,14 +942,6 @@
       "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
-      "date": "2026-06-24T16:46:28Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
-    },
-    {
       "title": "Przegląd | Seladelpar na wcześniej leczone pierwotne zapalenie dróg żółciowych | Poradnik - strona internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/ta1171",
       "date": "2026-06-24T13:21:13Z",
@@ -964,6 +956,14 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta10413/documents/html-content-7",
+      "date": "2026-06-24T10:36:02Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Strona internetowa poradnika NICE."
     },
     {
       "title": "Niezbędna jest zwiększona świadomość na temat objawów niewydolności serca podczas ciąży i po niej – www.heart.org",
@@ -2012,7 +2012,7 @@
       "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
     },
     {
-      "title": "Interakcje między olejem rybnym i witaminą C z owocami róży - Drugs.com",
+      "title": "Interakcje oleju rybnego i witaminy C z owocami róży – Drugs.com",
       "url": "https://www.drugs.com/drug-interactions/fish-oil-with-vitamin-c-with-rose-hips-1749-3873-238-3833.html?professional=1",
       "date": "2026-06-27T04:10:13Z",
       "source": "Drugs.com",
