@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T10:08:10Z",
+  "last_updated": "2026-06-27T10:08:51Z",
   "poland": [
     {
       "title": "Sprawne rozpoznanie HAE zaczyna się od czujności lekarzy POZ i SOR - Puls Medycyny",
@@ -79,7 +79,7 @@
       "date": "2026-06-26T18:50:29Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Projekt wspierający samorządy w planowaniu działań z zakresu zdrowia publicznego z dofinansowaniem Portal Funduszy Europejskich."
+      "summary": "Bądź na bieżąco z Funduszami Europejskimi."
     },
     {
       "title": "Paryż bez alkoholu - Termedia",
@@ -617,7 +617,7 @@
       "date": "2026-06-26T14:50:56Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Nowe badania wykazały, że otyłość najszybciej rośnie wśród młodszych dorosłych w Anglii, a także wśród osób z grup znajdujących się w niekorzystnej sytuacji. Jak wynika z analizy elektronicznej dokumentacji zdrowotnej ponad 54 milionów dorosłych w Anglii w latach 2019–2025, nierówności we wskaźnikach otyłości pogłębiły się od czasu pandemii Covid-19.1 Ministrowie w Wielkiej Brytanii coraz częściej sięgają po leki odchudzające, takie jak GLP-1, jako metodę leczenia otyłości. Autorzy badania ostrzegli jednak, że poleganie wyłącznie na trwających całe życie terapiach lekowych prawdopodobnie nie będzie wystarczające ani trwałe w walce z kryzysem otyłości."
+      "summary": "Badania pokazują, że otyłość najszybciej rośnie wśród młodych dorosłych."
     },
     {
       "title": "Gruczolak przysadki mózgowej związany z zespołem Schöpfa-Schulza-Passarge'a - BMJ Case Reports",
@@ -834,7 +834,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
@@ -982,14 +982,6 @@
       "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
     },
     {
-      "title": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami eksonu 20 EGFR - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/oral-sunvozertinib-prolongs-pfs-over-chemotherapy-as-first-line-treatment-for-patients-with-advanced-nsclc-with-egfr-exon-20-insertions",
-      "date": "2026-06-23T13:35:28Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami w eksonie 20 EGFR Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
       "date": "2026-06-23T11:13:29Z",
@@ -1076,6 +1068,14 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Wiadomości medyczne i spostrzeżenia z badań Vera Health — najnowsze aktualizacje."
+    },
+    {
+      "title": "ESMO dołącza do Światowego Forum Badań Klinicznych WHO, aby wzmocnić światowe ekosystemy badań onkologicznych — Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/policy-news/esmo-joins-who-global-clinical-trials-forum-to-strengthen-global-oncology-research-ecosystems",
+      "date": "2026-06-20T01:46:22Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "ESMO dołącza do Światowego Forum Badań Klinicznych WHO, aby wzmocnić światowe ekosystemy badań onkologicznych Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "NIL - NIL: sprzeciw wobec rozwiązań ograniczających dostępność szkolenia specjalizacyjnego dla lekarzy z niepełnosprawnościami - NIL",
@@ -1188,7 +1188,7 @@
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-24.html",
       "date": "2026-06-26T15:08:17Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Aktywność grypy sezonowej jest niska."
     },
     {
@@ -1340,7 +1340,7 @@
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1454",
       "date": "2026-06-25T16:13:16Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "S. enterica ser. Czytanie powiązane z suszonym bydłem."
     },
     {
@@ -1738,12 +1738,12 @@
       "summary": "Starsi dorośli są bardziej cyfrowo zaangażowani w badania niż sądzimy, że w stosowanych badaniach klinicznych online."
     },
     {
-      "title": "Długie zakażenie koronawirusem pozostawia wymierny ślad w układzie nerwowym – sugeruje nowe badanie Tilt-Test",
+      "title": "Długie zakażenie wirusem pozostawia wymierny ślad w układzie nerwowym – sugeruje nowe badanie Tilt-Test",
       "url": "https://www.trialsitenews.com/a/long-covid-leaves-a-measurable-mark-on-the-nervous-system-new-tilt-test-study-suggests-e5f2aff9",
       "date": "2026-06-25T20:19:33Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Przejrzyste relacje z badań klinicznych."
+      "summary": "Samuel Minucci Camargo i współpracownicy z Universidade de Mogi das Cruzes w Brazylii podają w Scientific Reports, że osoby z długim przebiegiem Covid-19 wykazują mierzalne nieprawidłowości w funkcjonowaniu autonomicznego układu nerwowego podczas testów pochylni. W tym przekrojowym badaniu obejmującym 61 dorosłych – 39 osób od dawna chorych na Covid-19 i 22 zdrowych osób z grupy kontrolnej – badacze wykorzystali pomiary zmienności rytmu serca (HRV), ciśnienia tętna i ciśnienia krwi, aby sprawdzić, jak układ sercowo-naczyniowy reaguje podczas przechodzenia z pozycji leżącej do stojącej. W porównaniu ze zdrowymi uczestnikami, osoby z długim okresem Covid-19 wykazywały zmienione reakcje autonomiczne na stres ortostatyczny, w tym znaczące różnice w odstępach RR, pomiarach HRV w domenie częstotliwości i powrocie ciśnienia tętna po pozycji stojącej."
     },
     {
       "title": "Wczesna ekspozycja na Covid może kształtować odporność na lata – szczepionka mRNA powiązana ze zmianą klasy IgG4 – Trialsitenews.com",
