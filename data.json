@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T10:09:29Z",
+  "last_updated": "2026-06-27T10:10:18Z",
   "poland": [
     {
       "title": "Sprawne rozpoznanie HAE zaczyna się od czujności lekarzy POZ i SOR - Puls Medycyny",
@@ -48,6 +48,14 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Noc - informacje i artykuły związane z powyższą tematyką. Wszystko na temat medycyny, systemu ochrony zdrowia, zarządzania w służbie zdrowia i in."
+    },
+    {
+      "title": "Glony jako roboty do walki z rakiem pęcherza moczowego - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Glony-jako-roboty-do-walki-z-rakiem-pecherza-moczowego,285993,14.html",
+      "date": "2026-06-27T07:24:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Sterowane magnesami mikroskopijne roboty oparte na glonach mogą usprawnić leczenie raka pęcherza moczowego - informuje pismo „Nature Nanotechnology”."
     },
     {
       "title": "Idą upały powyżej 35 stopni. Dietetyczka wskazuje, co jeść i pić, aby uniknąć odwodnienia - PolitykaZdrowotna.com",
@@ -392,14 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "We Francji odnotowano pierwszy przypadek wirusa Ebola - poinformowało tamtejsze ministerstwo zdrowia. Zakażoną osobą jest lekarz, który wrócił z Demokratycznej Republiki Konga (DRK). Główny Inspektorat Sanitarny wyjaśnia, jakie jest ryzyko dla Polski."
-    },
-    {
-      "title": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/szpital-poludniowy-zaplacil-725-tys-zl-za-przygotowanie-wniosku-do-kpo/",
-      "date": "2026-06-26T12:02:29Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO Alert Medyczny."
     }
   ],
   "world": [
@@ -609,7 +609,7 @@
       "date": "2026-06-26T14:51:04Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Atak krokodyla: Śledztwo po uzyskaniu dostępu do dokumentacji medycznej rannego chłopca 40 pracowników NHS The BMJ."
+      "summary": "Fundusz NHS wszczął dochodzenie po tym, jak aż 40 pracowników uzyskało dostęp do danych medycznych ciężko rannego dziecka w wybiegu dla krokodyli. 18 czerwca 3-letni chłopiec został zabrany do szpitala Addenbrooke’s w Cambridge po tym, jak rzekomo został wrzucony do wybiegu dla krokodyli w zoo Johnsons of Old Hurst niedaleko Huntingdon. Stan dziecka jest obecnie stabilny w …."
     },
     {
       "title": "Badania pokazują, że otyłość najszybciej rośnie u młodych dorosłych – The BMJ",
@@ -633,7 +633,7 @@
       "date": "2026-06-26T14:04:03Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Cele Lesbijki, geje, osoby biseksualne i transpłciowe (LGBT) spotykają się z marginalizacją i dyskryminacją pomimo postępu prawnego, takiego jak w Nepalu. Chociaż Nepal zapewnia konstytucyjną ochronę praw osób LGBT, społeczność nadal boryka się z napiętnowaniem społecznym, molestowaniem i wyzwaniami związanymi ze zdrowiem psychicznym. W Nepalu istnieją ograniczone badania na temat zdrowia psychicznego osób LGBT, przy czym badania koncentrują się głównie na zdrowiu seksualnym."
+      "summary": "Cele Lesbijki, geje, osoby biseksualne i transpłciowe (LGBT) spotykają się z marginalizacją i dyskryminacją pomimo postępu prawnego, na przykład w Nepalu. Choć Nepal zapewnia konstytucyjną ochronę praw osób LGBT, społeczność nadal boryka się z napiętnowaniem społecznym, molestowaniem i wyzwaniami związanymi ze zdrowiem psychicznym. W Nepalu istnieją ograniczone badania na temat zdrowia psychicznego osób LGBT, przy czym badania koncentrują się głównie na zdrowiu seksualnym."
     },
     {
       "title": "Rak w czasie – Globalne Obserwatorium Raka",
@@ -1088,20 +1088,20 @@
   ],
   "epidemiology": [
     {
-      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-27T09:23:51Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
-    },
-    {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-06-27T08:22:27Z",
       "source": "ECDC",
       "confirmed_by": 3,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
+    },
+    {
+      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+      "date": "2026-06-27T06:22:49Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
       "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
@@ -2360,20 +2360,20 @@
   ],
   "daily_top5": [
     {
-      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-27T09:23:51Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
-    },
-    {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-06-27T08:22:27Z",
       "source": "ECDC",
       "confirmed_by": 3,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
+    },
+    {
+      "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221065",
+      "date": "2026-06-27T06:35:38Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
     },
     {
       "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 06, dane na dzień 21 czerwca 2026 r. – WHO | Biuro Regionalne dla Afryki",
