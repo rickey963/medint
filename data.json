@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T01:50:35Z",
+  "last_updated": "2026-06-27T01:51:17Z",
   "poland": [
     {
       "title": "Paryż bez alkoholu - Termedia",
@@ -218,14 +218,6 @@
       "summary": "Donald Tusk krytykuje samorząd lekarski, który chce limitu 78h tygodniowo dla lekarzy. Premier zarzuca ochronę status quo, a nie reformę systemu ochrony zdrowia."
     },
     {
-      "title": "Pierwszy przypadek Eboli w Europie. GIS wyjaśnia, jakie jest zagrożenie dla Polski - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/choroby-zakazne/pierwszy-przypadek-eboli-w-europie-gis-wyjasnia-jakie-jest-zagrozenie-dla-polski/",
-      "date": "2026-06-26T12:27:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "We Francji odnotowano pierwszy przypadek wirusa Ebola - poinformowało tamtejsze ministerstwo zdrowia. Zakażoną osobą jest lekarz, który wrócił z Demokratycznej Republiki Konga (DRK). Główny Inspektorat Sanitarny wyjaśnia, jakie jest ryzyko dla Polski."
-    },
-    {
       "title": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO - Alert Medyczny",
       "url": "https://alertmedyczny.pl/szpital-poludniowy-zaplacil-725-tys-zl-za-przygotowanie-wniosku-do-kpo/",
       "date": "2026-06-26T12:02:29Z",
@@ -330,12 +322,28 @@
       "summary": "Prezydent m.st. Warszawy Rafał Trzaskowski przedstawił radnym informację na temat zasad organizacji pracy i udzielania świadczeń, a także systemu wynagradzania i naboru personelu medycznego w miejskich podmiotach leczniczych, ze szczególnym uwz."
     },
     {
+      "title": "Kraków – ORL o nowych zasadach przetwarzania informacji o wynagrodzeniach lekarzy - Medycyna Praktyczna",
+      "url": "https://prawo.mp.pl/wiadomosci/442517,krakow-orl-o-nowych-zasadach-przetwarzania-informacji-o-wynagrodzeniach-lekarzy",
+      "date": "2026-06-26T06:44:55Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Dla wspólnego bezpieczeństwa potrzebna jest transparentność systemowa, a nie selektywna transparentność jednej grupy zawodowej."
+    },
+    {
       "title": "Wakacje to czas na zabawę - Serwis Zdrowie",
       "url": "https://zdrowie.pap.pl/dzieci/wakacje-czas-na-zabawe",
       "date": "2026-06-26T06:02:21Z",
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Zbliżają się wakacje i wielu rodziców martwi się o to, co będą w tym czasie robiły ich dzieci. Odczuwają obawę, że inni rodzice już zapisali dzieci na obozy, kolonie i kursy, a oni jeszcze nie. Martwią się, że jeżeli niczego nie zorganizują, to dziecko będzie się nudzić i skończy z telefonem albo przed komputerem."
+    },
+    {
+      "title": "UV w natarciu. Jak organizm broni się przed słońcem - Serwis Zdrowie",
+      "url": "https://zdrowie.pap.pl/profilaktyka/uv-w-natarciu-jak-organizm-broni-sie-przed-sloncem",
+      "date": "2026-06-26T05:02:54Z",
+      "source": "Serwis Zdrowie (PAP)",
+      "confirmed_by": 1,
+      "summary": "Słońce na plaży potrafi dawać wrażenie łagodnej przyjemności, ale to coś znacznie bardziej złożonego biologicznie. Gdy skóra człowieka zaczyna „piec” po ekspozycji na promieniowanie UV, w rzeczywistości uruchamia się wielopiętrowa reakcja organizmu – od poziomu cząsteczek DNA w keratynocytach, przez kaskady sygnałów immunologicznych w skórze, aż po reakcje całego organizmu, które mogą przypominać łagodny stan zapalny obejmujący wiele układów."
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -1136,6 +1144,14 @@
       "summary": "Dowiedz się, jak CDC reaguje na obecną epidemię wirusa Ebola."
     },
     {
+      "title": "Transkrypcja – Aktualizacja reakcji CDC na hantawirus – 24.06.26 – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-hantavirus-response-6-24-26.html",
+      "date": "2026-06-24T19:15:52Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Dostępny jest również plik audio."
+    },
+    {
       "title": "„Każda osoba, która ma szyjkę macicy, jest zagrożona”: osoby transpłciowe często nie biorą udziału w badaniach przesiewowych w kierunku raka szyjki macicy - CIDRAP",
       "url": "https://www.cidrap.umn.edu/human-papillomavirus-hpv/everyone-who-has-cervix-risk-transgender-people-often-miss-out-cervical",
       "date": "2026-06-24T18:50:26Z",
@@ -1201,14 +1217,6 @@
     }
   ],
   "clinical_trials": [
-    {
-      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
-      "date": "2026-06-26T22:36:52Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
-    },
     {
       "title": "Wymieniono miliard dokumentacji medycznej. Teraz nadchodzi trudniejsza część. - wersja próbnanews.com",
       "url": "https://www.trialsitenews.com/a/one-billion-health-records-exchanged.-now-comes-the-hard-part.-f1128b70",
@@ -1918,14 +1926,6 @@
       "summary": "To 67. raport sytuacyjny dotyczący wybuchu mpoxu w wielu krajach. Niniejszy raport zawiera szczegółowe informacje na temat globalnej sytuacji epidemiologicznej w zakresie mpox na dzień 31 maja 2026 r. i w Afryce na dzień 14 czerwca 2026 r., wraz z aktualizacjami działań operacyjnych na dzień 17 czerwca 2026 r."
     },
     {
-      "title": "Pierwszy przypadek Eboli w Europie. GIS wyjaśnia, jakie jest zagrożenie dla Polski - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/choroby-zakazne/pierwszy-przypadek-eboli-w-europie-gis-wyjasnia-jakie-jest-zagrozenie-dla-polski/",
-      "date": "2026-06-26T12:27:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "We Francji odnotowano pierwszy przypadek wirusa Ebola - poinformowało tamtejsze ministerstwo zdrowia. Zakażoną osobą jest lekarz, który wrócił z Demokratycznej Republiki Konga (DRK). Główny Inspektorat Sanitarny wyjaśnia, jakie jest ryzyko dla Polski."
-    },
-    {
       "title": "„Gorąca strefa” skłoniła mnie do pracy z pacjentami z ebolą. Teraz mam mieszane uczucia co do książki - statnews.com",
       "url": "https://www.statnews.com/2026/06/26/the-hot-zone-richard-preston-ebola-narrative/",
       "date": "2026-06-26T08:33:09Z",
@@ -1948,6 +1948,14 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki lecznicze stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
+    },
+    {
+      "title": "Afrykańskie CDC potraja kwotę potrzebną do walki z wirusem Ebola – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/ebola/africa-cdc-triples-amount-needed-fight-ebola",
+      "date": "2026-06-25T20:54:22Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Dzisiaj podczas konferencji prasowej dyrektor generalny Afrykańskich Centrów Kontroli i Zapobiegania Chorobom Jean Kaseya, lekarz medycyny, MPH, powiedział, że epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) będzie wymagać środków w wysokości 1,4 miliarda dolarów, aby powstrzymać epidemię, czyli prawie trzykrotnie więcej niż 518 milionów dolarów Africa CDC szacowane na początku miesiąca."
     }
   ],
   "daily_top5": [
