@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T04:49:19Z",
+  "last_updated": "2026-06-27T04:50:09Z",
   "poland": [
     {
       "title": "Paryż bez alkoholu - Termedia",
@@ -16,14 +16,6 @@
       "source": "DOZ.pl",
       "confirmed_by": 1,
       "summary": "Jak zapobiegać otarciom na udach podczas upałów? Jaką odzież i preparaty ochronne do skóry wybrać? Jak leczyć otarcia, które już powstały?"
-    },
-    {
-      "title": "Projekt wspierający samorządy w planowaniu działań z zakresu zdrowia publicznego z dofinansowaniem - Portal Funduszy Europejskich",
-      "url": "https://funduszeeuropejskie.gov.pl/aktualnosci/projekt-wspierajacy-samorzady-w-planowaniu-dzialan-z-zakresu-zdrowia-publicznego-z-dofinansowaniem/",
-      "date": "2026-06-26T18:50:29Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Bądź na bieżąco z Funduszami Europejskimi."
     },
     {
       "title": "Rzecznik Praw Pacjenta zachęca do korzystania z ogólnopolskiego telefonu zaufania - Rynek Zdrowia",
@@ -56,14 +48,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "KE wszczęła dochodzenie wobec Sanofi. Sprawdzi, czy kampania dotycząca szczepionki przeciw grypie naruszyła zasady konkurencji UE."
-    },
-    {
-      "title": "Pilotaż programu #MłodziŚwiadomi - podsumowanie - Gov.pl",
-      "url": "https://www.gov.pl/web/psse-konin/pilotaz-programu-mlodziswiadomi---podsumowanie",
-      "date": "2026-06-26T15:52:14Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Powiatowa Stacja Sanitarno-Epidemiologiczna w Koninie informuje o zakończeniu pilotażowej edycji programu edukacyjnego #MłodziŚwiadomi, skierowanego do uczniów szkół ponadpodstawowych z Konina i powiatu konińskiego."
     },
     {
       "title": "Zdrowe lato w Twoim telefonie z aplikacją mojeIKP - Pacjent gov",
@@ -104,22 +88,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "– Jeśli prezydent Karol Nawrocki podpisze ustawę, pójdziemy do Trybunału Sprawiedliwości Unii Europejskiej i będziemy się domagać uchylenia tej ustawy – zadeklarował prezes NRL Łukasz Jankowski, mówiąc o przepisach, które pozwalają na zbieranie danych o pensjach lekarzy w powiązaniu z PESEL."
-    },
-    {
-      "title": "Wiadomości (strona 144) - Ministerstwo Zdrowia - Gov.pl",
-      "url": "https://www.gov.pl/web/zdrowie/wiadomosci?page=144&size=10",
-      "date": "2026-06-26T14:31:07Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Wiadomości (strona 144) - Ministerstwo Zdrowia Gov.pl."
-    },
-    {
-      "title": "Po męsku o zdrowiu: nigdy nie jest za późno na profilaktykę - Gov.pl",
-      "url": "https://www.gov.pl/web/zdrowie/po-mesku-o-zdrowiu-nigdy-nie-jest-za-pozno-na-profilaktyke",
-      "date": "2026-06-26T14:31:02Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "O świadomości zdrowotnej, profilaktyce i łamaniu zdrowotnych tabu rozmawiali paneliści dyskusji „Po męsku o zdrowiu”, zorganizowanej w ministerstwie zdrowia przy okazji dnia ojca."
     },
     {
       "title": "Dziecko ciągle zmęczone? Neurolog: czasem to pierwszy sygnał poważnej choroby - Rynek Zdrowia",
@@ -306,12 +274,28 @@
       "summary": "Zbliżają się wakacje i wielu rodziców martwi się o to, co będą w tym czasie robiły ich dzieci. Odczuwają obawę, że inni rodzice już zapisali dzieci na obozy, kolonie i kursy, a oni jeszcze nie. Martwią się, że jeżeli niczego nie zorganizują, to dziecko będzie się nudzić i skończy z telefonem albo przed komputerem."
     },
     {
+      "title": "Przepisy dla dzieci – wspólne zdrowe gotowanie - Diety NFZ",
+      "url": "https://diety.nfz.gov.pl/e-booki/przepisy-dla-dzieci-wspolne-gotowanie?highlight=WyJicmFrIiwiYnJha3UiLCJicmFrXHUwMGYzdyIsImJyYWtpZW0iLCJicmFrdWplIiwiYnJha3VqXHUwMTA1Y2UiLCJicmFraSIsInNpdG8iLCJ0byIsInRvbGVyYW5jamEiXQ==",
+      "date": "2026-06-25T19:41:22Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 3,
+      "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
+    },
+    {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
       "url": "https://pacjent.gov.pl/aktualnosc/czym-jest-poczekalnia-w-e-rejestracji",
       "date": "2026-06-25T08:54:46Z",
       "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 1,
       "summary": "To o poczekalnię najczęściej pytają pacjenci, którzy korzystają już z centralnej e-rejestracji. Dowiedz się, jak działa i może Ci pomóc w umówieniu wizyty u lekarza specjalisty."
+    },
+    {
+      "title": "W jaki sposób wygasić członka rodziny? - Diety NFZ",
+      "url": "https://diety.nfz.gov.pl/faq/w-jaki-sposob-wygasic-czlonka-rodziny?highlight=WyJwb3J0YWwiLCJwb3J0YWx1IiwiYmluZ2UiLCJjaG9yZWoiLCJ0byIsInRvbGVyYW5jamEiLCJ0b2xlcm93YW5lIiwidG9waW5hbWJ1ciIsInRvcmJpZSIsInRvd2FyenlzdHdhIl0=",
+      "date": "2026-06-24T13:54:53Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     }
   ],
   "world": [
@@ -372,12 +356,12 @@
       "summary": "Komitet naukowy omówił przyszłość DSM na ostatnim dorocznym spotkaniu APA. Dr Nassir Ghaemi twierdzi, że ważność ma znaczenie i że trudno obronić stanowisko tej komisji."
     },
     {
-      "title": "Reakcja zdrowia publicznego na ospę Clade Ib Mpox z wielokrotnym narażeniem w skupiskach mieszkalnych – New Hampshire, luty 2025 r. – Dowody NEJM",
+      "title": "Reakcja zdrowia publicznego na ospę Clade Ib Mpox z wielokrotnym narażeniem w miejscach zamieszkania w skupiskach – New Hampshire, luty 2025 r. – Dowody NEJM",
       "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDpha2600127?query=recirc_crossjournalmorepubs",
       "date": "2026-06-26T15:07:47Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Reakcja zdrowia publicznego na ospę Clade Ib Mpox z wielokrotnym narażeniem w skupiskach mieszkalnych – New Hampshire, luty 2025 r. Dowody NEJM."
+      "summary": "Reakcja zdrowia publicznego na ospę Clade Ib Mpox z wielokrotnym narażeniem w miejscach zamieszkania w skupiskach – New Hampshire, luty 2025 r. Dowody NEJM."
     },
     {
       "title": "Atak krokodyla: śledztwo po uzyskaniu dostępu do dokumentacji medycznej rannego chłopca 40 pracowników NHS – The BMJ",
@@ -393,7 +377,7 @@
       "date": "2026-06-26T14:50:56Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Nowe badania wykazały, że otyłość najszybciej rośnie wśród młodszych dorosłych w Anglii, a także wśród osób z grup defaworyzowanych. Jak wynika z analizy elektronicznej dokumentacji zdrowotnej ponad 54 milionów dorosłych w Anglii w latach 2019–2025, nierówności we wskaźnikach otyłości pogłębiły się od czasu pandemii Covid-19.1 Ministrowie w Wielkiej Brytanii coraz częściej sięgają po leki odchudzające, takie jak GLP-1, jako metodę leczenia otyłości. Autorzy badania ostrzegli jednak, że poleganie wyłącznie na trwających całe życie terapiach lekowych prawdopodobnie nie będzie wystarczające ani trwałe w walce z kryzysem otyłości."
+      "summary": "Nowe badania wykazały, że otyłość najszybciej rośnie wśród młodszych dorosłych w Anglii, a także wśród osób z grup znajdujących się w niekorzystnej sytuacji. Jak wynika z analizy elektronicznej dokumentacji zdrowotnej ponad 54 milionów dorosłych w Anglii w latach 2019–2025, nierówności we wskaźnikach otyłości pogłębiły się od czasu pandemii Covid-19.1 Ministrowie w Wielkiej Brytanii coraz częściej sięgają po leki odchudzające, takie jak GLP-1, jako metodę leczenia otyłości. Autorzy badania ostrzegli jednak, że poleganie wyłącznie na trwających całe życie terapiach lekowych prawdopodobnie nie będzie wystarczające ani trwałe w walce z kryzysem otyłości."
     },
     {
       "title": "Gruczolak przysadki mózgowej związany z zespołem Schöpfa-Schulza-Passarge'a - BMJ Case Reports",
@@ -417,7 +401,15 @@
       "date": "2026-06-26T11:43:09Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Demokraci chcą zdemaskować otyłego użytkownika narkotyków Eli Lilly, a nowe narzędzie do edycji genomu rodzi pytania etyczne i więcej wiadomości zdrowotnych."
+      "summary": "Demokraci chcą zdemaskować otyłego użytkownika narkotyków Eli Lilly, a nowe narzędzie do edycji genomu rodzi pytania etyczne i więcej wiadomości na temat zdrowia."
+    },
+    {
+      "title": "Przygotowanie do oceny - BMJ",
+      "url": "https://www.bmj.com/careers/article/preparing-for-appraisal",
+      "date": "2026-06-26T11:40:03Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Ocenę często można postrzegać jako czynność polegającą na zaznaczeniu jednego pola wyboru, ale jeśli zostanie przeprowadzona prawidłowo, daje lekarzom cenną okazję do ponownego nastawienia się."
     },
     {
       "title": "Lekarz wart 5 milionów dolarów: cichy wzrost bogactwa lekarzy – Medscape",
@@ -449,7 +441,7 @@
       "date": "2026-06-26T11:18:50Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "David Chan mówi Kathy Oxtoby, że espalier jest formą eskapizmu „Jako chirurg z natury jestem dość niecierpliwy” – mówi David Chan, konsultant chirurga przełykowo-żołądkowego, dyrektor linii usług i honorowy profesor nadzwyczajny na Uniwersytecie w Plymouth od 2019 r. „Chirurdzy zazwyczaj pragną natychmiastowych rezultatów. Ogrodnictwo, a zwłaszcza uprawa drzew owocowych, to ćwiczenie wymagające i rozwijające cierpliwość."
+      "summary": "Trening drzew owocowych: chirurg przełykowo-żołądkowy ćwiczący kreatywność i cierpliwość BMJ."
     },
     {
       "title": "Lecz lub poczekaj – nowe dane na temat bezobjawowej kamicy nerkowej – Medscape",
@@ -596,6 +588,14 @@
       "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
     },
     {
+      "title": "Choroba kociego pazura – lekarz NEJM",
+      "url": "https://clinician.nejm.org/10.1056/CLINicmNA60317",
+      "date": "2026-06-25T12:23:03Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
+    },
+    {
       "title": "Choroba wywołana wirusem Bundibugyo w 2026 r. — reakcje kliniczne i zdrowie publiczne — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2607216",
       "date": "2026-06-25T07:37:58Z",
@@ -610,14 +610,6 @@
       "source": "Cochrane Library",
       "confirmed_by": 1,
       "summary": "Biomarkery z krwi pępowinowej mogą pomóc we wczesnej diagnostyce encefalopatii noworodkowej (NE) i wykrywaniu noworodków, które mogą odnieść korzyść z interwencji. Przeprowadzono przegląd systematyczny i metaanalizę. Przeszukano PubMed, Scopus, OVID MEDLINE, Embase i Cochrane do lipca 2024 r."
-    },
-    {
-      "title": "Długotrwałe leczenie i zaawansowana choroba wywołana wirusem HIV – priorytet zdrowia publicznego – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMp2605547",
-      "date": "2026-06-25T04:25:18Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Długotrwałe leczenie i zaawansowana choroba wywołana wirusem HIV — priorytet zdrowia publicznego The New England Journal of Medicine."
     },
     {
       "title": "Nasze obecne luki w wykrywaniu czerniaka – czasy dermatologii",
@@ -636,7 +628,7 @@
       "summary": "Nowe materiały będą lepiej wspierać osoby prowadzące szkolenia dla autorów Cochrane."
     },
     {
-      "title": "Zapobieganie OHSS w zapłodnieniu in vitro/ICSI: badanie dotyczące kabergoliny w skojarzeniu z leczeniem typu „coastering” zostało wycofane ze względu na krytyczne problemy związane z randomizacją - Vera Health",
+      "title": "Zapobieganie OHSS w zapłodnieniu in vitro/ICSI: badanie dotyczące kabergoliny w skojarzeniu z leczeniem przerywanym zostało wycofane ze względu na krytyczne problemy związane z randomizacją - Vera Health",
       "url": "https://verahealth.ai/it/news/ohss-prevention-in-ivf-icsi-cabergoline-plus-coasting-trial-retracted-over-rando",
       "date": "2026-06-23T07:08:04Z",
       "source": "Cochrane Library",
@@ -758,7 +750,7 @@
       "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
-      "title": "Nowe wytyczne dotyczące opieki nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
+      "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
       "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
       "date": "2026-06-23T15:12:34Z",
       "source": "Wytyczne kliniczne",
@@ -803,7 +795,7 @@
       "date": "2026-06-22T19:53:11Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie bezpośredniej osoby do kierowania opieką może pomóc pacjentom."
+      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
     },
     {
       "title": "Stanowisko Rady ds. Taryfikacji – układ oddechowy - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -835,7 +827,7 @@
       "date": "2026-06-22T09:03:05Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Multidyscyplinarne podejście do śródoperacyjnego oszczędzania krwi zmniejsza hemodylucję, udoskonala technologię bajpasów, wykorzystuje metody autologiczne i stosuje leki przeciwfibrynolityczne."
+      "summary": "Multidyscyplinarne podejście do śródoperacyjnego oszczędzania krwi zmniejsza hemodylucję, ulepsza technologię bajpasów, wykorzystuje metody autologiczne i stosuje leki przeciwfibrynolityczne."
     },
     {
       "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
@@ -843,7 +835,7 @@
       "date": "2026-06-22T00:26:59Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Pacjenci mieszkający na obszarach wiejskich z przewlekłym bólem muszą mierzyć się z długimi podróżami, kosztownymi podróżami i ograniczonym dostępem do aptek w celu skutecznego leczenia bólu."
+      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
     },
     {
       "title": "Angiografia płucna CT a scyntygrafia płuc w przypadku podejrzenia zatorowości płucnej w ciąży: wzorce praktyki środowiskowej i niejasność diagnostyczna - Vera Health",
@@ -854,28 +846,12 @@
       "summary": "Wiadomości medyczne i spostrzeżenia z badań Vera Health — najnowsze aktualizacje."
     },
     {
-      "title": "NIL - NIL: sprzeciw wobec rozwiązań ograniczających dostępność szkolenia specjalizacyjnego dla lekarzy z niepełnosprawnościami - NIL",
-      "url": "https://nil.org.pl/aktualnosci/9299-nil-sprzeciw-wobec-rozwiazan-ograniczajacych-dostepnosc-szkolenia-specjalizacyjnego-dla-lekarzy-z-niepelnosprawnosciami",
-      "date": "2026-06-19T16:15:57Z",
+      "title": "Szkolenie OK COBIK NIL - Strategia rozwoju placówki – planowanie inwestycji i zmian organizacyjnych - NIL",
+      "url": "https://nil.org.pl/eventToPdf/1405",
+      "date": "2026-06-15T11:07:59Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Rzecznicy Praw Lekarza OIL - NIL",
-      "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil/rzecznicy-praw-lekarza-oil",
-      "date": "2026-06-19T14:53:25Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Zgłoszenia do RPL zbiorowych problemów lekarzy - NIL",
-      "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil/zgloszenia-do-rpl-zbiorowych-problemow-lekarzy",
-      "date": "2026-06-19T14:53:24Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
+      "summary": "Szkolenie OK COBIK NIL - Strategia rozwoju placówki – planowanie inwestycji i zmian organizacyjnych NIL."
     }
   ],
   "epidemiology": [
@@ -917,7 +893,7 @@
       "date": "2026-06-26T19:12:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Obecnie potwierdzono dwadzieścia pięć przypadków rosnącej epidemii ślimaków w Nowym Świecie w Teksasie i Nowym Meksyku."
+      "summary": "Obecnie potwierdzono dwadzieścia pięć przypadków rosnącej epidemii ślimakowatych w Nowym Świecie w Teksasie i Nowym Meksyku."
     },
     {
       "title": "Epidemia mpox w wielu krajach, Raport o sytuacji zewnętrznej nr 67 – 26 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
@@ -1021,7 +997,7 @@
       "date": "2026-06-25T19:13:13Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
+      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
     },
     {
       "title": "Powitanie! Wszystko jest w porządku… poza tym, że nadal nie ma kworum ACIP: Stan amerykańskiej polityki dotyczącej szczepionek – CIDRAP",
@@ -1064,7 +1040,7 @@
       "summary": "S. enterica ser. Czytanie powiązane z suszonym bydłem."
     },
     {
-      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Bovismorbificans ST377 związane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Ognisko obejmujące wiele krajów Zakażenia Salmonella Bovismorbificans ST377 związane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/multi-country-outbreak-salmonella-bovismorbificans-st377-infections-linked",
       "date": "2026-06-25T12:01:42Z",
       "source": "ECDC",
@@ -1197,7 +1173,7 @@
       "date": "2026-06-23T20:57:39Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Po tygodniach zamieszania prawnego i śmiertelnych protestów budowa finansowanego przez USA budynku kwarantanny dla wirusa Ebola w pobliżu bazy lotniczej Laikipia w Kenii została oficjalnie wstrzymana przez sekretarza gabinetu zdrowia Kenii Adena Duale."
+      "summary": "Po tygodniach zamieszania prawnego i śmiertelnych protestów budowa finansowanego przez USA budynku kwarantanny wirusa Ebola w pobliżu bazy lotniczej Laikipia w Kenii została oficjalnie wstrzymana przez sekretarza gabinetu zdrowia Kenii Adena Duale."
     },
     {
       "title": "Eksperci przewidują, że zmiany klimatyczne spowodują spadek poziomu Cryptosporidium w niektórych miejscach i gwałtowny wzrost w innych – przewidują eksperci – CIDRAP",
@@ -1213,7 +1189,7 @@
       "date": "2026-06-23T20:17:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "U młodzieży chorej na gruźlicę występuje uporczywa, objawowa przewlekła choroba płuc pomimo wyleczenia bakteriologicznego."
+      "summary": "U nastolatków chorych na gruźlicę występuje uporczywa, objawowa przewlekła choroba płuc pomimo wyleczenia bakteriologicznego."
     }
   ],
   "clinical_trials": [
@@ -1224,6 +1200,14 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07671859 | Studia przypadków dotyczące mikrotabletek PKU ClinicalTrials.gov."
+    },
+    {
+      "title": "Wymieniono miliard dokumentacji medycznej. Teraz nadchodzi trudniejsza część. - wersja próbnanews.com",
+      "url": "https://www.trialsitenews.com/a/one-billion-health-records-exchanged.-now-comes-the-hard-part.-f1128b70",
+      "date": "2026-06-26T20:30:50Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Departament Zdrowia i Opieki Społecznej Stanów Zjednoczonych (HHS) ogłosił, że w ramach ramowej i wspólnej umowy o zaufanej wymianie danych (TEFCA&reg;) liczba wymienionych danych przekroczyła miliard miliardów, co stanowi kamień milowy w długoterminowych wysiłkach kraju na rzecz poprawy udostępniania elektronicznych informacji zdrowotnych. HHS ujawnił także rozszerzony nadzór nad siecią, wzmożenie kontroli zgodności i większe zaangażowanie w dochodzenia w sprawie blokowania informacji i oszustw."
     },
     {
       "title": "Wspierana przez Lilly firma Absci przekazuje 100 milionów dolarów na leczenie leczenia endometriozy i wypadania włosów – Clinical Trials Arena",
@@ -1266,7 +1250,7 @@
       "summary": "Narzędzie AI firmy Clariyon zwiększa przestrzeganie zasad leczenia sepsy w szpitalnym badaniu Clinical Trials Arena."
     },
     {
-      "title": "Pierwszy pacjent, któremu podano dawkę leku RC220 w badaniu HARNESS-1 firmy Racura – Arena Badań Klinicznych",
+      "title": "Pierwszy pacjent, któremu podano dawkę w badaniu RC220 HARNESS-1 firmy Racura – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/first-patient-dosed-racuras-harness-1-trial/",
       "date": "2026-06-26T11:13:10Z",
       "source": "Clinical Trials Arena",
@@ -1279,7 +1263,7 @@
       "date": "2026-06-26T10:55:56Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07669831 | Skuteczność pozaustrojowej fali uderzeniowej w leczeniu zapalenia powięzi plantatora ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07669831 | Skuteczność pozaustrojowej fali uderzeniowej w zapaleniu powięzi plantatora ClinicalTrials.gov."
     },
     {
       "title": "ACT Brief: Uzupełnianie luk w danych sponsora ośrodka, wycofanie dużego badania i zatwierdzenie pierwszej linii przez TNBC – stosowane badania kliniczne online",
@@ -1370,7 +1354,7 @@
       "summary": "BIO 2026: Jak cięcia NIH zagroziły konkurencyjności USA w stosunku do China Clinical Trials Arena."
     },
     {
-      "title": "Ollin Biosciences pozyskuje 330 mln dolarów na finansowanie badań III fazy OLN324 – Clinical Trials Arena",
+      "title": "Ollin Biosciences pozyskuje 330 mln dolarów na sfinansowanie III fazy badań OLN324 – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/ollin-biosciences-330m-fund-oln324-trials/",
       "date": "2026-06-25T10:42:53Z",
       "source": "Clinical Trials Arena",
@@ -1386,12 +1370,12 @@
       "summary": "ACT Brief: Przywództwo DIA w obliczu niepewności, nowe podejście do kontraktów CRO i stosowane badania kliniczne online dotyczące ekspansji firmy Eli Lilly."
     },
     {
-      "title": "Szczegóły badania | NCT07665125 | Elektroakupunktura a akupunktura zatapiająca nitki w chorobie zwyrodnieniowej stawu kolanowego - ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07665125 | Elektroakupunktura kontra akupunktura zatapiana w nici w chorobie zwyrodnieniowej stawu kolanowego - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07665125",
       "date": "2026-06-25T10:09:46Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07665125 | Elektroakupunktura kontra akupunktura zatapiana w nici w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07665125 | Elektroakupunktura a akupunktura zatapialna w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
     },
     {
       "title": "Wielka Brytania dodaje do zakładek sukces Hiszpanii w wyścigu do globalnej konkurencyjności w badaniach klinicznych – Clinical Trials Arena",
@@ -1399,7 +1383,7 @@
       "date": "2026-06-25T09:57:52Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Wielka Brytania zaznacza sukces Hiszpanii w wyścigu do globalnej konkurencyjności badań klinicznych w Clinic Trials Arena."
+      "summary": "Wielka Brytania zapisuje sukces Hiszpanii w wyścigu do globalnej konkurencyjności badań klinicznych Clinical Trials Arena."
     },
     {
       "title": "Szczegóły badania | NCT07664904 | Związek periostyny ​​i ODI, EQ-5D - ClinicalTrials.gov",
@@ -1431,7 +1415,7 @@
       "date": "2026-06-25T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07668713 | Przeszczep kału u HidradenITs suppuratiVA: badanie pilotażowe ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07668713 | Przeszczep kału u HidradeniTIs suppuratiVA: badanie pilotażowe ClinicalTrials.gov."
     },
     {
       "title": "UCLA i CHLA dołączają do Globalnej Sieci Badań nad Autyzmem – Trialsitenews.com",
@@ -1540,6 +1524,30 @@
       "summary": "FDA zatwierdza lek Lumvoa firmy Viridian do leczenia chorób oczu tarczycy, co stanowi konkurencję dla leku Tepezza firmy Amgen o wartości 1,9 miliarda dolarów pod względem skuteczności i obciążenia związanego z infuzją."
     },
     {
+      "title": "USA Naciskają zagranicę, aby płaciły więcej za narkotyki: czy pomoże to Amerykanom? - Wiadomości i spostrzeżenia Citeline",
+      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/pricing-debate/us-pushing-foreign-countries-to-pay-more-for-drugs-will-it-help-americans-JIJH5KCPJJAMPO4D2POSE43NI4/",
+      "date": "2026-06-26T22:15:33Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "Ekonomista zajmujący się zdrowiem stwierdził, że wywieranie presji na zagraniczne kraje, aby płaciły więcej za leki, niekoniecznie obniży ceny leków w USA, ponieważ firmy prawdopodobnie nie będą dobrowolnie obniżać cen na swoim najbardziej dochodowym rynku."
+    },
+    {
+      "title": "Równoważna poprawa w leczeniu egzemy obserwowana w przypadku zespołowej opieki online i opieki osobistej – Drugs.com",
+      "url": "https://www.drugs.com/news/equivalent-improvements-eczema-seen-team-based-online-care-person-care-130481.html",
+      "date": "2026-06-26T21:18:24Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Równoważna poprawa w zakresie egzemy zaobserwowana dzięki zespołowej opiece online, In-Person Care Drugs.com."
+    },
+    {
+      "title": "Ćwiczenia w domu możliwe dla osób, które przebyły chłoniaka, rozpoczynających rehabilitację kardio-onkologiczną - Drugs.com",
+      "url": "https://www.drugs.com/news/home-based-exercise-feasible-lymphoma-survivors-entering-cardio-oncology-rehab-130480.html",
+      "date": "2026-06-26T21:18:24Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Ćwiczenia w domu możliwe dla osób, które przeżyły chłoniaka, rozpoczynających rehabilitację kardio-onkologiczną Drugs.com."
+    },
+    {
       "title": "Kobiety cierpiące na stan przedrzucawkowy mają zwiększone ryzyko późniejszego nadciśnienia i przewlekłej choroby nerek – Drugs.com",
       "url": "https://www.drugs.com/news/women-preeclampsia-have-increased-risk-later-hypertension-ckd-130478.html",
       "date": "2026-06-26T19:47:49Z",
@@ -1548,20 +1556,20 @@
       "summary": "Kobiety cierpiące na stan przedrzucawkowy mają zwiększone ryzyko późniejszego nadciśnienia, CKD Drugs.com."
     },
     {
-      "title": "NIEKTÓRE - NUV7S4KI1I | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
-      "url": "https://precision.fda.gov/uniisearch/srs?search=NUV7S4KI1I",
-      "date": "2026-06-26T16:52:42Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
-    },
-    {
-      "title": "Pieniądze z ugody na opioidy pokrywają koszty usług mających na celu walkę z uzależnieniem na obszarach wiejskich Kentucky – Drugs.com",
-      "url": "https://www.drugs.com/news/opioid-settlement-money-pays-services-battle-rural-kentucky-130473.html",
-      "date": "2026-06-26T16:11:10Z",
+      "title": "Unikalne identyfikatory sygnatur białkowych Choroba zapalna jelit u dzieci – Drugs.com",
+      "url": "https://www.drugs.com/news/unique-protein-signature-ids-pediatric-onset-inflammatory-bowel-130475.html",
+      "date": "2026-06-26T19:18:36Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Pieniądze z ugody na opioidy pokrywają koszty usług mających na celu walkę z uzależnieniem na obszarach wiejskich Kentucky Drugs.com."
+      "summary": "Unikalne identyfikatory sygnatur białkowych Choroba zapalna jelit u dzieci Drugs.com."
+    },
+    {
+      "title": "Badania pokazują, że młodsze pokolenia w USA coraz bardziej boją się dorosłości – Drugs.com",
+      "url": "https://www.drugs.com/news/younger-u-s-generations-increasingly-fear-adulthood-study-says-130472.html",
+      "date": "2026-06-26T16:17:19Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Badanie pokazuje, że młodsze pokolenia w USA coraz bardziej boją się dorosłości – wynika z badania Drugs.com."
     },
     {
       "title": "Nowy dyrektor generalny Alkermes ma plan przechytrzyć Lilly i Takedę – BioPharma Dive",
@@ -1609,7 +1617,7 @@
       "date": "2026-06-26T15:33:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Dyrektor generalna firmy Akeso, Michelle Xia, mówi Endpoints, że analiza danych pacjentów z Chin i krajów zachodnich dotyczących iwonescimabu jest przesadzona, a FDA podejmie decyzję o zatwierdzeniu przez USA do 14 listopada."
+      "summary": "Dyrektor generalna firmy Akeso, Michelle Xia, mówi Endpoints, że analiza danych pacjentów z Chin i krajów zachodnich dotyczących iwonescimabu jest przesadzona, a FDA podejmie decyzję o zatwierdzeniu leku w USA do 14 listopada."
     },
     {
       "title": "Sanofi objęte dochodzeniem antymonopolowym w związku z wszczęciem przez Komisję Europejską formalnego postępowania – Fierce Pharma",
@@ -1617,7 +1625,7 @@
       "date": "2026-06-26T15:20:00Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Dziewięć miesięcy po napadzie na biura Sanofi w unan | Komisja Europejska wszczęła formalne postępowanie w ramach dochodzenia antymonopolowego przeciwko spółce Sanofi. Śledztwo dotyczy marketingu francuskiej firmy farmaceutycznej szczepionki przeciw grypie przeznaczonej dla seniorów z grupy ryzyka, Efluelda."
+      "summary": "Dziewięć miesięcy po napadzie na biura Sanofi w unan | Komisja Europejska wszczęła formalne postępowanie w ramach dochodzenia antymonopolowego przeciwko firmie Sanofi. Śledztwo dotyczy marketingu francuskiej firmy farmaceutycznej szczepionki przeciw grypie przeznaczonej dla seniorów z grupy ryzyka, Efluelda."
     },
     {
       "title": "Europejski CHMP wycofuje zatwierdzenie leku Tavneos w związku z groźbą przesłuchania Amgen FDA - Fierce Pharma",
@@ -1676,7 +1684,7 @@
       "summary": "BioPharma."
     },
     {
-      "title": "Podsumowanie spotkania Komitetu ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP) 22–25 czerwca 2026 r. – Europejska Agencja Leków (EMA)",
+      "title": "Podsumowanie spotkania Komitetu ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP) w dniach 22–25 czerwca 2026 r. – Europejska Agencja Leków (EMA)",
       "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2026",
       "date": "2026-06-26T10:00:00Z",
       "source": "EMA",
@@ -1729,7 +1737,7 @@
       "date": "2026-06-26T05:54:45Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Wycofanie urządzenia klasy 1 z rynku Abiomed 14 Fr x 13 cm Niskoprofilowy zestaw wprowadzający do Impella CP accessdata.fda.gov."
+      "summary": "Wycofanie urządzenia klasy 1 z rynku Abiomed 14 Fr x 13 cm Niskoprofilowy zestaw wprowadzający do aparatu Impella CP accessdata.fda.gov."
     },
     {
       "title": "FDA proponuje przepis, który pomógłby pociągnąć zagranicznych producentów wyrobów tytoniowych do odpowiedzialności i chronić zdrowie publiczne – fda.gov",
@@ -1748,14 +1756,6 @@
       "summary": "Biogen wstrzymuje lub anuluje większość programów badawczo-rozwojowych w ramach wykupu Apellis za 5,6 miliarda dolarów i zwalnia pracowników, koncentrując się na Empaveli i Syfovre."
     },
     {
-      "title": "Oczekuje się, że koszty opieki nad osobami chorymi na demencję w 2026 r. w Stanach Zjednoczonych wyniosą 818 miliardów dolarów - Drugs.com",
-      "url": "https://www.drugs.com/news/2026-costs-dementia-care-expected-818-billion-united-states-130466.html",
-      "date": "2026-06-25T23:46:57Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Oczekuje się, że koszty opieki nad osobami z demencją w 2026 r. wyniosą 818 miliardów dolarów w Stanach Zjednoczonych Drugs.com."
-    },
-    {
       "title": "Fosun Pharma planuje globalne działania wykraczające poza onkologię, napędzane wielozadaniową strategią dotyczącą choroby Alzheimera - Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/fosun-pharma-plots-global-push-beyond-oncology-fueled-multi-asset-alzheimers-strategy",
       "date": "2026-06-25T23:00:00Z",
@@ -1769,23 +1769,7 @@
       "date": "2026-06-25T21:26:59Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Pakiet wydany przez senatora Billa Cassidy'ego jest ważnym „wyznacznikiem” w debacie na temat reform, ale wprowadzenie przepisów w najbliższej przyszłości byłoby wyzwaniem."
-    },
-    {
-      "title": "Historia objawów wstrząśnienia mózgu powiązana ze zwiększonym ryzykiem wystąpienia szumu w uszach – Drugs.com",
-      "url": "https://www.drugs.com/news/concussion-symptom-history-linked-increased-odds-tinnitus-130464.html",
-      "date": "2026-06-25T21:22:41Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Historia objawów wstrząsu mózgu powiązana ze zwiększonym prawdopodobieństwem wystąpienia szumu w uszach Drugs.com."
-    },
-    {
-      "title": "Pacjenci z toczniem mają zwiększone ryzyko PChN i śmiertelności – Drugs.com",
-      "url": "https://www.drugs.com/news/patients-lupus-have-increased-risk-ckd-mortality-130462.html",
-      "date": "2026-06-25T21:22:41Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Pacjenci z toczniem mają zwiększone ryzyko PChN, Mortality Drugs.com."
+      "summary": "Pakiet wydany przez senatora Billa Cassidy'ego jest ważnym „wyznacznikiem” w debacie na temat reform, ale wprowadzenie przepisów w najbliższej perspektywie byłoby wyzwaniem."
     },
     {
       "title": "Boom na GLP-1 osiągnie szczyt w 2026 r., Hamulce IRA rozpoczną się rok później, Projekty CMS - Citeline News & Insights",
@@ -1793,7 +1777,7 @@
       "date": "2026-06-25T18:39:01Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "CMS uwzględnił w swoich prognozach wydatków wcześniejsze porozumienia cenowe KNU, ale nie stworzył modelu szerszych skutków polityki cenowej leków i sztucznej inteligencji prezydenta Trumpa."
+      "summary": "CMS uwzględnił w swoich prognozach wydatków wcześniejsze porozumienia cenowe KNU, ale nie modelował szerszych skutków polityki cenowej leków i sztucznej inteligencji prezydenta Trumpa."
     },
     {
       "title": "Bayer odnosi przełomowe zwycięstwo, gdy Sąd Najwyższy unieważnia wyrok Roundup w sprawie Fierce Pharma",
@@ -1802,14 +1786,6 @@
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "Bayer odniósł kluczowe zwycięstwo w swojej obronie przed procesami sądowymi Roundup jako USA | Bayer odniósł kluczowe zwycięstwo w swojej obronie przed pozwami Roundup, ponieważ Sąd Najwyższy Stanów Zjednoczonych uchylił wyrok ławy przysięgłych z Missouri wart 1,25 miliona dolarów, która stanęła po stronie mężczyzny, który twierdził, że lata ekspozycji na herbicyd spowodowały u niego chłoniaka nieziarniczego."
-    },
-    {
-      "title": "Lista dostępnych zbiorów danych – hfpappexternal.fda.gov",
-      "url": "https://hfpappexternal.fda.gov/scripts/fdcc/index.cfm?id=SODIUMDISTEARYLPHOSPHATE",
-      "date": "2026-06-25T17:18:15Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Lista dostępnych zbiorów danych hfpappexternal.fda.gov."
     },
     {
       "title": "Wiadomości z branży biotechnologicznej i farmaceutycznej - BioPharma Dive",
@@ -1833,7 +1809,7 @@
       "date": "2026-06-25T15:20:04Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Procesy dwu, a nawet potrójne lub poczwórne ponownie powróciły w 2026 r. dzięki nadmiarowi fuzji i przejęć, który ponownie zapełnił portfele inwestorów. Big Pharma zwraca uwagę, że czas ma kluczowe znaczenie, jeśli chce dokonywać przejęć."
+      "summary": "Procesy dwu-, a nawet potrójne lub poczwórne ponownie powróciły w 2026 r. dzięki nadmiarowi fuzji i przejęć, który ponownie zapełnił portfele inwestorów. Big Pharma zwraca uwagę, że czas ma kluczowe znaczenie, jeśli chce dokonywać przejęć."
     },
     {
       "title": "BIO 2026: Inicjatywa IND FDA krokiem w kierunku normalizacji po nieudanym roku - BioSpace",
@@ -1889,7 +1865,7 @@
       "date": "2026-06-24T22:27:28Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Zarys potencjalnej polityki cenowej opublikowany przez Senackich Demokratów ma na celu ustalenie programu na wypadek zmiany składu Izby w wyborach śródokresowych, ale niektóre z nich mogą wygenerować poparcie ponadpartyjne, w tym pomysły zachęcające do „nauki wysokiego ryzyka”. Senaccy Demokraci uwzględnili zachęty dla „wysokiego ri."
+      "summary": "Zarys potencjalnej polityki cenowej opublikowany przez Senackich Demokratów ma na celu ustalenie programu na wypadek zmiany składu Izby w wyborach śródokresowych, ale niektóre z nich mogą wygenerować wsparcie ponadpartyjne, w tym pomysły zachęcające do „nauki wysokiego ryzyka”. Senaccy Demokraci uwzględnili zachęty dla „wysokiego ri."
     }
   ],
   "critical_alerts": [
@@ -1923,7 +1899,7 @@
       "date": "2026-06-26T19:12:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Obecnie potwierdzono dwadzieścia pięć przypadków rosnącej epidemii ślimaków w Nowym Świecie w Teksasie i Nowym Meksyku."
+      "summary": "Obecnie potwierdzono dwadzieścia pięć przypadków rosnącej epidemii ślimakowatych w Nowym Świecie w Teksasie i Nowym Meksyku."
     },
     {
       "title": "Epidemia mpox w wielu krajach, Raport o sytuacji zewnętrznej nr 67 – 26 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
