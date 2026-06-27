@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T07:33:21Z",
+  "last_updated": "2026-06-27T07:34:06Z",
   "poland": [
     {
       "title": "Idą upały powyżej 35 stopni. Dietetyczka wskazuje, co jeść i pić, aby uniknąć odwodnienia - PolitykaZdrowotna.com",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+      "date": "2026-06-27T06:22:49Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
+    },
+    {
       "title": "Pielęgniarka personelu okołoporodowego – praca w Chorley w fundacji NHS Foundation Trust w Lancashire i Południowej Cumbrii (kariera w służbie zdrowia) | 822590 - BMJ",
       "url": "https://www.bmj.com/healthcareers/job/822590/perinatal-staff-nurse/",
       "date": "2026-06-27T05:43:52Z",
@@ -434,14 +442,6 @@
       "source": "The BMJ",
       "confirmed_by": 2,
       "summary": "Wstęp U pacjentów z ostrym zespołem wieńcowym (ACS) poddawanych przezskórnej interwencji wieńcowej (PCI) skrócona podwójna terapia przeciwpłytkowa (DAPT) zmniejsza krwawienie w porównaniu ze standardową DAPT. Jednak optymalny moment odstawienia aspiryny pozostaje niepewny. Naszym celem było porównanie korzyści netto wynikających z odstawienia aspiryny w przypadku krótkiej DAPT, a następnie monoterapii inhibitorem P2Y12 w porównaniu ze standardową DAPT."
-    },
-    {
-      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-27T03:36:53Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
       "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
@@ -633,7 +633,7 @@
       "date": "2026-06-26T11:40:03Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Ocenę często można postrzegać jako czynność polegającą na zaznaczeniu jednego pola wyboru, ale jeśli zostanie przeprowadzona prawidłowo, daje lekarzom cenną okazję do ponownego nastawienia się."
+      "summary": "Ocenę często można postrzegać jako czynność polegającą na zaznaczeniu jednego pola wyboru, ale jeśli zostanie przeprowadzona prawidłowo, daje lekarzom cenną okazję do zresetowania się."
     },
     {
       "title": "Lekarz wart 5 milionów dolarów: cichy wzrost bogactwa lekarzy – Medscape",
@@ -866,7 +866,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
       "date": "2026-06-25T17:03:11Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
     },
     {
@@ -890,7 +890,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-06-25T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
     },
     {
@@ -958,6 +958,14 @@
       "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
+      "title": "Nowe wytyczne dotyczące opieki nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
+      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
+      "date": "2026-06-23T15:12:34Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
+    },
+    {
       "title": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami eksonu 20 EGFR - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/oral-sunvozertinib-prolongs-pfs-over-chemotherapy-as-first-line-treatment-for-patients-with-advanced-nsclc-with-egfr-exon-20-insertions",
       "date": "2026-06-23T13:35:28Z",
@@ -998,6 +1006,14 @@
       "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
+      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
+      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
+      "date": "2026-06-22T10:42:34Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
+    },
+    {
       "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
       "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
       "date": "2026-06-22T09:05:58Z",
@@ -1012,6 +1028,22 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Multidyscyplinarne podejście do śródoperacyjnego oszczędzania krwi zmniejsza hemodylucję, udoskonala technologię bajpasów, wykorzystuje metody autologiczne i stosuje leki przeciwfibrynolityczne."
+    },
+    {
+      "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
+      "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
+      "date": "2026-06-22T00:26:59Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Pacjenci mieszkający na obszarach wiejskich z przewlekłym bólem muszą mierzyć się z długimi podróżami, kosztownymi podróżami i ograniczonym dostępem do aptek w celu skutecznego leczenia bólu."
+    },
+    {
+      "title": "Angiografia płucna CT a scyntygrafia płuc w przypadku podejrzenia zatorowości płucnej w ciąży: wzorce praktyki środowiskowej i niejasność diagnostyczna - Vera Health",
+      "url": "https://verahealth.ai/fr/news/373dfaeb",
+      "date": "2026-06-21T07:52:55Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Wiadomości medyczne i spostrzeżenia z badań Vera Health — najnowsze aktualizacje."
     },
     {
       "title": "ESMO dołącza do Światowego Forum Badań Klinicznych WHO, aby wzmocnić światowe ekosystemy badań onkologicznych — Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1044,45 +1076,13 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Biomarkery krwi na podstawie współczynnika osocza w chorobie Alzheimera: zgodność z wytycznymi praktyki klinicznej - Neurology Today",
-      "url": "https://neurologytoday.aan.com/doi/full/10.1097/01.wnt.0001205204.12195.fd",
-      "date": "2026-06-18T06:39:12Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Biomarkery krwi oparte na współczynniku osocza w chorobie Alzheimera: dostosowanie do wytycznych praktyki klinicznej Neurologia dzisiaj."
-    },
-    {
-      "title": "Zalecenia praktyki klinicznej dotyczące diagnostyki i leczenia cystynozy nefropatycznej - Natura",
-      "url": "https://www.nature.com/articles/s41581-026-01089-7",
-      "date": "2026-06-15T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "W niniejszym Konsensusie autorzy przedstawiają zalecenia dotyczące praktyki klinicznej dotyczące diagnostyki i długoterminowej opieki nad osobami chorymi na cystynozę. Oprócz powikłań nerek związanych z cystynozą, zawierają one również zalecenia dotyczące postępowania w przypadku objawów pozanerkowych, w tym chorób kości, układu pokarmowego, endokrynologicznego i neurologicznego."
-    },
-    {
-      "title": "Towarzystwo Endokrynologiczne wydaje pierwsze wytyczne dotyczące przedwczesnego dojrzewania centralnego – MedPage Today",
-      "url": "https://www.medpagetoday.com/meetingcoverage/endo/121737",
-      "date": "2026-06-13T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "„Dzieci wchodzą w okres dojrzewania wcześniej niż w poprzednich dziesięcioleciach” – mówi współprzewodnicząca panelu ds. wytycznych."
-    },
-    {
-      "title": "Nie wszystkie dzieci we wczesnym okresie dojrzewania wymagają takiego samego poziomu badań i leczenia – Towarzystwo Endokrynologiczne",
-      "url": "https://www.endocrine.org/news-and-advocacy/news-room/2026/not-all-children-with-early-puberty-need-the-same-level-of-testing-or-treatment",
-      "date": "2026-06-13T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Zgodnie z opublikowanymi dzisiaj nowymi wytycznymi postępowania klinicznego Towarzystwa Endokrynologicznego niektóre podgrupy dzieci z przedwczesnym dojrzewaniem, np. starsze dziewczynki z wolno postępującym okresem dojrzewania, mogą nie wymagać takiego samego poziomu badań i leczenia."
     }
   ],
   "epidemiology": [
     {
       "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-27T06:22:49Z",
+      "date": "2026-06-27T03:36:53Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
@@ -2180,6 +2180,14 @@
       "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
     },
     {
+      "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220743",
+      "date": "2026-06-26T06:37:12Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
+    },
+    {
       "title": "Kladrybina: zastosowania, dawkowanie, skutki uboczne, ostrzeżenia - Drugs.com",
       "url": "https://www.drugs.com/cladribine.html",
       "date": "2026-06-26T06:09:34Z",
@@ -2274,14 +2282,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Historia objawów wstrząsu mózgu powiązana ze zwiększonym prawdopodobieństwem wystąpienia szumu w uszach Drugs.com."
-    },
-    {
-      "title": "Pacjenci z toczniem mają zwiększone ryzyko PChN i śmiertelności – Drugs.com",
-      "url": "https://www.drugs.com/news/patients-lupus-have-increased-risk-ckd-mortality-130462.html",
-      "date": "2026-06-25T21:22:41Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Pacjenci z toczniem mają zwiększone ryzyko PChN, Mortality Drugs.com."
     }
   ],
   "critical_alerts": [
