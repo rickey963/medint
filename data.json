@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T10:44:04Z",
+  "last_updated": "2026-06-27T10:44:48Z",
   "poland": [
     {
       "title": "Międzynarodowy Dzień Przeciwdziałania Narkomanii. RPP zachęca do korzystania z bezpłatnego telefonu wsparcia - PolitykaZdrowotna.com",
@@ -184,6 +184,14 @@
       "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 1,
       "summary": "Ostatni dzwonek już wybrzmiał! Tornistry lądują w kącie, a przed nami upragnione lato i zasłużony urlop. To idealny moment, by wziąć głęboki oddech, spędzić czas z bliskimi i w końcu zadbać o siebie."
+    },
+    {
+      "title": "Serce w upał może zacząć \"wysiadać\" szybciej, niż myślisz. Te sygnały są alarmowe - Medonet",
+      "url": "https://www.medonet.pl/narodowy-test-zdrowia-polakow/co-dolega-polakom/tak-wyglada-ciezkie-odwodnienie-lekarz-o-objawach-karetka-jak-najszybciej/c0z3w32",
+      "date": "2026-06-26T15:48:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "W upaÅ organizm moÅ¼e zaczÄ Ä wysiadaÄ w tempie, ktÃ³rego siÄ nie spodziewamy. MoÅ¼e skoÅczyÄ siÄ zawaÅem, udarem niedokrwiennym, zakrzepicÄ . Wszystko dlatego, Å¼e za maÅo pijemy, a wtedy krew staje siÄ gÄstsza."
     },
     {
       "title": "15 Ogólnopolski Kongres Starzenia – Pacjent 65+ w codziennej praktyce lekarskiej - FAQ | Konferencja stacjonarna - Termedia",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "19-latek, który nożem zaatakował personel i pacjentów Wojewódzkiego Szpitala Specjalistycznego w Jastrzębiu-Zdroju, odmówił złożenia wyjaśnień i nie przyznał się do winy – poinformował w piątek prok. Jacek Rzeszowski."
-    },
-    {
-      "title": "Nowe techniki genomowe mogą pomóc w walce ze zmianami klimatu - Aktualności - Genetyka - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/genetyka/aktualnosci/442579,nowe-techniki-genomowe-moga-pomoc-w-walce-ze-zmianami-klimatu",
-      "date": "2026-06-26T12:37:48Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Debata o GMO od lat koncentruje się na społecznych obawach. Tymczasem – jak podkreśla prof. Paweł Golik z Uniwersytetu Warszawskiego – jednym z najważniejszych wyzwań stają się dziś zmiany klimatu, a nowe techniki genomowe mogą pomóc w�."
     }
   ],
   "world": [
@@ -625,7 +625,7 @@
       "date": "2026-06-26T15:07:47Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Reakcja zdrowia publicznego na ospę Clade Ib Mpox z wielokrotnym narażeniem w miejscach zamieszkania w skupiskach – New Hampshire, luty 2025 r. Dowody NEJM."
+      "summary": "Reakcja zdrowia publicznego na ospę Clade Ib Mpox z wielokrotnym narażeniem w skupiskach mieszkalnych – New Hampshire, luty 2025 r. Dowód NEJM."
     },
     {
       "title": "Atak krokodyla: śledztwo po uzyskaniu dostępu do dokumentacji medycznej rannego chłopca 40 pracowników NHS – The BMJ",
@@ -737,7 +737,7 @@
       "date": "2026-06-26T11:43:09Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Demokraci chcą zdemaskować otyłego użytkownika narkotyków Eli Lilly, a nowe narzędzie do edycji genomu rodzi pytania etyczne i więcej wiadomości na temat zdrowia."
+      "summary": "Demokraci chcą zdemaskować otyłego użytkownika narkotyków Eli Lilly, a nowe narzędzie do edycji genomu rodzi pytania etyczne i więcej wiadomości zdrowotnych."
     },
     {
       "title": "Przygotowanie do oceny - BMJ",
@@ -806,12 +806,12 @@
   ],
   "guidelines": [
     {
-      "title": "Secukinumab w leczeniu umiarkowanego do ciężkiego ropnego zapalenia gruczołów potowych u osób w wieku od 12 do 17 lat – witryna internetowa NICE",
+      "title": "Secukinumab w leczeniu ropnego zapalenia powiek i powiek o nasileniu umiarkowanym do ciężkiego u osób w wieku od 12 do 17 lat – witryna internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/prioritisation/gid-ta12044",
       "date": "2026-06-27T07:09:20Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Rada Priorytetowa NICE zebrała się 10 czerwca 2026 r. i stwierdziła, że ​​ocena tego produktu nie byłaby odpowiednia."
+      "summary": "Rada Priorytetowa NICE zebrała się 10 czerwca 2026 r. i stwierdziła, że ​​ocena tego produktu nie byłaby właściwa."
     },
     {
       "title": "ESC 365 - ESC 365",
@@ -834,7 +834,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
@@ -1232,7 +1232,7 @@
       "summary": "Szkody spowodowane alkoholem są przyczyną milionów zgonów każdego roku i pozostają główną, możliwą do uniknięcia przeszkodą dla zdrowia, równości i zrównoważonego rozwoju."
     },
     {
-      "title": "Wirus Ebola i Bundibugyo — często zadawane pytania — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Często zadawane pytania dotyczące wirusa Ebola i Bundibugyo — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/faq/index.html",
       "date": "2026-06-26T04:44:21Z",
       "source": "CDC Outbreaks",
@@ -1253,7 +1253,7 @@
       "date": "2026-06-26T04:16:32Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki leczenia stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
+      "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki lecznicze stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
     },
     {
       "title": "Niespójne strategie łagodzenia skutków Batrachochytrium salamandrivorans, Europa — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1293,7 +1293,7 @@
       "date": "2026-06-25T19:13:13Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
+      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
     },
     {
       "title": "Powitanie! Wszystko jest w porządku… poza tym, że nadal nie ma kworum ACIP: Stan amerykańskiej polityki dotyczącej szczepionek – CIDRAP",
@@ -1336,7 +1336,7 @@
       "summary": "S. enterica ser. Czytanie powiązane z suszonym bydłem."
     },
     {
-      "title": "Ognisko obejmujące wiele krajów Zakażenia Salmonella Bovismorbificans ST377 związane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Bovismorbificans ST377 związane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/multi-country-outbreak-salmonella-bovismorbificans-st377-infections-linked",
       "date": "2026-06-25T12:01:42Z",
       "source": "ECDC",
@@ -1384,14 +1384,6 @@
       "summary": "Można już zarejestrować się na tegoroczną Europejską Konferencję Naukową na temat Stosowanej Epidemiologii Chorób Zakaźnych (ESCAIDE), która odbędzie się w Sztokholmie oraz online w dniach 18–20 listopada 2026 r. Rejestracja jest bezpłatna."
     },
     {
-      "title": "Pytania i odpowiedzi dotyczące obecnej epidemii wirusa Ebola – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/topics-z/ebola-disease/surveillance-and-updates/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Podstawowe fakty dotyczące obecnej epidemii choroby Ebola w Demokratycznej Republice Konga i Ugandzie."
-    },
-    {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-06-25T07:00:00Z",
@@ -1414,6 +1406,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Na Haiti wybuchła epidemia błonicy."
+    },
+    {
+      "title": "Pytania i odpowiedzi dotyczące obecnej epidemii wirusa Ebola – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/topics-z/ebola-disease/surveillance-and-updates/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Podstawowe fakty dotyczące obecnej epidemii choroby Ebola w Demokratycznej Republice Konga i Ugandzie."
     },
     {
       "title": "Żółta febra – Globalny – Światowa Organizacja Zdrowia (WHO)",
@@ -1551,7 +1551,7 @@
       "date": "2026-06-26T21:19:17Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Po niepowodzeniach w początkowym programie leków na otyłość firma Pfizer podejmuje najbardziej ambitne działania w swojej historii. Dyrektor generalny Albert Bourla ogłosił, że firma podała dawki pierwszym uczestnikom VESPER-6, badania fazy 3 oceniającego eksperymentalną terapię GLP-1 raz w miesiącu, jednocześnie rozpoczynając SOLIS-1, badanie fazy 2b łączące tego samego kandydata na GLP-1 z oddzielnym badawczym ultradługo działającym analogiem amyliny. Wszystkie badania podkreślają determinację firmy Pfizer w dążeniu do odzyskania dynamiki na jednym z najszybciej rozwijających się i najbardziej konkurencyjnych rynków przemysłu farmaceutycznego."
+      "summary": "Po niepowodzeniach w swoim początkowym programie leków na otyłość firma Pfizer podejmuje najbardziej ambitne działania w swojej historii. Dyrektor generalny Albert Bourla ogłosił, że firma podała dawki pierwszym uczestnikom VESPER-6, badania fazy 3 oceniającego eksperymentalną terapię GLP-1 raz w miesiącu, jednocześnie rozpoczynając SOLIS-1, badanie fazy 2b łączące tego samego kandydata na GLP-1 z oddzielnym badawczym ultradługo działającym analogiem amyliny. Wszystkie badania podkreślają determinację firmy Pfizer w dążeniu do odzyskania dynamiki na jednym z najszybciej rozwijających się i najbardziej konkurencyjnych rynków przemysłu farmaceutycznego."
     },
     {
       "title": "Wymieniono miliard dokumentacji medycznej. Teraz nadchodzi trudniejsza część. - wersja próbnanews.com",
@@ -1610,7 +1610,7 @@
       "summary": "Narzędzie AI firmy Clariyon zwiększa przestrzeganie zasad leczenia sepsy w szpitalnym badaniu Clinical Trials Arena."
     },
     {
-      "title": "Pierwszy pacjent, któremu podano dawkę w badaniu RC220 HARNESS-1 firmy Racura – Arena Badań Klinicznych",
+      "title": "Pierwszy pacjent, któremu podano dawkę leku RC220 w badaniu HARNESS-1 firmy Racura – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/first-patient-dosed-racuras-harness-1-trial/",
       "date": "2026-06-26T11:13:10Z",
       "source": "Clinical Trials Arena",
@@ -1690,7 +1690,7 @@
       "summary": "Szczegóły badania | NCT07669103 | Prospektywna baza danych dotycząca chirurgii raka kości ClinicalTrials.gov."
     },
     {
-      "title": "Badanie kliniczne dotyczące algorytmu optymalizacji odstępu przewodzenia elektrokardiogramu z pojedynczym odprowadzeniem – ClinicalTrials.gov",
+      "title": "Badanie kliniczne dotyczące algorytmu optymalizacji odstępu przewodzenia elektrokardiogramu z jednym odprowadzeniem – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07667465",
       "date": "2026-06-26T09:30:20Z",
       "source": "ClinicalTrials.gov",
@@ -1738,7 +1738,7 @@
       "summary": "Samuel Minucci Camargo i współpracownicy z Universidade de Mogi das Cruzes w Brazylii podają w Scientific Reports, że osoby z długim przebiegiem Covid-19 wykazują mierzalne nieprawidłowości w funkcjonowaniu autonomicznego układu nerwowego podczas testów pochylni. W tym przekrojowym badaniu obejmującym 61 dorosłych – 39 osób od dawna chorych na Covid-19 i 22 zdrowych osób z grupy kontrolnej – badacze wykorzystali pomiary zmienności rytmu serca (HRV), ciśnienia tętna i ciśnienia krwi, aby sprawdzić, jak układ sercowo-naczyniowy reaguje podczas przechodzenia z pozycji leżącej do stojącej. W porównaniu ze zdrowymi uczestnikami, osoby z długim okresem Covid-19 wykazywały zmienione reakcje autonomiczne na stres ortostatyczny, w tym znaczące różnice w odstępach RR, pomiarach HRV w domenie częstotliwości i powrocie ciśnienia tętna po pozycji stojącej."
     },
     {
-      "title": "Wczesna ekspozycja na Covid może kształtować odporność na lata – szczepionka mRNA powiązana ze zmianą klasy IgG4 – Trialsitenews.com",
+      "title": "Wczesna ekspozycja na Covid może kształtować odporność na lata – szczepionka mRNA powiązana z przełączaniem klas IgG4",
       "url": "https://www.trialsitenews.com/a/early-covid-exposure-may-shape-immunity-for-yearsmrna-vax-linked-to-igg4-class-switching-2182b951",
       "date": "2026-06-25T20:18:13Z",
       "source": "TrialSite News",
@@ -1847,7 +1847,7 @@
       "date": "2026-06-25T09:57:52Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Wielka Brytania zapisuje sukces Hiszpanii w wyścigu do globalnej konkurencyjności badań klinicznych Clinical Trials Arena."
+      "summary": "Wielka Brytania zaznacza sukces Hiszpanii w wyścigu do globalnej konkurencyjności badań klinicznych w Clinic Trials Arena."
     },
     {
       "title": "Szczegóły badania | NCT07664904 | Związek periostyny ​​i ODI, EQ-5D - ClinicalTrials.gov",
@@ -1909,14 +1909,6 @@
     },
     {
       "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221066",
-      "date": "2026-06-27T06:35:37Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
-    },
-    {
-      "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221064",
       "date": "2026-06-27T06:35:37Z",
       "source": "FDA Drug News",
@@ -1926,6 +1918,14 @@
     {
       "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221062",
+      "date": "2026-06-27T06:35:37Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
+    },
+    {
+      "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221066",
       "date": "2026-06-27T06:35:37Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
@@ -1953,7 +1953,7 @@
       "date": "2026-06-27T05:09:27Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Leki w Unii Europejskiej (UE) są dopuszczane do obrotu na podstawie tego, że korzyści z ich stosowania przewyższają ryzyko dla docelowej populacji. Jednakże nie wszystkie potencjalne lub rzeczywiste działania niepożądane zostały zidentyfikowane w momencie wydawania pierwszego pozwolenia na dopuszczenie do obrotu. Celem zarządzania ryzykiem jest zajęcie się niepewnością w profilu bezpieczeństwa na różnych etapach cyklu życia produktu i odpowiednie planowanie."
+      "summary": "Leki w Unii Europejskiej (UE) są dopuszczone do obrotu na podstawie tego, że korzyści z ich stosowania przewyższają ryzyko dla docelowej populacji. Jednakże nie wszystkie potencjalne lub rzeczywiste działania niepożądane zostały zidentyfikowane w momencie wydawania pozwolenia na dopuszczenie do obrotu. Celem zarządzania ryzykiem jest zajęcie się niepewnością w profilu bezpieczeństwa na różnych etapach cyklu życia produktu i odpowiednie planowanie."
     },
     {
       "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
@@ -1977,7 +1977,7 @@
       "date": "2026-06-26T22:52:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "FDA zatwierdza lek Lumvoa firmy Viridian do leczenia chorób oczu tarczycy, co stanowi konkurencję dla leku Tepezza firmy Amgen o wartości 1,9 miliarda dolarów pod względem skuteczności i obciążenia związanego z infuzją."
+      "summary": "FDA zatwierdza lek Lumvoa firmy Viridian do stosowania w chorobach tarczycy i oczu, co stanowi konkurencję dla leku Tepezza firmy Amgen o wartości 1,9 miliarda dolarów pod względem skuteczności i obciążenia związanego z infuzją."
     },
     {
       "title": "La Ceiba Foods Latin Market Inc. wycofuje produkty z twarogu ze względu na możliwe ryzyko dla zdrowia - fda.gov",
@@ -1996,7 +1996,7 @@
       "summary": "Ekonomista zajmujący się zdrowiem stwierdził, że wywieranie presji na zagraniczne kraje, aby płaciły więcej za leki, niekoniecznie obniży ceny leków w USA, ponieważ firmy prawdopodobnie nie będą dobrowolnie obniżać cen na swoim najbardziej dochodowym rynku."
     },
     {
-      "title": "Równoważna poprawa w leczeniu egzemy obserwowana w przypadku zespołowej opieki online i opieki osobistej – Drugs.com",
+      "title": "Równoważna poprawa w zakresie egzemy obserwowana w przypadku zespołowej opieki online i opieki osobistej – Drugs.com",
       "url": "https://www.drugs.com/news/equivalent-improvements-eczema-seen-team-based-online-care-person-care-130481.html",
       "date": "2026-06-26T21:18:24Z",
       "source": "Drugs.com",
@@ -2004,7 +2004,7 @@
       "summary": "Równoważna poprawa w zakresie egzemy zaobserwowana dzięki zespołowej opiece online, In-Person Care Drugs.com."
     },
     {
-      "title": "Ćwiczenia w domu możliwe dla osób, które przebyły chłoniaka, rozpoczynających rehabilitację kardio-onkologiczną - Drugs.com",
+      "title": "Ćwiczenia w domu możliwe dla osób, które przeżyły chłoniaka, rozpoczynających rehabilitację kardio-onkologiczną - Drugs.com",
       "url": "https://www.drugs.com/news/home-based-exercise-feasible-lymphoma-survivors-entering-cardio-oncology-rehab-130480.html",
       "date": "2026-06-26T21:18:24Z",
       "source": "Drugs.com",
@@ -2105,7 +2105,7 @@
       "date": "2026-06-26T15:33:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Dyrektor generalna firmy Akeso, Michelle Xia, mówi Endpoints, że analiza danych pacjentów z Chin i krajów zachodnich dotyczących iwonescimabu jest przesadzona, a FDA podejmie decyzję o zatwierdzeniu leku w USA do 14 listopada."
+      "summary": "Dyrektor generalna firmy Akeso, Michelle Xia, mówi Endpoints, że analiza danych pacjentów z Chin i krajów zachodnich dotyczących iwonescimabu jest przesadzona, a FDA podejmie decyzję o zatwierdzeniu przez USA do 14 listopada."
     },
     {
       "title": "Sanofi objęte dochodzeniem antymonopolowym w związku z wszczęciem przez Komisję Europejską formalnego postępowania – Fierce Pharma",
@@ -2113,7 +2113,7 @@
       "date": "2026-06-26T15:20:00Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Dziewięć miesięcy po napadzie na biura Sanofi w unan | Komisja Europejska wszczęła formalne postępowanie w ramach dochodzenia antymonopolowego przeciwko firmie Sanofi. Śledztwo dotyczy marketingu francuskiej firmy farmaceutycznej szczepionki przeciw grypie przeznaczonej dla seniorów z grupy ryzyka, Efluelda."
+      "summary": "Dziewięć miesięcy po napadzie na biura Sanofi w unan | Komisja Europejska wszczęła formalne postępowanie w ramach dochodzenia antymonopolowego przeciwko spółce Sanofi. Śledztwo dotyczy marketingu francuskiej firmy farmaceutycznej szczepionki przeciw grypie przeznaczonej dla seniorów z grupy ryzyka, Efluelda."
     },
     {
       "title": "Europejski CHMP wycofuje zatwierdzenie leku Tavneos w związku z groźbą przesłuchania Amgen FDA - Fierce Pharma",
@@ -2212,20 +2212,20 @@
       "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
     },
     {
-      "title": "Wycofanie urządzenia klasy 2 Intera Oncology – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220721",
-      "date": "2026-06-26T06:37:13Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Wycofanie urządzenia klasy 2 Intera Oncology accessdata.fda.gov."
-    },
-    {
       "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220753",
       "date": "2026-06-26T06:37:13Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
+    },
+    {
+      "title": "Wycofanie urządzenia klasy 2 Intera Oncology – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220721",
+      "date": "2026-06-26T06:37:13Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 2 Intera Oncology accessdata.fda.gov."
     },
     {
       "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
