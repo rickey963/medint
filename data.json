@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T04:02:43Z",
+  "last_updated": "2026-06-27T04:03:23Z",
   "poland": [
     {
       "title": "Paryż bez alkoholu - Termedia",
@@ -47,7 +47,7 @@
       "date": "2026-06-26T15:53:04Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "KE wszczęła dochodzenie wobec Sanofi. Chodzi o promocję szczepionki przeciw grypie Alert Medyczny."
+      "summary": "KE wszczęła dochodzenie wobec Sanofi. Sprawdzi, czy kampania dotycząca szczepionki przeciw grypie naruszyła zasady konkurencji UE."
     },
     {
       "title": "Pilotaż programu #MłodziŚwiadomi - podsumowanie - Gov.pl",
@@ -151,7 +151,7 @@
       "date": "2026-06-26T13:46:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Limit godzin pracy dla wszystkich lekarzy? Ministra zdrowia spotka się z samorządem 9 lipca Alert Medyczny."
+      "summary": "MZ analizuje limit czasu pracy wszystkich lekarzy. Zmiany mają być odpowiedzią na wyniki kontroli NIK i aferę Szpitala Południowego."
     },
     {
       "title": "Szpital Wojewódzki w Koszalinie przejmie szpital gruźliczy. Sejmik zdecydował o fuzji placówek - PolitykaZdrowotna.com",
@@ -175,7 +175,7 @@
       "date": "2026-06-26T13:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rzecznik Praw Lekarzy NIL chce pilnego posiedzenia po ataku nożownika w szpitalu Alert Medyczny."
+      "summary": "Rzecznik Praw Lekarzy NIL apeluje o pilne działania po ataku nożownika w szpitalu. Proponuje zmiany prawa i rejestr agresji wobec medyków."
     },
     {
       "title": "19-latek zaatakował personel i pacjentów w szpitalu w Jastrzębiu-Zdroju - Remedium.md",
@@ -199,7 +199,7 @@
       "date": "2026-06-26T12:02:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO Alert Medyczny."
+      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO. „Gazeta Wyborcza” opisuje kulisy przetargu i stanowiska stron."
     },
     {
       "title": "400 europejskich miast na liście. Rekord stresu termicznego - Rynek Zdrowia",
@@ -290,14 +290,6 @@
       "summary": "Odpowiednie nawodnienie jest kluczowe dla prawidłowego funkcjonowania organizmu. Sprawdź, jak skutecznie nawodnić organizm, dlaczego picie wody ma znaczenie i jak zadbać o codzienną równowagę płynów. Dowiedz się więcej na DOZ.pl."
     },
     {
-      "title": "Prezydent Warszawy o Szpitalu Południowym - Z kraju - Kurier - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/kurier/442520,prezydent-warszawy-o-szpitalu-poludniowym",
-      "date": "2026-06-26T06:44:55Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Prezydent m.st. Warszawy Rafał Trzaskowski przedstawił radnym informację na temat zasad organizacji pracy i udzielania świadczeń, a także systemu wynagradzania i naboru personelu medycznego w miejskich podmiotach leczniczych, ze szczególnym uwz."
-    },
-    {
       "title": "Wakacje to czas na zabawę - Serwis Zdrowie",
       "url": "https://zdrowie.pap.pl/dzieci/wakacje-czas-na-zabawe",
       "date": "2026-06-26T06:02:21Z",
@@ -315,14 +307,6 @@
     }
   ],
   "world": [
-    {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-06-27T02:08:55Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
-    },
     {
       "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
@@ -468,6 +452,14 @@
       "summary": "Aktywne leczenie bezobjawowych kamieni nerkowych wiąże się z mniejszym prawdopodobieństwem późniejszego nawrotu i koniecznością operacji."
     },
     {
+      "title": "Nowe badania przesiewowe w kierunku raka płuc w Australii cieszą się dużym zainteresowaniem – Medscape",
+      "url": "https://www.medscape.com/viewarticle/australias-new-lung-cancer-screening-enjoys-high-uptake-2026a1000lsh",
+      "date": "2026-06-26T10:57:55Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Pierwszy rok australijskiego programu badań przesiewowych w kierunku raka płuc wydaje się sukcesem i cieszy się dużym zainteresowaniem wśród docelowej populacji, czyli nałogowych palaczy."
+    },
+    {
       "title": "Czystsze powietrze, zdrowsze życie: bardziej rygorystyczne przepisy dotyczące zanieczyszczeń powietrza na zachodnim Pacyfiku mogą uratować życie 1,1 miliona osób – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/palau/news/feature-stories/item/cleaner-air--healthier-lives--tighter-air-pollution-regulations-across-the-western-pacific-could-save-1.1-million-lives",
       "date": "2026-06-26T10:36:34Z",
@@ -564,6 +556,14 @@
       "summary": "Esej o nagrodzie Wakleya – Wu Lien Teha 2026: dlaczego medycyna i dlaczego warto pozostać? Lancet."
     },
     {
+      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/research-summaries",
+      "date": "2026-06-26T03:05:15Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
+    },
+    {
       "title": "Uczenie się na podstawie doświadczeń - The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01249-3/abstract",
       "date": "2026-06-26T03:01:31Z",
@@ -602,14 +602,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
-    },
-    {
-      "title": "Choroba kociego pazura – lekarz NEJM",
-      "url": "https://clinician.nejm.org/10.1056/CLINicmNA60317",
-      "date": "2026-06-25T12:23:03Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
     },
     {
       "title": "Choroba wywołana wirusem Bundibugyo w 2026 r. — reakcje kliniczne i zdrowie publiczne — The New England Journal of Medicine",
@@ -750,14 +742,6 @@
       "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Strona internetowa poradnika NICE."
     },
     {
-      "title": "Nowe wytyczne dotyczące udaru wydłużają czas leczenia i podkreślają rolę telestroke'u - Telehealth.org",
-      "url": "https://telehealth.org/news/new-stroke-guidance-extends-treatment-window-highlights-telestrokes-role/",
-      "date": "2026-06-24T10:33:00Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Nowe wytyczne dotyczące udaru wydłużają czas leczenia i podkreślają rolę Telestroke Telehealth.org."
-    },
-    {
       "title": "Niezbędna jest zwiększona świadomość na temat objawów niewydolności serca podczas ciąży i po niej – www.heart.org",
       "url": "https://newsroom.heart.org/news/increased-awareness-about-heart-failure-symptoms-during-and-after-pregnancy-is-essential",
       "date": "2026-06-24T10:14:43Z",
@@ -771,7 +755,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
       "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
@@ -795,7 +779,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -803,7 +787,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 23 czerwca 2026 r. zmieniające rozporządzenie w sprawie programu pilotażowego dotyczącego oddziaływań terapeutycznych skierowanych do osób z doświadczeniem traumy - Sejm",
@@ -835,7 +819,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -846,12 +830,20 @@
       "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
     },
     {
-      "title": "American Heart Association publikuje pierwsze w historii wytyczne dotyczące zespołu sercowo-naczyniowego, nerkowo-metabolicznego (CKM): - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/etimes/wellness/american-heart-association-issues-first-ever-guideline-on-cardiovascular-kidney-metabolic-syndrome-ckm-what-you-need-to-know-for-your-heart-kidney-and-metabolic-health/articleshow/131901708.cms",
-      "date": "2026-06-22T05:25:00Z",
+      "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
+      "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
+      "date": "2026-06-22T09:05:58Z",
       "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 3,
-      "summary": "Przez długi czas lekarze traktowali choroby serca, nerek, cukrzycę i otyłość jako zupełnie odrębne zagadnienia. Masz problemy z sercem; idź do kardiologa."
+      "confirmed_by": 1,
+      "summary": "Jak wynika z długoterminowego badania opublikowanego w czasopiśmie Circulation, zastąpienie napojów gazowanych, napojów dla sportowców i soków owocowych całymi owocami może wiązać się z niższym ryzykiem rozwoju nadciśnienia tętniczego w wieku dorosłym."
+    },
+    {
+      "title": "Niedokrwistość okołooperacyjna i zarządzanie krwią pacjenta w kardiochirurgii - professional.heart.org",
+      "url": "https://professional.heart.org/en/science-news/perioperative-anemia-and-patient-blood-management-in-cardiac-surgery",
+      "date": "2026-06-22T09:03:05Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Multidyscyplinarne podejście do śródoperacyjnego oszczędzania krwi zmniejsza hemodylucję, ulepsza technologię bajpasów, wykorzystuje metody autologiczne i stosuje leki przeciwfibrynolityczne."
     },
     {
       "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
@@ -1242,12 +1234,28 @@
       "summary": "Szczegóły badania | NCT07671859 | Studia przypadków dotyczące mikrotabletek PKU ClinicalTrials.gov."
     },
     {
+      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
+      "date": "2026-06-26T22:36:52Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
+    },
+    {
       "title": "Wymieniono miliard dokumentacji medycznej. Teraz nadchodzi trudniejsza część. - wersja próbnanews.com",
       "url": "https://www.trialsitenews.com/a/one-billion-health-records-exchanged.-now-comes-the-hard-part.-f1128b70",
       "date": "2026-06-26T20:30:50Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Departament Zdrowia i Opieki Społecznej Stanów Zjednoczonych (HHS) ogłosił, że w ramach ramowej i wspólnej umowy o zaufanej wymianie danych (TEFCA&reg;) liczba wymienionych danych przekroczyła miliard miliardów, co stanowi kamień milowy w długoterminowych wysiłkach kraju na rzecz poprawy udostępniania elektronicznych informacji zdrowotnych. HHS ujawnił także rozszerzony nadzór nad siecią, wzmożenie kontroli zgodności i większe zaangażowanie w dochodzenia w sprawie blokowania informacji i oszustw."
+    },
+    {
+      "title": "Wspierana przez Lilly firma Absci przekazuje 100 milionów dolarów na leczenie leczenia endometriozy i wypadania włosów – Clinical Trials Arena",
+      "url": "https://www.clinicaltrialsarena.com/news/absci-100m-financing-endometriosis-pattern-hair-loss-therapy/",
+      "date": "2026-06-26T16:52:46Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Wspierana przez Lilly firma Absci przekazuje 100 milionów dolarów na leczenie endometriozy i terapię wypadania włosów w ośrodku badań klinicznych."
     },
     {
       "title": "Nadzór nad badaniami klinicznymi w czasie rzeczywistym a luka w infrastrukturze: pytania i odpowiedzi z Rajem Indupuri, eClinical Solutions – stosowane badania kliniczne online",
@@ -1264,6 +1272,30 @@
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "DIA 2026: Dlaczego badania kliniczne utknęły w dotychczasowych stosowanych badaniach klinicznych online."
+    },
+    {
+      "title": "Glaukos kończy rekrutację pacjentów do badania fazy II leku GLK-321 – Arena Badań Klinicznych",
+      "url": "https://www.clinicaltrialsarena.com/news/glaukos-completes-enrolment-glk-321-trial/",
+      "date": "2026-06-26T11:13:26Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Glaukos kończy rekrutację pacjentów do badania fazy II GLK-321 Clinical Trials Arena."
+    },
+    {
+      "title": "Narzędzie AI Clariyon zwiększa przestrzeganie zasad leczenia sepsy w badaniu szpitalnym – Clinical Trials Arena",
+      "url": "https://www.clinicaltrialsarena.com/news/clariyon-ai-sepsis-care-physician-compliance-clinical-trial/",
+      "date": "2026-06-26T11:13:10Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Narzędzie AI firmy Clariyon zwiększa przestrzeganie zasad leczenia sepsy w szpitalnym badaniu Clinical Trials Arena."
+    },
+    {
+      "title": "Pierwszy pacjent, któremu podano dawkę w badaniu RC220 HARNESS-1 firmy Racura – Arena Badań Klinicznych",
+      "url": "https://www.clinicaltrialsarena.com/news/first-patient-dosed-racuras-harness-1-trial/",
+      "date": "2026-06-26T11:13:10Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Pierwszy pacjent, któremu podano dawkę w badaniu HARNESS-1 firmy Racura w RC220 Clinical Trials Arena."
     },
     {
       "title": "Szczegóły badania | NCT07669831 | Skuteczność pozaustrojowej fali uderzeniowej w zapaleniu powięzi plantatora - ClinicalTrials.gov",
@@ -1322,6 +1354,14 @@
       "summary": "Nature Medicine wycofuje badanie dotyczące czasu trwania wirusowego raka płuc po czteromiesięcznych badaniach klinicznych prowadzonych online."
     },
     {
+      "title": "Niedokrwistość w nefropatii IgA - Arena Badań Klinicznych",
+      "url": "https://www.clinicaltrialsarena.com/analyst-comment/anaemia-in-iga-nephropathy/",
+      "date": "2026-06-25T15:07:56Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Niedokrwistość w nefropatii IgA – arena badań klinicznych."
+    },
+    {
       "title": "FDA ostrzega Amazon przed sprzedażą niezatwierdzonych leków na penisa",
       "url": "https://www.trialsitenews.com/a/fda-warns-amazon-over-fulfilled-sales-of-unapproved-penile-treatment-drugs-70c41b3e",
       "date": "2026-06-25T13:49:31Z",
@@ -1354,6 +1394,22 @@
       "summary": "Szczegóły badania | NCT07666997 | Bezpieczeństwo antykoncepcyjnego miedzianego pierścienia dopochwowego ClinicalTrials.gov."
     },
     {
+      "title": "BIO 2026: Jak cięcia NIH zagroziły konkurencyjności USA w stosunku do Chin – Arena Badań Klinicznych",
+      "url": "https://www.clinicaltrialsarena.com/news/bio-2026-how-nih-cuts-have-threatened-us-competitiveness-against-china/",
+      "date": "2026-06-25T10:42:53Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "BIO 2026: Jak cięcia NIH zagroziły konkurencyjności USA w stosunku do China Clinical Trials Arena."
+    },
+    {
+      "title": "Ollin Biosciences pozyskuje 330 mln dolarów na sfinansowanie III fazy badań OLN324 – Clinical Trials Arena",
+      "url": "https://www.clinicaltrialsarena.com/news/ollin-biosciences-330m-fund-oln324-trials/",
+      "date": "2026-06-25T10:42:53Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Ollin Biosciences pozyskuje 330 mln dolarów na finansowanie fazy III badań OLN324 Clinical Trials Arena."
+    },
+    {
       "title": "ACT Brief: Przywództwo DIA w obliczu niepewności, nowe podejście do kontraktów CRO i ekspansja Eli Lilly – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/dia-leadership-cro-contracts-eli-lilly-expansion",
       "date": "2026-06-25T10:25:55Z",
@@ -1370,6 +1426,14 @@
       "summary": "Szczegóły badania | NCT07665125 | Elektroakupunktura a akupunktura zatapiana w nici w chorobie zwyrodnieniowej stawu kolanowego ClinicalTrials.gov."
     },
     {
+      "title": "Wielka Brytania dodaje do zakładek sukces Hiszpanii w wyścigu do globalnej konkurencyjności w badaniach klinicznych – Clinical Trials Arena",
+      "url": "https://www.clinicaltrialsarena.com/features/uk-bookmarks-spains-success-in-race-to-global-clinical-trials-competitiveness/",
+      "date": "2026-06-25T09:57:52Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Wielka Brytania zaznacza sukces Hiszpanii w wyścigu do globalnej konkurencyjności badań klinicznych w Clinic Trials Arena."
+    },
+    {
       "title": "Szczegóły badania | NCT07664904 | Związek periostyny ​​i ODI, EQ-5D - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07664904",
       "date": "2026-06-25T09:39:50Z",
@@ -1384,6 +1448,14 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07665307 | Opóźnione toksyczności Post-CAR-T ClinicalTrials.gov."
+    },
+    {
+      "title": "XOCOVA (ensitrelvir) w leczeniu PEP w Covid-19, Japonia – Arena Badań Klinicznych",
+      "url": "https://www.clinicaltrialsarena.com/projects/xocova-ensitrelvir-for-the-treatment-of-pep-of-covid-19-japan/",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "XOCOVA (ensitrelvir) w leczeniu PEP wirusa Covid-19, Japan Clinical Trials Arena."
     },
     {
       "title": "Szczegóły badania | NCT07668713 | Przeszczep kału u HidradeniTIs suppuratiVA: badanie pilotażowe - ClinicalTrials.gov",
@@ -1434,6 +1506,22 @@
       "summary": "Uniwersytet Kalifornijski w Irvine (UCI) Health ogłosił, że pierwszy pacjent został poddany leczeniu w ramach – jak to określa instytucja – pierwszego na świecie badania klinicznego na ludziach z wykorzystaniem nerwowych komórek macierzystych pochodzących z embrionalnych komórek macierzystych w leczeniu choroby Huntingtona – śmiertelnej choroby neurodegeneracyjnej, na którą cierpi około 40 000 Amerykanów. Badanie fazy 1b/2a jest sponsorowane przez Leslie M. Thompsona, profesora Donalda Brena na Uniwersytecie Kalifornijskim w Irvine, a klinicznie prowadzi główny badacz Ravi Rajmohan."
     },
     {
+      "title": "Firma Pfizer podaje najważniejsze dane z badania SigVie-002 dla NSCLC – Clinical Trials Arena",
+      "url": "https://www.clinicaltrialsarena.com/news/pfizer-topline-data-sigvie-002-study/",
+      "date": "2026-06-24T10:42:40Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Firma Pfizer przedstawia najważniejsze dane z badania SigVie-002 dla NSCLC Clinical Trials Arena."
+    },
+    {
+      "title": "Ascletis otrzymuje zgodę FDA na badanie fazy I dotyczące leczenia otyłości – Clinical Trials Arena",
+      "url": "https://www.clinicaltrialsarena.com/news/ascletis-fda-clearance-phase-i-trial/",
+      "date": "2026-06-24T10:42:40Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Ascletis otrzymuje zgodę FDA na badanie fazy I dotyczące leczenia otyłości Clinical Trials Arena."
+    },
+    {
       "title": "Streszczenie ACT: Uruchomienie operacji TrialBlazer, wzrost złożoności protokołów i infrastruktura danych dla sztucznej inteligencji – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/operation-trialblazer-protocol-complexity-data-infrastructure-ai",
       "date": "2026-06-24T10:10:11Z",
@@ -1456,6 +1544,14 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07664059 | Ocena postawy u pacjentów z wadami zgryzu ClinicalTrials.gov."
+    },
+    {
+      "title": "Od gromadzenia do zaufania: dlaczego wiarygodność danych z badań klinicznych zaczyna się wcześnie - Arena Badań Klinicznych",
+      "url": "https://www.clinicaltrialsarena.com/sponsored/from-collection-to-confidence-why-clinical-trial-data-reliability-starts-early/",
+      "date": "2026-06-24T06:24:52Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Od gromadzenia do zaufania: dlaczego wiarygodność danych z badań klinicznych zaczyna się wcześnie? Arena Badań Klinicznych."
     }
   ],
   "pharma_market": [
