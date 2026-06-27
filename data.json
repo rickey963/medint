@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T21:59:31Z",
+  "last_updated": "2026-06-27T22:00:13Z",
   "poland": [
     {
       "title": "Śmiertelnie groźne e-papierosy - Termedia",
@@ -38,7 +38,7 @@
       "url": "https://ezwm.nfz.gov.pl/",
       "date": "2026-06-27T16:06:56Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "System eZWM (e Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -383,7 +383,7 @@
       "date": "2026-06-26T15:52:14Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Powiatowa Stacja Sanitarno-Epidemiologiczna w Koninie informuje o zakończeniu pilotażowej edycji programu edukacyjnego #MłodziŚwiadomi, skierowanego do uczniów szkół ponadpodstawowych z Konina i powiatu konińskiego."
+      "summary": "Pilotaż programu #MłodziŚwiadomi - podsumowanie Gov.pl."
     },
     {
       "title": "Zdrowe lato w Twoim telefonie z aplikacją mojeIKP - Pacjent gov",
@@ -1124,14 +1124,6 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Nester Gonzalez, lekarz medycyny."
-    },
-    {
-      "title": "Keith C. Ferdinand: Niedaleko Dziewiątego Okręgu – www.heart.org",
-      "url": "https://www.heart.org/en/around-the-aha/keith-c-ferdinand-never-far-from-the-ninth-ward",
-      "date": "2026-06-16T07:00:00Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Lekarz Roku swoje skupienie na bardziej sprawiedliwej opiece zdrowotnej wywodzi z wychowania w Nowym Orleanie."
     }
   ],
   "epidemiology": [
@@ -1538,6 +1530,14 @@
   ],
   "clinical_trials": [
     {
+      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
+      "date": "2026-06-27T06:16:39Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
+    },
+    {
       "title": "Porównanie ekstrakcji pęcherzyka żółciowego przez wyrostek mieczykowaty z portem podpępkowym podczas cholecystektomii laparoskopowej - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07672145",
       "date": "2026-06-27T00:46:00Z",
@@ -1592,14 +1592,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07671859 | Studia przypadków dotyczące mikrotabletek PKU ClinicalTrials.gov."
-    },
-    {
-      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
-      "date": "2026-06-26T22:36:52Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
     },
     {
       "title": "Szczegóły badania | NCT07670663 | Wpływ programu Qi Gong na objawy dysocjacyjne u pacjentów, którzy doświadczyli traumy w dzieciństwie: randomizowane badanie kontrolowane (Qi-T) – ClinicalTrials.gov",
