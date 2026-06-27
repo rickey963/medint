@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T07:49:47Z",
+  "last_updated": "2026-06-27T07:50:28Z",
   "poland": [
     {
       "title": "Idą upały powyżej 35 stopni. Dietetyczka wskazuje, co jeść i pić, aby uniknąć odwodnienia - PolitykaZdrowotna.com",
@@ -826,7 +826,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
@@ -1030,6 +1030,14 @@
       "summary": "Multidyscyplinarne podejście do śródoperacyjnego oszczędzania krwi zmniejsza hemodylucję, udoskonala technologię bajpasów, wykorzystuje metody autologiczne i stosuje leki przeciwfibrynolityczne."
     },
     {
+      "title": "Protokół z przebiegu XVII Krajowego Zjazdu Lekarzy - NIL",
+      "url": "https://nil.org.pl/izba/krajowy-zjazd-lekarzy/xvii-krajowy-zjazd-lekarzy/9295-protokol-z-przebiegu-xvii-krajowego-zjazdu-lekarzy",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
+    },
+    {
       "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
       "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
       "date": "2026-06-22T00:26:59Z",
@@ -1046,6 +1054,14 @@
       "summary": "Wiadomości medyczne i spostrzeżenia z badań Vera Health — najnowsze aktualizacje."
     },
     {
+      "title": "ESMO dołącza do Światowego Forum Badań Klinicznych WHO, aby wzmocnić światowe ekosystemy badań onkologicznych — Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/policy-news/esmo-joins-who-global-clinical-trials-forum-to-strengthen-global-oncology-research-ecosystems",
+      "date": "2026-06-20T01:46:22Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "ESMO dołącza do Światowego Forum Badań Klinicznych WHO, aby wzmocnić światowe ekosystemy badań onkologicznych Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
       "title": "NIL - NIL: sprzeciw wobec rozwiązań ograniczających dostępność szkolenia specjalizacyjnego dla lekarzy z niepełnosprawnościami - NIL",
       "url": "https://nil.org.pl/aktualnosci/9299-nil-sprzeciw-wobec-rozwiazan-ograniczajacych-dostepnosc-szkolenia-specjalizacyjnego-dla-lekarzy-z-niepelnosprawnosciami",
       "date": "2026-06-19T16:15:57Z",
@@ -1057,14 +1073,6 @@
       "title": "Rzecznicy Praw Lekarza OIL - NIL",
       "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil/rzecznicy-praw-lekarza-oil",
       "date": "2026-06-19T14:53:25Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Zgłoszenia do RPL zbiorowych problemów lekarzy - NIL",
-      "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil/zgloszenia-do-rpl-zbiorowych-problemow-lekarzy",
-      "date": "2026-06-19T14:53:24Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
@@ -1360,20 +1368,20 @@
       "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
     },
     {
-      "title": "Epidemia Chikungunya, Kuba, lipiec 2025 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0344-t1",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Charakterystyka próbek pobranych od pacjentów z objawami podczas epidemii chikungunya, prowincja Matanzas, Kuba, 2025*."
-    },
-    {
       "title": "Błonica na Haiti – Poziom 1 – Należy przestrzegać zwykłych środków ostrożności – Informacje dotyczące zdrowia w podróży | Zdrowie podróżnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/travel/notices/level1/diphtheria-haiti",
       "date": "2026-06-25T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Na Haiti wybuchła epidemia błonicy."
+    },
+    {
+      "title": "Epidemia Chikungunya, Kuba, lipiec 2025 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0344-t1",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Charakterystyka próbek pobranych od pacjentów z objawami podczas epidemii chikungunya, prowincja Matanzas, Kuba, 2025*."
     },
     {
       "title": "Żółta febra – Globalny – Światowa Organizacja Zdrowia (WHO)",
