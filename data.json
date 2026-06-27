@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T22:00:13Z",
+  "last_updated": "2026-06-27T22:00:56Z",
   "poland": [
     {
       "title": "Śmiertelnie groźne e-papierosy - Termedia",
@@ -287,7 +287,7 @@
       "date": "2026-06-26T18:50:29Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Projekt wspierający samorządy w planowaniu działań z zakresu zdrowia publicznego z dofinansowaniem Portal Funduszy Europejskich."
+      "summary": "Bądź na bieżąco z Funduszami Europejskimi."
     },
     {
       "title": "Projekt wspierający samorządy w planowaniu działań z zakresu zdrowia publicznego z dofinansowaniem - Portal Funduszy Europejskich",
@@ -383,7 +383,7 @@
       "date": "2026-06-26T15:52:14Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Pilotaż programu #MłodziŚwiadomi - podsumowanie Gov.pl."
+      "summary": "Powiatowa Stacja Sanitarno-Epidemiologiczna w Koninie informuje o zakończeniu pilotażowej edycji programu edukacyjnego #MłodziŚwiadomi, skierowanego do uczniów szkół ponadpodstawowych z Konina i powiatu konińskiego."
     },
     {
       "title": "Zdrowe lato w Twoim telefonie z aplikacją mojeIKP - Pacjent gov",
@@ -453,7 +453,7 @@
     },
     {
       "title": "Uganda organizuje spotkanie regionalne w celu zwiększenia gotowości na wypadek wirusa Ebola w obliczu trwającej epidemii – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-0",
+      "url": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-outbreak",
       "date": "2026-06-27T12:00:00Z",
       "source": "WHO",
       "confirmed_by": 1,
@@ -461,7 +461,7 @@
     },
     {
       "title": "Uganda organizuje spotkanie regionalne w celu zwiększenia gotowości na wypadek wirusa Ebola w obliczu trwającej epidemii – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-outbreak",
+      "url": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-0",
       "date": "2026-06-27T12:00:00Z",
       "source": "WHO",
       "confirmed_by": 1,
@@ -1530,14 +1530,6 @@
   ],
   "clinical_trials": [
     {
-      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
-      "date": "2026-06-27T06:16:39Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
-    },
-    {
       "title": "Porównanie ekstrakcji pęcherzyka żółciowego przez wyrostek mieczykowaty z portem podpępkowym podczas cholecystektomii laparoskopowej - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07672145",
       "date": "2026-06-27T00:46:00Z",
@@ -1592,6 +1584,14 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07671859 | Studia przypadków dotyczące mikrotabletek PKU ClinicalTrials.gov."
+    },
+    {
+      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
+      "date": "2026-06-26T22:36:52Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
     },
     {
       "title": "Szczegóły badania | NCT07670663 | Wpływ programu Qi Gong na objawy dysocjacyjne u pacjentów, którzy doświadczyli traumy w dzieciństwie: randomizowane badanie kontrolowane (Qi-T) – ClinicalTrials.gov",
@@ -2359,7 +2359,7 @@
     },
     {
       "title": "Uganda organizuje spotkanie regionalne w celu zwiększenia gotowości na wypadek wirusa Ebola w obliczu trwającej epidemii – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-0",
+      "url": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-outbreak",
       "date": "2026-06-27T12:00:00Z",
       "source": "WHO",
       "confirmed_by": 1,
@@ -2417,7 +2417,7 @@
     },
     {
       "title": "Uganda organizuje spotkanie regionalne w celu zwiększenia gotowości na wypadek wirusa Ebola w obliczu trwającej epidemii – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-0",
+      "url": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-outbreak",
       "date": "2026-06-27T12:00:00Z",
       "source": "WHO",
       "confirmed_by": 1,
@@ -2425,7 +2425,7 @@
     },
     {
       "title": "Uganda organizuje spotkanie regionalne w celu zwiększenia gotowości na wypadek wirusa Ebola w obliczu trwającej epidemii – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-outbreak",
+      "url": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-0",
       "date": "2026-06-27T12:00:00Z",
       "source": "WHO",
       "confirmed_by": 1,
