@@ -3,7 +3,7 @@
  */
 
 const DATA_URL = 'data.json';
-const REFRESH_INTERVAL = 60000; // 60s - dashboard refreshes itself, no reload needed
+const REFRESH_INTERVAL = 300000; // 5 min - dashboard refreshes itself, no reload needed
 const FRESH_THRESHOLD_MINUTES = 60; // articles newer than this pulse green (osint uses 30 - here widened to 1h)
 const MAX_ARTICLES_PER_CATEGORY = 50;
 
@@ -34,6 +34,19 @@ async function loadData() {
         const response = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: 'no-store' });
         if (!response.ok) throw new Error('Failed to load data');
         const data = await response.json();
+
+        // Safety net against a partial/failed upstream run: if every news
+        // section came back empty, this is almost certainly a bad fetch, not
+        // a genuinely empty news day. Keep whatever is already on screen
+        // instead of blanking every tile (the server-side merge in
+        // fetch_data.py makes this rare, but this guards the edge case).
+        const sectionKeys = ['poland', 'world', 'guidelines', 'epidemiology', 'clinical_trials', 'pharma_market'];
+        const totalArticles = sectionKeys.reduce((n, k) => n + ((data[k] && data[k].length) || 0), 0);
+        if (totalArticles === 0 && window.__medintLoadedOnce) {
+            console.warn('Skipping refresh: data.json has no articles in any section (likely a transient upstream failure).');
+            return;
+        }
+        window.__medintLoadedOnce = true;
 
         const timeEl = document.getElementById('update-time');
         if (timeEl) {

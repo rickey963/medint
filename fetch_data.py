@@ -838,6 +838,49 @@ def build_daily_top5(sections):
 # Main
 # ---------------------------------------------------------------------------
 
+def _load_previous_data():
+    """The previous data.json, so a section that comes back empty/short this
+    run (Google News 429, connection reset, a translate/enrich hiccup) can be
+    backfilled from the still-fresh items it showed last run instead of
+    blanking the tile. Missing/corrupt file -> empty, treated as first run."""
+    try:
+        with open('data.json', 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def _still_fresh(date_str):
+    try:
+        d = datetime.datetime.strptime(date_str, '%Y-%m-%dT%H:%M:%SZ').replace(
+            tzinfo=datetime.timezone.utc)
+    except (TypeError, ValueError):
+        return False
+    age_hours = (datetime.datetime.now(datetime.timezone.utc) - d).total_seconds() / 3600
+    return 0 <= age_hours <= FRESHNESS_WINDOW_HOURS
+
+
+def _item_key(item):
+    return (item.get('url') or '').strip().lower() or (item.get('title') or '').strip().lower()
+
+
+def _merge_section(new_items, old_items):
+    """Once an article has appeared on the dashboard it stays until it
+    genuinely ages out of the freshness window - it must not vanish just
+    because a later fetch cycle transiently failed to re-collect it. New
+    items win on collisions (fresher enrichment/translation/confirmed_by
+    counts); still-fresh old items fill in everything this run missed."""
+    merged, seen = [], set()
+    for item in list(new_items) + [o for o in old_items if _still_fresh(o.get('date', ''))]:
+        key = _item_key(item)
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        merged.append(item)
+    merged.sort(key=lambda it: it.get('date', ''), reverse=True)
+    return merged[:MAX_ARTICLES_PER_SECTION]
+
+
 def main():
     # All sections are independent I/O-bound fetches, so they run
     # concurrently rather than one-after-another - wall-clock time becomes
@@ -849,6 +892,19 @@ def main():
             for key, source_list in sources.ALL_SECTIONS.items()
         }
         sections = {key: f.result() for key, f in section_futures.items()}
+
+    # Merge each section with the still-fresh items from the previous run so a
+    # transient fetch failure never empties a tile (the actual cause of cards
+    # appearing, vanishing, then returning across consecutive update cycles).
+    # Critical alerts and the daily top 5 are then derived from the *merged*
+    # sections, so the ticker and "must-know" panel stay stable too.
+    previous = _load_previous_data()
+    for key in sources.ALL_SECTIONS:
+        before = len(sections[key])
+        sections[key] = _merge_section(sections[key], previous.get(key, []))
+        carried = len(sections[key]) - before
+        if carried > 0:
+            logger.info(f"Section '{key}': {before} fresh + {carried} carried over from previous run.")
 
     output = {
         'last_updated': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
