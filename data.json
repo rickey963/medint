@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T05:29:15Z",
+  "last_updated": "2026-06-27T05:30:05Z",
   "poland": [
     {
       "title": "Paryż bez alkoholu - Termedia",
@@ -63,7 +63,7 @@
       "date": "2026-06-26T15:53:04Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "KE wszczęła dochodzenie wobec Sanofi. Sprawdzi, czy kampania dotycząca szczepionki przeciw grypie naruszyła zasady konkurencji UE."
+      "summary": "KE wszczęła dochodzenie wobec Sanofi. Chodzi o promocję szczepionki przeciw grypie Alert Medyczny."
     },
     {
       "title": "Pilotaż programu #MłodziŚwiadomi - podsumowanie - Gov.pl",
@@ -167,7 +167,7 @@
       "date": "2026-06-26T13:46:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "MZ analizuje limit czasu pracy wszystkich lekarzy. Zmiany mają być odpowiedzią na wyniki kontroli NIK i aferę Szpitala Południowego."
+      "summary": "Limit godzin pracy dla wszystkich lekarzy? Ministra zdrowia spotka się z samorządem 9 lipca Alert Medyczny."
     },
     {
       "title": "Większość Polaków uważa, że lekarze w Polsce zarabiają za dużo – sondaż - Remedium.md",
@@ -183,7 +183,7 @@
       "date": "2026-06-26T13:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rzecznik Praw Lekarzy NIL apeluje o pilne działania po ataku nożownika w szpitalu. Proponuje zmiany prawa i rejestr agresji wobec medyków."
+      "summary": "Rzecznik Praw Lekarzy NIL chce pilnego posiedzenia po ataku nożownika w szpitalu Alert Medyczny."
     },
     {
       "title": "19-latek zaatakował personel i pacjentów w szpitalu w Jastrzębiu-Zdroju - Remedium.md",
@@ -207,7 +207,7 @@
       "date": "2026-06-26T12:02:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO. „Gazeta Wyborcza” opisuje kulisy przetargu i stanowiska stron."
+      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO Alert Medyczny."
     },
     {
       "title": "400 europejskich miast na liście. Rekord stresu termicznego - Rynek Zdrowia",
@@ -282,6 +282,14 @@
       "summary": "Minister zdrowia łagodzi wymagania kadrowe dotyczące całodobowej obsady oddziałów prowadzących hospitalizację planową."
     },
     {
+      "title": "Miejsce nitroksoliny pośród leków stosowanych w... - Podyplomie",
+      "url": "https://www.podyplomie.pl/aktualnosci/miejsce-nitroksoliny-posrod-lekow-stosowanych-w-infekcjach-ukladu-moczowego-bezplatny-webinar-startuje-juz-o-18-30",
+      "date": "2026-06-26T07:29:00Z",
+      "source": "Medycyna po Dyplomie",
+      "confirmed_by": 1,
+      "summary": "Trwają obecnie prace techniczne. W tym czasie mogą występować przejściowe problemy z działaniem strony. Przepraszamy za utrudnienia i dziękujemy za wyrozumiałość."
+    },
+    {
       "title": "Jak nawodnić organizm? Sposoby na prawidłowe nawodnienie podczas upałów - DOZ",
       "url": "https://www.doz.pl/czytelnia/a18715-Jak_nawodnic_organizm_Sposoby_na_prawidlowe_nawodnieniem_podczas_upalow",
       "date": "2026-06-26T07:13:44Z",
@@ -316,20 +324,20 @@
   ],
   "world": [
     {
-      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-27T03:36:53Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
-    },
-    {
       "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
       "url": "https://www.nejm.org/research-summaries",
       "date": "2026-06-27T02:08:55Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
+    },
+    {
+      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+      "date": "2026-06-27T02:01:12Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
       "title": "AHS 2026: Stosowanie oczekiwań i nowe czynniki w migrenie – Medscape",
@@ -351,6 +359,14 @@
       "title": "Oświadczenie TAG-TP w sprawie immunomodulatorów i terapii ukierunkowanych na gospodarza w leczeniu choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/japan/news/detail-global/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
       "date": "2026-06-26T17:23:03Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "W kontekście ustalania priorytetów leków, które mają zostać uwzględnione w badaniach klinicznych nad chorobą wirusową Bundibugyo (BVD), Techniczna Grupa Doradcza ds. ustalania priorytetów terapii TAG-TP rozpoczęła badanie krajobrazu nowych lub zmienionych środków immunomodulujących i ukierunkowanych na gospodarza."
+    },
+    {
+      "title": "Oświadczenie TAG-TP w sprawie immunomodulatorów i terapii ukierunkowanych na gospodarza w leczeniu choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
+      "date": "2026-06-26T17:06:07Z",
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "W kontekście ustalania priorytetów leków, które mają zostać uwzględnione w badaniach klinicznych nad chorobą wirusową Bundibugyo (BVD), Techniczna Grupa Doradcza ds. ustalania priorytetów terapii TAG-TP rozpoczęła badanie krajobrazu nowych lub zmienionych środków immunomodulujących i ukierunkowanych na gospodarza."
@@ -506,14 +522,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dwa badania pokazują, że adaptacyjna neuromodulacja może poprawić chód w chorobie Parkinsona, dopasowując stymulację do odpowiedniego obwodu we właściwym momencie, wskazując strategie rozkładające złożone objawy na możliwe do ukierunkowania komponenty przestrzenne i czasowe."
-    },
-    {
-      "title": "Wdrażanie tego, co sprawdza się w polityce alkoholowej: raport z postępu prac nad inicjatywą SAFER – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/publications/i/item/9789240120587",
-      "date": "2026-06-26T09:08:56Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Szkody spowodowane alkoholem są przyczyną milionów zgonów każdego roku i pozostają główną, możliwą do uniknięcia przeszkodą dla zdrowia, równości i zrównoważonego rozwoju."
     },
     {
       "title": "„Gorąca strefa” skłoniła mnie do pracy z pacjentami z ebolą. Teraz mam mieszane uczucia co do książki - statnews.com",
@@ -763,7 +771,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
+      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
@@ -787,7 +795,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
+      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -795,7 +803,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
+      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Informacje o spotkaniu ACIP – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -819,7 +827,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
+      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -890,10 +898,18 @@
     {
       "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-27T02:01:12Z",
+      "date": "2026-06-27T03:36:53Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
+    },
+    {
+      "title": "Epidemia botulizmu u niemowląt powiązana ze sproszkowanym preparatem dla niemowląt, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/index.html",
+      "date": "2026-06-27T02:34:29Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Informacja o wybuchu zatrucia jadem kiełbasianym u niemowląt w związku z odżywką dla niemowląt Nara Organics."
     },
     {
       "title": "Nowa karta ACIP może pozwolić RFK Jr. na dalsze ograniczenie dostępu do szczepionek, twierdzą krytycy – CIDRAP",
@@ -902,6 +918,14 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Sekretarz ds. Zdrowia i Opieki Społecznej (HHS) Robert F. Kennedy Jr. kontynuuje swoją walkę o zmianę federalnej polityki dotyczącej szczepionek, tym razem zmieniając statut komisji federalnej, która ma ogromny wpływ na szczepienia dzieci, aby przenieść swoją uwagę poza szczepionki."
+    },
+    {
+      "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
+      "date": "2026-06-26T19:41:33Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "Dostępny jest również plik audio."
     },
     {
       "title": "Szybkie ujęcia: więcej przypadków ślimaków w Nowym Świecie, epidemia Salmonelli w Europie, polio w 4 krajach - CIDRAP",
@@ -928,12 +952,20 @@
       "summary": "W kontekście ustalania priorytetów leków, które mają zostać uwzględnione w badaniach klinicznych nad chorobą wirusową Bundibugyo (BVD), Techniczna Grupa Doradcza ds. ustalania priorytetów terapii TAG-TP rozpoczęła badanie krajobrazu nowych lub zmienionych środków immunomodulujących i ukierunkowanych na gospodarza."
     },
     {
-      "title": "Sprawozdanie na temat zagrożeń chorobami zakaźnymi, 19–26 czerwca 2026 r., tydzień 26 – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-19-26-june-2026-week-26",
-      "date": "2026-06-26T13:52:25Z",
-      "source": "ECDC",
+      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z 24. tygodnia zakończonego 20 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-24.html",
+      "date": "2026-06-26T15:08:17Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "Aktywność grypy sezonowej jest niska."
+    },
+    {
+      "title": "Globalne podsumowanie przypadków ptasiej grypy H5N1 u ludzi od sierpnia 2025 r. do czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/bird-flu/spotlights/global-summary-06262026.html",
+      "date": "2026-06-26T13:56:11Z",
+      "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Niniejsze wydanie raportu ECDC o zagrożeniach chorobami zakaźnymi (CDTR) obejmuje okres od 19 do 26 czerwca 2026 r. i zawiera aktualne informacje na temat wirusa Ebola, zakażeń wirusem Zachodniego Nilu, gorączki krwotocznej krymsko-kongijskiej, grypy A(H9N2), cholery, mopksu, dengi, rozmieszczenia ekspertów, choroby chikungunya związanej z podróżami w krajach UE/EOG oraz przegląd wirusów układu oddechowego epidemiologia w UE/EOG."
+      "summary": "Podsumowanie przypadków ptasiej grypy H5N1 u ludzi od sierpnia 2025 r."
     },
     {
       "title": "Podręcznik dotyczący szczepień przeciwko wirusowi układu oddechowego: monitorowanie i raportowanie szczepień przeciwko grypie sezonowej, COVID-19 i wirusowi syncytialnemu układu oddechowego - Światowa Organizacja Zdrowia (WHO)",
@@ -952,6 +984,14 @@
       "summary": "Szacuje się, że szkody spowodowane alkoholem powodują każdego roku około 2,6 miliona zgonów i pozostają jednym z najbardziej zaniedbywanych i możliwych do uniknięcia zagrożeń dla zdrowia i rozwoju. Nowy raport WHO, wdrażający to, co sprawdza się w polityce alkoholowej: raport z postępu inicjatywy SAFER, dokumentuje, w jaki sposób kraje przechodzą od zaangażowania do realizacji, oraz określa priorytety na kolejny etap. Zainaugurowany w 2018 r. na spotkaniu wysokiego szczebla Organizacji Narodów Zjednoczonych w sprawie chorób niezakaźnych i formalnie zatwierdzony w ramach Globalnego planu działania dotyczącego alkoholu na lata 2022–2030, SAFER stał się główną platformą działań WHO w pięciu obszarach o dużym wpływie: ograniczanie dostępności, prowadzenie pojazdu pod wpływem alkoholu środki zaradcze, badania przesiewowe i leczenie, ograniczenia marketingowe i ustalanie cen poprzez opodatkowanie. Kraje przekładające BEZPIECZEŃSTWO na działania krajowe i społeczne Wdrożenie na poziomie krajowym podkreśla, w jaki sposób partnerstwa i skoordynowane działania mogą napędzać zmiany w polityce i systemie opieki zdrowotnej. Uganda, pierwszy kraj, który przyjął SAFER jako platformę krajową, zintegrowała badania przesiewowe, krótką interwencję i skierowanie do leczenia do podstawowej opieki zdrowotnej, a także wspierała reformy swoich ustaw o podatku akcyzowym."
     },
     {
+      "title": "Biotest butelek CDC — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mosquitoes/php/insecticide-resistance/cdc-bottle-bioassay.html",
+      "date": "2026-06-26T09:27:33Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "U komarów może wystąpić oporność na środki owadobójcze. Przeprowadzić badania, aby zapobiec lub opóźnić oporność."
+    },
+    {
       "title": "Wdrażanie tego, co sprawdza się w polityce alkoholowej: raport z postępu prac nad inicjatywą SAFER – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/9789240120587",
       "date": "2026-06-26T09:08:56Z",
@@ -960,12 +1000,28 @@
       "summary": "Szkody spowodowane alkoholem są przyczyną milionów zgonów każdego roku i pozostają główną, możliwą do uniknięcia przeszkodą dla zdrowia, równości i zrównoważonego rozwoju."
     },
     {
+      "title": "Wirus Ebola i Bundibugyo — często zadawane pytania — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/faq/index.html",
+      "date": "2026-06-26T04:44:21Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Uzyskaj odpowiedzi na pytania dotyczące wirusa Ebola i wybuchu epidemii wiosną 2026 r. w DRK i Ugandzie."
+    },
+    {
       "title": "Specyfikacje techniczne ośrodków leczenia chorób filowirusowych – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/9789240123519",
       "date": "2026-06-26T04:16:32Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki leczenia stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
+    },
+    {
+      "title": "Badanie zakażeń Strongyloides stercoralis przenoszonych przez dawcę u biorców przeszczepów narządów stałych, Stany Zjednoczone, 2012–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0747",
+      "date": "2026-06-25T22:19:01Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Zakażenia S. stercoralis u biorców narządów."
     },
     {
       "title": "Afrykańskie CDC potraja kwotę potrzebną do walki z wirusem Ebola – CIDRAP",
@@ -1008,20 +1064,28 @@
       "summary": "Dwa nowe raporty analizujące niedawne ogniska odry w USA podkreślają wyzwania związane z powstrzymaniem rozprzestrzeniania się choroby w niektórych społecznościach."
     },
     {
+      "title": "Plakat: Ocena opieki ambulatoryjnej nad pacjentami zakażonymi wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/hcp/communication-resources/ambulatory-care-evaluation.html",
+      "date": "2026-06-25T16:19:58Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Ten algorytm ambulatoryjny przeznaczony jest dla podmiotów świadczących opiekę zdrowotną w USA w celu oceny pacjentów pod kątem choroby Ebola."
+    },
+    {
+      "title": "Epidemia serowaru Salmonella enterica Odczyt powiązany z suszonym mięsem wołowym, Sydney, Australia, 2023 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1454",
+      "date": "2026-06-25T16:13:16Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "S. enterica ser. Czytanie powiązane z suszonym bydłem."
+    },
+    {
       "title": "Ognisko obejmujące wiele krajów Zakażenia Salmonella Bovismorbificans ST377 związane ze spożyciem kiełków lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/multi-country-outbreak-salmonella-bovismorbificans-st377-infections-linked",
       "date": "2026-06-25T12:01:42Z",
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "W okresie od stycznia do maja 2026 r. zgłoszono 109 potwierdzonych przypadków Salmonella Bovismorbificans ST377 z 10 krajów Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) (Austria, Belgia, Czechy, Dania, Finlandia, Niemcy, Irlandia, Luksemburg, Hiszpania i Holandia) oraz Wielkiej Brytanii."
-    },
-    {
-      "title": "Ognisko Salmonelli w wielu krajach powiązane z kiełkami lucerny - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds",
-      "date": "2026-06-25T12:01:30Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Zgodnie z szybką oceną epidemii opublikowaną przez EFSA i ECDC, nasiona kiełkujące lucerny uznano za prawdopodobne źródło ogniska infekcji Salmonella Bovismorbificans obejmującego wiele krajów."
     },
     {
       "title": "Eksperci One Health w Lyonie wytyczają ścieżkę od zaangażowania do skoordynowanych działań w zakresie budowania potencjału – Światowa Organizacja Zdrowia (WHO)",
@@ -1048,6 +1112,22 @@
       "summary": "Można już zarejestrować się na tegoroczną Europejską Konferencję Naukową na temat Stosowanej Epidemiologii Chorób Zakaźnych (ESCAIDE), która odbędzie się w Sztokholmie oraz online w dniach 18–20 listopada 2026 r. Rejestracja jest bezpłatna."
     },
     {
+      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
+    },
+    {
+      "title": "Błonica na Haiti – Poziom 1 – Należy przestrzegać zwykłych środków ostrożności – Informacje dotyczące zdrowia w podróży | Zdrowie podróżnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level1/diphtheria-haiti",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Na Haiti wybuchła epidemia błonicy."
+    },
+    {
       "title": "Żółta febra – Globalny – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON610",
       "date": "2026-06-25T02:09:23Z",
@@ -1062,6 +1142,22 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Badania kliniczne dwóch potencjalnych leków przeciwko szczepowi Ebola Bundibugyo zostaną rozpoczęte w Demokratycznej Republice Konga (DRK) w przyszłym tygodniu, powiedział dziś podczas konferencji prasowej dyrektor generalny Światowej Organizacji Zdrowia (WHO) dr Tedros Adhanom Ghebreyesus."
+    },
+    {
+      "title": "Epidemia wirusa Ebola: co robi CDC – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/what-cdc-is-doing.html",
+      "date": "2026-06-24T20:28:13Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "Dowiedz się, jak CDC reaguje na obecną epidemię wirusa Ebola."
+    },
+    {
+      "title": "Transkrypcja – Aktualizacja reakcji CDC na hantawirus – 24.06.26 – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-hantavirus-response-6-24-26.html",
+      "date": "2026-06-24T19:15:52Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Dostępny jest również plik audio."
     },
     {
       "title": "„Każda osoba, która ma szyjkę macicy, jest zagrożona”: osoby transpłciowe często nie biorą udziału w badaniach przesiewowych w kierunku raka szyjki macicy - CIDRAP",
@@ -1112,14 +1208,6 @@
       "summary": "Aby wzmocnić proces kształtowania polityki rządu USA w zakresie szczepionek i przywrócić zaufanie do szczepień, projekt Vaccine Integrity Project (VIP) w Centrum Badań i Polityki Chorób Zakaźnych (CIDRAP) Uniwersytetu Minnesota oraz The Evidence Collective ogłosiły dziś nowe wysiłki badawcze."
     },
     {
-      "title": "Uwagi wstępne Dyrektora Generalnego WHO na konferencji prasowej – 24 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---24-june-2026",
-      "date": "2026-06-24T14:52:10Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Dzień dobry tym, którzy są na sali, dzień dobry, dzień dobry i dobry wieczór tym, którzy są online, gdziekolwiek na świecie się znajdujecie."
-    },
-    {
       "title": "Wstrzymanie budowy wspieranej przez USA jednostki kwarantanny wirusa Ebola w Kenii – CIDRAP",
       "url": "https://www.cidrap.umn.edu/ebola/construction-us-backed-ebola-quarantine-unit-kenya-stopped",
       "date": "2026-06-23T20:57:39Z",
@@ -1142,17 +1230,17 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "U nastolatków chorych na gruźlicę występuje uporczywa, objawowa przewlekła choroba płuc pomimo wyleczenia bakteriologicznego."
-    },
-    {
-      "title": "Jak wynika z raportu CIDRAP, urządzenie do mieszania odżywek dla niemowląt przyczyniło się do rozwoju choroby legionistów u niemowląt",
-      "url": "https://www.cidrap.umn.edu/legionella/device-mix-baby-formula-contributed-infant-s-legionnaires-disease-report-finds",
-      "date": "2026-06-23T18:22:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Niemowlę zaraziło się po wypiciu mleka w proszku zmieszanego z ciepłą wodą ze zbiornika."
     }
   ],
   "clinical_trials": [
+    {
+      "title": "Szczegóły badania | NCT07671859 | Studia przypadków dotyczące mikrotabletek PKU – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07671859",
+      "date": "2026-06-26T23:46:37Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07671859 | Studia przypadków dotyczące mikrotabletek PKU ClinicalTrials.gov."
+    },
     {
       "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
@@ -1232,14 +1320,6 @@
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "ACT Brief: Uzupełnianie luk w danych sponsora ośrodka, wycofanie dużego badania i stosowane badania kliniczne online w trybie pierwszej linii TNBC."
-    },
-    {
-      "title": "Szczegóły badania | NCT07667322 | Badanie mające na celu zbadanie bezpieczeństwa, tolerancji, farmakokinetyki, immunogenności i farmakodynamiki nowego podskórnego preparatu ocrelizumabu u uczestników chorych na stwardnienie rozsiane – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07667322",
-      "date": "2026-06-26T09:40:48Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07667322 | Badanie mające na celu zbadanie bezpieczeństwa, tolerancji, farmakokinetyki, immunogenności i farmakodynamiki nowego podskórnego preparatu ocrelizumabu u uczestników chorych na stwardnienie rozsiane ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07669103 | Potencjalna baza danych dotycząca chirurgii raka kości – ClinicalTrials.gov",
@@ -1376,6 +1456,14 @@
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "XOCOVA (ensitrelvir) w leczeniu PEP wirusa Covid-19, Japan Clinical Trials Arena."
+    },
+    {
+      "title": "Szczegóły badania | NCT07668713 | Przeszczep kału u HidradeniTIs suppuratiVA: badanie pilotażowe - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07668713",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07668713 | Przeszczep kału u HidradeniTIs suppuratiVA: badanie pilotażowe ClinicalTrials.gov."
     },
     {
       "title": "UCLA i CHLA dołączają do Globalnej Sieci Badań nad Autyzmem – Trialsitenews.com",
@@ -1846,6 +1934,22 @@
       "summary": "Opis zdarzeniaOd ostatniej aktualizacji z dnia 14 czerwca 2026 r. (raport sytuacyjny nr 5) epidemia choroby wirusowej Bundibugyo (BVD) w Demokratycznej Republice Konga w dalszym ciągu ewoluuje, a skumulowana zapadalność przekracza próg 1000 przypadków potwierdzonych laboratoryjnie, a liczba dotkniętych stref zdrowia stale rośnie. W wielu gorących punktach i nowo dotkniętych strefach zdrowia nadal obserwuje się trwałe przenoszenie wirusa przez społeczność. W Ugandzie po prawie dwóch tygodniach bez przypadku zgłoszono jeden nowy potwierdzony przypadek."
     },
     {
+      "title": "Epidemia botulizmu u niemowląt powiązana ze sproszkowanym preparatem dla niemowląt, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/index.html",
+      "date": "2026-06-27T02:34:29Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Informacja o wybuchu zatrucia jadem kiełbasianym u niemowląt w związku z odżywką dla niemowląt Nara Organics."
+    },
+    {
+      "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
+      "date": "2026-06-26T19:41:33Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "Dostępny jest również plik audio."
+    },
+    {
       "title": "Szybkie ujęcia: więcej przypadków ślimaków w Nowym Świecie, epidemia Salmonelli w Europie, polio w 4 krajach - CIDRAP",
       "url": "https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cases-salmonella-outbreak-europe-polio-4",
       "date": "2026-06-26T19:12:00Z",
@@ -1862,14 +1966,6 @@
       "summary": "To 67. raport sytuacyjny dotyczący wybuchu mpoxu w wielu krajach. Niniejszy raport zawiera szczegółowe informacje na temat globalnej sytuacji epidemiologicznej w zakresie mpox na dzień 31 maja 2026 r. i w Afryce na dzień 14 czerwca 2026 r., wraz z aktualizacjami działań operacyjnych na dzień 17 czerwca 2026 r."
     },
     {
-      "title": "Sprawozdanie na temat zagrożeń chorobami zakaźnymi, 19–26 czerwca 2026 r., tydzień 26 – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-19-26-june-2026-week-26",
-      "date": "2026-06-26T13:52:25Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Niniejsze wydanie raportu ECDC o zagrożeniach chorobami zakaźnymi (CDTR) obejmuje okres od 19 do 26 czerwca 2026 r. i zawiera aktualne informacje na temat wirusa Ebola, zakażeń wirusem Zachodniego Nilu, gorączki krwotocznej krymsko-kongijskiej, grypy A(H9N2), cholery, mopksu, dengi, rozmieszczenia ekspertów, choroby chikungunya związanej z podróżami w krajach UE/EOG oraz przegląd wirusów układu oddechowego epidemiologia w UE/EOG."
-    },
-    {
       "title": "„Gorąca strefa” skłoniła mnie do pracy z pacjentami z ebolą. Teraz mam mieszane uczucia co do książki - statnews.com",
       "url": "https://www.statnews.com/2026/06/26/the-hot-zone-richard-preston-ebola-narrative/",
       "date": "2026-06-26T08:33:09Z",
@@ -1878,28 +1974,20 @@
       "summary": "„Rzeczywistość związana z wirusem Ebola jest jednocześnie mniej sensacyjna i znacznie trudniejsza, niż większość ludzi sobie wyobraża” – pisze Krutika Kuppalli."
     },
     {
+      "title": "Wirus Ebola i Bundibugyo — często zadawane pytania — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/faq/index.html",
+      "date": "2026-06-26T04:44:21Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Uzyskaj odpowiedzi na pytania dotyczące wirusa Ebola i wybuchu epidemii wiosną 2026 r. w DRK i Ugandzie."
+    },
+    {
       "title": "Specyfikacje techniczne ośrodków leczenia chorób filowirusowych – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/9789240123519",
       "date": "2026-06-26T04:16:32Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki leczenia stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
-    },
-    {
-      "title": "Afrykańskie CDC potraja kwotę potrzebną do walki z wirusem Ebola – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/africa-cdc-triples-amount-needed-fight-ebola",
-      "date": "2026-06-25T20:54:22Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Dzisiaj podczas konferencji prasowej dyrektor generalny Afrykańskich Centrów Kontroli i Zapobiegania Chorobom Jean Kaseya, lekarz medycyny, MPH, powiedział, że epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) będzie wymagać środków w wysokości 1,4 miliarda dolarów, aby powstrzymać epidemię, czyli prawie trzykrotnie więcej niż 518 milionów dolarów Africa CDC szacowane na początku miesiąca."
-    },
-    {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
-      "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
     }
   ],
   "daily_top5": [
@@ -1907,17 +1995,9 @@
       "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
       "date": "2026-06-27T03:36:53Z",
-      "source": "WHO",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
-    },
-    {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-06-27T02:08:55Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
     },
     {
       "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 06, dane na dzień 21 czerwca 2026 r. – WHO | Biuro Regionalne dla Afryki",
@@ -1926,6 +2006,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Opis zdarzeniaOd ostatniej aktualizacji z dnia 14 czerwca 2026 r. (raport sytuacyjny nr 5) epidemia choroby wirusowej Bundibugyo (BVD) w Demokratycznej Republice Konga w dalszym ciągu ewoluuje, a skumulowana zapadalność przekracza próg 1000 przypadków potwierdzonych laboratoryjnie, a liczba dotkniętych stref zdrowia stale rośnie. W wielu gorących punktach i nowo dotkniętych strefach zdrowia nadal obserwuje się trwałe przenoszenie wirusa przez społeczność. W Ugandzie po prawie dwóch tygodniach bez przypadku zgłoszono jeden nowy potwierdzony przypadek."
+    },
+    {
+      "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
+      "date": "2026-06-26T19:41:33Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "Dostępny jest również plik audio."
     },
     {
       "title": "Epidemia mpox w wielu krajach, Raport o sytuacji zewnętrznej nr 67 – 26 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
