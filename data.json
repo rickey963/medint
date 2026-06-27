@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T02:03:36Z",
+  "last_updated": "2026-06-27T02:04:22Z",
   "poland": [
     {
       "title": "Paryż bez alkoholu - Termedia",
@@ -226,6 +226,14 @@
       "summary": "We Francji odnotowano pierwszy przypadek wirusa Ebola - poinformowało tamtejsze ministerstwo zdrowia. Zakażoną osobą jest lekarz, który wrócił z Demokratycznej Republiki Konga (DRK). Główny Inspektorat Sanitarny wyjaśnia, jakie jest ryzyko dla Polski."
     },
     {
+      "title": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/szpital-poludniowy-zaplacil-725-tys-zl-za-przygotowanie-wniosku-do-kpo/",
+      "date": "2026-06-26T12:02:29Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO Alert Medyczny."
+    },
+    {
       "title": "400 europejskich miast na liście. Rekord stresu termicznego - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Nauka/400-europejskich-miast-na-liscie-Rekord-stresu-termicznego,285971,9.html",
       "date": "2026-06-26T11:51:00Z",
@@ -306,14 +314,6 @@
       "summary": "Minister zdrowia łagodzi wymagania kadrowe dotyczące całodobowej obsady oddziałów prowadzących hospitalizację planową."
     },
     {
-      "title": "Miejsce nitroksoliny pośród leków stosowanych w... - Podyplomie",
-      "url": "https://www.podyplomie.pl/aktualnosci/miejsce-nitroksoliny-posrod-lekow-stosowanych-w-infekcjach-ukladu-moczowego-bezplatny-webinar-startuje-juz-o-18-30",
-      "date": "2026-06-26T07:29:00Z",
-      "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
-      "summary": "Trwają obecnie prace techniczne. W tym czasie mogą występować przejściowe problemy z działaniem strony. Przepraszamy za utrudnienia i dziękujemy za wyrozumiałość."
-    },
-    {
       "title": "Jak nawodnić organizm? Sposoby na prawidłowe nawodnienie podczas upałów - DOZ",
       "url": "https://www.doz.pl/czytelnia/a18715-Jak_nawodnic_organizm_Sposoby_na_prawidlowe_nawodnieniem_podczas_upalow",
       "date": "2026-06-26T07:13:44Z",
@@ -322,20 +322,28 @@
       "summary": "Odpowiednie nawodnienie jest kluczowe dla prawidłowego funkcjonowania organizmu. Sprawdź, jak skutecznie nawodnić organizm, dlaczego picie wody ma znaczenie i jak zadbać o codzienną równowagę płynów. Dowiedz się więcej na DOZ.pl."
     },
     {
+      "title": "Prezydent Warszawy o Szpitalu Południowym - Z kraju - Kurier - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/kurier/442520,prezydent-warszawy-o-szpitalu-poludniowym",
+      "date": "2026-06-26T06:44:55Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Prezydent m.st. Warszawy Rafał Trzaskowski przedstawił radnym informację na temat zasad organizacji pracy i udzielania świadczeń, a także systemu wynagradzania i naboru personelu medycznego w miejskich podmiotach leczniczych, ze szczególnym uwz."
+    },
+    {
+      "title": "Kraków – ORL o nowych zasadach przetwarzania informacji o wynagrodzeniach lekarzy - Medycyna Praktyczna",
+      "url": "https://prawo.mp.pl/wiadomosci/442517,krakow-orl-o-nowych-zasadach-przetwarzania-informacji-o-wynagrodzeniach-lekarzy",
+      "date": "2026-06-26T06:44:55Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Dla wspólnego bezpieczeństwa potrzebna jest transparentność systemowa, a nie selektywna transparentność jednej grupy zawodowej."
+    },
+    {
       "title": "Wakacje to czas na zabawę - Serwis Zdrowie",
       "url": "https://zdrowie.pap.pl/dzieci/wakacje-czas-na-zabawe",
       "date": "2026-06-26T06:02:21Z",
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Zbliżają się wakacje i wielu rodziców martwi się o to, co będą w tym czasie robiły ich dzieci. Odczuwają obawę, że inni rodzice już zapisali dzieci na obozy, kolonie i kursy, a oni jeszcze nie. Martwią się, że jeżeli niczego nie zorganizują, to dziecko będzie się nudzić i skończy z telefonem albo przed komputerem."
-    },
-    {
-      "title": "Pacjentka 40+ w okresie transformacji menopauzalnej - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/medycynarodzinna/ekspert/pytania-do-eksperta/395967,pacjentka-40-w-okresie-transformacji-menopauzalnej",
-      "date": "2026-06-25T23:12:29Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Na co powinien zwrócić uwagę lekarz rodzinny w opiece nad kobietą 40+, która przechodzi transformację menopauzalną?"
     },
     {
       "title": "Czym jest poczekalnia w e-rejestracji - Pacjent gov",
@@ -347,6 +355,14 @@
     }
   ],
   "world": [
+    {
+      "title": "AHS 2026: Stosowanie oczekiwań i nowe czynniki w migrenie – Medscape",
+      "url": "https://www.medscape.com/viewarticle/mdangle-ahs-2026-migraine-treatment-clinical-impact-2026a1000dch",
+      "date": "2026-06-27T01:00:14Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Dr Nan Cheng wyjaśnia, w jaki sposób wykorzystanie efektów placebo i nowych danych na temat suzetryginy może przywrócić nadzieję w leczeniu migreny opornej na leczenie."
+    },
     {
       "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 06, dane na dzień 21 czerwca 2026 r. – WHO | Biuro Regionalne dla Afryki",
       "url": "https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2",
@@ -460,6 +476,14 @@
       "summary": "Aktywne leczenie bezobjawowych kamieni nerkowych wiąże się z mniejszym prawdopodobieństwem późniejszego nawrotu i koniecznością operacji."
     },
     {
+      "title": "Nowe badania przesiewowe w kierunku raka płuc w Australii cieszą się dużym zainteresowaniem – Medscape",
+      "url": "https://www.medscape.com/viewarticle/australias-new-lung-cancer-screening-enjoys-high-uptake-2026a1000lsh",
+      "date": "2026-06-26T10:57:55Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Pierwszy rok australijskiego programu badań przesiewowych w kierunku raka płuc wydaje się sukcesem i cieszy się dużym zainteresowaniem wśród docelowej populacji, czyli nałogowych palaczy."
+    },
+    {
       "title": "Czystsze powietrze, zdrowsze życie: bardziej rygorystyczne przepisy dotyczące zanieczyszczeń powietrza na zachodnim Pacyfiku mogą uratować życie 1,1 miliona osób – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/palau/news/feature-stories/item/cleaner-air--healthier-lives--tighter-air-pollution-regulations-across-the-western-pacific-could-save-1.1-million-lives",
       "date": "2026-06-26T10:36:34Z",
@@ -506,14 +530,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dwa badania pokazują, że adaptacyjna neuromodulacja może poprawić chód w chorobie Parkinsona, dopasowując stymulację do odpowiedniego obwodu we właściwym momencie, wskazując strategie rozkładające złożone objawy na możliwe do ukierunkowania komponenty przestrzenne i czasowe."
-    },
-    {
-      "title": "Wdrażanie tego, co sprawdza się w polityce alkoholowej: raport z postępu prac nad inicjatywą SAFER – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/publications/i/item/9789240120587",
-      "date": "2026-06-26T09:08:56Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Szkody spowodowane alkoholem są przyczyną milionów zgonów każdego roku i pozostają główną, możliwą do uniknięcia przeszkodą dla zdrowia, równości i zrównoważonego rozwoju."
     },
     {
       "title": "„Gorąca strefa” skłoniła mnie do pracy z pacjentami z ebolą. Teraz mam mieszane uczucia co do książki - statnews.com",
@@ -612,6 +628,14 @@
       "summary": "Nowe podejście do sztucznej inteligencji w systemach opieki zdrowotnej: poprawa przepływu pracy lekarzy i zaufania pacjentów NEJM AI."
     },
     {
+      "title": "Interwencje psychospołeczne pomagające kobietom w ciąży rzucić palenie – lekarz NZ",
+      "url": "https://www.nzdoctor.co.nz/article/educate/practice/psychosocial-interventions-help-pregnant-women-stop-smoking",
+      "date": "2026-06-25T08:36:50Z",
+      "source": "Cochrane Library",
+      "confirmed_by": 1,
+      "summary": "Witryna przeznaczona dla czytelników będących pracownikami służby zdrowia w Nowej Zelandii."
+    },
+    {
       "title": "Choroba wywołana wirusem Bundibugyo w 2026 r. — reakcje kliniczne i zdrowie publiczne — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2607216",
       "date": "2026-06-25T07:37:58Z",
@@ -650,14 +674,6 @@
       "source": "Cochrane Library",
       "confirmed_by": 1,
       "summary": "International Journal of Gynecology & Obstetrics wycofał badanie RCT opublikowane w 2017 r. po tym, jak w przeglądzie redakcyjnym stwierdzono, że metody alokacji nie spełniały minimalnych wymagań losowych."
-    },
-    {
-      "title": "Ćwiczenia na depresję – Puls – wellbeing.com.au",
-      "url": "https://www.wellbeing.com.au/body/health/exercise-for-depression-the-pulse.html",
-      "date": "2026-06-23T06:03:16Z",
-      "source": "Cochrane Library",
-      "confirmed_by": 1,
-      "summary": "Chociaż ćwiczenia nie są panaceum na wszystko, wiadomo, że są bezpiecznym i niedrogim narzędziem do radzenia sobie z depresją i mogą pomóc poprawić nastrój."
     }
   ],
   "guidelines": [
@@ -1434,6 +1450,14 @@
       "summary": "XOCOVA (ensitrelvir) w leczeniu PEP wirusa Covid-19, Japan Clinical Trials Arena."
     },
     {
+      "title": "Szczegóły badania | NCT07668713 | Przeszczep kału u HidradeniTIs suppuratiVA: badanie pilotażowe - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07668713",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07668713 | Przeszczep kału u HidradenITs suppuratiVA: badanie pilotażowe ClinicalTrials.gov."
+    },
+    {
       "title": "UCLA i CHLA dołączają do Globalnej Sieci Badań nad Autyzmem – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/ucla-and-chla-join-global-autism-trial-network-de262934",
       "date": "2026-06-25T04:19:10Z",
@@ -1522,14 +1546,6 @@
       "summary": "Jak czytać zapis badania ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07425574 | Badanie mające na celu sprawdzenie postępu chorób oczu typu Stargardta u dzieci i dorosłych – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07425574",
-      "date": "2026-06-24T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07425574 | Badanie mające na celu sprawdzenie postępu chorób oczu typu Stargardta u dzieci i dorosłych ClinicalTrials.gov."
-    },
-    {
       "title": "EASi-KIDNEY™ (badanie ochrony serca i nerek przy użyciu BI 690517 w połączeniu z empagliflozyną) – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT06531824",
       "date": "2026-06-24T07:00:00Z",
@@ -1596,12 +1612,12 @@
       "summary": "Unikalne identyfikatory sygnatur białkowych Choroba zapalna jelit u dzieci Drugs.com."
     },
     {
-      "title": "Pieniądze z ugody na opioidy pokrywają koszty usług mających na celu walkę z uzależnieniem na obszarach wiejskich Kentucky – Drugs.com",
-      "url": "https://www.drugs.com/news/opioid-settlement-money-pays-services-battle-rural-kentucky-130473.html",
-      "date": "2026-06-26T16:11:10Z",
+      "title": "Badania pokazują, że młodsze pokolenia w USA coraz bardziej boją się dorosłości – Drugs.com",
+      "url": "https://www.drugs.com/news/younger-u-s-generations-increasingly-fear-adulthood-study-says-130472.html",
+      "date": "2026-06-26T16:17:19Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Pieniądze z ugody na opioidy pokrywają koszty usług mających na celu walkę z uzależnieniem na obszarach wiejskich Kentucky Drugs.com."
+      "summary": "Badanie pokazuje, że młodsze pokolenia w USA coraz bardziej boją się dorosłości – wynika z badania Drugs.com."
     },
     {
       "title": "Nowy dyrektor generalny Alkermes ma plan przechytrzyć Lilly i Takedę – BioPharma Dive",
