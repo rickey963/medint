@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T08:20:12Z",
+  "last_updated": "2026-06-27T08:21:01Z",
   "poland": [
     {
       "title": "Idą upały powyżej 35 stopni. Dietetyczka wskazuje, co jeść i pić, aby uniknąć odwodnienia - PolitykaZdrowotna.com",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+      "date": "2026-06-27T06:22:49Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
+    },
+    {
       "title": "Pielęgniarka personelu okołoporodowego – praca w Chorley w fundacji NHS Foundation Trust w Lancashire i Południowej Cumbrii (kariera w służbie zdrowia) | 822590 - BMJ",
       "url": "https://www.bmj.com/healthcareers/job/822590/perinatal-staff-nurse/",
       "date": "2026-06-27T05:43:52Z",
@@ -434,14 +442,6 @@
       "source": "The BMJ",
       "confirmed_by": 2,
       "summary": "Wstęp U pacjentów z ostrym zespołem wieńcowym (ACS) poddawanych przezskórnej interwencji wieńcowej (PCI) skrócona podwójna terapia przeciwpłytkowa (DAPT) zmniejsza krwawienie w porównaniu ze standardową DAPT. Jednak optymalny moment odstawienia aspiryny pozostaje niepewny. Naszym celem było porównanie korzyści netto wynikających z odstawienia aspiryny w przypadku krótkiej DAPT, a następnie monoterapii inhibitorem P2Y12 w porównaniu ze standardową DAPT."
-    },
-    {
-      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-27T03:36:53Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
       "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
@@ -826,7 +826,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
@@ -966,6 +966,14 @@
       "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
     },
     {
+      "title": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami eksonu 20 EGFR - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/oral-sunvozertinib-prolongs-pfs-over-chemotherapy-as-first-line-treatment-for-patients-with-advanced-nsclc-with-egfr-exon-20-insertions",
+      "date": "2026-06-23T13:35:28Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami w eksonie 20 EGFR Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
       "date": "2026-06-23T11:13:29Z",
@@ -1046,14 +1054,6 @@
       "summary": "Wiadomości medyczne i spostrzeżenia z badań Vera Health — najnowsze aktualizacje."
     },
     {
-      "title": "ESMO dołącza do Światowego Forum Badań Klinicznych WHO, aby wzmocnić światowe ekosystemy badań onkologicznych — Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/policy-news/esmo-joins-who-global-clinical-trials-forum-to-strengthen-global-oncology-research-ecosystems",
-      "date": "2026-06-20T01:46:22Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "ESMO dołącza do Światowego Forum Badań Klinicznych WHO, aby wzmocnić światowe ekosystemy badań onkologicznych Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
       "title": "NIL - NIL: sprzeciw wobec rozwiązań ograniczających dostępność szkolenia specjalizacyjnego dla lekarzy z niepełnosprawnościami - NIL",
       "url": "https://nil.org.pl/aktualnosci/9299-nil-sprzeciw-wobec-rozwiazan-ograniczajacych-dostepnosc-szkolenia-specjalizacyjnego-dla-lekarzy-z-niepelnosprawnosciami",
       "date": "2026-06-19T16:15:57Z",
@@ -1068,13 +1068,21 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Zasoby dla personelu medycznego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/chemical-emergencies/hcp/resources/index.html",
+      "date": "2026-06-10T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Lista środków pomocy chemicznej dla pracowników służby zdrowia."
     }
   ],
   "epidemiology": [
     {
       "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-27T03:36:53Z",
+      "date": "2026-06-27T06:22:49Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
@@ -1877,7 +1885,7 @@
   "pharma_market": [
     {
       "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221065",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221067",
       "date": "2026-06-27T06:35:38Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
@@ -1885,7 +1893,7 @@
     },
     {
       "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221067",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221065",
       "date": "2026-06-27T06:35:38Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
@@ -2345,7 +2353,7 @@
   "daily_top5": [
     {
       "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221065",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221067",
       "date": "2026-06-27T06:35:38Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
