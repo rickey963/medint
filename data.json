@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T03:02:39Z",
+  "last_updated": "2026-06-27T03:03:30Z",
   "poland": [
     {
       "title": "Paryż bez alkoholu - Termedia",
@@ -47,7 +47,7 @@
       "date": "2026-06-26T15:53:04Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "KE wszczęła dochodzenie wobec Sanofi. Chodzi o promocję szczepionki przeciw grypie Alert Medyczny."
+      "summary": "KE wszczęła dochodzenie wobec Sanofi. Sprawdzi, czy kampania dotycząca szczepionki przeciw grypie naruszyła zasady konkurencji UE."
     },
     {
       "title": "Pilotaż programu #MłodziŚwiadomi - podsumowanie - Gov.pl",
@@ -167,7 +167,7 @@
       "date": "2026-06-26T13:46:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Limit godzin pracy dla wszystkich lekarzy? Ministra zdrowia spotka się z samorządem 9 lipca Alert Medyczny."
+      "summary": "MZ analizuje limit czasu pracy wszystkich lekarzy. Zmiany mają być odpowiedzią na wyniki kontroli NIK i aferę Szpitala Południowego."
     },
     {
       "title": "Szpital Wojewódzki w Koszalinie przejmie szpital gruźliczy. Sejmik zdecydował o fuzji placówek - PolitykaZdrowotna.com",
@@ -199,7 +199,7 @@
       "date": "2026-06-26T13:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rzecznik Praw Lekarzy NIL chce pilnego posiedzenia po ataku nożownika w szpitalu Alert Medyczny."
+      "summary": "Rzecznik Praw Lekarzy NIL apeluje o pilne działania po ataku nożownika w szpitalu. Proponuje zmiany prawa i rejestr agresji wobec medyków."
     },
     {
       "title": "19-latek zaatakował personel i pacjentów w szpitalu w Jastrzębiu-Zdroju - Remedium.md",
@@ -223,7 +223,7 @@
       "date": "2026-06-26T12:02:29Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO Alert Medyczny."
+      "summary": "Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku do KPO. „Gazeta Wyborcza” opisuje kulisy przetargu i stanowiska stron."
     },
     {
       "title": "400 europejskich miast na liście. Rekord stresu termicznego - Rynek Zdrowia",
@@ -330,6 +330,14 @@
       "summary": "Prezydent m.st. Warszawy Rafał Trzaskowski przedstawił radnym informację na temat zasad organizacji pracy i udzielania świadczeń, a także systemu wynagradzania i naboru personelu medycznego w miejskich podmiotach leczniczych, ze szczególnym uwz."
     },
     {
+      "title": "Kraków – ORL o nowych zasadach przetwarzania informacji o wynagrodzeniach lekarzy - Medycyna Praktyczna",
+      "url": "https://prawo.mp.pl/wiadomosci/442517,krakow-orl-o-nowych-zasadach-przetwarzania-informacji-o-wynagrodzeniach-lekarzy",
+      "date": "2026-06-26T06:44:55Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Dla wspólnego bezpieczeństwa potrzebna jest transparentność systemowa, a nie selektywna transparentność jednej grupy zawodowej."
+    },
+    {
       "title": "Wakacje to czas na zabawę - Serwis Zdrowie",
       "url": "https://zdrowie.pap.pl/dzieci/wakacje-czas-na-zabawe",
       "date": "2026-06-26T06:02:21Z",
@@ -348,20 +356,20 @@
   ],
   "world": [
     {
-      "title": "AHS 2026: Stosowanie oczekiwań i nowe czynniki w migrenie – Medscape",
-      "url": "https://www.medscape.com/viewarticle/mdangle-ahs-2026-migraine-treatment-clinical-impact-2026a1000dch",
-      "date": "2026-06-27T01:00:14Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Dr Nan Cheng wyjaśnia, w jaki sposób wykorzystanie efektów placebo i nowych danych na temat suzetryginy może przywrócić nadzieję w leczeniu migreny opornej na leczenie."
-    },
-    {
       "title": "Praca dla psychiatrów w regionie Azji i Pacyfiku - BMJ",
       "url": "https://www.bmj.com/careers/jobs/psychiatry/asia-pacific/hospital/",
       "date": "2026-06-26T23:30:08Z",
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Praca dla psychiatrów w regionie Azji i Pacyfiku. 4 oferty pracy w szpitalu, BMJ Careers do przeglądania i aplikowania w BMJ Careers."
+    },
+    {
+      "title": "Nieodwracalna elektroporacja a ablacja prądem o częstotliwości radiowej w leczeniu nowotworów wątroby: przegląd systematyczny i metaanaliza - Cureus",
+      "url": "https://www.cureus.com/articles/496102-irreversible-electroporation-versus-radiofrequency-ablation-for-hepatic-malignancies-a-systematic-review-and-meta-analysis",
+      "date": "2026-06-26T20:57:10Z",
+      "source": "Cochrane Library",
+      "confirmed_by": 1,
+      "summary": "Celem tego badania było systematyczne zebranie wszystkich bezpośrednich danych porównawczych z dwuramiennych badań porównujących nieodwracalną elektroporację (IRE) i ablację prądem o częstotliwości radiowej (RFA) w przypadku nowotworów wątroby oraz ocenę miejscowego wznowy/progresji nowotworu (LTRP), częstości powikłań i ogólnej śmiertelności. PubMed/MEDLINE, EMBASE, Web of Science i Cochrane Library były systematycznie przeszukiwane od momentu ich powstania do 30 kwietnia 2026 r. Do badania kwalifikowały się wyłącznie badania z bezpośrednim ramieniem porównawczym IRE i RFA."
     },
     {
       "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 06, dane na dzień 21 czerwca 2026 r. – WHO | Biuro Regionalne dla Afryki",
@@ -428,14 +436,6 @@
       "summary": "Gruczolak przysadki mózgowej związany z zespołem Schöpfa-Schulza-Passarge'a BMJ Case Reports."
     },
     {
-      "title": "Częstość występowania i korelaty lęku i depresji wśród osób LGBT w Nepalu: badanie przekrojowe - BMJ Open",
-      "url": "https://bmjopen.bmj.com/content/16/4/e105946.alerts",
-      "date": "2026-06-26T14:04:03Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Cele Lesbijki, geje, osoby biseksualne i transpłciowe (LGBT) spotykają się z marginalizacją i dyskryminacją pomimo postępu prawnego, na przykład w Nepalu. Choć Nepal zapewnia konstytucyjną ochronę praw osób LGBT, społeczność nadal boryka się z napiętnowaniem społecznym, molestowaniem i wyzwaniami związanymi ze zdrowiem psychicznym. W Nepalu istnieją ograniczone badania na temat zdrowia psychicznego osób LGBT, przy czym badania koncentrują się głównie na zdrowiu seksualnym."
-    },
-    {
       "title": "Leczenie blizn potrądzikowych: laser CO₂ w porównaniu z mikroigłowaniem – EMJ",
       "url": "https://www.emjreviews.com/dermatology/news/acne-scar-treatment-co%E2%82%82-laser-compared-with-microneedling/",
       "date": "2026-06-26T13:03:55Z",
@@ -457,7 +457,7 @@
       "date": "2026-06-26T11:40:03Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Ocenę często można postrzegać jako czynność polegającą na zaznaczeniu jednego pola wyboru, ale jeśli zostanie przeprowadzona prawidłowo, daje lekarzom cenną okazję do zresetowania się."
+      "summary": "Przygotowanie do oceny BMJ."
     },
     {
       "title": "Lekarz wart 5 milionów dolarów: cichy wzrost bogactwa lekarzy – Medscape",
@@ -482,6 +482,14 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Polityka rządu zaostrzy wskaźniki niedoubezpieczenia i wyzwań związanych z siłą roboczą W maju 2026 r. Commonwealth Fund, niezależna fundacja zajmująca się badaniami nad polityką zdrowotną z siedzibą w USA, opublikowała ocenę wydatków na opiekę zdrowotną, wyników i wykorzystania usług w USA w porównaniu z 19 innymi krajami należącymi do Organizacji Współpracy Gospodarczej i Rozwoju (OECD)1. Wyniki są otrzeźwiające. Przez dziesięciolecia Stany Zjednoczone wydawały na opiekę zdrowotną więcej niż jakikolwiek inny kraj i tendencja ta utrzymywała się przez cały 2024 r., osiągając 18% produktu krajowego brutto, czyli prawie dwukrotnie więcej niż średnia OECD. Mimo to około 8% populacji, czyli 27 milionów ludzi, nie jest ubezpieczonych."
+    },
+    {
+      "title": "Trening drzew owocowych: chirurg przełykowo-żołądkowy ćwiczący kreatywność i cierpliwość - BMJ",
+      "url": "https://www.bmj.com/content/393/bmj-2026-865664",
+      "date": "2026-06-26T11:18:50Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "David Chan mówi Kathy Oxtoby, że espalier jest formą eskapizmu „Jako chirurg z natury jestem dość niecierpliwy” – mówi David Chan, konsultant chirurga przełykowo-żołądkowego, dyrektor linii usług i honorowy profesor nadzwyczajny na Uniwersytecie w Plymouth od 2019 r. „Chirurdzy zazwyczaj pragną natychmiastowych rezultatów. Ogrodnictwo, a zwłaszcza uprawa drzew owocowych, to ćwiczenie wymagające i rozwijające cierpliwość."
     },
     {
       "title": "Lecz lub poczekaj – nowe dane na temat bezobjawowej kamicy nerkowej – Medscape",
@@ -674,14 +682,6 @@
       "source": "Cochrane Library",
       "confirmed_by": 1,
       "summary": "Nowe materiały będą lepiej wspierać osoby prowadzące szkolenia dla autorów Cochrane."
-    },
-    {
-      "title": "Zapobieganie OHSS w zapłodnieniu in vitro/ICSI: badanie dotyczące kabergoliny w skojarzeniu z leczeniem typu „coastering” zostało wycofane ze względu na krytyczne problemy związane z randomizacją - Vera Health",
-      "url": "https://verahealth.ai/it/news/ohss-prevention-in-ivf-icsi-cabergoline-plus-coasting-trial-retracted-over-rando",
-      "date": "2026-06-23T07:08:04Z",
-      "source": "Cochrane Library",
-      "confirmed_by": 1,
-      "summary": "International Journal of Gynecology & Obstetrics wycofał badanie RCT opublikowane w 2017 r. po tym, jak w przeglądzie redakcyjnym stwierdzono, że metody alokacji nie spełniały minimalnych wymagań losowych."
     }
   ],
   "guidelines": [
@@ -692,6 +692,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
+    },
+    {
+      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
+      "date": "2026-06-26T11:21:05Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -742,14 +750,6 @@
       "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Dlaczego więcej kobiet nie szuka uznania za doskonałość? - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/news-room/why-arent-more-women-seeking-recognition-for-excellence/",
-      "date": "2026-06-24T23:12:16Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Jedynym żalem dr Birgit Vogel z powodu chęci zostania członkiem ESC (FESC) jest to, że tak długo czeka na złożenie wniosku. „Mogłam to zrobić wcześniej” – wspomina."
-    },
-    {
       "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
       "date": "2026-06-24T16:46:28Z",
@@ -795,7 +795,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
       "title": "Nowe wytyczne dotyczące opieki nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
@@ -819,7 +819,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -827,7 +827,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
       "title": "Informacje o spotkaniu ACIP – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -851,7 +851,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1466,6 +1466,14 @@
       "summary": "XOCOVA (ensitrelvir) w leczeniu PEP wirusa Covid-19, Japan Clinical Trials Arena."
     },
     {
+      "title": "Szczegóły badania | NCT07668713 | Przeszczep kału u HidradeniTIs suppuratiVA: badanie pilotażowe - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07668713",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07668713 | Przeszczep kału u HidradenITs suppuratiVA: badanie pilotażowe ClinicalTrials.gov."
+    },
+    {
       "title": "UCLA i CHLA dołączają do Globalnej Sieci Badań nad Autyzmem – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/ucla-and-chla-join-global-autism-trial-network-de262934",
       "date": "2026-06-25T04:19:10Z",
@@ -1554,14 +1562,6 @@
       "summary": "Jak czytać zapis badania ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07425574 | Badanie mające na celu sprawdzenie postępu chorób oczu typu Stargardta u dzieci i dorosłych – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07425574",
-      "date": "2026-06-24T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07425574 | Badanie mające na celu sprawdzenie postępu chorób oczu typu Stargardta u dzieci i dorosłych ClinicalTrials.gov."
-    },
-    {
       "title": "EASi-KIDNEY™ (badanie ochrony serca i nerek przy użyciu BI 690517 w połączeniu z empagliflozyną) – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT06531824",
       "date": "2026-06-24T07:00:00Z",
@@ -1628,12 +1628,12 @@
       "summary": "Unikalne identyfikatory sygnatur białkowych Choroba zapalna jelit u dzieci Drugs.com."
     },
     {
-      "title": "Pieniądze z ugody na opioidy pokrywają koszty usług mających na celu walkę z uzależnieniem na obszarach wiejskich Kentucky – Drugs.com",
-      "url": "https://www.drugs.com/news/opioid-settlement-money-pays-services-battle-rural-kentucky-130473.html",
-      "date": "2026-06-26T16:11:10Z",
+      "title": "Badania pokazują, że młodsze pokolenia w USA coraz bardziej boją się dorosłości – Drugs.com",
+      "url": "https://www.drugs.com/news/younger-u-s-generations-increasingly-fear-adulthood-study-says-130472.html",
+      "date": "2026-06-26T16:17:19Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Pieniądze z ugody na opioidy pokrywają koszty usług mających na celu walkę z uzależnieniem na obszarach wiejskich Kentucky Drugs.com."
+      "summary": "Badanie pokazuje, że młodsze pokolenia w USA coraz bardziej boją się dorosłości – wynika z badania Drugs.com."
     },
     {
       "title": "Nowy dyrektor generalny Alkermes ma plan przechytrzyć Lilly i Takedę – BioPharma Dive",
