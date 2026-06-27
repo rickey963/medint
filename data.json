@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T20:16:13Z",
+  "last_updated": "2026-06-27T20:16:54Z",
   "poland": [
     {
       "title": "Śmiertelnie groźne e-papierosy - Termedia",
@@ -30,7 +30,7 @@
       "url": "https://ezwm.nfz.gov.pl/",
       "date": "2026-06-27T16:06:56Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "System eZWM (e Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -1102,12 +1102,12 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Keith C. Ferdinand: Niedaleko Dziewiątego Okręgu – www.heart.org",
-      "url": "https://www.heart.org/en/around-the-aha/keith-c-ferdinand-never-far-from-the-ninth-ward",
-      "date": "2026-06-16T07:00:00Z",
+      "title": "Leczenie wewnątrznaczyniowe udaru niedokrwiennego dużego rdzenia - professional.heart.org",
+      "url": "https://professional.heart.org/en/videos/large-core-ischemic-stroke",
+      "date": "2026-06-18T00:09:37Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Lekarz Roku swoje skupienie na bardziej sprawiedliwej opiece zdrowotnej wywodzi z wychowania w Nowym Orleanie."
+      "summary": "Nester Gonzalez, lekarz medycyny."
     }
   ],
   "epidemiology": [
@@ -1448,20 +1448,20 @@
       "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
     },
     {
-      "title": "Błonica na Haiti – Poziom 1 – Należy przestrzegać zwykłych środków ostrożności – Informacje dotyczące zdrowia w podróży | Zdrowie podróżnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
-      "url": "https://wwwnc.cdc.gov/travel/notices/level1/diphtheria-haiti",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Na Haiti wybuchła epidemia błonicy."
-    },
-    {
       "title": "Panel danych Krajowej Sieci Bezpieczeństwa Opieki Zdrowotnej dotyczący COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/nhsn/ltc/ltc-report-overview.html",
       "date": "2026-06-25T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Zrozumienie, w jaki sposób Covid-19 wpływa na wydajność amerykańskiego systemu opieki zdrowotnej, jest niezbędne do zareagowania na pandemię."
+    },
+    {
+      "title": "Błonica na Haiti – Poziom 1 – Należy przestrzegać zwykłych środków ostrożności – Informacje dotyczące zdrowia w podróży | Zdrowie podróżnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level1/diphtheria-haiti",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Na Haiti wybuchła epidemia błonicy."
     },
     {
       "title": "Pytania i odpowiedzi dotyczące obecnej epidemii wirusa Ebola – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1513,14 +1513,6 @@
     }
   ],
   "clinical_trials": [
-    {
-      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
-      "date": "2026-06-27T06:16:39Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
-    },
     {
       "title": "Porównanie ekstrakcji pęcherzyka żółciowego przez wyrostek mieczykowaty z portem podpępkowym podczas cholecystektomii laparoskopowej - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07672145",
@@ -1576,6 +1568,14 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07671859 | Studia przypadków dotyczące mikrotabletek PKU ClinicalTrials.gov."
+    },
+    {
+      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
+      "date": "2026-06-26T22:36:52Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
     },
     {
       "title": "Szczegóły badania | NCT07670663 | Wpływ programu Qi Gong na objawy dysocjacyjne u pacjentów, którzy doświadczyli traumy w dzieciństwie: randomizowane badanie kontrolowane (Qi-T) – ClinicalTrials.gov",
