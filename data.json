@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T09:12:58Z",
+  "last_updated": "2026-06-28T09:13:37Z",
   "poland": [
     {
       "title": "NIL o karach: przepisy już są - Z kraju - Kurier - Medycyna Praktyczna",
@@ -61,7 +61,7 @@
       "title": "Czym są pomiary postępów? - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/faq/czym-sa-pomiary-postepow?highlight=WyJ3aHIiLCJjb24iLCJpIiwiaWJzIiwiaWNoIiwiaWxvXHUwMTViY2kiLCJpbG9cdTAxNWJjaWFjaCIsImlsb1x1MDE1Ylx1MDEwNyIsImluIiwiaW5keXdpZHVhbG5hIl0=",
       "date": "2026-06-28T05:40:03Z",
-      "source": "Narodowy Fundusz Zdrowia",
+      "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
@@ -1296,6 +1296,14 @@
       "summary": "Uzyskaj odpowiedzi na pytania dotyczące wirusa Ebola i wybuchu epidemii wiosną 2026 r. w DRK i Ugandzie."
     },
     {
+      "title": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Modelowanie i prognozowanie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Strona Rt CFA zawiera szacunki dotyczące trendów epidemii Covid-19 w USA, stanach i krajach HSA."
+    },
+    {
       "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-06-26T07:00:00Z",
@@ -1312,14 +1320,6 @@
       "summary": "Program CDC zapewnia infrastrukturę do monitorowania chorób zakaźnych w ściekach."
     },
     {
-      "title": "Trendy w szczepieniach | Choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Przyjmowanie i zamiar szczepień przeciwko Covid-19, grypie i RSV."
-    },
-    {
       "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
       "date": "2026-06-26T07:00:00Z",
@@ -1328,12 +1328,12 @@
       "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
-      "title": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Modelowanie i prognozowanie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
+      "title": "Trendy w szczepieniach | Choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Strona Rt CFA zawiera szacunki dotyczące trendów epidemii Covid-19 w USA, stanach i krajach HSA."
+      "summary": "Przyjmowanie i zamiar szczepień przeciwko Covid-19, grypie i RSV."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
