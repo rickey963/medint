@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T16:52:36Z",
+  "last_updated": "2026-06-28T16:53:21Z",
   "poland": [
     {
       "title": "Ponad 1200 zgonów. Upały intensywniejsze niż kiedykolwiek wcześniej - Rynek Zdrowia",
@@ -277,8 +277,8 @@
       "title": "Czym są pomiary postępów? - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/faq/czym-sa-pomiary-postepow?highlight=WyJ3aHIiLCJjb24iLCJpIiwiaWJzIiwiaWNoIiwiaWxvXHUwMTViY2kiLCJpbG9cdTAxNWJjaWFjaCIsImlsb1x1MDE1Ylx1MDEwNyIsImluIiwiaW5keXdpZHVhbG5hIl0=",
       "date": "2026-06-28T05:40:03Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 2,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -310,7 +310,7 @@
       "url": "https://diety.nfz.gov.pl/filmy/przepisy-na-uroczystosci/drobiowe-roladki-z-ryzem-i-pieczonym-burakiem?highlight=WyJjaGNlc3oiLCJjaGNlIiwicGFzYSIsImhhc1x1MDE0Mm8iLCJoYWxsb3VtaSIsImhmY3MiLCJoYWIiLCJoZXJiYXR5IiwiaHlwZXJ0ZW5zaW9uIiwiaGFzbG8iXQ==",
       "date": "2026-06-27T21:53:09Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 4,
+      "confirmed_by": 5,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -1344,12 +1344,12 @@
       "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
     },
     {
-      "title": "Inne krążące choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/respiratory-viruses/data/illnesses-going-around.html",
+      "title": "Poziomy aktywności wirusa układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Na tej stronie szczegółowo opisano choroby układu oddechowego wywoływane przez wirusy i bakterie inne niż COVID-19, grypa i RSV."
+      "summary": "Aktualne informacje na temat możliwości rozprzestrzeniania się wirusa COVID-19, grypy i wirusa RSV w kraju i w Twoim stanie."
     },
     {
       "title": "Kanał danych o chorobach układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1376,20 +1376,20 @@
       "summary": "Przyjmowanie i zamiar szczepień przeciwko Covid-19, grypie i RSV."
     },
     {
+      "title": "Inne krążące choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/illnesses-going-around.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Na tej stronie szczegółowo opisano choroby układu oddechowego wywoływane przez wirusy i bakterie inne niż COVID-19, grypa i RSV."
+    },
+    {
       "title": "Ciężka Wirusowa Choroba Układu Oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/illness-severity.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Dane na temat wpływu wirusów układu oddechowego na poważne skutki zdrowotne."
-    },
-    {
-      "title": "Poziomy aktywności wirusa układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Aktualne informacje na temat możliwości rozprzestrzeniania się wirusa COVID-19, grypy i wirusa RSV w kraju i w Twoim stanie."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1632,6 +1632,14 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Po niepowodzeniach w początkowym programie leków na otyłość firma Pfizer podejmuje najbardziej ambitne działania w swojej historii. Dyrektor generalny Albert Bourla ogłosił, że firma podała dawki pierwszym uczestnikom VESPER-6, badania fazy 3 oceniającego eksperymentalną terapię GLP-1 raz w miesiącu, jednocześnie rozpoczynając SOLIS-1, badanie fazy 2b łączące tego samego kandydata na GLP-1 z oddzielnym badawczym ultradługo działającym analogiem amyliny. Wszystkie badania podkreślają determinację firmy Pfizer w dążeniu do odzyskania dynamiki na jednym z najszybciej rozwijających się i najbardziej konkurencyjnych rynków przemysłu farmaceutycznego."
+    },
+    {
+      "title": "Ujednolicony paradygmat uzdrawiania bez leków w celu poprawy łagodzenia, cofania i zapobiegania neuropatii obwodowej i ciężkości nóg - trisitenews.com",
+      "url": "https://www.trialsitenews.com/a/unified-drug-free-healing-paradigm-for-augmenting-amelioration-reversal-and-prevention-of-a-neurological-and-a-vascular-combined-disease-peripheral-20f532e1",
+      "date": "2026-06-26T21:02:50Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Doktor Ronald N. Kostoff."
     },
     {
       "title": "Wymieniono miliard dokumentacji medycznej. Teraz nadchodzi trudniejsza część. - wersja próbnanews.com",
@@ -2376,20 +2384,20 @@
       "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
     },
     {
+      "title": "Drobiowe roladki z ryżem i pieczonym burakiem - Diety NFZ",
+      "url": "https://diety.nfz.gov.pl/filmy/przepisy-na-uroczystosci/drobiowe-roladki-z-ryzem-i-pieczonym-burakiem?highlight=WyJjaGNlc3oiLCJjaGNlIiwicGFzYSIsImhhc1x1MDE0Mm8iLCJoYWxsb3VtaSIsImhmY3MiLCJoYWIiLCJoZXJiYXR5IiwiaHlwZXJ0ZW5zaW9uIiwiaGFzbG8iXQ==",
+      "date": "2026-06-27T21:53:09Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 5,
+      "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
+    },
+    {
       "title": "Opis stanowiska - Regionalny dyrektor ds. sytuacji kryzysowych (2602504) - cares.who.int",
       "url": "https://careers.who.int/careersection/ex/jobdetail.ftl?job=2602504",
       "date": "2026-06-27T19:25:07Z",
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Kliknij podany link, aby zobaczyć pełny opis stanowiska."
-    },
-    {
-      "title": "Choroba kociego pazura – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMicm2602360",
-      "date": "2026-06-27T18:22:30Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Choroba kociego pazura The New England Journal of Medicine."
     }
   ]
 }
