@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T12:53:11Z",
+  "last_updated": "2026-06-28T12:53:59Z",
   "poland": [
     {
       "title": "Przełom w leczeniu ALS. Implant mózgowy przywrócił komunikację 47-letniemu pacjentowi z paraliżem - PolitykaZdrowotna.com",
@@ -277,8 +277,8 @@
       "title": "Wiosenne inspiracje z NFZ - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/e-booki/kuchenne-inspiracje-z-nfz-wiosna?highlight=WyJjb24iLCJpbGUiLCJnZHppZSIsImRsYSIsImRsYXRlZ28iLCJkbHVnaWUiLCJkbCIsImRsYWN6ZWdvIiwicG9ydGFsIiwicG9yIl0=",
       "date": "2026-06-27T17:37:17Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 2,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -426,6 +426,14 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "badanie czynników związanych z dłuższym oczekiwaniem pacjentów na pomoc doraźną w Anglii emj.bmj.com."
+    },
+    {
+      "title": "Zrozumienie podejścia australijskich pracowników służby zdrowia do inteligentnych inhalatorów w leczeniu astmy u dzieci: badanie jakościowe – BMJ Open",
+      "url": "https://bmjopen.bmj.com/content/16/6/e118911.citation-tools",
+      "date": "2026-06-28T05:54:18Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Cele Celem tego badania było poznanie opinii australijskich świadczeniodawców (HCP) na temat przydatności inteligentnych inhalatorów u dzieci chorych na astmę oraz rozważań na temat ich skutecznego włączenia do rutynowej opieki. Projekt Jakościowe badanie opisowe z wykorzystaniem wywiadów częściowo ustrukturyzowanych. Do analizy danych zastosowano hybrydową analizę tematyczną."
     },
     {
       "title": "Zrozumienie podejścia australijskich pracowników służby zdrowia do inteligentnych inhalatorów w leczeniu astmy u dzieci: badanie jakościowe – BMJ Open",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Brak nadchodzących wydarzeń. Światowa Organizacja Zdrowia (WHO)."
-    },
-    {
-      "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0859+3970+0884+Pemborong+Interior+Hpl+Untuk+Lemari+WIlayah+Kaliwungu+Kab+Semarang",
-      "date": "2026-06-27T04:25:17Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
     }
   ],
   "guidelines": [
@@ -1312,20 +1312,20 @@
       "summary": "Strona Rt CFA zawiera szacunki dotyczące trendów epidemicznych Covid-19 w USA, stanach i krajach HSA."
     },
     {
+      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Przeglądaj wizyty na oddziałach ratunkowych i prognozy dotyczące przyjęć do szpitala z powodu COVID-19."
+    },
+    {
       "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
-    },
-    {
-      "title": "Informacje o programie monitorowania ścieków CDC — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/wastewater/about/index.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Program CDC zapewnia infrastrukturę do monitorowania chorób zakaźnych w ściekach."
     },
     {
       "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
@@ -1336,20 +1336,20 @@
       "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
+      "title": "Informacje o programie monitorowania ścieków CDC — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/wastewater/about/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Program CDC zapewnia infrastrukturę do monitorowania chorób zakaźnych w ściekach."
+    },
+    {
       "title": "Trendy w szczepieniach | Choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Stosowanie i zamiar szczepień przeciwko Covid-19, grypie i RSV."
-    },
-    {
-      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Przeglądaj wizyty na oddziałach ratunkowych i prognozy dotyczące przyjęć do szpitala z powodu COVID-19."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
