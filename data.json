@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T10:27:12Z",
+  "last_updated": "2026-06-28T10:27:53Z",
   "poland": [
     {
       "title": "NIL odpowiada resortowi zdrowia. Zamiast nowych kar potrzebne są skuteczne kontrole w szpitalach - PolitykaZdrowotna.com",
@@ -198,7 +198,7 @@
       "url": "https://diety.nfz.gov.pl/e-booki/letnie-inspiracje-z-nfz?highlight=WyJwb3J0YWwiLCJwb3J0YWx1IiwiYmluZ2UiLCJjaG9yZWoiLCJ0byIsInRvbGVyYW5jamEiLCJ0b2xlcm93YW5lIiwidG9waW5hbWJ1ciIsInRvcmJpZSIsInRvd2FyenlzdHdhIl0=",
       "date": "2026-06-27T18:05:52Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -222,7 +222,7 @@
       "url": "https://diety.nfz.gov.pl/e-booki/kuchenne-inspiracje-z-nfz-wiosna?highlight=WyJjb24iLCJpbGUiLCJnZHppZSIsImRsYSIsImRsYXRlZ28iLCJkbHVnaWUiLCJkbCIsImRsYWN6ZWdvIiwicG9ydGFsIiwicG9yIl0=",
       "date": "2026-06-27T17:37:17Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -850,7 +850,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
@@ -974,12 +974,28 @@
       "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
     },
     {
+      "title": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacyjności i bezpieczeństwa w opiece onkologicznej - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/policy-news/esmo-responds-to-european-commission-consultation-on-high-risk-ai-rules-to-safeguard-innovation-and-safety-in-cancer-care",
+      "date": "2026-06-25T02:10:28Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
       "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
       "date": "2026-06-24T16:46:28Z",
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
+    },
+    {
+      "title": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/fda-approves-datopotamab-deruxtecan-dlnk-for-unresectable-or-metastatic-tnbc",
+      "date": "2026-06-24T11:15:34Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
@@ -1012,6 +1028,14 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
+    },
+    {
+      "title": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami eksonu 20 EGFR - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/oral-sunvozertinib-prolongs-pfs-over-chemotherapy-as-first-line-treatment-for-patients-with-advanced-nsclc-with-egfr-exon-20-insertions",
+      "date": "2026-06-23T13:35:28Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami w eksonie 20 EGFR Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1076,22 +1100,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Pacjenci mieszkający na obszarach wiejskich z przewlekłym bólem muszą mierzyć się z długimi podróżami, kosztownymi podróżami i ograniczonym dostępem do aptek w celu skutecznego leczenia bólu."
-    },
-    {
-      "title": "ESMO dołącza do Światowego Forum Badań Klinicznych WHO, aby wzmocnić światowe ekosystemy badań onkologicznych — Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/policy-news/esmo-joins-who-global-clinical-trials-forum-to-strengthen-global-oncology-research-ecosystems",
-      "date": "2026-06-20T01:46:22Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "ESMO dołącza do Światowego Forum Badań Klinicznych WHO, aby wzmocnić światowe ekosystemy badań onkologicznych Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
-      "title": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-therapeutic-indications-for-enfortumab-vedotin",
-      "date": "2026-06-20T00:33:39Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "NIL - NIL: sprzeciw wobec rozwiązań ograniczających dostępność szkolenia specjalizacyjnego dla lekarzy z niepełnosprawnościami - NIL",
@@ -2068,7 +2076,7 @@
       "summary": "Ekonomista zajmujący się zdrowiem stwierdził, że wywieranie presji na zagraniczne kraje, aby płaciły więcej za leki, niekoniecznie obniży ceny leków w USA, ponieważ firmy prawdopodobnie nie będą dobrowolnie obniżać cen na swoim najbardziej dochodowym rynku."
     },
     {
-      "title": "MustGrow Biologics Corp. ogłasza wyniki Walnego Zgromadzenia - BioSpace",
+      "title": "MustGrow Biologics Corp. ogłasza wyniki walnego zgromadzenia - BioSpace",
       "url": "https://www.biospace.com/press-releases/mustgrow-biologics-corp-announces-results-of-shareholder-meeting-06-26-26",
       "date": "2026-06-26T21:50:15Z",
       "source": "BioSpace",
