@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T13:02:15Z",
+  "last_updated": "2026-06-28T13:03:08Z",
   "poland": [
     {
       "title": "Przełom w leczeniu ALS. Implant mózgowy przywrócił komunikację 47-letniemu pacjentowi z paraliżem - PolitykaZdrowotna.com",
@@ -159,7 +159,7 @@
       "date": "2026-06-28T07:27:16Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dietetyk czy psychodietetyk? Przewodnik dla lekarzy i psychologów po interdyscyplinarnej opiece nad pacjentem Alert Medyczny."
+      "summary": "Dietetyk czy psychodietetyk? Sprawdź, czym różnią się kompetencje obu specjalistów i kiedy warto skierować pacjenta do każdego z nich."
     },
     {
       "title": "Profilaktyka mężczyzn. Eksperci: nigdy nie jest za późno, by zadbać o zdrowie - Alert Medyczny",
@@ -167,7 +167,7 @@
       "date": "2026-06-28T06:57:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Profilaktyka mężczyzn. Eksperci: nigdy nie jest za późno, by zadbać o zdrowie Alert Medyczny."
+      "summary": "Profilaktyka, aktywność fizyczna i zdrowie psychiczne – eksperci zachęcają mężczyzn do badań i przełamywania tabu wokół zdrowia."
     },
     {
       "title": "Czym są pomiary postępów? - Diety NFZ",
@@ -199,7 +199,7 @@
       "date": "2026-06-27T23:01:41Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Immunoterapia pomogła pacjentkom z przedwczesną menopauzą urodzić zdrowe dzieci Alert Medyczny."
+      "summary": "Badanie pokazuje, że immunoterapia może czasowo przywrócić funkcję jajników u części kobiet z autoimmunologiczną postacią POI."
     },
     {
       "title": "Drobiowe roladki z ryżem i pieczonym burakiem - Diety NFZ",
@@ -858,7 +858,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
@@ -1035,7 +1035,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
       "title": "Nowe wytyczne dotyczące opieki nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
@@ -1051,7 +1051,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1059,7 +1059,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1075,7 +1075,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1312,28 +1312,12 @@
       "summary": "Strona Rt CFA zawiera szacunki dotyczące trendów epidemicznych Covid-19 w USA, stanach i krajach HSA."
     },
     {
-      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Przeglądaj wizyty na oddziałach ratunkowych i prognozy dotyczące przyjęć do szpitala z powodu COVID-19."
-    },
-    {
       "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
-    },
-    {
-      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
       "title": "Informacje o programie monitorowania ścieków CDC — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1344,12 +1328,28 @@
       "summary": "Program CDC zapewnia infrastrukturę do monitorowania chorób zakaźnych w ściekach."
     },
     {
+      "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
+    },
+    {
       "title": "Trendy w szczepieniach | Choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Stosowanie i zamiar szczepień przeciwko Covid-19, grypie i RSV."
+    },
+    {
+      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Przeglądaj wizyty na oddziałach ratunkowych i prognozy dotyczące przyjęć do szpitala z powodu COVID-19."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
