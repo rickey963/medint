@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T18:05:54Z",
+  "last_updated": "2026-06-28T18:06:58Z",
   "poland": [
     {
       "title": "Immunoterapia kontra przedwczesna menopauza - Aktualności - Ginekologia - Medycyna Praktyczna",
@@ -287,7 +287,7 @@
       "date": "2026-06-28T07:27:16Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dietetyk czy psychodietetyk? Przewodnik dla lekarzy i psychologów po interdyscyplinarnej opiece nad pacjentem Alert Medyczny."
+      "summary": "Dietetyk czy psychodietetyk? Sprawdź, czym różnią się kompetencje obu specjalistów i kiedy warto skierować pacjenta do każdego z nich."
     },
     {
       "title": "Profilaktyka mężczyzn. Eksperci: nigdy nie jest za późno, by zadbać o zdrowie - Alert Medyczny",
@@ -295,7 +295,7 @@
       "date": "2026-06-28T06:57:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Profilaktyka mężczyzn. Eksperci: nigdy nie jest za późno, by zadbać o zdrowie Alert Medyczny."
+      "summary": "Profilaktyka, aktywność fizyczna i zdrowie psychiczne – eksperci zachęcają mężczyzn do badań i przełamywania tabu wokół zdrowia."
     },
     {
       "title": "Czym są pomiary postępów? - Diety NFZ",
@@ -327,14 +327,14 @@
       "date": "2026-06-27T23:01:41Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Immunoterapia pomogła pacjentkom z przedwczesną menopauzą urodzić zdrowe dzieci Alert Medyczny."
+      "summary": "Badanie pokazuje, że immunoterapia może czasowo przywrócić funkcję jajników u części kobiet z autoimmunologiczną postacią POI."
     },
     {
       "title": "Drobiowe roladki z ryżem i pieczonym burakiem - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/filmy/przepisy-na-uroczystosci/drobiowe-roladki-z-ryzem-i-pieczonym-burakiem?highlight=WyJjaGNlc3oiLCJjaGNlIiwicGFzYSIsImhhc1x1MDE0Mm8iLCJoYWxsb3VtaSIsImhmY3MiLCJoYWIiLCJoZXJiYXR5IiwiaHlwZXJ0ZW5zaW9uIiwiaGFzbG8iXQ==",
       "date": "2026-06-27T21:53:09Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 5,
+      "confirmed_by": 4,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -830,12 +830,12 @@
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
     },
     {
-      "title": "Secukinumab w leczeniu ropnego zapalenia powiek i powiek o nasileniu umiarkowanym do ciężkiego u osób w wieku od 12 do 17 lat – witryna internetowa NICE",
+      "title": "Secukinumab w leczeniu umiarkowanego do ciężkiego ropnego zapalenia gruczołów potowych u osób w wieku od 12 do 17 lat – witryna internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/prioritisation/gid-ta12044",
       "date": "2026-06-27T07:09:20Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Rada Priorytetowa NICE zebrała się 10 czerwca 2026 r. i stwierdziła, że ​​ocena tego produktu nie byłaby właściwa."
+      "summary": "Rada Priorytetowa NICE zebrała się 10 czerwca 2026 r. i stwierdziła, że ​​ocena tego produktu nie byłaby odpowiednia."
     },
     {
       "title": "Epidemia botulizmu u niemowląt powiązana ze sproszkowanym preparatem dla niemowląt, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -866,7 +866,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
@@ -1006,20 +1006,12 @@
       "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
     },
     {
-      "title": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/fda-approves-datopotamab-deruxtecan-dlnk-for-unresectable-or-metastatic-tnbc",
-      "date": "2026-06-24T11:15:34Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
       "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/gid-ta10413/documents/html-content-7",
       "date": "2026-06-24T10:36:02Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Strona internetowa poradnika NICE."
+      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik NICE."
     },
     {
       "title": "Niezbędna jest zwiększona świadomość na temat objawów niewydolności serca podczas ciąży i po niej – www.heart.org",
@@ -1192,7 +1184,7 @@
       "summary": "Obecnie potwierdzono dwadzieścia pięć przypadków rosnącej epidemii ślimakowatych w Nowym Świecie w Teksasie i Nowym Meksyku."
     },
     {
-      "title": "Epidemia mpoxu w wielu krajach, Raport o sytuacji zewnętrznej nr 67 – 26 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Epidemia mpox w wielu krajach, Raport o sytuacji zewnętrznej nr 67 – 26 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/multi-country-outbreak-of-mpox--external-situation-report--67---26-june-2026",
       "date": "2026-06-26T18:00:13Z",
       "source": "WHO Disease Outbreak News",
@@ -1237,7 +1229,7 @@
       "date": "2026-06-26T14:05:55Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Autorzy raportu Public Health Alerts opisują, jak urzędnikom odpowiedzialnym za zdrowie publiczne udało się zapobiec dodatkowym przypadkom ospy kladu 1b po tym, jak osoba, która zaraziła się tą chorobą, naraziła inne osoby w dwóch zbiorowych placówkach mieszkalnych w New Hampshire, placówce opieki zdrowotnej i domu pacjenta."
+      "summary": "Autorzy raportu Public Health Alerts opisują, jak urzędnicy zajmujący się zdrowiem publicznym byli w stanie zapobiec dodatkowym przypadkom ospy kladu 1b po tym, jak osoba, która zaraziła się tą chorobą, naraziła inne osoby w dwóch zbiorowych placówkach mieszkalnych w New Hampshire, placówce opieki zdrowotnej i domu pacjenta."
     },
     {
       "title": "Globalne podsumowanie przypadków ptasiej grypy H5N1 u ludzi od sierpnia 2025 r. do czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1280,7 +1272,7 @@
       "summary": "U komarów może wystąpić oporność na środki owadobójcze. Przeprowadzić badania, aby zapobiec lub opóźnić oporność."
     },
     {
-      "title": "Przegląd ptasiej grypy marzec–maj 2026 r. - Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Przegląd ptasiej grypy marzec–maj 2026 r. – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/avian-influenza-overview-march-may-2026",
       "date": "2026-06-26T09:12:00Z",
       "source": "ECDC",
@@ -1304,12 +1296,20 @@
       "summary": "Uzyskaj odpowiedzi na pytania dotyczące wirusa Ebola i wybuchu epidemii wiosną 2026 r. w DRK i Ugandzie."
     },
     {
+      "title": "Aktualizacja dochodzenia w sprawie epidemii botulizmu u niemowląt, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/investigation.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Najnowsze informacje na temat ogniska zatrucia jadem kiełbasianym u niemowląt związanego z preparatami do początkowego żywienia niemowląt."
+    },
+    {
       "title": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Modelowanie i prognozowanie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Strona Rt CFA zawiera szacunki dotyczące trendów epidemii Covid-19 w USA, stanach i krajach HSA."
+      "summary": "Strona Rt CFA zawiera szacunki dotyczące trendów epidemicznych Covid-19 w USA, stanach i krajach HSA."
     },
     {
       "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1328,20 +1328,20 @@
       "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
     },
     {
-      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/measles/data-research/index.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
-    },
-    {
       "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
       "date": "2026-06-26T07:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
+    },
+    {
+      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
     },
     {
       "title": "Poziomy aktywności wirusa układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1518,14 +1518,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Aby wzmocnić proces kształtowania polityki rządu USA w zakresie szczepionek i przywrócić zaufanie do szczepień, projekt Vaccine Integrity Project (VIP) w Centrum Badań i Polityki Chorób Zakaźnych (CIDRAP) Uniwersytetu Minnesota oraz The Evidence Collective ogłosiły dziś nowe wysiłki badawcze."
-    },
-    {
-      "title": "Wstrzymanie budowy wspieranej przez USA jednostki kwarantanny wirusa Ebola w Kenii – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/construction-us-backed-ebola-quarantine-unit-kenya-stopped",
-      "date": "2026-06-23T20:57:39Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Po tygodniach zamieszania prawnego i śmiertelnych protestów budowa finansowanego przez USA budynku kwarantanny dla wirusa Ebola w pobliżu bazy lotniczej Laikipia w Kenii została oficjalnie wstrzymana przez sekretarza gabinetu zdrowia Kenii Adena Duale."
     }
   ],
   "clinical_trials": [
@@ -1578,7 +1570,7 @@
       "summary": "Ocena długoterminowego bezpieczeństwa i skuteczności TSND-201 w leczeniu zespołu stresu pourazowego (EMPOWER-EXT) ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07671651 | Wpływ terapii ozonem na remineralizację uszkodzeń próchnicowych początkowych u dzieci - ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07671651 | Wpływ ozonoterapii na remineralizację uszkodzeń próchnicowych początkowych u dzieci - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07671651",
       "date": "2026-06-27T00:18:15Z",
       "source": "ClinicalTrials.gov",
@@ -1674,12 +1666,12 @@
       "summary": "Nadzór nad badaniami klinicznymi w czasie rzeczywistym i luka w infrastrukturze: pytania i odpowiedzi z Rajem Indupuri, eClinical Solutions Applied Clinical Trials Online."
     },
     {
-      "title": "Polityka bezpieczeństwa szczepionek: nowo opublikowane e-maile CDC rodzą pytania dotyczące zarządzania, przejrzystości i zmieniającego się stanowiska Waszyngtonu - trialsitenews.com",
+      "title": "Polityka bezpieczeństwa szczepionek: nowo opublikowane e-maile CDC rodzą pytania dotyczące zarządzania, przejrzystości i zmiany stanowiska Waszyngtonu - Trialssitenews.com",
       "url": "https://www.trialsitenews.com/a/the-politics-of-vaccine-safety-newly-released-cdc-emails-raise-questions-about-governance-transparencyand-washingtons-shifting-positions-798ab7eb",
       "date": "2026-06-26T15:06:03Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Przez większą część późnych lat 90. i początku XXI wieku obawy dotyczące narażenia na rtęć pochodzącą ze szczepionek nie były kwestią stronniczą. Członkowie obu partii politycznych poparli dodatkowe badania nad bezpieczeństwem szczepionek, większą przejrzystością, a wysiłki mające na celu ograniczenie niepotrzebnego kontaktu z krajobrazem politycznym zmieniły się dramatycznie. W nowo wydanym memorandum przygotowanym przez demokratyczny personel Senackiej Komisji Zdrowia, Edukacji, Pracy i Emerytur (HELP) krytykuje Sekretarza Zdrowia i Opieki Społecznej Roberta F."
+      "summary": "Przez większą część późnych lat 90. i początku XXI wieku obawy związane z narażeniem na rtęć pochodzącą ze szczepionek nie były kwestią stronniczą. Członkowie obu partii politycznych poparli dodatkowe badania nad bezpieczeństwem szczepionek, większą przejrzystością, a wysiłki mające na celu ograniczenie niepotrzebnego kontaktu z krajobrazem politycznym zmieniły się dramatycznie. W nowo wydanym memorandum przygotowanym przez demokratyczny personel Senackiej Komisji Zdrowia, Edukacji, Pracy i Emerytur (HELP) krytykuje Sekretarza Zdrowia i Opieki Społecznej Roberta F."
     },
     {
       "title": "DIA 2026: Dlaczego badania kliniczne utknęły w przeszłości – stosowane badania kliniczne online",
@@ -1703,7 +1695,7 @@
       "date": "2026-06-26T11:13:10Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Narzędzie AI Clariyon zwiększa przestrzeganie zasad leczenia sepsy w szpitalnym badaniu Clinical Trials Arena."
+      "summary": "Narzędzie AI firmy Clariyon zwiększa przestrzeganie zasad leczenia sepsy w szpitalnym badaniu Clinical Trials Arena."
     },
     {
       "title": "Pierwszy pacjent, któremu podano dawkę w badaniu RC220 HARNESS-1 firmy Racura – Arena Badań Klinicznych",
@@ -1743,7 +1735,7 @@
       "date": "2026-06-26T10:22:49Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "ACT Brief: Uzupełnianie luk w danych od sponsora ośrodka, wycofanie dużego badania i stosowane badania kliniczne online w trybie pierwszej linii TNBC."
+      "summary": "ACT Brief: Uzupełnianie luk w danych sponsora ośrodka, wycofanie dużego badania i stosowane badania kliniczne online w trybie pierwszej linii TNBC."
     },
     {
       "title": "Szczegóły badania | NCT07667452 | Opracowanie i zastosowanie modelu rozpoznawania pojedynczej cechy niewydolności serca w oparciu o algorytmy optymalizacji sztucznej inteligencji - ClinicalTrials.gov",
@@ -1924,7 +1916,7 @@
       "summary": "Wyrób medyczny przypomina accessdata.fda.gov."
     },
     {
-      "title": "Kurs firmy Pfizer na Seagen nadal traci na wartości; Debata w Chinach wciąż się zaostrza; i więcej - Wiadomości dotyczące punktów końcowych",
+      "title": "Stawka spółki Pfizer na Seagen nadal traci na wartości; Debata w Chinach wciąż się zaostrza; i więcej — Wiadomości dotyczące punktów końcowych",
       "url": "https://endpoints.news/pfizers-seagen-bet-sours-further-china-debate-continues-to-heat-up-and-more/",
       "date": "2026-06-27T10:00:00Z",
       "source": "Endpoints News",
@@ -2068,7 +2060,7 @@
       "summary": "Interakcje między lekiem Cepacol na ból gardła i Guaifenezyną Drugs.com."
     },
     {
-      "title": "Równoważna poprawa w zakresie egzemy obserwowana w przypadku zespołowej opieki online i opieki osobistej – Drugs.com",
+      "title": "Równoważna poprawa w leczeniu egzemy obserwowana w przypadku zespołowej opieki online i opieki osobistej – Drugs.com",
       "url": "https://www.drugs.com/news/equivalent-improvements-eczema-seen-team-based-online-care-person-care-130481.html",
       "date": "2026-06-26T21:18:24Z",
       "source": "Drugs.com",
@@ -2249,7 +2241,7 @@
       "date": "2026-06-26T15:33:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Dyrektor generalna firmy Akeso, Michelle Xia, mówi Endpoints, że analiza danych pacjentów z Chin i krajów zachodnich dotyczących iwonescimabu jest przesadzona, a FDA podejmie decyzję o zatwierdzeniu przez USA do 14 listopada."
+      "summary": "Dyrektor generalna firmy Akeso, Michelle Xia, mówi Endpoints, że analiza danych pacjentów z Chin i krajów zachodnich dotyczących iwonescimabu jest przesadzona, a FDA podejmie decyzję o zatwierdzeniu leku w USA do 14 listopada."
     },
     {
       "title": "Sanofi objęte dochodzeniem antymonopolowym w związku z wszczęciem przez Komisję Europejską formalnego postępowania – Fierce Pharma",
@@ -2257,7 +2249,7 @@
       "date": "2026-06-26T15:20:00Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Dziewięć miesięcy po napadzie na biura Sanofi w unan | Komisja Europejska wszczęła formalne postępowanie w ramach dochodzenia antymonopolowego przeciwko spółce Sanofi. Śledztwo dotyczy marketingu francuskiej firmy farmaceutycznej szczepionki przeciw grypie przeznaczonej dla seniorów z grupy ryzyka, Efluelda."
+      "summary": "Dziewięć miesięcy po napadzie na biura Sanofi w unan | Komisja Europejska wszczęła formalne postępowanie w ramach dochodzenia antymonopolowego przeciwko firmie Sanofi. Śledztwo dotyczy marketingu francuskiej firmy farmaceutycznej szczepionki przeciw grypie przeznaczonej dla seniorów z grupy ryzyka, Efluelda."
     },
     {
       "title": "Postawa Pharma dotycząca Cannes-do oznacza powrót branży do triumfu – Fierce Pharma",
@@ -2273,7 +2265,7 @@
       "date": "2026-06-26T15:07:08Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Ponieważ Amgen przygotowuje się do obrony zgody Tavneos na rynek w USA, firma otrzymała zły znak za granicą, a organy regulacyjne zaleciły, aby lek na zapalenie naczyń związany z ANCA stracił autora | W miarę jak Amgen przygotowuje się do obrony zatwierdzenia leku Tavneos na rynku w USA, firma otrzymała za granicą zły znak, a organy regulacyjne zaleciły, aby lek na zapalenie naczyń związany z ANCA utracił dopuszczenie do obrotu w Unii Europejskiej po tym, jak nowy przegląd doprowadził do wniosku, że korzyści z jego stosowania „nie przewyższają już ryzyka”."
+      "summary": "Ponieważ Amgen przygotowuje się do obrony zgody Tavneos na rynku w USA, firma otrzymała zły znak za granicą, a organy regulacyjne zaleciły, aby lek na zapalenie naczyń związany z ANCA stracił autora | W miarę jak Amgen przygotowuje się do obrony zatwierdzenia leku Tavneos na rynku w USA, firma otrzymała za granicą zły znak, a organy regulacyjne zaleciły, aby lek na zapalenie naczyń związany z ANCA utracił dopuszczenie do obrotu w Unii Europejskiej po tym, jak nowy przegląd doprowadził do wniosku, że korzyści z jego stosowania „nie przewyższają już ryzyka”."
     },
     {
       "title": "Naukowcy twierdzą, że statyny rzadko powodują poważne problemy z mięśniami - Drugs.com",
@@ -2342,7 +2334,7 @@
       "summary": "Obecnie potwierdzono dwadzieścia pięć przypadków rosnącej epidemii ślimakowatych w Nowym Świecie w Teksasie i Nowym Meksyku."
     },
     {
-      "title": "Epidemia mpoxu w wielu krajach, Raport o sytuacji zewnętrznej nr 67 – 26 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Epidemia mpox w wielu krajach, Raport o sytuacji zewnętrznej nr 67 – 26 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/multi-country-outbreak-of-mpox--external-situation-report--67---26-june-2026",
       "date": "2026-06-26T18:00:13Z",
       "source": "WHO Disease Outbreak News",
@@ -2376,20 +2368,20 @@
       "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
     },
     {
-      "title": "Drobiowe roladki z ryżem i pieczonym burakiem - Diety NFZ",
-      "url": "https://diety.nfz.gov.pl/filmy/przepisy-na-uroczystosci/drobiowe-roladki-z-ryzem-i-pieczonym-burakiem?highlight=WyJjaGNlc3oiLCJjaGNlIiwicGFzYSIsImhhc1x1MDE0Mm8iLCJoYWxsb3VtaSIsImhmY3MiLCJoYWIiLCJoZXJiYXR5IiwiaHlwZXJ0ZW5zaW9uIiwiaGFzbG8iXQ==",
-      "date": "2026-06-27T21:53:09Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 5,
-      "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
-    },
-    {
       "title": "Opis stanowiska - Regionalny dyrektor ds. sytuacji kryzysowych (2602504) - cares.who.int",
       "url": "https://careers.who.int/careersection/ex/jobdetail.ftl?job=2602504",
       "date": "2026-06-27T19:25:07Z",
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Kliknij podany link, aby zobaczyć pełny opis stanowiska."
+    },
+    {
+      "title": "Choroba kociego pazura – The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMicm2602360",
+      "date": "2026-06-27T18:22:30Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Choroba kociego pazura The New England Journal of Medicine."
     }
   ]
 }
