@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T13:19:03Z",
+  "last_updated": "2026-06-28T13:19:52Z",
   "poland": [
     {
       "title": "Najgorętsza europejska fala upałów - Ze świata - Kurier - Medycyna Praktyczna",
@@ -254,7 +254,7 @@
       "url": "https://diety.nfz.gov.pl/e-booki/zywienie-w-chorobie-stluszczeniowej-watroby?highlight=WyJjb24iLCJpIiwiaWJzIiwiaWNoIiwiaWxvXHUwMTViY2kiLCJpbG9cdTAxNWJjaWFjaCIsImlsb1x1MDE1Ylx1MDEwNyIsImluIiwiaW5keXdpZHVhbG5hIiwiaW5keXdpZHVhbG5laiJd",
       "date": "2026-06-27T18:06:11Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -521,7 +521,7 @@
       "date": "2026-06-27T19:52:30Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Wprowadzenie Rak wątrobowokomórkowy (HCC) u większości pacjentów po leczeniu ma charakter nawrotowy. Późny nawrót (> 2 lata po leczeniu) zazwyczaj wskazuje na guzy de novo w resztkowej wątrobie. Chociaż tomografia komputerowa ze wzmocnieniem kontrastowym (CECT) i MRI są szeroko stosowane w badaniach kontrolnych po leczeniu, każde z nich ma ograniczenia, w tym narażenie na promieniowanie, wysoki koszt i ograniczony dostęp."
+      "summary": "Wprowadzenie Rak wątrobowokomórkowy (HCC) u większości pacjentów po wyleczeniu ma nawrót. Późny nawrót (> 2 lata po wyleczeniu) zazwyczaj wskazuje na guzy de novo w resztkowej wątrobie. Chociaż tomografia komputerowa ze wzmocnieniem kontrastowym (CECT) i MRI są szeroko stosowane w badaniach kontrolnych po leczeniu, każde z nich ma ograniczenia, w tym narażenie na promieniowanie, wysoki koszt i ograniczony dostęp."
     },
     {
       "title": "Opis stanowiska - Regionalny dyrektor ds. sytuacji kryzysowych (2602504) - cares.who.int",
@@ -858,7 +858,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
@@ -1312,20 +1312,20 @@
       "summary": "Strona Rt CFA zawiera szacunki dotyczące trendów epidemicznych Covid-19 w USA, stanach i krajach HSA."
     },
     {
+      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Przeglądaj wizyty na oddziałach ratunkowych i prognozy dotyczące przyjęć do szpitala z powodu COVID-19."
+    },
+    {
       "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
-    },
-    {
-      "title": "Informacje o programie monitorowania ścieków CDC — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/wastewater/about/index.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Program CDC zapewnia infrastrukturę do monitorowania chorób zakaźnych w ściekach."
     },
     {
       "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
@@ -1336,20 +1336,20 @@
       "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
+      "title": "Informacje o programie monitorowania ścieków CDC — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/wastewater/about/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Program CDC zapewnia infrastrukturę do monitorowania chorób zakaźnych w ściekach."
+    },
+    {
       "title": "Trendy w szczepieniach | Choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Stosowanie i zamiar szczepień przeciwko Covid-19, grypie i RSV."
-    },
-    {
-      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Przeglądaj wizyty na oddziałach ratunkowych i prognozy dotyczące przyjęć do szpitala z powodu COVID-19."
     },
     {
       "title": "Ciężka Wirusowa Choroba Układu Oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
