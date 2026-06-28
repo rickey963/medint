@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T11:13:13Z",
+  "last_updated": "2026-06-28T11:13:57Z",
   "poland": [
     {
       "title": "Nieprawidłowości w Szpitalu Grochowskim? Radny zapowiada zawiadomienie do prokuratury - PolitykaZdrowotna.com",
@@ -874,7 +874,7 @@
       "url": "https://www.cdc.gov/ebola/faq/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Uzyskaj odpowiedzi na pytania dotyczące wirusa Ebola i wybuchu epidemii wiosną 2026 r. w DRK i Ugandzie."
     },
     {
@@ -1022,6 +1022,14 @@
       "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
+      "title": "Co zaktualizowane wytyczne dotyczące cholesterolu oznaczają ryzyko chorób serca - KOIN.com",
+      "url": "https://www.koin.com/am-extra/what-an-updated-cholesterol-guideline-means-for-heart-disease-risk/",
+      "date": "2026-06-23T17:09:03Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Co zaktualizowane wytyczne dotyczące cholesterolu oznaczają dla ryzyka chorób serca KOIN.com."
+    },
+    {
       "title": "Nowe wytyczne dotyczące opieki nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
       "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
       "date": "2026-06-23T15:12:34Z",
@@ -1116,14 +1124,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Leczenie wewnątrznaczyniowe udaru niedokrwiennego dużego rdzenia - professional.heart.org",
-      "url": "https://professional.heart.org/en/videos/large-core-ischemic-stroke",
-      "date": "2026-06-18T00:09:37Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Nester Gonzalez, lekarz medycyny."
     }
   ],
   "epidemiology": [
@@ -1502,14 +1502,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Aby wzmocnić proces kształtowania polityki rządu USA w zakresie szczepionek i przywrócić zaufanie do szczepień, projekt Vaccine Integrity Project (VIP) w Centrum Badań i Polityki Chorób Zakaźnych (CIDRAP) Uniwersytetu Minnesota oraz The Evidence Collective ogłosiły dziś nowe wysiłki badawcze."
-    },
-    {
-      "title": "Wstrzymanie budowy wspieranej przez USA jednostki kwarantanny wirusa Ebola w Kenii – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/construction-us-backed-ebola-quarantine-unit-kenya-stopped",
-      "date": "2026-06-23T20:57:39Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Po tygodniach zamieszania prawnego i śmiertelnych protestów budowa finansowanego przez USA budynku kwarantanny dla wirusa Ebola w pobliżu bazy lotniczej Laikipia w Kenii została oficjalnie wstrzymana przez sekretarza gabinetu zdrowia Kenii Adena Duale."
     }
   ],
   "clinical_trials": [
@@ -2060,20 +2052,20 @@
       "summary": "Interakcje między lekiem okulistycznym Ketorolac i probiotykami Formula Drugs.com."
     },
     {
-      "title": "Równoważna poprawa w zakresie egzemy zaobserwowana w przypadku zespołowej opieki online i opieki osobistej – Drugs.com",
-      "url": "https://www.drugs.com/news/equivalent-improvements-eczema-seen-team-based-online-care-person-care-130481.html",
-      "date": "2026-06-26T21:18:24Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Równoważna poprawa w zakresie egzemy zaobserwowana dzięki zespołowej opiece online, In-Person Care Drugs.com."
-    },
-    {
       "title": "Ćwiczenia w domu możliwe dla osób, które przebyły chłoniaka, rozpoczynających rehabilitację kardio-onkologiczną - Drugs.com",
       "url": "https://www.drugs.com/news/home-based-exercise-feasible-lymphoma-survivors-entering-cardio-oncology-rehab-130480.html",
       "date": "2026-06-26T21:18:24Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Ćwiczenia w domu możliwe dla osób, które przeżyły chłoniaka, rozpoczynających rehabilitację kardio-onkologiczną Drugs.com."
+    },
+    {
+      "title": "Równoważna poprawa w zakresie egzemy zaobserwowana w przypadku zespołowej opieki online i opieki osobistej – Drugs.com",
+      "url": "https://www.drugs.com/news/equivalent-improvements-eczema-seen-team-based-online-care-person-care-130481.html",
+      "date": "2026-06-26T21:18:24Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Równoważna poprawa w zakresie egzemy zaobserwowana dzięki zespołowej opiece online, In-Person Care Drugs.com."
     },
     {
       "title": "Capricor wyrzucony na kolejną pętlę, gdy FDA zatwierdza terapię kardiomiopatią DMD – BioSpace",
