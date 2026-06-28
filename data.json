@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T06:50:53Z",
+  "last_updated": "2026-06-28T06:51:36Z",
   "poland": [
     {
       "title": "Czym są pomiary postępów? - Diety NFZ",
@@ -29,7 +29,7 @@
       "title": "Drobiowe roladki z ryżem i pieczonym burakiem - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/filmy/przepisy-na-uroczystosci/drobiowe-roladki-z-ryzem-i-pieczonym-burakiem?highlight=WyJjaGNlc3oiLCJjaGNlIiwicGFzYSIsImhhc1x1MDE0Mm8iLCJoYWxsb3VtaSIsImhmY3MiLCJoYWIiLCJoZXJiYXR5IiwiaHlwZXJ0ZW5zaW9uIiwiaGFzbG8iXQ==",
       "date": "2026-06-27T21:53:09Z",
-      "source": "Ministerstwo Zdrowia RP",
+      "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 3,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
@@ -37,7 +37,7 @@
       "title": "Wiosenne inspiracje z NFZ - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/e-booki/kuchenne-inspiracje-z-nfz-wiosna?highlight=WyJpbGUiLCJrb3N0a1x1MDExOSIsInVzdW5pXHUwMTE5Y2llIiwiaW5mb3JtYWNqaSIsIm9maWNqYWxueSIsIm8iLCJvYmxpY3p5Iiwib2Rwb3dpYWRhalx1MDEwNWN5Iiwib2tyZVx1MDE1YmwiLCJvYmVjbmUiXQ==",
       "date": "2026-06-27T21:51:06Z",
-      "source": "Ministerstwo Zdrowia RP",
+      "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
@@ -1472,6 +1472,14 @@
       "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
     },
     {
+      "title": "Opryski z powietrza | Komary — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mosquitoes/mosquito-control/aerial-spraying.html",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Samoloty mogą stosować na dużych obszarach środki larwobójcze lub dorosłe w celu zabicia larw lub dorosłych komarów."
+    },
+    {
       "title": "Panel danych Krajowej Sieci Bezpieczeństwa Opieki Zdrowotnej dotyczący COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/nhsn/ltc/ltc-report-overview.html",
       "date": "2026-06-25T07:00:00Z",
@@ -1526,14 +1534,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Badania kliniczne dwóch potencjalnych leków przeciwko szczepowi Ebola Bundibugyo zostaną rozpoczęte w Demokratycznej Republice Konga (DRK) w przyszłym tygodniu, powiedział dziś podczas konferencji prasowej dyrektor generalny Światowej Organizacji Zdrowia (WHO) dr Tedros Adhanom Ghebreyesus."
-    },
-    {
-      "title": "Francja zgłasza pierwszy przypadek wirusa Ebola u lekarza powracającego z misji w DRK – Epidemionnewstoday.com",
-      "url": "https://outbreaknewstoday.com/france-reports-first-ebola-case-in-doctor-returning-from-drc-mission-660/",
-      "date": "2026-06-24T18:18:27Z",
-      "source": "Outbreak News Today",
-      "confirmed_by": 1,
-      "summary": "Francuskie władze ds. zdrowia potwierdziły 24 czerwca pierwszy przypadek choroby wywołanej wirusem Ebola w kraju."
     }
   ],
   "clinical_trials": [
