@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T19:35:14Z",
+  "last_updated": "2026-06-28T19:36:08Z",
   "poland": [
     {
       "title": "Zapaść w ochronie zdrowia. Winne pielęgniarki - Termedia",
@@ -311,7 +311,7 @@
       "date": "2026-06-28T07:27:16Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dietetyk czy psychodietetyk? Przewodnik dla lekarzy i psychologów po interdyscyplinarnej opiece nad pacjentem Alert Medyczny."
+      "summary": "Dietetyk czy psychodietetyk? Sprawdź, czym różnią się kompetencje obu specjalistów i kiedy warto skierować pacjenta do każdego z nich."
     },
     {
       "title": "Profilaktyka mężczyzn. Eksperci: nigdy nie jest za późno, by zadbać o zdrowie - Alert Medyczny",
@@ -319,7 +319,7 @@
       "date": "2026-06-28T06:57:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Profilaktyka mężczyzn. Eksperci: nigdy nie jest za późno, by zadbać o zdrowie Alert Medyczny."
+      "summary": "Profilaktyka, aktywność fizyczna i zdrowie psychiczne – eksperci zachęcają mężczyzn do badań i przełamywania tabu wokół zdrowia."
     },
     {
       "title": "Czym są pomiary postępów? - Diety NFZ",
@@ -351,7 +351,7 @@
       "date": "2026-06-27T23:01:41Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Immunoterapia pomogła pacjentkom z przedwczesną menopauzą urodzić zdrowe dzieci Alert Medyczny."
+      "summary": "Badanie pokazuje, że immunoterapia może czasowo przywrócić funkcję jajników u części kobiet z autoimmunologiczną postacią POI."
     },
     {
       "title": "Drobiowe roladki z ryżem i pieczonym burakiem - Diety NFZ",
@@ -545,7 +545,7 @@
       "date": "2026-06-27T19:52:30Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Wprowadzenie Rak wątrobowokomórkowy (HCC) u większości pacjentów po wyleczeniu ma nawrót. Późny nawrót (> 2 lata po wyleczeniu) zazwyczaj wskazuje na guzy de novo w resztkowej wątrobie. Chociaż tomografia komputerowa ze wzmocnieniem kontrastowym (CECT) i MRI są szeroko stosowane w badaniach kontrolnych po leczeniu, każde z nich ma ograniczenia, w tym narażenie na promieniowanie, wysoki koszt i ograniczony dostęp."
+      "summary": "Wprowadzenie Rak wątrobowokomórkowy (HCC) u większości pacjentów po leczeniu ma charakter nawrotowy. Późny nawrót (> 2 lata po leczeniu) zazwyczaj wskazuje na guzy de novo w resztkowej wątrobie. Chociaż tomografia komputerowa ze wzmocnieniem kontrastowym (CECT) i MRI są szeroko stosowane w badaniach kontrolnych po leczeniu, każde z nich ma ograniczenia, w tym narażenie na promieniowanie, wysoki koszt i ograniczony dostęp."
     },
     {
       "title": "Opis stanowiska - Regionalny dyrektor ds. sytuacji kryzysowych (2602504) - cares.who.int",
@@ -886,7 +886,7 @@
       "summary": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Często zadawane pytania dotyczące wirusa Ebola i Bundibugyo — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Wirus Ebola i Bundibugyo — często zadawane pytania — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/faq/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC (rekomendacje)",
@@ -1035,7 +1035,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
       "title": "Nowa opcja leczenia zalecana w przypadku nawrotowego lub przerzutowego raka szyjki macicy - serwis NICE",
@@ -1046,7 +1046,7 @@
       "summary": "Zgodnie z opublikowanym dzisiaj ostatecznym projektem wytycznych, w ramach NHS dostępna jest obecnie nowa opcja leczenia raka szyjki macicy, który nawrócił lub rozprzestrzenił się na inne części ciała."
     },
     {
-      "title": "Nowe wytyczne dotyczące opieki nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
+      "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
       "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
       "date": "2026-06-23T15:12:34Z",
       "source": "Wytyczne kliniczne",
@@ -1059,7 +1059,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1067,7 +1067,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1075,7 +1075,7 @@
       "date": "2026-06-22T19:53:11Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie bezpośredniej osoby do kierowania opieką może pomóc pacjentom."
+      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
     },
     {
       "title": "Stanowisko Rady ds. Taryfikacji – układ oddechowy - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1083,7 +1083,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1197,7 +1197,7 @@
       "date": "2026-06-26T19:12:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Obecnie potwierdzono dwadzieścia pięć przypadków rosnącej epidemii ślimaków w Nowym Świecie w Teksasie i Nowym Meksyku."
+      "summary": "Obecnie potwierdzono dwadzieścia pięć przypadków rosnącej epidemii ślimakowatych w Nowym Świecie w Teksasie i Nowym Meksyku."
     },
     {
       "title": "Epidemia mpox w wielu krajach, Raport o sytuacji zewnętrznej nr 67 – 26 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
@@ -1245,7 +1245,7 @@
       "date": "2026-06-26T14:05:55Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Autorzy raportu Public Health Alerts opisują, jak urzędnikom odpowiedzialnym za zdrowie publiczne udało się zapobiec dodatkowym przypadkom ospy kladu 1b po tym, jak osoba, która zaraziła się tą chorobą, naraziła inne osoby w dwóch zbiorowych placówkach mieszkalnych w New Hampshire, placówce opieki zdrowotnej i domu pacjenta."
+      "summary": "Autorzy raportu Public Health Alerts opisują, jak urzędnicy zajmujący się zdrowiem publicznym byli w stanie zapobiec dodatkowym przypadkom ospy kladu 1b po tym, jak osoba, która zaraziła się tą chorobą, naraziła inne osoby w dwóch zbiorowych placówkach mieszkalnych w New Hampshire, placówce opieki zdrowotnej i domu pacjenta."
     },
     {
       "title": "Globalne podsumowanie przypadków ptasiej grypy H5N1 u ludzi od sierpnia 2025 r. do czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1264,7 +1264,7 @@
       "summary": "Niniejsze wydanie raportu ECDC o zagrożeniach chorobami zakaźnymi (CDTR) obejmuje okres od 19 do 26 czerwca 2026 r. i zawiera aktualne informacje na temat wirusa Ebola, zakażeń wirusem Zachodniego Nilu, gorączki krwotocznej krymsko-kongijskiej, grypy A(H9N2), cholery, mopksu, dengi, rozmieszczenia ekspertów, choroby chikungunya związanej z podróżami w krajach UE/EOG oraz przegląd wirusów układu oddechowego epidemiologia w UE/EOG."
     },
     {
-      "title": "Podręcznik dotyczący szczepień przeciwko wirusowi układu oddechowego: monitorowanie i raportowanie szczepień przeciwko grypie sezonowej, COVID-19 i wirusowi syncytialnemu układu oddechowego - Światowa Organizacja Zdrowia (WHO)",
+      "title": "Podręcznik dotyczący szczepień przeciwko wirusom układu oddechowego: monitorowanie i raportowanie szczepień przeciwko grypie sezonowej, COVID-19 i wirusowi syncytialnemu układu oddechowego - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/9789240118829",
       "date": "2026-06-26T13:22:10Z",
       "source": "WHO Disease Outbreak News",
@@ -1288,7 +1288,7 @@
       "summary": "U komarów może wystąpić oporność na środki owadobójcze. Przeprowadzić badania, aby zapobiec lub opóźnić oporność."
     },
     {
-      "title": "Przegląd ptasiej grypy marzec–maj 2026 r. - Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Przegląd ptasiej grypy marzec–maj 2026 r. – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/avian-influenza-overview-march-may-2026",
       "date": "2026-06-26T09:12:00Z",
       "source": "ECDC",
@@ -1304,7 +1304,7 @@
       "summary": "Szkody spowodowane alkoholem są przyczyną milionów zgonów każdego roku i pozostają główną, możliwą do uniknięcia przeszkodą dla zdrowia, równości i zrównoważonego rozwoju."
     },
     {
-      "title": "Często zadawane pytania dotyczące wirusa Ebola i Bundibugyo — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Wirus Ebola i Bundibugyo — często zadawane pytania — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/faq/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
@@ -1456,14 +1456,6 @@
       "summary": "Dzisiaj podczas konferencji prasowej dyrektor generalny Afrykańskich Centrów Kontroli i Zapobiegania Chorobom Jean Kaseya, lekarz medycyny, MPH, powiedział, że epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) będzie wymagać środków w wysokości 1,4 miliarda dolarów, aby powstrzymać epidemię, czyli prawie trzykrotnie więcej niż 518 milionów dolarów Africa CDC szacowane na początku miesiąca."
     },
     {
-      "title": "Od konsultacji do partnerstwa: Komisja Społeczeństwa Obywatelskiego WHO planuje kolejny etap - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news/item/25-06-2026-from-consultation-to-partnership--who-civil-society-commission-charts-next-phase",
-      "date": "2026-06-25T19:35:40Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "W dniu 2 kwietnia 2026 r. Komisja Społeczeństwa Obywatelskiego WHO (CSC) odbyła swoje trzecie doroczne zgromadzenie ogólne, w którym wzięło udział ponad 120 uczestników w celu podsumowania postępów i ustalenia priorytetów na lata 2026–2028."
-    },
-    {
       "title": "Powitanie! Wszystko jest w porządku… poza tym, że nadal nie ma kworum ACIP: Stan amerykańskiej polityki dotyczącej szczepionek – CIDRAP",
       "url": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/welcome-everything-fine-except-there-still-no-acip-quorum-state-us-vaccine",
       "date": "2026-06-25T18:21:37Z",
@@ -1525,7 +1517,7 @@
       "date": "2026-06-23T20:57:39Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Po tygodniach zamieszania prawnego i śmiertelnych protestów budowa finansowanego przez USA budynku kwarantanny dla wirusa Ebola w pobliżu bazy lotniczej Laikipia w Kenii została oficjalnie wstrzymana przez sekretarza gabinetu zdrowia Kenii Adena Duale."
+      "summary": "Po tygodniach zamieszania prawnego i śmiertelnych protestów budowa finansowanego przez USA budynku kwarantanny wirusa Ebola w pobliżu bazy lotniczej Laikipia w Kenii została oficjalnie wstrzymana przez sekretarza gabinetu zdrowia Kenii Adena Duale."
     }
   ],
   "clinical_trials": [
@@ -1578,12 +1570,12 @@
       "summary": "Ocena długoterminowego bezpieczeństwa i skuteczności TSND-201 w leczeniu zespołu stresu pourazowego (EMPOWER-EXT) ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07671651 | Wpływ terapii ozonem na remineralizację uszkodzeń próchnicowych początkowych u dzieci - ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07671651 | Wpływ ozonoterapii na remineralizację uszkodzeń próchnicowych początkowych u dzieci - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07671651",
       "date": "2026-06-27T00:18:15Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07671651 | Wpływ terapii ozonem na remineralizację początkowych zmian próchnicowych u dzieci ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07671651 | Wpływ terapii ozonowej na remineralizację uszkodzeń próchnicowych początkowych u dzieci ClinicalTrials.gov."
     },
     {
       "title": "Profilaktyka powikłań hematologicznych za pomocą naderiny w chemioterapii pierwszego rzutu raka piersi (NADERIN-BC) - ClinicalTrials.gov",
@@ -1682,7 +1674,7 @@
       "summary": "Nadzór nad badaniami klinicznymi w czasie rzeczywistym i luka w infrastrukturze: pytania i odpowiedzi z Rajem Indupuri, eClinical Solutions Applied Clinical Trials Online."
     },
     {
-      "title": "Polityka bezpieczeństwa szczepionek: nowo opublikowane e-maile CDC rodzą pytania dotyczące zarządzania, przejrzystości i zmiany stanowiska Waszyngtonu - Trialsitenews.com",
+      "title": "Polityka bezpieczeństwa szczepionek: nowo opublikowane e-maile CDC rodzą pytania dotyczące zarządzania, przejrzystości i zmiany stanowiska Waszyngtonu - Trialssitenews.com",
       "url": "https://www.trialsitenews.com/a/the-politics-of-vaccine-safety-newly-released-cdc-emails-raise-questions-about-governance-transparencyand-washingtons-shifting-positions-798ab7eb",
       "date": "2026-06-26T15:06:03Z",
       "source": "TrialSite News",
@@ -1711,10 +1703,10 @@
       "date": "2026-06-26T11:13:10Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Narzędzie AI Clariyon zwiększa przestrzeganie zasad leczenia sepsy w szpitalnym badaniu Clinical Trials Arena."
+      "summary": "Narzędzie AI firmy Clariyon zwiększa przestrzeganie zasad leczenia sepsy w szpitalnym badaniu Clinical Trials Arena."
     },
     {
-      "title": "Pierwszy pacjent, któremu podano dawkę leku RC220 w badaniu HARNESS-1 firmy Racura – Arena Badań Klinicznych",
+      "title": "Pierwszy pacjent, któremu podano dawkę w badaniu RC220 HARNESS-1 firmy Racura – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/first-patient-dosed-racuras-harness-1-trial/",
       "date": "2026-06-26T11:13:10Z",
       "source": "Clinical Trials Arena",
@@ -1727,7 +1719,7 @@
       "date": "2026-06-26T10:55:56Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07669831 | Skuteczność pozaustrojowej fali uderzeniowej w leczeniu zapalenia powięzi plantatora ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07669831 | Skuteczność pozaustrojowej fali uderzeniowej w zapaleniu powięzi plantatora ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07669012 | Badanie porównawcze sedacji ketaminą i propofolem w porównaniu z sedacją deksmedetomidyną i propofolem u dzieci i młodzieży poddawanych cewnikowaniu serca w celu zamknięcia prostego zastawki lewo-prawej - ClinicalTrials.gov",
@@ -1866,7 +1858,7 @@
       "summary": "Samuel Minucci Camargo i współpracownicy z Universidade de Mogi das Cruzes w Brazylii podają w Scientific Reports, że osoby z długim przebiegiem Covid-19 wykazują mierzalne nieprawidłowości w funkcjonowaniu autonomicznego układu nerwowego podczas testów pochylni. W tym przekrojowym badaniu obejmującym 61 dorosłych – 39 osób od dawna chorych na Covid-19 i 22 zdrowych osób z grupy kontrolnej – badacze wykorzystali pomiary zmienności rytmu serca (HRV), ciśnienia tętna i ciśnienia krwi, aby sprawdzić, jak układ sercowo-naczyniowy reaguje podczas przechodzenia z pozycji leżącej do stojącej. W porównaniu ze zdrowymi uczestnikami, osoby z długim okresem Covid-19 wykazywały zmienione reakcje autonomiczne na stres ortostatyczny, w tym znaczące różnice w odstępach RR, pomiarach HRV w domenie częstotliwości i powrocie ciśnienia tętna po pozycji stojącej."
     },
     {
-      "title": "Wczesna ekspozycja na Covid może kształtować odporność na lata – szczepionka mRNA powiązana z przełączaniem klas IgG4",
+      "title": "Wczesna ekspozycja na Covid może kształtować odporność na lata – szczepionka mRNA powiązana ze zmianą klasy IgG4 – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/early-covid-exposure-may-shape-immunity-for-yearsmrna-vax-linked-to-igg4-class-switching-2182b951",
       "date": "2026-06-25T20:18:13Z",
       "source": "TrialSite News",
@@ -1884,7 +1876,7 @@
       "summary": "Komitet ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP) to komitet Europejskiej Agencji Leków (EMA) odpowiedzialny za leki stosowane u ludzi. Odgrywa kluczową rolę w procesie wydawania pozwoleń na leki w Unii Europejskiej. Komisja spotyka się raz w miesiącu."
     },
     {
-      "title": "Interakcje między loncastuksymabem tezyną i walgancyklowirem - Drugs.com",
+      "title": "Interakcje pomiędzy Loncastuksymabem tezyną i walgancyklowirem - Drugs.com",
       "url": "https://www.drugs.com/drug-interactions/loncastuximab-tesirine-with-valganciclovir-4257-0-2285-0.html?professional=1",
       "date": "2026-06-28T14:11:10Z",
       "source": "Drugs.com",
@@ -1932,7 +1924,7 @@
       "summary": "Wyrób medyczny przypomina accessdata.fda.gov."
     },
     {
-      "title": "Stawka spółki Pfizer na Seagen staje się coraz gorsza; Debata w Chinach wciąż się zaostrza; i więcej — Wiadomości dotyczące punktów końcowych",
+      "title": "Stawka spółki Pfizer na Seagen nadal traci na wartości; Debata w Chinach wciąż się zaostrza; i więcej — Wiadomości dotyczące punktów końcowych",
       "url": "https://endpoints.news/pfizers-seagen-bet-sours-further-china-debate-continues-to-heat-up-and-more/",
       "date": "2026-06-27T10:00:00Z",
       "source": "Endpoints News",
@@ -2020,7 +2012,7 @@
       "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
     },
     {
-      "title": "Interakcje oleju rybnego i witaminy C z owocami róży – Drugs.com",
+      "title": "Interakcje między olejem rybnym i witaminą C z owocami róży - Drugs.com",
       "url": "https://www.drugs.com/drug-interactions/fish-oil-with-vitamin-c-with-rose-hips-1749-3873-238-3833.html?professional=1",
       "date": "2026-06-27T04:10:13Z",
       "source": "Drugs.com",
@@ -2084,7 +2076,7 @@
       "summary": "Interakcje między lekiem Cepacol na ból gardła i Guaifenezyną Drugs.com."
     },
     {
-      "title": "Równoważna poprawa w zakresie egzemy zaobserwowana w przypadku zespołowej opieki online i opieki osobistej – Drugs.com",
+      "title": "Równoważna poprawa w leczeniu egzemy obserwowana w przypadku zespołowej opieki online i opieki osobistej – Drugs.com",
       "url": "https://www.drugs.com/news/equivalent-improvements-eczema-seen-team-based-online-care-person-care-130481.html",
       "date": "2026-06-26T21:18:24Z",
       "source": "Drugs.com",
@@ -2265,7 +2257,7 @@
       "date": "2026-06-26T15:33:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Dyrektor generalna firmy Akeso, Michelle Xia, mówi Endpoints, że analiza danych pacjentów z Chin i krajów zachodnich dotyczących iwonescimabu jest przesadzona, a FDA podejmie decyzję o zatwierdzeniu przez USA do 14 listopada."
+      "summary": "Dyrektor generalna firmy Akeso, Michelle Xia, mówi Endpoints, że analiza danych pacjentów z Chin i krajów zachodnich dotyczących iwonescimabu jest przesadzona, a FDA podejmie decyzję o zatwierdzeniu leku w USA do 14 listopada."
     },
     {
       "title": "Sanofi objęte dochodzeniem antymonopolowym w związku z wszczęciem przez Komisję Europejską formalnego postępowania – Fierce Pharma",
@@ -2273,7 +2265,7 @@
       "date": "2026-06-26T15:20:00Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Dziewięć miesięcy po napadzie na biura Sanofi w unan | Komisja Europejska wszczęła formalne postępowanie w ramach dochodzenia antymonopolowego przeciwko spółce Sanofi. Śledztwo dotyczy marketingu francuskiej firmy farmaceutycznej szczepionki przeciw grypie przeznaczonej dla seniorów z grupy ryzyka, Efluelda."
+      "summary": "Dziewięć miesięcy po napadzie na biura Sanofi w unan | Komisja Europejska wszczęła formalne postępowanie w ramach dochodzenia antymonopolowego przeciwko firmie Sanofi. Śledztwo dotyczy marketingu francuskiej firmy farmaceutycznej szczepionki przeciw grypie przeznaczonej dla seniorów z grupy ryzyka, Efluelda."
     }
   ],
   "critical_alerts": [
@@ -2331,7 +2323,7 @@
       "date": "2026-06-26T19:12:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Obecnie potwierdzono dwadzieścia pięć przypadków rosnącej epidemii ślimaków w Nowym Świecie w Teksasie i Nowym Meksyku."
+      "summary": "Obecnie potwierdzono dwadzieścia pięć przypadków rosnącej epidemii ślimakowatych w Nowym Świecie w Teksasie i Nowym Meksyku."
     },
     {
       "title": "Epidemia mpox w wielu krajach, Raport o sytuacji zewnętrznej nr 67 – 26 czerwca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
