@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T17:21:42Z",
+  "last_updated": "2026-06-28T17:22:25Z",
   "poland": [
     {
       "title": "Zapaść w ochronie zdrowia. Winne pielęgniarki - Termedia",
@@ -521,7 +521,7 @@
       "date": "2026-06-27T19:52:30Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Wieloośrodkowe prospektywne badanie skróconego MRI z użyciem kwasu gadoksetowego w porównaniu z CT w celu wykrycia późnego nawrotu HCC (AMRICT): protokół badania BMJ Open."
+      "summary": "Wprowadzenie Rak wątrobowokomórkowy (HCC) u większości pacjentów po leczeniu ma charakter nawrotowy. Późny nawrót (> 2 lata po leczeniu) zazwyczaj wskazuje na guzy de novo w resztkowej wątrobie. Chociaż tomografia komputerowa ze wzmocnieniem kontrastowym (CECT) i MRI są szeroko stosowane w badaniach kontrolnych po leczeniu, każde z nich ma ograniczenia, w tym narażenie na promieniowanie, wysoki koszt i ograniczony dostęp."
     },
     {
       "title": "Opis stanowiska - Regionalny dyrektor ds. sytuacji kryzysowych (2602504) - cares.who.int",
@@ -1336,6 +1336,14 @@
       "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
+      "title": "Poziomy aktywności wirusa układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Aktualne informacje na temat możliwości rozprzestrzeniania się wirusa COVID-19, grypy i wirusa RSV w kraju i w Twoim stanie."
+    },
+    {
       "title": "Inne krążące choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/illnesses-going-around.html",
       "date": "2026-06-26T07:00:00Z",
@@ -1374,14 +1382,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Dane na temat wpływu wirusów układu oddechowego na poważne skutki zdrowotne."
-    },
-    {
-      "title": "Poziomy aktywności wirusa układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Aktualne informacje na temat możliwości rozprzestrzeniania się wirusa COVID-19, grypy i wirusa RSV w kraju i w Twoim stanie."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1666,12 +1666,12 @@
       "summary": "Nadzór nad badaniami klinicznymi w czasie rzeczywistym i luka w infrastrukturze: pytania i odpowiedzi z Rajem Indupuri, eClinical Solutions Applied Clinical Trials Online."
     },
     {
-      "title": "Polityka bezpieczeństwa szczepionek: nowo opublikowane e-maile CDC rodzą pytania dotyczące zarządzania, przejrzystości i zmiany stanowiska Waszyngtonu - Trialssitenews.com",
+      "title": "Polityka bezpieczeństwa szczepionek: nowo opublikowane e-maile CDC rodzą pytania dotyczące zarządzania, przejrzystości i zmieniającego się stanowiska Waszyngtonu - trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/the-politics-of-vaccine-safety-newly-released-cdc-emails-raise-questions-about-governance-transparencyand-washingtons-shifting-positions-798ab7eb",
       "date": "2026-06-26T15:06:03Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Przez większą część późnych lat 90. i początku XXI wieku obawy związane z narażeniem na rtęć pochodzącą ze szczepionek nie były kwestią stronniczą. Członkowie obu partii politycznych poparli dodatkowe badania nad bezpieczeństwem szczepionek, większą przejrzystością, a wysiłki mające na celu ograniczenie niepotrzebnego kontaktu z krajobrazem politycznym zmieniły się dramatycznie. W nowo wydanym memorandum przygotowanym przez demokratyczny personel Senackiej Komisji Zdrowia, Edukacji, Pracy i Emerytur (HELP) krytykuje Sekretarza Zdrowia i Opieki Społecznej Roberta F."
+      "summary": "Przez większą część późnych lat 90. i początku XXI wieku obawy dotyczące narażenia na rtęć pochodzącą ze szczepionek nie były kwestią stronniczą. Członkowie obu partii politycznych poparli dodatkowe badania nad bezpieczeństwem szczepionek, większą przejrzystością, a wysiłki mające na celu ograniczenie niepotrzebnego kontaktu z krajobrazem politycznym zmieniły się dramatycznie. W nowo wydanym memorandum przygotowanym przez demokratyczny personel Senackiej Komisji Zdrowia, Edukacji, Pracy i Emerytur (HELP) krytykuje Sekretarza Zdrowia i Opieki Społecznej Roberta F."
     },
     {
       "title": "DIA 2026: Dlaczego badania kliniczne utknęły w przeszłości – stosowane badania kliniczne online",
