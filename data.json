@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T10:11:20Z",
+  "last_updated": "2026-06-28T10:12:01Z",
   "poland": [
     {
       "title": "NIL odpowiada resortowi zdrowia. Zamiast nowych kar potrzebne są skuteczne kontrole w szpitalach - PolitykaZdrowotna.com",
@@ -850,7 +850,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
@@ -874,7 +874,7 @@
       "url": "https://www.cdc.gov/ebola/faq/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Uzyskaj odpowiedzi na pytania dotyczące wirusa Ebola i wybuchu epidemii wiosną 2026 r. w DRK i Ugandzie."
     },
     {
@@ -1472,22 +1472,6 @@
       "summary": "Publikacje Światowej Organizacji Zdrowia."
     },
     {
-      "title": "Ruszyły już zapisy na ESCAIDE 2026, wiodącą europejską konferencję dotyczącą zdrowia publicznego, odbywającą się w Sztokholmie i online – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/news-events/registrations-now-open-attend-escaide-2026-europes-leading-public-health-conference",
-      "date": "2026-06-25T10:11:39Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Można już zarejestrować się na tegoroczną Europejską Konferencję Naukową na temat Stosowanej Epidemiologii Chorób Zakaźnych (ESCAIDE), która odbędzie się w Sztokholmie oraz online w dniach 18–20 listopada 2026 r. Rejestracja jest bezpłatna."
-    },
-    {
-      "title": "Ruszyły już zapisy do udziału online w ESCAIDE 2026, wiodącej europejskiej konferencji poświęconej zdrowiu publicznemu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health",
-      "date": "2026-06-25T10:11:39Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Można już zarejestrować się na tegoroczną Europejską Konferencję Naukową na temat Stosowanej Epidemiologii Chorób Zakaźnych (ESCAIDE), która odbędzie się w Sztokholmie oraz online w dniach 18–20 listopada 2026 r. Rejestracja jest bezpłatna."
-    },
-    {
       "title": "WHO ogłasza 2 próby leków eksperymentalnych w walce z epidemią wirusa Ebola – CIDRAP",
       "url": "https://www.cidrap.umn.edu/ebola/who-announces-2-trials-experimental-drugs-ebola-outbreak",
       "date": "2026-06-24T20:36:58Z",
@@ -1501,7 +1485,7 @@
       "date": "2026-06-24T18:18:27Z",
       "source": "Outbreak News Today",
       "confirmed_by": 1,
-      "summary": "Francuskie władze ds. zdrowia potwierdziły 24 czerwca pierwszy przypadek choroby wywołanej wirusem Ebola w kraju."
+      "summary": "Francja zgłasza pierwszy przypadek wirusa Ebola u lekarza powracającego z misji w DRK ognisknewstoday.com."
     },
     {
       "title": "Petycja wzywa FDA do zaprzestania rutynowego stosowania antybiotyków w gospodarstwach rolnych – CIDRAP",
@@ -1526,6 +1510,14 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Aby wzmocnić proces kształtowania polityki rządu USA w zakresie szczepionek i przywrócić zaufanie do szczepień, projekt Vaccine Integrity Project (VIP) w Centrum Badań i Polityki Chorób Zakaźnych (CIDRAP) Uniwersytetu Minnesota oraz The Evidence Collective ogłosiły dziś nowe wysiłki badawcze."
+    },
+    {
+      "title": "Wstrzymanie budowy wspieranej przez USA jednostki kwarantanny wirusa Ebola w Kenii – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/ebola/construction-us-backed-ebola-quarantine-unit-kenya-stopped",
+      "date": "2026-06-23T20:57:39Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Po tygodniach zamieszania prawnego i śmiertelnych protestów budowa finansowanego przez USA budynku kwarantanny dla wirusa Ebola w pobliżu bazy lotniczej Laikipia w Kenii została oficjalnie wstrzymana przez sekretarza gabinetu zdrowia Kenii Adena Duale."
     }
   ],
   "clinical_trials": [
