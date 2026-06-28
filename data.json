@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T06:02:09Z",
+  "last_updated": "2026-06-28T06:02:54Z",
   "poland": [
     {
       "title": "Doradca prezydenta w rozmowie z Rynkiem Zdrowia mówi, jak naprawić system ochrony zdrowia - Rynek Zdrowia",
@@ -77,8 +77,8 @@
       "title": "Błąd logowania - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/blad-logowania?highlight=WyJjb24iLCJpIiwiaWJzIiwiaWNoIiwiaWxvXHUwMTViY2kiLCJpbG9cdTAxNWJjaWFjaCIsImlsb1x1MDE1Ylx1MDEwNyIsImluIiwiaW5keXdpZHVhbG5hIiwiaW5keXdpZHVhbG5laiJd",
       "date": "2026-06-27T17:40:29Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 2,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -806,6 +806,14 @@
   ],
   "guidelines": [
     {
+      "title": "ESC 365 - ESC 365",
+      "url": "https://esc365.escardio.org/knowledge-track/pah",
+      "date": "2026-06-28T04:05:26Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
+    },
+    {
       "title": "Ograniczone wytyczne dotyczące kosztów początkowych w wytycznych amerykańskich – Conexiant",
       "url": "https://conexiant.com/internal-medicine/articles/upfront-cost-guidance-limited-in-us-guidelines/",
       "date": "2026-06-27T15:30:58Z",
@@ -828,14 +836,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Informacja o wybuchu zatrucia jadem kiełbasianym u niemowląt w związku z odżywką dla niemowląt Nara Organics."
-    },
-    {
-      "title": "ESC 365 - ESC 365",
-      "url": "https://esc365.escardio.org/knowledge-track/pah",
-      "date": "2026-06-26T21:05:34Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
     },
     {
       "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1623,7 +1623,7 @@
       "date": "2026-06-26T20:30:50Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Departament Zdrowia i Opieki Społecznej Stanów Zjednoczonych (HHS) ogłosił, że w ramach ramowej i wspólnej umowy o zaufanej wymianie danych (TEFCA&reg;) liczba wymienionych danych przekroczyła miliard miliardów, co stanowi kamień milowy w długoterminowych wysiłkach kraju na rzecz poprawy udostępniania elektronicznych informacji zdrowotnych. HHS ujawnił także rozszerzony nadzór nad siecią, wzmożenie kontroli zgodności i większe zaangażowanie w dochodzenia w sprawie blokowania informacji i oszustw."
+      "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
       "title": "Wspierana przez Lilly firma Absci przekazuje 100 milionów dolarów na leczenie leczenia endometriozy i wypadania włosów – Clinical Trials Arena",
