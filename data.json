@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T06:48:01Z",
+  "last_updated": "2026-06-28T06:48:46Z",
   "poland": [
     {
       "title": "Doradca prezydenta w rozmowie z Rynkiem Zdrowia mówi, jak naprawić system ochrony zdrowia - Rynek Zdrowia",
@@ -15,7 +15,7 @@
       "date": "2026-06-27T23:01:41Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Immunoterapia pomogła pacjentkom z przedwczesną menopauzą urodzić zdrowe dzieci Alert Medyczny."
+      "summary": "Badanie pokazuje, że immunoterapia może czasowo przywrócić funkcję jajników u części kobiet z autoimmunologiczną postacią POI."
     },
     {
       "title": "Drobiowe roladki z ryżem i pieczonym burakiem - Diety NFZ",
@@ -70,7 +70,7 @@
       "url": "https://diety.nfz.gov.pl/e-booki/letnie-inspiracje-z-nfz?highlight=WyJwb3J0YWwiLCJwb3J0YWx1IiwiYmluZ2UiLCJjaG9yZWoiLCJ0byIsInRvbGVyYW5jamEiLCJ0b2xlcm93YW5lIiwidG9waW5hbWJ1ciIsInRvcmJpZSIsInRvd2FyenlzdHdhIl0=",
       "date": "2026-06-27T18:05:52Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -85,7 +85,7 @@
       "title": "Błąd logowania - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/blad-logowania?highlight=WyJjb24iLCJpIiwiaWJzIiwiaWNoIiwiaWxvXHUwMTViY2kiLCJpbG9cdTAxNWJjaWFjaCIsImlsb1x1MDE1Ylx1MDEwNyIsImluIiwiaW5keXdpZHVhbG5hIiwiaW5keXdpZHVhbG5laiJd",
       "date": "2026-06-27T17:40:29Z",
-      "source": "Ministerstwo Zdrowia RP",
+      "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
@@ -367,7 +367,7 @@
       "date": "2026-06-27T06:09:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ekstremalne upały nad Polską. Dr Paweł Banaś: zagrożenie nawet dla młodych i zdrowych osób Alert Medyczny."
+      "summary": "Fala upałów nad Polską. Dr Paweł Banaś wyjaśnia, jak rozpoznać odwodnienie, ile pić i kiedy konieczna jest pilna pomoc medyczna."
     },
     {
       "title": "Tak przetrwasz największe upały. Cztery nieoczywiste porady - Medonet",
@@ -399,7 +399,7 @@
       "date": "2026-06-26T18:50:29Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Projekt wspierający samorządy w planowaniu działań z zakresu zdrowia publicznego z dofinansowaniem Portal Funduszy Europejskich."
+      "summary": "Bądź na bieżąco z Funduszami Europejskimi."
     }
   ],
   "world": [
@@ -982,12 +982,28 @@
       "summary": "Uzyskaj dostęp do artykułu w EP Europace Journal na temat ESC 365."
     },
     {
+      "title": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacyjności i bezpieczeństwa w opiece onkologicznej - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/policy-news/esmo-responds-to-european-commission-consultation-on-high-risk-ai-rules-to-safeguard-innovation-and-safety-in-cancer-care",
+      "date": "2026-06-25T02:10:28Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
       "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
       "date": "2026-06-24T16:46:28Z",
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
+    },
+    {
+      "title": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/fda-approves-datopotamab-deruxtecan-dlnk-for-unresectable-or-metastatic-tnbc",
+      "date": "2026-06-24T11:15:34Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
@@ -1011,7 +1027,15 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
+    },
+    {
+      "title": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami eksonu 20 EGFR - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/oral-sunvozertinib-prolongs-pfs-over-chemotherapy-as-first-line-treatment-for-patients-with-advanced-nsclc-with-egfr-exon-20-insertions",
+      "date": "2026-06-23T13:35:28Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami w eksonie 20 EGFR Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1019,7 +1043,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1027,7 +1051,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1043,7 +1067,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1084,22 +1108,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Wiadomości medyczne i spostrzeżenia z badań Vera Health — najnowsze aktualizacje."
-    },
-    {
-      "title": "ESMO dołącza do Światowego Forum Badań Klinicznych WHO, aby wzmocnić światowe ekosystemy badań onkologicznych — Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/policy-news/esmo-joins-who-global-clinical-trials-forum-to-strengthen-global-oncology-research-ecosystems",
-      "date": "2026-06-20T01:46:22Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "ESMO dołącza do Światowego Forum Badań Klinicznych WHO, aby wzmocnić światowe ekosystemy badań onkologicznych Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
-      "title": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-therapeutic-indications-for-enfortumab-vedotin",
-      "date": "2026-06-20T00:33:39Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "NIL - NIL: sprzeciw wobec rozwiązań ograniczających dostępność szkolenia specjalizacyjnego dla lekarzy z niepełnosprawnościami - NIL",
@@ -1325,7 +1333,7 @@
       "date": "2026-06-26T04:16:32Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki leczenia stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
+      "summary": "Ogniska choroby filowirusowej stanowią poważne zagrożenie dla zdrowia publicznego, a ośrodki lecznicze stały się niezbędną infrastrukturą do reagowania na epidemie. Niniejsza publikacja zawiera wskazówki techniczne dotyczące projektowania i tworzenia funkcjonalnych, skoncentrowanych na pacjencie i opartych na dowodach ośrodków leczenia wirusa Ebola lub Marburg, wspierających bezpieczną identyfikację, izolację, ocenę i zarządzanie podejrzanymi i potwierdzonymi przypadkami."
     },
     {
       "title": "Niespójne strategie łagodzenia skutków Batrachochytrium salamandrivorans, Europa — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1818,7 +1826,7 @@
       "summary": "Carla Martin Pérez i współpracownicy z ISGlobal, Barcelona Institute for Global Health, wraz ze współpracownikami z Uniwersytetu w Barcelonie, IDIBAPS, CIBER i Burnet Institute podają w czasopiśmie Communications Medicine, że pierwsze narażenie osoby na SARS-CoV-2 w wyniku infekcji lub szczepienia mRNA wydaje się kształtować późniejsze reakcje podklas przeciwciał. To podłużne badanie kohortowe hiszpańskich pracowników służby zdrowia wykazało, że wielokrotne szczepienie mRNA było związane ze zwiększeniem poziomu przeciwciał IgG2 i IgG4, szczególnie wśród osób zaszczepionych przed zakażeniem. Podczas krążenia preparatu Omicron wyższe poziomy IgG2 i IgG4 wiązały się z większym ryzykiem przełomowej infekcji, podczas gdy wyższe poziomy IgG1, Fc&gamma; przeciwciała wiążące receptor i przeciwciała wiążące C1q były powiązane z ochroną."
     },
     {
-      "title": "Sąd Najwyższy przyznaje Bayer Major Victory, blokuje tysiące pozwów o ostrzeżenie przed rakiem – Trialsitenews.com",
+      "title": "Sąd Najwyższy przyznaje Bayer Major Victory, blokuje tysiące pozwów sądowych dotyczących ostrzegania przed rakiem – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/supreme-court-hands-bayer-major-victory-blocks-thousands-of-roundup-cancer-warning-lawsuits-5fa17c52",
       "date": "2026-06-25T20:15:00Z",
       "source": "TrialSite News",
@@ -2289,7 +2297,7 @@
       "date": "2026-06-26T14:02:13Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "NORTH CHICAGO, Illinois, 26 czerwca 2026 r. /PRNewswire/ -- Firma AbbVie (NYSE: ABBV) ogłosi swoje wyniki finansowe za drugi kwartał 2026 r. w piątek 31 lipca 2026 r., przed otwarciem rynku. Firma AbbVie będzie gospodarzem transmisji internetowej na żywo telekonferencji dotyczącej wyników o godzinie 8:00."
+      "summary": "NORTH CHICAGO, Illinois, 26 czerwca 2026 r. /PRNewswire/ -- Firma AbbVie (NYSE: ABBV) ogłosi swoje wyniki finansowe za drugi kwartał 2026 r. w piątek 31 lipca 2026 r., przed otwarciem rynku. Firma AbbVie będzie gospodarzem transmisji internetowej na żywo telekonferencji dotyczącej wyników finansowych o godzinie 8:00."
     },
     {
       "title": "BiResp Spiromax - wycofanie wniosku o zmianę pozwolenia na dopuszczenie do obrotu - Europejska Agencja Leków (EMA)",
