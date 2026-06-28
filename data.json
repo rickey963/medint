@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T13:31:23Z",
+  "last_updated": "2026-06-28T13:32:13Z",
   "poland": [
     {
       "title": "Najgorętsza europejska fala upałów - Ze świata - Kurier - Medycyna Praktyczna",
@@ -1038,14 +1038,6 @@
       "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
-      "title": "Co zaktualizowane wytyczne dotyczące cholesterolu oznaczają ryzyko chorób serca - KOIN.com",
-      "url": "https://www.koin.com/am-extra/what-an-updated-cholesterol-guideline-means-for-heart-disease-risk/",
-      "date": "2026-06-23T17:09:03Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Co zaktualizowane wytyczne dotyczące cholesterolu oznaczają dla ryzyka chorób serca KOIN.com."
-    },
-    {
       "title": "Nowe wytyczne dotyczące opieki nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
       "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
       "date": "2026-06-23T15:12:34Z",
@@ -1132,6 +1124,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Leczenie wewnątrznaczyniowe udaru niedokrwiennego dużego rdzenia - professional.heart.org",
+      "url": "https://professional.heart.org/en/videos/large-core-ischemic-stroke",
+      "date": "2026-06-18T00:09:37Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Nester Gonzalez, lekarz medycyny."
     }
   ],
   "epidemiology": [
@@ -1188,7 +1188,7 @@
       "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
       "date": "2026-06-26T19:41:33Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Dostępny jest również plik audio."
     },
     {
@@ -1228,7 +1228,7 @@
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-24.html",
       "date": "2026-06-26T15:08:17Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Aktywność grypy sezonowej jest niska."
     },
     {
@@ -1312,20 +1312,20 @@
       "summary": "Strona Rt CFA zawiera szacunki dotyczące trendów epidemicznych Covid-19 w USA, stanach i krajach HSA."
     },
     {
+      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Przeglądaj wizyty na oddziałach ratunkowych i prognozy dotyczące przyjęć do szpitala z powodu COVID-19."
+    },
+    {
       "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
-    },
-    {
-      "title": "Informacje o programie monitorowania ścieków CDC — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/wastewater/about/index.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Program CDC zapewnia infrastrukturę do monitorowania chorób zakaźnych w ściekach."
     },
     {
       "title": "Tytoń i nikotyna – Światowa Organizacja Zdrowia (WHO)",
@@ -1336,20 +1336,20 @@
       "summary": "Broszura informacyjna WHO dotycząca tytoniu zawierająca kluczowe fakty i informacje na temat nadzoru, biernego palenia, rzucania palenia, ostrzeżeń obrazkowych, zakazów reklam, podatków i reakcji WHO."
     },
     {
+      "title": "Informacje o programie monitorowania ścieków CDC — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/wastewater/about/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Program CDC zapewnia infrastrukturę do monitorowania chorób zakaźnych w ściekach."
+    },
+    {
       "title": "Trendy w szczepieniach | Choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Stosowanie i zamiar szczepień przeciwko Covid-19, grypie i RSV."
-    },
-    {
-      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Przeglądaj wizyty na oddziałach ratunkowych i prognozy dotyczące przyjęć do szpitala z powodu COVID-19."
     },
     {
       "title": "Ciężka Wirusowa Choroba Układu Oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1477,7 +1477,7 @@
       "date": "2026-06-24T18:18:27Z",
       "source": "Outbreak News Today",
       "confirmed_by": 1,
-      "summary": "Francuskie władze ds. zdrowia potwierdziły 24 czerwca pierwszy przypadek choroby wywołanej wirusem Ebola w kraju."
+      "summary": "Francja zgłasza pierwszy przypadek wirusa Ebola u lekarza powracającego z misji w DRK ognisknewstoday.com."
     },
     {
       "title": "Petycja wzywa FDA do zaprzestania rutynowego stosowania antybiotyków w gospodarstwach rolnych – CIDRAP",
@@ -1858,7 +1858,7 @@
       "summary": "Nature Medicine wycofuje badanie dotyczące czasu trwania wirusowego raka płuc po czteromiesięcznych badaniach klinicznych prowadzonych online."
     },
     {
-      "title": "Sąd Najwyższy przyznaje Bayer Major Victory, blokuje tysiące pozwów o ostrzeżenie przed rakiem – Trialsitenews.com",
+      "title": "Sąd Najwyższy przyznaje Bayer Major Victory, blokuje tysiące pozwów sądowych dotyczących ostrzegania przed rakiem – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/supreme-court-hands-bayer-major-victory-blocks-thousands-of-roundup-cancer-warning-lawsuits-5fa17c52",
       "date": "2026-06-25T17:15:14Z",
       "source": "TrialSite News",
@@ -1866,12 +1866,12 @@
       "summary": "W przełomowej decyzji 7 do 2 Sąd Najwyższy Stanów Zjednoczonych orzekł, że federalna ustawa o środkach owadobójczych, grzybobójczych i gryzoniobójczych (FIFRA) zapobiega wytaczaniu przez prawo stanowe procesów sądowych, które wymagałyby ostrzeżeń o nowotworach na etykietach glifosatu zatwierdzonych przez EPA. Trybunał orzekł, że ponieważ Agencja Ochrony Środowiska (EPA) wielokrotnie stwierdzała, że ​​glifosat prawdopodobnie nie będzie rakotwórczy dla ludzi, w związku z czym nie wymagała umieszczania ostrzeżenia o raku na zatwierdzonej przez władze federalne etykiecie Roundupu, poszczególne stany nie mogą nakładać różnych wymogów dotyczących etykietowania w drodze postępowań sądowych dotyczących czynów niedozwolonych."
     },
     {
-      "title": "Kontrola rzeczywistości w zakresie szczepień w Ameryce: liczba zastrzyków na Covid-19 upadła. Rutynowe szczepienia dzieci nie przyniosły efektu – Trialsitenews.com",
+      "title": "Kontrola rzeczywistości w zakresie szczepień w Ameryce: upadłość zastrzyków na Covid-19. Rutynowe szczepienia dzieci nie przyniosły efektu – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/americas-vaccination-reality-check-covid-shots-collapsed.-routine-childhood-vaccination-hasnt-ee1bec2f",
       "date": "2026-06-25T16:21:35Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Czy Ameryka odwróciła się od szczepionek? Odpowiedź zależy od tego, jaką szczepionkę masz na myśli. Najdokładniejsze dane federalne do dnia 24 czerwca 2026 r. wskazują na dramatyczny spadek liczby szczepień przypominających przeciwko Covid-19, stały spadek liczby szczepień przeciwko grypie sezonowej i bardziej stopniowe ograniczanie rutynowych szczepień dzieci, które rozpoczęło się podczas pandemii Covid-19."
+      "summary": "Czy Ameryka odwróciła się od szczepionek? Odpowiedź zależy od tego, jaką szczepionkę masz na myśli. Najsilniejsze dane federalne do dnia 24 czerwca 2026 r. wskazują na dramatyczny spadek liczby szczepień przypominających przeciwko Covid-19, stały spadek liczby szczepień przeciwko grypie sezonowej i bardziej stopniową utratę rutynowych szczepień dzieci, która rozpoczęła się podczas pandemii Covid-19."
     },
     {
       "title": "Niedokrwistość w nefropatii IgA - Arena Badań Klinicznych",
@@ -1905,7 +1905,7 @@
       "date": "2026-06-28T07:20:38Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Asystent (wiele obszarów)."
+      "summary": "Asystent (wiele obszarów) cares.ema.europa.eu."
     },
     {
       "title": "Interakcje hydraminowego syropu na kaszel z chorobą - Drugs.com",
