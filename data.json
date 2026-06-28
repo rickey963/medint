@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T10:28:42Z",
+  "last_updated": "2026-06-28T10:29:40Z",
   "poland": [
     {
       "title": "NIL odpowiada resortowi zdrowia. Zamiast nowych kar potrzebne są skuteczne kontrole w szpitalach - PolitykaZdrowotna.com",
@@ -103,7 +103,7 @@
       "date": "2026-06-28T07:27:16Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dietetyk czy psychodietetyk? Sprawdź, czym różnią się kompetencje obu specjalistów i kiedy warto skierować pacjenta do każdego z nich."
+      "summary": "Dietetyk czy psychodietetyk? Przewodnik dla lekarzy i psychologów po interdyscyplinarnej opiece nad pacjentem Alert Medyczny."
     },
     {
       "title": "Profilaktyka mężczyzn. Eksperci: nigdy nie jest za późno, by zadbać o zdrowie - Alert Medyczny",
@@ -111,7 +111,7 @@
       "date": "2026-06-28T06:17:35Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Profilaktyka, aktywność fizyczna i zdrowie psychiczne – eksperci zachęcają mężczyzn do badań i przełamywania tabu wokół zdrowia."
+      "summary": "Profilaktyka mężczyzn. Eksperci: nigdy nie jest za późno, by zadbać o zdrowie Alert Medyczny."
     },
     {
       "title": "Czym są pomiary postępów? - Diety NFZ",
@@ -143,7 +143,7 @@
       "date": "2026-06-27T23:01:41Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Badanie pokazuje, że immunoterapia może czasowo przywrócić funkcję jajników u części kobiet z autoimmunologiczną postacią POI."
+      "summary": "Immunoterapia pomogła pacjentkom z przedwczesną menopauzą urodzić zdrowe dzieci Alert Medyczny."
     },
     {
       "title": "Drobiowe roladki z ryżem i pieczonym burakiem - Diety NFZ",
@@ -222,7 +222,7 @@
       "url": "https://diety.nfz.gov.pl/e-booki/kuchenne-inspiracje-z-nfz-wiosna?highlight=WyJjb24iLCJpbGUiLCJnZHppZSIsImRsYSIsImRsYXRlZ28iLCJkbHVnaWUiLCJkbCIsImRsYWN6ZWdvIiwicG9ydGFsIiwicG9yIl0=",
       "date": "2026-06-27T17:37:17Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -254,7 +254,7 @@
       "url": "https://ezwm.nfz.gov.pl/",
       "date": "2026-06-27T16:06:56Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "System eZWM (e Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -713,7 +713,7 @@
       "date": "2026-06-27T06:18:45Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Jatrogenny chylothorax to rzadkie, ale poważne powikłanie, które może wystąpić po umieszczeniu cewnika do żyły centralnej (CVC). Zwykle wiąże się to z kaniulacją lewej żyły szyjnej wewnętrznej (IJV) ze względu na anatomiczne położenie przewodu piersiowego. Jednakże donoszono, że kaniulacja prawego IJV powoduje również chylothorax."
+      "summary": "Prawy chylothorax po kaniulacji prawej żyły szyjnej wewnętrznej BMJ Case Reports."
     },
     {
       "title": "Osoby, które przebyły chorobę Covid-19, odnoszą korzyści ze szczepień – lekarz NEJM",
@@ -850,7 +850,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
@@ -935,6 +935,14 @@
     },
     {
       "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm?s_cid=OS_mm7524a2_w",
+      "date": "2026-06-25T17:03:11Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W niniejszym raporcie opisano liczbę zgonów spowodowanych przedawkowaniem narkotyków, które miały miejsce w hotelach i motelach w USA w latach 2022–2024."
+    },
+    {
+      "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm",
       "date": "2026-06-25T17:03:11Z",
       "source": "CDC (rekomendacje)",
@@ -950,14 +958,6 @@
       "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
     },
     {
-      "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm?s_cid=OS_mm7524a2_w",
-      "date": "2026-06-25T17:03:11Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "W niniejszym raporcie opisano liczbę zgonów spowodowanych przedawkowaniem narkotyków, które miały miejsce w hotelach i motelach w USA w latach 2022–2024."
-    },
-    {
       "title": "ESC TV Today – Odcinek 12: Potas w niewydolności serca – wytyczne dotyczące PCI na podstawie obrazowania wewnątrzwieńcowego w ESC 365 – ESC 365",
       "url": "https://esc365.escardio.org/event/2558",
       "date": "2026-06-25T13:49:08Z",
@@ -970,7 +970,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-06-25T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
     },
     {
@@ -1019,7 +1019,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
+      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
@@ -1043,7 +1043,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
+      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1051,7 +1051,15 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
+      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Informacje o spotkaniu ACIP – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/acip/meetings/index.html",
+      "date": "2026-06-23T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "ACIP organizuje trzy regularne spotkania każdego roku. Dowiedz się o nadchodzących spotkaniach i obejrzyj materiały."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1067,7 +1075,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
+      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1510,6 +1518,14 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Aby wzmocnić proces kształtowania polityki rządu USA w zakresie szczepionek i przywrócić zaufanie do szczepień, projekt Vaccine Integrity Project (VIP) w Centrum Badań i Polityki Chorób Zakaźnych (CIDRAP) Uniwersytetu Minnesota oraz The Evidence Collective ogłosiły dziś nowe wysiłki badawcze."
+    },
+    {
+      "title": "Wstrzymanie budowy wspieranej przez USA jednostki kwarantanny wirusa Ebola w Kenii – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/ebola/construction-us-backed-ebola-quarantine-unit-kenya-stopped",
+      "date": "2026-06-23T20:57:39Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Po tygodniach zamieszania prawnego i śmiertelnych protestów budowa finansowanego przez USA budynku kwarantanny wirusa Ebola w pobliżu bazy lotniczej Laikipia w Kenii została oficjalnie wstrzymana przez sekretarza gabinetu zdrowia Kenii Adena Duale."
     }
   ],
   "clinical_trials": [
