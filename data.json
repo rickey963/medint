@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T14:50:54Z",
+  "last_updated": "2026-06-28T14:51:43Z",
   "poland": [
     {
       "title": "Dr Janusz Sokołowski: udar cieplny uszkadza cały organizm. Paracetamol może być niebezpieczny - PolitykaZdrowotna.com",
@@ -199,7 +199,7 @@
       "date": "2026-06-28T07:27:16Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dietetyk czy psychodietetyk? Przewodnik dla lekarzy i psychologów po interdyscyplinarnej opiece nad pacjentem Alert Medyczny."
+      "summary": "Dietetyk czy psychodietetyk? Sprawdź, czym różnią się kompetencje obu specjalistów i kiedy warto skierować pacjenta do każdego z nich."
     },
     {
       "title": "Profilaktyka mężczyzn. Eksperci: nigdy nie jest za późno, by zadbać o zdrowie - Alert Medyczny",
@@ -207,7 +207,7 @@
       "date": "2026-06-28T06:57:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Profilaktyka mężczyzn. Eksperci: nigdy nie jest za późno, by zadbać o zdrowie Alert Medyczny."
+      "summary": "Profilaktyka, aktywność fizyczna i zdrowie psychiczne – eksperci zachęcają mężczyzn do badań i przełamywania tabu wokół zdrowia."
     },
     {
       "title": "Czym są pomiary postępów? - Diety NFZ",
@@ -221,7 +221,7 @@
       "title": "Co znaczy DASH? - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/faq/co-znaczy-dash?highlight=WyJjb24iLCJpIiwiaWJzIiwiaWNoIiwiaWxvXHUwMTViY2kiLCJpbG9cdTAxNWJjaWFjaCIsImlsb1x1MDE1Ylx1MDEwNyIsImluIiwiaW5keXdpZHVhbG5hIiwiaW5keXdpZHVhbG5laiJd",
       "date": "2026-06-28T04:21:32Z",
-      "source": "Narodowy Fundusz Zdrowia",
+      "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
@@ -239,13 +239,13 @@
       "date": "2026-06-27T23:01:41Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Immunoterapia pomogła pacjentkom z przedwczesną menopauzą urodzić zdrowe dzieci Alert Medyczny."
+      "summary": "Badanie pokazuje, że immunoterapia może czasowo przywrócić funkcję jajników u części kobiet z autoimmunologiczną postacią POI."
     },
     {
       "title": "Drobiowe roladki z ryżem i pieczonym burakiem - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/filmy/przepisy-na-uroczystosci/drobiowe-roladki-z-ryzem-i-pieczonym-burakiem?highlight=WyJjaGNlc3oiLCJjaGNlIiwicGFzYSIsImhhc1x1MDE0Mm8iLCJoYWxsb3VtaSIsImhmY3MiLCJoYWIiLCJoZXJiYXR5IiwiaHlwZXJ0ZW5zaW9uIiwiaGFzbG8iXQ==",
       "date": "2026-06-27T21:53:09Z",
-      "source": "Narodowy Fundusz Zdrowia",
+      "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 3,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
@@ -261,7 +261,7 @@
       "title": "Żywienie w chorobie stłuszczeniowej wątroby - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/e-booki/zywienie-w-chorobie-stluszczeniowej-watroby?highlight=WyJsaW5rIiwibGlua2llbSIsImxpbmtpIiwiYnlcdTAxMDciLCJieVx1MDE0MnkiLCJieSIsImJ5XHUwMTQybyIsImJ5XHUwMTQyYnkiLCJieXR1alx1MDEwNSIsImJ5XHUwMTQyYSJd",
       "date": "2026-06-27T21:44:43Z",
-      "source": "Narodowy Fundusz Zdrowia",
+      "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 2,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
@@ -890,7 +890,7 @@
       "url": "https://www.cdc.gov/ebola/faq/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Uzyskaj odpowiedzi na pytania dotyczące wirusa Ebola i wybuchu epidemii wiosną 2026 r. w DRK i Ugandzie."
     },
     {
@@ -990,6 +990,14 @@
       "summary": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
+      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
+    },
+    {
       "title": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacyjności i bezpieczeństwa w opiece onkologicznej - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/policy-news/esmo-responds-to-european-commission-consultation-on-high-risk-ai-rules-to-safeguard-innovation-and-safety-in-cancer-care",
       "date": "2026-06-25T02:10:28Z",
@@ -1035,7 +1043,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
       "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
@@ -1051,7 +1059,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1059,7 +1067,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1075,7 +1083,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1894,7 +1902,7 @@
     {
       "title": "Asystent (wiele obszarów) - cares.ema.europa.eu",
       "url": "https://careers.ema.europa.eu/job/EMA-Amsterdam-Assistant-%28multiple-areas%29-1143/1399999933/",
-      "date": "2026-06-28T13:05:58Z",
+      "date": "2026-06-28T07:20:38Z",
       "source": "EMA",
       "confirmed_by": 1,
       "summary": "Asystent (wiele obszarów)."
@@ -2384,12 +2392,12 @@
       "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
     },
     {
-      "title": "Opis stanowiska - Regionalny dyrektor ds. sytuacji kryzysowych (2602504) - cares.who.int",
-      "url": "https://careers.who.int/careersection/ex/jobdetail.ftl?job=2602504",
-      "date": "2026-06-27T19:25:07Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Kliknij podany link, aby zobaczyć pełny opis stanowiska."
+      "title": "Drobiowe roladki z ryżem i pieczonym burakiem - Diety NFZ",
+      "url": "https://diety.nfz.gov.pl/filmy/przepisy-na-uroczystosci/drobiowe-roladki-z-ryzem-i-pieczonym-burakiem?highlight=WyJjaGNlc3oiLCJjaGNlIiwicGFzYSIsImhhc1x1MDE0Mm8iLCJoYWxsb3VtaSIsImhmY3MiLCJoYWIiLCJoZXJiYXR5IiwiaHlwZXJ0ZW5zaW9uIiwiaGFzbG8iXQ==",
+      "date": "2026-06-27T21:53:09Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 3,
+      "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
       "title": "Epidemia cholery: raport sytuacyjny nr 47 | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
