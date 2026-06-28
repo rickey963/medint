@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T08:23:23Z",
+  "last_updated": "2026-06-28T08:24:13Z",
   "poland": [
     {
       "title": "Australijczycy mają patent na upał. \"5S\" to święta zasada - Medonet",
@@ -649,7 +649,7 @@
       "date": "2026-06-27T06:18:45Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Jatrogenny chylothorax to rzadkie, ale poważne powikłanie, które może wystąpić po umieszczeniu cewnika do żyły centralnej (CVC). Zwykle wiąże się to z kaniulacją lewej żyły szyjnej wewnętrznej (IJV) ze względu na anatomiczne położenie przewodu piersiowego. Jednakże donoszono, że kaniulacja prawego IJV powoduje również chylothorax."
+      "summary": "Prawy chylothorax po kaniulacji prawej żyły szyjnej wewnętrznej BMJ Case Reports."
     },
     {
       "title": "Pielęgniarka personelu okołoporodowego – praca w Chorley w fundacji NHS Foundation Trust w Lancashire i Południowej Cumbrii (kariera w służbie zdrowia) | 822590 - BMJ",
@@ -850,7 +850,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
@@ -1086,14 +1086,6 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "American Heart Association publikuje pierwsze w historii wytyczne dotyczące zespołu sercowo-naczyniowego, nerkowo-metabolicznego (CKM): - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/etimes/wellness/american-heart-association-issues-first-ever-guideline-on-cardiovascular-kidney-metabolic-syndrome-ckm-what-you-need-to-know-for-your-heart-kidney-and-metabolic-health/articleshow/131901708.cms",
-      "date": "2026-06-22T05:25:00Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 3,
-      "summary": "Przez długi czas lekarze traktowali choroby serca, nerek, cukrzycę i otyłość jako zupełnie odrębne zagadnienia. Masz problemy z sercem; idź do kardiologa."
-    },
-    {
       "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
       "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
       "date": "2026-06-22T00:26:59Z",
@@ -1124,6 +1116,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Leczenie wewnątrznaczyniowe udaru niedokrwiennego dużego rdzenia - professional.heart.org",
+      "url": "https://professional.heart.org/en/videos/large-core-ischemic-stroke",
+      "date": "2026-06-18T00:09:37Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Nester Gonzalez, lekarz medycyny."
     }
   ],
   "epidemiology": [
@@ -1502,6 +1502,14 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Aby wzmocnić proces kształtowania polityki rządu USA w zakresie szczepionek i przywrócić zaufanie do szczepień, projekt Vaccine Integrity Project (VIP) w Centrum Badań i Polityki Chorób Zakaźnych (CIDRAP) Uniwersytetu Minnesota oraz The Evidence Collective ogłosiły dziś nowe wysiłki badawcze."
+    },
+    {
+      "title": "Wstrzymanie budowy wspieranej przez USA jednostki kwarantanny wirusa Ebola w Kenii – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/ebola/construction-us-backed-ebola-quarantine-unit-kenya-stopped",
+      "date": "2026-06-23T20:57:39Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Po tygodniach zamieszania prawnego i śmiertelnych protestów budowa finansowanego przez USA budynku kwarantanny wirusa Ebola w pobliżu bazy lotniczej Laikipia w Kenii została oficjalnie wstrzymana przez sekretarza gabinetu zdrowia Kenii Adena Duale."
     }
   ],
   "clinical_trials": [
