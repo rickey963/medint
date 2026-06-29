@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T09:50:49Z",
+  "last_updated": "2026-06-29T09:51:40Z",
   "poland": [
     {
       "title": "Szpitalne układy - Termedia",
@@ -894,6 +894,14 @@
       "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
     },
     {
+      "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/how-early-is-early-enough-treating-familial-hypercholesterolaemia-before-risk-takes-root/",
+      "date": "2026-06-26T06:20:50Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "W prospektywnej kohorcie badania SAFEHEART badacze oceniali długoterminowe wyniki w przypadku genetycznie potwierdzonej hipercholesterolemii rodzinnej wśród 348 dzieci/młodzieży dotkniętych chorobą, 165 zdrowych krewnych i 288 chorych rodziców."
+    },
+    {
       "title": "EPN113: Wytyczne praktyki klinicznej dotyczące przedwczesnego dojrzewania centralnego – Towarzystwo Endokrynologiczne",
       "url": "https://www.endocrine.org/podcast/enp113",
       "date": "2026-06-25T23:30:40Z",
@@ -942,12 +950,20 @@
       "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/fda-approves-datopotamab-deruxtecan-dlnk-for-unresectable-or-metastatic-tnbc",
-      "date": "2026-06-24T11:15:34Z",
-      "source": "ESMO (onkologia)",
+      "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
+      "date": "2026-06-24T16:46:28Z",
+      "source": "NICE",
       "confirmed_by": 1,
-      "summary": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
+    },
+    {
+      "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta10413/documents/html-content-7",
+      "date": "2026-06-24T10:36:02Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik NICE."
     },
     {
       "title": "Komunikat – Plan Taryfikacji na rok 2027 - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -958,12 +974,12 @@
       "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
-      "title": "Zalecenia dotyczące zapobiegania i kontroli infekcji dla pacjentów przebywających w szpitalach w USA, u których istnieje podejrzenie lub potwierdzenie wybranej wirusowej gorączki krwotocznej (VHF) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/viral-hemorrhagic-fevers/hcp/infection-control/index.html",
+      "title": "Ostateczny projekt wytycznych | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ta1169/documents/html-content-4",
       "date": "2026-06-24T07:00:00Z",
-      "source": "CDC (rekomendacje)",
+      "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Wytyczne dla personelu szpitala w USA opiekującego się pacjentem z podejrzeniem lub potwierdzonym VHF."
+      "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
     },
     {
       "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
@@ -1006,22 +1022,6 @@
       "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
-      "title": "Stanowisko Rady ds. Taryfikacji – psychiatria - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/stanowisko-rady-ds-taryfikacji-psychiatria/",
-      "date": "2026-06-22T17:44:47Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 5/2026 w sprawie taryf świadczeń gwarantowanych gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień."
-    },
-    {
-      "title": "Komunikat w sprawie posiedzenia Rady ds. Taryfikacji w dniu 18 czerwca 2026 r. - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/komunikat-w-sprawie-posiedzenia-rady-ds-taryfikacji-w-dniu-18-czerwca-2026-r/",
-      "date": "2026-06-22T11:15:20Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Na posiedzeniu w dniu 18.06.2026 r. Rada, po zapoznaniu się z przedstawionym materiałem, wydała stanowisko w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
-    },
-    {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
       "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
       "date": "2026-06-22T10:42:34Z",
@@ -1046,22 +1046,6 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
-      "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
-      "date": "2026-06-22T00:26:59Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
-    },
-    {
-      "title": "Angiografia płucna CT a scyntygrafia płuc w przypadku podejrzenia zatorowości płucnej w ciąży: wzorce praktyki środowiskowej i niejasność diagnostyczna - Vera Health",
-      "url": "https://verahealth.ai/fr/news/373dfaeb",
-      "date": "2026-06-21T07:52:55Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Wiadomości medyczne i spostrzeżenia z badań Vera Health — najnowsze aktualizacje."
-    },
-    {
       "title": "NIL - NIL: sprzeciw wobec rozwiązań ograniczających dostępność szkolenia specjalizacyjnego dla lekarzy z niepełnosprawnościami - NIL",
       "url": "https://nil.org.pl/aktualnosci/9299-nil-sprzeciw-wobec-rozwiazan-ograniczajacych-dostepnosc-szkolenia-specjalizacyjnego-dla-lekarzy-z-niepelnosprawnosciami",
       "date": "2026-06-19T16:15:57Z",
@@ -1070,28 +1054,12 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Rzecznicy Praw Lekarza OIL - NIL",
-      "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil/rzecznicy-praw-lekarza-oil",
-      "date": "2026-06-19T14:53:25Z",
-      "source": "Naczelna Izba Lekarska",
+      "title": "Leczenie wewnątrznaczyniowe udaru niedokrwiennego o dużym rdzeniu - professional.heart.org",
+      "url": "https://professional.heart.org/en/videos/large-core-ischemic-stroke",
+      "date": "2026-06-18T00:09:37Z",
+      "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Zgłoszenia do RPL zbiorowych problemów lekarzy - NIL",
-      "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil/zgloszenia-do-rpl-zbiorowych-problemow-lekarzy",
-      "date": "2026-06-19T14:53:24Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Rada Ekspertów Naczelnej Izby Lekarskiej w X kadencji – kontynuacja działań w zgodzie z aktualną wiedzą medyczną - NIL",
-      "url": "https://nil.org.pl/izba/rada-ekspertow-712/9296-rada-ekspertow-naczelnej-izby-lekarskiej-w-x-kadencji-kontynuacja-dzialan-w-zgodzie-z-aktualna-wiedza-medyczna",
-      "date": "2026-06-19T11:30:00Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
+      "summary": "Nester Gonzalez, lekarz medycyny."
     },
     {
       "title": "Nowe wytyczne AHA/ACC traktują zespół sercowo-nerkowo-metaboliczny jako pojedynczy, wzajemnie powiązany stan - Pharmacy Times",
@@ -1100,30 +1068,6 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Lekarz Chiadi Ndumele wyjaśnia, dlaczego nowe wytyczne American Heart Association (AHA)/American College of Cardiology (ACC) traktują chorobę sercowo-naczyniowo-nerkową (CKM) jako jeden wzajemnie powiązany zespół."
-    },
-    {
-      "title": "Keith C. Ferdinand: Niedaleko Dziewiątego Okręgu – www.heart.org",
-      "url": "https://www.heart.org/en/around-the-aha/keith-c-ferdinand-never-far-from-the-ninth-ward",
-      "date": "2026-06-16T07:00:00Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Lekarz Roku swoje skupienie na bardziej sprawiedliwej opiece zdrowotnej wywodzi z wychowania w Nowym Orleanie."
-    },
-    {
-      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu z roku 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
-      "url": "https://professional.heart.org/en/science-news/video-series-ais",
-      "date": "2026-06-16T04:08:33Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Opieka nad chorymi na ostry udar niedokrwienny mózgu w dalszym ciągu szybko ewoluuje, a nowe dowody zmieniają sposób przedszpitalnej segregacji pacjentów, obrazowania, strategii reperfuzji i opieki zespołowej przez całe życie. Ta czteroczęściowa seria filmów przedstawia autorów Wytycznych Amerykańskiego Towarzystwa Kardiologicznego dotyczących ostrego udaru niedokrwiennego z 2026 r., przedstawiających zmieniające praktykę aktualizacje dla klinicystów medycyny ratunkowej, neurointerwencjonistów, specjalistów w dziedzinie obrazowania, pielęgniarek, koordynatorów udaru i pediatrycznych zespołów udarowych."
-    },
-    {
-      "title": "American Heart Association publikuje pierwsze w historii wytyczne dotyczące praktyki klinicznej dotyczące zespołu CKM - McKnight's Long-Term Care News",
-      "url": "https://www.mcknights.com/news/american-heart-association-releases-first-ever-clinical-practice-guideline-on-ckm-syndrome/",
-      "date": "2026-06-15T23:04:15Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 2,
-      "summary": "American Heart Association i American College of Cardiology opracowały pierwsze w historii wytyczne skupiające się na zapobieganiu i leczeniu zespołu sercowo-nerkowo-metabolicznego (CKM). Wytyczne opublikowano w czerwcowym artykule w Circulation."
     }
   ],
   "epidemiology": [
@@ -1704,14 +1648,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Wpływ 8 tygodni dwóch programów ćwiczeń na czynniki ryzyka związane z zapaleniem nadkłykcia u amatorskich zawodników Padel ClinicalTrials.gov."
-    },
-    {
-      "title": "Szczegóły badania | NCT07668271 | Badanie kliniczne dotyczące spójności między partiami 9-walentnej szczepionki rekombinowanego wirusa brodawczaka ludzkiego (typy 6/11/16/18/31/33/45/52/58) (Escherichia Coli) – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07668271",
-      "date": "2026-06-26T09:51:04Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07668271 | Badanie kliniczne dotyczące spójności między partiami rekombinowanego wirusa brodawczaka ludzkiego 9-walentnej (typy 6/11/16/18/31/33/45/52/58) szczepionki (Escherichia Coli) ClinicalTrials.gov."
     }
   ],
   "pharma_market": [
