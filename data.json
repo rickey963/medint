@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T08:26:13Z",
+  "last_updated": "2026-06-29T08:26:56Z",
   "poland": [
     {
       "title": "UPAŁY - ZADBAJ O SWOJE ZDROWIE! - Gov.pl",
@@ -63,7 +63,7 @@
       "date": "2026-06-29T07:40:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "UOKiK stawia zarzuty operatorowi Receptomatu. Spółce grozi kara do 10% obrotu Alert Medyczny."
+      "summary": "UOKiK wszczął postępowanie wobec operatora Receptomatu i l4.pl. Zarzuty dotyczą konsultacji online, e-recept, opłat i czasu realizacji usług."
     },
     {
       "title": "Nowi członkowie zagraniczni PAN - Z kraju - Kurier - Medycyna Praktyczna",
@@ -95,7 +95,7 @@
       "date": "2026-06-29T07:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "INFARMA alarmuje ws. nowelizacji ustawy refundacyjnej. Apeluje o nowe konsultacje Alert Medyczny."
+      "summary": "INFARMA krytykuje projekt nowelizacji ustawy refundacyjnej. Organizacja apeluje o ponowne konsultacje i wskazuje ryzyka dla pacjentów i lekarzy."
     },
     {
       "title": "IMGW: padł nowy rekord ciepła - Z kraju - Kurier - Medycyna Praktyczna",
@@ -111,7 +111,7 @@
       "date": "2026-06-29T06:56:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Padł historyczny rekord temperatury w Polsce. Nigdy wcześniej nie zmierzono 40,5°C Alert Medyczny."
+      "summary": "Padły rekordy temperatur w Polsce. Sprawdź, jak ekstremalne upały wpłynęły na zdrowie, liczbę interwencji służb oraz sytuację w Europie."
     },
     {
       "title": "Ministerstwo Zdrowia rozważa surowsze kary dla medyków i dyrektorów szpitali - Alert Medyczny",
@@ -119,7 +119,7 @@
       "date": "2026-06-29T06:48:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ministerstwo Zdrowia rozważa surowsze kary dla medyków i dyrektorów szpitali Alert Medyczny."
+      "summary": "Ministerstwo Zdrowia analizuje surowsze kary dla medyków i dyrektorów szpitali. Resort zapowiada też limit czasu pracy lekarzy i kolejne reformy."
     },
     {
       "title": "Funkcjonujemy w matriksie - Ochrona zdrowia - mp.pl",
@@ -253,7 +253,7 @@
       "title": "Co znaczy DASH? - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/faq/co-znaczy-dash?highlight=WyJzb2RhIiwiZmFzdCIsImZhc3QtZm9vZCIsImZhc3Rmb29kIiwicG9ydGFsIiwicG9jenVqIiwicG9kYWoiLCJwbyIsInBvYmllcnoiLCJwb2RwdXN6Y3prb3dlIl0=",
       "date": "2026-06-29T02:56:10Z",
-      "source": "Narodowy Fundusz Zdrowia",
+      "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 2,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
@@ -886,11 +886,19 @@
       "summary": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
+      "title": "Często zadawane pytania dotyczące wirusa Ebola i Bundibugyo — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/faq/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 3,
+      "summary": "Uzyskaj odpowiedzi na pytania dotyczące wirusa Ebola i wybuchu epidemii wiosną 2026 r. w DRK i Ugandzie."
+    },
+    {
       "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
     },
     {
@@ -934,14 +942,6 @@
       "summary": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
-    },
-    {
       "title": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacyjności i bezpieczeństwa w opiece onkologicznej - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/policy-news/esmo-responds-to-european-commission-consultation-on-high-risk-ai-rules-to-safeguard-innovation-and-safety-in-cancer-care",
       "date": "2026-06-25T02:10:28Z",
@@ -971,7 +971,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
       "title": "Ostateczny projekt wytycznych | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
@@ -995,7 +995,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1003,7 +1003,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1019,7 +1019,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1973,6 +1973,22 @@
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=41&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicename",
+      "date": "2026-06-27T07:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=161&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicantdesc",
+      "date": "2026-06-27T07:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=281&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicantdesc",
       "date": "2026-06-27T07:00:00Z",
       "source": "FDA Drug News",
@@ -1998,22 +2014,6 @@
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=51&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicename",
-      "date": "2026-06-27T07:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=41&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicename",
-      "date": "2026-06-27T07:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=161&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicantdesc",
       "date": "2026-06-27T07:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
@@ -2237,7 +2237,7 @@
       "date": "2026-06-29T07:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "INFARMA alarmuje ws. nowelizacji ustawy refundacyjnej. Apeluje o nowe konsultacje Alert Medyczny."
+      "summary": "INFARMA krytykuje projekt nowelizacji ustawy refundacyjnej. Organizacja apeluje o ponowne konsultacje i wskazuje ryzyka dla pacjentów i lekarzy."
     },
     {
       "title": "Region Azji Południowo-Wschodniej potwierdza zaangażowanie na rzecz utrzymania statusu osoby wolnej od polio – Światowa Organizacja Zdrowia (WHO)",
