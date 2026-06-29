@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T07:30:04Z",
+  "last_updated": "2026-06-29T07:30:52Z",
   "poland": [
     {
       "title": "Wytyczne EULAR/ESR okiem eksperta - Ekspert - Reumatologia - Medycyna Praktyczna",
@@ -761,7 +761,7 @@
       "date": "2026-06-27T19:52:30Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Wprowadzenie Rak wątrobowokomórkowy (HCC) u większości pacjentów po leczeniu ma charakter nawrotowy. Późny nawrót (> 2 lata po leczeniu) zazwyczaj wskazuje na guzy de novo w resztkowej wątrobie. Chociaż tomografia komputerowa ze wzmocnieniem kontrastowym (CECT) i MRI są szeroko stosowane w badaniach kontrolnych po leczeniu, każde z nich ma ograniczenia, w tym narażenie na promieniowanie, wysoki koszt i ograniczony dostęp."
+      "summary": "Wprowadzenie Rak wątrobowokomórkowy (HCC) u większości pacjentów po wyleczeniu ma nawrót. Późny nawrót (> 2 lata po wyleczeniu) zazwyczaj wskazuje na guzy de novo w resztkowej wątrobie. Chociaż tomografia komputerowa ze wzmocnieniem kontrastowym (CECT) i MRI są szeroko stosowane w badaniach kontrolnych po leczeniu, każde z nich ma ograniczenia, w tym narażenie na promieniowanie, wysoki koszt i ograniczony dostęp."
     },
     {
       "title": "Opis stanowiska - Regionalny dyrektor ds. sytuacji kryzysowych (2602504) - cares.who.int",
@@ -915,7 +915,7 @@
       "date": "2026-06-25T23:30:40Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Prowadzący Aaron Lohr rozmawia z autorami nowych Wytycznych praktyki klinicznej Towarzystwa Endokrynologicznego w zakresie przedwczesnego dojrzewania centralnego: dr Ana Latronico, profesor endokrynologii i metabolizmu na Uniwersytecie w Sao Paolo oraz Stephanie Roberts, MD, endokrynolog dziecięcy i adiunkt pediatrii w Bostońskim Szpitalu Dziecięcym."
+      "summary": "Prowadzący Aaron Lohr rozmawia z autorami nowych Wytycznych dotyczących praktyki klinicznej Towarzystwa Endokrynologicznego w zakresie przedwczesnego dojrzewania centralnego: dr Ana Latronico, profesor endokrynologii i metabolizmu na Uniwersytecie w Sao Paolo oraz Stephanie Roberts, MD, endokrynolog dziecięcy i adiunkt pediatrii w Bostońskim Szpitalu Dziecięcym."
     },
     {
       "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1071,6 +1071,14 @@
     }
   ],
   "epidemiology": [
+    {
+      "title": "Uruchomienie planu wzmocnienia reakcji na choroby grzybicze i oporności na środki przeciwgrzybicze – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/07/01/default-calendar/launch-of-the-blueprint-for-strengthening-responses-to-fungal-disease-and-antifungal-resistance",
+      "date": "2026-06-29T07:29:06Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
+    },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
       "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+1305+0400++%5B%5BADEFA%5D%5D++Kontraktor+Pemasangan+Geocomposite+Pelindung+Geomembrane+Murah+Gunungsitoli+Sumatera+Utara",
@@ -1578,7 +1586,7 @@
       "summary": "Nadzór nad badaniami klinicznymi w czasie rzeczywistym i luka w infrastrukturze: pytania i odpowiedzi z Rajem Indupuri, eClinical Solutions Applied Clinical Trials Online."
     },
     {
-      "title": "Polityka bezpieczeństwa szczepionek: nowo opublikowane e-maile CDC rodzą pytania dotyczące zarządzania, przejrzystości i zmiany stanowiska Waszyngtonu - Trialssitenews.com",
+      "title": "Polityka bezpieczeństwa szczepionek: nowo opublikowane e-maile CDC rodzą pytania dotyczące zarządzania, przejrzystości i zmieniającego się stanowiska Waszyngtonu - trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/the-politics-of-vaccine-safety-newly-released-cdc-emails-raise-questions-about-governance-transparencyand-washingtons-shifting-positions-798ab7eb",
       "date": "2026-06-26T15:06:03Z",
       "source": "TrialSite News",
@@ -2089,7 +2097,7 @@
       "date": "2026-06-27T05:09:27Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Leki w Unii Europejskiej (UE) są dopuszczane do obrotu na podstawie tego, że korzyści z ich stosowania przewyższają ryzyko dla docelowej populacji. Jednakże nie wszystkie potencjalne lub rzeczywiste działania niepożądane zostały zidentyfikowane w momencie wydawania pozwolenia na dopuszczenie do obrotu. Celem zarządzania ryzykiem jest zajęcie się niepewnością w profilu bezpieczeństwa na różnych etapach cyklu życia produktu i odpowiednie planowanie."
+      "summary": "Leki w Unii Europejskiej (UE) są dopuszczane do obrotu na podstawie tego, że korzyści z ich stosowania przewyższają ryzyko dla docelowej populacji. Jednakże nie wszystkie potencjalne lub rzeczywiste działania niepożądane zostały zidentyfikowane w momencie wydawania pierwszego pozwolenia na dopuszczenie do obrotu. Celem zarządzania ryzykiem jest zajęcie się niepewnością w profilu bezpieczeństwa na różnych etapach cyklu życia produktu i odpowiednie planowanie."
     },
     {
       "title": "Starszy dyrektor – kreacja i produkcja, praca w dziale komunikacji globalnej w firmie Eli Lilly and Company | 3057532 - Bioprzestrzeń",
@@ -2200,6 +2208,14 @@
   ],
   "daily_top5": [
     {
+      "title": "Uruchomienie planu wzmocnienia reakcji na choroby grzybicze i oporności na środki przeciwgrzybicze – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/07/01/default-calendar/launch-of-the-blueprint-for-strengthening-responses-to-fungal-disease-and-antifungal-resistance",
+      "date": "2026-06-29T07:29:06Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
+    },
+    {
       "title": "INFARMA alarmuje ws. nowelizacji ustawy refundacyjnej. Apeluje o nowe konsultacje - Alert Medyczny",
       "url": "https://alertmedyczny.pl/infarma-alarmuje-ws-nowelizacji-ustawy-refundacyjnej-apeluje-o-nowe-konsultacje/",
       "date": "2026-06-29T07:13:00Z",
@@ -2222,14 +2238,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
-    },
-    {
-      "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+1305+0400++%5B%5BADEFA%5D%5D++Kontraktor+Pemasangan+Geocomposite+Pelindung+Geomembrane+Murah+Gunungsitoli+Sumatera+Utara",
-      "date": "2026-06-28T21:58:15Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "Epidemia ospy: raport sytuacyjny (SITREP) S22-2026, nr 109 | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
