@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-06-29T11:58:27Z",
+  "last_updated": "2026-06-29T11:59:09Z",
   "poland": [
+    {
+      "title": "Opolskie wsparcie zdrowia psychicznego - Aktualności - Psychiatria w POZ - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/poz/psychiatria/aktualnosci/442714,opolskie-wsparcie-zdrowia-psychicznego",
+      "date": "2026-06-29T11:54:53Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Dzięki wsparciu Samorządu Województwa Opolskiego zrealizowane zostaną działania edukacyjne, profilaktyczne i psychoedukacyjne, a także szkolenia i warsztaty dla osób pracujących z najmłodszymi."
+    },
+    {
+      "title": "Kraków – psychiatria w SU zyska nową siedzibę - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/psychiatria/aktualnosci/442718,krakow-psychiatria-w-su-zyska-nowa-siedzibe",
+      "date": "2026-06-29T11:54:53Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Zasady udostępniania dokumentacji medycznej w praktyce psychiatrycznej."
+    },
+    {
+      "title": "GIF informuje o zmianie wzoru dokumentu - Z kraju - Kurier - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/kurier/442721,gif-informuje-o-zmianie-wzoru-dokumentu",
+      "date": "2026-06-29T11:54:53Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Główny Inspektorat Farmaceutyczny poinformował, że od 12 lipca 2026 r. zmieni się wzór dokumentu uprawniającego do przywozu albo wywozu środków odurzających, substancji psychotropowych lub prekursorów kategorii 1 przeznaczonych na własne potrz."
+    },
     {
       "title": "Dziwny SMS od RCB. To nie ostrzeżenie przed upałem - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/dziwny-sms-od-rcb-to-n2394476",
@@ -8,6 +32,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Dziwny SMS od RCB. To nie ostrzeżenie przed upałem PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Wapowanie a ryzyko raka płuc i jamy ustnej - Aktualności - Pulmonologia - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/pulmonologia/aktualnosci/442716,wapowanie-a-ryzyko-raka-pluc-i-jamy-ustnej",
+      "date": "2026-06-29T11:24:40Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "E-papierosy zawierające nikotynę prawdopodobnie mogą przyczyniać się do rozwoju raka płuc i jamy ustnej – ostrzegli naukowcy na łamach czasopisma „Carcinogenesis”."
     },
     {
       "title": "Definicja mobbingu do poprawki – nowe pokolenie nowy sposób myślenia - Alert Medyczny",
@@ -368,38 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Tak działa walka ze zmianami klimatu. Nowe przepisy Unii Europejskiej sprawiły, że z menu znikną jedne z najpopularniejszych produktów. To nie koniec planowanych zmian."
-    },
-    {
-      "title": "Wytyczne EULAR/ESR okiem eksperta - Ekspert - Reumatologia - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/reumatologia/ekspert/442593,wytyczne-eular-esr-okiem-eksperta",
-      "date": "2026-06-29T07:20:43Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Nowe możliwości i „białe plamy na mapie” w chorobie śródmiąższowej płuc. Przeczytaj komentarz prof. Joanny Makowskiej dotyczący wytycznych EULAR/ESR w ILD."
-    },
-    {
-      "title": "INFARMA alarmuje ws. nowelizacji ustawy refundacyjnej. Apeluje o nowe konsultacje - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/infarma-alarmuje-ws-nowelizacji-ustawy-refundacyjnej-apeluje-o-nowe-konsultacje/",
-      "date": "2026-06-29T07:13:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "INFARMA alarmuje ws. nowelizacji ustawy refundacyjnej. Apeluje o nowe konsultacje Alert Medyczny."
-    },
-    {
-      "title": "IMGW: padł nowy rekord ciepła - Z kraju - Kurier - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/kurier/442668,imgw-padl-nowy-rekord-ciepla",
-      "date": "2026-06-29T06:59:32Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "W niedzielę w Słubicach odnotowano 40,5 st. C; to nowy rekord ciepła w historii pomiarów – przekazała rzeczniczka Instytutu Meteorologii i Gospodarki Wodnej Agnieszka Prasek."
-    },
-    {
-      "title": "Padł historyczny rekord temperatury w Polsce. Nigdy wcześniej nie zmierzono 40,5°C - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/padl-historyczny-rekord-temperatury-w-polsce-nigdy-wczesniej-nie-zmierzono-405c/",
-      "date": "2026-06-29T06:56:45Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Padły rekordy temperatur w Polsce. Sprawdź, jak ekstremalne upały wpłynęły na zdrowie, liczbę interwencji służb oraz sytuację w Europie."
     }
   ],
   "world": [
@@ -898,7 +898,7 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
     },
     {
@@ -982,14 +982,6 @@
       "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
     },
     {
-      "title": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami eksonu 20 EGFR - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/oral-sunvozertinib-prolongs-pfs-over-chemotherapy-as-first-line-treatment-for-patients-with-advanced-nsclc-with-egfr-exon-20-insertions",
-      "date": "2026-06-23T13:35:28Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami w eksonie 20 EGFR Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
       "date": "2026-06-23T11:13:29Z",
@@ -1022,6 +1014,14 @@
       "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
+      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
+      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
+      "date": "2026-06-22T10:42:34Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
+    },
+    {
       "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
       "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
       "date": "2026-06-22T09:05:58Z",
@@ -1036,6 +1036,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
+      "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
+      "date": "2026-06-22T00:26:59Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Pacjenci mieszkający na obszarach wiejskich z przewlekłym bólem muszą mierzyć się z długimi podróżami, kosztownymi podróżami i ograniczonym dostępem do aptek w celu skutecznego leczenia bólu."
     },
     {
       "title": "NIL - NIL: sprzeciw wobec rozwiązań ograniczających dostępność szkolenia specjalizacyjnego dla lekarzy z niepełnosprawnościami - NIL",
@@ -1054,14 +1062,6 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Biomarkery krwi na podstawie współczynnika osocza w chorobie Alzheimera: zgodność z wytycznymi praktyki klinicznej - Neurology Today",
-      "url": "https://neurologytoday.aan.com/doi/full/10.1097/01.wnt.0001205204.12195.fd",
-      "date": "2026-06-18T06:39:12Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Biomarkery krwi oparte na współczynniku osocza w chorobie Alzheimera: dostosowanie do wytycznych praktyki klinicznej Neurologia dzisiaj."
-    },
-    {
       "title": "Nowe wytyczne AHA/ACC traktują zespół sercowo-nerkowo-metaboliczny jako pojedynczy, wzajemnie powiązany stan - Pharmacy Times",
       "url": "https://www.pharmacytimes.com/view/new-aha-acc-guideline-treats-cardio-kidney-metabolic-syndrome-as-a-single-interrelated-condition",
       "date": "2026-06-17T07:00:00Z",
@@ -1076,22 +1076,6 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Lekarz Roku swoje skupienie na bardziej sprawiedliwej opiece zdrowotnej wywodzi z wychowania w Nowym Orleanie."
-    },
-    {
-      "title": "Towarzystwo Endokrynologiczne wydaje pierwsze wytyczne dotyczące przedwczesnego dojrzewania centralnego – MedPage Today",
-      "url": "https://www.medpagetoday.com/meetingcoverage/endo/121737",
-      "date": "2026-06-13T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "„Dzieci wchodzą w okres dojrzewania wcześniej niż w poprzednich dziesięcioleciach” – mówi współprzewodnicząca panelu ds. wytycznych."
-    },
-    {
-      "title": "Nie wszystkie dzieci we wczesnym okresie dojrzewania wymagają takiego samego poziomu badań i leczenia – Towarzystwo Endokrynologiczne",
-      "url": "https://www.endocrine.org/news-and-advocacy/news-room/2026/not-all-children-with-early-puberty-need-the-same-level-of-testing-or-treatment",
-      "date": "2026-06-13T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Zgodnie z opublikowanymi dzisiaj nowymi wytycznymi postępowania klinicznego Towarzystwa Endokrynologicznego niektóre podgrupy dzieci z przedwczesnym dojrzewaniem, np. starsze dziewczynki z wolno postępującym okresem dojrzewania, mogą nie wymagać takiego samego poziomu badań i leczenia."
     }
   ],
   "epidemiology": [
@@ -1228,7 +1212,7 @@
       "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
       "date": "2026-06-26T19:41:33Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Dostępny jest również plik audio."
     },
     {
@@ -1796,7 +1780,7 @@
       "summary": "Komitet ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP) to komitet Europejskiej Agencji Leków (EMA) odpowiedzialny za leki stosowane u ludzi. Odgrywa kluczową rolę w procesie wydawania pozwoleń na leki w Unii Europejskiej. Komisja spotyka się raz w miesiącu."
     },
     {
-      "title": "Interakcje pomiędzy Loncastuksymabem tezyną i walgancyklowirem - Drugs.com",
+      "title": "Interakcje między loncastuksymabem tezyną i walgancyklowirem - Drugs.com",
       "url": "https://www.drugs.com/drug-interactions/loncastuximab-tesirine-with-valganciclovir-4257-0-2285-0.html?professional=1",
       "date": "2026-06-28T14:11:10Z",
       "source": "Drugs.com",
