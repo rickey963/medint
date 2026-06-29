@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T16:01:00Z",
+  "last_updated": "2026-06-29T16:03:55Z",
   "poland": [
     {
       "title": "Zymeworks kupuje Theravance za 929 mln dolarów i wchodzi na rynek leczenia POChP - Alert Medyczny",
@@ -24,6 +24,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Szpital chce przeprosin od Kai Godek. Padły oskarżenia o aborcję PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Dodawaj do posiłków. Naukowcy: waga spada o 13 proc. - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/Dodawaj-do-posilkow-Naukowcy-waga-spada-o-13-proc,286035,11.html",
+      "date": "2026-06-29T15:30:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Skuteczne odchudzanie to nie głodówki i jedzenie tylko niektórych produktów. Okazuje się, że kluczem do najlepszych efektów jest odpowiednio skomponowana dieta, zawierająca białko i błonnik. Nie potrzebujemy diety restrykcyjnej, ale warto pamiętać o kilku ważnych zasadach."
     },
     {
       "title": "Szpitale nie przestrzegają norm zatrudnienia. Pielęgniarki chcą stałych kontroli - Rynek Zdrowia",
@@ -392,14 +400,6 @@
       "source": "Medycyna po Dyplomie",
       "confirmed_by": 2,
       "summary": "Projekt zakłada rozwój celowanej terapii radioizotopowej wspomaganej obrazowaniem molekularnym oraz przygotowanie radiofarmaceutyków do badań klinicznych."
-    },
-    {
-      "title": "Dzień Ratownika WOPR. Kim są ratownicy WOPR i jak ratują życie nad wodą? - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/dzien-ratownika-wopr-n2394283",
-      "date": "2026-06-29T10:30:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Dzień Ratownika WOPR. Kim są ratownicy WOPR i jak ratują życie nad wodą? PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -1641,7 +1641,7 @@
       "date": "2026-06-29T14:34:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Talawar wchodzi na giełdę z kwotą 225 mln dolarów; Zwycięstwo firmy AstraZeneca w fazie 3 w zakresie efzimfotazy alfa u dzieci; IPO Alebunda w HK o wartości 164 mln dolarów; Kamień milowy Regenxbio o wartości 100 mln dolarów dla AbbVie; Odwrotna fuzja Neuphorii."
+      "summary": "Talawar wchodzi na giełdę z kwotą 225 mln dolarów; Zwycięstwo firmy AstraZeneca w fazie 3 w zakresie efzimfotazy alfa u dzieci; IPO Alebund za 164 mln dolarów w HK; Kamień milowy Regenxbio o wartości 100 mln dolarów dla AbbVie; Odwrotna fuzja Neuphorii."
     },
     {
       "title": "Ogłoszenie o spotkaniu CTGTAC z 29 lipca 2026 r. – fda.gov",
@@ -1996,6 +1996,14 @@
       "summary": "Visio-FDA_OPLIA_ 20260626.vsd fda.gov."
     },
     {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=271&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F26%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondate",
+      "date": "2026-06-27T10:31:21Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
       "title": "Wycofanie wyrobów medycznych – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=98918",
       "date": "2026-06-27T10:08:33Z",
@@ -2010,14 +2018,6 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Witamy ponownie w kolejnym wydaniu Endpoints Weekly. Moja zwykła koleżanka Nicole DeFeudis jest nieobecna w tym tygodniu, więc przygotowałam Tygodnik z pomocą Lei Lei Wu! niech..."
-    },
-    {
-      "title": "Skuteczność LORlatynibu jako rzeczywistego leczenia pierwszego rzutu u pacjentów z zaawansowanym niedrobnokomórkowym rakiem płuc z ALK-dodatnim w Niemczech. (LOR-ALK). - Katalogi HMA-EMA",
-      "url": "https://catalogues.ema.europa.eu/node/4484/study-documents",
-      "date": "2026-06-27T09:16:51Z",
-      "source": "EMA",
-      "confirmed_by": 1,
-      "summary": "B7461057_NIS PASS Protokół badania _FINAL__04FEB2026_Redacted.pdf."
     }
   ],
   "critical_alerts": [
