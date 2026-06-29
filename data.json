@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T21:39:17Z",
+  "last_updated": "2026-06-29T21:39:51Z",
   "poland": [
     {
       "title": "Cały dzień w prokuraturze, 29 stron protokołu – co zeznał Emil Jędrzejewski? - Puls Medycyny",
@@ -286,7 +286,7 @@
       "url": "https://politykazdrowotna.com/artykul/narodowy-instytut-onkologii-n2394265",
       "date": "2026-06-29T13:30:00Z",
       "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Narodowy Instytut Onkologii w Gliwicach z ponad 11 mln zł od ABM. Powstanie nowa terapia glejaka wielopostaciowego PolitykaZdrowotna.com."
     },
     {
@@ -946,7 +946,7 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
     },
     {
@@ -1062,14 +1062,6 @@
       "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
-      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
-      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
-      "date": "2026-06-22T10:42:34Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
-    },
-    {
       "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
       "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
       "date": "2026-06-22T09:05:58Z",
@@ -1086,12 +1078,28 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
+      "title": "Biomarkery krwi na podstawie współczynnika osocza w chorobie Alzheimera: zgodność z wytycznymi praktyki klinicznej - Neurology Today",
+      "url": "https://neurologytoday.aan.com/doi/full/10.1097/01.wnt.0001205204.12195.fd",
+      "date": "2026-06-18T06:39:12Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Biomarkery krwi oparte na współczynniku osocza w chorobie Alzheimera: dostosowanie do wytycznych praktyki klinicznej Neurologia dzisiaj."
+    },
+    {
       "title": "Nowe wytyczne AHA/ACC traktują zespół sercowo-nerkowo-metaboliczny jako pojedynczy, wzajemnie powiązany stan - Pharmacy Times",
       "url": "https://www.pharmacytimes.com/view/new-aha-acc-guideline-treats-cardio-kidney-metabolic-syndrome-as-a-single-interrelated-condition",
       "date": "2026-06-17T07:00:00Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Lek. Chiadi Ndumele wyjaśnia, dlaczego nowe wytyczne American Heart Association (AHA)/American College of Cardiology (ACC) traktują chorobę sercowo-naczyniowo-nerkową (CKM) jako jeden wzajemnie powiązany zespół."
+    },
+    {
+      "title": "Towarzystwo Endokrynologiczne wydaje pierwsze wytyczne dotyczące przedwczesnego dojrzewania centralnego – MedPage Today",
+      "url": "https://www.medpagetoday.com/meetingcoverage/endo/121737",
+      "date": "2026-06-13T07:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "„Dzieci wchodzą w okres dojrzewania wcześniej niż w poprzednich dziesięcioleciach” – mówi współprzewodnicząca panelu ds. wytycznych."
     }
   ],
   "epidemiology": [
