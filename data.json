@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T01:45:22Z",
+  "last_updated": "2026-06-29T01:46:19Z",
   "poland": [
     {
       "title": "Modele językowe analizują notatki lekarzy, aby ustalić, dlaczego pacjenci przerywają leczenie - Alert Medyczny",
@@ -866,7 +866,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
@@ -982,6 +982,22 @@
       "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
     },
     {
+      "title": "Wytyczne AHA/ACC CKM formalnie zatwierdzają terapię GLP-1 w celu ochrony nerek i serca – Pharmacy Times",
+      "url": "https://www.pharmacytimes.com/view/aha-acc-ckm-guideline-formally-endorses-glp-1-therapies-for-kidney-heart-protection",
+      "date": "2026-06-23T18:07:19Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Lek. Chiadi Ndumele omawia wytyczne dotyczące zespołu sercowo-nerkowo-metabolicznego (CKM), glukagonopodobny peptyd-1 (GLP-1) i wytyczne dotyczące terapii chroniącej nerki, a także rolę farmaceuty w skoordynowanej opiece."
+    },
+    {
+      "title": "Co zaktualizowane wytyczne dotyczące cholesterolu oznaczają ryzyko chorób serca - KOIN.com",
+      "url": "https://www.koin.com/am-extra/what-an-updated-cholesterol-guideline-means-for-heart-disease-risk/",
+      "date": "2026-06-23T17:09:03Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Co zaktualizowane wytyczne dotyczące cholesterolu oznaczają dla ryzyka chorób serca KOIN.com."
+    },
+    {
       "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
       "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
       "date": "2026-06-23T15:12:34Z",
@@ -1004,6 +1020,14 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
+    },
+    {
+      "title": "Dlaczego lekarze twierdzą, że zdrowia serca, nerek i metabolizmu nie można już traktować oddzielnie – The Indian Express",
+      "url": "https://indianexpress.com/article/lifestyle/health/could-weight-sugar-cholesterol-signal-one-ckm-disorder-risks-experts-10752913/",
+      "date": "2026-06-23T08:28:30Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Eksperci twierdzą, że wczesne wykrycie i zmiany stylu życia mogą pomóc w zapobieganiu poważnym powikłaniom związanym z sercem, nerkami i cukrzycą."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1030,14 +1054,6 @@
       "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
     },
     {
-      "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
-      "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
-      "date": "2026-06-22T09:05:58Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Jak wynika z długoterminowego badania opublikowanego w czasopiśmie Circulation, zastąpienie napojów gazowanych, napojów dla sportowców i soków owocowych całymi owocami może wiązać się z niższym ryzykiem rozwoju nadciśnienia tętniczego w wieku dorosłym."
-    },
-    {
       "title": "Protokół z przebiegu XVII Krajowego Zjazdu Lekarzy - NIL",
       "url": "https://nil.org.pl/izba/krajowy-zjazd-lekarzy/xvii-krajowy-zjazd-lekarzy/9295-protokol-z-przebiegu-xvii-krajowego-zjazdu-lekarzy",
       "date": "2026-06-22T07:00:00Z",
@@ -1060,22 +1076,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Leczenie wewnątrznaczyniowe udaru niedokrwiennego dużego rdzenia - professional.heart.org",
-      "url": "https://professional.heart.org/en/videos/large-core-ischemic-stroke",
-      "date": "2026-06-18T00:09:37Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Nester Gonzalez, lekarz medycyny."
-    },
-    {
-      "title": "Keith C. Ferdinand: Niedaleko Dziewiątego Okręgu – www.heart.org",
-      "url": "https://www.heart.org/en/around-the-aha/keith-c-ferdinand-never-far-from-the-ninth-ward",
-      "date": "2026-06-16T07:00:00Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Lekarz Roku swoje skupienie na bardziej sprawiedliwej opiece zdrowotnej wywodzi z wychowania w Nowym Orleanie."
     }
   ],
   "epidemiology": [
@@ -1192,7 +1192,7 @@
       "summary": "W ostatnich latach joga stała się przedmiotem poważnych badań medycznych i naukowych. Coraz większa liczba dowodów naukowych odkrywa szereg pozytywnych i wymiernych skutków uprawiania jogi."
     },
     {
-      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z 24. tygodnia zakończonego 20 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z 24. tygodnia kończącego się 20 czerwca 2026 r. | FluView — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-24.html",
       "date": "2026-06-26T15:08:17Z",
       "source": "CDC Outbreaks",
