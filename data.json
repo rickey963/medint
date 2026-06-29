@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T13:00:18Z",
+  "last_updated": "2026-06-29T13:01:58Z",
   "poland": [
     {
       "title": "PNRL oczekuje zmniejszenia biurokracji - Medycyna Praktyczna",
@@ -190,7 +190,7 @@
       "url": "https://podyplomie.pl/aktualnosci/nio-w-gliwicach-otrzyma-ponad-11-mln-zl-na-badania-nad-nowa-terapia-glejaka-wielopostaciowego",
       "date": "2026-06-29T10:33:05Z",
       "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Projekt zakłada rozwój celowanej terapii radioizotopowej wspomaganej obrazowaniem molekularnym oraz przygotowanie radiofarmaceutyków do badań klinicznych."
     },
     {
@@ -943,7 +943,7 @@
     },
     {
       "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm?s_cid=OS_mm7524a2_w",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm",
       "date": "2026-06-25T17:03:11Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
@@ -964,14 +964,6 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
-      "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
-      "date": "2026-06-24T16:46:28Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
     },
     {
       "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
@@ -996,6 +988,14 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
+    },
+    {
+      "title": "Nowa opcja leczenia zalecana w przypadku nawrotowego lub przerzutowego raka szyjki macicy - serwis NICE",
+      "url": "https://www.nice.org.uk/news/articles/new-treatment-option-recommended-for-recurrent-or-metastatic-cervical-cancer",
+      "date": "2026-06-23T23:00:00Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Zgodnie z opublikowanym dzisiaj ostatecznym projektem wytycznych, w ramach NHS dostępna jest obecnie nowa opcja leczenia raka szyjki macicy, który nawrócił lub rozprzestrzenił się na inne części ciała."
     },
     {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1083,7 +1083,7 @@
       "date": "2026-06-16T07:00:00Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Lekarz Roku swoje skupienie na bardziej sprawiedliwej opiece zdrowotnej wywodzi z wychowania w Nowym Orleanie."
+      "summary": "Keith C. Ferdinand: Niedaleko Dziewiątego Okręgu www.heart.org."
     }
   ],
   "epidemiology": [
