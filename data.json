@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T23:12:29Z",
+  "last_updated": "2026-06-29T23:13:05Z",
   "poland": [
     {
       "title": "Sztuczna inteligencja wspiera decyzje lekarzy. Przełomowe wyniki badania w POZ - Alert Medyczny",
@@ -1030,14 +1030,6 @@
       "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
-      "title": "Ostateczny projekt wytycznych | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/ta1169/documents/html-content-4",
-      "date": "2026-06-24T07:00:00Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
-    },
-    {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
       "date": "2026-06-23T11:13:29Z",
@@ -1370,20 +1362,20 @@
   ],
   "clinical_trials": [
     {
+      "title": "Ukryte żniwo raka spowodowane pandemią? Badanie amerykańskie wykazało nieoczekiwany wzrost liczby zgonów z powodu raka prostaty i chłoniaka Hodgkina",
+      "url": "https://www.trialsitenews.com/a/pandemics-hidden-cancer-toll-u.s.-study-finds-unexpected-rise-in-prostate-cancer-and-hodgkin-lymphoma-deaths-75746531",
+      "date": "2026-06-29T21:10:53Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA od dłuższego czasu spada po pandemii Covid-19, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
+    },
+    {
       "title": "Zapalenie wątroby wywołane szczepionką przeciwko COVID-19: większość pacjentów wraca do zdrowia, ale u niektórych rozwija się trwała autoimmunologiczna choroba wątroby - trisitenews.com",
       "url": "https://www.trialsitenews.com/a/covid-19-vaccine-related-hepatitis-most-patients-recover-but-some-develop-persistent-autoimmune-liver-disease-37d000ea",
       "date": "2026-06-29T21:10:53Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Naukowcy pod kierownictwem Donaldy Malin, Fondazione Epatocentro Ticino i międzynarodowego konsorcjum hepatologów przedstawiają nowe dane z długoterminowej obserwacji pacjentów, u których po szczepieniu przeciwko SARS-CoV-2 rozwinęło się ostre zapalenie wątroby o cechach autoimmunologicznych. W tym wieloośrodkowym, obserwacyjnym badaniu kontrolnym, opublikowanym w European Journal of Gastroenterology & Hepatology, wzięło udział 62 pacjentów przez medianę 22,8 miesiąca, aby ustalić, czy przypadki te stanowią tymczasowe uszkodzenie wątroby związane ze szczepieniem, czy klasyczne autoimmunologiczne zapalenie wątroby (AIH). Większość pacjentów całkowicie wyzdrowiała bez długotrwałych nawrotów, ale u prawie jednej trzeciej rozwinęła się trwała choroba podobna do AIH, wymagająca ciągłego leczenia immunosupresyjnego."
-    },
-    {
-      "title": "Ukryte żniwo raka spowodowane pandemią? Badanie amerykańskie wykazało nieoczekiwany wzrost liczby zgonów z powodu raka prostaty i chłoniaka Hodgkina",
-      "url": "https://www.trialsitenews.com/a/pandemics-hidden-cancer-toll-u.s.-study-finds-unexpected-rise-in-prostate-cancer-and-hodgkin-lymphoma-deaths-75746531",
-      "date": "2026-06-29T21:10:53Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA po pandemii Covid-19 od dawna spada, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z The Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
     },
     {
       "title": "EAN 2026: Dane post hoc Cenrifki firmy Sanofi sugerują, że zmiany chorobowe mogą nie wskazywać na niepowodzenie – Arena Badań Klinicznych",
