@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T04:01:55Z",
+  "last_updated": "2026-06-29T04:02:39Z",
   "poland": [
     {
       "title": "\"Należy natychmiast zlikwidować kominy płacowe\". Szefowa Solidarności o rekordowych zarobkach lekarzy - Rynek Zdrowia",
@@ -15,7 +15,7 @@
       "date": "2026-06-28T23:01:10Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Badanie z Uniwersytetu w Tartu pokazuje, że modele językowe skutecznie analizują notatki i identyfikują przyczyny przerywania leczenia."
+      "summary": "Modele językowe analizują notatki lekarzy, aby ustalić, dlaczego pacjenci przerywają leczenie Alert Medyczny."
     },
     {
       "title": "Lista komórek IPL - DANUTA KOZIOŁ 29 czerwca 2026 - Narodowy Fundusz Zdrowia (NFZ)",
@@ -31,7 +31,7 @@
       "date": "2026-06-28T22:31:07Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Badania wykazały, że po operacji bariatrycznej alkohol wchłania się niemal dwukrotnie szybciej, zwiększając ryzyko długotrwałego nadużywania."
+      "summary": "Operacja bariatryczna niemal podwaja wchłanianie alkoholu i zwiększa ryzyko jego nadużywania Alert Medyczny."
     },
     {
       "title": "Nigdy nie jest za szeroko! Badania szerokokątne w diagnostyce siatkówki - Podyplomie",
@@ -1014,14 +1014,6 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "American Heart Association po raz pierwszy w historii wydaje wytyczne dotyczące zespołu sercowo-naczyniowego, nerkowo-metabolicznego (CKM): - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/etimes/wellness/american-heart-association-issues-first-ever-guideline-on-cardiovascular-kidney-metabolic-syndrome-ckm-what-you-need-to-know-for-your-heart-kidney-and-metabolic-health/articleshow/131901708.cms",
-      "date": "2026-06-22T05:25:00Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 3,
-      "summary": "Przez długi czas lekarze traktowali choroby serca, nerek, cukrzycę i otyłość jako zupełnie odrębne zagadnienia. Masz problemy z sercem; idź do kardiologa."
-    },
-    {
       "title": "NIL - NIL: sprzeciw wobec rozwiązań ograniczających dostępność szkolenia specjalizacyjnego dla lekarzy z niepełnosprawnościami - NIL",
       "url": "https://nil.org.pl/aktualnosci/9299-nil-sprzeciw-wobec-rozwiazan-ograniczajacych-dostepnosc-szkolenia-specjalizacyjnego-dla-lekarzy-z-niepelnosprawnosciami",
       "date": "2026-06-19T16:15:57Z",
@@ -1030,12 +1022,20 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Nowe wytyczne podkreślają kluczową rolę otyłości w chorobach serca, nerek i chorobach metabolicznych – Medical News Today",
-      "url": "https://www.medicalnewstoday.com/articles/new-guideline-highlights-obesity-central-role-heart-kidney-metabolic-disease",
-      "date": "2026-06-17T07:00:00Z",
+      "title": "Leczenie wewnątrznaczyniowe udaru niedokrwiennego dużego rdzenia - professional.heart.org",
+      "url": "https://professional.heart.org/en/videos/large-core-ischemic-stroke",
+      "date": "2026-06-18T00:09:37Z",
       "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 2,
-      "summary": "W pierwszych w historii wytycznych klinicznych dotyczących zespołu CKM American Heart Association (AHA) i American College of Cardiology (ACC) podkreślają rolę otyłości jako kluczowej przyczyny zespołu CKM, a nie czynnika ryzyka."
+      "confirmed_by": 1,
+      "summary": "Nester Gonzalez, lekarz medycyny."
+    },
+    {
+      "title": "Keith C. Ferdinand: Niedaleko Dziewiątego Okręgu – www.heart.org",
+      "url": "https://www.heart.org/en/around-the-aha/keith-c-ferdinand-never-far-from-the-ninth-ward",
+      "date": "2026-06-16T07:00:00Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Lekarz Roku swoje skupienie na bardziej sprawiedliwej opiece zdrowotnej wywodzi z wychowania w Nowym Orleanie."
     },
     {
       "title": "Rekomendacja Prezesa – Ogsiveo (nirogacestat) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1043,7 +1043,7 @@
       "date": "2026-06-12T10:02:33Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 79/2026 z dnia 10 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgód na refundację produktu leczniczego Ogsiveo (nirogacestat) we wskazaniu: leczenie pacjentów pediatrycznych z postępującymi guzami desmoidalnymi opornymi na leczenie innych linii i niekwalifikującymi się do leczenia operacyjnego."
+      "summary": "Rekomendacja Prezesa – Ogsiveo (nirogacestat) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Rekomendacja Prezesa – Cabometyx (kabozantynib) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1051,7 +1051,7 @@
       "date": "2026-06-05T07:21:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 76/2026 z dnia 2 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Cabometyx (kabozantynib) w leczeniu guzów neuroendokrynnych trzustkowych (pNET) i pozatrzustkowych (epNET)."
+      "summary": "Rekomendacja Prezesa – Cabometyx (kabozantynib) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Świadczenia gwarantowane obejmujące leczenie chorób układu oddechowego - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1059,7 +1059,7 @@
       "date": "2026-06-03T08:44:12Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Na podstawie art. 31lb ust. 4 ustawy z dnia 27 sierpnia 2004 r."
+      "summary": "Świadczenia gwarantowane obejmujące leczenie chorób układu oddechowego Agencja Oceny Technologii Medycznych i Taryfikacji."
     }
   ],
   "epidemiology": [
@@ -1124,7 +1124,7 @@
       "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
       "date": "2026-06-26T19:41:33Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Dostępny jest również plik audio."
     },
     {
@@ -1172,7 +1172,7 @@
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-24.html",
       "date": "2026-06-26T15:08:17Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Aktywność grypy sezonowej jest niska."
     },
     {
@@ -2053,7 +2053,7 @@
     },
     {
       "title": "Medline dotycząca wycofania urządzenia klasy 2 – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221067",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221067",
       "date": "2026-06-27T04:24:24Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
