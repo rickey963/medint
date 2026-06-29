@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T20:51:38Z",
+  "last_updated": "2026-06-29T20:52:30Z",
   "poland": [
     {
       "title": "Cały dzień w prokuraturze, 29 stron protokołu – co zeznał Emil Jędrzejewski? - Puls Medycyny",
@@ -151,7 +151,7 @@
       "date": "2026-06-29T15:51:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Zymeworks przejmie Theravance za 929 mln USD. Transakcja ma rozszerzyć działalność firmy poza onkologię i zapewnić nowe źródła przychodów."
+      "summary": "Zymeworks kupuje Theravance za 929 mln dolarów i wchodzi na rynek leczenia POChP Alert Medyczny."
     },
     {
       "title": "Padają wnioski o zmniejszenie obsad karetek. Ministerstwo: żadnych zmian nie będzie - Rynek Zdrowia",
@@ -223,7 +223,7 @@
       "date": "2026-06-29T14:38:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prezes NRL Łukasz Jankowski potwierdził autentyczność wpisu z Facebooka. Wyjaśnił, dlaczego sprzeciwia się protestom lekarzy."
+      "summary": "Prezes NRL: „Żadnych protestów”. Taką strategię proponuje lekarzom Alert Medyczny."
     },
     {
       "title": "Wielka Interna Kardiologia część 1 - wydanie II - Podyplomie",
@@ -295,7 +295,7 @@
       "date": "2026-06-29T13:26:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe sondaże pokazują, że 74,8% Polaków źle ocenia ochronę zdrowia, a 57,5% uważa, że ministra zdrowia powinna zostać odwołana."
+      "summary": "74,8% Polaków źle ocenia publiczną ochronę zdrowia. Większość chce dymisji ministry Alert Medyczny."
     },
     {
       "title": "\"Należy natychmiast zlikwidować kominy płacowe\". Szefowa Solidarności o rekordowych zarobkach lekarzy - Rynek Zdrowia",
@@ -367,7 +367,7 @@
       "date": "2026-06-29T12:44:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "PR OZZL przedstawiło wyniki analizy 321 szpitali. Według organizacji wynagrodzenia lekarzy stanowią średnio 23% budżetu placówek."
+      "summary": "Rezydenci odpowiadają politykom. Pokazali, ile szpitale wydają na wynagrodzenia Alert Medyczny."
     },
     {
       "title": "Polacy dostali niespodziewany alert RCB. \"Zagrożenie bez daty ważności\" - Medonet",
@@ -806,14 +806,6 @@
   ],
   "guidelines": [
     {
-      "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/news-room/how-early-is-early-enough-treating-familial-hypercholesterolaemia-before-risk-takes-root/",
-      "date": "2026-06-29T18:53:51Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "W prospektywnej kohorcie badania SAFEHEART badacze oceniali długoterminowe wyniki w przypadku genetycznie potwierdzonej hipercholesterolemii rodzinnej wśród 348 dzieci/młodzieży dotkniętych chorobą, 165 zdrowych krewnych i 288 chorych rodziców."
-    },
-    {
       "title": "Instytut Lęków Connecticut LLC – Krajowa Sieć Informacji o Zapobieganiu (.gov)",
       "url": "https://npin.cdc.gov/organization/anxiety-institute-connecticut-llc",
       "date": "2026-06-29T16:59:03Z",
@@ -946,8 +938,16 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
+    },
+    {
+      "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/how-early-is-early-enough-treating-familial-hypercholesterolaemia-before-risk-takes-root/",
+      "date": "2026-06-26T06:20:50Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "W prospektywnej kohorcie badania SAFEHEART badacze oceniali długoterminowe wyniki w przypadku genetycznie potwierdzonej hipercholesterolemii rodzinnej wśród 348 dzieci/młodzieży dotkniętych chorobą, 165 zdrowych krewnych i 288 chorych rodziców."
     },
     {
       "title": "EPN113: Wytyczne praktyki klinicznej dotyczące przedwczesnego dojrzewania centralnego – Towarzystwo Endokrynologiczne",
@@ -1019,7 +1019,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
+      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1027,7 +1027,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
+      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1035,7 +1035,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
+      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1051,7 +1051,15 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
+      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
+      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
+      "date": "2026-06-22T10:42:34Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
     },
     {
       "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
@@ -1070,12 +1078,12 @@
       "summary": "Protokół z przebiegu XVII Krajowego Zjazdu Lekarzy NIL."
     },
     {
-      "title": "Biomarkery krwi na podstawie współczynnika osocza w chorobie Alzheimera: zgodność z wytycznymi praktyki klinicznej - Neurology Today",
-      "url": "https://neurologytoday.aan.com/doi/full/10.1097/01.wnt.0001205204.12195.fd",
-      "date": "2026-06-18T06:39:12Z",
+      "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
+      "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
+      "date": "2026-06-22T00:26:59Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Biomarkery krwi oparte na współczynniku osocza w chorobie Alzheimera: dostosowanie do wytycznych praktyki klinicznej Neurologia dzisiaj."
+      "summary": "Pacjenci mieszkający na obszarach wiejskich z przewlekłym bólem muszą mierzyć się z długimi podróżami, kosztownymi podróżami i ograniczonym dostępem do aptek w celu skutecznego leczenia bólu."
     },
     {
       "title": "Nowe wytyczne AHA/ACC traktują zespół sercowo-nerkowo-metaboliczny jako pojedynczy, wzajemnie powiązany stan - Pharmacy Times",
@@ -1084,22 +1092,6 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Lekarz Chiadi Ndumele wyjaśnia, dlaczego nowe wytyczne American Heart Association (AHA)/American College of Cardiology (ACC) traktują chorobę sercowo-naczyniowo-nerkową (CKM) jako jeden wzajemnie powiązany zespół."
-    },
-    {
-      "title": "Towarzystwo Endokrynologiczne wydaje pierwsze wytyczne dotyczące przedwczesnego dojrzewania centralnego – MedPage Today",
-      "url": "https://www.medpagetoday.com/meetingcoverage/endo/121737",
-      "date": "2026-06-13T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "„Dzieci wchodzą w okres dojrzewania wcześniej niż w poprzednich dziesięcioleciach” – mówi współprzewodnicząca panelu ds. wytycznych."
-    },
-    {
-      "title": "Nie wszystkie dzieci we wczesnym okresie dojrzewania wymagają takiego samego poziomu badań i leczenia – Towarzystwo Endokrynologiczne",
-      "url": "https://www.endocrine.org/news-and-advocacy/news-room/2026/not-all-children-with-early-puberty-need-the-same-level-of-testing-or-treatment",
-      "date": "2026-06-13T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Zgodnie z opublikowanymi dzisiaj nowymi wytycznymi postępowania klinicznego Towarzystwa Endokrynologicznego niektóre podgrupy dzieci z przedwczesnym dojrzewaniem, np. starsze dziewczynki z wolno postępującym okresem dojrzewania, mogą nie wymagać takiego samego poziomu badań i leczenia."
     }
   ],
   "epidemiology": [
