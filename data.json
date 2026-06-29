@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T04:44:25Z",
+  "last_updated": "2026-06-29T04:45:03Z",
   "poland": [
     {
       "title": "Ponad 150 organizacji pacjentów apeluje do Premiera o ratowanie systemu ochrony zdrowia - Alert Medyczny",
@@ -886,20 +886,20 @@
       "summary": "mCRPC: Opieka wspomagająca, obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/measles/data-research/index.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
-      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
-    },
-    {
       "title": "Wirus Ebola i Bundibugyo — często zadawane pytania — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/faq/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Uzyskaj odpowiedzi na pytania dotyczące wirusa Ebola i wybuchu epidemii wiosną 2026 r. w DRK i Ugandzie."
+    },
+    {
+      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
     },
     {
       "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
@@ -919,11 +919,19 @@
     },
     {
       "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm?s_cid=OS_mm7524a2_w",
+      "url": "https://cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm",
       "date": "2026-06-25T17:03:11Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "W niniejszym raporcie opisano liczbę zgonów spowodowanych przedawkowaniem narkotyków, które miały miejsce w hotelach i motelach w USA w latach 2022–2024."
+    },
+    {
+      "title": "Wizyty na oddziałach ratunkowych w związku z podejrzeniem próby samobójczej — Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
+      "date": "2026-06-25T17:03:11Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
     },
     {
       "title": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -934,28 +942,12 @@
       "summary": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
-    },
-    {
       "title": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacyjności i bezpieczeństwa w opiece onkologicznej - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/policy-news/esmo-responds-to-european-commission-consultation-on-high-risk-ai-rules-to-safeguard-innovation-and-safety-in-cancer-care",
       "date": "2026-06-25T02:10:28Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
-      "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
-      "date": "2026-06-24T16:46:28Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
     },
     {
       "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
@@ -982,20 +974,12 @@
       "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
     },
     {
-      "title": "Zalecenia dotyczące zapobiegania i kontroli infekcji dla pacjentów w szpitalach w USA, u których podejrzewa się lub potwierdzono wybraną wirusową gorączkę krwotoczną (VHF) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/viral-hemorrhagic-fevers/hcp/infection-control/index.html",
+      "title": "Przegląd | Seladelpar na wcześniej leczone pierwotne zapalenie dróg żółciowych | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ta1171",
       "date": "2026-06-24T07:00:00Z",
-      "source": "CDC (rekomendacje)",
+      "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Wytyczne dla personelu szpitala w USA opiekującego się pacjentem z podejrzeniem lub potwierdzonym VHF."
-    },
-    {
-      "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
-      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
-      "date": "2026-06-23T15:12:34Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
+      "summary": "Oparte na dowodach zalecenia dotyczące stosowania seladelparu (Livdelzi) w leczeniu wcześniej leczonego pierwotnego zapalenia dróg żółciowych u dorosłych."
     },
     {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1030,14 +1014,6 @@
       "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
-      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
-      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
-      "date": "2026-06-22T10:42:34Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
-    },
-    {
       "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
       "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
       "date": "2026-06-22T09:05:58Z",
@@ -1062,6 +1038,14 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
+      "title": "Biomarkery krwi na podstawie współczynnika osocza w chorobie Alzheimera: zgodność z wytycznymi praktyki klinicznej - Neurology Today",
+      "url": "https://neurologytoday.aan.com/doi/full/10.1097/01.wnt.0001205204.12195.fd",
+      "date": "2026-06-18T06:39:12Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Biomarkery krwi oparte na współczynniku osocza w chorobie Alzheimera: dostosowanie do wytycznych praktyki klinicznej Neurologia dzisiaj."
+    },
+    {
       "title": "Leczenie wewnątrznaczyniowe udaru niedokrwiennego dużego rdzenia - professional.heart.org",
       "url": "https://professional.heart.org/en/videos/large-core-ischemic-stroke",
       "date": "2026-06-18T00:09:37Z",
@@ -1076,6 +1060,22 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Lekarz Roku swoje skupienie na bardziej sprawiedliwej opiece zdrowotnej wywodzi z wychowania w Nowym Orleanie."
+    },
+    {
+      "title": "Towarzystwo Endokrynologiczne wydaje pierwsze wytyczne dotyczące przedwczesnego dojrzewania centralnego – MedPage Today",
+      "url": "https://www.medpagetoday.com/meetingcoverage/endo/121737",
+      "date": "2026-06-13T07:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "„Dzieci wchodzą w okres dojrzewania wcześniej niż w poprzednich dziesięcioleciach” – mówi współprzewodnicząca panelu ds. wytycznych."
+    },
+    {
+      "title": "Nie wszystkie dzieci we wczesnym okresie dojrzewania wymagają takiego samego poziomu badań i leczenia – Towarzystwo Endokrynologiczne",
+      "url": "https://www.endocrine.org/news-and-advocacy/news-room/2026/not-all-children-with-early-puberty-need-the-same-level-of-testing-or-treatment",
+      "date": "2026-06-13T07:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Zgodnie z opublikowanymi dzisiaj nowymi wytycznymi postępowania klinicznego Towarzystwa Endokrynologicznego niektóre podgrupy dzieci z przedwczesnym dojrzewaniem, np. starsze dziewczynki z wolno postępującym okresem dojrzewania, mogą nie wymagać takiego samego poziomu badań i leczenia."
     }
   ],
   "epidemiology": [
