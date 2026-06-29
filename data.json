@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T12:09:41Z",
+  "last_updated": "2026-06-29T12:11:08Z",
   "poland": [
     {
       "title": "OZZL: Zarzuty wobec polityka-lekarza nie mogą obciążać całego środowiska lekarskiego - Alert Medyczny",
@@ -404,6 +404,22 @@
   ],
   "world": [
     {
+      "title": "Mezigdomide Triplet poprawia PFS w przypadku szpiczaka mnogiego R/R - Medscape",
+      "url": "https://www.medscape.com/viewarticle/mezigdomide-triplet-improves-pfs-r-r-multiple-myeloma-2026a1000lzr",
+      "date": "2026-06-29T12:08:31Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Badanie III fazy ocenia skuteczność mezigdomidu z karfilzomibem i deksametazonem w porównaniu z karfilzomibem i deksametazonem u pacjentów z nawrotowym lub opornym na leczenie szpiczakiem mnogim."
+    },
+    {
+      "title": "Co dalej z usługami 988 LGBTQ+? - statnews.com",
+      "url": "https://www.statnews.com/2026/06/29/health-news-whats-next-for-988-lgbtq-services/",
+      "date": "2026-06-29T12:08:02Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Prywatne oddziały ratunkowe, nadciśnienie płucne i inne wiadomości zdrowotne z porannych rund."
+    },
+    {
       "title": "Co dalej z usługami 988 LGBTQ+? - statnews.com",
       "url": "https://www.statnews.com/2026/06/29/health-news-whats-next-for-988-lgbtq-services/?utm_campaign=rss",
       "date": "2026-06-29T12:08:02Z",
@@ -628,20 +644,20 @@
       "summary": "STAT stwierdził, że operator szpitala Nutex wzbogacił się, wykorzystując luki w prawie mające na celu ochronę pacjentów."
     },
     {
+      "title": "Współzałożyciel Moderny, Kenneth Chien, o przyszłości mRNA — i Moderna – statnews.com",
+      "url": "https://www.statnews.com/2026/06/29/moderna-founder-kenneth-chien-on-cancer-vaccine-and-mrna-future/",
+      "date": "2026-06-29T08:31:23Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "W odpowiedzi na pytania i odpowiedzi Kenneth Chien, który nie pracuje już w firmie Moderna, przewiduje, że opracowana przez firmę szczepionka przeciwnowotworowa mRNA będzie miała przełomowy wpływ na biotechnologię."
+    },
+    {
       "title": "Inwestor Clive Meanwell o projektowaniu biotechnologii zapewniających zdrowie populacji i roli sztucznej inteligencji jako katalizatora – statnews.com",
       "url": "https://www.statnews.com/2026/06/29/clive-meanwell-population-health-partners-on-ai-biotech/",
       "date": "2026-06-29T08:31:23Z",
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Clive Meanwell, prezes firmy inwestycyjnej Population Health Partners, do niedawna był sceptykiem sztucznej inteligencji. Teraz uważa, że ​​to katalizator."
-    },
-    {
-      "title": "Współzałożyciel Moderny, Kenneth Chien, o przyszłości mRNA i Moderna – statnews.com",
-      "url": "https://www.statnews.com/2026/06/29/moderna-founder-kenneth-chien-on-cancer-vaccine-and-mrna-future/",
-      "date": "2026-06-29T08:31:23Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "W odpowiedzi na pytania i odpowiedzi Kenneth Chien, który nie pracuje już w firmie Moderna, przewiduje, że opracowana przez firmę szczepionka przeciwnowotworowa mRNA będzie miała przełomowy wpływ na biotechnologię."
     },
     {
       "title": "Represje biotechnologiczne między USA i Chinami mogą zaszkodzić naukowcom, których Ameryka potrzebuje najbardziej – statnews.com",
@@ -786,22 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Badania wykazały, że odwrócenie blokady za pomocą sugammadeksu wiąże się z lepszymi wynikami leczenia układu oddechowego niż stosowanie neostygminy u dorosłych poddawanych zabiegom endoskopowym górnego odcinka przewodu pokarmowego."
-    },
-    {
-      "title": "Młodsze dzieci chore na ŻChZZ: duże obciążenie ekonomiczne i śmiertelność - Medscape",
-      "url": "https://www.medscape.com/viewarticle/younger-children-vte-face-high-economic-and-mortality-burden-2026a1000lx5?src=rss",
-      "date": "2026-06-29T02:32:26Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Dzieci i młodzież z żylną chorobą zakrzepowo-zatorową, szczególnie dzieci w wieku 4 lat i młodsze, są obarczone większym ryzykiem śmiertelności i obciążenia ekonomicznego."
-    },
-    {
-      "title": "Młodsze dzieci chore na ŻChZZ: duże obciążenie ekonomiczne i śmiertelność - Medscape",
-      "url": "https://www.medscape.com/viewarticle/younger-children-vte-face-high-economic-and-mortality-burden-2026a1000lx5",
-      "date": "2026-06-29T02:30:27Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Dzieci i młodzież chora na żylną chorobę zakrzepowo-zatorową, szczególnie dzieci w wieku 4 lat i młodsze, są obarczone większym ryzykiem śmiertelności i obciążenia ekonomicznego."
     }
   ],
   "guidelines": [
@@ -878,7 +878,7 @@
       "summary": "Czy irlandzka prezydencja w Radzie UE może być katalizatorem zmian?"
     },
     {
-      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia - Europejskie Towarzystwo Kardiologiczne",
+      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia – Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
@@ -891,7 +891,7 @@
       "date": "2026-06-26T08:30:18Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "mCRPC: Opieka wspomagająca, obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -950,6 +950,14 @@
       "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
+      "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
+      "date": "2026-06-24T16:46:28Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
+    },
+    {
       "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/gid-ta10413/documents/html-content-7",
       "date": "2026-06-24T10:36:02Z",
@@ -974,14 +982,6 @@
       "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
     },
     {
-      "title": "Nowa opcja leczenia zalecana w przypadku nawrotowego lub przerzutowego raka szyjki macicy - serwis NICE",
-      "url": "https://www.nice.org.uk/news/articles/new-treatment-option-recommended-for-recurrent-or-metastatic-cervical-cancer",
-      "date": "2026-06-23T23:00:00Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Zgodnie z opublikowanym dzisiaj ostatecznym projektem wytycznych, w ramach NHS dostępna jest obecnie nowa opcja leczenia raka szyjki macicy, który nawrócił lub rozprzestrzenił się na inne części ciała."
-    },
-    {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
       "date": "2026-06-23T11:13:29Z",
@@ -1003,7 +1003,7 @@
       "date": "2026-06-22T19:53:11Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
+      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie bezpośredniej osoby do kierowania opieką może pomóc pacjentom."
     },
     {
       "title": "Stanowisko Rady ds. Taryfikacji – układ oddechowy - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1043,7 +1043,15 @@
       "date": "2026-06-22T00:26:59Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
+      "summary": "Pacjenci mieszkający na obszarach wiejskich z przewlekłym bólem muszą mierzyć się z długimi podróżami, kosztownymi podróżami i ograniczonym dostępem do aptek w celu skutecznego leczenia bólu."
+    },
+    {
+      "title": "NIL - NIL: sprzeciw wobec rozwiązań ograniczających dostępność szkolenia specjalizacyjnego dla lekarzy z niepełnosprawnościami - NIL",
+      "url": "https://nil.org.pl/aktualnosci/9299-nil-sprzeciw-wobec-rozwiazan-ograniczajacych-dostepnosc-szkolenia-specjalizacyjnego-dla-lekarzy-z-niepelnosprawnosciami",
+      "date": "2026-06-19T16:15:57Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
     },
     {
       "title": "Nowe wytyczne AHA/ACC traktują zespół sercowo-nerkowo-metaboliczny jako pojedynczy, wzajemnie powiązany stan - Pharmacy Times",
@@ -1051,7 +1059,7 @@
       "date": "2026-06-17T07:00:00Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Lek. Chiadi Ndumele wyjaśnia, dlaczego nowe wytyczne American Heart Association (AHA)/American College of Cardiology (ACC) traktują chorobę sercowo-naczyniowo-nerkową (CKM) jako jeden wzajemnie powiązany zespół."
+      "summary": "Lekarz Chiadi Ndumele wyjaśnia, dlaczego nowe wytyczne American Heart Association (AHA)/American College of Cardiology (ACC) traktują chorobę sercowo-naczyniowo-nerkową (CKM) jako jeden wzajemnie powiązany zespół."
     },
     {
       "title": "Keith C. Ferdinand: Niedaleko Dziewiątego Okręgu – www.heart.org",
@@ -1093,7 +1101,7 @@
       "date": "2026-06-29T07:29:06Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
+      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
     },
     {
       "title": "Razem na rzecz zdrowia stoimy po stronie nauki: Dane krajowe i cele zrównoważonego rozwoju dotyczące zanieczyszczenia powietrza i zdrowia – Światowa Organizacja Zdrowia (WHO)",
@@ -1280,12 +1288,12 @@
       "summary": "Niniejsze wydanie raportu ECDC o zagrożeniach chorobami zakaźnymi (CDTR) obejmuje okres od 19 do 26 czerwca 2026 r. i zawiera aktualne informacje na temat wirusa Ebola, zakażeń wirusem Zachodniego Nilu, gorączki krwotocznej krymsko-kongijskiej, grypy A(H9N2), cholery, mopksu, dengi, rozmieszczenia ekspertów, choroby chikungunya związanej z podróżami w krajach UE/EOG oraz przegląd wirusów układu oddechowego epidemiologia w UE/EOG."
     },
     {
-      "title": "Podręcznik dotyczący szczepień przeciwko wirusom układu oddechowego: monitorowanie i raportowanie szczepień przeciwko grypie sezonowej, COVID-19 i wirusowi syncytialnemu układu oddechowego - Światowa Organizacja Zdrowia (WHO)",
+      "title": "Podręcznik dotyczący szczepień przeciwko wirusowi układu oddechowego: monitorowanie i raportowanie szczepień przeciwko grypie sezonowej, COVID-19 i wirusowi syncytialnemu układu oddechowego - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/9789240118829",
       "date": "2026-06-26T13:22:10Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Podręcznik dotyczący szczepień przeciwko wirusom układu oddechowego: monitorowanie i raportowanie szczepień przeciwko grypie sezonowej, Covid-19 i wirusowi syncytialnemu układu oddechowego Światowa Organizacja Zdrowia (WHO)."
+      "summary": "Publikacje Światowej Organizacji Zdrowia."
     },
     {
       "title": "Afrykańskie CDC potraja kwotę potrzebną do walki z wirusem Ebola – CIDRAP",
@@ -1394,7 +1402,7 @@
       "summary": "Mike Montello, dyrektor ds. technologii cyfrowych i informacji dotyczących stosowanych badań klinicznych online."
     },
     {
-      "title": "Szkolne szczepienia przeciwko HPV zwiększają zasięg we francuskim badaniu, ale sama edukacja nie poruszy igły – Trialsitenews.com",
+      "title": "Szkolne szczepienia przeciwko HPV zwiększają zasięg we francuskim badaniu, ale sama edukacja nie zdziała cudów – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/school-based-hpv-vaccination-boosts-coverage-in-french-trialbut-education-alone-doesnt-move-the-needle-0eeba469",
       "date": "2026-06-28T05:56:18Z",
       "source": "TrialSite News",
@@ -1426,7 +1434,7 @@
       "summary": "Departament Zdrowia i Opieki Społecznej Stanów Zjednoczonych (HHS), za pośrednictwem Administracji ds. Gotowości i Reagowania Strategicznego (ASPR) oraz Urzędu ds. Zaawansowanych Badań i Rozwoju Biomedycznego (BARDA), ogłosił rozszerzenie wsparcia dla trwającej reakcji na epidemię wirusa ebola Bundibugyo w Demokratycznej Republice Konga i Ugandzie. Ponieważ obecnie nie ma zatwierdzonych przez FDA szczepionek ani środków terapeutycznych przeciwko temu gatunkowi wirusa Ebola, Stany Zjednoczone"
     },
     {
-      "title": "Badanie niemieckie łączy sezonowe zastrzyki mRNA dla wirusa SARS-CoV-2 w celu obniżenia częstości diagnozy Covid-19 – ale pojawiają się pytania dotyczące zbierania danych",
+      "title": "Badanie niemieckie łączy sezonowe zastrzyki mRNA dla wirusa SARS-CoV-2 w celu obniżenia częstości diagnozy Covid-19 – ale pojawiają się pytania dotyczące zbierania danych – trisitenews.com",
       "url": "https://www.trialsitenews.com/a/german-study-links-seasonal-mrna-covid-shot-to-lower-long-covid-diagnosesbut-the-data-raise-questions-02426d2e",
       "date": "2026-06-27T17:25:55Z",
       "source": "TrialSite News",
@@ -1479,7 +1487,7 @@
       "date": "2026-06-27T00:18:15Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07671651 | Wpływ terapii ozonowej na remineralizację uszkodzeń próchnicowych początkowych u dzieci ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07671651 | Wpływ terapii ozonem na remineralizację początkowych zmian próchnicowych u dzieci ClinicalTrials.gov."
     },
     {
       "title": "Profilaktyka powikłań hematologicznych za pomocą naderiny w chemioterapii pierwszego rzutu raka piersi (NADERIN-BC) - ClinicalTrials.gov",
@@ -1594,12 +1602,12 @@
       "summary": "Nadzór nad badaniami klinicznymi w czasie rzeczywistym i luka w infrastrukturze: pytania i odpowiedzi z Rajem Indupuri, eClinical Solutions Applied Clinical Trials Online."
     },
     {
-      "title": "Polityka bezpieczeństwa szczepionek: nowo opublikowane e-maile CDC rodzą pytania dotyczące zarządzania, przejrzystości i zmieniającego się stanowiska Waszyngtonu - trialsitenews.com",
+      "title": "Polityka bezpieczeństwa szczepionek: nowo opublikowane e-maile CDC rodzą pytania dotyczące zarządzania, przejrzystości i zmiany stanowiska Waszyngtonu - Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/the-politics-of-vaccine-safety-newly-released-cdc-emails-raise-questions-about-governance-transparencyand-washingtons-shifting-positions-798ab7eb",
       "date": "2026-06-26T15:06:03Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Przez większą część późnych lat 90. i początku XXI wieku obawy dotyczące narażenia na rtęć pochodzącą ze szczepionek nie były kwestią stronniczą. Członkowie obu partii politycznych poparli dodatkowe badania nad bezpieczeństwem szczepionek, większą przejrzystością, a wysiłki mające na celu ograniczenie niepotrzebnego kontaktu z krajobrazem politycznym zmieniły się dramatycznie. W nowo wydanym memorandum przygotowanym przez demokratyczny personel Senackiej Komisji Zdrowia, Edukacji, Pracy i Emerytur (HELP) krytykuje Sekretarza Zdrowia i Opieki Społecznej Roberta F."
+      "summary": "Przez większą część późnych lat 90. i początku XXI wieku obawy związane z narażeniem na rtęć pochodzącą ze szczepionek nie były kwestią stronniczą. Członkowie obu partii politycznych poparli dodatkowe badania nad bezpieczeństwem szczepionek, większą przejrzystością, a wysiłki mające na celu ograniczenie niepotrzebnego kontaktu z krajobrazem politycznym zmieniły się dramatycznie. W nowo wydanym memorandum przygotowanym przez demokratyczny personel Senackiej Komisji Zdrowia, Edukacji, Pracy i Emerytur (HELP) krytykuje Sekretarza Zdrowia i Opieki Społecznej Roberta F."
     },
     {
       "title": "DIA 2026: Dlaczego badania kliniczne utknęły w przeszłości – stosowane badania kliniczne online",
@@ -1625,7 +1633,7 @@
       "date": "2026-06-29T11:13:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Zymeworks przejmie Theravance Biopharma za 929 mln dolarów, uzyskując prawa do udziału w zyskach leku Yupelri w USA leku na POChP oraz tantiem licencyjnych poza USA generujących ~60 mln dolarów rocznie."
+      "summary": "Zymeworks przejmie Theravance Biopharma za 929 mln dolarów, uzyskując prawa do udziału w zyskach leku Yupelri w USA leku na POChP oraz tantiem poza USA generujących ~60 mln dolarów rocznie."
     },
     {
       "title": "Filipińska FDA utworzy priorytetowe pasy dla leków wytwarzanych lokalnie, aby zmniejszyć zależność od importu",
@@ -1756,7 +1764,7 @@
       "summary": "Komitet ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP) to komitet Europejskiej Agencji Leków (EMA) odpowiedzialny za leki stosowane u ludzi. Odgrywa kluczową rolę w procesie wydawania pozwoleń na leki w Unii Europejskiej. Komisja spotyka się raz w miesiącu."
     },
     {
-      "title": "Interakcje pomiędzy Loncastuksymabem tezyną i walgancyklowirem - Drugs.com",
+      "title": "Interakcje między loncastuksymabem tezyną i walgancyklowirem - Drugs.com",
       "url": "https://www.drugs.com/drug-interactions/loncastuximab-tesirine-with-valganciclovir-4257-0-2285-0.html?professional=1",
       "date": "2026-06-28T14:11:10Z",
       "source": "Drugs.com",
@@ -1868,7 +1876,7 @@
       "summary": "Wyrób medyczny przypomina accessdata.fda.gov."
     },
     {
-      "title": "Kurs firmy Pfizer na Seagen nadal traci na wartości; Debata w Chinach wciąż się zaostrza; i więcej — Wiadomości dotyczące punktów końcowych",
+      "title": "Stawka spółki Pfizer na Seagen staje się coraz gorsza; Debata w Chinach wciąż się zaostrza; i więcej — Wiadomości dotyczące punktów końcowych",
       "url": "https://endpoints.news/pfizers-seagen-bet-sours-further-china-debate-continues-to-heat-up-and-more/",
       "date": "2026-06-27T10:00:00Z",
       "source": "Endpoints News",
@@ -1901,38 +1909,6 @@
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=51&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicename",
-      "date": "2026-06-27T07:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm?start_search=431&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondatedesc",
-      "date": "2026-06-27T07:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=371&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumberdesc",
-      "date": "2026-06-27T07:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=211&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicename",
-      "date": "2026-06-27T07:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=281&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicantdesc",
       "date": "2026-06-27T07:00:00Z",
       "source": "FDA Drug News",
@@ -1950,6 +1926,38 @@
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=451&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicant",
+      "date": "2026-06-27T07:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=371&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumberdesc",
+      "date": "2026-06-27T07:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=51&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicename",
+      "date": "2026-06-27T07:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm?start_search=431&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondatedesc",
+      "date": "2026-06-27T07:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=211&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicename",
       "date": "2026-06-27T07:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
@@ -2109,7 +2117,7 @@
       "date": "2026-06-29T07:29:06Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
+      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
     },
     {
       "title": "Region Azji Południowo-Wschodniej potwierdza zaangażowanie na rzecz utrzymania statusu osoby wolnej od polio – Światowa Organizacja Zdrowia (WHO)",
