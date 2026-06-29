@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T11:47:17Z",
+  "last_updated": "2026-06-29T11:48:16Z",
   "poland": [
     {
       "title": "Dziwny SMS od RCB. To nie ostrzeżenie przed upałem - PolitykaZdrowotna.com",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Połączenie astmy i cukrzycy powiązane ze złym zdrowiem metabolicznym - Medscape",
+      "url": "https://www.medscape.com/viewarticle/asthma-diabetes-combo-linked-poor-metabolic-health-2026a1000lzl",
+      "date": "2026-06-29T11:43:52Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Badanie przekrojowe pokazuje, że u pacjentów chorych na astmę i cukrzycę występuje więcej niekorzystnych profili biomarkerów kardiometabolicznych i zapalnych w porównaniu z pacjentami bez żadnej choroby."
+    },
+    {
       "title": "Wynik nawyku powiązany z lepszą przyczepnością leków wziewnych u chorych na mukowiscydozę – Medscape",
       "url": "https://www.medscape.com/viewarticle/habit-score-tied-improved-inhaled-drug-adherence-cystic-2026a1000lyx",
       "date": "2026-06-29T11:18:14Z",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
-    },
-    {
-      "title": "Epidemia ospy: raport sytuacyjny (SITREP) S22-2026, nr 109 | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/fr/countries/congo/publication/epidemie-de-mpox-rapport-de-situation-sitrep-s22-2026-ndeg109",
-      "date": "2026-06-28T21:26:20Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
     }
   ],
   "guidelines": [
@@ -2070,14 +2070,6 @@
       "summary": "W dniach 24–26 czerwca 2026 r. w Kolombo na Sri Lance odbyło się 19. posiedzenie Regionalnej Komisji Certyfikacyjnej ds. Eradykacji Polio w Azji Południowo-Wschodniej (SEA-RCCPE), które zgromadziło ekspertów światowych i regionalnych w celu dokonania przeglądu postępów i wyzwań w zakresie utrzymania statusu regionu wolnego od polio. Spotkanie zainaugurowali Wiceminister Zdrowia i Mediów Rządu Sri Lanki wraz z Przedstawicielem Ag WHO na Sri Lance i przewodniczącym Globalnej Komisji Certyfikacyjnej ds. Eradykacji Poliomyelitis. SEA-RCCPE to niezależna regionalna jednostka certyfikująca, która zapewnia nadzór i wytyczne w zakresie eradykacji polio w regionie Azji Południowo-Wschodniej WHO. Podczas spotkania Komisja dokonała przeglądu krajowych raportów rocznych przedłożonych przez Krajowe Komitety Certyfikacyjne wszystkich dziesięciu krajów regionu, oceniony program wyniki i zbadał kluczowe aspekty, w tym odporność populacji, systemy nadzoru, gotowość na epidemię, powstrzymywanie i transformację polio. Komisja zauważyła, że ​​region w dalszym ciągu wykazuje dobre ogólne wyniki w utrzymywaniu statusu obszaru wolnego od polio."
     },
     {
-      "title": "Epidemia ospy: raport sytuacyjny (SITREP) S22-2026, nr 109 | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/fr/countries/congo/publication/epidemie-de-mpox-rapport-de-situation-sitrep-s22-2026-ndeg109",
-      "date": "2026-06-28T21:26:20Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
-    },
-    {
       "title": "Stany Zjednoczone wspierają eksperymentalne środki zaradcze przeciwko wirusowi Ebola w czasie, gdy epidemia Bundibugyo testuje globalną gotowość",
       "url": "https://www.trialsitenews.com/a/u.s.-backs-experimental-ebola-countermeasures-as-bundibugyo-outbreak-tests-global-preparedness-8a016204",
       "date": "2026-06-27T22:54:58Z",
@@ -2100,6 +2092,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Dostępny jest również plik audio."
+    },
+    {
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-06-26T19:37:48Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
     }
   ],
   "daily_top5": [
@@ -2110,6 +2110,14 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Pozytywna opinia EMA obniżyłaby zatwierdzony wiek leku Imvanex z 12 lat do 2 lat w przypadku ospy prawdziwej, mopksu i wirusa krowianki."
+    },
+    {
+      "title": "Czterdziesta dziewiąta sesja Komisji Kodeksu Żywnościowego FAO/WHO przyjmuje nowe standardy - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/29-06-2026-forty-ninth-session-of-the-fao-who-codex-alimentarius-commission-adopts-new-standards",
+      "date": "2026-06-29T10:56:12Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "49. sesja Komisji Kodeksu Żywnościowego (CAC49) odbędzie się w dniach 6–10 lipca 2026 r. w Genewie w Szwajcarii. Sesje plenarne będą transmitowane w internecie we wszystkich sześciu językach ONZ (arabskim, chińskim, angielskim, francuskim, rosyjskim i hiszpańskim). Dyskusje plenarne będą odbywać się w godzinach 10:00–13:00 CEST i 15:00–18:00 CEST od poniedziałku 6 lipca do środy 8 lipca 2026 r."
     },
     {
       "title": "Uruchomienie planu wzmocnienia reakcji na choroby grzybicze i oporności na środki przeciwgrzybicze – Światowa Organizacja Zdrowia (WHO)",
@@ -2134,14 +2142,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "W dniach 24–26 czerwca 2026 r. w Kolombo na Sri Lance odbyło się 19. posiedzenie Regionalnej Komisji Certyfikacyjnej ds. Eradykacji Polio w Azji Południowo-Wschodniej (SEA-RCCPE), które zgromadziło ekspertów światowych i regionalnych w celu dokonania przeglądu postępów i wyzwań w zakresie utrzymania statusu regionu wolnego od polio. Spotkanie zainaugurowali Wiceminister Zdrowia i Mediów Rządu Sri Lanki wraz z Przedstawicielem Ag WHO na Sri Lance i przewodniczącym Globalnej Komisji Certyfikacyjnej ds. Eradykacji Poliomyelitis. SEA-RCCPE to niezależna regionalna jednostka certyfikująca, która zapewnia nadzór i wytyczne w zakresie eradykacji polio w regionie Azji Południowo-Wschodniej WHO. Podczas spotkania Komisja dokonała przeglądu krajowych raportów rocznych przedłożonych przez Krajowe Komitety Certyfikacyjne wszystkich dziesięciu krajów regionu, oceniony program wyniki i zbadał kluczowe aspekty, w tym odporność populacji, systemy nadzoru, gotowość na epidemię, powstrzymywanie i transformację polio. Komisja zauważyła, że ​​region w dalszym ciągu wykazuje dobre ogólne wyniki w utrzymywaniu statusu obszaru wolnego od polio."
-    },
-    {
-      "title": "Epidemia ospy: raport sytuacyjny (SITREP) S22-2026, nr 109 | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/fr/countries/congo/publication/epidemie-de-mpox-rapport-de-situation-sitrep-s22-2026-ndeg109",
-      "date": "2026-06-28T21:26:20Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
     }
   ]
 }
