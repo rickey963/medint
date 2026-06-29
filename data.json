@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T07:16:21Z",
+  "last_updated": "2026-06-29T07:17:08Z",
   "poland": [
     {
       "title": "Padł historyczny rekord temperatury w Polsce. Nigdy wcześniej nie zmierzono 40,5°C - Alert Medyczny",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Rozproszenie kolana obiecujące w ciężkiej chorobie zwyrodnieniowej stawów - Medscape",
+      "url": "https://www.medscape.com/viewarticle/knee-distraction-shows-promise-severe-osteoarthritis-2026a1000lxy",
+      "date": "2026-06-29T07:15:48Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Nowatorska technika odwracania uwagi kolana cieszy się zainteresowaniem w leczeniu ciężkiej choroby zwyrodnieniowej stawów, a badania wykazały trwałe złagodzenie objawów i zmiany w tkankach wiele lat później."
+    },
+    {
       "title": "Problemy kardiometaboliczne: kiedy podejrzewać bezdech senny - Medscape",
       "url": "https://www.medscape.com/viewarticle/sleep-apnea-could-be-missing-diagnosis-complex-2026a1000lxt",
       "date": "2026-06-29T06:37:59Z",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Spersonalizowana, funkcjonalna łączność, sterowana neuronami, powtarzalna przezczaszkowa stymulacja magnetyczna o wysokiej częstotliwości w leczeniu obwodowego bólu neuropatycznego: protokół wieloośrodkowego, randomizowanego, kontrolowanego badania BMJ Open z podwójnie ślepą próbą."
-    },
-    {
-      "title": "Choroba kociego pazura – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMicm2602360",
-      "date": "2026-06-27T18:22:30Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Choroba kociego pazura The New England Journal of Medicine."
     }
   ],
   "guidelines": [
@@ -1777,7 +1777,7 @@
       "date": "2026-06-28T21:33:17Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Specjalista ds. zarządzania projektami w zakresie cyfryzacji regulacyjnej i naukowej cares.ema.europa.eu."
+      "summary": "Specjalista ds. zarządzania projektami w zakresie cyfryzacji regulacyjnej i naukowej."
     },
     {
       "title": "Asystent (wiele obszarów) - cares.ema.europa.eu",
@@ -1949,14 +1949,6 @@
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=281&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicantdesc",
-      "date": "2026-06-27T07:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=451&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicant",
       "date": "2026-06-27T07:00:00Z",
       "source": "FDA Drug News",
@@ -1966,6 +1958,14 @@
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=371&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumberdesc",
+      "date": "2026-06-27T07:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=281&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicantdesc",
       "date": "2026-06-27T07:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
