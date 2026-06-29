@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-29T08:24:38Z",
+  "last_updated": "2026-06-29T08:25:25Z",
   "poland": [
+    {
+      "title": "UPAŁY - ZADBAJ O SWOJE ZDROWIE! - Gov.pl",
+      "url": "https://www.gov.pl/web/psse-parczew/upaly--zadbaj-o-swoje-zdrowie",
+      "date": "2026-06-29T08:24:22Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Wysokie temperatury mogą być niebezpieczne dla zdrowia, szczególnie dla dzieci, seniorów, kobiet w ciąży oraz osób przewlekle chorych. Pamiętaj o kilku prostych zasadach:."
+    },
     {
       "title": "Prof. Dębska: PMOS to choroba na całe życie. Niepłodność jest tylko jedną z negatywnych konsekwencji - Puls Medycyny",
       "url": "https://pulsmedycyny.pl/medycyna/ginekologia-i-poloznictwo/prof-debska-pmos-to-choroba-na-cale-zycie-nieplodnosc-jest-tylko-jedna-z-negatywnych-konsekwencji",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Na zlecenie Menedżera Zdrowia” powstał raport Pielęgniarki w Polsce i Europie. Analiza porównawcza”. Przedstawione w nim analizy wieją grozą."
-    },
-    {
-      "title": "Cztery Polki dziennie umierają na raka szyjki macicy. Dr Homola: nie powinno do tego dochodzić - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Cztery-Polki-dziennie-umieraja-na-raka-szyjki-macicy-Dr-Homola-nie-powinno-do-tego-dochodzic,285907,14.html",
-      "date": "2026-06-28T14:49:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Rak szyjki macicy należy do nielicznych nowotworów, których można skutecznie zapobiegać. Dzięki szczepieniom przeciw HPV oraz nowoczesnym badaniom przesiewowym możliwe jest wykrycie zmian na długo przed rozwojem choroby. Eksperci podkreślają jednak, że choć Polska dysponuje dziś wszystkimi niezbędnymi narzędziami, kluczowe jest zwiększenie liczby wykonywanych badań i poziomu wyszczepialności."
     }
   ],
   "world": [
@@ -1054,14 +1054,6 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Rzecznicy Praw Lekarza OIL - NIL",
-      "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil/rzecznicy-praw-lekarza-oil",
-      "date": "2026-06-19T14:53:25Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
       "title": "Leczenie wewnątrznaczyniowe udaru niedokrwiennego dużego rdzenia - professional.heart.org",
       "url": "https://professional.heart.org/en/videos/large-core-ischemic-stroke",
       "date": "2026-06-18T00:09:37Z",
@@ -1391,7 +1383,7 @@
       "date": "2026-06-28T18:17:54Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Mike Montello, dyrektor ds. technologii cyfrowych i informacji dotyczących stosowanych badań klinicznych online."
+      "summary": "Mike Montello, dyrektor ds. cyfrowych i informatycznych stosowanych badań klinicznych online."
     },
     {
       "title": "Szkolne szczepienia przeciwko HPV zwiększają zasięg we francuskim badaniu, ale sama edukacja nie zdziała cudów – Trialsitenews.com",
@@ -1754,6 +1746,14 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "W zeszłym roku spadły ceny leków na receptę; W następstwie umowy Biogen odcina rurociąg Apellis; Sanofi na celowniku UE za wprowadzającą w błąd kampanię na temat szczepionki przeciw grypie."
+    },
+    {
+      "title": "4 kandydatów na raka jajnika do obejrzenia: GSK, Allarity i nie tylko – BioSpace",
+      "url": "https://www.biospace.com/drug-development/4-ovarian-cancer-candidates-to-watch-gsk-allarity-and-more",
+      "date": "2026-06-29T04:05:50Z",
+      "source": "BioSpace",
+      "confirmed_by": 1,
+      "summary": "Niedawne zezwolenia dla Corcept Therapeutics i Merck nadały rozmach tej przestrzeni, w której GSK, Allarity Therapeutics, OSE Immunotherapies i inne firmy promują swoich własnych kandydatów."
     },
     {
       "title": "DAYBU® (trofinetyd) Rekomendowany do zatwierdzenia w Unii Europejskiej przez CHMP – BioSpace",
@@ -2138,14 +2138,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Wycofanie urządzenia klasy 2 Medline accessdata.fda.gov."
-    },
-    {
-      "title": "Interakcje oleju rybnego i witaminy C z owocami róży – Drugs.com",
-      "url": "https://www.drugs.com/drug-interactions/fish-oil-with-vitamin-c-with-rose-hips-1749-3873-238-3833.html?professional=1",
-      "date": "2026-06-27T04:10:13Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Interakcje między olejem rybnym i witaminą C z Rose Hips Drugs.com."
     }
   ],
   "critical_alerts": [
