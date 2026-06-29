@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T10:48:53Z",
+  "last_updated": "2026-06-29T10:49:40Z",
   "poland": [
     {
       "title": "PFSz o wynagrodzeniach medyków - Medycyna Praktyczna",
@@ -601,7 +601,7 @@
       "date": "2026-06-29T06:38:38Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Praca w znieczuleniu w Ameryce Północnej. 1 Przychodnia specjalistyczna, oferta pracy BMJ Careers do przeglądania i aplikowania w BMJ Careers."
+      "summary": "Praca w znieczuleniu w Ameryce Północnej. 1 Klinika specjalistyczna, oferta pracy BMJ Careers do przeglądania i aplikowania w BMJ Careers."
     },
     {
       "title": "Problemy kardiometaboliczne: kiedy podejrzewać bezdech senny - Medscape",
@@ -886,6 +886,14 @@
       "summary": "mCRPC: Opieka wspomagająca, obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
+      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 3,
+      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
+    },
+    {
       "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/news/news-room/how-early-is-early-enough-treating-familial-hypercholesterolaemia-before-risk-takes-root/",
       "date": "2026-06-26T06:20:50Z",
@@ -902,12 +910,36 @@
       "summary": "Prowadzący Aaron Lohr rozmawia z autorami nowych Wytycznych praktyki klinicznej Towarzystwa Endokrynologicznego w zakresie przedwczesnego dojrzewania centralnego: dr Ana Latronico, profesor endokrynologii i metabolizmu na Uniwersytecie w Sao Paolo oraz Stephanie Roberts, MD, endokrynolog dziecięcy i adiunkt pediatrii w Bostońskim Szpitalu Dziecięcym."
     },
     {
+      "title": "Wizyty na oddziałach ratunkowych w związku z podejrzeniem próby samobójczej — Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
+      "date": "2026-06-25T17:03:11Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
+    },
+    {
+      "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm?s_cid=OS_mm7524a2_w",
+      "date": "2026-06-25T17:03:11Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W niniejszym raporcie opisano liczbę zgonów spowodowanych przedawkowaniem narkotyków, które miały miejsce w hotelach i motelach w USA w latach 2022–2024."
+    },
+    {
       "title": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/high-hpv-vaccination-coverage-in-england-associated-with-a-substantial-reduction-in-cervical-cancer-mortality",
       "date": "2026-06-25T12:34:30Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Co warto wiedzieć, jeśli wracasz do Stanów Zjednoczonych z DRK, Ugandy lub Sudanu Południowego."
     },
     {
       "title": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacyjności i bezpieczeństwa w opiece onkologicznej - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -950,14 +982,6 @@
       "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
     },
     {
-      "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
-      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
-      "date": "2026-06-23T15:12:34Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
-    },
-    {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
       "date": "2026-06-23T11:13:29Z",
@@ -972,14 +996,6 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
-    },
-    {
-      "title": "Panel kontrolny DOSE-DIS: Oddział ratunkowy w przypadku przedawkowania niezakończonego zgonem i dane dotyczące wypisu ze szpitala – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/overdose-prevention/data-research/facts-stats/dose-dashboard-nonfatal-discharge-data.html",
-      "date": "2026-06-23T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "DOSE-DIS rejestruje dane oddziałów ratunkowych i pacjentów wypisanych ze szpitala na temat przedawkowań niezakończonych zgonem."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1006,6 +1022,14 @@
       "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 5/2026 w sprawie taryf świadczeń gwarantowanych gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień."
     },
     {
+      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
+      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
+      "date": "2026-06-22T10:42:34Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
+    },
+    {
       "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
       "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
       "date": "2026-06-22T09:05:58Z",
@@ -1020,6 +1044,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
+      "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
+      "date": "2026-06-22T00:26:59Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
     },
     {
       "title": "NIL - NIL: sprzeciw wobec rozwiązań ograniczających dostępność szkolenia specjalizacyjnego dla lekarzy z niepełnosprawnościami - NIL",
@@ -1599,10 +1631,10 @@
       "date": "2026-06-26T11:13:10Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Narzędzie AI Clariyon zwiększa przestrzeganie zasad leczenia sepsy w szpitalnym badaniu Clinical Trials Arena."
+      "summary": "Narzędzie AI firmy Clariyon zwiększa przestrzeganie zasad leczenia sepsy w szpitalnym badaniu Clinical Trials Arena."
     },
     {
-      "title": "Pierwszy pacjent, któremu podano dawkę leku RC220 w badaniu HARNESS-1 firmy Racura – Arena Badań Klinicznych",
+      "title": "Pierwszy pacjent, któremu podano dawkę w badaniu RC220 HARNESS-1 firmy Racura – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/first-patient-dosed-racuras-harness-1-trial/",
       "date": "2026-06-26T11:13:10Z",
       "source": "Clinical Trials Arena",
@@ -1689,7 +1721,7 @@
       "date": "2026-06-28T21:33:17Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Specjalista ds. zarządzania projektami w zakresie cyfryzacji regulacyjnej i naukowej."
+      "summary": "Specjalista ds. zarządzania projektami w zakresie cyfryzacji regulacyjnej i naukowej cares.ema.europa.eu."
     },
     {
       "title": "Czy możesz brać alprazolam, jeśli masz Alpha Gal? - Narkotyki.com",
