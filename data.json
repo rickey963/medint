@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T18:46:51Z",
+  "last_updated": "2026-06-29T18:47:31Z",
   "poland": [
     {
       "title": "Afera w Szpitalu Południowym. Prokuratura: lista świadków wydłuża się - Medonet",
@@ -119,7 +119,7 @@
       "date": "2026-06-29T15:51:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Zymeworks przejmie Theravance za 929 mln USD. Transakcja ma rozszerzyć działalność firmy poza onkologię i zapewnić nowe źródła przychodów."
+      "summary": "Zymeworks kupuje Theravance za 929 mln dolarów i wchodzi na rynek leczenia POChP Alert Medyczny."
     },
     {
       "title": "Padają wnioski o zmniejszenie obsad karetek. Ministerstwo: żadnych zmian nie będzie - Rynek Zdrowia",
@@ -191,7 +191,7 @@
       "date": "2026-06-29T14:38:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prezes NRL Łukasz Jankowski potwierdził autentyczność wpisu z Facebooka. Wyjaśnił, dlaczego sprzeciwia się protestom lekarzy."
+      "summary": "Prezes NRL: „Żadnych protestów”. Taką strategię proponuje lekarzom Alert Medyczny."
     },
     {
       "title": "Wielka Interna Kardiologia część 1 - wydanie II - Podyplomie",
@@ -263,7 +263,7 @@
       "date": "2026-06-29T13:26:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe sondaże pokazują, że 74,8% Polaków źle ocenia ochronę zdrowia, a 57,5% uważa, że ministra zdrowia powinna zostać odwołana."
+      "summary": "74,8% Polaków źle ocenia publiczną ochronę zdrowia. Większość chce dymisji ministry Alert Medyczny."
     },
     {
       "title": "\"Należy natychmiast zlikwidować kominy płacowe\". Szefowa Solidarności o rekordowych zarobkach lekarzy - Rynek Zdrowia",
@@ -335,7 +335,7 @@
       "date": "2026-06-29T12:44:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "PR OZZL przedstawiło wyniki analizy 321 szpitali. Według organizacji wynagrodzenia lekarzy stanowią średnio 23% budżetu placówek."
+      "summary": "Rezydenci odpowiadają politykom. Pokazali, ile szpitale wydają na wynagrodzenia Alert Medyczny."
     },
     {
       "title": "Polacy dostali niespodziewany alert RCB. \"Zagrożenie bez daty ważności\" - Medonet",
@@ -466,6 +466,14 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Zapoznaj się ze szczegółowymi informacjami klinicznymi, najnowszymi doniesieniami medycznymi i wytycznymi dotyczącymi ostrego zespołu wieńcowego, sklasyfikowanego jako zawał mięśnia sercowego z uniesieniem odcinka ST (zawał mięśnia sercowego ze STEMI) lub zawał mięśnia sercowego bez uniesienia odcinka ST (NSTE lub zawał mięśnia sercowego bez ST), co znajduje odzwierciedlenie w EKG. Przeczytaj o najnowszym leczeniu dławicy piersiowej i STEMI."
+    },
+    {
+      "title": "Ulepszone dawkowanie regorafenibu w leczeniu opornego na leczenie raka jelita grubego z przerzutami – lekarz NEJM",
+      "url": "https://clinician.nejm.org/nejm-jw.NA49655?show-author=true&author-id=AU1252",
+      "date": "2026-06-29T16:03:00Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     },
     {
       "title": "Ekscytujące osiągnięcia w medycynie otyłości z ADA 2026 - Medscape",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Zaloguj się Przypomnij mi."
-    },
-    {
-      "title": "Animowany biofeedback w przypadku funkcjonalnych zaburzeń oddawania moczu u dzieci: systematyczny przegląd i metaanaliza pozostałych wyników po mikcji - Cureus",
-      "url": "https://www.cureus.com/articles/506099-animated-biofeedback-for-pediatric-functional-voiding-dysfunction-a-systematic-review-and-meta-analysis-of-postvoid-residual-outcomes",
-      "date": "2026-06-29T11:27:11Z",
-      "source": "Cochrane Library",
-      "confirmed_by": 1,
-      "summary": "Wprowadzono animowany lub grywalizowany biofeedback, aby poprawić zaangażowanie podczas przekwalifikowania mięśni dna miednicy u dzieci z funkcjonalnymi zaburzeniami oddawania moczu. Jednak dodatkowe korzyści kliniczne wynikające z tej metody poza standardową uroterapią lub konwencjonalnym biofeedbackiem pozostają niepewne. Celem tego systematycznego przeglądu było syntezę dostępnych dowodów na temat animowanego lub grywalizowanego biofeedbacku w przypadku nieneurogennych czynnościowych zaburzeń oddawania moczu u dzieci, wraz z eksploracyjną analizą ilościową objętości moczu resztkowego po mikcji (PVR)."
     }
   ],
   "guidelines": [
@@ -1011,7 +1011,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
+      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Ostateczny projekt wytycznych | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
@@ -1027,7 +1027,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
+      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1035,7 +1035,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
+      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1051,7 +1051,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
+      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1716,6 +1716,14 @@
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
+      "title": "Dokument informacyjny FDA Posiedzenie Komitetu Doradczego ds. mieszanek farmaceutycznych (PCAC) 23–24 lipca 2026 r. - fda.gov",
+      "url": "https://www.fda.gov/media/193344/download",
+      "date": "2026-06-29T14:55:13Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Dokument informacyjny FDA Posiedzenie Komitetu Doradczego ds. mieszanek farmaceutycznych (PCAC) 23–24 lipca 2026 r. fda.gov."
+    },
+    {
       "title": "Transakcja Biotech SPAC trafia do Nasdaq; Zwycięstwo AstraZeneca w fazie 3 w leczeniu chorób kości u dzieci — Wiadomości z punktów końcowych",
       "url": "https://endpoints.news/biotech-spac-deal-gets-it-to-nasdaq-astrazeneca-phase-3-win-in-bone-disease/",
       "date": "2026-06-29T14:34:00Z",
@@ -1970,14 +1978,6 @@
       "source": "EMA",
       "confirmed_by": 1,
       "summary": "Specjalista ds. zarządzania projektami w zakresie cyfryzacji regulacyjnej i naukowej."
-    },
-    {
-      "title": "Czy możesz brać alprazolam, jeśli masz Alpha Gal? - Narkotyki.com",
-      "url": "https://www.drugs.com/answers/you-take-alprazolam-you-have-alpha-gal-3582665.html",
-      "date": "2026-06-28T21:26:25Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Czy możesz brać alprazolam, jeśli masz Alpha Gal? Narkotyki.com."
     }
   ],
   "critical_alerts": [
