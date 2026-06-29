@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T08:35:56Z",
+  "last_updated": "2026-06-29T08:37:15Z",
   "poland": [
     {
       "title": "Penta Hospitals International przejmuje lidera opieki senioralnej w Estonii - Alert Medyczny",
@@ -7,7 +7,7 @@
       "date": "2026-06-29T08:31:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Penta Hospitals International przejęła Südamekodud AS, największego operatora opieki senioralnej w Estonii. Grupa działa już w czterech krajach UE."
+      "summary": "Penta Hospitals International przejmuje lidera opieki senioralnej w Estonii Alert Medyczny."
     },
     {
       "title": "Afera w Szpitalu Południowym uderza w minister zdrowia. Nowy sondaż pokazuje opinię Polaków - PolitykaZdrowotna.com",
@@ -103,7 +103,7 @@
       "date": "2026-06-29T07:40:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "UOKiK wszczął postępowanie wobec operatora Receptomatu i l4.pl. Zarzuty dotyczą konsultacji online, e-recept, opłat i czasu realizacji usług."
+      "summary": "UOKiK stawia zarzuty operatorowi Receptomatu. Spółce grozi kara do 10% obrotu Alert Medyczny."
     },
     {
       "title": "Nowi członkowie zagraniczni PAN - Z kraju - Kurier - Medycyna Praktyczna",
@@ -135,7 +135,7 @@
       "date": "2026-06-29T07:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "INFARMA krytykuje projekt nowelizacji ustawy refundacyjnej. Organizacja apeluje o ponowne konsultacje i wskazuje ryzyka dla pacjentów i lekarzy."
+      "summary": "INFARMA alarmuje ws. nowelizacji ustawy refundacyjnej. Apeluje o nowe konsultacje Alert Medyczny."
     },
     {
       "title": "IMGW: padł nowy rekord ciepła - Z kraju - Kurier - Medycyna Praktyczna",
@@ -151,7 +151,7 @@
       "date": "2026-06-29T06:56:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Padły rekordy temperatur w Polsce. Sprawdź, jak ekstremalne upały wpłynęły na zdrowie, liczbę interwencji służb oraz sytuację w Europie."
+      "summary": "Padł historyczny rekord temperatury w Polsce. Nigdy wcześniej nie zmierzono 40,5°C Alert Medyczny."
     },
     {
       "title": "Ministerstwo Zdrowia rozważa surowsze kary dla medyków i dyrektorów szpitali - Alert Medyczny",
@@ -404,6 +404,22 @@
   ],
   "world": [
     {
+      "title": "Firma Sword Health podpisała umowę na świadczenie fizjoterapii wspieranej przez sztuczną inteligencję na terenie całego kraju – statnews.com",
+      "url": "https://www.statnews.com/2026/06/29/sword-health-portugal-deal-ai-supported-physical-therapy/",
+      "date": "2026-06-29T08:32:15Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Portugalska państwowa służba zdrowia podpisała umowę z cyfrową firmą zdrowotną Sword na świadczenie wirtualnej fizjoterapii wspomaganej sztuczną inteligencją."
+    },
+    {
+      "title": "Zakaz opieki afirmującej płeć nie chroni dzieci – utrudnia im pomoc – statnews.com",
+      "url": "https://www.statnews.com/2026/06/29/gender-affirming-care-trans-youth-plastic-surgeons-statement/",
+      "date": "2026-06-29T08:32:15Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "„Grupy lekarzy zdradzające zaufanie opinii publicznej w obawie przed odwetem rządu mają trwałe konsekwencje” – pisze chirurg plastyczny."
+    },
+    {
       "title": "Współzałożyciel Moderny, Kenneth Chien, o przyszłości mRNA i Moderna – statnews.com",
       "url": "https://www.statnews.com/2026/06/29/moderna-founder-kenneth-chien-on-cancer-vaccine-and-mrna-future/?utm_campaign=rss",
       "date": "2026-06-29T08:32:15Z",
@@ -452,9 +468,25 @@
       "summary": "STAT stwierdził, że operator szpitala Nutex wzbogacił się, wykorzystując luki w prawie mające na celu ochronę pacjentów."
     },
     {
+      "title": "Współzałożyciel Moderny, Kenneth Chien, o przyszłości mRNA i Moderna – statnews.com",
+      "url": "https://www.statnews.com/2026/06/29/moderna-founder-kenneth-chien-on-cancer-vaccine-and-mrna-future/",
+      "date": "2026-06-29T08:31:23Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "W odpowiedzi na pytania i odpowiedzi Kenneth Chien, który nie pracuje już w firmie Moderna, przewiduje, że opracowana przez firmę szczepionka przeciwnowotworowa mRNA będzie miała przełomowy wpływ na biotechnologię."
+    },
+    {
+      "title": "Inwestor Clive Meanwell o projektowaniu biotechnologii zapewniających zdrowie populacji i roli sztucznej inteligencji jako katalizatora – statnews.com",
+      "url": "https://www.statnews.com/2026/06/29/clive-meanwell-population-health-partners-on-ai-biotech/",
+      "date": "2026-06-29T08:31:23Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Clive Meanwell, prezes firmy inwestycyjnej Population Health Partners, do niedawna był sceptykiem sztucznej inteligencji. Teraz uważa, że ​​to katalizator."
+    },
+    {
       "title": "Represje biotechnologiczne między USA i Chinami mogą zaszkodzić naukowcom, których Ameryka potrzebuje najbardziej – statnews.com",
       "url": "https://www.statnews.com/2026/06/29/china-biotech-perpetual-foreigner-chinese-american-scientists/",
-      "date": "2026-06-29T08:31:23Z",
+      "date": "2026-06-29T08:31:07Z",
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "„Istnieje różnica między polityką opartą na dowodach a szeroką reakcją legislacyjną, która traktuje podmioty pochodzące z Chin jako z natury podejrzane” – pisze Brian Yang."
@@ -540,7 +572,7 @@
       "summary": "Obrazowanie nerwowo-naczyniowe pozwala zidentyfikować rzadki wariant tętnicy kręgowej, co podkreśla znaczenie rozpoznawania wariantów anatomicznych podczas oceny zakrzepicy zatok żylnych."
     },
     {
-      "title": "Firma zajmująca się sztuczną inteligencją, Edison Scientific, wykorzystała zespół stojący za Metsera do stworzenia nowych biotechnologii – statnews.com",
+      "title": "Zespół zajmujący się sztuczną inteligencją, firma Edison Scientific, wykorzystała zespół stojący za firmą Metsera do stworzenia nowych biotechnologii – statnews.com",
       "url": "https://www.statnews.com/2026/06/29/edison-scientific-population-health-partners-deal-to-create-new-biotechs/",
       "date": "2026-06-29T04:33:22Z",
       "source": "STAT News",
@@ -569,7 +601,7 @@
       "date": "2026-06-29T02:32:26Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Dzieci i młodzież z żylną chorobą zakrzepowo-zatorową, szczególnie dzieci w wieku 4 lat i młodsze, są obarczone większym ryzykiem śmiertelności i obciążenia ekonomicznego."
+      "summary": "Dzieci i młodzież chora na żylną chorobę zakrzepowo-zatorową, szczególnie dzieci w wieku 4 lat i młodsze, są obarczone większym ryzykiem śmiertelności i obciążenia ekonomicznego."
     },
     {
       "title": "Młodsze dzieci chore na ŻChZZ: duże obciążenie ekonomiczne i śmiertelność - Medscape",
@@ -617,7 +649,7 @@
       "date": "2026-06-28T21:34:25Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Dołącz do oficjalnego seminarium internetowego WHO na temat zanieczyszczenia powietrza i celów zrównoważonego rozwoju. WHO opublikuje nowe dane dla celów SDG 3.9.1, 7.1.2 i 11.6.2, zawierające studia przypadków krajowych dotyczące monitorowania trendów i dostosowania polityk do wytycznych WHO dotyczących jakości powietrza. Dowiedz się, jak wykorzystać te ustandaryzowane ramy, aby podejmować lepsze decyzje dotyczące zdrowia publicznego i czystsze powietrze na całym świecie."
+      "summary": "Dołącz do oficjalnego seminarium internetowego WHO na temat zanieczyszczenia powietrza i celów zrównoważonego rozwoju. WHO opublikuje nowe dane dla celów zrównoważonego rozwoju 3.9.1, 7.1.2 i 11.6.2, zawierające studia przypadków krajowych dotyczące monitorowania trendów i dostosowania polityk do wytycznych WHO dotyczących jakości powietrza. Dowiedz się, jak wykorzystać te ustandaryzowane ramy, aby podejmować lepsze decyzje dotyczące zdrowia publicznego i czystsze powietrze na całym świecie."
     },
     {
       "title": "Epidemia ospy: raport sytuacyjny (SITREP) S22-2026, nr 109 | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
@@ -770,38 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Przeczytaj pełnotekstowe artykuły w czasopismach medycznych z Medscape AHS 2026 – Perspectives."
-    },
-    {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-06-28T04:13:00Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
-    },
-    {
-      "title": "Pielęgniarka personelu — praca na oddziale kardiologicznym w Royal United Hospitals Bath NHS Foundation Trust (kariera w służbie zdrowia) | 824557 - BMJ",
-      "url": "https://www.bmj.com/healthcareers/job/824557/staff-nurse-cardiac-ward/",
-      "date": "2026-06-28T03:09:00Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Poszukujemy zmotywowanej i współczującej pielęgniarki zespołu 5, która dołączy do naszego dynamicznego zespołu oddziału kardiologicznego. To ekscytująca szansa na rozwój..."
-    },
-    {
-      "title": "Główny specjalista ds. zaawansowanych doświadczeń na żywo w Westminster – BMJ",
-      "url": "https://www.bmj.com/healthcareers/job/824423/lead-advanced-lived-experience-practitioner-westminster/?TrackID=8&utm_source=rss&utm_medium=feed&utm_campaign=general",
-      "date": "2026-06-28T01:20:23Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Główny specjalista ds. zaawansowanych doświadczeń na żywo zapewni starszemu rangą kierownictwu z doświadczeniem na terenie całej gminy w zakresie usług Westminster, w tym..."
-    },
-    {
-      "title": "Praca menedżera ds. kontraktów w fundacji Manchester University NHS Foundation Trust (kariera zdrowotna) | 824306 - BMJ",
-      "url": "https://www.bmj.com/healthcareers/job/824306/contracts-manager/",
-      "date": "2026-06-28T01:08:49Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Pojawiła się ekscytująca szansa na stanowisko Menedżera ds. Kontraktów w Zespole ds. Kontraktów, który jest częścią szerszego działu ds. Kontraktów, Dochodów i Kosztów..."
     }
   ],
   "guidelines": [
@@ -862,7 +862,7 @@
       "summary": "Czy irlandzka prezydencja w Radzie UE może być katalizatorem zmian?"
     },
     {
-      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia - Europejskie Towarzystwo Kardiologiczne",
+      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia – Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
@@ -876,6 +876,198 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Coraz więcej młodych dorosłych ma wysoki poziom cholesterolu. Nowe wytyczne wymuszają wcześniejsze pokazy. Znawca CT."
+    },
+    {
+      "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-advanced-and-metastatic-prostate-cancer/supportive-care-follow-up-long-term-implications-and-survivorship/mcrpc-supportive-care-follow-up-long-term-implications-and-survivorship",
+      "date": "2026-06-26T08:30:18Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "mCRPC: Opieka wspomagająca, obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "Wirus Ebola i Bundibugyo — często zadawane pytania — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/faq/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 3,
+      "summary": "Uzyskaj odpowiedzi na pytania dotyczące wirusa Ebola i wybuchu epidemii wiosną 2026 r. w DRK i Ugandzie."
+    },
+    {
+      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
+    },
+    {
+      "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/how-early-is-early-enough-treating-familial-hypercholesterolaemia-before-risk-takes-root/",
+      "date": "2026-06-26T06:20:50Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "W prospektywnej kohorcie badania SAFEHEART badacze oceniali długoterminowe wyniki w przypadku genetycznie potwierdzonej hipercholesterolemii rodzinnej wśród 348 dzieci/młodzieży dotkniętych chorobą, 165 zdrowych krewnych i 288 chorych rodziców."
+    },
+    {
+      "title": "EPN113: Wytyczne praktyki klinicznej dotyczące przedwczesnego dojrzewania centralnego – Towarzystwo Endokrynologiczne",
+      "url": "https://www.endocrine.org/podcast/enp113",
+      "date": "2026-06-25T23:30:40Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Prowadzący Aaron Lohr rozmawia z autorami nowych Wytycznych praktyki klinicznej Towarzystwa Endokrynologicznego w zakresie przedwczesnego dojrzewania centralnego: dr Ana Latronico, profesor endokrynologii i metabolizmu na Uniwersytecie w Sao Paolo oraz Stephanie Roberts, MD, endokrynolog dziecięcy i adiunkt pediatrii w Bostońskim Szpitalu Dziecięcym."
+    },
+    {
+      "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm",
+      "date": "2026-06-25T17:03:11Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W niniejszym raporcie opisano liczbę zgonów spowodowanych przedawkowaniem narkotyków, które miały miejsce w hotelach i motelach w USA w latach 2022–2024."
+    },
+    {
+      "title": "Wizyty na oddziałach ratunkowych w związku z podejrzeniem próby samobójczej — Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
+      "date": "2026-06-25T17:03:11Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
+    },
+    {
+      "title": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/high-hpv-vaccination-coverage-in-england-associated-with-a-substantial-reduction-in-cervical-cancer-mortality",
+      "date": "2026-06-25T12:34:30Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacyjności i bezpieczeństwa w opiece onkologicznej - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/policy-news/esmo-responds-to-european-commission-consultation-on-high-risk-ai-rules-to-safeguard-innovation-and-safety-in-cancer-care",
+      "date": "2026-06-25T02:10:28Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
+      "date": "2026-06-24T16:46:28Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
+    },
+    {
+      "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta10413/documents/html-content-7",
+      "date": "2026-06-24T10:36:02Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik NICE."
+    },
+    {
+      "title": "Komunikat – Plan Taryfikacji na rok 2027 - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/komunikat-plan-taryfikacji-na-rok-2027/",
+      "date": "2026-06-24T09:09:34Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Ostateczny projekt wytycznych | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ta1169/documents/html-content-4",
+      "date": "2026-06-24T07:00:00Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
+    },
+    {
+      "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
+      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
+      "date": "2026-06-23T15:12:34Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
+      "date": "2026-06-23T11:13:29Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-tezspire-tezepelumab-3/",
+      "date": "2026-06-23T09:04:24Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
+      "url": "https://www.heart.org/en/news/2026/06/22/ckm-guideline-shows-how-care-coordination-helps-patients-and-doctors",
+      "date": "2026-06-22T19:53:11Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
+    },
+    {
+      "title": "Stanowisko Rady ds. Taryfikacji – układ oddechowy - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/stanowisko-rady-ds-taryfikacji-uklad-oddechowy/",
+      "date": "2026-06-22T17:58:01Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
+      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
+      "date": "2026-06-22T10:42:34Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
+    },
+    {
+      "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
+      "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
+      "date": "2026-06-22T09:05:58Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Jak wynika z długoterminowego badania opublikowanego w czasopiśmie Circulation, zastąpienie napojów gazowanych, napojów dla sportowców i soków owocowych całymi owocami może wiązać się z niższym ryzykiem rozwoju nadciśnienia tętniczego w wieku dorosłym."
+    },
+    {
+      "title": "Protokół z przebiegu XVII Krajowego Zjazdu Lekarzy - NIL",
+      "url": "https://nil.org.pl/izba/krajowy-zjazd-lekarzy/xvii-krajowy-zjazd-lekarzy/9295-protokol-z-przebiegu-xvii-krajowego-zjazdu-lekarzy",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "NIL - NIL: sprzeciw wobec rozwiązań ograniczających dostępność szkolenia specjalizacyjnego dla lekarzy z niepełnosprawnościami - NIL",
+      "url": "https://nil.org.pl/aktualnosci/9299-nil-sprzeciw-wobec-rozwiazan-ograniczajacych-dostepnosc-szkolenia-specjalizacyjnego-dla-lekarzy-z-niepelnosprawnosciami",
+      "date": "2026-06-19T16:15:57Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Leczenie wewnątrznaczyniowe udaru niedokrwiennego o dużym rdzeniu - professional.heart.org",
+      "url": "https://professional.heart.org/en/videos/large-core-ischemic-stroke",
+      "date": "2026-06-18T00:09:37Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Nester Gonzalez, lekarz medycyny."
+    },
+    {
+      "title": "Keith C. Ferdinand: Niedaleko Dziewiątego Okręgu – www.heart.org",
+      "url": "https://www.heart.org/en/around-the-aha/keith-c-ferdinand-never-far-from-the-ninth-ward",
+      "date": "2026-06-16T07:00:00Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Lekarz Roku swoje skupienie na bardziej sprawiedliwej opiece zdrowotnej wywodzi z wychowania w Nowym Orleanie."
     }
   ],
   "epidemiology": [
@@ -885,7 +1077,7 @@
       "date": "2026-06-29T07:29:06Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
+      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -901,7 +1093,7 @@
       "date": "2026-06-28T21:34:25Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Dołącz do oficjalnego seminarium internetowego WHO na temat zanieczyszczenia powietrza i celów zrównoważonego rozwoju. WHO opublikuje nowe dane dla celów SDG 3.9.1, 7.1.2 i 11.6.2, zawierające studia przypadków krajowych dotyczące monitorowania trendów i dostosowania polityk do wytycznych WHO dotyczących jakości powietrza. Dowiedz się, jak wykorzystać te ustandaryzowane ramy, aby podejmować lepsze decyzje dotyczące zdrowia publicznego i czystsze powietrze na całym świecie."
+      "summary": "Dołącz do oficjalnego seminarium internetowego WHO na temat zanieczyszczenia powietrza i celów zrównoważonego rozwoju. WHO opublikuje nowe dane dla celów zrównoważonego rozwoju 3.9.1, 7.1.2 i 11.6.2, zawierające studia przypadków krajowych dotyczące monitorowania trendów i dostosowania polityk do wytycznych WHO dotyczących jakości powietrza. Dowiedz się, jak wykorzystać te ustandaryzowane ramy, aby podejmować lepsze decyzje dotyczące zdrowia publicznego i czystsze powietrze na całym świecie."
     },
     {
       "title": "Dane dotyczące kiły – Światowa Organizacja Zdrowia (WHO)",
@@ -952,7 +1144,7 @@
       "summary": "Sekretarz ds. Zdrowia i Opieki Społecznej (HHS) Robert F. Kennedy Jr. kontynuuje swoją walkę o zmianę federalnej polityki dotyczącej szczepionek, tym razem zmieniając statut komisji federalnej, która ma ogromny wpływ na szczepienia dzieci, aby przenieść swoją uwagę poza szczepionki."
     },
     {
-      "title": "Tematy zdrowotne – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Tematy zdrowotne - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/health-topics/somalia",
       "date": "2026-06-26T20:55:36Z",
       "source": "WHO Disease Outbreak News",
@@ -1045,7 +1237,7 @@
       "date": "2026-06-26T14:05:55Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Autorzy raportu Public Health Alerts opisują, jak urzędnikom odpowiedzialnym za zdrowie publiczne udało się zapobiec dodatkowym przypadkom ospy kladu 1b po tym, jak osoba, która zaraziła się tą chorobą, naraziła inne osoby w dwóch zbiorowych placówkach mieszkalnych w New Hampshire, placówce opieki zdrowotnej i domu pacjenta."
+      "summary": "Autorzy raportu Public Health Alerts opisują, jak urzędnicy zajmujący się zdrowiem publicznym byli w stanie zapobiec dodatkowym przypadkom ospy kladu 1b po tym, jak osoba, która zaraziła się tą chorobą, naraziła inne osoby w dwóch zbiorowych placówkach mieszkalnych w New Hampshire, placówce opieki zdrowotnej i domu pacjenta."
     },
     {
       "title": "Globalne podsumowanie przypadków ptasiej grypy H5N1 u ludzi od sierpnia 2025 r. do czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1096,7 +1288,7 @@
       "summary": "U komarów może wystąpić oporność na środki owadobójcze. Przeprowadzić badania, aby zapobiec lub opóźnić oporność."
     },
     {
-      "title": "Przegląd ptasiej grypy marzec–maj 2026 r. - Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Przegląd ptasiej grypy marzec–maj 2026 r. – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/avian-influenza-overview-march-may-2026",
       "date": "2026-06-26T09:12:00Z",
       "source": "ECDC",
@@ -1110,6 +1302,78 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Szkody spowodowane alkoholem są przyczyną milionów zgonów każdego roku i pozostają główną, możliwą do uniknięcia przeszkodą dla zdrowia, równości i zrównoważonego rozwoju."
+    },
+    {
+      "title": "Afrykańskie CDC potraja kwotę potrzebną do walki z wirusem Ebola – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/ebola/africa-cdc-triples-amount-needed-fight-ebola",
+      "date": "2026-06-25T20:54:22Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Dzisiaj podczas konferencji prasowej dyrektor generalny Afrykańskich Centrów Kontroli i Zapobiegania Chorobom Jean Kaseya, lekarz medycyny, MPH, powiedział, że epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) będzie wymagać środków w wysokości 1,4 miliarda dolarów, aby powstrzymać epidemię, czyli prawie trzykrotnie więcej niż 518 milionów dolarów Africa CDC szacowane na początku miesiąca."
+    },
+    {
+      "title": "Szybkie ujęcia: więcej przypadków grypy Sił Powietrznych, rośnie epidemia listerii sera miękkiego, konkurs wideo dotyczący zapobiegania grypie/COVID – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/influenza-general/quick-takes-more-air-force-flu-cases-soft-cheese-listeria-outbreak-grows-flucovid",
+      "date": "2026-06-25T20:02:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Liczba przypadków grypy w bazie Joint Base San Antonio Lackland wzrosła do 275 przypadków."
+    },
+    {
+      "title": "Powitanie! Wszystko jest w porządku… poza tym, że nadal nie ma kworum ACIP: Stan amerykańskiej polityki dotyczącej szczepionek – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/welcome-everything-fine-except-there-still-no-acip-quorum-state-us-vaccine",
+      "date": "2026-06-25T18:21:37Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Witamy w naszej dwutygodniowej serii we współpracy z CIDRAP na Uniwersytecie Minnesota."
+    },
+    {
+      "title": "Dwa nowe raporty podkreślają przeszkody w powstrzymywaniu epidemii odry w USA – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/measles/two-new-reports-highlight-obstacles-containing-us-measles-outbreaks",
+      "date": "2026-06-25T17:44:38Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Dwa nowe raporty analizujące niedawne ogniska odry w USA podkreślają wyzwania związane z powstrzymaniem rozprzestrzeniania się choroby w niektórych społecznościach."
+    },
+    {
+      "title": "WHO ogłasza 2 próby leków eksperymentalnych w walce z epidemią wirusa Ebola – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/ebola/who-announces-2-trials-experimental-drugs-ebola-outbreak",
+      "date": "2026-06-24T20:36:58Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Badania kliniczne dwóch potencjalnych leków przeciwko szczepowi Ebola Bundibugyo zostaną rozpoczęte w Demokratycznej Republice Konga (DRK) w przyszłym tygodniu, powiedział dziś podczas konferencji prasowej dyrektor generalny Światowej Organizacji Zdrowia (WHO) dr Tedros Adhanom Ghebreyesus."
+    },
+    {
+      "title": "Francja zgłasza pierwszy przypadek wirusa Ebola u lekarza powracającego z misji w DRK – Epidemionnewstoday.com",
+      "url": "https://outbreaknewstoday.com/france-reports-first-ebola-case-in-doctor-returning-from-drc-mission-660/",
+      "date": "2026-06-24T18:18:27Z",
+      "source": "Outbreak News Today",
+      "confirmed_by": 1,
+      "summary": "Francuskie władze ds. zdrowia potwierdziły 24 czerwca pierwszy przypadek choroby wywołanej wirusem Ebola w kraju."
+    },
+    {
+      "title": "Petycja wzywa FDA do zaprzestania rutynowego stosowania antybiotyków w gospodarstwach rolnych – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/petition-urges-fda-end-routine-antibiotic-use-farms",
+      "date": "2026-06-24T15:23:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Składający petycję chcą, aby agencja wycofała zatwierdzenie antybiotyków ważnych z medycznego punktu widzenia do stosowania w paszy i wodzie dla zwierząt, jeśli nie są one powiązane ze zdiagnozowaną chorobą."
+    },
+    {
+      "title": "Szybkie ujęcia: Więcej ślimaka New World; CDC zaprzestanie testów na odrę i świnkę; kończy się odpowiedź hantawirusa - CIDRAP",
+      "url": "https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cdc-cease-measles-mumps-testing-hantavirus",
+      "date": "2026-06-24T15:10:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Żaden amerykański pasażer holenderskiego statku wycieczkowego nie zachorował na hantawirusa."
+    },
+    {
+      "title": "Vaccine Integrity Project, The Evidence Collective ogłasza projekty mające na celu ulepszenie polityki szczepień i przywrócenie zaufania - CIDRAP",
+      "url": "https://www.cidrap.umn.edu/vaccine-integrity-project/vaccine-integrity-project-evidence-collective-announce-projects-improve",
+      "date": "2026-06-24T15:05:53Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Aby wzmocnić proces kształtowania polityki rządu USA w zakresie szczepionek i przywrócić zaufanie do szczepień, projekt Vaccine Integrity Project (VIP) w Centrum Badań i Polityki Chorób Zakaźnych (CIDRAP) Uniwersytetu Minnesota oraz The Evidence Collective ogłosiły dziś nowe wysiłki badawcze."
     }
   ],
   "clinical_trials": [
@@ -1170,7 +1434,7 @@
       "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
     },
     {
-      "title": "Wycofanie przez Pentagon szczepionki przeciw grypie: gotowość, ryzyko i poszukiwanie spójnego standardu - Trialsitenews.com",
+      "title": "Wycofanie przez Pentagon szczepionki przeciw grypie: gotowość, ryzyko i poszukiwanie spójnego standardu - Trialssitenews.com",
       "url": "https://www.trialsitenews.com/a/the-pentagons-flu-vaccine-reversal-readiness-risk-and-the-search-for-a-consistent-standard-ee0427e0",
       "date": "2026-06-27T01:53:55Z",
       "source": "TrialSite News",
@@ -1322,12 +1586,12 @@
       "summary": "Nadzór nad badaniami klinicznymi w czasie rzeczywistym i luka w infrastrukturze: pytania i odpowiedzi z Rajem Indupuri, eClinical Solutions Applied Clinical Trials Online."
     },
     {
-      "title": "Polityka bezpieczeństwa szczepionek: nowo opublikowane e-maile CDC rodzą pytania dotyczące zarządzania, przejrzystości i zmieniającego się stanowiska Waszyngtonu - trialsitenews.com",
+      "title": "Polityka bezpieczeństwa szczepionek: nowo opublikowane e-maile CDC rodzą pytania dotyczące zarządzania, przejrzystości i zmiany stanowiska Waszyngtonu - Trialssitenews.com",
       "url": "https://www.trialsitenews.com/a/the-politics-of-vaccine-safety-newly-released-cdc-emails-raise-questions-about-governance-transparencyand-washingtons-shifting-positions-798ab7eb",
       "date": "2026-06-26T15:06:03Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Przez większą część późnych lat 90. i początku XXI wieku obawy dotyczące narażenia na rtęć pochodzącą ze szczepionek nie były kwestią stronniczą. Członkowie obu partii politycznych poparli dodatkowe badania nad bezpieczeństwem szczepionek, większą przejrzystością, a wysiłki mające na celu ograniczenie niepotrzebnego kontaktu z krajobrazem politycznym zmieniły się dramatycznie. W nowo wydanym memorandum przygotowanym przez demokratyczny personel Senackiej Komisji Zdrowia, Edukacji, Pracy i Emerytur (HELP) krytykuje Sekretarza Zdrowia i Opieki Społecznej Roberta F."
+      "summary": "Przez większą część późnych lat 90. i początku XXI wieku obawy związane z narażeniem na rtęć pochodzącą ze szczepionek nie były kwestią stronniczą. Członkowie obu partii politycznych poparli dodatkowe badania nad bezpieczeństwem szczepionek, większą przejrzystością, a wysiłki mające na celu ograniczenie niepotrzebnego kontaktu z krajobrazem politycznym zmieniły się dramatycznie. W nowo wydanym memorandum przygotowanym przez demokratyczny personel Senackiej Komisji Zdrowia, Edukacji, Pracy i Emerytur (HELP) krytykuje Sekretarza Zdrowia i Opieki Społecznej Roberta F."
     },
     {
       "title": "DIA 2026: Dlaczego badania kliniczne utknęły w przeszłości – stosowane badania kliniczne online",
@@ -1351,7 +1615,7 @@
       "date": "2026-06-26T11:13:10Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Narzędzie AI Clariyon zwiększa przestrzeganie zasad leczenia sepsy w szpitalnym badaniu Clinical Trials Arena."
+      "summary": "Narzędzie AI firmy Clariyon zwiększa przestrzeganie zasad leczenia sepsy w szpitalnym badaniu Clinical Trials Arena."
     },
     {
       "title": "Pierwszy pacjent, któremu podano dawkę w badaniu RC220 HARNESS-1 firmy Racura – Arena Badań Klinicznych",
@@ -1391,7 +1655,7 @@
       "date": "2026-06-26T10:22:49Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "ACT Brief: Uzupełnianie luk w danych od sponsora ośrodka, wycofanie dużego badania i stosowane badania kliniczne online w trybie pierwszej linii TNBC."
+      "summary": "ACT Brief: Uzupełnianie luk w danych sponsora ośrodka, wycofanie dużego badania i stosowane badania kliniczne online w trybie pierwszej linii TNBC."
     },
     {
       "title": "Szczegóły badania | NCT07667452 | Opracowanie i zastosowanie modelu rozpoznawania pojedynczej cechy niewydolności serca w oparciu o algorytmy optymalizacji sztucznej inteligencji - ClinicalTrials.gov",
@@ -1668,7 +1932,7 @@
       "summary": "Wyrób medyczny przypomina accessdata.fda.gov."
     },
     {
-      "title": "Kurs firmy Pfizer na Seagen nadal traci na wartości; Debata w Chinach wciąż się zaostrza; i więcej - Wiadomości dotyczące punktów końcowych",
+      "title": "Stawka spółki Pfizer na Seagen nadal traci na wartości; Debata w Chinach wciąż się zaostrza; i więcej — Wiadomości dotyczące punktów końcowych",
       "url": "https://endpoints.news/pfizers-seagen-bet-sours-further-china-debate-continues-to-heat-up-and-more/",
       "date": "2026-06-27T10:00:00Z",
       "source": "Endpoints News",
@@ -1698,6 +1962,14 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Biuro ds. Polityki, Legislacji i Spraw Międzynarodowych – wersja tekstowa fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=451&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicant",
+      "date": "2026-06-27T07:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
@@ -1734,14 +2006,6 @@
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=281&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicantdesc",
-      "date": "2026-06-27T07:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=451&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=06%2F27%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicant",
       "date": "2026-06-27T07:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
@@ -1857,7 +2121,7 @@
       "date": "2026-06-27T05:09:27Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Leki w Unii Europejskiej (UE) są dopuszczane do obrotu na podstawie tego, że korzyści z ich stosowania przewyższają ryzyko dla docelowej populacji. Jednakże nie wszystkie potencjalne lub rzeczywiste działania niepożądane zostały zidentyfikowane w momencie wydawania pierwszego pozwolenia na dopuszczenie do obrotu. Celem zarządzania ryzykiem jest zajęcie się niepewnością w profilu bezpieczeństwa na różnych etapach cyklu życia produktu i odpowiednie planowanie."
+      "summary": "Leki w Unii Europejskiej (UE) są dopuszczane do obrotu na podstawie tego, że korzyści z ich stosowania przewyższają ryzyko dla docelowej populacji. Jednakże nie wszystkie potencjalne lub rzeczywiste działania niepożądane zostały zidentyfikowane w momencie wydawania pozwolenia na dopuszczenie do obrotu. Celem zarządzania ryzykiem jest zajęcie się niepewnością w profilu bezpieczeństwa na różnych etapach cyklu życia produktu i odpowiednie planowanie."
     },
     {
       "title": "Starszy dyrektor – kreacja i produkcja, praca w dziale komunikacji globalnej w firmie Eli Lilly and Company | 3057532 - Bioprzestrzeń",
@@ -1884,6 +2148,14 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Afrykańskie Centra Kontroli i Zapobiegania Chorobom (Africa CDC) zwołują dziś trzydniowe spotkanie krajów afrykańskich w nadziei na wzmocnienie regionalnego przygotowania na rosnącą epidemię wirusa Ebola w Demokratycznej Republice Konga (DRK), która pochłonęła obecnie życie ponad 300 osób."
+    },
+    {
+      "title": "Szybkie ujęcia: więcej przypadków grypy Sił Powietrznych, rośnie epidemia listerii sera miękkiego, konkurs wideo dotyczący zapobiegania grypie/COVID – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/influenza-general/quick-takes-more-air-force-flu-cases-soft-cheese-listeria-outbreak-grows-flucovid",
+      "date": "2026-06-25T20:02:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Liczba przypadków grypy w bazie Joint Base San Antonio Lackland wzrosła do 275 przypadków."
     },
     {
       "title": "Wirus H5N1 oficjalnie już wszędzie - Termedia",
@@ -1932,14 +2204,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Informacja o wybuchu zatrucia jadem kiełbasianym u niemowląt w związku z odżywką dla niemowląt Nara Organics."
-    },
-    {
-      "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
-      "date": "2026-06-26T19:41:33Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Dostępny jest również plik audio."
     }
   ],
   "daily_top5": [
@@ -1957,7 +2221,7 @@
       "date": "2026-06-29T07:29:06Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
+      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
     },
     {
       "title": "INFARMA alarmuje ws. nowelizacji ustawy refundacyjnej. Apeluje o nowe konsultacje - Alert Medyczny",
@@ -1965,7 +2229,7 @@
       "date": "2026-06-29T07:13:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "INFARMA krytykuje projekt nowelizacji ustawy refundacyjnej. Organizacja apeluje o ponowne konsultacje i wskazuje ryzyka dla pacjentów i lekarzy."
+      "summary": "INFARMA alarmuje ws. nowelizacji ustawy refundacyjnej. Apeluje o nowe konsultacje Alert Medyczny."
     },
     {
       "title": "Region Azji Południowo-Wschodniej potwierdza zaangażowanie na rzecz utrzymania statusu osoby wolnej od polio – Światowa Organizacja Zdrowia (WHO)",
