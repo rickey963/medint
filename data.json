@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T02:26:53Z",
+  "last_updated": "2026-06-30T02:27:38Z",
   "poland": [
     {
       "title": "Sztuczna inteligencja wspiera decyzje lekarzy. Przełomowe wyniki badania w POZ - Alert Medyczny",
@@ -958,6 +958,22 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
+      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
+    },
+    {
+      "title": "Bezpłatne działania CE od MMWR i Medscape — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/cme/medscape_cme.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Seria cotygodniowych raportów o zachorowalności i śmiertelności (MMWR) przygotowywana jest przez Centra Kontroli i Zapobiegania Chorobom (CDC)."
+    },
+    {
       "title": "EPN113: Wytyczne praktyki klinicznej dotyczące przedwczesnego dojrzewania centralnego – Towarzystwo Endokrynologiczne",
       "url": "https://www.endocrine.org/podcast/enp113",
       "date": "2026-06-25T23:30:40Z",
@@ -970,16 +986,8 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
       "date": "2026-06-25T17:03:11Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
-      "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
-    },
-    {
-      "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm",
-      "date": "2026-06-25T17:03:11Z",
-      "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "W niniejszym raporcie opisano liczbę zgonów spowodowanych przedawkowaniem narkotyków, które miały miejsce w hotelach i motelach w USA w latach 2022–2024."
+      "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
     },
     {
       "title": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1004,14 +1012,6 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
-    },
-    {
-      "title": "School of Opulence – Krajowa Sieć Informacji o Zapobieganiu (.gov)",
-      "url": "https://npin.cdc.gov/organization/school-opulence",
-      "date": "2026-06-24T11:45:09Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Oficjalne strony internetowe używają domeny .gov Witryna .gov należy do oficjalnej organizacji rządowej w Stanach Zjednoczonych."
     },
     {
       "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
@@ -1078,20 +1078,28 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
-      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
-      "date": "2026-06-22T10:42:34Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
-    },
-    {
       "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
       "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
       "date": "2026-06-22T09:05:58Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Jak wynika z długoterminowego badania opublikowanego w czasopiśmie Circulation, zastąpienie napojów gazowanych, napojów dla sportowców i soków owocowych całymi owocami może wiązać się z niższym ryzykiem rozwoju nadciśnienia tętniczego w wieku dorosłym."
+    },
+    {
+      "title": "Biomarkery krwi na podstawie współczynnika osocza w chorobie Alzheimera: zgodność z wytycznymi praktyki klinicznej - Neurology Today",
+      "url": "https://neurologytoday.aan.com/doi/full/10.1097/01.wnt.0001205204.12195.fd",
+      "date": "2026-06-18T06:39:12Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Biomarkery krwi oparte na współczynniku osocza w chorobie Alzheimera: dostosowanie do wytycznych praktyki klinicznej Neurologia dzisiaj."
+    },
+    {
+      "title": "American Heart Association publikuje pierwsze w historii wytyczne dotyczące praktyki klinicznej dotyczące zespołu CKM - McKnight's Long-Term Care News",
+      "url": "https://www.mcknights.com/news/american-heart-association-releases-first-ever-clinical-practice-guideline-on-ckm-syndrome/",
+      "date": "2026-06-15T23:04:15Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 2,
+      "summary": "American Heart Association i American College of Cardiology opracowały pierwsze w historii wytyczne skupiające się na zapobieganiu i leczeniu zespołu sercowo-nerkowo-metabolicznego (CKM). Wytyczne opublikowano w czerwcowym artykule w Circulation."
     }
   ],
   "epidemiology": [
