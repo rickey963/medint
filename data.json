@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-06-30T06:23:48Z",
+  "last_updated": "2026-06-30T06:24:35Z",
   "poland": [
-    {
-      "title": "Wicepremier: głową powinien zapłacić szef NFZ - Z kraju - Kurier - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/kurier/442761,wicepremier-glowa-powinien-zaplacic-szef-nfz",
-      "date": "2026-06-30T06:21:04Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Odpowiedzialność za sytuację w ochronie zdrowia ponosi Narodowy Fundusz Zdrowia, a prezesa tej instytucji należy odwołać – powiedział wicepremier i minister cyfryzacji Krzysztof Gawkowski."
-    },
     {
       "title": "Tarnobrzeg – kardiologia zyskuje wyposażenie - Kardiologia - Medycyna Praktyczna",
       "url": "https://kardiologia.mp.pl/wiadomosci/442758,tarnobrzeg-kardiologia-zyskuje-wyposazenie",
@@ -16,6 +8,14 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "W Wojewódzkim Szpitalu im. Zofii z Zamoyskich Tarnowskiej w Tarnobrzegu trwa finalizacja ważnego projektu w obszarze kardiologii."
+    },
+    {
+      "title": "Wicepremier: głową powinien zapłacić szef NFZ - Z kraju - Kurier - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/kurier/442761,wicepremier-glowa-powinien-zaplacic-szef-nfz",
+      "date": "2026-06-30T06:21:04Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Odpowiedzialność za sytuację w ochronie zdrowia ponosi Narodowy Fundusz Zdrowia, a prezesa tej instytucji należy odwołać – powiedział wicepremier i minister cyfryzacji Krzysztof Gawkowski."
     },
     {
       "title": "Zły PR odstrasza młodych lekarzy od onkologii? Prof. Czarnecka: to nie specjalizacja od beznadziejnych przypadków - Puls Medycyny",
@@ -811,14 +811,14 @@
       "date": "2026-06-30T04:09:41Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Oparte na dowodach zalecenia dotyczące atogepantu (Aquipta) w doraźnym leczeniu migreny u dorosłych."
+      "summary": "Oparte na dowodach zalecenia dotyczące atogepantu (Aquipta) w leczeniu doraźnego leczenia migreny u dorosłych."
     },
     {
       "title": "Sektor oparty na wierze zachęca młodzież do przeciwstawiania się używaniu substancji psychoaktywnych — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/overdose-prevention/php/drug-free-communities/ohio.html",
       "date": "2026-06-29T23:50:05Z",
       "source": "Wytyczne kliniczne",
-      "confirmed_by": 17,
+      "confirmed_by": 16,
       "summary": "Koalicja DFC w Ohio stosuje podejście oparte na wierze i kierowane przez młodzież, aby zapobiegać używaniu substancji psychoaktywnych."
     },
     {
@@ -995,7 +995,7 @@
       "date": "2026-06-24T16:46:28Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik NICE."
+      "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
     },
     {
       "title": "School of Opulence – Krajowa Sieć Informacji o Zapobieganiu (.gov)",
@@ -1004,14 +1004,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Oficjalne strony internetowe używają domeny .gov Witryna .gov należy do oficjalnej organizacji rządowej w Stanach Zjednoczonych."
-    },
-    {
-      "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta10413/documents/html-content-7",
-      "date": "2026-06-24T10:36:02Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik NICE."
     },
     {
       "title": "Niezbędna jest zwiększona świadomość na temat objawów niewydolności serca podczas ciąży i po niej – www.heart.org",
@@ -1076,14 +1068,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
-    },
-    {
-      "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
-      "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
-      "date": "2026-06-22T09:05:58Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Jak wynika z długoterminowego badania opublikowanego w czasopiśmie Circulation, zastąpienie napojów gazowanych, napojów dla sportowców i soków owocowych całymi owocami może wiązać się z niższym ryzykiem rozwoju nadciśnienia tętniczego w wieku dorosłym."
     }
   ],
   "epidemiology": [
@@ -1101,7 +1085,7 @@
       "date": "2026-06-29T21:38:40Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Odkryj rolę WHO jako opiekuna kluczowych wskaźników SDG w zakresie zdrowia, energii i miast, w tym kluczowych wskaźników zanieczyszczenia powietrza, takich jak współczynniki śmiertelności i poziomy PM2,5."
+      "summary": "Cele Zrównoważonego Rozwoju dotyczące zanieczyszczenia powietrza, energii i zdrowia Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "Epidemia wirusa Ebola rozprzestrzenia się na czwartą prowincję Demokratycznej Republiki Konga – CIDRAP",
@@ -1141,7 +1125,7 @@
       "date": "2026-06-29T18:30:16Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Ta wersja bazy danych (wersja 8.0, wydana w czerwcu 2026 r.) zawiera obecnie dane z 8024 osiedli ludzkich w 127 państwach członkowskich WHO, członkach stowarzyszonych WHO lub terytoriach lub obszarach WHO za lata 2010–2024."
+      "summary": "Baza danych WHO dotycząca jakości powietrza atmosferycznego (aktualizacja z czerwca 2026 r.) Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "Pacjenci z zapaleniem zatok często otrzymują antybiotyki, nawet jeśli ich nie potrzebują – CIDRAP",
