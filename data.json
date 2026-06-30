@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T08:36:45Z",
+  "last_updated": "2026-06-30T08:37:27Z",
   "poland": [
     {
       "title": "Nowe stawki dla rezydentów od 1 lipca. Ponad 11,6 tys. zł brutto na start w kluczowych specjalizacjach - PolitykaZdrowotna.com",
@@ -35,7 +35,7 @@
     },
     {
       "title": "Specjalne kamizelki dla ratowników już wkrótce - Termedia",
-      "url": "https://www.termedia.pl/lekarzspecjalista/Specjalne-kamizelki-dla-ratownikow-juz-wkrotce,67920.html",
+      "url": "https://www.termedia.pl/mz/Specjalne-kamizelki-dla-ratownikow-juz-wkrotce,67920.html",
       "date": "2026-06-30T07:27:00Z",
       "source": "Termedia",
       "confirmed_by": 1,
@@ -43,7 +43,7 @@
     },
     {
       "title": "Specjalne kamizelki dla ratowników już wkrótce - Termedia",
-      "url": "https://www.termedia.pl/mz/Specjalne-kamizelki-dla-ratownikow-juz-wkrotce,67920.html",
+      "url": "https://www.termedia.pl/lekarzspecjalista/Specjalne-kamizelki-dla-ratownikow-juz-wkrotce,67920.html",
       "date": "2026-06-30T07:27:00Z",
       "source": "Termedia",
       "confirmed_by": 1,
@@ -818,7 +818,7 @@
       "url": "https://www.cdc.gov/overdose-prevention/php/drug-free-communities/ohio.html",
       "date": "2026-06-29T23:50:05Z",
       "source": "Wytyczne kliniczne",
-      "confirmed_by": 6,
+      "confirmed_by": 16,
       "summary": "Koalicja DFC w Ohio stosuje podejście oparte na wierze i kierowane przez młodzież, aby zapobiegać używaniu substancji psychoaktywnych."
     },
     {
@@ -910,6 +910,14 @@
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
     },
     {
+      "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
+      "date": "2026-06-26T19:41:33Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Dostępny jest również plik audio."
+    },
+    {
       "title": "Rzecznik Praw Lekarzy NIL wnioskuje o nadzwyczajne posiedzenie Zespołu do spraw ochrony personelu medycznego - NIL",
       "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil-450/9304-rzecznik-praw-lekarzy-nil-wnioskuje-o-nadzwyczajne-posiedzenie-zespolu-do-spraw-ochrony-personelu-medycznego",
       "date": "2026-06-26T12:36:12Z",
@@ -924,14 +932,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 2,
       "summary": "Czy irlandzka prezydencja w Radzie UE może być katalizatorem zmian?"
-    },
-    {
-      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
-      "date": "2026-06-26T11:21:05Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
     },
     {
       "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -958,6 +958,22 @@
       "summary": "Prowadzący Aaron Lohr rozmawia z autorami nowych Wytycznych praktyki klinicznej Towarzystwa Endokrynologicznego w zakresie przedwczesnego dojrzewania centralnego: dr Ana Latronico, profesor endokrynologii i metabolizmu na Uniwersytecie w Sao Paolo oraz Stephanie Roberts, MD, endokrynolog dziecięcy i adiunkt pediatrii w Bostońskim Szpitalu Dziecięcym."
     },
     {
+      "title": "Wizyty na oddziałach ratunkowych w związku z podejrzeniem próby samobójczej — Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
+      "date": "2026-06-25T17:03:11Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
+    },
+    {
+      "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm",
+      "date": "2026-06-25T17:03:11Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W niniejszym raporcie opisano liczbę zgonów spowodowanych przedawkowaniem narkotyków, które miały miejsce w hotelach i motelach w USA w latach 2022–2024."
+    },
+    {
       "title": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/high-hpv-vaccination-coverage-in-england-associated-with-a-substantial-reduction-in-cervical-cancer-mortality",
       "date": "2026-06-25T12:34:30Z",
@@ -974,12 +990,20 @@
       "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
     },
     {
-      "title": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/fda-approves-datopotamab-deruxtecan-dlnk-for-unresectable-or-metastatic-tnbc",
-      "date": "2026-06-24T11:15:34Z",
-      "source": "ESMO (onkologia)",
+      "title": "School of Opulence – Krajowa Sieć Informacji o Zapobieganiu (.gov)",
+      "url": "https://npin.cdc.gov/organization/school-opulence",
+      "date": "2026-06-24T11:45:09Z",
+      "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "Oficjalne strony internetowe używają domeny .gov Witryna .gov należy do oficjalnej organizacji rządowej w Stanach Zjednoczonych."
+    },
+    {
+      "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta10413/documents/html-content-7",
+      "date": "2026-06-24T10:36:02Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik NICE."
     },
     {
       "title": "Niezbędna jest zwiększona świadomość na temat objawów niewydolności serca podczas ciąży i po niej – www.heart.org",
@@ -1036,14 +1060,6 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
-    },
-    {
-      "title": "Stanowisko Rady ds. Taryfikacji – psychiatria - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/stanowisko-rady-ds-taryfikacji-psychiatria/",
-      "date": "2026-06-22T17:44:47Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 5/2026 w sprawie taryf świadczeń gwarantowanych gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień."
     },
     {
       "title": "Profilaktyka jako fundament zdrowego społeczeństwa – przedstawiciele NRL na Kongresie Zdrowie 360 - NIL",
@@ -1330,7 +1346,7 @@
       "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA od dłuższego czasu spada po pandemii Covid-19, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
     },
     {
-      "title": "Zapalenie wątroby wywołane szczepionką przeciwko Covid-19: większość pacjentów wraca do zdrowia, ale u niektórych rozwija się trwała autoimmunologiczna choroba wątroby - trisitenews.com",
+      "title": "Zapalenie wątroby wywołane szczepionką przeciwko COVID-19: większość pacjentów wraca do zdrowia, ale u niektórych rozwija się trwała autoimmunologiczna choroba wątroby - trisitenews.com",
       "url": "https://www.trialsitenews.com/a/covid-19-vaccine-related-hepatitis-most-patients-recover-but-some-develop-persistent-autoimmune-liver-disease-37d000ea",
       "date": "2026-06-29T21:10:53Z",
       "source": "TrialSite News",
@@ -1418,12 +1434,12 @@
       "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
-      "title": "Sprzeczność DEA „Jedna pigułka może zabić”? Nowy Meksyk wszczyna śledztwo w sprawie karnej w obliczu rosnącej liczby pytań pod rządami administracji Trumpa – Trialssitenews.com",
+      "title": "Sprzeczność DEA „Jedna pigułka może zabić”? Nowy Meksyk wszczyna śledztwo w sprawie karnej w obliczu rosnącej liczby pytań pod rządami administracji Trumpa – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/deas-one-pill-can-kill-contradiction-new-mexico-launches-criminal-probe-as-questions-mount-under-trump-administration-77c39452",
       "date": "2026-06-28T18:27:28Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Jeśli agenci federalni świadomie wpuścili na amerykańskie ulice setki tysięcy tabletek fentanylu w celu wzniesienia większych spraw, gdzie jest granica między strategią dochodzeniową a bezpieczeństwem publicznym? Amerykańska Agencja ds. Walki z Narkotykami od lat ostrzega Amerykanów, że jedna podrobiona pigułka z fentanylem może zabić."
+      "summary": "Jeśli agenci federalni świadomie wpuścili na amerykańskie ulice setki tysięcy tabletek fentanylu w celu budowy większych spraw, gdzie jest granica między strategią dochodzeniową a bezpieczeństwem publicznym? Amerykańska Agencja ds. Walki z Narkotykami od lat ostrzega Amerykanów, że jedna podrobiona pigułka z fentanylem może zabić."
     },
     {
       "title": "Mike Montello, dyrektor ds. technologii cyfrowych i informacji – stosowane badania kliniczne online",
@@ -1918,6 +1934,14 @@
       "summary": "Departament Zdrowia i Opieki Społecznej Stanów Zjednoczonych (HHS), za pośrednictwem Administracji ds. Gotowości i Reagowania Strategicznego (ASPR) oraz Urzędu ds. Zaawansowanych Badań i Rozwoju Biomedycznego (BARDA), ogłosił rozszerzenie wsparcia dla trwającej reakcji na epidemię wirusa ebola Bundibugyo w Demokratycznej Republice Konga i Ugandzie. Ponieważ obecnie nie ma zatwierdzonych przez FDA szczepionek ani środków terapeutycznych przeciwko temu gatunkowi wirusa Ebola, Stany Zjednoczone"
     },
     {
+      "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
+      "date": "2026-06-26T19:41:33Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Dostępny jest również plik audio."
+    },
+    {
       "title": "Szybkie ujęcia: więcej przypadków ślimaków w Nowym Świecie, epidemia Salmonelli w Europie, polio w 4 krajach - CIDRAP",
       "url": "https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cases-salmonella-outbreak-europe-polio-4",
       "date": "2026-06-26T19:12:00Z",
@@ -1932,14 +1956,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Dzisiaj podczas konferencji prasowej dyrektor generalny Afrykańskich Centrów Kontroli i Zapobiegania Chorobom Jean Kaseya, lekarz medycyny, MPH, powiedział, że epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) będzie wymagać środków w wysokości 1,4 miliarda dolarów, aby powstrzymać epidemię, czyli prawie trzykrotnie więcej niż 518 milionów dolarów Africa CDC szacowane na początku miesiąca."
-    },
-    {
-      "title": "Szybkie ujęcia: więcej przypadków grypy Sił Powietrznych, rośnie epidemia listerii sera miękkiego, konkurs wideo dotyczący zapobiegania grypie/COVID – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/influenza-general/quick-takes-more-air-force-flu-cases-soft-cheese-listeria-outbreak-grows-flucovid",
-      "date": "2026-06-25T20:02:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Liczba przypadków grypy w bazie Joint Base San Antonio Lackland wzrosła do 275."
     }
   ],
   "daily_top5": [
