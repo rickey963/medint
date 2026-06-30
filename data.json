@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T06:15:06Z",
+  "last_updated": "2026-06-30T06:15:52Z",
   "poland": [
     {
       "title": "Ponad 80% budżetu na pensje. Szpitale powiatowe apelują o pilne decyzje - Alert Medyczny",
@@ -77,8 +77,8 @@
       "title": "Nadwaga i otyłość – małymi krokami do zdrowia - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/e-booki/nadwaga-i-otylosc-malymi-krokami-do-zdrowia?highlight=WyJjb24iLCJpIiwiaWJzIiwiaWNoIiwiaWxvXHUwMTViY2kiLCJpbG9cdTAxNWJjaWFjaCIsImlsb1x1MDE1Ylx1MDEwNyIsImluIiwiaW5keXdpZHVhbG5hIiwiaW5keXdpZHVhbG5laiJd",
       "date": "2026-06-29T19:34:49Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 2,
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 3,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -412,6 +412,14 @@
       "summary": "U pacjentów z T2D i CKD finerenon zmniejsza ryzyko wystąpienia niepożądanych zdarzeń sercowo-naczyniowych i nerek w porównaniu z placebo, niezależnie od wyjściowego stopnia zaawansowania zespołu CKM."
     },
     {
+      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/research-summaries",
+      "date": "2026-06-30T04:06:37Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
+    },
+    {
       "title": "Kardiolodzy — praca w Ontario (Kalifornia) w Canada Medical Careers | 824382 - BMJ",
       "url": "https://www.bmj.com/careers/job/824382/cardiologists/",
       "date": "2026-06-30T02:15:38Z",
@@ -740,14 +748,6 @@
       "summary": "Poniedziałek - piątek 8:00 - 19:00 ET 1-800-THE-NEJM (1-800-843-6356) +1-781-434-7888 (poza USA i Kanadą)."
     },
     {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-06-29T15:38:42Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
-    },
-    {
       "title": "Ostre zespoły wieńcowe - Medscape",
       "url": "https://www.medscape.com/c27/p14/acute-coronary-syndromes-2026a1000jv8?src=rss",
       "date": "2026-06-29T15:29:43Z",
@@ -966,6 +966,22 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
+      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
+    },
+    {
+      "title": "Bezpłatne działania CE od MMWR i Medscape — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/cme/medscape_cme.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Seria cotygodniowych raportów o zachorowalności i śmiertelności (MMWR) przygotowywana jest przez Centra Kontroli i Zapobiegania Chorobom (CDC)."
+    },
+    {
       "title": "EPN113: Wytyczne praktyki klinicznej dotyczące przedwczesnego dojrzewania centralnego – Towarzystwo Endokrynologiczne",
       "url": "https://www.endocrine.org/podcast/enp113",
       "date": "2026-06-25T23:30:40Z",
@@ -978,16 +994,8 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
       "date": "2026-06-25T17:03:11Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
-      "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
-    },
-    {
-      "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm",
-      "date": "2026-06-25T17:03:11Z",
-      "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "W niniejszym raporcie opisano liczbę zgonów spowodowanych przedawkowaniem narkotyków, które miały miejsce w hotelach i motelach w USA w latach 2022–2024."
+      "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
     },
     {
       "title": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1004,14 +1012,6 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
-    },
-    {
-      "title": "School of Opulence – Krajowa Sieć Informacji o Zapobieganiu (.gov)",
-      "url": "https://npin.cdc.gov/organization/school-opulence",
-      "date": "2026-06-24T11:45:09Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Oficjalne strony internetowe używają domeny .gov Witryna .gov należy do oficjalnej organizacji rządowej w Stanach Zjednoczonych."
     },
     {
       "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
@@ -1078,20 +1078,28 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
-      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
-      "date": "2026-06-22T10:42:34Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
-    },
-    {
       "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
       "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
       "date": "2026-06-22T09:05:58Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Jak wynika z długoterminowego badania opublikowanego w czasopiśmie Circulation, zastąpienie napojów gazowanych, napojów dla sportowców i soków owocowych całymi owocami może wiązać się z niższym ryzykiem rozwoju nadciśnienia tętniczego w wieku dorosłym."
+    },
+    {
+      "title": "Biomarkery krwi na podstawie współczynnika osocza w chorobie Alzheimera: zgodność z wytycznymi praktyki klinicznej - Neurology Today",
+      "url": "https://neurologytoday.aan.com/doi/full/10.1097/01.wnt.0001205204.12195.fd",
+      "date": "2026-06-18T06:39:12Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Biomarkery krwi oparte na współczynniku osocza w chorobie Alzheimera: dostosowanie do wytycznych praktyki klinicznej Neurologia dzisiaj."
+    },
+    {
+      "title": "Towarzystwo Endokrynologiczne wydaje pierwsze wytyczne dotyczące przedwczesnego dojrzewania centralnego – MedPage Today",
+      "url": "https://www.medpagetoday.com/meetingcoverage/endo/121737",
+      "date": "2026-06-13T07:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "„Dzieci wchodzą w okres dojrzewania wcześniej niż w poprzednich dziesięcioleciach” – mówi współprzewodnicząca panelu ds. wytycznych."
     }
   ],
   "epidemiology": [
