@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T07:07:51Z",
+  "last_updated": "2026-06-30T07:08:34Z",
   "poland": [
     {
       "title": "Zarządzenie nr 62/2026/DGL - Narodowy Fundusz Zdrowia (NFZ)",
@@ -15,7 +15,7 @@
       "date": "2026-06-30T07:01:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Gawkowski chce odwołania prezesa NFZ. Dziś Tusk rozmawia z Nowakiem i Sobierańską-Grendą Alert Medyczny."
+      "summary": "Gawkowski chce odwołania prezesa NFZ. Dziś Donald Tusk spotka się z Filipem Nowakiem i ministrą zdrowia. Tematem będą m.in."
     },
     {
       "title": "Branża opieki apeluje do rządu o przywrócenie wykazu zawodów deficytowych - Alert Medyczny",
@@ -23,7 +23,7 @@
       "date": "2026-06-30T06:55:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Branża opieki apeluje do rządu o przywrócenie wykazu zawodów deficytowych Alert Medyczny."
+      "summary": "PSOD i KIDO apelują o wznowienie prac nad wykazem zawodów deficytowych. Ostrzegają przed pogłębianiem kryzysu kadrowego."
     },
     {
       "title": "Upały są obciążeniem dla serca - Serwis Zdrowie",
@@ -127,7 +127,7 @@
       "date": "2026-06-30T05:23:08Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ponad 80% budżetu na pensje. Szpitale powiatowe apelują o pilne decyzje Alert Medyczny."
+      "summary": "OZPSP ostrzega, że podwyżki wynagrodzeń od 1 lipca nie mają zapewnionego finansowania. Szpitale apelują o stabilne kontrakty."
     },
     {
       "title": "Wolne w upały. Dzisiejsza decyzja Tuska wywróci rynek pracy do góry nogami - Rynek Zdrowia",
@@ -175,7 +175,7 @@
       "date": "2026-06-30T04:23:05Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Wykrywanie Helicobacter pylori może pięciokrotnie zwrócić koszty profilaktyki raka żołądka Alert Medyczny."
+      "summary": "Badania przesiewowe w kierunku Helicobacter pylori mogą pięciokrotnie zwrócić koszty i skutecznie ograniczać zachorowania na raka żołądka."
     },
     {
       "title": "Sztuczna inteligencja wspiera decyzje lekarzy. Przełomowe wyniki badania w POZ - Alert Medyczny",
@@ -183,7 +183,7 @@
       "date": "2026-06-30T01:02:44Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Sztuczna inteligencja wspiera decyzje lekarzy. Przełomowe wyniki badania w POZ Alert Medyczny."
+      "summary": "Badanie „Nature Medicine” pokazuje, że AI wspiera decyzje lekarzy POZ, poprawia jakość dokumentacji i może ograniczać koszty leczenia."
     },
     {
       "title": "Choroby zakaźne u dzieci w Polsce – między wyzwaniami systemu a samorządami: jak skutecznie odpowiadać na aktualne wyzwania i chronić zdrowie najmłodszych? - Rynek Zdrowia",
@@ -942,14 +942,6 @@
       "summary": "Czy irlandzka prezydencja w Radzie UE może być katalizatorem zmian?"
     },
     {
-      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
-      "date": "2026-06-26T11:21:05Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
-    },
-    {
       "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-advanced-and-metastatic-prostate-cancer/supportive-care-follow-up-long-term-implications-and-survivorship/mcrpc-supportive-care-follow-up-long-term-implications-and-survivorship",
       "date": "2026-06-26T08:30:18Z",
@@ -998,12 +990,28 @@
       "summary": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
+      "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
+      "date": "2026-06-24T16:46:28Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Mirvetuximab soravtansine (Elahere, AbbVie) jest wskazany w „leczeniu dorosłych pacjentów z surowiczym nabłonkowym rakiem jajnika, jajowodu lub pierwotnym rakiem otrzewnej o wysokim stopniu złośliwości, z dodatnim receptorem folianowym (FRα), opornym na platynę, którzy otrzymali od jednego do trzech schematów leczenia systemowego”."
+    },
+    {
       "title": "School of Opulence – Krajowa Sieć Informacji o Zapobieganiu (.gov)",
       "url": "https://npin.cdc.gov/organization/school-opulence",
       "date": "2026-06-24T11:45:09Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Oficjalne strony internetowe używają domeny .gov Witryna .gov należy do oficjalnej organizacji rządowej w Stanach Zjednoczonych."
+    },
+    {
+      "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta10413/documents/html-content-7",
+      "date": "2026-06-24T10:36:02Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik NICE."
     },
     {
       "title": "Niezbędna jest zwiększona świadomość na temat objawów niewydolności serca podczas ciąży i po niej – www.heart.org",
@@ -1019,7 +1027,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
       "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
@@ -1035,7 +1043,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1043,7 +1051,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1059,7 +1067,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
       "title": "Profilaktyka jako fundament zdrowego społeczeństwa – przedstawiciele NRL na Kongresie Zdrowie 360 - NIL",
@@ -1076,38 +1084,6 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Jak wynika z długoterminowego badania opublikowanego w czasopiśmie Circulation, zastąpienie napojów gazowanych, napojów dla sportowców i soków owocowych całymi owocami może wiązać się z niższym ryzykiem rozwoju nadciśnienia tętniczego w wieku dorosłym."
-    },
-    {
-      "title": "NG126 Ciąża pozamaciczna i poronienie: Przegląd dowodów E 17/06/26 - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/ng126/evidence/e-use-of-anti-d-immunoglobulin-prophylaxis-pdf-15733058941",
-      "date": "2026-06-17T06:03:15Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "NG126 Ciąża pozamaciczna i poronienie: Przegląd dowodów E 17/06/26 Strona internetowa NICE."
-    },
-    {
-      "title": "Notatki | Dokumenty projektowe | Infigratynib do leczenia nawrotowego lub opornego na leczenie zaawansowanego raka dróg żółciowych z fuzją lub rearanżacją FGFR2 [ID3992] | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta10882/documents/html-content",
-      "date": "2026-06-10T02:12:11Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Notatki | Dokumenty projektowe | Infigratynib do leczenia nawrotowego lub opornego na leczenie zaawansowanego raka dróg żółciowych z fuzją lub rearanżacją FGFR2 [ID3992] | Poradnik NICE."
-    },
-    {
-      "title": "Notatki | Dokumenty projektowe | Pembrolizumab z lenwatynibem w leczeniu nieleczonego raka płaskonabłonkowego głowy i szyi z dodatnim ekspresją PD-L1, nawrotowego lub przerzutowego [ID5118] | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta11005/documents/html-content-4",
-      "date": "2026-06-08T17:30:39Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z lenwatynibem w leczeniu nieleczonego raka płaskonabłonkowego głowy i szyi z dodatnim ekspresją PD-L1, nawrotowego lub przerzutowego [ID5118] | Poradnik NICE."
-    },
-    {
-      "title": "HTG740 Litotrypsja wewnątrznaczyniowa w leczeniu zwapnionych tętnic wieńcowych podczas przezskórnej interwencji wieńcowej: podsumowanie końcowe – strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/htg740/evidence/overview-final-pdf-15242701789",
-      "date": "2026-06-06T07:00:00Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "HTG740 Litotrypsja wewnątrznaczyniowa w leczeniu zwapnionych tętnic wieńcowych podczas przezskórnej interwencji wieńcowej: przegląd końcowej strony internetowej NICE."
     }
   ],
   "epidemiology": [
@@ -1633,7 +1609,7 @@
       "date": "2026-06-29T22:11:20Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Zapisz datę: 12 lipca dla osoby, która przeżyła anemię sierpowatą i inne problemy rasowe w opiece zdrowotnej journal-isms.com."
+      "summary": "Uwagi 6-2-26."
     },
     {
       "title": "Nowoczesny przeszczep komórek macierzystych przewyższa terapię genową w badaniu opłacalności sierpowatokrwinkowych - insights.citeline.com",
