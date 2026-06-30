@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T04:59:34Z",
+  "last_updated": "2026-06-30T05:00:26Z",
   "poland": [
     {
       "title": "Wyciekły słowa Jankowskiego: Jeszcze żaden rząd nie wygrał z lekarzami. Burza w sieci - Rynek Zdrowia",
@@ -23,7 +23,7 @@
       "date": "2026-06-30T04:23:05Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Wykrywanie Helicobacter pylori może pięciokrotnie zwrócić koszty profilaktyki raka żołądka Alert Medyczny."
+      "summary": "Badania przesiewowe w kierunku Helicobacter pylori mogą pięciokrotnie zwrócić koszty i skutecznie ograniczać zachorowania na raka żołądka."
     },
     {
       "title": "Sztuczna inteligencja wspiera decyzje lekarzy. Przełomowe wyniki badania w POZ - Alert Medyczny",
@@ -31,7 +31,7 @@
       "date": "2026-06-30T01:02:44Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Sztuczna inteligencja wspiera decyzje lekarzy. Przełomowe wyniki badania w POZ Alert Medyczny."
+      "summary": "Badanie „Nature Medicine” pokazuje, że AI wspiera decyzje lekarzy POZ, poprawia jakość dokumentacji i może ograniczać koszty leczenia."
     },
     {
       "title": "Choroby zakaźne u dzieci w Polsce – między wyzwaniami systemu a samorządami: jak skutecznie odpowiadać na aktualne wyzwania i chronić zdrowie najmłodszych? - Rynek Zdrowia",
@@ -223,7 +223,7 @@
       "date": "2026-06-29T15:52:35Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Zymeworks kupuje Theravance za 929 mln dolarów i wchodzi na rynek leczenia POChP Alert Medyczny."
+      "summary": "Zymeworks przejmie Theravance za 929 mln USD. Transakcja ma rozszerzyć działalność firmy poza onkologię i zapewnić nowe źródła przychodów."
     },
     {
       "title": "Padają wnioski o zmniejszenie obsad karetek. Ministerstwo: żadnych zmian nie będzie - Rynek Zdrowia",
@@ -303,7 +303,7 @@
       "date": "2026-06-29T14:38:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prezes NRL: „Żadnych protestów”. Taką strategię proponuje lekarzom Alert Medyczny."
+      "summary": "Prezes NRL Łukasz Jankowski potwierdził autentyczność wpisu z Facebooka. Wyjaśnił, dlaczego sprzeciwia się protestom lekarzy."
     },
     {
       "title": "Wielka Interna Kardiologia część 1 - wydanie II - Podyplomie",
@@ -403,14 +403,6 @@
     }
   ],
   "world": [
-    {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-06-30T04:06:37Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
-    },
     {
       "title": "Kardiolodzy — praca w Ontario (Kalifornia) w Canada Medical Careers | 824382 - BMJ",
       "url": "https://www.bmj.com/careers/job/824382/cardiologists/",
@@ -740,6 +732,14 @@
       "summary": "Poniedziałek - piątek 8:00 - 19:00 ET 1-800-THE-NEJM (1-800-843-6356) +1-781-434-7888 (poza USA i Kanadą)."
     },
     {
+      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/research-summaries",
+      "date": "2026-06-29T15:38:42Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
+    },
+    {
       "title": "Ostre zespoły wieńcowe - Medscape",
       "url": "https://www.medscape.com/c27/p14/acute-coronary-syndromes-2026a1000jv8?src=rss",
       "date": "2026-06-29T15:29:43Z",
@@ -843,7 +843,7 @@
       "date": "2026-06-29T12:58:24Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych, aby opublikować pierwszą uniwersalną definicję niewydolności serca, ustanawiając jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
     },
     {
       "title": "Ciąża pozamaciczna i poronienie: diagnoza i wstępna aktualizacja postępowania (2026) Zainteresowane strony – witryna internetowa NICE",
@@ -926,7 +926,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia - Europejskie Towarzystwo Kardiologiczne",
+      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia – Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
@@ -982,14 +982,6 @@
       "summary": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/policy-news/esmo-responds-to-european-commission-consultation-on-high-risk-ai-rules-to-safeguard-innovation-and-safety-in-cancer-care",
-      "date": "2026-06-25T02:10:28Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
       "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/ta1169/chapter/2-Information-about-mirvetuximab-soravtansine",
       "date": "2026-06-24T16:46:28Z",
@@ -1027,15 +1019,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
-    },
-    {
-      "title": "Ostateczny projekt wytycznych | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/ta1169/documents/html-content-4",
-      "date": "2026-06-24T07:00:00Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1043,7 +1027,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1051,7 +1035,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1067,7 +1051,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
       "title": "Profilaktyka jako fundament zdrowego społeczeństwa – przedstawiciele NRL na Kongresie Zdrowie 360 - NIL",
@@ -1165,7 +1149,7 @@
       "date": "2026-06-29T14:14:27Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Dołącz do oficjalnego seminarium internetowego WHO na temat zanieczyszczenia powietrza i celów zrównoważonego rozwoju. WHO opublikuje nowe dane dla celów SDG 3.9.1, 7.1.2 i 11.6.2, zawierające studia przypadków krajowych dotyczące monitorowania trendów i dostosowania polityk do wytycznych WHO dotyczących jakości powietrza. Dowiedz się, jak wykorzystać te ustandaryzowane ramy, aby podejmować lepsze decyzje dotyczące zdrowia publicznego i czystsze powietrze na całym świecie."
+      "summary": "Dołącz do oficjalnego seminarium internetowego WHO na temat zanieczyszczenia powietrza i celów zrównoważonego rozwoju. WHO opublikuje nowe dane dla celów zrównoważonego rozwoju 3.9.1, 7.1.2 i 11.6.2, zawierające studia przypadków krajowych dotyczące monitorowania trendów i dostosowania polityk do wytycznych WHO dotyczących jakości powietrza. Dowiedz się, jak wykorzystać te ustandaryzowane ramy, aby podejmować lepsze decyzje dotyczące zdrowia publicznego i czystsze powietrze na całym świecie."
     },
     {
       "title": "Webinarium WHO dotyczące sytuacji nadzwyczajnych w zakresie zdrowia EPI-WIN: Nowe wytyczne WHO dotyczące bakteryjnego zapalenia opon mózgowo-rdzeniowych: narzędzie dla pracowników pierwszej linii opieki zdrowotnej – Światowa Organizacja Zdrowia (WHO)",
@@ -1176,7 +1160,7 @@
       "summary": "To seminarium internetowe zawiera przegląd nowo wydanych wytycznych WHO dotyczących bakteryjnego zapalenia opon mózgowo-rdzeniowych dla pracowników pierwszej linii frontu opieki zdrowotnej. Globalne obciążenie ostrym bakteryjnym zapaleniem opon mózgowo-rdzeniowych pozostaje wysokie, szczególnie w krajach o niskich i średnich dochodach oraz w krajach o ograniczonych zasobach. W tym seminarium internetowym wyjaśnimy, w jaki sposób niniejsze wytyczne przekładają zalecenia oparte na dowodach na praktyczne wytyczne dotyczące wdrażania do stosowania w miejscu opieki."
     },
     {
-      "title": "Biuletyn Tygodniowy dotyczący zapalenia opon mózgowo-rdzeniowych 2026_Tydzień 24 – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Biuletyn tygodniowy dotyczący zapalenia opon mózgowo-rdzeniowych 2026_Tydzień 24 – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/meningitis-weekly-bulletin-2026_week-24",
       "date": "2026-06-29T13:39:08Z",
       "source": "WHO Disease Outbreak News",
@@ -1189,7 +1173,7 @@
       "date": "2026-06-29T13:24:39Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Od 100 lat Weekly Epidemiological Record (WER) dokumentuje ewoluującą historię globalnego zdrowia publicznego, tydzień po tygodniu. W odpowiedzi na zmieniające się potrzeby WER z okazji 100. rocznicy swojego istnienia przyjmuje nowy format."
+      "summary": "Od 100 lat Weekly Epidemiological Record (WER) dokumentuje ewoluującą historię globalnego zdrowia publicznego, tydzień po tygodniu. W odpowiedzi na zmieniające się potrzeby WER z okazji 100-lecia swojego istnienia przyjmuje nowy format."
     },
     {
       "title": "Dane pokazują, że prosty alert prawie trzykrotnie zwiększa szanse młodych kobiet na badanie przesiewowe na obecność chlamydii – CIDRAP",
@@ -1237,7 +1221,7 @@
       "date": "2026-06-29T07:29:06Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
+      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -1367,7 +1351,7 @@
       "date": "2026-06-29T21:10:53Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA od dłuższego czasu spada po pandemii Covid-19, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
+      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA po pandemii Covid-19 od dawna spada, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z The Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
     },
     {
       "title": "Zapalenie wątroby wywołane szczepionką przeciwko COVID-19: większość pacjentów wraca do zdrowia, ale u niektórych rozwija się trwała autoimmunologiczna choroba wątroby - trisitenews.com",
@@ -1386,15 +1370,15 @@
       "summary": "EAN 2026: Dane post hoc Cenrifki firmy Sanofi sugerują, że zmiany chorobowe mogą nie wskazywać na niepowodzenie Areny Badań Klinicznych."
     },
     {
-      "title": "Szczegóły badania | NCT07672782 | Tisotumab wedotyna w leczeniu raka płaskonabłonkowego sromu - Clinical Trials.gov",
+      "title": "Szczegóły badania | NCT07672782 | Tisotumab wedotyna w leczeniu raka płaskonabłonkowego sromu - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07672782",
       "date": "2026-06-29T16:08:46Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07672782 | Tisotumab Vedotin w leczeniu raka płaskonabłonkowego sromu Badania kliniczne.gov."
+      "summary": "Szczegóły badania | NCT07672782 | Tisotumab Vedotin w leczeniu raka płaskonabłonkowego sromu ClinicalTrials.gov."
     },
     {
-      "title": "Badania kliniczne w czasie rzeczywistym: co oznacza dla sponsorów dążenie FDA do ciągłego nadzoru - Stosowane badania kliniczne online",
+      "title": "Badania kliniczne w czasie rzeczywistym: co oznacza dla sponsorów dążenie FDA do ciągłego nadzoru – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/real-time-clinical-trials-fda-continuous-oversight-sponsors",
       "date": "2026-06-29T15:53:34Z",
       "source": "Applied Clinical Trials",
@@ -1569,7 +1553,7 @@
       "date": "2026-06-29T21:37:54Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Dyrektor generalny Amerykańskiego Towarzystwa Terapii Komórkowych i Genowych stwierdził, że rosnąca liczba leczniczych metod leczenia anemii sierpowatokrwinkowej zwiększa wybór pacjentów, zamiast tworzyć konkurencję między terapiami."
+      "summary": "Dyrektor naczelny Amerykańskiego Towarzystwa Terapii Komórkowych i Genowych stwierdził, że rosnąca liczba leczniczych metod leczenia anemii sierpowatokrwinkowej zwiększa wybór pacjentów, zamiast tworzyć konkurencję między terapiami."
     },
     {
       "title": "Rejestracja zakładu i wykaz urządzeń — accessdata.fda.gov",
@@ -1665,7 +1649,7 @@
       "date": "2026-06-29T18:09:53Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Istnieją luki w komunikacji lekarzy na temat ryzyka związanego z dymem pożarowym Drugs.com."
+      "summary": "Istnieją luki w komunikacji lekarzy na temat Wildfire Smoke Risk Drugs.com."
     },
     {
       "title": "Problematyczne używanie mediów powiązane z zaburzeniami snu u dzieci, u których zdiagnozowano moczenie nocne – Drugs.com",
@@ -1732,7 +1716,7 @@
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
-      "title": "Inwestorzy Biopharma wzywają UE do wspierania nauk przyrodniczych w obliczu presji cenowej w USA – Endpoints News",
+      "title": "Inwestorzy Biofarmy wzywają UE do wspierania nauk przyrodniczych w obliczu presji cenowej w USA – Endpoints News",
       "url": "https://endpoints.news/eu-lobby-urges-member-states-to-improve-europes-life-sciences-sector/",
       "date": "2026-06-29T17:18:00Z",
       "source": "Endpoints News",
@@ -1769,7 +1753,7 @@
       "date": "2026-06-29T16:02:05Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Jak wynika z badania Drugs.com, krok psa może być wczesnym objawem demencji."
+      "summary": "Jak wynika z badań Drugs.com, krok psa może być wczesnym objawem demencji."
     },
     {
       "title": "Wysiłki mające na celu zniesienie nakazów szczepień w szkołach uderzyły w mur na Florydzie – Drugs.com",
@@ -1889,15 +1873,15 @@
       "date": "2026-06-29T14:34:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Talawar wchodzi na giełdę z kwotą 225 mln dolarów; Zwycięstwo firmy AstraZeneca w fazie 3 w zakresie efzimfotazy alfa u dzieci; IPO Alebunda w HK o wartości 164 mln dolarów; Kamień milowy Regenxbio o wartości 100 mln dolarów dla AbbVie; Odwrotna fuzja Neuphorii."
+      "summary": "Talawar wchodzi na giełdę z kwotą 225 mln dolarów; Zwycięstwo firmy AstraZeneca w fazie 3 w zakresie efzimfotazy alfa u dzieci; IPO Alebund za 164 mln dolarów w HK; Kamień milowy Regenxbio o wartości 100 mln dolarów dla AbbVie; Odwrotna fuzja Neuphorii."
     },
     {
-      "title": "Komitet Doradczy ds. Terapii Komórkowych, Tkankowych i Genowych 29 lipca 2026 r. Ogłoszenie spotkania – fda.gov",
+      "title": "Komitet Doradczy ds. Terapii Komórkowych, Tkankowych i Genowych 29 lipca 2026 r. Ogłoszenie spotkania – 29.07.2026 r. – fda.gov",
       "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/cellular-tissue-and-gene-therapies-advisory-committee-july-29-2026-meeting-announcement-07292026",
       "date": "2026-06-29T14:25:36Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Komitet Doradczy ds. Terapii Komórkowych, Tkankowych i Genowych 29 lipca 2026 r. Ogłoszenie spotkania fda.gov."
+      "summary": "Komitet Doradczy ds. Terapii Komórkowych, Tkankowych i Genowych 29 lipca 2026 r. Ogłoszenie o spotkaniu – 29.07.2026 fda.gov."
     },
     {
       "title": "Dyrektor ds. nauki IMDx, Ekkehard Schuetz, publikuje 200. artykuł badawczy – BioSpace",
@@ -1976,12 +1960,12 @@
   ],
   "daily_top5": [
     {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-06-30T04:06:37Z",
-      "source": "NEJM",
+      "title": "Czterdziesta dziewiąta sesja Komisji Kodeksu Żywnościowego FAO/WHO przyjmuje nowe standardy - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/07/06/default-calendar/forty-ninth-session-of-the-fao-who-codex-alimentarius-commission-adopts-new-standards",
+      "date": "2026-06-30T01:33:59Z",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
+      "summary": "Organ Narodów Zjednoczonych ds. standardów żywności, Komisja Codex Alimentarius, zbiera się w dniach 6–10 lipca 2026 r. w celu przyjęcia norm bezpieczeństwa i jakości żywności."
     },
     {
       "title": "Nowatorskie strategie pokonywania bariery krew-mózg w przypadku potrójnie ujemnych przerzutów raka piersi do mózgu - The Lancet",
@@ -2005,7 +1989,7 @@
       "date": "2026-06-29T13:24:39Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Od 100 lat Weekly Epidemiological Record (WER) dokumentuje ewoluującą historię globalnego zdrowia publicznego, tydzień po tygodniu. W odpowiedzi na zmieniające się potrzeby WER z okazji 100. rocznicy swojego istnienia przyjmuje nowy format."
+      "summary": "Od 100 lat Weekly Epidemiological Record (WER) dokumentuje ewoluującą historię globalnego zdrowia publicznego, tydzień po tygodniu. W odpowiedzi na zmieniające się potrzeby WER z okazji 100-lecia swojego istnienia przyjmuje nowy format."
     },
     {
       "title": "Uruchomienie planu wzmocnienia reakcji na choroby grzybicze i oporności na środki przeciwgrzybicze – Światowa Organizacja Zdrowia (WHO)",
@@ -2013,7 +1997,7 @@
       "date": "2026-06-29T07:29:06Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
+      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
     }
   ]
 }
