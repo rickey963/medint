@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T07:45:10Z",
+  "last_updated": "2026-06-30T07:45:53Z",
   "poland": [
     {
       "title": "Nowe działania prokuratury po zeznaniach byłego ordynatora Szpitala Południowego - Alert Medyczny",
@@ -7,7 +7,7 @@
       "date": "2026-06-30T07:33:13Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prokuratura rozszerza śledztwo ws. Szpitala Południowego. Po zeznaniach byłego ordynatora zabezpieczy kolejne dokumenty i przesłucha nowych świadków."
+      "summary": "Nowe działania prokuratury po zeznaniach byłego ordynatora Szpitala Południowego Alert Medyczny."
     },
     {
       "title": "Europejska Agencja Leków: 6 nowych leków z pozytywną opinią i 3 odrzucone - PolitykaZdrowotna.com",
@@ -16,6 +16,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Europejska Agencja Leków: 6 nowych leków z pozytywną opinią i 3 odrzucone PolitykaZdrowotna.com."
+    },
+    {
+      "title": "80 mln zł z KPO. Nowe bloki operacyjne w Sosnowcu - Termedia",
+      "url": "https://www.termedia.pl/mz/80-mln-zl-z-KPO-Nowe-bloki-operacyjne-w-Sosnowcu,67915.html",
+      "date": "2026-06-30T07:08:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Nowe bloki operacyjne oraz ponad 350 urządzeń do diagnostyki i leczenia nowotworów zasiliły wyposażenie Wojewódzkiego Szpitala Specjalistycznego im. św. Barbary w Sosnowcu."
     },
     {
       "title": "Leczenie uzupełniające w raku pęcherza – nowa terapia zatwierdzona przez FDA - Termedia",
@@ -39,7 +47,7 @@
       "date": "2026-06-30T07:01:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Gawkowski chce odwołania prezesa NFZ. Dziś Donald Tusk spotka się z Filipem Nowakiem i ministrą zdrowia. Tematem będą m.in."
+      "summary": "Gawkowski chce odwołania prezesa NFZ. Dziś Tusk rozmawia z Nowakiem i Sobierańską-Grendą Alert Medyczny."
     },
     {
       "title": "Branża opieki apeluje do rządu o przywrócenie wykazu zawodów deficytowych - Alert Medyczny",
@@ -47,7 +55,7 @@
       "date": "2026-06-30T06:55:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "PSOD i KIDO apelują o wznowienie prac nad wykazem zawodów deficytowych. Ostrzegają przed pogłębianiem kryzysu kadrowego."
+      "summary": "Branża opieki apeluje do rządu o przywrócenie wykazu zawodów deficytowych Alert Medyczny."
     },
     {
       "title": "Upały są obciążeniem dla serca - Serwis Zdrowie",
@@ -151,7 +159,7 @@
       "date": "2026-06-30T05:23:08Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "OZPSP ostrzega, że podwyżki wynagrodzeń od 1 lipca nie mają zapewnionego finansowania. Szpitale apelują o stabilne kontrakty."
+      "summary": "Ponad 80% budżetu na pensje. Szpitale powiatowe apelują o pilne decyzje Alert Medyczny."
     },
     {
       "title": "Wolne w upały. Dzisiejsza decyzja Tuska wywróci rynek pracy do góry nogami - Rynek Zdrowia",
@@ -199,7 +207,7 @@
       "date": "2026-06-30T04:23:05Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Badania przesiewowe w kierunku Helicobacter pylori mogą pięciokrotnie zwrócić koszty i skutecznie ograniczać zachorowania na raka żołądka."
+      "summary": "Wykrywanie Helicobacter pylori może pięciokrotnie zwrócić koszty profilaktyki raka żołądka Alert Medyczny."
     },
     {
       "title": "Sztuczna inteligencja wspiera decyzje lekarzy. Przełomowe wyniki badania w POZ - Alert Medyczny",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "– Najwyższy czas na priorytet dla chorób płuc. To jest zwiększający się problem epidemiologiczny, jak również problem braków kadrowych przy jednoczesnym szybkim rozwoju technologii. Pneumonologia ma w tej chwili chyba największą dynamikę rozwoju spośród wielu innych specjalności, ale musimy mieć odpowiednie rozwiązania systemowe i organizacyjne..."
-    },
-    {
-      "title": "624 tys. osób i przełomowy wniosek. Chroni wątrobę przed włóknieniem - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/624-tys-osob-i-przelomowy-wniosek-Chroni-watrobe-przed-wloknieniem,286031,11.html",
-      "date": "2026-06-29T16:15:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "O wątrobę warto dbać nie tylko poprzez ograniczenie alkoholu. Coraz więcej dowodów wskazuje na znaczenie codziennej diety. Nowa analiza obejmująca ponad 624 tys."
     }
   ],
   "world": [
@@ -412,12 +412,20 @@
       "summary": "Badania wykazały, że wiele dorosłych chorych na cukrzycę ma niekontrolowane lub wcześniej niezdiagnozowane wysokie ciśnienie krwi podczas rutynowych wizyt w klinikach zajmujących się siatkówką, co powoduje skierowanie na leczenie i pilną kontrolę."
     },
     {
-      "title": "Abivax stara się złagodzić obawy dotyczące bezpieczeństwa dzięki nowym danym, zwiększając ich udziały – statnews.com",
+      "title": "Abivax stara się złagodzić obawy dotyczące bezpieczeństwa dzięki nowym danym, zwiększając udziały – statnews.com",
       "url": "https://www.statnews.com/2026/06/30/abivax-obefazimod-ulcerative-colitis-maintenance-trial-safety-data/",
       "date": "2026-06-30T07:07:19Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Obawy związane z bezpieczeństwem związane z akcjami firmy Abivax, która tankowała eksperymentalne leki na choroby jelit zaledwie kilka tygodni temu. Ale nowa analiza sprawiła, że ​​wspięli się na wyższy poziom."
+      "summary": "Obawy dotyczące bezpieczeństwa związane z akcjami firmy Abivax, która tankowała eksperymentalne leki na choroby jelit zaledwie kilka tygodni temu. Ale nowa analiza sprawiła, że ​​wspięli się na wyższy poziom."
+    },
+    {
+      "title": "Względne znaczenie starszych liderów w porównaniu z bezpośrednimi przełożonymi w wypaleniu klinicysty – BMJ Leader",
+      "url": "https://bmjleader.bmj.com/content/early/2026/06/29/leader-2025-001414.share",
+      "date": "2026-06-30T06:39:39Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Kontekst Dobrostan klinicysty powiązano z oceną przywództwa, jednakże względny wpływ zadowolenia z bezpośrednich przełożonych w porównaniu z przywództwem wyższego szczebla pozostaje niedostatecznie zbadany. Zrozumienie tych relacji może pomóc w rozwoju przywództwa i strategiach organizacyjnych mających na celu łagodzenie wypalenia zawodowego. Metody Wiosną 2023 r. przeprowadziliśmy badanie dobrostanu wszystkich lekarzy pierwszego kontaktu w dużym amerykańskim systemie opieki zdrowotnej (wskaźnik odpowiedzi 24,5%)."
     },
     {
       "title": "Względne znaczenie starszych liderów w porównaniu z bezpośrednimi przełożonymi w wypaleniu klinicysty – BMJ Leader",
@@ -794,14 +802,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Poniedziałek - piątek 8:00 - 19:00 ET 1-800-THE-NEJM (1-800-843-6356) +1-781-434-7888 (poza USA i Kanadą)."
-    },
-    {
-      "title": "Ostre zespoły wieńcowe - Medscape",
-      "url": "https://www.medscape.com/c27/p14/acute-coronary-syndromes-2026a1000jv8?src=rss",
-      "date": "2026-06-29T15:29:43Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Zapoznaj się ze szczegółowymi informacjami klinicznymi, najnowszymi doniesieniami medycznymi i wytycznymi dotyczącymi ostrego zespołu wieńcowego, sklasyfikowanego jako zawał mięśnia sercowego z uniesieniem odcinka ST (zawał mięśnia sercowego ze STEMI) lub zawał mięśnia sercowego bez uniesienia odcinka ST (NSTE lub zawał mięśnia sercowego bez ST), co znajduje odzwierciedlenie w EKG. Przeczytaj o najnowszym leczeniu dławicy piersiowej i STEMI."
     }
   ],
   "guidelines": [
@@ -811,7 +811,7 @@
       "date": "2026-06-30T04:09:41Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Oparte na dowodach zalecenia dotyczące atogepantu (Aquipta) w leczeniu doraźnego leczenia migreny u dorosłych."
+      "summary": "Oparte na dowodach zalecenia dotyczące atogepantu (Aquipta) w doraźnym leczeniu migreny u dorosłych."
     },
     {
       "title": "Sektor oparty na wierze zachęca młodzież do przeciwstawiania się używaniu substancji psychoaktywnych — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -851,7 +851,7 @@
       "date": "2026-06-29T12:58:24Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych, aby opublikować pierwszą uniwersalną definicję niewydolności serca, ustanawiając jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
     },
     {
       "title": "Ciąża pozamaciczna i poronienie: diagnoza i wstępna aktualizacja postępowania (2026) Zainteresowane strony – witryna internetowa NICE",
@@ -926,11 +926,19 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia – Europejskie Towarzystwo Kardiologiczne",
+      "title": "Irlandia w centrum uwagi – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/spotlight-on-ireland/",
+      "date": "2026-06-26T11:32:11Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 2,
+      "summary": "Czy irlandzka prezydencja w Radzie UE może być katalizatorem zmian?"
+    },
+    {
+      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
     },
     {
@@ -962,7 +970,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
       "date": "2026-06-25T17:03:11Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
     },
     {
@@ -1006,12 +1014,36 @@
       "summary": "Jak wynika z nowego oświadczenia naukowego American Heart Association, wczesna diagnoza, szybkie leczenie i opieka kontrolna po porodzie mają kluczowe znaczenie dla zapobiegania zagrażającym życiu powikłaniom u kobiet w ciąży i po porodzie z niewydolnością serca."
     },
     {
+      "title": "Komunikat – Plan Taryfikacji na rok 2027 - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/komunikat-plan-taryfikacji-na-rok-2027/",
+      "date": "2026-06-24T09:09:34Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
       "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
       "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
       "date": "2026-06-23T15:12:34Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
+      "date": "2026-06-23T11:13:29Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-tezspire-tezepelumab-3/",
+      "date": "2026-06-23T09:04:24Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1022,6 +1054,14 @@
       "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
     },
     {
+      "title": "Stanowisko Rady ds. Taryfikacji – układ oddechowy - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/stanowisko-rady-ds-taryfikacji-uklad-oddechowy/",
+      "date": "2026-06-22T17:58:01Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
       "title": "Profilaktyka jako fundament zdrowego społeczeństwa – przedstawiciele NRL na Kongresie Zdrowie 360 - NIL",
       "url": "https://nil.org.pl/aktualnosci/9300-profilaktyka-jako-fundament-zdrowego-spoleczenstwa-przedstawiciele-nrl-na-kongresie-zdrowie-360",
       "date": "2026-06-22T14:26:26Z",
@@ -1030,28 +1070,12 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Rekomendacja Prezesa – Ogsiveo (nirogacestat) - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-ogsiveo-nirogacestat/",
-      "date": "2026-06-12T10:02:33Z",
-      "source": "AOTMiT",
+      "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
+      "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
+      "date": "2026-06-22T09:05:58Z",
+      "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 79/2026 z dnia 10 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgód na refundację produktu leczniczego Ogsiveo (nirogacestat) we wskazaniu: leczenie pacjentów pediatrycznych z postępującymi guzami desmoidalnymi opornymi na leczenie innych linii i niekwalifikującymi się do leczenia operacyjnego."
-    },
-    {
-      "title": "Rekomendacja Prezesa – Cabometyx (kabozantynib) - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-cabometyx-kabozantynib-2/",
-      "date": "2026-06-05T07:21:01Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja nr 76/2026 z dnia 2 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Cabometyx (kabozantynib) w leczeniu guzów neuroendokrynnych trzustkowych (pNET) i pozatrzustkowych (epNET)."
-    },
-    {
-      "title": "Świadczenia gwarantowane obejmujące leczenie chorób układu oddechowego - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/swiadczenia-gwarantowane-obejmujace-leczenie-chorob-ukladu-oddechowego/",
-      "date": "2026-06-03T08:44:12Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Na podstawie art. 31lb ust. 4 ustawy z dnia 27 sierpnia 2004 r."
+      "summary": "Jak wynika z długoterminowego badania opublikowanego w czasopiśmie Circulation, zastąpienie napojów gazowanych, napojów dla sportowców i soków owocowych całymi owocami może wiązać się z niższym ryzykiem rozwoju nadciśnienia tętniczego w wieku dorosłym."
     }
   ],
   "epidemiology": [
@@ -1125,7 +1149,7 @@
       "date": "2026-06-29T14:14:27Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Dołącz do oficjalnego seminarium internetowego WHO na temat zanieczyszczenia powietrza i celów zrównoważonego rozwoju. WHO opublikuje nowe dane dla celów zrównoważonego rozwoju 3.9.1, 7.1.2 i 11.6.2, zawierające studia przypadków krajowych dotyczące monitorowania trendów i dostosowania polityk do wytycznych WHO dotyczących jakości powietrza. Dowiedz się, jak wykorzystać te ustandaryzowane ramy, aby podejmować lepsze decyzje dotyczące zdrowia publicznego i czystsze powietrze na całym świecie."
+      "summary": "Dołącz do oficjalnego seminarium internetowego WHO na temat zanieczyszczenia powietrza i celów zrównoważonego rozwoju. WHO opublikuje nowe dane dla celów SDG 3.9.1, 7.1.2 i 11.6.2, zawierające studia przypadków krajowych dotyczące monitorowania trendów i dostosowania polityk do wytycznych WHO dotyczących jakości powietrza. Dowiedz się, jak wykorzystać te ustandaryzowane ramy, aby podejmować lepsze decyzje dotyczące zdrowia publicznego i czystsze powietrze na całym świecie."
     },
     {
       "title": "Webinarium WHO dotyczące sytuacji nadzwyczajnych w zakresie zdrowia EPI-WIN: Nowe wytyczne WHO dotyczące bakteryjnego zapalenia opon mózgowo-rdzeniowych: narzędzie dla pracowników pierwszej linii opieki zdrowotnej – Światowa Organizacja Zdrowia (WHO)",
@@ -1136,7 +1160,7 @@
       "summary": "To seminarium internetowe zawiera przegląd nowo wydanych wytycznych WHO dotyczących bakteryjnego zapalenia opon mózgowo-rdzeniowych dla pracowników pierwszej linii frontu opieki zdrowotnej. Globalne obciążenie ostrym bakteryjnym zapaleniem opon mózgowo-rdzeniowych pozostaje wysokie, szczególnie w krajach o niskich i średnich dochodach oraz w krajach o ograniczonych zasobach. W tym seminarium internetowym wyjaśnimy, w jaki sposób niniejsze wytyczne przekładają zalecenia oparte na dowodach na praktyczne wytyczne dotyczące wdrażania do stosowania w miejscu opieki."
     },
     {
-      "title": "Biuletyn tygodniowy dotyczący zapalenia opon mózgowo-rdzeniowych 2026_Tydzień 24 – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Biuletyn Tygodniowy dotyczący zapalenia opon mózgowo-rdzeniowych 2026_Tydzień 24 – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/meningitis-weekly-bulletin-2026_week-24",
       "date": "2026-06-29T13:39:08Z",
       "source": "WHO Disease Outbreak News",
@@ -1149,7 +1173,7 @@
       "date": "2026-06-29T13:24:39Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Od 100 lat Weekly Epidemiological Record (WER) dokumentuje ewoluującą historię globalnego zdrowia publicznego, tydzień po tygodniu. W odpowiedzi na zmieniające się potrzeby WER z okazji 100-lecia swojego istnienia przyjmuje nowy format."
+      "summary": "Od 100 lat Weekly Epidemiological Record (WER) dokumentuje ewoluującą historię globalnego zdrowia publicznego, tydzień po tygodniu. W odpowiedzi na zmieniające się potrzeby WER z okazji 100. rocznicy swojego istnienia przyjmuje nowy format."
     },
     {
       "title": "Dane pokazują, że prosty alert prawie trzykrotnie zwiększa szanse młodych kobiet na badanie przesiewowe na obecność chlamydii – CIDRAP",
@@ -1197,7 +1221,7 @@
       "date": "2026-06-29T07:29:06Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
+      "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -1319,7 +1343,7 @@
       "date": "2026-06-29T21:10:53Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA po pandemii Covid-19 od dawna spada, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z The Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
+      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA od dłuższego czasu spada po pandemii Covid-19, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
     },
     {
       "title": "Zapalenie wątroby wywołane szczepionką przeciwko COVID-19: większość pacjentów wraca do zdrowia, ale u niektórych rozwija się trwała autoimmunologiczna choroba wątroby - trisitenews.com",
@@ -1485,7 +1509,7 @@
     },
     {
       "title": "Wygodne zestawy Medline do wycofania urządzenia klasy 2 – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221007",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221016",
       "date": "2026-06-30T06:27:01Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
@@ -1493,7 +1517,7 @@
     },
     {
       "title": "Wygodne zestawy Medline do wycofania urządzenia klasy 2 – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221016",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221007",
       "date": "2026-06-30T06:27:01Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
@@ -1541,7 +1565,7 @@
     },
     {
       "title": "Wycofanie urządzenia klasy 2 z krótkim, monoblokowym trzpieniem — accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220256",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=220256",
       "date": "2026-06-30T05:49:50Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
@@ -1641,7 +1665,7 @@
       "date": "2026-06-29T21:37:54Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Dyrektor naczelny Amerykańskiego Towarzystwa Terapii Komórkowych i Genowych stwierdził, że rosnąca liczba leczniczych metod leczenia anemii sierpowatokrwinkowej zwiększa wybór pacjentów, zamiast tworzyć konkurencję między terapiami."
+      "summary": "Dyrektor generalny Amerykańskiego Towarzystwa Terapii Komórkowych i Genowych stwierdził, że rosnąca liczba leczniczych metod leczenia anemii sierpowatokrwinkowej zwiększa wybór pacjentów, zamiast tworzyć konkurencję między terapiami."
     },
     {
       "title": "Rejestracja zakładu i wykaz urządzeń — accessdata.fda.gov",
@@ -1737,7 +1761,7 @@
       "date": "2026-06-29T18:09:53Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Istnieją luki w komunikacji lekarzy na temat Wildfire Smoke Risk Drugs.com."
+      "summary": "Istnieją luki w komunikacji lekarzy na temat ryzyka związanego z dymem pożarowym Drugs.com."
     },
     {
       "title": "Problematyczne używanie mediów powiązane z zaburzeniami snu u dzieci, u których zdiagnozowano moczenie nocne – Drugs.com",
@@ -1804,7 +1828,7 @@
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
-      "title": "Inwestorzy Biofarmy wzywają UE do wspierania nauk przyrodniczych w obliczu presji cenowej w USA – Endpoints News",
+      "title": "Inwestorzy Biopharma wzywają UE do wspierania nauk przyrodniczych w obliczu presji cenowej w USA – Endpoints News",
       "url": "https://endpoints.news/eu-lobby-urges-member-states-to-improve-europes-life-sciences-sector/",
       "date": "2026-06-29T17:18:00Z",
       "source": "Endpoints News",
@@ -1841,7 +1865,7 @@
       "date": "2026-06-29T16:02:05Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Jak wynika z badań Drugs.com, krok psa może być wczesnym objawem demencji."
+      "summary": "Jak wynika z badania Drugs.com, krok psa może być wczesnym objawem demencji."
     },
     {
       "title": "Wysiłki mające na celu zniesienie nakazów szczepień w szkołach uderzyły w mur na Florydzie – Drugs.com",
@@ -1957,7 +1981,7 @@
       "date": "2026-06-29T13:24:39Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Od 100 lat Weekly Epidemiological Record (WER) dokumentuje ewoluującą historię globalnego zdrowia publicznego, tydzień po tygodniu. W odpowiedzi na zmieniające się potrzeby WER z okazji 100-lecia swojego istnienia przyjmuje nowy format."
+      "summary": "Od 100 lat Weekly Epidemiological Record (WER) dokumentuje ewoluującą historię globalnego zdrowia publicznego, tydzień po tygodniu. W odpowiedzi na zmieniające się potrzeby WER z okazji 100. rocznicy swojego istnienia przyjmuje nowy format."
     }
   ]
 }
