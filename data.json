@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T05:55:07Z",
+  "last_updated": "2026-06-30T05:55:50Z",
   "poland": [
     {
       "title": "Ponad 80% budżetu na pensje. Szpitale powiatowe apelują o pilne decyzje - Alert Medyczny",
@@ -7,7 +7,7 @@
       "date": "2026-06-30T05:23:08Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ponad 80% budżetu na pensje. Szpitale powiatowe apelują o pilne decyzje Alert Medyczny."
+      "summary": "OZPSP ostrzega, że podwyżki wynagrodzeń od 1 lipca nie mają zapewnionego finansowania. Szpitale apelują o stabilne kontrakty."
     },
     {
       "title": "Wolne w upały. Dzisiejsza decyzja Tuska wywróci rynek pracy do góry nogami - Rynek Zdrowia",
@@ -47,7 +47,7 @@
       "date": "2026-06-30T04:23:05Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Wykrywanie Helicobacter pylori może pięciokrotnie zwrócić koszty profilaktyki raka żołądka Alert Medyczny."
+      "summary": "Badania przesiewowe w kierunku Helicobacter pylori mogą pięciokrotnie zwrócić koszty i skutecznie ograniczać zachorowania na raka żołądka."
     },
     {
       "title": "Sztuczna inteligencja wspiera decyzje lekarzy. Przełomowe wyniki badania w POZ - Alert Medyczny",
@@ -55,7 +55,7 @@
       "date": "2026-06-30T01:02:44Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Sztuczna inteligencja wspiera decyzje lekarzy. Przełomowe wyniki badania w POZ Alert Medyczny."
+      "summary": "Badanie „Nature Medicine” pokazuje, że AI wspiera decyzje lekarzy POZ, poprawia jakość dokumentacji i może ograniczać koszty leczenia."
     },
     {
       "title": "Choroby zakaźne u dzieci w Polsce – między wyzwaniami systemu a samorządami: jak skutecznie odpowiadać na aktualne wyzwania i chronić zdrowie najmłodszych? - Rynek Zdrowia",
@@ -247,7 +247,7 @@
       "date": "2026-06-29T15:52:35Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Zymeworks kupuje Theravance za 929 mln dolarów i wchodzi na rynek leczenia POChP Alert Medyczny."
+      "summary": "Zymeworks przejmie Theravance za 929 mln USD. Transakcja ma rozszerzyć działalność firmy poza onkologię i zapewnić nowe źródła przychodów."
     },
     {
       "title": "Padają wnioski o zmniejszenie obsad karetek. Ministerstwo: żadnych zmian nie będzie - Rynek Zdrowia",
@@ -410,6 +410,14 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "U pacjentów z T2D i CKD finerenon zmniejsza ryzyko wystąpienia niepożądanych zdarzeń sercowo-naczyniowych i nerek w porównaniu z placebo, niezależnie od wyjściowego stopnia zaawansowania zespołu CKM."
+    },
+    {
+      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/research-summaries",
+      "date": "2026-06-30T04:06:37Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
     },
     {
       "title": "Kardiolodzy — praca w Ontario (Kalifornia) w Canada Medical Careers | 824382 - BMJ",
@@ -740,14 +748,6 @@
       "summary": "Poniedziałek - piątek 8:00 - 19:00 ET 1-800-THE-NEJM (1-800-843-6356) +1-781-434-7888 (poza USA i Kanadą)."
     },
     {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-06-29T15:38:42Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
-    },
-    {
       "title": "Ostre zespoły wieńcowe - Medscape",
       "url": "https://www.medscape.com/c27/p14/acute-coronary-syndromes-2026a1000jv8?src=rss",
       "date": "2026-06-29T15:29:43Z",
@@ -1019,7 +1019,15 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
+    },
+    {
+      "title": "Nowe wytyczne dotyczące opieki nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
+      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
+      "date": "2026-06-23T15:12:34Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
     },
     {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1027,7 +1035,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1035,7 +1043,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1051,7 +1059,7 @@
       "date": "2026-06-22T17:58:01Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
       "title": "Profilaktyka jako fundament zdrowego społeczeństwa – przedstawiciele NRL na Kongresie Zdrowie 360 - NIL",
@@ -1060,14 +1068,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
-      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
-      "date": "2026-06-22T10:42:34Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
     },
     {
       "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
