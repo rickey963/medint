@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T03:39:20Z",
+  "last_updated": "2026-06-30T03:39:56Z",
   "poland": [
     {
       "title": "Sztuczna inteligencja wspiera decyzje lekarzy. Przełomowe wyniki badania w POZ - Alert Medyczny",
@@ -53,8 +53,8 @@
       "title": "Apetyt na zdrowie - czy wiesz jak jesz? - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/quizy/apetyt-na-zdrowie-czy-wiesz-jak-jesz?highlight=WyJicmFrIiwiYnJha3UiLCJicmFrXHUwMGYzdyIsImJyYWtpZW0iLCJicmFrdWplIiwiYnJha3VqXHUwMTA1Y2UiLCJicmFraSIsInNpdG8iLCJ0byIsInRvbGVyYW5jamEiXQ==",
       "date": "2026-06-29T18:06:01Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 3,
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 2,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -1030,6 +1030,14 @@
       "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
+      "title": "Ostateczny projekt wytycznych | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ta1169/documents/html-content-4",
+      "date": "2026-06-24T07:00:00Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
+    },
+    {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
       "date": "2026-06-23T11:13:29Z",
@@ -1078,20 +1086,12 @@
       "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
     },
     {
-      "title": "American Heart Association po raz pierwszy w historii wydaje wytyczne dotyczące zespołu sercowo-naczyniowego, nerkowo-metabolicznego (CKM): - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/etimes/wellness/american-heart-association-issues-first-ever-guideline-on-cardiovascular-kidney-metabolic-syndrome-ckm-what-you-need-to-know-for-your-heart-kidney-and-metabolic-health/articleshow/131901708.cms",
-      "date": "2026-06-22T05:25:00Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 3,
-      "summary": "Przez długi czas lekarze traktowali choroby serca, nerek, cukrzycę i otyłość jako zupełnie odrębne zagadnienia. Masz problemy z sercem; idź do kardiologa."
-    },
-    {
-      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu z roku 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
-      "url": "https://professional.heart.org/en/science-news/video-series-ais",
-      "date": "2026-06-16T04:08:33Z",
+      "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
+      "url": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
+      "date": "2026-06-22T09:05:58Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Opieka nad chorymi na ostry udar niedokrwienny mózgu w dalszym ciągu szybko ewoluuje, a nowe dowody zmieniają sposób przedszpitalnej segregacji pacjentów, obrazowania, strategii reperfuzji i opieki zespołowej przez całe życie. Ta czteroczęściowa seria filmów przedstawia autorów Wytycznych Amerykańskiego Towarzystwa Kardiologicznego dotyczących ostrego udaru niedokrwiennego z 2026 r., przedstawiających zmieniające praktykę aktualizacje dla klinicystów medycyny ratunkowej, neurointerwencjonistów, specjalistów w dziedzinie obrazowania, pielęgniarek, koordynatorów udaru i pediatrycznych zespołów udarowych."
+      "summary": "Jak wynika z długoterminowego badania opublikowanego w czasopiśmie Circulation, zastąpienie napojów gazowanych, napojów dla sportowców i soków owocowych całymi owocami może wiązać się z niższym ryzykiem rozwoju nadciśnienia tętniczego w wieku dorosłym."
     }
   ],
   "epidemiology": [
