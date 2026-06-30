@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T02:04:35Z",
+  "last_updated": "2026-06-30T02:05:19Z",
   "poland": [
     {
       "title": "Sztuczna inteligencja wspiera decyzje lekarzy. Przełomowe wyniki badania w POZ - Alert Medyczny",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Czy należy pominąć regionalne napromienianie węzłów chłonnych u pacjentek z rakiem piersi z zajętymi węzłami chłonnymi, który po chemioterapii neoadjuwantowej przechodzi w nowotwór niezajmujący węzłów chłonnych? - Lancet",
+      "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00298-6/fulltext",
+      "date": "2026-06-30T01:10:09Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Czy należy pominąć regionalne napromienianie węzłów chłonnych u pacjentek z rakiem piersi z zajętymi węzłami chłonnymi, który po chemioterapii neoadjuwantowej przechodzi w nowotwór niezajmujący węzłów chłonnych? Lancet."
+    },
+    {
       "title": "Historyczne momenty - The Lancet",
       "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00299-8/fulltext",
       "date": "2026-06-30T01:10:09Z",
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Moderna nadal optymistycznie ocenia mRNA, przejęcie Kartos przez Ipsen i więcej wiadomości biotechnologicznych z The Readout."
-    },
-    {
-      "title": "Wiadomości | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/fr/countries/23292/news",
-      "date": "2026-06-29T13:43:24Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
     }
   ],
   "guidelines": [
@@ -1136,6 +1136,14 @@
       "summary": "Publikacja danych na temat zanieczyszczenia powietrza w otoczeniu i w gospodarstwach domowych uwydatnia krytyczne nierówności: chociaż poziom drobnych cząstek stałych (PM2,5) spadał na całym świecie do 2020 r., od tego czasu pozostał w dużej mierze niezmieniony, a kraje o niskich i średnich dochodach są narażone na znacznie wyższe ryzyko narażenia niż kraje o wysokich dochodach, co zwiększa ryzyko dla zdrowia publicznego i środowiska."
     },
     {
+      "title": "Badania sugerują, że Tylenol podczas ciąży nie zwiększa ryzyka autyzmu ani ADHD u dziecka – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/anti-science/tylenol-during-pregnancy-doesn-t-increase-risk-child-s-autism-or-adhd-study-suggests",
+      "date": "2026-06-29T20:10:08Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Z badania opublikowanego dzisiaj w JAMA Internal Medicine wynika, że ​​nie ma związku między stosowaniem acetaminofenu (tylenolu) w czasie ciąży a ryzykiem wystąpienia zaburzeń ze spektrum autyzmu (ASD) lub zespołu nadpobudliwości psychoruchowej z deficytem uwagi (ADHD). Stanowi to uzupełnienie dowodów podkreślających bezpieczeństwo acetaminofenu w czasie ciąży."
+    },
+    {
       "title": "Baza danych WHO dotycząca jakości powietrza atmosferycznego (aktualizacja z czerwca 2026 r.) – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/who-ambient-air-quality-database-(update-jun-2026)",
       "date": "2026-06-29T18:30:16Z",
@@ -1374,14 +1382,6 @@
       "source": "Outbreak News Today",
       "confirmed_by": 1,
       "summary": "Francuskie władze ds. zdrowia potwierdziły 24 czerwca pierwszy przypadek choroby wywołanej wirusem Ebola w kraju."
-    },
-    {
-      "title": "Petycja wzywa FDA do zaprzestania rutynowego stosowania antybiotyków w gospodarstwach rolnych – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/petition-urges-fda-end-routine-antibiotic-use-farms",
-      "date": "2026-06-24T15:23:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Składający petycję chcą, aby agencja wycofała zatwierdzenie antybiotyków ważnych z medycznego punktu widzenia do stosowania w paszy i wodzie dla zwierząt, jeśli nie są one powiązane ze zdiagnozowaną chorobą."
     }
   ],
   "clinical_trials": [
