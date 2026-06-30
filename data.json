@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T04:48:57Z",
+  "last_updated": "2026-06-30T04:49:42Z",
   "poland": [
     {
       "title": "Pacjent w centrum uwagi: Dr Michał Kamiński o kompleksowej opiece okulistycznej - PolitykaZdrowotna.com",
@@ -45,7 +45,7 @@
       "title": "Nadwaga i otyłość – małymi krokami do zdrowia - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/e-booki/nadwaga-i-otylosc-malymi-krokami-do-zdrowia?highlight=WyJjb24iLCJpIiwiaWJzIiwiaWNoIiwiaWxvXHUwMTViY2kiLCJpbG9cdTAxNWJjaWFjaCIsImlsb1x1MDE1Ylx1MDEwNyIsImluIiwiaW5keXdpZHVhbG5hIiwiaW5keXdpZHVhbG5laiJd",
       "date": "2026-06-29T19:34:49Z",
-      "source": "Ministerstwo Zdrowia RP",
+      "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 2,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
@@ -448,7 +448,7 @@
       "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00146-4/fulltext",
       "date": "2026-06-30T01:10:05Z",
       "source": "The Lancet",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Nowatorskie strategie pokonywania bariery krew-mózg w potrójnie ujemnych przerzutach raka piersi do mózgu The Lancet."
     },
     {
@@ -926,12 +926,20 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
-      "date": "2026-06-26T11:21:05Z",
+      "title": "Irlandia w centrum uwagi – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/spotlight-on-ireland/",
+      "date": "2026-06-26T11:32:11Z",
       "source": "ESC (kardiologia)",
+      "confirmed_by": 2,
+      "summary": "Czy irlandzka prezydencja w Radzie UE może być katalizatorem zmian?"
+    },
+    {
+      "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-advanced-and-metastatic-prostate-cancer/supportive-care-follow-up-long-term-implications-and-survivorship/mcrpc-supportive-care-follow-up-long-term-implications-and-survivorship",
+      "date": "2026-06-26T08:30:18Z",
+      "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
+      "summary": "mCRPC: Opieka wspomagająca, obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Stanowiska podjęte przez PNRL w dniu 26 czerwca 2026 r. - NIL",
@@ -964,6 +972,22 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "W niniejszym raporcie opisano liczbę zgonów spowodowanych przedawkowaniem narkotyków, które miały miejsce w hotelach i motelach w USA w latach 2022–2024."
+    },
+    {
+      "title": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/high-hpv-vaccination-coverage-in-england-associated-with-a-substantial-reduction-in-cervical-cancer-mortality",
+      "date": "2026-06-25T12:34:30Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/policy-news/esmo-responds-to-european-commission-consultation-on-high-risk-ai-rules-to-safeguard-innovation-and-safety-in-cancer-care",
+      "date": "2026-06-25T02:10:28Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "2 Informacje o mirvetuksymabie soravtansynie | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
@@ -1060,22 +1084,6 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Jak wynika z długoterminowego badania opublikowanego w czasopiśmie Circulation, zastąpienie napojów gazowanych, napojów dla sportowców i soków owocowych całymi owocami może wiązać się z niższym ryzykiem rozwoju nadciśnienia tętniczego w wieku dorosłym."
-    },
-    {
-      "title": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-therapeutic-indications-for-enfortumab-vedotin",
-      "date": "2026-06-20T00:33:39Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
-      "title": "ESMO Breast Cancer 2027: Miejsce – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/meeting-calendar/esmo-breast-cancer-2027/venue",
-      "date": "2026-06-06T04:27:17Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "ESMO Breast Cancer 2027: Miejsce Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     }
   ],
   "epidemiology": [
@@ -1529,7 +1537,7 @@
       "date": "2026-06-29T22:11:20Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Zapisz datę: 12 lipca dla osoby, która przeżyła anemię sierpowatą i inne problemy rasowe w opiece zdrowotnej journal-isms.com."
+      "summary": "Uwagi 6-2-26."
     },
     {
       "title": "Nowoczesny przeszczep komórek macierzystych przewyższa terapię genową w badaniu opłacalności sierpowatokrwinkowych - insights.citeline.com",
@@ -1968,12 +1976,12 @@
       "summary": "Organ Narodów Zjednoczonych ds. standardów żywności, Komisja Codex Alimentarius, zbiera się w dniach 6–10 lipca 2026 r. w celu przyjęcia norm bezpieczeństwa i jakości żywności."
     },
     {
-      "title": "Nowatorskie strategie pokonywania bariery krew-mózg w przypadku potrójnie ujemnych przerzutów raka piersi do mózgu - The Lancet",
-      "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00146-4/fulltext",
-      "date": "2026-06-30T01:10:05Z",
+      "title": "Czy należy pominąć regionalne napromienianie węzłów chłonnych u pacjentek z rakiem piersi z zajętymi węzłami chłonnymi, który po chemioterapii neoadjuwantowej przechodzi w nowotwór niezajmujący węzłów chłonnych? - Lancet",
+      "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00298-6/fulltext",
+      "date": "2026-06-30T01:10:09Z",
       "source": "The Lancet",
-      "confirmed_by": 2,
-      "summary": "Nowatorskie strategie pokonywania bariery krew-mózg w potrójnie ujemnych przerzutach raka piersi do mózgu The Lancet."
+      "confirmed_by": 1,
+      "summary": "Czy należy pominąć regionalne napromienianie węzłów chłonnych u pacjentek z rakiem piersi z zajętymi węzłami chłonnymi, który po chemioterapii neoadjuwantowej przechodzi w nowotwór niezajmujący węzłów chłonnych? Lancet."
     },
     {
       "title": "Webinarium WHO dotyczące sytuacji nadzwyczajnych w zakresie zdrowia EPI-WIN: Nowe wytyczne WHO dotyczące bakteryjnego zapalenia opon mózgowo-rdzeniowych: narzędzie dla pracowników pierwszej linii opieki zdrowotnej – Światowa Organizacja Zdrowia (WHO)",
