@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-30T06:21:40Z",
+  "last_updated": "2026-06-30T06:22:23Z",
   "poland": [
+    {
+      "title": "Wicepremier: głową powinien zapłacić szef NFZ - Z kraju - Kurier - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/kurier/442761,wicepremier-glowa-powinien-zaplacic-szef-nfz",
+      "date": "2026-06-30T06:21:04Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Odpowiedzialność za sytuację w ochronie zdrowia ponosi Narodowy Fundusz Zdrowia, a prezesa tej instytucji należy odwołać – powiedział wicepremier i minister cyfryzacji Krzysztof Gawkowski."
+    },
     {
       "title": "Zły PR odstrasza młodych lekarzy od onkologii? Prof. Czarnecka: to nie specjalizacja od beznadziejnych przypadków - Puls Medycyny",
       "url": "https://pulsmedycyny.pl/medycyna/onkologia/zly-pr-odstrasza-mlodych-lekarzy-od-onkologii-prof-czarnecka-to-nie-specjalizacja-od-beznadziejnych-przypadkow",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Mazowiecki Szpital Specjalistyczny Sp. z o.o. w Radomiu uruchomił całodobowy dyżur udarowy."
-    },
-    {
-      "title": "Bydgoszcz – CO i PB zacieśniają współpracę - Aktualności - Onkologia - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/onkologia/aktualnosci/442735,bydgoszcz-co-i-pb-zaciesniaja-wspolprace",
-      "date": "2026-06-29T13:54:59Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Centrum Onkologii im. prof. Franciszka Łukaszczyka w Bydgoszczy oraz Politechnika Bydgoska im."
     }
   ],
   "world": [
@@ -818,7 +818,7 @@
       "url": "https://www.cdc.gov/overdose-prevention/php/drug-free-communities/ohio.html",
       "date": "2026-06-29T23:50:05Z",
       "source": "Wytyczne kliniczne",
-      "confirmed_by": 16,
+      "confirmed_by": 17,
       "summary": "Koalicja DFC w Ohio stosuje podejście oparte na wierze i kierowane przez młodzież, aby zapobiegać używaniu substancji psychoaktywnych."
     },
     {
@@ -934,12 +934,12 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Irlandia w centrum uwagi – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/news-room/spotlight-on-ireland/",
-      "date": "2026-06-26T11:32:11Z",
+      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
+      "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 2,
-      "summary": "Czy irlandzka prezydencja w Radzie UE może być katalizatorem zmian?"
+      "summary": "Zapalenie mięśnia sercowego i zapalenie osierdzia Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1028,14 +1028,6 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
-    },
-    {
-      "title": "Ostateczny projekt wytycznych | Mirvetuximab soravtansine do leczenia nabłonkowego raka jajnika, jajowodu lub pierwotnego raka otrzewnej z receptorem folianowym alfa-dodatnim, opornym na platynę | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/ta1169/documents/html-content-4",
-      "date": "2026-06-24T07:00:00Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
     },
     {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1407,7 +1399,7 @@
       "date": "2026-06-29T15:53:34Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Wbudowane, a nie przykręcane: dlaczego bezpieczeństwo danych klinicznych musi być zasadą projektowania. Badania kliniczne stosowane online."
+      "summary": "Wbudowane, a nie przykręcane: dlaczego bezpieczeństwo danych klinicznych musi być zasadą projektowania. Stosowane badania kliniczne online."
     },
     {
       "title": "Streszczenie ACT: Priorytety w zakresie przywództwa i infrastruktury DIA, gotowość do przeglądu danych w czasie rzeczywistym i rozwój leczenia CLL – stosowane badania kliniczne online",
