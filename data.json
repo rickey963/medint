@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T19:08:53Z",
+  "last_updated": "2026-06-30T19:09:53Z",
   "poland": [
     {
       "title": "System eZWM (e - Narodowy Fundusz Zdrowia (NFZ)",
@@ -942,6 +942,14 @@
       "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
     },
     {
+      "title": "Rewizja MDR – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/mdr-revision/",
+      "date": "2026-06-27T15:35:42Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Zbliżająca się zmiana rozporządzenia w sprawie wyrobów medycznych (MDR), która ma zostać sfinalizowana podczas irlandzkiej prezydencji w Radzie UE, stanowi kluczową okazję do wzmocnienia współpracy między organami regulacyjnymi a społecznością kliniczną."
+    },
+    {
       "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
       "date": "2026-06-26T19:41:33Z",
@@ -972,6 +980,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "EPN113: Wytyczne praktyki klinicznej dotyczące przedwczesnego dojrzewania centralnego – Towarzystwo Endokrynologiczne",
+      "url": "https://www.endocrine.org/podcast/enp113",
+      "date": "2026-06-25T23:30:40Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Prowadzący Aaron Lohr rozmawia z autorami nowych Wytycznych praktyki klinicznej Towarzystwa Endokrynologicznego w zakresie przedwczesnego dojrzewania centralnego: dr Ana Latronico, profesor endokrynologii i metabolizmu na Uniwersytecie w Sao Paolo oraz Stephanie Roberts, MD, endokrynolog dziecięcy i adiunkt pediatrii w Bostońskim Szpitalu Dziecięcym."
     },
     {
       "title": "Wizyty na oddziałach ratunkowych w związku z podejrzeniem próby samobójczej — Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1068,14 +1084,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
-      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
-      "date": "2026-06-22T10:42:34Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
     }
   ],
   "epidemiology": [
@@ -1261,7 +1269,7 @@
       "date": "2026-06-29T13:09:31Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Jak pokazują dane CIDRAP, prosty alert prawie trzykrotnie zwiększa szanse młodych kobiet na badanie przesiewowe na obecność chlamydii."
+      "summary": "Jak wynika z randomizowanego badania klinicznego opublikowanego w tym tygodniu w JAMA Network Open, alert w elektronicznej dokumentacji medycznej (EMR) wysyłany do asystentów medycznych przygotowujących pacjentów do wizyt lekarskich w przychodniach podstawowej opieki zdrowotnej znacznie zwiększa prawdopodobieństwo, że młode kobiety zostaną poddane badaniom przesiewowym w kierunku chlamydii."
     },
     {
       "title": "Misja rozpoznawcza w sprawie kontroli bezpieczeństwa przy wyjściu z lotniska – Misja Grupy Zadaniowej UE ds. Zdrowia do Demokratycznej Republiki Konga i Ugandy w odpowiedzi na epidemię choroby wirusowej Bundibugyo w 2026 r. – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1341,7 +1349,7 @@
       "date": "2026-06-26T19:42:22Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Z badania opublikowanego w tym tygodniu w International Journal of Infectious Diseases wynika, że ​​dorośli cierpiący na długotrwałą chorobę Covid-19 doświadczają większej utraty produktywności w pracy i są bardziej skłonni do całkowitego opuszczenia miejsca pracy w porównaniu z osobami, które wyzdrowiały po Covid-19 lub u których nigdy nie wystąpiły trwałe objawy."
+      "summary": "Pracownicy z długim okresem Covid-19 częściej odchodzą z pracy i tracą produktywność CIDRAP."
     },
     {
       "title": "Szybkie ujęcia: więcej przypadków ślimaków w Nowym Świecie, epidemia Salmonelli w Europie, polio w 4 krajach - CIDRAP",
@@ -1365,7 +1373,7 @@
       "date": "2026-06-25T20:54:22Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Dzisiaj podczas konferencji prasowej dyrektor generalny Afrykańskich Centrów Kontroli i Zapobiegania Chorobom Jean Kaseya, lekarz medycyny, MPH, powiedział, że epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) będzie wymagać środków w wysokości 1,4 miliarda dolarów, aby powstrzymać epidemię, czyli prawie trzykrotnie więcej niż 518 milionów dolarów Africa CDC szacowane na początku miesiąca."
+      "summary": "Afrykańskie CDC potraja kwotę potrzebną do walki z wirusem Ebola CIDRAP."
     },
     {
       "title": "Szybkie ujęcia: więcej przypadków grypy Sił Powietrznych, rośnie epidemia listerii sera miękkiego, konkurs wideo dotyczący zapobiegania grypie/COVID – CIDRAP",
@@ -1373,7 +1381,7 @@
       "date": "2026-06-25T20:02:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Liczba przypadków grypy w bazie Joint Base San Antonio Lackland wzrosła do 275."
+      "summary": "Szybkie ujęcia: więcej przypadków grypy Sił Powietrznych, wzrost epidemii listerii sera miękkiego, konkurs wideo dotyczący zapobiegania grypie/COVID CIDRAP."
     },
     {
       "title": "Powitanie! Wszystko jest w porządku… poza tym, że nadal nie ma kworum ACIP: Stan amerykańskiej polityki dotyczącej szczepionek – CIDRAP",
@@ -1389,7 +1397,7 @@
       "date": "2026-06-25T17:44:38Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Dwa nowe raporty analizujące niedawne ogniska odry w USA podkreślają wyzwania związane z powstrzymaniem rozprzestrzeniania się choroby w niektórych społecznościach."
+      "summary": "Dwa nowe raporty podkreślają przeszkody w powstrzymywaniu epidemii odry w USA CIDRAP."
     },
     {
       "title": "WHO ogłasza 2 próby leków eksperymentalnych w walce z epidemią wirusa Ebola – CIDRAP",
