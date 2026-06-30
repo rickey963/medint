@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T18:55:06Z",
+  "last_updated": "2026-06-30T18:56:35Z",
   "poland": [
     {
       "title": "System eZWM (e - Narodowy Fundusz Zdrowia (NFZ)",
@@ -966,14 +966,6 @@
       "summary": "mCRPC: Opieka wspomagająca, obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/measles/data-research/index.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
-    },
-    {
       "title": "Stanowiska podjęte przez PNRL w dniu 26 czerwca 2026 r. - NIL",
       "url": "https://nil.org.pl/aktualnosci/9305-stanowiska-podjete-przez-pnrl-w-dniu-26-czerwca-2026-r",
       "date": "2026-06-26T07:00:00Z",
@@ -982,20 +974,28 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Bezpłatne działania CE od MMWR i Medscape — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/cme/medscape_cme.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Seria cotygodniowych raportów o zachorowalności i śmiertelności (MMWR) przygotowywana jest przez Centra Kontroli i Zapobiegania Chorobom (CDC)."
-    },
-    {
       "title": "EPN113: Wytyczne praktyki klinicznej dotyczące przedwczesnego dojrzewania centralnego – Towarzystwo Endokrynologiczne",
       "url": "https://www.endocrine.org/podcast/enp113",
       "date": "2026-06-25T23:30:40Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Prowadzący Aaron Lohr rozmawia z autorami nowych Wytycznych praktyki klinicznej Towarzystwa Endokrynologicznego w zakresie przedwczesnego dojrzewania centralnego: dr Ana Latronico, profesor endokrynologii i metabolizmu na Uniwersytecie w Sao Paolo oraz Stephanie Roberts, MD, endokrynolog dziecięcy i adiunkt pediatrii w Bostońskim Szpitalu Dziecięcym."
+    },
+    {
+      "title": "Wizyty na oddziałach ratunkowych w związku z podejrzeniem próby samobójczej — Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
+      "date": "2026-06-25T17:03:11Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 2,
+      "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
+    },
+    {
+      "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm",
+      "date": "2026-06-25T17:03:11Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W niniejszym raporcie opisano liczbę zgonów spowodowanych przedawkowaniem narkotyków, które miały miejsce w hotelach i motelach w USA w latach 2022–2024."
     },
     {
       "title": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1076,21 +1076,13 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
-      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
-      "date": "2026-06-22T10:42:34Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
     }
   ],
   "epidemiology": [
     {
       "title": "Nadzór nad Candida auris — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm?s_cid=OS_ss7504a1_w",
-      "date": "2026-06-30T16:59:28Z",
+      "date": "2026-06-30T17:59:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
@@ -1221,7 +1213,7 @@
       "date": "2026-06-29T20:10:08Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Z badania opublikowanego dzisiaj w JAMA Internal Medicine wynika, że ​​nie ma związku między stosowaniem acetaminofenu (tylenolu) w czasie ciąży a ryzykiem wystąpienia zaburzeń ze spektrum autyzmu (ASD) lub zespołu nadpobudliwości psychoruchowej z deficytem uwagi (ADHD). Stanowi to uzupełnienie dowodów podkreślających bezpieczeństwo acetaminofenu w czasie ciąży."
+      "summary": "Badania sugerują, że Tylenol podczas ciąży nie zwiększa ryzyka autyzmu ani ADHD u dziecka."
     },
     {
       "title": "Baza danych WHO dotycząca jakości powietrza atmosferycznego (aktualizacja z czerwca 2026 r.) – Światowa Organizacja Zdrowia (WHO)",
@@ -1237,7 +1229,7 @@
       "date": "2026-06-29T16:28:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Badanie Mayo Clinic wykazało, że prawie 90% pacjentów z ostrym zapaleniem zatok otrzymywało antybiotyki, ale tylko dwie trzecie spełniało kryteria ich przepisywania."
+      "summary": "Pacjenci z zapaleniem zatok często otrzymują antybiotyki, nawet jeśli ich nie potrzebują."
     },
     {
       "title": "Razem na rzecz zdrowia stoimy po stronie nauki: Dane krajowe i cele zrównoważonego rozwoju dotyczące zanieczyszczenia powietrza i zdrowia – Światowa Organizacja Zdrowia (WHO)",
@@ -1269,7 +1261,7 @@
       "date": "2026-06-29T13:09:31Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Jak pokazują dane CIDRAP, prosty alert prawie trzykrotnie zwiększa szanse młodych kobiet na badanie przesiewowe na obecność chlamydii."
+      "summary": "Jak wynika z randomizowanego badania klinicznego opublikowanego w tym tygodniu w JAMA Network Open, alert w elektronicznej dokumentacji medycznej (EMR) wysyłany do asystentów medycznych przygotowujących pacjentów do wizyt lekarskich w przychodniach podstawowej opieki zdrowotnej znacznie zwiększa prawdopodobieństwo, że młode kobiety zostaną poddane badaniom przesiewowym w kierunku chlamydii."
     },
     {
       "title": "Misja rozpoznawcza w sprawie kontroli bezpieczeństwa przy wyjściu z lotniska – Misja Grupy Zadaniowej UE ds. Zdrowia do Demokratycznej Republiki Konga i Ugandy w odpowiedzi na epidemię choroby wirusowej Bundibugyo w 2026 r. – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1333,7 +1325,7 @@
       "date": "2026-06-26T21:47:34Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Sekretarz ds. Zdrowia i Opieki Społecznej (HHS) Robert F. Kennedy Jr. kontynuuje swoją walkę o zmianę federalnej polityki dotyczącej szczepionek, tym razem zmieniając statut komisji federalnej, która ma ogromny wpływ na szczepienia dzieci, aby przenieść swoją uwagę poza szczepionki."
+      "summary": "Nowa karta ACIP może pozwolić RFK Jr. na dalsze ograniczenie dostępu do szczepionek, twierdzą krytycy CIDRAP."
     },
     {
       "title": "Ponieważ na liście 300 zgonów z powodu wirusa Ebola znajduje się 300 osób, afrykańscy urzędnicy spotykają się, aby zwiększyć gotowość regionalną – CIDRAP",
@@ -1373,7 +1365,7 @@
       "date": "2026-06-25T20:54:22Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Dzisiaj podczas konferencji prasowej dyrektor generalny Afrykańskich Centrów Kontroli i Zapobiegania Chorobom Jean Kaseya, lekarz medycyny, MPH, powiedział, że epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) będzie wymagać środków w wysokości 1,4 miliarda dolarów, aby powstrzymać epidemię, czyli prawie trzykrotnie więcej niż 518 milionów dolarów Africa CDC szacowane na początku miesiąca."
+      "summary": "Afrykańskie CDC potraja kwotę potrzebną do walki z wirusem Ebola CIDRAP."
     },
     {
       "title": "Szybkie ujęcia: więcej przypadków grypy Sił Powietrznych, rośnie epidemia listerii sera miękkiego, konkurs wideo dotyczący zapobiegania grypie/COVID – CIDRAP",
@@ -1381,7 +1373,7 @@
       "date": "2026-06-25T20:02:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Liczba przypadków grypy w bazie Joint Base San Antonio Lackland wzrosła do 275."
+      "summary": "Szybkie ujęcia: więcej przypadków grypy Sił Powietrznych, wzrost epidemii listerii sera miękkiego, konkurs wideo dotyczący zapobiegania grypie/COVID CIDRAP."
     },
     {
       "title": "Powitanie! Wszystko jest w porządku… poza tym, że nadal nie ma kworum ACIP: Stan amerykańskiej polityki dotyczącej szczepionek – CIDRAP",
@@ -1389,7 +1381,7 @@
       "date": "2026-06-25T18:21:37Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Witamy w naszej dwutygodniowej serii we współpracy z CIDRAP na Uniwersytecie Minnesota."
+      "summary": "Powitanie! Wszystko jest w porządku… tyle że nadal nie ma kworum ACIP: Stan amerykańskiej polityki dotyczącej szczepionek CIDRAP."
     },
     {
       "title": "Dwa nowe raporty podkreślają przeszkody w powstrzymywaniu epidemii odry w USA – CIDRAP",
