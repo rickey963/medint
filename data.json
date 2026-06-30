@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T08:04:20Z",
+  "last_updated": "2026-06-30T08:04:56Z",
   "poland": [
     {
       "title": "Nowe działania prokuratury po zeznaniach byłego ordynatora Szpitala Południowego - Alert Medyczny",
@@ -253,8 +253,8 @@
       "title": "Nadwaga i otyłość – małymi krokami do zdrowia - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/e-booki/nadwaga-i-otylosc-malymi-krokami-do-zdrowia?highlight=WyJjb24iLCJpIiwiaWJzIiwiaWNoIiwiaWxvXHUwMTViY2kiLCJpbG9cdTAxNWJjaWFjaCIsImlsb1x1MDE1Ylx1MDEwNyIsImluIiwiaW5keXdpZHVhbG5hIiwiaW5keXdpZHVhbG5laiJd",
       "date": "2026-06-29T19:34:49Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 3,
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 2,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -934,6 +934,14 @@
       "summary": "Czy irlandzka prezydencja w Radzie UE może być katalizatorem zmian?"
     },
     {
+      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
+      "date": "2026-06-26T11:21:05Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
+    },
+    {
       "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-advanced-and-metastatic-prostate-cancer/supportive-care-follow-up-long-term-implications-and-survivorship/mcrpc-supportive-care-follow-up-long-term-implications-and-survivorship",
       "date": "2026-06-26T08:30:18Z",
@@ -962,7 +970,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
       "date": "2026-06-25T17:03:11Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
     },
     {
@@ -1006,14 +1014,6 @@
       "summary": "Jak wynika z nowego oświadczenia naukowego American Heart Association, wczesna diagnoza, szybkie leczenie i opieka kontrolna po porodzie mają kluczowe znaczenie dla zapobiegania zagrażającym życiu powikłaniom u kobiet w ciąży i po porodzie z niewydolnością serca."
     },
     {
-      "title": "Komunikat – Plan Taryfikacji na rok 2027 - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/komunikat-plan-taryfikacji-na-rok-2027/",
-      "date": "2026-06-24T09:09:34Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
-    },
-    {
       "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
       "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
       "date": "2026-06-23T15:12:34Z",
@@ -1022,36 +1022,12 @@
       "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
     },
     {
-      "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
-      "date": "2026-06-23T11:13:29Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
-    },
-    {
-      "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-tezspire-tezepelumab-3/",
-      "date": "2026-06-23T09:04:24Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
-    },
-    {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
       "url": "https://www.heart.org/en/news/2026/06/22/ckm-guideline-shows-how-care-coordination-helps-patients-and-doctors",
       "date": "2026-06-22T19:53:11Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
-    },
-    {
-      "title": "Stanowisko Rady ds. Taryfikacji – układ oddechowy - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/stanowisko-rady-ds-taryfikacji-uklad-oddechowy/",
-      "date": "2026-06-22T17:58:01Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Stanowisko Rady ds. Taryfikacji – układ oddechowy Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Profilaktyka jako fundament zdrowego społeczeństwa – przedstawiciele NRL na Kongresie Zdrowie 360 - NIL",
@@ -1068,6 +1044,30 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Jak wynika z długoterminowego badania opublikowanego w czasopiśmie Circulation, zastąpienie napojów gazowanych, napojów dla sportowców i soków owocowych całymi owocami może wiązać się z niższym ryzykiem rozwoju nadciśnienia tętniczego w wieku dorosłym."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Ogsiveo (nirogacestat) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-ogsiveo-nirogacestat/",
+      "date": "2026-06-12T10:02:33Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja Prezesa – Ogsiveo (nirogacestat) Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Cabometyx (kabozantynib) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-cabometyx-kabozantynib-2/",
+      "date": "2026-06-05T07:21:01Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja Prezesa – Cabometyx (kabozantynib) Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Świadczenia gwarantowane obejmujące leczenie chorób układu oddechowego - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/swiadczenia-gwarantowane-obejmujace-leczenie-chorob-ukladu-oddechowego/",
+      "date": "2026-06-03T08:44:12Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Świadczenia gwarantowane obejmujące leczenie chorób układu oddechowego Agencja Oceny Technologii Medycznych i Taryfikacji."
     }
   ],
   "epidemiology": [
@@ -1657,7 +1657,7 @@
       "date": "2026-06-29T22:11:20Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Uwagi 6-2-26."
+      "summary": "Zapisz datę: 12 lipca dla osoby, która przeżyła anemię sierpowatą i inne problemy rasowe w opiece zdrowotnej journal-isms.com."
     },
     {
       "title": "Nowoczesny przeszczep komórek macierzystych przewyższa terapię genową w badaniu opłacalności sierpowatokrwinkowych - insights.citeline.com",
