@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T11:22:33Z",
+  "last_updated": "2026-06-30T11:23:13Z",
   "poland": [
     {
       "title": "Zero.pl: kolejne nieprawidłowości w prosektorium Szpitala Południowego - Alert Medyczny",
@@ -826,7 +826,7 @@
       "url": "https://www.cdc.gov/overdose-prevention/php/drug-free-communities/ohio.html",
       "date": "2026-06-29T23:50:05Z",
       "source": "Wytyczne kliniczne",
-      "confirmed_by": 19,
+      "confirmed_by": 21,
       "summary": "Koalicja DFC w Ohio stosuje podejście oparte na wierze i kierowane przez młodzież, aby zapobiegać używaniu substancji psychoaktywnych."
     },
     {
@@ -966,14 +966,6 @@
       "summary": "Prowadzący Aaron Lohr rozmawia z autorami nowych Wytycznych praktyki klinicznej Towarzystwa Endokrynologicznego w zakresie przedwczesnego dojrzewania centralnego: dr Ana Latronico, profesor endokrynologii i metabolizmu na Uniwersytecie w Sao Paolo oraz Stephanie Roberts, MD, endokrynolog dziecięcy i adiunkt pediatrii w Bostońskim Szpitalu Dziecięcym."
     },
     {
-      "title": "Wizyty na oddziałach ratunkowych w związku z podejrzeniem próby samobójczej — Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
-      "date": "2026-06-25T17:03:11Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
-    },
-    {
       "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm",
       "date": "2026-06-25T17:03:11Z",
@@ -1068,6 +1060,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Historia sukcesu: Wpływ, koszty i skuteczność zaleceń dotyczących badań przesiewowych w kierunku wirusowego zapalenia wątroby typu C — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/neema/php/successstories/cost-effectiveness-analysis-screening-hepatitis-c.html",
+      "date": "2026-06-13T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Wytyczne CDC dotyczące zwiększenia liczby przeprowadzanych testów oraz zmniejszenia zachorowalności i śmiertelności związanej z wirusowym zapaleniem wątroby."
     }
   ],
   "epidemiology": [
@@ -1326,14 +1326,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Badania kliniczne dwóch potencjalnych leków przeciwko szczepowi Ebola Bundibugyo zostaną rozpoczęte w Demokratycznej Republice Konga (DRK) w przyszłym tygodniu, powiedział dziś podczas konferencji prasowej dyrektor generalny Światowej Organizacji Zdrowia (WHO) dr Tedros Adhanom Ghebreyesus."
-    },
-    {
-      "title": "Francja zgłasza pierwszy przypadek wirusa Ebola u lekarza powracającego z misji w DRK – Epidemionnewstoday.com",
-      "url": "https://outbreaknewstoday.com/france-reports-first-ebola-case-in-doctor-returning-from-drc-mission-660/",
-      "date": "2026-06-24T18:18:27Z",
-      "source": "Outbreak News Today",
-      "confirmed_by": 1,
-      "summary": "Francuskie władze ds. zdrowia potwierdziły 24 czerwca pierwszy przypadek choroby wywołanej wirusem Ebola w kraju."
     }
   ],
   "clinical_trials": [
