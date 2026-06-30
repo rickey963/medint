@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T01:59:41Z",
+  "last_updated": "2026-06-30T02:00:22Z",
   "poland": [
     {
       "title": "Sztuczna inteligencja wspiera decyzje lekarzy. Przełomowe wyniki badania w POZ - Alert Medyczny",
@@ -810,7 +810,7 @@
       "url": "https://www.cdc.gov/overdose-prevention/php/drug-free-communities/ohio.html",
       "date": "2026-06-29T23:50:05Z",
       "source": "Wytyczne kliniczne",
-      "confirmed_by": 20,
+      "confirmed_by": 17,
       "summary": "Koalicja DFC w Ohio stosuje podejście oparte na wierze i kierowane przez młodzież, aby zapobiegać używaniu substancji psychoaktywnych."
     },
     {
@@ -966,12 +966,20 @@
       "summary": "Prowadzący Aaron Lohr rozmawia z autorami nowych Wytycznych praktyki klinicznej Towarzystwa Endokrynologicznego w zakresie przedwczesnego dojrzewania centralnego: dr Ana Latronico, profesor endokrynologii i metabolizmu na Uniwersytecie w Sao Paolo oraz Stephanie Roberts, MD, endokrynolog dziecięcy i adiunkt pediatrii w Bostońskim Szpitalu Dziecięcym."
     },
     {
-      "title": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/high-hpv-vaccination-coverage-in-england-associated-with-a-substantial-reduction-in-cervical-cancer-mortality",
-      "date": "2026-06-25T12:34:30Z",
-      "source": "ESMO (onkologia)",
+      "title": "Wizyty na oddziałach ratunkowych w związku z podejrzeniem próby samobójczej — Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a1.htm",
+      "date": "2026-06-25T17:03:11Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 2,
+      "summary": "W niniejszym raporcie opisano liczbę wizyt na oddziałach ratunkowych z powodu podejrzeń prób samobójczych w latach 2021–2025."
+    },
+    {
+      "title": "Notatki terenowe: Zgony spowodowane przedawkowaniem narkotyków w hotelach i motelach — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm",
+      "date": "2026-06-25T17:03:11Z",
+      "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "W niniejszym raporcie opisano liczbę zgonów spowodowanych przedawkowaniem narkotyków, które miały miejsce w hotelach i motelach w USA w latach 2022–2024."
     },
     {
       "title": "ESMO odpowiada na konsultacje Komisji Europejskiej w sprawie przepisów dotyczących sztucznej inteligencji wysokiego ryzyka w celu zapewnienia innowacji i bezpieczeństwa w opiece onkologicznej - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -996,6 +1004,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Oficjalne strony internetowe używają domeny .gov Witryna .gov należy do oficjalnej organizacji rządowej w Stanach Zjednoczonych."
+    },
+    {
+      "title": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/fda-approves-datopotamab-deruxtecan-dlnk-for-unresectable-or-metastatic-tnbc",
+      "date": "2026-06-24T11:15:34Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "FDA zatwierdza datopotamab Deruxtecan-dlnk w leczeniu nieresekcyjnym lub z przerzutami TNBC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Notatki | Dokumenty projektowe | Pembrolizumab z etopozydem i związkiem na bazie platyny stosowany w nieleczonym drobnokomórkowym raku płuc w zaawansowanym stadium [ID1509] | Poradnik - strona internetowa NICE",
@@ -1030,14 +1046,6 @@
       "summary": "Po rozważeniu informacji zwrotnych z konsultacji komisja oceniająca przygotowała ostateczny projekt wytycznych (FDG) dotyczących mirvetuksymabu sorawtanzyny w leczeniu raka nabłonkowego jajnika, jajowodu lub pierwotnego raka otrzewnej z dodatnim receptorem folianowym alfa i przedłożyła go do NICE."
     },
     {
-      "title": "WYDZIAŁ ZDROWIA Hrabstwa PUTNAM – Krajowa Sieć Informacji o Zapobieganiu (.gov)",
-      "url": "https://npin.cdc.gov/organization/putnam-county-department-health-0",
-      "date": "2026-06-23T18:35:11Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Oficjalne strony internetowe używają domeny .gov Witryna .gov należy do oficjalnej organizacji rządowej w Stanach Zjednoczonych."
-    },
-    {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
       "date": "2026-06-23T11:13:29Z",
@@ -1052,14 +1060,6 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
-    },
-    {
-      "title": "Pulpit nawigacyjny DOSE-DIS: Oddział ratunkowy w przypadku przedawkowania niezakończonego zgonem i dane dotyczące wypisu ze szpitala – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/overdose-prevention/data-research/facts-stats/dose-dashboard-nonfatal-discharge-data.html",
-      "date": "2026-06-23T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "DOSE-DIS rejestruje dane oddziałów ratunkowych i pacjentów wypisanych ze szpitala na temat przedawkowań niezakończonych zgonem."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1084,6 +1084,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
+      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
+      "date": "2026-06-22T10:42:34Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
     },
     {
       "title": "Czy picie soków, napojów gazowanych w dzieciństwie zwiększa ryzyko nadciśnienia? - www.serce.org",
