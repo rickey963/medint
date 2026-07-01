@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-01T00:43:04Z",
+  "last_updated": "2026-07-01T00:43:51Z",
   "poland": [
+    {
+      "title": "Apra - tabletki - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/pacjent/leki/lek/108114,Apra-tabletki",
+      "date": "2026-07-01T00:14:31Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Apra - działanie, wskazania, dawkowanie, przeciwwskazania, interakcje, refundacja, cena. Lek neuroleptyczny (przeciwpsychotyczny), stosowany w leczeniu schizofrenii i epizodów maniakalnych."
+    },
     {
       "title": "II Warszawskie Dni Neurologiczne - PATRONAT HONOROWY | Konferencja stacjonarna - Termedia",
       "url": "https://www.termedia.pl/Konferencja-II-Warszawskie-Dni-Neurologiczne-PATRONAT-HONOROWY,2834,40749.html",
@@ -392,14 +400,6 @@
       "source": "Remedium.md",
       "confirmed_by": 2,
       "summary": "OZZL apeluje o niepogrążanie lekarzy za błędy polityków. Kryzys w ochronie zdrowia to wynik systemowych zaniedbań rządów, a nie wina personelu medycznego."
-    },
-    {
-      "title": "Pilotaż dostępu do antykoncepcji awaryjnej w aptekach przedłużony do 30 czerwca 2028 r. - Gov.pl",
-      "url": "https://www.gov.pl/web/zdrowie/pilotaz-dostepu-do-antykoncepcji-awaryjnej-w-aptekach-przedluzony-do-30-czerwca-2028-r",
-      "date": "2026-06-30T13:03:04Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Po 30 czerwca pacjentki nadal będą mogły korzystać z konsultacji farmaceutycznych oraz uzyskać receptę na antykoncepcję awaryjną w aptekach uczestniczących w programie pilotażowym. Zgodnie z rozporządzeniem Ministra Zdrowia z 22 czerwca 2026 r. pilotaż usług farmaceutycznych w zakresie zdrowia reprodukcyjnego został przedłużony do 30 czerwca 2028 r."
     }
   ],
   "world": [
@@ -1376,20 +1376,20 @@
       "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
     },
     {
-      "title": "Epidemia Listerii powiązana z serem miękkim – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/listeria/outbreaks/soft-cheese-06-26/index.html",
-      "date": "2026-06-29T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Szczegółowe informacje na temat produktów, na które wpływa epidemia, oraz wytyczne dotyczące zapobiegania chorobom."
-    },
-    {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-06-29T07:00:00Z",
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
+    },
+    {
+      "title": "Epidemia Listerii powiązana z serem miękkim – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/listeria/outbreaks/soft-cheese-06-26/index.html",
+      "date": "2026-06-29T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Szczegółowe informacje na temat produktów, na które wpływa epidemia, oraz wytyczne dotyczące zapobiegania chorobom."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -1462,14 +1462,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Witamy w naszej dwutygodniowej serii we współpracy z CIDRAP na Uniwersytecie Minnesota."
-    },
-    {
-      "title": "Francja zgłasza pierwszy przypadek wirusa Ebola u lekarza powracającego z misji w DRK – Epidemionnewstoday.com",
-      "url": "https://outbreaknewstoday.com/france-reports-first-ebola-case-in-doctor-returning-from-drc-mission-660/",
-      "date": "2026-06-24T18:18:27Z",
-      "source": "Outbreak News Today",
-      "confirmed_by": 1,
-      "summary": "Francuskie władze ds. zdrowia potwierdziły 24 czerwca pierwszy przypadek choroby wywołanej wirusem Ebola w kraju."
     }
   ],
   "clinical_trials": [
