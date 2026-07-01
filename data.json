@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-01T03:03:00Z",
+  "last_updated": "2026-07-01T03:03:49Z",
   "poland": [
+    {
+      "title": "Specjalista/specjalistka | Ministerstwo Zdrowia w Warszawie | Warszawa - Gov.pl",
+      "url": "https://nabory.kprm.gov.pl/mazowieckie/warszawa/specjalistaspecjalistka,165509,v8",
+      "date": "2026-07-01T01:43:37Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "- praca wiąże się z permanetną obsługą klientów zewnętrznych;."
+    },
     {
       "title": "Specjalista/specjalistka | Ministerstwo Zdrowia w Warszawie | Warszawa - Gov.pl",
       "url": "https://nabory.kprm.gov.pl/mazowieckie/warszawa/specjalistaspecjalistka,165465,v8",
@@ -370,14 +378,6 @@
       "summary": "Wojskowa Akademia Medyczna ma nowego rektora. Od 1 lipca uczelnia w Łodzi rozpoczyna kształcenie wojskowych medyków."
     },
     {
-      "title": "„Przychodzi czas zmian”. Krzysztof Gawkowski wskazuje prezesa NFZ. Trwa spotkanie Tuska, Sobierańskiej-Grendy, Filipa Nowaka i Domańskiego - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/gawkowski-chce-dymisji-n2396442",
-      "date": "2026-06-30T14:00:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "„Przychodzi czas zmian”. Krzysztof Gawkowski wskazuje prezesa NFZ. Trwa spotkanie Tuska, Sobierańskiej-Grendy, Filipa Nowaka i Domańskiego PolitykaZdrowotna.com."
-    },
-    {
       "title": "Zapowiadano spotkanie z prezesem NFZ. Adam Szłapka ujawnił, kto jeszcze bierze w nim udział - Puls Medycyny",
       "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/finanse/zapowiadano-spotkanie-z-prezesem-nfz-adam-szlapka-ujawnil-kto-jeszcze-bierze-w-nim-udzial",
       "date": "2026-06-30T14:00:00Z",
@@ -386,20 +386,20 @@
       "summary": "Spotkanie nie zostało zwołane ad hoc, było zaplanowane wcześniej i dotyczy finansowania NFZ – powiedział rzecznik rządu Adam Szłapka. Ujawnił również, że oprócz premiera, minister zdrowia i kierownictwa NFZ w rozmowach uczestniczy także minister finansów Andrzej Domański, którego obecność wcześniej nie była komunikowana."
     },
     {
+      "title": "„Przychodzi czas zmian”. Krzysztof Gawkowski wskazuje prezesa NFZ. Trwa spotkanie Tuska, Sobierańskiej-Grendy, Filipa Nowaka i Domańskiego - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/gawkowski-chce-dymisji-n2396442",
+      "date": "2026-06-30T14:00:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "„Przychodzi czas zmian”. Krzysztof Gawkowski wskazuje prezesa NFZ. Trwa spotkanie Tuska, Sobierańskiej-Grendy, Filipa Nowaka i Domańskiego PolitykaZdrowotna.com."
+    },
+    {
       "title": "Lipcowe obwieszczenie refundacyjne - eZdrowie.",
       "url": "https://www.ezdrowie.gov.pl/portal/artykul/lipcowe-obwieszczenie-refundacyjne-2026",
       "date": "2026-06-30T13:46:12Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Pliki do pobrania wraz z przydatnymi informacjami znajdują się pod adresem: https://ezdrowie.gov.pl/portal/home/dla-podmiotow-leczniczych/narzedzie-pomagajace-okreslic-poziom-refundacji , a także poniżej, w plikach do pobrania."
-    },
-    {
-      "title": "Lekarz zdradza prosty trik na upały. Wystarczy dodać szczyptę do wody - Medonet",
-      "url": "https://www.medonet.pl/narodowy-test-zdrowia-polakow/zyj-zdrowiej/pij-taka-wode-zeby-przetrwac-upal-organizm-bedzie-ci-wdzieczny/skbg4kf",
-      "date": "2026-06-30T13:33:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Gdy z nieba leje siÄ Å¼ar, lekarz zaleca, by zamiast czystej wody piÄ wodÄâ¦ ze szczyptÄ soli. Kardiolog dr Tadeusz ZÄbik wyjaÅnia, jak to dziaÅa na organizm, zwÅaszcza gdy mÄczÄ nas upaÅy. â To najprostsza metoda."
     }
   ],
   "world": [
@@ -409,7 +409,7 @@
       "date": "2026-07-01T02:05:03Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Jak wynika z wielkoskalowego retrospektywnego badania kohortowego, rutynowe szczepienia wiążą się ze znacznie zmniejszonym ryzykiem rozwoju idiopatycznego zapalenia błony naczyniowej oka o nowym początku."
+      "summary": "Jak wynika z wielkoskalowego retrospektywnego badania kohortowego, rutynowe szczepienia wiążą się ze znacznie zmniejszonym ryzykiem wystąpienia nowego idiopatycznego zapalenia błony naczyniowej oka."
     },
     {
       "title": "All of Us testuje nowe podejście do gromadzenia danych ze świata rzeczywistego do celów badawczych – statnews.com",
@@ -1317,7 +1317,7 @@
       "date": "2026-06-29T20:17:23Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Wybuch listeriozy w Kanadzie w 2024 r., w wyniku którego zachorowało co najmniej 20 osób, a trzy zginęły, został powiązany ze skażonymi roślinnymi produktami mlecznymi, co zdaniem władz odpowiedzialnych za zdrowie publiczne jest pierwszym ogniskiem listeriozy związanym z alternatywnymi napojami mlecznymi."
+      "summary": "Wybuch listeriozy w Kanadzie w 2024 r., w wyniku którego zachorowało co najmniej 20 osób i zginęły trzy osoby, został powiązany ze skażonymi roślinnymi produktami mlecznymi, co zdaniem władz odpowiedzialnych za zdrowie publiczne jest pierwszym ogniskiem listeriozy związanym z alternatywnymi napojami mlecznymi."
     },
     {
       "title": "Badania sugerują, że Tylenol podczas ciąży nie zwiększa ryzyka autyzmu ani ADHD u dziecka – CIDRAP",
