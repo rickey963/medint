@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T08:36:41Z",
+  "last_updated": "2026-07-01T08:37:36Z",
   "poland": [
     {
       "title": "Łukasz Jankowski i NIL kontra rząd: \"Jeszcze żaden rząd nie wygrał z lekarzami\" - PolitykaZdrowotna.com",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Alkoholowe szaleństwa: branża alkoholowa, nękana wiatrami, dzierży swoją władzę za kulisami – statnews.com",
+      "url": "https://www.statnews.com/2026/07/01/alcohol-lobby-immense-power-explored-deadliest-drug-part-7/",
+      "date": "2026-07-01T08:35:20Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Popyt na alkohol spada. Branża walczy z ograniczeniami mocniej i bardziej kreatywnie niż kiedykolwiek – i wygrywa."
+    },
+    {
       "title": "WHO zaleca doksycyklinę PEP w celu zapobiegania bakteryjnym chorobom przenoszonym drogą płciową - Medscape",
       "url": "https://www.medscape.com/viewarticle/who-recommends-doxycycline-postexposure-prophylaxis-prevent-2026a1000mar?src=",
       "date": "2026-07-01T07:40:22Z",
@@ -465,7 +473,7 @@
       "date": "2026-07-01T05:10:44Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Cel Liczba zgonów spowodowanych przedawkowaniem opioidów w Kanadzie wzrosła trzykrotnie w latach 2019–2023. Naszym celem było określenie odsetka osób zmarłych po przedawkowaniu opioidów, które otrzymały opiekę paliatywną oraz określenie, czym różnią się one od osób, które nie otrzymały opieki paliatywnej. Metody Przeprowadziliśmy opisowe badanie na poziomie populacji osób, które przedawkowały opioidy w Ontario w Kanadzie między 1 lipca 2015 r. a 31 grudnia 2022 r."
+      "summary": "Osoby z przedawkowaniem opioidów i opieka paliatywna: badanie opisowe na poziomie populacji BMJ Supportive & Palliative Care."
     },
     {
       "title": "Skład ciała i funkcja fizyczna w pooperacyjnym raku trzustki: pankreatoduodenektomia a pankreatektomia dystalna - BMJ Opieka wspierająca i paliatywna",
@@ -794,14 +802,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Zwiększanie kapitału w służbie zdrowia w czasach oszczędności: równość, wartość i dalsze prace Innowacje NEJM Catalyst w świadczeniu opieki."
-    },
-    {
-      "title": "Krótkowzroczne nowe limity pożyczek studenckich wynoszą opiekę chiropraktyczną nad najważniejsze zawody w służbie zdrowia – statnews.com",
-      "url": "https://www.statnews.com/2026/06/30/graduate-student-loan-caps-health-care-nursing-chiropractors/",
-      "date": "2026-06-30T17:00:09Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "„Ta logika administracyjna jest beznadziejnie oderwana od empirycznej rzeczywistości amerykańskiej opieki zdrowotnej” – pisze David S. Shapiro."
     }
   ],
   "guidelines": [
@@ -1070,14 +1070,6 @@
       "summary": "Jak wynika z nowego oświadczenia naukowego American Heart Association, wczesna diagnoza, szybkie leczenie i opieka kontrolna po porodzie mają kluczowe znaczenie dla zapobiegania zagrażającym życiu powikłaniom u kobiet w ciąży i po porodzie z niewydolnością serca."
     },
     {
-      "title": "Komunikat – Plan Taryfikacji na rok 2027 - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/komunikat-plan-taryfikacji-na-rok-2027/",
-      "date": "2026-06-24T09:09:34Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
-    },
-    {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
       "date": "2026-06-23T11:13:29Z",
@@ -1100,6 +1092,14 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
+    },
+    {
+      "title": "Stanowisko Rady ds. Taryfikacji – psychiatria - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/stanowisko-rady-ds-taryfikacji-psychiatria/",
+      "date": "2026-06-22T17:44:47Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 5/2026 w sprawie taryf świadczeń gwarantowanych gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
