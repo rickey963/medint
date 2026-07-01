@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T07:23:48Z",
+  "last_updated": "2026-07-01T07:24:44Z",
   "poland": [
     {
       "title": "Opieka senioralna w Polsce się sypie. 2150 zł bonu nie rozwiąże problemu - Medonet",
@@ -15,7 +15,7 @@
       "date": "2026-07-01T06:57:39Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "NFZ planuje nowe zasady finansowania nadwykonań od 1 lipca 2026 r. Alert Medyczny."
+      "summary": "NFZ planuje zmienić zasady rozliczania nadwykonań. Zamiast kwartalnych wniosków ma obowiązywać roczny tryb dla wybranych świadczeń."
     },
     {
       "title": "Kilkugodzinne rozmowy u premiera o ochronie zdrowia. Po spotkaniu bez decyzji personalnych - Alert Medyczny",
@@ -23,7 +23,7 @@
       "date": "2026-07-01T06:41:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Kilkugodzinne rozmowy u premiera o ochronie zdrowia. Po spotkaniu bez decyzji personalnych Alert Medyczny."
+      "summary": "Premier Donald Tusk spotkał się z m.in. kierownictwem NFZ. Po wielogodzinnych rozmowach nie ogłoszono zmian personalnych ani nowych decyzji."
     },
     {
       "title": "Zakazany w UE pestycyd pod lupą. Odkryli związek z nieuleczalną chorobą - Medonet",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Podsumowanie badań nad przeszczepieniem serca – lekarz NEJM",
+      "url": "https://clinician.nejm.org/browse/topic/heart-transplantation",
+      "date": "2026-07-01T06:11:46Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Zapoznaj się z badaniami i wytycznymi opublikowanymi przez NEJM Clinician dotyczącymi przeszczepiania serca."
+    },
+    {
       "title": "Postępowanie w łagodnym rozroście prostaty: nowe wytyczne – lekarz NEJM",
       "url": "https://clinician.nejm.org/CLINgwNA60265?show-author=true&author-id=AU031",
       "date": "2026-07-01T06:11:23Z",
@@ -468,7 +476,7 @@
       "summary": "W 1948 roku WHO zdefiniowała zdrowie nie tylko jako brak choroby lub kalectwa, ale jako stan pełnego dobrostanu fizycznego, psychicznego i społecznego.1 Definicja ta podkreśla znaczenie uwzględnienia wielu wymiarów przy ocenie dobrostanu jednostki.2 W onkologii ocena jakości życia związanej ze zdrowiem (HRQoL) odgrywa zasadniczą rolę w opiece klinicznej. HRQoL to wielowymiarowy konstrukt obejmujący domeny fizyczne, emocjonalne, społeczne i funkcjonalne, na które w istotny sposób może wpływać zarówno choroba, jak i jej leczenie.2 3 W 1980 roku Europejska Organizacja Badań i Leczenia Raka utworzyła Grupę ds. Jakości Życia, a 6 lat później uruchomiła program badawczy oparty na modułowym i zintegrowanym podejściu, mający na celu ocenę jakości życia pacjentów uczestniczących w międzynarodowych badaniach klinicznych.4 W rezultacie opracowano system pomiarowy w oparciu o podstawowy kwestionariusz EORTC QLQ-C30 (Kwestionariusz Jakości Życia Europejskiej Organizacji Badań i Leczenia Raka Core 30), początkowo zawierający 36 pozycji, a następnie…."
     },
     {
-      "title": "Chitosan na krwawienia tętnicze w zaawansowanym raku głowy i szyi - BMJ Opieka Wspomagająca i Paliatywna",
+      "title": "Chitozan na krwawienia tętnicze w zaawansowanym raku głowy i szyi - BMJ Opieka Wspomagająca i Paliatywna",
       "url": "https://spcare.bmj.com/content/16/4/858",
       "date": "2026-07-01T04:58:00Z",
       "source": "The BMJ",
@@ -481,7 +489,7 @@
       "date": "2026-07-01T04:57:51Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Prehabilitacja u osób starszych chorych na raka: przegląd wyników zabiegów chirurgicznych BMJ Opieka wspomagająca i paliatywna."
+      "summary": "Kontekst Dorośli w wieku ≥ 65 lat stanowią rosnący odsetek pacjentów chirurgii onkologicznej i często doświadczają zespołu słabości, wielochorobowości i zmniejszonej rezerwy fizjologicznej, co zwiększa ryzyko powikłań pooperacyjnych i pogorszenia funkcji. Multimodalna prehabilitacja okazała się strategią poprawiającą odporność chirurgiczną; jednakże dowody dotyczące starszych pacjentów chorych na raka są fragmentaryczne. Celem tego badania było mapowanie istniejących dowodów na temat prehabilitacji starszych dorosłych pacjentów poddawanych operacjom przeciwnowotworowym, scharakteryzowanie elementów interwencji, podsumowanie wyników funkcjonalnych i chirurgicznych oraz zidentyfikowanie luk badawczych."
     },
     {
       "title": "Endokrynopatia u pacjentów z bólem nowotworowym przyjmujących opioidy: prospektywne badanie obserwacyjne - BMJ Opieka Wspomagająca i Paliatywna",
@@ -569,7 +577,7 @@
       "date": "2026-06-30T23:21:11Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Gigant sztucznej inteligencji, firma Anthropic, stała się już dominującym graczem w technologii i powszechnie znaną marką wśród codziennych użytkowników sztucznej inteligencji. Czy może również wytwarzać narkotyki?"
+      "summary": "Gigant sztucznej inteligencji, Anthropic, stał się już dominującym graczem w technologii i powszechnie znaną marką wśród codziennych użytkowników sztucznej inteligencji. Czy może również wytwarzać narkotyki?"
     },
     {
       "title": "Psychiatria dzieci i młodzieży - Medscape",
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Źródła potwierdzają STAT, że przypadki Marburga wykryto w zachodniej Ugandzie, co oznacza kolejną epidemię wirusowej gorączki krwotocznej w Afryce Środkowej."
-    },
-    {
-      "title": "Jak administracja Trumpa wykoleiła badania nad uzależnieniem od alkoholu i jego profilaktykę – statnews.com",
-      "url": "https://www.statnews.com/2026/06/30/maha-trump-ignores-alcohol-risk-deadliest-drug-part-6/",
-      "date": "2026-06-30T16:01:01Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Dochodzenie STAT wykazało, że administracja Trumpa bagatelizowała ryzyko związane z alkoholem i aktywnie udaremniała wysiłki mające na celu zrozumienie szkód związanych z piciem i zapobieganie im."
     }
   ],
   "guidelines": [
@@ -899,10 +899,10 @@
       "date": "2026-06-30T14:28:04Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Posiedzenie Rady Przejrzystości 27/2026 w dniu 06.07.2026 r. Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Wykorzystujemy pliki cookie w celu zapewnienia prawidłowego funkcjonowania naszej witryny oraz do analizy ruchu i optymalizacji działania strony. Dzięki nim możemy lepiej dostosować treści do potrzeb użytkowników i stale ulepszać nasze usługi. Pamiętaj, że informacje przechowywane w plikach cookie mogą pozwalać na identyfikację konkretnego urządzenia lub przeglądarki użytkownika, a więc potencjalnie stanowić dane osobowe."
     },
     {
-      "title": "Neoadjuwantowy serplulimab z S-1 plus oksaliplatyną, a następnie adiuwant serplulimab znacząco poprawia EFS w przypadku resekcyjnego raka żołądka z dodatnim statusem PD-L1 lub gruczolakoraka GEJ - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "Neoadiuwantowy serplulimab z S-1 Plus oksaliplatyną, a następnie adiuwant serplulimab znacząco poprawia EFS w przypadku resekcyjnego raka żołądka z dodatnim statusem PD-L1 lub gruczolakoraka GEJ - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/neoadjuvant-serplulimab-with-s-1-plus-oxaliplatin-followed-by-adjuvant-serplulimab-significantly-improves-efs-in-pd-l1-positive-resectable-gastric-or-gej-adenocarcinoma",
       "date": "2026-06-30T12:19:40Z",
       "source": "ESMO (onkologia)",
@@ -963,7 +963,7 @@
       "date": "2026-06-29T12:58:24Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) professional.heart.org."
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
     },
     {
       "title": "Ciąża pozamaciczna i poronienie: diagnoza i wstępna aktualizacja postępowania (2026) Zainteresowane strony – witryna internetowa NICE",
@@ -1027,7 +1027,7 @@
       "date": "2026-06-26T08:30:18Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "mCRPC: Opieka wspomagająca, obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1075,7 +1075,7 @@
       "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1083,7 +1083,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1091,7 +1091,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
@@ -1099,7 +1099,7 @@
       "date": "2026-06-22T19:53:11Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
+      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie bezpośredniej osoby do kierowania opieką może pomóc pacjentom."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1312,7 +1312,7 @@
       "summary": "Według doniesień mediów epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) rozprzestrzeniła się na czwartą prowincję."
     },
     {
-      "title": "Nowe dane dotyczące SDG pokazują zahamowanie postępu w zakresie zanieczyszczenia powietrza i zdrowia – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Nowe dane dotyczące SDG pokazują zablokowany postęp w zakresie zanieczyszczenia powietrza i zdrowia – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/29-06-2026-new-sdg-data-shows-stalled-progress-on-air-pollution-and-health",
       "date": "2026-06-29T20:38:52Z",
       "source": "WHO Disease Outbreak News",
@@ -1360,7 +1360,7 @@
       "summary": "Dołącz do oficjalnego seminarium internetowego WHO na temat zanieczyszczenia powietrza i celów zrównoważonego rozwoju. WHO opublikuje nowe dane dla celów zrównoważonego rozwoju 3.9.1, 7.1.2 i 11.6.2, zawierające studia przypadków krajowych dotyczące monitorowania trendów i dostosowania polityk do wytycznych WHO dotyczących jakości powietrza. Dowiedz się, jak wykorzystać te ustandaryzowane ramy, aby podejmować lepsze decyzje dotyczące zdrowia publicznego i czystsze powietrze na całym świecie."
     },
     {
-      "title": "Biuletyn tygodniowy dotyczący zapalenia opon mózgowo-rdzeniowych 2026_Tydzień 24 – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Biuletyn Tygodniowy dotyczący zapalenia opon mózgowo-rdzeniowych 2026_Tydzień 24 – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/meningitis-weekly-bulletin-2026_week-24",
       "date": "2026-06-29T13:39:08Z",
       "source": "WHO Disease Outbreak News",
@@ -1493,7 +1493,7 @@
       "date": "2026-06-26T14:05:55Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Autorzy raportu Public Health Alerts opisują, jak urzędnicy zajmujący się zdrowiem publicznym byli w stanie zapobiec dodatkowym przypadkom ospy kladu 1b po tym, jak osoba, która zaraziła się tą chorobą, naraziła inne osoby w dwóch zbiorowych placówkach mieszkalnych w New Hampshire, placówce opieki zdrowotnej i domu pacjenta."
+      "summary": "Autorzy raportu Public Health Alerts opisują, jak urzędnikom odpowiedzialnym za zdrowie publiczne udało się zapobiec dodatkowym przypadkom ospy kladu 1b po tym, jak osoba, która zaraziła się tą chorobą, naraziła inne osoby w dwóch zbiorowych placówkach mieszkalnych w New Hampshire, placówce opieki zdrowotnej i domu pacjenta."
     },
     {
       "title": "Afrykańskie CDC potraja kwotę potrzebną do walki z wirusem Ebola – CIDRAP",
@@ -1679,7 +1679,7 @@
       "date": "2026-06-29T21:10:53Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA po pandemii Covid-19 od dawna spada, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z The Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
+      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA od dłuższego czasu spada po pandemii Covid-19, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
     },
     {
       "title": "Zapalenie wątroby wywołane szczepionką przeciwko COVID-19: większość pacjentów wraca do zdrowia, ale u niektórych rozwija się trwała autoimmunologiczna choroba wątroby - trisitenews.com",
@@ -1714,7 +1714,7 @@
       "summary": "Szczegóły badania | NCT07672782 | Tisotumab Vedotin w leczeniu raka płaskonabłonkowego sromu ClinicalTrials.gov."
     },
     {
-      "title": "Badania kliniczne w czasie rzeczywistym: co oznacza dla sponsorów dążenie FDA do ciągłego nadzoru – stosowane badania kliniczne online",
+      "title": "Badania kliniczne w czasie rzeczywistym: co oznacza dla sponsorów dążenie FDA do ciągłego nadzoru - Stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/real-time-clinical-trials-fda-continuous-oversight-sponsors",
       "date": "2026-06-29T15:53:34Z",
       "source": "Applied Clinical Trials",
@@ -1727,7 +1727,7 @@
       "date": "2026-06-29T15:53:34Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Wbudowane, a nie przykręcane: dlaczego bezpieczeństwo danych klinicznych musi być zasadą projektowania. Stosowane badania kliniczne online."
+      "summary": "Wbudowane, a nie przykręcane: dlaczego bezpieczeństwo danych klinicznych musi być zasadą projektowania. Badania kliniczne stosowane online."
     },
     {
       "title": "Streszczenie ACT: Priorytety w zakresie przywództwa i infrastruktury DIA, gotowość do przeglądu danych w czasie rzeczywistym i rozwój leczenia CLL – stosowane badania kliniczne online",
@@ -1775,7 +1775,7 @@
       "date": "2026-06-28T16:53:15Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Jeśli agenci federalni świadomie wpuścili na amerykańskie ulice setki tysięcy tabletek fentanylu w celu budowy większych spraw, gdzie jest granica między strategią dochodzeniową a bezpieczeństwem publicznym? Amerykańska Agencja ds. Walki z Narkotykami od lat ostrzega Amerykanów, że jedna podrobiona pigułka z fentanylem może zabić."
+      "summary": "Jeśli agenci federalni świadomie wpuścili na amerykańskie ulice setki tysięcy tabletek fentanylu w celu wzniesienia większych spraw, gdzie jest granica między strategią dochodzeniową a bezpieczeństwem publicznym? Amerykańska Agencja ds. Walki z Narkotykami od lat ostrzega Amerykanów, że jedna podrobiona pigułka z fentanylem może zabić."
     }
   ],
   "pharma_market": [
@@ -1801,7 +1801,7 @@
       "date": "2026-07-01T04:03:30Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Kopenhaga, Dania, 30 czerwca 2026 r. – Firma Zealand Pharma A/S („Spółka” lub „Zealand Pharma”) (Nasdaq: ZEAL) (CVR-nr 20045078), firma biotechnologiczna zmieniająca przyszłość zdrowia metabolicznego, zgłasza dzisiaj otrzymanie w dniu 30 czerwca 2026 r. powiadomienia zgodnie z art. 38 duńskiej ustawy o rynkach kapitałowych od następującego głównego akcjonariusza:"
+      "summary": "Kopenhaga, Dania, 30 czerwca 2026 r. – Zealand Pharma A/S („Spółka” lub „Zealand Pharma”) (Nasdaq: ZEAL) (CVR-nr 20045078), firma biotechnologiczna zmieniająca przyszłość zdrowia metabolicznego, zgłasza dzisiaj otrzymanie w dniu 30 czerwca 2026 r. powiadomienia zgodnie z art. 38 duńskiej ustawy o rynkach kapitałowych od następującego głównego akcjonariusza:"
     },
     {
       "title": "AVEO Oncology ogłasza plan sukcesji - BioSpace",
@@ -1849,7 +1849,7 @@
       "date": "2026-06-30T21:01:40Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Planowane przejęcie Kartos Therapeutics zapewni Ipsen narzędzie do leczenia zwłóknienia szpiku w późnym stadium. W innym miejscu Sobi napotkał porażkę regulacyjną, a BeOne ujawniło więcej pozytywnych danych Brukinsy."
+      "summary": "Planowane przejęcie Kartos Therapeutics zapewni Ipsen lek na późne stadium zwłóknienia szpiku. W innym miejscu Sobi napotkał porażkę regulacyjną, a BeOne ujawniło więcej pozytywnych danych Brukinsy."
     },
     {
       "title": "FDA zatwierdza nową terapię wykorzystującą komórki odpornościowe dawcy w celu zapobiegania poważnym powikłaniom u pacjentów z rakiem krwi - fda.gov",
@@ -1900,12 +1900,12 @@
       "summary": "Inauguracyjna klasa uczestników programu pilotażowego mającego na celu usprawnienie procesu zatwierdzania przez FDA obejmowała terapię genową, API i inne zakłady produkcyjne."
     },
     {
-      "title": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich – chyba że zrezygnują – Drugs.com",
+      "title": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich, chyba że zrezygnują - Drugs.com",
       "url": "https://www.drugs.com/news/40-year-old-law-requires-ers-everyone-unless-they-opt-out-130502.html",
       "date": "2026-06-30T18:14:57Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich, chyba że zrezygnują z Drugs.com."
+      "summary": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich – chyba że zrezygnują z Drugs.com."
     },
     {
       "title": "Stanie, chodzenie i pochylanie się do przodu w miejscu pracy może być powiązane z poronieniem – Drugs.com",
@@ -1988,7 +1988,7 @@
       "summary": "We wtorek firma Anthropic ogłosiła Claude Science, nowy produkt, który liderzy firmy opisują jako stół warsztatowy AI do badań naukowych."
     },
     {
-      "title": "Ostatnie zwycięstwo firm AbbVie i Genmab przybliża firmę Epkinly do ekspansji wytwórni – Endpoints News",
+      "title": "Ostatnie zwycięstwo firm AbbVie i Genmab przybliża firmę Epkinly do ekspansji wytwórni – Wiadomości z punktów końcowych",
       "url": "https://endpoints.news/abbvie-and-genmabs-latest-win-brings-epkinly-closer-to-label-expansion/",
       "date": "2026-06-30T16:49:00Z",
       "source": "Endpoints News",
@@ -2033,10 +2033,10 @@
       "date": "2026-06-30T15:38:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Abivax twierdzi, że nowe dane fazy 3 wskazują, że częstość występowania nowotworów w przypadku leku na leczenie UC, obefazimodu, mieści się w oczekiwanym zakresie, chociaż Jefferies zaznacza utrzymujące się ryzyko FDA."
+      "summary": "Abivax twierdzi, że nowe dane fazy 3 wskazują, że częstość występowania nowotworów w przypadku leku na UC, obefazimodu, mieści się w oczekiwanym zakresie, chociaż Jefferies zaznacza utrzymujące się ryzyko FDA."
     },
     {
-      "title": "Zepzelca firmy PharmaMar i Imdylltra firmy Amgen kolejnym krokiem w raportach JCA UE dotyczących kamieni milowych - insights.citeline.com",
+      "title": "Zepzelca firmy PharmaMar i Imdylltra firmy Amgen następnymi kamieniami milowymi Raporty JCA UE - insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/pharmamars-zepzelca-and-amgens-imdylltra-up-next-for-milestone-eu-jca-reports-LYK67Y7EJJDINNCC2EXSQ4V7JE/",
       "date": "2026-06-30T15:29:06Z",
       "source": "Pink Sheet",
@@ -2049,7 +2049,7 @@
       "date": "2026-06-30T15:16:53Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "FDA publikuje plan rozszerzenia rozwoju leków dla zwierząt do drobnych zastosowań i rzadkich gatunków fda.gov."
+      "summary": "FDA publikuje plan rozszerzenia rozwoju leków dla zwierząt do drobnych zastosowań i gatunków drobnych fda.gov."
     },
     {
       "title": "Ostrożność dotycząca sztucznej inteligencji w zakresie zdrowia przechodzi w pewność — Wiadomości dotyczące punktów końcowych",
