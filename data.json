@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T15:01:58Z",
+  "last_updated": "2026-07-01T15:07:33Z",
   "poland": [
     {
       "title": "NFZ wydał ponad 30 mld zł na refundację. Budżet za 2025 r. wykonano w 96,86% - Alert Medyczny",
@@ -8,6 +8,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "NFZ opublikował końcowe wykonanie budżetu refundacyjnego za 2025 r. Wydano ponad 30 mld zł, a plan zrealizowano w 96,86%."
+    },
+    {
+      "title": "Uchwała Nr 23/2026/V - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/uchwaly-rady-nfz/uchwala-nr-232026v,6763.html",
+      "date": "2026-07-01T14:22:48Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "zmieniająca uchwałę w sprawie przyjęcia rzeczowego planu wydatków inwestycyjnych Narodowego Funduszu Zdrowia na 2026 r. Uchwała Nr 23/2026/V."
     },
     {
       "title": "Ile osób naprawdę mieszka w Polsce? GUS podaje dane na podstawie \"śladów życia\" - PolitykaZdrowotna.com",
@@ -392,17 +400,17 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Łukasz Jankowski i NIL kontra rząd: \"Jeszcze żaden rząd nie wygrał z lekarzami\" PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Nowelizacja ustawy o refundacji indywidualnej. MZ rozpoczyna prekonsultacje projektu - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/nowelizacja-ustawy-o-refundacji-indywidualnej-mz-rozpoczyna-prekonsultacje-projektu/",
-      "date": "2026-07-01T08:22:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "MZ rozpoczęło 14-dniowe prekonsultacje projektu nowelizacji ustawy o refundacji indywidualnej. Zmiany obejmą cztery ścieżki dostępu do terapii."
     }
   ],
   "world": [
+    {
+      "title": "Metaanaliza: Iwermektyna, nadtlenek benzoilu Najlepszy metronidazol na trądzik różowaty - Medscape",
+      "url": "https://www.medscape.com/viewarticle/meta-analysis-ivermectin-benzoyl-peroxide-top-metronidazole-2026a1000mam?src=",
+      "date": "2026-07-01T15:05:06Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "W badaniach z udziałem pacjentów z umiarkowanym do ciężkiego trądzikiem różowatym stosowane miejscowo iwermektyna i kapsułkowany nadtlenek benzoilu łagodzą zmiany zapalne i ich nasilenie w porównaniu z metronidazolem."
+    },
     {
       "title": "Globalna aktywność wirusów układu oddechowego: cotygodniowa aktualizacja nr 584 – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/global-respiratory-virus-activity--weekly-update-n--584",
@@ -436,7 +444,7 @@
       "summary": "Hiszpańskie badanie wykazało, że terapia pozycyjna poprawia pozycyjny bezdech senny, jest lepiej tolerowana niż CPAP i utrzymuje korzyści u wielu pacjentów po zakończeniu leczenia."
     },
     {
-      "title": "W Polsce liczba przepisywanych leków na ADHD rośnie nie tylko w dzieciństwie - Medscape",
+      "title": "W Polsce przepisywanie leków na ADHD rośnie nie tylko w dzieciństwie - Medscape",
       "url": "https://www.medscape.com/viewarticle/adhd-medicine-prescribing-rises-poland-sharpest-increase-2026a1000m7g",
       "date": "2026-07-01T12:02:58Z",
       "source": "Medscape",
@@ -505,7 +513,7 @@
       "date": "2026-07-01T10:03:49Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "Model predykcyjny, przetestowany w dużych kohortach, obejmujący 34 koliste RNA krwi, przewiduje progresję do objawowej choroby Alzheimera, przewyższając pTau217 i amyloid-PET."
+      "summary": "Model predykcyjny, przetestowany w dużych kohortach, obejmujący 34 okrągłe RNA krwi, przewiduje progresję do objawowej choroby Alzheimera, przewyższając pTau217 i amyloid-PET."
     },
     {
       "title": "Metaanaliza długoterminowego wpływu terapii hipotensyjnej na ryzyko poważnych chorób układu krążenia w 51 randomizowanych badaniach - Natura",
@@ -513,7 +521,7 @@
       "date": "2026-07-01T10:03:49Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "Wyniki metaanalizy danych poszczególnych uczestników z 51 randomizowanych badań podważają założenie, że korzyści sercowo-naczyniowe ze stosowania leku przeciwnadciśnieniowego przez dłuższy czas trwania leczenia."
+      "summary": "Wyniki metaanalizy danych poszczególnych uczestników z 51 randomizowanych badań podważają założenie, że leczenie przeciwnadciśnieniowe przynosi korzyści układowi sercowo-naczyniowemu przez dłuższy czas leczenia."
     },
     {
       "title": "Wrodzona odpowiedź immunologiczna przewiduje zwiększoną odporność komórkową i chorobę objawową po kontrolowanym zakażeniu ludzką grypą - Natura",
@@ -577,7 +585,7 @@
       "date": "2026-07-01T07:40:22Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Pierwsze wytyczne WHO dotyczące doxyPEP priorytetowo traktują grupy wysokiego ryzyka, kładąc jednocześnie nacisk na monitorowanie oporności na środki przeciwdrobnoustrojowe i odpowiedzialne wdrażanie."
+      "summary": "W pierwszych wytycznych WHO dotyczących doxyPEP priorytetowo traktowane są grupy wysokiego ryzyka, kładąc jednocześnie nacisk na monitorowanie oporności na środki przeciwdrobnoustrojowe i odpowiedzialne wdrażanie."
     },
     {
       "title": "Środki usuwające śluz nie wykazują żadnych korzyści w leczeniu niewydolności oddechowej - Medscape",
@@ -665,7 +673,7 @@
       "date": "2026-07-01T05:10:44Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Osoby z przedawkowaniem opioidów i opieka paliatywna: badanie opisowe na poziomie populacji BMJ Supportive & Palliative Care."
+      "summary": "Cel Liczba zgonów spowodowanych przedawkowaniem opioidów w Kanadzie wzrosła trzykrotnie w latach 2019–2023. Naszym celem było określenie odsetka osób zmarłych po przedawkowaniu opioidów, które otrzymały opiekę paliatywną oraz określenie, czym różnią się one od osób, które nie otrzymały opieki paliatywnej. Metody Przeprowadziliśmy opisowe badanie na poziomie populacji osób, które przedawkowały opioidy w Ontario w Kanadzie między 1 lipca 2015 r. a 31 grudnia 2022 r."
     },
     {
       "title": "Skład ciała i funkcja fizyczna w pooperacyjnym raku trzustki: pankreatoduodenektomia a pankreatektomia dystalna - BMJ Opieka wspierająca i paliatywna",
@@ -681,7 +689,7 @@
       "date": "2026-07-01T04:58:22Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Ponieważ wspomagane umieranie jest obecnie legalne w coraz większej liczbie jurysdykcji, Wielka Brytania i inne kraje w dalszym ciągu zastanawiają się, czy i w jaki sposób należy wprowadzić takie przepisy. W Anglii i Walii ustawa o osobach nieuleczalnie chorych (u kresu życia) (TIA Bill) trafiła obecnie do Izby Lordów po gruntownej kontroli parlamentarnej, podczas gdy w Szkocji równoległe wysiłki legislacyjne również nie poczyniły postępów.1 2 Z kolei na Jersey Zgromadzenie Stanów przyjęło w lutym ustawę o świadczeniu dziennym wspomaganym, sygnalizując ciągłe zmiany w pobliskich jurysdykcjach3. Debaty wokół tych ustaw ujawniły wyraźną rozbieżność w sposobie rozważania wprowadzenia wspomaganego umierania w odniesieniu do istniejących nierówności strukturalnych przez mniejszości etniczne. Na przykład ocena wpływu ustawy TIA na równość skupiała się na praktycznych barierach w dostępie do pomocy w umieraniu3, ale nie odniosła się w znaczący sposób do tego, jak istniejące nierówności, w tym wpływ dyskryminacji, mogą kształtować sposób, w jaki taka polityka jest rozumiana, ufana i stosowana w praktyce."
+      "summary": "Ponieważ wspomagane umieranie jest obecnie legalne w coraz większej liczbie jurysdykcji, Wielka Brytania i inne kraje w dalszym ciągu zastanawiają się, czy i w jaki sposób należy wprowadzić takie przepisy. W Anglii i Walii ustawa o osobach nieuleczalnie chorych (u kresu życia) (TIA Bill) trafiła obecnie do Izby Lordów po gruntownej kontroli parlamentarnej, podczas gdy w Szkocji równoległe wysiłki legislacyjne również nie poczyniły postępów.1 2 Z kolei na Jersey Zgromadzenie Stanów przyjęło w lutym ustawę o świadczeniu dziennym wspomaganym, sygnalizując ciągłe zmiany w pobliskich jurysdykcjach3. Debaty wokół tych ustaw ujawniły wyraźną rozbieżność w sposobie rozważania wprowadzenia wspomaganego umierania w odniesieniu do istniejących nierówności strukturalnych przez mniejszości etniczne. Na przykład ocena wpływu ustawy TIA na równość skupiała się na praktycznych barierach w dostępie do pomocy w umieraniu3, ale nie odniosła się w znaczący sposób do tego, w jaki sposób istniejące nierówności, w tym wpływ dyskryminacji, mogą kształtować sposób, w jaki taka polityka jest rozumiana, ufana i stosowana w praktyce."
     },
     {
       "title": "Osoby zmarłe po przedawkowaniu opioidów a opieka paliatywna: badanie opisowe na poziomie populacji - BMJ Opieka wspomagająca i paliatywna",
@@ -729,7 +737,7 @@
       "date": "2026-07-01T04:53:31Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Podczas spotkania interesariuszy w ramach Ram działań na rzecz bezpieczeństwa zdrowia Azji i Pacyfiku (APHSAF) w Kuala Lumpur w dniu 11 czerwca 2026 r. państwa członkowskie Światowej Organizacji Zdrowia (WHO) zgodziły się na dalsze opracowywanie wspólnego planu działania w zakresie zarządzania ryzykiem w sytuacjach kryzysowych (JERMAP): praktyczne podejście w ramach wdrażania APHSAF, które ma pomóc partnerom w bardziej przewidywalnym wspieraniu reakcji kierowanych na szczeblu krajowym poprzez planowanie oparte na scenariuszach."
+      "summary": "Podczas spotkania interesariuszy w ramach ram działań na rzecz bezpieczeństwa zdrowia Azji i Pacyfiku (APHSAF) w Kuala Lumpur w dniu 11 czerwca 2026 r. państwa członkowskie Światowej Organizacji Zdrowia (WHO) zgodziły się na dalsze opracowywanie wspólnego planu działania w zakresie zarządzania ryzykiem w sytuacjach kryzysowych (JERMAP): praktyczne podejście w ramach wdrażania APHSAF, które ma pomóc partnerom w bardziej przewidywalnym wspieraniu reakcji kierowanych na szczeblu krajowym poprzez planowanie oparte na scenariuszach."
     },
     {
       "title": "Bezpieczeństwo i skuteczność szczepionek mRNA: perspektywa mechanistyczna i zdrowie publiczne - The Lancet",
@@ -794,14 +802,6 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Specyficzna dla wirusa terapia komórkami T w przypadku neuroinwazyjnego wirusa Zachodniego Nilu The Lancet."
-    },
-    {
-      "title": "Ślad środowiskowy niskotłuszczowej diety wegańskiej i diety śródziemnomorskiej: wtórna analiza randomizowanego badania klinicznego - BMJ Nutrition, Prevention & Health",
-      "url": "https://nutrition.bmj.com/content/9/1/247",
-      "date": "2026-07-01T00:18:54Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Tło Żywność pochodzenia roślinnego w porównaniu z żywnością pochodzenia zwierzęcego ma mniejszy wpływ na środowisko. Cel W tej analizie wtórnej wykorzystano randomizowane, krzyżowe badanie do obliczenia i porównania wpływu na środowisko dwóch diet roślinnych: niskotłuszczowej wegańskiej i śródziemnomorskiej. Metody 62 osoby dorosłe z nadwagą zostały losowo przydzielone do niskotłuszczowej diety wegańskiej lub śródziemnomorskiej na 16 tygodni, oddzielonych 4-tygodniową przerwą. Przeanalizowano 3-dniowe zapisy dietetyczne oraz obliczono emisję gazów cieplarnianych (GHGE) i skumulowane zapotrzebowanie na energię (CED) dla osób, które ukończyły badanie. Przeanalizowano związek obliczonych GHGE i CED ze zmianami masy ciała. Wyniki Całkowite obliczone GHGE i CED zostały zmniejszone na niskotłuszczowej diecie wegańskiej o 57%, czyli o -1451,7 g CO2 eq/osobodzień (95% CI -1776,5 do -1126,9; p<0,0001) i 55%, czyli o -9306,7 odpowiednio kJ/osobodnia (95% CI od -11022 do -7591,5; p<0,0001)."
     }
   ],
   "guidelines": [
@@ -942,7 +942,7 @@
       "summary": "Wykorzystujemy pliki cookie w celu zapewnienia prawidłowego funkcjonowania naszej witryny oraz do analizy ruchu i optymalizacji działania strony. Dzięki nim możemy lepiej dostosować treści do potrzeb użytkowników i stale ulepszać nasze usługi. Pamiętaj, że informacje przechowywane w plikach cookie mogą pozwalać na identyfikację konkretnego urządzenia lub przeglądarki użytkownika, a więc potencjalnie stanowić dane osobowe."
     },
     {
-      "title": "Neoadiuwantowy serplulimab z S-1 Plus oksaliplatyną, a następnie adiuwant serplulimab znacząco poprawia EFS w przypadku resekcyjnego raka żołądka z dodatnim statusem PD-L1 lub gruczolakoraka GEJ - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "Neoadjuwantowy serplulimab z S-1 plus oksaliplatyną, a następnie adiuwant serplulimab znacząco poprawia EFS w przypadku resekcyjnego raka żołądka z dodatnim statusem PD-L1 lub gruczolakoraka GEJ - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/neoadjuvant-serplulimab-with-s-1-plus-oxaliplatin-followed-by-adjuvant-serplulimab-significantly-improves-efs-in-pd-l1-positive-resectable-gastric-or-gej-adenocarcinoma",
       "date": "2026-06-30T12:19:40Z",
       "source": "ESMO (onkologia)",
@@ -1003,7 +1003,7 @@
       "date": "2026-06-29T12:58:24Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych, aby opublikować pierwszą uniwersalną definicję niewydolności serca, ustanawiając jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
     },
     {
       "title": "Ciąża pozamaciczna i poronienie: diagnoza i wstępna aktualizacja postępowania (2026) Zainteresowane strony – witryna internetowa NICE",
@@ -1028,6 +1028,14 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Globalni eksperci aktualizują definicję niewydolności serca, aby ulepszyć profilaktykę, diagnostykę i opiekę."
+    },
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 29 czerwca 2026 r. zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania - Sejm",
+      "url": "https://isap.sejm.gov.pl/isap.Nsf/DocDetails.xsp?id=WDU20260000876",
+      "date": "2026-06-29T07:00:00Z",
+      "source": "ISAP",
+      "confirmed_by": 1,
+      "summary": "Rozporządzenie Ministra Zdrowia z dnia 29 czerwca 2026 r. zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania Sejm."
     },
     {
       "title": "Nowe wytyczne praktyki klinicznej dotyczące samobójstw i samookaleczeń u dzieci – The Medical Journal of Australia",
@@ -1075,7 +1083,7 @@
       "date": "2026-06-26T08:30:18Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "mCRPC: Opieka wspomagająca, obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
@@ -1148,14 +1156,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Pacjenci mieszkający na obszarach wiejskich z przewlekłym bólem muszą mierzyć się z długimi podróżami, kosztownymi podróżami i ograniczonym dostępem do aptek w celu skutecznego leczenia bólu."
-    },
-    {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 8 czerwca 2026 r. w sprawie pozwoleń i dokumentów niezbędnych do przywozu, wywozu, wewnątrzwspólnotowego nabycia lub wewnątrzwspólnotowej dostawy środków odurzających, substancji psychotropowych lub prekursorów kategorii 1",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/827",
-      "date": "2026-06-08T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 827, z dniem ogłoszenia 2026-06-23."
     }
   ],
   "epidemiology": [
@@ -1184,7 +1184,7 @@
       "summary": "Wirtualnie, 9–11 września 2025 r."
     },
     {
-      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley powiązane z aromatyzowanymi produktami z makaronu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley powiązane z produktami z makaronu smakowego – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products",
       "date": "2026-07-01T12:00:03Z",
       "source": "ECDC",
@@ -1200,7 +1200,7 @@
       "summary": "Od mediów społecznościowych i gier online po generatywne systemy sztucznej inteligencji – środowiska cyfrowe w ogromnym stopniu determinują zdrowie ludzi. Dotyczy to szczególnie dzieci i młodzieży. Na całym świecie dzieciństwo jest przeprogramowywane za pomocą technologii cyfrowych, które kształtują sposób, w jaki młodzi ludzie uczą się, bawią i nawiązują kontakty."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300 – Epidemia Ebola.com",
       "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
       "date": "2026-07-01T09:17:27Z",
       "source": "Outbreak News Today",
@@ -1328,12 +1328,12 @@
       "summary": "Pomimo dostępności skutecznych szczepionek, metod diagnostycznych i metod leczenia wirusowe zapalenie wątroby pozostaje główną przyczyną chorób wątroby i raka wątroby, powodując codziennie tysiące zgonów, którym można zapobiec. Ograniczenia finansowe, napiętnowanie i dyskryminacja, słaba integracja systemów opieki zdrowotnej i nierówny dostęp do innowacji w dalszym ciągu pozostawiają miliony ludzi bez opieki. Odzwierciedlając temat Światowego Dnia Wirusowego Zapalenia Wątroby, wydarzenie to zgromadzi ministrów, decydentów, ekspertów technicznych, społeczeństwo obywatelskie, dotknięte społeczności i partnerów zajmujących się rozwojem, aby określić działania mające na celu zwiększenie inwestycji, usprawnienie świadczenia usług, poszerzenie równego dostępu i przyspieszenie innowacji."
     },
     {
-      "title": "Światowy Dzień Wirusowego Zapalenia Wątroby 2026 – talk show w internecie – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Światowy Dzień Wirusowego Zapalenia Wątroby 2026 – talk show w Internecie – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/07/23/default-calendar/world-hepatitis-day-2026-online-talk-show",
       "date": "2026-06-30T16:19:24Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Internetowy talk show z okazji Światowego Dnia Zapalenia Wątroby 2026 przekaże mocne przesłanie pełne nadziei i pilności oraz tego, że eliminacja zapalenia wątroby jest możliwa nawet w dzisiejszym wymagającym środowisku globalnym – jeśli będzie wspierane przez przywództwo, inwestycje, solidarność i zdecydowane działania."
+      "summary": "Internetowy talk show z okazji Światowego Dnia Zapalenia Wątroby 2026 przekaże mocne przesłanie pełne nadziei i pilności oraz tego, że eliminacja zapalenia wątroby jest możliwa nawet w dzisiejszym wymagającym środowisku globalnym – jeśli będzie poparte przywództwem, inwestycjami, solidarnością i zdecydowanymi działaniami."
     },
     {
       "title": "WHO rozwija Sieć Monitorowania Nierówności Zdrowotnych, podwajając globalną liczbę członków – Światowa Organizacja Zdrowia (WHO)",
@@ -1437,7 +1437,7 @@
       "date": "2026-06-29T20:17:23Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Wybuch listeriozy w Kanadzie w 2024 r., w wyniku którego zachorowało co najmniej 20 osób i zginęły trzy osoby, został powiązany ze skażonymi roślinnymi produktami mlecznymi, co zdaniem władz odpowiedzialnych za zdrowie publiczne jest pierwszym ogniskiem listeriozy związanym z alternatywnymi napojami mlecznymi."
+      "summary": "Wybuch listeriozy w Kanadzie w 2024 r., w wyniku którego zachorowało co najmniej 20 osób, a trzy zginęły, został powiązany ze skażonymi roślinnymi produktami mlecznymi, co zdaniem władz odpowiedzialnych za zdrowie publiczne jest pierwszym ogniskiem listeriozy związanym z alternatywnymi napojami mlecznymi."
     },
     {
       "title": "Badania sugerują, że Tylenol podczas ciąży nie zwiększa ryzyka autyzmu ani ADHD u dziecka – CIDRAP",
@@ -1493,7 +1493,7 @@
       "date": "2026-06-29T13:09:31Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Jak wynika z randomizowanego badania klinicznego opublikowanego w tym tygodniu w JAMA Network Open, alert w elektronicznej dokumentacji medycznej (EMR) wysyłany do asystentów medycznych przygotowujących pacjentów do wizyt lekarskich w przychodniach podstawowej opieki zdrowotnej znacznie zwiększa prawdopodobieństwo, że młode kobiety zostaną poddane badaniom przesiewowym w kierunku chlamydii."
+      "summary": "Jak wynika z randomizowanego badania klinicznego opublikowanego w tym tygodniu w JAMA Network Open, alert w elektronicznej dokumentacji medycznej (EMR) wysyłany do asystentów medycznych przygotowujących pacjentów do wizyt lekarskich w przychodniach podstawowej opieki zdrowotnej znacznie zwiększał prawdopodobieństwo, że młode kobiety zostaną poddane badaniom przesiewowym w kierunku chlamydii."
     },
     {
       "title": "Misja rozpoznawcza w sprawie kontroli bezpieczeństwa przy wyjściu z lotniska – Misja Grupy Zadaniowej UE ds. Zdrowia do Demokratycznej Republiki Konga i Ugandy w odpowiedzi na epidemię choroby wirusowej Bundibugyo w 2026 r. – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1544,7 +1544,7 @@
       "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
     },
     {
-      "title": "Raporty online — czasopismo Emerging Infectious Diseases — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Raporty online — Czasopismo dotyczące pojawiających się chorób zakaźnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/articles/online-reports.htm",
       "date": "2026-06-29T07:00:00Z",
       "source": "CDC Outbreaks",
@@ -1562,6 +1562,14 @@
   ],
   "clinical_trials": [
     {
+      "title": "Firma Sanofi dąży do zatwierdzenia leku Nexviazyme u młodszych pacjentów z chorobą Pompego – Arena Badań Klinicznych",
+      "url": "https://www.clinicaltrialsarena.com/news/sanofi-aims-for-nexviazyme-approval-in-younger-pompe-disease-patients/",
+      "date": "2026-07-01T15:04:19Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Firma Sanofi dąży do zatwierdzenia leku Nexviazyme u młodszych pacjentów z chorobą Pompego w ośrodku badań klinicznych."
+    },
+    {
       "title": "EAN 2026: Dane pochodzące ze świata rzeczywistego potwierdzają bezpieczeństwo i skuteczność preparatu Vyalev firmy AbbVie w leczeniu choroby Parkinsona – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/analyst-comment/abbvie-parkinsons-vyalev-long-term-data/",
       "date": "2026-07-01T12:53:07Z",
@@ -1578,12 +1586,12 @@
       "summary": "Czasopismo medyczne wycofuje kluczowy artykuł Tavneos w związku z szerszymi ograniczeniami regulacyjnymi Clinical Trials Arena."
     },
     {
-      "title": "Informacje o programie ACT: Kwestie dotyczące integralności badania Tavneos, ścieżki regulacyjne dotyczące selektywnych danych dotyczących bezpieczeństwa oraz uruchomienie programu kontroli wstępnej FDA – stosowane badania kliniczne online",
+      "title": "Informacje o ACT: Kwestie dotyczące integralności badania Tavneos, ścieżki regulacyjne dotyczące selektywnych danych dotyczących bezpieczeństwa oraz uruchomienie programu FDA PreCheck – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/tavneos-trial-integrity-selective-safety-data-regulatory-pathways-fda-precheck-program-launch",
       "date": "2026-07-01T10:06:40Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Krótki opis ACT: Kwestie dotyczące integralności badania Tavneos, ścieżki regulacyjne dotyczące selektywnych danych dotyczących bezpieczeństwa oraz uruchomienie programu FDA PreCheck w zakresie stosowanych badań klinicznych online."
+      "summary": "Informacje o programie ACT: Kwestie dotyczące integralności badania Tavneos, ścieżki regulacyjne dotyczące selektywnych danych dotyczących bezpieczeństwa oraz uruchomienie programu FDA PreCheck w zakresie stosowanych badań klinicznych online."
     },
     {
       "title": "Niezależne, wolne od cenzury media na rzecz zdrowia i badań biomedycznych – Trialsitenews.com",
@@ -1799,7 +1807,7 @@
       "date": "2026-06-29T21:10:53Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA po pandemii Covid-19 od dawna spada, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z The Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
+      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA od dłuższego czasu spada po pandemii Covid-19, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
     },
     {
       "title": "Zapalenie wątroby wywołane szczepionką przeciwko COVID-19: większość pacjentów wraca do zdrowia, ale u niektórych rozwija się trwała autoimmunologiczna choroba wątroby - trisitenews.com",
@@ -1945,7 +1953,7 @@
       "date": "2026-07-01T13:29:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Angitia wstrzymuje badanie fazy 3 dotyczące choroby dysku, Abivax wycenia wyższą ofertę o wartości 800 mln dolarów, a AlzeCure podpisuje umowę NeuroRestore o wartości 2,2 mld dolarów z QuantumCell."
+      "summary": "Angitia wstrzymuje trzecią fazę badania dotyczącego choroby dysku, Abivax wycenia wyższą ofertę o wartości 800 mln dolarów, a AlzeCure podpisuje umowę NeuroRestore o wartości 2,2 mld dolarów z QuantumCell."
     },
     {
       "title": "Aktualizacja perspektyw na rok 2026 i postępu firmy - BioSpace",
@@ -2137,7 +2145,7 @@
       "date": "2026-06-30T18:14:57Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich, chyba że zrezygnują z Drugs.com."
+      "summary": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich – chyba że zrezygnują z Drugs.com."
     },
     {
       "title": "Stanie, chodzenie i pochylanie się do przodu w miejscu pracy może być powiązane z poronieniem – Drugs.com",
@@ -2289,7 +2297,7 @@
       "date": "2026-06-30T15:38:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Abivax twierdzi, że nowe dane fazy 3 wskazują, że częstość występowania nowotworów w przypadku leku na leczenie UC, obefazimodu, mieści się w oczekiwanym zakresie, chociaż Jefferies zaznacza utrzymujące się ryzyko FDA."
+      "summary": "Abivax twierdzi, że nowe dane fazy 3 wskazują, że częstość występowania nowotworów w przypadku leku na UC, obefazimodu, mieści się w oczekiwanym zakresie, chociaż Jefferies zaznacza utrzymujące się ryzyko FDA."
     },
     {
       "title": "Zepzelca firmy PharmaMar i Imdylltra firmy Amgen kolejnym krokiem w raportach JCA UE dotyczących kamieni milowych - insights.citeline.com",
@@ -2310,7 +2318,7 @@
   ],
   "critical_alerts": [
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300 – Epidemia Ebola.com",
       "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
       "date": "2026-07-01T09:17:27Z",
       "source": "Outbreak News Today",
@@ -2376,7 +2384,7 @@
   ],
   "daily_top5": [
     {
-      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley powiązane z aromatyzowanymi produktami z makaronu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley powiązane z produktami z makaronu smakowego – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products",
       "date": "2026-07-01T12:00:03Z",
       "source": "ECDC",
