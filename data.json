@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T01:31:49Z",
+  "last_updated": "2026-07-01T01:32:34Z",
   "poland": [
     {
       "title": "Wykupisz leki w dowolnej aptece - Pacjent gov",
@@ -826,7 +826,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-06-30T20:38:31Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 1,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
@@ -1070,14 +1070,6 @@
       "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
-      "title": "Nowe wytyczne dotyczące opieki nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
-      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
-      "date": "2026-06-23T15:12:34Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
-    },
-    {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
       "date": "2026-06-23T11:13:29Z",
@@ -1102,20 +1094,36 @@
       "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie bezpośredniej osoby do kierowania opieką może pomóc pacjentom."
     },
     {
-      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
-      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
-      "date": "2026-06-22T10:42:34Z",
-      "source": "Wytyczne kliniczne",
+      "title": "Stanowisko Rady ds. Taryfikacji – układ oddechowy - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/stanowisko-rady-ds-taryfikacji-uklad-oddechowy/",
+      "date": "2026-06-22T17:58:01Z",
+      "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
+      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 4/2026 w sprawie taryf świadczeń gwarantowanych obejmujących choroby układu oddechowego (sekcja D JGP)."
     },
     {
-      "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
-      "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
-      "date": "2026-06-22T00:26:59Z",
+      "title": "Biomarkery krwi na podstawie współczynnika osocza w chorobie Alzheimera: zgodność z wytycznymi praktyki klinicznej - Neurology Today",
+      "url": "https://neurologytoday.aan.com/doi/10.1097/01.wnt.0001205204.12195.fd",
+      "date": "2026-06-18T07:00:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
+      "summary": "Biomarkery krwi oparte na współczynniku osocza w chorobie Alzheimera: dostosowanie do wytycznych praktyki klinicznej Neurologia dzisiaj."
+    },
+    {
+      "title": "Towarzystwo Endokrynologiczne wydaje pierwsze wytyczne dotyczące przedwczesnego dojrzewania centralnego – MedPage Today",
+      "url": "https://www.medpagetoday.com/meetingcoverage/endo/121737",
+      "date": "2026-06-13T07:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "„Dzieci wchodzą w okres dojrzewania wcześniej niż w poprzednich dziesięcioleciach” – mówi współprzewodnicząca panelu ds. wytycznych."
+    },
+    {
+      "title": "Nie wszystkie dzieci we wczesnym okresie dojrzewania wymagają takiego samego poziomu badań i leczenia – Towarzystwo Endokrynologiczne",
+      "url": "https://www.endocrine.org/news-and-advocacy/news-room/2026/not-all-children-with-early-puberty-need-the-same-level-of-testing-or-treatment",
+      "date": "2026-06-13T07:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Zgodnie z opublikowanymi dzisiaj nowymi wytycznymi postępowania klinicznego Towarzystwa Endokrynologicznego niektóre podgrupy dzieci z przedwczesnym dojrzewaniem, np. starsze dziewczynki z wolno postępującym okresem dojrzewania, mogą nie wymagać takiego samego poziomu badań i leczenia."
     }
   ],
   "epidemiology": [
@@ -1772,6 +1780,14 @@
       "summary": "Sponsorzy terapii COVID-19 posiadający zezwolenia na stosowanie w sytuacjach awaryjnych mają teraz 12 miesięcy na uzyskanie pełnej zgody, co zdaniem HHS jest rozsądnym terminem."
     },
     {
+      "title": "Wiadomości z branży biotechnologicznej i farmaceutycznej - BioPharma Dive",
+      "url": "https://www.biopharmadive.com/?page=2&elqTrack=true/1000&elqTrackId=D14297F9313DD95D1DACAE3D9201193D",
+      "date": "2026-06-30T21:43:42Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "BioPharma Dive dostarcza wiadomości i analizy dla kadry kierowniczej z branży biotechnologicznej i biofarmaceutycznej. Poruszamy takie tematy, jak badania kliniczne, odkrywanie i rozwój leków, marketing farmaceutyczny, zezwolenia i regulacje FDA i nie tylko."
+    },
+    {
       "title": "Lek Ipsen na raka krwi o wartości 450 milionów dolarów; FDA wybiera pierwszą grupę do pilotażowego programu „wstępnej kontroli” – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/ipsen-kartos-acquisition-astrazeneca-beone-fda/823954/",
       "date": "2026-06-30T21:01:40Z",
@@ -2146,14 +2162,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Lista leków na receptę nieopatentowanych i nieekskluzywnych leków bez zatwierdzonego leku generycznego. Aby poprawić przejrzystość i zachęcić dewelopera fda.gov."
-    },
-    {
-      "title": "EMEA-003385-PIP01-22 – plan badań pediatrycznych – Europejska Agencja Leków (EMA)",
-      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-003385-pip01-22",
-      "date": "2026-06-30T11:41:39Z",
-      "source": "EMA",
-      "confirmed_by": 1,
-      "summary": "Europejska Agencja Leków Domenico Scarlattilaan 6 1083 HS Amsterdam Holandia."
     }
   ],
   "critical_alerts": [
