@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T21:18:06Z",
+  "last_updated": "2026-07-01T21:19:02Z",
   "poland": [
     {
       "title": "Lista leków refundowanych od 1 lipca 2026 – 25 nowych terapii i nowe rozwiązania dotyczące e-recept - DOZ",
@@ -473,7 +473,7 @@
       "date": "2026-07-01T12:54:41Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Śmierć 8-latka po ocenie przeprowadzonej przez doświadczonego lekarza powoduje ostrzeżenie koronera dla lekarzy pierwszego kontaktu The BMJ."
+      "summary": "Brytyjski koroner ostrzegł przed możliwymi przyszłymi zgonami, chyba że wprowadzone zostaną zmiany w sposobie uwzględniania krytycznych informacji od lekarza rodzinnego podczas oceny w szpitalu.1 Raport dotyczący zapobiegania przyszłym zgonom został wydany po śmierci 8-letniego Ethana Hansona, który zmarł w wyniku wstrząsu septycznego i perforowanego zapalenia wyrostka robaczkowego. Ethan został początkowo zbadany przez lekarza rodzinnego, który zaalarmował o stanie dziecka i zalecił pilne leczenie. Jednak późniejsza ocena przeprowadzona przez doświadczoną pielęgniarkę zaleciła leczenie z powodu zaparć i odesłanie do domu."
     },
     {
       "title": "Czy poprawa w zakresie bezdechu sennego może się utrzymać po terapii pozycyjnej? - Medyczny",
@@ -1108,14 +1108,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Dostępny jest również plik audio."
-    },
-    {
-      "title": "Rzecznik Praw Lekarzy NIL wnioskuje o nadzwyczajne posiedzenie Zespołu do spraw ochrony personelu medycznego - NIL",
-      "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil-450/9304-rzecznik-praw-lekarzy-nil-wnioskuje-o-nadzwyczajne-posiedzenie-zespolu-do-spraw-ochrony-personelu-medycznego",
-      "date": "2026-06-26T12:36:12Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
     },
     {
       "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1930,6 +1922,14 @@
       "summary": "Szczegóły badania | NCT07450547 | Badanie fazy 2 mające na celu ocenę bezpieczeństwa i skuteczności ANG003 ClinicalTrials.gov."
     },
     {
+      "title": "Szczegóły badania | NCT06616025 | Badanie to oceni skuteczność NTX-001, produktu do chirurgicznej naprawy nerwów, stosowanego u osób z uszkodzeniami nerwów kończyn górnych. - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06616025",
+      "date": "2026-06-29T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT06616025 | Badanie to oceni skuteczność NTX-001, produktu do chirurgicznej naprawy nerwów, stosowanego u osób z uszkodzeniami nerwów kończyn górnych. ClinicalTrials.gov."
+    },
+    {
       "title": "Szczegóły badania | NCT07546500 | Badanie dotyczące azenosertybu (ZN-c3) w porównaniu z chemioterapią wybraną przez badacza u pacjentów z opornym na platynę rakiem surowiczym jajnika, pierwotnym rakiem otrzewnej lub jajowodu o wysokim stopniu złośliwości, z dodatnim wynikiem na obecność białka cykliny E1 Expressi - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07546500",
       "date": "2026-06-29T07:00:00Z",
@@ -1944,14 +1944,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Badanie BMS-986504 z terapią standardową dla osób chorych na raka z guzem litym ClinicalTrials.gov."
-    },
-    {
-      "title": "Szczegóły badania | NCT06616025 | Badanie to oceni skuteczność NTX-001, produktu do chirurgicznej naprawy nerwów, stosowanego u osób z uszkodzeniami nerwów kończyn górnych. - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06616025",
-      "date": "2026-06-29T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT06616025 | Badanie to oceni skuteczność NTX-001, produktu do chirurgicznej naprawy nerwów, stosowanego u osób z uszkodzeniami nerwów kończyn górnych. ClinicalTrials.gov."
     }
   ],
   "pharma_market": [
@@ -2220,6 +2212,14 @@
       "summary": "– Michael P. Bailey, prezes i dyrektor generalny, odchodzi z AVEO po 16 latach znakomitej kadencji i kontynuuje pełnienie funkcji dyrektora –."
     },
     {
+      "title": "Wycofanie produktu klasy 2 z bazy agarowej Remel GC – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220907",
+      "date": "2026-07-01T01:58:21Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 2 Remel GC Agar Base accessdata.fda.gov."
+    },
+    {
       "title": "Mieszanka mleka pełnego koziego może zmniejszyć częstość występowania atopowego zapalenia skóry u niemowląt – Drugs.com",
       "url": "https://www.drugs.com/news/whole-goat-milk-formula-can-reduce-incidence-atopic-dermatitis-infants-130513.html",
       "date": "2026-07-01T00:16:00Z",
@@ -2346,14 +2346,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "RYGB, Rękawowa resekcja żołądka – opłacalna dla nastolatków z ciężką otyłością Drugs.com."
-    },
-    {
-      "title": "Sekcja C, historia chorób alergicznych u matki powiązanych z alergicznym zapaleniem błony śluzowej nosa u potomstwa – Drugs.com",
-      "url": "https://www.drugs.com/news/c-section-maternal-history-allergic-diseases-linked-allergic-rhinitis-offspring-130506.html",
-      "date": "2026-06-30T18:14:57Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Sekcja C, Historia chorób alergicznych u matki związanych z alergicznym zapaleniem błony śluzowej nosa w witrynie Offspring Drugs.com."
     }
   ],
   "critical_alerts": [
@@ -2424,6 +2416,14 @@
   ],
   "daily_top5": [
     {
+      "title": "Śmierć 8-latka po ocenie przeprowadzonej przez doświadczonego lekarza wywołuje ostrzeżenie koronera dla lekarzy pierwszego kontaktu – BMJ",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100144",
+      "date": "2026-07-01T12:54:41Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Brytyjski koroner ostrzegł przed możliwymi przyszłymi zgonami, chyba że wprowadzone zostaną zmiany w sposobie uwzględniania krytycznych informacji od lekarza rodzinnego podczas oceny w szpitalu.1 Raport dotyczący zapobiegania przyszłym zgonom został wydany po śmierci 8-letniego Ethana Hansona, który zmarł w wyniku wstrząsu septycznego i perforowanego zapalenia wyrostka robaczkowego. Ethan został początkowo zbadany przez lekarza rodzinnego, który zaalarmował o stanie dziecka i zalecił pilne leczenie. Jednak późniejsza ocena przeprowadzona przez doświadczoną pielęgniarkę zaleciła leczenie z powodu zaparć i odesłanie do domu."
+    },
+    {
       "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley powiązane z aromatyzowanymi produktami z makaronu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products",
       "date": "2026-07-01T12:00:03Z",
@@ -2454,14 +2454,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Przeczytaj ten artykuł z wytycznymi i więcej podsumowań klinicznych na temat NEJM Clinician."
-    },
-    {
-      "title": "Na pierwszej linii frontu bezpiecznej i godnej reakcji na epidemię wirusa Ebola w Ugandzie – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/uganda/news/frontlines-safe-and-dignified-ebola-outbreak-response-uganda",
-      "date": "2026-07-01T05:23:16Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Kampala — jest niedziela, ale dzień doktora Chrisa Opesena zaczynał się o 05:30. Chris, antropolog w biurze krajowym WHO w Ugandzie, należy do zespołu szybkiego reagowania pracującego w terenie nad powstrzymaniem epidemii wirusa Ebola w Ugandzie. Wstaje wcześnie, ponieważ został wezwany przez władze lokalne w Kampali, aby wesprzeć dzisiejszą reintegrację Lilian* z jej domem i społecznością."
     }
   ]
 }
