@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T08:57:20Z",
+  "last_updated": "2026-07-01T08:58:12Z",
   "poland": [
     {
       "title": "Komunikat Ministra Zdrowia w sprawie narzędzia wspierającego określanie poziomu odpłatności za produkty refundowane - Gov.pl",
@@ -260,7 +260,7 @@
     {
       "title": "Wykupisz leki w dowolnej aptece - Pacjent gov",
       "url": "http://pacjent.gov.pl/aktualnosc/wykupisz-leki-w-dowolnej-aptece",
-      "date": "2026-07-01T01:06:20Z",
+      "date": "2026-07-01T01:06:21Z",
       "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 2,
       "summary": "Chcesz mieć możliwość wykupienia kolejnych partii leków z Twojej recepty w dowolnej aptece? Wkrótce to będzie zależeć tylko od tego, czy apteka już uruchomiła tę funkcję."
@@ -617,7 +617,7 @@
       "date": "2026-06-30T23:21:11Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Gigant sztucznej inteligencji, Anthropic, stał się już dominującym graczem w technologii i powszechnie znaną marką wśród codziennych użytkowników sztucznej inteligencji. Czy może też wytwarzać narkotyki?"
+      "summary": "Gigant sztucznej inteligencji, firma Anthropic, stała się już dominującym graczem w technologii i powszechnie znaną marką wśród codziennych użytkowników sztucznej inteligencji. Czy może również wytwarzać narkotyki?"
     },
     {
       "title": "Psychiatria dzieci i młodzieży - Medscape",
@@ -801,17 +801,17 @@
       "date": "2026-06-30T19:07:01Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Plan wzmocnienia reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze Światowa Organizacja Zdrowia (WHO)."
+      "summary": "Plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze Wytyczne dotyczące wdrożenia zapewniają ustrukturyzowane ramy operacyjne mające na celu wspieranie krajów i partnerów we wzmacnianiu skoordynowanych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze (AFR)."
     }
   ],
   "guidelines": [
     {
-      "title": "Konsultacje | Zespół metaboliczny wieloendokrynnych jajników (PMOS) | Poradnik - strona internetowa NICE",
+      "title": "Konsultacje | Zespół metaboliczny poliendokrynnych jajników (PMOS) | Poradnik - strona internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ng10436/consultation/html-content-9",
       "date": "2026-07-01T08:03:16Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Jeśli komentujesz w imieniu organizacji, Twoja organizacja musi być zarejestrowana jako interesariusz ."
+      "summary": "Konsultacje | Zespół metaboliczny poliendokrynnych jajników (PMOS) | Poradnik NICE."
     },
     {
       "title": "Przegląd | Opieka okołooperacyjna u dorosłych | Standardy jakości - serwis NICE",
@@ -971,7 +971,7 @@
       "date": "2026-06-29T12:58:24Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych, aby opublikować pierwszą uniwersalną definicję niewydolności serca, ustanawiając jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
     },
     {
       "title": "Ciąża pozamaciczna i poronienie: diagnoza i wstępna aktualizacja postępowania (2026) Zainteresowane strony – witryna internetowa NICE",
@@ -1046,14 +1046,6 @@
       "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
     },
     {
-      "title": "Bezpłatne działania CE od MMWR i Medscape — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/cme/medscape_cme.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Seria cotygodniowych raportów o zachorowalności i śmiertelności (MMWR) przygotowywana jest przez Centra Kontroli i Zapobiegania Chorobom (CDC)."
-    },
-    {
       "title": "Stanowiska podjęte przez PNRL w dniu 26 czerwca 2026 r. - NIL",
       "url": "https://nil.org.pl/aktualnosci/9305-stanowiska-podjete-przez-pnrl-w-dniu-26-czerwca-2026-r",
       "date": "2026-06-26T07:00:00Z",
@@ -1062,12 +1054,12 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Leczenie grypy lekami przeciwwirusowymi | Grypa — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/flu/treatment/antiviral-drugs.html",
+      "title": "Bezpłatne działania CE od MMWR i Medscape — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/cme/medscape_cme.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Dowiedz się o leczeniu grypy lekami przeciwwirusowymi."
+      "summary": "Seria cotygodniowych raportów o zachorowalności i śmiertelności (MMWR) przygotowywana jest przez Centra Kontroli i Zapobiegania Chorobom (CDC)."
     },
     {
       "title": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1115,7 +1107,7 @@
       "date": "2026-06-22T19:53:11Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
+      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie bezpośredniej osoby do kierowania opieką może pomóc pacjentom."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1205,7 +1197,7 @@
       "date": "2026-06-30T19:07:01Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Plan wzmocnienia reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze Światowa Organizacja Zdrowia (WHO)."
+      "summary": "Plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze Wytyczne dotyczące wdrożenia zapewniają ustrukturyzowane ramy operacyjne mające na celu wspieranie krajów i partnerów we wzmacnianiu skoordynowanych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze (AFR)."
     },
     {
       "title": "ONZ ostrzega, że ​​epidemia wirusa Ebola może kosztować Afrykę nawet 3,6 miliarda dolarów – Epidemionnewstoday.com",
@@ -1240,7 +1232,7 @@
       "summary": "Pomimo dostępności skutecznych szczepionek, metod diagnostycznych i metod leczenia wirusowe zapalenie wątroby pozostaje główną przyczyną chorób wątroby i raka wątroby, powodując codziennie tysiące zgonów, którym można zapobiec. Ograniczenia finansowe, napiętnowanie i dyskryminacja, słaba integracja systemów opieki zdrowotnej i nierówny dostęp do innowacji w dalszym ciągu pozostawiają miliony ludzi bez opieki. Odzwierciedlając temat Światowego Dnia Wirusowego Zapalenia Wątroby, wydarzenie to zgromadzi ministrów, decydentów, ekspertów technicznych, społeczeństwo obywatelskie, dotknięte społeczności i partnerów zajmujących się rozwojem, aby określić działania mające na celu zwiększenie inwestycji, usprawnienie świadczenia usług, poszerzenie równego dostępu i przyspieszenie innowacji."
     },
     {
-      "title": "Światowy Dzień Wirusowego Zapalenia Wątroby 2026 – talk show w Internecie – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Światowy Dzień Wirusowego Zapalenia Wątroby 2026 – talk show w internecie – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/07/23/default-calendar/world-hepatitis-day-2026-online-talk-show",
       "date": "2026-06-30T16:19:24Z",
       "source": "WHO Disease Outbreak News",
@@ -1277,7 +1269,7 @@
       "date": "2026-06-30T09:33:43Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Edytowalna ulotka zawierająca informacje dla społeczności zagrożonych podczas epidemii wirusa Ebola w 2026 r. Ulotkę można przetłumaczyć i w inny sposób dostosować do użytku przez społeczności lokalne."
+      "summary": "Edytowalna ulotka zawierająca informacje dla społeczności zagrożonych podczas epidemii wirusa Ebola w 2026 r. Ulotkę można przetłumaczyć i w inny sposób dostosować do użytku społeczności lokalnych."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -1384,7 +1376,7 @@
       "summary": "Dołącz do oficjalnego seminarium internetowego WHO na temat zanieczyszczenia powietrza i celów zrównoważonego rozwoju. WHO opublikuje nowe dane dla celów zrównoważonego rozwoju 3.9.1, 7.1.2 i 11.6.2, zawierające studia przypadków krajowych dotyczące monitorowania trendów i dostosowania polityk do wytycznych WHO dotyczących jakości powietrza. Dowiedz się, jak wykorzystać te ustandaryzowane ramy, aby podejmować lepsze decyzje dotyczące zdrowia publicznego i czystsze powietrze na całym świecie."
     },
     {
-      "title": "Biuletyn Tygodniowy dotyczący zapalenia opon mózgowo-rdzeniowych 2026_Tydzień 24 – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Biuletyn tygodniowy dotyczący zapalenia opon mózgowo-rdzeniowych 2026_Tydzień 24 – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/meningitis-weekly-bulletin-2026_week-24",
       "date": "2026-06-29T13:39:08Z",
       "source": "WHO Disease Outbreak News",
@@ -1405,7 +1397,7 @@
       "date": "2026-06-29T13:09:31Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Jak wynika z randomizowanego badania klinicznego opublikowanego w tym tygodniu w JAMA Network Open, alert w elektronicznej dokumentacji medycznej (EMR) wysyłany do asystentów medycznych przygotowujących pacjentów do wizyt lekarskich w przychodniach podstawowej opieki zdrowotnej znacznie zwiększa prawdopodobieństwo, że młode kobiety zostaną poddane badaniom przesiewowym w kierunku chlamydii."
+      "summary": "Jak wynika z randomizowanego badania klinicznego opublikowanego w tym tygodniu w JAMA Network Open, alert w elektronicznej dokumentacji medycznej (EMR) wysyłany do asystentów medycznych przygotowujących pacjentów do wizyt lekarskich w przychodniach podstawowej opieki zdrowotnej znacznie zwiększał prawdopodobieństwo, że młode kobiety zostaną poddane badaniom przesiewowym w kierunku chlamydii."
     },
     {
       "title": "Misja rozpoznawcza w sprawie kontroli bezpieczeństwa przy wyjściu z lotniska – Misja Grupy Zadaniowej UE ds. Zdrowia do Demokratycznej Republiki Konga i Ugandy w odpowiedzi na epidemię choroby wirusowej Bundibugyo w 2026 r. – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1437,7 +1429,7 @@
       "date": "2026-06-29T09:45:06Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Wstępne dane z głównego zbioru badania Enterobacterales opornych na karbapenemy 2025 (badanie CRE25) wskazują na znaczną zmianę w rozmieszczeniu genów karbapenemaz u opornych na karbapenemy lub wrażliwych na karbapenemy, zwiększonej ekspozycji (karbapenem-R/I) kompleksu gatunków Klebsiella pneumoniae (SC)."
+      "summary": "Wstępne dane z głównego zbioru badania Enterobacterales opornych na karbapenemy 2025 (badanie CRE25) wskazują na znaczną zmianę w rozmieszczeniu genów karbapenemaz w opornym na karbapenemy lub wrażliwym na karbapenemy, zwiększonym narażeniu (karbapenem-R/I) kompleksu gatunków Klebsiella pneumoniae (SC)."
     },
     {
       "title": "Osiemdziesiąte szóste spotkanie Forum Doradczego – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1464,7 +1456,7 @@
       "summary": "Szczegółowe informacje na temat produktów, na które wpływa epidemia, oraz wytyczne dotyczące zapobiegania chorobom."
     },
     {
-      "title": "Raporty online — Czasopismo dotyczące pojawiających się chorób zakaźnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Raporty online — czasopismo Emerging Infectious Diseases — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/articles/online-reports.htm",
       "date": "2026-06-29T07:00:00Z",
       "source": "CDC Outbreaks",
@@ -1719,7 +1711,7 @@
       "date": "2026-06-29T21:10:53Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA od dłuższego czasu spada po pandemii Covid-19, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
+      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA po pandemii Covid-19 od dawna spada, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z The Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
     },
     {
       "title": "Zapalenie wątroby wywołane szczepionką przeciwko COVID-19: większość pacjentów wraca do zdrowia, ale u niektórych rozwija się trwała autoimmunologiczna choroba wątroby - trisitenews.com",
@@ -1807,10 +1799,10 @@
       "date": "2026-06-28T18:17:54Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Mike Montello, dyrektor ds. technologii cyfrowych i informacji dotyczących stosowanych badań klinicznych online."
+      "summary": "Mike Montello, dyrektor ds. cyfrowych i informatycznych stosowanych badań klinicznych online."
     },
     {
-      "title": "Sprzeczność DEA „Jedna pigułka może zabić”? Nowy Meksyk wszczyna śledztwo w sprawie karnej w obliczu rosnącej liczby pytań pod rządami administracji Trumpa – Trialsitenews.com",
+      "title": "Sprzeczność DEA „Jedna pigułka może zabić”? Nowy Meksyk wszczyna śledztwo w sprawie karnej w obliczu rosnącej liczby pytań pod rządami administracji Trumpa – Trialssitenews.com",
       "url": "https://www.trialsitenews.com/a/deas-one-pill-can-kill-contradiction-new-mexico-launches-criminal-probe-as-questions-mount-under-trump-administration-77c39452",
       "date": "2026-06-28T16:53:15Z",
       "source": "TrialSite News",
@@ -1897,7 +1889,7 @@
       "date": "2026-06-30T21:01:40Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Planowane przejęcie Kartos Therapeutics zapewni Ipsen lek na późne stadium zwłóknienia szpiku. W innym miejscu Sobi napotkał porażkę regulacyjną, a BeOne ujawniło więcej pozytywnych danych Brukinsy."
+      "summary": "Planowane przejęcie Kartos Therapeutics zapewni Ipsen narzędzie do leczenia zwłóknienia szpiku w późnym stadium. W innym miejscu Sobi napotkał porażkę regulacyjną, a BeOne ujawniło więcej pozytywnych danych Brukinsy."
     },
     {
       "title": "FDA zatwierdza nową terapię wykorzystującą komórki odpornościowe dawcy w celu zapobiegania poważnym powikłaniom u pacjentów z rakiem krwi - fda.gov",
@@ -1953,7 +1945,7 @@
       "date": "2026-06-30T18:14:57Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich – chyba że zrezygnują z Drugs.com."
+      "summary": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich, chyba że zrezygnują z Drugs.com."
     },
     {
       "title": "Stanie, chodzenie i pochylanie się do przodu w miejscu pracy może być powiązane z poronieniem – Drugs.com",
@@ -2036,7 +2028,7 @@
       "summary": "We wtorek firma Anthropic ogłosiła Claude Science, nowy produkt, który liderzy firmy opisują jako stół warsztatowy AI do badań naukowych."
     },
     {
-      "title": "Ostatnie zwycięstwo firm AbbVie i Genmab przybliża firmę Epkinly do ekspansji wytwórni – Wiadomości z punktów końcowych",
+      "title": "Ostatnie zwycięstwo firm AbbVie i Genmab przybliża firmę Epkinly do ekspansji wytwórni – Endpoints News",
       "url": "https://endpoints.news/abbvie-and-genmabs-latest-win-brings-epkinly-closer-to-label-expansion/",
       "date": "2026-06-30T16:49:00Z",
       "source": "Endpoints News",
@@ -2089,10 +2081,10 @@
       "date": "2026-06-30T15:38:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Abivax twierdzi, że nowe dane fazy 3 wskazują, że częstość występowania nowotworów w przypadku leku na UC, obefazimodu, mieści się w oczekiwanym zakresie, chociaż Jefferies zaznacza utrzymujące się ryzyko FDA."
+      "summary": "Abivax twierdzi, że nowe dane fazy 3 wskazują, że częstość występowania nowotworów w przypadku leku na leczenie UC, obefazimodu, mieści się w oczekiwanym zakresie, chociaż Jefferies zaznacza utrzymujące się ryzyko FDA."
     },
     {
-      "title": "Zepzelca firmy PharmaMar i Imdylltra firmy Amgen następnymi kamieniami milowymi Raporty JCA UE - insights.citeline.com",
+      "title": "Zepzelca firmy PharmaMar i Imdylltra firmy Amgen kolejnym krokiem w raportach JCA UE dotyczących kamieni milowych - insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/pharmamars-zepzelca-and-amgens-imdylltra-up-next-for-milestone-eu-jca-reports-LYK67Y7EJJDINNCC2EXSQ4V7JE/",
       "date": "2026-06-30T15:29:06Z",
       "source": "Pink Sheet",
@@ -2105,7 +2097,7 @@
       "date": "2026-06-30T15:16:53Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "FDA publikuje plan rozszerzenia rozwoju leków dla zwierząt do drobnych zastosowań i gatunków drobnych fda.gov."
+      "summary": "FDA publikuje plan rozszerzenia rozwoju leków dla zwierząt do drobnych zastosowań i rzadkich gatunków fda.gov."
     },
     {
       "title": "Ostrożność dotycząca sztucznej inteligencji w zakresie zdrowia przechodzi w pewność — Wiadomości dotyczące punktów końcowych",
@@ -2267,7 +2259,7 @@
       "date": "2026-06-30T09:33:43Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Edytowalna ulotka zawierająca informacje dla społeczności zagrożonych podczas epidemii wirusa Ebola w 2026 r. Ulotkę można przetłumaczyć i w inny sposób dostosować do użytku przez społeczności lokalne."
+      "summary": "Edytowalna ulotka zawierająca informacje dla społeczności zagrożonych podczas epidemii wirusa Ebola w 2026 r. Ulotkę można przetłumaczyć i w inny sposób dostosować do użytku społeczności lokalnych."
     },
     {
       "title": "Epidemia wirusa Ebola rozprzestrzenia się na czwartą prowincję Demokratycznej Republiki Konga – CIDRAP",
