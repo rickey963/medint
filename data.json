@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-01T06:29:13Z",
+  "last_updated": "2026-07-01T06:30:02Z",
   "poland": [
+    {
+      "title": "Reklama alkoholu. Apel do Marszałka Sejmu - Medycyna Praktyczna",
+      "url": "https://prawo.mp.pl/wiadomosci/442874,zakaz-reklamy-alkoholu-apel-do-marszalka-sejmu",
+      "date": "2026-07-01T06:28:18Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Fundacja GrowSPACE przekazała Marszałkowi Sejmu RP apel o pilne procedowanie ustawy wprowadzającej całkowity zakaz publicznej reklamy alkoholu. Za apelem stoi ponad 100 ekspertów medycznych, blisko 100 posłów i 81,5% społeczeństwa."
+    },
     {
       "title": "Chlorpyrifos ma związek z chorobą Parkinsona - Aktualności - Neurologia - Medycyna Praktyczna",
       "url": "https://www.mp.pl/neurologia/aktualnosci/442870,chlorpyrifos-ma-zwiazek-z-choroba-parkinsona",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 2,
       "summary": "Ekspozycja na wysokie temperatury nie tylko zwiększa ryzyko wyczerpania i udaru cieplnego, ale stanowi też poważne zagrożenie dla układu krążenia. Zmusza go do intensywniejszej pracy, co podnosi ryzyko zawałów, arytmii (nieregularnego bicia serca) oraz niewydolności mięśnia sercowego."
-    },
-    {
-      "title": "Dzwon Zwycięzcy w Szczecinie: 12-latek zakończył leczenie guza mózgu - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Serwis-Onkologia/Dzwon-Zwyciezcy-w-Szczecinie-12-latek-zakonczyl-leczenie-guza-mozgu,286114,1013.html",
-      "date": "2026-06-30T14:43:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "12-letni Jakub Dudkiewicz po operacji guza mózgu i długiej chemioterapii zakończył leczenie w klinice onkologii dziecięcej PUM w Szczecinie. We wtorek, jako pierwszy w tym roku, symbolicznie uderzył w Dzwon Zwycięzcy."
     }
   ],
   "world": [
@@ -505,7 +505,7 @@
       "date": "2026-07-01T02:05:03Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Jak wynika z wielkoskalowego retrospektywnego badania kohortowego, rutynowe szczepienia wiążą się ze znacznie zmniejszonym ryzykiem wystąpienia nowego idiopatycznego zapalenia błony naczyniowej oka."
+      "summary": "Jak wynika z wielkoskalowego retrospektywnego badania kohortowego, rutynowe szczepienia wiążą się ze znacznie zmniejszonym ryzykiem rozwoju idiopatycznego zapalenia błony naczyniowej oka o nowym początku."
     },
     {
       "title": "All of Us testuje nowe podejście do gromadzenia danych ze świata rzeczywistego do celów badawczych – statnews.com",
@@ -553,7 +553,7 @@
       "date": "2026-06-30T23:21:11Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Gigant sztucznej inteligencji, firma Anthropic, stała się już dominującym graczem w technologii i powszechnie znaną marką wśród codziennych użytkowników sztucznej inteligencji. Czy może również wytwarzać narkotyki?"
+      "summary": "Gigant sztucznej inteligencji, Anthropic, stał się już dominującym graczem w technologii i powszechnie znaną marką wśród codziennych użytkowników sztucznej inteligencji. Czy może też wytwarzać narkotyki?"
     },
     {
       "title": "Psychiatria dzieci i młodzieży - Medscape",
@@ -785,7 +785,7 @@
       "date": "2026-06-30T16:01:01Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Dochodzenie STAT wykazało, że administracja Trumpa bagatelizowała ryzyko związane ze spożywaniem alkoholu i aktywnie udaremniała wysiłki mające na celu zrozumienie szkód związanych z piciem i zapobieganie im."
+      "summary": "Dochodzenie STAT wykazało, że administracja Trumpa bagatelizowała ryzyko związane z alkoholem i aktywnie udaremniała wysiłki mające na celu zrozumienie szkód związanych z piciem i zapobieganie im."
     },
     {
       "title": "Centralna surowicza chorioretinopatia związana z miejscowymi analogami prostaglandyn – raporty przypadków BMJ",
@@ -1099,7 +1099,7 @@
       "date": "2026-06-22T19:53:11Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie bezpośredniej osoby do kierowania opieką może pomóc pacjentom."
+      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1325,7 +1325,7 @@
       "date": "2026-06-29T20:17:23Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Wybuch listeriozy w Kanadzie w 2024 r., w wyniku którego zachorowało co najmniej 20 osób, a trzy zginęły, został powiązany ze skażonymi roślinnymi produktami mlecznymi, co zdaniem władz odpowiedzialnych za zdrowie publiczne jest pierwszym ogniskiem listeriozy związanym z alternatywnymi napojami mlecznymi."
+      "summary": "Wybuch listeriozy w Kanadzie w 2024 r., w wyniku którego zachorowało co najmniej 20 osób i zginęły trzy osoby, został powiązany ze skażonymi roślinnymi produktami mlecznymi, co zdaniem władz odpowiedzialnych za zdrowie publiczne jest pierwszym ogniskiem listeriozy związanym z alternatywnymi napojami mlecznymi."
     },
     {
       "title": "Badania sugerują, że Tylenol podczas ciąży nie zwiększa ryzyka autyzmu ani ADHD u dziecka – CIDRAP",
@@ -1413,7 +1413,7 @@
       "date": "2026-06-29T09:45:06Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Wstępne dane z głównego zbioru badania Enterobacterales opornych na karbapenemy 2025 (badanie CRE25) wskazują na znaczną zmianę w rozmieszczeniu genów karbapenemaz u opornych na karbapenemy lub wrażliwych na karbapenemy, zwiększonej ekspozycji (karbapenem-R/I) kompleksu gatunków Klebsiella pneumoniae (SC)."
+      "summary": "Wstępne dane z głównego zbioru badania Enterobacterales opornych na karbapenemy 2025 (badanie CRE25) wskazują na znaczną zmianę w rozmieszczeniu genów karbapenemaz w opornym na karbapenemy lub wrażliwym na karbapenemy, zwiększonym narażeniu (karbapenem-R/I) kompleksu gatunków Klebsiella pneumoniae (SC)."
     },
     {
       "title": "Osiemdziesiąte szóste spotkanie Forum Doradczego – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1509,7 +1509,7 @@
       "date": "2026-06-25T20:02:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Liczba przypadków grypy w bazie Joint Base San Antonio Lackland wzrosła do 275."
+      "summary": "Liczba przypadków grypy w bazie Joint Base San Antonio Lackland wzrosła do 275 przypadków."
     },
     {
       "title": "Francja zgłasza pierwszy przypadek wirusa Ebola u lekarza powracającego z misji w DRK – Epidemionnewstoday.com",
@@ -1751,7 +1751,7 @@
       "date": "2026-06-28T18:17:54Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Mike Montello, dyrektor ds. cyfrowych i informatycznych stosowanych badań klinicznych online."
+      "summary": "Mike Montello, dyrektor ds. technologii cyfrowych i informacji dotyczących stosowanych badań klinicznych online."
     },
     {
       "title": "Sprzeczność DEA „Jedna pigułka może zabić”? Nowy Meksyk wszczyna śledztwo w sprawie karnej w obliczu rosnącej liczby pytań pod rządami administracji Trumpa – Trialssitenews.com",
@@ -2057,7 +2057,7 @@
       "date": "2026-06-30T14:57:24Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Ponieważ lek firmy Amgen na rzadkie choroby, Tavneos, znajduje się pod coraz większą presją ze strony FDA, firmy | Ponieważ lek firmy Amgen na rzadkie choroby Tavneos znajduje się pod coraz większą presją FDA, firma staje przed nową przeszkodą w postaci wycofania przez wiodące czasopismo medyczne kluczowych danych z badań dotyczących leku."
+      "summary": "Ponieważ lek firmy Amgen na rzadkie choroby, Tavneos, znajduje się pod coraz większą presją ze strony FDA, firmy | Ponieważ lek Amgen na rzadkie choroby Tavneos znajduje się pod coraz większą presją FDA, firma staje przed nową przeszkodą w postaci wycofania przez wiodące czasopismo medyczne kluczowych danych z badań dotyczących leku."
     },
     {
       "title": "Duże badanie potwierdza jednodniowe szczepienie przeciwko Covid-19 i grypie – Drugs.com",
@@ -2174,6 +2174,14 @@
       "summary": "Afrykańskie Centra Kontroli i Zapobiegania Chorobom (Africa CDC) zwołują dziś trzydniowe spotkanie krajów afrykańskich w nadziei na wzmocnienie regionalnego przygotowania na rosnącą epidemię wirusa Ebola w Demokratycznej Republice Konga (DRK), która pochłonęła obecnie życie ponad 300 osób."
     },
     {
+      "title": "Szybkie ujęcia: więcej przypadków grypy Sił Powietrznych, rośnie epidemia listerii sera miękkiego, konkurs wideo dotyczący zapobiegania grypie/COVID – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/influenza-general/quick-takes-more-air-force-flu-cases-soft-cheese-listeria-outbreak-grows-flucovid",
+      "date": "2026-06-25T20:02:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Liczba przypadków grypy w bazie Joint Base San Antonio Lackland wzrosła do 275 przypadków."
+    },
+    {
       "title": "Na pierwszej linii frontu bezpiecznej i godnej reakcji na epidemię wirusa Ebola w Ugandzie – WHO | Biuro Regionalne dla Afryki",
       "url": "https://www.afro.who.int/countries/uganda/news/frontlines-safe-and-dignified-ebola-outbreak-response-uganda",
       "date": "2026-07-01T05:23:16Z",
@@ -2220,14 +2228,6 @@
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Edytowalna ulotka zawierająca informacje dla społeczności zagrożonych podczas epidemii wirusa Ebola w 2026 r. Ulotkę można przetłumaczyć i w inny sposób dostosować do użytku społeczności lokalnych."
-    },
-    {
-      "title": "Epidemia wirusa Ebola rozprzestrzenia się na czwartą prowincję Demokratycznej Republiki Konga – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-spreads-4th-province-dr-congo",
-      "date": "2026-06-29T21:13:49Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Według doniesień mediów epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) rozprzestrzeniła się na czwartą prowincję."
     }
   ],
   "daily_top5": [
