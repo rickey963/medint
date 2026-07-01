@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T19:32:31Z",
+  "last_updated": "2026-07-01T19:33:40Z",
   "poland": [
     {
       "title": "Rusza nabór FERS Podniesienie kompetencji osób udzielających świadczeń zdrowotnych w ponadregionalnych podmiotach leczniczych - Gov.pl",
@@ -601,7 +601,7 @@
       "date": "2026-07-01T08:48:09Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Wprowadzenie limitu słów w recenzjach i protokołach Cochrane.org."
+      "summary": "Nowe limity słów sprawią, że nasze dowody będą skupione, zwięzłe i bardziej dostępne dla czytelników."
     },
     {
       "title": "Zaprzestanie stosowania PARP utrzymuje wyniki u wyjątkowych pacjentów z rakiem jajnika - Medscape",
@@ -906,7 +906,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-06-30T21:47:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
@@ -1094,12 +1094,12 @@
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
     },
     {
-      "title": "Rzecznik Praw Lekarzy NIL wnioskuje o nadzwyczajne posiedzenie Zespołu do spraw ochrony personelu medycznego - NIL",
-      "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil-450/9304-rzecznik-praw-lekarzy-nil-wnioskuje-o-nadzwyczajne-posiedzenie-zespolu-do-spraw-ochrony-personelu-medycznego",
-      "date": "2026-06-26T12:36:12Z",
-      "source": "Naczelna Izba Lekarska",
+      "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
+      "date": "2026-06-26T19:41:33Z",
+      "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
+      "summary": "Dostępny jest również plik audio."
     },
     {
       "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1116,6 +1116,14 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
+    },
+    {
+      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 25 czerwca 2026 r. w sprawie wysokości zasadniczego wynagrodzenia miesięcznego lekarzy i lekarzy dentystów odbywających specjalizacje w ramach rezydentury",
@@ -1148,14 +1156,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
-    },
-    {
-      "title": "Zasoby dla personelu medycznego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/chemical-emergencies/hcp/resources/index.html",
-      "date": "2026-06-10T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Lista środków pomocy chemicznej dla pracowników służby zdrowia."
     }
   ],
   "epidemiology": [
