@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T20:59:20Z",
+  "last_updated": "2026-07-01T21:00:02Z",
   "poland": [
     {
       "title": "Lista leków refundowanych od 1 lipca 2026 – 25 nowych terapii i nowe rozwiązania dotyczące e-recept - DOZ",
@@ -19,7 +19,7 @@
     },
     {
       "title": "01.12 Szkolenia doskonalące dla lekarzy i lekarek, pielęgniarzy i pielęgniarek oraz położnych udzielających świadczeń zdrowotnych w ponadregionalnych podmiotach leczniczych - Gov.pl",
-      "url": "https://www.gov.pl/web/zdrowie/0112-szkolenia-doskonalace-dla-lekarzy-i-lekarek-pielegniarzy-i-pielegniarek-oraz-poloznych-udzielajacych-swiadczen-zdrowotnych-w-ponadregionalnych-podmiotach-leczniczych",
+      "url": "http://www.gov.pl/zdrowie/0112-szkolenia-doskonalace-dla-lekarzy-i-lekarek-pielegniarzy-i-pielegniarek-oraz-poloznych-udzielajacych-swiadczen-zdrowotnych-w-ponadregionalnych-podmiotach-leczniczych",
       "date": "2026-07-01T19:29:42Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
@@ -27,7 +27,7 @@
     },
     {
       "title": "01.12 Szkolenia doskonalące dla lekarzy i lekarek, pielęgniarzy i pielęgniarek oraz położnych udzielających świadczeń zdrowotnych w ponadregionalnych podmiotach leczniczych - Gov.pl",
-      "url": "http://www.gov.pl/zdrowie/0112-szkolenia-doskonalace-dla-lekarzy-i-lekarek-pielegniarzy-i-pielegniarek-oraz-poloznych-udzielajacych-swiadczen-zdrowotnych-w-ponadregionalnych-podmiotach-leczniczych",
+      "url": "https://www.gov.pl/web/zdrowie/0112-szkolenia-doskonalace-dla-lekarzy-i-lekarek-pielegniarzy-i-pielegniarek-oraz-poloznych-udzielajacych-swiadczen-zdrowotnych-w-ponadregionalnych-podmiotach-leczniczych",
       "date": "2026-07-01T19:29:42Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
@@ -617,7 +617,7 @@
       "date": "2026-07-01T08:48:09Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Wprowadzenie limitu słów w recenzjach i protokołach Cochrane.org."
+      "summary": "Nowe limity słów sprawią, że nasze dowody będą skupione, zwięzłe i bardziej dostępne dla czytelników."
     },
     {
       "title": "Zaprzestanie stosowania PARP utrzymuje wyniki u wyjątkowych pacjentów z rakiem jajnika - Medscape",
@@ -1126,14 +1126,6 @@
       "summary": "mCRPC: Opieka wspomagająca, obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/measles/data-research/index.html",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
-    },
-    {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
       "url": "https://dziennikustaw.gov.pl/DU/2026/869",
       "date": "2026-06-26T07:00:00Z",
@@ -1142,12 +1134,36 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
     },
     {
-      "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
-      "date": "2026-06-23T11:13:29Z",
+      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
+    },
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 25 czerwca 2026 r. w sprawie wysokości zasadniczego wynagrodzenia miesięcznego lekarzy i lekarzy dentystów odbywających specjalizacje w ramach rezydentury",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/856",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 856, z dniem ogłoszenia 2026-06-29."
+    },
+    {
+      "title": "Niezbędna jest zwiększona świadomość na temat objawów niewydolności serca podczas ciąży i po niej – www.heart.org",
+      "url": "https://newsroom.heart.org/news/increased-awareness-about-heart-failure-symptoms-during-and-after-pregnancy-is-essential",
+      "date": "2026-06-24T10:14:43Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Jak wynika z nowego oświadczenia naukowego American Heart Association, wczesna diagnoza, szybkie leczenie i opieka kontrolna po porodzie mają kluczowe znaczenie dla zapobiegania zagrażającym życiu powikłaniom u kobiet w ciąży i po porodzie z niewydolnością serca."
+    },
+    {
+      "title": "Komunikat – Plan Taryfikacji na rok 2027 - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/komunikat-plan-taryfikacji-na-rok-2027/",
+      "date": "2026-06-24T09:09:34Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1906,14 +1922,6 @@
       "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
-      "title": "Szczegóły badania | NCT07450547 | Badanie fazy 2 oceniające bezpieczeństwo i skuteczność ANG003 – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07450547",
-      "date": "2026-06-29T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07450547 | Badanie fazy 2 mające na celu ocenę bezpieczeństwa i skuteczności ANG003 ClinicalTrials.gov."
-    },
-    {
       "title": "Szczegóły badania | NCT06616025 | Badanie to oceni skuteczność NTX-001, produktu do chirurgicznej naprawy nerwów, stosowanego u osób z uszkodzeniami nerwów kończyn górnych. - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT06616025",
       "date": "2026-06-29T07:00:00Z",
@@ -1928,6 +1936,14 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07546500 | Badanie dotyczące azenosertybu (ZN-c3) w porównaniu z chemioterapią wybraną przez badacza u pacjentów z opornym na platynę surowiczym rakiem jajnika, pierwotnym rakiem otrzewnej lub jajowodu o wysokim stopniu złośliwości, z dodatnim wynikiem na obecność białka cykliny E1 Expressi ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07450547 | Badanie fazy 2 oceniające bezpieczeństwo i skuteczność ANG003 – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07450547",
+      "date": "2026-06-29T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07450547 | Badanie fazy 2 mające na celu ocenę bezpieczeństwa i skuteczności ANG003 ClinicalTrials.gov."
     },
     {
       "title": "Badanie BMS-986504 z terapią standardową dla osób chorych na raka z guzem litym – ClinicalTrials.gov",
@@ -1964,12 +1980,12 @@
       "summary": "Po wizycie na miejscu przeprowadzonej przez inspektorów FDA i uzyskaniu formularza 483 dla Genzyme Ireland na początku 2026 r. spółka zależna Sanofi spotyka się z kolejną naganą ze strony amerykańskiego organu regulacyjnego. | Po wizycie na miejscu przeprowadzonej przez inspektorów FDA i uzyskaniu formularza 483 dla Genzyme Ireland na początku 2026 r. spółka zależna Sanofi spotkała się z kolejną naganą ze strony Stanów Zjednoczonych."
     },
     {
-      "title": "Zdrowie układu krążenia matki powiązane z opóźnieniem rozwoju potomstwa – Drugs.com",
+      "title": "Zdrowie układu sercowo-naczyniowego matki powiązane z opóźnieniem rozwoju potomstwa – Drugs.com",
       "url": "https://www.drugs.com/news/maternal-cardiovascular-health-linked-offspring-developmental-delay-130525.html",
       "date": "2026-07-01T18:20:27Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Zdrowie układu sercowo-naczyniowego matki powiązane z opóźnionym rozwojem potomstwa Drugs.com."
+      "summary": "Zdrowie układu krążenia matki powiązane z opóźnionym rozwojem potomstwa Drugs.com."
     },
     {
       "title": "Otyłość jest przyczyną znacznej części przypadków polipragmazji – Drugs.com",
