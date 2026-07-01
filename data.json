@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T12:57:31Z",
+  "last_updated": "2026-07-01T12:58:42Z",
   "poland": [
     {
       "title": "Stanowisko Rady Organizacji Pacjentów w w sprawie tzw. lex szarlatan - Gov.pl",
@@ -128,6 +128,14 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "W Centrum Medycyny Cyfrowej i Robotyki UJ CM (CMCiR UJ CM) opracowano nowy system zdalnej komunikacji przestrzennej oparty na modelowaniu obrazu 3D i rozszerzonej rzeczywistości."
+    },
+    {
+      "title": "NFZ planuje nowe zasady finansowania nadwykonań od 1 lipca 2026 r. - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/nfz-planuje-nowe-zasady-finansowania-nadwykonan-od-1-lipca-2026-r/",
+      "date": "2026-07-01T10:41:15Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "NFZ planuje zmienić zasady rozliczania nadwykonań. Zamiast kwartalnych wniosków ma obowiązywać roczny tryb dla wybranych świadczeń."
     },
     {
       "title": "Prezes NRL: protest byłby prezentem dla rządu - Opinie - Kurier - Medycyna Praktyczna",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Oddziały urologii i neurochirurgii szpitala powiatowego w Płońsku będą od 1 lipca funkcjonować w trybie ostrego dyżuru. Od listopada ub. roku Narodowy Fundusz Zdrowia nie wypłacił szpitalowi ponad 14 mln zł za nadwykonania."
-    },
-    {
-      "title": "Opieka senioralna w Polsce się sypie. 2150 zł bonu nie rozwiąże problemu - Medonet",
-      "url": "https://www.medonet.pl/biznes-system-i-zdrowie/kryzys-w-opiece-nad-seniorami-firmy-alarmuja-opiekunowie-omijaja-polske/keejvmc",
-      "date": "2026-07-01T07:03:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Polska masowo odmawia wydawania wiz pracowniczych dla cudzoziemcÃ³w, ktÃ³rzy mieli wspieraÄ nasz system opieki senioralnej, pisze \"Gazeta Wyborcza\" i dodaje, Å¼e nawet uproszczona procedura tzw. szybkiej ÅcieÅ¼ki praktycznie przestaÅa dziaÅaÄ. JuÅ¼ teraz brakuje nawet 50 tys."
     }
   ],
   "world": [
@@ -561,7 +561,7 @@
       "date": "2026-07-01T07:40:22Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "W pierwszych wytycznych WHO dotyczących doxyPEP priorytetowo traktowane są grupy wysokiego ryzyka, kładąc jednocześnie nacisk na monitorowanie oporności na środki przeciwdrobnoustrojowe i odpowiedzialne wdrażanie."
+      "summary": "Pierwsze wytyczne WHO dotyczące doxyPEP priorytetowo traktują grupy wysokiego ryzyka, kładąc jednocześnie nacisk na monitorowanie oporności na środki przeciwdrobnoustrojowe i odpowiedzialne wdrażanie."
     },
     {
       "title": "Środki usuwające śluz nie wykazują żadnych korzyści w leczeniu niewydolności oddechowej - Medscape",
@@ -801,7 +801,7 @@
       "date": "2026-06-30T23:21:11Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Gigant sztucznej inteligencji, Anthropic, stał się już dominującym graczem w technologii i powszechnie znaną marką wśród codziennych użytkowników sztucznej inteligencji. Czy może też wytwarzać narkotyki?"
+      "summary": "Gigant sztucznej inteligencji, Anthropic, stał się już dominującym graczem w technologii i powszechnie znaną marką wśród codziennych użytkowników sztucznej inteligencji. Czy może również wytwarzać narkotyki?"
     }
   ],
   "guidelines": [
@@ -882,7 +882,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-06-30T20:38:31Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 4,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
@@ -1038,20 +1038,20 @@
       "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
     },
     {
+      "title": "Ograniczone wytyczne dotyczące kosztów początkowych w wytycznych amerykańskich – Conexiant",
+      "url": "https://conexiant.com/internal-medicine/articles/upfront-cost-guidance-limited-in-us-guidelines/",
+      "date": "2026-06-27T15:30:58Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
+    },
+    {
       "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
       "date": "2026-06-26T19:41:33Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Dostępny jest również plik audio."
-    },
-    {
-      "title": "Rzecznik Praw Lekarzy NIL wnioskuje o nadzwyczajne posiedzenie Zespołu do spraw ochrony personelu medycznego - NIL",
-      "url": "https://nil.org.pl/dzialalnosc/rzecznik-praw-lekarzy-nil-450/9304-rzecznik-praw-lekarzy-nil-wnioskuje-o-nadzwyczajne-posiedzenie-zespolu-do-spraw-ochrony-personelu-medycznego",
-      "date": "2026-06-26T12:36:12Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
     },
     {
       "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1126,28 +1126,20 @@
       "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
-      "title": "Biomarkery krwi na podstawie współczynnika osocza w chorobie Alzheimera: zgodność z wytycznymi praktyki klinicznej - Neurology Today",
-      "url": "https://neurologytoday.aan.com/doi/10.1097/01.wnt.0001205204.12195.fd",
-      "date": "2026-06-18T07:00:00Z",
+      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
+      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
+      "date": "2026-06-22T10:42:34Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Biomarkery krwi oparte na współczynniku osocza w chorobie Alzheimera: dostosowanie do wytycznych praktyki klinicznej Neurologia dzisiaj."
+      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
     },
     {
-      "title": "Zalecenia praktyki klinicznej dotyczące diagnostyki i leczenia cystynozy nefropatycznej - Natura",
-      "url": "https://www.nature.com/articles/s41581-026-01089-7",
-      "date": "2026-06-15T07:00:00Z",
+      "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
+      "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
+      "date": "2026-06-22T00:26:59Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "W niniejszym Konsensusie autorzy przedstawiają zalecenia dotyczące praktyki klinicznej dotyczące diagnostyki i długoterminowej opieki nad osobami chorymi na cystynozę. Oprócz powikłań nerek związanych z cystynozą, zawierają one również zalecenia dotyczące postępowania w przypadku objawów pozanerkowych, w tym chorób kości, układu pokarmowego, endokrynologicznego i neurologicznego."
-    },
-    {
-      "title": "Towarzystwo Endokrynologiczne wydaje pierwsze wytyczne dotyczące przedwczesnego dojrzewania centralnego – MedPage Today",
-      "url": "https://www.medpagetoday.com/meetingcoverage/endo/121737",
-      "date": "2026-06-13T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "„Dzieci wchodzą w okres dojrzewania wcześniej niż w poprzednich dziesięcioleciach” – mówi współprzewodnicząca panelu ds. wytycznych."
+      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
     }
   ],
   "epidemiology": [
@@ -1818,7 +1810,7 @@
       "summary": "Szczegóły badania | NCT07672782 | Tisotumab Vedotin w leczeniu raka płaskonabłonkowego sromu ClinicalTrials.gov."
     },
     {
-      "title": "Badania kliniczne w czasie rzeczywistym: co oznacza dążenie FDA do ciągłego nadzoru dla sponsorów – stosowane badania kliniczne online",
+      "title": "Badania kliniczne w czasie rzeczywistym: co oznacza dla sponsorów dążenie FDA do ciągłego nadzoru - Stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/real-time-clinical-trials-fda-continuous-oversight-sponsors",
       "date": "2026-06-29T15:53:34Z",
       "source": "Applied Clinical Trials",
@@ -1831,7 +1823,7 @@
       "date": "2026-06-29T15:53:34Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Wbudowane, a nie przykręcane: dlaczego bezpieczeństwo danych klinicznych musi być zasadą projektowania. Stosowane badania kliniczne online."
+      "summary": "Wbudowane, a nie przykręcane: dlaczego bezpieczeństwo danych klinicznych musi być zasadą projektowania. Badania kliniczne stosowane online."
     },
     {
       "title": "Streszczenie ACT: Priorytety w zakresie przywództwa i infrastruktury DIA, gotowość do przeglądu danych w czasie rzeczywistym i rozwój leczenia CLL – stosowane badania kliniczne online",
@@ -1879,15 +1871,15 @@
       "date": "2026-06-28T18:17:54Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Mike Montello, dyrektor ds. cyfrowych i informatycznych stosowanych badań klinicznych online."
+      "summary": "Mike Montello, dyrektor ds. technologii cyfrowych i informacji dotyczących stosowanych badań klinicznych online."
     },
     {
-      "title": "Sprzeczność DEA „Jedna pigułka może zabić”? Nowy Meksyk wszczyna śledztwo w sprawie karnej w obliczu rosnącej liczby pytań pod rządami administracji Trumpa – Trialsitenews.com",
+      "title": "Sprzeczność DEA „Jedna pigułka może zabić”? Nowy Meksyk wszczyna śledztwo w sprawie karnej w obliczu rosnącej liczby pytań pod rządami administracji Trumpa – Trialssitenews.com",
       "url": "https://www.trialsitenews.com/a/deas-one-pill-can-kill-contradiction-new-mexico-launches-criminal-probe-as-questions-mount-under-trump-administration-77c39452",
       "date": "2026-06-28T16:53:15Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Jeśli agenci federalni świadomie wpuścili na amerykańskie ulice setki tysięcy tabletek fentanylu w celu budowy większych spraw, gdzie jest granica między strategią dochodzeniową a bezpieczeństwem publicznym? Amerykańska Agencja ds. Walki z Narkotykami od lat ostrzega Amerykanów, że jedna podrobiona pigułka z fentanylem może zabić."
+      "summary": "Jeśli agenci federalni świadomie wpuścili na amerykańskie ulice setki tysięcy tabletek fentanylu w celu wzniesienia większych spraw, gdzie jest granica między strategią dochodzeniową a bezpieczeństwem publicznym? Amerykańska Agencja ds. Walki z Narkotykami od lat ostrzega Amerykanów, że jedna podrobiona pigułka z fentanylem może zabić."
     }
   ],
   "pharma_market": [
@@ -1964,6 +1956,14 @@
       "summary": "Mieszanka mleka pełnego koziego może zmniejszyć częstość występowania atopowego zapalenia skóry u niemowląt"
     },
     {
+      "title": "Przesyłanie danych sekwencjonowania nowej generacji do oddziału Antivira – fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVhMelBtVl9kLTdBT1dMWkRVakxtM2NpRGRpTUt4VTJmT3hBSkZ1YXNRVjhrT2NodWhlSFhpcHRibUQwN09sZXlVb2wySWliSndXeGlFY3NjeW5EMXdPRk5EMXZsak5uYk9ob0dySGxzanJxY282U3Rram1fYVBuR0dxT1AyZDc5NFV6Vlkzdlk5amVMYXVOV29rWTBRTTJ2YThfOUhRZkw1UHM5SmtyS1pOVU5TOFRuOHZqNUpWOTR4NFpCcHVHTkhBWlhSODVUMTFsVGhkWEYtdw?oc=5",
+      "date": "2026-07-01T00:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Przesyłanie danych sekwencjonowania nowej generacji do oddziału Antivira fda.gov."
+    },
+    {
       "title": "Interwencja cyfrowej uważności korzystna w leczeniu depresji w późnym wieku – Drugs.com",
       "url": "https://www.drugs.com/news/digital-mindfulness-intervention-beneficial-late-depression-130512.html",
       "date": "2026-06-30T23:51:39Z",
@@ -1993,7 +1993,7 @@
       "date": "2026-06-30T21:01:40Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Planowane przejęcie Kartos Therapeutics zapewni Ipsen narzędzie do leczenia zwłóknienia szpiku w późnym stadium. W innym miejscu Sobi napotkał porażkę regulacyjną, a BeOne ujawniło więcej pozytywnych danych Brukinsy."
+      "summary": "Planowane przejęcie Kartos Therapeutics zapewni Ipsen lek na późne stadium zwłóknienia szpiku. W innym miejscu Sobi napotkał porażkę regulacyjną, a BeOne ujawniło więcej pozytywnych danych Brukinsy."
     },
     {
       "title": "FDA zatwierdza nową terapię wykorzystującą komórki odpornościowe dawcy w celu zapobiegania poważnym powikłaniom u pacjentów z rakiem krwi - fda.gov",
@@ -2044,7 +2044,7 @@
       "summary": "Inauguracyjna klasa uczestników programu pilotażowego mającego na celu usprawnienie procesu zatwierdzania przez FDA obejmowała terapię genową, API i inne zakłady produkcyjne."
     },
     {
-      "title": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich – chyba że zrezygnują – Drugs.com",
+      "title": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich, chyba że zrezygnują - Drugs.com",
       "url": "https://www.drugs.com/news/40-year-old-law-requires-ers-everyone-unless-they-opt-out-130502.html",
       "date": "2026-06-30T18:14:57Z",
       "source": "Drugs.com",
@@ -2282,14 +2282,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Nawet łagodne zmiany pogody wpływają na zdrowie psychiczne Drugs.com."
-    },
-    {
-      "title": "data decyzji FDA Sarepty; Flare ma Annę Protopapas na stanowisku dyrektora generalnego – Endpoints News",
-      "url": "https://endpoints.news/sareptas-fda-decision-date-flare-gets-anna-protopapas-as-ceo/",
-      "date": "2026-06-30T14:43:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "Sarepta ma 28 lutego wezwanie FDA w sprawie dwóch leków; Flare wybiera Annę Protopapas na stanowisko dyrektora generalnego; oraz wiadomości o Deerfield, InflaRx, Praxis, Nuvectis, Pyxis Oncology, Vistagen, Arcutis Biotherapeutics i Nxera."
     }
   ],
   "critical_alerts": [
