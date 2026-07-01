@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T20:48:37Z",
+  "last_updated": "2026-07-01T20:49:26Z",
   "poland": [
     {
       "title": "Lista leków refundowanych od 1 lipca 2026 – 25 nowych terapii i nowe rozwiązania dotyczące e-recept - DOZ",
@@ -11,7 +11,7 @@
     },
     {
       "title": "01.12 Szkolenia doskonalące dla lekarzy i lekarek, pielęgniarzy i pielęgniarek oraz położnych udzielających świadczeń zdrowotnych w ponadregionalnych podmiotach leczniczych - Gov.pl",
-      "url": "http://www.gov.pl/zdrowie/0112-szkolenia-doskonalace-dla-lekarzy-i-lekarek-pielegniarzy-i-pielegniarek-oraz-poloznych-udzielajacych-swiadczen-zdrowotnych-w-ponadregionalnych-podmiotach-leczniczych",
+      "url": "https://www.gov.pl/web/zdrowie/0112-szkolenia-doskonalace-dla-lekarzy-i-lekarek-pielegniarzy-i-pielegniarek-oraz-poloznych-udzielajacych-swiadczen-zdrowotnych-w-ponadregionalnych-podmiotach-leczniczych",
       "date": "2026-07-01T19:29:42Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
@@ -19,7 +19,7 @@
     },
     {
       "title": "01.12 Szkolenia doskonalące dla lekarzy i lekarek, pielęgniarzy i pielęgniarek oraz położnych udzielających świadczeń zdrowotnych w ponadregionalnych podmiotach leczniczych - Gov.pl",
-      "url": "https://www.gov.pl/web/zdrowie/0112-szkolenia-doskonalace-dla-lekarzy-i-lekarek-pielegniarzy-i-pielegniarek-oraz-poloznych-udzielajacych-swiadczen-zdrowotnych-w-ponadregionalnych-podmiotach-leczniczych",
+      "url": "http://www.gov.pl/zdrowie/0112-szkolenia-doskonalace-dla-lekarzy-i-lekarek-pielegniarzy-i-pielegniarek-oraz-poloznych-udzielajacych-swiadczen-zdrowotnych-w-ponadregionalnych-podmiotach-leczniczych",
       "date": "2026-07-01T19:29:42Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
@@ -617,7 +617,7 @@
       "date": "2026-07-01T08:48:09Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Nowe limity słów sprawią, że nasze dowody będą skupione, zwięzłe i bardziej dostępne dla czytelników."
+      "summary": "Wprowadzenie limitu słów w recenzjach i protokołach Cochrane.org."
     },
     {
       "title": "Zaprzestanie stosowania PARP utrzymuje wyniki u wyjątkowych pacjentów z rakiem jajnika - Medscape",
@@ -1164,6 +1164,38 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
+    },
+    {
+      "title": "NG126 Ciąża pozamaciczna i poronienie: Przegląd dowodów E 17/06/26 - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ng126/evidence/e-use-of-anti-d-immunoglobulin-prophylaxis-pdf-15733058941",
+      "date": "2026-06-17T06:03:15Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "NG126 Ciąża pozamaciczna i poronienie: Przegląd dowodów E 17/06/26 Strona internetowa NICE."
+    },
+    {
+      "title": "Notatki | Dokumenty projektowe | Infigratynib do leczenia nawrotowego lub opornego na leczenie zaawansowanego raka dróg żółciowych z fuzją lub rearanżacją FGFR2 [ID3992] | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta10882/documents/html-content",
+      "date": "2026-06-10T02:12:11Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Dokumenty projektowe | Infigratynib do leczenia nawrotowego lub opornego na leczenie zaawansowanego raka dróg żółciowych z fuzją lub rearanżacją FGFR2 [ID3992] | Poradnik NICE."
+    },
+    {
+      "title": "Notatki | Dokumenty projektowe | Pembrolizumab z lenwatynibem w leczeniu nieleczonego raka płaskonabłonkowego głowy i szyi z dodatnim ekspresją PD-L1, nawrotowego lub przerzutowego [ID5118] | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta11005/documents/html-content-4",
+      "date": "2026-06-08T17:30:39Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Dokumenty projektowe | Pembrolizumab z lenwatynibem w leczeniu nieleczonego raka płaskonabłonkowego głowy i szyi z dodatnim ekspresją PD-L1, nawrotowego lub przerzutowego [ID5118] | Poradnik NICE."
+    },
+    {
+      "title": "HTG740 Litotrypsja wewnątrznaczyniowa w leczeniu zwapnionych tętnic wieńcowych podczas przezskórnej interwencji wieńcowej: podsumowanie końcowe – strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/htg740/evidence/overview-final-pdf-15242701789",
+      "date": "2026-06-06T07:00:00Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "HTG740 Litotrypsja wewnątrznaczyniowa w leczeniu zwapnionych tętnic wieńcowych podczas przezskórnej interwencji wieńcowej: przegląd końcowej strony internetowej NICE."
     }
   ],
   "epidemiology": [
