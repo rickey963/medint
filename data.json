@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-01T16:05:26Z",
+  "last_updated": "2026-07-01T16:11:05Z",
   "poland": [
+    {
+      "title": "INFORMACJA MINISTRA ZDROWIA - Gov.pl",
+      "url": "https://www.gov.pl/web/zdrowie/informacja-ministra-zdrowia",
+      "date": "2026-07-01T16:04:28Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Ceniąc transparentność w życiu publicznym informuję, że moje oświadczenie majątkowe zostało opublikowane, chociaż nie miałam takiego obowiązku."
+    },
+    {
+      "title": "Jaki SPF do cery trądzikowej wybrać? Porady pielęgnacyjne dla skóry tłustej i mieszanej - DOZ",
+      "url": "https://www.doz.pl/czytelnia/a18722-Jaki_SPF_do_cery_tradzikowej_wybrac_Porady_pielegnacyjne_dla_skory_tlustej",
+      "date": "2026-07-01T15:56:15Z",
+      "source": "DOZ.pl",
+      "confirmed_by": 1,
+      "summary": "Fotoprotekcja to ważny etap pielęgnacji skóry trądzikowej. Jakie składniki powinien mieć SPF do cery trądzikowej? Których składników unikać, żeby nie pogorszyć stanu cery?"
+    },
     {
       "title": "MON uruchamia Wojskową Akademię Medyczną. Płk prof. Marek Saracyn nowym rektorem-komendantem - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/mon-uruchamia-wojskowa-n2397374",
@@ -23,7 +39,7 @@
       "date": "2026-07-01T14:35:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "NFZ opublikował końcowe wykonanie budżetu refundacyjnego za 2025 r. Wydano ponad 30 mld zł, a plan zrealizowano w 96,86%."
+      "summary": "NFZ wydał ponad 30 mld zł na refundację. Budżet za 2025 r. wykonano w 96,86% Alert Medyczny."
     },
     {
       "title": "Ministerstwo Zdrowia i studenci medycyny różnią się w ocenie rozmów o reformie kształcenia lekarzy - Remedium | Portal medyczny",
@@ -42,22 +58,6 @@
       "summary": "w sprawie przyjęcia rocznego sprawozdania z wykonania planu finansowego Narodowego Funduszu Zdrowia na 2025 r. Uchwała Nr 19/2026/V."
     },
     {
-      "title": "Uchwała Nr 21/2026/V - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/uchwaly-rady-nfz/uchwala-nr-212026v,6761.html",
-      "date": "2026-07-01T14:22:48Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
-      "summary": "w sprawie przyjęcia rocznego sprawozdania z działalności Narodowego Funduszu Zdrowia za 2025 r. Uchwała Nr 21/2026/V."
-    },
-    {
-      "title": "Uchwała Nr 20/2026/V - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/uchwaly-rady-nfz/uchwala-nr-202026v,6760.html",
-      "date": "2026-07-01T14:22:48Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
-      "summary": "w sprawie pokrycia straty netto Narodowego Funduszu Zdrowia za 2025 r. Uchwała Nr 20/2026/V."
-    },
-    {
       "title": "Uchwała Nr 22/2026/V - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/uchwaly-rady-nfz/uchwala-nr-222026v,6762.html",
       "date": "2026-07-01T14:22:48Z",
@@ -72,6 +72,22 @@
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
       "summary": "zmieniająca uchwałę w sprawie przyjęcia rzeczowego planu wydatków inwestycyjnych Narodowego Funduszu Zdrowia na 2026 r. Uchwała Nr 23/2026/V."
+    },
+    {
+      "title": "Uchwała Nr 21/2026/V - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/uchwaly-rady-nfz/uchwala-nr-212026v,6761.html",
+      "date": "2026-07-01T14:22:48Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "w sprawie przyjęcia rocznego sprawozdania z działalności Narodowego Funduszu Zdrowia za 2025 r. Uchwała Nr 21/2026/V."
+    },
+    {
+      "title": "Uchwała Nr 20/2026/V - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/uchwaly-rady-nfz/uchwala-nr-202026v,6760.html",
+      "date": "2026-07-01T14:22:48Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "w sprawie pokrycia straty netto Narodowego Funduszu Zdrowia za 2025 r. Uchwała Nr 20/2026/V."
     },
     {
       "title": "Projekt zarządzenia – leczenie szpitalne – programy lekowe - Narodowy Fundusz Zdrowia (NFZ)",
@@ -135,7 +151,7 @@
       "date": "2026-07-01T13:08:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "NFZ opublikował wykonanie budżetu refundacyjnego za styczeń-maj 2026. Na refundację wydano już 12,4 mld zł, czyli 38,86% rocznego planu."
+      "summary": "Ponad 12 mld zł na refundację. NFZ opublikował wykonanie budżetu za styczeń-maj 2026 Alert Medyczny."
     },
     {
       "title": "Prezydent podpisał ustawę. Milcząca zgoda rozszerzona - Rynek Zdrowia",
@@ -167,7 +183,7 @@
       "date": "2026-07-01T12:30:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "OZPSP krytykuje projekt NFZ dotyczący rozliczania nadwykonań. Organizacja apeluje o wycofanie zmian i ostrzega przed skutkami dla szpitali."
+      "summary": "OZPSP krytykuje projekt NFZ: „wymuszenie kredytowania funduszu przez nasze placówki” Alert Medyczny."
     },
     {
       "title": "Prof. Robert Gałązkowski dziekanem Wydziału Nauk o Zdrowiu WUM. „Musimy postawić na jakość kształcenia” - PolitykaZdrowotna.com",
@@ -207,7 +223,7 @@
       "date": "2026-07-01T11:58:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Premier Donald Tusk powołał Liwiusza Laskę na prezesa ZUS. Zastąpił Zbigniewa Derdziuka, odwołanego z powodów zdrowotnych."
+      "summary": "Nowy prezes ZUS już powołany. Liwiusz Laska zastąpił Zbigniewa Derdziuka Alert Medyczny."
     },
     {
       "title": "NRPiP chce rozszerzenia emerytur pomostowych. Wskazuje konkretne grupy pielęgniarek - Alert Medyczny",
@@ -338,14 +354,6 @@
       "summary": "NFZ proponuje zmianę rozliczania nadwykonań. Czas na uwagi do 7 lipca PolitykaZdrowotna.com."
     },
     {
-      "title": "Jaki SPF do cery trądzikowej wybrać? Porady pielęgnacyjne dla skóry tłustej i mieszanej - DOZ",
-      "url": "https://www.doz.pl/czytelnia/a18722-Jaki_SPF_do_cery_tradzikowej_wybrac_Porady_pielegnacyjne_dla_skory_tlustej",
-      "date": "2026-07-01T10:04:51Z",
-      "source": "DOZ.pl",
-      "confirmed_by": 1,
-      "summary": "Fotoprotekcja to ważny etap pielęgnacji skóry trądzikowej. Jakie składniki powinien mieć SPF do cery trądzikowej? Których składników unikać, żeby nie pogorszyć stanu cery?"
-    },
-    {
       "title": "Merck ma nowego dyrektora zarządzającego w Polsce. Stanowisko objęła Valeria Kyska - Alert Medyczny",
       "url": "https://alertmedyczny.pl/merck-ma-nowego-dyrektora-zarzadzajacego-w-polsce-stanowisko-objela-valeria-kyska/",
       "date": "2026-07-01T10:02:00Z",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "W czerwcu z powodu wysokich temperatur zmarło w Hiszpanii ponad 1000 osób – wynika z danych hiszpańskiego ministerstwa zdrowia. W kraju odnotowano drugi najgorętszy czerwiec w historii pomiarów."
-    },
-    {
-      "title": "EMA rekomenduje cofnięcie pozwolenia dla Tavneos - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/reumatologia/aktualnosci/442915,ema-rekomenduje-cofniecie-pozwolenia-dla-tavneos",
-      "date": "2026-07-01T09:48:54Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Komitet ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP) Europejskiej Agencji Leków (EMA) zarekomendował cofnięcie pozwolenia na dopuszczenie do obrotu produktu Tavneos (awakopan) w Unii Europejskiej. Komitet uznał, że dostępne dane nie potwi."
     }
   ],
   "world": [
@@ -409,7 +409,7 @@
       "date": "2026-07-01T15:05:06Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "W badaniach z udziałem pacjentów z umiarkowanym do ciężkiego trądzikiem różowatym stosowane miejscowo iwermektyna i kapsułkowany nadtlenek benzoilu łagodzą zmiany zapalne i ich nasilenie w porównaniu z metronidazolem."
+      "summary": "Miejscowe stosowanie iwermektyny i kapsułkowanego nadtlenku benzoilu łagodzi zmiany zapalne i nasilenie zmian zapalnych w porównaniu z metronidazolem w badaniach pacjentów z umiarkowanym do ciężkiego trądzikiem różowatym."
     },
     {
       "title": "Globalna aktywność wirusów układu oddechowego: cotygodniowa aktualizacja nr 584 – Światowa Organizacja Zdrowia (WHO)",
@@ -596,12 +596,12 @@
       "summary": "1 lipca 2026 r., Latakia, Syryjska Republika Arabska – Lata kryzysu i trudności gospodarczych wpłynęły na dobrobyt społeczności w całej Syrii, zwiększając ryzyko ochrony i tworząc dodatkowe bariery w dostępie do opieki..."
     },
     {
-      "title": "WHO zaleca doksycyklinę PEP w celu zapobiegania bakteryjnym chorobom przenoszonym drogą płciową - Medscape",
+      "title": "WHO zaleca doksycyklinę PEP w zapobieganiu bakteryjnym chorobom przenoszonym drogą płciową - Medscape",
       "url": "https://www.medscape.com/viewarticle/who-recommends-doxycycline-postexposure-prophylaxis-prevent-2026a1000mar?src=",
       "date": "2026-07-01T07:40:22Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "W pierwszych wytycznych WHO dotyczących doxyPEP priorytetowo traktowane są grupy wysokiego ryzyka, kładąc jednocześnie nacisk na monitorowanie oporności na środki przeciwdrobnoustrojowe i odpowiedzialne wdrażanie."
+      "summary": "Pierwsze wytyczne WHO dotyczące doxyPEP priorytetowo traktują grupy wysokiego ryzyka, kładąc jednocześnie nacisk na monitorowanie oporności na środki przeciwdrobnoustrojowe i odpowiedzialne wdrażanie."
     },
     {
       "title": "Środki usuwające śluz nie wykazują żadnych korzyści w leczeniu niewydolności oddechowej - Medscape",
@@ -705,7 +705,7 @@
       "date": "2026-07-01T04:58:22Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Ponieważ wspomagane umieranie jest obecnie legalne w coraz większej liczbie jurysdykcji, Wielka Brytania i inne kraje w dalszym ciągu zastanawiają się, czy i w jaki sposób należy wprowadzić takie przepisy. W Anglii i Walii ustawa o osobach nieuleczalnie chorych (u kresu życia) (TIA Bill) trafiła obecnie do Izby Lordów po gruntownej kontroli parlamentarnej, podczas gdy w Szkocji równoległe wysiłki legislacyjne również nie poczyniły postępów.1 2 Z kolei na Jersey Zgromadzenie Stanów przyjęło w lutym ustawę o świadczeniu dziennym wspomaganym, sygnalizując ciągłe zmiany w pobliskich jurysdykcjach3. Debaty wokół tych ustaw ujawniły wyraźną rozbieżność w sposobie rozważania wprowadzenia wspomaganego umierania w odniesieniu do istniejących nierówności strukturalnych przez mniejszości etniczne. Na przykład ocena wpływu ustawy TIA na równość skupiała się na praktycznych barierach w dostępie do pomocy w umieraniu3, ale nie odniosła się w znaczący sposób do tego, jak istniejące nierówności, w tym wpływ dyskryminacji, mogą kształtować sposób, w jaki taka polityka jest rozumiana, ufana i stosowana w praktyce."
+      "summary": "Ponieważ wspomagane umieranie jest obecnie legalne w coraz większej liczbie jurysdykcji, Wielka Brytania i inne kraje w dalszym ciągu zastanawiają się, czy i w jaki sposób należy wprowadzić takie przepisy. W Anglii i Walii ustawa o osobach nieuleczalnie chorych (u kresu życia) (TIA Bill) trafiła obecnie do Izby Lordów po gruntownej kontroli parlamentarnej, podczas gdy w Szkocji równoległe wysiłki legislacyjne również nie poczyniły postępów.1 2 Z kolei na Jersey Zgromadzenie Stanów przyjęło w lutym ustawę o świadczeniu dziennym wspomaganym, sygnalizując ciągłe zmiany w pobliskich jurysdykcjach3. Debaty wokół tych ustaw ujawniły wyraźną rozbieżność w sposobie rozważania wprowadzenia wspomaganego umierania w odniesieniu do istniejących nierówności strukturalnych przez mniejszości etniczne. Na przykład ocena wpływu ustawy TIA na równość skupiała się na praktycznych barierach w dostępie do pomocy w umieraniu3, ale nie odniosła się w znaczący sposób do tego, w jaki sposób istniejące nierówności, w tym wpływ dyskryminacji, mogą kształtować sposób, w jaki taka polityka jest rozumiana, ufana i stosowana w praktyce."
     },
     {
       "title": "Osoby zmarłe po przedawkowaniu opioidów a opieka paliatywna: badanie opisowe na poziomie populacji - BMJ Opieka wspomagająca i paliatywna",
@@ -753,7 +753,7 @@
       "date": "2026-07-01T04:53:31Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Podczas spotkania interesariuszy w ramach Ram działań na rzecz bezpieczeństwa zdrowia Azji i Pacyfiku (APHSAF) w Kuala Lumpur w dniu 11 czerwca 2026 r. państwa członkowskie Światowej Organizacji Zdrowia (WHO) zgodziły się na dalsze opracowywanie wspólnego planu działania w zakresie zarządzania ryzykiem w sytuacjach kryzysowych (JERMAP): praktyczne podejście w ramach wdrażania APHSAF, które ma pomóc partnerom w bardziej przewidywalnym wspieraniu reakcji kierowanych na szczeblu krajowym poprzez planowanie oparte na scenariuszach."
+      "summary": "Podczas spotkania interesariuszy w ramach ram działań na rzecz bezpieczeństwa zdrowia Azji i Pacyfiku (APHSAF) w Kuala Lumpur w dniu 11 czerwca 2026 r. państwa członkowskie Światowej Organizacji Zdrowia (WHO) zgodziły się na dalsze opracowywanie wspólnego planu działania w zakresie zarządzania ryzykiem w sytuacjach kryzysowych (JERMAP): praktyczne podejście w ramach wdrażania APHSAF, które ma pomóc partnerom w bardziej przewidywalnym wspieraniu reakcji kierowanych na szczeblu krajowym poprzez planowanie oparte na scenariuszach."
     },
     {
       "title": "Bezpieczeństwo i skuteczność szczepionek mRNA: perspektywa mechanistyczna i zdrowie publiczne - The Lancet",
@@ -947,7 +947,7 @@
       "date": "2026-06-30T14:28:04Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Wykorzystujemy pliki cookie w celu zapewnienia prawidłowego funkcjonowania naszej witryny oraz do analizy ruchu i optymalizacji działania strony. Dzięki nim możemy lepiej dostosować treści do potrzeb użytkowników i stale ulepszać nasze usługi. Pamiętaj, że informacje przechowywane w plikach cookie mogą pozwalać na identyfikację konkretnego urządzenia lub przeglądarki użytkownika, a więc potencjalnie stanowić dane osobowe."
+      "summary": "Posiedzenie Rady Przejrzystości 27/2026 w dniu 06.07.2026 r. Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Neoadiuwantowy serplulimab z S-1 Plus oksaliplatyną, a następnie adiuwant serplulimab znacząco poprawia EFS w przypadku resekcyjnego gruczolakoraka żołądka lub gruczolakoraka GEJ z dodatnim statusem PD-L1 - ESMO",
@@ -1134,12 +1134,20 @@
       "summary": "Jak wynika z nowego oświadczenia naukowego American Heart Association, wczesna diagnoza, szybkie leczenie i opieka kontrolna po porodzie mają kluczowe znaczenie dla zapobiegania zagrażającym życiu powikłaniom u kobiet w ciąży i po porodzie z niewydolnością serca."
     },
     {
+      "title": "Komunikat – Plan Taryfikacji na rok 2027 - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/komunikat-plan-taryfikacji-na-rok-2027/",
+      "date": "2026-06-24T09:09:34Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
+      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Rekomendacja Prezesa – Tezspire (tezepelumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1147,7 +1155,7 @@
       "date": "2026-06-23T09:04:24Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
+      "summary": "Rekomendacja Prezesa – Tezspire (tezepelumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1163,7 +1171,7 @@
       "date": "2026-06-22T00:26:59Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Pacjenci mieszkający na obszarach wiejskich z przewlekłym bólem muszą mierzyć się z długimi podróżami, kosztownymi podróżami i ograniczonym dostępem do aptek w celu skutecznego leczenia bólu."
+      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
     }
   ],
   "epidemiology": [
@@ -1336,7 +1344,7 @@
       "summary": "Pomimo dostępności skutecznych szczepionek, metod diagnostycznych i metod leczenia wirusowe zapalenie wątroby pozostaje główną przyczyną chorób wątroby i raka wątroby, powodując codziennie tysiące zgonów, którym można zapobiec. Ograniczenia finansowe, napiętnowanie i dyskryminacja, słaba integracja systemów opieki zdrowotnej i nierówny dostęp do innowacji w dalszym ciągu pozostawiają miliony ludzi bez opieki. Odzwierciedlając temat Światowego Dnia Wirusowego Zapalenia Wątroby, wydarzenie to zgromadzi ministrów, decydentów, ekspertów technicznych, społeczeństwo obywatelskie, dotknięte społeczności i partnerów zajmujących się rozwojem, aby określić działania mające na celu zwiększenie inwestycji, usprawnienie świadczenia usług, poszerzenie równego dostępu i przyspieszenie innowacji."
     },
     {
-      "title": "Światowy Dzień Wirusowego Zapalenia Wątroby 2026 – talk show w internecie – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Światowy Dzień Wirusowego Zapalenia Wątroby 2026 – talk show w Internecie – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/07/23/default-calendar/world-hepatitis-day-2026-online-talk-show",
       "date": "2026-06-30T16:19:24Z",
       "source": "WHO Disease Outbreak News",
@@ -1352,7 +1360,7 @@
       "summary": "Światowa Organizacja Zdrowia (WHO) rozszerzyła swoją Sieć Monitorowania Nierówności Zdrowotnej (HIM), podwajając liczbę instytucji z 12 do 24 instytucji we wszystkich regionach. Ekspansja stanowi znaczący krok we wzmacnianiu globalnej zdolności do monitorowania nierówności w zdrowiu i wspierania krajów w zwiększaniu równości w zdrowiu i powszechnej opieki zdrowotnej. Uruchomiona przez WHO w czerwcu 2025 r. sieć HIM zrzesza wiodące instytucje akademickie, krajowe agencje statystyczne i organizacje zajmujące się zdrowiem publicznym w celu wzmocnienia monitorowania nierówności zdrowotnych na całym świecie."
     },
     {
-      "title": "Webinarium WHO dotyczące sytuacji nadzwyczajnych w zakresie zdrowia EPI-WIN: Nowe wytyczne WHO dotyczące bakteryjnego zapalenia opon mózgowo-rdzeniowych: narzędzie dla pracowników pierwszej linii opieki zdrowotnej – Światowa Organizacja Zdrowia (WHO)",
+      "title": "WHO Health Emergency EPI-WIN seminarium internetowe: Nowe wytyczne WHO dotyczące bakteryjnego zapalenia opon mózgowo-rdzeniowych: narzędzie dla pracowników pierwszej linii opieki zdrowotnej – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/06/30/default-calendar/who-health-emergencies-epi-win-webinar-new-who-guidance-on-bacterial-meningitis-a-tool-for-frontline-healthcare-workers",
       "date": "2026-06-30T12:00:00Z",
       "source": "WHO Disease Outbreak News",
@@ -1445,7 +1453,7 @@
       "date": "2026-06-29T20:17:23Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Wybuch listeriozy w Kanadzie w 2024 r., w wyniku którego zachorowało co najmniej 20 osób, a trzy zginęły, został powiązany ze skażonymi roślinnymi produktami mlecznymi, co zdaniem władz odpowiedzialnych za zdrowie publiczne jest pierwszym ogniskiem listeriozy związanym z alternatywnymi napojami mlecznymi."
+      "summary": "Wybuch listeriozy w Kanadzie w 2024 r., w wyniku którego zachorowało co najmniej 20 osób i zginęły trzy osoby, został powiązany ze skażonymi roślinnymi produktami mlecznymi, co zdaniem władz odpowiedzialnych za zdrowie publiczne jest pierwszym ogniskiem listeriozy związanym z alternatywnymi napojami mlecznymi."
     },
     {
       "title": "Badania sugerują, że Tylenol podczas ciąży nie zwiększa ryzyka autyzmu ani ADHD u dziecka – CIDRAP",
@@ -1583,7 +1591,7 @@
       "date": "2026-07-01T12:53:07Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "EAN 2026: Dane pochodzące ze świata rzeczywistego potwierdzają bezpieczeństwo i skuteczność leku Vyalev firmy AbbVie w ośrodku badań klinicznych choroby Parkinsona."
+      "summary": "EAN 2026: Dane pochodzące ze świata rzeczywistego potwierdzają bezpieczeństwo i skuteczność preparatu Vyalev firmy AbbVie w ośrodku badań klinicznych choroby Parkinsona."
     },
     {
       "title": "Czasopismo medyczne wycofuje kluczowy artykuł Tavneos w związku z szerszymi obostrzeniami regulacyjnymi – Clinical Trials Arena",
@@ -1599,7 +1607,7 @@
       "date": "2026-07-01T10:06:40Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Informacje o ACT: Kwestie dotyczące integralności badania Tavneos, ścieżki regulacyjne dotyczące selektywnych danych dotyczących bezpieczeństwa oraz uruchomienie programu FDA PreCheck w zakresie stosowanych badań klinicznych online."
+      "summary": "Krótki opis ACT: Kwestie dotyczące integralności badania Tavneos, ścieżki regulacyjne dotyczące selektywnych danych dotyczących bezpieczeństwa oraz uruchomienie programu FDA PreCheck w zakresie stosowanych badań klinicznych online."
     },
     {
       "title": "Niezależne, wolne od cenzury media na rzecz zdrowia i badań biomedycznych – Trialsitenews.com",
@@ -1815,7 +1823,7 @@
       "date": "2026-06-29T21:10:53Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA po pandemii Covid-19 od dawna spada, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z The Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
+      "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA od dłuższego czasu spada po pandemii Covid-19, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
     },
     {
       "title": "Zapalenie wątroby wywołane szczepionką przeciwko Covid-19: większość pacjentów wraca do zdrowia, ale u niektórych rozwija się trwała autoimmunologiczna choroba wątroby - trisitenews.com",
@@ -1863,7 +1871,7 @@
       "date": "2026-06-29T15:53:34Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Wbudowane, a nie przykręcane: dlaczego bezpieczeństwo danych klinicznych musi być zasadą projektowania. Stosowane badania kliniczne online."
+      "summary": "Wbudowane, a nie przykręcane: dlaczego bezpieczeństwo danych klinicznych musi być zasadą projektowania. Badania kliniczne stosowane online."
     },
     {
       "title": "Streszczenie ACT: Priorytety w zakresie przywództwa i infrastruktury DIA, gotowość do przeglądu danych w czasie rzeczywistym i rozwój leczenia CLL – stosowane badania kliniczne online",
@@ -1924,6 +1932,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Akcje leku Abivax rosną wraz z ustąpieniem obaw związanych z ryzykiem raka związanym z lekami odpornościowymi – BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/abivax-obefazimod-Phase3-safety-data-cancer-ulcerative-colitis/824196/",
+      "date": "2026-07-01T15:56:29Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Według firmy Abivax nowe dane sugerują, że w prowadzonych przez nią badaniach wskaźniki nowotworów złośliwych nie były wyższe niż „wyjściowe” wskaźniki u osób z wrzodziejącym zapaleniem jelita grubego, co rozwiewało kluczową obawę dotyczącą bezpieczeństwa."
+    },
+    {
       "title": "PharmaMar zgłasza obawy sierot w związku z nadchodzącym raportem JCA UE firmy Zepzelca - Insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/pharmamar-flags-orphan-concerns-over-forthcoming-zepzelca-eu-jca-report-5SUGWQ6KLZG6XLZ7KBQ2QKNWFM/",
       "date": "2026-07-01T14:48:52Z",
@@ -1932,7 +1948,7 @@
       "summary": "PharmaMar określiła proces wspólnej oceny klinicznej zgodnie z rozporządzeniem w sprawie oceny technologii medycznych jako „wymagający”."
     },
     {
-      "title": "Ipsen kupuje szwajcarską biotechnologię Memo Therapeutics za potencjalną transakcję o wartości 800 mln dolarów - BioPharma Dive",
+      "title": "Ipsen kupuje szwajcarską firmę biotechnologiczną Memo Therapeutics za potencjalną transakcję o wartości 800 mln dolarów - BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/ipsen-memo-acquisition-rare-disease-virus-deal/824207/",
       "date": "2026-07-01T14:27:15Z",
       "source": "BioPharma Dive",
@@ -1940,12 +1956,20 @@
       "summary": "Dzięki temu zakupowi Ipsen otrzyma eksperymentalny lek do późnego etapu testów na obecność wirusa, który często atakuje pacjentów po przeszczepieniu nerki."
     },
     {
+      "title": "Haleon łączy siły z Microsoft w ramach 5-letniego paktu dotyczącego sztucznej inteligencji w celu usprawnienia działań w zakresie zdrowia konsumentów – Fierce Pharma",
+      "url": "https://www.fiercepharma.com/pharma/haleon-teams-microsoft-5-year-corporate-ai-deal-upgrade-consumer-health-operations",
+      "date": "2026-07-01T14:14:28Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Haleon, gigant w dziedzinie zdrowia konsumenckiego, zwrócił się do Microsoft z prośbą o włączenie sztucznej inteligencji do swoich działań, dołączając do rosnącej fali czołowych specjalistów z zakresu opieki zdrowotnej i nauk przyrodniczych zwracających się do Big Tech w celu realizacji przedsięwzięć | Haleon, gigant w dziedzinie zdrowia konsumenckiego, zwrócił się do Microsoftu z prośbą o włączenie sztucznej inteligencji do swoich działań, dołączając do rosnącej fali czołowych graczy z branży opieki zdrowotnej i nauk przyrodniczych zwracających się do Big Tech w celu przeprowadzenia zmian cyfrowych w całym przedsiębiorstwie."
+    },
+    {
       "title": "Vyome uzyskał chiński patent na portfolio produktów wzmacniających odporność i stany zapalne - BioSpace",
       "url": "https://www.biospace.com/press-releases/vyome-granted-chinese-patent-strengthening-immuno-inflammation-portfolio",
       "date": "2026-07-01T13:54:14Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "CAMBRIDGE, Massachusetts--(BUSINESS WIRE)-- $HIND #VT1953 --Vyome Holdings, Inc. (NASDAQ: HIND) („Vyome” lub „Firma”), firma biofarmaceutyczna znajdująca się na etapie klinicznym, skupiająca się na opracowywaniu zróżnicowanych terapii chorób immunozapalnych i chorób rzadkich, ogłasza, że chińska Krajowa Administracja Własności Intelektualnej (CNIPA) przyznała patent (chiński patent nr. ZL 2021 1 0758695.X) obejmujący oświadczenia dotyczące formulacji i zastosowania terapeutycznego związane z jego zastrzeżonym programem żelu do stosowania miejscowego z besifloksacyną na trądzik zapalny."
+      "summary": "CAMBRIDGE, Massachusetts--(BUSINESS WIRE)-- $HIND #VT1953 --Vyome Holdings, Inc. (NASDAQ: HIND) („Vyome” lub „Firma”), firma biofarmaceutyczna znajdująca się na etapie klinicznym, skupiająca się na opracowywaniu zróżnicowanych terapii schorzeń immunozapalnych i chorób rzadkich, ogłasza, że chińska Krajowa Administracja Własności Intelektualnej (CNIPA) przyznała patent (chiński patent nr. ZL 2021 1 0758695.X) obejmujący oświadczenia dotyczące formulacji i zastosowania terapeutycznego związane z jego zastrzeżonym programem żelu do stosowania miejscowego z besifloksacyną na trądzik zapalny."
     },
     {
       "title": "Wyrzucony czynnik angażujący komórki T Amgen powraca do życia u swojego kalifornijskiego twórcy, 92Bio – Endpoints News",
@@ -2041,7 +2065,7 @@
       "date": "2026-07-01T04:03:30Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Kopenhaga, Dania, 30 czerwca 2026 r. – Firma Zealand Pharma A/S („Spółka” lub „Zealand Pharma”) (Nasdaq: ZEAL) (CVR-nr 20045078), firma biotechnologiczna zmieniająca przyszłość zdrowia metabolicznego, zgłasza dzisiaj otrzymanie w dniu 30 czerwca 2026 r. powiadomienia zgodnie z art. 38 duńskiej ustawy o rynkach kapitałowych od następującego głównego akcjonariusza:"
+      "summary": "Kopenhaga, Dania, 30 czerwca 2026 r. – Zealand Pharma A/S („Spółka” lub „Zealand Pharma”) (Nasdaq: ZEAL) (CVR-nr 20045078), firma biotechnologiczna zmieniająca przyszłość zdrowia metabolicznego, zgłasza dzisiaj otrzymanie w dniu 30 czerwca 2026 r. powiadomienia zgodnie z art. 38 duńskiej ustawy o rynkach kapitałowych od następującego głównego akcjonariusza:"
     },
     {
       "title": "AVEO Oncology ogłasza plan sukcesji - BioSpace",
@@ -2156,12 +2180,12 @@
       "summary": "Inauguracyjna klasa uczestników programu pilotażowego mającego na celu usprawnienie procesu zatwierdzania przez FDA obejmowała terapię genową, API i inne zakłady produkcyjne."
     },
     {
-      "title": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich – chyba że zrezygnują – Drugs.com",
+      "title": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich, chyba że zrezygnują - Drugs.com",
       "url": "https://www.drugs.com/news/40-year-old-law-requires-ers-everyone-unless-they-opt-out-130502.html",
       "date": "2026-06-30T18:14:57Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich, chyba że zrezygnują z Drugs.com."
+      "summary": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich – chyba że zrezygnują z Drugs.com."
     },
     {
       "title": "Stanie, chodzenie i pochylanie się do przodu w miejscu pracy może być powiązane z poronieniem – Drugs.com",
@@ -2260,7 +2284,7 @@
       "summary": "We wtorek firma Anthropic ogłosiła Claude Science, nowy produkt, który liderzy firmy opisują jako stół warsztatowy AI do badań naukowych."
     },
     {
-      "title": "Ostatnie zwycięstwo firm AbbVie i Genmab przybliża firmę Epkinly do ekspansji wytwórni – Endpoints News",
+      "title": "Ostatnie zwycięstwo firm AbbVie i Genmab przybliża firmę Epkinly do ekspansji wytwórni – Wiadomości z punktów końcowych",
       "url": "https://endpoints.news/abbvie-and-genmabs-latest-win-brings-epkinly-closer-to-label-expansion/",
       "date": "2026-06-30T16:49:00Z",
       "source": "Endpoints News",
@@ -2306,22 +2330,6 @@
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "BioPharma Dive dostarcza wiadomości i analizy dla kadry kierowniczej z branży biotechnologicznej i biofarmaceutycznej. Poruszamy takie tematy, jak badania kliniczne, odkrywanie i rozwój leków, marketing farmaceutyczny, zezwolenia i regulacje FDA i nie tylko."
-    },
-    {
-      "title": "Celem leku Abivax jest rozwianie obaw związanych z nowotworem wywołanym lekiem na wrzodziejące zapalenie jelita grubego – Wiadomości z punktów końcowych",
-      "url": "https://endpoints.news/abivax-aims-to-set-cancer-concerns-with-ulcerative-colitis-drug-to-rest/",
-      "date": "2026-06-30T15:38:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "Abivax twierdzi, że nowe dane fazy 3 wskazują, że częstość występowania nowotworów w przypadku leku na leczenie UC, obefazimodu, mieści się w oczekiwanym zakresie, chociaż Jefferies zaznacza utrzymujące się ryzyko FDA."
-    },
-    {
-      "title": "Zepzelca firmy PharmaMar i Imdylltra firmy Amgen następnymi kamieniami milowymi Raporty JCA UE - insights.citeline.com",
-      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/pharmamars-zepzelca-and-amgens-imdylltra-up-next-for-milestone-eu-jca-reports-LYK67Y7EJJDINNCC2EXSQ4V7JE/",
-      "date": "2026-06-30T15:29:06Z",
-      "source": "Pink Sheet",
-      "confirmed_by": 1,
-      "summary": "Czy Itvisma firmy Novartis lub Etcamah firmy AstraZeneca mogą być przedmiotem wspólnych raportów z oceny klinicznej UE, które zostaną opracowane po Zepzelca i Imdylltra?"
     }
   ],
   "critical_alerts": [
