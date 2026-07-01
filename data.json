@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T09:42:37Z",
+  "last_updated": "2026-07-01T09:43:20Z",
   "poland": [
     {
       "title": "Donald Tusk planuje kolejne rozmowy o finansowaniu NFZ z minister zdrowia i prezesem funduszu - PolitykaZdrowotna.com",
@@ -96,6 +96,14 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Dostęp do specjalistów leczenia chorób alergicznych pozostaje nierównomierny. Najtrudniejsza sytuacja dotyczy mniejszych miejscowości - wskazuje konsultant krajowa prof. Karina Jahnz-Różyk."
+    },
+    {
+      "title": "Groźna bakteria w całej Europie. Jedna osoba nie żyje, trop prowadzi do kiełków - Medonet",
+      "url": "https://www.medonet.pl/zdrowie/zdrowie-dla-kazdego/kielki-lucerny-pod-lupa-to-one-moga-stac-za-fala-zakazen-salmonella-w-europie/bf6tj7r",
+      "date": "2026-07-01T08:02:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "KieÅki lucerny znalazÅy siÄ w centrum miÄdzynarodowego dochodzenia dotyczÄ cego ogniska zakaÅ¼eÅ bakteriÄ Salmonella Bovismorbificans. Europejski UrzÄ d ds. BezpieczeÅstwa Å»ywnoÅci (EFSA) oraz Europejskie Centrum ds."
     },
     {
       "title": "725 tys. zł w oświadczeniu majątkowym. Ministra zdrowia odniosła się do swoich dochodów - Alert Medyczny",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Aby uzyskać dostęp do transmisji zaloguj się lub kliknij link z maila potwierdzającego Twoją rejestrację."
-    },
-    {
-      "title": "LUPUS and Autoimmunity Summit - Zaproszenie | Konferencja stacjonarna - Termedia",
-      "url": "https://www.termedia.pl/Konferencja-LUPUS-and-Autoimmunity-Summit-Zaproszenie,3053,45451.html",
-      "date": "2026-06-30T22:13:51Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "LUPUS and Autoimmunity Summit - Zaproszenie | Konferencja stacjonarna Termedia."
     }
   ],
   "world": [
@@ -979,7 +979,7 @@
       "date": "2026-06-29T12:58:24Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych, aby opublikować pierwszą uniwersalną definicję niewydolności serca, ustanawiając jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
     },
     {
       "title": "Ciąża pozamaciczna i poronienie: diagnoza i wstępna aktualizacja postępowania (2026) Zainteresowane strony – witryna internetowa NICE",
@@ -1014,14 +1014,6 @@
       "summary": "Oparte na dowodach wytyczne pokazują, co przeżyte doświadczenie może nam powiedzieć o obecnym stanie systemu zdrowia psychicznego."
     },
     {
-      "title": "ESC 365 - ESC 365",
-      "url": "https://esc365.escardio.org/knowledge-track/pah",
-      "date": "2026-06-28T04:05:26Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
-    },
-    {
       "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
       "date": "2026-06-26T19:41:33Z",
@@ -1036,6 +1028,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
+      "date": "2026-06-26T11:21:05Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 2,
+      "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
     },
     {
       "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1070,6 +1070,30 @@
       "summary": "Seria cotygodniowych raportów o zachorowalności i śmiertelności (MMWR) przygotowywana jest przez Centra Kontroli i Zapobiegania Chorobom (CDC)."
     },
     {
+      "title": "Doktor Tanja Grammer – ESC 365",
+      "url": "https://esc365.escardio.org/person/39849",
+      "date": "2026-06-26T01:42:57Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Współtwórca centrum wiedzy ESC 365."
+    },
+    {
+      "title": "Doktor Luis Blanco-Colio – ESC 365",
+      "url": "https://esc365.escardio.org/person/6849",
+      "date": "2026-06-26T01:12:56Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Współtwórca centrum wiedzy ESC 365."
+    },
+    {
+      "title": "Doktor Ali Al Ghamdi – ESC 365",
+      "url": "https://esc365.escardio.org/person/249200",
+      "date": "2026-06-25T23:08:55Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Współtwórca centrum wiedzy ESC 365."
+    },
+    {
       "title": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/high-hpv-vaccination-coverage-in-england-associated-with-a-substantial-reduction-in-cervical-cancer-mortality",
       "date": "2026-06-25T12:34:30Z",
@@ -1084,6 +1108,14 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Jak wynika z nowego oświadczenia naukowego American Heart Association, wczesna diagnoza, szybkie leczenie i opieka kontrolna po porodzie mają kluczowe znaczenie dla zapobiegania zagrażającym życiu powikłaniom u kobiet w ciąży i po porodzie z niewydolnością serca."
+    },
+    {
+      "title": "Komunikat – Plan Taryfikacji na rok 2027 - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/komunikat-plan-taryfikacji-na-rok-2027/",
+      "date": "2026-06-24T09:09:34Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Informujemy, że Minister Zdrowia przekazał do Agencji Oceny Technologii Medycznych i Taryfikacji zatwierdzony Plan Taryfikacji na rok 2027 ."
     },
     {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1102,36 +1134,12 @@
       "summary": "Rekomendacja nr 81/2026 z dnia 19 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Tezspire (tezepelumab) w ramach programu lekowego: B.156. „Leczenie chorych z zapaleniem nosa i zatok przynosowych z polipami nosa (ICD-10: J32, J33)”."
     },
     {
-      "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
-      "url": "https://www.heart.org/en/news/2026/06/22/ckm-guideline-shows-how-care-coordination-helps-patients-and-doctors",
-      "date": "2026-06-22T19:53:11Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
-    },
-    {
-      "title": "Stanowisko Rady ds. Taryfikacji – psychiatria - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/stanowisko-rady-ds-taryfikacji-psychiatria/",
-      "date": "2026-06-22T17:44:47Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rada ds. Taryfikacji na posiedzeniu w dniu 18 czerwca 2026 r. przyjęła stanowisko nr 5/2026 w sprawie taryf świadczeń gwarantowanych gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień."
-    },
-    {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
       "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
       "date": "2026-06-22T10:42:34Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
-    },
-    {
-      "title": "American Heart Association publikuje pierwsze w historii wytyczne dotyczące zespołu sercowo-naczyniowego, nerkowo-metabolicznego (CKM): - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/etimes/wellness/american-heart-association-issues-first-ever-guideline-on-cardiovascular-kidney-metabolic-syndrome-ckm-what-you-need-to-know-for-your-heart-kidney-and-metabolic-health/articleshow/131901708.cms",
-      "date": "2026-06-22T07:00:00Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 2,
-      "summary": "Przez długi czas lekarze traktowali choroby serca, nerek, cukrzycę i otyłość jako zupełnie odrębne zagadnienia. Masz problemy z sercem; idź do kardiologa."
     },
     {
       "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
