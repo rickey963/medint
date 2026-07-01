@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T22:20:18Z",
+  "last_updated": "2026-07-01T22:21:06Z",
   "poland": [
     {
       "title": "Projekt obwieszczenia Ministra Zdrowia w sprawie wykazu refundowanych leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, który wejdzie w życie 1 lipca 2026 r. - Gov.pl",
@@ -104,6 +104,14 @@
       "source": "DOZ.pl",
       "confirmed_by": 1,
       "summary": "Fotoprotekcja to ważny etap pielęgnacji skóry trądzikowej. Jakie składniki powinien mieć SPF do cery trądzikowej? Których składników unikać, żeby nie pogorszyć stanu cery?"
+    },
+    {
+      "title": "Wyższe studia zniszczyły zawód pielęgniarki - Termedia",
+      "url": "https://www.termedia.pl/mz/Wyzsze-studia-zniszczyly-zawod-pielegniarki,67708.html",
+      "date": "2026-07-01T15:44:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Co zrobić, by młodzi ludzie garnęli się do zawodu pielęgniarki? – Należy wrócić do szkół pielęgniarskich, skończyć z pielęgniarkami z wyższym wykształceniem i ich ogromnymi ambicjami – ocenia Andrzej Sokołowski, prezes Ogólnopolskiego Stowarzyszenia Szpitali Prywatnych."
     },
     {
       "title": "Były wiceminister zdrowia ma nowe zajęcie - Puls Medycyny",
@@ -255,7 +263,7 @@
       "date": "2026-07-01T13:08:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Ponad 12 mld zł na refundację. NFZ opublikował wykonanie budżetu za styczeń-maj 2026 Alert Medyczny."
+      "summary": "NFZ opublikował wykonanie budżetu refundacyjnego za styczeń-maj 2026. Na refundację wydano już 12,4 mld zł, czyli 38,86% rocznego planu."
     },
     {
       "title": "Czy należy zalecać profilaktykę biegunki podróżnych osobom planującym wyjazd do tropiku? - Medycyna Praktyczna",
@@ -303,7 +311,7 @@
       "date": "2026-07-01T12:30:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "OZPSP krytykuje projekt NFZ: „wymuszenie kredytowania funduszu przez nasze placówki” Alert Medyczny."
+      "summary": "OZPSP krytykuje projekt NFZ dotyczący rozliczania nadwykonań. Organizacja apeluje o wycofanie zmian i ostrzega przed skutkami dla szpitali."
     },
     {
       "title": "Prof. Robert Gałązkowski dziekanem Wydziału Nauk o Zdrowiu WUM. „Musimy postawić na jakość kształcenia” - PolitykaZdrowotna.com",
@@ -351,7 +359,7 @@
       "date": "2026-07-01T11:58:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowy prezes ZUS już powołany. Liwiusz Laska zastąpił Zbigniewa Derdziuka Alert Medyczny."
+      "summary": "Premier Donald Tusk powołał Liwiusza Laskę na prezesa ZUS. Zastąpił Zbigniewa Derdziuka, odwołanego z powodów zdrowotnych."
     },
     {
       "title": "NRPiP chce rozszerzenia emerytur pomostowych. Wskazuje konkretne grupy pielęgniarek - Alert Medyczny",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Od 1 lipca w gabinet.gov.pl działa narzędzie wspierające określanie refundacji leków. Sprawdź, jak działa i co planuje Ministerstwo Zdrowia."
-    },
-    {
-      "title": "Meksyk – szczepienia zalecane i obowiązkowe przed wyjazdem - DOZ",
-      "url": "https://www.doz.pl/czytelnia/a18723-Meksyk__szczepienia_zalecane_i_obowiazkowe_przed_wyjazdem",
-      "date": "2026-07-01T11:05:09Z",
-      "source": "DOZ.pl",
-      "confirmed_by": 1,
-      "summary": "Planujesz podróż do Meksyku? Sprawdź zalecane szczepienia, ryzyko chorób i zasady profilaktyki zdrowotnej przed wyjazdem. Dowiedz się więcej na DOZ.pl."
     }
   ],
   "world": [
@@ -697,7 +697,7 @@
       "date": "2026-07-01T08:48:09Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Nowe limity słów sprawią, że nasze dowody będą skupione, zwięzłe i bardziej dostępne dla czytelników."
+      "summary": "Wprowadzenie limitu słów w recenzjach i protokołach Cochrane.org."
     },
     {
       "title": "Zaprzestanie stosowania PARP utrzymuje wyniki u wyjątkowych pacjentów z rakiem jajnika - Medscape",
@@ -955,7 +955,7 @@
       "date": "2026-06-30T14:28:04Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Posiedzenie Rady Przejrzystości 27/2026 w dniu 06.07.2026 r. Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Wykorzystujemy pliki cookie w celu zapewnienia prawidłowego funkcjonowania naszej witryny oraz do analizy ruchu i optymalizacji działania strony. Dzięki nim możemy lepiej dostosować treści do potrzeb użytkowników i stale ulepszać nasze usługi. Pamiętaj, że informacje przechowywane w plikach cookie mogą pozwalać na identyfikację konkretnego urządzenia lub przeglądarki użytkownika, a więc potencjalnie stanowić dane osobowe."
     },
     {
       "title": "Neoadiuwantowy serplulimab z S-1 Plus oksaliplatyną, a następnie adiuwant serplulimab znacząco poprawia EFS w przypadku resekcyjnego raka żołądka z dodatnim statusem PD-L1 lub gruczolakoraka GEJ - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1059,7 +1059,7 @@
       "date": "2026-06-29T07:00:00Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Protokół z posiedzenia Rady Przejrzystości w dniu 29 czerwca 2026 r. + uchwały Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Wykorzystujemy pliki cookie w celu zapewnienia prawidłowego funkcjonowania naszej witryny oraz do analizy ruchu i optymalizacji działania strony. Dzięki nim możemy lepiej dostosować treści do potrzeb użytkowników i stale ulepszać nasze usługi. Pamiętaj, że informacje przechowywane w plikach cookie mogą pozwalać na identyfikację konkretnego urządzenia lub przeglądarki użytkownika, a więc potencjalnie stanowić dane osobowe."
     },
     {
       "title": "Panel kontrolny DOSE-SYS: Dane z nadzoru nad zespołem przedawkowania niezakończonego zgonem — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1150,12 +1150,12 @@
       "summary": "Jak wynika z nowego oświadczenia naukowego American Heart Association, wczesna diagnoza, szybkie leczenie i opieka kontrolna po porodzie mają kluczowe znaczenie dla zapobiegania zagrażającym życiu powikłaniom u kobiet w ciąży i po porodzie z niewydolnością serca."
     },
     {
-      "title": "Komunikat – Plan Taryfikacji na rok 2027 - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/komunikat-plan-taryfikacji-na-rok-2027/",
-      "date": "2026-06-24T09:09:34Z",
+      "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
+      "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Komunikat – Plan Taryfikacji na rok 2027 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
@@ -1472,12 +1472,12 @@
       "summary": "Według doniesień mediów epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) rozprzestrzeniła się na czwartą prowincję."
     },
     {
-      "title": "Nowe dane dotyczące SDG pokazują zahamowanie postępu w zakresie zanieczyszczenia powietrza i zdrowia – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Nowe dane dotyczące SDG pokazują zablokowany postęp w zakresie zanieczyszczenia powietrza i zdrowia – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/29-06-2026-new-sdg-data-shows-stalled-progress-on-air-pollution-and-health",
       "date": "2026-06-29T20:38:52Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Publikacja danych na temat zanieczyszczenia powietrza w otoczeniu i w gospodarstwach domowych uwydatnia krytyczne nierówności: chociaż poziom drobnych cząstek stałych (PM2,5) spadał na całym świecie do 2020 r., od tego czasu pozostał w dużej mierze niezmieniony, a kraje o niskich i średnich dochodach są narażone na znacznie wyższe ryzyko narażenia niż kraje o wysokich dochodach, co zwiększa ryzyko dla zdrowia publicznego i środowiska."
+      "summary": "Publikacja danych na temat zanieczyszczenia powietrza w otoczeniu i w gospodarstwach domowych uwydatnia krytyczne nierówności: chociaż poziom drobnych cząstek stałych (PM2,5) spadł na całym świecie do 2020 r., od tego czasu pozostał w dużej mierze niezmieniony, a kraje o niskich i średnich dochodach są narażone na znacznie wyższe ryzyko narażenia niż kraje o wysokich dochodach, co zwiększa ryzyko dla zdrowia publicznego i środowiska."
     },
     {
       "title": "Epidemia listerii w 2024 r., w wyniku której zginęły 3 osoby, ma związek z pasteryzowanym mlekiem roślinnym – CIDRAP",
