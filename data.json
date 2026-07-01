@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-01T13:45:44Z",
+  "last_updated": "2026-07-01T13:50:06Z",
   "poland": [
+    {
+      "title": "Już w co drugiej aptece w kraju pacjenci mogą skorzystać z częściowej realizacji e-recepty - Gov.pl",
+      "url": "https://www.gov.pl/web/zdrowie/juz-co-druga-apteka-realizuje-czesciowo-e-recepty",
+      "date": "2026-07-01T13:48:57Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Od dziś pacjenci mają możliwość realizacji jednej recepty w kilku aptekach. Od 1 lipca z narzędzia tego korzysta 6,5 tys. aptek w całej Polsce, a kolejne 700 czeka na rozpatrzenie wniosku, które nastąpi w ciągu 5 dni."
+    },
     {
       "title": "Rewolucja w e-receptach od 1 lipca. MZ: pacjenci zyskają możliwość realizacji recept w kilku aptekach - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/recepty-2026-pacjent-n2397924",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Ministra zdrowia odniosła się do dochodów wykazanych w oświadczeniu majątkowym. Wyjaśniła, skąd pochodzi kwota 725 tys. zł."
-    },
-    {
-      "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/warszawa2649,2893.html",
-      "date": "2026-07-01T07:46:00Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
-      "summary": "Praca w Funduszu to nauka, doświadczenie i satysfakcja z tworzenia wartości, które mają realny wpływ na otaczającą nas rzeczywistość. Jesteśmy organizacją publiczną, nadzorowaną..."
     }
   ],
   "world": [
@@ -497,7 +497,7 @@
       "date": "2026-07-01T10:03:49Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "Model predykcyjny, przetestowany w dużych kohortach, obejmujący 34 koliste RNA krwi, przewiduje progresję do objawowej choroby Alzheimera, przewyższając pTau217 i amyloid-PET."
+      "summary": "Model predykcyjny, przetestowany w dużych kohortach, obejmujący 34 okrągłe RNA krwi, przewiduje progresję do objawowej choroby Alzheimera, przewyższając pTau217 i amyloid-PET."
     },
     {
       "title": "Metaanaliza długoterminowego wpływu terapii hipotensyjnej na ryzyko poważnych chorób układu krążenia w 51 randomizowanych badaniach - Natura",
@@ -713,7 +713,7 @@
       "date": "2026-07-01T04:53:31Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Podczas spotkania interesariuszy w ramach Ram działań na rzecz bezpieczeństwa zdrowia Azji i Pacyfiku (APHSAF) w Kuala Lumpur w dniu 11 czerwca 2026 r. państwa członkowskie Światowej Organizacji Zdrowia (WHO) zgodziły się na dalsze opracowywanie wspólnego planu działania w zakresie zarządzania ryzykiem w sytuacjach kryzysowych (JERMAP): praktyczne podejście w ramach wdrażania APHSAF, które ma pomóc partnerom w bardziej przewidywalnym wspieraniu reakcji kierowanych na szczeblu krajowym poprzez planowanie oparte na scenariuszach."
+      "summary": "Podczas spotkania interesariuszy w ramach ram działań na rzecz bezpieczeństwa zdrowia Azji i Pacyfiku (APHSAF) w Kuala Lumpur w dniu 11 czerwca 2026 r. państwa członkowskie Światowej Organizacji Zdrowia (WHO) zgodziły się na dalsze opracowywanie wspólnego planu działania w zakresie zarządzania ryzykiem w sytuacjach kryzysowych (JERMAP): praktyczne podejście w ramach wdrażania APHSAF, które ma pomóc partnerom w bardziej przewidywalnym wspieraniu reakcji kierowanych na szczeblu krajowym poprzez planowanie oparte na scenariuszach."
     },
     {
       "title": "Bezpieczeństwo i skuteczność szczepionek mRNA: perspektywa mechanistyczna i zdrowie publiczne - The Lancet",
@@ -769,7 +769,7 @@
       "date": "2026-07-01T02:05:03Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Jak wynika z wielkoskalowego retrospektywnego badania kohortowego, rutynowe szczepienia wiążą się ze znacznie zmniejszonym ryzykiem wystąpienia nowego idiopatycznego zapalenia błony naczyniowej oka."
+      "summary": "Jak wynika z wielkoskalowego retrospektywnego badania kohortowego, rutynowe szczepienia wiążą się ze znacznie zmniejszonym ryzykiem rozwoju idiopatycznego zapalenia błony naczyniowej oka o nowym początku."
     },
     {
       "title": "Specyficzna dla wirusa terapia komórkami T w leczeniu neuroinwazyjnego wirusa Zachodniego Nilu – The Lancet",
@@ -835,7 +835,7 @@
       "date": "2026-07-01T08:03:16Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Konsultacje | Zespół metaboliczny poliendokrynnych jajników (PMOS) | Poradnik NICE."
+      "summary": "Jeśli komentujesz w imieniu organizacji, Twoja organizacja musi być zarejestrowana jako interesariusz ."
     },
     {
       "title": "Szkolenie OK COBIK NIL - Lekarzu, zadbaj o siebie. Jak wdrożyć self-care w przeładowany grafik? - NIL",
@@ -1003,7 +1003,7 @@
       "date": "2026-06-29T12:58:24Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych, aby opublikować pierwszą uniwersalną definicję niewydolności serca, ustanawiając jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
     },
     {
       "title": "Ciąża pozamaciczna i poronienie: diagnoza i wstępna aktualizacja postępowania (2026) Zainteresowane strony – witryna internetowa NICE",
@@ -1094,14 +1094,6 @@
       "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
     },
     {
-      "title": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/high-hpv-vaccination-coverage-in-england-associated-with-a-substantial-reduction-in-cervical-cancer-mortality",
-      "date": "2026-06-25T12:34:30Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "Wysoki poziom szczepień przeciwko wirusowi HPV w Anglii powiązany ze znacznym zmniejszeniem śmiertelności z powodu raka szyjki macicy Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 25 czerwca 2026 r. w sprawie wysokości zasadniczego wynagrodzenia miesięcznego lekarzy i lekarzy dentystów odbywających specjalizacje w ramach rezydentury",
       "url": "https://dziennikustaw.gov.pl/DU/2026/856",
       "date": "2026-06-25T07:00:00Z",
@@ -1155,7 +1147,7 @@
       "date": "2026-06-22T00:26:59Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Pacjenci mieszkający na obszarach wiejskich z przewlekłym bólem muszą mierzyć się z długimi podróżami, kosztownymi podróżami i ograniczonym dostępem do aptek w celu skutecznego leczenia bólu."
+      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
     }
   ],
   "epidemiology": [
@@ -1176,7 +1168,7 @@
       "summary": "Wirtualnie, 9–11 września 2025 r."
     },
     {
-      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley powiązane z aromatyzowanymi produktami z makaronu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley powiązane z produktami z makaronu smakowego – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products",
       "date": "2026-07-01T12:00:03Z",
       "source": "ECDC",
@@ -1192,7 +1184,7 @@
       "summary": "Od mediów społecznościowych i gier online po generatywne systemy sztucznej inteligencji – środowiska cyfrowe w ogromnym stopniu determinują zdrowie ludzi. Dotyczy to szczególnie dzieci i młodzieży. Na całym świecie dzieciństwo jest przeprogramowywane za pomocą technologii cyfrowych, które kształtują sposób, w jaki młodzi ludzie uczą się, bawią i nawiązują kontakty."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300 – Epidemia Ebola.com",
       "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
       "date": "2026-07-01T09:17:27Z",
       "source": "Outbreak News Today",
@@ -1320,7 +1312,7 @@
       "summary": "Pomimo dostępności skutecznych szczepionek, metod diagnostycznych i metod leczenia wirusowe zapalenie wątroby pozostaje główną przyczyną chorób wątroby i raka wątroby, powodując codziennie tysiące zgonów, którym można zapobiec. Ograniczenia finansowe, napiętnowanie i dyskryminacja, słaba integracja systemów opieki zdrowotnej i nierówny dostęp do innowacji w dalszym ciągu pozostawiają miliony ludzi bez opieki. Odzwierciedlając temat Światowego Dnia Wirusowego Zapalenia Wątroby, wydarzenie to zgromadzi ministrów, decydentów, ekspertów technicznych, społeczeństwo obywatelskie, dotknięte społeczności i partnerów zajmujących się rozwojem, aby określić działania mające na celu zwiększenie inwestycji, usprawnienie świadczenia usług, poszerzenie równego dostępu i przyspieszenie innowacji."
     },
     {
-      "title": "Światowy Dzień Wirusowego Zapalenia Wątroby 2026 – talk show w internecie – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Światowy Dzień Wirusowego Zapalenia Wątroby 2026 – talk show w Internecie – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/07/23/default-calendar/world-hepatitis-day-2026-online-talk-show",
       "date": "2026-06-30T16:19:24Z",
       "source": "WHO Disease Outbreak News",
@@ -1416,7 +1408,7 @@
       "summary": "Według doniesień mediów epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) rozprzestrzeniła się na czwartą prowincję."
     },
     {
-      "title": "Nowe dane dotyczące SDG pokazują zahamowanie postępu w zakresie zanieczyszczenia powietrza i zdrowia – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Nowe dane dotyczące SDG pokazują zablokowany postęp w zakresie zanieczyszczenia powietrza i zdrowia – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/29-06-2026-new-sdg-data-shows-stalled-progress-on-air-pollution-and-health",
       "date": "2026-06-29T20:38:52Z",
       "source": "WHO Disease Outbreak News",
@@ -1485,7 +1477,7 @@
       "date": "2026-06-29T13:09:31Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Jak wynika z randomizowanego badania klinicznego opublikowanego w tym tygodniu w JAMA Network Open, alert w elektronicznej dokumentacji medycznej (EMR) wysyłany do asystentów medycznych przygotowujących pacjentów do wizyt lekarskich w przychodniach podstawowej opieki zdrowotnej znacznie zwiększał prawdopodobieństwo, że młode kobiety zostaną poddane badaniom przesiewowym w kierunku chlamydii."
+      "summary": "Jak wynika z randomizowanego badania klinicznego opublikowanego w tym tygodniu w JAMA Network Open, alert w elektronicznej dokumentacji medycznej (EMR) wysyłany do asystentów medycznych przygotowujących pacjentów do wizyt lekarskich w przychodniach podstawowej opieki zdrowotnej znacznie zwiększa prawdopodobieństwo, że młode kobiety zostaną poddane badaniom przesiewowym w kierunku chlamydii."
     },
     {
       "title": "Misja rozpoznawcza w sprawie kontroli bezpieczeństwa przy wyjściu z lotniska – Misja Grupy Zadaniowej UE ds. Zdrowia do Demokratycznej Republiki Konga i Ugandy w odpowiedzi na epidemię choroby wirusowej Bundibugyo w 2026 r. – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1536,7 +1528,7 @@
       "summary": "Nowy plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze: wytyczne dotyczące wdrażania opierają się na liście priorytetowych patogenów grzybiczych WHO, która ma wyznaczać kierunki badań, rozwoju i działań w zakresie zdrowia publicznego, a także istniejących prac WHO nad zaniedbanymi chorobami tropikalnymi, HIV i opornością na środki przeciwdrobnoustrojowe, zapewniając krajom praktyczne wytyczne dotyczące wzmocnienia krajowych i regionalnych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze. Dedykowane seminarium internetowe odbędzie się z okazji uruchomienia planu w dniu 1 lipca 2026 r."
     },
     {
-      "title": "Raporty online — czasopismo Emerging Infectious Diseases — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Raporty online — Czasopismo dotyczące pojawiających się chorób zakaźnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/articles/online-reports.htm",
       "date": "2026-06-29T07:00:00Z",
       "source": "CDC Outbreaks",
@@ -1794,7 +1786,7 @@
       "summary": "Chociaż ogólna śmiertelność z powodu nowotworów w USA od dłuższego czasu spada po pandemii Covid-19, nowa analiza ogólnokrajowa sugeruje, że te uspokajające liczby mogą ukrywać niepokojące tendencje w przypadku określonych nowotworów. Naukowcy pod kierunkiem Mohammada Soomro z Wright Center for Graduate Medical Education i Hala Soomro z Brown University Health przeanalizowali ponad 10 milionów pacjentów w USA."
     },
     {
-      "title": "Zapalenie wątroby wywołane szczepionką przeciwko Covid-19: większość pacjentów wraca do zdrowia, ale u niektórych rozwija się trwała autoimmunologiczna choroba wątroby - trisitenews.com",
+      "title": "Zapalenie wątroby wywołane szczepionką przeciwko COVID-19: większość pacjentów wraca do zdrowia, ale u niektórych rozwija się trwała autoimmunologiczna choroba wątroby - trisitenews.com",
       "url": "https://www.trialsitenews.com/a/covid-19-vaccine-related-hepatitis-most-patients-recover-but-some-develop-persistent-autoimmune-liver-disease-37d000ea",
       "date": "2026-06-29T21:10:53Z",
       "source": "TrialSite News",
@@ -1887,15 +1879,15 @@
       "date": "2026-06-28T18:17:54Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Mike Montello, dyrektor ds. cyfrowych i informatycznych stosowanych badań klinicznych online."
+      "summary": "Mike Montello, dyrektor ds. technologii cyfrowych i informacji dotyczących stosowanych badań klinicznych online."
     },
     {
-      "title": "Sprzeczność DEA „Jedna pigułka może zabić”? Nowy Meksyk wszczyna śledztwo w sprawie karnej w obliczu rosnącej liczby pytań pod rządami administracji Trumpa – Trialssitenews.com",
+      "title": "Sprzeczność DEA „Jedna pigułka może zabić”? Nowy Meksyk wszczyna śledztwo w sprawie karnej w obliczu rosnącej liczby pytań pod rządami administracji Trumpa – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/deas-one-pill-can-kill-contradiction-new-mexico-launches-criminal-probe-as-questions-mount-under-trump-administration-77c39452",
       "date": "2026-06-28T16:53:15Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Jeśli agenci federalni świadomie wpuścili na amerykańskie ulice setki tysięcy tabletek fentanylu w celu wzniesienia większych spraw, gdzie jest granica między strategią dochodzeniową a bezpieczeństwem publicznym? Amerykańska Agencja ds. Walki z Narkotykami od lat ostrzega Amerykanów, że jedna podrobiona pigułka z fentanylem może zabić."
+      "summary": "Jeśli agenci federalni świadomie wpuścili na amerykańskie ulice setki tysięcy tabletek fentanylu w celu budowy większych spraw, gdzie jest granica między strategią dochodzeniową a bezpieczeństwem publicznym? Amerykańska Agencja ds. Walki z Narkotykami od lat ostrzega Amerykanów, że jedna podrobiona pigułka z fentanylem może zabić."
     }
   ],
   "pharma_market": [
@@ -1977,7 +1969,7 @@
       "date": "2026-07-01T04:03:30Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Kopenhaga, Dania, 30 czerwca 2026 r. – Firma Zealand Pharma A/S („Spółka” lub „Zealand Pharma”) (Nasdaq: ZEAL) (CVR-nr 20045078), firma biotechnologiczna zmieniająca przyszłość zdrowia metabolicznego, zgłasza dzisiaj otrzymanie w dniu 30 czerwca 2026 r. powiadomienia zgodnie z art. 38 duńskiej ustawy o rynkach kapitałowych od następującego głównego akcjonariusza:"
+      "summary": "Kopenhaga, Dania, 30 czerwca 2026 r. – Zealand Pharma A/S („Spółka” lub „Zealand Pharma”) (Nasdaq: ZEAL) (CVR-nr 20045078), firma biotechnologiczna zmieniająca przyszłość zdrowia metabolicznego, zgłasza dzisiaj otrzymanie w dniu 30 czerwca 2026 r. powiadomienia zgodnie z art. 38 duńskiej ustawy o rynkach kapitałowych od następującego głównego akcjonariusza:"
     },
     {
       "title": "AVEO Oncology ogłasza plan sukcesji - BioSpace",
@@ -2097,7 +2089,7 @@
       "date": "2026-06-30T18:14:57Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich, chyba że zrezygnują z Drugs.com."
+      "summary": "40-letnie prawo wymaga, aby ratownicy leczyli wszystkich – chyba że zrezygnują z Drugs.com."
     },
     {
       "title": "Stanie, chodzenie i pochylanie się do przodu w miejscu pracy może być powiązane z poronieniem – Drugs.com",
@@ -2196,7 +2188,7 @@
       "summary": "We wtorek firma Anthropic ogłosiła Claude Science, nowy produkt, który liderzy firmy opisują jako stół warsztatowy AI do badań naukowych."
     },
     {
-      "title": "Ostatnie zwycięstwo firm AbbVie i Genmab przybliża firmę Epkinly do ekspansji wytwórni – Endpoints News",
+      "title": "Ostatnie zwycięstwo firm AbbVie i Genmab przybliża firmę Epkinly do ekspansji wytwórni – Wiadomości z punktów końcowych",
       "url": "https://endpoints.news/abbvie-and-genmabs-latest-win-brings-epkinly-closer-to-label-expansion/",
       "date": "2026-06-30T16:49:00Z",
       "source": "Endpoints News",
@@ -2249,7 +2241,7 @@
       "date": "2026-06-30T15:38:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Abivax twierdzi, że nowe dane fazy 3 wskazują, że częstość występowania nowotworów w przypadku leku na leczenie UC, obefazimodu, mieści się w oczekiwanym zakresie, chociaż Jefferies zaznacza utrzymujące się ryzyko FDA."
+      "summary": "Abivax twierdzi, że nowe dane fazy 3 wskazują, że częstość występowania nowotworów w przypadku leku na UC, obefazimodu, mieści się w oczekiwanym zakresie, chociaż Jefferies zaznacza utrzymujące się ryzyko FDA."
     },
     {
       "title": "Zepzelca firmy PharmaMar i Imdylltra firmy Amgen następnymi kamieniami milowymi Raporty JCA UE - insights.citeline.com",
@@ -2302,7 +2294,7 @@
   ],
   "critical_alerts": [
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300 – Epidemia Ebola.com",
       "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
       "date": "2026-07-01T09:17:27Z",
       "source": "Outbreak News Today",
@@ -2368,7 +2360,7 @@
   ],
   "daily_top5": [
     {
-      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley powiązane z aromatyzowanymi produktami z makaronu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley powiązane z produktami z makaronu smakowego – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products",
       "date": "2026-07-01T12:00:03Z",
       "source": "ECDC",
