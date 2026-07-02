@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T16:33:01Z",
+  "last_updated": "2026-07-02T16:43:51Z",
   "poland": [
     {
       "title": "Ekspert/ Ekspertka w Wydziale Koordynacji Zespołu Pomocy Humanitarno-Medycznej w Departamencie Bezpieczeństwa - Gov.pl",
@@ -492,6 +492,14 @@
       "summary": "Badania pokazują, że dupilumab może przywrócić gęstość śródnaskórkowych włókien nerwowych do zdrowego poziomu u pacjentów z umiarkowanym do ciężkiego atopowym zapaleniem skóry."
     },
     {
+      "title": "Mała klinika staje się pierwszą linią frontu: jak Sota uczy się walczyć z wirusem Ebola, jednocześnie lecząc codzienne choroby – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/small-clinic-becomes-frontline-how-sota-learning-fight-ebola-while-still-treating-everyday-illness",
+      "date": "2026-07-02T12:00:00Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "W Sota, odległej wiejskiej placówce służby zdrowia w prowincji Ituri we wschodniej Demokratycznej Republice Konga, zespoły WHO szybko przekształcają skromną klinikę w ośrodek izolacji i leczenia wirusa Ebola, przy jednoczesnym zapewnieniu codziennej opieki. Utworzenie namiotu do intensywnej terapii, poprawa warunków sanitarnych, wzmocnienie zapobiegania infekcjom i zaangażowanie społeczności – wysiłki te pokazują, dlaczego przybliżenie reakcji na wirusa Ebola do dotkniętych populacji ma kluczowe znaczenie."
+    },
+    {
       "title": "Konwencjonalna wiedza na temat CGRP w migrenie kwestionowana - Medscape",
       "url": "https://www.medscape.com/viewarticle/conventional-wisdom-cgrp-migraine-challenged-2026a1000mij",
       "date": "2026-07-02T11:37:30Z",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Sri Lanka rozmieściła drony i zmobilizowała wojsko, aby pomóc w powstrzymaniu rosnącej epidemii dengi, która w tym roku opanowała szpitale i zainfekowała ponad 55 000 osób. Obecnie do szpitali z powodu dengi przyjmuje się obecnie około 1000 pacjentów dziennie, a ostatnia epidemia spowodowała śmierć 32 osób i wywarła bezprecedensową presję na służbę zdrowia w tym południowoazjatyckim kraju. Eksperci twierdzą, że szpitale w Kolombo, epicentrum epidemii, wyczerpały swoje możliwości, co zmusza personel do leczenia dwóch pacjentów na jednym łóżku, podczas gdy inni otrzymują opiekę na piętrze."
-    },
-    {
-      "title": "Badania sugerują, że statyny i leki na ciśnienie krwi zmieniają ryzyko otyłości dla zdrowia - STAT",
-      "url": "https://www.statnews.com/2026/07/01/lancet-obesity-blood-pressure-cholesterol-study/",
-      "date": "2026-07-01T22:32:31Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Nowe badania pokazują, że otyli pacjenci po 40. roku życia radzą sobie z ciśnieniem krwi i cholesterolem równie dobrze jak ich rówieśnicy o prawidłowej masie ciała, ale młodsi dorośli nadal są zagrożeni."
     }
   ],
   "guidelines": [
@@ -1134,12 +1134,36 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
     },
     {
-      "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
-      "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
-      "date": "2026-06-22T00:26:59Z",
+      "title": "Nowe wytyczne dotyczące opieki nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
+      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
+      "date": "2026-06-23T07:00:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
+      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
+    },
+    {
+      "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
+      "url": "https://www.heart.org/en/news/2026/06/22/ckm-guideline-shows-how-care-coordination-helps-patients-and-doctors",
+      "date": "2026-06-22T19:53:11Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie bezpośredniej osoby do kierowania opieką może pomóc pacjentom."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Ogsiveo (nirogacestat) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-ogsiveo-nirogacestat/",
+      "date": "2026-06-12T10:02:33Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja nr 79/2026 z dnia 10 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgód na refundację produktu leczniczego Ogsiveo (nirogacestat) we wskazaniu: leczenie pacjentów pediatrycznych z postępującymi guzami desmoidalnymi opornymi na leczenie innych linii i niekwalifikującymi się do leczenia operacyjnego."
+    },
+    {
+      "title": "Świadczenia gwarantowane obejmujące leczenie chorób układu oddechowego - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/swiadczenia-gwarantowane-obejmujace-leczenie-chorob-ukladu-oddechowego/",
+      "date": "2026-06-03T08:44:12Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Na podstawie art. 31lb ust. 4 ustawy z dnia 27 sierpnia 2004 r."
     }
   ],
   "epidemiology": [
@@ -1301,7 +1325,7 @@
       "date": "2026-07-01T12:01:34Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Wirtualnie, 9–11 września 2025 r."
+      "summary": "Osiemnaste spotkanie międzyregionalne Krajowych Centrów ds. Grypy i Nadzoru nad Grypą w Regionach Azji Południowo-Wschodniej i Zachodniego Pacyfiku Światowej Organizacji Zdrowia (WHO)."
     },
     {
       "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley powiązane z aromatyzowanymi produktami z makaronu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1437,7 +1461,7 @@
       "date": "2026-06-30T19:07:01Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Plan wzmocnienia reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze Wytyczne dotyczące wdrożenia zapewniają ustrukturyzowane ramy operacyjne mające na celu wspieranie krajów i partnerów we wzmacnianiu skoordynowanych reakcji na choroby grzybowe i oporność na środki przeciwgrzybicze (AFR)."
+      "summary": "Plan wzmocnienia reakcji na choroby grzybicze i oporność na środki przeciwgrzybicze Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "ONZ ostrzega, że ​​epidemia wirusa Ebola może kosztować Afrykę nawet 3,6 miliarda dolarów – Epidemionnewstoday.com",
@@ -1920,14 +1944,6 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Dla Pierre'a Mouledoux życie mierzono w minutach światła słonecznego. Zdiagnozowano protoporfirię erytropoetyczną (EPP) – rzadką dziedziczną chorobę powodującą rozdzierający ból nawet po krótkiej ekspozycji na słońce – przez dziesięciolecia unikał światła dziennego. Teraz, po wzięciu udziału w badaniach klinicznych badanego leku bitopertin, twierdzi, że potrafi łowić ryby, pływać łódką, a nawet uzyskać pierwszą opaleniznę."
-    },
-    {
-      "title": "EAN 2026: Dane post hoc Cenrifki firmy Sanofi sugerują, że zmiany chorobowe mogą nie wskazywać na niepowodzenie – Arena Badań Klinicznych",
-      "url": "https://www.clinicaltrialsarena.com/analyst-comment/sanofi-cenrifki-lesions-treatment-failure/",
-      "date": "2026-06-29T16:39:34Z",
-      "source": "Clinical Trials Arena",
-      "confirmed_by": 1,
-      "summary": "EAN 2026: Dane post hoc Cenrifki firmy Sanofi sugerują, że zmiany chorobowe mogą nie wskazywać na niepowodzenie Areny Badań Klinicznych."
     }
   ],
   "pharma_market": [
@@ -2366,6 +2382,14 @@
       "summary": "W ramach dużego międzynarodowego wysiłku mającego na celu ocenę potencjalnych metod leczenia choroby Ebola wywołanej wirusem Bundibugyo (BVD) do badania klinicznego PARTNERS otwarto dziś nabór pacjentów z Demokratycznej Republiki Konga."
     },
     {
+      "title": "Mała klinika staje się pierwszą linią frontu: jak Sota uczy się walczyć z wirusem Ebola, jednocześnie lecząc codzienne choroby – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/small-clinic-becomes-frontline-how-sota-learning-fight-ebola-while-still-treating-everyday-illness",
+      "date": "2026-07-02T12:00:00Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "W Sota, odległej wiejskiej placówce służby zdrowia w prowincji Ituri we wschodniej Demokratycznej Republice Konga, zespoły WHO szybko przekształcają skromną klinikę w ośrodek izolacji i leczenia wirusa Ebola, przy jednoczesnym zapewnieniu codziennej opieki. Utworzenie namiotu do intensywnej terapii, poprawa warunków sanitarnych, wzmocnienie zapobiegania infekcjom i zaangażowanie społeczności – wysiłki te pokazują, dlaczego przybliżenie reakcji na wirusa Ebola do dotkniętych populacji ma kluczowe znaczenie."
+    },
+    {
       "title": "Mobilność populacji i powstrzymywanie przypadków wirusa Ebola w Ituri w Demokratycznej Republice Konga – The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01253-5/fulltext?rss=yes",
       "date": "2026-07-02T07:54:50Z",
@@ -2388,14 +2412,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Sri Lanka rozmieściła drony i zmobilizowała wojsko, aby pomóc w powstrzymaniu rosnącej epidemii dengi, która w tym roku opanowała szpitale i zainfekowała ponad 55 000 osób. Obecnie do szpitali z powodu dengi przyjmuje się obecnie około 1000 pacjentów dziennie, a ostatnia epidemia spowodowała śmierć 32 osób i wywarła bezprecedensową presję na służbę zdrowia w tym południowoazjatyckim kraju. Eksperci twierdzą, że szpitale w Kolombo, epicentrum epidemii, wyczerpały swoje możliwości, co zmusza personel do leczenia dwóch pacjentów na jednym łóżku, podczas gdy inni otrzymują opiekę na piętrze."
-    },
-    {
-      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley ST2045 powiązane ze spożyciem aromatyzowanych produktów z makaronu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/publications-data/multi-country-outbreak-salmonella-stanley-st2045-infections-linked-consumption",
-      "date": "2026-07-01T11:59:18Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "W UE/EOG trwa epidemia Salmonella Stanley ST2045, a w okresie od listopada 2025 r. do czerwca 2026 r. zgłoszono łącznie 106 potwierdzonych przypadków z 13 krajów UE/EOG (77) i Wielkiej Brytanii (29)."
     }
   ],
   "daily_top5": [
@@ -2424,12 +2440,12 @@
       "summary": "W ramach dużego międzynarodowego wysiłku mającego na celu ocenę potencjalnych metod leczenia choroby Ebola wywołanej wirusem Bundibugyo (BVD) do badania klinicznego PARTNERS otwarto dziś nabór pacjentów z Demokratycznej Republiki Konga."
     },
     {
-      "title": "Lapatynib nie poprawia przeżycia w przypadku raka żołądka HER2-dodatniego – klinicysta NEJM",
-      "url": "https://clinician.nejm.org/lapatinib-fails-improve-survival-her2-positive-gastric-cancer-nejm-jw.NA40462",
-      "date": "2026-07-02T10:37:07Z",
-      "source": "NEJM",
+      "title": "Mała klinika staje się pierwszą linią frontu: jak Sota uczy się walczyć z wirusem Ebola, jednocześnie lecząc codzienne choroby – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/small-clinic-becomes-frontline-how-sota-learning-fight-ebola-while-still-treating-everyday-illness",
+      "date": "2026-07-02T12:00:00Z",
+      "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+      "summary": "W Sota, odległej wiejskiej placówce służby zdrowia w prowincji Ituri we wschodniej Demokratycznej Republice Konga, zespoły WHO szybko przekształcają skromną klinikę w ośrodek izolacji i leczenia wirusa Ebola, przy jednoczesnym zapewnieniu codziennej opieki. Utworzenie namiotu do intensywnej terapii, poprawa warunków sanitarnych, wzmocnienie zapobiegania infekcjom i zaangażowanie społeczności – wysiłki te pokazują, dlaczego przybliżenie reakcji na wirusa Ebola do dotkniętych populacji ma kluczowe znaczenie."
     },
     {
       "title": "Ebola w wieku 50 lat — lekcje dotyczące reagowania na epidemię i gotowości — The New England Journal of Medicine",
