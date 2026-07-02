@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T04:10:23Z",
+  "last_updated": "2026-07-02T04:11:12Z",
   "poland": [
     {
       "title": "Specjalista/specjalistka | Ministerstwo Zdrowia w Warszawie | Warszawa - Gov.pl",
@@ -1126,14 +1126,6 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
     },
     {
-      "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-renastart-2/",
-      "date": "2026-06-23T11:13:29Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
-    },
-    {
       "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
       "url": "https://www.heart.org/en/news/2026/06/22/ckm-guideline-shows-how-care-coordination-helps-patients-and-doctors",
       "date": "2026-06-22T19:53:11Z",
@@ -1148,6 +1140,30 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Ogsiveo (nirogacestat) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-ogsiveo-nirogacestat/",
+      "date": "2026-06-12T10:02:33Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja nr 79/2026 z dnia 10 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgód na refundację produktu leczniczego Ogsiveo (nirogacestat) we wskazaniu: leczenie pacjentów pediatrycznych z postępującymi guzami desmoidalnymi opornymi na leczenie innych linii i niekwalifikującymi się do leczenia operacyjnego."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Cabometyx (kabozantynib) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-cabometyx-kabozantynib-2/",
+      "date": "2026-06-05T07:21:01Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja nr 76/2026 z dnia 2 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Cabometyx (kabozantynib) w leczeniu guzów neuroendokrynnych trzustkowych (pNET) i pozatrzustkowych (epNET)."
+    },
+    {
+      "title": "Świadczenia gwarantowane obejmujące leczenie chorób układu oddechowego - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/swiadczenia-gwarantowane-obejmujace-leczenie-chorob-ukladu-oddechowego/",
+      "date": "2026-06-03T08:44:12Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Na podstawie art. 31lb ust. 4 ustawy z dnia 27 sierpnia 2004 r."
     }
   ],
   "epidemiology": [
@@ -1938,20 +1954,20 @@
       "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
-      "title": "Szczegóły badania | NCT07450547 | Badanie fazy 2 oceniające bezpieczeństwo i skuteczność ANG003 – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07450547",
-      "date": "2026-06-29T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07450547 | Badanie fazy 2 mające na celu ocenę bezpieczeństwa i skuteczności ANG003 ClinicalTrials.gov."
-    },
-    {
       "title": "Szczegóły badania | NCT06616025 | Badanie to oceni skuteczność NTX-001, produktu do chirurgicznej naprawy nerwów, stosowanego u osób z uszkodzeniami nerwów kończyn górnych. - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT06616025",
       "date": "2026-06-29T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT06616025 | Badanie to oceni skuteczność NTX-001, produktu do chirurgicznej naprawy nerwów, stosowanego u osób z uszkodzeniami nerwów kończyn górnych. ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07546500 | Badanie dotyczące azenosertybu (ZN-c3) w porównaniu z chemioterapią wybraną przez badacza u pacjentów z opornym na platynę rakiem surowiczym jajnika, pierwotnym rakiem otrzewnej lub jajowodu o wysokim stopniu złośliwości, z dodatnim wynikiem na obecność białka cykliny E1 Expressi - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07546500",
+      "date": "2026-06-29T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07546500 | Badanie dotyczące azenosertybu (ZN-c3) w porównaniu z chemioterapią wybraną przez badacza u pacjentów z opornym na platynę surowiczym rakiem jajnika, pierwotnym rakiem otrzewnej lub jajowodu o wysokim stopniu złośliwości, z dodatnim wynikiem na obecność białka cykliny E1 Expressi ClinicalTrials.gov."
     }
   ],
   "pharma_market": [
