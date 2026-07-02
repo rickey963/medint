@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T04:26:56Z",
+  "last_updated": "2026-07-02T04:27:43Z",
   "poland": [
     {
       "title": "Autoimmunizacja - sygnały alarmowe - Serwis Zdrowie",
@@ -548,20 +548,20 @@
       "summary": "Somatyczny ratunek genetyczny w przypadku niedoboru odporności w zespole WHIM. The New England Journal of Medicine."
     },
     {
-      "title": "Pembrolizumab i belzutifan w leczeniu raka nerkowokomórkowego - The New England Journal of Medicine",
-      "url": "https://www.nejm.org/do/10.1056/NEJMdo008556/full/",
-      "date": "2026-07-01T21:53:48Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Pembrolizumab i belzutifan w raku nerkowokomórkowym The New England Journal of Medicine."
-    },
-    {
       "title": "FFR wywodzący się z angiografii i choroba wieńcowa – The New England Journal of Medicine",
       "url": "https://www.nejm.org/do/10.1056/NEJMdo008552/full/",
       "date": "2026-07-01T21:53:48Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "FFR pochodzący z angiografii i choroba wieńcowa The New England Journal of Medicine."
+    },
+    {
+      "title": "Pembrolizumab i belzutifan w leczeniu raka nerkowokomórkowego - The New England Journal of Medicine",
+      "url": "https://www.nejm.org/do/10.1056/NEJMdo008556/full/",
+      "date": "2026-07-01T21:53:48Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Pembrolizumab i belzutifan w raku nerkowokomórkowym The New England Journal of Medicine."
     },
     {
       "title": "2 lipca 2026 | NEJM – The New England Journal of Medicine",
@@ -1108,6 +1108,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Dostępny jest również plik audio."
+    },
+    {
+      "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-advanced-and-metastatic-prostate-cancer/supportive-care-follow-up-long-term-implications-and-survivorship/mcrpc-supportive-care-follow-up-long-term-implications-and-survivorship",
+      "date": "2026-06-26T08:30:18Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "mCRPC: Opieka wspomagająca, obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1938,20 +1946,20 @@
       "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
-      "title": "Szczegóły badania | NCT07450547 | Badanie fazy 2 oceniające bezpieczeństwo i skuteczność ANG003 – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07450547",
-      "date": "2026-06-29T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07450547 | Badanie fazy 2 mające na celu ocenę bezpieczeństwa i skuteczności ANG003 ClinicalTrials.gov."
-    },
-    {
       "title": "Szczegóły badania | NCT06616025 | Badanie to oceni skuteczność NTX-001, produktu do chirurgicznej naprawy nerwów, stosowanego u osób z uszkodzeniami nerwów kończyn górnych. - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT06616025",
       "date": "2026-06-29T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT06616025 | Badanie to oceni skuteczność NTX-001, produktu do chirurgicznej naprawy nerwów, stosowanego u osób z uszkodzeniami nerwów kończyn górnych. ClinicalTrials.gov."
+    },
+    {
+      "title": "Badanie BMS-986504 z terapią standardową dla osób chorych na raka z guzem litym – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07532902",
+      "date": "2026-06-29T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Badanie BMS-986504 z terapią standardową dla osób chorych na raka z guzem litym ClinicalTrials.gov."
     }
   ],
   "pharma_market": [
