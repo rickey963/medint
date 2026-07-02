@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-02T14:01:47Z",
+  "last_updated": "2026-07-02T14:06:51Z",
   "poland": [
+    {
+      "title": "Wiceminister Maciejewski o bilokacji lekarzy: będziemy mieli dane o rzeczywistym czasie pracy personelu medycznego - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/wiceminister-maciejewski-n2398917",
+      "date": "2026-07-02T14:00:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Wiceminister Maciejewski o bilokacji lekarzy: będziemy mieli dane o rzeczywistym czasie pracy personelu medycznego PolitykaZdrowotna.com."
+    },
     {
       "title": "Zaburzenia pamięci i otępienie Rola lekarza rodzinnego w diagnostyce i wczesnym kierowaniu do specjalisty - Podyplomie",
       "url": "https://podyplomie.pl/czasopisma/medycyna-po-dyplomie/2026/07-08/zaburzenia-pamieci-i-otepienie-rola-lekarza-rodzinnego-w-diagnostyce-i-wczesnym-kierowaniu-do-specjalisty",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Prezes AOTMiT nie rekomenduje refundacji Mounjaro w leczeniu otyłości. Wskazano m.in. ograniczenia danych klinicznych i wysokie koszty dla NFZ."
-    },
-    {
-      "title": "Ustawa o jawności wynagrodzeń kością niezgody. \"Jako samorząd obawiamy się, że te informacje się wydostaną\" - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Ustawa-o-jawnosci-wynagrodzen-koscia-niezgody-Jako-samorzad-obawiamy-sie-ze-te-informacje-sie-wydostana,286186,1.html",
-      "date": "2026-07-02T07:15:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Środowisko lekarskie nie zgadza się na uchwaloną przez Sejm ustawę o jawności wyngarodzeń. Skąd wynika ta postawa? - My bardziej obawiamy się wycieku tych danych."
     }
   ],
   "world": [
@@ -946,7 +946,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-06-30T21:47:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
@@ -1126,6 +1126,14 @@
       "summary": "Dostępny jest również plik audio."
     },
     {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/869",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
+    },
+    {
       "title": "Epidemia botulizmu u niemowląt powiązana ze sproszkowanym preparatem dla niemowląt, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/index.html",
       "date": "2026-06-26T07:00:00Z",
@@ -1134,12 +1142,12 @@
       "summary": "Informacja o wybuchu zatrucia jadem kiełbasianym u niemowląt w związku z odżywką dla niemowląt Nara Organics."
     },
     {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/869",
-      "date": "2026-06-26T07:00:00Z",
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 25 czerwca 2026 r. w sprawie wysokości zasadniczego wynagrodzenia miesięcznego lekarzy i lekarzy dentystów odbywających specjalizacje w ramach rezydentury",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/856",
+      "date": "2026-06-25T07:00:00Z",
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 856, z dniem ogłoszenia 2026-06-29."
     },
     {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1682,7 +1690,7 @@
       "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
-      "title": "Szczegóły badania | NCT07678593 | Badanie GFH276 w skojarzeniu z cetuksymabem lub chemioterapią u uczestników z guzami litymi i gruczolakorakiem przewodowym trzustki (PDAC) niosącym mutację RAS – ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07678593 | Badanie GFH276 w skojarzeniu z cetuksymabem lub chemioterapią u pacjentów z guzami litymi i gruczolakorakiem przewodowym trzustki (PDAC) z mutacją RAS – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07678593",
       "date": "2026-07-01T07:00:00Z",
       "source": "ClinicalTrials.gov",
