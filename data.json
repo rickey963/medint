@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T11:58:21Z",
+  "last_updated": "2026-07-02T12:00:43Z",
   "poland": [
     {
       "title": "Prekonsultacje ustawy o refundacji indywidualnej. MZ porządkuje dostęp do nowych terapii. Eksperci: potrzebne zmiany, ale nie wszystkie rozwiązania są realne - PolitykaZdrowotna.com",
@@ -94,7 +94,7 @@
       "url": "https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/raport-refundacyjny,8973.html",
       "date": "2026-07-02T10:04:11Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Raport refundacyjny Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -867,7 +867,7 @@
       "date": "2026-07-01T08:03:16Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Jeśli komentujesz w imieniu organizacji, Twoja organizacja musi być zarejestrowana jako interesariusz ."
+      "summary": "Konsultacje | Zespół metaboliczny wieloendokrynnych jajników (PMOS) | Poradnik NICE."
     },
     {
       "title": "Szkolenie OK COBIK NIL - Lekarzu, zadbaj o siebie. Jak wdrożyć self-care w przeładowany grafik? - NIL",
@@ -1110,12 +1110,12 @@
       "summary": "Dostępny jest również plik audio."
     },
     {
-      "title": "Epidemia botulizmu u niemowląt powiązana ze sproszkowanym preparatem dla niemowląt, czerwiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/index.html",
+      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-06-26T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Informacja o wybuchu zatrucia jadem kiełbasianym u niemowląt w związku z odżywką dla niemowląt Nara Organics."
+      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
@@ -1134,12 +1134,20 @@
       "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
-      "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
-      "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
-      "date": "2026-06-22T00:26:59Z",
+      "title": "Zespół CKM się komplikuje. Nawigatorzy mogą utrzymać opiekę na właściwej drodze. - www.serce.org",
+      "url": "https://www.heart.org/en/news/2026/06/22/ckm-guideline-shows-how-care-coordination-helps-patients-and-doctors",
+      "date": "2026-06-22T19:53:11Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
+    },
+    {
+      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
+      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
+      "date": "2026-06-22T10:42:34Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
+      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
     }
   ],
   "epidemiology": [
@@ -2033,7 +2041,7 @@
       "date": "2026-07-01T19:38:34Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "UNII-D507VOE6VN | UNII Search Service PrecisionFDA (.gov)."
+      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
     },
     {
       "title": "Lonza rozszerza współpracę z amerykańskim producentem leków, zwiększa wydajność ADC - Fierce Pharma",
@@ -2424,6 +2432,22 @@
       "summary": "Immunogenność i skuteczność ochronna nieadiuwantowanych szczepionek SARS-CoV-2 nakierowanych na CD40 u naczelnych innych niż ludzie The Lancet."
     },
     {
+      "title": "Fizjologiczna ocena choroby wieńcowej — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMe2602134?af=R&rss=currentIssue",
+      "date": "2026-07-02T08:26:30Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Fizjologiczna ocena choroby wieńcowej The New England Journal of Medicine."
+    },
+    {
+      "title": "Sztuczna inteligencja i wykrywanie choroby Hirschsprunga – The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2401139?af=R&rss=currentIssue",
+      "date": "2026-07-02T08:19:54Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Sztuczna inteligencja i wykrywanie choroby Hirschsprunga The New England Journal of Medicine."
+    },
+    {
       "title": "Ebola w wieku 50 lat — lekcje dotyczące reagowania na epidemię i gotowości — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2607819",
       "date": "2026-07-02T02:54:44Z",
@@ -2438,22 +2462,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Ebola w wieku 50 lat — lekcje dotyczące reagowania na epidemię i gotowości The New England Journal of Medicine."
-    },
-    {
-      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley powiązane z aromatyzowanymi produktami z makaronu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products",
-      "date": "2026-07-01T12:00:03Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Jak wynika z szybkiej oceny epidemii przeprowadzonej przez EFSA i ECDC, najbardziej prawdopodobnym źródłem trwającej w wielu krajach epidemii zakażeń Salmonella Stanley są produkty z makaronu smakowego, a dowody łączą te przypadki z produktami tej samej marki."
-    },
-    {
-      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley ST2045 powiązane ze spożyciem aromatyzowanych produktów z makaronu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/publications-data/multi-country-outbreak-salmonella-stanley-st2045-infections-linked-consumption",
-      "date": "2026-07-01T11:59:18Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "W UE/EOG trwa epidemia Salmonella Stanley ST2045, a w okresie od listopada 2025 r. do czerwca 2026 r. zgłoszono łącznie 106 potwierdzonych przypadków z 13 krajów UE/EOG (77) i Wielkiej Brytanii (29)."
     }
   ]
 }
