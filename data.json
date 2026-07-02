@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T06:58:48Z",
+  "last_updated": "2026-07-02T06:59:32Z",
   "poland": [
     {
       "title": "Ministra zdrowia wyjaśnia dochody z oświadczenia majątkowego. Opublikowała szczegóły - Alert Medyczny",
@@ -441,7 +441,7 @@
       "date": "2026-07-02T01:10:58Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Tygodnik NEJM CME The New England Journal of Medicine."
+      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
     },
     {
       "title": "Postępowanie operacyjne i nieoperacyjne w zapaleniu wyrostka robaczkowego – The New England Journal of Medicine",
@@ -457,7 +457,7 @@
       "date": "2026-07-02T01:05:19Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Tygodnik NEJM CME The New England Journal of Medicine."
+      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
     },
     {
       "title": "Tygodnik NEJM CME – The New England Journal of Medicine",
@@ -465,7 +465,7 @@
       "date": "2026-07-02T01:05:10Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Tygodnik NEJM CME The New England Journal of Medicine."
+      "summary": "Zawartość tej witryny jest przeznaczona dla pracowników służby zdrowia."
     },
     {
       "title": "Żylna choroba zakrzepowo-zatorowa po leczeniu mechanicznym w szpitalach psychiatrycznych: populacyjne badanie kohortowe i samokontrola serii przypadków - The BMJ",
@@ -1118,6 +1118,14 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
+      "title": "mCRPC: Opieka wspomagająca, obserwacja, konsekwencje długoterminowe i przeżycie - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-advanced-and-metastatic-prostate-cancer/supportive-care-follow-up-long-term-implications-and-survivorship/mcrpc-supportive-care-follow-up-long-term-implications-and-survivorship",
+      "date": "2026-06-26T08:30:18Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "mCRPC: Opieka wspomagająca, obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
       "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-06-26T07:00:00Z",
@@ -1132,14 +1140,6 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
-    },
-    {
-      "title": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami eksonu 20 EGFR - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/oral-sunvozertinib-prolongs-pfs-over-chemotherapy-as-first-line-treatment-for-patients-with-advanced-nsclc-with-egfr-exon-20-insertions",
-      "date": "2026-06-23T13:35:28Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "Doustny sunwozertynib wydłuża PFS w porównaniu z chemioterapią jako leczenie pierwszego rzutu u pacjentów z zaawansowanym NSCLC z insercjami w eksonie 20 EGFR Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Rekomendacja Prezesa – Renastart - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1158,12 +1158,12 @@
       "summary": "Zarządzanie zespołem CKM może być skomplikowane. Nowe wytyczne @American_Heart pokazują, jak posiadanie konkretnej osoby, która pomoże w prowadzeniu opieki, może pomóc pacjentom."
     },
     {
-      "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
-      "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
-      "date": "2026-06-22T00:26:59Z",
+      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
+      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
+      "date": "2026-06-22T10:42:34Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
+      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
     }
   ],
   "epidemiology": [
