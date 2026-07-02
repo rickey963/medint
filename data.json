@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T13:19:23Z",
+  "last_updated": "2026-07-02T13:25:39Z",
   "poland": [
     {
       "title": "Rada NFZ zatwierdziła sprawozdania za 2025 r. Ponad 32,9 mld zł dotacji z budżetu państwa - Alert Medyczny",
@@ -7,7 +7,7 @@
       "date": "2026-07-02T13:01:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rada NFZ zatwierdziła sprawozdania za 2025 r. Ponad 32,9 mld zł dotacji z budżetu państwa Alert Medyczny."
+      "summary": "Rada NFZ zatwierdziła sprawozdania za 2025 r. Dotacja z budżetu państwa wzrosła do 32,94 mld zł, a strata netto wyniosła 2,3 mld zł."
     },
     {
       "title": "Rola dermokosmetyków zawierających ceramidy jako terapii wspomagającej w leczeniu trądziku pospolitego - Podyplomie",
@@ -56,6 +56,14 @@
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Nawet 40 proc. rynku gier hazardowych w internecie wciąż pozostaje w rękach nielegalnych podmiotów, wykorzystujących niewiedzę i nieuwagę konsumentów. Jak wynika z najnowszego raportu Fundacji Forum Konsumentów, stwarza to realne zagrożenia dla graczy, zwłaszcza tych nieletnich."
+    },
+    {
+      "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/poznan2615,2899.html",
+      "date": "2026-07-02T11:59:00Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 2,
+      "summary": "Skorzystaj z naszego poradnika, jeśli chcesz dowiedzieć się jak prawidłowo złożyć dokumenty lub szukasz dodatkowych informacji dotyczących procesu rekrutacji. Znajdziesz tam również klauzulę informacyjną oraz wzory wymaganych zgód i oświadczeń."
     },
     {
       "title": "Informacja na temat wniosków złożonych w ramach III rundy naboru \"Dostępność Plus dla AOS\" w dniach 15-26.06.2026 - Gov.pl",
@@ -150,7 +158,7 @@
       "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/bialystok2614,2895.html",
       "date": "2026-07-02T10:17:00Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Praca w Funduszu to nauka, doświadczenie i satysfakcja z tworzenia wartości, które mają realny wpływ na otaczającą nas rzeczywistość."
     },
     {
@@ -175,7 +183,7 @@
       "date": "2026-07-02T10:05:42Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Warszawski Szpital Południowy zwolnił koordynatora prosektorium Alert Medyczny."
+      "summary": "Warszawski Szpital Południowy zwolnił koordynatora prosektorium bez wypowiedzenia. Decyzja zapadła po publikacjach portalu Zero.pl."
     },
     {
       "title": "XXII Międzynarodowa Konferencja Sekcji Onkologicznej PTORL CHGiSz - Termedia",
@@ -190,7 +198,7 @@
       "url": "https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/raport-refundacyjny,8973.html",
       "date": "2026-07-02T10:04:11Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Raport refundacyjny Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -351,7 +359,7 @@
       "date": "2026-07-02T07:25:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prezes AOTMiT nie rekomenduje refundacji Mounjaro KwikPen w programie leczenia otyłości Alert Medyczny."
+      "summary": "Prezes AOTMiT nie rekomenduje refundacji Mounjaro w leczeniu otyłości. Wskazano m.in. ograniczenia danych klinicznych i wysokie koszty dla NFZ."
     },
     {
       "title": "Ustawa o jawności wynagrodzeń kością niezgody. \"Jako samorząd obawiamy się, że te informacje się wydostaną\" - Rynek Zdrowia",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Polski system leczenia uzależnień opiera się w dużej mierze na placówkach publicznych i finansowanych przez Narodowy Fundusz Zdrowia. Zapewniają one leczenie szerokiej grupie pacjentów i pełnią funkcję, której nie sposób przecenić. Codzienna praktyka kliniczna pokazuje jednak, że między realną potrzebą a możliwościami systemu istnieje..."
-    },
-    {
-      "title": "Szpital Uniwersytecki w Krakowie i Kopalnia Soli \"Wieliczka\" rozpoczynają współpracę - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/szpital-uniwersytecki-n2397321",
-      "date": "2026-07-02T06:30:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Szpital Uniwersytecki w Krakowie i Kopalnia Soli \"Wieliczka\" rozpoczynają współpracę PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -540,7 +540,7 @@
       "summary": "Ebola w wieku 50 lat — lekcje dotyczące reagowania na epidemię i gotowości The New England Journal of Medicine."
     },
     {
-      "title": "Opis stanowiska pracy - Konsultant - Programista systemów informatycznych i narzędzi do ekstrakcji danych (2602624) - cares.who.int",
+      "title": "Opis stanowiska - Konsultant - Programista systemów informatycznych i narzędzi do ekstrakcji danych (2602624) - cares.who.int",
       "url": "https://careers.who.int/careersection/ex/jobdetail.ftl?job=2602624&tz=GMT%2B00%3A00&tzname=UTC",
       "date": "2026-07-02T01:56:20Z",
       "source": "WHO",
@@ -870,7 +870,7 @@
       "summary": "Jak wynika z nowego badania opublikowanego w czasopiśmie Journal of the American Heart Association, korzyści ze stosowania leków GLP-1 były największe w przypadku osób z ciężką chorobą tętnic obwodowych (PAD) i osób z otyłością."
     },
     {
-      "title": "Konsultacje | Zespół metaboliczny wieloendokrynnych jajników (PMOS) | Poradnik - strona internetowa NICE",
+      "title": "Konsultacje | Zespół metaboliczny poliendokrynnych jajników (PMOS) | Poradnik - strona internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ng10436/consultation/html-content-9",
       "date": "2026-07-01T08:03:16Z",
       "source": "NICE",
@@ -938,7 +938,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-06-30T21:47:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
@@ -987,7 +987,7 @@
       "date": "2026-06-30T14:28:04Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Posiedzenie Rady Przejrzystości 27/2026 w dniu 06.07.2026 r. Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Wykorzystujemy pliki cookie w celu zapewnienia prawidłowego funkcjonowania naszej witryny oraz do analizy ruchu i optymalizacji działania strony. Dzięki nim możemy lepiej dostosować treści do potrzeb użytkowników i stale ulepszać nasze usługi. Pamiętaj, że informacje przechowywane w plikach cookie mogą pozwalać na identyfikację konkretnego urządzenia lub przeglądarki użytkownika, a więc potencjalnie stanowić dane osobowe."
     },
     {
       "title": "Neoadjuwantowy serplulimab z S-1 plus oksaliplatyną, a następnie adiuwant serplulimab znacząco poprawia EFS w przypadku resekcyjnego raka żołądka z dodatnim statusem PD-L1 lub gruczolakoraka GEJ - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1011,7 +1011,7 @@
       "date": "2026-06-30T07:00:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych w dniu 17 lipca TRICARE Newsroom (.mil)."
+      "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca TRICARE Newsroom (.mil)."
     },
     {
       "title": "Przegląd | Atogepant w leczeniu migreny | Poradnik - strona internetowa NICE",
@@ -1059,7 +1059,7 @@
       "date": "2026-06-29T12:58:24Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych, aby opublikować pierwszą uniwersalną definicję niewydolności serca, ustanawiając jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
     },
     {
       "title": "Światowi eksperci aktualizują definicję niewydolności serca, aby ulepszyć profilaktykę, diagnostykę i opiekę – www.heart.org",
@@ -1075,7 +1075,7 @@
       "date": "2026-06-29T07:00:00Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Protokół z posiedzenia Rady Przejrzystości w dniu 29 czerwca 2026 r. + uchwały Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Wykorzystujemy pliki cookie w celu zapewnienia prawidłowego funkcjonowania naszej witryny oraz do analizy ruchu i optymalizacji działania strony. Dzięki nim możemy lepiej dostosować treści do potrzeb użytkowników i stale ulepszać nasze usługi. Pamiętaj, że informacje przechowywane w plikach cookie mogą pozwalać na identyfikację konkretnego urządzenia lub przeglądarki użytkownika, a więc potencjalnie stanowić dane osobowe."
     },
     {
       "title": "Nowe wytyczne praktyki klinicznej dotyczące samobójstw i samookaleczeń u dzieci – The Medical Journal of Australia",
@@ -1086,12 +1086,20 @@
       "summary": "Oparte na dowodach wytyczne pokazują, co przeżyte doświadczenie może nam powiedzieć o obecnym stanie systemu zdrowia psychicznego."
     },
     {
-      "title": "ESC 365 – Europejskie Towarzystwo Kardiologiczne",
+      "title": "ESC 365 - ESC 365",
       "url": "https://esc365.escardio.org/knowledge-track/pah",
       "date": "2026-06-28T04:05:26Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
+    },
+    {
+      "title": "Rewizja MDR – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/mdr-revision/",
+      "date": "2026-06-27T15:35:42Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Zbliżająca się zmiana rozporządzenia w sprawie wyrobów medycznych (MDR), która ma zostać sfinalizowana podczas irlandzkiej prezydencji w Radzie UE, stanowi kluczową okazję do wzmocnienia współpracy między organami regulacyjnymi a społecznością kliniczną."
     },
     {
       "title": "Ograniczone wytyczne dotyczące kosztów początkowych w wytycznych amerykańskich – Conexiant",
@@ -1100,14 +1108,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
-    },
-    {
-      "title": "Autorzy i czasopisma ESC – czynniki wpływu i instrukcje – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/publications/journals/authors-and-the-esc-journal-family/",
-      "date": "2026-06-27T02:49:08Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Uzyskaj dostęp do współczynników wpływu czasopism ESC i wszystkich instrukcji dla autorów chcących przesyłać artykuły dotyczące kardiologii lub zagadnień sercowo-naczyniowych do rodziny czasopism ESC."
     },
     {
       "title": "Transkrypcja – Aktualne informacje na temat epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 26.06.2026 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1139,7 +1139,7 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
       "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
@@ -1147,10 +1147,18 @@
       "date": "2026-06-22T00:26:59Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
+      "summary": "Pacjenci mieszkający na obszarach wiejskich z przewlekłym bólem muszą mierzyć się z długimi podróżami, kosztownymi podróżami i ograniczonym dostępem do aptek w celu skutecznego leczenia bólu."
     }
   ],
   "epidemiology": [
+    {
+      "title": "Rozpoczyna się rekrutacja pacjentów do badania naukowego mającego na celu zidentyfikowanie pierwszych skutecznych metod leczenia choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease",
+      "date": "2026-07-02T12:45:18Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "W ramach dużego międzynarodowego wysiłku mającego na celu ocenę potencjalnych metod leczenia choroby Ebola wywołanej wirusem Bundibugyo (BVD) do badania klinicznego PARTNERS otwarto dziś nabór pacjentów z Demokratycznej Republiki Konga."
+    },
     {
       "title": "Główny ekspert/lider grupy ds. gotowości i reagowania w sytuacjach kryzysowych – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/about-us/work-us/vacancies/principal-expert-group-leader-emergency-preparedness-and-response",
@@ -1224,7 +1232,7 @@
       "summary": "Nowe badanie wykazało, że korzyści płynące z technologii mRNA są znaczne, a poważne zdarzenia niepożądane występują rzadko."
     },
     {
-      "title": "Seminarium internetowe WHO dotyczące sytuacji nadzwyczajnych w zakresie zdrowia EPI-WIN: Wzmocnienie zarządzania krajowymi agencjami zdrowia publicznego w zakresie gotowości i reagowania na sytuacje kryzysowe – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Webinar WHO dotyczący sytuacji nadzwyczajnych w zakresie zdrowia EPI-WIN: Wzmocnienie zarządzania krajowymi agencjami zdrowia publicznego w zakresie gotowości i reagowania na sytuacje kryzysowe – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/07/15/default-calendar/who-health-emergencies-epi-win-webinar-strengthening-the-governance-of-national-public-health-agencies-for-emergency-preparedness-and-response",
       "date": "2026-07-01T17:31:17Z",
       "source": "WHO Disease Outbreak News",
@@ -1253,7 +1261,7 @@
       "date": "2026-07-01T13:27:25Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Wiele krajów wschodniego regionu Morza Śródziemnego WHO może się podzielić doświadczeniami w zakresie ograniczania liczby wypadków drogowych. Ich postępy wpisują się w istotne ramy wzmacniania systemów bezpieczeństwa drogowego w regionie. Zjednoczone Emiraty Arabskie były jednym z zaledwie 10 krajów, które w ciągu dekady do 2021 r. zmniejszyły liczbę ofiar śmiertelnych wypadków drogowych o ponad 50%. Oman zmniejszył liczbę ofiar śmiertelnych o ponad 40%, Bahrajn o ponad 30%, a Iran (Islamska Republika), Katar i Arabia Saudyjska zmniejszyły liczbę ofiar śmiertelnych wypadków drogowych o ponad 20% w ciągu dziesięciu lat. Podczas spotkania wysokiego szczebla w sprawie poprawy światowego bezpieczeństwa drogowego te i wiele innych krajów mają spostrzeżenia i wnioski, którymi mogą się podzielić z innymi, a których celem jest osiągnięcie globalnego celu, jakim jest zmniejszenie o 50% liczby ofiar śmiertelnych i poważnych obrażeń na drogach do roku 2030."
+      "summary": "Wiele krajów wschodniego regionu Morza Śródziemnego WHO może się podzielić doświadczeniami w zakresie ograniczania liczby wypadków drogowych. Ich postępy wpisują się w istotne ramy wzmacniania systemów bezpieczeństwa drogowego w regionie. Zjednoczone Emiraty Arabskie były jednym z zaledwie 10 krajów, które w ciągu dekady poprzedzającej 2021 r. zmniejszyły liczbę ofiar śmiertelnych wypadków drogowych o ponad 50%. Oman zmniejszył liczbę ofiar śmiertelnych o ponad 40%, Bahrajn o ponad 30%, a Iran (Islamska Republika), Katar i Arabia Saudyjska zmniejszyły liczbę ofiar śmiertelnych wypadków drogowych o ponad 20% w ciągu dziesięciu lat. Podczas spotkania wysokiego szczebla w sprawie poprawy światowego bezpieczeństwa drogowego te i wiele innych krajów mają spostrzeżenia i wnioski, którymi mogą się podzielić z innymi, a których celem jest osiągnięcie globalnego celu, jakim jest zmniejszenie o 50% liczby ofiar śmiertelnych i poważnych obrażeń na drogach do roku 2030."
     },
     {
       "title": "Osiemnaste spotkanie międzyregionalne Krajowych Centrów ds. Grypy i Nadzoru nad Grypą w regionach Azji Południowo-Wschodniej i Zachodniego Pacyfiku WHO – Światowa Organizacja Zdrowia (WHO)",
@@ -1432,12 +1440,12 @@
       "summary": "Pomimo dostępności skutecznych szczepionek, metod diagnostycznych i metod leczenia wirusowe zapalenie wątroby pozostaje główną przyczyną chorób wątroby i raka wątroby, powodując codziennie tysiące zgonów, którym można zapobiec. Ograniczenia finansowe, napiętnowanie i dyskryminacja, słaba integracja systemów opieki zdrowotnej i nierówny dostęp do innowacji w dalszym ciągu pozostawiają miliony ludzi bez opieki. Odzwierciedlając temat Światowego Dnia Wirusowego Zapalenia Wątroby, wydarzenie to zgromadzi ministrów, decydentów, ekspertów technicznych, społeczeństwo obywatelskie, dotknięte społeczności i partnerów zajmujących się rozwojem, aby określić działania mające na celu zwiększenie inwestycji, usprawnienie świadczenia usług, poszerzenie równego dostępu i przyspieszenie innowacji."
     },
     {
-      "title": "Światowy Dzień Wirusowego Zapalenia Wątroby 2026 – talk show w Internecie – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Światowy Dzień Wirusowego Zapalenia Wątroby 2026 – talk show w internecie – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/07/23/default-calendar/world-hepatitis-day-2026-online-talk-show",
       "date": "2026-06-30T16:19:24Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Internetowy talk show z okazji Światowego Dnia Zapalenia Wątroby 2026 przekaże mocne przesłanie pełne nadziei i pilności oraz tego, że eliminacja zapalenia wątroby jest możliwa nawet w dzisiejszym wymagającym środowisku globalnym – jeśli będzie poparte przywództwem, inwestycjami, solidarnością i zdecydowanymi działaniami."
+      "summary": "Internetowy talk show z okazji Światowego Dnia Zapalenia Wątroby 2026 przekaże mocne przesłanie pełne nadziei i pilności oraz tego, że eliminacja zapalenia wątroby jest możliwa nawet w dzisiejszym wymagającym środowisku globalnym – jeśli będzie wspierane przez przywództwo, inwestycje, solidarność i zdecydowane działania."
     },
     {
       "title": "WHO rozwija Sieć Monitorowania Nierówności Zdrowotnych, podwajając globalną liczbę członków – Światowa Organizacja Zdrowia (WHO)",
@@ -1542,19 +1550,11 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Odkryj rolę WHO jako opiekuna kluczowych wskaźników SDG w zakresie zdrowia, energii i miast, w tym kluczowych wskaźników zanieczyszczenia powietrza, takich jak współczynniki śmiertelności i poziomy PM2,5."
-    },
-    {
-      "title": "Epidemia wirusa Ebola rozprzestrzenia się na czwartą prowincję Demokratycznej Republiki Konga – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-spreads-4th-province-dr-congo",
-      "date": "2026-06-29T21:13:49Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Według doniesień mediów epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) rozprzestrzeniła się na czwartą prowincję."
     }
   ],
   "clinical_trials": [
     {
-      "title": "Streszczenie ACT: Selektywne dane dotyczące bezpieczeństwa i redukcja liczby wizyt, luki w wykonaniu protokołu i badanie bezpieczeństwa chińskiego badania klinicznego – stosowane badania kliniczne online",
+      "title": "Streszczenie ACT: Selektywne dane dotyczące bezpieczeństwa i redukcja liczby wizyt, luki w wykonaniu projektu protokołu oraz dochodzenie w sprawie bezpieczeństwa prób w Chinach – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/selective-safety-data-visit-reduction-protocol-design-execution-china-trial-security-investigation",
       "date": "2026-07-02T10:03:14Z",
       "source": "Applied Clinical Trials",
@@ -1594,7 +1594,7 @@
       "summary": "Projekt protokołu nie zawodzi w protokole, zawodzi przy przejściu do próbnych stosowanych badań klinicznych online."
     },
     {
-      "title": "Firma Sanofi dąży do zatwierdzenia leku Nexviazyme u młodszych pacjentów z chorobą Pompego – Arena Badań Klinicznych",
+      "title": "Sanofi dąży do zatwierdzenia leku Nexviazyme u młodszych pacjentów z chorobą Pompego – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/sanofi-aims-for-nexviazyme-approval-in-younger-pompe-disease-patients/",
       "date": "2026-07-01T15:13:08Z",
       "source": "Clinical Trials Arena",
@@ -1639,7 +1639,7 @@
       "date": "2026-07-01T10:06:40Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Informacje o ACT: Kwestie dotyczące integralności badania Tavneos, ścieżki regulacyjne dotyczące selektywnych danych dotyczących bezpieczeństwa oraz uruchomienie programu FDA PreCheck w zakresie stosowanych badań klinicznych online."
+      "summary": "Informacje o programie ACT: Kwestie dotyczące integralności badania Tavneos, ścieżki regulacyjne dotyczące selektywnych danych dotyczących bezpieczeństwa oraz uruchomienie programu FDA PreCheck w zakresie stosowanych badań klinicznych online."
     },
     {
       "title": "Mikroby jelitowe dostarczają nowych wskazówek na temat tocznia, ale dowody ludzkie wciąż są przed nami - Trialsitenews.com",
@@ -1946,7 +1946,7 @@
       "summary": "Badania kliniczne w czasie rzeczywistym: co oznacza dążenie FDA do ciągłego nadzoru dla sponsorów Stosowane badania kliniczne online."
     },
     {
-      "title": "Wbudowane, a nie przykręcone: dlaczego bezpieczeństwo danych klinicznych musi być zasadą projektowania – stosowane badania kliniczne online",
+      "title": "Wbudowane, a nie przykręcane: dlaczego bezpieczeństwo danych klinicznych musi być zasadą projektowania – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/clinical-data-security-design-principle",
       "date": "2026-06-29T15:53:34Z",
       "source": "Applied Clinical Trials",
@@ -2009,7 +2009,7 @@
       "date": "2026-07-01T22:16:45Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Eksperci twierdzą, że tak szeroko reklamowana przewaga szybkości szczepionek przeciw grypie mRNA jest węższa niż reklamowana, ponieważ dalsze etapy, takie jak wypełnianie, wykończenie i testowanie, wymagają tego samego czasu, niezależnie od platformy."
+      "summary": "Eksperci twierdzą, że tak często reklamowana przewaga szybkości szczepionek przeciw grypie mRNA jest węższa niż reklamowana, ponieważ dalsze etapy, takie jak wypełnianie, zakończenie i testowanie, wymagają tego samego czasu niezależnie od platformy."
     },
     {
       "title": "UNII-M9Y95ZE6J9 | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
@@ -2076,7 +2076,7 @@
       "summary": "Po wizycie na miejscu przeprowadzonej przez inspektorów FDA i uzyskaniu formularza 483 dla Genzyme Ireland na początku 2026 r. spółka zależna Sanofi spotyka się z kolejną naganą ze strony amerykańskiego organu regulacyjnego. | Po wizycie na miejscu przeprowadzonej przez inspektorów FDA i uzyskaniu formularza 483 dla Genzyme Ireland na początku 2026 r. spółka zależna Sanofi spotkała się z kolejną naganą ze strony Stanów Zjednoczonych."
     },
     {
-      "title": "Zdrowie układu sercowo-naczyniowego matki powiązane z opóźnieniem rozwoju potomstwa – Drugs.com",
+      "title": "Zdrowie układu krążenia matki powiązane z opóźnieniem rozwoju potomstwa – Drugs.com",
       "url": "https://www.drugs.com/news/maternal-cardiovascular-health-linked-offspring-developmental-delay-130525.html",
       "date": "2026-07-01T18:20:27Z",
       "source": "Drugs.com",
@@ -2108,7 +2108,7 @@
       "summary": "Liczba wizyt w klinice ALS w przypadku nosicieli wariantu ryzyka zwiększy się w Drugs.com."
     },
     {
-      "title": "Narzędzie do śledzenia przepisów: FDA ustala datę decyzji w sprawie leków na DMD firmy Sarepta – Fierce Pharma",
+      "title": "Narzędzie do śledzenia przepisów: FDA ustala datę decyzji w sprawie leków DMD firmy Sarepta – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
       "date": "2026-07-01T18:10:00Z",
       "source": "FiercePharma",
@@ -2204,7 +2204,7 @@
       "summary": "Dążąc do wzmocnienia swoich kontraktów z zakresu nauk przyrodniczych w dobrej wierze, samozwańcza „wieloaspektowa producent” Kimball Electronics podąża ścieżką fuzji i przejęć. | Dążąc do wzmocnienia swoich kontraktów z zakresu nauk przyrodniczych w dobrej wierze, samozwańcza „wieloaspektowa producent” Kimball Electronics podąża ścieżką fuzji i przejęć."
     },
     {
-      "title": "Haleon łączy siły z firmą Microsoft w ramach 5-letniego paktu dotyczącego sztucznej inteligencji w celu usprawnienia działań w zakresie zdrowia konsumentów – Fierce Pharma",
+      "title": "Haleon łączy siły z Microsoft w ramach 5-letniego paktu dotyczącego sztucznej inteligencji w celu usprawnienia działań w zakresie zdrowia konsumentów – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/haleon-teams-microsoft-5-year-corporate-ai-deal-upgrade-consumer-health-operations",
       "date": "2026-07-01T14:14:28Z",
       "source": "FiercePharma",
@@ -2233,7 +2233,7 @@
       "date": "2026-07-01T13:29:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Angitia wstrzymuje trzecią fazę badania dotyczącego choroby dysku, Abivax wycenia wyższą ofertę o wartości 800 mln dolarów, a AlzeCure podpisuje umowę NeuroRestore o wartości 2,2 mld dolarów z QuantumCell."
+      "summary": "Angitia wstrzymuje badanie fazy 3 dotyczące choroby dysku, Abivax wycenia wyższą ofertę o wartości 800 mln dolarów, a AlzeCure podpisuje umowę NeuroRestore o wartości 2,2 mld dolarów z QuantumCell."
     },
     {
       "title": "Aktualizacja perspektyw na rok 2026 i postępu firmy - BioSpace",
@@ -2329,7 +2329,7 @@
       "date": "2026-07-01T04:03:30Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Nowa analiza podkreśla, że ​​opieka ambulatoryjna staje się środkiem ciężkości systemów opieki zdrowotnej w miarę wzrostu potrzeb pacjentów, zapotrzebowania na oddział ratunkowy i opieki domowej."
+      "summary": "Nowa analiza podkreśla, że ​​opieka ambulatoryjna staje się środkiem ciężkości systemów opieki zdrowotnej w miarę wzrostu pilności pacjentów, zapotrzebowania na oddziały ratunkowe i opieki domowej."
     },
     {
       "title": "Ogłoszenie głównego akcjonariusza Zealand Pharma: The Capital Group Companies, Inc. - BioSpace",
@@ -2374,6 +2374,14 @@
       "summary": "Agencje zdrowia podają, że we wschodniej Demokratycznej Republice Konga zgłoszono co najmniej 1274 potwierdzonych przypadków wirusa Ebola i 360 zgonów, co stanowi część regionalnej liczby ofiar śmiertelnych."
     },
     {
+      "title": "Rozpoczyna się rekrutacja pacjentów do badania naukowego mającego na celu zidentyfikowanie pierwszych skutecznych metod leczenia choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease",
+      "date": "2026-07-02T12:45:18Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "W ramach dużego międzynarodowego wysiłku mającego na celu ocenę potencjalnych metod leczenia choroby Ebola wywołanej wirusem Bundibugyo (BVD) do badania klinicznego PARTNERS otwarto dziś nabór pacjentów z Demokratycznej Republiki Konga."
+    },
+    {
       "title": "Mobilność populacji i powstrzymywanie przypadków wirusa Ebola w Ituri w Demokratycznej Republice Konga – The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01253-5/fulltext?rss=yes",
       "date": "2026-07-02T07:54:50Z",
@@ -2412,17 +2420,17 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Program Narodów Zjednoczonych ds. Rozwoju (UNDP) stwierdził dzisiaj w swoim raporcie, że epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) i Ugandzie może mieć długotrwałe szkodliwe skutki dla gospodarki Afryki, przy czym DRK prawdopodobnie ucierpi najbardziej."
-    },
-    {
-      "title": "ONZ ostrzega, że ​​epidemia wirusa Ebola może kosztować Afrykę nawet 3,6 miliarda dolarów – Epidemionnewstoday.com",
-      "url": "https://outbreaknewstoday.com/ebola-outbreak-could-cost-africa-3-6bn-un-warns-683/",
-      "date": "2026-06-30T18:16:08Z",
-      "source": "Outbreak News Today",
-      "confirmed_by": 1,
-      "summary": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie może kosztować Afrykę aż 3,6 miliarda dolarów i w przypadku rozprzestrzenienia się doprowadzić do utraty 328 000 miejsc pracy."
     }
   ],
   "daily_top5": [
+    {
+      "title": "Rozpoczyna się rekrutacja pacjentów do badania naukowego mającego na celu zidentyfikowanie pierwszych skutecznych metod leczenia choroby wywołanej wirusem Bundibugyo – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease",
+      "date": "2026-07-02T12:45:18Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "W ramach dużego międzynarodowego wysiłku mającego na celu ocenę potencjalnych metod leczenia choroby Ebola wywołanej wirusem Bundibugyo (BVD) do badania klinicznego PARTNERS otwarto dziś nabór pacjentów z Demokratycznej Republiki Konga."
+    },
     {
       "title": "Immunogenność i skuteczność ochronna nieadiuwantowanych szczepionek SARS-CoV-2 nakierowanych na CD40 u naczelnych innych niż ludzie - The Lancet",
       "url": "https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(26)00244-6/fulltext?rss=yes",
@@ -2438,14 +2446,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Fizjologiczna ocena choroby wieńcowej The New England Journal of Medicine."
-    },
-    {
-      "title": "Sztuczna inteligencja i wykrywanie choroby Hirschsprunga – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2401139?af=R&rss=currentIssue",
-      "date": "2026-07-02T08:19:54Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Sztuczna inteligencja i wykrywanie choroby Hirschsprunga The New England Journal of Medicine."
     },
     {
       "title": "Ebola w wieku 50 lat — lekcje dotyczące reagowania na epidemię i gotowości — The New England Journal of Medicine",
