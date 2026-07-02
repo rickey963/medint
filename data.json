@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-02T12:34:04Z",
+  "last_updated": "2026-07-02T12:38:38Z",
   "poland": [
+    {
+      "title": "Kolejny problem Szpitala Południowego: zwalnia koordynatora prosektorium - Medonet",
+      "url": "https://www.medonet.pl/zdrowie/wiadomosci/zwolnienie-z-prosektorium-szpitala-poludniowego-mowa-o-utracie-zaufania/wskz310",
+      "date": "2026-07-02T12:31:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Warszawski Szpital PoÅudniowy rozwiÄ zaÅ umowÄ o pracÄ z koordynatorem prosektorium w trybie natychmiastowym, obarczajÄ c go winÄ za ciÄÅ¼kie naruszenie podstawowych obowiÄ zkÃ³w pracowniczych. W opublikowanym w czwartek oÅwiadczeniu placÃ³wka podkreÅla, Å¼e nie byÅo miejsca na kompromis w sprawie poszanowania godnoÅci zmarÅych i zaufania rodzin."
+    },
     {
       "title": "Komunikat Państwowego Powiatowego Inspektora Sanitarnego w Parczewie dotyczący korzystania z obszarów wodnych na terenie powiatu parczewskiego - Gov.pl",
       "url": "https://www.gov.pl/web/psse-parczew/komunikat-panstwowego-powiatowego-inspektora-sanitarnego-w-parczewie-dotyczacy-korzystania-z-obszarow-wodnych-na-terenie-powiatu-parczewskiego2",
@@ -103,7 +111,7 @@
       "date": "2026-07-02T10:05:49Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Warszawski Szpital Południowy zwolnił koordynatora prosektorium Alert Medyczny."
+      "summary": "Warszawski Szpital Południowy zwolnił koordynatora prosektorium bez wypowiedzenia. Decyzja zapadła po publikacjach portalu Zero.pl."
     },
     {
       "title": "XXII Międzynarodowa Konferencja Sekcji Onkologicznej PTORL CHGiSz - Termedia",
@@ -271,7 +279,7 @@
       "date": "2026-07-02T07:25:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prezes AOTMiT nie rekomenduje refundacji Mounjaro KwikPen w programie leczenia otyłości Alert Medyczny."
+      "summary": "Prezes AOTMiT nie rekomenduje refundacji Mounjaro w leczeniu otyłości. Wskazano m.in. ograniczenia danych klinicznych i wysokie koszty dla NFZ."
     },
     {
       "title": "Medyczni giganci na skraju przepaści - Termedia",
@@ -392,14 +400,6 @@
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Choroby autoimmunologiczne należą dziś do najszybciej rosnącej grupy schorzeń przewlekłych. Według danych przywoływanych w przeglądach opublikowanych na łamach „The Lancet\" dotyczą od 5 do 8 proc. populacji krajów uprzemysłowionych i należą do najczęstszych przyczyn przewlekłej niepełnosprawności u kobiet w wieku produkcyjnym."
-    },
-    {
-      "title": "Komunikat PPIS w Koninie z 01.07.2026 r. o jakości wody z wodociągu publicznego Wierzbinek - Gov.pl",
-      "url": "https://www.gov.pl/web/psse-konin/komunikat-ppis-w-koninie-z-01072026-r-o-jakosci-wody-z-wodociagu-publicznego-wierzbinek",
-      "date": "2026-07-02T03:29:57Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Aby uzyskać archiwalną wersję należy skontaktować się z Redakcją BIP."
     }
   ],
   "world": [
@@ -498,6 +498,14 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Priorytety badawcze dotyczące charakterystyki wirusa Bundibugyo The Lancet."
+    },
+    {
+      "title": "Mobilność populacji i powstrzymywanie przypadków wirusa Ebola w Ituri w Demokratycznej Republice Konga – The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01253-5/fulltext?rss=yes",
+      "date": "2026-07-02T07:54:50Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Mobilność populacji i powstrzymywanie przypadków wirusa Ebola w Ituri w Demokratycznej Republice Konga The Lancet."
     },
     {
       "title": "Regionalne warsztaty na temat zasobów ludzkich na rzecz wzmacniania kompetencji i współczucia w zakresie zdrowia – Światowa Organizacja Zdrowia (WHO)",
@@ -794,14 +802,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Rytuksymab kontra ocrelizumab w nowo zdiagnozowanej nawracającej stwardnieniu rozsianym The New England Journal of Medicine."
-    },
-    {
-      "title": "The Daily Grind — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMcps2517160",
-      "date": "2026-07-01T21:02:28Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "The Daily Grind The New England Journal of Medicine."
     }
   ],
   "guidelines": [
@@ -979,7 +979,7 @@
       "date": "2026-06-30T14:28:04Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Posiedzenie Rady Przejrzystości 27/2026 w dniu 06.07.2026 r. Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Wykorzystujemy pliki cookie w celu zapewnienia prawidłowego funkcjonowania naszej witryny oraz do analizy ruchu i optymalizacji działania strony. Dzięki nim możemy lepiej dostosować treści do potrzeb użytkowników i stale ulepszać nasze usługi. Pamiętaj, że informacje przechowywane w plikach cookie mogą pozwalać na identyfikację konkretnego urządzenia lub przeglądarki użytkownika, a więc potencjalnie stanowić dane osobowe."
     },
     {
       "title": "Neoadjuwantowy serplulimab z S-1 plus oksaliplatyną, a następnie adiuwant serplulimab znacząco poprawia EFS w przypadku resekcyjnego raka żołądka z dodatnim statusem PD-L1 lub gruczolakoraka GEJ - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1067,7 +1067,7 @@
       "date": "2026-06-29T07:00:00Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Protokół z posiedzenia Rady Przejrzystości w dniu 29 czerwca 2026 r. + uchwały Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Wykorzystujemy pliki cookie w celu zapewnienia prawidłowego funkcjonowania naszej witryny oraz do analizy ruchu i optymalizacji działania strony. Dzięki nim możemy lepiej dostosować treści do potrzeb użytkowników i stale ulepszać nasze usługi. Pamiętaj, że informacje przechowywane w plikach cookie mogą pozwalać na identyfikację konkretnego urządzenia lub przeglądarki użytkownika, a więc potencjalnie stanowić dane osobowe."
     },
     {
       "title": "Nowe wytyczne praktyki klinicznej dotyczące samobójstw i samookaleczeń u dzieci – The Medical Journal of Australia",
@@ -1131,15 +1131,15 @@
       "date": "2026-06-23T11:13:29Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Renastart Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 85/2026 z dnia 18 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu Renastart we wskazaniu: przewlekła niewydolność nerek u pacjentów pediatrycznych."
     },
     {
-      "title": "Badanie ROSELLA: nowe leczenie raka jajnika przynosi korzyści w zakresie przeżycia Nowości",
-      "url": "https://www.oncologynewscentral.com/ovarian-cancer/what-do-key-ovarian-cancer-data-from-asco-2026-mean-for-practice",
-      "date": "2026-06-22T10:42:34Z",
+      "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
+      "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
+      "date": "2026-06-22T00:26:59Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Badanie ROSELLA: nowe leczenie raka jajnika wykazuje korzyści w zakresie przeżycia Oncology News Central."
+      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
     }
   ],
   "epidemiology": [
@@ -2366,6 +2366,14 @@
       "summary": "Agencje zdrowia podają, że we wschodniej Demokratycznej Republice Konga zgłoszono co najmniej 1274 potwierdzonych przypadków wirusa Ebola i 360 zgonów, co stanowi część regionalnej liczby ofiar śmiertelnych."
     },
     {
+      "title": "Mobilność populacji i powstrzymywanie przypadków wirusa Ebola w Ituri w Demokratycznej Republice Konga – The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01253-5/fulltext?rss=yes",
+      "date": "2026-07-02T07:54:50Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Mobilność populacji i powstrzymywanie przypadków wirusa Ebola w Ituri w Demokratycznej Republice Konga The Lancet."
+    },
+    {
       "title": "Ebola w wieku 50 lat — lekcje dotyczące reagowania na epidemię i gotowości — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2607819",
       "date": "2026-07-02T02:54:44Z",
@@ -2404,14 +2412,6 @@
       "source": "Outbreak News Today",
       "confirmed_by": 1,
       "summary": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie może kosztować Afrykę aż 3,6 miliarda dolarów i w przypadku rozprzestrzenienia się doprowadzić do utraty 328 000 miejsc pracy."
-    },
-    {
-      "title": "Świadomość choroby Ebola: co musisz wiedzieć - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/publications-data/ebola-disease-awareness-what-you-need-know",
-      "date": "2026-06-30T09:33:43Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Edytowalna ulotka zawierająca informacje dla społeczności zagrożonych podczas epidemii wirusa Ebola w 2026 r. Ulotkę można przetłumaczyć i w inny sposób dostosować do użytku przez społeczności lokalne."
     }
   ],
   "daily_top5": [
