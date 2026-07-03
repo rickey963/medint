@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T10:09:47Z",
+  "last_updated": "2026-07-03T10:10:35Z",
   "poland": [
     {
       "title": "Trzaskowski przyjął dymisje wiceprezydentek Warszawy. To efekt afery w Szpitalu Południowym - Alert Medyczny",
@@ -673,7 +673,7 @@
       "date": "2026-07-02T15:09:52Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Naukowcy odkryli, że dorośli powyżej 40. roku życia z nadwagą lub otyłością mają obecnie podobne ciśnienie krwi i poziom cholesterolu do swoich rówieśników o normalnej wadze. Powiedzieli, że zmiana była prawdopodobnie spowodowana zwiększonym stosowaniem leków, takich jak statyny. Zespół badawczy z Imperial College London przeanalizował 110 zbiorów danych z siedmiu krajów — Anglii, Stanów Zjednoczonych, Japonii, Korei Południowej, Tajwanu, Tajlandii i Finlandii.1 W latach 1990–2024 sprawdzano ciśnienie krwi, cholesterol oraz stosowanie leków na nadciśnienie i obniżenie poziomu lipidów u prawie miliona osób z prawidłowym wskaźnikiem masy ciała (BMI 20–25), nadwagą (BMI 25 lub więcej) lub otyłością (BMI 35 lub więcej)."
+      "summary": "Naukowcy odkryli, że dorośli powyżej 40. roku życia z nadwagą lub otyłością mają obecnie podobne ciśnienie krwi i poziom cholesterolu do swoich rówieśników o normalnej wadze. Stwierdzili, że zmiana była prawdopodobnie spowodowana zwiększonym stosowaniem leków, takich jak statyny. Zespół badawczy z Imperial College London przeanalizował 110 zbiorów danych z siedmiu krajów — Anglii, Stanów Zjednoczonych, Japonii, Korei Południowej, Tajwanu, Tajlandii i Finlandii.1 W latach 1990–2024 sprawdzano ciśnienie krwi, cholesterol oraz stosowanie leków na nadciśnienie i obniżenie poziomu lipidów u prawie miliona osób z prawidłowym wskaźnikiem masy ciała (BMI 20–25), nadwagą (BMI 25 lub więcej) lub otyłością (BMI 35 lub więcej)."
     },
     {
       "title": "Lek Roche wyznacza nowy standard w leczeniu raka płuc wywołanego KRAS – STAT",
@@ -805,6 +805,14 @@
     }
   ],
   "guidelines": [
+    {
+      "title": "EMA zaleca rozszerzenie wskazań do stosowania enkorafenibu – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-therapeutic-indications-for-encorafenib",
+      "date": "2026-07-03T09:24:07Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "EMA zaleca rozszerzenie wskazań do stosowania enkorafenibu Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
     {
       "title": "Postępowanie z pacjentami z grupy ryzyka udaru niedokrwiennego z dysfunkcją skurczową lewej komory przy braku skrzepliny wewnątrzsercowej - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/management-of-patients-at-risk-of-ischemic-stroke-with-left-ventricular-systolic-dysfunction",
@@ -2292,20 +2300,20 @@
       "summary": "Szczepionka na otyłość firmy BrightGene BGM0504 publikuje mocne dane z fazy 3 w Chinach, gdy zabiega o względy zachodniego partnera przed planowanym światowym badaniem."
     },
     {
-      "title": "Wielostronne warsztaty na temat zdrowia kobiet – Europejska Agencja Leków (EMA)",
-      "url": "https://www.ema.europa.eu/en/events/multistakeholder-workshop-womens-health",
-      "date": "2026-07-02T10:00:00Z",
-      "source": "EMA",
-      "confirmed_by": 1,
-      "summary": "Europejska Agencja Leków (EMA) i jej partnerzy w Europejskiej Sieci Regulacji Leków (EMRN) odgrywają kluczową rolę w poprawie zdrowia kobiet. Wydarzenie to podkreśla wkład partnerów EMRN i gromadzi punkty widzenia pacjentów, pracowników służby zdrowia, środowiska akademickiego, przemysłu i partnerów globalnych."
-    },
-    {
       "title": "Roche na szczycie rankingów reputacji onkologii, a AstraZeneca wspina się na 2. miejsce - Fierce Pharma",
       "url": "https://www.fiercepharma.com/marketing/roche-tops-oncology-reputation-rankings-astrazeneca-climbs-back-2nd-place",
       "date": "2026-07-02T10:00:00Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "AstraZeneca wywarła wrażenie na grupach pacjentów onkologicznych, awansując na drugie miejsce w rankingu reputacji korporacyjnej PatientView dzięki silnej pozycji w leczeniu raka piersi i płuc. | AstraZeneca wywarła wrażenie na grupach pacjentów onkologicznych, awansując na drugie miejsce w rankingu reputacji korporacyjnej PatientView dzięki silnej pozycji w leczeniu raka piersi i płuc. Roche, znajomy widok znajdujący się na szczycie rankingów nowotworów PatientView, zajął pierwsze miejsce przed AstraZeneca i Novartis."
+    },
+    {
+      "title": "Wielostronne warsztaty na temat zdrowia kobiet – Europejska Agencja Leków (EMA)",
+      "url": "https://www.ema.europa.eu/en/events/multistakeholder-workshop-womens-health",
+      "date": "2026-07-02T10:00:00Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Europejska Agencja Leków (EMA) i jej partnerzy w Europejskiej Sieci Regulacji Leków (EMRN) odgrywają kluczową rolę w poprawie zdrowia kobiet. Wydarzenie to podkreśla wkład partnerów EMRN i gromadzi punkty widzenia pacjentów, pracowników służby zdrowia, środowiska akademickiego, przemysłu i partnerów globalnych."
     },
     {
       "title": "Praca w marketingu w Kalifornii - BioSpace",
