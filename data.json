@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T11:13:52Z",
+  "last_updated": "2026-07-03T11:14:35Z",
   "poland": [
     {
       "title": "Tusk daje NFZ i MZ czas do wtorku. Zapowiada decyzje personalne po aferze w Szpitalu Południowym - Alert Medyczny",
@@ -476,6 +476,14 @@
       "summary": "Podsumowanie ostrzeżeniaTo ostrzeżenie WHO dotyczące produktu medycznego dotyczy dwóch serii sfałszowanego zastrzyku DARZALEX (daratumumab). Sfałszowane produkty wykryto na Malediwach i w Meksyku. Krajowe organy regulacyjne w obu krajach zgłosiły te incydenty WHO w maju i czerwcu 2026 r."
     },
     {
+      "title": "Piorunująca limfohistiocytoza hemofagocytarna ujawniająca nieoczekiwany patogen szpiku kostnego - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(26)00075-X/fulltext",
+      "date": "2026-07-03T08:33:01Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Piorunująca limfohistiocytoza hemofagocytarna ujawniająca nieoczekiwany patogen szpiku kostnego The Lancet."
+    },
+    {
       "title": "Apiksaban w żylnej chorobie zakrzepowo-zatorowej u dzieci: ostrożny optymizm - The Lancet",
       "url": "https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(26)00135-3/abstract",
       "date": "2026-07-03T08:31:29Z",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "W ramach dużego międzynarodowego wysiłku mającego na celu ocenę potencjalnych metod leczenia choroby Ebola wywołanej wirusem Bundibugyo (BVD) do badania klinicznego PARTNERS otwarto dziś nabór pacjentów z Demokratycznej Republiki Konga."
-    },
-    {
-      "title": "Amerykański sędzia blokuje pierwszy w swoim rodzaju limit cenowy leku Amgen w Kolorado – STAT",
-      "url": "https://www.statnews.com/pharmalot/2026/07/02/judge-blocks-colorado-price-cap-on-amgen-enbrel/",
-      "date": "2026-07-02T12:58:06Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Sędzia federalny zablokował panelowi stanu Kolorado nałożenie ograniczenia na cenę Enbrel, hitowego leku sprzedawanego przez firmę Amgen."
     }
   ],
   "guidelines": [
@@ -835,7 +835,7 @@
       "date": "2026-07-02T17:02:26Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "W niniejszym raporcie opisano seroprewalencję alfa-gal immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
+      "summary": "W niniejszym raporcie opisano seroprewalencję alfa-galowej immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
     },
     {
       "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1188,22 +1188,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Przewodniczący zapewnią płynny przebieg sesji, zarządzanie czasem, a także będą zachęcać do dyskusji i interakcji między wykładowcami a publicznością, zapewniając wystarczającą ilość czasu na pytania od publiczności."
-    },
-    {
-      "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
-      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
-      "date": "2026-06-23T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
-    },
-    {
-      "title": "Historia sukcesu: Modelowanie epidemiologii gruźlicy i wysiłków w zakresie jej kontroli w Kalifornii — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/neema/php/successstories/comparative-modeling-tb-control.html",
-      "date": "2026-06-13T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Niedawne wysiłki w zakresie modelowania sugerują, że należy zwiększyć skalę badań w zakresie utajonego zakażenia gruźlicą i leczenia."
     }
   ],
   "epidemiology": [
@@ -1214,6 +1198,14 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "To już piąty wpis w wiadomościach o epidemii choroby dotyczący epidemii hantawirusa Andów (ANDV) powiązanej ze statkiem wycieczkowym M/V Hondius. Ognisko zostało zidentyfikowane po powiadomieniu Światowej Organizacji Zdrowia (WHO) w dniu 2 maja 2026 r. o przypadkach poważnych ostrych chorób układu oddechowego na pokładzie. Ponieważ w dniu 28 maja 2026 r. opublikowano poprzednie Wiadomości o epidemii choroby, jeden z prawdopodobnych przypadków w Tristan da Cunha, terytorium zamorskim Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej (zwanego dalej Wielką Brytanią), został potwierdzony laboratoryjnie."
+    },
+    {
+      "title": "Alert dotyczący produktu medycznego nr 3/2026: Sfałszowany DARZALEX (daratumumab) – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/03-07-2026-medical-product-alert-n-3-2026--falsified-darzalex-(daratumumab)",
+      "date": "2026-07-03T09:09:51Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Podsumowanie ostrzeżeniaTo ostrzeżenie WHO dotyczące produktu medycznego dotyczy dwóch serii sfałszowanego zastrzyku DARZALEX (daratumumab). Sfałszowane produkty wykryto na Malediwach i w Meksyku. Krajowe organy regulacyjne w obu krajach zgłosiły te incydenty WHO w maju i czerwcu 2026 r."
     },
     {
       "title": "WHO @ AIDS 2026 – Światowa Organizacja Zdrowia (WHO)",
@@ -1598,14 +1590,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Mity o szczepionkach nie są nowe. Krążą one od dziesięcioleci, przetrwały wycofane badania i niezliczone kampanie na rzecz zdrowia publicznego. Teraz nowa ankieta sugeruje, że choć stosunkowo niewielu Amerykanów w pełni wierzy w te kłamstwa, wielu pozostaje co do nich niepewnych – co sugeruje możliwości przeciwdziałania dezinformacji na temat szczepionek."
-    },
-    {
-      "title": "Dane pokazują, że HIV drastycznie zwiększa ryzyko raka odbytu związanego z HPV – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/hivaids/hiv-dramatically-increases-risk-hpv-related-anal-cancer-data-show",
-      "date": "2026-06-30T20:35:49Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Richard Goldman żył z wirusem HIV (ludzkim wirusem niedoboru odporności) przez co najmniej pięć lat i miał niewiele objawów."
     }
   ],
   "clinical_trials": [
@@ -2464,12 +2448,12 @@
       "summary": "Podsumowanie ostrzeżeniaTo ostrzeżenie WHO dotyczące produktu medycznego dotyczy dwóch serii sfałszowanego zastrzyku DARZALEX (daratumumab). Sfałszowane produkty wykryto na Malediwach i w Meksyku. Krajowe organy regulacyjne w obu krajach zgłosiły te incydenty WHO w maju i czerwcu 2026 r."
     },
     {
-      "title": "WHO @ AIDS 2026 – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/07/26/default-calendar/who-at-aids-2026",
-      "date": "2026-07-03T00:07:24Z",
+      "title": "Alert dotyczący produktu medycznego nr 3/2026: Sfałszowany DARZALEX (daratumumab) – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/03-07-2026-medical-product-alert-n-3-2026--falsified-darzalex-(daratumumab)",
+      "date": "2026-07-03T09:09:51Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "WHO weźmie udział w AIDS 2026, 26. Międzynarodowej Konferencji AIDS, która odbędzie się w Rio de Janeiro w Brazylii, wirtualnie w dniach 26–31 lipca 2026 r. WHO przedstawi swoje najnowsze zalecenia dotyczące zapobiegania, diagnozowania, leczenia i monitorowania HIV i chorób przenoszonych drogą płciową oraz monitorowania, w tym nowe wytyczne dotyczące długo działającego leczenia HIV, profilaktyki przedekspozycyjnej HIV (PrEP), profilaktyki poekspozycyjnej doksycykliną (DoxyPEP) oraz wzmocnionych krajowych Systemy nadzoru nad HIV wspierające zrównoważone monitorowanie."
+      "summary": "Podsumowanie ostrzeżeniaTo ostrzeżenie WHO dotyczące produktu medycznego dotyczy dwóch serii sfałszowanego zastrzyku DARZALEX (daratumumab). Sfałszowane produkty wykryto na Malediwach i w Meksyku. Krajowe organy regulacyjne w obu krajach zgłosiły te incydenty WHO w maju i czerwcu 2026 r."
     }
   ]
 }
