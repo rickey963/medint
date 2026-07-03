@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-03T08:45:52Z",
+  "last_updated": "2026-07-03T08:46:33Z",
   "poland": [
+    {
+      "title": "Lekarze i pielęgniarki należą do najstarszych grup zawodowych - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/lekarze-i-pielegniarki-naleza-do-najstarszych-grup-zawodowych/",
+      "date": "2026-07-03T08:44:06Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "GUS opublikował analizę zawodów w Polsce. Lekarze specjaliści mają średnio 56 lat, a pielęgniarki ze specjalizacją przekroczyły 50 lat."
+    },
     {
       "title": "Nie żyje uwielbiana lekarka z Bukowna. \"Rzadko spotyka się takich ludzi\" - Medonet",
       "url": "https://www.medonet.pl/ciaza-i-dziecko/choroby-dzieciece/nie-zyje-uwielbiana-lekarka-pacjenci-zegnaja-danute-stroj-dziekujemy/5yx3r5x",
@@ -392,14 +400,6 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Aby uzyskać archiwalną wersję należy skontaktować się z Redakcją BIP."
-    },
-    {
-      "title": "Szkolenia w zakresie cyfryzacji dokumentacji medycznej w profilaktycznej opiece zdrowotnej nad uczniami - harmonogram na III kwartał 2026 - Gov.pl",
-      "url": "https://www.gov.pl/web/zdrowie/szkolenia-w-zakresie-cyfryzacji-dokumentacji-medycznej-w-profilaktycznej-opiece-zdrowotnej-nad-uczniami---harmonogram-na-iii-kwartal-2026",
-      "date": "2026-07-02T14:50:27Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Nowy harmonogram szkoleń stacjonarnych z cyfryzacji dokumentacji medycznej w profilaktycznej opiece zdrowotnej nad uczniami już dostępny!"
     }
   ],
   "world": [
@@ -1170,8 +1170,16 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
+    },
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/869",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
     },
     {
       "title": "Wytyczne przewodniczących i dyskutantów – Europejskie Towarzystwo Kardiologiczne",
@@ -1180,30 +1188,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Przewodniczący zapewnią płynny przebieg sesji, zarządzanie czasem, a także będą zachęcać do dyskusji i interakcji między wykładowcami a publicznością, zapewniając wystarczającą ilość czasu na pytania od publiczności."
-    },
-    {
-      "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
-      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
-      "date": "2026-06-23T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
-    },
-    {
-      "title": "Brak różnicy w DFS pomiędzy chemioterapią postadjuwantową a placebo u pacjentów z grupy wysokiego ryzyka zidentyfikowanych na podstawie oceny MRD na podstawie ctDNA po resekcji CRC - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/no-difference-in-dfs-between-post-adjuvant-chemotherapy-and-placebo-in-high-risk-patients-identified-through-ctdna-based-mrd-assessment-after-crc-resection",
-      "date": "2026-06-22T07:00:00Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "Brak różnicy w DFS pomiędzy chemioterapią postadiuwantową a placebo u pacjentów z grupy wysokiego ryzyka zidentyfikowanych na podstawie oceny MRD na podstawie ctDNA po resekcji CRC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
-      "title": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-therapeutic-indications-for-enfortumab-vedotin",
-      "date": "2026-06-20T00:33:39Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     }
   ],
   "epidemiology": [
