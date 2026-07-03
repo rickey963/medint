@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T12:49:10Z",
+  "last_updated": "2026-07-03T12:49:54Z",
   "poland": [
     {
       "title": "Szczepienia przed podróżą do Indonezji – zalecana profilaktyka chorób tropikalnych - DOZ",
@@ -23,7 +23,7 @@
       "date": "2026-07-03T11:59:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Sejm zaakceptował poprawki Senatu do ustaw o KSO i przeciwdziałaniu narkomanii. Będzie e-DiLO oraz zmiany w leczeniu substytucyjnym."
+      "summary": "Sejm zaakceptował poprawki Senatu. Zmiany w KSO i leczeniu uzależnień Alert Medyczny."
     },
     {
       "title": "Wpływ zmiany klimatu na środowisko pracy - Serwis Zdrowie",
@@ -47,7 +47,7 @@
       "date": "2026-07-03T10:58:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Premier Donald Tusk postawił ultimatum NFZ i Ministerstwu Zdrowia. Do wtorku mają zostać przedstawione konkretne propozycje zmian."
+      "summary": "Tusk daje NFZ i MZ czas do wtorku. Zapowiada decyzje personalne po aferze w Szpitalu Południowym Alert Medyczny."
     },
     {
       "title": "Jak zadbać o zdrowie i bezpieczeństwo podczas upałów? - Gov.pl",
@@ -95,7 +95,7 @@
       "date": "2026-07-03T09:53:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Trzaskowski przyjął dymisje Renaty Kaznowskiej i Aldony Machnowskiej-Góry. To konsekwencja afery w Szpitalu Południowym."
+      "summary": "Trzaskowski przyjął dymisje wiceprezydentek Warszawy. To efekt afery w Szpitalu Południowym Alert Medyczny."
     },
     {
       "title": "Sejm uchwalił \"lex szarlatan\" - Medycyna Praktyczna",
@@ -111,7 +111,7 @@
       "date": "2026-07-03T09:33:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rozpoczęły się konsultacje pierwszego w Polsce Poradnika Nabywcy AI dla ochrony zdrowia. Dokument ma ułatwić bezpieczny zakup i wdrażanie AI."
+      "summary": "Ruszają konsultacje pierwszego w Polsce Poradnika Nabywcy AI dla ochrony zdrowia Alert Medyczny."
     },
     {
       "title": "Wiceprezydentka Warszawy odchodzi. W tle Warszawski Szpital Południowy - PolitykaZdrowotna.com",
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "Tamponada serca wtórna do niedoczynności tarczycy – opisy przypadków BMJ",
+      "url": "http://casereports.bmj.com/cgi/content/short/19/7/e269352?rss=1",
+      "date": "2026-07-03T12:49:03Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Tamponada serca wtórna do niedoczynności tarczycy BMJ Case Reports."
+    },
     {
       "title": "Jak twierdzą urzędnicy – ​​BMJ, epidemia hantawirusa powiązana ze statkiem wycieczkowym dobiegła końca",
       "url": "https://www.bmj.com/content/394/bmj-2026-100187/rapid-responses",
@@ -794,14 +802,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Modele wielkojęzykowe osiągają wysokie wyniki w testach porównawczych aplikacji zdrowotnych, jednak kontradyktoryjne testy warunków skrajnych ujawniają obecnie powszechną kruchość – poleganie na skrótach, kruche podstawy wizualne i sfabrykowane ślady rozumowania – co ujawnia znaczne luki między wynikami testów porównawczych a dowodami solidności niezbędnymi do poparcia twierdzeń o gotowości do zastosowań związanych ze wspomaganiem decyzji medycznych i aplikacjami skierowanymi do pacjenta."
-    },
-    {
-      "title": "Najczęstsze przyczyny zawrotów głowy w podstawowej opiece zdrowotnej: część 1 – Medscape",
-      "url": "https://www.medscape.com/viewarticle/1003387?src=",
-      "date": "2026-07-02T15:16:47Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Łagodne napadowe zawroty głowy położeniowe są samoograniczającym się schorzeniem spowodowanym przemieszczaniem się otolitów z łagiewki do kanałów półkolistych w uchu wewnętrznym."
     }
   ],
   "guidelines": [
@@ -883,7 +883,7 @@
       "date": "2026-07-02T10:51:32Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 87/2026 z dnia 29 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Mounjaro KwikPen (tirzepatyd) w ramach programu lekowego „Leczenie choroby otyłościowej (ICD-10: E.66)”."
+      "summary": "Rekomendacja Prezesa – Mounjaro KwikPen (tirzepatyd) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Obwieszczenie Prezesa – rekomendacja w sprawie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -891,7 +891,7 @@
       "date": "2026-07-02T10:51:31Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Obwieszczenie Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji z dnia 2 lipca 2026 r. w sprawie rekomendacji nr 84/2026 z dnia 9 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej."
+      "summary": "Obwieszczenie Prezesa – rekomendacja w sprawie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Talquetamab Plus Daratumumab i Pomalidomid oraz Talquetamab Plus Daratumumab Wydłużają PFS wśród wcześniej leczonych pacjentów z nawrotowym lub opornym na leczenie szpiczakiem mnogim - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -979,7 +979,7 @@
       "date": "2026-07-01T08:03:16Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Jeśli komentujesz w imieniu organizacji, Twoja organizacja musi być zarejestrowana jako interesariusz ."
+      "summary": "Konsultacje | Zespół metaboliczny poliendokrynnych jajników (PMOS) | Strona internetowa poradnika NICE."
     },
     {
       "title": "Zespół policystycznych jajników: Raport adaptacyjny 4 – strona internetowa NICE",
@@ -1134,6 +1134,14 @@
       "summary": "Wykorzystujemy pliki cookie w celu zapewnienia prawidłowego funkcjonowania naszej witryny oraz do analizy ruchu i optymalizacji działania strony. Dzięki nim możemy lepiej dostosować treści do potrzeb użytkowników i stale ulepszać nasze usługi. Pamiętaj, że informacje przechowywane w plikach cookie mogą pozwalać na identyfikację konkretnego urządzenia lub przeglądarki użytkownika, a więc potencjalnie stanowić dane osobowe."
     },
     {
+      "title": "NFZ o nadwykonaniach stomatologicznych za 2025 rok - NIL",
+      "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/9306-nfz-o-nadwykonaniach-stomatologicznych-za-2025-rok",
+      "date": "2026-06-30T11:08:58Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
+    },
+    {
       "title": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/expert-consensus-document-second-universal-definition-of-heart-failure-2026",
       "date": "2026-06-29T12:58:24Z",
@@ -1174,20 +1182,20 @@
       "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
     },
     {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/869",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
-    },
-    {
       "title": "Wytyczne przewodniczących i dyskutantów – Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/events/congresses/eapci-congress/scientific-programme/faculty-presenters/chairpersons-and-discussants-guidelines/",
       "date": "2026-06-25T15:34:03Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Przewodniczący zapewnią płynny przebieg sesji, zarządzanie czasem, a także będą zachęcać do dyskusji i interakcji między wykładowcami a publicznością, zapewniając wystarczającą ilość czasu na pytania od publiczności."
+    },
+    {
+      "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
+      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
+      "date": "2026-06-23T07:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
     }
   ],
   "epidemiology": [
@@ -1221,7 +1229,7 @@
       "date": "2026-07-03T00:07:24Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "WHO weźmie udział w AIDS 2026, 26. Międzynarodowej Konferencji AIDS, która odbędzie się w Rio de Janeiro w Brazylii oraz wirtualnie w dniach 26–31 lipca 2026 r. WHO przedstawi swoje najnowsze zalecenia dotyczące zapobiegania, diagnozowania, leczenia i monitorowania HIV i chorób przenoszonych drogą płciową, w tym nowe wytyczne dotyczące długo działającego leczenia HIV, profilaktyki przedekspozycyjnej HIV (PrEP), profilaktyki poekspozycyjnej doksycykliną (DoxyPEP) oraz wzmocnionych krajowych Systemy nadzoru nad HIV wspierające zrównoważone monitorowanie."
+      "summary": "WHO weźmie udział w AIDS 2026, 26. Międzynarodowej Konferencji AIDS, która odbędzie się w Rio de Janeiro w Brazylii, wirtualnie w dniach 26–31 lipca 2026 r. WHO przedstawi swoje najnowsze zalecenia dotyczące zapobiegania, diagnozowania, leczenia i monitorowania HIV i chorób przenoszonych drogą płciową oraz monitorowania, w tym nowe wytyczne dotyczące długo działającego leczenia HIV, profilaktyki przedekspozycyjnej HIV (PrEP), profilaktyki poekspozycyjnej doksycykliną (DoxyPEP) oraz wzmocnionych krajowych Systemy nadzoru nad HIV wspierające zrównoważone monitorowanie."
     },
     {
       "title": "Iberoamerykańscy liderzy bezpieczeństwa ruchu drogowego zacieśniają współpracę - Światowa Organizacja Zdrowia (WHO)",
