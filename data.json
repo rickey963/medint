@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T07:13:08Z",
+  "last_updated": "2026-07-03T07:13:50Z",
   "poland": [
     {
       "title": "Nieetyczne alkopromki - Serwis Zdrowie",
@@ -1180,14 +1180,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Przewodniczący zapewnią płynny przebieg sesji, zarządzanie czasem, a także będą zachęcać do dyskusji i interakcji między wykładowcami a publicznością, zapewniając wystarczającą ilość czasu na pytania od publiczności."
-    },
-    {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 25 czerwca 2026 r. w sprawie wysokości zasadniczego wynagrodzenia miesięcznego lekarzy i lekarzy dentystów odbywających specjalizacje w ramach rezydentury",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/856",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 856, z dniem ogłoszenia 2026-06-29."
     }
   ],
   "epidemiology": [
@@ -2004,6 +1996,14 @@
       "summary": "Moc wycofania urządzenia klasy 2 Cewnik PICC SOLO HF accessdata.fda.gov."
     },
     {
+      "title": "Wycofanie produktu klasy 2 z rynku Cewnik PowerPICC SV – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220788",
+      "date": "2026-07-03T06:18:39Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 2 z rynku Cewnik PowerPICC SV accessdata.fda.gov."
+    },
+    {
       "title": "Cewnik pośrodkowy Provena klasy 2 z wycofaniem urządzenia – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220804",
       "date": "2026-07-03T06:18:39Z",
@@ -2386,14 +2386,6 @@
       "source": "Pink Sheet",
       "confirmed_by": 1,
       "summary": "Eksperci twierdzą, że tak szeroko reklamowana przewaga szybkości szczepionek przeciw grypie mRNA jest węższa niż reklamowana, ponieważ dalsze etapy, takie jak wypełnianie, wykończenie i testowanie, wymagają tego samego czasu, niezależnie od platformy."
-    },
-    {
-      "title": "UNII-M9Y95ZE6J9 | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
-      "url": "https://precision.fda.gov/uniisearch/srs?search=M9Y95ZE6J9",
-      "date": "2026-07-01T22:03:55Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
     }
   ],
   "critical_alerts": [
@@ -2472,12 +2464,12 @@
       "summary": "Moc wycofania urządzenia klasy 2 Cewnik PICC SOLO HF accessdata.fda.gov."
     },
     {
-      "title": "Cewnik pośrodkowy Provena klasy 2 z wycofaniem urządzenia – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220804",
+      "title": "Wycofanie produktu klasy 2 z rynku Cewnik PowerPICC SV – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220788",
       "date": "2026-07-03T06:18:39Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Wycofanie urządzenia klasy 2 z rynku Cewnik pośrodkowy Provena accessdata.fda.gov."
+      "summary": "Wycofanie urządzenia klasy 2 z rynku Cewnik PowerPICC SV accessdata.fda.gov."
     },
     {
       "title": "Centrum medialne biuletynu dotyczącego funduszu pandemicznego 2026 na pierwszy kwartał – WHO | Biuro Regionalne dla Afryki",
