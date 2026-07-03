@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T10:11:58Z",
+  "last_updated": "2026-07-03T10:12:39Z",
   "poland": [
     {
       "title": "Trzaskowski przyjął dymisje wiceprezydentek Warszawy. To efekt afery w Szpitalu Południowym - Alert Medyczny",
@@ -1309,10 +1309,10 @@
       "date": "2026-07-02T11:54:52Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Będziesz pracować w dziale oporności na środki przeciwdrobnoustrojowe i zakażeń związanych z opieką zdrowotną w jednostce ds. chorób związanych z opieką zdrowotną (OHD). Aby dowiedzieć się więcej o działalności tej jednostki, odwiedź stronę https://www.ecdc.europa.eu/en/about-us/ecdcs-organisational-structure."
+      "summary": "Będziesz pracować w dziale oporności na środki przeciwdrobnoustrojowe i zakażeń związanych z opieką zdrowotną w dziale ds. chorób związanych z opieką zdrowotną (OHD). Aby dowiedzieć się więcej o działalności tej jednostki, odwiedź stronę https://www.ecdc.europa.eu/en/about-us/ecdcs-organisational-structure."
     },
     {
-      "title": "Główny ekspert ARHAI/lider grupy Doradztwo naukowe i wsparcie krajowe – erecruitment.ecdc.europa.eu",
+      "title": "Główny ekspert ARHAI/Lider grupy Doradztwo naukowe i wsparcie krajowe – erecruitment.ecdc.europa.eu",
       "url": "https://erecruitment.ecdc.europa.eu/en/our-vacancies/principal-expert-arhai-group-leader-scientific-advice-and-country-support-176",
       "date": "2026-07-02T09:28:09Z",
       "source": "ECDC",
@@ -1372,7 +1372,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-07-01T19:25:36Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
     },
     {
@@ -1504,14 +1504,6 @@
       "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
     },
     {
-      "title": "Nadzór nad cyklosporozą — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
-      "date": "2026-07-01T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Cyklosporoza jest chorobą podlegającą obowiązkowi zgłaszania na szczeblu krajowym, a jej przypadki zgłaszane są do CDC."
-    },
-    {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-01T07:00:00Z",
@@ -1534,6 +1526,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Dowiedz się więcej o ogniskach chorób żołądkowo-jelitowych na statkach wycieczkowych."
+    },
+    {
+      "title": "Nadzór nad cyklosporozą — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
+      "date": "2026-07-01T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Cyklosporoza jest chorobą podlegającą obowiązkowi zgłaszania na szczeblu krajowym, a jej przypadki zgłaszane są do CDC."
     },
     {
       "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
