@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T06:11:11Z",
+  "last_updated": "2026-07-03T06:11:49Z",
   "poland": [
     {
       "title": "Prawdziwy Madagaskar jest inny niż w kolorowym folderze - Serwis Zdrowie",
@@ -8,6 +8,14 @@
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Dzięki wsparciu polskich darczyńców na Madagaskarze powstał Szpital Polski. Wiele osób może zadać pytanie, dlaczego właśnie tam, skoro nasz system zdrowia też ma wiele potrzeb?Dlatego, że tam potrzeby są niewyobrażalnie większe niż w Polsce. Madagaskar, mimo mitu rajskiej wyspy i wakacyjnej destynacji, jest jednym z najuboższych krajów świata."
+    },
+    {
+      "title": "\"Największymi ofiarami tego rozwiązania będą pacjenci\". NFZ chce zmienić dostęp do rehabilitacji - Medonet",
+      "url": "https://www.medonet.pl/biznes-system-i-zdrowie/trendy-w-ochronie-zdrowia/fizjoterapeuci-apeluja-do-nfz-o-wstrzymanie-zmian-rehabilitacja-na-tym-ucierpi/8rxyy9x",
+      "date": "2026-07-03T06:02:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "â NajwiÄkszÄ ofiarÄ tych rozwiÄ zaÅ bÄdÄ pacjenci, w tym po 18. roku Å¼ycia â grzmiÄ fizjoterapeuci. W kolejkach na rehabilitacjÄ oczekuje obecnie aÅ¼ 1,5 mln PolakÃ³w, a NFZ chce wprowadzaÄ nowe przepisy."
     },
     {
       "title": "\"Na nowe zęby wydałem spadek po babce\". Dlaczego to tyle kosztuje? - Medonet",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Coraz częstsza identyfikacja pacjentów z VEDOSS umożliwia rozpoznanie choroby na wcześniejszym etapie. Dzięki temu możemy realnie wpływać na rokowanie i przebieg choroby – mówi dr n. med."
-    },
-    {
-      "title": "Forum Konsumentów: w hazardzie online legalność oznacza wyższy poziom ochrony gracza - Serwis Zdrowie",
-      "url": "https://zdrowie.pap.pl/uzaleznienia/forum-konsumentow-w-hazardzie-online-legalnosc-oznacza-wyzszy-poziom-ochrony-gracza",
-      "date": "2026-07-02T12:16:39Z",
-      "source": "Serwis Zdrowie (PAP)",
-      "confirmed_by": 1,
-      "summary": "Nawet 40 proc. rynku gier hazardowych w internecie wciąż pozostaje w rękach nielegalnych podmiotów, wykorzystujących niewiedzę i nieuwagę konsumentów. Jak wynika z najnowszego raportu Fundacji Forum Konsumentów, stwarza to realne zagrożenia dla graczy, zwłaszcza tych nieletnich."
     }
   ],
   "world": [
@@ -1154,7 +1154,7 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
     },
     {
@@ -1180,6 +1180,30 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 856, z dniem ogłoszenia 2026-06-29."
+    },
+    {
+      "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
+      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
+      "date": "2026-06-23T07:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
+    },
+    {
+      "title": "Brak różnicy w DFS pomiędzy chemioterapią postadjuwantową a placebo u pacjentów z grupy wysokiego ryzyka zidentyfikowanych na podstawie oceny MRD na podstawie ctDNA po resekcji CRC - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/no-difference-in-dfs-between-post-adjuvant-chemotherapy-and-placebo-in-high-risk-patients-identified-through-ctdna-based-mrd-assessment-after-crc-resection",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Brak różnicy w DFS pomiędzy chemioterapią postadiuwantową a placebo u pacjentów z grupy wysokiego ryzyka zidentyfikowanych na podstawie oceny MRD na podstawie ctDNA po resekcji CRC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-therapeutic-indications-for-enfortumab-vedotin",
+      "date": "2026-06-20T00:33:39Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     }
   ],
   "epidemiology": [
