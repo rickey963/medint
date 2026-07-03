@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-03T07:33:17Z",
+  "last_updated": "2026-07-03T07:34:09Z",
   "poland": [
+    {
+      "title": "Będzie mniej szpitalnej biurokracji w przypadku krótkich pobytów? - Podyplomie",
+      "url": "https://podyplomie.pl/aktualnosci/bedzie-mniej-szpitalnej-biurokracji-w-przypadku-krotkich-pobytow",
+      "date": "2026-07-03T07:27:00Z",
+      "source": "Medycyna po Dyplomie",
+      "confirmed_by": 1,
+      "summary": "Ministerstwo Zdrowia planuje ograniczyć zakres dokumentacji medycznej wymaganej dla pacjentów, którzy przebywają w szpitalu krócej niż 12 godzin."
+    },
     {
       "title": "Jest ktoś taki jak 116 111. Rusza kampania społeczna Ministerstwa Cyfryzacji zachęcająca młodych do korzystania ze wsparcia specjalistycznego - Gov.pl",
       "url": "https://www.gov.pl/web/cyfryzacja/jest-ktos-taki-jak-116-111-rusza-kampania-spoleczna-ministerstwa-cyfryzacji-zachecajaca-mlodych-do-korzystania-ze-wsparcia-specjalistycznego",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Rada NFZ zatwierdziła sprawozdania za 2025 r. Dotacja z budżetu państwa wzrosła do 32,94 mld zł, a strata netto wyniosła 2,3 mld zł."
-    },
-    {
-      "title": "Rola dermokosmetyków zawierających ceramidy jako terapii wspomagającej w leczeniu trądziku pospolitego - Podyplomie",
-      "url": "https://podyplomie.pl/aktualnosci/rola-dermokosmetykow-zawierajacych-ceramidy-jako-terapii-wspomagajacej-w-leczeniu-tradziku-pospolitego",
-      "date": "2026-07-02T12:57:00Z",
-      "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
-      "summary": "Wstęp Trądzik pospolity (acne vulgaris) jest chorobą o wieloczynnikowej patogenezie, obejmującej nadmierną aktywność gruczołów łojowych, zaburzenia..."
     }
   ],
   "world": [
@@ -1180,6 +1180,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Przewodniczący zapewnią płynny przebieg sesji, zarządzanie czasem, a także będą zachęcać do dyskusji i interakcji między wykładowcami a publicznością, zapewniając wystarczającą ilość czasu na pytania od publiczności."
+    },
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 25 czerwca 2026 r. w sprawie wysokości zasadniczego wynagrodzenia miesięcznego lekarzy i lekarzy dentystów odbywających specjalizacje w ramach rezydentury",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/856",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 856, z dniem ogłoszenia 2026-06-29."
     }
   ],
   "epidemiology": [
@@ -1988,6 +1996,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Cewnik krótkoterminowy do próby wycofania urządzenia klasy 2 z możliwością wycofania z użycia – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220791",
+      "date": "2026-07-03T06:18:40Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Cewnik krótkoterminowy z funkcją wycofania urządzenia klasy 2, cewnik accessdata.fda.gov."
+    },
+    {
       "title": "Cewnik Power Recall Power PICC SOLO HF klasy 2 – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220787",
       "date": "2026-07-03T06:18:40Z",
@@ -1996,20 +2012,20 @@
       "summary": "Moc wycofania urządzenia klasy 2 Cewnik PICC SOLO HF accessdata.fda.gov."
     },
     {
-      "title": "Cewnik krótkoterminowy do próby wycofania urządzenia klasy 2 z mocą wycofania — accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220791",
-      "date": "2026-07-03T06:18:40Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Cewnik krótkoterminowy z funkcją wycofania urządzenia klasy 2, cewnik accessdata.fda.gov."
-    },
-    {
       "title": "Taca do biopsji tkanek miękkich klasy 2 do wycofania urządzenia – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220805",
       "date": "2026-07-03T06:18:39Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Taca do biopsji tkanek miękkich klasy 2 z wycofaniem urządzenia accessdata.fda.gov."
+    },
+    {
+      "title": "Cewnik pośrodkowy Provena klasy 2 z wycofaniem urządzenia – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220804",
+      "date": "2026-07-03T06:18:39Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Wycofanie urządzenia klasy 2 z rynku Cewnik pośrodkowy Provena accessdata.fda.gov."
     },
     {
       "title": "Wycofanie produktu klasy 2 z rynku Cewnik PowerPICC Provena – accessdata.fda.gov",
@@ -2026,14 +2042,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Wycofanie produktu klasy 2 z rynku Cewnik Groshong NXT ClearVue accessdata.fda.gov."
-    },
-    {
-      "title": "Cewnik pośrodkowy Provena klasy 2 z wycofaniem urządzenia – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220804",
-      "date": "2026-07-03T06:18:39Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Wycofanie urządzenia klasy 2 z rynku Cewnik pośrodkowy Provena accessdata.fda.gov."
     },
     {
       "title": "Wycofanie produktu klasy 2 z rynku Cewnik PowerPICC SV – accessdata.fda.gov",
@@ -2456,20 +2464,20 @@
   ],
   "daily_top5": [
     {
+      "title": "Cewnik krótkoterminowy do próby wycofania urządzenia klasy 2 z możliwością wycofania z użycia – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220791",
+      "date": "2026-07-03T06:18:40Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Cewnik krótkoterminowy z funkcją wycofania urządzenia klasy 2, cewnik accessdata.fda.gov."
+    },
+    {
       "title": "Cewnik Power Recall Power PICC SOLO HF klasy 2 – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220787",
       "date": "2026-07-03T06:18:40Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Moc wycofania urządzenia klasy 2 Cewnik PICC SOLO HF accessdata.fda.gov."
-    },
-    {
-      "title": "Cewnik krótkoterminowy do próby wycofania urządzenia klasy 2 z mocą wycofania — accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220791",
-      "date": "2026-07-03T06:18:40Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Cewnik krótkoterminowy z funkcją wycofania urządzenia klasy 2, cewnik accessdata.fda.gov."
     },
     {
       "title": "Centrum medialne biuletynu dotyczącego funduszu pandemicznego 2026 na pierwszy kwartał – WHO | Biuro Regionalne dla Afryki",
