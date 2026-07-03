@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T15:55:25Z",
+  "last_updated": "2026-07-03T15:56:03Z",
   "poland": [
     {
       "title": "Informacja o działaniach podjętych po zgłoszeniu zdarzenia niepożądanego - Gov.pl",
@@ -24,6 +24,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Górnośląskie Centrum Medyczne kupiło nowoczesny laser do leczenia zaawansowanej miażdżycy tętnic PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Pomyłka przy in vitro w Szpitalu Południowym. Pacjentka otrzymała zarodek innej pary - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Pomylka-przy-in-vitro-w-Szpitalu-Poludniowym-Pacjentka-otrzymala-zarodek-innej-pary,286275,1.html",
+      "date": "2026-07-03T15:11:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "W warszawskim szpitalu doszło do pomyłki w zakresie procedury in vitro. Jak wynika z informacji Rynku Zdrowia, u jednej z pacjentek przetransferowano zarodek, który nie był genetycznie spokrewniony ani z nią, ani z jej partnerem."
     },
     {
       "title": "Jankowski odpowiada Tuskowi. NRL przedstawia premierowi plan zmian w ochronie zdrowia - Alert Medyczny",
@@ -80,6 +88,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Samorządy zawodów zaufania publicznego apelują o przeciwdziałanie agresji i odpowiedzialną debatę. Stanowisko popiera Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Pielęgniarki apelują o emerytury pomostowe - Remedium | Portal medyczny",
+      "url": "https://remedium.md/publikacje/wiadomosci/pielegniarki-apeluja-o-emerytury-pomostowe",
+      "date": "2026-07-03T14:09:00Z",
+      "source": "Remedium.md",
+      "confirmed_by": 1,
+      "summary": "NRPiP domaga emerytur pomostowych dla pielęgniarek w SOR, psychiatrii i izolacjach. Skarga na nierówne traktowanie i nadmierne obciążenie psychofizyczne. Pilna zmiana prawa!"
     },
     {
       "title": "Polsko-Francuska Nagroda Naukowa dla psychologa z UJ - Medycyna Praktyczna",
@@ -334,7 +350,7 @@
       "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Fizjoterapeuci-apeluja-do-NFZ-ofiarami-takiego-rozwiazania-beda-pacjenci,286256,1.html",
       "date": "2026-07-03T09:30:00Z",
       "source": "Rynek Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Krajowa Rada Fizjoterapeutów skierowała do Prezesa NFZ oficjalny apel o wstrzymanie projektu zarządzenia zmieniającego zasady finansowania świadczeń rehabilitacyjnych dla osób z orzeczeniem o znacznym stopniu niepełnosprawności. Zdaniem samorządu nowe rozwiązania przerzucą ciężar finansowania na placówki, co może ograniczyć dostęp do rehabilitacji i doprowadzić nawet do zamykania części gabinetów."
     },
     {
@@ -384,22 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Sejm uchwalił Lex Szarlatan. Nowe przepisy wzmacniają kompetencje Rzecznika Praw Pacjenta i wprowadzają kary do 1 mln zł za pseudomedycynę."
-    },
-    {
-      "title": "Ekrany poza zasięgiem malucha - Termedia",
-      "url": "https://www.termedia.pl/mz/Ekrany-poza-zasiegiem-malucha,68012.html",
-      "date": "2026-07-03T08:40:00Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "Dzieci przed ukończeniem drugiego roku życia nie powinny mieć regularnego kontaktu z wyświetlaczami – wczesne korzystanie z urządzeń cyfrowych może nieść za sobą długofalowe konsekwencje dla zdrowia, rozwoju oraz ogólnej jakości życia najmłodszych."
-    },
-    {
-      "title": "Nie żyje uwielbiana lekarka z Bukowna. \"Rzadko spotyka się takich ludzi\" - Medonet",
-      "url": "https://www.medonet.pl/ciaza-i-dziecko/choroby-dzieciece/nie-zyje-uwielbiana-lekarka-pacjenci-zegnaja-danute-stroj-dziekujemy/5yx3r5x",
-      "date": "2026-07-03T08:32:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "\"Z ogromnym Å¼alem i smutkiem zawiadamiamy, Å¼e 30 czerwca 2026 r zmarÅa w wieku 89 lat Åp. lek. med."
     }
   ],
   "world": [
@@ -617,7 +617,7 @@
       "date": "2026-07-03T07:34:00Z",
       "source": "The Lancet",
       "confirmed_by": 1,
-      "summary": "Oszustwo w klinicznych modelach wielojęzycznych: niedoceniane ryzyko dla bezpieczeństwa The Lancet."
+      "summary": "Oszustwo w klinicznych modelach wielkojęzykowych: niedoceniane ryzyko bezpieczeństwa The Lancet."
     },
     {
       "title": "Kryteria rzymskie V w diagnostyce zespołu jelita drażliwego w opiece specjalistycznej: badanie dokładności diagnostycznej - The Lancet",
