@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T08:45:10Z",
+  "last_updated": "2026-07-03T08:45:52Z",
   "poland": [
     {
       "title": "Nie żyje uwielbiana lekarka z Bukowna. \"Rzadko spotyka się takich ludzi\" - Medonet",
@@ -16,6 +16,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Cyfrowa karta DiLO. Posłowie o Krajowej Sieci Onkologicznej PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Sunwozertynib w pierwszej linii leczenia zaawansowanego niedrobnokomórkowego raka płuca - Termedia",
+      "url": "https://www.termedia.pl/onkologia/Sunwozertynib-w-pierwszej-linii-leczenia-zaawansowanego-niedrobnokomorkowego-raka-pluca,68011.html",
+      "date": "2026-07-03T08:25:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Mimo że sunwozertynib zyskał już wcześniej status leku przyspieszonego dostępu dla chorych z zaawansowanym niedrobnokomórkowym rakiem płuca (NDRP), dotychczas opierano się na nim głównie w dalszych etapach terapii. Lukę w aktualnej wiedzy stanowił brak kompleksowych danych oceniających jego skuteczność i bezpieczeństwo już w pierwszej linii..."
     },
     {
       "title": "Przełom w walce z rakiem trzustki? Wysoce czułe badanie krwi wykrywa \"ukryte ślady\" nowotworu [BADANIA] - Puls Medycyny",
@@ -392,14 +400,6 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Nowy harmonogram szkoleń stacjonarnych z cyfryzacji dokumentacji medycznej w profilaktycznej opiece zdrowotnej nad uczniami już dostępny!"
-    },
-    {
-      "title": "Betel budzi kontrowersje wśród Polaków. Eksperci ostrzegają przed skutkami - Żywienie Medonet",
-      "url": "https://zywienie.medonet.pl/produkty-spozywcze/owoce/te-orzechy-sa-zakazane-w-krajach-arabskich-i-w-australii-w-polsce-dostepne/xw233lj",
-      "date": "2026-07-02T14:33:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Orzechy areki, znane rÃ³wnieÅ¼ jako betel, od dawien dawna sÄ waÅ¼nym elementem tradycji i codziennoÅci w wielu krajach azjatyckich. Podczas gdy w Azji orzechy te sÄ aktualnie zakazywane, w Polsce ten egzotyczny produkt zyskuje coraz wiÄksze zainteresowanie, pojawiajÄ c siÄ w sklepach z orientalnÄ Å¼ywnoÅciÄ jako ciekawostka etniczna. Jakie wÅaÅciwoÅci ma betel i dlaczego staje siÄ swego rodzaju zakazanym owocem?"
     }
   ],
   "world": [
@@ -1170,16 +1170,8 @@
       "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
       "date": "2026-06-26T11:21:05Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
-      "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
-    },
-    {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/869",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
+      "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
     },
     {
       "title": "Wytyczne przewodniczących i dyskutantów – Europejskie Towarzystwo Kardiologiczne",
@@ -1188,6 +1180,30 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Przewodniczący zapewnią płynny przebieg sesji, zarządzanie czasem, a także będą zachęcać do dyskusji i interakcji między wykładowcami a publicznością, zapewniając wystarczającą ilość czasu na pytania od publiczności."
+    },
+    {
+      "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
+      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
+      "date": "2026-06-23T07:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
+    },
+    {
+      "title": "Brak różnicy w DFS pomiędzy chemioterapią postadjuwantową a placebo u pacjentów z grupy wysokiego ryzyka zidentyfikowanych na podstawie oceny MRD na podstawie ctDNA po resekcji CRC - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/no-difference-in-dfs-between-post-adjuvant-chemotherapy-and-placebo-in-high-risk-patients-identified-through-ctdna-based-mrd-assessment-after-crc-resection",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Brak różnicy w DFS pomiędzy chemioterapią postadiuwantową a placebo u pacjentów z grupy wysokiego ryzyka zidentyfikowanych na podstawie oceny MRD na podstawie ctDNA po resekcji CRC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-therapeutic-indications-for-enfortumab-vedotin",
+      "date": "2026-06-20T00:33:39Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     }
   ],
   "epidemiology": [
