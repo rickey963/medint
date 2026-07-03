@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T14:01:52Z",
+  "last_updated": "2026-07-03T14:02:40Z",
   "poland": [
     {
       "title": "Polsko-Francuska Nagroda Naukowa dla psychologa z UJ - Medycyna Praktyczna",
@@ -55,7 +55,7 @@
       "date": "2026-07-03T12:59:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prezes NRL Łukasz Jankowski mówi o braku dialogu z rządem, ustawie o danych medyków i możliwej skardze do europejskiego trybunału."
+      "summary": "Jankowski o relacjach z rządem: konfrontacja nikomu nie służy, potrzebny jest dialog Alert Medyczny."
     },
     {
       "title": "Nabór na stanowisko: specjalista/specjalistka w Wydziale Nadzoru w Departamencie Nadzoru i Kontroli - Gov.pl",
@@ -95,7 +95,7 @@
       "date": "2026-07-03T11:59:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Sejm zaakceptował poprawki Senatu do ustaw o KSO i przeciwdziałaniu narkomanii. Będzie e-DiLO oraz zmiany w leczeniu substytucyjnym."
+      "summary": "Sejm zaakceptował poprawki Senatu. Zmiany w KSO i leczeniu uzależnień Alert Medyczny."
     },
     {
       "title": "80 lat krwiodawstwa na Dolnym Śląsku - relacja z uroczystości w RCKiK we Wrocławiu - Gov.pl",
@@ -127,7 +127,7 @@
       "date": "2026-07-03T11:17:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Premier Donald Tusk postawił ultimatum NFZ i Ministerstwu Zdrowia. Do wtorku mają zostać przedstawione konkretne propozycje zmian."
+      "summary": "Tusk daje NFZ i MZ czas do wtorku. Zapowiada decyzje personalne po aferze w Szpitalu Południowym Alert Medyczny."
     },
     {
       "title": "Alina Gałka - artykuły autora - Rynek Zdrowia",
@@ -183,14 +183,14 @@
       "date": "2026-07-03T09:59:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Trzaskowski przyjął dymisje Renaty Kaznowskiej i Aldony Machnowskiej-Góry. To konsekwencja afery w Szpitalu Południowym."
+      "summary": "Trzaskowski przyjął dymisje wiceprezydentek Warszawy. To efekt afery w Szpitalu Południowym Alert Medyczny."
     },
     {
       "title": "Sejm uchwalił \"lex szarlatan\" - Medycyna Praktyczna",
       "url": "https://prawo.mp.pl/wiadomosci/443083,sejm-uchwalil-lex-szarlatan",
       "date": "2026-07-03T09:35:03Z",
       "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Sejm uchwalił w piątek ustawę o prawach pacjenta i Rzeczniku Praw Pacjenta, tzw. lex szarlatan. Ma ona na celu wyeliminowanie z rynku i internetu groźnych dla zdrowia i życia usług, które nie są zgodne z bieżącą wiedzą medyczną."
     },
     {
@@ -740,7 +740,7 @@
       "summary": "Orv Hetil – Lista treści Medscape."
     },
     {
-      "title": "W kierunku szerszego stosowania oceny fizjologii naczyń wieńcowych — The New England Journal of Medicine",
+      "title": "W stronę szerszego zastosowania oceny fizjologii naczyń wieńcowych — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMe2603396",
       "date": "2026-07-02T21:14:12Z",
       "source": "NEJM",
@@ -2108,6 +2108,14 @@
       "summary": "Wycofanie urządzenia klasy 2 Cewnik do dializy krótkoterminowej DuoGlide accessdata.fda.gov."
     },
     {
+      "title": "Jakość z założenia - Europejska Agencja Leków (EMA)",
+      "url": "https://www.ema.europa.eu/pl/veterinary-regulatory-overview/research-development-veterinary-medicines/quality-design",
+      "date": "2026-07-03T04:11:38Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Język polski jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
+    },
+    {
       "title": "Newron przedstawia aktualne informacje po spotkaniu typu A z FDA – BioSpace",
       "url": "https://www.biospace.com/press-releases/newron-provides-update-following-type-a-meeting-with-the-fda",
       "date": "2026-07-03T03:10:54Z",
@@ -2231,6 +2239,14 @@
       "title": "EMEA-003489-PIP01-23 – plan badań pediatrycznych – Europejska Agencja Leków (EMA)",
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-003489-pip01-23",
       "date": "2026-07-02T15:38:00Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Europejska Agencja Leków Domenico Scarlattilaan 6 1083 HS Amsterdam Holandia."
+    },
+    {
+      "title": "EMEA-003435-PIP02-23 – plan badań pediatrycznych – Europejska Agencja Leków (EMA)",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-003435-pip02-23",
+      "date": "2026-07-02T15:36:00Z",
       "source": "EMA",
       "confirmed_by": 1,
       "summary": "Europejska Agencja Leków Domenico Scarlattilaan 6 1083 HS Amsterdam Holandia."
@@ -2370,22 +2386,6 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Szczepionka na otyłość firmy BrightGene BGM0504 publikuje mocne dane z fazy 3 w Chinach, gdy zabiega o względy zachodniego partnera przed planowanym światowym badaniem."
-    },
-    {
-      "title": "Roche na szczycie rankingów reputacji onkologii, a AstraZeneca wspina się na 2. miejsce - Fierce Pharma",
-      "url": "https://www.fiercepharma.com/marketing/roche-tops-oncology-reputation-rankings-astrazeneca-climbs-back-2nd-place",
-      "date": "2026-07-02T10:00:00Z",
-      "source": "FiercePharma",
-      "confirmed_by": 1,
-      "summary": "AstraZeneca wywarła wrażenie na grupach pacjentów onkologicznych, awansując na drugie miejsce w rankingu reputacji korporacyjnej PatientView dzięki silnej pozycji w leczeniu raka piersi i płuc. | AstraZeneca wywarła wrażenie na grupach pacjentów onkologicznych, awansując na drugie miejsce w rankingu reputacji korporacyjnej PatientView dzięki silnej pozycji w leczeniu raka piersi i płuc. Roche, znajomy widok znajdujący się na szczycie rankingów nowotworów PatientView, zajął pierwsze miejsce przed AstraZeneca i Novartis."
-    },
-    {
-      "title": "Wielostronne warsztaty na temat zdrowia kobiet – Europejska Agencja Leków (EMA)",
-      "url": "https://www.ema.europa.eu/en/events/multistakeholder-workshop-womens-health",
-      "date": "2026-07-02T10:00:00Z",
-      "source": "EMA",
-      "confirmed_by": 1,
-      "summary": "Europejska Agencja Leków (EMA) i jej partnerzy w Europejskiej Sieci Regulacji Leków (EMRN) odgrywają kluczową rolę w poprawie zdrowia kobiet. Wydarzenie to podkreśla wkład partnerów EMRN i gromadzi punkty widzenia pacjentów, pracowników służby zdrowia, środowiska akademickiego, przemysłu i partnerów globalnych."
     }
   ],
   "critical_alerts": [
