@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T11:15:12Z",
+  "last_updated": "2026-07-03T11:15:53Z",
   "poland": [
     {
       "title": "Tusk daje NFZ i MZ czas do wtorku. Zapowiada decyzje personalne po aferze w Szpitalu Południowym - Alert Medyczny",
@@ -1380,7 +1380,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-07-01T19:25:36Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Dowiedz się o aktualnej epidemii wirusa Ebola atakującej DRK i Ugandę."
     },
     {
@@ -1536,20 +1536,20 @@
       "summary": "Dowiedz się więcej o ogniskach chorób żołądkowo-jelitowych na statkach wycieczkowych."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-07-01T07:00:00Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
-    },
-    {
       "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/php/emergency-guidance/index.html",
       "date": "2026-07-01T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Wytyczne Departamentu Zdrowia USA dotyczące postępowania z podróżnymi z obszarów dotkniętych wirusem Ebola po przylocie."
+    },
+    {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-07-01T07:00:00Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
       "title": "Nadzór nad cyklosporozą — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
