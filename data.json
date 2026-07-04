@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T15:53:11Z",
+  "last_updated": "2026-07-04T15:53:49Z",
   "poland": [
     {
       "title": "WHO zatwierdziła pierwszy test na wirusa Ebola Bundibugyo. Ma przyspieszyć wykrywanie zakażeń - PolitykaZdrowotna.com",
@@ -962,7 +962,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-07-02T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
@@ -1070,6 +1070,14 @@
       "summary": "Optymalizacja terapii medycznej opartej na wytycznych (GDMT) jest podstawą leczenia niewydolności serca (HF). Wdrożenie terapii zalecanych przez wytyczne, w oparciu o wyniki licznych badań z randomizacją, w tym tak zwanej „fantastycznej czwórki” (inhibitory układu renina-angiotensyna, beta-blokery, antagoniści receptora mineralokortykoidowego i inhibitory SGLT2), jest głównym motorem poprawy leczenia niewydolności serca (HFT)."
     },
     {
+      "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/how-early-is-early-enough-treating-familial-hypercholesterolaemia-before-risk-takes-root/",
+      "date": "2026-06-29T18:53:51Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "W prospektywnej kohorcie badania SAFEHEART badacze oceniali długoterminowe wyniki w przypadku genetycznie potwierdzonej hipercholesterolemii rodzinnej wśród 348 dzieci/młodzieży dotkniętych chorobą, 165 zdrowych krewnych i 288 chorych rodziców."
+    },
+    {
       "title": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/expert-consensus-document-second-universal-definition-of-heart-failure-2026",
       "date": "2026-06-29T12:58:24Z",
@@ -1100,14 +1108,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
-    },
-    {
-      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
-      "date": "2026-06-26T11:21:05Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
-      "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
@@ -1480,6 +1480,14 @@
       "summary": "To seminarium internetowe zapewni platformę do przedstawienia głównych wniosków z międzykrajowego badania dotyczącego zarządzania krajowymi agencjami zdrowia publicznego w zakresie gotowości i reagowania na sytuacje kryzysowe, a także umożliwi przedstawienie perspektyw krajowych z różnych modeli zarządzania na temat tego, jak ustalenia dotyczące zarządzania kształtują działania w sytuacjach kryzysowych w praktyce."
     },
     {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
+      "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
+      "date": "2026-07-01T09:17:27Z",
+      "source": "Outbreak News Today",
+      "confirmed_by": 1,
+      "summary": "Agencje zdrowia podają, że we wschodniej Demokratycznej Republice Konga zgłoszono co najmniej 1274 potwierdzonych przypadków wirusa Ebola i 360 zgonów, co stanowi część regionalnej liczby ofiar śmiertelnych."
+    },
+    {
       "title": "Nowa ankieta przeprowadzona w USA wskazuje na duży „plastyczny środek” w sprawie dezinformacji na temat szczepionek – CIDRAP",
       "url": "https://www.cidrap.umn.edu/childhood-vaccines/new-us-poll-identifies-large-malleable-middle-vaccine-misinformation",
       "date": "2026-06-30T20:49:42Z",
@@ -1512,12 +1520,12 @@
       "summary": "W analizie uwzględniono dokumentację medyczną 2,5 miliona pacjentów w całym systemie opieki zdrowotnej VA."
     },
     {
-      "title": "Sztuczna inteligencja może zapoczątkować nową erę rozwoju szczepionek – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/covid-19/artificial-intelligence-could-usher-new-era-vaccine-development",
-      "date": "2026-06-30T17:45:14Z",
-      "source": "CIDRAP",
+      "title": "ONZ ostrzega, że ​​epidemia wirusa Ebola może kosztować Afrykę nawet 3,6 miliarda dolarów – Epidemionnewstoday.com",
+      "url": "https://outbreaknewstoday.com/ebola-outbreak-could-cost-africa-3-6bn-un-warns-683/",
+      "date": "2026-06-30T18:16:08Z",
+      "source": "Outbreak News Today",
       "confirmed_by": 1,
-      "summary": "Szczepionka na Covid-19 była triumfem nauki. Rządy, badacze i producenci szczepionek pracowali wspólnie, aby przyspieszyć proces, który może zająć dziesięciolecia."
+      "summary": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie może kosztować Afrykę aż 3,6 miliarda dolarów i w przypadku rozprzestrzenienia się doprowadzić do utraty 328 000 miejsc pracy."
     }
   ],
   "clinical_trials": [
@@ -1716,6 +1724,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Utebzi (tebipenem piwoksyl) na cUTI: dawkowanie i skutki uboczne - Drugs.com",
+      "url": "https://www.drugs.com/utebzi.html",
+      "date": "2026-07-04T09:48:22Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Tabletka Utebzi (tebipenem piwoksyl) to pierwszy doustny antybiotyk karbapenemowy zatwierdzony przez FDA do leczenia powikłanych infekcji dróg moczowych (cUTI). Dowiedz się o dawkowaniu, skutkach ubocznych i interakcjach leków."
+    },
+    {
       "title": "Tregzi (Orca-T): zastosowania, skutki uboczne i dawkowanie – Drugs.com",
       "url": "https://www.drugs.com/tregzi.html",
       "date": "2026-07-04T04:18:19Z",
@@ -1826,14 +1842,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Recenzje i oceny Zanubrutinibu. Nadesłano 101 recenzji ze średnią ocen 8,6 (strona 5)."
-    },
-    {
-      "title": "Utebzi (tebipenem piwoksyl) na cUTI: dawkowanie i skutki uboczne - Drugs.com",
-      "url": "https://www.drugs.com/utebzi.html",
-      "date": "2026-07-03T06:59:05Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Tabletka Utebzi (tebipenem piwoksyl) to pierwszy doustny antybiotyk karbapenemowy zatwierdzony przez FDA do leczenia powikłanych infekcji dróg moczowych (cUTI). Dowiedz się o dawkowaniu, skutkach ubocznych i interakcjach leków."
     },
     {
       "title": "Cewnik krótkoterminowy do próby wycofania urządzenia klasy 2 z możliwością wycofania z użycia – accessdata.fda.gov",
@@ -2142,6 +2150,14 @@
       "summary": "Liczba ofiar epidemii wirusa Ebola Bundibugyo w Afryce w dalszym ciągu rośnie – w Demokratycznej Republice Konga (DRK) i Ugandzie odnotowano łącznie co najmniej 1354 zakażenia i 401 zgonów, w miarę jak śledczy śledzą potencjalne rozprzestrzenianie się wirusa na nowe prowincje DRK, a Uganda potwierdza zakażenie Marburgiem u dziecka, które zmarło z powodu wirusa. Podobnie jak Ebola, blisko spokrewniony wirus Marburg powoduje gorączkę krwotoczną."
     },
     {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
+      "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
+      "date": "2026-07-01T09:17:27Z",
+      "source": "Outbreak News Today",
+      "confirmed_by": 1,
+      "summary": "Agencje zdrowia podają, że we wschodniej Demokratycznej Republice Konga zgłoszono co najmniej 1274 potwierdzonych przypadków wirusa Ebola i 360 zgonów, co stanowi część regionalnej liczby ofiar śmiertelnych."
+    },
+    {
       "title": "WHO zatwierdziła pierwszy test na wirusa Ebola Bundibugyo. Ma przyspieszyć wykrywanie zakażeń - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/who-zatwierdzila-pierwszy-n2399789",
       "date": "2026-07-04T14:30:00Z",
@@ -2172,14 +2188,6 @@
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "WHO intensyfikuje wysiłki mające na celu ograniczenie wirusa Ebola poprzez badania leków i wdrażanie diagnostyki Clinical Trials Arena."
-    },
-    {
-      "title": "Sprawozdanie na temat zagrożeń chorobami zakaźnymi, 27 czerwca – 3 lipca 2026 r., tydzień 27 – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-27-june-3-july-2026-week-27",
-      "date": "2026-07-03T13:56:12Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Niniejsze wydanie raportu ECDC o zagrożeniach chorobami zakaźnymi (CDTR) obejmuje okres od 27 czerwca do 3 lipca 2026 r. i zawiera aktualne informacje na temat wirusa Ebola, zakażeń wirusem Zachodniego Nilu, gorączki krwotocznej krymsko-kongijskiej, rozmieszczenia ekspertów, bliskowschodniego zespołu oddechowego (MERS), Vibrio oraz przegląd epidemiologii wirusów układu oddechowego w UE/EOG."
     }
   ],
   "daily_top5": [
