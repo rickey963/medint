@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T11:57:14Z",
+  "last_updated": "2026-07-04T11:57:59Z",
   "poland": [
     {
       "title": "Jeden z najgroźniejszych guzów mózgu. Nowe terapie dają chorym więcej czasu - Medonet",
@@ -962,7 +962,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-07-02T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
@@ -1116,14 +1116,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
-    },
-    {
-      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
-      "date": "2026-06-26T11:21:05Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
-      "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
@@ -1536,12 +1528,12 @@
       "summary": "W UE/EOG trwa epidemia Salmonella Stanley ST2045, a w okresie od listopada 2025 r. do czerwca 2026 r. zgłoszono łącznie 106 potwierdzonych przypadków z 13 krajów UE/EOG (77) i Wielkiej Brytanii (29)."
     },
     {
-      "title": "Nowa ankieta przeprowadzona w USA wskazuje na duży „plastyczny środek” w sprawie dezinformacji na temat szczepionek – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/childhood-vaccines/new-us-poll-identifies-large-malleable-middle-vaccine-misinformation",
-      "date": "2026-06-30T20:49:42Z",
-      "source": "CIDRAP",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
+      "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
+      "date": "2026-07-01T09:17:27Z",
+      "source": "Outbreak News Today",
       "confirmed_by": 1,
-      "summary": "Mity o szczepionkach nie są nowe. Krążą one od dziesięcioleci, przetrwały wycofane badania i niezliczone kampanie na rzecz zdrowia publicznego. Teraz nowa ankieta sugeruje, że choć stosunkowo niewielu Amerykanów w pełni wierzy w te kłamstwa, wielu pozostaje co do nich niepewnych – co sugeruje możliwości przeciwdziałania dezinformacji na temat szczepionek."
+      "summary": "Agencje zdrowia podają, że we wschodniej Demokratycznej Republice Konga zgłoszono co najmniej 1274 potwierdzonych przypadków wirusa Ebola i 360 zgonów, co stanowi część regionalnej liczby ofiar śmiertelnych."
     }
   ],
   "clinical_trials": [
@@ -1658,7 +1650,7 @@
       "summary": "Jak selektywne gromadzenie danych na temat bezpieczeństwa może sprawić, że pragmatyczne badania kliniczne staną się skalowalne w stosowanych badaniach klinicznych online."
     },
     {
-      "title": "Streszczenie ACT: Selektywne dane dotyczące bezpieczeństwa i redukcja liczby wizyt, luki w wykonaniu protokołu i badanie bezpieczeństwa chińskiego badania klinicznego – stosowane badania kliniczne online",
+      "title": "Streszczenie ACT: Selektywne dane dotyczące bezpieczeństwa i redukcja liczby wizyt, luki w wykonaniu projektu protokołu oraz dochodzenie w sprawie bezpieczeństwa prób w Chinach – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/selective-safety-data-visit-reduction-protocol-design-execution-china-trial-security-investigation",
       "date": "2026-07-02T10:03:14Z",
       "source": "Applied Clinical Trials",
@@ -2190,6 +2182,14 @@
       "summary": "Liczba ofiar epidemii wirusa Ebola Bundibugyo w Afryce w dalszym ciągu rośnie – w Demokratycznej Republice Konga (DRK) i Ugandzie odnotowano łącznie co najmniej 1354 zakażenia i 401 zgonów, w miarę jak śledczy śledzą potencjalne rozprzestrzenianie się wirusa na nowe prowincje DRK, a Uganda potwierdza zakażenie Marburgiem u dziecka, które zmarło z powodu wirusa. Podobnie jak Ebola, blisko spokrewniony wirus Marburg powoduje gorączkę krwotoczną."
     },
     {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
+      "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
+      "date": "2026-07-01T09:17:27Z",
+      "source": "Outbreak News Today",
+      "confirmed_by": 1,
+      "summary": "Agencje zdrowia podają, że we wschodniej Demokratycznej Republice Konga zgłoszono co najmniej 1274 potwierdzonych przypadków wirusa Ebola i 360 zgonów, co stanowi część regionalnej liczby ofiar śmiertelnych."
+    },
+    {
       "title": "Uganda ma pierwszy przypadek Marburga. Po sąsiedzku trwa epidemia eboli - Medonet",
       "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-zakazne/uganda-potwierdza-pierwszy-przypadek-wirusa-marburg-eksperci-alarmuja/llybd9d",
       "date": "2026-07-03T16:42:00Z",
@@ -2220,14 +2220,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Światowa Organizacja Zdrowia (WHO) ogłosiła, że ​​epidemia hantawirusa wywołana przypadkami na statku wycieczkowym dobiegła końca. Dyrektor generalny WHO, Tedros Adhanom Ghebreyesus, powiedział, że ostatni kontakt osoby narażonej na hantawirus na statku wycieczkowym MV Hondius zakończył się…."
-    },
-    {
-      "title": "Alert dotyczący produktu medycznego nr 3/2026: Sfałszowany DARZALEX (daratumumab) – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/japan/news/detail-global/03-07-2026-medical-product-alert-n-3-2026--falsified-darzalex-(daratumumab)",
-      "date": "2026-07-03T10:18:19Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Podsumowanie ostrzeżeniaTo ostrzeżenie WHO dotyczące produktu medycznego dotyczy dwóch serii sfałszowanego zastrzyku DARZALEX (daratumumab). Sfałszowane produkty wykryto na Malediwach i w Meksyku. Krajowe organy regulacyjne w obu krajach zgłosiły te incydenty WHO w maju i czerwcu 2026 r."
     }
   ],
   "daily_top5": [
