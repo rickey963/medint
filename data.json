@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-04T19:42:52Z",
+  "last_updated": "2026-07-04T19:43:31Z",
   "poland": [
+    {
+      "title": "Dlatego strupów nie powinno się zdrapywać. Skóra wystawi ci rachunek - Medonet",
+      "url": "https://www.medonet.pl/choroby-od-a-do-z/urazy-i-stany-nagle/strup-nieestetyczny-ale-potrzebny-strup-cie-chroni-bardziej-niz-myslisz/lhbyl0b",
+      "date": "2026-07-04T18:33:47Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Strup â dla wielu to nieestetyczny problem, ktÃ³rego chcielibyÅmy jak najszybciej siÄ pozbyÄ. Tymczasem medycyna nie ma wÄ tpliwoÅci: to naturalna bariera ochronna, ktÃ³ra pozwala skÃ³rze spokojnie siÄ odbudowaÄ. NajwiÄkszym zagroÅ¼eniem dla procesu gojenia nie jest sam strup, a nasza skÅonnoÅÄ do jego zdrapywania i nadmiernego \"oczyszczania\" rany."
+    },
     {
       "title": "Rzuty karne – większe ryzyko zawałów i udarów - Termedia",
       "url": "https://www.termedia.pl/mz/Rzuty-karne-wieksze-ryzyko-zawalow-i-udarow,68032.html",
@@ -8,6 +16,14 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Duże turnieje piłkarskie (jak mistrzostwa świata w piłce nożnej) mogą dwu-, a nawet trzykrotnie zwiększać ryzyko wystąpienia ostrych zawałów serca lub udarów mózgu, przy czym największe zagrożenie pojawia się w trakcie emocjonujących rzutów karnych."
+    },
+    {
+      "title": "Do poczytania - Serwis Zdrowie",
+      "url": "https://zdrowie.pap.pl/do-poczytania?page=27",
+      "date": "2026-07-04T17:08:26Z",
+      "source": "Serwis Zdrowie (PAP)",
+      "confirmed_by": 1,
+      "summary": "Jeśli chcesz pomóc osobie głęboko wychłodzonej, obchodź się z nią niezwykle delikatnie. Gwałtowne ruchy, próby pionizacji czy gwałtowne przewracanie do pozycji tzw. bezpiecznej bocznej czasem może bardziej zaszkodzić niż pomóc."
     },
     {
       "title": "Poszedł na operację, wrócił z nowotworem. \"Gdyby nie wyrostek, nie wiedziałbym do dziś\" - Medonet",
@@ -127,7 +143,7 @@
       "date": "2026-07-04T10:16:52Z",
       "source": "Termedia",
       "confirmed_by": 1,
-      "summary": "Brednie o „Lex szarlatan”. „Antyludzki bubel” Termedia."
+      "summary": "– Bardzo liczymy na zawetowanie tego niebezpiecznego i antyludzkiego bubla – mówiła w Sejmie o ustawie Lex szarlatan” Justyna Socha. Z zawodu agentka ubezpieczeniowa, która uchodzi za jedną z nieformalnych przywódczyń ruchu antyszczepionkowego."
     },
     {
       "title": "Medycyna i Zdrowie wiadomości, Portal dla systemu ochrony zdrowia - PolitykaZdrowotna.com - PolitykaZdrowotna.com",
@@ -384,22 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Ministerstwo Zdrowia opublikowało projekt rozporządzenia, który wprowadza rygorystyczne kryteria kwalifikacji pacjentów na rehabilitację. Lekarze i fizjoterapeuci będą musieli posługiwania się konkretnymi wskaźnikami przy ocenie stanu zdrowia pacjenta. Resort chce w ten sposób ograniczyć nadmiarowe skierowania i rozładować kolejki."
-    },
-    {
-      "title": "NARODOWE CENTRUM KRWI OGŁASZA NABÓR NA STANOWISKO PRACY - Gov.pl",
-      "url": "https://www.gov.pl/web/nck/narodowe-centrum-krwi-oglasza-nabor-na-stanowisko-pracy",
-      "date": "2026-07-03T15:47:50Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "młodszego specjalisty / specjalisty / młodszej specjalistki / specjalistki w Wydziale Wsparcia i Zarządzania Projektami."
-    },
-    {
-      "title": "NARODOWE CENTRUM KRWI OGŁASZA NABÓR NA STANOWISKO PRACY - Gov.pl",
-      "url": "https://www.gov.pl/web/nck/narodowe-centrum-krwi-oglasza-nabor-na-stanowisko-pracy2",
-      "date": "2026-07-03T15:47:50Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "główny specjalista/ specjalista / główna specjalistka/specjalistka ds. wsparcia merytorycznego wdrożenia i rozwoju systemu e-Krew w Wydziale Wsparcia i Zarządzania Projektami."
     }
   ],
   "world": [
@@ -962,7 +962,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-07-02T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
@@ -1060,6 +1060,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Optymalizacja terapii medycznej opartej na wytycznych (GDMT) jest podstawą leczenia niewydolności serca (HF). Wdrożenie terapii zalecanych przez wytyczne, w oparciu o wyniki licznych badań z randomizacją, w tym tak zwanej „fantastycznej czwórki” (inhibitory układu renina-angiotensyna, beta-blokery, antagoniści receptora mineralokortykoidowego i inhibitory SGLT2), jest głównym motorem poprawy leczenia niewydolności serca (HFT)."
+    },
+    {
+      "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/how-early-is-early-enough-treating-familial-hypercholesterolaemia-before-risk-takes-root/",
+      "date": "2026-06-29T18:53:51Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "W prospektywnej kohorcie badania SAFEHEART badacze oceniali długoterminowe wyniki w przypadku genetycznie potwierdzonej hipercholesterolemii rodzinnej wśród 348 dzieci/młodzieży dotkniętych chorobą, 165 zdrowych krewnych i 288 chorych rodziców."
     },
     {
       "title": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) - professional.heart.org",
