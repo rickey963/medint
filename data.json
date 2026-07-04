@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T12:00:19Z",
+  "last_updated": "2026-07-04T12:01:03Z",
   "poland": [
     {
       "title": "Jeden z najgroźniejszych guzów mózgu. Nowe terapie dają chorym więcej czasu - Medonet",
@@ -540,6 +540,14 @@
       "summary": "Wybuch choroby wirusowej Bundibugyo (BVD) w Demokratycznej Republice Konga w dalszym ciągu szybko się rozwija, przy ciągłym przenoszeniu i rosnącej liczbie zgłoszonych przypadków. Na dzień 1 lipca w Demokratycznej Republice Konga zgłoszono łącznie 1460 potwierdzonych przypadków, w tym 452 zgony. Na dzień 2 lipca Uganda zgłosiła 20 potwierdzonych przypadków, w tym dwa zgony, a także jeden prawdopodobny przypadek, który zmarł."
     },
     {
+      "title": "Uganda potwierdza przypadek Marburga w związku z trwającą epidemią wirusa Ebola – BMJ",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100194",
+      "date": "2026-07-03T15:55:48Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Światowa Organizacja Zdrowia (WHO) potwierdziła, że ​​w Ugandzie zarejestrowano nowy przypadek choroby Marburga. Zespoły są już na miejscu, aby pomóc temu krajowi Afryki Wschodniej powstrzymać rozprzestrzenianie się wirusa Ebola, twierdzi WHO. „30 czerwca WHO otrzymała oficjalną informację z Ugandy o jednym potwierdzonym przypadku choroby Marburg” – powiedziała Catherine Smallwood, kierownik ds. incydentów w biurze WHO w biurze WHO w Kampali."
+    },
+    {
       "title": "Wpływ „spinu” na podejmowanie decyzji medycznych wśród pracowników służby zdrowia i innych decydentów związanych ze zdrowiem: protokół przeglądu systematycznego - BMJ Open",
       "url": "https://bmjopen.bmj.com/content/16/5/e117998.citation-tools",
       "date": "2026-07-03T15:25:35Z",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Podsumowanie ostrzeżeniaTo ostrzeżenie WHO dotyczące produktu medycznego dotyczy dwóch serii sfałszowanego zastrzyku DARZALEX (daratumumab). Sfałszowane produkty wykryto na Malediwach i w Meksyku. Krajowe organy regulacyjne w obu krajach zgłosiły te incydenty WHO w maju i czerwcu 2026 r."
-    },
-    {
-      "title": "Alert dotyczący produktu medycznego nr 3/2026: Sfałszowany DARZALEX (daratumumab) – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/philippines/news/detail-global/03-07-2026-medical-product-alert-n-3-2026--falsified-darzalex-(daratumumab)",
-      "date": "2026-07-03T09:09:51Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Podsumowanie ostrzeżeniaTo ostrzeżenie WHO dotyczące produktu medycznego dotyczy dwóch serii sfałszowanego zastrzyku DARZALEX (daratumumab). Sfałszowane produkty wykryto na Malediwach i w Meksyku. Krajowe organy regulacyjne w obu krajach zgłosiły te incydenty WHO w maju i czerwcu 2026 r."
     }
   ],
   "guidelines": [
@@ -962,7 +962,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-07-02T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
@@ -1086,14 +1086,6 @@
       "summary": "Optymalizacja terapii medycznej opartej na wytycznych (GDMT) jest podstawą leczenia niewydolności serca (HF). Wdrożenie terapii zalecanych przez wytyczne, w oparciu o wyniki licznych badań z randomizacją, w tym tak zwanej „fantastycznej czwórki” (inhibitory układu renina-angiotensyna, beta-blokery, antagoniści receptora mineralokortykoidowego i inhibitory SGLT2), jest głównym motorem poprawy leczenia niewydolności serca (HFT)."
     },
     {
-      "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/news-room/how-early-is-early-enough-treating-familial-hypercholesterolaemia-before-risk-takes-root/",
-      "date": "2026-06-29T18:53:51Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "W prospektywnej kohorcie badania SAFEHEART badacze oceniali długoterminowe wyniki w przypadku genetycznie potwierdzonej hipercholesterolemii rodzinnej wśród 348 dzieci/młodzieży dotkniętych chorobą, 165 zdrowych krewnych i 288 chorych rodziców."
-    },
-    {
       "title": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/expert-consensus-document-second-universal-definition-of-heart-failure-2026",
       "date": "2026-06-29T12:58:24Z",
@@ -1124,6 +1116,14 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
+    },
+    {
+      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
+      "date": "2026-06-26T11:21:05Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 2,
+      "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
@@ -1512,14 +1512,6 @@
       "summary": "Wirtualnie, 9–11 września 2025 r."
     },
     {
-      "title": "Ognisko obejmujące wiele krajów zakażeń Salmonella Stanley powiązane z produktami z makaronu smakowego – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products",
-      "date": "2026-07-01T12:00:03Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Jak wynika z szybkiej oceny epidemii przeprowadzonej przez EFSA i ECDC, najbardziej prawdopodobnym źródłem trwającej w wielu krajach epidemii zakażeń Salmonella Stanley są produkty z makaronu smakowego, a dowody łączą te przypadki z produktami tej samej marki."
-    },
-    {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
       "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
       "date": "2026-07-01T09:17:27Z",
@@ -1542,6 +1534,14 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Richard Goldman żył z wirusem HIV (ludzkim wirusem niedoboru odporności) przez co najmniej pięć lat i miał niewiele objawów."
+    },
+    {
+      "title": "ONZ ostrzega, że ​​epidemia wirusa Ebola wyrządzi poważne szkody gospodarce Afryki – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-will-cause-major-harm-africa-s-economies-un-warns",
+      "date": "2026-06-30T20:27:10Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Program Narodów Zjednoczonych ds. Rozwoju (UNDP) stwierdził dzisiaj w swoim raporcie, że epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) i Ugandzie może mieć długotrwałe szkodliwe skutki dla gospodarki Afryki, przy czym DRK prawdopodobnie ucierpi najbardziej."
     }
   ],
   "clinical_trials": [
@@ -2206,6 +2206,14 @@
       "summary": "Uganda potwierdza pierwszy przypadek zakaÅ¼enia wirusem Marburg. W sÄ siedniej Demokratycznej Republice Konga trwa juÅ¼ epidemia eboli. Eksperci alarmujÄ : sytuacja epidemiologiczna w regionie staje siÄ coraz bardziej napiÄta."
     },
     {
+      "title": "Uganda potwierdza przypadek Marburga w związku z trwającą epidemią wirusa Ebola – BMJ",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100194",
+      "date": "2026-07-03T15:55:48Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Światowa Organizacja Zdrowia (WHO) potwierdziła, że ​​w Ugandzie zarejestrowano nowy przypadek choroby Marburga. Zespoły są już na miejscu, aby pomóc temu krajowi Afryki Wschodniej powstrzymać rozprzestrzenianie się wirusa Ebola, twierdzi WHO. „30 czerwca WHO otrzymała oficjalną informację z Ugandy o jednym potwierdzonym przypadku choroby Marburg” – powiedziała Catherine Smallwood, kierownik ds. incydentów w biurze WHO w biurze WHO w Kampali."
+    },
+    {
       "title": "WHO intensyfikuje wysiłki mające na celu ograniczenie wirusa Ebola poprzez badania leków i wdrażanie diagnostyki – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/who-ebola-response-clinical-trial-diagnostics/",
       "date": "2026-07-03T15:32:38Z",
@@ -2220,14 +2228,6 @@
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Niniejsze wydanie raportu ECDC o zagrożeniach chorobami zakaźnymi (CDTR) obejmuje okres od 27 czerwca do 3 lipca 2026 r. i zawiera aktualne informacje na temat wirusa Ebola, zakażeń wirusem Zachodniego Nilu, gorączki krwotocznej krymsko-kongijskiej, rozmieszczenia ekspertów, bliskowschodniego zespołu oddechowego (MERS), Vibrio oraz przegląd epidemiologii wirusów układu oddechowego w UE/EOG."
-    },
-    {
-      "title": "Jak twierdzą urzędnicy – ​​BMJ, epidemia hantawirusa powiązana ze statkiem wycieczkowym dobiegła końca",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100187/rapid-responses",
-      "date": "2026-07-03T11:21:46Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia (WHO) ogłosiła, że ​​epidemia hantawirusa wywołana przypadkami na statku wycieczkowym dobiegła końca. Dyrektor generalny WHO, Tedros Adhanom Ghebreyesus, powiedział, że ostatni kontakt osoby narażonej na hantawirus na statku wycieczkowym MV Hondius zakończył się…."
     }
   ],
   "daily_top5": [
