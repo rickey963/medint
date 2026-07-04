@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T17:39:07Z",
+  "last_updated": "2026-07-04T17:39:46Z",
   "poland": [
     {
       "title": "Poszedł na operację, wrócił z nowotworem. \"Gdyby nie wyrostek, nie wiedziałbym do dziś\" - Medonet",
@@ -548,12 +548,12 @@
       "summary": "Nippon Geka Gakkai zasshi Medscape."
     },
     {
-      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+      "title": "Choroba Ebola wywołana wirusem Bundibugyo, Demokratyczna Republika Konga i Uganda – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON612",
       "date": "2026-07-03T16:02:21Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to evolve rapidly, with sustained transmission and increasing numbers of reported cases. As of 1 July, a cumulative of 1460 confirmed cases, including 452 deaths, have been reported from the Democratic Republic of the Congo. As of 2 July, Uganda has reported 20 confirmed cases including two deaths, as well as one probable case who has died."
+      "summary": "Wybuch choroby wirusowej Bundibugyo (BVD) w Demokratycznej Republice Konga w dalszym ciągu szybko się rozwija, przy ciągłym przenoszeniu i rosnącej liczbie zgłoszonych przypadków. Na dzień 1 lipca w Demokratycznej Republice Konga zgłoszono łącznie 1460 potwierdzonych przypadków, w tym 452 zgony. Na dzień 2 lipca Uganda zgłosiła 20 potwierdzonych przypadków, w tym dwa zgony, a także jeden prawdopodobny przypadek, który zmarł."
     },
     {
       "title": "Uganda potwierdza przypadek Marburga w związku z trwającą epidemią wirusa Ebola – BMJ",
@@ -962,7 +962,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-07-02T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
@@ -1530,12 +1530,12 @@
   ],
   "clinical_trials": [
     {
-      "title": "Revenue Recognition Risk in Contract Research Organizations - Applied Clinical Trials Online",
+      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
       "date": "2026-07-04T06:07:32Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Revenue Recognition Risk in Contract Research Organizations Applied Clinical Trials Online."
+      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
     },
     {
       "title": "Trwałe zmiany molekularne po szczepieniu firmy Pfizer przeciwko Covid-19 zgłoszone w Multi-Omics – wymaga wzajemnej oceny: rodzi pytania – Trialsitenews.com",
@@ -2135,19 +2135,11 @@
   "critical_alerts": [
     {
       "title": "Choroba Ebola wywołana wirusem Bundibugyo, Demokratyczna Republika Konga i Uganda – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/emergencies/emergency-events/item/2026-DON612",
-      "date": "2026-07-03T18:13:57Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Wybuch choroby wirusowej Bundibugyo (BVD) w Demokratycznej Republice Konga w dalszym ciągu szybko się rozwija, przy ciągłym przenoszeniu i rosnącej liczbie zgłoszonych przypadków. As of 1 July, a cumulative of 1460 confirmed cases, including 452 deaths, have been reported from the Democratic Republic of the Congo. Na dzień 2 lipca Uganda zgłosiła 20 potwierdzonych przypadków, w tym dwa zgony, a także jeden prawdopodobny przypadek, który zmarł."
-    },
-    {
-      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
       "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON612",
       "date": "2026-07-03T16:02:21Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to evolve rapidly, with sustained transmission and increasing numbers of reported cases. As of 1 July, a cumulative of 1460 confirmed cases, including 452 deaths, have been reported from the Democratic Republic of the Congo. As of 2 July, Uganda has reported 20 confirmed cases including two deaths, as well as one probable case who has died."
+      "summary": "Wybuch choroby wirusowej Bundibugyo (BVD) w Demokratycznej Republice Konga w dalszym ciągu szybko się rozwija, przy ciągłym przenoszeniu i rosnącej liczbie zgłoszonych przypadków. Na dzień 1 lipca w Demokratycznej Republice Konga zgłoszono łącznie 1460 potwierdzonych przypadków, w tym 452 zgony. Na dzień 2 lipca Uganda zgłosiła 20 potwierdzonych przypadków, w tym dwa zgony, a także jeden prawdopodobny przypadek, który zmarł."
     },
     {
       "title": "Liczba przypadków wirusa Ebola w Demokratycznej Republice Konga wzrosła do 1406; Liczba zgonów sięga 438 – Epidemionnewstoday.com",
@@ -2196,6 +2188,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
+    },
+    {
+      "title": "Uganda ma pierwszy przypadek Marburga. Po sąsiedzku trwa epidemia eboli - Medonet",
+      "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-zakazne/uganda-potwierdza-pierwszy-przypadek-wirusa-marburg-eksperci-alarmuja/llybd9d",
+      "date": "2026-07-03T16:42:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Uganda potwierdza pierwszy przypadek zakaÅ¼enia wirusem Marburg. W sÄ siedniej Demokratycznej Republice Konga trwa juÅ¼ epidemia eboli. Eksperci alarmujÄ : sytuacja epidemiologiczna w regionie staje siÄ coraz bardziej napiÄta."
     }
   ],
   "daily_top5": [
