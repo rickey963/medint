@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T18:20:57Z",
+  "last_updated": "2026-07-04T18:21:41Z",
   "poland": [
     {
       "title": "Poszedł na operację, wrócił z nowotworem. \"Gdyby nie wyrostek, nie wiedziałbym do dziś\" - Medonet",
@@ -962,7 +962,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-07-02T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
@@ -1110,20 +1110,20 @@
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
     },
     {
+      "title": "Zapalenie mięśnia sercowego i zapalenie osierdzia - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-resources/myocarditis--pericarditis/",
+      "date": "2026-06-26T11:21:05Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Ten łatwy do zrozumienia dokument opisuje przyczyny, objawy, diagnostykę, leczenie oraz sposoby radzenia sobie i powrotu do zdrowia po zapaleniu mięśnia sercowego i osierdzia."
+    },
+    {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
       "url": "https://dziennikustaw.gov.pl/DU/2026/869",
       "date": "2026-06-26T07:00:00Z",
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
-    },
-    {
-      "title": "Wytyczne dla przewodniczących i dyskutantów – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/events/congresses/eapci-congress/scientific-programme/faculty-presenters/chairpersons-and-discussants-guidelines/",
-      "date": "2026-06-25T15:34:03Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Przewodniczący zapewnią płynny przebieg sesji, zarządzanie czasem, a także będą zachęcać do dyskusji i interakcji między wykładowcami a publicznością, zapewniając wystarczającą ilość czasu na pytania od publiczności."
     }
   ],
   "epidemiology": [
@@ -1136,7 +1136,7 @@
       "summary": "Wirus Nipah."
     },
     {
-      "title": "Biblioteka obrazów zdrowia publicznego (PHIL) — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Biblioteka obrazów zdrowia publicznego (PHIL) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwn.cdc.gov/phil/Details.aspx?pid=18808",
       "date": "2026-07-04T00:37:49Z",
       "source": "CDC Outbreaks",
@@ -1512,20 +1512,20 @@
       "summary": "Program Narodów Zjednoczonych ds. Rozwoju (UNDP) stwierdził dzisiaj w swoim raporcie, że epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) i Ugandzie może mieć długotrwałe szkodliwe skutki dla gospodarki Afryki, przy czym DRK prawdopodobnie ucierpi najbardziej."
     },
     {
-      "title": "Podwójny nagłówek dotyczący szczepionek: Grypa tego samego dnia, szczepionki na Covid-19 okazały się bezpieczne – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/influenza-vaccines/vaccine-double-header-same-day-flu-covid-shots-shown-be-safe",
-      "date": "2026-06-30T19:16:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "W analizie uwzględniono dokumentację medyczną 2,5 miliona pacjentów w całym systemie opieki zdrowotnej VA."
-    },
-    {
       "title": "ONZ ostrzega, że ​​epidemia wirusa Ebola może kosztować Afrykę nawet 3,6 miliarda dolarów – Epidemionnewstoday.com",
       "url": "https://outbreaknewstoday.com/ebola-outbreak-could-cost-africa-3-6bn-un-warns-683/",
       "date": "2026-06-30T18:16:08Z",
       "source": "Outbreak News Today",
       "confirmed_by": 1,
       "summary": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie może kosztować Afrykę aż 3,6 miliarda dolarów i w przypadku rozprzestrzenienia się doprowadzić do utraty 328 000 miejsc pracy."
+    },
+    {
+      "title": "Francja zgłasza pierwszy przypadek wirusa Ebola u lekarza powracającego z misji w DRK – Epidemionnewstoday.com",
+      "url": "https://outbreaknewstoday.com/france-reports-first-ebola-case-in-doctor-returning-from-drc-mission-660/",
+      "date": "2026-06-24T07:00:00Z",
+      "source": "Outbreak News Today",
+      "confirmed_by": 1,
+      "summary": "Francuskie władze ds. zdrowia potwierdziły 24 czerwca pierwszy przypadek choroby wywołanej wirusem Ebola w kraju."
     }
   ],
   "clinical_trials": [
