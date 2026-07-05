@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T20:35:41Z",
+  "last_updated": "2026-07-05T20:36:21Z",
   "poland": [
     {
       "title": "Zmiany na języku mogą oznaczać chorobę. Zwróć uwagę na te sygnały - Medonet",
@@ -222,7 +222,7 @@
       "url": "https://diety.nfz.gov.pl/quizy/weglowodany-tylko-zrodlo-energii?highlight=WyJwb3J0YWwiLCJwb3J0YWx1IiwidG8iLCJ0b2xlcmFuY2phIiwidG9sZXJvd2FuZSIsInRvcGluYW1idXIiLCJ0b3JiaWUiLCJ0b3dhcnp5c3R3YSIsInRvd2Fyenlzelx1MDEwNWNlIiwidG93YXJ6eXN6XHUwMTA1Y3ljaCJd",
       "date": "2026-07-05T03:53:00Z",
       "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -1709,6 +1709,14 @@
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm?start_search=391&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondatedesc",
+      "date": "2026-07-04T07:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=401&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicenamedesc",
       "date": "2026-07-04T07:00:00Z",
       "source": "FDA Drug News",
@@ -1734,14 +1742,6 @@
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=301&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicename",
-      "date": "2026-07-04T07:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm?start_search=391&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondatedesc",
       "date": "2026-07-04T07:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
