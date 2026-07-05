@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T23:28:43Z",
+  "last_updated": "2026-07-05T23:29:18Z",
   "poland": [
     {
       "title": "CMKP uruchomiło nabór na ostatni bezpłatny kurs dla lekarzy POZ z pełnym dofinansowaniem - Alert Medyczny",
@@ -460,6 +460,14 @@
       "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
     },
     {
+      "title": "Resekcja marginesów wygolonych ubytków w chirurgii oszczędzającej piersi – lekarz NEJM",
+      "url": "https://clinician.nejm.org/nejm-jw.NA49566?show-author=true&author-id=AU1256",
+      "date": "2026-07-05T11:50:47Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+    },
+    {
       "title": "Wzmocnienie wsparcia w zakresie zdrowia psychicznego, aby pomóc społecznościom w leczeniu i powrocie do zdrowia – emro.who.int",
       "url": "https://www.emro.who.int/syria/news/strengthening-mental-health-support-to-help-communities-heal-and-recover.html",
       "date": "2026-07-05T11:12:55Z",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Broszura informacyjna WHO na temat raka szyjki macicy, zawierająca najważniejsze fakty, przyczyny, zapobieganie i reakcję WHO."
-    },
-    {
-      "title": "Trendy nowotworowe u osób zakażonych wirusem HIV w dobie skutecznej terapii antyretrowirusowej - Lekarz NEJM",
-      "url": "https://clinician.nejm.org/nejm-jw.NA34142?show-author=true&author-id=AU985",
-      "date": "2026-07-04T07:31:52Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     }
   ],
   "guidelines": [
@@ -1885,7 +1885,7 @@
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=321&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicename",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=461&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicantdesc",
       "date": "2026-07-04T07:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
@@ -1894,6 +1894,14 @@
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=461&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=dknumberdesc",
+      "date": "2026-07-04T07:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=321&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicename",
       "date": "2026-07-04T07:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
@@ -1926,14 +1934,6 @@
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=151&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=dknumberdesc",
-      "date": "2026-07-04T07:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=461&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicantdesc",
       "date": "2026-07-04T07:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
