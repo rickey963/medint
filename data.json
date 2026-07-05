@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T19:05:30Z",
+  "last_updated": "2026-07-05T19:06:06Z",
   "poland": [
     {
       "title": "Drapiesz bąbel po komarze i jest gorzej. To wyjaśnia, skąd bierze się świąd - Medonet",
@@ -151,7 +151,7 @@
       "date": "2026-07-05T08:51:18Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe badanie wykazało, że długie, nieprzerwane siedzenie zwiększa ryzyko raka. Nawet lekka aktywność może przynieść wymierne korzyści."
+      "summary": "Długie siedzenie zwiększa ryzyko raka. Każda dodatkowa godzina ma znaczenie Alert Medyczny."
     },
     {
       "title": "Trauma Days na Uniwersytecie Medycznym w Lublinie. Lekarze rezydenci uczą się od najlepszych specjalistów - PolitykaZdrowotna.com",
@@ -183,7 +183,7 @@
       "date": "2026-07-05T06:38:17Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "PZU Zdrowie przejęło Centrum Medyczne Babka Medica. Transakcja wzmacnia sieć placówek i ofertę specjalistycznej opieki w Warszawie."
+      "summary": "PZU Zdrowie przejmuje Babka Medica. Sieć wzmacnia pozycję na rynku w Warszawie Alert Medyczny."
     },
     {
       "title": "GLP-1 to już nie tylko odchudzanie. Najnowsze badania pokazują wpływ na serce, wątrobę, nerki i płodność - PolitykaZdrowotna.com",
@@ -214,7 +214,7 @@
       "url": "https://diety.nfz.gov.pl/quizy/weglowodany-tylko-zrodlo-energii?highlight=WyJwb3J0YWwiLCJwb3J0YWx1IiwidG8iLCJ0b2xlcmFuY2phIiwidG9sZXJvd2FuZSIsInRvcGluYW1idXIiLCJ0b3JiaWUiLCJ0b3dhcnp5c3R3YSIsInRvd2Fyenlzelx1MDEwNWNlIiwidG93YXJ6eXN6XHUwMTA1Y3ljaCJd",
       "date": "2026-07-05T03:53:00Z",
       "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -351,7 +351,7 @@
       "date": "2026-07-04T12:51:54Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rozpoczęły się konsultacje pierwszego w Polsce Poradnika Nabywcy AI dla ochrony zdrowia. Dokument ma ułatwić bezpieczny zakup i wdrażanie AI."
+      "summary": "Ruszają konsultacje pierwszego w Polsce Poradnika Nabywcy AI dla ochrony zdrowia Alert Medyczny."
     },
     {
       "title": "Lekarze i pielęgniarki należą do najstarszych grup zawodowych - Alert Medyczny",
@@ -383,7 +383,7 @@
       "date": "2026-07-04T11:58:21Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dwie sejmowe komisje poparły plan finansowy NFZ na 2027 r. Budżet ma wynieść 237,34 mld zł. Dyskusję zdominowało finansowanie AOS."
+      "summary": "Dwie komisje poparły plan finansowy NFZ na 2027 r. Rekordowy budżet i spór o AOS Alert Medyczny."
     },
     {
       "title": "MZ zmienia rehabilitację leczniczą. Nowe zasady kwalifikacji i organizacji świadczeń - Alert Medyczny",
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/research-summaries",
+      "date": "2026-07-05T17:28:05Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
+    },
     {
       "title": "Niefarmakologiczne alternatywy dla opioidów w łagodzeniu bólu – klinicysta NEJM",
       "url": "https://clinician.nejm.org/nejm-jw.NA47788",
@@ -538,14 +546,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Praca pielęgniarka na oddziale ratunkowym w Oldham. 1 oferta pracy w BMJ Health Careers do przeglądania i aplikowania w BMJ Health Careers."
-    },
-    {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-07-05T02:00:17Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
     },
     {
       "title": "Obowiązkowy nadzór na szczeblu stanowym nad technologiami wspomaganego rozrodu — pojawiające się zagrożenie w Stanach Zjednoczonych — The New England Journal of Medicine",
@@ -859,7 +859,7 @@
       "date": "2026-07-03T14:20:20Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 47/2026 z dnia 2 lipca 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028”."
+      "summary": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Stan prac - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -867,7 +867,7 @@
       "date": "2026-07-03T14:20:19Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "W lipcu AOTMiT rozpoczyna prace nad zleceniami Ministra Zdrowia:."
+      "summary": "Stan prac Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Okrągły Stół Pacjenta ESC – Europejskie Towarzystwo Kardiologiczne",
@@ -899,7 +899,7 @@
       "date": "2026-07-03T12:58:05Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
+      "summary": "Rekomendacja Prezesa – Keytruda (pembrolizumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Larotrektynib w leczeniu zaawansowanych guzów litych z dodatnią fuzją NTRK (przegląd MA TA630) [ID6292] – strona internetowa NICE",
@@ -1052,14 +1052,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
-    },
-    {
-      "title": "Eksperci wzywają ośrodki kardiologiczne dla kobiet do zajęcia się nierównościami w diagnostyce i opiece – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/press/press-releases/experts-call-for-womens-heart-centres-to-tackle-inequality-in-diagnosis--care/",
-      "date": "2026-06-27T12:42:50Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "• Choroby układu krążenia są główną przyczyną zgonów kobiet."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
@@ -1569,7 +1561,7 @@
       "date": "2026-07-05T10:00:01Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Merck porzuca MSN będący kandydatem na chorobę Alzheimera fazy 2."
+      "summary": "Merck porzuca MSN będący kandydatem na chorobę Alzheimera w fazie 2."
     },
     {
       "title": "Interakcje pomiędzy Furosemidem i Minipressem – Drugs.com",
@@ -1612,7 +1604,7 @@
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
-      "title": "Interakcje między klobazamem i glofitamabem – Drugs.com",
+      "title": "Interakcje pomiędzy klobazamem i glofitamabem – Drugs.com",
       "url": "https://www.drugs.com/drug-interactions/clobazam-with-glofitamab-3350-0-4501-0.html?professional=1",
       "date": "2026-07-05T04:58:07Z",
       "source": "Drugs.com",
@@ -2024,12 +2016,12 @@
   ],
   "daily_top5": [
     {
-      "title": "Niefarmakologiczne alternatywy dla opioidów w łagodzeniu bólu – klinicysta NEJM",
-      "url": "https://clinician.nejm.org/nejm-jw.NA47788",
-      "date": "2026-07-05T16:27:32Z",
+      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/research-summaries",
+      "date": "2026-07-05T17:28:05Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
     },
     {
       "title": "Siódme spotkanie Międzyrządowej Grupy Roboczej (IGWG) w sprawie Porozumienia WHO w sprawie pandemii – Światowa Organizacja Zdrowia (WHO)",
