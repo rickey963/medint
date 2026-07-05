@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T21:32:54Z",
+  "last_updated": "2026-07-05T21:33:31Z",
   "poland": [
     {
       "title": "Wzrost bogactwa lekarzy - Termedia",
@@ -175,7 +175,7 @@
       "date": "2026-07-05T08:51:18Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe badanie wykazało, że długie, nieprzerwane siedzenie zwiększa ryzyko raka. Nawet lekka aktywność może przynieść wymierne korzyści."
+      "summary": "Długie siedzenie zwiększa ryzyko raka. Każda dodatkowa godzina ma znaczenie Alert Medyczny."
     },
     {
       "title": "Trauma Days na Uniwersytecie Medycznym w Lublinie. Lekarze rezydenci uczą się od najlepszych specjalistów - PolitykaZdrowotna.com",
@@ -207,7 +207,7 @@
       "date": "2026-07-05T06:38:17Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "PZU Zdrowie przejęło Centrum Medyczne Babka Medica. Transakcja wzmacnia sieć placówek i ofertę specjalistycznej opieki w Warszawie."
+      "summary": "PZU Zdrowie przejmuje Babka Medica. Sieć wzmacnia pozycję na rynku w Warszawie Alert Medyczny."
     },
     {
       "title": "GLP-1 to już nie tylko odchudzanie. Najnowsze badania pokazują wpływ na serce, wątrobę, nerki i płodność - PolitykaZdrowotna.com",
@@ -391,7 +391,7 @@
       "date": "2026-07-04T12:51:54Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rozpoczęły się konsultacje pierwszego w Polsce Poradnika Nabywcy AI dla ochrony zdrowia. Dokument ma ułatwić bezpieczny zakup i wdrażanie AI."
+      "summary": "Ruszają konsultacje pierwszego w Polsce Poradnika Nabywcy AI dla ochrony zdrowia Alert Medyczny."
     },
     {
       "title": "Lekarze i pielęgniarki należą do najstarszych grup zawodowych - Alert Medyczny",
@@ -859,7 +859,7 @@
       "date": "2026-07-03T14:20:20Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 47/2026 z dnia 2 lipca 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028”."
+      "summary": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Stan prac - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -867,7 +867,7 @@
       "date": "2026-07-03T14:20:19Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "W lipcu AOTMiT rozpoczyna prace nad zleceniami Ministra Zdrowia:."
+      "summary": "Stan prac Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Okrągły Stół Pacjenta ESC – Europejskie Towarzystwo Kardiologiczne",
@@ -899,7 +899,7 @@
       "date": "2026-07-03T12:58:05Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
+      "summary": "Rekomendacja Prezesa – Keytruda (pembrolizumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Larotrektynib w leczeniu zaawansowanych guzów litych z dodatnią fuzją NTRK (przegląd MA TA630) [ID6292] – strona internetowa NICE",
@@ -950,12 +950,12 @@
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
-      "title": "Wytyczne dotyczące zdrowia publicznego dotyczące planowania reakcji VHF | Wirusowa gorączka krwotoczna (VHF) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/viral-hemorrhagic-fevers/php/public-health-strategy/vhf-response-planning.html",
+      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-07-02T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Zalecenia CDC dla wydziałów zdrowia publicznego dotyczące przygotowania i reagowania na krajowe przypadki VHF."
+      "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
     },
     {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
@@ -1765,6 +1765,14 @@
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=251&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondate",
+      "date": "2026-07-04T07:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=461&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=dknumberdesc",
       "date": "2026-07-04T07:00:00Z",
       "source": "FDA Drug News",
@@ -1774,14 +1782,6 @@
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=151&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=dknumberdesc",
-      "date": "2026-07-04T07:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=251&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F04%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondate",
       "date": "2026-07-04T07:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
