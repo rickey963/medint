@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T04:51:08Z",
+  "last_updated": "2026-07-05T04:51:47Z",
   "poland": [
     {
       "title": "Wszystko na temat: NIL - Podyplomie",
@@ -417,7 +417,7 @@
       "date": "2026-07-04T21:20:33Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Cele Opisanie (1) odsetka zgonów dzieci niedawno hospitalizowanych oraz (2) przyczyn zgonów wśród zmarłych dzieci w wieku 0–59 miesięcy, które wcześniej były hospitalizowane, i które włączono do programu monitorowania śmiertelności. Projekt Badanie opisowe wykorzystujące dane zebrane prospektywnie. Utworzenie ośmiu społeczności i placówek opieki zdrowotnej zajmujących się zapobieganiem zdrowiu i śmiertelności dzieci (CHAMPS) w Afryce Subsaharyjskiej i Azji Południowej."
+      "summary": "Cele Opisanie (1) odsetka zgonów dzieci niedawno hospitalizowanych oraz (2) przyczyn śmiertelności wśród zmarłych dzieci w wieku 0–59 miesięcy, które wcześniej były hospitalizowane i które włączono do programu obserwacji śmiertelności. Projekt Badanie opisowe wykorzystujące dane zebrane prospektywnie. Utworzenie ośmiu społeczności i placówek opieki zdrowotnej zajmujących się zapobieganiem zdrowiu i śmiertelności dzieci (CHAMPS) w Afryce Subsaharyjskiej i Azji Południowej."
     },
     {
       "title": "Praca pielęgniarki w Alcester - BMJ",
@@ -1014,14 +1014,6 @@
       "summary": "Jak wynika z nowego badania opublikowanego w czasopiśmie Journal of the American Heart Association, korzyści ze stosowania leków GLP-1 były największe w przypadku osób z ciężką chorobą tętnic obwodowych (PAD) i osób z otyłością."
     },
     {
-      "title": "Zespół policystycznych jajników: metody - serwis NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ng10436/documents/supporting-documentation-11",
-      "date": "2026-07-01T08:41:17Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Zespół policystycznych jajników: metody Strona internetowa NICE."
-    },
-    {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-01T07:00:00Z",
@@ -1036,6 +1028,22 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Szkolenie OK COBIK NIL - Lekarzu, zadbaj o siebie. Jak wdrożyć self-care w przeładowany grafik? NIL."
+    },
+    {
+      "title": "Szkolenie OK COBIK NIL - SZKOLENIE Z POLSKIMI NAPISAMI: Laser Dentistry in General Practice (Stomatologia laserowa w praktyce og - NIL",
+      "url": "https://nil.org.pl/eventToPdf/1544",
+      "date": "2026-07-01T00:52:06Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Szkolenie OK COBIK NIL - SZKOLENIE Z POLSKIMI NAPISAMI: Laser Dentistry in General Practice (Stomatologia laserowa w praktyce og NIL."
+    },
+    {
+      "title": "Szkolenie OK COBIK NIL - Błąd medyczny w zespole – kto odpowiada, gdy zawinił system lub inna osoba? - NIL",
+      "url": "https://nil.org.pl/eventToPdf/1498",
+      "date": "2026-07-01T00:06:22Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Szkolenie OK COBIK NIL - Błąd medyczny w zespole – kto odpowiada, gdy zawinił system lub inna osoba? NIL."
     },
     {
       "title": "Niewydolność serca zyskuje nową definicję. Eksperci twierdzą, że zmieni ona opiekę – Healthline",
@@ -1116,6 +1124,22 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Przewodniczący zapewnią płynny przebieg sesji, zarządzanie czasem, a także będą zachęcać do dyskusji i interakcji między wykładowcami a publicznością, zapewniając wystarczającą ilość czasu na pytania od publiczności."
+    },
+    {
+      "title": "Brak różnicy w DFS pomiędzy chemioterapią postadjuwantową a placebo u pacjentów z grupy wysokiego ryzyka zidentyfikowanych na podstawie oceny MRD na podstawie ctDNA po resekcji CRC - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/no-difference-in-dfs-between-post-adjuvant-chemotherapy-and-placebo-in-high-risk-patients-identified-through-ctdna-based-mrd-assessment-after-crc-resection",
+      "date": "2026-06-22T07:00:00Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Brak różnicy w DFS pomiędzy chemioterapią postadjuwantową a placebo u pacjentów z grupy wysokiego ryzyka zidentyfikowanych na podstawie oceny MRD na podstawie ctDNA po resekcji CRC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-therapeutic-indications-for-enfortumab-vedotin",
+      "date": "2026-06-20T00:33:39Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "EMA zaleca rozszerzenie wskazań do stosowania leku Enfortumab Vedotin Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     }
   ],
   "epidemiology": [
@@ -1748,7 +1772,7 @@
       "summary": "Żadne odpowiedzi nie zostały jeszcze opublikowane. Dodaj swoją odpowiedź na to pytanie."
     },
     {
-      "title": "Interakcje między eslikarbazepiną i lamotryginą – Drugs.com",
+      "title": "Interakcje między eslikarbazepiną i lamotryginą - Drugs.com",
       "url": "https://www.drugs.com/drug-interactions/eslicarbazepine-with-lamotrigine-3499-0-1430-0.html?professional=1",
       "date": "2026-07-04T19:23:22Z",
       "source": "Drugs.com",
