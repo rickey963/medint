@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T20:12:44Z",
+  "last_updated": "2026-07-05T20:13:25Z",
   "poland": [
     {
       "title": "Zmiany na języku mogą oznaczać chorobę. Zwróć uwagę na te sygnały - Medonet",
@@ -159,7 +159,7 @@
       "date": "2026-07-05T08:51:18Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nowe badanie wykazało, że długie, nieprzerwane siedzenie zwiększa ryzyko raka. Nawet lekka aktywność może przynieść wymierne korzyści."
+      "summary": "Długie siedzenie zwiększa ryzyko raka. Każda dodatkowa godzina ma znaczenie Alert Medyczny."
     },
     {
       "title": "Trauma Days na Uniwersytecie Medycznym w Lublinie. Lekarze rezydenci uczą się od najlepszych specjalistów - PolitykaZdrowotna.com",
@@ -191,7 +191,7 @@
       "date": "2026-07-05T06:38:17Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "PZU Zdrowie przejęło Centrum Medyczne Babka Medica. Transakcja wzmacnia sieć placówek i ofertę specjalistycznej opieki w Warszawie."
+      "summary": "PZU Zdrowie przejmuje Babka Medica. Sieć wzmacnia pozycję na rynku w Warszawie Alert Medyczny."
     },
     {
       "title": "GLP-1 to już nie tylko odchudzanie. Najnowsze badania pokazują wpływ na serce, wątrobę, nerki i płodność - PolitykaZdrowotna.com",
@@ -359,7 +359,7 @@
       "date": "2026-07-04T12:51:54Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rozpoczęły się konsultacje pierwszego w Polsce Poradnika Nabywcy AI dla ochrony zdrowia. Dokument ma ułatwić bezpieczny zakup i wdrażanie AI."
+      "summary": "Ruszają konsultacje pierwszego w Polsce Poradnika Nabywcy AI dla ochrony zdrowia Alert Medyczny."
     },
     {
       "title": "Lekarze i pielęgniarki należą do najstarszych grup zawodowych - Alert Medyczny",
@@ -391,7 +391,7 @@
       "date": "2026-07-04T11:58:21Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Dwie sejmowe komisje poparły plan finansowy NFZ na 2027 r. Budżet ma wynieść 237,34 mld zł. Dyskusję zdominowało finansowanie AOS."
+      "summary": "Dwie komisje poparły plan finansowy NFZ na 2027 r. Rekordowy budżet i spór o AOS Alert Medyczny."
     },
     {
       "title": "MZ zmienia rehabilitację leczniczą. Nowe zasady kwalifikacji i organizacji świadczeń - Alert Medyczny",
@@ -859,7 +859,7 @@
       "date": "2026-07-03T14:20:20Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 47/2026 z dnia 2 lipca 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028”."
+      "summary": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Stan prac - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -867,7 +867,7 @@
       "date": "2026-07-03T14:20:19Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "W lipcu AOTMiT rozpoczyna prace nad zleceniami Ministra Zdrowia:."
+      "summary": "Stan prac Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Okrągły Stół Pacjenta ESC – Europejskie Towarzystwo Kardiologiczne",
@@ -899,7 +899,7 @@
       "date": "2026-07-03T12:58:05Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
+      "summary": "Rekomendacja Prezesa – Keytruda (pembrolizumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Larotrektynib w leczeniu zaawansowanych guzów litych z dodatnią fuzją NTRK (przegląd MA TA630) [ID6292] – strona internetowa NICE",
@@ -956,6 +956,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Znajdź najnowszą liczbę potwierdzonych przypadków odry w USA. CDC aktualizuje tę stronę co tydzień."
+    },
+    {
+      "title": "Tom 16 - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/councils/genomics/scientific-documents-and-publications/cardiogenomics-insights/volume-16/",
+      "date": "2026-07-02T05:27:14Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Tom 16 Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
@@ -1060,14 +1068,6 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
-    },
-    {
-      "title": "Wytyczne przewodniczących i dyskutantów – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/events/congresses/eapci-congress/scientific-programme/faculty-presenters/chairpersons-and-discussants-guidelines/",
-      "date": "2026-06-25T15:34:03Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Przewodniczący zapewnią płynny przebieg sesji, zarządzanie czasem, a także będą zachęcać do dyskusji i interakcji między wykładowcami a publicznością, zapewniając wystarczającą ilość czasu na pytania od publiczności."
     },
     {
       "title": "Nowe wytyczne aktualizują opiekę nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
