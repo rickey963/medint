@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T07:47:07Z",
+  "last_updated": "2026-07-05T07:47:44Z",
   "poland": [
     {
       "title": "Rezydent, stażysta i specjalista: czym się różnią? - PolitykaZdrowotna.com",
@@ -814,7 +814,7 @@
       "summary": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) Europejskie Towarzystwo Kardiologiczne."
     },
     {
-      "title": "Ritlecitynib w leczeniu niesegmentowego bielactwa nabytego u osób w wieku 12 lat i starszych [ID6584] - witryna NICE",
+      "title": "Ritlecitynib w leczeniu niesegmentowego bielactwa nabytego u osób w wieku 12 lat i starszych [ID6584] - witryna internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/gid-ta11744/documents/html-content",
       "date": "2026-07-04T06:22:22Z",
       "source": "NICE",
@@ -986,8 +986,16 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-07-02T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
+    },
+    {
+      "title": "Tom 16 - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/councils/genomics/scientific-documents-and-publications/cardiogenomics-insights/volume-16/",
+      "date": "2026-07-02T05:27:14Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Tom 16 Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Planned Parenthood Great Rivers – Krajowa sieć informacji o profilaktyce (.gov)",
@@ -1014,14 +1022,6 @@
       "summary": "Jak wynika z nowego badania opublikowanego w czasopiśmie Journal of the American Heart Association, korzyści ze stosowania leków GLP-1 były największe w przypadku osób z ciężką chorobą tętnic obwodowych (PAD) i osób z otyłością."
     },
     {
-      "title": "Zespół policystycznych jajników: metody - serwis NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ng10436/documents/supporting-documentation-11",
-      "date": "2026-07-01T08:41:17Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Zespół policystycznych jajników: metody Strona internetowa NICE."
-    },
-    {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-01T07:00:00Z",
@@ -1044,6 +1044,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Szkolenie OK COBIK NIL - SZKOLENIE Z POLSKIMI NAPISAMI: Laser Dentistry in General Practice (Stomatologia laserowa w praktyce og NIL."
+    },
+    {
+      "title": "Szkolenie OK COBIK NIL - Błąd medyczny w zespole – kto odpowiada, gdy zawinił system lub inna osoba? - NIL",
+      "url": "https://nil.org.pl/eventToPdf/1498",
+      "date": "2026-07-01T00:06:22Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Szkolenie OK COBIK NIL - Błąd medyczny w zespole – kto odpowiada, gdy zawinił system lub inna osoba? NIL."
     },
     {
       "title": "Niewydolność serca zyskuje nową definicję. Eksperci twierdzą, że zmieni ona opiekę – Healthline",
