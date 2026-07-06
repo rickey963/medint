@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-07-06T19:45:41Z",
+  "last_updated": "2026-07-06T19:46:36Z",
   "poland": [
-    {
-      "title": "Krótsze, gorsze życie. Dotyka to coraz większej liczby Polaków - Termedia",
-      "url": "https://www.termedia.pl/mz/Krotsze-gorsze-zycie-Dotyka-to-coraz-wiekszej-liczby-Polakow,68058.html",
-      "date": "2026-07-06T18:47:00Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "Krótsze, gorsze życie. Dotyka to coraz większej liczby Polaków Termedia."
-    },
     {
       "title": "Krótsze, gorsze życie. Dotyka coraz większej liczby Polaków - Termedia",
       "url": "https://www.termedia.pl/mz/Krotsze-gorsze-zycie-Dotyka-coraz-wiekszej-liczby-Polakow,68058.html",
@@ -16,6 +8,14 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Odsetek dorosłych dotkniętych nadmierną masą ciała wyniósł w Polsce w 2025 roku 58,8 proc., przy średniej dla Unii Europejskiej na poziomie 51,7 proc. – wynika z danych Eurostatu."
+    },
+    {
+      "title": "Krótsze, gorsze życie. Dotyka to coraz większej liczby Polaków - Termedia",
+      "url": "https://www.termedia.pl/mz/Krotsze-gorsze-zycie-Dotyka-to-coraz-wiekszej-liczby-Polakow,68058.html",
+      "date": "2026-07-06T18:47:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Krótsze, gorsze życie. Dotyka to coraz większej liczby Polaków Termedia."
     },
     {
       "title": "Gluten odkryty w popularnym bigosie z kiełbasą. Ostrzeżenie dla alergików - Medonet",
@@ -310,7 +310,7 @@
       "url": "https://zdrowie.pap.pl/profilaktyka/nie-czekaj-na-zlamanie-skorzystaj-z-bezplatnych-badan-kosci",
       "date": "2026-07-06T13:04:35Z",
       "source": "Serwis Zdrowie (PAP)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Tkanka kostna to dynamiczny układ, który ulega ciągłym procesom przebudowy, jednak z wiekiem traci swoją gęstość mineralną, co zwiększa ryzyko złamań [1]. Dlatego tak ważna jest profilaktyka i regularna kontrola, szczególnie u kobiet po menopauzie oraz u mężczyzn po 70. roku życia [2]."
     },
     {
@@ -512,7 +512,7 @@
       "url": "https://www.nature.com/articles/s41380-026-03727-9",
       "date": "2026-07-06T14:38:08Z",
       "source": "Cochrane Library",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Sugeruje się, że L-teanina, aminokwas pochodzący z zielonej herbaty, łagodzi objawy afektywne i poprawia funkcje poznawcze, ale jej znaczenie kliniczne pozostaje niepewne. Przeprowadziliśmy przegląd systematyczny i metaanalizę 31 randomizowanych, kontrolowanych badań (n = 1168) porównujących doustną L-teaninę z placebo w populacjach zdrowych i klinicznych. Pierwszorzędowym rezultatem był ostry wpływ pojedynczej dawki na stres u zdrowych dorosłych."
     },
     {
@@ -1246,14 +1246,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Tygodniowy zapis epidemiologiczny Światowa Organizacja Zdrowia (WHO)."
-    },
-    {
-      "title": "Dyrektor Generalny WHO spotyka się z liderami społeczności HIV, aby potwierdzić zaangażowanie w przywództwo społeczne i znaczące zaangażowanie – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news/item/03-07-2026-who-director-general-meets-hiv-community-leaders-to-reaffirm-commitment-to-community-leadership-and-meaningful-engagement",
-      "date": "2026-07-03T19:46:02Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Dyrektor generalny WHO, dr Tedros Adhanom Ghebreyesus, spotkał się z liderami społeczności HIV, którzy byli w Genewie na posiedzeniu Rady Koordynacyjnej Programu UNAIDS (PCB), potwierdzając zaangażowanie WHO w przywództwo społeczne i partnerstwo w globalnej reakcji na HIV. Otwierając spotkanie, dr Tedros podkreślił, że WHO chce najpierw wysłuchać, uznając, że społeczności stojące na czele reakcji na HIV wnoszą bezcenną wiedzę, doświadczenie i przywództwo. Liderzy społeczności z zadowoleniem przyjęli możliwość bezpośredniego dialogu i podkreślili, że reformy globalnej reakcji na HIV muszą wzmocnić centralną rolę społeczności. Wezwali do bliższej współpracy na rzecz współtworzenia ze społecznościami istotnie zaangażowanymi w zarządzanie, opracowywanie polityki, wdrażanie i rozliczalność. Uczestnicy podkreślili również znaczenie ochrony praw człowieka, przeciwdziałania napiętnowaniu, dyskryminacji i kryminalizacji oraz wzmacniania współpracy w zakresie monitorowania kierowanego przez społeczność, aby poprawić rozliczalność i lepiej odzwierciedlać przeżyte doświadczenia."
     },
     {
       "title": "WHO ogłasza koniec epidemii hantawirusa, dziękuje Hiszpanii za „niesamowitą solidarność” – Epidemionnewstoday.com",
