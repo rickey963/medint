@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-06T14:50:50Z",
+  "last_updated": "2026-07-06T14:51:31Z",
   "poland": [
+    {
+      "title": "WHO udostępniła pierwszą globalną bazę danych o chorobach przenoszonych drogą płciową - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/who-udostepnila-pierwsza-globalna-baze-danych-o-chorobach-przenoszonych-droga-plciowa/",
+      "date": "2026-07-06T14:49:00Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "WHO uruchomiła pierwszą globalną bazę danych o częstości występowania chorób przenoszonych drogą płciową, opartą na danych z 766 badań."
+    },
     {
       "title": "Apteki całodobowe znikają z Warszawy. Ryszard Kalisz: \"Zamykanie apteki jest karą. I to karą dla wszystkich\" - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/apteki-calodobowe-znikaja-n2401101",
@@ -392,14 +400,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Sprawozdanie NFZ za 2025 rok. Wydatki przekroczyły 217 mld zł, składka zdrowotna poniżej planu PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Jankowski: wszystkie karty w ręku ma premier - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Jankowski-wszystkie-karty-w-reku-ma-premier,286326,14.html",
-      "date": "2026-07-06T08:30:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Szpitale powinny zostać odpolitycznione, ale Ministerstwo Zdrowia potrzebuje silnego polityka, który będzie w stanie przeprowadzić niezbędne reformy - uważa prezes Naczelnej Izby Lekarskiej Łukasz Jankowski. W \"Porannej Rozmowie\" mówił o zmianach, których dziś najbardziej potrzebuje system ochrony zdrowia."
     }
   ],
   "world": [
@@ -409,7 +409,7 @@
       "date": "2026-07-06T14:30:18Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Skuteczna reakcja zależy od współpracy ze społecznościami i pracownikami pierwszej linii, pisze Zaeem ul Haq. Obecna epidemia Bundibugyo Ebola w Demokratycznej Republice Konga (DRK) i Ugandzie obnaża niebezpieczne luki w globalnym bezpieczeństwie zdrowotnym. Eksperci ostrzegają, że w obliczu cięć pomocy i trwającego konfliktu w regionie epidemia może stać się jedną z najbardziej śmiercionośnych epidemii wirusa Ebola w dotychczasowej historii1. W przypadku braku zatwierdzonej szczepionki głównymi narzędziami kontroli są zaufanie, współpraca społeczna i systemowa empatia. Empatia systemowa opisuje, w jaki sposób systemy opieki zdrowotnej troszczą się o ludzi, w tym o własny personel."
+      "summary": "Skuteczna reakcja zależy od współpracy ze społecznościami i pracownikami pierwszej linii, pisze Zaeem ul Haq. Obecna epidemia Bundibugyo Ebola w Demokratycznej Republice Konga (DRK) i Ugandzie obnaża niebezpieczne luki w globalnym bezpieczeństwie zdrowotnym. Eksperci ostrzegają, że w obliczu cięć pomocy i trwającego konfliktu w regionie epidemia może stać się jedną z najbardziej śmiercionośnych epidemii wirusa Ebola w dotychczasowej historii1. W przypadku braku zatwierdzonej szczepionki głównymi narzędziami kontroli są zaufanie, współpraca społeczna i systemowa empatia. Empatia systemowa opisuje, w jaki sposób systemy opieki zdrowotnej dbają o ludzi, w tym o własny personel."
     },
     {
       "title": "Kanibalizm: naukowcy twierdzą, że szkodzi zdrowiu - BMJ",
@@ -433,7 +433,7 @@
       "date": "2026-07-06T14:07:32Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Doktor Raghda Rashad twierdzi, że badania przesiewowe w kierunku historii zawodowej mogłyby zatrzymać więcej kobiet na rynku pracy, jednak większość lekarzy nigdy o to nie pyta."
+      "summary": "Doktor Raghda Rashad twierdzi, że badania przesiewowe pod kątem historii zawodowej mogłyby zatrzymać więcej kobiet na rynku pracy, jednak większość lekarzy nigdy o to nie pyta."
     },
     {
       "title": "Migrena i udar: jakie jest rzeczywiste ryzyko? - Medyczny",
@@ -729,7 +729,7 @@
       "date": "2026-07-06T08:33:59Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Wzywaj sztuczną inteligencję do szumu biotechnologicznego na własne ryzyko. Istnieją prawdziwe powody, dla których firmy farmaceutyczne wdrażają tę technologię właśnie teraz."
+      "summary": "Wzywaj sztuczną inteligencję do szumu biotechnologicznego na własne ryzyko. Istnieją prawdziwe powody, dla których firmy farmaceutyczne wdrażają tę technologię już teraz."
     },
     {
       "title": "Ustawodawcy Partii Republikańskiej naciskają na FDA Trumpa, aby zapewniła różnorodność badań klinicznych – STAT",
@@ -838,12 +838,12 @@
       "summary": "Globalne badanie wykazało, że 99% zdarzeń sercowych jest powiązanych z czterema zagrożeniami MSN."
     },
     {
-      "title": "Postępowanie z pacjentami z gruczolakorakiem żołądka HER2+: najnowocześniejszy stan wiedzy i przełomy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "Postępowanie z pacjentami z gruczolakorakiem żołądka HER2+: najnowocześniejszy stan i przełomy - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/meeting-calendar/management-of-patients-with-her2-gastroesophageal-adenocarcinoma-state-of-the-art-and-breakthroughs",
       "date": "2026-07-04T13:06:29Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "Postępowanie z pacjentami z gruczolakorakiem żołądka HER2+: najnowocześniejsze i przełomowe rozwiązania Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "Postępowanie z pacjentami z gruczolakorakiem żołądka HER2+: najnowocześniejsze i przełomowe osiągnięcia Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) - Europejskie Towarzystwo Kardiologiczne",
@@ -854,7 +854,7 @@
       "summary": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) Europejskie Towarzystwo Kardiologiczne."
     },
     {
-      "title": "Ritlecitynib w leczeniu niesegmentowego bielactwa nabytego u osób w wieku 12 lat i starszych [ID6584] - witryna NICE",
+      "title": "Ritlecitynib w leczeniu niesegmentowego bielactwa nabytego u osób w wieku 12 lat i starszych [ID6584] - witryna internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/gid-ta11744/documents/html-content",
       "date": "2026-07-04T06:22:22Z",
       "source": "NICE",
@@ -867,7 +867,7 @@
       "date": "2026-07-04T06:13:01Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Notatki | Dokumenty projektowe | Autoleucel afamitresgenu w leczeniu wcześniej leczonego zaawansowanego mięsaka maziowego z dodatnim wynikiem MAGE-A4 lub liposarcomy śluzowatej okrągłokomórkowej [ID4064] | Strona internetowa poradnika NICE."
+      "summary": "Notatki | Dokumenty projektowe | Autoleucel afamitresgenu w leczeniu wcześniej leczonego zaawansowanego mięsaka maziowego z dodatnim wynikiem MAGE-A4 lub liposarcomy śluzowatej okrągłokomórkowej [ID4064] | Poradnik NICE."
     },
     {
       "title": "ATENY CMR POZIOM 1-2 - Europejskie Towarzystwo Kardiologiczne",
@@ -942,7 +942,7 @@
       "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     },
     {
-      "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a2.htm?s_cid=OS_mm7525a2_w",
       "date": "2026-07-02T17:02:26Z",
       "source": "CDC (rekomendacje)",
@@ -987,7 +987,7 @@
       "date": "2026-07-01T16:16:35Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca TRICARE Newsroom (.mil)."
+      "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych w dniu 17 lipca TRICARE Newsroom (.mil)."
     },
     {
       "title": "Czy leki GLP-1 mogą poprawić stan zdrowia osób chorych na cukrzycę typu 2 i PAD? - www.serce.org",
@@ -1078,12 +1078,12 @@
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
     },
     {
-      "title": "Eksperci wzywają ośrodki kardiologiczne dla kobiet do zajęcia się nierównościami w diagnostyce i opiece – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/press/press-releases/experts-call-for-womens-heart-centres-to-tackle-inequality-in-diagnosis--care/",
-      "date": "2026-06-27T12:42:50Z",
+      "title": "Wytyczne przewodniczących i dyskutantów – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/events/congresses/eapci-congress/scientific-programme/faculty-presenters/chairpersons-and-discussants-guidelines/",
+      "date": "2026-06-25T15:34:03Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "• Choroby układu krążenia są główną przyczyną zgonów kobiet."
+      "summary": "Przewodniczący zapewnią płynny przebieg sesji, zarządzanie czasem, a także będą zachęcać do dyskusji i interakcji między wykładowcami a publicznością, zapewniając wystarczającą ilość czasu na pytania od publiczności."
     },
     {
       "title": "Protokół wytycznych praktyki klinicznej dotyczących akupunktury w leczeniu przewlekłego nieswoistego bólu krzyża – Frontiers",
@@ -1200,7 +1200,7 @@
       "summary": "Wirus Nipah."
     },
     {
-      "title": "Biblioteka obrazów zdrowia publicznego (PHIL) — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Biblioteka obrazów zdrowia publicznego (PHIL) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwn.cdc.gov/phil/Details.aspx?pid=18808",
       "date": "2026-07-04T00:37:49Z",
       "source": "CDC Outbreaks",
@@ -1216,7 +1216,7 @@
       "summary": "Tygodniowy zapis epidemiologiczny Światowa Organizacja Zdrowia (WHO)."
     },
     {
-      "title": "Dyrektor Generalny WHO spotyka się z liderami społeczności HIV, aby potwierdzić zaangażowanie w przywództwo społeczne i znaczące zaangażowanie – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Dyrektor Generalny WHO spotyka się z liderami społeczności HIV, aby potwierdzić zaangażowanie w przywództwo społeczności i znaczące zaangażowanie – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/03-07-2026-who-director-general-meets-hiv-community-leaders-to-reaffirm-commitment-to-community-leadership-and-meaningful-engagement",
       "date": "2026-07-03T19:46:02Z",
       "source": "WHO Disease Outbreak News",
@@ -1277,7 +1277,7 @@
       "date": "2026-07-02T20:09:29Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Ponieważ kryzys wywołany wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
+      "summary": "Ponieważ kryzys związany z wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
     },
     {
       "title": "Media społecznościowe odzwierciedlały emocje dorosłych Amerykanów podczas pierwszego wprowadzenia szczepionki na Covid-19 – CIDRAP",
@@ -1293,7 +1293,7 @@
       "date": "2026-07-02T19:52:33Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów związanych z epidemią wirusa Ebola w Demokratycznej Republice Konga (DRK) Światowa Organizacja Zdrowia (WHO) podała dziś, że pierwszy pacjent został poddany badaniu klinicznemu z zastosowaniem dwóch terapii przeciwwirusowych."
+      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów związanych z epidemią wirusa Ebola w Demokratycznej Republice Konga (DRK) Światowa Organizacja Zdrowia (WHO) podała dziś, że pierwszy pacjent został leczony w ramach badania klinicznego dwiema terapiami przeciwwirusowymi."
     },
     {
       "title": "Wzrost liczby chorób przenoszonych przez kleszcze w Illinois podkreśla potrzebę zapobiegania ukąszeniom kleszczy przez cały rok – CIDRAP",
@@ -1320,7 +1320,7 @@
       "summary": "Stażysta był jednym z prawie 300 żołnierzy, którzy zachorowali w wyniku epidemii grypy w bazie sił powietrznych Lackland."
     },
     {
-      "title": "Liczba zgonów z powodu wirusa Ebola w Afryce znajduje się na liście 400 najlepszych, ponieważ Uganda zgłasza śmierć dziecka z Marburga – CIDRAP",
+      "title": "Liczba zgonów z powodu wirusa Ebola w Afryce znajduje się na liście 400 najlepszych, ponieważ Uganda donosi o śmierci dziecka z Marburga – CIDRAP",
       "url": "https://www.cidrap.umn.edu/ebola/ebola-deaths-africa-top-400-uganda-reports-death-child-marburg",
       "date": "2026-07-01T20:42:32Z",
       "source": "CIDRAP",
@@ -1540,7 +1540,7 @@
       "summary": "Zalecenia PRAC dotyczące sygnałów przyjętych na posiedzeniu w dniach 8–11 czerwca 2026 r. PRAC_pl Europejska Agencja Leków (EMA)."
     },
     {
-      "title": "Jak dotąd w 2026 r. w funduszach VC dominują producenci leków przeciwnowotworowych i immunologicznych – BioPharma Dive",
+      "title": "Jak dotąd w 2026 r. producenci leków VC zdominowali walkę z rakiem i lekami odpornościowymi – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/cancer-immune-venture-funding-2026/824250/",
       "date": "2026-07-06T13:31:07Z",
       "source": "BioPharma Dive",
@@ -1548,7 +1548,7 @@
       "summary": "Według danych BioPharma Dive, twórcy leków skupiający się na którymkolwiek obszarze chorobowym stanowili ponad 40% liczby firm biotechnologicznych i kwot zebranych do tej pory w 2026 r."
     },
     {
-      "title": "Test na pirogeny na królikach usunięty z wytycznych UE dotyczących zwalniania serii – insights.citeline.com",
+      "title": "Test na obecność pirogenu na królikach usunięty z unijnych wytycznych dotyczących dopuszczenia serii – insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/compliance/manufacturing/rabbit-pyrogen-test-removed-from-eu-batch-release-guidelines-TYTHD4IZ35AITK6OIMNTKY7COQ/",
       "date": "2026-07-06T13:28:45Z",
       "source": "Pink Sheet",
@@ -1910,7 +1910,7 @@
       "summary": "Według aktualizacji sytuacyjnej z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
     },
     {
-      "title": "Liczba zgonów z powodu wirusa Ebola w Afryce znajduje się na liście 400 najlepszych, ponieważ Uganda zgłasza śmierć dziecka z Marburga – CIDRAP",
+      "title": "Liczba zgonów z powodu wirusa Ebola w Afryce znajduje się na liście 400 najlepszych, ponieważ Uganda donosi o śmierci dziecka z Marburga – CIDRAP",
       "url": "https://www.cidrap.umn.edu/ebola/ebola-deaths-africa-top-400-uganda-reports-death-child-marburg",
       "date": "2026-07-01T20:42:32Z",
       "source": "CIDRAP",
@@ -1931,7 +1931,7 @@
       "date": "2026-07-06T14:30:18Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Skuteczna reakcja zależy od współpracy ze społecznościami i pracownikami pierwszej linii, pisze Zaeem ul Haq. Obecna epidemia Bundibugyo Ebola w Demokratycznej Republice Konga (DRK) i Ugandzie obnaża niebezpieczne luki w globalnym bezpieczeństwie zdrowotnym. Eksperci ostrzegają, że w obliczu cięć pomocy i trwającego konfliktu w regionie epidemia może stać się jedną z najbardziej śmiercionośnych epidemii wirusa Ebola w dotychczasowej historii1. W przypadku braku zatwierdzonej szczepionki głównymi narzędziami kontroli są zaufanie, współpraca społeczna i systemowa empatia. Empatia systemowa opisuje, w jaki sposób systemy opieki zdrowotnej troszczą się o ludzi, w tym o własny personel."
+      "summary": "Skuteczna reakcja zależy od współpracy ze społecznościami i pracownikami pierwszej linii, pisze Zaeem ul Haq. Obecna epidemia Bundibugyo Ebola w Demokratycznej Republice Konga (DRK) i Ugandzie obnaża niebezpieczne luki w globalnym bezpieczeństwie zdrowotnym. Eksperci ostrzegają, że w obliczu cięć pomocy i trwającego konfliktu w regionie epidemia może stać się jedną z najbardziej śmiercionośnych epidemii wirusa Ebola w dotychczasowej historii1. W przypadku braku zatwierdzonej szczepionki głównymi narzędziami kontroli są zaufanie, współpraca społeczna i systemowa empatia. Empatia systemowa opisuje, w jaki sposób systemy opieki zdrowotnej dbają o ludzi, w tym o własny personel."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1965,7 +1965,7 @@
       "date": "2026-07-06T14:30:18Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Skuteczna reakcja zależy od współpracy ze społecznościami i pracownikami pierwszej linii, pisze Zaeem ul Haq. Obecna epidemia Bundibugyo Ebola w Demokratycznej Republice Konga (DRK) i Ugandzie obnaża niebezpieczne luki w globalnym bezpieczeństwie zdrowotnym. Eksperci ostrzegają, że w obliczu cięć pomocy i trwającego konfliktu w regionie epidemia może stać się jedną z najbardziej śmiercionośnych epidemii wirusa Ebola w dotychczasowej historii1. W przypadku braku zatwierdzonej szczepionki głównymi narzędziami kontroli są zaufanie, współpraca społeczna i systemowa empatia. Empatia systemowa opisuje, w jaki sposób systemy opieki zdrowotnej troszczą się o ludzi, w tym o własny personel."
+      "summary": "Skuteczna reakcja zależy od współpracy ze społecznościami i pracownikami pierwszej linii, pisze Zaeem ul Haq. Obecna epidemia Bundibugyo Ebola w Demokratycznej Republice Konga (DRK) i Ugandzie obnaża niebezpieczne luki w globalnym bezpieczeństwie zdrowotnym. Eksperci ostrzegają, że w obliczu cięć pomocy i trwającego konfliktu w regionie epidemia może stać się jedną z najbardziej śmiercionośnych epidemii wirusa Ebola w dotychczasowej historii1. W przypadku braku zatwierdzonej szczepionki głównymi narzędziami kontroli są zaufanie, współpraca społeczna i systemowa empatia. Empatia systemowa opisuje, w jaki sposób systemy opieki zdrowotnej dbają o ludzi, w tym o własny personel."
     },
     {
       "title": "Ghana zwiększa gotowość na wypadek pandemii poprzez globalne ćwiczenia symulacyjne – WHO | Biuro Regionalne dla Afryki",
