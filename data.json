@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-06T12:33:48Z",
+  "last_updated": "2026-07-06T12:34:28Z",
   "poland": [
+    {
+      "title": "Raport Fundacji LPiG: reforma akcyzy na piwo może przynieść 7 mld zł rocznie do budżetu państwa - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/raport-fundacji-lpig-n2401045",
+      "date": "2026-07-06T12:30:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Raport Fundacji LPiG: reforma akcyzy na piwo może przynieść 7 mld zł rocznie do budżetu państwa PolitykaZdrowotna.com."
+    },
     {
       "title": "Warszawa – radni PiS chcą dymisji, koalicja – wyjaśnień - Z kraju - Kurier - Medycyna Praktyczna",
       "url": "https://www.mp.pl/kurier/443242,warszawa-radni-pis-chca-dymisji-koalicja-wyjasnien",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Nowe badanie wskazuje, że mózg może odzyskać prawidłowy metabolizm już po miesiącu leczenia zaburzeń związanych z używaniem alkoholu."
-    },
-    {
-      "title": "Kardiomiopatia związana z sepsą: co wnosi badanie UKG? - Wytyczne - Anestezjologia i intensywna terapia - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/oit/wytyczne/441021,kardiomiopatia-zwiazana-z-sepsa-co-wnosi-badanie-ukg",
-      "date": "2026-07-06T05:26:15Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Autorzy konsensusu SIECVI zwracają uwagę, że sama frakcja wyrzutowa nie wystarcza do oceny krążenia w sepsie, a kluczowe staje się zintegrowane badanie lewej i prawej komory, ocena preload z użyciem IVC oraz analiza GLS."
     }
   ],
   "world": [
@@ -461,7 +461,7 @@
     },
     {
       "title": "Zgony spowodowane spożyciem alkoholu w Wielkiej Brytanii: wiemy, że minimalna cena jednostkowa działa – BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100146/article-info",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100146/rapid-responses",
       "date": "2026-07-06T10:41:18Z",
       "source": "The BMJ",
       "confirmed_by": 1,
@@ -469,7 +469,7 @@
     },
     {
       "title": "Zgony spowodowane spożyciem alkoholu w Wielkiej Brytanii: wiemy, że minimalna cena jednostkowa działa – BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100146/rapid-responses",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100146/article-info",
       "date": "2026-07-06T10:41:18Z",
       "source": "The BMJ",
       "confirmed_by": 1,
@@ -814,6 +814,14 @@
       "summary": "Tłumienie funkcji jajników plus tamoksyfen znacznie zmniejsza ryzyko nawrotu raka piersi przed menopauzą w porównaniu z tamoksyfenem, a dalsze zmniejszenie jest widoczne w połączeniu z eksemestanem Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
+      "title": "Notatki | Dokumenty projektowe | Hazard | Standardy jakości - serwis NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-qs10099/documents/html-content",
+      "date": "2026-07-06T09:10:18Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Dokumenty projektowe | Hazard | Standardy jakości Strona NICE."
+    },
+    {
       "title": "Globalne badanie wykazało, że 99% zdarzeń sercowych wiąże się z czterema zagrożeniami — MSN",
       "url": "https://www.msn.com/en-us/news/insight/global-study-finds-99-of-heart-events-tied-to-four-risks/gm-GM71087FC2?gemSnapshotKey=GM71087FC2-snapshot-1&ocid=BingHp01",
       "date": "2026-07-05T13:47:52Z",
@@ -916,14 +924,6 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
-    },
-    {
-      "title": "Larotrektynib w leczeniu zaawansowanych guzów litych z dodatnią fuzją NTRK (przegląd MA TA630) [ID6292] – strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta11565/documents/html-content",
-      "date": "2026-07-03T11:45:18Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Larotrektynib do leczenia zaawansowanych guzów litych z dodatnią fuzją NTRK (przegląd MA TA630) [ID6292] Strona internetowa NICE."
     },
     {
       "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1953,7 +1953,7 @@
     },
     {
       "title": "Zgony spowodowane spożyciem alkoholu w Wielkiej Brytanii: wiemy, że minimalna cena jednostkowa działa – BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100146/article-info",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100146/rapid-responses",
       "date": "2026-07-06T10:41:18Z",
       "source": "The BMJ",
       "confirmed_by": 1,
