@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T04:55:36Z",
+  "last_updated": "2026-07-06T04:56:21Z",
   "poland": [
     {
       "title": "CMKP uruchomiło nabór na ostatni bezpłatny kurs dla lekarzy POZ z pełnym dofinansowaniem - Alert Medyczny",
@@ -922,7 +922,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a2.htm?s_cid=OS_mm7525a2_w",
       "date": "2026-07-02T17:02:26Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "W raporcie opisano dwa ogniska legionellozy w dwóch hotelach na Wyspach Dziewiczych Stanów Zjednoczonych."
     },
     {
@@ -1070,12 +1070,12 @@
       "summary": "Przewodniczący zapewnią płynny przebieg sesji, zarządzanie czasem, a także będą zachęcać do dyskusji i interakcji między wykładowcami a publicznością, zapewniając wystarczającą ilość czasu na pytania od publiczności."
     },
     {
-      "title": "Nowe wytyczne dotyczące opieki nad przedwczesnym dojrzewaniem centralnym – współczesna pediatria",
-      "url": "https://www.contemporarypediatrics.com/view/new-guideline-updates-care-for-central-precocious-puberty",
-      "date": "2026-06-23T07:00:00Z",
+      "title": "Opieka przeciwbólowa nie jest dostępna, gdy jest ona oddalona o kilka godzin – pjmedia.com",
+      "url": "https://pjmedia.com/david-manney/2026/06/21/pain-care-isnt-access-when-its-hours-away-n4954217",
+      "date": "2026-06-22T00:26:59Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Nowe wytyczne aktualizują opiekę nad centralnym przedwczesnym dojrzewaniem. Współczesna pediatria."
+      "summary": "Pacjenci z obszarów wiejskich z przewlekłym bólem muszą podróżować często, kosztownie i mają ograniczony dostęp do aptek zapewniających skuteczne leczenie bólu."
     }
   ],
   "epidemiology": [
@@ -1376,6 +1376,14 @@
       "summary": "Program Narodów Zjednoczonych ds. Rozwoju (UNDP) stwierdził dzisiaj w swoim raporcie, że epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) i Ugandzie może mieć długotrwałe szkodliwe skutki dla gospodarki Afryki, przy czym DRK prawdopodobnie ucierpi najbardziej."
     },
     {
+      "title": "Podwójny nagłówek dotyczący szczepionek: Grypa tego samego dnia, szczepionki na Covid-19 okazały się bezpieczne – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/influenza-vaccines/vaccine-double-header-same-day-flu-covid-shots-shown-be-safe",
+      "date": "2026-06-30T19:16:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "W analizie uwzględniono dokumentację medyczną 2,5 miliona pacjentów w całym systemie opieki zdrowotnej VA."
+    },
+    {
       "title": "ONZ ostrzega, że ​​epidemia wirusa Ebola może kosztować Afrykę nawet 3,6 miliarda dolarów – Epidemionnewstoday.com",
       "url": "https://outbreaknewstoday.com/ebola-outbreak-could-cost-africa-3-6bn-un-warns-683/",
       "date": "2026-06-30T18:16:08Z",
@@ -1390,14 +1398,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Szczepionka na Covid-19 była triumfem nauki. Rządy, badacze i producenci szczepionek pracowali wspólnie, aby przyspieszyć proces, który może zająć dziesięciolecia."
-    },
-    {
-      "title": "Epidemia wirusa Ebola rozprzestrzenia się na czwartą prowincję Demokratycznej Republiki Konga – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-spreads-4th-province-dr-congo",
-      "date": "2026-06-29T21:13:49Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Według doniesień mediów epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) rozprzestrzeniła się na czwartą prowincję."
     },
     {
       "title": "Francja zgłasza pierwszy przypadek wirusa Ebola u lekarza powracającego z misji w DRK – Epidemionnewstoday.com",
@@ -1701,6 +1701,14 @@
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=131&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F05%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicenamedesc",
+      "date": "2026-07-05T18:37:12Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=111&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F05%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumber",
       "date": "2026-07-05T17:58:12Z",
       "source": "FDA Drug News",
@@ -1938,14 +1946,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Występuje umiarkowana interakcja lekowa pomiędzy żywą szczepionką Sudafed PE Sinus Pressure + Pain i durem brzusznym. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
-    },
-    {
-      "title": "Interakcje pomiędzy Donanemabem i Drotrekoginą alfa - Drugs.com",
-      "url": "https://www.drugs.com/drug-interactions/donanemab-with-drotrecogin-alfa-4476-0-948-0.html?professional=1",
-      "date": "2026-07-04T18:12:24Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Istnieje poważna interakcja lekowa pomiędzy Donanemabem i Drotrekoginą alfa. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
     }
   ],
   "critical_alerts": [
