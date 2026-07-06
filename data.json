@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T23:13:15Z",
+  "last_updated": "2026-07-06T23:13:58Z",
   "poland": [
     {
       "title": "Deepfake i AI w programie edukacji zdrowotnej. MEN uwzględniło postulaty UODO - Alert Medyczny",
@@ -13,8 +13,8 @@
       "title": "Decyzja nr 8/2026/BP – małoletni przedsiębiorca - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-82026bp-maloletni-przedsiebiorca,6682.html",
       "date": "2026-07-06T20:53:43Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 4,
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 2,
       "summary": "Decyzja nr 8/2026/BP."
     },
     {
@@ -1086,6 +1086,14 @@
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
     },
     {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/869",
+      "date": "2026-06-26T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
+    },
+    {
       "title": "Protokół wytycznych praktyki klinicznej dotyczących akupunktury w leczeniu przewlekłego nieswoistego bólu krzyża – Frontiers",
       "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1834549/full",
       "date": "2026-06-23T09:18:39Z",
@@ -1101,7 +1109,7 @@
       "date": "2026-07-06T18:24:11Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Ptasia grypa w dalszym ciągu stanowi złożone i ewoluujące zagrożenie na styku człowiek–zwierzę–środowisko, wywierając znaczący wpływ na zdrowie publiczne, rolnictwo, dziką przyrodę i ekosystemy. W odpowiedzi Organizacja Narodów Zjednoczonych ds. Wyżywienia i Rolnictwa (FAO), Światowa Organizacja Zdrowia Zwierząt (WOAH), Światowa Organizacja Zdrowia (WHO) i Program Narodów Zjednoczonych ds. Ochrony Środowiska (UNEP) opracowały wspólne ramy strategiczne mające na celu wzmocnienie koordynacji i przyspieszenie wspólnych działań w ramach podejścia „Jedno zdrowie”."
+      "summary": "Wezwanie do publicznego komentarza na temat ram strategicznych mających na celu przyspieszenie czterostronnych działań w sprawie ptasiej grypy Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "Siódme spotkanie Międzyrządowej Grupy Roboczej (IGWG) w sprawie Porozumienia WHO w sprawie pandemii – Światowa Organizacja Zdrowia (WHO)",
@@ -1293,7 +1301,7 @@
       "date": "2026-07-02T16:23:09Z",
       "source": "Outbreak News Today",
       "confirmed_by": 1,
-      "summary": "Według aktualizacji sytuacyjnej z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
+      "summary": "Według aktualizacji sytuacji z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
     },
     {
       "title": "Stażysta Sił Powietrznych w San Antonio w Teksasie zmarł na grypę – CIDRAP",
@@ -1492,20 +1500,20 @@
   ],
   "pharma_market": [
     {
+      "title": "Tracker Oral GLP-1: Jefferies modeluje sprzedaż o wartości 71 mln dolarów w USA w debiutanckim kwartale Foundayo – Fierce Pharma",
+      "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+      "date": "2026-07-06T23:12:59Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Wraz z niedawnym wprowadzeniem na rynek pigułki Wegovy firmy Novo Nordisk i Foundayo firmy Eli Lilly, rynek leczenia otyłości zaczął przesuwać się w stronę doustnych leków GLP-1. | Fierce Pharma wprowadza na rynek cotygodniowy Oral GLP-1 Tracker, wykorzystując notatki analityków i dane IQVIA do monitorowania trendów w zakresie recept i zmian udziałów w rynku, w miarę jak pigułka Wegovy firmy Novo Nordisk i Foundayo firmy Eli Lilly rywalizują o miano popularnego doustnego rozwiązania odchudzającego dla milionów."
+    },
+    {
       "title": "Ekspert twierdzi, że decyzja sądu w Kolorado w sprawie górnego pułapu cenowego Enbrel wykorzystuje „szczodrą” interpretację precedensu",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/pricing-debate/colorado-court-decision-on-enbrel-price-cap-uses-generous-reading-of-precedent-expert-says-HOMWIZKG25ESXJOE4T7IXO6VJM/",
       "date": "2026-07-06T22:36:52Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
       "summary": "Odwołanie od decyzji sądu rejonowego mogłoby pomóc w wyjaśnieniu interakcji prawa patentowego z wysiłkami państwa w zakresie kontroli cen."
-    },
-    {
-      "title": "Tracker Oral GLP-1: Jefferies modeluje sprzedaż o wartości 71 mln dolarów w USA w debiutanckim kwartale Foundayo – Fierce Pharma",
-      "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
-      "date": "2026-07-06T20:12:33Z",
-      "source": "FiercePharma",
-      "confirmed_by": 1,
-      "summary": "Wraz z niedawnym wprowadzeniem na rynek pigułki Wegovy firmy Novo Nordisk i Foundayo firmy Eli Lilly, rynek leczenia otyłości zaczął przesuwać się w stronę doustnych leków GLP-1. | Fierce Pharma wprowadza na rynek cotygodniowy Oral GLP-1 Tracker, wykorzystując notatki analityków i dane IQVIA do monitorowania trendów w zakresie recept i zmian udziałów w rynku, w miarę jak pigułka Wegovy firmy Novo Nordisk i Foundayo firmy Eli Lilly rywalizują o miano popularnego doustnego rozwiązania odchudzającego dla milionów."
     },
     {
       "title": "Interakcje między fludarabiną i gancyklowirem – Drugs.com",
@@ -1899,7 +1907,7 @@
       "date": "2026-07-02T16:23:09Z",
       "source": "Outbreak News Today",
       "confirmed_by": 1,
-      "summary": "Według aktualizacji sytuacyjnej z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
+      "summary": "Według aktualizacji sytuacji z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
     },
     {
       "title": "Liczba zgonów z powodu wirusa Ebola w Afryce znajduje się na liście 400 najlepszych, ponieważ Uganda zgłasza śmierć dziecka z Marburga – CIDRAP",
