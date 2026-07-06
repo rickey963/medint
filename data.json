@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-07-06T23:00:51Z",
+  "last_updated": "2026-07-06T23:01:37Z",
   "poland": [
-    {
-      "title": "Decyzja nr 8/2026/BP – małoletni przedsiębiorca - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-82026bp-maloletni-przedsiebiorca,6682.html",
-      "date": "2026-07-06T20:53:43Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
-      "summary": "Decyzja nr 8/2026/BP."
-    },
     {
       "title": "Decyzja nr 6/2026/BP – umowa o pracę - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-62026bp-umowa-o-prace,6680.html",
@@ -16,6 +8,14 @@
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 2,
       "summary": "Decyzja nr 6/2026/BP."
+    },
+    {
+      "title": "Decyzja nr 8/2026/BP – małoletni przedsiębiorca - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-82026bp-maloletni-przedsiebiorca,6682.html",
+      "date": "2026-07-06T20:53:43Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 2,
+      "summary": "Decyzja nr 8/2026/BP."
     },
     {
       "title": "II Warszawskie Dni Neurologiczne - Infarma | Konferencja stacjonarna - Termedia",
@@ -649,7 +649,7 @@
       "date": "2026-07-06T14:05:58Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Omentoplastyka w celu zapobiegania przeciekowi zespolenia w zespoleniu jelita grubego: przegląd systematyczny i metaanaliza Cureus."
+      "summary": "Nieszczelność zespolenia (AL) zwiększa zachorowalność i śmiertelność w operacjach okrężnicy i odbytnicy. Jako potencjalną metodę zapobiegania temu powikłaniu zaproponowano omentoplastykę (OMP), czyli zastosowanie uszypułowanego płata z sieci w celu osłony miejsca zespolenia. Celem tego badania jest ocena skuteczności OMP w zmniejszaniu częstości występowania AL i jej następstw klinicznych."
     },
     {
       "title": "Migrena i udar: jakie jest rzeczywiste ryzyko? - Medyczny",
@@ -950,44 +950,12 @@
       "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     },
     {
-      "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a2.htm?s_cid=OS_mm7525a2_w",
-      "date": "2026-07-02T17:02:26Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
-      "summary": "W raporcie opisano dwa ogniska legionellozy w dwóch hotelach na Wyspach Dziewiczych Stanów Zjednoczonych."
-    },
-    {
-      "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a1.htm",
-      "date": "2026-07-02T17:02:26Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "W niniejszym raporcie opisano seroprewalencję alfa-gal immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
-    },
-    {
       "title": "AAOS publikuje wytyczne praktyki klinicznej dotyczące leczenia choroby zwyrodnieniowej stawu skokowego – PR Newswire",
       "url": "https://www.prnewswire.com/news-releases/aaos-releases-clinical-practice-guideline-for-management-of-ankle-osteoarthritis-302816181.html",
       "date": "2026-07-02T13:00:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "/PRNewswire/ -- Amerykańska Akademia Chirurgów Ortopedów (AAOS) opublikowała nowe wytyczne dotyczące praktyki klinicznej (CPG) dotyczące leczenia choroby zwyrodnieniowej stawu skokowego..."
-    },
-    {
-      "title": "Nadzór nad Candida auris — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
-      "date": "2026-07-02T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
-    },
-    {
-      "title": "Wytyczne dotyczące zdrowia publicznego dotyczące planowania reakcji VHF | Wirusowa gorączka krwotoczna (VHF) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/viral-hemorrhagic-fevers/php/public-health-strategy/vhf-response-planning.html",
-      "date": "2026-07-02T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Zalecenia CDC dla wydziałów zdrowia publicznego dotyczące przygotowania i reagowania na krajowe przypadki VHF."
     },
     {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych 17 lipca – Newsroom TRICARE (.mil)",
@@ -1006,6 +974,14 @@
       "summary": "Jak wynika z nowego badania opublikowanego w czasopiśmie Journal of the American Heart Association, korzyści ze stosowania leków GLP-1 były największe w przypadku osób z ciężką chorobą tętnic obwodowych (PAD) i osób z otyłością."
     },
     {
+      "title": "Infografiki społeczności wolnych od narkotyków | Zapobieganie Przedawkowaniu — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/overdose-prevention/php/drug-free-communities/infographics.html",
+      "date": "2026-07-01T07:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 7,
+      "summary": "Infografiki do pobrania na temat celów, działań i strategii programu DFC."
+    },
+    {
       "title": "Szkolenie OK COBIK NIL - Lekarzu, zadbaj o siebie. Jak wdrożyć self-care w przeładowany grafik? - NIL",
       "url": "https://nil.org.pl/eventToPdf/1548",
       "date": "2026-07-01T04:53:43Z",
@@ -1020,6 +996,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Szkolenie OK COBIK NIL - SZKOLENIE Z POLSKIMI NAPISAMI: Laser Dentistry in General Practice (Stomatologia laserowa w praktyce og NIL."
+    },
+    {
+      "title": "Szkolenie OK COBIK NIL - Wystawienie zwolnienia lekarskiego i innych zaświadczeń – kiedy i co należy odnotować, a kiedy mo - NIL",
+      "url": "https://nil.org.pl/eventToPdf/1543",
+      "date": "2026-07-01T00:15:42Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Szkolenie OK COBIK NIL - Wystawienie zwolnienia lekarskiego i innych zaświadczeń – kiedy i co należy odnotować, a kiedy mo NIL."
     },
     {
       "title": "Niewydolność serca: nowa definicja poprawi diagnostykę i zmieni opiekę – Healthline",
