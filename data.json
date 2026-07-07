@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T11:58:57Z",
+  "last_updated": "2026-07-07T11:59:36Z",
   "poland": [
     {
       "title": "Prawdziwy Madagaskar jest inny niż w kolorowym folderze - Termedia",
@@ -374,7 +374,7 @@
       "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-52026bp-art-176-k-s-h-,6679.html",
       "date": "2026-07-06T19:18:57Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Decyzja nr 5/2026/BP."
     },
     {
@@ -497,7 +497,7 @@
       "date": "2026-07-07T09:56:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Jeśli pacjent opuści wizytę ambulatoryjną, wysyłany jest list, a jego kopia elektroniczna trafia do lekarza rodzinnego. Niektóre oddziały zmieniają termin, inne natomiast wypisują pacjenta, prosząc o ponowne skierowanie, jeśli nadal potrzebuje wizyty. Jako lekarze pierwszego kontaktu moglibyśmy spojrzeć na ten problem z perspektywy zmarnowanych wizyt i poczuć się zawiedzieni, że pacjenci nie traktują swojego zdrowia priorytetowo (chociaż czasami powodem niestawienia się jest po prostu to, że list trafił pod zły adres lub dotarł po terminie wizyty)."
+      "summary": "Jeśli pacjent opuści wizytę ambulatoryjną, wysyłany jest list, a jego kopia elektroniczna trafia do lekarza rodzinnego. Niektóre oddziały zmieniają termin, inne zaś wypisują pacjenta, prosząc o ponowne skierowanie, jeśli nadal potrzebuje wizyty. Jako lekarze pierwszego kontaktu moglibyśmy spojrzeć na ten problem z perspektywy zmarnowanych wizyt i poczuć się zawiedzieni, że pacjenci nie traktują swojego zdrowia priorytetowo (chociaż czasami powodem niestawienia się jest po prostu to, że list trafił pod zły adres lub dotarł po terminie wizyty)."
     },
     {
       "title": "Zakaz mediów społecznościowych w Wielkiej Brytanii to ryzykowne przedsięwzięcie w obliczu niepewności – BMJ",
@@ -1724,6 +1724,14 @@
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
+      "title": "Interakcje między escitalopramem i taninatem DMP-DEX - Drugs.com",
+      "url": "https://www.drugs.com/drug-interactions/escitalopram-with-tannate-dmp-dex-1013-0-827-10782.html?professional=1",
+      "date": "2026-07-07T03:24:14Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Istnieje poważna interakcja lekowa pomiędzy escytalopramem i taninatem DMP-DEX. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
+    },
+    {
       "title": "Rejestracja zakładu i wykaz urządzeń — accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=571&q=Tk9OLU1ZRFJJQVRJQyBSRVRJTkFMIENBTUVSQQ==&pn=10&pf=0&sc=ena&rcount=476",
       "date": "2026-07-07T02:39:05Z",
@@ -1970,14 +1978,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Rejestracja zakładu i lista urządzeń accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=61&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F06%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumberdesc",
-      "date": "2026-07-06T16:36:42Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     }
   ],
   "critical_alerts": [
