@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T06:15:04Z",
+  "last_updated": "2026-07-07T06:15:50Z",
   "poland": [
     {
       "title": "Iga Świątek, Maja Chwalińska, Ewa Pajor inspirują młode zawodniczki. Dr Artur Drobniak o sporcie wyczynowym, hormonach i zdrowiu kobiet - PolitykaZdrowotna.com",
@@ -8,6 +8,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Iga Świątek, Maja Chwalińska, Ewa Pajor inspirują młode zawodniczki. Dr Artur Drobniak o sporcie wyczynowym, hormonach i zdrowiu kobiet PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Dobre wieści dla fanów cebuli. Mają \"specjalny gen\": zaskakujący związek ze zdrowiem - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Nauka/Dobre-wiesci-dla-fanow-cebuli-Maja-specjalny-gen-zaskakujacy-zwiazek-ze-zdrowiem,286333,9.html",
+      "date": "2026-07-07T04:19:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Czy nasze geny mogą wpływać na ryzyko chorób, ale również na to, jakie produkty spożywcze najbardziej nam smakują? Międzynarodowy zespół naukowców przekonuje, że tak. Najnowsze badania wskazują, że jeden z wariantów genetycznych związanych z upodobaniem do cebuli może wiązać się z niższym ryzykiem cukrzycy typu 2 oraz niższymi wartościami ciśnienia tętniczego."
     },
     {
       "title": "Lecigon opis preparatu - Indeks Leków MP",
@@ -392,14 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Kontrowersyjny zakaz przenosin rezydentur, ignorowanie zgłaszanych od dawna patologii w psychiatrii i na SOR-ach oraz traktowanie młodych lekarzy jak darmowych pracowników przelały czarę goryczy. Wspierane masowym protestem studentów medycyny, Porozumienie Rezydentów OZZL zapowiada walkę z nowelizacją ustawy o zawodach lekarza i lekarza dentysty \"wszelkimi dostępnymi sposobami\". Jak ocenia, projekt jest wadliwy w aż 95 procentach."
-    },
-    {
-      "title": "Tag “badanie opinii publicznej” - Termedia",
-      "url": "https://www.termedia.pl/tag/badanie_opinii_publicznej-37053",
-      "date": "2026-07-06T14:41:03Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "aktualności, menedżer zdrowia."
     }
   ],
   "world": [
@@ -433,7 +433,7 @@
       "date": "2026-07-07T03:34:26Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Dołącz do seminarium internetowego WHO na temat sposobu wykorzystania istniejących dowodów i wytycznych WHO do informowania praktyki, wspierając kraje w planowaniu, ustalaniu priorytetów i wdrażaniu zintegrowanych, kluczowych usług dostosowanych do potrzeb populacji w ramach systemów podstawowej opieki zdrowotnej (PHC)."
+      "summary": "Dołącz do seminarium internetowego WHO na temat tego, jak istniejące dowody i wytyczne WHO można wykorzystać do informowania praktyki, wspierając kraje w planowaniu, ustalaniu priorytetów i wdrażaniu zintegrowanych, kluczowych usług dostosowanych do potrzeb populacji w ramach systemów podstawowej opieki zdrowotnej (PHC)."
     },
     {
       "title": "Opieka online w przypadku atopowego zapalenia skóry równa się osobistej rozmowie – Medscape",
@@ -846,7 +846,7 @@
       "summary": "Dorośli z trwającym całe życie lub bardzo poważnym upośledzeniem słuchu lub wzroku: zdrowie, dobre samopoczucie i opieka społeczna Strona internetowa NICE."
     },
     {
-      "title": "Tłumienie funkcji jajników plus tamoksyfen znacznie zmniejsza ryzyko nawrotu raka piersi przed menopauzą w porównaniu z tamoksyfenem, a dalsze zmniejszenie jest widoczne w połączeniu z eksemestanem - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "Tłumienie funkcji jajników plus tamoksyfen znacząco zmniejsza ryzyko nawrotu raka piersi przed menopauzą w porównaniu z tamoksyfenem, a dalsze zmniejszenie jest widoczne w połączeniu z eksemestanem - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/ovarian-function-suppression-plus-tamoxifen-significantly-reduces-premenopausal-breast-cancer-recurrence-over-tamoxifen-and-further-reduction-is-seen-when-combined-with-exemestane",
       "date": "2026-07-06T09:16:17Z",
       "source": "ESMO (onkologia)",
@@ -963,7 +963,7 @@
       "date": "2026-07-02T17:02:26Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "W niniejszym raporcie opisano seroprewalencję alfa-galowej immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
+      "summary": "W niniejszym raporcie opisano seroprewalencję alfa-gal immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
     },
     {
       "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1059,7 +1059,15 @@
       "date": "2026-06-29T12:58:24Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych, aby opublikować pierwszą uniwersalną definicję niewydolności serca, ustanawiając jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
+    },
+    {
+      "title": "Światowi eksperci aktualizują definicję niewydolności serca, aby ulepszyć profilaktykę, diagnostykę i opiekę – www.heart.org",
+      "url": "https://newsroom.heart.org/news/global-experts-update-heart-failure-definition-to-improve-prevention-diagnosis-and-care",
+      "date": "2026-06-29T09:04:39Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Zaktualizowana międzynarodowa definicja niewydolności serca wprowadza nowy system klasyfikacji i kładzie nacisk na wcześniejsze wykrywanie i spersonalizowane leczenie."
     },
     {
       "title": "ESC 365 - ESC 365",
@@ -1160,7 +1168,7 @@
       "summary": "Siódme spotkanie Międzyrządowej Grupy Roboczej (IGWG) ds. Porozumienia WHO w sprawie pandemii odbędzie się w formacie hybrydowym w dniach 6–17 lipca 2026 r."
     },
     {
-      "title": "Światowe Forum Parlamentarne Światowego Zgromadzenia Zdrowia: od zaangażowania w działania na rzecz Porozumienia Pandemicznego WHO i zrównoważonego finansowania zdrowia - Światowa Organizacja Zdrowia (WHO)",
+      "title": "Światowe Forum Parlamentarne Światowego Zgromadzenia Zdrowia: od zaangażowania w działania na rzecz Porozumienia WHO w sprawie pandemii i zrównoważonego finansowania zdrowia - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/06-07-2026-world-health-assembly-global-parliamentary-forum-from-commitment-to-action-on-the-who-pandemic-agreement-and-sustainable-financing-for-health",
       "date": "2026-07-06T16:58:18Z",
       "source": "WHO Disease Outbreak News",
@@ -1192,7 +1200,7 @@
       "summary": "Portal SPH to interaktywna platforma cyfrowa, która ułatwia udostępnianie i wymianę informacji dotyczących wielosektorowych inwestycji, działań i możliwości w zakresie bezpieczeństwa zdrowia na poziomie krajowym, regionalnym i globalnym."
     },
     {
-      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 25. kończący się 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z 25. tygodnia zakończonego 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-25.html",
       "date": "2026-07-06T16:35:37Z",
       "source": "CDC Outbreaks",
@@ -1264,7 +1272,7 @@
       "summary": "Od początku 2026 r. do 2 lipca 2026 r. w Arabii Saudyjskiej zgłoszono dwa przypadki MERS, w tym jeden śmiertelny. Brak dostępnych informacji na temat regionów Arabii Saudyjskiej dotkniętych tymi przypadkami."
     },
     {
-      "title": "Budowanie odpornych na klimat usług WASH w placówkach opieki zdrowotnej - Światowa Organizacja Zdrowia (WHO)",
+      "title": "Budowanie odpornych na klimat usług WASH w placówkach służby zdrowia – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/b/83310",
       "date": "2026-07-06T02:29:02Z",
       "source": "WHO Disease Outbreak News",
@@ -1304,68 +1312,12 @@
       "summary": "GENEWA – Światowa Organizacja Zdrowia ogłosiła w czwartek epidemię hantawirusa związaną ze statkiem wycieczkowym MV Hondius. Ostatni kontakt człowieka."
     },
     {
-      "title": "Odcinek 212: Główne blokady drogowe – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/public-health/episode-212-major-roadblocks",
-      "date": "2026-07-02T20:09:29Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Ponieważ kryzys związany z wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
-    },
-    {
-      "title": "Media społecznościowe odzwierciedlały emocje dorosłych Amerykanów podczas pierwszego wprowadzenia szczepionki na Covid-19 – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/covid-19/social-media-reflected-us-adults-emotions-initial-covid-vaccine-rollout",
-      "date": "2026-07-02T19:57:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Media społecznościowe mogą zapewnić pracownikom służby zdrowia zrozumienie w czasie rzeczywistym, co ludzie myślą o tak ważnym postępie naukowym, jakim jest szczepionka."
-    },
-    {
-      "title": "Rozpoczyna się badanie kliniczne terapii wirusa Ebola w Demokratycznej Republice Konga – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/clinical-trial-ebola-therapies-begins-dr-congo",
-      "date": "2026-07-02T19:52:33Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów związanych z epidemią wirusa Ebola w Demokratycznej Republice Konga (DRK) Światowa Organizacja Zdrowia (WHO) podała dziś, że pierwszy pacjent został poddany badaniu klinicznemu z zastosowaniem dwóch terapii przeciwwirusowych."
-    },
-    {
-      "title": "Wzrost liczby chorób przenoszonych przez kleszcze w Illinois podkreśla potrzebę zapobiegania ukąszeniom kleszczy przez cały rok – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/tick-borne-disease/increase-tick-borne-diseases-illinois-highlights-need-prevent-tick-bites-year",
-      "date": "2026-07-02T19:34:53Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "W latach 2004–2022 u ponad 6400 mieszkańców Illinois zdiagnozowano chorobę przenoszoną przez kleszcze, a przypadki występowały w każdym hrabstwie stanu i w każdym miesiącu roku. Jak wynika z nowego badania opublikowanego w czasopiśmie „Ticks and Kles-borne Diseases”, liczba ta oznacza dramatyczny wzrost liczby przypadków chorób przenoszonych przez kleszcze u ludzi w tym czasie i odzwierciedla pilną potrzebę działań zapobiegawczych."
-    },
-    {
       "title": "Liczba przypadków wirusa Ebola w Demokratycznej Republice Konga wzrosła do 1406; Liczba zgonów sięga 438 – Epidemionnewstoday.com",
       "url": "https://outbreaknewstoday.com/dr-congo-ebola-cases-rise-to-1406-deaths-reach-438-708/",
       "date": "2026-07-02T16:23:09Z",
       "source": "Outbreak News Today",
       "confirmed_by": 1,
-      "summary": "Według aktualizacji sytuacji z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
-    },
-    {
-      "title": "Stażysta Sił Powietrznych w San Antonio w Teksasie zmarł na grypę – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/influenza-vaccines/air-force-trainee-san-antonio-texas-died-flu",
-      "date": "2026-07-01T21:47:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Stażysta był jednym z prawie 300 żołnierzy, którzy zachorowali w wyniku epidemii grypy w bazie sił powietrznych Lackland."
-    },
-    {
-      "title": "Liczba zgonów z powodu wirusa Ebola w Afryce znajduje się na liście 400 najlepszych, ponieważ Uganda zgłasza śmierć dziecka z Marburga – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/ebola-deaths-africa-top-400-uganda-reports-death-child-marburg",
-      "date": "2026-07-01T20:42:32Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Liczba ofiar epidemii wirusa Ebola Bundibugyo w Afryce w dalszym ciągu rośnie – w Demokratycznej Republice Konga (DRK) i Ugandzie odnotowano łącznie co najmniej 1354 zakażenia i 401 zgonów, w miarę jak śledczy śledzą potencjalne rozprzestrzenianie się wirusa na nowe prowincje DRK, a Uganda potwierdza zakażenie Marburgiem u dziecka, które zmarło z powodu wirusa. Podobnie jak Ebola, blisko spokrewniony wirus Marburg powoduje gorączkę krwotoczną."
-    },
-    {
-      "title": "Kompleksowy przegląd potwierdza, że ​​szczepionki mRNA na Covid-19 są bezpieczne i skuteczne – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/covid-19/comprehensive-review-affirms-covid-mrna-vaccines-are-safe-effective",
-      "date": "2026-07-01T19:08:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Nowe badanie wykazało, że korzyści płynące z technologii mRNA są znaczne, a poważne zdarzenia niepożądane występują rzadko."
+      "summary": "Według aktualizacji sytuacyjnej z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300 – EpidemiaEbolaEbola.com",
@@ -1376,36 +1328,20 @@
       "summary": "Agencje zdrowia podają, że we wschodniej Demokratycznej Republice Konga zgłoszono co najmniej 1274 potwierdzonych przypadków wirusa Ebola i 360 zgonów, co stanowi część regionalnej liczby ofiar śmiertelnych."
     },
     {
-      "title": "Nowa ankieta przeprowadzona w USA wskazuje na duży „plastyczny środek” w sprawie dezinformacji na temat szczepionek – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/childhood-vaccines/new-us-poll-identifies-large-malleable-middle-vaccine-misinformation",
-      "date": "2026-06-30T20:49:42Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Mity o szczepionkach nie są nowe. Krążą one od dziesięcioleci, przetrwały wycofane badania i niezliczone kampanie na rzecz zdrowia publicznego. Teraz nowa ankieta sugeruje, że choć stosunkowo niewielu Amerykanów w pełni wierzy w te kłamstwa, wielu pozostaje co do nich niepewnych – co sugeruje możliwości przeciwdziałania dezinformacji na temat szczepionek."
-    },
-    {
-      "title": "Dane pokazują, że HIV drastycznie zwiększa ryzyko raka odbytu związanego z HPV – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/hivaids/hiv-dramatically-increases-risk-hpv-related-anal-cancer-data-show",
-      "date": "2026-06-30T20:35:49Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Richard Goldman żył z wirusem HIV (ludzkim wirusem niedoboru odporności) przez co najmniej pięć lat i miał niewiele objawów."
-    },
-    {
-      "title": "ONZ ostrzega, że ​​epidemia wirusa Ebola wyrządzi poważne szkody gospodarce Afryki – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-will-cause-major-harm-africa-s-economies-un-warns",
-      "date": "2026-06-30T20:27:10Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Program Narodów Zjednoczonych ds. Rozwoju (UNDP) stwierdził dzisiaj w swoim raporcie, że epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) i Ugandzie może mieć długotrwałe szkodliwe skutki dla gospodarki Afryki, przy czym DRK prawdopodobnie ucierpi najbardziej."
-    },
-    {
       "title": "ONZ ostrzega, że ​​epidemia wirusa Ebola może kosztować Afrykę nawet 3,6 miliarda dolarów – Epidemionnewstoday.com",
       "url": "https://outbreaknewstoday.com/ebola-outbreak-could-cost-africa-3-6bn-un-warns-683/",
       "date": "2026-06-30T18:16:08Z",
       "source": "Outbreak News Today",
       "confirmed_by": 1,
       "summary": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie może kosztować Afrykę aż 3,6 miliarda dolarów i w przypadku rozprzestrzenienia się doprowadzić do utraty 328 000 miejsc pracy."
+    },
+    {
+      "title": "Dane pokazują, że prosty alert prawie trzykrotnie zwiększa szanse młodych kobiet na badanie przesiewowe na obecność chlamydii – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/chlamydia/simple-alert-nearly-triples-odds-chlamydia-screening-young-women-data-show",
+      "date": "2026-06-29T13:09:31Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Jak wynika z randomizowanego badania klinicznego opublikowanego w tym tygodniu w JAMA Network Open, alert w elektronicznej dokumentacji medycznej (EMR) wysyłany do asystentów medycznych przygotowujących pacjentów do wizyt lekarskich w przychodniach podstawowej opieki zdrowotnej znacznie zwiększał prawdopodobieństwo, że młode kobiety zostaną poddane badaniom przesiewowym w kierunku chlamydii."
     },
     {
       "title": "Francja zgłasza pierwszy przypadek wirusa Ebola u lekarza powracającego z misji w DRK – Epidemionnewstoday.com",
@@ -1569,7 +1505,7 @@
       "date": "2026-07-07T00:45:37Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Amerykańska Agencja ds. Żywności i Leków zatwierdziła lek Lumvoa (veligrotug-vvze) do leczenia chorób tarczycy i oczu (TED). Lek Lumvoa otrzymał terapię przełomową."
+      "summary": "Amerykańska Agencja ds. Żywności i Leków zatwierdziła lek Lumvoa (veligrotug-vvze) do leczenia chorób oczu tarczycy (TED). Lek Lumvoa otrzymał terapię przełomową."
     },
     {
       "title": "OTC – bez recepty – accessdata.fda.gov",
@@ -1617,7 +1553,7 @@
       "date": "2026-07-06T18:45:04Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Jak wynika z badania opublikowanego w: u pacjentów z jasnokomórkowym rakiem nerkowokomórkowym pembrolizumab z belzutifanem zapewnia znacznie dłuższe przeżycie wolne od choroby."
+      "summary": "Jak wynika z badania opublikowanego w: u pacjentów z jasnokomórkowym rakiem nerkowokomórkowym pembrolizumab-belzutifan zapewnia znacznie dłuższe przeżycie wolne od choroby."
     },
     {
       "title": "Znaleziono dwukierunkowe powiązanie między TBI a diagnozami neurologicznymi – Drugs.com",
@@ -1748,7 +1684,7 @@
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
-      "title": "Jak dotąd w 2026 r. producenci leków VC zdominowali walkę z rakiem i lekami odpornościowymi – BioPharma Dive",
+      "title": "Jak dotąd w 2026 r. w funduszach VC dominują producenci leków przeciwnowotworowych i immunologicznych – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/cancer-immune-venture-funding-2026/824250/",
       "date": "2026-07-06T16:04:03Z",
       "source": "BioPharma Dive",
@@ -1923,15 +1859,7 @@
       "date": "2026-07-02T16:23:09Z",
       "source": "Outbreak News Today",
       "confirmed_by": 1,
-      "summary": "Według aktualizacji sytuacji z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
-    },
-    {
-      "title": "Liczba zgonów z powodu wirusa Ebola w Afryce znajduje się na liście 400 najlepszych, ponieważ Uganda zgłasza śmierć dziecka z Marburga – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/ebola-deaths-africa-top-400-uganda-reports-death-child-marburg",
-      "date": "2026-07-01T20:42:32Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Liczba ofiar epidemii wirusa Ebola Bundibugyo w Afryce w dalszym ciągu rośnie – w Demokratycznej Republice Konga (DRK) i Ugandzie odnotowano łącznie co najmniej 1354 zakażenia i 401 zgonów, w miarę jak śledczy śledzą potencjalne rozprzestrzenianie się wirusa na nowe prowincje DRK, a Uganda potwierdza zakażenie Marburgiem u dziecka, które zmarło z powodu wirusa. Podobnie jak Ebola, blisko spokrewniony wirus Marburg powoduje gorączkę krwotoczną."
+      "summary": "Według aktualizacji sytuacyjnej z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300 – EpidemiaEbolaEbola.com",
@@ -1966,29 +1894,37 @@
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
-      "title": "Odcinek 212: Główne blokady drogowe – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/public-health/episode-212-major-roadblocks",
-      "date": "2026-07-02T20:09:29Z",
-      "source": "CIDRAP",
+      "title": "Wytyczne dotyczące zdrowia publicznego dotyczące planowania reakcji VHF | Wirusowa gorączka krwotoczna (VHF) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/viral-hemorrhagic-fevers/php/public-health-strategy/vhf-response-planning.html",
+      "date": "2026-07-02T07:00:00Z",
+      "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Ponieważ kryzys związany z wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
+      "summary": "Zalecenia CDC dla wydziałów zdrowia publicznego dotyczące przygotowania i reagowania na krajowe przypadki VHF."
+    },
+    {
+      "title": "ONZ ostrzega, że ​​epidemia wirusa Ebola może kosztować Afrykę nawet 3,6 miliarda dolarów – Epidemionnewstoday.com",
+      "url": "https://outbreaknewstoday.com/ebola-outbreak-could-cost-africa-3-6bn-un-warns-683/",
+      "date": "2026-06-30T18:16:08Z",
+      "source": "Outbreak News Today",
+      "confirmed_by": 1,
+      "summary": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie może kosztować Afrykę aż 3,6 miliarda dolarów i w przypadku rozprzestrzenienia się doprowadzić do utraty 328 000 miejsc pracy."
     }
   ],
   "daily_top5": [
+    {
+      "title": "Seminarium internetowe – Udoskonalanie kluczowych usług dostosowanych do potrzeb populacji w ramach podstawowej opieki zdrowotnej: ochrona, adaptacja, integracja, utrzymanie – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/07/07/default-calendar/webinar-enhancing-key-populations-sensitive-services-within-primary-health-care-protect-adapt-integrate-sustain",
+      "date": "2026-07-07T03:34:26Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Dołącz do seminarium internetowego WHO na temat tego, jak istniejące dowody i wytyczne WHO można wykorzystać do informowania praktyki, wspierając kraje w planowaniu, ustalaniu priorytetów i wdrażaniu zintegrowanych, kluczowych usług dostosowanych do potrzeb populacji w ramach systemów podstawowej opieki zdrowotnej (PHC)."
+    },
     {
       "title": "Nowe spojrzenie na medycynę reprodukcyjną w dobie sztucznej inteligencji - The Lancet",
       "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00188-3/abstract",
       "date": "2026-07-07T00:49:27Z",
       "source": "The Lancet",
       "confirmed_by": 3,
-      "summary": "Nowe spojrzenie na medycynę reprodukcyjną w dobie sztucznej inteligencji The Lancet."
-    },
-    {
-      "title": "Nowe spojrzenie na medycynę reprodukcyjną w dobie sztucznej inteligencji - The Lancet",
-      "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00188-3/fulltext",
-      "date": "2026-07-07T00:15:59Z",
-      "source": "The Lancet",
-      "confirmed_by": 2,
       "summary": "Nowe spojrzenie na medycynę reprodukcyjną w dobie sztucznej inteligencji The Lancet."
     },
     {
@@ -2000,7 +1936,7 @@
       "summary": "Siódme spotkanie Międzyrządowej Grupy Roboczej (IGWG) ds. Porozumienia WHO w sprawie pandemii odbędzie się w formacie hybrydowym w dniach 6–17 lipca 2026 r."
     },
     {
-      "title": "Światowe Forum Parlamentarne Światowego Zgromadzenia Zdrowia: od zaangażowania w działania na rzecz Porozumienia Pandemicznego WHO i zrównoważonego finansowania zdrowia - Światowa Organizacja Zdrowia (WHO)",
+      "title": "Światowe Forum Parlamentarne Światowego Zgromadzenia Zdrowia: od zaangażowania w działania na rzecz Porozumienia WHO w sprawie pandemii i zrównoważonego finansowania zdrowia - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/06-07-2026-world-health-assembly-global-parliamentary-forum-from-commitment-to-action-on-the-who-pandemic-agreement-and-sustainable-financing-for-health",
       "date": "2026-07-06T16:58:18Z",
       "source": "WHO Disease Outbreak News",
