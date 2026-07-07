@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T16:01:15Z",
+  "last_updated": "2026-07-07T16:02:20Z",
   "poland": [
     {
       "title": "MZ zmienia skład zespołu ds. anestezjologii. Po krytyce dołączają przedstawiciele NRL i PTAiIT - Alert Medyczny",
@@ -409,7 +409,7 @@
       "date": "2026-07-07T15:59:52Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Dane rzeczywiste pokazują, że dupilumab zapewnia dłuższą 1-letnią kontynuację leczenia niż metotreksat i cyklosporyna doustnie lub podskórnie."
+      "summary": "Dane rzeczywiste wskazują, że dupilumab zapewnia dłuższą 1-letnią kontynuację leczenia niż metotreksat i cyklosporyna doustnie lub podskórnie."
     },
     {
       "title": "Fala upałów na kontynencie: w Europie szaleją pożary – BMJ",
@@ -425,7 +425,7 @@
       "date": "2026-07-07T15:41:20Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Dzisiejszy biuletyn D.C. Diagnosis porusza temat utrzymywania różnorodności w badaniach leków i niepokojących trendów w ubezpieczeniach zdrowotnych zapewnianych przez pracodawców."
+      "summary": "Dzisiejszy biuletyn DC Diagnosis porusza temat utrzymywania różnorodności w badaniach leków i niepokojących trendów w ubezpieczeniach zdrowotnych zapewnianych przez pracodawców."
     },
     {
       "title": "Endometrioza: nowe testy „zmieniające reguły gry” mogą przyspieszyć diagnostykę w podstawowej opiece zdrowotnej – BMJ",
@@ -851,7 +851,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
     },
     {
       "title": "Ekstrakty z pyłków traw | Interakcje – BNFC",
@@ -966,12 +966,44 @@
       "summary": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) Europejskie Towarzystwo Kardiologiczne."
     },
     {
-      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu na rok 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
+      "title": "Ritlecitynib w leczeniu niesegmentowego bielactwa nabytego u osób w wieku 12 lat i starszych [ID6584] - witryna internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta11744/documents/html-content",
+      "date": "2026-07-04T06:22:22Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Ritlecitynib w leczeniu niesegmentowego bielactwa nabytego u osób w wieku 12 lat i starszych [ID6584] Strona internetowa NICE."
+    },
+    {
+      "title": "Notatki | Dokumenty projektowe | Autoleucel afamitresgenu w leczeniu wcześniej leczonego zaawansowanego mięsaka maziowego z dodatnim wynikiem MAGE-A4 lub liposarcomy śluzowatej okrągłokomórkowej [ID4064] | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta11040/documents/html-content",
+      "date": "2026-07-04T06:13:01Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Dokumenty projektowe | Autoleucel afamitresgenu w leczeniu wcześniej leczonego zaawansowanego mięsaka maziowego z dodatnim wynikiem MAGE-A4 lub liposarcomy śluzowatej okrągłokomórkowej [ID4064] | Poradnik NICE."
+    },
+    {
+      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu z roku 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/video-series-ais",
       "date": "2026-07-04T05:05:12Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Opieka nad chorymi na ostry udar niedokrwienny mózgu w dalszym ciągu szybko ewoluuje, a nowe dowody zmieniają sposób przedszpitalnej segregacji pacjentów, obrazowania, strategii reperfuzji i opieki zespołowej przez całe życie. Ta czteroczęściowa seria filmów przedstawia autorów Wytycznych Amerykańskiego Towarzystwa Kardiologicznego dotyczących ostrego udaru niedokrwiennego z 2026 r., przedstawiających zmieniające praktykę aktualizacje dla klinicystów medycyny ratunkowej, neurointerwencjonistów, specjalistów w dziedzinie obrazowania, pielęgniarek, koordynatorów udaru i pediatrycznych zespołów udarowych."
+    },
+    {
+      "title": "Acalabrutinib z wenetoklaksem i obinutuzumabem na nieleczoną przewlekłą białaczkę limfatyczną [ID6156] - witryna NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta11087/documents/html-content-3",
+      "date": "2026-07-04T03:24:24Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Acalabrutinib z wenetoklaksem i obinutuzumabem w leczeniu nieleczonej przewlekłej białaczki limfatycznej [ID6156] Strona internetowa NICE."
+    },
+    {
+      "title": "Pembrolizumab z ipilimumabem w leczeniu zaawansowanego niedrobnokomórkowego raka płuc z ekspresją PD-L1 [ID3861] - witryna NICE",
+      "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ta10780/documents",
+      "date": "2026-07-04T02:06:32Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Pembrolizumab z ipilimumabem w leczeniu zaawansowanego niedrobnokomórkowego raka płuc z ekspresją PD-L1 [ID3861] Strona internetowa NICE."
     },
     {
       "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -988,6 +1020,14 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "W lipcu AOTMiT rozpoczyna prace nad zleceniami Ministra Zdrowia:."
+    },
+    {
+      "title": "Okrągły Stół Pacjenta ESC – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-forum-what-we-do/esc-patient-round-table/",
+      "date": "2026-07-03T14:15:46Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Okrągły Stół Pacjentów ESC to inicjatywa Forum Pacjentów ESC, której celem jest umożliwienie zorganizowanej, wielostronnej współpracy pomiędzy pacjentami, pracownikami służby zdrowia i partnerami branżowymi."
     },
     {
       "title": "NIL - Deklarujemy pełną gotowość do współpracy. Prezes NRL przedstawił postulaty samorządu premierowi Donaldowi Tuskowi - NIL",
@@ -1019,7 +1059,7 @@
       "date": "2026-07-02T17:02:26Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "W niniejszym raporcie opisano seroprewalencję alfa-gal immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
+      "summary": "W niniejszym raporcie opisano seroprewalencję alfa-galowej immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
     },
     {
       "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. | MMWR – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1102,28 +1142,12 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 874, z dniem ogłoszenia 2026-06-30."
     },
     {
-      "title": "Czasowe zmiany wyniku terapii medycznej ukierunkowanej na wytyczne – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/news-room/temporal-changes-in-guideline-directed-medical-therapy-score/",
-      "date": "2026-06-30T15:11:34Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Optymalizacja terapii medycznej opartej na wytycznych (GDMT) jest podstawą leczenia niewydolności serca (HF). Wdrożenie terapii zalecanych przez wytyczne, w oparciu o wyniki licznych badań z randomizacją, w tym tak zwanej „fantastycznej czwórki” (inhibitory układu renina-angiotensyna, beta-blokery, antagoniści receptora mineralokortykoidowego i inhibitory SGLT2), jest głównym motorem poprawy leczenia niewydolności serca (HFT)."
-    },
-    {
       "title": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/expert-consensus-document-second-universal-definition-of-heart-failure-2026",
       "date": "2026-06-29T12:58:24Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych, aby opublikować pierwszą uniwersalną definicję niewydolności serca, ustanawiając jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
-    },
-    {
-      "title": "Nowe wytyczne praktyki klinicznej dotyczące samobójstw i samookaleczeń u dzieci – Medical Journal of Australia (MJA)",
-      "url": "https://insightplus.mja.com.au/2026/25/new-clinical-practice-guidelines-for-suicide-and-self-harm-in-children",
-      "date": "2026-06-28T14:05:06Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Oparte na dowodach wytyczne pokazują, co przeżyte doświadczenie może nam powiedzieć o obecnym stanie systemu zdrowia psychicznego."
     },
     {
       "title": "Ograniczone wytyczne dotyczące kosztów początkowych w wytycznych amerykańskich – Conexiant",
@@ -1134,12 +1158,12 @@
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
     },
     {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/869",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
+      "title": "Protokół wytycznych praktyki klinicznej dotyczących akupunktury w leczeniu przewlekłego nieswoistego bólu krzyża – Frontiers",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1834549/full",
+      "date": "2026-06-23T09:18:39Z",
+      "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
+      "summary": "Wstęp Przewlekły nieswoisty ból krzyża (CNLBP) jest częstą chorobą układu mięśniowo-szkieletowego, która dotyka dorosłych na całym świecie. Działania niepożądane związane z dr..."
     }
   ],
   "epidemiology": [
@@ -1165,7 +1189,7 @@
       "date": "2026-07-07T10:48:44Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Przy wsparciu Światowej Organizacji Zdrowia (WHO) program szkoleniowy „Opieka nad rozwojem dziecka” (CCD) pomaga pracownikom służby zdrowia w Jordanii wzmacniać skoncentrowane na rodzinie podejście do zdrowia i rozwoju dzieci w ramach usług podstawowej opieki zdrowotnej."
+      "summary": "Dzięki wsparciu Światowej Organizacji Zdrowia (WHO) program szkoleniowy „Opieka nad rozwojem dziecka” (CCD) pomaga pracownikom służby zdrowia w Jordanii wzmacniać skoncentrowane na rodzinie podejście do zdrowia i rozwoju dzieci w ramach usług podstawowej opieki zdrowotnej."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -1248,7 +1272,7 @@
       "summary": "W ciągu ośmiu sezonów chorób układu oddechowego szacowana skuteczność szczepionki przeciw grypie (VE) w zapobieganiu śmierci u dzieci w USA wyniosła ogółem 80%, 77% u dzieci z chorobami współistniejącymi i 87% wśród dzieci bez takich schorzeń, podają dziś w Pediatrics badacze z Centrum Kontroli i Zapobiegania Chorobom (CDC)."
     },
     {
-      "title": "Wezwanie do publicznego komentarza na temat ram strategicznych mających na celu przyspieszenie działań czterostronnych w sprawie ptasiej grypy – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Wezwanie do publicznego komentarza w sprawie ram strategicznych mających na celu przyspieszenie działań czterostronnych w sprawie ptasiej grypy – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/articles-detail/call-for-public-comment-on-a-strategic-framework-to-accelerate-quadripartite-action-on-avian-influenza",
       "date": "2026-07-06T18:24:11Z",
       "source": "WHO Disease Outbreak News",
@@ -1264,7 +1288,7 @@
       "summary": "Siódme spotkanie Międzyrządowej Grupy Roboczej (IGWG) ds. Porozumienia WHO w sprawie pandemii odbędzie się w formacie hybrydowym w dniach 6–17 lipca 2026 r."
     },
     {
-      "title": "Światowe Forum Parlamentarne Światowego Zgromadzenia Zdrowia: od zaangażowania w działania na rzecz Porozumienia WHO w sprawie pandemii i zrównoważonego finansowania zdrowia - Światowa Organizacja Zdrowia (WHO)",
+      "title": "Światowe Forum Parlamentarne Światowego Zgromadzenia Zdrowia: od zaangażowania w działania na rzecz Porozumienia Pandemicznego WHO i zrównoważonego finansowania zdrowia - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/06-07-2026-world-health-assembly-global-parliamentary-forum-from-commitment-to-action-on-the-who-pandemic-agreement-and-sustainable-financing-for-health",
       "date": "2026-07-06T16:58:18Z",
       "source": "WHO Disease Outbreak News",
@@ -1296,7 +1320,7 @@
       "summary": "Portal SPH to interaktywna platforma cyfrowa, która ułatwia udostępnianie i wymianę informacji dotyczących wielosektorowych inwestycji, działań i możliwości w zakresie bezpieczeństwa zdrowia na poziomie krajowym, regionalnym i globalnym."
     },
     {
-      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z 25. tygodnia zakończonego 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 25. kończący się 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-25.html",
       "date": "2026-07-06T16:35:37Z",
       "source": "CDC Outbreaks",
@@ -1373,7 +1397,7 @@
       "date": "2026-07-06T07:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Docelowy profil produktu dla preparatów hydroksymocznika do leczenia niedokrwistości sierpowatokrwinkowej u dzieci Światowa Organizacja Zdrowia (WHO)."
+      "summary": "Ten docelowy profil produktu (TPP) został opracowany przez Światową Organizację Zdrowia w celu wytyczania wytycznych w zakresie opracowywania, wytwarzania i zamawiania odpowiednich do wieku preparatów hydroksymocznika do leczenia niedokrwistości sierpowatokrwinkowej (SCD) u dzieci i młodzieży."
     },
     {
       "title": "Budowanie odpornych na klimat usług WASH w placówkach opieki zdrowotnej - Światowa Organizacja Zdrowia (WHO)",
@@ -1421,7 +1445,7 @@
       "date": "2026-07-02T20:09:29Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Ponieważ kryzys wywołany wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
+      "summary": "Ponieważ kryzys związany z wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
     },
     {
       "title": "Media społecznościowe odzwierciedlały emocje dorosłych Amerykanów podczas pierwszego wprowadzenia szczepionki na Covid-19 – CIDRAP",
@@ -1437,7 +1461,7 @@
       "date": "2026-07-02T19:52:33Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów związanych z epidemią wirusa Ebola w Demokratycznej Republice Konga (DRK) Światowa Organizacja Zdrowia (WHO) podała dziś, że pierwszy pacjent został leczony w ramach badania klinicznego dwiema terapiami przeciwwirusowymi."
+      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów związanych z epidemią wirusa Ebola w Demokratycznej Republice Konga (DRK) Światowa Organizacja Zdrowia (WHO) podała dziś, że pierwszy pacjent został poddany badaniu klinicznemu z zastosowaniem dwóch terapii przeciwwirusowych."
     },
     {
       "title": "Wzrost liczby chorób przenoszonych przez kleszcze w Illinois podkreśla potrzebę zapobiegania ukąszeniom kleszczy przez cały rok – CIDRAP",
@@ -1453,7 +1477,7 @@
       "date": "2026-07-02T16:23:09Z",
       "source": "Outbreak News Today",
       "confirmed_by": 1,
-      "summary": "Według aktualizacji sytuacyjnej z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
+      "summary": "Według aktualizacji sytuacji z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
     },
     {
       "title": "Stażysta Sił Powietrznych w San Antonio w Teksasie zmarł na grypę – CIDRAP",
@@ -1488,7 +1512,7 @@
       "summary": "Nowe badanie wykazało, że korzyści płynące z technologii mRNA są znaczne, a poważne zdarzenia niepożądane występują rzadko."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300 – EpidemiaEbolaEbola.com",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
       "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
       "date": "2026-07-01T09:17:27Z",
       "source": "Outbreak News Today",
@@ -1660,7 +1684,7 @@
       "summary": "Compass Pathways jest na dobrej drodze do zakończenia składania wniosków do NDA w sprawie depresji opornej na leczenie do końca roku, pomimo spadku zapasów."
     },
     {
-      "title": "Hengrui i posty dotyczące pigułki GLP-1 Kailery zachęcają do skuteczności, ale mają wysoki odsetek skutków ubocznych w późnych stadiach badań w Chinach – Wiadomości z punktów końcowych",
+      "title": "Hengrui i posty dotyczące pigułki GLP-1 firmy Kailera zachęcają do skuteczności, ale mają wysoki odsetek skutków ubocznych w późnych fazach badań w Chinach – Wiadomości z punktów końcowych",
       "url": "https://endpoints.news/hengrui-kaileras-glp-1-pill-posts-encouraging-efficacy-but-high-side-effect-rates-in-late-stage-china-trials/",
       "date": "2026-07-07T15:25:00Z",
       "source": "Endpoints News",
@@ -1745,7 +1769,7 @@
       "date": "2026-07-07T12:54:08Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Po znaczących naciskach ze strony największych graczy w branży na rzecz uproszczenia swojej działalności w ostatnich latach, Tanabe Pharma jest | Transakcja, choć nie na taką samą skalę, jak niektóre główne wydzielenia Big Pharma w ostatnich latach, przebiega według zauważalnego wzorca, w ramach którego zróżnicowani producenci leków uprościli swoje struktury, aby w większym stopniu skoncentrować się na innowacyjnych lekach."
+      "summary": "Po znaczących naciskach ze strony największych graczy w branży na rzecz uproszczenia swojej działalności w ostatnich latach, Tanabe Pharma jest | Transakcja, choć nie na taką samą skalę, jak niektóre z głównych wydzieleń Big Pharma w ostatnich latach, przebiega według zauważalnego wzorca, w ramach którego zróżnicowani producenci leków uprościli swoje struktury, aby w większym stopniu skoncentrować się na innowacyjnych lekach."
     },
     {
       "title": "Vertex w ramach największej w historii transakcji przejmuje firmę Crinetics specjalizującą się w chorobach endokrynologicznych za 10 miliardów dolarów - Fierce Pharma",
@@ -1753,7 +1777,7 @@
       "date": "2026-07-07T12:08:00Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Vertex Pharmaceuticals zawarł największą w historii transakcję nabycia o wartości 10 miliardów dolarów | Firma Vertex Pharmaceuticals zawarła największą w historii transakcję o wartości 10 miliardów dolarów na przejęcie firmy Crinetics Pharmaceuticals, specjalizującej się w chorobach endokrynologicznych. Dwa obszary transakcji, Palsonify i atumelnant, osiągnęły łącznie maksymalny potencjał sprzedaży wynoszący ponad 5 miliardów dolarów, powiedział Vertex."
+      "summary": "Vertex Pharmaceuticals zawarł największą w historii umowę nabycia o wartości 10 miliardów dolarów | Firma Vertex Pharmaceuticals zawarła największą w historii transakcję o wartości 10 miliardów dolarów na przejęcie firmy Crinetics Pharmaceuticals, specjalizującej się w chorobach endokrynologicznych. Dwa obszary transakcji, Palsonify i atumelnant, osiągnęły łącznie maksymalny potencjał sprzedaży wynoszący ponad 5 miliardów dolarów, powiedział Vertex."
     },
     {
       "title": "Endogenex ogłasza pełną rekrutację do badania klinicznego ReCET – BioSpace",
@@ -2033,7 +2057,7 @@
       "date": "2026-07-07T00:45:37Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Amerykańska Agencja ds. Żywności i Leków zatwierdziła lek Lumvoa (veligrotug-vvze) do leczenia chorób oczu tarczycy (TED). Lek Lumvoa otrzymał terapię przełomową."
+      "summary": "Amerykańska Agencja ds. Żywności i Leków zatwierdziła lek Lumvoa (veligrotug-vvze) do leczenia chorób tarczycy i oczu (TED). Lek Lumvoa otrzymał terapię przełomową."
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
@@ -2059,7 +2083,7 @@
       "date": "2026-07-02T16:23:09Z",
       "source": "Outbreak News Today",
       "confirmed_by": 1,
-      "summary": "Według aktualizacji sytuacyjnej z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
+      "summary": "Według aktualizacji sytuacji z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
     },
     {
       "title": "Liczba zgonów z powodu wirusa Ebola w Afryce znajduje się na liście 400 najlepszych, ponieważ Uganda zgłasza śmierć dziecka z Marburga – CIDRAP",
@@ -2070,7 +2094,7 @@
       "summary": "Liczba ofiar epidemii wirusa Ebola Bundibugyo w Afryce w dalszym ciągu rośnie – w Demokratycznej Republice Konga (DRK) i Ugandzie odnotowano łącznie co najmniej 1354 zakażenia i 401 zgonów, w miarę jak śledczy śledzą potencjalne rozprzestrzenianie się wirusa na nowe prowincje DRK, a Uganda potwierdza zakażenie Marburgiem u dziecka, które zmarło z powodu wirusa. Podobnie jak Ebola, blisko spokrewniony wirus Marburg powoduje gorączkę krwotoczną."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300 – EpidemiaEbolaEbola.com",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
       "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
       "date": "2026-07-01T09:17:27Z",
       "source": "Outbreak News Today",
@@ -2102,7 +2126,7 @@
       "summary": "Informacja o nowym ognisku E. coli związanym z mrożonymi jagodami."
     },
     {
-      "title": "Wezwanie do publicznego komentarza na temat ram strategicznych mających na celu przyspieszenie działań czterostronnych w sprawie ptasiej grypy – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Wezwanie do publicznego komentarza w sprawie ram strategicznych mających na celu przyspieszenie działań czterostronnych w sprawie ptasiej grypy – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/articles-detail/call-for-public-comment-on-a-strategic-framework-to-accelerate-quadripartite-action-on-avian-influenza",
       "date": "2026-07-06T18:24:11Z",
       "source": "WHO Disease Outbreak News",
@@ -2144,7 +2168,7 @@
       "summary": "Siódme spotkanie Międzyrządowej Grupy Roboczej (IGWG) ds. Porozumienia WHO w sprawie pandemii odbędzie się w formacie hybrydowym w dniach 6–17 lipca 2026 r."
     },
     {
-      "title": "Światowe Forum Parlamentarne Światowego Zgromadzenia Zdrowia: od zaangażowania w działania na rzecz Porozumienia WHO w sprawie pandemii i zrównoważonego finansowania zdrowia - Światowa Organizacja Zdrowia (WHO)",
+      "title": "Światowe Forum Parlamentarne Światowego Zgromadzenia Zdrowia: od zaangażowania w działania na rzecz Porozumienia Pandemicznego WHO i zrównoważonego finansowania zdrowia - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/06-07-2026-world-health-assembly-global-parliamentary-forum-from-commitment-to-action-on-the-who-pandemic-agreement-and-sustainable-financing-for-health",
       "date": "2026-07-06T16:58:18Z",
       "source": "WHO Disease Outbreak News",
