@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T10:09:53Z",
+  "last_updated": "2026-07-07T10:10:34Z",
   "poland": [
     {
       "title": "Postępowanie podczas niekorzystnych zjawisk atmosferycznych - Gov.pl",
@@ -484,14 +484,6 @@
       "summary": "{{getUserDateTimezone(\"1784739600\").singleDate}} {{getUserDateTimezone(\"1784739600\").time}} - {{getUserDateTimezone(\"1784742300\").time}} {{getClientTimezoneName()}}."
     },
     {
-      "title": "5 wniosków z serii STAT na temat rosnących kosztów ubezpieczenia zdrowotnego - STAT",
-      "url": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
-      "date": "2026-07-07T08:32:42Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj 5 kluczowych wniosków z serii STAT „Out of Pocket, Out of Reach” – analizy ubezpieczenia zdrowotnego w miejscu pracy."
-    },
-    {
       "title": "Medycyna uważa, że ​​pokolenie Z jest zbyt miękkie. Źle – STAT",
       "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
       "date": "2026-07-07T08:32:42Z",
@@ -500,8 +492,16 @@
       "summary": "„Lekarze pokolenia Z są na kursie kolizyjnym z instytucjami wciąż zbudowanymi w oparciu o starsze założenia” – pisze Frantz M. Berthaud."
     },
     {
+      "title": "5 wniosków z serii STAT na temat rosnących kosztów ubezpieczenia zdrowotnego - STAT",
+      "url": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
+      "date": "2026-07-07T08:32:42Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj 5 kluczowych wniosków z serii STAT „Out of Pocket, Out of Reach” – analizy ubezpieczenia zdrowotnego w miejscu pracy."
+    },
+    {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
-      "url": "https://www.statnews.com/category/out-of-pocket-out-of-reach/",
+      "url": "https://www.statnews.com/health-insurance-costs-out-of-pocket-out-of-reach-series",
       "date": "2026-07-07T08:32:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -509,7 +509,7 @@
     },
     {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
-      "url": "https://www.statnews.com/health-insurance-costs-out-of-pocket-out-of-reach-series",
+      "url": "https://www.statnews.com/category/out-of-pocket-out-of-reach/",
       "date": "2026-07-07T08:32:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -819,7 +819,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "Ekstrakty z pyłków traw | Interakcje – BNFC",
@@ -990,6 +990,14 @@
       "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     },
     {
+      "title": "AAOS publikuje wytyczne praktyki klinicznej dotyczące leczenia choroby zwyrodnieniowej stawu skokowego - Ortho Spine News",
+      "url": "https://orthospinenews.com/2026/07/02/aaos-releases-clinical-practice-guideline-for-management-of-ankle-osteoarthritis/",
+      "date": "2026-07-02T17:38:22Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Pierwsze wytyczne dotyczące choroby zwyrodnieniowej stawu skokowego podkreślają obciążenie młodszych pacjentów i luki w dowodach w leczeniu."
+    },
+    {
       "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a1.htm",
       "date": "2026-07-02T17:02:26Z",
@@ -1006,28 +1014,12 @@
       "summary": "W raporcie opisano dwa ogniska legionellozy w dwóch hotelach na Wyspach Dziewiczych Stanów Zjednoczonych."
     },
     {
-      "title": "AAOS publikuje wytyczne praktyki klinicznej dotyczące leczenia choroby zwyrodnieniowej stawu skokowego – PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/aaos-releases-clinical-practice-guideline-for-management-of-ankle-osteoarthritis-302816181.html",
-      "date": "2026-07-02T13:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "/PRNewswire/ -- Amerykańska Akademia Chirurgów Ortopedów (AAOS) opublikowała nowe wytyczne dotyczące praktyki klinicznej (CPG) dotyczące leczenia choroby zwyrodnieniowej stawu skokowego..."
-    },
-    {
       "title": "Nadzór nad Candida auris — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
       "date": "2026-07-02T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
-    },
-    {
-      "title": "Wytyczne dotyczące zdrowia publicznego dotyczące planowania reakcji VHF | Wirusowa gorączka krwotoczna (VHF) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/viral-hemorrhagic-fevers/php/public-health-strategy/vhf-response-planning.html",
-      "date": "2026-07-02T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Zalecenia CDC dla wydziałów zdrowia publicznego dotyczące przygotowania i reagowania na krajowe przypadki VHF."
     },
     {
       "title": "Tom 16 - Europejskie Towarzystwo Kardiologiczne",
