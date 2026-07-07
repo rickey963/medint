@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-07T18:04:49Z",
+  "last_updated": "2026-07-07T18:05:43Z",
   "poland": [
+    {
+      "title": "Komornik i kara - Termedia",
+      "url": "https://www.termedia.pl/mz/Komornik-i-kara,68067.html",
+      "date": "2026-07-07T18:04:07Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "W „Menedżerze Zdrowia” znajdziesz najnowsze wiadomości dotyczące systemu ochrony zdrowia, najciekawsze komentarze i opinie, a także analizy i raporty. Na łamach „Menedżera Zdrowia” eksperci piszą dla ekspertów, liderzy opinii dzielą się spostrzeżenia na temat ochrony zdrowia, zauważają bolączki systemu, proponują rozwiązania, a także oceniają działania podjęte przez Ministerstwo Zdrowia i Narodowy Fundusz Zdrowia. Komentują, analizują i dywagują."
+    },
     {
       "title": "Hemofilia A u dorosłych. PTHiT apeluje o ciągłość leczenia i racjonalny dostęp do terapii podskórnych - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/hemofilia-a-u-doroslych-n2404055",
@@ -109,7 +117,7 @@
       "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/katowice2631,2907.html",
       "date": "2026-07-07T13:41:00Z",
-      "source": "Ministerstwo Zdrowia RP",
+      "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
       "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
     },
@@ -392,14 +400,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Pacjenci z zespołem Alagille’a zyskali nowe leczenie w programie B.175 PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Roboty wykonują coraz więcej operacji - Termedia",
-      "url": "https://www.termedia.pl/mz/Roboty-wykonuja-coraz-wiecej-operacji,68065.html",
-      "date": "2026-07-07T10:29:00Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "Chirurgia robotowa w Polsce od kilku lat notuje dynamiczny progres. W 2025 r. w 93 szpitalach przeprowadzono przeszło 24,5 tys."
     }
   ],
   "world": [
@@ -433,7 +433,7 @@
       "date": "2026-07-07T16:41:55Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Powszechnym stereotypem dotyczącym pracy lekarzy pierwszego kontaktu – podzielanym przez niektórych polityków i specjalistów szpitali, a także przez społeczeństwo – jest to, że zajmujemy się głównie prostymi lub trywialnymi problemami, a wszystko inne odsyłamy do dalszej pracy: jest to rola czasami opisywana jako „sortowanie, naprawianie lub wysyłanie”.1 Podczas gdy niektórzy lekarze pierwszego kontaktu wykonują swoją praktykę w ten ubogi sposób, a presja, aby to robić, wydaje się nieustannie rosnąć, większość doświadczonych lekarzy uzna ten opis za parodię naszych ról. Wiele problemów, jakie ludzie zgłaszają do gabinetu, jest złożonych, wielowarstwowych i często niemożliwych do rozwiązania. Dzieje się tak zwłaszcza na obszarach ubogich i tam, gdzie lokalne zasoby są przeznaczone na cele społeczne, psychiczne itp."
+      "summary": "Powszechnym stereotypem dotyczącym pracy lekarzy pierwszego kontaktu – podzielanym przez niektórych polityków i specjalistów szpitali, a także przez społeczeństwo – jest to, że zajmujemy się głównie prostymi lub trywialnymi problemami, a wszystko inne odsyłamy do dalszej pracy: jest to rola czasami opisywana jako „sortowanie, naprawianie lub wysyłanie”.1 Podczas gdy niektórzy lekarze pierwszego kontaktu wykonują swoją praktykę w ten ubogi sposób, a presja, aby to robić, wydaje się nieustannie rosnąć, większość doświadczonych lekarzy uzna ten opis za parodię naszych ról. Wiele problemów, jakie ludzie zgłaszają do gabinetu, jest złożonych, wielowarstwowych i często niemożliwych do rozwiązania. Dzieje się tak zwłaszcza na obszarach ubogich i tam, gdzie dostępne są lokalne zasoby społeczne, psychiczne itp."
     },
     {
       "title": "Czasoprzestrzenne rozprzestrzenianie się epidemii Oropouche na Kubie w 2024 r. – Przyroda",
@@ -561,7 +561,7 @@
       "date": "2026-07-07T13:16:12Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Vertex Pharmaceuticals wyda 10 miliardów dolarów na przejęcie firmy Crinetics Pharmaceuticals i jej leku na rzadkie zaburzenia endokrynologiczne."
+      "summary": "Vertex Pharmaceuticals wyda 10 miliardów dolarów na przejęcie Crinetics Pharmaceuticals i jej leku na rzadkie zaburzenia endokrynologiczne."
     },
     {
       "title": "Wyniki, czynniki prognostyczne i rola monitorowania ciśnienia wewnątrzczaszkowego w ciężkim pozaszpitalnym bakteryjnym zapaleniu opon mózgowo-rdzeniowych: wieloośrodkowe retrospektywne badanie kohortowe - The Lancet",
@@ -851,7 +851,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "Ekstrakty z pyłków traw | Interakcje – BNFC",
@@ -1035,7 +1035,7 @@
       "date": "2026-07-02T17:02:26Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "W raporcie opisano dwa ogniska legionellozy w dwóch hotelach na Wyspach Dziewiczych Stanów Zjednoczonych."
+      "summary": "W niniejszym raporcie opisano dwa ogniska legionellozy w dwóch hotelach na Wyspach Dziewiczych Stanów Zjednoczonych."
     },
     {
       "title": "AAOS publikuje wytyczne praktyki klinicznej dotyczące leczenia choroby zwyrodnieniowej stawu skokowego – PR Newswire",
@@ -1075,7 +1075,7 @@
       "date": "2026-07-01T16:16:35Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca TRICARE Newsroom (.mil)."
+      "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych w dniu 17 lipca TRICARE Newsroom (.mil)."
     },
     {
       "title": "Czy leki GLP-1 mogą poprawić stan zdrowia osób chorych na cukrzycę typu 2 i PAD? - www.serce.org",
@@ -1084,6 +1084,14 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Jak wynika z nowego badania opublikowanego w czasopiśmie Journal of the American Heart Association, korzyści ze stosowania leków GLP-1 były największe w przypadku osób z ciężką chorobą tętnic obwodowych (PAD) i osób z otyłością."
+    },
+    {
+      "title": "Szkolenie OK COBIK NIL - Lekarzu, zadbaj o siebie. Jak wdrożyć self-care w przeładowany grafik? - NIL",
+      "url": "https://nil.org.pl/eventToPdf/1548",
+      "date": "2026-07-01T04:53:43Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Szkolenie OK COBIK NIL - Lekarzu, zadbaj o siebie. Jak wdrożyć self-care w przeładowany grafik? NIL."
     },
     {
       "title": "Niewydolność serca: nowa definicja poprawi diagnostykę i zmieni opiekę – Healthline",
@@ -1237,7 +1245,7 @@
       "date": "2026-07-06T19:23:28Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "W ciągu ośmiu sezonów chorób układu oddechowego szacowana skuteczność szczepionki przeciw grypie (VE) w zapobieganiu śmierci u dzieci w USA wyniosła ogółem 80%, 77% u dzieci z chorobami współistniejącymi i 87% wśród dzieci bez takich schorzeń, podają dziś w Pediatrics badacze z Centrum Kontroli i Zapobiegania Chorobom (CDC)."
+      "summary": "W ciągu ośmiu sezonów chorób układu oddechowego szacowana skuteczność szczepionki przeciw grypie (VE) przeciwko śmierci u dzieci w USA wyniosła ogółem 80%, 77% u dzieci z chorobami współistniejącymi i 87% u dzieci bez takich schorzeń, podają dziś w Pediatrics badacze z Centrum Kontroli i Zapobiegania Chorobom (CDC)."
     },
     {
       "title": "Wezwanie do publicznego komentarza w sprawie ram strategicznych mających na celu przyspieszenie działań czterostronnych w sprawie ptasiej grypy – Światowa Organizacja Zdrowia (WHO)",
@@ -1304,7 +1312,7 @@
       "summary": "Podczas gdy ludzie w całej Europie przygotowują się do wakacji, imprez na świeżym powietrzu i spotkań towarzyskich, ECDC zachęca wszystkich do podjęcia kilku prostych środków ostrożności, aby zachować zdrowie w miesiącach letnich."
     },
     {
-      "title": "Biblioteka obrazów zdrowia publicznego (PHIL) — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Biblioteka obrazów zdrowia publicznego (PHIL) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwn.cdc.gov/PHIL/Details.aspx?pid=12751",
       "date": "2026-07-06T11:13:25Z",
       "source": "CDC Outbreaks",
@@ -1437,10 +1445,10 @@
       "date": "2026-07-02T19:52:33Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów związanych z epidemią wirusa Ebola w Demokratycznej Republice Konga (DRK) Światowa Organizacja Zdrowia (WHO) podała dziś, że pierwszy pacjent został leczony w ramach badania klinicznego dwiema terapiami przeciwwirusowymi."
+      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów związanych z epidemią wirusa Ebola w Demokratycznej Republice Konga (DRK) Światowa Organizacja Zdrowia (WHO) podała dziś, że pierwszy pacjent został poddany badaniu klinicznemu z zastosowaniem dwóch terapii przeciwwirusowych."
     },
     {
-      "title": "Wzrost liczby chorób przenoszonych przez kleszcze w Illinois podkreśla potrzebę zapobiegania ukąszeniom kleszczy przez cały rok – CIDRAP",
+      "title": "Wzrost liczby chorób przenoszonych przez kleszcze w Illinois uwydatnia potrzebę zapobiegania ukąszeniom kleszczy przez cały rok – CIDRAP",
       "url": "https://www.cidrap.umn.edu/tick-borne-disease/increase-tick-borne-diseases-illinois-highlights-need-prevent-tick-bites-year",
       "date": "2026-07-02T19:34:53Z",
       "source": "CIDRAP",
@@ -1469,7 +1477,7 @@
       "date": "2026-07-01T20:54:36Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia (WHO) opublikowała nowy „plan”, który ma pomóc krajom zareagować na rosnące zagrożenie infekcjami grzybiczymi i opornością na leki przeciwgrzybicze."
+      "summary": "Światowa Organizacja Zdrowia (WHO) opublikowała nowy „plan”, który ma pomóc krajom zareagować na rosnące zagrożenie infekcjami grzybiczymi i opornością na środki przeciwgrzybicze."
     },
     {
       "title": "Liczba zgonów z powodu wirusa Ebola w Afryce znajduje się na liście 400 najlepszych, ponieważ Uganda zgłasza śmierć dziecka z Marburga – CIDRAP",
@@ -1488,7 +1496,7 @@
       "summary": "Nowe badanie wykazało, że korzyści płynące z technologii mRNA są znaczne, a poważne zdarzenia niepożądane występują rzadko."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300 – Epidemia Ebola.com",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
       "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
       "date": "2026-07-01T09:17:27Z",
       "source": "Outbreak News Today",
@@ -1599,7 +1607,7 @@
       "date": "2026-07-06T17:23:53Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Pierwszy pacjent otrzymał dawkę w badaniu Clinical Trials Arena firmy Molecular i Orano Med MP0712."
+      "summary": "Pierwszy pacjent, któremu podano dawkę w badaniu Clinical Trials Arena firmy Molecular i Orano Med MP0712."
     },
     {
       "title": "Brii Bio raportuje wyniki badań ENRICH i ENHANCE na koniec leczenia – Clinical Trials Arena",
@@ -1639,7 +1647,7 @@
       "date": "2026-07-04T22:53:25Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Czy ostatnie orzeczenia sądu i audyt rządowy ożywiają pytania dotyczące zarządzania szczepionkami w Korei Południowej? Wybitny południowokoreański artykuł opiniodawczy wznowił debatę na temat zarządzania przez rząd szczepionkami przeciwko Covid-19 podczas pandemii, argumentując, że kontrowersje wykraczają obecnie poza bezpieczeństwo szczepionek i obejmują kwestie nadzoru regulacyjnego, przejrzystości i odpowiedzialności. Napisany przez Seo Min, profesora parazytologii na Uniwersytecie Dankook, artykuł wstępny jest następstwem kilku orzeczeń sądowych uznających roszczenia odszkodowawcze w związku ze śmiercią po szczepieniu przeciwko Covid-19 i odwołuje się do krajowego audytu, w którym krytykowano aspekty sposobu, w jaki Koreańska Agencja Kontroli i Zapobiegania Chorobom (KDCA) zajmuje się raportami dotyczącymi jakości szczepionek."
+      "summary": "Czy ostatnie orzeczenia sądu i audyt rządowy ożywiają pytania dotyczące zarządzania szczepionkami w Korei Południowej? Wybitny południowokoreański artykuł poglądowy wznowił debatę na temat zarządzania przez rząd szczepionkami przeciwko Covid-19 podczas pandemii, argumentując, że kontrowersje wykraczają obecnie poza bezpieczeństwo szczepionek i obejmują kwestie nadzoru regulacyjnego, przejrzystości i odpowiedzialności. Napisany przez Seo Min, profesora parazytologii na Uniwersytecie Dankook, artykuł wstępny jest następstwem kilku orzeczeń sądowych uznających roszczenia odszkodowawcze w związku ze śmiercią po szczepieniu przeciwko Covid-19 i odwołuje się do krajowego audytu, w którym krytykowano aspekty sposobu, w jaki Koreańska Agencja Kontroli i Zapobiegania Chorobom (KDCA) zajmuje się raportami dotyczącymi jakości szczepionek."
     },
     {
       "title": "Pogłębia się tajemnica nadmiernej śmierci w Japonii: nowa analiza wskazuje na utrzymujący się wzrost śmiertelności i pytania bez odpowiedzi pięć lat po Covid-19",
@@ -1668,7 +1676,7 @@
       "summary": "Kiedy około sześć lat temu firma Vera Therapeutics uzyskała licencję na atakacicept od firmy Merck KGaA, pacjenci z nefropatią IgA (IgAN) nie mieli możliwości leczenia zatwierdzonych przez FDA. | Kiedy około sześć lat temu firma Vera Therapeutics uzyskała licencję na atakacicept od firmy Merck KGaA, pacjenci z nefropatią IgA (IgAN) nie mieli możliwości leczenia zatwierdzonych przez FDA. Obecnie lek o podwójnym działaniu przekroczył granicę wymaganą przez przepisy, ale wkracza w zupełnie inny krajobraz jako szósty lek zatwierdzony do leczenia rzadkiej choroby nerek."
     },
     {
-      "title": "Kailera twierdzi, że pigułka na otyłość zakończyła się sukcesem w późnej fazie badań w Chinach – BioPharma Dive",
+      "title": "Kailera twierdzi, że pigułka na otyłość zakończyła się sukcesem na późnym etapie badań w Chinach – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/kailera-hengrui-obesity-pill-china-study-results/824570/",
       "date": "2026-07-07T16:03:01Z",
       "source": "BioPharma Dive",
@@ -1676,7 +1684,7 @@
       "summary": "Lek spowodował utratę masy ciała o około 10% w ciągu 10 miesięcy, chociaż odkryciu temu towarzyszył wysoki odsetek działań niepożądanych ze strony przewodu pokarmowego, co „zaniepokoiło” jednego z analityków."
     },
     {
-      "title": "Poprawa dostępu branży do RWD może przyspieszyć zatwierdzanie leków, twierdzi brytyjski MHRA – Insights.citeline.com",
+      "title": "Poprawa dostępu branży do RWD może przyspieszyć zatwierdzanie leków, twierdzi brytyjskie MHRA – Insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/real-world-evidence/improving-industry-access-to-rwd-could-speed-up-drug-approvals-says-uk-mhra-YQMDE2LEGBCBJDBNTYYC3HM774/",
       "date": "2026-07-07T16:00:32Z",
       "source": "Pink Sheet",
@@ -1708,12 +1716,20 @@
       "summary": "Compass Pathways jest na dobrej drodze do zakończenia składania wniosków do NDA w sprawie depresji opornej na leczenie do końca roku, pomimo spadku zapasów."
     },
     {
-      "title": "Hengrui i posty dotyczące pigułki GLP-1 firmy Kailera zachęcają do skuteczności, ale mają wysoki odsetek skutków ubocznych w późnych fazach badań w Chinach – Wiadomości z punktów końcowych",
+      "title": "Hengrui i Kailera zamieszczają posty dotyczące pigułki GLP-1 zachęcające do skuteczności, ale charakteryzujące się wysokim odsetkiem skutków ubocznych w późnych fazach badań w Chinach - Wiadomości z punktów końcowych",
       "url": "https://endpoints.news/hengrui-kaileras-glp-1-pill-posts-encouraging-efficacy-but-high-side-effect-rates-in-late-stage-china-trials/",
       "date": "2026-07-07T15:25:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Pigułka GLP-1 HRS-7535 firmy Hengrui/Kailera spełniła punkty końcowe badania dotyczącego otyłości i cukrzycy w Chinach, ale powodowała silne nudności i wymioty, co wzbudziło obawy w porównaniu z tabletkami Lilly i Novo."
+    },
+    {
+      "title": "Badania mówią, że operacja odchudzania zwiększa ryzyko alkoholizmu",
+      "url": "https://www.drugs.com/news/weight-loss-surgery-increases-risk-alcoholism-study-says-130561.html",
+      "date": "2026-07-07T15:23:32Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "WTOREK, 7 lipca 2026 r. Operacja odchudzania może uratować życie osobom ze znaczną otyłością, ale od tego momentu będą musiały unikać alkoholu – wynika z nowego badania."
     },
     {
       "title": "Novartis ponownie redukuje siłę roboczą w New Jersey, zwalniając 322 pracowników – BioSpace",
@@ -1793,7 +1809,7 @@
       "date": "2026-07-07T12:54:08Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Po znaczących naciskach ze strony największych graczy w branży na rzecz uproszczenia swojej działalności w ostatnich latach, Tanabe Pharma jest | Transakcja, choć nie na taką samą skalę, jak niektóre z głównych wydzieleń Big Pharma w ostatnich latach, przebiega według zauważalnego wzorca, w ramach którego zróżnicowani producenci leków uprościli swoje struktury, aby w większym stopniu skoncentrować się na innowacyjnych lekach."
+      "summary": "Po znaczących naciskach ze strony największych graczy w branży na rzecz uproszczenia swojej działalności w ostatnich latach, Tanabe Pharma jest | Transakcja, choć nie na taką samą skalę, jak niektóre główne wydzielenia Big Pharma w ostatnich latach, przebiega według zauważalnego wzorca, w ramach którego zróżnicowani producenci leków uprościli swoje struktury, aby w większym stopniu skoncentrować się na innowacyjnych lekach."
     },
     {
       "title": "Vertex w ramach największej w historii transakcji przejmuje firmę Crinetics specjalizującą się w chorobach endokrynologicznych za 10 miliardów dolarów - Fierce Pharma",
@@ -2042,14 +2058,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Rejestracja zakładu i lista urządzeń accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=431&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F06%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicenamedesc",
-      "date": "2026-07-07T02:35:57Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     }
   ],
   "critical_alerts": [
@@ -2078,7 +2086,7 @@
       "summary": "Liczba ofiar epidemii wirusa Ebola Bundibugyo w Afryce w dalszym ciągu rośnie – w Demokratycznej Republice Konga (DRK) i Ugandzie odnotowano łącznie co najmniej 1354 zakażenia i 401 zgonów, w miarę jak śledczy śledzą potencjalne rozprzestrzenianie się wirusa na nowe prowincje DRK, a Uganda potwierdza zakażenie Marburgiem u dziecka, które zmarło z powodu wirusa. Podobnie jak Ebola, blisko spokrewniony wirus Marburg powoduje gorączkę krwotoczną."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300 – Epidemia Ebola.com",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga staje się trzecią co do wielkości w historii – liczba przypadków zbliża się do 1300",
       "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
       "date": "2026-07-01T09:17:27Z",
       "source": "Outbreak News Today",
