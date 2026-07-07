@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T10:34:03Z",
+  "last_updated": "2026-07-07T10:34:45Z",
   "poland": [
     {
       "title": "Postępowanie podczas niekorzystnych zjawisk atmosferycznych - Gov.pl",
@@ -541,7 +541,7 @@
     },
     {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
-      "url": "https://www.statnews.com/category/out-of-pocket-out-of-reach/",
+      "url": "https://www.statnews.com/health-insurance-costs-out-of-pocket-out-of-reach-series",
       "date": "2026-07-07T08:32:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -549,7 +549,7 @@
     },
     {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
-      "url": "https://www.statnews.com/health-insurance-costs-out-of-pocket-out-of-reach-series",
+      "url": "https://www.statnews.com/category/out-of-pocket-out-of-reach/",
       "date": "2026-07-07T08:32:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -796,12 +796,12 @@
       "summary": "Diagnostyka astmy u dorosłych i dzieci: wyzwania, kierunki na przyszłość i wezwanie do działania The Lancet."
     },
     {
-      "title": "Definiowanie encefalopatii noworodkowej: międzynarodowy proces konsensusu Delphi w czasie rzeczywistym - The Lancet",
-      "url": "https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(26)00101-X/abstract",
+      "title": "Wdrażanie zaleceń WHO dotyczących niepłodności: globalne wezwanie do działania - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00174-3/abstract",
       "date": "2026-07-07T01:14:45Z",
       "source": "The Lancet",
       "confirmed_by": 1,
-      "summary": "Definiowanie encefalopatii noworodkowej: międzynarodowy proces konsensusu Delphi w czasie rzeczywistym The Lancet."
+      "summary": "Wdrażanie zaleceń WHO dotyczących niepłodności: globalne wezwanie do działania The Lancet."
     }
   ],
   "guidelines": [
@@ -819,7 +819,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
     },
     {
       "title": "Ekstrakty z pyłków traw | Interakcje – BNFC",
@@ -1860,6 +1860,14 @@
       "summary": "Rejestracja zakładu i lista urządzeń accessdata.fda.gov."
     },
     {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=61&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F06%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumberdesc",
+      "date": "2026-07-06T16:36:42Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
       "title": "Rejestracja zakładu i wykaz urządzeń — accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=341&q=Tk9OLU1ZRFJJQVRJQyBSRVRJTkFMIENBTUVSQQ==&pn=10&pf=0&sc=end&rcount=474",
       "date": "2026-07-06T16:30:10Z",
@@ -1938,14 +1946,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "PONIEDZIAŁEK, 6 lipca 2026 r. Mężczyźni odnieśliby korzyść, gdyby lekarze w ogóle przestali nazywać raka prostaty niskiego ryzyka mianem raka – wynika z nowego badania. Odnosząc się do ty o najniższym ryzyku."
-    },
-    {
-      "title": "Badania mówią, że nauka języków może zapewnić młodszy mózg",
-      "url": "https://www.drugs.com/news/learning-languages-could-net-you-younger-brain-study-says-130549.html",
-      "date": "2026-07-06T15:43:24Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "PONIEDZIAŁEK, 6 lipca 2026 r. Czy Twój nastolatek myśli o zapisaniu się na zajęcia z hiszpańskiego lub francuskiego? Powiedz mu, że nauka innego języka ma ukrytą korzyść."
     }
   ],
   "critical_alerts": [
