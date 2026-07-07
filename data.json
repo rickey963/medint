@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T12:21:28Z",
+  "last_updated": "2026-07-07T12:22:14Z",
   "poland": [
     {
       "title": "Sklep medyczny - Podyplomie",
@@ -10,16 +10,16 @@
       "summary": "Wydawnictwo medyczne Medical Tribune Polska, dostarczamy praktyczną i unikalną wiedzę lekarzom. W naszym portfolio znajdziesz publikacje i czasopisma medyczne."
     },
     {
-      "title": "Komunikat Ministra Zdrowia ws. aktualizacji wykazu leków niepodlegających finansowaniu w ramach RDTL - Gov.pl",
-      "url": "https://www.gov.pl/web/zdrowie/komunikat-ministra-zdrowia-ws-aktualizacji-wykazu-lekow-niepodlegajacych-finansowaniu-w-ramach-rdtl",
+      "title": "Komunikat Ministra Zdrowia ws. aktualizacji wykazu leków finansowanych w ramach RDTL - Gov.pl",
+      "url": "https://www.gov.pl/web/zdrowie/komunikat-ministra-zdrowia-ws-aktualizacji-wykazu-lekow-finansowanych-w-ramach-rdtl",
       "date": "2026-07-07T12:03:12Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Aby uzyskać archiwalną wersję należy skontaktować się z Redakcją BIP."
     },
     {
-      "title": "Komunikat Ministra Zdrowia ws. aktualizacji wykazu leków finansowanych w ramach RDTL - Gov.pl",
-      "url": "https://www.gov.pl/web/zdrowie/komunikat-ministra-zdrowia-ws-aktualizacji-wykazu-lekow-finansowanych-w-ramach-rdtl",
+      "title": "Komunikat Ministra Zdrowia ws. aktualizacji wykazu leków niepodlegających finansowaniu w ramach RDTL - Gov.pl",
+      "url": "https://www.gov.pl/web/zdrowie/komunikat-ministra-zdrowia-ws-aktualizacji-wykazu-lekow-niepodlegajacych-finansowaniu-w-ramach-rdtl",
       "date": "2026-07-07T12:03:12Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
@@ -56,6 +56,14 @@
       "source": "DOZ.pl",
       "confirmed_by": 1,
       "summary": "Pokrzywka cholinergiczna to schorzenie związane z wysiłkiem fizycznym i potem. Sprawdź objawy oraz przyczyny pokrzywki cholinergicznej. Dowiedz się więcej na DOZ.pl."
+    },
+    {
+      "title": "LAS - Letnia Akademia Sanepidu - Gov.pl",
+      "url": "https://www.gov.pl/web/psse-opole-lubelskie/las---letnia-akademia-sanepidu",
+      "date": "2026-07-07T11:03:51Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Wakacje to czas relaksu, ale też codziennych decyzji, które decydują o naszym zdrowiu i bezpieczeństwie."
     },
     {
       "title": "Premier: „Nie ma odwrotu od tej drogi”. Jutro poznamy propozycje reformy ochrony zdrowia - Alert Medyczny",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "VI Dialogi Pediatryczne - Partnerstwo merytoryczne i nadzór naukowy | Konferencja stacjonarna Termedia."
-    },
-    {
-      "title": "VI Dialogi Pediatryczne - DODAJ DO KALENDARZA | Konferencja stacjonarna - Termedia",
-      "url": "https://www.termedia.pl/Konferencja-VI-Dialogi-Pediatryczne-DODAJ-DO-KALENDARZA,3056,45550.html",
-      "date": "2026-07-06T20:45:51Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "VI Dialogi Pediatryczne - DODAJ DO KALENDARZA | Konferencja stacjonarna Termedia."
     }
   ],
   "world": [
@@ -477,7 +477,7 @@
     },
     {
       "title": "Lekarze apelują o maksymalne temperatury pracy w NHS – The BMJ",
-      "url": "http://www.bmj.com/content/394/bmj-2026-100208.short?rss=1",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100208/article-info",
       "date": "2026-07-07T11:29:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
@@ -485,7 +485,7 @@
     },
     {
       "title": "Lekarze apelują o maksymalne temperatury pracy w NHS – The BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100208/article-info",
+      "url": "http://www.bmj.com/content/394/bmj-2026-100208.short?rss=1",
       "date": "2026-07-07T11:29:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
@@ -613,7 +613,7 @@
     },
     {
       "title": "Helen Salisbury: Nieudane spotkania i zaginięcia – BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100198/related",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100198/article-info",
       "date": "2026-07-07T09:53:42Z",
       "source": "The BMJ",
       "confirmed_by": 1,
@@ -621,7 +621,7 @@
     },
     {
       "title": "Helen Salisbury: Nieudane spotkania i zaginięcia – BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100198/article-info",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100198/related",
       "date": "2026-07-07T09:53:42Z",
       "source": "The BMJ",
       "confirmed_by": 1,
@@ -827,7 +827,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
     },
     {
       "title": "Ekstrakty z pyłków traw | Interakcje – BNFC",
@@ -934,28 +934,28 @@
       "summary": "Postępowanie z pacjentami z gruczolakorakiem żołądka HER2+: najnowocześniejsze i przełomowe rozwiązania Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu na rok 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
-      "url": "https://professional.heart.org/en/science-news/video-series-ais",
-      "date": "2026-07-04T05:05:12Z",
-      "source": "Wytyczne AHA/ACC",
+      "title": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/education/live-events/live-events-endorsement/2nd-Annual-Harefield-Stress-Echocardiography-Course/",
+      "date": "2026-07-04T11:31:46Z",
+      "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Opieka nad chorymi na ostry udar niedokrwienny mózgu w dalszym ciągu szybko ewoluuje, a nowe dowody zmieniają sposób przedszpitalnej segregacji pacjentów, obrazowania, strategii reperfuzji i opieki zespołowej przez całe życie. Ta czteroczęściowa seria filmów przedstawia autorów Wytycznych Amerykańskiego Towarzystwa Kardiologicznego dotyczących ostrego udaru niedokrwiennego z 2026 r., przedstawiających zmieniające praktykę aktualizacje dla klinicystów medycyny ratunkowej, neurointerwencjonistów, specjalistów w dziedzinie obrazowania, pielęgniarek, koordynatorów udaru i pediatrycznych zespołów udarowych."
+      "summary": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) Europejskie Towarzystwo Kardiologiczne."
     },
     {
-      "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/opinia-prezesa-program-polityki-zdrowotnej-w-zakresie-rehabilitacji-mieszkancow-swinoujscia-w-wieku-od-70-roku-zycia-na-lata-2026-2028/",
-      "date": "2026-07-03T14:20:20Z",
-      "source": "AOTMiT",
+      "title": "Ritlecitynib w leczeniu niesegmentowego bielactwa nabytego u osób w wieku 12 lat i starszych [ID6584] - witryna internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta11744/documents/html-content",
+      "date": "2026-07-04T06:22:22Z",
+      "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 47/2026 z dnia 2 lipca 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028”."
+      "summary": "Ritlecitynib w leczeniu niesegmentowego bielactwa nabytego u osób w wieku 12 lat i starszych [ID6584] Strona internetowa NICE."
     },
     {
-      "title": "Stan prac - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/stan-prac-8/",
-      "date": "2026-07-03T14:20:19Z",
-      "source": "AOTMiT",
+      "title": "ATENY CMR POZIOM 1-2 - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/education/live-events/live-events-endorsement/ATHENSCMR-LEVEL-1-2/",
+      "date": "2026-07-04T05:20:08Z",
+      "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "W lipcu AOTMiT rozpoczyna prace nad zleceniami Ministra Zdrowia:."
+      "summary": "ATENY CMR POZIOM 1-2 Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "NIL - Deklarujemy pełną gotowość do współpracy. Prezes NRL przedstawił postulaty samorządu premierowi Donaldowi Tuskowi - NIL",
@@ -972,14 +972,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Rekomendacja Prezesa – Keytruda (pembrolizumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-keytruda-pembrolizumab-10/",
-      "date": "2026-07-03T12:58:05Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     },
     {
       "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1014,12 +1006,20 @@
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
-      "title": "Quiz Tom 16 - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/communities/councils/genomics/scientific-documents-and-publications/cardiogenomics-insights/volume-16/quizz-volume-16/",
-      "date": "2026-07-02T06:00:39Z",
+      "title": "Wytyczne dotyczące zdrowia publicznego dotyczące planowania reakcji VHF | Wirusowa gorączka krwotoczna (VHF) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/viral-hemorrhagic-fevers/php/public-health-strategy/vhf-response-planning.html",
+      "date": "2026-07-02T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Zalecenia CDC dla wydziałów zdrowia publicznego dotyczące przygotowania i reagowania na krajowe przypadki VHF."
+    },
+    {
+      "title": "Tom 16 - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/councils/genomics/scientific-documents-and-publications/cardiogenomics-insights/volume-16/",
+      "date": "2026-07-02T05:27:14Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Quiz Tom 16 Europejskie Towarzystwo Kardiologiczne."
+      "summary": "Tom 16 Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
@@ -1030,28 +1030,12 @@
       "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych w dniu 17 lipca TRICARE Newsroom (.mil)."
     },
     {
-      "title": "Czy leki GLP-1 mogą poprawić stan zdrowia osób chorych na cukrzycę typu 2 i PAD? - www.serce.org",
-      "url": "https://newsroom.heart.org/news/can-glp-1-medications-improve-health-in-people-with-type-2-diabetes-and-pad",
-      "date": "2026-07-01T09:54:12Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Jak wynika z nowego badania opublikowanego w czasopiśmie Journal of the American Heart Association, korzyści ze stosowania leków GLP-1 były największe w przypadku osób z ciężką chorobą tętnic obwodowych (PAD) i osób z otyłością."
-    },
-    {
       "title": "Szkolenie OK COBIK NIL - Lekarzu, zadbaj o siebie. Jak wdrożyć self-care w przeładowany grafik? - NIL",
       "url": "https://nil.org.pl/eventToPdf/1548",
       "date": "2026-07-01T04:53:43Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Szkolenie OK COBIK NIL - Lekarzu, zadbaj o siebie. Jak wdrożyć self-care w przeładowany grafik? NIL."
-    },
-    {
-      "title": "Niewydolność serca: nowa definicja poprawi diagnostykę i zmieni opiekę – Healthline",
-      "url": "https://www.healthline.com/health-news/new-heart-failure-definition-will-improve-diagnosis-treatment",
-      "date": "2026-06-30T18:42:55Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Globalni eksperci ds. zdrowia zaktualizowali definicję i wytyczne dotyczące niewydolności serca, aby uwzględnić jej rosnącą częstość występowania. Wytyczne zawierają standardową definicję niewydolności serca, kładą nacisk na wczesne wykrywanie i omawiają, w jaki sposób można skutecznie leczyć niewydolność serca za pomocą odpowiednich interwencji."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 30 czerwca 2026 r. w sprawie sposobu obliczania prognozowanego czasu oczekiwania na udzielenie świadczeń opieki zdrowotnej objętych centralną elektroniczną rejestracją",
@@ -1062,12 +1046,20 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 874, z dniem ogłoszenia 2026-06-30."
     },
     {
-      "title": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) - professional.heart.org",
-      "url": "https://professional.heart.org/en/science-news/expert-consensus-document-second-universal-definition-of-heart-failure-2026",
-      "date": "2026-06-29T12:58:24Z",
-      "source": "Wytyczne AHA/ACC",
+      "title": "Czasowe zmiany wyniku terapii medycznej ukierunkowanej na wytyczne – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/temporal-changes-in-guideline-directed-medical-therapy-score/",
+      "date": "2026-06-30T15:11:34Z",
+      "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
+      "summary": "Optymalizacja terapii medycznej opartej na wytycznych (GDMT) jest podstawą leczenia niewydolności serca (HF). Wdrożenie terapii zalecanych przez wytyczne, w oparciu o wyniki licznych badań z randomizacją, w tym tak zwanej „fantastycznej czwórki” (inhibitory układu renina-angiotensyna, beta-blokery, antagoniści receptora mineralokortykoidowego i inhibitory SGLT2), jest głównym motorem poprawy leczenia niewydolności serca (HFT)."
+    },
+    {
+      "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/how-early-is-early-enough-treating-familial-hypercholesterolaemia-before-risk-takes-root/",
+      "date": "2026-06-29T18:53:51Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "W prospektywnej kohorcie badania SAFEHEART badacze oceniali długoterminowe wyniki w przypadku genetycznie potwierdzonej hipercholesterolemii rodzinnej wśród 348 dzieci/młodzieży dotkniętych chorobą, 165 zdrowych krewnych i 288 chorych rodziców."
     },
     {
       "title": "Ograniczone wytyczne dotyczące kosztów początkowych w wytycznych amerykańskich – Conexiant",
@@ -1086,28 +1078,12 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
     },
     {
-      "title": "Doktor Tanja Grammer – ESC 365",
-      "url": "https://esc365.escardio.org/person/39849",
-      "date": "2026-06-26T01:42:57Z",
-      "source": "ESC (kardiologia)",
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 25 czerwca 2026 r. w sprawie wysokości zasadniczego wynagrodzenia miesięcznego lekarzy i lekarzy dentystów odbywających specjalizacje w ramach rezydentury",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/856",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
-      "summary": "Współtwórca centrum wiedzy ESC 365."
-    },
-    {
-      "title": "Doktor Luis Blanco-Colio – ESC 365",
-      "url": "https://esc365.escardio.org/person/6849",
-      "date": "2026-06-26T01:12:56Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Współtwórca centrum wiedzy ESC 365."
-    },
-    {
-      "title": "Doktor Ali Al Ghamdi – ESC 365",
-      "url": "https://esc365.escardio.org/person/249200",
-      "date": "2026-06-25T23:08:55Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Współtwórca centrum wiedzy ESC 365."
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 856, z dniem ogłoszenia 2026-06-29."
     },
     {
       "title": "Protokół wytycznych praktyki klinicznej dotyczących akupunktury w leczeniu przewlekłego nieswoistego bólu krzyża – Frontiers",
@@ -1116,6 +1092,14 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Wstęp Przewlekły nieswoisty ból krzyża (CNLBP) jest częstą chorobą układu mięśniowo-szkieletowego, która dotyka dorosłych na całym świecie. Działania niepożądane związane z dr..."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Ogsiveo (nirogacestat) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-ogsiveo-nirogacestat/",
+      "date": "2026-06-12T10:02:33Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja nr 79/2026 z dnia 10 czerwca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgód na refundację produktu leczniczego Ogsiveo (nirogacestat) we wskazaniu: leczenie pacjentów pediatrycznych z postępującymi guzami desmoidalnymi opornymi na leczenie innych linii i niekwalifikującymi się do leczenia operacyjnego."
     }
   ],
   "epidemiology": [
