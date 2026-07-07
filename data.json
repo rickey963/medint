@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T13:23:16Z",
+  "last_updated": "2026-07-07T13:23:57Z",
   "poland": [
     {
       "title": "Nowe wykazy RDTL: sfinansowano 269 produktów, opublikowano też listę 102 wyłączeń - Alert Medyczny",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Wrodzona torbiel przewodu nosowo-łzowego, powikłana w postaci ropnia oczodołu - opisy przypadków BMJ",
+      "url": "http://casereports.bmj.com/cgi/content/short/19/7/e267644?rss=1",
+      "date": "2026-07-07T13:22:35Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Wrodzona torbiel przewodu nosowo-łzowego z powikłaniami w postaci ropnia oczodołu BMJ Case Reports."
+    },
+    {
       "title": "Pharmalittle: Czytamy o umowie Vertex o wartości 10 miliardów dolarów, tempie zatwierdzania leków przez FDA i nie tylko – STAT",
       "url": "https://www.statnews.com/pharmalot/2026/07/07/vertex-buying-crinetics-fda-drug-approvals-kept-pace/?utm_campaign=rss",
       "date": "2026-07-07T13:16:19Z",
@@ -501,7 +509,7 @@
     },
     {
       "title": "Lekarze apelują o maksymalne temperatury pracy w NHS – The BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100208/peer-review",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100208/article-info",
       "date": "2026-07-07T11:29:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
@@ -509,7 +517,7 @@
     },
     {
       "title": "Lekarze apelują o maksymalne temperatury pracy w NHS – The BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100208/article-info",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100208/peer-review",
       "date": "2026-07-07T11:29:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "{{getUserDateTimezone(\"1784739600\").singleDate}} {{getUserDateTimezone(\"1784739600\").time}} - {{getUserDateTimezone(\"1784742300\").time}} {{getClientTimezoneName()}}."
-    },
-    {
-      "title": "5 wniosków z serii STAT na temat rosnących kosztów ubezpieczenia zdrowotnego - STAT",
-      "url": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
-      "date": "2026-07-07T08:32:42Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj 5 kluczowych wniosków z serii STAT „Out of Pocket, Out of Reach” – analizy ubezpieczenia zdrowotnego w miejscu pracy."
     }
   ],
   "guidelines": [
@@ -1796,6 +1796,14 @@
       "summary": "Istnieje poważna interakcja lekowa pomiędzy escytalopramem i taninatem DMP-DEX. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
     },
     {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=311&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F06%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumberdesc",
+      "date": "2026-07-07T02:55:48Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
       "title": "Rejestracja zakładu i wykaz urządzeń — accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=571&q=Tk9OLU1ZRFJJQVRJQyBSRVRJTkFMIENBTUVSQQ==&pn=10&pf=0&sc=ena&rcount=476",
       "date": "2026-07-07T02:39:05Z",
@@ -1994,14 +2002,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Zatwierdzenie przed wprowadzeniem do obrotu (PMA) accessdata.fda.gov."
-    },
-    {
-      "title": "TPLC – całkowity cykl życia produktu – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=3877&min_report_year=2021&manufacturer=TECHNO%2DPATH%20MANUFACTURING%20LTD%2E&pmndecision=SUBSTANTIALLY%20EQUIVALENT",
-      "date": "2026-07-06T17:48:14Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "TPLC – całkowity cykl życia produktu accessdata.fda.gov."
     }
   ],
   "critical_alerts": [
