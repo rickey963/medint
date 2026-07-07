@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-07T09:05:10Z",
+  "last_updated": "2026-07-07T09:06:00Z",
   "poland": [
+    {
+      "title": "Sanepid ostrzega przed serem z Carrefoura. Sklep prosi klientów - Medonet",
+      "url": "https://www.medonet.pl/narodowy-test-zdrowia-polakow/zyj-zdrowiej/gis-ostrzega-przed-serem-z-carrefoura-wykryto-grozna-bakterie-listerie/x8mlx7e",
+      "date": "2026-07-07T09:02:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "6 lipca GÅÃ³wny Inspektor Sanitarny wydaÅ ostrzeÅ¼enie dotyczÄ ce sera Å¼Ã³Åtego dostÄpnego w sklepach Carrefour. W partii sera twardego tartego wykryto obecnoÅÄ bakterii Listeria monocytogenes. DrugÄ partiÄ Carrefour zdecydowaÅ siÄ wycofaÄ z ostroÅ¼noÅci."
+    },
     {
       "title": "Grupa LUX MED przejmuje krakowskie centrum MyTherapy - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/grupa-lux-med-przejmuje-n2403579",
@@ -48,6 +56,14 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Procesy konsolidacyjne szpitali i rekomendacja AOTMiT dot. wzrostu kosztów udzielania świadczeń mają być we wtorek omawiane podczas posiedzenia Zespołu Trójstronnego ds. Ochrony Zdrowia."
+    },
+    {
+      "title": "Sygnał, że cholesterol coraz bardziej zatyka tętnice. Unieś nogę i obserwuj [TEKST ARCHIWALNY] - Medonet",
+      "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-ukladu-krazenia/sygnal-ze-cholesterol-coraz-bardziej-zatyka-tetnice-unies-noge-i-obserwuj/ky322ey",
+      "date": "2026-07-07T07:33:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Zbyt wysoki cholesterol nie daje Å¼adnych objawÃ³w â do czasu. SygnaÅy, Å¼e \"tÅuszcz\" zatyka i coraz bardziej zwÄÅ¼a tÄtnice, czÄsto wysyÅajÄ nasze wÅasne nogi. Niekiedy wystarczy je unieÅÄ, by zauwaÅ¼yÄ zmiany."
     },
     {
       "title": "Konsolidacja szpitali i finansowanie ochrony zdrowia tematem wtorkowego posiedzenia Zespołu Trójstronnego - PolitykaZdrowotna.com",
@@ -384,22 +400,6 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Aby uzyskać archiwalną wersję należy skontaktować się z Redakcją BIP."
-    },
-    {
-      "title": "Informacja pokontrolnanr KPOD.07.02-IP.10-0052_24 001 z kontroli planowej w trakcie realizacji SPWSZ Szczecin (miernik D13G s.II) - Gov.pl",
-      "url": "https://www.gov.pl/web/zdrowie/informacja-pokontrolnanr-kpod0702-ip10-005224-001-z-kontroli-planowej-w-trakcie-realizacji-spwsz-szczecin-miernik-d13g-sii",
-      "date": "2026-07-06T16:43:08Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Aby uzyskać archiwalną wersję należy skontaktować się z Redakcją BIP."
-    },
-    {
-      "title": "Rozliczano droższe procedury, wyłudzano refundację. NFZ o spółce neurochirurgów w Mogilnie - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Prawo/Rozliczano-drozsze-procedury-wyludzano-refundacje-NFZ-o-spolce-neurochirurgow-w-Mogilnie,286360,2.html",
-      "date": "2026-07-06T16:43:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Szpital w Mogilnie rozliczał droższe procedury z hospitalizacją, choć pacjenci mogli być leczeni ambulatoryjnie. W ten sposób - jak tłumaczy rzecznik prasowy NFZ Jakub Gołąb - dochodziło do wyłudzenia wyższej refundacji."
     }
   ],
   "world": [
@@ -418,6 +418,22 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "{{getUserDateTimezone(\"1784739600\").singleDate}} {{getUserDateTimezone(\"1784739600\").time}} - {{getUserDateTimezone(\"1784742300\").time}} {{getClientTimezoneName()}}."
+    },
+    {
+      "title": "5 wniosków z serii STAT na temat rosnących kosztów ubezpieczenia zdrowotnego - STAT",
+      "url": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
+      "date": "2026-07-07T08:32:42Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj 5 kluczowych wniosków z serii STAT „Out of Pocket, Out of Reach” – analizy ubezpieczenia zdrowotnego w miejscu pracy."
+    },
+    {
+      "title": "Medycyna uważa, że ​​pokolenie Z jest zbyt miękkie. Źle – STAT",
+      "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
+      "date": "2026-07-07T08:32:42Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "„Lekarze pokolenia Z są na kursie kolizyjnym z instytucjami wciąż zbudowanymi w oparciu o starsze założenia” – pisze Frantz M. Berthaud."
     },
     {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
@@ -786,22 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Poszukujemy doświadczonego starszego analityka, który będzie pełnił funkcję lidera w dziedzinie wywiadu cyfrowego w branży farmacji i leków, wspierając bezpieczne, skuteczne..."
-    },
-    {
-      "title": "Obciążenie psychiczne i podejmowanie decyzji w zakresie rozrodu wspomaganego medycznie: implikacje dla opieki skoncentrowanej na pacjencie - The Lancet",
-      "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00152-4/fulltext",
-      "date": "2026-07-06T23:48:20Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Obciążenie psychiczne i podejmowanie decyzji w zakresie rozrodu wspomaganego medycznie: implikacje dla opieki skoncentrowanej na pacjencie The Lancet."
-    },
-    {
-      "title": "Obawy dotyczące praw reprodukcyjnych w miarę wzrostu pronatyzmu – The Lancet",
-      "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00150-0/abstract",
-      "date": "2026-07-06T23:47:01Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Obawy dotyczące praw reprodukcyjnych w miarę wzrostu pronatalizmu The Lancet."
     }
   ],
   "guidelines": [
@@ -1022,14 +1022,6 @@
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
     },
     {
-      "title": "LCMH zdobywa srebrne wyróżnienie w programie Get With The Guidelines Rural Accelerator organizacji American Heart Association – HomeTown Register",
-      "url": "https://www.hometownregister.com/law_daily_record/life/lcmh-earns-american-heart-associations-get-with-the-guidelines-rural-accelerator-program-silver-recognition/article_4f75ed5a-84e3-5440-9871-ec5dccc8a9b4.html",
-      "date": "2026-07-02T00:27:00Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "LAWRENCEVILLE, — Szpital Lawrence County Memorial Hospital (LCMH) ogłosił w komunikacie prasowym, że został wyróżniony w ramach programu akceleratora obszarów wiejskich Get With The Guidelines American Heart Association."
-    },
-    {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
       "url": "https://newsroom.tricare.mil/News/TRICARE-News/Article/4531226/provide-feedback-on-clinical-practice-guidelines-in-joint-patient-focus-groups",
       "date": "2026-07-01T16:16:35Z",
@@ -1038,12 +1030,28 @@
       "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych w dniu 17 lipca TRICARE Newsroom (.mil)."
     },
     {
+      "title": "Czy leki GLP-1 mogą poprawić stan zdrowia osób chorych na cukrzycę typu 2 i PAD? - www.serce.org",
+      "url": "https://newsroom.heart.org/news/can-glp-1-medications-improve-health-in-people-with-type-2-diabetes-and-pad",
+      "date": "2026-07-01T09:54:12Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Jak wynika z nowego badania opublikowanego w czasopiśmie Journal of the American Heart Association, korzyści ze stosowania leków GLP-1 były największe w przypadku osób z ciężką chorobą tętnic obwodowych (PAD) i osób z otyłością."
+    },
+    {
       "title": "Szkolenie OK COBIK NIL - Lekarzu, zadbaj o siebie. Jak wdrożyć self-care w przeładowany grafik? - NIL",
       "url": "https://nil.org.pl/eventToPdf/1548",
       "date": "2026-07-01T04:53:43Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Szkolenie OK COBIK NIL - Lekarzu, zadbaj o siebie. Jak wdrożyć self-care w przeładowany grafik? NIL."
+    },
+    {
+      "title": "Niewydolność serca: nowa definicja poprawi diagnostykę i zmieni opiekę – Healthline",
+      "url": "https://www.healthline.com/health-news/new-heart-failure-definition-will-improve-diagnosis-treatment",
+      "date": "2026-06-30T18:42:55Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Globalni eksperci ds. zdrowia zaktualizowali definicję i wytyczne dotyczące niewydolności serca, aby uwzględnić jej rosnącą częstość występowania. Wytyczne zawierają standardową definicję niewydolności serca, kładą nacisk na wczesne wykrywanie i omawiają, w jaki sposób można skutecznie leczyć niewydolność serca za pomocą odpowiednich interwencji."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 30 czerwca 2026 r. w sprawie sposobu obliczania prognozowanego czasu oczekiwania na udzielenie świadczeń opieki zdrowotnej objętych centralną elektroniczną rejestracją",
@@ -1068,6 +1076,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "W prospektywnej kohorcie badania SAFEHEART badacze oceniali długoterminowe wyniki w przypadku genetycznie potwierdzonej hipercholesterolemii rodzinnej wśród 348 dzieci/młodzieży dotkniętych chorobą, 165 zdrowych krewnych i 288 chorych rodziców."
+    },
+    {
+      "title": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) - professional.heart.org",
+      "url": "https://professional.heart.org/en/science-news/expert-consensus-document-second-universal-definition-of-heart-failure-2026",
+      "date": "2026-06-29T12:58:24Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych, aby opublikować pierwszą uniwersalną definicję niewydolności serca, ustanawiając jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
     },
     {
       "title": "Ograniczone wytyczne dotyczące kosztów początkowych w wytycznych amerykańskich – Conexiant",
