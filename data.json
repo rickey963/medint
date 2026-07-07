@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-07T11:00:16Z",
+  "last_updated": "2026-07-07T11:00:57Z",
   "poland": [
+    {
+      "title": "Premier: „Nie ma odwrotu od tej drogi”. Jutro poznamy propozycje reformy ochrony zdrowia - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/premier-nie-ma-odwrotu-od-tej-drogi-jutro-poznamy-propozycje-reformy-ochrony-zdrowia/",
+      "date": "2026-07-07T10:58:00Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Premier Donald Tusk zapowiada prezentację reformy ochrony zdrowia. Zmiany mają objąć organizację szpitali, wyceny świadczeń i wynagrodzenia."
+    },
     {
       "title": "Pacjenci z zespołem Alagille’a zyskali nowe leczenie w programie B.175 - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/pacjenci-z-zespolem-n2403416",
@@ -342,7 +350,7 @@
       "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-52026bp-art-176-k-s-h-,6679.html",
       "date": "2026-07-06T19:18:57Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Decyzja nr 5/2026/BP."
     },
     {
@@ -392,14 +400,6 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "RzÄ d przyspiesza prace nad zmianami w ochronie zdrowia i wyraÅºnie sygnalizuje, Å¼e czas na decyzje. Nowe propozycje majÄ uderzyÄ m.in. w omijanie kolejek, \"strefy VIP\" w szpitalach oraz uporzÄ dkowaÄ zasady pracy i pÅac medykÃ³w, a w tle pojawiajÄ siÄ spekulacje o moÅ¼liwej zmianie na stanowisku ministra."
-    },
-    {
-      "title": "Prawdziwa kulka mocy. Wspomaga mózg i serce, ale nie przedawkuj - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Nauka/Prawdziwa-kulka-mocy-Wspomaga-mozg-i-serce-ale-nie-przedawkuj,286332,9.html",
-      "date": "2026-07-06T18:03:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Gałka muszkatołowa jest popularną przyprawą stosowaną na całym świecie. Zawiera przy tym liczne związki wspomagające funkcjonowanie mózgu czy serca. Na dodatek działa antyoksydacyjnie, przeciwzapalnie i przeciwdrobnoustrojowo."
     }
   ],
   "world": [
@@ -433,7 +433,7 @@
       "date": "2026-07-07T09:56:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Jeśli pacjent opuści wizytę ambulatoryjną, wysyłany jest list, a jego kopia elektroniczna trafia do lekarza rodzinnego. Niektóre oddziały zmieniają termin, inne zaś wypisują pacjenta, prosząc o ponowne skierowanie, jeśli nadal potrzebuje wizyty. Jako lekarze pierwszego kontaktu moglibyśmy spojrzeć na ten problem z perspektywy zmarnowanych wizyt i poczuć się zawiedzieni, że pacjenci nie traktują swojego zdrowia priorytetowo (chociaż czasami powodem niestawienia się jest po prostu to, że list trafił pod zły adres lub dotarł po terminie wizyty)."
+      "summary": "Helen Salisbury: Opuszczone spotkania i zaginięcia BMJ."
     },
     {
       "title": "Zakaz mediów społecznościowych w Wielkiej Brytanii to ryzykowne przedsięwzięcie w obliczu niepewności – BMJ",
@@ -492,20 +492,20 @@
       "summary": "Na Kubie zsekwencjonowano całe genomy wirusa Oropouche od osób zakażonych podczas wybuchu epidemii w 2024 r., a analizy filogenetyczne sugerują, że ta kubańska podklada została wprowadzona poprzez pojedyncze wprowadzenie z Brazylii na początku 2024 r."
     },
     {
-      "title": "Bispecyficzne przeciwciało szeroko neutralizujące 10E8.4/iMab u osób z HIV-1 lub bez niego: częściowo randomizowane badanie fazy 1 - Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04472-w",
-      "date": "2026-07-07T09:29:28Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "W pierwszym przeprowadzonym na ludziach, częściowo randomizowanym i kontrolowanym placebo badaniu fazy I zbadano bezpieczeństwo, tolerancję, farmakokinetykę i działanie przeciwwirusowe bispecyficznego szeroko neutralizującego przeciwciała monoklonalnego 10E8.4/iMab u osób żyjących z wirusem HIV lub bez niego i stwierdzono, że jest ono bezpieczne i dobrze tolerowane przy różnych poziomach dawek i drogach podawania."
-    },
-    {
       "title": "Podłużne multiomiczne profilowanie pozaustrojowego krążenia krzyżowego z ksenoprzeszczepami wątroby świni u ludzkich zmarłych - Natura",
       "url": "https://www.nature.com/articles/s41591-026-04511-6",
       "date": "2026-07-07T09:29:28Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Multiomiczne profilowanie pozaustrojowego krążenia krzyżowego za pomocą ksenoprzeszczepów wątroby świni poddanych edycji genów u czterech ludzkich zmarłych dostarcza kompleksowych informacji na temat parametrów immunologicznych, krzepnięcia i metabolicznych, które pomogą w klinicznym rozwoju tej strategii zapewniania wsparcia wątroby pacjentom z niewydolnością wątroby."
+    },
+    {
+      "title": "Bispecyficzne przeciwciało szeroko neutralizujące 10E8.4/iMab u osób z HIV-1 lub bez niego: częściowo randomizowane badanie fazy 1 - Natura",
+      "url": "https://www.nature.com/articles/s41591-026-04472-w",
+      "date": "2026-07-07T09:29:28Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "W pierwszym przeprowadzonym na ludziach, częściowo randomizowanym i kontrolowanym placebo badaniu fazy I zbadano bezpieczeństwo, tolerancję, farmakokinetykę i działanie przeciwwirusowe bispecyficznego szeroko neutralizującego przeciwciała monoklonalnego 10E8.4/iMab u osób żyjących z wirusem HIV lub bez niego i stwierdzono, że jest ono bezpieczne i dobrze tolerowane przy różnych poziomach dawek i drogach podawania."
     },
     {
       "title": "Krajowa kampania Jemenu na rzecz wzmocnienia kontroli wyrobów tytoniowych wyróżniona nagrodą Światowego Dnia bez Tytoniu 2026 - emro.who.int",
@@ -819,7 +819,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
     },
     {
       "title": "Ekstrakty z pyłków traw | Interakcje – BNFC",
@@ -1038,14 +1038,6 @@
       "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych w dniu 17 lipca TRICARE Newsroom (.mil)."
     },
     {
-      "title": "Co nowego, co ma znaczenie: wdrażanie wytycznych ACLS 2025 – Szpitalnik",
-      "url": "https://www.the-hospitalist.org/hospitalist/article/41486/cardiology/whats-new-what-matters-implementing-the-2025-acls-guidelines/",
-      "date": "2026-07-01T13:42:31Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Wytyczne American Heart Association z 2025 r. dotyczące zaawansowanych zabiegów resuscytacyjnych serca wprowadzają kluczowe aktualizacje dotyczące postępowania w przypadku szpitalnego zatrzymania krążenia, kładąc nacisk na resuscytację opartą na dowodach naukowych, pracę zespołową i opiekę po zatrzymaniu krążenia."
-    },
-    {
       "title": "Czy leki GLP-1 mogą poprawić stan zdrowia osób chorych na cukrzycę typu 2 i PAD? - www.serce.org",
       "url": "https://newsroom.heart.org/news/can-glp-1-medications-improve-health-in-people-with-type-2-diabetes-and-pad",
       "date": "2026-07-01T09:54:12Z",
@@ -1084,6 +1076,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Optymalizacja terapii medycznej opartej na wytycznych (GDMT) jest podstawą leczenia niewydolności serca (HF). Wdrożenie terapii zalecanych przez wytyczne, w oparciu o wyniki licznych badań z randomizacją, w tym tak zwanej „fantastycznej czwórki” (inhibitory układu renina-angiotensyna, beta-blokery, antagoniści receptora mineralokortykoidowego i inhibitory SGLT2), jest głównym motorem poprawy leczenia niewydolności serca (HFT)."
+    },
+    {
+      "title": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) - professional.heart.org",
+      "url": "https://professional.heart.org/en/science-news/expert-consensus-document-second-universal-definition-of-heart-failure-2026",
+      "date": "2026-06-29T12:58:24Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
     },
     {
       "title": "Ograniczone wytyczne dotyczące kosztów początkowych w wytycznych amerykańskich – Conexiant",
