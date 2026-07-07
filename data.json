@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T10:41:37Z",
+  "last_updated": "2026-07-07T10:42:16Z",
   "poland": [
     {
       "title": "Pacjenci z zespołem Alagille’a zyskali nowe leczenie w programie B.175 - PolitykaZdrowotna.com",
@@ -47,7 +47,7 @@
       "date": "2026-07-07T09:12:03Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Pacjenci ZOL nie mogą mieć odgórnie limitowanych przepustek. Jest stanowisko RPP Alert Medyczny."
+      "summary": "Rzecznik Praw Pacjenta uznał, że ZOL nie mogą odgórnie limitować przepustek. Decyzja może wpłynąć na praktykę placówek w całej Polsce."
     },
     {
       "title": "Recepta na sukces w Opolu. Prof. Gierlotka mówi, jak zatrzymać najzdolniejszych lekarzy - Puls Medycyny",
@@ -87,7 +87,7 @@
       "date": "2026-07-07T08:26:55Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Roche inwestuje w nową terapię raka piersi. Umowa z Astex może być warta 490 mln USD Alert Medyczny."
+      "summary": "Roche i Astex rozpoczynają współpracę nad nowymi terapiami raka piersi. Wartość umowy może przekroczyć 490 mln dolarów."
     },
     {
       "title": "Ponad 54 mln zł kar dla szpitali i aptek - Termedia",
@@ -111,7 +111,7 @@
       "date": "2026-07-07T08:11:52Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Premier czeka na plan zmian w ochronie zdrowia. Dziś kluczowe spotkania Alert Medyczny."
+      "summary": "Premier Donald Tusk czeka dziś na propozycje zmian w ochronie zdrowia. Odbędą się także posiedzenie rządu i obrady Trójstronnego Zespołu."
     },
     {
       "title": "Dziś posiedzenie Zespołu Trójstronnego ds. Zdrowia - Z kraju - Kurier - Medycyna Praktyczna",
@@ -151,7 +151,7 @@
       "date": "2026-07-07T07:25:12Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "95% projektu do poprawy? Rezydenci i studenci zgodni w sprawie ustawy o zawodzie lekarza Alert Medyczny."
+      "summary": "Rezydenci i studenci krytykują projekt ustawy o zawodzie lekarza. Spór dotyczy rezydentur, stażu podyplomowego i jakości szkolenia."
     },
     {
       "title": "Wypełnij swoją listę na ratunek - Serwis Zdrowie",
@@ -245,8 +245,8 @@
       "title": "Decyzja nr 8/2026/BP – małoletni przedsiębiorca - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-82026bp-maloletni-przedsiebiorca,6682.html",
       "date": "2026-07-06T20:53:43Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 4,
       "summary": "Decyzja nr 8/2026/BP."
     },
     {
@@ -540,20 +540,20 @@
       "summary": "{{getUserDateTimezone(\"1784739600\").singleDate}} {{getUserDateTimezone(\"1784739600\").time}} - {{getUserDateTimezone(\"1784742300\").time}} {{getClientTimezoneName()}}."
     },
     {
-      "title": "Medycyna uważa, że ​​pokolenie Z jest zbyt miękkie. Źle – STAT",
-      "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
-      "date": "2026-07-07T08:32:42Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "„Lekarze pokolenia Z są na kursie kolizyjnym z instytucjami wciąż zbudowanymi w oparciu o starsze założenia” – pisze Frantz M. Berthaud."
-    },
-    {
       "title": "5 wniosków z serii STAT na temat rosnących kosztów ubezpieczenia zdrowotnego - STAT",
       "url": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
       "date": "2026-07-07T08:32:42Z",
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Przeczytaj 5 kluczowych wniosków z serii STAT „Out of Pocket, Out of Reach” – analizy ubezpieczenia zdrowotnego w miejscu pracy."
+    },
+    {
+      "title": "Medycyna uważa, że ​​pokolenie Z jest zbyt miękkie. Źle – STAT",
+      "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
+      "date": "2026-07-07T08:32:42Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "„Lekarze pokolenia Z są na kursie kolizyjnym z instytucjami wciąż zbudowanymi w oparciu o starsze założenia” – pisze Frantz M. Berthaud."
     },
     {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
@@ -649,7 +649,7 @@
       "date": "2026-07-07T08:01:14Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Pojawiła się ekscytująca szansa dla wysoce zmotywowanej, doświadczonej pielęgniarki laryngologicznej zespołu 6, aby dołączyć do naszego dynamicznego MDT w Royal Free Trust, ale będzie pr..."
+      "summary": "Band 6 Praca specjalisty laryngologa klinicznego w fundacji Royal Free London NHS Foundation Trust (Kariera w służbie zdrowia) | 827241 BMJ."
     },
     {
       "title": "Sonograf — praca w Londynie w Barts Health NHS Trust (kariera zdrowotna) | 827198 - BMJ",
@@ -955,7 +955,7 @@
       "date": "2026-07-03T14:20:20Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 47/2026 z dnia 2 lipca 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028”."
     },
     {
       "title": "Stan prac - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -963,7 +963,7 @@
       "date": "2026-07-03T14:20:19Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stan prac Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "W lipcu AOTMiT rozpoczyna prace nad zleceniami Ministra Zdrowia:."
     },
     {
       "title": "NIL - Deklarujemy pełną gotowość do współpracy. Prezes NRL przedstawił postulaty samorządu premierowi Donaldowi Tuskowi - NIL",
@@ -987,7 +987,7 @@
       "date": "2026-07-03T12:58:05Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Keytruda (pembrolizumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     },
     {
       "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2032,12 +2032,12 @@
       "summary": "7 lipca 2026 r., Aden, Jemen – Wysiłki na rzecz wzmocnienia kontroli wyrobów tytoniowych w Jemenie spotkały się z międzynarodowym uznaniem podczas kampanii Światowego Dnia Bez Tytoniu (WNTD) 2026. Decydenci, eksperci ds. zdrowia i partnerzy..."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-07-07T08:13:24Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
+      "title": "Decyzja nr 8/2026/BP – małoletni przedsiębiorca - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-82026bp-maloletni-przedsiebiorca,6682.html",
+      "date": "2026-07-06T20:53:43Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 4,
+      "summary": "Decyzja nr 8/2026/BP."
     },
     {
       "title": "Siódme spotkanie Międzyrządowej Grupy Roboczej (IGWG) w sprawie Porozumienia WHO w sprawie pandemii – Światowa Organizacja Zdrowia (WHO)",
