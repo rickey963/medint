@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T15:02:34Z",
+  "last_updated": "2026-07-07T15:03:32Z",
   "poland": [
     {
       "title": "Planowane zmiany w ochronie zdrowia - konferencja prasowa minister zdrowia Jolanty Sobierańskiej-Grendy - Gov.pl",
@@ -859,7 +859,7 @@
       "date": "2026-07-06T23:00:00Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "W NHS można zastosować dwie nowe nieinwazyjne technologie diagnostyczne, a jednocześnie zostaną wygenerowane dalsze dowody przyspieszające diagnostykę endometriozy w podstawowej opiece zdrowotnej."
+      "summary": "Nowe technologie mogą pomóc skrócić lata oczekiwania na diagnozę endometriozy. Strona internetowa NICE."
     },
     {
       "title": "Trzy szpitale Ascension Wisconsin zdobywają krajowe uznanie w ramach programu Get with the Guidelines programu American Heart Association — Opieka zdrowotna | Wniebowstąpienie",
@@ -1046,6 +1046,14 @@
       "summary": "Quiz Tom 16 Europejskie Towarzystwo Kardiologiczne."
     },
     {
+      "title": "Tom 16 - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/councils/genomics/scientific-documents-and-publications/cardiogenomics-insights/volume-16/",
+      "date": "2026-07-02T05:27:14Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Tom 16 Europejskie Towarzystwo Kardiologiczne."
+    },
+    {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
       "url": "https://newsroom.tricare.mil/News/TRICARE-News/Article/4531226/provide-feedback-on-clinical-practice-guidelines-in-joint-patient-focus-groups",
       "date": "2026-07-01T16:16:35Z",
@@ -1116,9 +1124,25 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
+    },
+    {
+      "title": "Protokół wytycznych praktyki klinicznej dotyczących akupunktury w leczeniu przewlekłego nieswoistego bólu krzyża – Frontiers",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1834549/full",
+      "date": "2026-06-23T09:18:39Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Wstęp Przewlekły nieswoisty ból krzyża (CNLBP) jest częstą chorobą układu mięśniowo-szkieletowego, która dotyka dorosłych na całym świecie. Działania niepożądane związane z dr..."
     }
   ],
   "epidemiology": [
+    {
+      "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/php/emergency-guidance/index.html",
+      "date": "2026-07-07T13:56:05Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "Wytyczne Departamentu Zdrowia USA dotyczące postępowania z podróżnymi z obszarów dotkniętych wirusem Ebola po przylocie."
+    },
     {
       "title": "Siódme spotkanie Technicznej Grupy Doradczej ds. dostępu do rynku szczepionek – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/07/09/default-calendar/seventh-meeting-of-the-market-access-for-vaccines-technical-advisory-group",
@@ -1328,20 +1352,20 @@
       "summary": "Od początku 2026 r. do 2 lipca 2026 r. w Arabii Saudyjskiej zgłoszono dwa przypadki MERS, w tym jeden śmiertelny. Brak dostępnych informacji na temat regionów Arabii Saudyjskiej dotkniętych tymi przypadkami."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-07-06T07:00:00Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
-    },
-    {
       "title": "Docelowy profil produktu dla preparatów hydroksymocznika do leczenia anemii sierpowatokrwinkowej u dzieci – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/B09727",
       "date": "2026-07-06T07:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Ten docelowy profil produktu (TPP) został opracowany przez Światową Organizację Zdrowia w celu wytyczania wytycznych w zakresie opracowywania, wytwarzania i zamawiania odpowiednich do wieku preparatów hydroksymocznika do leczenia niedokrwistości sierpowatokrwinkowej (SCD) u dzieci i młodzieży."
+    },
+    {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-07-06T07:00:00Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
       "title": "Budowanie odpornych na klimat usług WASH w placówkach opieki zdrowotnej - Światowa Organizacja Zdrowia (WHO)",
@@ -1964,6 +1988,14 @@
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
+      "title": "Keta Med Lab / www.ketamedlab.com - 725154 - 23.06.2026 - fda.gov",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/keta-med-lab-wwwketamedlabcom-725154-06232026",
+      "date": "2026-07-07T00:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Keta Med Lab / www.ketamedlab.com - 725154 - 23.06.2026 fda.gov."
+    },
+    {
       "title": "Ketacyn Pharmaceuticals / www.ketacynpharma.com - 725153 - 23.06.2026 - fda.gov",
       "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ketacyn-pharmaceuticals-wwwketacynpharmacom-725153-06232026",
       "date": "2026-07-07T00:00:00Z",
@@ -2010,14 +2042,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Legalni dostawcy ketaminy / www.legitketaminesuppliers.com - 725149 - 23.06.2026 fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm?start_search=231&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F06%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondatedesc",
-      "date": "2026-07-06T23:29:07Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     }
   ],
   "critical_alerts": [
@@ -2088,18 +2112,18 @@
   ],
   "daily_top5": [
     {
-      "title": "Siódme spotkanie Technicznej Grupy Doradczej ds. dostępu do rynku szczepionek – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/07/09/default-calendar/seventh-meeting-of-the-market-access-for-vaccines-technical-advisory-group",
-      "date": "2026-07-07T11:28:13Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Spotkanie Technicznej Grupy Doradczej ds. dostępu szczepionek do rynku odbędzie się wirtualnie 9 lipca w godzinach 12:00–15:00."
+      "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/php/emergency-guidance/index.html",
+      "date": "2026-07-07T13:56:05Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "Wytyczne Departamentu Zdrowia USA dotyczące postępowania z podróżnymi z obszarów dotkniętych wirusem Ebola po przylocie."
     },
     {
       "title": "Siódme spotkanie Technicznej Grupy Doradczej ds. dostępu do rynku szczepionek – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/07/09/default-calendar/seventh-meeting-of-the-market-access-for-vaccines-technical-advisory-group",
       "date": "2026-07-07T11:28:13Z",
-      "source": "WHO Disease Outbreak News",
+      "source": "WHO",
       "confirmed_by": 1,
       "summary": "Spotkanie Technicznej Grupy Doradczej ds. dostępu szczepionek do rynku odbędzie się wirtualnie 9 lipca w godzinach 12:00–15:00."
     },
