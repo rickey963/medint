@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-07T01:31:33Z",
+  "last_updated": "2026-07-07T01:32:13Z",
   "poland": [
+    {
+      "title": "Lecigon opis preparatu - Indeks Leków MP",
+      "url": "https://indeks.mp.pl/leki/desc.php?id=23029",
+      "date": "2026-07-07T00:46:06Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Lecigon opis preparatu Indeks Leków MP."
+    },
     {
       "title": "Deepfake i AI w programie edukacji zdrowotnej. MEN uwzględniło postulaty UODO - Alert Medyczny",
       "url": "https://alertmedyczny.pl/deepfake-i-ai-w-programie-edukacji-zdrowotnej-men-uwzglednilo-postulaty-uodo/",
@@ -13,8 +21,8 @@
       "title": "Decyzja nr 8/2026/BP – małoletni przedsiębiorca - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-82026bp-maloletni-przedsiebiorca,6682.html",
       "date": "2026-07-06T20:53:43Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 4,
       "summary": "Decyzja nr 8/2026/BP."
     },
     {
@@ -392,14 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Poważne obawy, związane z ogłoszonym niedawno projektem zarządzenia prezesa Narodowego Funduszu Zdrowia, zmieniającym zasady rozliczania nadwykonań, wyraził Ogólnopolski Związek Pracodawców Szpitali Powiatowych (OZPSP)."
-    },
-    {
-      "title": "Rodzinny przeszczep nerki w Poznaniu. Żywe dawstwo wciąż rzadkością - Podyplomie",
-      "url": "https://podyplomie.pl/aktualnosci/rodzinny-przeszczep-nerki-w-poznaniu-zywe-dawstwo-wciaz-rzadkoscia",
-      "date": "2026-07-06T13:46:00Z",
-      "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
-      "summary": "Choć metoda zapewnia najlepsze wyniki leczenia schyłkowej niewydolności nerek, w Polsce stanowi niewielki odsetek wszystkich przeszczepień."
     }
   ],
   "world": [
@@ -593,7 +593,7 @@
       "date": "2026-07-06T15:36:22Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "1 Dyrektor regionalny, Biuro Regionalne WHO dla wschodniego regionu Morza Śródziemnego, Kair, Egipt."
+      "summary": "Tom 32 numer 4 emro.who.int."
     },
     {
       "title": "Szybki quiz przeglądowy: Narkolepsja – Medscape",
@@ -1038,6 +1038,14 @@
       "summary": "Szkolenie OK COBIK NIL - Lekarzu, zadbaj o siebie. Jak wdrożyć self-care w przeładowany grafik? NIL."
     },
     {
+      "title": "Szkolenie OK COBIK NIL - SZKOLENIE Z POLSKIMI NAPISAMI: Laser Dentistry in General Practice (Stomatologia laserowa w praktyce og - NIL",
+      "url": "https://nil.org.pl/eventToPdf/1544",
+      "date": "2026-07-01T00:52:06Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Szkolenie OK COBIK NIL - SZKOLENIE Z POLSKIMI NAPISAMI: Laser Dentistry in General Practice (Stomatologia laserowa w praktyce og NIL."
+    },
+    {
       "title": "Niewydolność serca: nowa definicja poprawi diagnostykę i zmieni opiekę – Healthline",
       "url": "https://www.healthline.com/health-news/new-heart-failure-definition-will-improve-diagnosis-treatment",
       "date": "2026-06-30T18:42:55Z",
@@ -1410,14 +1418,6 @@
   ],
   "clinical_trials": [
     {
-      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
-      "date": "2026-07-06T21:17:37Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
-    },
-    {
       "title": "Szczegóły badania | NCT07683325 | NOV-ERA – Badanie kliniczne mające na celu ocenę skuteczności i bezpieczeństwa ontunisertybu w porównaniu z placebo u pacjentów z chorobą Leśniowskiego-Crohna z włóknieniem – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07683325?aggFilters=status%3A%2CfunderType%3Aindustry",
       "date": "2026-07-06T18:04:38Z",
@@ -1488,6 +1488,14 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Deklaracja praw człowieka dla wieku, który potrafi czytać w myślach, edytować genom i odcinać dostęp do codziennego życia. Przeczytaj to. Podpisz to."
+    },
+    {
+      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
+      "date": "2026-07-04T06:07:32Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
     }
   ],
   "pharma_market": [
@@ -1960,12 +1968,12 @@
   ],
   "daily_top5": [
     {
-      "title": "Dziedziczne zwyrodnienia siatkówki: fenotypy kliniczne i nowe terapie - The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00766-X/fulltext?rss=yes",
-      "date": "2026-07-06T22:58:21Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Dziedziczne zwyrodnienia siatkówki: fenotypy kliniczne i nowe terapie The Lancet."
+      "title": "Decyzja nr 8/2026/BP – małoletni przedsiębiorca - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-82026bp-maloletni-przedsiebiorca,6682.html",
+      "date": "2026-07-06T20:53:43Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 4,
+      "summary": "Decyzja nr 8/2026/BP."
     },
     {
       "title": "Siódme spotkanie Międzyrządowej Grupy Roboczej (IGWG) w sprawie Porozumienia WHO w sprawie pandemii – Światowa Organizacja Zdrowia (WHO)",
