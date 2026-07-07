@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-07T12:49:04Z",
+  "last_updated": "2026-07-07T12:49:52Z",
   "poland": [
+    {
+      "title": "Dymisji (na razie) nie będzie? - Ochrona zdrowia - mp.pl",
+      "url": "https://ochronazdrowia.mp.pl/aktualnosci/443314,dymisji-na-razie-nie-bedzie",
+      "date": "2026-07-07T12:47:55Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Zmiana na stanowisku ministra zdrowia – a do pewnego stopnia również na stanowisku prezesa NFZ – w tej chwili się zwyczajnie nie opłaca, bo mogłaby oznaczać przedwczesne „spalenie” następców. Do podjęcia są bardzo trudne decyzje."
+    },
     {
       "title": "Fotostarzenie się skóry – czym jest photoaging i jak mu zapobiegać? - DOZ",
       "url": "https://www.doz.pl/czytelnia/a18730-Fotostarzenie_sie_skory_czym_jest_photoaging_i_jak_mu_zapobiegac",
@@ -15,7 +23,7 @@
       "date": "2026-07-07T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prokuratura: miał diagnozować i leczyć bez uprawnień. Śledztwo obejmuje około 900 osób Alert Medyczny."
+      "summary": "Prokuratura prowadzi śledztwo wobec naturopaty z Kóz. Podejrzenia dotyczą diagnozowania i leczenia bez uprawnień."
     },
     {
       "title": "Rzecznik Praw Pacjenta: zakłady opiekuńczo-lecznicze nie mogą limitować przepustek pacjentów - Podyplomie",
@@ -103,7 +111,7 @@
       "date": "2026-07-07T11:15:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nieletni czekają ponad rok na leczenie. RPO wskazuje na problemy systemowe Alert Medyczny."
+      "summary": "RPO apeluje do Ministerstwa Zdrowia o pilne zmiany w psychiatrii sądowej dla nieletnich. Problemem są braki miejsc i wielomiesięczne kolejki."
     },
     {
       "title": "LAS - Letnia Akademia Sanepidu - Gov.pl",
@@ -119,7 +127,7 @@
       "date": "2026-07-07T10:58:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Premier: „Nie ma odwrotu od tej drogi”. Jutro poznamy propozycje reformy ochrony zdrowia Alert Medyczny."
+      "summary": "Premier Donald Tusk zapowiada prezentację reformy ochrony zdrowia. Zmiany mają objąć organizację szpitali, wyceny świadczeń i wynagrodzenia."
     },
     {
       "title": "Zmiana terminu - IV Webinarium informacyjno-szkoleniowe dot. konkursu FM-SMPL.06.KONS.2026- 15 lipca 2026 r. - Gov.pl",
@@ -183,7 +191,7 @@
       "date": "2026-07-07T09:12:03Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Pacjenci ZOL nie mogą mieć odgórnie limitowanych przepustek. Jest stanowisko RPP Alert Medyczny."
+      "summary": "Rzecznik Praw Pacjenta uznał, że ZOL nie mogą odgórnie limitować przepustek. Decyzja może wpłynąć na praktykę placówek w całej Polsce."
     },
     {
       "title": "Recepta na sukces w Opolu. Prof. Gierlotka mówi, jak zatrzymać najzdolniejszych lekarzy - Puls Medycyny",
@@ -392,14 +400,6 @@
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
       "summary": "Decyzja nr 6/2026/BP."
-    },
-    {
-      "title": "II Warszawskie Dni Neurologiczne - Infarma | Konferencja stacjonarna - Termedia",
-      "url": "https://www.termedia.pl/Konferencja-II-Warszawskie-Dni-Neurologiczne-Infarma,2834,40745.html",
-      "date": "2026-07-06T20:46:54Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "II Warszawskie Dni Neurologiczne - Infarma | Konferencja stacjonarna Termedia."
     }
   ],
   "world": [
@@ -625,7 +625,7 @@
       "date": "2026-07-07T09:53:42Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Helen Salisbury: Opuszczone spotkania i zaginięcia BMJ."
+      "summary": "Jeśli pacjent opuści wizytę ambulatoryjną, wysyłany jest list, a jego kopia elektroniczna trafia do lekarza rodzinnego. Niektóre oddziały zmieniają termin, inne natomiast wypisują pacjenta, prosząc o ponowne skierowanie, jeśli nadal potrzebuje wizyty. Jako lekarze pierwszego kontaktu moglibyśmy spojrzeć na ten problem z perspektywy zmarnowanych wizyt i poczuć się zawiedzieni, że pacjenci nie traktują swojego zdrowia priorytetowo (chociaż czasami powodem niestawienia się jest po prostu to, że list trafił pod zły adres lub dotarł po terminie wizyty)."
     },
     {
       "title": "Helen Salisbury: Nieudane spotkania i zaginięcia – BMJ",
@@ -811,7 +811,7 @@
       "date": "2026-07-07T11:59:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Wśród dorosłych w wieku 40–79 lat z nadciśnieniem tętniczym w 1. stopniu kwalifikowalność do leczenia nieznacznie wzrosła z 45,2% zgodnie z wytycznymi z 2017 r. do 47,0% zgodnie z wytycznymi z 2025 r. Ogółem zgodnie z nowymi wytycznymi 3,2% pacjentów byłoby leczonych inaczej (2,5% uzyskało kwalifikację, 0,7% utraciło kwalifikację)."
+      "summary": "Aktualizacja wytycznych dotyczących nadciśnienia z 2025 r. nieznacznie zwiększa kwalifikowalność do leczenia na etapie 1, przy czym wzrost netto dotyczy pacjentów starszych i kobiet. Epickie badania."
     },
     {
       "title": "Zaawansowany kurs ESMO dotyczący wczesnego opracowywania leków 2026: Hongkong SAR – ESMO OncologyPRO",
@@ -963,7 +963,7 @@
       "date": "2026-07-03T14:20:20Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 47/2026 z dnia 2 lipca 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028”."
     },
     {
       "title": "Stan prac - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -971,7 +971,7 @@
       "date": "2026-07-03T14:20:19Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Stan prac Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "W lipcu AOTMiT rozpoczyna prace nad zleceniami Ministra Zdrowia:."
     },
     {
       "title": "NIL - Deklarujemy pełną gotowość do współpracy. Prezes NRL przedstawił postulaty samorządu premierowi Donaldowi Tuskowi - NIL",
@@ -995,7 +995,7 @@
       "date": "2026-07-03T12:58:05Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Keytruda (pembrolizumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
+      "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     },
     {
       "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1028,6 +1028,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
+    },
+    {
+      "title": "Wytyczne dotyczące zdrowia publicznego dotyczące planowania reakcji VHF | Wirusowa gorączka krwotoczna (VHF) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/viral-hemorrhagic-fevers/php/public-health-strategy/vhf-response-planning.html",
+      "date": "2026-07-02T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Zalecenia CDC dla wydziałów zdrowia publicznego dotyczące przygotowania i reagowania na krajowe przypadki VHF."
     },
     {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
@@ -1078,6 +1086,14 @@
       "summary": "Optymalizacja terapii medycznej opartej na wytycznych (GDMT) jest podstawą leczenia niewydolności serca (HF). Wdrożenie terapii zalecanych przez wytyczne, w oparciu o wyniki licznych badań z randomizacją, w tym tak zwanej „fantastycznej czwórki” (inhibitory układu renina-angiotensyna, beta-blokery, antagoniści receptora mineralokortykoidowego i inhibitory SGLT2), jest głównym motorem poprawy leczenia niewydolności serca (HFT)."
     },
     {
+      "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/how-early-is-early-enough-treating-familial-hypercholesterolaemia-before-risk-takes-root/",
+      "date": "2026-06-29T18:53:51Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "W prospektywnej kohorcie badania SAFEHEART badacze oceniali długoterminowe wyniki w przypadku genetycznie potwierdzonej hipercholesterolemii rodzinnej wśród 348 dzieci/młodzieży dotkniętych chorobą, 165 zdrowych krewnych i 288 chorych rodziców."
+    },
+    {
       "title": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/expert-consensus-document-second-universal-definition-of-heart-failure-2026",
       "date": "2026-06-29T12:58:24Z",
@@ -1094,12 +1110,12 @@
       "summary": "Chociaż większość dużych towarzystw medycznych z siedzibą w USA w badaniu przekrojowym wyraźnie sugerowała uwzględnienie dowodów ekonomicznych lub związanych z wykorzystaniem zasobów podczas opracowywania wytycznych, tylko 3,8% indywidualnych zaleceń uwzględniło tę informację w samym oświadczeniu dotyczącym zalecenia."
     },
     {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/869",
-      "date": "2026-06-26T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
+      "title": "Protokół wytycznych praktyki klinicznej dotyczących akupunktury w leczeniu przewlekłego nieswoistego bólu krzyża – Frontiers",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1834549/full",
+      "date": "2026-06-23T09:18:39Z",
+      "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
+      "summary": "Wstęp Przewlekły nieswoisty ból krzyża (CNLBP) jest częstą chorobą układu mięśniowo-szkieletowego, która dotyka dorosłych na całym świecie. Działania niepożądane związane z dr..."
     }
   ],
   "epidemiology": [
@@ -1554,12 +1570,12 @@
       "summary": "Z prospektywnego badania obserwacyjnego prowadzonego przez Jamesa Hollistera i współpracowników z Mel & Enid Zuckerman College of Public Health na Uniwersytecie Arizony, opublikowanego w BMJ Paediatrics Open, wynika, że ​​wyższe stężenie kwasu perfluorooktanosulfonowego (PFOS) we krwi było związane z umiarkowanie zmniejszoną odpowiedzią przeciwciał po szczepieniu dzieci Pfizer-BioNTech przeciwko COVID-19. Analizując 120 dzieci w wieku od 1 do 16 lat włączonych do kohorty AZ-HEROES Kids, badacze odkryli, że każde odchylenie standardowe zwiększenie PFOS w surowicy odpowiadało w przybliżeniu 5% zmniejszeniu poziomu przeciwciał domeny wiążącej receptor (RBD) po zakończeniu serii podstawowej szczepionki mRNA. Badanie to jest pierwszym, w którym szczegółowo zbadano narażenie na PFAS i immunogenność szczepionki przeciwko Covid-19 u dzieci i pogłębia obawy, że trwałe chemikalia występujące w środowisku mogą subtelnie wpływać na funkcje odpornościowe."
     },
     {
-      "title": "Południowokoreańska redakcja wznawia kontrolę nadzoru nad szczepionką przeciwko Covid-19 po orzeczeniach sądu i wynikach audytu - Trialsitenews.com",
+      "title": "Po orzeczeniach sądu i wynikach audytu południowokoreańska redakcja wznawia kontrolę nadzoru nad szczepionką przeciwko Covid-19",
       "url": "https://www.trialsitenews.com/a/south-korean-editorial-renews-scrutiny-of-covid-19-vaccine-oversight-after-court-rulings-and-audit-findings-548d058e",
       "date": "2026-07-04T22:53:25Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Czy ostatnie orzeczenia sądu i audyt rządowy ożywiają pytania dotyczące zarządzania szczepionkami w Korei Południowej? Wybitny południowokoreański artykuł opiniodawczy wznowił debatę na temat zarządzania przez rząd szczepionkami przeciwko Covid-19 podczas pandemii, argumentując, że kontrowersje wykraczają obecnie poza bezpieczeństwo szczepionek i obejmują kwestie nadzoru regulacyjnego, przejrzystości i odpowiedzialności. Napisany przez Seo Min, profesora parazytologii na Uniwersytecie Dankook, artykuł wstępny jest następstwem kilku orzeczeń sądowych uznających roszczenia odszkodowawcze w związku ze śmiercią po szczepieniu przeciwko Covid-19 i odwołuje się do krajowego audytu, w którym krytykowano aspekty sposobu, w jaki Koreańska Agencja Kontroli i Zapobiegania Chorobom (KDCA) zajmuje się raportami dotyczącymi jakości szczepionek."
+      "summary": "Czy ostatnie orzeczenia sądu i audyt rządowy ożywiają pytania dotyczące zarządzania szczepionkami w Korei Południowej? Wybitny południowokoreański artykuł poglądowy wznowił debatę na temat zarządzania przez rząd szczepionkami przeciwko Covid-19 podczas pandemii, argumentując, że kontrowersje wykraczają obecnie poza bezpieczeństwo szczepionek i obejmują kwestie nadzoru regulacyjnego, przejrzystości i odpowiedzialności. Napisany przez Seo Min, profesora parazytologii na Uniwersytecie Dankook, artykuł wstępny jest następstwem kilku orzeczeń sądowych uznających roszczenia odszkodowawcze w związku ze śmiercią po szczepieniu przeciwko Covid-19 i odwołuje się do krajowego audytu, w którym krytykowano aspekty sposobu, w jaki Koreańska Agencja Kontroli i Zapobiegania Chorobom (KDCA) zajmuje się raportami dotyczącymi jakości szczepionek."
     },
     {
       "title": "Pogłębia się tajemnica nadmiernej śmierci w Japonii: nowa analiza wskazuje na utrzymujący się wzrost śmiertelności i pytania bez odpowiedzi pięć lat po Covid-19",
