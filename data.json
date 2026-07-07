@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T09:47:27Z",
+  "last_updated": "2026-07-07T09:48:05Z",
   "poland": [
     {
       "title": "Dymisje w Ministerstwie Zdrowia nie naprawią systemu? Sebastian Goncerz wskazuje na główne problemy - PolitykaZdrowotna.com",
@@ -205,8 +205,8 @@
       "title": "Decyzja nr 8/2026/BP – małoletni przedsiębiorca - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-82026bp-maloletni-przedsiebiorca,6682.html",
       "date": "2026-07-06T20:53:43Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 4,
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 2,
       "summary": "Decyzja nr 8/2026/BP."
     },
     {
@@ -444,14 +444,6 @@
       "summary": "{{getUserDateTimezone(\"1784739600\").singleDate}} {{getUserDateTimezone(\"1784739600\").time}} - {{getUserDateTimezone(\"1784742300\").time}} {{getClientTimezoneName()}}."
     },
     {
-      "title": "Medycyna uważa, że ​​pokolenie Z jest zbyt miękkie. Źle – STAT",
-      "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
-      "date": "2026-07-07T08:32:42Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "„Lekarze pokolenia Z są na kursie kolizyjnym z instytucjami wciąż zbudowanymi w oparciu o starsze założenia” – pisze Frantz M. Berthaud."
-    },
-    {
       "title": "5 wniosków z serii STAT na temat rosnących kosztów ubezpieczenia zdrowotnego - STAT",
       "url": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
       "date": "2026-07-07T08:32:42Z",
@@ -460,8 +452,16 @@
       "summary": "Przeczytaj 5 kluczowych wniosków z serii STAT „Out of Pocket, Out of Reach” – analizy ubezpieczenia zdrowotnego w miejscu pracy."
     },
     {
+      "title": "Medycyna uważa, że ​​pokolenie Z jest zbyt miękkie. Źle – STAT",
+      "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
+      "date": "2026-07-07T08:32:42Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "„Lekarze pokolenia Z są na kursie kolizyjnym z instytucjami wciąż zbudowanymi w oparciu o starsze założenia” – pisze Frantz M. Berthaud."
+    },
+    {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
-      "url": "https://www.statnews.com/health-insurance-costs-out-of-pocket-out-of-reach-series",
+      "url": "https://www.statnews.com/category/out-of-pocket-out-of-reach/",
       "date": "2026-07-07T08:32:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -469,7 +469,7 @@
     },
     {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
-      "url": "https://www.statnews.com/category/out-of-pocket-out-of-reach/",
+      "url": "https://www.statnews.com/health-insurance-costs-out-of-pocket-out-of-reach-series",
       "date": "2026-07-07T08:32:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -736,7 +736,7 @@
       "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00188-3/abstract",
       "date": "2026-07-07T00:49:27Z",
       "source": "The Lancet",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Nowe spojrzenie na medycynę reprodukcyjną w dobie sztucznej inteligencji The Lancet."
     },
     {
@@ -819,7 +819,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "Ekstrakty z pyłków traw | Interakcje – BNFC",
@@ -830,7 +830,7 @@
       "summary": "Ekstrakty z pyłków traw | Interakcje BNFC."
     },
     {
-      "title": "Nowe technologie mogą pomóc skrócić lata oczekiwania na diagnozę endometriozy – portal NICE",
+      "title": "Nowe technologie mogą pomóc skrócić wieloletnie oczekiwanie na diagnozę endometriozy – witryna NICE",
       "url": "https://www.nice.org.uk/news/articles/new-technologies-for-endometriosis-diagnosis-in-primary-care",
       "date": "2026-07-06T23:00:00Z",
       "source": "NICE",
@@ -934,22 +934,6 @@
       "summary": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) Europejskie Towarzystwo Kardiologiczne."
     },
     {
-      "title": "Ritlecitynib w leczeniu niesegmentowego bielactwa nabytego u osób w wieku 12 lat i starszych [ID6584] - witryna internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta11744/documents/html-content",
-      "date": "2026-07-04T06:22:22Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Ritlecitynib w leczeniu niesegmentowego bielactwa nabytego u osób w wieku 12 lat i starszych [ID6584] Strona internetowa NICE."
-    },
-    {
-      "title": "Notatki | Dokumenty projektowe | Autoleucel afamitresgenu w leczeniu wcześniej leczonego zaawansowanego mięsaka maziowego z dodatnim wynikiem MAGE-A4 lub liposarcomy śluzowatej okrągłokomórkowej [ID4064] | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta11040/documents/html-content",
-      "date": "2026-07-04T06:13:01Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Notatki | Dokumenty projektowe | Autoleucel afamitresgenu w leczeniu wcześniej leczonego zaawansowanego mięsaka maziowego z dodatnim wynikiem MAGE-A4 lub liposarcomy śluzowatej okrągłokomórkowej [ID4064] | Poradnik NICE."
-    },
-    {
       "title": "ATENY CMR POZIOM 1-2 - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/education/live-events/live-events-endorsement/ATHENSCMR-LEVEL-1-2/",
       "date": "2026-07-04T05:20:08Z",
@@ -964,22 +948,6 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Opieka nad chorymi na ostry udar niedokrwienny mózgu w dalszym ciągu szybko ewoluuje, a nowe dowody zmieniają sposób przedszpitalnej segregacji pacjentów, obrazowania, strategii reperfuzji i opieki zespołowej przez całe życie. Ta czteroczęściowa seria filmów przedstawia autorów Wytycznych Amerykańskiego Towarzystwa Kardiologicznego dotyczących ostrego udaru niedokrwiennego z 2026 r., przedstawiających zmieniające praktykę aktualizacje dla klinicystów medycyny ratunkowej, neurointerwencjonistów, specjalistów w dziedzinie obrazowania, pielęgniarek, koordynatorów udaru i pediatrycznych zespołów udarowych."
-    },
-    {
-      "title": "Acalabrutinib z wenetoklaksem i obinutuzumabem na nieleczoną przewlekłą białaczkę limfatyczną [ID6156] - witryna NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta11087/documents/html-content-3",
-      "date": "2026-07-04T03:24:24Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Acalabrutinib z wenetoklaksem i obinutuzumabem w leczeniu nieleczonej przewlekłej białaczki limfatycznej [ID6156] Strona internetowa NICE."
-    },
-    {
-      "title": "Pembrolizumab z ipilimumabem w leczeniu zaawansowanego niedrobnokomórkowego raka płuc z ekspresją PD-L1 [ID3861] - witryna NICE",
-      "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ta10780/documents",
-      "date": "2026-07-04T02:06:32Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Pembrolizumab z ipilimumabem w leczeniu zaawansowanego niedrobnokomórkowego raka płuc z ekspresją PD-L1 [ID3861] Strona internetowa NICE."
     },
     {
       "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1052,14 +1020,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
-    },
-    {
-      "title": "Wytyczne dotyczące zdrowia publicznego dotyczące planowania reakcji VHF | Wirusowa gorączka krwotoczna (VHF) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/viral-hemorrhagic-fevers/php/public-health-strategy/vhf-response-planning.html",
-      "date": "2026-07-02T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Zalecenia CDC dla wydziałów zdrowia publicznego dotyczące przygotowania i reagowania na krajowe przypadki VHF."
     },
     {
       "title": "Tom 16 - Europejskie Towarzystwo Kardiologiczne",
@@ -2056,20 +2016,20 @@
   ],
   "daily_top5": [
     {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-07-07T08:13:24Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
+    },
+    {
       "title": "Nowe spojrzenie na medycynę reprodukcyjną w dobie sztucznej inteligencji - The Lancet",
       "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00188-3/abstract",
       "date": "2026-07-07T00:49:27Z",
       "source": "The Lancet",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Nowe spojrzenie na medycynę reprodukcyjną w dobie sztucznej inteligencji The Lancet."
-    },
-    {
-      "title": "Decyzja nr 8/2026/BP – małoletni przedsiębiorca - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-82026bp-maloletni-przedsiebiorca,6682.html",
-      "date": "2026-07-06T20:53:43Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 4,
-      "summary": "Decyzja nr 8/2026/BP."
     },
     {
       "title": "Siódme spotkanie Międzyrządowej Grupy Roboczej (IGWG) w sprawie Porozumienia WHO w sprawie pandemii – Światowa Organizacja Zdrowia (WHO)",
