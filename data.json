@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T16:47:22Z",
+  "last_updated": "2026-07-07T16:48:27Z",
   "poland": [
     {
       "title": "Rekord IKP w Polsce. Ponad 21 milionów osób korzysta z Internetowego Konta Pacjenta i aplikacji mojeIKP - PolitykaZdrowotna.com",
@@ -23,7 +23,7 @@
       "date": "2026-07-07T15:38:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Minister Zdrowia zmienił skład zespołu ds. anestezjologii. Dołączyli przedstawiciele NRL i środowiska PTAiIT po wcześniejszych zastrzeżeniach."
+      "summary": "MZ zmienia skład zespołu ds. anestezjologii. Po krytyce dołączają przedstawiciele NRL i PTAiIT Alert Medyczny."
     },
     {
       "title": "Planowane zmiany w ochronie zdrowia - konferencja prasowa minister zdrowia Jolanty Sobierańskiej-Grendy - Gov.pl",
@@ -55,7 +55,7 @@
       "date": "2026-07-07T14:06:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Rząd opublikował projekt UD430. Ministerstwo Zdrowia chce przesunąć start systemu EPS o 9 miesięcy i rozszerzyć zakres danych przekazywanych do P1."
+      "summary": "1 stycznia 2027 r. już nieaktualny? Rząd zmienia plany dotyczące wdrożenia systemu EPS Alert Medyczny."
     },
     {
       "title": "SMA: Komisja Europejska zatwierdziła nową terapię genową - Puls Medycyny",
@@ -151,7 +151,7 @@
       "date": "2026-07-07T13:18:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Minister Zdrowia opublikował nowe wykazy RDTL. Sprawdź dane o 269 sfinansowanych produktach leczniczych oraz listę 102 wyłączeń."
+      "summary": "Nowe wykazy RDTL: sfinansowano 269 produktów, opublikowano też listę 102 wyłączeń Alert Medyczny."
     },
     {
       "title": "Dymisji (na razie) nie będzie? - Opinie - Kurier - Medycyna Praktyczna",
@@ -215,7 +215,7 @@
       "date": "2026-07-07T12:24:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Prokuratura prowadzi śledztwo wobec naturopaty z Kóz. Podejrzenia dotyczą diagnozowania i leczenia bez uprawnień."
+      "summary": "Prokuratura: miał diagnozować i leczyć bez uprawnień. Śledztwo obejmuje około 900 osób Alert Medyczny."
     },
     {
       "title": "Rzecznik Praw Pacjenta: zakłady opiekuńczo-lecznicze nie mogą limitować przepustek pacjentów - Podyplomie",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "FDA zatwierdza leczenie choroby nerek firmy Vera Therapeutics - STAT",
+      "url": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/",
+      "date": "2026-07-07T16:46:22Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "FDA zatwierdziła nowy lek firmy biotechnologicznej Vera Therapeutics dla pacjentów z rodzajem przewlekłej autoimmunologicznej choroby nerek."
+    },
+    {
       "title": "Pompa MiniMed Flex: mała i elastyczna dla użytkownika - Medscape",
       "url": "https://www.medscape.com/viewarticle/minimed-flex-pump-small-user-flexibility-2026a1000m3k?src=",
       "date": "2026-07-07T16:42:40Z",
@@ -465,7 +473,7 @@
       "date": "2026-07-07T15:06:16Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Vertex zawiera największą w historii transakcję, gwałtownie podnosząc koszty ubezpieczenia zdrowotnego, a w The Readout pojawia się więcej wiadomości biotechnologicznych."
+      "summary": "Vertex zawiera największą w historii umowę, gwałtownie podnosząc koszty ubezpieczenia zdrowotnego, a z The Readout pojawia się więcej wiadomości biotechnologicznych."
     },
     {
       "title": "Ubezpieczenie zdrowotne pracodawcy w Ameryce spada – STAT",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Jeśli pacjent opuści wizytę ambulatoryjną, wysyłany jest list, a jego kopia elektroniczna trafia do lekarza rodzinnego. Niektóre oddziały zmieniają termin, inne zaś wypisują pacjenta, prosząc o ponowne skierowanie, jeśli nadal potrzebuje wizyty. Jako lekarze pierwszego kontaktu moglibyśmy spojrzeć na ten problem z perspektywy zmarnowanych wizyt i poczuć się zawiedzieni, że pacjenci nie traktują swojego zdrowia priorytetowo (chociaż czasami powodem niestawienia się jest po prostu to, że list trafił pod zły adres lub dotarł po terminie wizyty)."
-    },
-    {
-      "title": "Helen Salisbury: Nieudane spotkania i zaginięcia – BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100198/related",
-      "date": "2026-07-07T09:53:42Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Jeśli pacjent opuści wizytę ambulatoryjną, wysyłany jest list, a jego kopia elektroniczna trafia do lekarza rodzinnego. Niektóre oddziały zmieniają termin, inne zaś wypisują pacjenta, prosząc o ponowne skierowanie, jeśli nadal potrzebuje wizyty. Jako lekarze pierwszego kontaktu moglibyśmy spojrzeć na ten problem z perspektywy zmarnowanych wizyt i poczuć się zawiedzieni, że pacjenci nie traktują swojego zdrowia priorytetowo (chociaż czasami powodem niestawienia się jest po prostu to, że list trafił pod zły adres lub dotarł po terminie wizyty)."
     }
   ],
   "guidelines": [
@@ -862,7 +862,7 @@
       "summary": "Ekstrakty z pyłków traw | Interakcje BNFC."
     },
     {
-      "title": "Nowe technologie mogą pomóc skrócić lata oczekiwania na diagnozę endometriozy – portal NICE",
+      "title": "Nowe technologie mogą pomóc skrócić wieloletnie oczekiwanie na diagnozę endometriozy – witryna NICE",
       "url": "https://www.nice.org.uk/news/articles/new-technologies-for-endometriosis-diagnosis-in-primary-care",
       "date": "2026-07-06T23:00:00Z",
       "source": "NICE",
@@ -878,7 +878,7 @@
       "summary": "Gratulujemy naszym szpitalom Ascension Wisconsin zdobycia uznania w całym kraju dzięki programowi Get With The Guidelines® American Heart Association."
     },
     {
-      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 25. kończący się 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z 25. tygodnia zakończonego 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-25.html",
       "date": "2026-07-06T16:35:37Z",
       "source": "CDC (rekomendacje)",
@@ -902,7 +902,7 @@
       "summary": "Dorośli z trwającym całe życie lub bardzo poważnym upośledzeniem słuchu lub wzroku: zdrowie, dobre samopoczucie i opieka społeczna Strona internetowa NICE."
     },
     {
-      "title": "Tłumienie funkcji jajników plus tamoksyfen znacznie zmniejsza ryzyko nawrotu raka piersi przed menopauzą w porównaniu z tamoksyfenem, a dalsze zmniejszenie jest widoczne w połączeniu z eksemestanem - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "Tłumienie funkcji jajników plus tamoksyfen znacząco zmniejsza ryzyko nawrotu raka piersi przed menopauzą w porównaniu z tamoksyfenem, a dalsze zmniejszenie jest widoczne w połączeniu z eksemestanem - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/ovarian-function-suppression-plus-tamoxifen-significantly-reduces-premenopausal-breast-cancer-recurrence-over-tamoxifen-and-further-reduction-is-seen-when-combined-with-exemestane",
       "date": "2026-07-06T09:16:17Z",
       "source": "ESMO (onkologia)",
@@ -979,7 +979,7 @@
       "date": "2026-07-03T14:20:20Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 47/2026 z dnia 2 lipca 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028”."
+      "summary": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Stan prac - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -987,7 +987,15 @@
       "date": "2026-07-03T14:20:19Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "W lipcu AOTMiT rozpoczyna prace nad zleceniami Ministra Zdrowia:."
+      "summary": "Stan prac Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Okrągły Stół Pacjenta ESC – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-forum-what-we-do/esc-patient-round-table/",
+      "date": "2026-07-03T14:15:46Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Okrągły Stół Pacjentów ESC to inicjatywa Forum Pacjentów ESC, której celem jest umożliwienie zorganizowanej, wielostronnej współpracy pomiędzy pacjentami, pracownikami służby zdrowia i partnerami branżowymi."
     },
     {
       "title": "NIL - Deklarujemy pełną gotowość do współpracy. Prezes NRL przedstawił postulaty samorządu premierowi Donaldowi Tuskowi - NIL",
@@ -1011,7 +1019,7 @@
       "date": "2026-07-03T12:58:05Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
+      "summary": "Rekomendacja Prezesa – Keytruda (pembrolizumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1054,20 +1062,20 @@
       "summary": "Quiz Tom 16 Europejskie Towarzystwo Kardiologiczne."
     },
     {
+      "title": "Tom 16 - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/councils/genomics/scientific-documents-and-publications/cardiogenomics-insights/volume-16/",
+      "date": "2026-07-02T05:27:14Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Tom 16 Europejskie Towarzystwo Kardiologiczne."
+    },
+    {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
       "url": "https://newsroom.tricare.mil/News/TRICARE-News/Article/4531226/provide-feedback-on-clinical-practice-guidelines-in-joint-patient-focus-groups",
       "date": "2026-07-01T16:16:35Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca TRICARE Newsroom (.mil)."
-    },
-    {
-      "title": "Co nowego, co ma znaczenie: wdrażanie wytycznych ACLS 2025 – Szpitalnik",
-      "url": "https://www.the-hospitalist.org/hospitalist/article/41486/cardiology/whats-new-what-matters-implementing-the-2025-acls-guidelines/",
-      "date": "2026-07-01T13:42:31Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Wytyczne American Heart Association z 2025 r. dotyczące zaawansowanych zabiegów resuscytacyjnych serca wprowadzają kluczowe aktualizacje dotyczące postępowania w przypadku szpitalnego zatrzymania krążenia, kładąc nacisk na resuscytację opartą na dowodach naukowych, pracę zespołową i opiekę poresuscytacyjną."
+      "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych w dniu 17 lipca TRICARE Newsroom (.mil)."
     },
     {
       "title": "Czy leki GLP-1 mogą poprawić stan zdrowia osób chorych na cukrzycę typu 2 i PAD? - www.serce.org",
@@ -1102,12 +1110,12 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 874, z dniem ogłoszenia 2026-06-30."
     },
     {
-      "title": "Czasowe zmiany wyniku terapii medycznej ukierunkowanej na wytyczne – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/news-room/temporal-changes-in-guideline-directed-medical-therapy-score/",
-      "date": "2026-06-30T15:11:34Z",
-      "source": "ESC (kardiologia)",
+      "title": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) - professional.heart.org",
+      "url": "https://professional.heart.org/en/science-news/expert-consensus-document-second-universal-definition-of-heart-failure-2026",
+      "date": "2026-06-29T12:58:24Z",
+      "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Optymalizacja terapii medycznej opartej na wytycznych (GDMT) jest podstawą leczenia niewydolności serca (HF). Wdrożenie terapii zalecanych przez wytyczne, w oparciu o wyniki licznych badań z randomizacją, w tym tak zwanej „fantastycznej czwórki” (inhibitory układu renina-angiotensyna, beta-blokery, antagoniści receptora mineralokortykoidowego i inhibitory SGLT2), jest głównym motorem poprawy leczenia niewydolności serca (HFT)."
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
     },
     {
       "title": "Nowe wytyczne praktyki klinicznej dotyczące samobójstw i samookaleczeń u dzieci – Medical Journal of Australia (MJA)",
@@ -1173,7 +1181,7 @@
       "date": "2026-07-07T03:34:26Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Dołącz do seminarium internetowego WHO na temat tego, jak istniejące dowody i wytyczne WHO można wykorzystać do informowania praktyki, wspierając kraje w planowaniu, ustalaniu priorytetów i wdrażaniu zintegrowanych, kluczowych usług dostosowanych do potrzeb populacji w ramach systemów podstawowej opieki zdrowotnej (PHC)."
+      "summary": "Dołącz do seminarium internetowego WHO na temat sposobu wykorzystania istniejących dowodów i wytycznych WHO do informowania praktyki, wspierając kraje w planowaniu, ustalaniu priorytetów i wdrażaniu zintegrowanych, kluczowych usług dostosowanych do potrzeb populacji w ramach systemów podstawowej opieki zdrowotnej (PHC)."
     },
     {
       "title": "Irlandia: Przedmioty podlegające zwrotowi – leki 2026 (angielski) – Światowa Organizacja Zdrowia (WHO)",
@@ -1229,10 +1237,10 @@
       "date": "2026-07-06T19:23:28Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "W ciągu ośmiu sezonów chorób układu oddechowego szacowana skuteczność szczepionki przeciw grypie (VE) przeciwko śmierci u dzieci w USA wyniosła ogółem 80%, 77% u dzieci z chorobami współistniejącymi i 87% u dzieci bez takich schorzeń, podają dziś w Pediatrics badacze z Centrum Kontroli i Zapobiegania Chorobom (CDC)."
+      "summary": "W ciągu ośmiu sezonów chorób układu oddechowego szacowana skuteczność szczepionki przeciw grypie (VE) w zapobieganiu śmierci u dzieci w USA wyniosła ogółem 80%, 77% u dzieci z chorobami współistniejącymi i 87% wśród dzieci bez takich schorzeń, podają dziś w Pediatrics badacze z Centrum Kontroli i Zapobiegania Chorobom (CDC)."
     },
     {
-      "title": "Wezwanie do publicznego komentarza na temat ram strategicznych mających na celu przyspieszenie działań czterostronnych w sprawie ptasiej grypy – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Wezwanie do publicznego komentarza w sprawie ram strategicznych mających na celu przyspieszenie działań czterostronnych w sprawie ptasiej grypy – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/articles-detail/call-for-public-comment-on-a-strategic-framework-to-accelerate-quadripartite-action-on-avian-influenza",
       "date": "2026-07-06T18:24:11Z",
       "source": "WHO Disease Outbreak News",
@@ -1280,7 +1288,7 @@
       "summary": "Portal SPH to interaktywna platforma cyfrowa, która ułatwia udostępnianie i wymianę informacji dotyczących wielosektorowych inwestycji, działań i możliwości w zakresie bezpieczeństwa zdrowia na poziomie krajowym, regionalnym i globalnym."
     },
     {
-      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 25. kończący się 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z 25. tygodnia zakończonego 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-25.html",
       "date": "2026-07-06T16:35:37Z",
       "source": "CDC Outbreaks",
@@ -1296,7 +1304,7 @@
       "summary": "Podczas gdy ludzie w całej Europie przygotowują się do wakacji, imprez na świeżym powietrzu i spotkań towarzyskich, ECDC zachęca wszystkich do podjęcia kilku prostych środków ostrożności, aby zachować zdrowie w miesiącach letnich."
     },
     {
-      "title": "Biblioteka obrazów zdrowia publicznego (PHIL) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Biblioteka obrazów zdrowia publicznego (PHIL) — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://wwwn.cdc.gov/PHIL/Details.aspx?pid=12751",
       "date": "2026-07-06T11:13:25Z",
       "source": "CDC Outbreaks",
@@ -1312,7 +1320,7 @@
       "summary": "Współprzewodniczący, Wasza Ekscelencja Ambasador Tovar i Matthew Harpur."
     },
     {
-      "title": "Biuletyn dotyczący zapalenia opon mózgowo-rdzeniowych, 25. tydzień 2026 r. – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Biuletyn dotyczący zapalenia opon mózgowych, tydzień 25, 2026 r. – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/meningitis-bulletin-week-25--2026",
       "date": "2026-07-06T10:07:49Z",
       "source": "WHO Disease Outbreak News",
@@ -1567,7 +1575,7 @@
       "date": "2026-07-06T17:23:53Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Pierwszy pacjent otrzymał dawkę w badaniu Clinical Trials Arena firmy Molecular i Orano Med MP0712."
+      "summary": "Pierwszy pacjent, któremu podano dawkę w badaniu Clinical Trials Arena firmy Molecular i Orano Med MP0712."
     },
     {
       "title": "Brii Bio raportuje wyniki badań ENRICH i ENHANCE na koniec leczenia – Clinical Trials Arena",
@@ -1578,7 +1586,7 @@
       "summary": "Brii Bio raportuje wyniki końcowe leczenia w ramach badań ENRICH i ENHANCE Clinical Trials Arena."
     },
     {
-      "title": "Pomimo wysiłków w Anglii nierówności w zakresie otyłości utrzymują się - Arena Badań Klinicznych",
+      "title": "Nierówności w zakresie otyłości w Anglii utrzymują się pomimo wysiłków - Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/analyst-comment/inequalities-in-obesity-persist-in-england-despite-efforts/",
       "date": "2026-07-06T15:49:02Z",
       "source": "Clinical Trials Arena",
@@ -1602,7 +1610,7 @@
       "summary": "Z prospektywnego badania obserwacyjnego prowadzonego przez Jamesa Hollistera i współpracowników z Mel & Enid Zuckerman College of Public Health na Uniwersytecie Arizony, opublikowanego w BMJ Paediatrics Open, wynika, że ​​wyższe stężenie kwasu perfluorooktanosulfonowego (PFOS) we krwi było związane z umiarkowanie zmniejszoną odpowiedzią przeciwciał po szczepieniu dzieci Pfizer-BioNTech przeciwko COVID-19. Analizując 120 dzieci w wieku od 1 do 16 lat włączonych do kohorty AZ-HEROES Kids, badacze odkryli, że każde odchylenie standardowe zwiększenie PFOS w surowicy odpowiadało w przybliżeniu 5% zmniejszeniu poziomu przeciwciał domeny wiążącej receptor (RBD) po zakończeniu serii podstawowej szczepionki mRNA. Badanie to jest pierwszym, w którym szczegółowo zbadano narażenie na PFAS i immunogenność szczepionki przeciwko Covid-19 u dzieci i pogłębia obawy, że trwałe chemikalia występujące w środowisku mogą subtelnie wpływać na funkcje odpornościowe."
     },
     {
-      "title": "Po orzeczeniach sądu i wynikach audytu południowokoreańska redakcja wznawia kontrolę nadzoru nad szczepionką przeciwko Covid-19",
+      "title": "Południowokoreańska redakcja wznawia kontrolę nadzoru nad szczepionką przeciwko Covid-19 po orzeczeniach sądu i wynikach audytu - Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/south-korean-editorial-renews-scrutiny-of-covid-19-vaccine-oversight-after-court-rulings-and-audit-findings-548d058e",
       "date": "2026-07-04T22:53:25Z",
       "source": "TrialSite News",
@@ -1692,7 +1700,7 @@
       "summary": "Nowe dane z badania fazy 3 dodatkowo potwierdzą ciągłe składanie wniosków w sprawie leczenia psilocybiną COMP360 firmy Compass Pathways. U pacjentów, u których zaobserwowano klinicznie znaczącą korzyść w zakresie nasilenia depresji, odpowiedź utrzymywała się do 26. tygodnia."
     },
     {
-      "title": "Bristol opisuje potknięcie KRAS med Krazati w potwierdzającym badaniu dotyczącym raka jelita grubego – Fierce Pharma",
+      "title": "Bristol opisuje potknięcia KRAS med Krazati w potwierdzającym badaniu dotyczącym raka jelita grubego – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/bristol-lays-out-kras-med-krazatis-stumble-confirmatory-colorectal-cancer-trial",
       "date": "2026-07-07T14:46:56Z",
       "source": "FiercePharma",
@@ -2086,7 +2094,7 @@
       "summary": "Informacja o nowym ognisku E. coli związanym z mrożonymi jagodami."
     },
     {
-      "title": "Wezwanie do publicznego komentarza na temat ram strategicznych mających na celu przyspieszenie działań czterostronnych w sprawie ptasiej grypy – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Wezwanie do publicznego komentarza w sprawie ram strategicznych mających na celu przyspieszenie działań czterostronnych w sprawie ptasiej grypy – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/articles-detail/call-for-public-comment-on-a-strategic-framework-to-accelerate-quadripartite-action-on-avian-influenza",
       "date": "2026-07-06T18:24:11Z",
       "source": "WHO Disease Outbreak News",
@@ -2112,12 +2120,12 @@
       "summary": "Wyniki, czynniki prognostyczne i rola monitorowania ciśnienia wewnątrzczaszkowego w ciężkim pozaszpitalnym bakteryjnym zapaleniu opon mózgowo-rdzeniowych: wieloośrodkowe retrospektywne badanie kohortowe The Lancet."
     },
     {
-      "title": "Seminarium internetowe – Udoskonalanie kluczowych usług dostosowanych do potrzeb populacji w ramach podstawowej opieki zdrowotnej: ochrona, adaptacja, integracja, utrzymanie – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/07/07/default-calendar/webinar-enhancing-key-populations-sensitive-services-within-primary-health-care-protect-adapt-integrate-sustain",
-      "date": "2026-07-07T03:34:26Z",
-      "source": "WHO Disease Outbreak News",
+      "title": "Siódme spotkanie Technicznej Grupy Doradczej ds. dostępu do rynku szczepionek – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/07/09/default-calendar/seventh-meeting-of-the-market-access-for-vaccines-technical-advisory-group",
+      "date": "2026-07-07T11:28:13Z",
+      "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Dołącz do seminarium internetowego WHO na temat tego, jak istniejące dowody i wytyczne WHO można wykorzystać do informowania praktyki, wspierając kraje w planowaniu, ustalaniu priorytetów i wdrażaniu zintegrowanych, kluczowych usług dostosowanych do potrzeb populacji w ramach systemów podstawowej opieki zdrowotnej (PHC)."
+      "summary": "Spotkanie Technicznej Grupy Doradczej ds. dostępu szczepionek do rynku odbędzie się wirtualnie 9 lipca w godzinach 12:00–15:00."
     },
     {
       "title": "Siódme spotkanie Międzyrządowej Grupy Roboczej (IGWG) w sprawie Porozumienia WHO w sprawie pandemii – Światowa Organizacja Zdrowia (WHO)",
