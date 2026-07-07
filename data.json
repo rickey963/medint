@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T03:30:05Z",
+  "last_updated": "2026-07-07T03:30:45Z",
   "poland": [
     {
       "title": "Lecigon opis preparatu - Indeks Leków MP",
@@ -118,7 +118,7 @@
       "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-52026bp-art-176-k-s-h-,6679.html",
       "date": "2026-07-06T19:18:57Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Decyzja nr 5/2026/BP."
     },
     {
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "Opieka online w przypadku atopowego zapalenia skóry równa się osobistej rozmowie – Medscape",
+      "url": "https://www.medscape.com/viewarticle/online-team-based-care-matches-person-visits-atopic-2026a1000mu3?src=rss",
+      "date": "2026-07-07T03:29:22Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Jak wynika z randomizowanego badania, internetowy, zespołowy model teledermatologii zapewnia poprawę jakości życia porównywalną z opieką osobistą."
+    },
     {
       "title": "NHS — Najlepsza praktyka BMJ — Najlepsza praktyka BMJ",
       "url": "https://bestpractice.bmj.com/nhsinengland",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Badanie ultrasonograficzne pozwala na identyfikację uszkodzenia nerwu płciowo-udowego u kobiety z przewlekłym bólem miednicy po operacji kosmetycznej, umożliwiając ukierunkowane leczenie i trwałą ulgę w objawach."
-    },
-    {
-      "title": "Wewnątrzprzewodowy onkocytarny nowotwór brodawkowaty trzustki - opisy przypadków BMJ",
-      "url": "http://casereports.bmj.com/cgi/content/short/19/7/e274217?rss=1",
-      "date": "2026-07-06T13:18:26Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Wewnątrzprzewodowy onkocytarny nowotwór brodawkowaty trzustki BMJ Case Reports."
     }
   ],
   "guidelines": [
@@ -1067,7 +1067,7 @@
       "date": "2026-06-28T04:05:26Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
+      "summary": "ESC 365 ESC 365."
     },
     {
       "title": "Ograniczone wytyczne dotyczące kosztów początkowych w wytycznych amerykańskich – Conexiant",
@@ -1402,14 +1402,6 @@
   ],
   "clinical_trials": [
     {
-      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
-      "date": "2026-07-06T21:17:37Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
-    },
-    {
       "title": "Szczegóły badania | NCT07683325 | NOV-ERA – Badanie kliniczne mające na celu ocenę skuteczności i bezpieczeństwa ontunisertybu w porównaniu z placebo u pacjentów z chorobą Leśniowskiego-Crohna z włóknieniem – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07683325?aggFilters=status%3A%2CfunderType%3Aindustry",
       "date": "2026-07-06T18:04:38Z",
@@ -1480,6 +1472,14 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Deklaracja praw człowieka dla wieku, który potrafi czytać w myślach, edytować genom i odcinać dostęp do codziennego życia. Przeczytaj to. Podpisz to."
+    },
+    {
+      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
+      "date": "2026-07-04T06:07:32Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
     }
   ],
   "pharma_market": [
