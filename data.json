@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T08:31:17Z",
+  "last_updated": "2026-07-07T08:32:11Z",
   "poland": [
     {
       "title": "Roche inwestuje w nową terapię raka piersi. Umowa z Astex może być warta 490 mln USD - Alert Medyczny",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Medycyna uważa, że ​​pokolenie Z jest zbyt miękkie. Źle – STAT",
+      "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/",
+      "date": "2026-07-07T08:30:57Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "„Lekarze pokolenia Z są na kursie kolizyjnym z instytucjami wciąż zbudowanymi w oparciu o starsze założenia” – pisze Frantz M. Berthaud."
+    },
+    {
       "title": "Skrajne BMI powiązane z gorszymi wynikami ciąży dzięki ART – Medscape",
       "url": "https://www.medscape.com/viewarticle/bmi-high-low-extremes-tied-worse-clinical-pregnancy-outcomes-2026a1000muv",
       "date": "2026-07-07T08:11:43Z",
@@ -696,7 +704,7 @@
       "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00188-3/fulltext",
       "date": "2026-07-07T00:15:59Z",
       "source": "The Lancet",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Nowe spojrzenie na medycynę reprodukcyjną w dobie sztucznej inteligencji The Lancet."
     },
     {
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Wprowadzenie Chemioterapia neoadjuwantowa (NAC), po której następuje ostateczne leczenie polegające na radykalnej radioterapii lub radykalnej cystektomii, jest zalecaną metodą leczenia pacjentów z rakiem pęcherza moczowego ograniczonym do narządów (OC-MIBC). Randomizowane, kontrolowane badanie (RCT), którego celem było porównanie skuteczności radykalnej radioterapii i radykalnej cystektomii, nie zakończyło się rekrutacją. Radykalna radioterapia jest metodą nieinwazyjną i oszczędza narządy, a badania obserwacyjne sugerują, że leczenie to może wiązać się z podobnymi wynikami w porównaniu z radykalną cystektomią."
-    },
-    {
-      "title": "Nowe dane federalne pokazują, że w ciągu ostatniego roku liczba świadczeń Obamacare w wielu stanach drastycznie spadła – STAT",
-      "url": "https://www.statnews.com/2026/07/06/obamacare-rolls-shrank-dramatically-affordable-care-act-states/",
-      "date": "2026-07-06T20:00:23Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Według nowych danych federalnych w całym kraju w ciągu ostatniego roku nastąpił gwałtowny spadek liczby osób objętych ustawą o przystępnej cenie."
     }
   ],
   "guidelines": [
@@ -846,7 +846,7 @@
       "summary": "Gratulujemy naszym szpitalom Ascension Wisconsin zdobycia uznania w całym kraju dzięki programowi Get With The Guidelines® American Heart Association."
     },
     {
-      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z 25. tygodnia zakończonego 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 25. kończący się 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-25.html",
       "date": "2026-07-06T16:35:37Z",
       "source": "CDC (rekomendacje)",
@@ -870,7 +870,7 @@
       "summary": "Dorośli z trwającym całe życie lub bardzo poważnym upośledzeniem słuchu lub wzroku: zdrowie, dobre samopoczucie i opieka społeczna Strona internetowa NICE."
     },
     {
-      "title": "Tłumienie funkcji jajników plus tamoksyfen znacząco zmniejsza ryzyko nawrotu raka piersi przed menopauzą w porównaniu z tamoksyfenem, a dalsze zmniejszenie jest widoczne w połączeniu z eksemestanem - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "Tłumienie funkcji jajników plus tamoksyfen znacznie zmniejsza ryzyko nawrotu raka piersi przed menopauzą w porównaniu z tamoksyfenem, a dalsze zmniejszenie jest widoczne w połączeniu z eksemestanem - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/ovarian-function-suppression-plus-tamoxifen-significantly-reduces-premenopausal-breast-cancer-recurrence-over-tamoxifen-and-further-reduction-is-seen-when-combined-with-exemestane",
       "date": "2026-07-06T09:16:17Z",
       "source": "ESMO (onkologia)",
@@ -934,22 +934,6 @@
       "summary": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) Europejskie Towarzystwo Kardiologiczne."
     },
     {
-      "title": "Ritlecitynib w leczeniu niesegmentowego bielactwa nabytego u osób w wieku 12 lat i starszych [ID6584] - witryna internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta11744/documents/html-content",
-      "date": "2026-07-04T06:22:22Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Ritlecitynib w leczeniu niesegmentowego bielactwa nabytego u osób w wieku 12 lat i starszych [ID6584] Strona internetowa NICE."
-    },
-    {
-      "title": "Notatki | Dokumenty projektowe | Autoleucel afamitresgenu w leczeniu wcześniej leczonego zaawansowanego mięsaka maziowego z dodatnim wynikiem MAGE-A4 lub liposarcomy śluzowatej okrągłokomórkowej [ID4064] | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta11040/documents/html-content",
-      "date": "2026-07-04T06:13:01Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Notatki | Dokumenty projektowe | Autoleucel afamitresgenu w leczeniu wcześniej leczonego zaawansowanego mięsaka maziowego z dodatnim wynikiem MAGE-A4 lub liposarcomy śluzowatej okrągłokomórkowej [ID4064] | Poradnik NICE."
-    },
-    {
       "title": "ATENY CMR POZIOM 1-2 - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/education/live-events/live-events-endorsement/ATHENSCMR-LEVEL-1-2/",
       "date": "2026-07-04T05:20:08Z",
@@ -964,22 +948,6 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Opieka nad chorymi na ostry udar niedokrwienny mózgu w dalszym ciągu szybko ewoluuje, a nowe dowody zmieniają sposób przedszpitalnej segregacji pacjentów, obrazowania, strategii reperfuzji i opieki zespołowej przez całe życie. Ta czteroczęściowa seria filmów przedstawia autorów Wytycznych Amerykańskiego Towarzystwa Kardiologicznego dotyczących ostrego udaru niedokrwiennego z 2026 r., przedstawiających zmieniające praktykę aktualizacje dla klinicystów medycyny ratunkowej, neurointerwencjonistów, specjalistów w dziedzinie obrazowania, pielęgniarek, koordynatorów udaru i pediatrycznych zespołów udarowych."
-    },
-    {
-      "title": "Acalabrutinib z wenetoklaksem i obinutuzumabem na nieleczoną przewlekłą białaczkę limfatyczną [ID6156] - witryna NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta11087/documents/html-content-3",
-      "date": "2026-07-04T03:24:24Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Acalabrutinib z wenetoklaksem i obinutuzumabem w leczeniu nieleczonej przewlekłej białaczki limfatycznej [ID6156] Strona internetowa NICE."
-    },
-    {
-      "title": "Pembrolizumab z ipilimumabem w leczeniu zaawansowanego niedrobnokomórkowego raka płuc z ekspresją PD-L1 [ID3861] - witryna NICE",
-      "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ta10780/documents",
-      "date": "2026-07-04T02:06:32Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Pembrolizumab z ipilimumabem w leczeniu zaawansowanego niedrobnokomórkowego raka płuc z dodatnim PD-L1 [ID3861] Strona internetowa NICE."
     },
     {
       "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1027,7 +995,7 @@
       "date": "2026-07-02T17:02:26Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "W niniejszym raporcie opisano seroprewalencję alfa-gal immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
+      "summary": "W niniejszym raporcie opisano seroprewalencję alfa-galowej immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
     },
     {
       "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1060,6 +1028,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Zalecenia CDC dla wydziałów zdrowia publicznego dotyczące przygotowania i reagowania na krajowe przypadki VHF."
+    },
+    {
+      "title": "Tom 16 - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/councils/genomics/scientific-documents-and-publications/cardiogenomics-insights/volume-16/",
+      "date": "2026-07-02T05:27:14Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Tom 16 Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
@@ -1110,28 +1086,12 @@
       "summary": "Optymalizacja terapii medycznej opartej na wytycznych (GDMT) jest podstawą leczenia niewydolności serca (HF). Wdrożenie terapii zalecanych przez wytyczne, w oparciu o wyniki licznych badań z randomizacją, w tym tak zwanej „fantastycznej czwórki” (inhibitory układu renina-angiotensyna, beta-blokery, antagoniści receptora mineralokortykoidowego i inhibitory SGLT2), jest głównym motorem poprawy leczenia niewydolności serca (HFT)."
     },
     {
-      "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/news-room/how-early-is-early-enough-treating-familial-hypercholesterolaemia-before-risk-takes-root/",
-      "date": "2026-06-29T18:53:51Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "W prospektywnej kohorcie badania SAFEHEART badacze oceniali długoterminowe wyniki w przypadku genetycznie potwierdzonej hipercholesterolemii rodzinnej wśród 348 dzieci/młodzieży dotkniętych chorobą, 165 zdrowych krewnych i 288 chorych rodziców."
-    },
-    {
       "title": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/expert-consensus-document-second-universal-definition-of-heart-failure-2026",
       "date": "2026-06-29T12:58:24Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych, aby opublikować pierwszą uniwersalną definicję niewydolności serca, ustanawiając jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
-    },
-    {
-      "title": "ESC 365 - ESC 365",
-      "url": "https://esc365.escardio.org/knowledge-track/pah",
-      "date": "2026-06-28T04:05:26Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
+      "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
     },
     {
       "title": "Ograniczone wytyczne dotyczące kosztów początkowych w wytycznych amerykańskich – Conexiant",
@@ -1232,7 +1192,7 @@
       "summary": "Siódme spotkanie Międzyrządowej Grupy Roboczej (IGWG) ds. Porozumienia WHO w sprawie pandemii odbędzie się w formacie hybrydowym w dniach 6–17 lipca 2026 r."
     },
     {
-      "title": "Światowe Forum Parlamentarne Światowego Zgromadzenia Zdrowia: od zaangażowania w działania na rzecz Porozumienia WHO w sprawie pandemii i zrównoważonego finansowania zdrowia - Światowa Organizacja Zdrowia (WHO)",
+      "title": "Światowe Forum Parlamentarne Światowego Zgromadzenia Zdrowia: od zaangażowania w działania na rzecz Porozumienia Pandemicznego WHO i zrównoważonego finansowania zdrowia - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/06-07-2026-world-health-assembly-global-parliamentary-forum-from-commitment-to-action-on-the-who-pandemic-agreement-and-sustainable-financing-for-health",
       "date": "2026-07-06T16:58:18Z",
       "source": "WHO Disease Outbreak News",
@@ -1264,7 +1224,7 @@
       "summary": "Portal SPH to interaktywna platforma cyfrowa, która ułatwia udostępnianie i wymianę informacji dotyczących wielosektorowych inwestycji, działań i możliwości w zakresie bezpieczeństwa zdrowia na poziomie krajowym, regionalnym i globalnym."
     },
     {
-      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z 25. tygodnia zakończonego 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 25. kończący się 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-25.html",
       "date": "2026-07-06T16:35:37Z",
       "source": "CDC Outbreaks",
@@ -1328,7 +1288,7 @@
       "summary": "Od początku 2026 r. do 2 lipca 2026 r. w Arabii Saudyjskiej zgłoszono dwa przypadki MERS, w tym jeden śmiertelny. Brak dostępnych informacji na temat regionów Arabii Saudyjskiej dotkniętych tymi przypadkami."
     },
     {
-      "title": "Budowanie odpornych na klimat usług WASH w placówkach służby zdrowia – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Budowanie odpornych na klimat usług WASH w placówkach opieki zdrowotnej - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/b/83310",
       "date": "2026-07-06T02:29:02Z",
       "source": "WHO Disease Outbreak News",
@@ -1373,7 +1333,7 @@
       "date": "2026-07-02T20:09:29Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Ponieważ kryzys wywołany wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
+      "summary": "Ponieważ kryzys związany z wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
     },
     {
       "title": "Media społecznościowe odzwierciedlały emocje dorosłych Amerykanów podczas pierwszego wprowadzenia szczepionki na Covid-19 – CIDRAP",
@@ -1389,7 +1349,7 @@
       "date": "2026-07-02T19:52:33Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów związanych z epidemią wirusa Ebola w Demokratycznej Republice Konga (DRK) Światowa Organizacja Zdrowia (WHO) podała dziś, że pierwszy pacjent został leczony w ramach badania klinicznego dwiema terapiami przeciwwirusowymi."
+      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów związanych z epidemią wirusa Ebola w Demokratycznej Republice Konga (DRK) Światowa Organizacja Zdrowia (WHO) podała dziś, że pierwszy pacjent został poddany badaniu klinicznemu z zastosowaniem dwóch terapii przeciwwirusowych."
     },
     {
       "title": "Wzrost liczby chorób przenoszonych przez kleszcze w Illinois podkreśla potrzebę zapobiegania ukąszeniom kleszczy przez cały rok – CIDRAP",
@@ -1405,7 +1365,7 @@
       "date": "2026-07-02T16:23:09Z",
       "source": "Outbreak News Today",
       "confirmed_by": 1,
-      "summary": "Według aktualizacji sytuacyjnej z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
+      "summary": "Według aktualizacji sytuacji z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
     },
     {
       "title": "Stażysta Sił Powietrznych w San Antonio w Teksasie zmarł na grypę – CIDRAP",
@@ -1421,7 +1381,7 @@
       "date": "2026-07-01T20:54:36Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia (WHO) opublikowała nowy „plan”, który ma pomóc krajom zareagować na rosnące zagrożenie infekcjami grzybiczymi i opornością na środki przeciwgrzybicze."
+      "summary": "Światowa Organizacja Zdrowia (WHO) opublikowała nowy „plan”, który ma pomóc krajom zareagować na rosnące zagrożenie infekcjami grzybiczymi i opornością na leki przeciwgrzybicze."
     },
     {
       "title": "Liczba zgonów z powodu wirusa Ebola w Afryce znajduje się na liście 400 najlepszych, ponieważ Uganda zgłasza śmierć dziecka z Marburga – CIDRAP",
@@ -1705,7 +1665,7 @@
       "date": "2026-07-07T00:45:37Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Amerykańska Agencja ds. Żywności i Leków zatwierdziła lek Lumvoa (veligrotug-vvze) do leczenia chorób oczu tarczycy (TED). Lek Lumvoa otrzymał terapię przełomową."
+      "summary": "Amerykańska Agencja ds. Żywności i Leków zatwierdziła lek Lumvoa (veligrotug-vvze) do leczenia chorób tarczycy i oczu (TED). Lek Lumvoa otrzymał terapię przełomową."
     },
     {
       "title": "OTC – bez recepty – accessdata.fda.gov",
@@ -1753,7 +1713,7 @@
       "date": "2026-07-06T18:45:04Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Jak wynika z badania opublikowanego w: u pacjentów z jasnokomórkowym rakiem nerkowokomórkowym pembrolizumab-belzutifan zapewnia znacznie dłuższe przeżycie wolne od choroby."
+      "summary": "Jak wynika z badania opublikowanego w: u pacjentów z jasnokomórkowym rakiem nerkowokomórkowym pembrolizumab z belzutifanem zapewnia znacznie dłuższe przeżycie wolne od choroby."
     },
     {
       "title": "Znaleziono dwukierunkowe powiązanie między TBI a diagnozami neurologicznymi – Drugs.com",
@@ -1884,7 +1844,7 @@
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
-      "title": "Jak dotąd w 2026 r. w funduszach VC dominują producenci leków przeciwnowotworowych i immunologicznych – BioPharma Dive",
+      "title": "Jak dotąd w 2026 r. producenci leków VC zdominowali walkę z rakiem i lekami odpornościowymi – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/cancer-immune-venture-funding-2026/824250/",
       "date": "2026-07-06T16:04:03Z",
       "source": "BioPharma Dive",
@@ -2011,7 +1971,7 @@
       "date": "2026-07-02T16:23:09Z",
       "source": "Outbreak News Today",
       "confirmed_by": 1,
-      "summary": "Według aktualizacji sytuacyjnej z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
+      "summary": "Według aktualizacji sytuacji z 30 czerwca Demokratyczna Republika Konga zgłosiła 1406 łącznie potwierdzonych przypadków wirusa Ebola i 438 zgonów. Sprawa."
     },
     {
       "title": "Liczba zgonów z powodu wirusa Ebola w Afryce znajduje się na liście 400 najlepszych, ponieważ Uganda zgłasza śmierć dziecka z Marburga – CIDRAP",
@@ -2059,7 +2019,7 @@
       "date": "2026-07-02T20:09:29Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Ponieważ kryzys wywołany wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
+      "summary": "Ponieważ kryzys związany z wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
     }
   ],
   "daily_top5": [
@@ -2076,7 +2036,7 @@
       "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00188-3/fulltext",
       "date": "2026-07-07T00:15:59Z",
       "source": "The Lancet",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Nowe spojrzenie na medycynę reprodukcyjną w dobie sztucznej inteligencji The Lancet."
     },
     {
@@ -2088,7 +2048,7 @@
       "summary": "Siódme spotkanie Międzyrządowej Grupy Roboczej (IGWG) ds. Porozumienia WHO w sprawie pandemii odbędzie się w formacie hybrydowym w dniach 6–17 lipca 2026 r."
     },
     {
-      "title": "Światowe Forum Parlamentarne Światowego Zgromadzenia Zdrowia: od zaangażowania w działania na rzecz Porozumienia WHO w sprawie pandemii i zrównoważonego finansowania zdrowia - Światowa Organizacja Zdrowia (WHO)",
+      "title": "Światowe Forum Parlamentarne Światowego Zgromadzenia Zdrowia: od zaangażowania w działania na rzecz Porozumienia Pandemicznego WHO i zrównoważonego finansowania zdrowia - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/06-07-2026-world-health-assembly-global-parliamentary-forum-from-commitment-to-action-on-the-who-pandemic-agreement-and-sustainable-financing-for-health",
       "date": "2026-07-06T16:58:18Z",
       "source": "WHO Disease Outbreak News",
