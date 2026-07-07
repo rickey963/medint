@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T02:45:14Z",
+  "last_updated": "2026-07-07T02:45:53Z",
   "poland": [
     {
       "title": "Lecigon opis preparatu - Indeks Leków MP",
@@ -497,7 +497,7 @@
       "date": "2026-07-06T19:42:32Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Rak głowy i szyi, który obejmuje nowotwory krtani, dróg nosowych, jamy ustnej, gardła, gruczołów ślinowych i tarczycy, stanowi 3% wszystkich nowotworów złośliwych w Stanach Zjednoczonych."
+      "summary": "Raki głowy i szyi, które obejmują nowotwory krtani, dróg nosowych, jamy ustnej, gardła, gruczołów ślinowych i tarczycy, stanowią 3% wszystkich nowotworów złośliwych w Stanach Zjednoczonych."
     },
     {
       "title": "Czy leki GLP-1 powinny być dostępne bez recepty? - Medyczny",
@@ -970,7 +970,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a1.htm",
       "date": "2026-07-02T17:02:26Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "W niniejszym raporcie opisano seroprewalencję alfa-gal immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
     },
     {
@@ -1004,6 +1004,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Zalecenia CDC dla wydziałów zdrowia publicznego dotyczące przygotowania i reagowania na krajowe przypadki VHF."
+    },
+    {
+      "title": "Quiz Tom 16 - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/councils/genomics/scientific-documents-and-publications/cardiogenomics-insights/volume-16/quizz-volume-16/",
+      "date": "2026-07-02T06:00:39Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Quiz Tom 16 Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
@@ -1046,22 +1054,6 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 874, z dniem ogłoszenia 2026-06-30."
     },
     {
-      "title": "Czasowe zmiany wyniku terapii medycznej ukierunkowanej na wytyczne – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/news-room/temporal-changes-in-guideline-directed-medical-therapy-score/",
-      "date": "2026-06-30T15:11:34Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Optymalizacja terapii medycznej opartej na wytycznych (GDMT) jest podstawą leczenia niewydolności serca (HF). Wdrożenie terapii zalecanych przez wytyczne, w oparciu o wyniki licznych badań z randomizacją, w tym tak zwanej „fantastycznej czwórki” (inhibitory układu renina-angiotensyna, beta-blokery, antagoniści receptora mineralokortykoidowego i inhibitory SGLT2), jest głównym motorem poprawy leczenia niewydolności serca (HFT)."
-    },
-    {
-      "title": "Jak wcześnie jest wystarczająco wcześnie? Leczenie rodzinnej hipercholesterolemii, zanim zakorzeni się ryzyko - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/news-room/how-early-is-early-enough-treating-familial-hypercholesterolaemia-before-risk-takes-root/",
-      "date": "2026-06-29T18:53:51Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "W prospektywnej kohorcie badania SAFEHEART badacze oceniali długoterminowe wyniki w przypadku genetycznie potwierdzonej hipercholesterolemii rodzinnej wśród 348 dzieci/młodzieży dotkniętych chorobą, 165 zdrowych krewnych i 288 chorych rodziców."
-    },
-    {
       "title": "Dokument konsensusu ekspertów AHA/ACC/ESC/WHF we współpracy z HFSA, HFA i JHFS: Druga uniwersalna definicja niewydolności serca (2026) - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/expert-consensus-document-second-universal-definition-of-heart-failure-2026",
       "date": "2026-06-29T12:58:24Z",
@@ -1078,14 +1070,6 @@
       "summary": "Zaktualizowana międzynarodowa definicja niewydolności serca wprowadza nowy system klasyfikacji i kładzie nacisk na wcześniejsze wykrywanie i spersonalizowane leczenie."
     },
     {
-      "title": "ESC 365 - ESC 365 - Centrum wiedzy kardiologicznej",
-      "url": "https://esc365.escardio.org/knowledge-track/pah",
-      "date": "2026-06-28T04:05:26Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
-    },
-    {
       "title": "Ograniczone wytyczne dotyczące kosztów początkowych w wytycznych amerykańskich – Conexiant",
       "url": "https://conexiant.com/internal-medicine/articles/upfront-cost-guidance-limited-in-us-guidelines/",
       "date": "2026-06-27T15:30:58Z",
@@ -1100,6 +1084,30 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
+    },
+    {
+      "title": "Doktor Tanja Grammer – ESC 365 – Centrum wiedzy kardiologicznej",
+      "url": "https://esc365.escardio.org/person/39849",
+      "date": "2026-06-26T01:42:57Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Współtwórca centrum wiedzy ESC 365."
+    },
+    {
+      "title": "Doktor Luis Blanco-Colio - ESC 365 - Centrum wiedzy kardiologicznej",
+      "url": "https://esc365.escardio.org/person/6849",
+      "date": "2026-06-26T01:12:56Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Współtwórca centrum wiedzy ESC 365."
+    },
+    {
+      "title": "Doktor Ali Al Ghamdi – ESC 365 – Centrum wiedzy kardiologicznej",
+      "url": "https://esc365.escardio.org/person/249200",
+      "date": "2026-06-25T23:08:55Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Współtwórca centrum wiedzy ESC 365."
     },
     {
       "title": "Protokół wytycznych praktyki klinicznej dotyczących akupunktury w leczeniu przewlekłego nieswoistego bólu krzyża – Frontiers",
