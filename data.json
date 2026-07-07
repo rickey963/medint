@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T14:16:36Z",
+  "last_updated": "2026-07-07T14:17:23Z",
   "poland": [
     {
       "title": "1 stycznia 2027 r. już nieaktualny? Rząd zmienia plany dotyczące wdrożenia systemu EPS - Alert Medyczny",
@@ -16,6 +16,14 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Prof. Joanna Góra-Tybor, związana z Wojewódzkim Wielospecjalistycznym Centrum Onkologii i Traumatologii im. M."
+    },
+    {
+      "title": "Od premiera jest blisko, jest nawet buspas. Związkowcy i pracodawcy czekają na ministrę zdrowia - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Od-premiera-jest-blisko-jest-nawet-buspas-Zwiazkowcy-i-pracodawcy-czekaja-na-ministre-zdrowia,286413,14.html",
+      "date": "2026-07-07T13:33:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "\"Do skutku\" zamierzają czekać na ministrę zdrowia związkowcy i pracodawcy. Jolanta Sobierańska-Grenda nie pojawiła się w Centrum Dialog na posiedzeniu zespołu trójstronnego ds. ochrony zdrowia."
     },
     {
       "title": "Nowy robot da Vinci w ŚCO - Aktualności - Chirurgia - Medycyna Praktyczna",
@@ -392,14 +400,6 @@
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "„Lista Na Ratunek” to prosty dokument zawierający najważniejsze informacje o stanie zdrowia i leczeniu pacjenta, który warto mieć zawsze przy sobie. Dokument zawiera miejsce na wpisanie przyjmowanych leków, ich dawek, chorób przewlekłych, alergii oraz danych kontaktowych osoby, którą należy powiadomić w sytuacji nagłej."
-    },
-    {
-      "title": "Grupa LUX MED przejmuje MyTherapy z Krakowa i wzmacnia ofertę zdrowia psychicznego - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/grupa-lux-med-przejmuje-mytherapy-z-krakowa-i-wzmacnia-oferte-zdrowia-psychicznego/",
-      "date": "2026-07-07T07:00:08Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Grupa LUX MED przejęła krakowskie Centrum Terapii i Rozwoju MyTherapy, wzmacniając ofertę opieki psychiatrycznej i psychoterapeutycznej."
     }
   ],
   "world": [
@@ -445,7 +445,7 @@
     },
     {
       "title": "Epidemia wirusa Ebola ujawnia uszkodzony system reagowania na epidemię – STAT",
-      "url": "https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/?utm_campaign=rss",
+      "url": "https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/",
       "date": "2026-07-07T12:07:34Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -453,7 +453,7 @@
     },
     {
       "title": "Epidemia wirusa Ebola ujawnia uszkodzony system reagowania na epidemię – STAT",
-      "url": "https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/",
+      "url": "https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/?utm_campaign=rss",
       "date": "2026-07-07T12:07:34Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -851,7 +851,7 @@
       "date": "2026-07-06T23:00:00Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Nowe technologie mogą pomóc skrócić lata oczekiwania na diagnozę endometriozy. Strona internetowa NICE."
+      "summary": "W NHS można zastosować dwie nowe nieinwazyjne technologie diagnostyczne, a jednocześnie zostaną wygenerowane dalsze dowody przyspieszające diagnostykę endometriozy w podstawowej opiece zdrowotnej."
     },
     {
       "title": "Trzy szpitale Ascension Wisconsin zdobywają krajowe uznanie w ramach programu Get with the Guidelines programu American Heart Association — Opieka zdrowotna | Wniebowstąpienie",
@@ -862,7 +862,7 @@
       "summary": "Gratulujemy naszym szpitalom Ascension Wisconsin zdobycia uznania w całym kraju dzięki programowi Get With The Guidelines® American Heart Association."
     },
     {
-      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z 25. tygodnia zakończonego 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 25. kończący się 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-25.html",
       "date": "2026-07-06T16:35:37Z",
       "source": "CDC (rekomendacje)",
@@ -950,12 +950,12 @@
       "summary": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) Europejskie Towarzystwo Kardiologiczne."
     },
     {
-      "title": "Kurs Mistrzowski z Niewydolności Serca Skopje 2026 – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/education/live-events/live-events-endorsement/master-course-in-heart-failure-skopje-2026/",
-      "date": "2026-07-04T06:02:55Z",
+      "title": "ATENY CMR POZIOM 1-2 - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/education/live-events/live-events-endorsement/ATHENSCMR-LEVEL-1-2/",
+      "date": "2026-07-04T05:20:08Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Mistrzowski Kurs Niewydolności Serca Skopje 2026 Europejskie Towarzystwo Kardiologiczne."
+      "summary": "ATENY CMR POZIOM 1-2 Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu na rok 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
@@ -1006,6 +1006,14 @@
       "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     },
     {
+      "title": "AAOS publikuje wytyczne praktyki klinicznej dotyczące leczenia choroby zwyrodnieniowej stawu skokowego - Ortho Spine News",
+      "url": "https://orthospinenews.com/2026/07/02/aaos-releases-clinical-practice-guideline-for-management-of-ankle-osteoarthritis/",
+      "date": "2026-07-02T17:38:22Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Pierwsze wytyczne dotyczące choroby zwyrodnieniowej stawu skokowego podkreślają obciążenie młodszych pacjentów i luki w dowodach w leczeniu."
+    },
+    {
       "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a1.htm",
       "date": "2026-07-02T17:02:26Z",
@@ -1020,14 +1028,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "W raporcie opisano dwa ogniska legionellozy w dwóch hotelach na Wyspach Dziewiczych Stanów Zjednoczonych."
-    },
-    {
-      "title": "AAOS publikuje wytyczne praktyki klinicznej dotyczące leczenia choroby zwyrodnieniowej stawu skokowego – PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/aaos-releases-clinical-practice-guideline-for-management-of-ankle-osteoarthritis-302816181.html",
-      "date": "2026-07-02T13:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "/PRNewswire/ -- Amerykańska Akademia Chirurgów Ortopedów (AAOS) opublikowała nowe wytyczne dotyczące praktyki klinicznej (CPG) dotyczące leczenia choroby zwyrodnieniowej stawu skokowego..."
     },
     {
       "title": "Nadzór nad Candida auris — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2055,7 +2055,7 @@
     },
     {
       "title": "Epidemia wirusa Ebola ujawnia uszkodzony system reagowania na epidemię – STAT",
-      "url": "https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/?utm_campaign=rss",
+      "url": "https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/",
       "date": "2026-07-07T12:07:34Z",
       "source": "STAT News",
       "confirmed_by": 1,
