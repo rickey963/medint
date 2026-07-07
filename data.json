@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-07T08:13:08Z",
+  "last_updated": "2026-07-07T08:13:57Z",
   "poland": [
+    {
+      "title": "Premier czeka na plan zmian w ochronie zdrowia. Dziś kluczowe spotkania - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/premier-czeka-na-plan-zmian-w-ochronie-zdrowia-dzis-kluczowe-spotkania/",
+      "date": "2026-07-07T08:11:52Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Premier Donald Tusk czeka dziś na propozycje zmian w ochronie zdrowia. Odbędą się także posiedzenie rządu i obrady Trójstronnego Zespołu."
+    },
     {
       "title": "Dziś posiedzenie Zespołu Trójstronnego ds. Zdrowia - Z kraju - Kurier - Medycyna Praktyczna",
       "url": "https://www.mp.pl/kurier/443283,dzis-posiedzenie-zespolu-trojstronnego-ds-zdrowia",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Kamizelka defibrylująca może zmienić kwalifikację pacjentów do implantacji ICD. Prof. Robert Gil wyjaśnia korzyści i wyzwania tej technologii."
-    },
-    {
-      "title": "MZ: premier otrzyma konkretne propozycje - Z kraju - Kurier - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/kurier/443268,mz-premier-otrzyma-konkretne-propozycje",
-      "date": "2026-07-06T15:42:47Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "E-rejestracja, kominy płacowe i czas pracy medyków – to obszary, których będą dotyczyły propozycje zmian przygotowywane przez resort zdrowia na polecenie premiera – poinformowała rzeczniczka MZ Anna Choszcz-Sendrowska."
     }
   ],
   "world": [
@@ -918,7 +918,7 @@
       "summary": "ATENY CMR POZIOM 1-2 Europejskie Towarzystwo Kardiologiczne."
     },
     {
-      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu z roku 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
+      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu na rok 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/video-series-ais",
       "date": "2026-07-04T05:05:12Z",
       "source": "Wytyczne AHA/ACC",
@@ -966,12 +966,44 @@
       "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     },
     {
+      "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a1.htm",
+      "date": "2026-07-02T17:02:26Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W niniejszym raporcie opisano seroprewalencję alfa-gal immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
+    },
+    {
+      "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a2.htm?s_cid=OS_mm7525a2_w",
+      "date": "2026-07-02T17:02:26Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W raporcie opisano dwa ogniska legionellozy w dwóch hotelach na Wyspach Dziewiczych Stanów Zjednoczonych."
+    },
+    {
       "title": "AAOS publikuje wytyczne praktyki klinicznej dotyczące leczenia choroby zwyrodnieniowej stawu skokowego – PR Newswire",
       "url": "https://www.prnewswire.com/news-releases/aaos-releases-clinical-practice-guideline-for-management-of-ankle-osteoarthritis-302816181.html",
       "date": "2026-07-02T13:00:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "/PRNewswire/ -- Amerykańska Akademia Chirurgów Ortopedów (AAOS) opublikowała nowe wytyczne dotyczące praktyki klinicznej (CPG) dotyczące leczenia choroby zwyrodnieniowej stawu skokowego..."
+    },
+    {
+      "title": "Nadzór nad Candida auris — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
+      "date": "2026-07-02T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
+    },
+    {
+      "title": "Wytyczne dotyczące zdrowia publicznego dotyczące planowania reakcji VHF | Wirusowa gorączka krwotoczna (VHF) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/viral-hemorrhagic-fevers/php/public-health-strategy/vhf-response-planning.html",
+      "date": "2026-07-02T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Zalecenia CDC dla wydziałów zdrowia publicznego dotyczące przygotowania i reagowania na krajowe przypadki VHF."
     },
     {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
@@ -1062,36 +1094,12 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
     },
     {
-      "title": "CDC publikuje Krajowy raport żywieniowy za rok 2026 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/nutrition-report/2026-release/index.html",
-      "date": "2026-06-25T03:31:44Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Informacja o wydaniu Krajowego raportu o żywieniu CDC w roku 2026."
-    },
-    {
-      "title": "Krajowy raport na temat biochemicznych wskaźników diety i odżywiania w populacji USA — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/nutritionreport/data-tables.html",
-      "date": "2026-06-24T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Interaktywny interfejs danych i tabel dotyczących raportów żywieniowych."
-    },
-    {
       "title": "Protokół wytycznych praktyki klinicznej dotyczących akupunktury w leczeniu przewlekłego nieswoistego bólu krzyża – Frontiers",
       "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1834549/full",
       "date": "2026-06-23T09:18:39Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Wstęp Przewlekły nieswoisty ból krzyża (CNLBP) jest częstą chorobą układu mięśniowo-szkieletowego, która dotyka dorosłych na całym świecie. Działania niepożądane związane z dr..."
-    },
-    {
-      "title": "Zasoby dla personelu medycznego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/chemical-emergencies/hcp/resources/index.html",
-      "date": "2026-06-10T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Lista środków pomocy chemicznej dla pracowników służby zdrowia."
     }
   ],
   "epidemiology": [
