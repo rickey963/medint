@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T04:02:07Z",
+  "last_updated": "2026-07-07T04:02:47Z",
   "poland": [
     {
       "title": "Lecigon opis preparatu - Indeks Leków MP",
@@ -22,7 +22,7 @@
       "url": "https://www.nfz.gov.pl/bip/interpretacje-przepisow/decyzja-nr-82026bp-maloletni-przedsiebiorca,6682.html",
       "date": "2026-07-06T20:53:43Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Decyzja nr 8/2026/BP."
     },
     {
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Terapia godności: co liczy się najbardziej w opiece u schyłku życia? - Medyczny",
+      "url": "https://www.medscape.com/viewarticle/dignity-therapy-what-matters-most-end-life-care-2026a1000mak?src=rss",
+      "date": "2026-07-07T04:01:58Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Terapia godności pomaga zachować tożsamość, znaczenie i godność podczas poważnej choroby poprzez uporządkowany przegląd życia i współczujące słuchanie."
+    },
+    {
       "title": "Opieka online w przypadku atopowego zapalenia skóry równa się osobistej rozmowie – Medscape",
       "url": "https://www.medscape.com/viewarticle/online-team-based-care-matches-person-visits-atopic-2026a1000mu3?src=rss",
       "date": "2026-07-07T03:29:22Z",
@@ -442,6 +450,14 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Świadomi, wzmocnieni i zaangażowani: opieka nad płodnością w epoce nowożytnej The Lancet."
+    },
+    {
+      "title": "Definiowanie encefalopatii noworodkowej: międzynarodowy proces konsensusu Delphi w czasie rzeczywistym - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(26)00101-X/fulltext",
+      "date": "2026-07-07T00:46:58Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Definiowanie encefalopatii noworodkowej: międzynarodowy proces konsensusu Delphi w czasie rzeczywistym The Lancet."
     },
     {
       "title": "Trendy epidemiologiczne, dysproporcje i korelaty rozwojowe niepłodności u kobiet w zaawansowanym wieku matczynym, 1990–2023: kompleksowa analiza w ramach GBD - The Lancet",
@@ -488,7 +504,7 @@
       "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00188-3/fulltext",
       "date": "2026-07-07T00:15:59Z",
       "source": "The Lancet",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Nowe spojrzenie na medycynę reprodukcyjną w dobie sztucznej inteligencji The Lancet."
     },
     {
@@ -786,22 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Doktor Raghda Rashad twierdzi, że badania przesiewowe w kierunku historii zawodowej mogłyby zatrzymać więcej kobiet na rynku pracy, jednak większość lekarzy nigdy o to nie pyta."
-    },
-    {
-      "title": "Omentoplastyka w zapobieganiu nieszczelności zespolenia jelita grubego: przegląd systematyczny i metaanaliza - Cureus",
-      "url": "https://www.cureus.com/articles/507657-omentoplasty-to-prevent-anastomotic-leak-in-colorectal-anastomosis-a-systematic-review-and-meta-analysis?score_article=true",
-      "date": "2026-07-06T14:05:58Z",
-      "source": "Cochrane Library",
-      "confirmed_by": 1,
-      "summary": "Nieszczelność zespolenia (AL) zwiększa zachorowalność i śmiertelność w operacjach okrężnicy i odbytnicy. Jako potencjalną metodę zapobiegania temu powikłaniu zaproponowano omentoplastykę (OMP), czyli zastosowanie uszypułowanego płata z sieci w celu osłony miejsca zespolenia. Celem tego badania jest ocena skuteczności OMP w zmniejszaniu częstości występowania AL i jej następstw klinicznych."
-    },
-    {
-      "title": "Migrena i udar: jakie jest rzeczywiste ryzyko? - Medyczny",
-      "url": "https://www.medscape.com/viewarticle/migraine-and-stroke-whats-real-risk-2026a1000jja?src=",
-      "date": "2026-07-06T13:59:30Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Neurolog Indu Subramanian i ekspert ds. migreny Andrew Charles omawiają ryzyko udaru u pacjentów cierpiących na migrenę."
     }
   ],
   "guidelines": [
@@ -1060,6 +1060,14 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "W odpowiedzi na rosnącą częstość występowania niewydolności serca (HF) na świecie oraz ograniczenia w badaniach, nadzorze i profilaktyce, w 2021 r. zebrało się wiele towarzystw kardiologicznych w celu wydania pierwszej uniwersalnej definicji niewydolności serca, ustanawiającej jednolitą terminologię, w tym wyznaczony etap B (przed HF) w celu identyfikacji osób z grupy ryzyka."
+    },
+    {
+      "title": "Światowi eksperci aktualizują definicję niewydolności serca, aby ulepszyć profilaktykę, diagnostykę i opiekę – www.heart.org",
+      "url": "https://newsroom.heart.org/news/global-experts-update-heart-failure-definition-to-improve-prevention-diagnosis-and-care",
+      "date": "2026-06-29T09:04:39Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Zaktualizowana międzynarodowa definicja niewydolności serca wprowadza nowy system klasyfikacji i kładzie nacisk na wcześniejsze wykrywanie i spersonalizowane leczenie."
     },
     {
       "title": "ESC 365 - ESC 365",
@@ -1410,14 +1418,6 @@
   ],
   "clinical_trials": [
     {
-      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
-      "date": "2026-07-06T21:17:37Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
-    },
-    {
       "title": "Szczegóły badania | NCT07683325 | NOV-ERA – Badanie kliniczne mające na celu ocenę skuteczności i bezpieczeństwa ontunisertybu w porównaniu z placebo u pacjentów z chorobą Leśniowskiego-Crohna z włóknieniem – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07683325?aggFilters=status%3A%2CfunderType%3Aindustry",
       "date": "2026-07-06T18:04:38Z",
@@ -1488,6 +1488,14 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Deklaracja praw człowieka dla wieku, który potrafi czytać w myślach, edytować genom i odcinać dostęp do codziennego życia. Przeczytaj to. Podpisz to."
+    },
+    {
+      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
+      "date": "2026-07-04T06:07:32Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
     }
   ],
   "pharma_market": [
@@ -1964,7 +1972,7 @@
       "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00188-3/fulltext",
       "date": "2026-07-07T00:15:59Z",
       "source": "The Lancet",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Nowe spojrzenie na medycynę reprodukcyjną w dobie sztucznej inteligencji The Lancet."
     },
     {
