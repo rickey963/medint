@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T10:33:21Z",
+  "last_updated": "2026-07-07T10:34:03Z",
   "poland": [
     {
       "title": "Postępowanie podczas niekorzystnych zjawisk atmosferycznych - Gov.pl",
@@ -524,14 +524,6 @@
       "summary": "{{getUserDateTimezone(\"1784739600\").singleDate}} {{getUserDateTimezone(\"1784739600\").time}} - {{getUserDateTimezone(\"1784742300\").time}} {{getClientTimezoneName()}}."
     },
     {
-      "title": "Medycyna uważa, że ​​pokolenie Z jest zbyt miękkie. Źle – STAT",
-      "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
-      "date": "2026-07-07T08:32:42Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "„Lekarze pokolenia Z są na kursie kolizyjnym z instytucjami wciąż zbudowanymi w oparciu o starsze założenia” – pisze Frantz M. Berthaud."
-    },
-    {
       "title": "5 wniosków z serii STAT na temat rosnących kosztów ubezpieczenia zdrowotnego - STAT",
       "url": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
       "date": "2026-07-07T08:32:42Z",
@@ -540,8 +532,16 @@
       "summary": "Przeczytaj 5 kluczowych wniosków z serii STAT „Out of Pocket, Out of Reach” – analizy ubezpieczenia zdrowotnego w miejscu pracy."
     },
     {
+      "title": "Medycyna uważa, że ​​pokolenie Z jest zbyt miękkie. Źle – STAT",
+      "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
+      "date": "2026-07-07T08:32:42Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "„Lekarze pokolenia Z są na kursie kolizyjnym z instytucjami wciąż zbudowanymi w oparciu o starsze założenia” – pisze Frantz M. Berthaud."
+    },
+    {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
-      "url": "https://www.statnews.com/health-insurance-costs-out-of-pocket-out-of-reach-series",
+      "url": "https://www.statnews.com/category/out-of-pocket-out-of-reach/",
       "date": "2026-07-07T08:32:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -549,7 +549,7 @@
     },
     {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
-      "url": "https://www.statnews.com/category/out-of-pocket-out-of-reach/",
+      "url": "https://www.statnews.com/health-insurance-costs-out-of-pocket-out-of-reach-series",
       "date": "2026-07-07T08:32:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
