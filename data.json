@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T09:56:58Z",
+  "last_updated": "2026-07-07T09:57:37Z",
   "poland": [
     {
       "title": "Dymisje w Ministerstwie Zdrowia nie naprawią systemu? Sebastian Goncerz wskazuje na główne problemy - PolitykaZdrowotna.com",
@@ -485,7 +485,7 @@
     },
     {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
-      "url": "https://www.statnews.com/health-insurance-costs-out-of-pocket-out-of-reach-series",
+      "url": "https://www.statnews.com/category/out-of-pocket-out-of-reach/",
       "date": "2026-07-07T08:32:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -493,7 +493,7 @@
     },
     {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
-      "url": "https://www.statnews.com/category/out-of-pocket-out-of-reach/",
+      "url": "https://www.statnews.com/health-insurance-costs-out-of-pocket-out-of-reach-series",
       "date": "2026-07-07T08:32:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -652,6 +652,14 @@
       "summary": "Terapia godności pomaga zachować tożsamość, znaczenie i godność podczas poważnej choroby poprzez uporządkowany przegląd życia i współczujące słuchanie."
     },
     {
+      "title": "Obciążenie psychiczne i podejmowanie decyzji w zakresie rozrodu wspomaganego medycznie: implikacje dla opieki skoncentrowanej na pacjencie - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00152-4/abstract",
+      "date": "2026-07-07T03:48:35Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Obciążenie psychiczne i podejmowanie decyzji w zakresie rozrodu wspomaganego medycznie: implikacje dla opieki skoncentrowanej na pacjencie The Lancet."
+    },
+    {
       "title": "Seminarium internetowe – Udoskonalanie kluczowych usług dostosowanych do potrzeb populacji w ramach podstawowej opieki zdrowotnej: ochrona, adaptacja, integracja, utrzymanie – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/07/07/default-calendar/webinar-enhancing-key-populations-sensitive-services-within-primary-health-care-protect-adapt-integrate-sustain",
       "date": "2026-07-07T03:34:26Z",
@@ -732,20 +740,20 @@
       "summary": "Diagnostyka astmy u dorosłych i dzieci: wyzwania, kierunki na przyszłość i wezwanie do działania The Lancet."
     },
     {
-      "title": "Definiowanie encefalopatii noworodkowej: międzynarodowy proces konsensusu Delphi w czasie rzeczywistym - The Lancet",
-      "url": "https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(26)00101-X/abstract",
-      "date": "2026-07-07T01:14:45Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Definiowanie encefalopatii noworodkowej: międzynarodowy proces konsensusu Delphi w czasie rzeczywistym The Lancet."
-    },
-    {
       "title": "Wdrażanie zaleceń WHO dotyczących niepłodności: globalne wezwanie do działania - The Lancet",
       "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00174-3/abstract",
       "date": "2026-07-07T01:14:45Z",
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Wdrażanie zaleceń WHO dotyczących niepłodności: globalne wezwanie do działania The Lancet."
+    },
+    {
+      "title": "Definiowanie encefalopatii noworodkowej: międzynarodowy proces konsensusu Delphi w czasie rzeczywistym - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(26)00101-X/abstract",
+      "date": "2026-07-07T01:14:45Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Definiowanie encefalopatii noworodkowej: międzynarodowy proces konsensusu Delphi w czasie rzeczywistym The Lancet."
     },
     {
       "title": "Za młody, żeby się martwić? Kwestionowanie założeń medycyny reprodukcyjnej - The Lancet",
@@ -794,14 +802,6 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Definiowanie encefalopatii noworodkowej: międzynarodowy proces konsensusu Delphi w czasie rzeczywistym The Lancet."
-    },
-    {
-      "title": "Trendy epidemiologiczne, dysproporcje i korelaty rozwojowe niepłodności u kobiet w zaawansowanym wieku matczynym, 1990–2023: kompleksowa analiza w ramach GBD - The Lancet",
-      "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00116-0/fulltext",
-      "date": "2026-07-07T00:46:36Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Trendy epidemiologiczne, dysproporcje i korelaty rozwojowe niepłodności u kobiet w zaawansowanym wieku matek, 1990–2023: kompleksowa analiza w ramach GBD The Lancet."
     }
   ],
   "guidelines": [
@@ -1020,14 +1020,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
-    },
-    {
-      "title": "Wytyczne dotyczące zdrowia publicznego dotyczące planowania reakcji VHF | Wirusowa gorączka krwotoczna (VHF) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/viral-hemorrhagic-fevers/php/public-health-strategy/vhf-response-planning.html",
-      "date": "2026-07-02T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Zalecenia CDC dla wydziałów zdrowia publicznego dotyczące przygotowania i reagowania na krajowe przypadki VHF."
     },
     {
       "title": "Tom 16 - Europejskie Towarzystwo Kardiologiczne",
