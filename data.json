@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T01:50:12Z",
+  "last_updated": "2026-07-07T01:50:51Z",
   "poland": [
     {
       "title": "Lecigon opis preparatu - Indeks Leków MP",
@@ -529,7 +529,7 @@
       "date": "2026-07-06T17:53:24Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Metryki artykułów dostarczają czytelnikom i autorom informacji o tym, jak często uzyskiwano dostęp do konkretnego artykułu z miesiąca na miesiąc. Obsługuje trzy formaty – streszczenie/wyciąg, pełny tekst i pdf. Strona jest aktualizowana codziennie."
+      "summary": "Metryki artykułów dostarczają czytelnikom i autorom informacji o tym, jak często uzyskiwano dostęp do konkretnego artykułu z miesiąca na miesiąc. Obsługuje trzy formaty – streszczenie/wyciąg, pełny tekst i pdf. Strona jest aktualizowana każdego dnia."
     },
     {
       "title": "Wyjście poza uspokajanie w uogólnionym zaburzeniu lękowym - Medscape",
@@ -1764,6 +1764,14 @@
       "summary": "Po debiucie na rynkach publicznych z kwotą 256,3 mln dolarów i zgarnięciu dodatkowych 472 mln dolarów, firma Veradermics stała się jedną z największych spółek biotechnologicznych wyróżniających się po IPO. Dyrektor generalny Reid Waldman przypisuje szaleństwu odchudzania utworzenie kanałów zorientowanych na konsumentów."
     },
     {
+      "title": "510(k) Powiadomienie przed wprowadzeniem na rynek – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K261253",
+      "date": "2026-07-06T14:54:31Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "510(k) Powiadomienie przed wprowadzeniem na rynek accessdata.fda.gov."
+    },
+    {
       "title": "Transakcja Roche z Astex o wartości 25 mln dolarów to niewielka kwota z góry, ale duży sygnał dotyczący osiągnięcia celów związanych z rakiem piersi – Endpoints News",
       "url": "https://endpoints.news/roche-aims-to-bolster-breast-cancer-pipeline-with-early-stage-astex-deal/",
       "date": "2026-07-06T14:53:00Z",
@@ -1882,14 +1890,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Novartis obniża kwotę do 1,5 miliarda dolarów dla specjalisty ADC Myricx, kontynuując szaleństwo wydatków na raka - BioSpace",
-      "url": "https://www.biospace.com/deals/novartis-drops-up-to-1-5b-for-adc-specialist-myricx-continuing-cancer-spending-spree",
-      "date": "2026-07-06T12:26:38Z",
-      "source": "BioSpace",
-      "confirmed_by": 1,
-      "summary": "Najważniejszym elementem przejęcia jest nowatorska platforma ładunkowa inhibitora N-mirystoilotransferazy firmy Myricx Bio, która może pomóc firmie Novartis w opracowaniu koniugatów przeciwciało-lek, które będą w stanie pokonać ograniczenia istniejących terapii."
     }
   ],
   "critical_alerts": [
