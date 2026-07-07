@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T10:28:58Z",
+  "last_updated": "2026-07-07T10:29:42Z",
   "poland": [
     {
       "title": "Postępowanie podczas niekorzystnych zjawisk atmosferycznych - Gov.pl",
@@ -433,7 +433,7 @@
       "date": "2026-07-07T09:53:42Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Jeśli pacjent opuści wizytę ambulatoryjną, wysyłany jest list, a jego kopia elektroniczna trafia do lekarza rodzinnego. Niektóre oddziały zmieniają termin, inne natomiast wypisują pacjenta, prosząc o ponowne skierowanie, jeśli nadal potrzebuje wizyty. Jako lekarze pierwszego kontaktu moglibyśmy spojrzeć na ten problem z perspektywy zmarnowanych wizyt i poczuć się zawiedzieni, że pacjenci nie traktują swojego zdrowia priorytetowo (chociaż czasami powodem niestawienia się jest po prostu to, że list trafił pod zły adres lub dotarł po terminie wizyty)."
+      "summary": "Jeśli pacjent opuści wizytę ambulatoryjną, wysyłany jest list, a jego kopia elektroniczna trafia do lekarza rodzinnego. Niektóre oddziały zmieniają termin, inne zaś wypisują pacjenta, prosząc o ponowne skierowanie, jeśli nadal potrzebuje wizyty. Jako lekarze pierwszego kontaktu moglibyśmy spojrzeć na ten problem z perspektywy zmarnowanych wizyt i poczuć się zawiedzieni, że pacjenci nie traktują swojego zdrowia priorytetowo (chociaż czasami powodem niestawienia się jest po prostu to, że list trafił pod zły adres lub dotarł po terminie wizyty)."
     },
     {
       "title": "Zaufanie bez zabezpieczeń: dlaczego brytyjski Biobank wyróżnia się wśród naszych usług danych - BMJ",
@@ -468,20 +468,20 @@
       "summary": "Na Kubie zsekwencjonowano całe genomy wirusa Oropouche od osób zakażonych podczas wybuchu epidemii w 2024 r., a analizy filogenetyczne sugerują, że ta kubańska podklada została wprowadzona poprzez pojedyncze wprowadzenie z Brazylii na początku 2024 r."
     },
     {
-      "title": "Bispecyficzne przeciwciało szeroko neutralizujące 10E8.4/iMab u osób z HIV-1 lub bez niego: częściowo randomizowane badanie fazy 1 - Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04472-w",
-      "date": "2026-07-07T09:29:28Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "W pierwszym przeprowadzonym na ludziach, częściowo randomizowanym i kontrolowanym placebo badaniu fazy I zbadano bezpieczeństwo, tolerancję, farmakokinetykę i działanie przeciwwirusowe bispecyficznego szeroko neutralizującego przeciwciała monoklonalnego 10E8.4/iMab u osób żyjących z wirusem HIV lub bez niego i stwierdzono, że jest ono bezpieczne i dobrze tolerowane przy różnych poziomach dawek i drogach podawania."
-    },
-    {
       "title": "Podłużne multiomiczne profilowanie pozaustrojowego krążenia krzyżowego z ksenoprzeszczepami wątroby świni u ludzkich zmarłych - Natura",
       "url": "https://www.nature.com/articles/s41591-026-04511-6",
       "date": "2026-07-07T09:29:28Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Multiomiczne profilowanie pozaustrojowego krążenia krzyżowego za pomocą ksenoprzeszczepów wątroby świni poddanych edycji genów u czterech ludzkich zmarłych dostarcza kompleksowych informacji na temat parametrów immunologicznych, krzepnięcia i metabolicznych, które pomogą w klinicznym rozwoju tej strategii zapewniania wsparcia wątroby pacjentom z niewydolnością wątroby."
+    },
+    {
+      "title": "Bispecyficzne przeciwciało szeroko neutralizujące 10E8.4/iMab u osób z HIV-1 lub bez niego: częściowo randomizowane badanie fazy 1 - Natura",
+      "url": "https://www.nature.com/articles/s41591-026-04472-w",
+      "date": "2026-07-07T09:29:28Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "W pierwszym przeprowadzonym na ludziach, częściowo randomizowanym i kontrolowanym placebo badaniu fazy I zbadano bezpieczeństwo, tolerancję, farmakokinetykę i działanie przeciwwirusowe bispecyficznego szeroko neutralizującego przeciwciała monoklonalnego 10E8.4/iMab u osób żyjących z wirusem HIV lub bez niego i stwierdzono, że jest ono bezpieczne i dobrze tolerowane przy różnych poziomach dawek i drogach podawania."
     },
     {
       "title": "Krajowa kampania Jemenu na rzecz wzmocnienia kontroli wyrobów tytoniowych wyróżniona nagrodą Światowego Dnia bez Tytoniu 2026 - emro.who.int",
@@ -541,7 +541,7 @@
     },
     {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
-      "url": "https://www.statnews.com/category/out-of-pocket-out-of-reach/",
+      "url": "https://www.statnews.com/health-insurance-costs-out-of-pocket-out-of-reach-series",
       "date": "2026-07-07T08:32:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -549,7 +549,7 @@
     },
     {
       "title": "Rosnące koszty opieki zdrowotnej omówione w artykule „Poza kieszenią, poza zasięgiem” – STAT",
-      "url": "https://www.statnews.com/health-insurance-costs-out-of-pocket-out-of-reach-series",
+      "url": "https://www.statnews.com/category/out-of-pocket-out-of-reach/",
       "date": "2026-07-07T08:32:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
@@ -796,12 +796,12 @@
       "summary": "Diagnostyka astmy u dorosłych i dzieci: wyzwania, kierunki na przyszłość i wezwanie do działania The Lancet."
     },
     {
-      "title": "Definiowanie encefalopatii noworodkowej: międzynarodowy proces konsensusu Delphi w czasie rzeczywistym - The Lancet",
-      "url": "https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(26)00101-X/abstract",
+      "title": "Wdrażanie zaleceń WHO dotyczących niepłodności: globalne wezwanie do działania - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00174-3/abstract",
       "date": "2026-07-07T01:14:45Z",
       "source": "The Lancet",
       "confirmed_by": 1,
-      "summary": "Definiowanie encefalopatii noworodkowej: międzynarodowy proces konsensusu Delphi w czasie rzeczywistym The Lancet."
+      "summary": "Wdrażanie zaleceń WHO dotyczących niepłodności: globalne wezwanie do działania The Lancet."
     }
   ],
   "guidelines": [
@@ -819,7 +819,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "Ekstrakty z pyłków traw | Interakcje – BNFC",
