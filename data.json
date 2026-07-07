@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T07:34:42Z",
+  "last_updated": "2026-07-07T07:35:35Z",
   "poland": [
     {
       "title": "Konsolidacja szpitali i finansowanie ochrony zdrowia tematem wtorkowego posiedzenia Zespołu Trójstronnego - PolitykaZdrowotna.com",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Lekka aktywność opłaca się w przypadku POChP – Medscape",
+      "url": "https://www.medscape.com/viewarticle/light-activity-pays-copd-survival-2026a1000muu",
+      "date": "2026-07-07T07:33:36Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Nowe dane pokazują, że pacjenci nie muszą intensywnie ćwiczyć, aby poprawić wyniki."
+    },
+    {
       "title": "„Paradoks autonomii”: kiedy samodzielne planowanie pacjenta koliduje z linią frontu opieki doraźnej - Medscape",
       "url": "https://www.medscape.com/viewarticle/autonomy-paradox-when-patient-self-scheduling-collides-front-2026a1000mul",
       "date": "2026-07-07T07:19:57Z",
@@ -793,15 +801,7 @@
       "date": "2026-07-06T17:53:24Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Metryki artykułów dostarczają czytelnikom i autorom informacji o tym, jak często uzyskiwano dostęp do konkretnego artykułu z miesiąca na miesiąc. Obsługuje trzy formaty – streszczenie/wyciąg, pełny tekst i pdf. Strona jest aktualizowana codziennie."
-    },
-    {
-      "title": "Koordynator ds. chirurgii — praca w dermatologii w szpitalu Shrewsbury and Telford Hospital NHS Trust (kariera zdrowotna) | 825417 - BMJ",
-      "url": "https://www.bmj.com/healthcareers/job/825417/surgical-coordinator-dermatology/",
-      "date": "2026-07-06T17:53:21Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "* Obsada tego wakatu podlega Agendzie zmian * Kieruj, koordynuj i wspieraj doskonałość w dermatologii. Pojawiła się ekscytująca szansa..."
+      "summary": "Metryki artykułów dostarczają czytelnikom i autorom informacji o tym, jak często uzyskiwano dostęp do konkretnego artykułu z miesiąca na miesiąc. Obsługuje trzy formaty – streszczenie/wyciąg, pełny tekst i pdf. Strona jest aktualizowana każdego dnia."
     }
   ],
   "guidelines": [
@@ -910,7 +910,7 @@
       "summary": "ATENY CMR POZIOM 1-2 Europejskie Towarzystwo Kardiologiczne."
     },
     {
-      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu z roku 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
+      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu na rok 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/video-series-ais",
       "date": "2026-07-04T05:05:12Z",
       "source": "Wytyczne AHA/ACC",
@@ -958,12 +958,44 @@
       "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     },
     {
+      "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a1.htm",
+      "date": "2026-07-02T17:02:26Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W niniejszym raporcie opisano seroprewalencję alfa-gal immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
+    },
+    {
+      "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a2.htm?s_cid=OS_mm7525a2_w",
+      "date": "2026-07-02T17:02:26Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W raporcie opisano dwa ogniska legionellozy w dwóch hotelach na Wyspach Dziewiczych Stanów Zjednoczonych."
+    },
+    {
       "title": "AAOS publikuje wytyczne praktyki klinicznej dotyczące leczenia choroby zwyrodnieniowej stawu skokowego – PR Newswire",
       "url": "https://www.prnewswire.com/news-releases/aaos-releases-clinical-practice-guideline-for-management-of-ankle-osteoarthritis-302816181.html",
       "date": "2026-07-02T13:00:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "/PRNewswire/ -- Amerykańska Akademia Chirurgów Ortopedów (AAOS) opublikowała nowe wytyczne dotyczące praktyki klinicznej (CPG) dotyczące leczenia choroby zwyrodnieniowej stawu skokowego..."
+    },
+    {
+      "title": "Nadzór nad Candida auris — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
+      "date": "2026-07-02T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
+    },
+    {
+      "title": "Wytyczne dotyczące zdrowia publicznego dotyczące planowania reakcji VHF | Wirusowa gorączka krwotoczna (VHF) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/viral-hemorrhagic-fevers/php/public-health-strategy/vhf-response-planning.html",
+      "date": "2026-07-02T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Zalecenia CDC dla wydziałów zdrowia publicznego dotyczące przygotowania i reagowania na krajowe przypadki VHF."
     },
     {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
@@ -1054,36 +1086,12 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 869, z dniem ogłoszenia 2026-06-30."
     },
     {
-      "title": "CDC publikuje Krajowy raport żywieniowy za rok 2026 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/nutrition-report/2026-release/index.html",
-      "date": "2026-06-25T03:31:44Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Informacja o wydaniu Krajowego raportu o żywieniu CDC w roku 2026."
-    },
-    {
-      "title": "Krajowy raport na temat biochemicznych wskaźników diety i odżywiania w populacji USA — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/nutritionreport/data-tables.html",
-      "date": "2026-06-24T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Interaktywny interfejs danych i tabel dotyczących raportów żywieniowych."
-    },
-    {
       "title": "Protokół wytycznych praktyki klinicznej dotyczących akupunktury w leczeniu przewlekłego nieswoistego bólu krzyża – Frontiers",
       "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1834549/full",
       "date": "2026-06-23T09:18:39Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Wstęp Przewlekły nieswoisty ból krzyża (CNLBP) jest częstą chorobą układu mięśniowo-szkieletowego, która dotyka dorosłych na całym świecie. Działania niepożądane związane z dr..."
-    },
-    {
-      "title": "Zasoby dla personelu medycznego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/chemical-emergencies/hcp/resources/index.html",
-      "date": "2026-06-10T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Lista środków pomocy chemicznej dla pracowników służby zdrowia."
     }
   ],
   "epidemiology": [
@@ -1133,7 +1141,7 @@
       "date": "2026-07-06T19:23:28Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "W ciągu ośmiu sezonów chorób układu oddechowego szacowana skuteczność szczepionki przeciw grypie (VE) przeciwko śmierci u dzieci w USA wyniosła ogółem 80%, 77% u dzieci z chorobami współistniejącymi i 87% u dzieci bez takich schorzeń, podają dziś w Pediatrics badacze z Centrum Kontroli i Zapobiegania Chorobom (CDC)."
+      "summary": "W ciągu ośmiu sezonów chorób układu oddechowego szacowana skuteczność szczepionki przeciw grypie (VE) w zapobieganiu śmierci u dzieci w USA wyniosła ogółem 80%, 77% u dzieci z chorobami współistniejącymi i 87% wśród dzieci bez takich schorzeń, podają dziś w Pediatrics badacze z Centrum Kontroli i Zapobiegania Chorobom (CDC)."
     },
     {
       "title": "Wezwanie do publicznego komentarza w sprawie ram strategicznych mających na celu przyspieszenie działań czterostronnych w sprawie ptasiej grypy – Światowa Organizacja Zdrowia (WHO)",
@@ -1184,7 +1192,7 @@
       "summary": "Portal SPH to interaktywna platforma cyfrowa, która ułatwia udostępnianie i wymianę informacji dotyczących wielosektorowych inwestycji, działań i możliwości w zakresie bezpieczeństwa zdrowia na poziomie krajowym, regionalnym i globalnym."
     },
     {
-      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z 25. tygodnia zakończonego 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 25. kończący się 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-25.html",
       "date": "2026-07-06T16:35:37Z",
       "source": "CDC Outbreaks",
@@ -1301,7 +1309,7 @@
       "date": "2026-07-02T20:09:29Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Ponieważ kryzys związany z wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
+      "summary": "Ponieważ kryzys wywołany wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
     },
     {
       "title": "Media społecznościowe odzwierciedlały emocje dorosłych Amerykanów podczas pierwszego wprowadzenia szczepionki na Covid-19 – CIDRAP",
@@ -1796,7 +1804,7 @@
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
-      "title": "Jak dotąd w 2026 r. w funduszach VC dominują producenci leków przeciwnowotworowych i immunologicznych – BioPharma Dive",
+      "title": "Jak dotąd w 2026 r. producenci leków VC zdominowali walkę z rakiem i lekami odpornościowymi – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/cancer-immune-venture-funding-2026/824250/",
       "date": "2026-07-06T16:04:03Z",
       "source": "BioPharma Dive",
@@ -1820,7 +1828,7 @@
       "summary": "Kalifornijski producent leków, który współpracuje z Biogen, Sanofi i Eli Lilly, może być 14. biotechnologią, która wejdzie na giełdę w 2026 roku."
     },
     {
-      "title": "Novartis przejmie dewelopera ADC w ramach transakcji o wartości do 1,5 miliarda dolarów – BioPharma Dive",
+      "title": "Novartis przejmie dewelopera ADC w ramach transakcji o wartości do 1,5 miliarda dolarów - BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/novartis-acquire-adc-developer-myricx-deal-15b/824450/",
       "date": "2026-07-06T16:03:26Z",
       "source": "BioPharma Dive",
@@ -1979,7 +1987,7 @@
       "date": "2026-07-02T20:09:29Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Ponieważ kryzys związany z wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
+      "summary": "Ponieważ kryzys wywołany wirusem Ebola w DRK w dalszym ciągu narasta, musimy zadać sobie pytanie: co trzeba zrobić, aby zakończyć tę epidemię? To jedno z wielu pytań, które Chris Dall i dr Michael Osterholm omówią w tym tygodniu."
     }
   ],
   "daily_top5": [
