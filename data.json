@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T22:05:17Z",
+  "last_updated": "2026-07-08T22:06:01Z",
   "poland": [
     {
       "title": "Publikacje autora - lek. dent. Anna Jurkowska-Bruska - Podyplomie",
@@ -405,6 +405,14 @@
   "world": [
     {
       "title": "Terapia żywieniowa u krytycznie chorych dorosłych – The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMra2506111",
+      "date": "2026-07-08T21:13:26Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Terapia żywieniowa u krytycznie chorych dorosłych The New England Journal of Medicine."
+    },
+    {
+      "title": "Terapia żywieniowa u krytycznie chorych dorosłych – The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2506111?rss=searchAndBrowse",
       "date": "2026-07-08T21:11:26Z",
       "source": "NEJM",
@@ -794,14 +802,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Ponieważ nowa generacja leków przeciwnowotworowych w dalszym ciągu wydłuża życie osób chorych na raka, strategie rejestrowania ich toksyczności i skutków długoterminowych oraz zarządzania nimi również będą wymagały innowacji."
-    },
-    {
-      "title": "Czy konieczne jest rutynowe planowanie wizyt w poradni poszpitalnej z powodu zapalenia oskrzelików? - Lekarz NEJM",
-      "url": "https://clinician.nejm.org/nejm-jw.NA51989?show-author=true&author-id=AU083",
-      "date": "2026-07-08T09:57:07Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     }
   ],
   "guidelines": [
@@ -1094,14 +1094,6 @@
       "summary": "Wytyczne ATS zalecają HFNC leczenie pierwszego rzutu w przypadku niewydolności hipoksemicznej układu limbicznego."
     },
     {
-      "title": "Szkolenie OK COBIK NIL - Dialog motywujący - NIL",
-      "url": "https://nil.org.pl/eventToPdf/1542",
-      "date": "2026-07-05T21:11:06Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Szkolenie OK COBIK NIL - Dialog motywujący NIL."
-    },
-    {
       "title": "Niewydolność serca wywołana kokainą: co klinicyści powinni wiedzieć - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/communities/councils/cardiology-practice/education/cardiopractice/cocaine-induced-heart-failure-what-clinicians-need-to-know/",
       "date": "2026-07-04T19:57:26Z",
@@ -1153,6 +1145,14 @@
       "title": "Deklarujemy pełną gotowość do współpracy. Prezes NRL przedstawił postulaty samorządu premierowi Donaldowi Tuskowi - NIL",
       "url": "https://nil.org.pl/aktualnosci/9309-deklarujemy-pelna-gotowosc-do-wspolpracy-prezes-nrl-przedstawil-postulaty-samorzadu-premierowi-donaldowi-tuskowi",
       "date": "2026-07-03T13:56:35Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Stanowisko Ogólnopolskiego Porozumienia Samorządów Zawodów Zaufania Publicznego w sprawie bezpieczeństwa osób wykonujących zawody zaufania publicznego - NIL",
+      "url": "https://nil.org.pl/aktualnosci/9308-stanowisko-ogolnopolskiego-porozumienia-samorzadow-zawodow-zaufania-publicznego-w-sprawie-bezpieczenstwa-osob-wykonujacych-zawody-zaufania-publicznego",
+      "date": "2026-07-03T13:25:47Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
@@ -2313,8 +2313,8 @@
   "daily_top5": [
     {
       "title": "Terapia żywieniowa u krytycznie chorych dorosłych – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2506111?rss=searchAndBrowse",
-      "date": "2026-07-08T21:11:26Z",
+      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMra2506111",
+      "date": "2026-07-08T21:13:26Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Terapia żywieniowa u krytycznie chorych dorosłych The New England Journal of Medicine."
