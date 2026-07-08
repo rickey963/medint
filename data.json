@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T09:51:41Z",
+  "last_updated": "2026-07-08T09:52:26Z",
   "poland": [
     {
       "title": "Nowa lista antywywozowa od 16 lipca. Wykaz obejmuje 288 pozycji - Alert Medyczny",
@@ -991,7 +991,7 @@
     },
     {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
-      "url": "https://www.asiae.co.kr/en/article/yeongnam/2026070715043876703",
+      "url": "https://www.asiae.co.kr/en/article/2026070715043876703",
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
@@ -999,11 +999,11 @@
     },
     {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
-      "url": "https://www.asiae.co.kr/en/article/2026070715043876703",
+      "url": "https://www.asiae.co.kr/en/article/yeongnam/2026070715043876703",
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
     },
     {
       "title": "Ekstrakty z pyłków traw | Interakcje – BNFC",
@@ -1102,14 +1102,6 @@
       "summary": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) Europejskie Towarzystwo Kardiologiczne."
     },
     {
-      "title": "ATENY CMR POZIOM 1-2 - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/education/live-events/live-events-endorsement/ATHENSCMR-LEVEL-1-2/",
-      "date": "2026-07-04T05:20:08Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "ATENY CMR POZIOM 1-2 Europejskie Towarzystwo Kardiologiczne."
-    },
-    {
       "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu z roku 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/video-series-ais",
       "date": "2026-07-04T05:05:12Z",
@@ -1188,6 +1180,14 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "/PRNewswire/ -- Amerykańska Akademia Chirurgów Ortopedów (AAOS) opublikowała nowe wytyczne dotyczące praktyki klinicznej (CPG) dotyczące leczenia choroby zwyrodnieniowej stawu skokowego..."
+    },
+    {
+      "title": "ESC 365 - ESC 365",
+      "url": "https://esc365.escardio.org/practice-tools/image-of-the-week/20260708--08-july-2026/",
+      "date": "2026-07-02T07:00:00Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
     },
     {
       "title": "Nadzór nad Candida auris — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1300,7 +1300,7 @@
       "url": "https://www.cdc.gov/ebola/php/emergency-guidance/index.html",
       "date": "2026-07-07T13:56:05Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Wytyczne Departamentu Zdrowia USA dotyczące postępowania z podróżnymi z obszarów dotkniętych wirusem Ebola po przylocie."
     },
     {
@@ -1480,12 +1480,12 @@
       "summary": "Podczas gdy ludzie w całej Europie przygotowują się do wakacji, imprez na świeżym powietrzu i spotkań towarzyskich, ECDC zachęca wszystkich do podjęcia kilku prostych środków ostrożności, aby zachować zdrowie w miesiącach letnich."
     },
     {
-      "title": "Przeglądarka Vibrio — Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Przeglądarka Vibrio - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/vibrio-viewer",
       "date": "2026-07-06T12:00:00Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Przeglądarka Vibrio Viewer mapuje warunki sprzyjające wzrostowi Vibrio w morzach europejskich."
+      "summary": "Vibrio Viewer mapuje warunki sprzyjające wzrostowi Vibrio w morzach europejskich."
     },
     {
       "title": "Biblioteka obrazów zdrowia publicznego (PHIL) — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -2268,7 +2268,7 @@
       "url": "https://www.cdc.gov/ebola/php/emergency-guidance/index.html",
       "date": "2026-07-07T13:56:05Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Wytyczne Departamentu Zdrowia USA dotyczące postępowania z podróżnymi z obszarów dotkniętych wirusem Ebola po przylocie."
     }
   ]
