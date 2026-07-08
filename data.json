@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T10:45:12Z",
+  "last_updated": "2026-07-08T10:45:56Z",
   "poland": [
     {
       "title": "Matura 2026. Świętokrzyskie z najlepszymi wynikami z biologii i chemii - Rynek Zdrowia",
@@ -729,7 +729,7 @@
       "date": "2026-07-07T16:41:55Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Powszechnym stereotypem dotyczącym pracy lekarzy pierwszego kontaktu – podzielanym przez niektórych polityków i specjalistów szpitalnych, a także przez społeczeństwo – jest to, że zajmujemy się głównie prostymi lub trywialnymi problemami, a wszystko inne odsyłamy do dalszej pracy: jest to rola czasami opisywana jako „sortowanie, naprawianie lub wysyłanie”.1 Podczas gdy niektórzy lekarze pierwszego kontaktu wykonują swoją praktykę w ten ubogi sposób, a presja, aby to robić, wydaje się nieustannie rosnąć, większość doświadczonych lekarzy uzna ten opis za parodię naszych ról. Wiele problemów, jakie ludzie zgłaszają do gabinetu, jest złożonych, wielowarstwowych i często niemożliwych do rozwiązania. Dzieje się tak zwłaszcza na obszarach ubogich i tam, gdzie lokalne zasoby są przeznaczone na cele społeczne, psychiczne itp."
+      "summary": "Powszechnym stereotypem dotyczącym pracy lekarzy pierwszego kontaktu – podzielanym przez niektórych polityków i specjalistów szpitali, a także przez społeczeństwo – jest to, że zajmujemy się głównie prostymi lub trywialnymi problemami, a wszystko inne odsyłamy do dalszej pracy: jest to rola czasami opisywana jako „sortowanie, naprawianie lub wysyłanie”.1 Podczas gdy niektórzy lekarze pierwszego kontaktu wykonują swoją praktykę w ten ubogi sposób, a presja, aby to robić, wydaje się nieustannie rosnąć, większość doświadczonych lekarzy uzna ten opis za parodię naszych ról. Wiele problemów, jakie ludzie zgłaszają do poradni, jest złożonych, wielowarstwowych i często niemożliwych do rozwiązania. Dzieje się tak zwłaszcza na obszarach ubogich i tam, gdzie lokalne zasoby są przeznaczone na cele społeczne, psychiczne itp."
     },
     {
       "title": "Czasoprzestrzenne rozprzestrzenianie się epidemii Oropouche na Kubie w 2024 r. – Przyroda",
@@ -1208,6 +1208,14 @@
   ],
   "epidemiology": [
     {
+      "title": "Historyczna uchwała w sprawie zaniedbanych chorób tropikalnych przyjęta przez Radę Praw Człowieka ONZ – Światową Organizację Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/07-07-2026-historic-resolution-on-neglected-tropical-diseases-adopted-by-the-united-nations-human-rights-council",
+      "date": "2026-07-08T07:56:54Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Rezolucja 62/27 w sprawie „Praw człowieka i zaniedbanych chorób tropikalnych” została dziś przyjęta przez Radę Praw Człowieka (HRC) na jej sześćdziesiątej drugiej sesji w Genewie."
+    },
+    {
       "title": "Siódme spotkanie Technicznej Grupy Doradczej ds. dostępu do rynku szczepionek – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/07/09/default-calendar/seventh-meeting-of-the-market-access-for-vaccines-technical-advisory-group",
       "date": "2026-07-07T23:28:13Z",
@@ -1552,20 +1560,20 @@
       "summary": "Badanie wielostanowego ogniska E. coli powiązanego z mrożonymi jagodami."
     },
     {
-      "title": "Docelowy profil produktu dla preparatów hydroksymocznika do leczenia anemii sierpowatokrwinkowej u dzieci – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/publications/i/item/B09727",
-      "date": "2026-07-06T07:00:00Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Ten docelowy profil produktu (TPP) został opracowany przez Światową Organizację Zdrowia w celu wytyczania wytycznych w zakresie opracowywania, wytwarzania i zamawiania odpowiednich do wieku preparatów hydroksymocznika do leczenia niedokrwistości sierpowatokrwinkowej (SCD) u dzieci i młodzieży."
-    },
-    {
       "title": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Modelowanie i prognozowanie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
       "date": "2026-07-06T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Strona Rt CFA zawiera szacunki dotyczące trendów epidemicznych Covid-19 w USA, stanach i krajach HSA."
+    },
+    {
+      "title": "Docelowy profil produktu dla preparatów hydroksymocznika do leczenia anemii sierpowatokrwinkowej u dzieci – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/publications/i/item/B09727",
+      "date": "2026-07-06T07:00:00Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Ten docelowy profil produktu (TPP) został opracowany przez Światową Organizację Zdrowia w celu wytyczania wytycznych w zakresie opracowywania, wytwarzania i zamawiania odpowiednich do wieku preparatów hydroksymocznika do leczenia niedokrwistości sierpowatokrwinkowej (SCD) u dzieci i młodzieży."
     },
     {
       "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1598,14 +1606,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Niniejsza instrukcja obsługi opisuje zakres, cel oraz zawiera instrukcje dotyczące przeprowadzania symulacji stołowej budowania odpornych na warunki klimatyczne usług WASH w placówkach służby zdrowia. Celem symulacji stołowej jest poprawa wiedzy i umiejętności w zakresie rozwoju usług WASH na poziomie placówki opieki zdrowotnej, w tym w placówkach o ograniczonych zasobach, oraz zwiększenie zdolności placówek opieki zdrowotnej do ochrony i poprawy zdrowia docelowych społeczności w niestabilnym i zmieniającym się klimacie. Symulacja na stole jest przeznaczona dla pracowników służby zdrowia, specjalistów WASH i administracji szpitala."
-    },
-    {
-      "title": "Webinar inaugurujący: Regionalny program badań i plan działania w zakresie zdrowia, migracji i przesiedleń w regionie zachodniego Pacyfiku WHO – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/07/06/default-calendar/launch-webinar--regional-research-agenda-and-action-plan-on-health--migration-and-displacement-in-the-who-western-pacific-region",
-      "date": "2026-07-05T21:17:51Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Dołącz do WHO 6 lipca 2026 r. i weź udział w ogólnoświatowej inauguracji raportu ustalającego priorytety badań regionalnych na temat zdrowia, migracji, przesiedleń i zmian klimatycznych na zachodnim Pacyfiku. Zbadaj kluczowe luki w dowodach, priorytety badawcze i względy mające na celu wzmocnienie polityk, programów i wyników zdrowotnych dla migrantów i przesiedleńców."
     }
   ],
   "clinical_trials": [
@@ -2256,12 +2256,12 @@
       "summary": "Rezolucja 62/27 w sprawie „Praw człowieka i zaniedbanych chorób tropikalnych” została dziś przyjęta przez Radę Praw Człowieka (HRC) na jej sześćdziesiątej drugiej sesji w Genewie."
     },
     {
-      "title": "Dokładność diagnostyczna USG płuc u małych dzieci z chorobami układu oddechowego i świszczącym oddechem - lekarz NEJM",
-      "url": "https://clinician.nejm.org/nejm-jw.NA41214",
-      "date": "2026-07-08T07:44:48Z",
-      "source": "NEJM",
+      "title": "Historyczna uchwała w sprawie zaniedbanych chorób tropikalnych przyjęta przez Radę Praw Człowieka ONZ – Światową Organizację Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/07-07-2026-historic-resolution-on-neglected-tropical-diseases-adopted-by-the-united-nations-human-rights-council",
+      "date": "2026-07-08T07:56:54Z",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+      "summary": "Rezolucja 62/27 w sprawie „Praw człowieka i zaniedbanych chorób tropikalnych” została dziś przyjęta przez Radę Praw Człowieka (HRC) na jej sześćdziesiątej drugiej sesji w Genewie."
     },
     {
       "title": "Kolejne niemowlę chore na zatrucie jadem kiełbasianym w fazie ogniskowej związane z mlekiem w proszku – CIDRAP",
