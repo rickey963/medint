@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T14:50:55Z",
+  "last_updated": "2026-07-08T14:51:40Z",
   "poland": [
     {
       "title": "Większe bezpieczeństwo pacjentów, równy dostęp do świadczeń i przejrzyste finansowanie. Minister Zdrowia przedstawiła pakiet zmian w ochronie zdrowia - Gov.pl",
@@ -24,6 +24,14 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 9,
       "summary": "Projekt zarządzenia - Ambulatoryjna Opieka Specjalistyczna Narodowy Fundusz Zdrowia (NFZ)."
+    },
+    {
+      "title": "Pielęgniarki: propozycje minister Sobierańskiej-Grendy to odgrzewane kotlety - Puls Medycyny",
+      "url": "http://pulsmedycyny.pl/kadry/pielegniarki-i-polozne/pielegniarki-propozycje-minister-sobieranskiej-grendy-to-odgrzewane-kotlety",
+      "date": "2026-07-08T14:00:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Propozycje Ministerstwa Zdrowia nie są nowością, to przysłowiowe „odgrzewane kotlety” – tak środowe zapowiedzi szefowej resortu Jolanty Sobierańskiej-Grendy komentuje Ogólnopolski Związek Zawodowy Pielęgniarek i Położnych (OZZPiP), apelując o konkretne projekty ustaw, rozporządzeń i zarządzeń."
     },
     {
       "title": "Migrena z aurą – objawy, przyczyny i bezpieczeństwo pacjenta - DOZ",
@@ -182,7 +190,7 @@
       "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/kielce2615,2910.html",
       "date": "2026-07-08T10:52:00Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Praca w Funduszu to nauka, doświadczenie i satysfakcja z tworzenia wartości, które mają realny wpływ na otaczającą nas rzeczywistość. Jesteśmy organizacją publiczną, nadzorowaną..."
     },
     {
@@ -194,7 +202,7 @@
       "summary": "Włączenie profilaktyki HIV i AIDS do Narodowego Programu Zdrowia, oddanie planowania działań w ręce marszałków województw oraz wprowadzenie rocznego kalendarza sprawozdawczego dla regionów – to główne założenia projektu nowelizacji rozporządzenia opublikowanego przez resort zdrowia."
     },
     {
-      "title": "Maturzyści z tego województwa z największą szansą na medycynę. Wyniki matur z biologii i chemii - Rynek Zdrowia",
+      "title": "Matura 2026. Świętokrzyskie z najlepszymi wynikami z biologii i chemii - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Nauka/Matura-2026-Swietokrzyskie-z-najlepszymi-wynikami-z-biologii-i-chemii,286447,9.html",
       "date": "2026-07-08T10:35:00Z",
       "source": "Rynek Zdrowia",
@@ -392,14 +400,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Prof. Agnieszka Drosdzol-Cop: niedobór specjalistów utrudnia leczenie ginekologiczne dziewcząt w Polsce PolitykaZdrowotna.com."
-    },
-    {
-      "title": "DOM – nowe wsparcie dla lekarzy. CeZ udostępniło instrukcje i szkolenia [Wideo] - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/dom-nowe-wsparcie-dla-lekarzy-cez-udostepnilo-instrukcje-i-szkolenia-wideo/",
-      "date": "2026-07-08T07:20:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Centrum e-Zdrowia przygotowało instrukcje i szkolenia dotyczące usługi DOM. Sprawdź, jak lekarze mogą korzystać z Domowej Opieki Medycznej."
     }
   ],
   "world": [
@@ -481,7 +481,7 @@
       "date": "2026-07-08T12:18:21Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Salisbury zastanawia się, czy chatboty AI są warte tego szumu1. Duża część dyskursu na temat sztucznej inteligencji opiera się na mitach2 powtarzanych przez duże technologie i rządy, nawiązujących do niewykorzystanego potencjału sztucznej inteligencji. Konsekwencją tego jest to, że sztuczna inteligencja jest nie tylko nieunikniona, ale wręcz konieczna, a jej zalety należy wykorzystać, a potencjalne szkody jedynie złagodzone.3 Ta koncepcja sztucznej inteligencji będącej panaceum na wszystkie nasze problemy jest nazywana…."
+      "summary": "Zagrożenia związane z modą AI BMJ."
     },
     {
       "title": "Na horyzoncie kolejna duża podwyżka składek – STAT",
@@ -995,7 +995,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
     },
     {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
@@ -1166,22 +1166,6 @@
       "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     },
     {
-      "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a1.htm",
-      "date": "2026-07-02T17:02:26Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "W niniejszym raporcie opisano seroprewalencję alfa-gal immunoglobuliny E w próbkach krwi dawców pobranych w latach 2024–2025."
-    },
-    {
-      "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a2.htm?s_cid=OS_mm7525a2_w",
-      "date": "2026-07-02T17:02:26Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "W raporcie opisano dwa ogniska legionellozy w dwóch hotelach na Wyspach Dziewiczych Stanów Zjednoczonych."
-    },
-    {
       "title": "AAOS publikuje wytyczne praktyki klinicznej dotyczące leczenia choroby zwyrodnieniowej stawu skokowego – PR Newswire",
       "url": "https://www.prnewswire.com/news-releases/aaos-releases-clinical-practice-guideline-for-management-of-ankle-osteoarthritis-302816181.html",
       "date": "2026-07-02T13:00:00Z",
@@ -1190,20 +1174,36 @@
       "summary": "/PRNewswire/ -- Amerykańska Akademia Chirurgów Ortopedów (AAOS) opublikowała nowe wytyczne dotyczące praktyki klinicznej (CPG) dotyczące leczenia choroby zwyrodnieniowej stawu skokowego..."
     },
     {
-      "title": "Nadzór nad Candida auris — Stany Zjednoczone, 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7504a1.htm",
-      "date": "2026-07-02T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "W raporcie tym opisano ogółem 13 507 klinicznych przypadków C. auris..."
-    },
-    {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
       "url": "https://newsroom.tricare.mil/News/TRICARE-News/Article/4531226/provide-feedback-on-clinical-practice-guidelines-in-joint-patient-focus-groups",
       "date": "2026-07-01T16:09:25Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych w dniu 17 lipca TRICARE Newsroom (.mil)."
+    },
+    {
+      "title": "Czy leki GLP-1 mogą poprawić stan zdrowia osób chorych na cukrzycę typu 2 i PAD? - www.serce.org",
+      "url": "https://newsroom.heart.org/news/can-glp-1-medications-improve-health-in-people-with-type-2-diabetes-and-pad",
+      "date": "2026-07-01T09:54:12Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Jak wynika z nowego badania opublikowanego w czasopiśmie Journal of the American Heart Association, korzyści ze stosowania leków GLP-1 były największe w przypadku osób z ciężką chorobą tętnic obwodowych (PAD) i osób z otyłością."
+    },
+    {
+      "title": "Niewydolność serca: nowa definicja poprawi diagnostykę i zmieni opiekę – Healthline",
+      "url": "https://www.healthline.com/health-news/new-heart-failure-definition-will-improve-diagnosis-treatment",
+      "date": "2026-06-30T18:42:55Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Globalni eksperci ds. zdrowia zaktualizowali definicję i wytyczne dotyczące niewydolności serca, aby uwzględnić jej rosnącą częstość występowania. Wytyczne zawierają standardową definicję niewydolności serca, kładą nacisk na wczesne wykrywanie i omawiają, w jaki sposób można skutecznie leczyć niewydolność serca za pomocą odpowiednich interwencji."
+    },
+    {
+      "title": "American Heart Association wybiera pionierskiego kardiologa Keitha Ferdinanda na Lekarza Roku – Tulane University News",
+      "url": "https://news.tulane.edu/pr/american-heart-association-names-trailblazing-cardiologist-keith-ferdinand-physician-year",
+      "date": "2026-06-30T14:00:00Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "American Heart Association przyznało pionierowi kardiologowi z Tulane, dr Keithowi C. Ferdinandowi, tytuł Lekarza Roku 2026."
     }
   ],
   "epidemiology": [
@@ -1336,7 +1336,7 @@
       "summary": "Żywa, atenuowana szczepionka wykazała wysoki poziom ochrony przed jedną z głównych przyczyn biegunki na świecie."
     },
     {
-      "title": "1 na 4 osoby dorosłe w stanach z dużą liczbą kleszczy uzyskuje pozytywny wynik testu na obecność przeciwciał alfa-gal – CIDRAP",
+      "title": "U 1 na 4 dorosłych w stanach z dużą liczbą kleszczy wynik pozytywny na obecność przeciwciał alfa-gal – CIDRAP",
       "url": "https://www.cidrap.umn.edu/tick-borne-disease/1-4-adults-tick-heavy-states-test-positive-alpha-gal-antibodies",
       "date": "2026-07-07T14:36:49Z",
       "source": "CIDRAP",
@@ -1552,7 +1552,7 @@
       "summary": "Współprzewodniczący, Wasza Ekscelencja Ambasador Tovar i Matthew Harpur."
     },
     {
-      "title": "Biuletyn dotyczący zapalenia opon mózgowo-rdzeniowych, 25. tydzień 2026 r. – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Biuletyn dotyczący zapalenia opon mózgowych, tydzień 25, 2026 r. – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/meningitis-bulletin-week-25--2026",
       "date": "2026-07-06T10:07:49Z",
       "source": "WHO Disease Outbreak News",
