@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T20:13:30Z",
+  "last_updated": "2026-07-09T20:14:16Z",
   "poland": [
     {
       "title": "Była wiceminister zdrowia w nowej roli. Wchodzi do Rady ds. Chorób Rzadkich - Rynek Zdrowia",
@@ -126,7 +126,7 @@
       "url": "https://cpsdialog.gov.pl/event/posiedzenie-trojstronnego-zespolu-ds-ochrony-zdrowia-14/",
       "date": "2026-07-09T15:04:15Z",
       "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Posiedzenie Trójstronnego Zespołu ds. Ochrony Zdrowia CPS Dialog."
     },
     {
@@ -1134,14 +1134,6 @@
       "summary": "Gratulujemy naszym szpitalom Ascension Wisconsin zdobycia uznania w całym kraju dzięki programowi Get With The Guidelines® American Heart Association."
     },
     {
-      "title": "Nowy przegląd zakresu zapewnia szpitalom praktyczny plan działania dla HFpEF – AJMC",
-      "url": "https://www.ajmc.com/view/new-scoping-review-offers-hospitals-a-practical-roadmap-for-hfpef",
-      "date": "2026-07-06T16:26:17Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Nowy przegląd zakresu zapewnia szpitalom praktyczny plan działania dla HFpEF AJMC."
-    },
-    {
       "title": "Rozporządzenie Rady Ministrów z dnia 6 lipca 2026 r. zmieniające rozporządzenie w sprawie Narodowego Programu Zdrowia na lata 2021–2026",
       "url": "https://dziennikustaw.gov.pl/DU/2026/923",
       "date": "2026-07-06T07:00:00Z",
@@ -1204,6 +1196,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Keytruda (pembrolizumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-keytruda-pembrolizumab-10/",
+      "date": "2026-07-03T12:58:05Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     }
   ],
   "epidemiology": [
@@ -2236,20 +2236,20 @@
       "summary": "Cypsedo jest lekiem do znieczulenia ogólnego stosowanym do wywołania (rozpoczęcia) znieczulenia ogólnego u dorosłych poddawanych zabiegom chirurgicznym. Podaje się go w postaci wstrzyknięcia dożylnego przez znieczulającego bezpośrednio przed rozpoczęciem zabiegu. Dowiedz się o skutkach ubocznych i administrowaniu."
     },
     {
-      "title": "Zmiana przeznaczenia leku: rozważania dotyczące kryteriów wyboru i ustalania priorytetów – fda.gov",
-      "url": "https://www.fda.gov/drugs/news-events-human-drugs/drug-repurposing-considerations-selection-criteria-and-prioritization-08052026",
-      "date": "2026-07-09T00:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Zmiana przeznaczenia leku: uwagi dotyczące kryteriów wyboru i priorytetów fda.gov."
-    },
-    {
       "title": "Wczesne powiadomienie: wydanie zestawów podręcznych firmy Medline – fda.gov",
       "url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
       "date": "2026-07-09T00:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Wczesne powiadomienie: wydanie zestawów wygodnych z Medline fda.gov."
+    },
+    {
+      "title": "Zmiana przeznaczenia leku: rozważania dotyczące kryteriów wyboru i ustalania priorytetów – fda.gov",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/drug-repurposing-considerations-selection-criteria-and-prioritization-08052026",
+      "date": "2026-07-09T00:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Zmiana przeznaczenia leku: uwagi dotyczące kryteriów wyboru i priorytetów fda.gov."
     },
     {
       "title": "szkolenie eXtended EudraVigilance Medicinal Product Dictionary (XEVMPD) (Bukareszt) – październik 2026 - Europejska Agencja Leków (EMA)",
