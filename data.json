@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T21:53:07Z",
+  "last_updated": "2026-07-09T21:53:54Z",
   "poland": [
     {
       "title": "Była wiceminister zdrowia w nowej roli. Wchodzi do Rady ds. Chorób Rzadkich - Rynek Zdrowia",
@@ -126,7 +126,7 @@
       "url": "https://cpsdialog.gov.pl/event/posiedzenie-trojstronnego-zespolu-ds-ochrony-zdrowia-14/",
       "date": "2026-07-09T15:04:15Z",
       "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Posiedzenie Trójstronnego Zespołu ds. Ochrony Zdrowia CPS Dialog."
     },
     {
@@ -1190,20 +1190,20 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Rekomendacja Prezesa – Keytruda (pembrolizumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-keytruda-pembrolizumab-10/",
-      "date": "2026-07-03T12:58:05Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
-    },
-    {
       "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a1.htm",
       "date": "2026-07-02T17:02:26Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a2.htm?s_cid=OS_mm7525a2_w",
+      "date": "2026-07-02T17:02:26Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     }
   ],
   "epidemiology": [
@@ -1337,7 +1337,7 @@
     },
     {
       "title": "Pracownicy wirusa Ebola strajkują, ponieważ szef CDC twierdzi, że reakcja agencji zajmie miesiące – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/viral-hemorrhagic-fever/ebola-workers-strike-cdc-head-says-agency-s-response-will-last-months",
+      "url": "https://www.cidrap.umn.edu/covid-19/ebola-workers-strike-cdc-head-says-agency-s-response-will-last-months",
       "date": "2026-07-08T20:37:18Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
@@ -1345,7 +1345,7 @@
     },
     {
       "title": "Pracownicy wirusa Ebola strajkują, ponieważ szef CDC twierdzi, że reakcja agencji zajmie miesiące – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/covid-19/ebola-workers-strike-cdc-head-says-agency-s-response-will-last-months",
+      "url": "https://www.cidrap.umn.edu/viral-hemorrhagic-fever/ebola-workers-strike-cdc-head-says-agency-s-response-will-last-months",
       "date": "2026-07-08T20:37:18Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
@@ -2359,7 +2359,7 @@
     },
     {
       "title": "Pracownicy wirusa Ebola strajkują, ponieważ szef CDC twierdzi, że reakcja agencji zajmie miesiące – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/viral-hemorrhagic-fever/ebola-workers-strike-cdc-head-says-agency-s-response-will-last-months",
+      "url": "https://www.cidrap.umn.edu/covid-19/ebola-workers-strike-cdc-head-says-agency-s-response-will-last-months",
       "date": "2026-07-08T20:37:18Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
