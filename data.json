@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T12:19:04Z",
+  "last_updated": "2026-07-09T12:19:58Z",
   "poland": [
     {
       "title": "PTOHD apeluje o pilne działania po kryzysie w onkologii dziecięcej na Śląsku - Alert Medyczny",
@@ -420,6 +420,14 @@
       "summary": "W przypadku pacjentów z liszajem twardzinowym sromu, którzy nie odpowiadają na standardowe leczenie, coraz większym zainteresowaniem klinicznym cieszą się lasery, inhibitory JAK i PRP."
     },
     {
+      "title": "Biologiczne zegary starzenia w zdrowiu i chorobie - Przyroda",
+      "url": "https://www.nature.com/articles/s41591-026-04495-3",
+      "date": "2026-07-09T09:23:33Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "W tym przeglądzie przedstawiono aktualny stan wiedzy na temat zegarów biologicznych oraz sposób, w jaki mogą one pomóc w zrozumieniu patobiologii, zmniejszyć obciążenie chorobami i wydłużyć okres zdrowia."
+    },
+    {
       "title": "Druga szansa terapii genowej na przywrócenie naturalnego słuchu - Natura",
       "url": "https://www.nature.com/articles/s41591-026-04512-5",
       "date": "2026-07-09T09:23:33Z",
@@ -794,14 +802,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Ensartinib w wyciętym ALK – dodatnim niedrobnokomórkowym raku płuca The New England Journal of Medicine."
-    },
-    {
-      "title": "Włączenie odry – zapalenie mózgu po allogenicznym przeszczepieniu komórek macierzystych – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMc2511896",
-      "date": "2026-07-08T21:11:25Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Włączenie odry – zapalenie mózgu po allogenicznym przeszczepieniu komórek macierzystych The New England Journal of Medicine."
     }
   ],
   "guidelines": [
@@ -1198,12 +1198,12 @@
       "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca TRICARE Newsroom (.mil)."
     },
     {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/911",
-      "date": "2026-07-01T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
+      "title": "Co nowego, co ma znaczenie: wdrażanie wytycznych ACLS 2025 – Szpitalnik",
+      "url": "https://www.the-hospitalist.org/hospitalist/article/41486/cardiology/whats-new-what-matters-implementing-the-2025-acls-guidelines/",
+      "date": "2026-07-01T13:42:31Z",
+      "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 911, z dniem ogłoszenia 2026-07-07."
+      "summary": "Wytyczne American Heart Association z 2025 r. dotyczące zaawansowanych zabiegów resuscytacyjnych serca wprowadzają kluczowe aktualizacje dotyczące postępowania w przypadku szpitalnego zatrzymania krążenia, kładąc nacisk na resuscytację opartą na dowodach naukowych, pracę zespołową i opiekę poresuscytacyjną."
     }
   ],
   "epidemiology": [
@@ -1916,6 +1916,14 @@
   ],
   "pharma_market": [
     {
+      "title": "AstraZeneca, lek Ionis nie powiódł się w dużym badaniu dotyczącym chorób serca z powodu poważnej porażki – BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/astrazeneca-ionis-eplontersen-ttr-cardiomyopathy-study-results-failure/824799/",
+      "date": "2026-07-09T12:17:37Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Niepowodzenie leku Eplontersen w leczeniu kardiomiopatii amyloidozy zależnej od transtyretyny zaskoczyło analityków z Wall Street i poprawiło perspektywy dla konkurencyjnych leków firm Alnylam i BridgeBio Pharma."
+    },
+    {
       "title": "środa, 8 lipca 2026 Lista zaległości kredytowych GDUFA - fda.gov",
       "url": "https://www.fda.gov/media/186165/download",
       "date": "2026-07-09T08:37:01Z",
@@ -2306,14 +2314,6 @@
       "source": "Pink Sheet",
       "confirmed_by": 1,
       "summary": "Proponowana zasada planowana na październik zniosłaby „długotrwałe założenie”, że istnienie niezatwierdzonego wniosku jest poufne, umożliwiając proaktywne ujawnianie pełnych listów z odpowiedziami – stwierdza ujednolicony program agencji."
-    },
-    {
-      "title": "UNII-8T59P1Q6NO | Usługa wyszukiwania UNII - precyzjaFDA (.gov)",
-      "url": "https://precision.fda.gov/uniisearch/srs?search=8T59P1Q6NO",
-      "date": "2026-07-07T20:13:13Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Globalny system rejestracji substancji FDA umożliwia skuteczną i dokładną wymianę informacji o substancjach za pośrednictwem ich unikalnych identyfikatorów składników (UNII)."
     }
   ],
   "critical_alerts": [
