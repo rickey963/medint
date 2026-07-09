@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T17:22:33Z",
+  "last_updated": "2026-07-09T17:23:15Z",
   "poland": [
     {
       "title": "Kolejny lekarz-milioner. Jest zawiadomienie do prokuratury - PolitykaZdrowotna.com",
@@ -420,6 +420,14 @@
       "summary": "Można oczekiwać, że zaskakujące dane dotyczące bezpieczeństwa, pochodzące z dwóch nowych przeglądów usług położniczych, spowodują natychmiastowe podjęcie działań zmierzających do poprawy. Istnieje jednak duże prawdopodobieństwo, że nic szybko się nie zmieni. Powody tego przygnębiającego wniosku obejmują prosty fakt, że zmiany kulturowe, które wydają się być przyczyną kryzysu usług położniczych, trudno osiągnąć w pośpiechu."
     },
     {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.statnews.com/2026/07/09/arpa-h-160-million-custom-gene-editing-funding-rare-disease/",
+      "date": "2026-07-09T15:01:54Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Program ARPA-H mający na celu szybkie rozpoczęcie niestandardowych zabiegów edycji genów został opóźniony ze względu na zmianę administracji. Teraz siedem laboratoriów otrzyma pokaźne granty."
+    },
+    {
       "title": "Prime wygrywa arbitraż Beam, otwierając drogę do kliniki - STAT",
       "url": "https://www.statnews.com/2026/07/09/biotech-news-prime-wins-beam-arbitration-clearing-path-to-clinic/",
       "date": "2026-07-09T14:06:57Z",
@@ -449,7 +457,7 @@
       "date": "2026-07-09T13:00:16Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "AstraZeneca i Ionis poinformowały w czwartek o znaczącym niepowodzeniu prób dotyczących choroby serca, która staje się coraz bardziej konkurencyjnym rynkiem dla producentów leków."
+      "summary": "AstraZeneca i Ionis poinformowały w czwartek o znaczącym niepowodzeniu próby klinicznej dotyczącej choroby serca, która staje się coraz bardziej konkurencyjnym rynkiem dla producentów leków."
     },
     {
       "title": "Komórki dopaminergiczne pochodzące z ludzkich embrionalnych komórek macierzystych stosowane w chorobie Parkinsona: otwarte badanie fazy 1/2 - Natura",
@@ -794,14 +802,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Kontekstualizacja zasady zmarłego dawcy w epoce dobrowolnej eutanazji The New England Journal of Medicine."
-    },
-    {
-      "title": "Ensartinib w wyciętej ALK – dodatnim wyniku niedrobnokomórkowego raka płuca – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMoa2518990",
-      "date": "2026-07-08T21:49:36Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Ensartinib w wyciętym ALK – dodatnim niedrobnokomórkowym raku płuca The New England Journal of Medicine."
     }
   ],
   "guidelines": [
@@ -867,7 +867,7 @@
       "date": "2026-07-08T16:38:18Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Polipragmazja jest powszechna w leczeniu chorób sercowo-naczyniowych, ponieważ leczenie oparte na wytycznych często wymaga wielu leków w przypadku współistniejących schorzeń i chorób współistniejących, co zwiększa obciążenie lekiem."
+      "summary": "Polipragmazja jest powszechna w leczeniu chorób sercowo-naczyniowych, ponieważ leczenie oparte na wytycznych często wymaga wielu leków w przypadku współistniejących schorzeń i chorób współistniejących, co zwiększa obciążenie lekami."
     },
     {
       "title": "ESC Heart Team Challenge – Europejskie Towarzystwo Kardiologiczne",
@@ -1059,7 +1059,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
@@ -1202,7 +1202,7 @@
       "url": "https://www.cdc.gov/immunization-training/hcp/you-call-the-shots/index.html",
       "date": "2026-07-02T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Ty decydujesz o losach | Centra szkoleń w zakresie szczepień w zakresie kontroli i zapobiegania chorobom | CDC (.gov)."
     }
   ],
