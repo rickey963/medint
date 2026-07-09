@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T17:44:37Z",
+  "last_updated": "2026-07-09T17:45:21Z",
   "poland": [
     {
       "title": "10 rekomendacji dla Ministerstwa Zdrowia. Samorząd diagnostów proponuje kluczowe zmiany w systemie - PolitykaZdrowotna.com",
@@ -78,7 +78,7 @@
       "url": "https://cpsdialog.gov.pl/event/posiedzenie-trojstronnego-zespolu-ds-ochrony-zdrowia-14/",
       "date": "2026-07-09T15:04:15Z",
       "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Posiedzenie Trójstronnego Zespołu ds. Ochrony Zdrowia CPS Dialog."
     },
     {
@@ -1067,7 +1067,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
     },
     {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
@@ -1126,7 +1126,7 @@
       "summary": "Londyn – Wielka Brytania, zatwierdzone przez Europejskie Stowarzyszenie Obrazowania Układu Sercowo-Naczyniowego."
     },
     {
-      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu na rok 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
+      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu z roku 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/video-series-ais",
       "date": "2026-07-04T05:05:12Z",
       "source": "Wytyczne AHA/ACC",
@@ -1892,6 +1892,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Ubezpieczyciele korzystający z ustawy o przystępnej cenie chcą większych podwyżek składek w miarę spadku liczby zapisów - Drugs.com",
+      "url": "https://www.drugs.com/news/affordable-care-act-insurers-want-more-premium-increases-enrollment-sags-130595.html",
+      "date": "2026-07-09T17:00:07Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "CZWARTEK, 9 lipca 2026 Drugi rok z rzędu wielu ubezpieczycieli objętych ustawą o przystępnej cenie proponuje dwucyfrowe podwyżki składek, napędzane przez rosnącą liczbę spółek medycznych."
+    },
+    {
       "title": "Sprawozdania JCA UE dotyczące leków Zepzelca firmy PharmaMar i Imdylltra firmy Amgen podkreślają rozbieżność w liczbach PICO - insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/health-technology-assessment/eu-jca-reports-for-pharmamars-zepzelca-and-amgens-imdylltra-highlight-pico-number-discrepancy-B2V37REOE5DTHMXDQV2GWCHN6A/",
       "date": "2026-07-09T16:51:37Z",
@@ -1932,7 +1940,7 @@
       "summary": "Według ekspertów brytyjskiej MHRA GCP, dojrzała kultura jakości w ramach międzynarodowego standardu dobrej praktyki klinicznej E6(R3) to taka, w której każdy członek zespołu ds. badań klinicznych może z całą pewnością wyjaśnić, co jest najważniejsze, dlaczego jest to istotne i jaką rolę w tym odgrywa."
     },
     {
-      "title": "Nowy, bardzo dokładny test szczoteczki może wykryć raka jamy ustnej w ciągu godziny – Drugs.com",
+      "title": "Nowy, bardzo dokładny test szczoteczki może wykryć raka jamy ustnej w ciągu godziny",
       "url": "https://www.drugs.com/news/new-highly-accurate-brush-test-can-detect-mouth-cancer-within-hour-130594.html",
       "date": "2026-07-09T15:27:19Z",
       "source": "Drugs.com",
@@ -2282,14 +2290,6 @@
       "source": "Pink Sheet",
       "confirmed_by": 1,
       "summary": "Z niemieckiego projektu ustawy o cięciu kosztów usunięto działania mające na celu wprowadzenie dynamicznych rabatów na ceny leków i zastąpiono je dodatkowym stałym rabatem."
-    },
-    {
-      "title": "Novartis zwalnia miejsca pracy w New Jersey; OTR i LG Chem badają chińskie leki przeciwnowotworowe – Endpoints News",
-      "url": "https://endpoints.news/novartis-cuts-new-jersey-jobs-otr-lg-chem-explore-china-cancer-drugs/",
-      "date": "2026-07-08T14:30:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "Novartis zwalnia 322 miejsca pracy w New Jersey, MindRank zbiera 52 miliony dolarów, Seres publikuje wcześniejsze dane SER-155 i nie tylko."
     }
   ],
   "critical_alerts": [
