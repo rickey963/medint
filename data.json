@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T00:08:55Z",
+  "last_updated": "2026-07-09T00:09:39Z",
   "poland": [
     {
       "title": "System eZWM (e - Narodowy Fundusz Zdrowia (NFZ)",
@@ -436,20 +436,20 @@
       "summary": "9 lipca 2026 | NEJM The New England Journal of Medicine."
     },
     {
-      "title": "Terapia żywieniowa u dorosłych krytycznie chorych – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMra2506111",
-      "date": "2026-07-08T21:49:44Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Terapia żywieniowa u krytycznie chorych dorosłych The New England Journal of Medicine."
-    },
-    {
       "title": "Natychmiastowa lub odroczona PCI w przypadku zmiany niewinnej – The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/abs/10.1056/NEJMc2604396",
       "date": "2026-07-08T21:49:44Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Natychmiastowa lub odroczona PCI w przypadku zmiany niewinnej The New England Journal of Medicine."
+    },
+    {
+      "title": "Terapia żywieniowa u dorosłych krytycznie chorych – The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMra2506111",
+      "date": "2026-07-08T21:49:44Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Terapia żywieniowa u krytycznie chorych dorosłych The New England Journal of Medicine."
     },
     {
       "title": "Kontekstualizacja zasady martwego dawcy w epoce dobrowolnej eutanazji – The New England Journal of Medicine",
@@ -506,6 +506,14 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Leczenie nabytej otyłości podwzgórzowej The New England Journal of Medicine."
+    },
+    {
+      "title": "Jedno kluczowe badanie mające na celu zatwierdzenie przez FDA — zakończenie dogmatu dwóch prób - The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2604063",
+      "date": "2026-07-08T21:26:57Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Jedno kluczowe badanie mające na celu zatwierdzenie przez FDA — zakończenie dogmatu dwóch prób The New England Journal of Medicine."
     },
     {
       "title": "Szczepionka przeciw meningokokom typu B zapobiegająca zakażeniu Neisseria gonorrhoeae - The New England Journal of Medicine",
@@ -791,14 +799,6 @@
       "title": "Pharmalittle: Czytamy o zatwierdzeniu leku na nerki firmy Vera, umowie cenowej z brytyjskim Enhertu i nie tylko - STAT",
       "url": "https://www.statnews.com/pharmalot/2026/07/08/fda-approves-vera-kidney-drug-uk-enhertu-pricing-deal/",
       "date": "2026-07-08T13:16:41Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "FDA zatwierdziła lek na nerki firmy Vera Therapeutics o nazwie Trutakna do leczenia nefropatii IgA."
-    },
-    {
-      "title": "Pharmalittle: Czytamy o zatwierdzeniu leku na nerki firmy Vera, umowie cenowej z brytyjskim Enhertu i nie tylko - STAT",
-      "url": "https://www.statnews.com/pharmalot/2026/07/08/fda-approves-vera-kidney-drug-uk-enhertu-pricing-deal/?utm_campaign=rss",
-      "date": "2026-07-08T13:12:38Z",
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "FDA zatwierdziła lek na nerki firmy Vera Therapeutics o nazwie Trutakna do leczenia nefropatii IgA."
@@ -1842,20 +1842,20 @@
       "summary": "Pragmatyzm operacyjny w ciężkich badaniach ePRO. Stosowane badania kliniczne online."
     },
     {
-      "title": "Szczegóły badania | NCT07685041 | Otwarte badanie kliniczne fazy I o ustalonej sekwencji, mające na celu ocenę wpływu HS-10504 na farmakokinetykę midazolamu u pacjentów z niedrobnokomórkowym rakiem płuc - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07685041",
-      "date": "2026-07-06T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07685041 | Otwarte badanie kliniczne fazy I o ustalonej sekwencji, mające na celu ocenę wpływu HS-10504 na farmakokinetykę midazolamu u pacjentów z niedrobnokomórkowym rakiem płuc. ClinicalTrials.gov."
-    },
-    {
       "title": "Szczegóły badania | NCT03072927 | Przezskórna dekompresja lędźwiowa pod kontrolą obrazu MILD®: badanie roszczeń Medicare - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT03072927",
       "date": "2026-07-06T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT03072927 | Przezskórna dekompresja lędźwiowa pod kontrolą obrazu MILD®: badanie roszczeń Medicare ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07685041 | Otwarte badanie kliniczne fazy I o ustalonej sekwencji, mające na celu ocenę wpływu HS-10504 na farmakokinetykę midazolamu u pacjentów z niedrobnokomórkowym rakiem płuc - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07685041",
+      "date": "2026-07-06T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07685041 | Otwarte badanie kliniczne fazy I o ustalonej sekwencji, mające na celu ocenę wpływu HS-10504 na farmakokinetykę midazolamu u pacjentów z niedrobnokomórkowym rakiem płuc. ClinicalTrials.gov."
     }
   ],
   "pharma_market": [
@@ -1897,7 +1897,7 @@
       "date": "2026-07-08T18:43:06Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "ŚRODA, 8 lipca 2026 r. Jak wynika z nowego badania, ukierunkowany program treningowy może pomóc młodym piłkarzom uniknąć rozdarć kolan i innych kontuzji. Dziewczyny, które grają w s."
+      "summary": "ŚRODA, 8 lipca 2026 r. Jak wynika z nowego badania, ukierunkowany program treningowy może pomóc młodym piłkarzom uniknąć stłuczeń kolan i innych kontuzji. Dziewczyny, które grają w s."
     },
     {
       "title": "Pomoc Copay ma na celu pokrycie kosztów leków dla pacjentów. Niektórzy ubezpieczyciele przechowują je zamiast tego. - Narkotyki.com",
@@ -2001,7 +2001,7 @@
       "date": "2026-07-08T14:30:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Novartis zwalnia 322 miejsca pracy w New Jersey, MindRank zbiera 52 miliony dolarów, Seres publikuje wcześniejsze dane SER-155 i nie tylko."
+      "summary": "Novartis zwalnia 322 stanowiska pracy w New Jersey, MindRank zbiera 52 miliony dolarów, Seres publikuje wcześniejsze dane SER-155 i nie tylko."
     },
     {
       "title": "Biohaven zamierza zmierzyć się z Lilly w walce z otyłością oszczędzającą mięśnie – Endpoints News",
@@ -2084,7 +2084,7 @@
       "summary": "Kalohexis pracuje nad terapiami peptydowymi, w tym nad otyłością, które mogłyby zaoferować alternatywne podejście do GLP-1, które obecnie dominują w dziedzinie odchudzania."
     },
     {
-      "title": "Sino Biopharm nawiązuje współpracę z AstraZeneca i GSK w zakresie oddzielnych partnerów w zakresie układu oddechowego – Wiadomości z punktów końcowych",
+      "title": "Sino Biopharm nawiązuje współpracę z AstraZeneca i GSK w zakresie oddzielnych partnerstw w zakresie układu oddechowego – Wiadomości z punktów końcowych",
       "url": "https://endpoints.news/sino-biopharm-hooks-astrazeneca-gsk-for-separate-respiratory-partnerships/",
       "date": "2026-07-08T10:56:00Z",
       "source": "Endpoints News",
@@ -2328,16 +2328,16 @@
   ],
   "daily_top5": [
     {
-      "title": "Szczepionka przeciw meningokokom typu B zapobiegająca zakażeniu Neisseria gonorrhoeae - The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2516739",
-      "date": "2026-07-08T21:25:29Z",
+      "title": "Jedno kluczowe badanie mające na celu zatwierdzenie przez FDA — zakończenie dogmatu dwóch prób - The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2604063",
+      "date": "2026-07-08T21:26:57Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Szczepionka przeciwko meningokokom typu B zapobiegająca zakażeniu Neisseria gonorrhoeae The New England Journal of Medicine."
+      "summary": "Jedno kluczowe badanie mające na celu zatwierdzenie przez FDA — zakończenie dogmatu dwóch prób The New England Journal of Medicine."
     },
     {
       "title": "Szczepionka przeciw meningokokom typu B zapobiegająca zakażeniu Neisseria gonorrhoeae - The New England Journal of Medicine",
-      "url": "http://www.nejm.org/doi/full/10.1056/NEJMoa2516739",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2516739",
       "date": "2026-07-08T21:25:29Z",
       "source": "NEJM",
       "confirmed_by": 1,
