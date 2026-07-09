@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T15:53:11Z",
+  "last_updated": "2026-07-09T15:54:00Z",
   "poland": [
     {
       "title": "Gruntowna modernizacja w szpitalu wojewódzkim w Białymstoku. Koszt to ponad 11 mln zł - PolitykaZdrowotna.com",
@@ -1051,7 +1051,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
     },
     {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
@@ -1552,14 +1552,6 @@
       "summary": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Dane z bieżącego roku (2026) | Wirus wschodniego zapalenia mózgu koni — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/eastern-equine-encephalitis/data-maps/current-year-data.html",
-      "date": "2026-07-07T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Dane z bieżącego roku (2026) | Centra kontroli i zapobiegania chorobom wschodniego zapalenia mózgu koni | CDC (.gov)."
-    },
-    {
       "title": "Przegląd kliniczny TM7 – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ringworm/hcp/clinical-overview/tmvii.html",
       "date": "2026-07-07T07:00:00Z",
@@ -1574,6 +1566,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Publikacje naukowe | Centra zapobiegania zatruciom ołowiem u dzieci i kontroli chorób | CDC (.gov)."
+    },
+    {
+      "title": "Dane z bieżącego roku (2026) | Wirus wschodniego zapalenia mózgu koni — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/eastern-equine-encephalitis/data-maps/current-year-data.html",
+      "date": "2026-07-07T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Dane z bieżącego roku (2026) | Centra kontroli i zapobiegania chorobom wschodniego zapalenia mózgu koni | CDC (.gov)."
     },
     {
       "title": "Łączna liczba potwierdzonych przypadków grypy ptaków A(H5N1) u ludzi zgłoszonych do WHO w latach 2003–2026, 7 lipca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
@@ -1907,6 +1907,14 @@
     }
   ],
   "pharma_market": [
+    {
+      "title": "GSK kończy sojusz dotyczący leków mózgowych z firmą Alector – BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/gsk-alector-deal-end-terminate-brain-drugs-neuroscience/824815/",
+      "date": "2026-07-09T15:52:44Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Niepowodzenia kliniczne zniweczyły niegdyś potencjalnie wartą 2,2 miliarda dolarów transakcję, która oznaczała powrót GSK do neurologii."
+    },
     {
       "title": "Akcje AZ i Ionis spadają po flopie próbnej ATTR-CM, ale analityk sygnalizuje przesadną reakcję – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/az-ionis-shares-tumble-attr-cm-trial-failure-it-over-reaction",
@@ -2298,14 +2306,6 @@
       "source": "BioSpace",
       "confirmed_by": 1,
       "summary": "Udoskonalanie skalowalnej, powtarzalnej terapii komórkowej i zaawansowanych procesów hodowli komórkowych."
-    },
-    {
-      "title": "Allergan Aesthetics pomaga wyznaczać ścieżki młodym kobietom w STEM dzięki wydarzeniu Girls Inc. – Fierce Pharma",
-      "url": "https://www.fiercepharma.com/marketing/allergan-aesthetics-helps-map-out-paths-young-women-stem-girls-inc-event",
-      "date": "2026-07-08T12:51:07Z",
-      "source": "FiercePharma",
-      "confirmed_by": 1,
-      "summary": "Dział Allergan Aesthetics firmy AbbVie, chcąc otworzyć drzwi następnemu pokoleniu kobiet-liderów, powitał grupę młodych kobiet w Instytucie Medycznym Allergan (AMI) w hrabstwie Orange w Kalifornii | We wtorek firma Allergan Aesthetics powitała uczestniczki Girls Inc. na panelu i wycieczce po Instytucie Medycznym Allergan w hrabstwie Orange w Kalifornii."
     }
   ],
   "critical_alerts": [
