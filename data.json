@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T19:14:06Z",
+  "last_updated": "2026-07-09T19:14:58Z",
   "poland": [
     {
       "title": "Była wiceminister zdrowia w nowej roli. Wchodzi do Rady ds. Chorób Rzadkich - Rynek Zdrowia",
@@ -32,6 +32,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Kolejny lekarz-milioner. Jest zawiadomienie do prokuratury PolitykaZdrowotna.com."
+    },
+    {
+      "title": "38 godzin i 43 minuty: tyle liczyła doba tego lekarza. Sprawa w prokuraturze - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Prawo/38-godzin-i-43-minuty-tyle-liczyla-doba-tego-lekarza-Sprawa-w-prokuraturze,286526,2.html",
+      "date": "2026-07-09T16:50:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Rozciągał czas, by zarobić 1,8 miliona złotych. Chirurg z Braniewa wykazywał w raportach nawet 1200 godzin pracy miesięcznie, łącząc dyżury w kilku miejscach jednocześnie. Nowe władze powiatu odkryły gigantyczne nieprawidłowości finansowe i powiadomiły prokuraturę."
     },
     {
       "title": "Centrum Kobiet powstanie w Sosnowcu. Start lada chwila - PolitykaZdrowotna.com",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Mózgi osób, które posługują się więcej niż jednym językiem, starzeją się wolniej – wskazuje badanie zaprezentowane na FENS Forum 2026. Efekt ten nie zależy wyłącznie od liczby znanych języków, ale też poziomu biegłości językowej i d."
-    },
-    {
-      "title": "Badanie: długowieczność tak, ale pod pewnymi warunkami - Serwis Zdrowie",
-      "url": "https://zdrowie.pap.pl/profilaktyka/badanie-dlugowiecznosc-tak-ale-pod-pewnymi-warunkami",
-      "date": "2026-07-09T08:37:22Z",
-      "source": "Serwis Zdrowie (PAP)",
-      "confirmed_by": 1,
-      "summary": "Statystyki pokazują, że średnia życia się wydłuża. W 2024 r. trwanie życia w zdrowiu kobiet wyniosło średnio 65 lat, a mężczyzn blisko 62 lata."
     }
   ],
   "world": [
@@ -1091,7 +1091,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
     },
     {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
@@ -1190,20 +1190,20 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Stanowisko Ogólnopolskiego Porozumienia Samorządów Zawodów Zaufania Publicznego w sprawie bezpieczeństwa osób wykonujących zawody zaufania publicznego - NIL",
-      "url": "https://nil.org.pl/aktualnosci/9308-stanowisko-ogolnopolskiego-porozumienia-samorzadow-zawodow-zaufania-publicznego-w-sprawie-bezpieczenstwa-osob-wykonujacych-zawody-zaufania-publicznego",
-      "date": "2026-07-03T13:25:47Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
       "title": "Rekomendacja Prezesa – Keytruda (pembrolizumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-keytruda-pembrolizumab-10/",
       "date": "2026-07-03T12:58:05Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
+    },
+    {
+      "title": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a1.htm",
+      "date": "2026-07-02T17:02:26Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     }
   ],
   "epidemiology": [
@@ -1277,7 +1277,7 @@
       "date": "2026-07-08T20:37:18Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Associated Press (AP) podaje, że niektórzy pracownicy służby zdrowia w Demokratycznej Republice Konga (DRK) rozpoczęli strajk, twierdząc, że walczą z wirusem Ebola w czasie epidemii, dysponując nieodpowiednim sprzętem i niskimi płacami, co pogłębia i tak już trudny kryzys zdrowia publicznego. Chociaż nie ogłoszono żadnego oficjalnego strajku, pracownicy odchodzą z pracy w klinikach i ośrodkach terapeutycznych w związku z rosnącą epidemią."
+      "summary": "Associated Press (AP) podaje, że niektórzy pracownicy służby zdrowia w Demokratycznej Republice Konga (DRK) rozpoczęli strajk, twierdząc, że walczą z wirusem Ebola w czasie epidemii, dysponując nieodpowiednim sprzętem i niskimi płacami, co dodatkowo pogłębia i tak już trudny kryzys zdrowia publicznego. Chociaż nie ogłoszono żadnego oficjalnego strajku, pracownicy odchodzą z pracy w klinikach i ośrodkach terapeutycznych w związku z rosnącą epidemią."
     },
     {
       "title": "Nowe dane ujawniają, że Paxlovid jest bezpieczny dla dzieci w wieku 6 lat i starszych – CIDRAP",
@@ -2323,7 +2323,7 @@
       "date": "2026-07-08T20:37:18Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Associated Press (AP) podaje, że niektórzy pracownicy służby zdrowia w Demokratycznej Republice Konga (DRK) rozpoczęli strajk, twierdząc, że walczą z wirusem Ebola w czasie epidemii, dysponując nieodpowiednim sprzętem i niskimi płacami, co pogłębia i tak już trudny kryzys zdrowia publicznego. Chociaż nie ogłoszono żadnego oficjalnego strajku, pracownicy odchodzą z pracy w klinikach i ośrodkach terapeutycznych w związku z rosnącą epidemią."
+      "summary": "Associated Press (AP) podaje, że niektórzy pracownicy służby zdrowia w Demokratycznej Republice Konga (DRK) rozpoczęli strajk, twierdząc, że walczą z wirusem Ebola w czasie epidemii, dysponując nieodpowiednim sprzętem i niskimi płacami, co dodatkowo pogłębia i tak już trudny kryzys zdrowia publicznego. Chociaż nie ogłoszono żadnego oficjalnego strajku, pracownicy odchodzą z pracy w klinikach i ośrodkach terapeutycznych w związku z rosnącą epidemią."
     },
     {
       "title": "Odra dociera do ośrodka zatrzymań ICE w Arizonie, rodząc pytania dotyczące przejrzystości i gotowości na epidemię - Trialsitenews.com",
