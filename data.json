@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T17:57:29Z",
+  "last_updated": "2026-07-09T17:58:19Z",
   "poland": [
     {
       "title": "Ebola poza kontrolą. \"Wyprzedza nasze możliwości reagowania\" - Medonet",
@@ -86,7 +86,7 @@
       "url": "https://cpsdialog.gov.pl/event/posiedzenie-trojstronnego-zespolu-ds-ochrony-zdrowia-14/",
       "date": "2026-07-09T15:04:15Z",
       "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Posiedzenie Trójstronnego Zespołu ds. Ochrony Zdrowia CPS Dialog."
     },
     {
@@ -1908,6 +1908,14 @@
       "summary": "Brytyjska organizacja NICE odradza finansowanie przez NHS leku firmy Amgen na raka płuc Lumakras, powołując się na opłacalność znacznie przekraczającą próg."
     },
     {
+      "title": "FDA krytykuje firmę Lundbeck za usunięte strony internetowe promujące leczenie migreny – Endpoints News",
+      "url": "https://endpoints.news/fda-criticizes-lundbeck-for-now-deleted-webpages-on-migraine-treatment/",
+      "date": "2026-07-09T17:50:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "FDA ostro krytykuje Lundbecka za twierdzenia o usuniętych już stronach internetowych Vyepti."
+    },
+    {
       "title": "Ubezpieczyciele korzystający z ustawy o przystępnej cenie chcą większych podwyżek składek w miarę spadku liczby zapisów - Drugs.com",
       "url": "https://www.drugs.com/news/affordable-care-act-insurers-want-more-premium-increases-enrollment-sags-130595.html",
       "date": "2026-07-09T17:00:07Z",
@@ -2290,14 +2298,6 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Sanofi proponuje zaprzestanie dyskredytowania szczepionki przeciw grypie CSL Fluad we Francji i Niemczech, aby zapobiec unijnemu dochodzeniu antymonopolowemu."
-    },
-    {
-      "title": "Integracja MolecuLightDX® jest teraz dostępna na rynku ModMed - BioSpace",
-      "url": "https://www.biospace.com/press-releases/moleculightdx-integration-now-available-on-modmed-marketplace",
-      "date": "2026-07-08T14:48:25Z",
-      "source": "BioSpace",
-      "confirmed_by": 1,
-      "summary": "Nowa integracja usprawnia dokumentację ran, wprowadzając obrazowanie fluorescencyjne bakterii, cyfrowe pomiary ran i obrazowanie termiczne bezpośrednio do przepływów pracy ModMed EHR."
     }
   ],
   "critical_alerts": [
