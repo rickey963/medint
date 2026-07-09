@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T21:19:22Z",
+  "last_updated": "2026-07-09T21:20:08Z",
   "poland": [
     {
       "title": "Była wiceminister zdrowia w nowej roli. Wchodzi do Rady ds. Chorób Rzadkich - Rynek Zdrowia",
@@ -126,7 +126,7 @@
       "url": "https://cpsdialog.gov.pl/event/posiedzenie-trojstronnego-zespolu-ds-ochrony-zdrowia-14/",
       "date": "2026-07-09T15:04:15Z",
       "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Posiedzenie Trójstronnego Zespołu ds. Ochrony Zdrowia CPS Dialog."
     },
     {
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Zamknięcie uszka lewego przedsionka a doustna antykoagulacja w zapobieganiu udarowi w leczeniu niezastawkowego migotania przedsionków: systematyczny przegląd i metaanaliza randomizowanych, kontrolowanych badań klinicznych - Cureus",
+      "url": "https://www.cureus.com/articles/505336-left-atrial-appendage-closure-versus-oral-anticoagulation-for-stroke-prevention-in-non-valvular-atrial-fibrillation-a-systematic-review-and-meta-analysis-of-randomized-controlled-trials",
+      "date": "2026-07-09T21:01:10Z",
+      "source": "Cochrane Library",
+      "confirmed_by": 1,
+      "summary": "Zamknięcie uszka lewego przedsionka (LAAC) okazało się niefarmakologiczną alternatywą dla doustnego leczenia przeciwzakrzepowego w profilaktyce udaru mózgu w migotaniu przedsionków (AF). Chociaż wczesne badania z randomizacją wykazały, że LAAC nie jest gorszy od warfaryny, skuteczność porównawcza LAAC w porównaniu ze współczesnymi bezpośrednimi doustnymi antykoagulantami (DOAC) pozostaje słabiej scharakteryzowana. Przeprowadziliśmy systematyczny przegląd i metaanalizę randomizowanych, kontrolowanych badań (RCT) porównujących przezskórne LAAC z doustnymi lekami przeciwzakrzepowymi – warfaryną lub DOAC – u dorosłych z niezastawkowym AF."
+    },
+    {
       "title": "Sygnalista przyjmuje kandydatów na komisarzy ZUS i FDA - STAT",
       "url": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/",
       "date": "2026-07-09T20:12:01Z",
@@ -422,7 +430,7 @@
     {
       "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
       "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-07-09T19:05:28Z",
+      "date": "2026-07-09T18:52:05Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
@@ -794,14 +802,6 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Rozprzestrzenianie się przenoszonej drogą płciową, lekoopornej szigelozy w Anglii: badanie epidemiologii genomu The Lancet."
-    },
-    {
-      "title": "Kontekstualizacja zasady martwego dawcy w epoce dobrowolnej eutanazji – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMms2601611",
-      "date": "2026-07-08T22:25:34Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Kontekstualizacja zasady zmarłego dawcy w epoce dobrowolnej eutanazji The New England Journal of Medicine."
     }
   ],
   "guidelines": [
@@ -1099,7 +1099,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
@@ -2257,7 +2257,7 @@
       "date": "2026-07-09T06:17:00Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Firma BioNTech, która niespodziewanie zyskała światową sławę jako producent szczepionek na Covid-19, jest o krok od powrotu do swoich onkologicznych korzeni, oferując potencjalnie pierwszy komercyjny lek przeciwnowotworowy. | BioNTech jest o krok od powrotu do swoich onkologicznych korzeni, oferując potencjalnie pierwszy komercyjny lek przeciwnowotworowy. Jednak dla dyrektor ds. handlowych Annemarie Hanekamp nadchodzące wprowadzenie na rynek nie jest samodzielnym kamieniem milowym, a raczej strategiczną odskocznią dla znacznie ważniejszego produktu rurociągowego."
+      "summary": "Firma BioNTech, która niespodziewanie zyskała światową sławę jako producent szczepionek na Covid-19, jest o krok od powrotu do swoich onkologicznych korzeni, oferując potencjalnie pierwszy komercyjny lek przeciwnowotworowy. | BioNTech jest o krok od powrotu do swoich onkologicznych korzeni, oferując potencjalnie pierwszy komercyjny lek przeciwnowotworowy. Jednak dla dyrektor ds. handlowych Annemarie Hanekamp zbliżająca się premiera jest nie tyle samodzielnym kamieniem milowym, ile raczej strategiczną odskocznią dla znacznie ważniejszego produktu rurociągowego."
     },
     {
       "title": "Cypsedo: zastosowania, dawkowanie, skutki uboczne i ostrzeżenia - Drugs.com",
