@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T17:55:13Z",
+  "last_updated": "2026-07-09T17:55:54Z",
   "poland": [
     {
       "title": "Ebola poza kontrolą. \"Wyprzedza nasze możliwości reagowania\" - Medonet",
@@ -1067,7 +1067,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
     },
     {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
@@ -1735,7 +1735,7 @@
       "date": "2026-07-08T02:15:44Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07686822 | Stymulacja rdzenia kręgowego w połączeniu z obrazowaniem ruchowym Interfejs mózg-komputer w leczeniu przewlekłej dysfunkcji ruchowej kończyn górnych po udarze ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07686822 | Stymulacja rdzenia kręgowego w połączeniu z obrazowaniem ruchowym Interfejs mózg-komputer w przypadku przewlekłej dysfunkcji ruchowej kończyn górnych po udarze ClinicalTrials.gov."
     },
     {
       "title": "3D-ASL i TDD-MRI dla prawdziwej progresji i pseudoprogresji po operacji glejaka (ASL-TDD) - ClinicalTrials.gov",
@@ -1891,6 +1891,14 @@
     }
   ],
   "pharma_market": [
+    {
+      "title": "Brytyjski organ nadzorujący ceny odradza stosowanie leku Lumakras firmy Amgen w leczeniu raka płuc – Endpoints News",
+      "url": "https://endpoints.news/uk-price-watchdog-recommends-against-amgens-lumakras-in-lung-cancer/",
+      "date": "2026-07-09T17:52:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Brytyjska organizacja NICE odradza finansowanie przez NHS leku firmy Amgen na raka płuc Lumakras, powołując się na opłacalność znacznie przekraczającą próg."
+    },
     {
       "title": "Ubezpieczyciele korzystający z ustawy o przystępnej cenie chcą większych podwyżek składek w miarę spadku liczby zapisów - Drugs.com",
       "url": "https://www.drugs.com/news/affordable-care-act-insurers-want-more-premium-increases-enrollment-sags-130595.html",
@@ -2282,17 +2290,17 @@
       "source": "BioSpace",
       "confirmed_by": 1,
       "summary": "Nowa integracja usprawnia dokumentację ran, wprowadzając obrazowanie fluorescencyjne bakterii, cyfrowe pomiary ran i obrazowanie termiczne bezpośrednio do przepływów pracy ModMed EHR."
-    },
-    {
-      "title": "Podwyżka rabatów w Niemczech to „stracona szansa” na poradzenie sobie z presją KNU - Insights.citeline.com",
-      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/german-rebate-hike-is-a-missed-opportunity-to-address-mfn-pressures-XMFOGO5DCVF3XKQBKOUX7TDU2A/",
-      "date": "2026-07-08T14:44:24Z",
-      "source": "Pink Sheet",
-      "confirmed_by": 1,
-      "summary": "Z niemieckiego projektu ustawy o cięciu kosztów usunięto działania mające na celu wprowadzenie dynamicznych rabatów na ceny leków i zastąpiono je dodatkowym stałym rabatem."
     }
   ],
   "critical_alerts": [
+    {
+      "title": "Brytyjski organ nadzorujący ceny odradza stosowanie leku Lumakras firmy Amgen w leczeniu raka płuc – Endpoints News",
+      "url": "https://endpoints.news/uk-price-watchdog-recommends-against-amgens-lumakras-in-lung-cancer/",
+      "date": "2026-07-09T17:52:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Brytyjska organizacja NICE odradza finansowanie przez NHS leku firmy Amgen na raka płuc Lumakras, powołując się na opłacalność znacznie przekraczającą próg."
+    },
     {
       "title": "Ebola poza kontrolą. \"Wyprzedza nasze możliwości reagowania\" - Medonet",
       "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-zakazne/ebola-wymyka-sie-spod-kontroli-epidemia-rozwija-sie-szybciej-niz-kiedykolwiek/yy2n963",
@@ -2348,14 +2356,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Tabliczki na drzwiach placówek służby zdrowia przeciwko wirusowi Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Gdzie ludzie zachorowali: epidemia E. coli, lipiec 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ecoli/outbreaks/blueberries-07-26/locations.html",
-      "date": "2026-07-07T07:51:38Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Gdzie ludzie zachorowali: epidemia E. coli, lipiec 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     }
   ],
   "daily_top5": [
