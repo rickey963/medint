@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T00:30:38Z",
+  "last_updated": "2026-07-09T00:31:24Z",
   "poland": [
     {
       "title": "System eZWM (e - Narodowy Fundusz Zdrowia (NFZ)",
@@ -409,7 +409,7 @@
       "date": "2026-07-09T00:24:17Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Leki na otyłość, takie jak semaglutyd (Wegovy) i tirzepatid (Mounjaro) powodują znaczną utratę masy ciała u pacjentów, ale nie poprawiają znacząco jakości ich życia, a większość z nich nie wykazuje korzyści sercowo-naczyniowych po roku, jak pokazuje metaanaliza danych z najnowszych badań opublikowanych w The BMJ.1 Kluczowym wnioskiem było to, że leki na otyłość powodujące największą utratę masy ciała były również ogólnie związane z większymi szkodami, w tym objawami żołądkowo-jelitowymi, zmęczeniem i utratą beztłuszczowej masy mięśniowej, i było bardziej prawdopodobne, że były przerwane przez pacjentów. Co ważne, utrata masy ciała osiągnięta podczas przyjmowania leków nie utrzymywała się po zaprzestaniu leczenia. Poprzednie metaanalizy skupiały się na wynikach utraty wagi, a leków na otyłość nie porównywano bezpośrednio w bezpośrednich badaniach, co pozostawiło niepewność co do szerszego bilansu korzyści i szkód, co stało się podstawą niniejszej metaanalizy."
+      "summary": "Jak wynika z analizy The BMJ, większość leków na otyłość nie poprawia jakości życia ani nie zmniejsza ryzyka chorób sercowo-naczyniowych."
     },
     {
       "title": "Porównanie korzyści i szkód leków na otyłość – BMJ",
@@ -476,14 +476,6 @@
       "summary": "Ensartinib w wyciętym ALK – dodatnim niedrobnokomórkowym raku płuca The New England Journal of Medicine."
     },
     {
-      "title": "Przypadek 19-2026: 68-letni mężczyzna ze zmęczeniem, gorączką i hipoksemią — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2517856",
-      "date": "2026-07-08T21:49:30Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przypadek 19-2026: 68-letni mężczyzna ze zmęczeniem, gorączką i hipoksemią, The New England Journal of Medicine."
-    },
-    {
       "title": "Zachowanie funkcji płuc w idiopatycznym zwłóknieniu płuc — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/abs/10.1056/NEJMe2606821",
       "date": "2026-07-08T21:49:30Z",
@@ -492,12 +484,12 @@
       "summary": "Zachowanie funkcji płuc w idiopatycznym zwłóknieniu płuc The New England Journal of Medicine."
     },
     {
-      "title": "Setmelanotyd w leczeniu nabytej otyłości podwzgórzowej – The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMoa2512275",
-      "date": "2026-07-08T21:49:29Z",
+      "title": "Przypadek 19-2026: 68-letni mężczyzna ze zmęczeniem, gorączką i hipoksemią — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2517856",
+      "date": "2026-07-08T21:49:30Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Setmelanotyd w leczeniu nabytej otyłości podwzgórzowej The New England Journal of Medicine."
+      "summary": "Przypadek 19-2026: 68-letni mężczyzna ze zmęczeniem, gorączką i hipoksemią, The New England Journal of Medicine."
     },
     {
       "title": "Przypadek 19-2026: 68-letni mężczyzna ze zmęczeniem, gorączką i hipoksemią — The New England Journal of Medicine",
@@ -506,6 +498,14 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Przypadek 19-2026: 68-letni mężczyzna ze zmęczeniem, gorączką i hipoksemią, The New England Journal of Medicine."
+    },
+    {
+      "title": "Setmelanotyd w leczeniu nabytej otyłości podwzgórzowej – The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMoa2512275",
+      "date": "2026-07-08T21:49:29Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Setmelanotyd w leczeniu nabytej otyłości podwzgórzowej The New England Journal of Medicine."
     },
     {
       "title": "Leczenie nabytej otyłości podwzgórzowej – The New England Journal of Medicine",
@@ -1003,7 +1003,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
@@ -1107,7 +1107,7 @@
       "date": "2026-07-04T19:57:26Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest powszechnie uważaną toksyną układu sercowo-naczyniowego o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie współczulne spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
+      "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest to toksyna sercowo-naczyniowa o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie współczulne spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
     },
     {
       "title": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) - Europejskie Towarzystwo Kardiologiczne",
@@ -1194,7 +1194,7 @@
       "url": "https://www.cdc.gov/immunization-training/hcp/you-call-the-shots/index.html",
       "date": "2026-07-02T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Ty decydujesz o losach | Centra szkoleń w zakresie szczepień w zakresie kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1584,7 +1584,7 @@
       "summary": "Portal SPH to interaktywna platforma cyfrowa, która ułatwia udostępnianie i wymianę informacji dotyczących wielosektorowych inwestycji, działań i możliwości w zakresie bezpieczeństwa zdrowia na poziomie krajowym, regionalnym i globalnym."
     },
     {
-      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z 25. tygodnia zakończonego 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 25. kończący się 27 czerwca 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-25.html",
       "date": "2026-07-06T16:35:37Z",
       "source": "CDC Outbreaks",
@@ -1600,7 +1600,7 @@
       "summary": "Podczas gdy ludzie w całej Europie przygotowują się do wakacji, imprez na świeżym powietrzu i spotkań towarzyskich, ECDC zachęca wszystkich do podjęcia kilku prostych środków ostrożności, aby zachować zdrowie w miesiącach letnich."
     },
     {
-      "title": "Przeglądarka Vibrio - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Przeglądarka Vibrio — Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/vibrio-viewer",
       "date": "2026-07-06T12:00:00Z",
       "source": "ECDC",
