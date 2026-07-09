@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T08:05:23Z",
+  "last_updated": "2026-07-09T08:06:16Z",
   "poland": [
     {
       "title": "Lekarz wskazuje Holandię i Danię. Tak naprawia się ochronę zdrowia - Rynek Zdrowia",
@@ -428,6 +428,14 @@
       "summary": "Większość dzieci z alergią na sezam, u których wystąpiła reakcja na skoncentrowane produkty sezamowe, toleruje całe nasiona podczas nadzorowanej prowokacji doustnym pokarmem, co stanowi wsparcie w zakresie zindywidualizowanego doradztwa dietetycznego."
     },
     {
+      "title": "Zintegrowane i systematyczne podejście do genomiki w celu poprawy diagnostyki rzadkich i niezdiagnozowanych chorób: wyniki projektu RareBoost - Natura",
+      "url": "https://www.nature.com/articles/s41431-026-02177-9",
+      "date": "2026-07-09T06:55:42Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Rzadkie i niezdiagnozowane choroby stanowią wyzwanie diagnostyczne ze względu na heterogeniczność fenotypową i genetyczną oraz ograniczenia konwencjonalnych badań molekularnych. W ramach projektu RareBoost wdrożyliśmy zintegrowaną, etapową strategię genomiczną w kohorcie 134 pacjentów ze 120 rodzin z wcześniej niejednoznacznymi wynikami badań genetycznych. Nasza strategia łączyła systematyczne sekwencjonowanie egzomu z późniejszym sekwencjonowaniem genomu, gdy jest to wskazane, a następnie ukierunkowanym sekwencjonowaniem RNA i uzupełniona kompleksowym fenotypowaniem i dalszą analizą segregacji."
+    },
+    {
       "title": "Choroba wrzodowa - Medscape",
       "url": "https://www.medscape.com/c27/p14/peptic-ulcer-disease-2026a1000k8v?src=rss",
       "date": "2026-07-09T02:45:08Z",
@@ -497,7 +505,7 @@
       "date": "2026-07-08T23:17:03Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "The Brigham, renomowany w całym kraju szpital kliniczny na Harvardzie, i MGB od miesięcy bezskutecznie negocjują nowy kontrakt."
+      "summary": "The Brigham, renomowany szpital kliniczny na Harvardzie, i MGB od miesięcy bezskutecznie negocjują nowy kontrakt."
     },
     {
       "title": "Kontekstualizacja zasady martwego dawcy w epoce dobrowolnej eutanazji – The New England Journal of Medicine",
@@ -532,7 +540,7 @@
       "summary": "Szczepionka przeciwko meningokokom typu B zapobiegająca zakażeniu Neisseria gonorrhoeae The New England Journal of Medicine."
     },
     {
-      "title": "Faza 3 badań wziewnego treprostinilu w leczeniu idiopatycznego zwłóknienia płuc — The New England Journal of Medicine",
+      "title": "Badania fazy 3 wziewnego treprostinilu w leczeniu idiopatycznego zwłóknienia płuc — The New England Journal of Medicine",
       "url": "https://www.nejm.org/do/10.1056/NEJMdo008562/full/",
       "date": "2026-07-08T21:57:30Z",
       "source": "NEJM",
@@ -548,7 +556,7 @@
       "summary": "Setmelanotyd w leczeniu nabytej otyłości podwzgórzowej The New England Journal of Medicine."
     },
     {
-      "title": "Terapia żywieniowa u dorosłych krytycznie chorych – The New England Journal of Medicine",
+      "title": "Terapia żywieniowa u krytycznie chorych dorosłych – The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/abs/10.1056/NEJMra2506111",
       "date": "2026-07-08T21:49:44Z",
       "source": "NEJM",
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Marco Rubio, RFK Jr. i Chris Klomp wzywają liderów branży do wytwarzania większej liczby leków w USA."
-    },
-    {
-      "title": "Przegląd badań nad zdrowiem planetarnym — The Lancet",
-      "url": "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(26)00077-X/fulltext",
-      "date": "2026-07-08T16:36:25Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Przegląd badań nad zdrowiem planetarnym The Lancet."
     }
   ],
   "guidelines": [
@@ -830,12 +830,12 @@
       "summary": "Firmy Shoppers Drug Mart i Obesity Canada ogłosiły dziś nową współpracę mającą na celu zwiększanie świadomości na temat otyłości jako choroby przewlekłej, zmniejszanie uprzedzeń i piętna związanego z wagą oraz pomaganie większej liczbie Kanadyjczyków w dostępie do opieki i zasobów opartych na dowodach poprzez inicjatywy takie jak program zarządzania wagą Shoppers Drug Mart."
     },
     {
-      "title": "Wyłączanie leku u pacjentów z chorobami układu krążenia doświadczających polipragmazji - professional.heart.org",
+      "title": "Wypisywanie leków u pacjentów z chorobami układu krążenia doświadczających polipragmazji - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/deprescribing-in-patients-with-cardiovascular-disease-experiencing-polypharmacy",
       "date": "2026-07-08T16:38:18Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Polipragmazja jest powszechna w leczeniu chorób sercowo-naczyniowych, ponieważ leczenie oparte na wytycznych często wymaga wielu leków w przypadku współistniejących schorzeń i chorób współistniejących, co zwiększa obciążenie lekami."
+      "summary": "Polipragmazja jest powszechna w leczeniu chorób sercowo-naczyniowych, ponieważ leczenie oparte na wytycznych często wymaga wielu leków w przypadku współistniejących schorzeń i chorób współistniejących, co zwiększa obciążenie lekiem."
     },
     {
       "title": "ESC Heart Team Challenge – Europejskie Towarzystwo Kardiologiczne",
@@ -894,7 +894,7 @@
       "summary": "Rokowanie | Informacje ogólne | Zapalenie dziąseł i przyzębia Nice CKS."
     },
     {
-      "title": "Jak powstał ten temat - Nice CKS",
+      "title": "Jak rozwinął się ten temat - Nice CKS",
       "url": "https://cks.nice.org.uk/topics/sciatica/how-this-topic-was-developed/",
       "date": "2026-07-08T07:25:03Z",
       "source": "NICE",
@@ -971,7 +971,7 @@
       "date": "2026-07-07T18:34:12Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "Starzenie się organizmu powiązane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "Starzenie się organizmu związane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Globalne badanie wykazało, że 99% zdarzeń sercowych wiąże się z czterema zagrożeniami — MSN",
@@ -1086,7 +1086,7 @@
       "summary": "Dorośli z trwającym całe życie lub bardzo poważnym upośledzeniem słuchu lub wzroku: zdrowie, dobre samopoczucie i opieka społeczna Strona internetowa NICE."
     },
     {
-      "title": "Tłumienie funkcji jajników plus tamoksyfen znacznie zmniejsza ryzyko nawrotu raka piersi przed menopauzą w porównaniu z tamoksyfenem, a dalsze zmniejszenie jest widoczne w połączeniu z eksemestanem - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "Tłumienie funkcji jajników plus tamoksyfen znacząco zmniejsza ryzyko nawrotu raka piersi przed menopauzą w porównaniu z tamoksyfenem, a dalsze zmniejszenie jest widoczne w połączeniu z eksemestanem - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/ovarian-function-suppression-plus-tamoxifen-significantly-reduces-premenopausal-breast-cancer-recurrence-over-tamoxifen-and-further-reduction-is-seen-when-combined-with-exemestane",
       "date": "2026-07-06T09:16:17Z",
       "source": "ESMO (onkologia)",
@@ -1110,12 +1110,12 @@
       "summary": "Szkolenie OK COBIK NIL - Dialog motywujący NIL."
     },
     {
-      "title": "Niewydolność serca wywołana kokainą: co powinni wiedzieć lekarze – Europejskie Towarzystwo Kardiologiczne",
+      "title": "Niewydolność serca wywołana kokainą: co klinicyści powinni wiedzieć - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/communities/councils/cardiology-practice/education/cardiopractice/cocaine-induced-heart-failure-what-clinicians-need-to-know/",
       "date": "2026-07-04T19:57:26Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest powszechnie uważaną toksyną układu sercowo-naczyniowego o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie współczulne spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
+      "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest to toksyna sercowo-naczyniowa o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie współczulne spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
     },
     {
       "title": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) - Europejskie Towarzystwo Kardiologiczne",
@@ -1126,7 +1126,7 @@
       "summary": "Londyn – Wielka Brytania, zatwierdzone przez Europejskie Stowarzyszenie Obrazowania Układu Sercowo-Naczyniowego."
     },
     {
-      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu z roku 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
+      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu na rok 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/video-series-ais",
       "date": "2026-07-04T05:05:12Z",
       "source": "Wytyczne AHA/ACC",
@@ -1158,6 +1158,14 @@
       "summary": "Platforma współpracy służąca strategicznemu dialogowi z partnerami branżowymi na temat zaangażowania pacjentów."
     },
     {
+      "title": "Deklarujemy pełną gotowość do współpracy. Prezes NRL przedstawił postulaty samorządu premierowi Donaldowi Tuskowi - NIL",
+      "url": "https://nil.org.pl/aktualnosci/9309-deklarujemy-pelna-gotowosc-do-wspolpracy-prezes-nrl-przedstawil-postulaty-samorzadu-premierowi-donaldowi-tuskowi",
+      "date": "2026-07-03T13:56:35Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
+    },
+    {
       "title": "Rekomendacja Prezesa – Keytruda (pembrolizumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-keytruda-pembrolizumab-10/",
       "date": "2026-07-03T12:58:05Z",
@@ -1182,7 +1190,7 @@
       "summary": "Seroprewalencja alfa-galowej immunoglobuliny E wśród dawców krwi — 10 stanów, 2024–2025 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Epidemie legionellozy powiązane z dwoma hotelami — Wyspy Dziewicze Stanów Zjednoczonych, październik 2024 r.–kwiecień 2025 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a2.htm?s_cid=OS_mm7525a2_w",
       "date": "2026-07-02T17:02:26Z",
       "source": "CDC (rekomendacje)",
@@ -1196,14 +1204,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "/PRNewswire/ -- Amerykańska Akademia Chirurgów Ortopedów (AAOS) opublikowała nowe wytyczne dotyczące praktyki klinicznej (CPG) dotyczące leczenia choroby zwyrodnieniowej stawu skokowego..."
-    },
-    {
-      "title": "Ty decydujesz o losach | Szkolenia dotyczące szczepionek – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/immunization-training/hcp/you-call-the-shots/index.html",
-      "date": "2026-07-02T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Ty decydujesz o losach | Centra szkoleń w zakresie szczepień w zakresie kontroli i zapobiegania chorobom | CDC (.gov)."
     }
   ],
   "epidemiology": [
@@ -1213,7 +1213,7 @@
       "date": "2026-07-08T20:37:18Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Associated Press (AP) podaje, że niektórzy pracownicy służby zdrowia w Demokratycznej Republice Konga (DRK) rozpoczęli strajk, twierdząc, że walczą z wirusem Ebola w czasie epidemii, dysponując nieodpowiednim sprzętem i niskimi płacami, co dodatkowo pogłębia i tak już trudny kryzys zdrowia publicznego. Chociaż nie ogłoszono żadnego oficjalnego strajku, pracownicy odchodzą z pracy w klinikach i ośrodkach terapeutycznych w związku z rosnącą epidemią."
+      "summary": "Associated Press (AP) podaje, że niektórzy pracownicy służby zdrowia w Demokratycznej Republice Konga (DRK) rozpoczęli strajk, twierdząc, że walczą z wirusem Ebola w czasie epidemii, dysponując nieodpowiednim sprzętem i niskimi płacami, co pogłębia i tak już trudny kryzys zdrowia publicznego. Chociaż nie ogłoszono żadnego oficjalnego strajku, pracownicy odchodzą z pracy w klinikach i ośrodkach terapeutycznych w związku z rosnącą epidemią."
     },
     {
       "title": "KTO | Komunikaty prasowe – Światowa Organizacja Zdrowia (WHO)",
@@ -1408,7 +1408,7 @@
       "summary": "Żywa, atenuowana szczepionka wykazała wysoki poziom ochrony przed jedną z głównych przyczyn biegunki na świecie."
     },
     {
-      "title": "U 1 na 4 dorosłych w stanach z dużą liczbą kleszczy wynik pozytywny na obecność przeciwciał alfa-gal – CIDRAP",
+      "title": "1 na 4 osoby dorosłe w stanach z dużą liczbą kleszczy ma pozytywny wynik testu na obecność przeciwciał alfa-gal – CIDRAP",
       "url": "https://www.cidrap.umn.edu/tick-borne-disease/1-4-adults-tick-heavy-states-test-positive-alpha-gal-antibodies",
       "date": "2026-07-07T14:36:49Z",
       "source": "CIDRAP",
@@ -1448,7 +1448,7 @@
       "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
     },
     {
-      "title": "Gdzie ludzie zachorowali: epidemia E. coli, lipiec 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Gdzie ludzie zachorowali: epidemia E. coli, lipiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ecoli/outbreaks/blueberries-07-26/locations.html",
       "date": "2026-07-07T07:51:38Z",
       "source": "CDC Outbreaks",
@@ -1477,7 +1477,7 @@
       "date": "2026-07-07T03:34:26Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Dołącz do seminarium internetowego WHO na temat tego, jak istniejące dowody i wytyczne WHO można wykorzystać do informowania praktyki, wspierając kraje w planowaniu, ustalaniu priorytetów i wdrażaniu zintegrowanych, kluczowych usług dostosowanych do potrzeb populacji w ramach systemów podstawowej opieki zdrowotnej (PHC)."
+      "summary": "Dołącz do seminarium internetowego WHO na temat sposobu wykorzystania istniejących dowodów i wytycznych WHO do informowania praktyki, wspierając kraje w planowaniu, ustalaniu priorytetów i wdrażaniu zintegrowanych, kluczowych usług dostosowanych do potrzeb populacji w ramach systemów podstawowej opieki zdrowotnej (PHC)."
     },
     {
       "title": "Kiedy ludzie zachorowali: epidemia E. coli, lipiec 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1541,7 +1541,7 @@
       "date": "2026-07-06T19:23:28Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "W ciągu ośmiu sezonów chorób układu oddechowego szacowana skuteczność szczepionki przeciw grypie (VE) w zapobieganiu śmierci u dzieci w USA wyniosła ogółem 80%, 77% u dzieci z chorobami współistniejącymi i 87% wśród dzieci bez takich schorzeń, podają dziś w Pediatrics badacze z Centrum Kontroli i Zapobiegania Chorobom (CDC)."
+      "summary": "W ciągu ośmiu sezonów chorób układu oddechowego szacowana skuteczność szczepionki przeciw grypie (VE) przeciwko śmierci u dzieci w USA wyniosła ogółem 80%, 77% u dzieci z chorobami współistniejącymi i 87% u dzieci bez takich schorzeń, podają dziś w Pediatrics badacze z Centrum Kontroli i Zapobiegania Chorobom (CDC)."
     },
     {
       "title": "Wezwanie do publicznego komentarza na temat ram strategicznych mających na celu przyspieszenie działań czterostronnych w sprawie ptasiej grypy – Światowa Organizacja Zdrowia (WHO)",
@@ -1605,7 +1605,7 @@
       "date": "2026-07-06T16:35:37Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z tygodnia 25. zakończonego 27 czerwca 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Tygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z tygodnia 25. zakończonego 27 czerwca 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     }
   ],
   "clinical_trials": [
@@ -1634,7 +1634,7 @@
       "summary": "ACT Brief: Upraszczanie badań poprzez selektywne dane dotyczące bezpieczeństwa, partnerstwa w ośrodkach oparte na sztucznej inteligencji i strategiczne badania kliniczne Biopharma Pivots stosowane online."
     },
     {
-      "title": "Bayer zawiera sojusz na rzecz badań klinicznych z CU Anschutz i partnerami – Clinical Trials Arena",
+      "title": "Bayer nawiązuje sojusz na rzecz badań klinicznych z CU Anschutz i partnerami – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/bayer-clinical-trials-alliance-cu-anschutz/",
       "date": "2026-07-08T10:49:17Z",
       "source": "Clinical Trials Arena",
@@ -1650,7 +1650,7 @@
       "summary": "Prilenia i Ferrer rozpoczynają III fazę prób terapii Huntingtona – Clinical Trials Arena."
     },
     {
-      "title": "Teva sporządza plany badań w połowie fazy leczenia bielactwa nabytego po pomyślnym zakończeniu fazy Ib - Clinical Trials Arena",
+      "title": "Teva opracowuje śródetapowe plany badań dotyczące bielactwa nabytego po pomyślnym zakończeniu fazy Ib - Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/teva-mid-stage-study-plans-vitiligo-tev-408/",
       "date": "2026-07-08T10:49:17Z",
       "source": "Clinical Trials Arena",
@@ -1674,7 +1674,7 @@
       "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
-      "title": "Sonda KFF sugeruje, że Amerykanie są mniej spolaryzowani w kwestii twierdzeń dotyczących szczepionek, niż sugeruje to debata publiczna",
+      "title": "Ankieta KFF sugeruje, że Amerykanie są mniej spolaryzowani w kwestii twierdzeń dotyczących szczepionek, niż sugeruje to debata publiczna",
       "url": "https://www.trialsitenews.com/a/kff-poll-suggests-americans-are-less-polarized-on-vaccine-claims-than-public-debate-implies-a1172c08",
       "date": "2026-07-08T02:25:35Z",
       "source": "TrialSite News",
@@ -1815,7 +1815,7 @@
       "date": "2026-07-06T19:46:56Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Kiedy Children's Health Defense (CHD) po raz pierwszy nagłośniła informację o rozdzierającej serce śmierci 18-miesięcznych bliźniaków Dallasa i Tysona Shawów, istniały podstawy, by sądzić, że organizacja raportowała to, co według samych rodziców miało miejsce. Andrea i Nathaniel Shaw konsekwentnie utrzymywali, że rutynowe szczepienia w dzieciństwie spowodowały śmiertelne zdarzenie medyczne, a CHD przedstawiła ich relację w wywiadach, a później wspierała spory sądowe kwestionujące komunikaty dotyczące bezpieczeństwa szczepionek. Na tym etapie nie wniesiono publicznego aktu oskarżenia o morderstwo, a CHD przedstawiła relację rodziny jako zasługującą na dalsze dochodzenie."
+      "summary": "Kiedy Children's Health Defense (CHD) po raz pierwszy nagłośniła informację o rozdzierającej serce śmierci 18-miesięcznych bliźniaków Dallasa i Tysona Shawów, istniały podstawy, by sądzić, że organizacja raportowała to, co według samych rodziców miało miejsce. Andrea i Nathaniel Shaw konsekwentnie utrzymywali, że rutynowe szczepienia w dzieciństwie spowodowały śmiertelne zdarzenie medyczne, a CHD przedstawiła ich relację w wywiadach, a później wspierała spory sądowe kwestionujące komunikaty dotyczące bezpieczeństwa szczepionek. Na tym etapie nie wniesiono żadnego publicznego aktu oskarżenia o morderstwo, a CHD przedstawiła relację rodziny jako zasługującą na dalsze dochodzenie."
     },
     {
       "title": "Szczegóły badania | NCT07683325 | NOV-ERA – Badanie kliniczne mające na celu ocenę skuteczności i bezpieczeństwa ontunisertybu w porównaniu z placebo u pacjentów z chorobą Leśniowskiego-Crohna z włóknieniem – ClinicalTrials.gov",
@@ -1831,7 +1831,7 @@
       "date": "2026-07-06T17:23:53Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Pierwszy pacjent, któremu podano dawkę w badaniu Clinical Trials Arena firmy Molecular i Orano Med MP0712."
+      "summary": "Pierwszy pacjent otrzymał dawkę w badaniu Clinical Trials Arena firmy Molecular i Orano Med MP0712."
     },
     {
       "title": "Brii Bio raportuje wyniki badań ENRICH i ENHANCE na koniec leczenia – Clinical Trials Arena",
@@ -1863,7 +1863,7 @@
       "date": "2026-07-06T15:06:59Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Naukowcy pod kierownictwem Isaaca K. Agbenyeziego z Uniwersytetu Cape Coast (Ghana) opublikowali protokół przeddruku Research Square opisujący planowany globalny przegląd zakresu, który ma na celu ustalenie, czy post-ostry zespół COVID-19 (PACS), powszechnie nazywany długim zakażeniem wirusem Covid-19, jest ściślej powiązany z infekcją SARS-CoV-2, szczepieniem przeciwko Covid-19 czy kombinacją obu. Co ważne, w pracy tej nie przedstawiono żadnych nowych danych klinicznych ani wniosków."
+      "summary": "Naukowcy pod kierownictwem Isaaca K. Agbenyeziego z Uniwersytetu Cape Coast (Ghana) opublikowali protokół przeddruku Research Square opisujący planowany globalny przegląd zakresu, który ma na celu ustalenie, czy zespół post-ostrej choroby Covid-19 (PACS), powszechnie nazywany długim zakażeniem koronawirusem, jest ściślej powiązany z infekcją SARS-CoV-2, szczepieniem przeciwko Covid-19 czy kombinacją obu. Co ważne, w pracy tej nie przedstawiono żadnych nowych danych klinicznych ani wniosków."
     },
     {
       "title": "Zastosowanie ujednoliconego protokołu leczenia w celu poprawy, odwrócenia i zapobiegania triadzie wielochorobowej: CVD, nadciśnieniu i przewlekłej chorobie nerek",
@@ -1913,7 +1913,7 @@
       "date": "2026-07-08T21:44:28Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Obejmuje ćwiczenia w interfejsie użytkownika XEVMPD (XEVMPDweb) umożliwiające elektroniczne składanie i obsługę opracowywanych produktów leczniczych."
+      "summary": "Zawiera ćwiczenia w interfejsie użytkownika XEVMPD (XEVMPDweb) umożliwiające elektroniczne składanie i obsługę opracowywanych produktów leczniczych."
     },
     {
       "title": "FDA uderza do Lundbecka listem bez tytułu w związku z twierdzeniami o skuteczności leku na migrenę Vyepti - Fierce Pharma",
@@ -1953,7 +1953,7 @@
       "date": "2026-07-08T18:43:06Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "ŚRODA, 8 lipca 2026 r. Jak wynika z nowego badania, ukierunkowany program treningowy może pomóc młodym piłkarzom uniknąć stłuczeń kolan i innych kontuzji. Dziewczyny, które grają w s."
+      "summary": "ŚRODA, 8 lipca 2026 r. Jak wynika z nowego badania, ukierunkowany program treningowy może pomóc młodym piłkarzom uniknąć rozdarć kolan i innych kontuzji. Dziewczyny, które grają w s."
     },
     {
       "title": "Pomoc Copay ma na celu pokrycie kosztów leków dla pacjentów. Niektórzy ubezpieczyciele przechowują je zamiast tego. - Narkotyki.com",
@@ -1977,7 +1977,7 @@
       "date": "2026-07-08T17:49:52Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "CureDuchenne, organizacja non-profit zajmująca się dystrofią mięśniową Duchenne'a (DMD), chce pobudzić działania publiczne poprzez nową ogólnokrajową kampanię dotyczącą ogłoszeń o usługach publicznych (PSA), rzucającą światło na to, jak wyglądają urodziny l | Program CureDuchenne „A Cure Can't Wait” służy jako ogłoszenie publiczne przypominające widzom, że „zegar tyka” dla pacjentów i ich rodzin cierpiących na rzadką, postępującą chorobę dystrofię mięśniową Duchenne'a."
+      "summary": "CureDuchenne, organizacja non-profit zajmująca się dystrofią mięśniową Duchenne'a (DMD), chce pobudzić działania publiczne poprzez nową ogólnokrajową kampanię dotyczącą ogłoszeń o usługach publicznych (PSA), rzucającą światło na to, jak wyglądają urodziny l | Program CureDuchenne „A Cure Can't Wait” pełni funkcję publicznego ogłoszenia przypominającego widzom, że „zegar tyka” dla pacjentów i ich rodzin cierpiących na rzadką, postępującą chorobę dystrofię mięśniową Duchenne'a."
     },
     {
       "title": "AstraZeneca i GSK zacieśniają współpracę z Chinami dzięki umowom z chińską firmą Biopharm - BioPharma Dive",
@@ -2057,7 +2057,7 @@
       "date": "2026-07-08T14:30:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Novartis zwalnia 322 stanowiska pracy w New Jersey, MindRank zbiera 52 miliony dolarów, Seres publikuje wcześniejsze dane SER-155 i nie tylko."
+      "summary": "Novartis zwalnia 322 miejsca pracy w New Jersey, MindRank zbiera 52 miliony dolarów, Seres publikuje wcześniejsze dane SER-155 i nie tylko."
     },
     {
       "title": "Biohaven zamierza zmierzyć się z Lilly w walce z otyłością oszczędzającą mięśnie – Endpoints News",
@@ -2073,7 +2073,7 @@
       "date": "2026-07-08T14:22:12Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Po złożeniu na początku tego roku zobowiązania do zwiększenia swoich możliwości w zakresie substancji leczniczych w Europie Środkowej, niemiecka firma chemiczna Evonik zwraca uwagę na USA | Po złożeniu na początku tego roku zobowiązania dotyczącego zwiększenia swoich możliwości w zakresie substancji leczniczych w Europie Środkowej, niemiecka firma chemiczna Evonik zwraca swoją uwagę na Stany Zjednoczone."
+      "summary": "Po złożeniu na początku tego roku zobowiązania do zwiększenia swoich możliwości w zakresie substancji leczniczych w Europie Środkowej, niemiecka firma chemiczna Evonik zwraca uwagę na USA | Po złożeniu na początku tego roku zobowiązania do zwiększenia swoich możliwości w zakresie substancji leczniczych w Europie Środkowej, niemiecka firma chemiczna Evonik zwraca swoją uwagę na Stany Zjednoczone."
     },
     {
       "title": "Prime wygrywa spór o edycję genów; Saol twierdzi, że jest to najnowsze cofnięcie decyzji FDA po wydaniu wyroku w sprawie Makary – BioPharma Dive",
@@ -2097,7 +2097,7 @@
       "date": "2026-07-08T13:41:27Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Mimo że w pierwszej połowie 2026 r. spadła liczba zezwoleń FDA na terapie biologiczne, eksperci ds. organów regulacyjnych optymistycznie patrzą na zwrot w obszarze chorób rzadkich po odejściu kluczowych liderów agencji. Mimo to nadal będzie istniało napięcie między nauką a polityką."
+      "summary": "Mimo że w pierwszej połowie 2026 r. spadły zezwolenia FDA na terapie biologiczne, eksperci ds. organów regulacyjnych optymistycznie patrzą na zwrot w obszarze chorób rzadkich po odejściu kluczowych liderów agencji. Mimo to nadal będzie istniało napięcie między nauką a polityką."
     },
     {
       "title": "Catalent sprzedaje Codis obiekt w Wielkiej Brytanii; rozszerza współpracę z Nanoskopową Therapeutics - Fierce Pharma",
@@ -2140,7 +2140,7 @@
       "summary": "Kalohexis pracuje nad terapiami peptydowymi, w tym nad otyłością, które mogłyby zaoferować alternatywne podejście do GLP-1, które obecnie dominują w dziedzinie odchudzania."
     },
     {
-      "title": "Sino Biopharm nawiązuje współpracę z AstraZeneca i GSK w zakresie oddzielnych partnerstw w zakresie układu oddechowego – Wiadomości z punktów końcowych",
+      "title": "Sino Biopharm nawiązuje współpracę z AstraZeneca i GSK w zakresie oddzielnych partnerów w zakresie układu oddechowego – Wiadomości z punktów końcowych",
       "url": "https://endpoints.news/sino-biopharm-hooks-astrazeneca-gsk-for-separate-respiratory-partnerships/",
       "date": "2026-07-08T10:56:00Z",
       "source": "Endpoints News",
@@ -2299,7 +2299,7 @@
       "date": "2026-07-08T20:37:18Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Associated Press (AP) podaje, że niektórzy pracownicy służby zdrowia w Demokratycznej Republice Konga (DRK) rozpoczęli strajk, twierdząc, że walczą z wirusem Ebola w czasie epidemii, dysponując nieodpowiednim sprzętem i niskimi płacami, co dodatkowo pogłębia i tak już trudny kryzys zdrowia publicznego. Chociaż nie ogłoszono żadnego oficjalnego strajku, pracownicy odchodzą z pracy w klinikach i ośrodkach terapeutycznych w związku z rosnącą epidemią."
+      "summary": "Associated Press (AP) podaje, że niektórzy pracownicy służby zdrowia w Demokratycznej Republice Konga (DRK) rozpoczęli strajk, twierdząc, że walczą z wirusem Ebola w czasie epidemii, dysponując nieodpowiednim sprzętem i niskimi płacami, co pogłębia i tak już trudny kryzys zdrowia publicznego. Chociaż nie ogłoszono żadnego oficjalnego strajku, pracownicy odchodzą z pracy w klinikach i ośrodkach terapeutycznych w związku z rosnącą epidemią."
     },
     {
       "title": "Wypalenie zawodowe medyków. Fundacja obejmuje wsparciem 200 pracowników szpitali - Remedium | Portal medyczny",
@@ -2342,7 +2342,7 @@
       "summary": "Tabliczki na drzwiach placówek służby zdrowia przeciwko wirusowi Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Gdzie ludzie zachorowali: epidemia E. coli, lipiec 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Gdzie ludzie zachorowali: epidemia E. coli, lipiec 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ecoli/outbreaks/blueberries-07-26/locations.html",
       "date": "2026-07-07T07:51:38Z",
       "source": "CDC Outbreaks",
