@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T19:34:36Z",
+  "last_updated": "2026-07-09T19:35:30Z",
   "poland": [
     {
       "title": "Była wiceminister zdrowia w nowej roli. Wchodzi do Rady ds. Chorób Rzadkich - Rynek Zdrowia",
@@ -1150,7 +1150,7 @@
       "summary": "Londyn – Wielka Brytania, zatwierdzone przez Europejskie Stowarzyszenie Obrazowania Układu Sercowo-Naczyniowego."
     },
     {
-      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu na rok 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
+      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu z roku 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/video-series-ais",
       "date": "2026-07-04T05:05:12Z",
       "source": "Wytyczne AHA/ACC",
@@ -1207,6 +1207,14 @@
     }
   ],
   "epidemiology": [
+    {
+      "title": "Instytucjonalizacja gotowości na patogeny układu oddechowego w Jemenie – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/feature-stories/detail/institutionalizing-respiratory-pathogen-preparedness-in-yemen",
+      "date": "2026-07-09T18:39:38Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Jemen w dalszym ciągu stoi w obliczu jednego z najbardziej złożonych kryzysów humanitarnych i politycznych na świecie, charakteryzującego się powtarzającymi się konfliktami, zakłóceniami systemów opieki zdrowotnej i ograniczonym dostępem operacyjnym. Utrzymanie nawet podstawowych funkcji zdrowia publicznego w tym środowisku stanowi wyzwanie."
+    },
     {
       "title": "Budowanie gotowości badawczej w zakresie pandemii patogenów układu oddechowego w Azji Południowo-Wschodniej poprzez regionalny oddział WHO GISRS Unity Studies – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/feature-stories/detail/building-research-readiness-for-respiratory-pathogen-pandemics-in-south-east-asia-through-its-who-gisrs-unity-studies-regional-chapter",
@@ -1598,14 +1606,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Przypadki wirusa Zika w Stanach Zjednoczonych | Centra kontroli i zapobiegania wirusom Zika | CDC (.gov)."
-    },
-    {
-      "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/php/emergency-guidance/index.html",
-      "date": "2026-07-07T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     }
   ],
   "clinical_trials": [
@@ -2188,20 +2188,20 @@
       "summary": "Cypsedo jest lekiem do znieczulenia ogólnego stosowanym do wywołania (rozpoczęcia) znieczulenia ogólnego u dorosłych poddawanych zabiegom chirurgicznym. Podaje się go w postaci wstrzyknięcia dożylnego przez znieczulającego bezpośrednio przed rozpoczęciem zabiegu. Dowiedz się o skutkach ubocznych i administrowaniu."
     },
     {
+      "title": "Zmiana przeznaczenia leku: rozważania dotyczące kryteriów wyboru i ustalania priorytetów – fda.gov",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/drug-repurposing-considerations-selection-criteria-and-prioritization-08052026",
+      "date": "2026-07-09T00:00:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Zmiana przeznaczenia leku: rozważania dotyczące kryteriów wyboru i priorytetów fda.gov."
+    },
+    {
       "title": "Wczesne powiadomienie: wydanie zestawów podręcznych firmy Medline – fda.gov",
       "url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
       "date": "2026-07-09T00:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Wczesne powiadomienie: wydanie zestawów wygodnych z Medline fda.gov."
-    },
-    {
-      "title": "Zmiana przeznaczenia leku: rozważania dotyczące kryteriów wyboru i ustalania priorytetów – fda.gov",
-      "url": "https://www.fda.gov/drugs/news-events-human-drugs/drug-repurposing-considerations-selection-criteria-and-prioritization-08052026",
-      "date": "2026-07-09T00:00:00Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Zmiana przeznaczenia leku: uwagi dotyczące kryteriów wyboru i priorytetów fda.gov."
     },
     {
       "title": "szkolenie eXtended EudraVigilance Medicinal Product Dictionary (XEVMPD) (Bukareszt) – październik 2026 - Europejska Agencja Leków (EMA)",
