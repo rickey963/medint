@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T14:38:23Z",
+  "last_updated": "2026-07-09T14:39:08Z",
   "poland": [
     {
       "title": "„To może spowodować zamknięcie niektórych oddziałów”. Dr Gryglewicz ocenia plan ministry zdrowia - PolitykaZdrowotna.com",
@@ -851,7 +851,7 @@
       "date": "2026-07-08T16:38:18Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Polipragmazja jest powszechna w leczeniu chorób sercowo-naczyniowych, ponieważ leczenie oparte na wytycznych często wymaga wielu leków w przypadku współistniejących schorzeń i chorób współistniejących, co zwiększa obciążenie lekami."
+      "summary": "Polipragmazja jest powszechna w leczeniu chorób sercowo-naczyniowych, ponieważ leczenie oparte na wytycznych często wymaga wielu leków w przypadku współistniejących schorzeń i chorób współistniejących, co zwiększa obciążenie lekiem."
     },
     {
       "title": "ESC Heart Team Challenge – Europejskie Towarzystwo Kardiologiczne",
@@ -1043,7 +1043,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
@@ -1150,14 +1150,6 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Stanowisko Ogólnopolskiego Porozumienia Samorządów Zawodów Zaufania Publicznego w sprawie bezpieczeństwa osób wykonujących zawody zaufania publicznego - NIL",
-      "url": "https://nil.org.pl/aktualnosci/9308-stanowisko-ogolnopolskiego-porozumienia-samorzadow-zawodow-zaufania-publicznego-w-sprawie-bezpieczenstwa-osob-wykonujacych-zawody-zaufania-publicznego",
-      "date": "2026-07-03T13:25:47Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
       "title": "Rekomendacja Prezesa – Keytruda (pembrolizumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-keytruda-pembrolizumab-10/",
       "date": "2026-07-03T12:58:05Z",
@@ -1204,6 +1196,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Ty decydujesz o losach | Centra szkoleń w zakresie szczepień w zakresie kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych, 17 lipca – Newsroom TRICARE (.mil)",
+      "url": "https://newsroom.tricare.mil/News/TRICARE-News/Article/4531226/provide-feedback-on-clinical-practice-guidelines-in-joint-patient-focus-groups",
+      "date": "2026-07-01T16:09:25Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: zaburzenia związane z używaniem substancji psychoaktywnych w dniu 17 lipca TRICARE Newsroom (.mil)."
     }
   ],
   "epidemiology": [
@@ -1560,20 +1560,20 @@
       "summary": "Przegląd kliniczny Centrów Kontroli i Zapobiegania Chorobom TM7 | CDC (.gov)."
     },
     {
-      "title": "Publikacje naukowe | Zapobieganie zatruciom ołowiem u dzieci — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/lead-prevention/php/scientific-publications/index.html",
-      "date": "2026-07-07T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Publikacje naukowe | Centra zapobiegania zatruciom ołowiem u dzieci i kontroli chorób | CDC (.gov)."
-    },
-    {
       "title": "Łączna liczba potwierdzonych przypadków grypy ptaków A(H5N1) u ludzi zgłoszonych do WHO w latach 2003–2026, 7 lipca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/cumulative-number-of-confirmed-human-cases-for-avian-influenza-a(h5n1)-reported-to-who--2003-2026--7-july-2026",
       "date": "2026-07-07T07:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "7 lipca 2026 r."
+    },
+    {
+      "title": "Publikacje naukowe | Zapobieganie zatruciom ołowiem u dzieci — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/lead-prevention/php/scientific-publications/index.html",
+      "date": "2026-07-07T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Publikacje naukowe | Centra zapobiegania zatruciom ołowiem u dzieci i kontroli chorób | CDC (.gov)."
     },
     {
       "title": "Podsumowanie i ocena grypy na styku człowiek-zwierzę, 7 lipca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
@@ -1932,6 +1932,22 @@
   ],
   "pharma_market": [
     {
+      "title": "FibroBiologics mianuje dr Kathleen „Kate” Rubins do Zarządu - BioSpace",
+      "url": "https://www.biospace.com/press-releases/fibrobiologics-appoints-kathleen-kate-rubins-ph-d-to-board-of-directors",
+      "date": "2026-07-09T14:38:00Z",
+      "source": "BioSpace",
+      "confirmed_by": 1,
+      "summary": "Mikrobiolog, emerytowany astronauta NASA i dyrektor założyciel Instytutu Trivedi ds. Przestrzeni Kosmicznej i Globalnej Biomedycyny Uniwersytetu w Pittsburghu dołącza do zarządu."
+    },
+    {
+      "title": "Amplia ogłasza publikację nowego zgłoszenia patentowego na inhibitor FAK - BioSpace",
+      "url": "https://www.biospace.com/press-releases/amplia-announces-publication-of-new-fak-inhibitor-patent-application",
+      "date": "2026-07-09T14:37:56Z",
+      "source": "BioSpace",
+      "confirmed_by": 1,
+      "summary": "Melbourne, Australia, 9 lipca 2026 r. (GLOBE NEWSWIRE) — Amplia Therapeutics Limited (ASX:ATX; OTCQB:INNMF), („Amplia” lub „Spółka”) ma przyjemność ogłosić publikację nowego zgłoszenia patentowego opisującego nowe chemicznie inhibitory kinazy ogniskowej adhezji (FAK) odkryte przez Spółkę. Zgłoszenie patentowe dodatkowo poszerza portfolio własności intelektualnej FAK firmy Amplia i, jeśli zostanie przyznane, zapewni ochronę opisanych nowych cząsteczek i ich zastosowania do 2046 roku."
+    },
+    {
       "title": "Lilly była już największą firmą farmaceutyczną. Teraz zawiera umowy na miarę – Endpoints News",
       "url": "https://endpoints.news/eli-lilly-dominates-first-half-biotech-acquisitions-with-no-sign-of-slowing/",
       "date": "2026-07-09T14:00:00Z",
@@ -2185,7 +2201,7 @@
       "date": "2026-07-08T14:30:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Novartis zwalnia 322 stanowiska pracy w New Jersey, MindRank zbiera 52 miliony dolarów, Seres publikuje wcześniejsze dane SER-155 i nie tylko."
+      "summary": "Novartis zwalnia 322 miejsca pracy w New Jersey, MindRank zbiera 52 miliony dolarów, Seres publikuje wcześniejsze dane SER-155 i nie tylko."
     },
     {
       "title": "Biohaven zamierza zmierzyć się z Lilly w walce z otyłością oszczędzającą mięśnie – Endpoints News",
@@ -2314,22 +2330,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Wycofanie urządzenia klasy 2 AquacelAg Surgical SP accessdata.fda.gov."
-    },
-    {
-      "title": "Narzędzie do sprawdzania interakcji Awiqli – Drugs.com",
-      "url": "https://www.drugs.com/drug-interactions/insulin-icodec,awiqli.html",
-      "date": "2026-07-08T05:50:22Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Wiadomo, że 422 leki wchodzą w interakcje z Awiqli. Zawiera lizynopryl, metforminę, aspirynę."
-    },
-    {
-      "title": "Niedobór chlorowodorku bupiwakainy we wstrzyknięciu - Drugs.com",
-      "url": "https://www.drugs.com/drug-shortages/bupivacaine-hydrochloride-injection-28",
-      "date": "2026-07-08T04:49:54Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Aktualne powiadomienie o niedoborze leków dla leku Bupiwakaina chlorowodorek do wstrzykiwań, zawierające przyczynę niedoboru, szacunkowe daty uzupełnienia zapasów i alternatywne metody leczenia, jeśli są dostępne."
     }
   ],
   "critical_alerts": [
