@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T20:12:38Z",
+  "last_updated": "2026-07-09T20:13:30Z",
   "poland": [
     {
       "title": "Była wiceminister zdrowia w nowej roli. Wchodzi do Rady ds. Chorób Rzadkich - Rynek Zdrowia",
@@ -404,9 +404,17 @@
   ],
   "world": [
     {
+      "title": "Sygnalista przyjmuje kandydatów na komisarzy ZUS i FDA - STAT",
+      "url": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/",
+      "date": "2026-07-09T20:12:01Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "W tym tygodniu omawiamy głównych kandydatów do objęcia przewodnictwa w FDA, w której panowało zamieszanie podczas drugiej kadencji prezydenta Trumpa."
+    },
+    {
       "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
       "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-07-09T18:52:05Z",
+      "date": "2026-07-09T19:05:28Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
@@ -794,14 +802,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "9 lipca 2026 | NEJM The New England Journal of Medicine."
-    },
-    {
-      "title": "Tlen po zatrzymaniu krążenia: strategia konserwatywna a liberalna – lekarz NEJM",
-      "url": "https://clinician.nejm.org/10.1056/CLINjwNA60312",
-      "date": "2026-07-08T22:10:15Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     }
   ],
   "guidelines": [
@@ -1134,6 +1134,14 @@
       "summary": "Gratulujemy naszym szpitalom Ascension Wisconsin zdobycia uznania w całym kraju dzięki programowi Get With The Guidelines® American Heart Association."
     },
     {
+      "title": "Nowy przegląd zakresu zapewnia szpitalom praktyczny plan działania dla HFpEF – AJMC",
+      "url": "https://www.ajmc.com/view/new-scoping-review-offers-hospitals-a-practical-roadmap-for-hfpef",
+      "date": "2026-07-06T16:26:17Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Nowy przegląd zakresu zapewnia szpitalom praktyczny plan działania dla HFpEF AJMC."
+    },
+    {
       "title": "Rozporządzenie Rady Ministrów z dnia 6 lipca 2026 r. zmieniające rozporządzenie w sprawie Narodowego Programu Zdrowia na lata 2021–2026",
       "url": "https://dziennikustaw.gov.pl/DU/2026/923",
       "date": "2026-07-06T07:00:00Z",
@@ -1196,14 +1204,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Rekomendacja Prezesa – Keytruda (pembrolizumab) - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-keytruda-pembrolizumab-10/",
-      "date": "2026-07-03T12:58:05Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     }
   ],
   "epidemiology": [
@@ -1882,20 +1882,20 @@
       "summary": "Szczegóły badania | NCT07686263 | Badanie dotyczące zapobiegania nawrotom oceniające leczenie KarXT w schizofrenii ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07688967 | Pomiar wiotkości stawu kolanowego i przesunięcia obrotowego u pacjentów z niedoborem ACL – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07688967",
-      "date": "2026-07-07T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07688967 | Pomiar wiotkości stawu kolanowego i przesunięcia obrotowego u pacjentów z niedoborem ACL ClinicalTrials.gov."
-    },
-    {
       "title": "Szczegóły badania | NCT07686965 | Lisaftoklaks z azacytydyną w leczeniu podtrzymującym po allogenicznym przeszczepieniu hematopoetycznych komórek macierzystych u pacjentów z ostrą białaczką szpikową z wysokim ryzykiem nawrotu - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07686965",
       "date": "2026-07-07T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07686965 | Lisaftoklaks z azacytydyną w leczeniu podtrzymującym po allogenicznym przeszczepieniu hematopoetycznych komórek macierzystych u pacjentów z ostrą białaczką szpikową z wysokim ryzykiem nawrotu ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07688967 | Pomiar wiotkości stawu kolanowego i przesunięcia obrotowego u pacjentów z niedoborem ACL – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07688967",
+      "date": "2026-07-07T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07688967 | Pomiar wiotkości stawu kolanowego i przesunięcia obrotowego u pacjentów z niedoborem ACL ClinicalTrials.gov."
     },
     {
       "title": "DEA celuje w silne związki 7-OH, ale historia Kratomu jest bardziej skomplikowana niż sugeruje komunikat prasowy Waszyngtonu - Trialsitenews.com",
@@ -1946,6 +1946,14 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "HHS proponuje kierowanie roszczeń związanych z obrażeniami spowodowanymi szczepionką Covid-19 przez CICP, co zapewni biuru RFK Jr. bardziej bezpośrednią kontrolę nad płatnościami."
+    },
+    {
+      "title": "Około jedna trzecia mężczyzn stale stosujących tamsulosynę Patrz: minimalny lub żaden efekt – Drugs.com",
+      "url": "https://www.drugs.com/news/one-third-men-continuously-using-tamsulosin-see-minimal-no-130599.html",
+      "date": "2026-07-09T18:54:39Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "W przypadku mężczyzn z objawami ze strony dolnych dróg moczowych (LUTS) wynikającymi z łagodnego rozrostu gruczołu krokowego (BPH), którzy stale stosują tamsulosynę, występuje u około jednej trzeciej."
     },
     {
       "title": "Roche kończy prace nad tominersenem po dziesięciu latach prób, a także nad aktywem Huntingtona na wczesnym etapie rozwoju - Endpoints News",
@@ -2322,14 +2330,6 @@
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "CureDuchenne, organizacja non-profit zajmująca się dystrofią mięśniową Duchenne'a (DMD), chce pobudzić działania publiczne poprzez nową ogólnokrajową kampanię dotyczącą ogłoszeń o usługach publicznych (PSA), rzucającą światło na to, jak wyglądają urodziny l | Program CureDuchenne „A Cure Can't Wait” służy jako ogłoszenie publiczne przypominające widzom, że „zegar tyka” dla pacjentów i ich rodzin cierpiących na rzadką, postępującą chorobę dystrofię mięśniową Duchenne'a."
-    },
-    {
-      "title": "AstraZeneca i GSK zacieśniają współpracę z Chinami dzięki umowom z chińską firmą Biopharm - BioPharma Dive",
-      "url": "https://www.biopharmadive.com/news/astrazeneca-gsk-china-biotech-deals-sinopharm/824679/",
-      "date": "2026-07-08T16:05:55Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "Brytyjscy producenci leków dołączyli do szeregu niedawnych powiązań z chińskimi odpowiednikami w związku z szerszą kontrolą takich transakcji w USA."
     }
   ],
   "critical_alerts": [
