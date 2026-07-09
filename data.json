@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T21:45:04Z",
+  "last_updated": "2026-07-09T21:45:49Z",
   "poland": [
     {
       "title": "Była wiceminister zdrowia w nowej roli. Wchodzi do Rady ds. Chorób Rzadkich - Rynek Zdrowia",
@@ -126,7 +126,7 @@
       "url": "https://cpsdialog.gov.pl/event/posiedzenie-trojstronnego-zespolu-ds-ochrony-zdrowia-14/",
       "date": "2026-07-09T15:04:15Z",
       "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Posiedzenie Trójstronnego Zespołu ds. Ochrony Zdrowia CPS Dialog."
     },
     {
@@ -1208,6 +1208,14 @@
   ],
   "epidemiology": [
     {
+      "title": "Liczba przypadków Cyclospora w USA rośnie w miarę opóźnień CDC w śledzeniu – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/cyclospora/us-cyclospora-cases-mount-cdc-lags-tracking",
+      "date": "2026-07-09T20:58:09Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "W niektórych częściach kraju, w tym w południowo-wschodnim Michigan i północnym Ohio, lekarze śledzą dziesiątki przypadków nagłej, wybuchowej biegunki i chorób żołądkowo-jelitowych wywołanych przez pasożyta Cyclospora cayetanensi."
+    },
+    {
       "title": "Zaproszenie do zgłaszania uwag publicznych i zaproszenie do przeglądu – Projekt wytycznych dotyczących architektury referencyjnej dla cyfrowej infrastruktury publicznej na rzecz zdrowia (DPI-H) – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/articles-detail/call-for-public-comments-and-invitation-to-review",
       "date": "2026-07-09T19:25:38Z",
@@ -1598,14 +1606,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Przy wsparciu Światowej Organizacji Zdrowia (WHO) program szkoleniowy „Opieka nad rozwojem dziecka” (CCD) pomaga pracownikom służby zdrowia w Jordanii wzmacniać skoncentrowane na rodzinie podejście do zdrowia i rozwoju dzieci w ramach usług podstawowej opieki zdrowotnej."
-    },
-    {
-      "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+1305+0400++%5B%5BADEFA%5D%5D++Jasa+Geofoam+Jembatan+Heavy+Duty+Banggai+Laut+Sulawesi+Tengah",
-      "date": "2026-07-07T09:28:16Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
     }
   ],
   "clinical_trials": [
@@ -1799,7 +1799,7 @@
       "date": "2026-07-08T02:15:44Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07686822 | Stymulacja rdzenia kręgowego w połączeniu z obrazowaniem ruchowym Interfejs mózg-komputer w leczeniu przewlekłej dysfunkcji ruchowej kończyn górnych po udarze ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07686822 | Stymulacja rdzenia kręgowego w połączeniu z obrazowaniem ruchowym Interfejs mózg-komputer w przypadku przewlekłej dysfunkcji ruchowej kończyn górnych po udarze ClinicalTrials.gov."
     },
     {
       "title": "3D-ASL i TDD-MRI dla prawdziwej progresji i pseudoprogresji po operacji glejaka (ASL-TDD) - ClinicalTrials.gov",
@@ -1898,20 +1898,20 @@
       "summary": "Szczegóły badania | NCT07686263 | Badanie dotyczące zapobiegania nawrotom oceniające leczenie KarXT w schizofrenii ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07688967 | Pomiar wiotkości stawu kolanowego i przesunięcia obrotowego u pacjentów z niedoborem ACL – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07688967",
-      "date": "2026-07-07T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07688967 | Pomiar wiotkości stawu kolanowego i przesunięcia obrotowego u pacjentów z niedoborem ACL ClinicalTrials.gov."
-    },
-    {
       "title": "Szczegóły badania | NCT07686965 | Lisaftoklaks z azacytydyną w leczeniu podtrzymującym po allogenicznym przeszczepieniu hematopoetycznych komórek macierzystych u pacjentów z ostrą białaczką szpikową z wysokim ryzykiem nawrotu - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07686965",
       "date": "2026-07-07T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07686965 | Lisaftoklaks z azacytydyną w leczeniu podtrzymującym po allogenicznym przeszczepieniu hematopoetycznych komórek macierzystych u pacjentów z ostrą białaczką szpikową z wysokim ryzykiem nawrotu ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07688967 | Pomiar wiotkości stawu kolanowego i przesunięcia obrotowego u pacjentów z niedoborem ACL – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07688967",
+      "date": "2026-07-07T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07688967 | Pomiar wiotkości stawu kolanowego i przesunięcia obrotowego u pacjentów z niedoborem ACL ClinicalTrials.gov."
     },
     {
       "title": "DEA celuje w silne związki 7-OH, ale historia Kratomu jest bardziej skomplikowana niż sugeruje komunikat prasowy Waszyngtonu - Trialsitenews.com",
