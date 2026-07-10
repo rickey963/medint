@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-10T11:27:54Z",
+  "last_updated": "2026-07-10T11:28:44Z",
   "poland": [
+    {
+      "title": "UMP w Poznaniu jako pierwszy zgłosił się po środki na konsolidację szpitali - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/ump-w-poznaniu-jako-pierwszy-zglosil-sie-po-srodki-na-konsolidacje-szpitali/",
+      "date": "2026-07-10T11:22:00Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "UMP w Poznaniu jako pierwszy złożył wniosek o środki na konsolidację szpitali. Do podziału jest 1,149 mld zł z Funduszu Medycznego."
+    },
     {
       "title": "Bali – jakie szczepienia wykonać przed wyjazdem? - DOZ",
       "url": "https://www.doz.pl/czytelnia/a18734-Bali__jakie_szczepienia_wykonac_przed_wyjazdem",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "2ND Brain Health Summit - SCIENTIFIC BOARD | Stationary conference Termedia."
-    },
-    {
-      "title": "Nie wpływają na mózg tak, jak sądzono. Zmarnowane pieniądze - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/Nie-wplywaja-na-mozg-tak-jak-sadzono-Zmarnowane-pieniadze,286494,11.html",
-      "date": "2026-07-09T19:00:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Naukowcy z Uniwersytetu Południowej Kalifornii przeprowadzili badanie, które jasno wykazało, że suplementy z olejem rybnym nie zapewniają deklarowanej korzyści dla mózgu. To obaliło dotychczasowe przekonanie, że tego typu suplementy są kluczowe przy zapobieganiu chorobie Alzheimera."
     }
   ],
   "world": [
@@ -538,6 +538,14 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Można oczekiwać, że zaskakujące dane dotyczące bezpieczeństwa, pochodzące z dwóch nowych przeglądów usług położniczych, spowodują natychmiastowe podjęcie działań zmierzających do poprawy. Istnieje jednak duże prawdopodobieństwo, że nic szybko się nie zmieni. Powody tego przygnębiającego wniosku obejmują prosty fakt, że zmiany kulturowe, które wydają się być przyczyną kryzysu usług położniczych, trudno osiągnąć w pośpiechu."
+    },
+    {
+      "title": "Fast Five Quiz: Szumy uszne - Medscape",
+      "url": "https://reference.medscape.com/viewarticle/fast-five-quiz-tinnitus-2025a1000e09?src=",
+      "date": "2026-07-09T15:10:29Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Szum w uszach ma szkodliwy wpływ na jakość życia i jest powiązany z COVID-19. Czy znasz kluczowe aspekty kliniczne, w tym najlepsze praktyki w zakresie diagnostyki i leczenia? Wypróbuj ten krótki quiz."
     },
     {
       "title": "ARPA-H rozpoczyna wysiłek o wartości 160 milionów dolarów w celu opracowania niestandardowych leków do edycji genów – STAT",
@@ -794,14 +802,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Rzadkie i niezdiagnozowane choroby stanowią wyzwanie diagnostyczne ze względu na heterogeniczność fenotypową i genetyczną oraz ograniczenia konwencjonalnych badań molekularnych. W ramach projektu RareBoost wdrożyliśmy zintegrowaną, etapową strategię genomiczną w kohorcie 134 pacjentów ze 120 rodzin z wcześniej niejednoznacznymi wynikami badań genetycznych. Nasza strategia łączyła systematyczne sekwencjonowanie egzomu z późniejszym sekwencjonowaniem genomu, gdy jest to wskazane, a następnie ukierunkowanym sekwencjonowaniem RNA i uzupełniona kompleksowym fenotypowaniem i dalszą analizą segregacji."
-    },
-    {
-      "title": "GCO Cancer Today – Globalne Obserwatorium Raka",
-      "url": "https://gco.iarc.who.int/today/en/dataviz/pie?mode=cancer&sexes=1&group_populations=1&populations=995_996&key=total",
-      "date": "2026-07-09T06:25:54Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "CANCER TODAY umożliwia kompleksową ocenę obciążenia nowotworami na całym świecie w 2024 r. w oparciu o szacunki GLOBOCAN dotyczące zapadalności, śmiertelności i chorobowości na rok 2024 w 186 krajach lub terytoriach dla 36 typów nowotworów według płci i grupy wiekowej."
     }
   ],
   "guidelines": [
@@ -1163,7 +1163,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "Rozporządzenie Rady Ministrów z dnia 6 lipca 2026 r. zmieniające rozporządzenie w sprawie Narodowego Programu Zdrowia na lata 2021–2026",
