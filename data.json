@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T20:04:49Z",
+  "last_updated": "2026-07-10T20:05:36Z",
   "poland": [
     {
       "title": "Zaczęła się konsolidacja szpitali - Termedia",
@@ -521,7 +521,7 @@
       "date": "2026-07-10T14:19:39Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Opistotony indukowane propofolem na oddziale opieki po znieczuleniu BMJ Case Reports."
+      "summary": "Opistotony wywołane propofolem na oddziale opieki po znieczuleniu BMJ Case Reports."
     },
     {
       "title": "Choroby autoimmunologiczne reagują na teklistamab, ale niosą ze sobą ryzyko - Medscape",
@@ -811,7 +811,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
+      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
     },
     {
       "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
@@ -1174,7 +1174,7 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
     },
     {
-      "title": "Niewydolność serca wywołana kokainą: co powinni wiedzieć lekarze – Europejskie Towarzystwo Kardiologiczne",
+      "title": "Niewydolność serca wywołana kokainą: co klinicyści powinni wiedzieć - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/communities/councils/cardiology-practice/education/cardiopractice/cocaine-induced-heart-failure-what-clinicians-need-to-know/",
       "date": "2026-07-04T19:57:26Z",
       "source": "ESC (kardiologia)",
@@ -1207,6 +1207,14 @@
     }
   ],
   "epidemiology": [
+    {
+      "title": "Zjadliwość szczepów Burkholderia pseudomallei z półkuli zachodniej i Afryki u myszy — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0069",
+      "date": "2026-07-10T20:04:16Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Zjadliwość B. pseudomallei u myszy."
+    },
     {
       "title": "Sprawozdanie na temat zagrożeń chorobami zakaźnymi, 6–10 lipca 2026 r., tydzień 28 – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-6-10-july-2026-week-28",
@@ -1598,14 +1606,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Dane z bieżącego roku (2026) | Centra kontroli i zapobiegania chorobom dengi | CDC (.gov)."
-    },
-    {
-      "title": "Dane historyczne (2010-2025) | Denga — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/dengue/data-research/facts-stats/historic-data.html",
-      "date": "2026-07-08T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Dane historyczne (2010-2025) | Centra kontroli i zapobiegania chorobom dengi | CDC (.gov)."
     }
   ],
   "clinical_trials": [
@@ -1616,6 +1616,14 @@
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Dotrzymywanie kroku generatywnej sztucznej inteligencji w organizacjach farmaceutycznych i opieki zdrowotnej Clinical Trials Arena."
+    },
+    {
+      "title": "Szczegóły badania | NCT07695831 | Badanie fazy 1 GEN1119 u uczestników z guzami litymi – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07695831",
+      "date": "2026-07-10T15:09:14Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07695831 | Badanie fazy 1 GEN1119 u uczestników z guzami litymi ClinicalTrials.gov."
     },
     {
       "title": "Firma Roche wstrzymuje rozwój dwóch programów leczenia choroby Huntingtona – Clinical Trials Arena",
@@ -2000,14 +2008,6 @@
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Bayer zawiera sojusz na rzecz badań klinicznych z CU Anschutz i partnerami Clinical Trials Arena."
-    },
-    {
-      "title": "Prilenia i Ferrer rozpoczynają III fazę prób terapii Huntingtona – Clinical Trials Arena",
-      "url": "https://www.clinicaltrialsarena.com/news/prilenia-ferrer-begin-phase-iii-trial/",
-      "date": "2026-07-08T10:49:17Z",
-      "source": "Clinical Trials Arena",
-      "confirmed_by": 1,
-      "summary": "Prilenia i Ferrer rozpoczynają III fazę prób terapii Huntingtona – Clinical Trials Arena."
     }
   ],
   "pharma_market": [
