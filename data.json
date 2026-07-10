@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T23:39:37Z",
+  "last_updated": "2026-07-10T23:40:22Z",
   "poland": [
     {
       "title": "Ograniczenie stawki lekarzy to rozwiązanie krótkoterminowe. Nie zastąpi zmian systemowych - Alert Medyczny",
@@ -274,6 +274,14 @@
       "summary": "Państwowy Powiatowy Inspektor Sanitarny w Kraśniku działając na podstawie art. 4 ust. 1 pkt 1 ustawy z dnia 14 marca 1985 r."
     },
     {
+      "title": "Praca dla Wojska Polskiego czeka. Poszukiwani są konkretni specjaliści - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Praca-dla-Wojska-Polskiego-czeka-Poszukiwani-sa-konkretni-specjalisci,286541,1.html",
+      "date": "2026-07-10T12:32:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Ruszyła rekrutacja do zakładu produkującego sprzęt dla polskiego wojska. Łącznie zatrudnienie znajdzie ponad 500 osób, a poszukiwani są m.in. specjaliści, mechanicy kontrolerzy."
+    },
+    {
       "title": "Pierwszy wniosek o pieniądze na konsolidację szpitali. Poznań testuje Fundusz Medyczny - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/pierwszy-wniosek-o-pieniadze-n2405681",
       "date": "2026-07-10T12:30:00Z",
@@ -392,14 +400,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Medycyna i Zdrowie wiadomości, Portal dla systemu ochrony zdrowia - PolitykaZdrowotna.com PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Medtronic ujawnia nowe informacje po cyberataku. Firma kontaktuje się z poszkodowanymi - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/medtronic-ujawnia-nowe-informacje-po-cyberataku-firma-kontaktuje-sie-z-poszkodowanymi/",
-      "date": "2026-07-10T09:59:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Medtronic przekazał nowe informacje po cyberataku z kwietnia 2026 r. Firma rozpoczęła powiadamianie osób, których dane mogły zostać naruszone."
     }
   ],
   "world": [
@@ -906,7 +906,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7526a1.htm",
       "date": "2026-07-09T16:59:58Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Nadzór nad ostrym wiotkim zapaleniem rdzenia kręgowego — Stany Zjednoczone, styczeń 2020 r.–grudzień 2025 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1313,7 +1313,7 @@
     },
     {
       "title": "Nadal brak kworum ACIP, upadające pozwy i odpowiedzi na pytania dotyczące szczepionek: Stan amerykańskiej polityki dotyczącej szczepionek – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/still-no-acip-quorum-collapsing-lawsuits-and-vaccine-questions-answered-state-us-vaccine-policy",
+      "url": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/still-no-acip-quorum-collapsing-lawsuits-and-vaccine-questions-answered",
       "date": "2026-07-09T20:12:04Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
@@ -1321,7 +1321,7 @@
     },
     {
       "title": "Nadal brak kworum ACIP, upadające pozwy i odpowiedzi na pytania dotyczące szczepionek: Stan amerykańskiej polityki dotyczącej szczepionek – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/still-no-acip-quorum-collapsing-lawsuits-and-vaccine-questions-answered",
+      "url": "https://www.cidrap.umn.edu/still-no-acip-quorum-collapsing-lawsuits-and-vaccine-questions-answered-state-us-vaccine-policy",
       "date": "2026-07-09T20:12:04Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
