@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T18:26:47Z",
+  "last_updated": "2026-07-10T18:27:40Z",
   "poland": [
     {
       "title": "Zaczęła się konsolidacja szpitali - Termedia",
@@ -1158,6 +1158,14 @@
       "summary": "Starzenie się organizmu związane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
+      "title": "Aktualizacja wytycznych dotyczących nadciśnienia z 2025 r. nieznacznie zwiększa możliwość kwalifikowania się do leczenia na etapie 1, przy czym wzrost netto dotyczy pacjentów starszych i kobiet — badania Epic",
+      "url": "https://www.epicresearch.org/articles/2025-hypertension-guideline-update-modestly-expands-stage-1-treatment-eligibility-with-net-increases-concentrated-among-older-and-female-patients/",
+      "date": "2026-07-07T11:59:16Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Wśród dorosłych w wieku 40–79 lat z nadciśnieniem tętniczym w 1. stopniu kwalifikowalność do leczenia nieznacznie wzrosła z 45,2% zgodnie z wytycznymi z 2017 r. do 47,0% zgodnie z wytycznymi z 2025 r. Ogółem zgodnie z nowymi wytycznymi 3,2% pacjentów byłoby leczonych inaczej (2,5% uzyskało kwalifikację, 0,7% utraciło kwalifikację)."
+    },
+    {
       "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/php/emergency-guidance/index.html",
       "date": "2026-07-07T07:00:00Z",
@@ -1196,14 +1204,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Londyn – Wielka Brytania, zatwierdzone przez Europejskie Stowarzyszenie Obrazowania Układu Sercowo-Naczyniowego."
-    },
-    {
-      "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/opinia-prezesa-program-polityki-zdrowotnej-w-zakresie-rehabilitacji-mieszkancow-swinoujscia-w-wieku-od-70-roku-zycia-na-lata-2026-2028/",
-      "date": "2026-07-03T14:20:20Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 Agencja Oceny Technologii Medycznych i Taryfikacji."
     }
   ],
   "epidemiology": [
@@ -1671,7 +1671,7 @@
       "date": "2026-07-10T08:37:10Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07692373 | Test chodu Groningen Meander u osób starszych z problemami z równowagą ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07692373 | Test chodu Groningen Meander u starszych osób dorosłych z problemami z równowagą ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07693218 | Badanie na zdrowych mężczyznach mające na celu sprawdzenie, w jaki sposób BI 1815368 jest przetwarzany w organizmie – ClinicalTrials.gov",
@@ -1762,7 +1762,7 @@
       "summary": "Szczegóły badania | NCT07693192 | Porównanie skuteczności i bezpieczeństwa dopęcherzowej toksyny botulinowej A w porównaniu z osoczem bogatopłytkowym w leczeniu opornego na leczenie nadreaktywnego pęcherza: dwuletnie badanie ClinicalTrials.gov."
     },
     {
-      "title": "Badanie trastuzumabu deruxtekanu (T-DXd) i cetuksymabu u osób chorych na raka jelita grubego – ClinicalTrials.gov",
+      "title": "Badanie trastuzumabu deruxtekanu (T-DXd) i cetuksymabu u osób chorych na raka jelita grubego - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07691489",
       "date": "2026-07-10T06:38:10Z",
       "source": "ClinicalTrials.gov",
@@ -1810,12 +1810,12 @@
       "summary": "Szczegóły badania | NCT07693569 | Zastrzyk kolagenazy w leczeniu spastyczności ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07694232 | Pilotażowe, randomizowane, kontrolowane badanie dotyczące leczenia homeopatycznego w przypadku długiego przebiegu Covid-19 – ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07694232 | Pilotażowe, randomizowane, kontrolowane badanie dotyczące leczenia homeopatycznego w przypadku długotrwałego zakażenia koronawirusem – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07694232",
       "date": "2026-07-09T21:26:36Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07694232 | Pilotażowe, randomizowane, kontrolowane badanie leczenia homeopatycznego w leczeniu długotrwałej choroby Covid-19 ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07694232 | Pilotażowe, randomizowane, kontrolowane badanie leczenia homeopatycznego w leczeniu długotrwałej choroby COVID ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07693634 | Telerehabilitacja dla sportowców rekreacyjnych z zespołem bólowym rzepkowo-udowym - ClinicalTrials.gov",
@@ -2213,6 +2213,14 @@
     },
     {
       "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/sda/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C847625EEE06346F0E10A11C0&rownum=39",
+      "date": "2026-07-10T10:23:25Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Lista SRO — szczegóły accessdata.fda.gov."
+    },
+    {
+      "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/sda/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C987325EEE06346F0E10A11C0&rownum=32",
       "date": "2026-07-10T10:20:10Z",
       "source": "FDA Drug News",
@@ -2399,14 +2407,6 @@
       "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/sda/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C8EE125EEE06346F0E10A11C0&rownum=24",
       "date": "2026-07-10T09:15:15Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Lista SRO — szczegóły accessdata.fda.gov."
-    },
-    {
-      "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/sda/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C875B25EEE06346F0E10A11C0&rownum=30",
-      "date": "2026-07-10T09:14:34Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Lista SRO — szczegóły accessdata.fda.gov."
