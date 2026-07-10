@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T00:13:51Z",
+  "last_updated": "2026-07-10T00:14:35Z",
   "poland": [
     {
       "title": "Japoński robot chirurgiczny hinotori z oznakowaniem CE. Medicaroid wchodzi do Europy - Alert Medyczny",
@@ -158,7 +158,7 @@
       "url": "https://cpsdialog.gov.pl/event/posiedzenie-trojstronnego-zespolu-ds-ochrony-zdrowia-14/",
       "date": "2026-07-09T15:04:15Z",
       "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Posiedzenie Trójstronnego Zespołu ds. Ochrony Zdrowia CPS Dialog."
     },
     {
@@ -465,7 +465,7 @@
       "date": "2026-07-09T16:24:01Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "W zeszłym tygodniu na pierwszych stronach gazet ogólnokrajowych pojawiła się informacja o śmierci mężczyzny przyjmującego niezatwierdzony lek retatrutyd odchudzający GLP-1 nowej generacji. Sytuacja może być jednak mniej jednoznaczna, niż sugerują artykuły. Doniesienia oparto na danych zarejestrowanych w systemie zgłaszania zdarzeń niepożądanych brytyjskiego organu regulacyjnego ds. leków – programie żółtej karty."
+      "summary": "W zeszłym tygodniu na pierwszych stronach gazet ogólnokrajowych pojawiła się informacja o śmierci mężczyzny przyjmującego niezatwierdzony lek retatrutide nowej generacji GLP-1 na odchudzanie. Sytuacja może być jednak mniej jednoznaczna, niż sugerują artykuły. Doniesienia oparto na danych zarejestrowanych w systemie zgłaszania zdarzeń niepożądanych brytyjskiego organu regulacyjnego ds. leków – programie żółtej karty."
     },
     {
       "title": "Ideologia naturalnego porodu i nieuniknione wyzwanie w postaci szkód, których można uniknąć – BMJ",
@@ -484,7 +484,7 @@
       "summary": "Program ARPA-H mający na celu szybkie rozpoczęcie niestandardowych zabiegów edycji genów został opóźniony ze względu na zmianę administracji. Teraz siedem laboratoriów otrzyma pokaźne granty."
     },
     {
-      "title": "Liczba przypadków pasożyta wywołującego biegunkę wzrosła do ponad 1000 – STAT",
+      "title": "Liczba przypadków pasożyta powodującego biegunkę wzrosła do ponad 1000 – STAT",
       "url": "https://www.statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite/",
       "date": "2026-07-09T15:01:54Z",
       "source": "STAT News",
@@ -532,12 +532,12 @@
       "summary": "9 lipca 2026 | NEJM The New England Journal of Medicine."
     },
     {
-      "title": "AstraZeneca i Ionis zgłaszają poważną porażkę w badaniu dotyczącym leku na serce - STAT",
+      "title": "AstraZeneca i Ionis zgłaszają poważną porażkę w badaniu dotyczącym leku na chorobę serca - STAT",
       "url": "https://www.statnews.com/2026/07/09/astrazeneca-ionis-attr-wainua-trial-failure/",
       "date": "2026-07-09T13:00:16Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "AstraZeneca i Ionis poinformowały w czwartek o znaczącym niepowodzeniu próby klinicznej dotyczącej choroby serca, która staje się coraz bardziej konkurencyjnym rynkiem dla producentów leków."
+      "summary": "AstraZeneca i Ionis poinformowały w czwartek o znaczącym niepowodzeniu prób dotyczących choroby serca, która staje się coraz bardziej konkurencyjnym rynkiem dla producentów leków."
     },
     {
       "title": "Komórki dopaminergiczne pochodzące z ludzkich embrionalnych komórek macierzystych stosowane w chorobie Parkinsona: otwarte badanie fazy 1/2 - Natura",
@@ -545,7 +545,7 @@
       "date": "2026-07-09T12:47:11Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "Badanie 1/2 fazy dostępnej na rynku dopaminergicznej terapii progenitorowej pochodzącej z komórek macierzystych wykazało korzystny 12-miesięczny profil bezpieczeństwa, bez żadnych działań niepożądanych związanych z przeszczepem, dyskinez ani powstawania guzów, chociaż ryzyko było związane ze schematem immunosupresji."
+      "summary": "Badanie fazy 1/2 dostępnej na rynku dopaminergicznej terapii progenitorowej pochodzącej z komórek macierzystych wykazało korzystny 12-miesięczny profil bezpieczeństwa, bez zdarzeń niepożądanych związanych z przeszczepem, dyskinez lub powstawania guzów, chociaż ryzyko było związane ze schematem immunosupresji."
     },
     {
       "title": "Czy badania nad chorobą Alzheimera skupiają się na niewłaściwym celu? - Medyczny",
@@ -577,7 +577,7 @@
       "date": "2026-07-09T10:31:53Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Minęły dwa lata, sześć miesięcy i 18 dni, odkąd firma Northwest Biotherapeutics przedstawiła swój lek na raka mózgu do zatwierdzenia przez organy regulacyjne."
+      "summary": "Minęły dwa lata, sześć miesięcy i 18 dni, odkąd Northwest Biotherapeutics zgłosiło swój lek na raka mózgu do zatwierdzenia przez organy regulacyjne."
     },
     {
       "title": "Badanie neuromagnetycznych sygnatur pogorszenia funkcji poznawczych, od łagodnych zaburzeń poznawczych po otępienie spowodowane chorobą Alzheimera – The Lancet",
@@ -601,7 +601,7 @@
       "date": "2026-07-09T09:23:33Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "W tym przeglądzie przedstawiono aktualny stan wiedzy na temat zegarów biologicznych oraz sposób, w jaki mogą one pomóc w zrozumieniu patobiologii, zmniejszeniu obciążenia chorobami i wydłużeniu zdrowia."
+      "summary": "W tym przeglądzie przedstawiono aktualny stan wiedzy na temat zegarów biologicznych oraz sposób, w jaki mogą one pomóc w zrozumieniu patobiologii, zmniejszyć obciążenie chorobami i wydłużyć okres zdrowia."
     },
     {
       "title": "Kiedy prawdziwy świat staje się próbą - Natura",
@@ -724,7 +724,7 @@
       "summary": "CANCER TODAY umożliwia kompleksową ocenę obciążenia nowotworami na całym świecie w 2024 r. w oparciu o szacunki GLOBOCAN dotyczące zapadalności, śmiertelności i chorobowości na rok 2024 w 186 krajach lub terytoriach dla 36 typów nowotworów według płci i grupy wiekowej."
     },
     {
-      "title": "Odżywcze, funkcjonalne i psychologiczne rozważania na temat terapii opartych na inkretynach u dorosłych – oświadczenie konsensusu EASO, EFAD i ECPO - The Lancet",
+      "title": "Odżywcze, funkcjonalne i psychologiczne rozważania dotyczące terapii opartych na inkretynach u dorosłych – oświadczenie konsensusu EASO, EFAD i ECPO - The Lancet",
       "url": "https://www.thelancet.com/journals/landia/article/PIIS2213-8587(26)00122-1/abstract",
       "date": "2026-07-09T02:53:40Z",
       "source": "The Lancet",
@@ -899,7 +899,7 @@
       "date": "2026-07-08T16:38:18Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Polipragmazja jest powszechna w leczeniu chorób sercowo-naczyniowych, ponieważ leczenie oparte na wytycznych często wymaga stosowania wielu leków w przypadku współistniejących schorzeń i chorób współistniejących, co zwiększa obciążenie lekami."
+      "summary": "Polipragmazja jest powszechna w leczeniu chorób sercowo-naczyniowych, ponieważ leczenie oparte na wytycznych często wymaga wielu leków w przypadku współistniejących schorzeń i chorób współistniejących, co zwiększa obciążenie lekiem."
     },
     {
       "title": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśniowo raka pęcherza moczowego wysokiego ryzyka - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -907,7 +907,7 @@
       "date": "2026-07-08T13:36:15Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "FDA zatwierdza Durvalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "ESC Heart Team Challenge – Europejskie Towarzystwo Kardiologiczne",
@@ -1051,7 +1051,7 @@
       "date": "2026-07-07T18:34:12Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "Starzenie się organizmu powiązane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "Starzenie się organizmu związane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Szpital społecznościowy Larkin w Palm Springs wyróżniony przez American Heart Association za doskonałość w leczeniu udaru mózgu – PR Newswire",
@@ -1094,12 +1094,12 @@
       "summary": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
+      "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – asiae.co.kr",
       "url": "https://www.asiae.co.kr/en/article/2026070715043876703",
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
@@ -1131,7 +1131,7 @@
       "date": "2026-07-04T19:57:26Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest to toksyna sercowo-naczyniowa o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie układu współczulnego spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
+      "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest to toksyna sercowo-naczyniowa o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie współczulne spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
     },
     {
       "title": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) - Europejskie Towarzystwo Kardiologiczne",
@@ -1142,7 +1142,7 @@
       "summary": "Londyn – Wielka Brytania, zatwierdzone przez Europejskie Stowarzyszenie Obrazowania Układu Sercowo-Naczyniowego."
     },
     {
-      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu z roku 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
+      "title": "Seria wytycznych dotyczących ostrego udaru niedokrwiennego mózgu na rok 2026: nowe wytyczne dla pracowników służby zdrowia – professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/video-series-ais",
       "date": "2026-07-04T05:05:12Z",
       "source": "Wytyczne AHA/ACC",
@@ -1171,7 +1171,7 @@
       "date": "2026-07-03T14:15:46Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Platforma współpracy umożliwiająca strategiczny dialog z partnerami branżowymi na temat zaangażowania pacjentów."
+      "summary": "Platforma współpracy służąca strategicznemu dialogowi z partnerami branżowymi na temat zaangażowania pacjentów."
     },
     {
       "title": "Deklarujemy pełną gotowość do współpracy. Prezes NRL przedstawił postulaty samorządu premierowi Donaldowi Tuskowi - NIL",
@@ -1280,7 +1280,7 @@
       "summary": "Dołącz do WHO 22 lipca 2026 r. i weź udział w wirtualnym rozpoczęciu globalnego ćwiczenia ustalania priorytetów badawczych w zakresie zdrowia, migracji i wysiedleń w kontekście zmian klimatycznych. Podczas seminarium internetowego zostaną przedstawione najważniejsze luki w dowodach, priorytety badawcze oraz plan działania dotyczący wzmocnienia badań i przełożenia wyników na politykę i praktykę w celu poprawy zdrowia i dobrostanu populacji migrantów i przesiedleńców dotkniętych zmianami klimatycznymi."
     },
     {
-      "title": "Epidemie norowirusa, COVID-19 i grypy wśród mieszkańców – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Epidemie norowirusa, COVID-19 i grypy wśród mieszkańców — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7526a2.htm?s_cid=OS_mm7526a2_w",
       "date": "2026-07-09T16:59:58Z",
       "source": "CDC Outbreaks",
@@ -1309,7 +1309,7 @@
       "date": "2026-07-09T13:43:13Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Jak wynika z badania opublikowanego dzisiaj w Nature Communications, długotrwałe problemy ze wzrokiem po łagodnych przypadkach COVID-19 mogą wynikać z utrzymującego się stanu zapalnego i uszkodzenia nerwów, nawet jeśli wyniki standardowych badań wzroku wydają się prawidłowe."
+      "summary": "Jak wynika z badania opublikowanego dzisiaj w Nature Communications, długotrwałe problemy ze wzrokiem po łagodnych przypadkach Covid-19 mogą wynikać z utrzymującego się stanu zapalnego i uszkodzenia nerwów, mimo że wyniki standardowych badań wzroku wydają się prawidłowe."
     },
     {
       "title": "WHO dołącza do fundacji Open Health Stack Software Foundation, aby wspierać otwarte, oparte na standardach cyfrowe zdrowie we wszystkich krajach – Światowa Organizacja Zdrowia (WHO)",
@@ -1318,6 +1318,14 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Cyfrowe systemy opieki zdrowotnej w wielu krajach rozwinęły się w sposób fragmentaryczny. Pracownicy służby zdrowia ponownie wprowadzają te same informacje więcej niż jeden raz. Ministerstwa mają trudności z uzyskaniem pełnego obrazu własnego systemu opieki zdrowotnej."
+    },
+    {
+      "title": "WHO wzywa do podjęcia pilnych działań, ponieważ przewiduje się, że do 2050 r. liczba nowych przypadków raka niemal się podwoi – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
+      "date": "2026-07-09T10:48:43Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Z raportu opublikowanego dzisiaj przez Światową Organizację Zdrowia (WHO) wynika, że ​​miliony ludzi odczuwają fizyczne, emocjonalne i finansowe straty spowodowane nowotworem – chorobą, na którą każdego dnia umiera ponad 26 000 osób. Przy szacunkowej liczbie nowych przypadków wynoszącej 20,6 miliona i prawie 10 milionach zgonów rocznie rak pozostaje drugą najczęstszą przyczyną zgonów na świecie, po chorobach układu krążenia."
     },
     {
       "title": "Zarządzanie bezpieczeństwem ruchu drogowego w Maroku może wyciągnąć wnioski – Światowa Organizacja Zdrowia (WHO)",
@@ -1464,14 +1472,6 @@
       "summary": "WHA79 Oficjalne wydarzenie poboczne - relacja z wydarzenia."
     },
     {
-      "title": "WHO wzywa do podjęcia pilnych działań, ponieważ przewiduje się, że do 2050 r. liczba nowych przypadków raka niemal się podwoi – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
-      "date": "2026-07-08T12:17:20Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Z raportu opublikowanego dzisiaj przez Światową Organizację Zdrowia (WHO) wynika, że ​​miliony ludzi odczuwają fizyczne, emocjonalne i finansowe straty spowodowane nowotworem – chorobą, na którą każdego dnia umiera ponad 26 000 osób. Przy szacunkowej liczbie nowych przypadków wynoszącej 20,6 miliona i prawie 10 milionach zgonów rocznie rak pozostaje drugą najczęstszą przyczyną zgonów na świecie, po chorobach układu krążenia."
-    },
-    {
       "title": "Historyczna uchwała w sprawie zaniedbanych chorób tropikalnych przyjęta przez Radę Praw Człowieka ONZ – Światową Organizację Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/07-07-2026-historic-resolution-on-neglected-tropical-diseases-adopted-by-the-united-nations-human-rights-council",
       "date": "2026-07-08T07:56:54Z",
@@ -1568,7 +1568,7 @@
       "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
     },
     {
-      "title": "Organizacja ad hoc opiera się na kreatywności i kiepskim finansowaniu w celu monitorowania zdrowia publicznego podczas mistrzostw świata – CIDRAP",
+      "title": "Organizacja ad hoc opiera się na kreatywności i marnym finansowaniu monitorowania zdrowia publicznego podczas mistrzostw świata – CIDRAP",
       "url": "https://www.cidrap.umn.edu/public-health/ad-hoc-organization-relies-creativity-scrappy-funding-monitor-public-health-during",
       "date": "2026-07-07T17:07:52Z",
       "source": "CIDRAP",
@@ -1592,7 +1592,7 @@
       "summary": "Żywa, atenuowana szczepionka wykazała wysoki poziom ochrony przed jedną z głównych przyczyn biegunki na świecie."
     },
     {
-      "title": "U 1 na 4 dorosłych w stanach z dużą liczbą kleszczy wynik pozytywny na obecność przeciwciał alfa-gal – CIDRAP",
+      "title": "1 na 4 osoby dorosłe w stanach z dużą liczbą kleszczy ma pozytywny wynik testu na obecność przeciwciał alfa-gal – CIDRAP",
       "url": "https://www.cidrap.umn.edu/tick-borne-disease/1-4-adults-tick-heavy-states-test-positive-alpha-gal-antibodies",
       "date": "2026-07-07T14:36:49Z",
       "source": "CIDRAP",
@@ -1655,7 +1655,7 @@
       "date": "2026-07-09T10:44:19Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Pierwszy pacjent otrzymuje Forzinity w fazie IV badania klinicznego Mighty Therapeutics na arenie prób klinicznych."
+      "summary": "Pierwszy pacjent otrzymuje Forzinity w fazie IV badania klinicznego Mighty Therapeutics na arenie badań klinicznych."
     },
     {
       "title": "Doustny lek DMD firmy Satellos poprawia ruchomość ramion po sześciu miesiącach fazy II – Areny Badań Klinicznych",
@@ -1679,7 +1679,7 @@
       "date": "2026-07-09T00:00:33Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Badacze z Albert Einstein College of Medicine, LonGenity Study, Stony Brook Medicine i współpracownicy podają, że dorośli w wieku 80 lat i starsi, sklasyfikowani jako „super poruszający się”, czyli osoby charakteryzujące się wyjątkowo dużą szybkością chodu jak na swój wiek i płeć, byli narażeni na prawie 50% mniejsze ryzyko wystąpienia zaburzeń funkcji poznawczych w porównaniu z ich rówieśnikami. W retrospektywnej analizie opublikowanej w czasopiśmie Neurology wzięło udział prawie 4000 starszych osób dorosłych z międzynarodowych kohort starzenia się, w tym z międzynarodowej sieci studiów Health and Retirement Study (HRS-INS), LonGenity Study oraz Rush Memory and Aging Project (RUSH MAP). Do głównych badaczy należeli dr."
+      "summary": "Badacze z Albert Einstein College of Medicine, LonGenity Study, Stony Brook Medicine i współpracownicy podają, że dorośli w wieku 80 lat i starsi, sklasyfikowani jako „super poruszający się”, czyli osoby charakteryzujące się wyjątkowo dużą szybkością chodu jak na swój wiek i płeć, byli narażeni na prawie 50% mniejsze ryzyko wystąpienia zaburzeń poznawczych w porównaniu z ich rówieśnikami. W retrospektywnej analizie opublikowanej w czasopiśmie Neurology wzięło udział prawie 4000 starszych osób dorosłych z międzynarodowych kohort starzenia się, w tym z międzynarodowej sieci studiów Health and Retirement Study (HRS-INS), LonGenity Study oraz Rush Memory and Aging Project (RUSH MAP). Do głównych badaczy należeli dr."
     },
     {
       "title": "Catholic Health i Columbia rozszerzają badania kliniczne nad rakiem na Long Island — poprawia się dostęp, ale pozostają pytania dotyczące rejestracji - Trialsitenews.com",
@@ -1706,7 +1706,7 @@
       "summary": "Główna autorka Sneha Dutta z Ogólnoindyjskiego Instytutu Nauk Medycznych (AIIMS) w Bhubaneswar wraz ze współpracownikami, w tym badaczami z Uniwersytetu Purdue, opublikowała obszerny przegląd w czasopiśmie Probiotyki i białka przeciwdrobnoustrojowe, w którym sprawdza, czy probiotyki mogą pomóc w zachowaniu funkcji poznawczych poprzez oddziaływanie na oś mikroflora-jelito-mózg podczas starzenia. Zamiast przedstawiać nowe wyniki eksperymentów, w przeglądzie dokonano syntezy ponad 500 opublikowanych badań badających wpływ drobnoustrojów jelitowych na zdrowie mózgu, stany zapalne i funkcje poznawcze. Autorzy doszli do wniosku, że wybrane szczepy probiotyczne – szczególnie Lactobacillus i Bifidobacterium – są obiecujące we wspieraniu zdrowia poznawczego poprzez wiele szlaków biologicznych."
     },
     {
-      "title": "Odra dociera do ośrodka zatrzymań ICE w Arizonie, rodząc pytania dotyczące przejrzystości i gotowości na epidemię - Trialsitenews.com",
+      "title": "Odra dociera do ośrodka zatrzymań ICE w Arizonie, rodząc pytania dotyczące przejrzystości i gotowości na epidemię - trisitenews.com",
       "url": "https://www.trialsitenews.com/a/measles-reaches-arizona-ice-detention-center-raising-questions-about-transparency-and-outbreak-preparedness-28c1cc96",
       "date": "2026-07-08T18:03:49Z",
       "source": "TrialSite News",
@@ -1754,7 +1754,7 @@
       "summary": "ACT Brief: Upraszczanie badań poprzez selektywne dane dotyczące bezpieczeństwa, partnerstwa w ośrodkach oparte na sztucznej inteligencji i strategiczne badania kliniczne Biopharma Pivots stosowane online."
     },
     {
-      "title": "Bayer zawiera sojusz na rzecz badań klinicznych z CU Anschutz i partnerami – Clinical Trials Arena",
+      "title": "Bayer nawiązuje sojusz na rzecz badań klinicznych z CU Anschutz i partnerami – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/bayer-clinical-trials-alliance-cu-anschutz/",
       "date": "2026-07-08T10:49:17Z",
       "source": "Clinical Trials Arena",
@@ -1794,7 +1794,7 @@
       "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
-      "title": "Sonda KFF sugeruje, że Amerykanie są mniej spolaryzowani w kwestii twierdzeń dotyczących szczepionek, niż sugeruje to debata publiczna",
+      "title": "Ankieta KFF sugeruje, że Amerykanie są mniej spolaryzowani w kwestii twierdzeń dotyczących szczepionek, niż sugeruje to debata publiczna",
       "url": "https://www.trialsitenews.com/a/kff-poll-suggests-americans-are-less-polarized-on-vaccine-claims-than-public-debate-implies-a1172c08",
       "date": "2026-07-08T02:25:35Z",
       "source": "TrialSite News",
@@ -1882,7 +1882,7 @@
       "summary": "Psilocybina firmy Compass wykazuje sześciomiesięczną trwałość w fazie III badania Clinical Trials Arena."
     },
     {
-      "title": "Badania wykazały, że urządzenie blokujące tętnicę miejscową zmniejsza ból związany z chorobą zwyrodnieniową stawu kolanowego o 57% - Clinical Trials Arena",
+      "title": "Badanie pokazuje, że urządzenie blokujące tętnicę miejscową zmniejsza ból związany z chorobą zwyrodnieniową stawu kolanowego o 57% - Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/nextbiomedical-knee-osteoarthritis-device-study/",
       "date": "2026-07-07T09:04:06Z",
       "source": "Clinical Trials Arena",
@@ -1993,7 +1993,7 @@
       "date": "2026-07-09T20:01:27Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Zindywidualizowana, zorientowana na cel rehabilitacja poznawcza (CR) prowadzi do znacznej i trwałej poprawy u dorosłych osób dorosłych z długotrwałymi zaburzeniami funkcji poznawczych związanych z Covid-19."
+      "summary": "Zindywidualizowana, zorientowana na cel rehabilitacja poznawcza (CR) prowadzi do znacznej i trwałej poprawy u dorosłych osób dorosłych z długotrwałymi zaburzeniami poznawczymi związanymi z Covid-19."
     },
     {
       "title": "Badanie nie wykazuje związku między prenatalnym acetaminofenem a autyzmem lub ADHD u potomstwa – Drugs.com",
@@ -2044,7 +2044,7 @@
       "summary": "Decyzja została podjęta po tym, jak tominersen nie okazał się lepszy od placebo w badaniu fazy 2 z udziałem pacjentów w najwcześniejszych stadiach choroby."
     },
     {
-      "title": "BioNTech planuje wprowadzenie na rynek HER2 ADC odpowiedniej wielkości, aby „budować mięśnie” dla dwuspecyficznego partnera BMS - Fierce Pharma",
+      "title": "BioNTech planuje wprowadzenie na rynek HER2 ADC odpowiedniej wielkości, aby „budować mięśnie” dla bispecyficznego partnera BMS - Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/biontech-plots-right-sized-her2-adc-launch-build-muscle-bms-partnered-bispecific",
       "date": "2026-07-09T18:16:32Z",
       "source": "FiercePharma",
@@ -2105,7 +2105,7 @@
       "date": "2026-07-09T15:36:53Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Zaskakująca porażka AstraZeneca i Ionis w kluczowej fazie 3 Tria | Zaskakująca porażka firm AstraZeneca i Ionis w kluczowym badaniu III fazy dotyczącym leku Wainua u pacjentów z ATTR-CM spowodowała spadek akcji tych firm, podczas gdy akcje ich konkurentów poszybowały w górę. W badaniu CARDIO-TTRansform nie osiągnięto głównego punktu końcowego, który skupiał się na zmniejszeniu liczby zgonów z przyczyn sercowo-naczyniowych lub nawracających zdarzeń sercowo-naczyniowych w ciągu 140 tygodni."
+      "summary": "Zaskakująca porażka AstraZeneca i Ionis w kluczowej fazie 3 Tria | Zaskakująca porażka firm AstraZeneca i Ionis w kluczowym badaniu III fazy dotyczącym leku Wainua u pacjentów z ATTR-CM spowodowała spadek akcji tych firm, podczas gdy akcje ich konkurentów poszybowały w górę. W badaniu CARDIO-TTRAnsform nie osiągnięto głównego punktu końcowego, który skupiał się na zmniejszeniu liczby zgonów z przyczyn sercowo-naczyniowych lub nawracających zdarzeń sercowo-naczyniowych w ciągu 140 tygodni."
     },
     {
       "title": "Inspektorzy MHRA z Wielkiej Brytanii chcą „historii” stojącej za priorytetami badań klinicznych, a nie tylko listy – insights.citeline.com",
@@ -2276,7 +2276,7 @@
       "summary": "Wyrób medyczny przypomina accessdata.fda.gov."
     },
     {
-      "title": "środa, 8 lipca 2026 Lista zaległych zobowiązań GDUFA - fda.gov",
+      "title": "środa, 8 lipca 2026 Lista zaległości kredytowych GDUFA - fda.gov",
       "url": "https://www.fda.gov/media/186165/download",
       "date": "2026-07-09T08:37:01Z",
       "source": "FDA Drug News",
@@ -2329,7 +2329,7 @@
       "date": "2026-07-09T00:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Zmiana przeznaczenia leku: rozważania dotyczące kryteriów wyboru i priorytetów fda.gov."
+      "summary": "Zmiana przeznaczenia leku: uwagi dotyczące kryteriów wyboru i priorytetów fda.gov."
     }
   ],
   "critical_alerts": [
@@ -2374,7 +2374,7 @@
       "summary": "Associated Press (AP) podaje, że niektórzy pracownicy służby zdrowia w Demokratycznej Republice Konga (DRK) rozpoczęli strajk, twierdząc, że walczą z wirusem Ebola w czasie epidemii, dysponując nieodpowiednim sprzętem i niskimi płacami, co pogłębia i tak już trudny kryzys zdrowia publicznego. Chociaż nie ogłoszono żadnego oficjalnego strajku, pracownicy odchodzą z pracy w klinikach i ośrodkach terapeutycznych w związku z rosnącą epidemią."
     },
     {
-      "title": "Odra dociera do ośrodka zatrzymań ICE w Arizonie, rodząc pytania dotyczące przejrzystości i gotowości na epidemię - Trialsitenews.com",
+      "title": "Odra dociera do ośrodka zatrzymań ICE w Arizonie, rodząc pytania dotyczące przejrzystości i gotowości na epidemię - trisitenews.com",
       "url": "https://www.trialsitenews.com/a/measles-reaches-arizona-ice-detention-center-raising-questions-about-transparency-and-outbreak-preparedness-28c1cc96",
       "date": "2026-07-08T18:03:49Z",
       "source": "TrialSite News",
