@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T14:20:20Z",
+  "last_updated": "2026-07-10T14:21:00Z",
   "poland": [
     {
       "title": "Rusza konsolidacja szpitali - Termedia",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Opistotony wywołane propofolem na oddziale opieki po znieczuleniu - opisy przypadków BMJ",
+      "url": "http://casereports.bmj.com/cgi/content/short/19/7/e270690?rss=1",
+      "date": "2026-07-10T14:19:39Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Opistotony indukowane propofolem na oddziale opieki po znieczuleniu BMJ Case Reports."
+    },
+    {
       "title": "Choroby autoimmunologiczne reagują na teklistamab, ale niosą ze sobą ryzyko - Medscape",
       "url": "https://www.medscape.com/viewarticle/autoimmune-diseases-respond-teclistamab-risks-are-concerning-2026a1000ne4",
       "date": "2026-07-10T14:11:17Z",
@@ -794,14 +802,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Dotychczas ograniczone do nadzoru po wprowadzeniu do obrotu, dowody pochodzące ze świata rzeczywistego są obecnie wykorzystywane do naśladowania badań, wydawania zatwierdzeń, a nawet prowadzenia badań w czasie rzeczywistym, co zmusza do ponownego przemyślenia, czym jest badanie kliniczne."
-    },
-    {
-      "title": "Wyzwania i przyszłe kierunki rozwoju stwardnienia rozsianego według kryteriów diagnostycznych McDonalda 2024 – Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04490-8",
-      "date": "2026-07-09T09:23:33Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Rewizja kryteriów diagnostycznych McDonalda w 2024 r. stanowi ważny krok w kierunku wcześniejszej i bardziej włączającej diagnostyki stwardnienia rozsianego. Wykorzystanie jego pełnego potencjału będzie wymagało ciągłego udoskonalania biomarkerów, stratyfikacji chorób i podejść do badań klinicznych."
     }
   ],
   "guidelines": [
@@ -1198,12 +1198,12 @@
       "summary": "Stan prac Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
-      "title": "Okrągły Stół Pacjenta ESC – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/communities/esc-people/patients/esc-patient-forum-what-we-do/esc-patient-round-table/",
-      "date": "2026-07-03T14:15:46Z",
-      "source": "ESC (kardiologia)",
+      "title": "Deklarujemy pełną gotowość do współpracy. Prezes NRL przedstawił postulaty samorządu premierowi Donaldowi Tuskowi - NIL",
+      "url": "https://nil.org.pl/aktualnosci/9309-deklarujemy-pelna-gotowosc-do-wspolpracy-prezes-nrl-przedstawil-postulaty-samorzadu-premierowi-donaldowi-tuskowi",
+      "date": "2026-07-03T13:56:35Z",
+      "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
-      "summary": "Platforma współpracy służąca strategicznemu dialogowi z partnerami branżowymi na temat zaangażowania pacjentów."
+      "summary": "Naczelna Izba Lekarska."
     }
   ],
   "epidemiology": [
