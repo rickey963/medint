@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T06:10:10Z",
+  "last_updated": "2026-07-11T06:11:00Z",
   "poland": [
     {
       "title": "Ograniczenie stawki lekarzy to rozwiązanie krótkoterminowe. Nie zastąpi zmian systemowych - Alert Medyczny",
@@ -150,7 +150,7 @@
       "url": "https://alertmedyczny.pl/tusk-o-proponowanych-wynagrodzeniach-lekarzy-76-tys-zl-miesiecznie-to-europejski-top/",
       "date": "2026-07-10T14:42:34Z",
       "source": "alertmedyczny.pl",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Premier Donald Tusk poparł reformę ochrony zdrowia. Zapowiedział limity wynagrodzeń, zmiany ustawowe oraz pierwsze efekty już we wrześniu."
     },
     {
@@ -1150,12 +1150,12 @@
       "summary": "Informacje o szczepionkach przeciwko japońskiemu zapaleniu mózgu dla podmiotów świadczących opiekę zdrowotną Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami - Pharmacy Times – Wiadomości z praktyki farmaceutycznej i opinie ekspertów",
-      "url": "https://www.pharmacytimes.com/view/new-ckm-guideline-elevates-pharmacists-role-in-comprehensive-medication-management",
-      "date": "2026-07-07T18:34:58Z",
+      "title": "Aktualizacja wytycznych dotyczących nadciśnienia z 2025 r. nieznacznie zwiększa możliwość kwalifikowania się do leczenia na etapie 1, przy czym wzrost netto dotyczy pacjentów starszych i kobiet — badania Epic",
+      "url": "https://www.epicresearch.org/articles/2025-hypertension-guideline-update-modestly-expands-stage-1-treatment-eligibility-with-net-increases-concentrated-among-older-and-female-patients/",
+      "date": "2026-07-07T11:59:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami Pharmacy Times – wiadomości z praktyki farmaceutycznej i opinie ekspertów."
+      "summary": "Wśród dorosłych w wieku 40–79 lat z nadciśnieniem tętniczym w 1. stopniu kwalifikowalność do leczenia nieznacznie wzrosła z 45,2% zgodnie z wytycznymi z 2017 r. do 47,0% zgodnie z wytycznymi z 2025 r. Ogółem zgodnie z nowymi wytycznymi 3,2% pacjentów byłoby leczonych inaczej (2,5% uzyskało kwalifikację, 0,7% utraciło kwalifikację)."
     },
     {
       "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1172,6 +1172,14 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+    },
+    {
+      "title": "Nowy przegląd zakresu zapewnia szpitalom praktyczny plan działania dla HFpEF – AJMC",
+      "url": "https://www.ajmc.com/view/new-scoping-review-offers-hospitals-a-practical-roadmap-for-hfpef",
+      "date": "2026-07-06T16:26:17Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Nowy przegląd zakresu zapewnia szpitalom praktyczny plan działania dla HFpEF AJMC."
     },
     {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
@@ -1196,14 +1204,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Szkolenie OK COBIK NIL - Dialog motywujący NIL."
-    },
-    {
-      "title": "Niewydolność serca wywołana kokainą: co powinni wiedzieć lekarze – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/communities/councils/cardiology-practice/education/cardiopractice/cocaine-induced-heart-failure-what-clinicians-need-to-know/",
-      "date": "2026-07-04T19:57:26Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest to toksyna sercowo-naczyniowa o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie układu współczulnego spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
     }
   ],
   "epidemiology": [
