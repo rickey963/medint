@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T00:48:57Z",
+  "last_updated": "2026-07-11T00:49:42Z",
   "poland": [
     {
       "title": "Ograniczenie stawki lekarzy to rozwiązanie krótkoterminowe. Nie zastąpi zmian systemowych - Alert Medyczny",
@@ -404,14 +404,6 @@
   ],
   "world": [
     {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-07-10T22:55:01Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
-    },
-    {
       "title": "Zdrowie seksualne kobiet - Medscape",
       "url": "https://www.medscape.com/c27/p14/womens-sexual-health-2026a1000jkf",
       "date": "2026-07-10T21:32:57Z",
@@ -468,7 +460,7 @@
       "summary": "Sześć tygodni ograniczenia snu spowodowało zwiększenie masy ciała, obwodu talii, poziomu leptyny i czasu spędzonego nieaktywnie u dorosłych z ryzykiem kardiometabolicznym."
     },
     {
-      "title": "Śledzenie aktywności IBD: USG może ograniczyć stosowanie endoskopii - Medscape",
+      "title": "Śledzenie aktywności IBD: USG jelit może ograniczyć stosowanie endoskopii - Medscape",
       "url": "https://www.medscape.com/viewarticle/tracking-ibd-activity-intestinal-ultrasound-may-reduce-2026a1000ng7",
       "date": "2026-07-10T17:10:52Z",
       "source": "Medscape",
@@ -786,6 +778,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Światowa Organizacja Zdrowia i Międzynarodowy Związek Telekomunikacyjny zapraszają do komentowania projektu Wytycznych dotyczących architektury referencyjnej dla cyfrowej infrastruktury publicznej dla zdrowia (DPI-H)."
+    },
+    {
+      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/research-summaries",
+      "date": "2026-07-09T19:05:28Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
     },
     {
       "title": "Instytucjonalizacja gotowości na patogeny układu oddechowego w Jemenie – Światowa Organizacja Zdrowia (WHO)",
@@ -1134,12 +1134,12 @@
       "summary": "Informacje o szczepionkach przeciwko japońskiemu zapaleniu mózgu dla podmiotów świadczących opiekę zdrowotną Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Aktualizacja wytycznych dotyczących nadciśnienia z 2025 r. nieznacznie zwiększa możliwość kwalifikowania się do leczenia na etapie 1, przy czym wzrost netto dotyczy pacjentów starszych i kobiet — badania Epic",
-      "url": "https://www.epicresearch.org/articles/2025-hypertension-guideline-update-modestly-expands-stage-1-treatment-eligibility-with-net-increases-concentrated-among-older-and-female-patients/",
-      "date": "2026-07-07T11:59:16Z",
+      "title": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami - Pharmacy Times – Wiadomości z praktyki farmaceutycznej i opinie ekspertów",
+      "url": "https://www.pharmacytimes.com/view/new-ckm-guideline-elevates-pharmacists-role-in-comprehensive-medication-management",
+      "date": "2026-07-07T18:34:58Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Wśród dorosłych w wieku 40–79 lat z nadciśnieniem tętniczym w 1. stopniu kwalifikowalność do leczenia nieznacznie wzrosła z 45,2% zgodnie z wytycznymi z 2017 r. do 47,0% zgodnie z wytycznymi z 2025 r. Ogółem zgodnie z nowymi wytycznymi 3,2% pacjentów byłoby leczonych inaczej (2,5% uzyskało kwalifikację, 0,7% utraciło kwalifikację)."
+      "summary": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami Pharmacy Times – wiadomości z praktyki farmaceutycznej i opinie ekspertów."
     },
     {
       "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1156,14 +1156,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
-    },
-    {
-      "title": "Nowy przegląd zakresu zapewnia szpitalom praktyczny plan działania dla HFpEF – AJMC",
-      "url": "https://www.ajmc.com/view/new-scoping-review-offers-hospitals-a-practical-roadmap-for-hfpef",
-      "date": "2026-07-06T16:26:17Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Nowy przegląd zakresu zapewnia szpitalom praktyczny plan działania dla HFpEF AJMC."
     },
     {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
@@ -1204,6 +1196,14 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Stan prac Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Deklarujemy pełną gotowość do współpracy. Prezes NRL przedstawił postulaty samorządu premierowi Donaldowi Tuskowi - NIL",
+      "url": "https://nil.org.pl/aktualnosci/9309-deklarujemy-pelna-gotowosc-do-wspolpracy-prezes-nrl-przedstawil-postulaty-samorzadu-premierowi-donaldowi-tuskowi",
+      "date": "2026-07-03T13:56:35Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
     }
   ],
   "epidemiology": [
@@ -1751,7 +1751,7 @@
       "date": "2026-07-10T08:01:36Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Porównanie kaniulacji wewnętrznej żyły szyjnej o osi krótkiej i długiej w celu uzyskania sukcesu pierwszego przejścia ClinicalTrials.gov."
+      "summary": "Porównanie kaniulacji wewnętrznej żyły szyjnej o krótkiej i długiej osi w celu uzyskania sukcesu pierwszego przejścia ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07693699 | Optymalizacja zrównoważonego dostępu do mankietu i ścieżek szkoleniowych w zakresie samodzielnego monitorowania ciśnienia krwi w podstawowej opiece zdrowotnej - ClinicalTrials.gov",
@@ -2277,8 +2277,24 @@
     },
     {
       "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/SDA/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C9AB725EEE06346F0E10A11C0&rownum=273",
+      "date": "2026-07-10T10:38:44Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Lista SRO — szczegóły accessdata.fda.gov."
+    },
+    {
+      "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/SDA/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C908725EEE06346F0E10A11C0&rownum=852",
       "date": "2026-07-10T10:38:32Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Lista SRO — szczegóły accessdata.fda.gov."
+    },
+    {
+      "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/SDA/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C8BD025EEE06346F0E10A11C0&rownum=2119",
+      "date": "2026-07-10T10:38:20Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Lista SRO — szczegóły accessdata.fda.gov."
@@ -2303,6 +2319,14 @@
       "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/SDA/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C95FD25EEE06346F0E10A11C0&rownum=886",
       "date": "2026-07-10T10:35:21Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Lista SRO — szczegóły accessdata.fda.gov."
+    },
+    {
+      "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/SDA/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C836425EEE06346F0E10A11C0&rownum=2219",
+      "date": "2026-07-10T10:33:07Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Lista SRO — szczegóły accessdata.fda.gov."
@@ -2386,30 +2410,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Lista SRO — szczegóły accessdata.fda.gov."
-    },
-    {
-      "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/sda/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C9FF025EEE06346F0E10A11C0&rownum=3",
-      "date": "2026-07-10T10:18:50Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Lista SRO — szczegóły accessdata.fda.gov."
-    },
-    {
-      "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/sda/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C8B5E25EEE06346F0E10A11C0&rownum=44",
-      "date": "2026-07-10T10:16:55Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Lista SRO — szczegóły accessdata.fda.gov."
-    },
-    {
-      "title": "Podsumowanie spotkań Komitetu ds. Oceny Ryzyka w ramach Nadzoru nad Bezpieczeństwem Farmakoterapii (PRAC) w dniach 6–9 lipca 2026 r. – Europejska Agencja Leków (EMA)",
-      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-6-9-july-2026",
-      "date": "2026-07-10T10:00:00Z",
-      "source": "EMA",
-      "confirmed_by": 1,
-      "summary": "PRAC zgadza się z nowymi informacjami dotyczącymi bezpieczeństwa środków antykoncepcyjnych zawierających dezogestrel i etonogestrel oraz leku Litfulo stosowanego w leczeniu łysienia plackowatego."
     }
   ],
   "critical_alerts": [
@@ -2480,12 +2480,12 @@
   ],
   "daily_top5": [
     {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-07-10T22:55:01Z",
-      "source": "NEJM",
+      "title": "Aktualne informacje naukowe na temat badań i rozwoju Bundibugyo MCM – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/07/17/default-calendar/scientific-update-on-bundibugyo-mcm-research-and-development",
+      "date": "2026-07-10T22:41:29Z",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
+      "summary": "Aktualne informacje naukowe na temat badań i rozwoju Bundibugyo MCM."
     },
     {
       "title": "Tygodniowy zapis epidemiologiczny – Światowa Organizacja Zdrowia (WHO)",
