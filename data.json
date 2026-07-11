@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T00:43:42Z",
+  "last_updated": "2026-07-11T00:44:25Z",
   "poland": [
     {
       "title": "Ograniczenie stawki lekarzy to rozwiązanie krótkoterminowe. Nie zastąpi zmian systemowych - Alert Medyczny",
@@ -158,7 +158,7 @@
       "url": "https://alertmedyczny.pl/tusk-o-proponowanych-wynagrodzeniach-lekarzy-76-tys-zl-miesiecznie-to-europejski-top/",
       "date": "2026-07-10T14:41:00Z",
       "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Premier Donald Tusk poparł reformę ochrony zdrowia. Zapowiedział limity wynagrodzeń, zmiany ustawowe oraz pierwsze efekty już we wrześniu."
     },
     {
@@ -404,14 +404,6 @@
   ],
   "world": [
     {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-07-10T22:55:01Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
-    },
-    {
       "title": "Zdrowie seksualne kobiet - Medscape",
       "url": "https://www.medscape.com/c27/p14/womens-sexual-health-2026a1000jkf",
       "date": "2026-07-10T21:32:57Z",
@@ -465,7 +457,7 @@
       "date": "2026-07-10T17:19:22Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Sześć tygodni ograniczenia snu zwiększyło masę ciała, obwód talii, poziom leptyny i czas spędzony nieaktywnie u dorosłych z ryzykiem kardiometabolicznym."
+      "summary": "Sześć tygodni ograniczenia snu spowodowało zwiększenie masy ciała, obwodu talii, poziomu leptyny i czasu spędzonego nieaktywnie u dorosłych z ryzykiem kardiometabolicznym."
     },
     {
       "title": "Śledzenie aktywności IBD: USG jelit może ograniczyć stosowanie endoskopii - Medscape",
@@ -673,7 +665,7 @@
       "date": "2026-07-10T09:26:06Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "NeuroVFM, przeszkolony w zakresie rutynowych skanów MRI i CT systemów opieki zdrowotnej, uczy się ogólnych reprezentacji neuroobrazowania, które poprawiają diagnostykę, generowanie raportów i segregację, pokazując, w jaki sposób prywatne dane kliniczne będą wspomagać bezpieczniejszą i dokładniejszą medyczną sztuczną inteligencję."
+      "summary": "NeuroVFM, przeszkolony w zakresie rutynowych skanów MRI i CT systemów opieki zdrowotnej, uczy się ogólnych reprezentacji neuroobrazowania, które poprawiają diagnostykę, generowanie raportów i selekcję, pokazując, w jaki sposób prywatne dane kliniczne będą wspomagać bezpieczniejszą i dokładniejszą medyczną sztuczną inteligencję."
     },
     {
       "title": "Anty-LAG-3 z lub bez anty-PD-1 w leczeniu glejaka wielopostaciowego nawracającego: badanie I fazy - Natura",
@@ -681,7 +673,7 @@
       "date": "2026-07-10T09:26:06Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "W nierandomizowanym badaniu I fazy pacjenci z nawrotowym glejakiem wielopostaciowym otrzymywali relatlimab anty-LAG-3 z niwolumabem anty-PD-1 lub bez niwolumabu, co wykazało, że zarówno monoterapia, jak i terapia skojarzona są bezpieczne i dają zachęcające wstępne sygnały odpowiedzi klinicznej."
+      "summary": "W nierandomizowanym badaniu fazy 1 pacjenci z nawrotowym glejakiem wielopostaciowym otrzymywali relatlimab anty-LAG-3 z niwolumabem anty-PD-1 lub bez niwolumabu, co wykazało, że zarówno monoterapia, jak i terapia skojarzona są bezpieczne i dają zachęcające wstępne sygnały odpowiedzi klinicznej."
     },
     {
       "title": "Zespół COPA: monogenowy naśladowca ILD związanej z reumatoidalnym zapaleniem stawów, który zasługuje na uwzględnienie w przyszłych oświadczeniach konsensusowych - The Lancet",
@@ -732,7 +724,7 @@
       "summary": "To stanowisko jest na czas określony/oddelegowany do 29.02.2028. Jeśli jesteś pracownikiem Zarządu Zdrowia Uniwersytetu Hywel Dda i ubiegasz się o to stanowisko jako..."
     },
     {
-      "title": "Dzieci we wszystkich politykach: wnioski płynące z globalnej współpracy na rzecz promowania zdrowia i dobrostanu dzieci oraz przyszłych pokoleń - The Lancet",
+      "title": "Dzieci we wszystkich politykach: wnioski płynące z globalnej współpracy na rzecz promowania zdrowia i dobrego samopoczucia dzieci oraz przyszłych pokoleń - The Lancet",
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00856-1/fulltext",
       "date": "2026-07-10T04:15:08Z",
       "source": "The Lancet",
@@ -786,6 +778,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Światowa Organizacja Zdrowia i Międzynarodowy Związek Telekomunikacyjny zapraszają do komentowania projektu Wytycznych dotyczących architektury referencyjnej dla cyfrowej infrastruktury publicznej dla zdrowia (DPI-H)."
+    },
+    {
+      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/research-summaries",
+      "date": "2026-07-09T19:05:28Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
     },
     {
       "title": "Instytucjonalizacja gotowości na patogeny układu oddechowego w Jemenie – Światowa Organizacja Zdrowia (WHO)",
@@ -1122,7 +1122,7 @@
       "url": "https://www.cdc.gov/adhd/data/index.html",
       "date": "2026-07-08T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Dane dotyczące ADHD w dziecięcych ośrodkach kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1155,7 +1155,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
@@ -1174,12 +1174,12 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
     },
     {
-      "title": "Niewydolność serca wywołana kokainą: co powinni wiedzieć lekarze – Europejskie Towarzystwo Kardiologiczne",
+      "title": "Niewydolność serca wywołana kokainą: co klinicyści powinni wiedzieć - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/communities/councils/cardiology-practice/education/cardiopractice/cocaine-induced-heart-failure-what-clinicians-need-to-know/",
       "date": "2026-07-04T19:57:26Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest to toksyna sercowo-naczyniowa o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie układu współczulnego spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
+      "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest powszechnie uważaną toksyną układu sercowo-naczyniowego o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie układu współczulnego spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
     },
     {
       "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1352,14 +1352,6 @@
       "summary": "Dlaczego przeprowadzany jest ten przegląd? Nastolatki i młodzi ludzie na całym świecie w dalszym ciągu napotykają liczne bariery w dostępie do dokładnych informacji na temat aborcji, wysokiej jakości usług i odpowiedniej opieki. Bariery te mogą obejmować ograniczenia prawne i polityczne, piętno, ograniczone możliwości dostawców, ograniczenia finansowe i geograficzne, brak poufności i nieodpowiedni dostęp do informacji opartych na dowodach."
     },
     {
-      "title": "Instytucjonalizacja gotowości na patogeny układu oddechowego w Jemenie – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/feature-stories/detail/institutionalizing-respiratory-pathogen-preparedness-in-yemen",
-      "date": "2026-07-09T18:39:38Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Jemen w dalszym ciągu stoi w obliczu jednego z najbardziej złożonych kryzysów humanitarnych i politycznych na świecie, charakteryzującego się powtarzającymi się konfliktami, zakłóceniami systemów opieki zdrowotnej i ograniczonym dostępem operacyjnym. Utrzymanie nawet podstawowych funkcji zdrowia publicznego w tym środowisku stanowi wyzwanie."
-    },
-    {
       "title": "Budowanie gotowości badawczej w zakresie pandemii patogenów układu oddechowego w Azji Południowo-Wschodniej poprzez regionalny oddział WHO GISRS Unity Studies – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/feature-stories/detail/building-research-readiness-for-respiratory-pathogen-pandemics-in-south-east-asia-through-its-who-gisrs-unity-studies-regional-chapter",
       "date": "2026-07-09T18:39:38Z",
@@ -1368,12 +1360,20 @@
       "summary": "Uznając znaczenie aktualnych dowodów dla świadomego podejmowania decyzji i skutecznego reagowania w sytuacjach kryzysowych, kraje w regionie Azji Południowo-Wschodniej WHO (SEAR) nadały priorytet wzmocnieniu swoich zdolności w zakresie gotowości badawczej. Potrzeba ta stała się szczególnie widoczna podczas niedawnych epidemii, kiedy luki w szybkim generowaniu i wykorzystywaniu standardowych danych ograniczały możliwość wczesnego reagowania."
     },
     {
+      "title": "Instytucjonalizacja gotowości na patogeny układu oddechowego w Jemenie – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/feature-stories/detail/institutionalizing-respiratory-pathogen-preparedness-in-yemen",
+      "date": "2026-07-09T18:39:38Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Jemen w dalszym ciągu stoi w obliczu jednego z najbardziej złożonych kryzysów humanitarnych i politycznych na świecie, charakteryzującego się powtarzającymi się konfliktami, zakłóceniami systemów opieki zdrowotnej i ograniczonym dostępem operacyjnym. Utrzymanie nawet podstawowych funkcji zdrowia publicznego w tym środowisku stanowi wyzwanie."
+    },
+    {
       "title": "Maroko zwiększa możliwości laboratoriów i nadzoru nad grypą dzięki wsparciu PIP – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/feature-stories/detail/morocco-expands-influenza-laboratory-and-surveillance-capacity-with-pip-support",
       "date": "2026-07-09T18:39:38Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "W ciągu ponad dziesięciu lat Maroko wzmocniło swoje laboratoria ds. grypy i możliwości nadzoru dzięki stałemu wsparciu z ram gotowości na wypadek grypy na pandemię (PIP). Inwestycje te przyniosły wymierną poprawę zakresu diagnostyki, terminowego i kompletnego generowania danych oraz raportowania, wspierając skuteczniejsze wykrywanie grypy i innych zagrożeń układu oddechowego oraz reagowanie na nie."
+      "summary": "W ciągu ponad dziesięciu lat Maroko wzmocniło swoje możliwości w zakresie laboratorium i nadzoru nad grypą dzięki stałemu wsparciu z ram gotowości na wypadek grypy na pandemię (PIP). Inwestycje te przyniosły wymierną poprawę zakresu diagnostyki, terminowego i kompletnego generowania danych oraz raportowania, wspierając skuteczniejsze wykrywanie grypy i innych zagrożeń układu oddechowego oraz reagowanie na nie."
     },
     {
       "title": "Krajowy program zewnętrznej oceny jakości (EQA) wzmacnia gotowość Ukrainy do diagnostyki wirusa układu oddechowego – Światowa Organizacja Zdrowia (WHO)",
@@ -1389,7 +1389,7 @@
       "date": "2026-07-09T18:33:37Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Globalny raport o statusie raka 2026, opublikowany przez Światową Organizację Zdrowia w lipcu 2026 r., po raz pierwszy stara się opowiedzieć całą historię. Jest to najbardziej kompleksowa ocena, jaką kiedykolwiek opracowano, pokazująca, jakie stanowisko na świecie zajmuje się zapobieganiem i kontrolowaniem nowotworów. Oprócz pomiaru obciążenia chorobami i oceny funkcjonowania systemów opieki zdrowotnej, raport umieszcza ludzi i ich życiowe doświadczenia w centrum globalnego programu walki z rakiem."
+      "summary": "Globalny raport o statusie raka 2026, opublikowany przez Światową Organizację Zdrowia w lipcu 2026 r., po raz pierwszy stara się opowiedzieć całą historię. Jest to najbardziej kompleksowa ocena, jaką kiedykolwiek opracowano, pokazująca, jakie stanowisko na świecie zajmuje się zapobieganiem i kontrolowaniem nowotworów. Oprócz pomiaru obciążenia chorobami i oceny funkcjonowania systemów opieki zdrowotnej, raport umieszcza ludzi i ich doświadczenia w centrum globalnego programu walki z rakiem."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -1416,7 +1416,7 @@
       "summary": "Dołącz do WHO 22 lipca 2026 r. i weź udział w wirtualnym rozpoczęciu globalnego ćwiczenia ustalania priorytetów badawczych w zakresie zdrowia, migracji i wysiedleń w kontekście zmian klimatycznych. Podczas seminarium internetowego zostaną przedstawione najważniejsze luki w dowodach, priorytety badawcze oraz plan działania dotyczący wzmocnienia badań i przełożenia wyników na politykę i praktykę w celu poprawy zdrowia i dobrostanu populacji migrantów i przesiedleńców dotkniętych zmianami klimatycznymi."
     },
     {
-      "title": "Epidemie norowirusa, COVID-19 i grypy wśród mieszkańców – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Epidemie norowirusa, COVID-19 i grypy wśród mieszkańców — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7526a2.htm?s_cid=OS_mm7526a2_w",
       "date": "2026-07-09T16:59:58Z",
       "source": "CDC Outbreaks",
@@ -1432,7 +1432,7 @@
       "summary": "Niniejsza broszura wspiera wdrażanie ramowych zasad leczenia wad wrodzonych skóry i została opracowana przede wszystkim z myślą o pracownikach pierwszej linii opieki zdrowotnej, takich jak Ty, pracujących w odległych i zaniedbanych społecznościach, gdzie choroby weneryczne skóry i inne choroby skóry często współistnieją. Zawiera jasne, praktyczne wskazówki, które pomogą Ci rozpoznać i leczyć zarówno choroby nowotworowe skóry, jak i inne często spotykane choroby skóry."
     },
     {
-      "title": "DVD/261012 – Monitorowanie nadmiernej śmiertelności w Europie w celu terminowej oceny wpływu chorób zakaźnych i zagrożeń dla zdrowia publicznego – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "DVD/261012 – Monitorowanie nadmiernej umieralności w Europie w celu terminowej oceny wpływu chorób zakaźnych i zagrożeń dla zdrowia publicznego – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/about-us/procurement-and-grants/dvd261012-monitoring-excess-mortality-across-europe-timely",
       "date": "2026-07-09T14:20:57Z",
       "source": "ECDC",
@@ -1520,7 +1520,7 @@
       "summary": "WHO wzywa do podjęcia pilnych działań w celu zaradzenia ogólnoświatowym zakłóceniom w świadczeniu usług przeciwgruźliczych, narażającym życie milionów ludzi."
     },
     {
-      "title": "Szczepionka HPV wytwarzana przez E coli, skuteczna przeciwko rakotwórczym szczepom HPV - CIDRAP",
+      "title": "Szczepionka przeciwko HPV wytwarzana przez E coli, skuteczna przeciwko rakotwórczym szczepom HPV - CIDRAP",
       "url": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/e-coli-produced-hpv-vaccine-effective-against-cancer-causing-strains-hpv",
       "date": "2026-07-08T19:35:00Z",
       "source": "CIDRAP",
@@ -1650,7 +1650,7 @@
       "summary": "Roche wstrzymuje rozwój dwóch programów dotyczących choroby Huntingtona – Clinical Trials Arena."
     },
     {
-      "title": "Ipsen ma rywalizować z Botoxem po zwycięstwach duetu w fazie III w walce z migreną – Clinical Trials Arena",
+      "title": "Ipsen gotowy rywalizować z Botoxem po zwycięstwach duetu w fazie III w walce z migreną – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/ipsen-dysport-migraine-phase-iii-episodic-chronic-win/",
       "date": "2026-07-10T10:59:25Z",
       "source": "Clinical Trials Arena",
@@ -1695,7 +1695,7 @@
       "date": "2026-07-10T08:37:10Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07692373 | Test chodu Groningen Meander u starszych osób dorosłych z problemami z równowagą ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07692373 | Test chodu Groningen Meander u osób starszych z problemami z równowagą ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07693218 | Badanie na zdrowych mężczyznach mające na celu sprawdzenie, w jaki sposób BI 1815368 jest przetwarzany w organizmie – ClinicalTrials.gov",
@@ -1783,7 +1783,7 @@
       "date": "2026-07-10T06:52:21Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07693192 | Porównanie skuteczności i bezpieczeństwa dopęcherzowego podawania toksyny botulinowej A w porównaniu z osoczem bogatopłytkowym w leczeniu opornego na leczenie pęcherza nadreaktywnego: dwuletnie badanie ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07693192 | Porównanie skuteczności i bezpieczeństwa dopęcherzowej toksyny botulinowej A w porównaniu z osoczem bogatopłytkowym w leczeniu opornego na leczenie nadreaktywnego pęcherza: dwuletnie badanie ClinicalTrials.gov."
     },
     {
       "title": "Badanie trastuzumabu deruxtekanu (T-DXd) i cetuksymabu u osób chorych na raka jelita grubego – ClinicalTrials.gov",
@@ -1866,12 +1866,12 @@
       "summary": "A co powiesz na sprawę przeciwko abolicji, a także sprawę o odpowiedzialność? Była dyrektor Narodowego Instytutu Zdrowia (NIH) i obecna prezes Narodowej Akademii Medycznej Monica Bertagnolli włączyła się w rosnącą debatę na temat przyszłości NIH, odpowiadając bezpośrednio na niedawną opinię Scotta Atlasa w „Washington Post” wzywającą do rozwiązania agencji. Bertagnolli argumentuje, że likwidacja NIH znacząco osłabiłaby amerykański ekosystem badań biomedycznych, wskazując na dziesięciolecia odkryć finansowanych przez podatników, które pomogły w stworzeniu naukowych podstaw pod terapie przeciwnowotworowe, technologie mRNA, leki GLP-1, genomikę i wiele innych osiągnięć medycznych."
     },
     {
-      "title": "Dlaczego pojedyncze kluczowe badania sprawiają, że rekrutacja pacjentów jest znacznie mniej wyrozumiała – stosowane badania kliniczne online",
+      "title": "Dlaczego pojedyncze kluczowe badania sprawiają, że rekrutacja pacjentów jest znacznie mniej wyrozumiała — stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/single-pivotal-trials-patient-recruitment-forgiving",
       "date": "2026-07-09T16:29:12Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Dlaczego pojedyncze kluczowe badania sprawiają, że rekrutacja pacjentów jest znacznie mniej wyrozumiała? Stosowane badania kliniczne online."
+      "summary": "Dlaczego pojedyncze kluczowe badania kliniczne sprawiają, że rekrutacja pacjentów jest znacznie mniej wyrozumiała? Stosowane badania kliniczne online."
     },
     {
       "title": "Akcje AstraZeneca i Ionis znacząco spadają w związku z niepowodzeniem próby Wainua ATTR-CM – Arena Badań Klinicznych",
@@ -1911,7 +1911,7 @@
       "date": "2026-07-09T10:44:19Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Pierwszy pacjent otrzymuje Forzinity w fazie IV badania klinicznego Mighty Therapeutics na arenie prób klinicznych."
+      "summary": "Pierwszy pacjent otrzymuje Forzinity w fazie IV badania klinicznego Mighty Therapeutics na arenie badań klinicznych."
     },
     {
       "title": "Doustny lek DMD firmy Satellos poprawia ruchomość ramion po sześciu miesiącach fazy II – Areny Badań Klinicznych",
@@ -1999,7 +1999,7 @@
       "date": "2026-07-08T14:29:05Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "To, co kiedyś było postrzegane głównie jako probiotyk trawienny, stopniowo wyłania się jako poważny obszar badań biomedycznych. Z analizy TrialSite News dotyczącej 36 badań zarejestrowanych na ClinicalTrials.gov wynika, że ​​Bifidobacterium jest coraz częściej badane nie tylko pod kątem zaburzeń żołądkowo-jelitowych, ale także pogorszenia funkcji poznawczych, immunoterapii nowotworów, chorób metabolicznych, chorób wątroby, zdrowia psychicznego, zdrowego starzenia się, rekonwalescencji chirurgicznej i chorób oczu u dzieci. Chociaż ostateczne dowody kliniczne w przypadku wielu wskazań pozostają ograniczone, poszerzająca się liczba badań sugeruje, że terapie mikrobiomowe wkraczają w nową erę medycyny precyzyjnej opartej na biomarkerach, ukierunkowanych szczepach drobnoustrojów i spersonalizowanych interwencjach."
+      "summary": "To, co kiedyś było postrzegane głównie jako probiotyk trawienny, stopniowo wyłania się jako poważny obszar badań biomedycznych. Z analizy TrialSite News dotyczącej 36 badań zarejestrowanych na ClinicalTrials.gov wynika, że ​​Bifidobacterium jest coraz częściej badane nie tylko pod kątem zaburzeń żołądkowo-jelitowych, ale także pogorszenia funkcji poznawczych, immunoterapii nowotworów, chorób metabolicznych, chorób wątroby, zdrowia psychicznego, zdrowego starzenia się, rekonwalescencji chirurgicznej i chorób oczu u dzieci. Chociaż ostateczne dowody kliniczne w przypadku wielu wskazań pozostają ograniczone, rosnąca liczba badań sugeruje, że terapie mikrobiomowe wkraczają w nową erę medycyny precyzyjnej opartej na biomarkerach, ukierunkowanych szczepach drobnoustrojów i spersonalizowanych interwencjach."
     },
     {
       "title": "Badania kliniczne nad autyzmem wkraczają w nową erę: ClinicalTrials.gov ujawnia trzy trendy zmieniające badania nad autyzmem - trialssitenews.com",
@@ -2041,7 +2041,7 @@
       "date": "2026-07-10T21:23:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Apnimed pliki dla Nasdaq IPO pod oznaczeniem $APMD, trzy miesiące po przedłożeniu swojego leku na bezdech senny AD109 do zatwierdzenia przez FDA."
+      "summary": "Apnimed pliki dla Nasdaq IPO pod etykietą $APMD, trzy miesiące po przedłożeniu swojego leku na bezdech senny AD109 do zatwierdzenia przez FDA."
     },
     {
       "title": "Strach Katie Couric przed utratą pamięci rzuca światło na rzadką chorobę mózgu",
@@ -2124,7 +2124,7 @@
       "summary": "Redaktorzy Pink Sheet omawiają nowe potencjalne przepisy, które rozszerzyłyby zdolność agencji do publikowania pełnych listów z odpowiedziami i jeszcze bardziej ograniczyłyby reklamy DTC, a także potencjalną reorganizację wyższego kierownictwa FDA."
     },
     {
-      "title": "CDER po raz pierwszy od końca 2024 r. zatrudni w kwartale ponad 100 nowych pracowników - Endpoints News",
+      "title": "CDER dodaje ponad 100 nowych pracowników w kwartale po raz pierwszy od końca 2024 r. - Endpoints News",
       "url": "https://endpoints.news/fda-adds-100-new-cder-employees-in-a-quarter-for-first-time-since-late-2024/",
       "date": "2026-07-10T16:58:00Z",
       "source": "Endpoints News",
@@ -2153,7 +2153,7 @@
       "date": "2026-07-10T15:35:52Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "PIĄTEK, 10 lipca 2026 r. Jak wynika z nowego badania, seniorzy całkiem dobrze radzą sobie z tym, jak bystre są w danym momencie. Zamknięcie ocen własnych zarejestrowanych przez smartwatche."
+      "summary": "PIĄTEK, 10 lipca 2026 r. Jak wynika z nowego badania, seniorzy całkiem dobrze radzą sobie z tym, jak bystre są w danym momencie. Samooceny zebrane przez smartwatche zamknij."
     },
     {
       "title": "Niemieccy prawodawcy uchwalili ustawę oszczędzającą koszty, która według producentów leków ich wypędzi – Endpoints News",
@@ -2480,12 +2480,12 @@
   ],
   "daily_top5": [
     {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-07-10T22:55:01Z",
-      "source": "NEJM",
+      "title": "Aktualne informacje naukowe na temat badań i rozwoju Bundibugyo MCM – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/07/17/default-calendar/scientific-update-on-bundibugyo-mcm-research-and-development",
+      "date": "2026-07-10T22:41:29Z",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
+      "summary": "Aktualne informacje naukowe na temat badań i rozwoju Bundibugyo MCM."
     },
     {
       "title": "Tygodniowy zapis epidemiologiczny – Światowa Organizacja Zdrowia (WHO)",
