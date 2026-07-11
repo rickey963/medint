@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T01:26:00Z",
+  "last_updated": "2026-07-11T01:26:48Z",
   "poland": [
     {
       "title": "Ograniczenie stawki lekarzy to rozwiązanie krótkoterminowe. Nie zastąpi zmian systemowych - Alert Medyczny",
@@ -412,6 +412,14 @@
       "summary": "Kliknij podany link, aby zobaczyć pełny opis stanowiska."
     },
     {
+      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/research-summaries",
+      "date": "2026-07-10T22:55:01Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
+    },
+    {
       "title": "Zdrowie seksualne kobiet - Medscape",
       "url": "https://www.medscape.com/c27/p14/womens-sexual-health-2026a1000jkf",
       "date": "2026-07-10T21:32:57Z",
@@ -468,12 +476,20 @@
       "summary": "Sześć tygodni ograniczenia snu spowodowało zwiększenie masy ciała, obwodu talii, poziomu leptyny i czasu spędzonego nieaktywnie u dorosłych z ryzykiem kardiometabolicznym."
     },
     {
-      "title": "Śledzenie aktywności IBD: USG jelit może ograniczyć stosowanie endoskopii - Medscape",
+      "title": "Śledzenie aktywności IBD: USG może ograniczyć stosowanie endoskopii - Medscape",
       "url": "https://www.medscape.com/viewarticle/tracking-ibd-activity-intestinal-ultrasound-may-reduce-2026a1000ng7",
       "date": "2026-07-10T17:10:52Z",
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Po wdrożeniu usługi USG jelit liczba badań endoskopowych wykonywanych w celu oceny aktywności chorób zapalnych jelit zmniejszyła się o ponad połowę."
+    },
+    {
+      "title": "Wirtualna rzeczywistość jako alternatywa dla konwencjonalnego nauczania anatomii: systematyczny przegląd randomizowanych, kontrolowanych badań - Cureus",
+      "url": "https://www.cureus.com/articles/499580-virtual-reality-as-an-alternative-to-conventional-anatomy-teaching-a-systematic-review-of-randomised-controlled-trials",
+      "date": "2026-07-10T17:06:47Z",
+      "source": "Cochrane Library",
+      "confirmed_by": 1,
+      "summary": "Tradycyjna edukacja w zakresie anatomii, oparta na sekcji zwłok i zasobach dwuwymiarowych (2D), stoi przed rosnącą presją związaną ze skróceniem godzin nauczania, niedoborami nauczycieli i rosnącymi kosztami. Rzeczywistość wirtualna (VR) oferuje wciągającą i powtarzalną alternatywę; jednakże jego obiektywna skuteczność w porównaniu z ustalonymi metodami pozostaje przedmiotem dyskusji. Celem tego badania była ocena skuteczności nauczania opartego na VR w porównaniu z konwencjonalnym nauczaniem na studiach licencjackich z anatomii, ze szczególnym naciskiem na zdobywanie wiedzy, długotrwałe zapamiętywanie i satysfakcję uczniów."
     },
     {
       "title": "Modelka pokazuje dzieci z anafilaksją, które nie wymagają opieki ED – Medscape",
@@ -786,22 +802,6 @@
       "source": "Cochrane Library",
       "confirmed_by": 1,
       "summary": "Najlepsze rodzaje ćwiczeń dla zdrowych stawów MSN."
-    },
-    {
-      "title": "Zaproszenie do zgłaszania uwag publicznych i zaproszenie do przeglądu – Projekt wytycznych dotyczących architektury referencyjnej dla cyfrowej infrastruktury publicznej na rzecz zdrowia (DPI-H) – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/articles-detail/call-for-public-comments-and-invitation-to-review",
-      "date": "2026-07-09T19:25:38Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia i Międzynarodowy Związek Telekomunikacyjny zapraszają do komentowania projektu Wytycznych dotyczących architektury referencyjnej dla cyfrowej infrastruktury publicznej dla zdrowia (DPI-H)."
-    },
-    {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-07-09T19:05:28Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
     }
   ],
   "guidelines": [
@@ -811,7 +811,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
+      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
     },
     {
       "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
@@ -1130,7 +1130,7 @@
       "url": "https://www.cdc.gov/adhd/data/index.html",
       "date": "2026-07-08T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Dane dotyczące ADHD w dziecięcych ośrodkach kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1142,12 +1142,12 @@
       "summary": "Informacje o szczepionkach przeciwko japońskiemu zapaleniu mózgu dla podmiotów świadczących opiekę zdrowotną Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Aktualizacja wytycznych dotyczących nadciśnienia z 2025 r. nieznacznie zwiększa możliwość kwalifikowania się do leczenia na etapie 1, przy czym wzrost netto dotyczy pacjentów starszych i kobiet — badania Epic",
-      "url": "https://www.epicresearch.org/articles/2025-hypertension-guideline-update-modestly-expands-stage-1-treatment-eligibility-with-net-increases-concentrated-among-older-and-female-patients/",
-      "date": "2026-07-07T11:59:16Z",
+      "title": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami - Pharmacy Times – Wiadomości z praktyki farmaceutycznej i opinie ekspertów",
+      "url": "https://www.pharmacytimes.com/view/new-ckm-guideline-elevates-pharmacists-role-in-comprehensive-medication-management",
+      "date": "2026-07-07T18:34:58Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Wśród dorosłych w wieku 40–79 lat z nadciśnieniem tętniczym w 1. stopniu kwalifikowalność do leczenia nieznacznie wzrosła z 45,2% zgodnie z wytycznymi z 2017 r. do 47,0% zgodnie z wytycznymi z 2025 r. Ogółem zgodnie z nowymi wytycznymi 3,2% pacjentów byłoby leczonych inaczej (2,5% uzyskało kwalifikację, 0,7% utraciło kwalifikację)."
+      "summary": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami Pharmacy Times – wiadomości z praktyki farmaceutycznej i opinie ekspertów."
     },
     {
       "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1786,7 +1786,7 @@
       "summary": "Szczegóły badania | NCT07693192 | Porównanie skuteczności i bezpieczeństwa dopęcherzowej toksyny botulinowej A w porównaniu z osoczem bogatopłytkowym w leczeniu opornego na leczenie nadreaktywnego pęcherza: dwuletnie badanie ClinicalTrials.gov."
     },
     {
-      "title": "Badanie trastuzumabu deruxtekanu (T-DXd) i cetuksymabu u osób chorych na raka jelita grubego – ClinicalTrials.gov",
+      "title": "Badanie trastuzumabu deruxtekanu (T-DXd) i cetuksymabu u osób chorych na raka jelita grubego - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07691489",
       "date": "2026-07-10T06:38:10Z",
       "source": "ClinicalTrials.gov",
@@ -1834,12 +1834,12 @@
       "summary": "Szczegóły badania | NCT07693569 | Zastrzyk kolagenazy w leczeniu spastyczności ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07694232 | Pilotażowe, randomizowane, kontrolowane badanie dotyczące leczenia homeopatycznego w przypadku długiego przebiegu Covid-19 – ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07694232 | Pilotażowe, randomizowane, kontrolowane badanie dotyczące leczenia homeopatycznego w przypadku długotrwałego zakażenia koronawirusem – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07694232",
       "date": "2026-07-09T21:26:36Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07694232 | Pilotażowe, randomizowane, kontrolowane badanie leczenia homeopatycznego w leczeniu długotrwałej choroby Covid-19 ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07694232 | Pilotażowe, randomizowane, kontrolowane badanie leczenia homeopatycznego w leczeniu długotrwałej choroby COVID ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07693634 | Telerehabilitacja dla sportowców rekreacyjnych z zespołem bólowym rzepkowo-udowym - ClinicalTrials.gov",
@@ -2285,6 +2285,14 @@
     },
     {
       "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/SDA/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C8EBC25EEE06346F0E10A11C0&rownum=1985",
+      "date": "2026-07-10T10:49:03Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Lista SRO — szczegóły accessdata.fda.gov."
+    },
+    {
+      "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/SDA/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C9AB725EEE06346F0E10A11C0&rownum=273",
       "date": "2026-07-10T10:38:44Z",
       "source": "FDA Drug News",
@@ -2399,14 +2407,6 @@
       "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/sda/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C87B025EEE06346F0E10A11C0&rownum=43",
       "date": "2026-07-10T10:19:39Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Lista SRO — szczegóły accessdata.fda.gov."
-    },
-    {
-      "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/sda/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C901C25EEE06346F0E10A11C0&rownum=15",
-      "date": "2026-07-10T10:19:14Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Lista SRO — szczegóły accessdata.fda.gov."
