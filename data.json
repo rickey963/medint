@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T01:37:02Z",
+  "last_updated": "2026-07-11T01:37:45Z",
   "poland": [
     {
       "title": "Ograniczenie stawki lekarzy to rozwiązanie krótkoterminowe. Nie zastąpi zmian systemowych - Alert Medyczny",
@@ -158,7 +158,7 @@
       "url": "https://alertmedyczny.pl/tusk-o-proponowanych-wynagrodzeniach-lekarzy-76-tys-zl-miesiecznie-to-europejski-top/",
       "date": "2026-07-10T14:41:00Z",
       "source": "alertmedyczny.pl",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Premier Donald Tusk poparł reformę ochrony zdrowia. Zapowiedział limity wynagrodzeń, zmiany ustawowe oraz pierwsze efekty już we wrześniu."
     },
     {
@@ -811,7 +811,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
+      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
     },
     {
       "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
@@ -1142,12 +1142,12 @@
       "summary": "Informacje o szczepionkach przeciwko japońskiemu zapaleniu mózgu dla podmiotów świadczących opiekę zdrowotną Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami - Pharmacy Times – Wiadomości z praktyki farmaceutycznej i opinie ekspertów",
-      "url": "https://www.pharmacytimes.com/view/new-ckm-guideline-elevates-pharmacists-role-in-comprehensive-medication-management",
-      "date": "2026-07-07T18:34:58Z",
+      "title": "Aktualizacja wytycznych dotyczących nadciśnienia z 2025 r. nieznacznie zwiększa możliwość kwalifikowania się do leczenia na etapie 1, przy czym wzrost netto dotyczy pacjentów starszych i kobiet — badania Epic",
+      "url": "https://www.epicresearch.org/articles/2025-hypertension-guideline-update-modestly-expands-stage-1-treatment-eligibility-with-net-increases-concentrated-among-older-and-female-patients/",
+      "date": "2026-07-07T11:59:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami Pharmacy Times – wiadomości z praktyki farmaceutycznej i opinie ekspertów."
+      "summary": "Wśród dorosłych w wieku 40–79 lat z nadciśnieniem tętniczym w 1. stopniu kwalifikowalność do leczenia nieznacznie wzrosła z 45,2% zgodnie z wytycznymi z 2017 r. do 47,0% zgodnie z wytycznymi z 2025 r. Ogółem zgodnie z nowymi wytycznymi 3,2% pacjentów byłoby leczonych inaczej (2,5% uzyskało kwalifikację, 0,7% utraciło kwalifikację)."
     },
     {
       "title": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1182,14 +1182,6 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
     },
     {
-      "title": "Szkolenie OK COBIK NIL - Dialog motywujący - NIL",
-      "url": "https://nil.org.pl/eventToPdf/1542",
-      "date": "2026-07-05T21:11:06Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Szkolenie OK COBIK NIL - Dialog motywujący NIL."
-    },
-    {
       "title": "Niewydolność serca wywołana kokainą: co powinni wiedzieć lekarze – Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/communities/councils/cardiology-practice/education/cardiopractice/cocaine-induced-heart-failure-what-clinicians-need-to-know/",
       "date": "2026-07-04T19:57:26Z",
@@ -1204,6 +1196,14 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Stan prac - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/stan-prac-8/",
+      "date": "2026-07-03T14:20:19Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Stan prac Agencja Oceny Technologii Medycznych i Taryfikacji."
     }
   ],
   "epidemiology": [
@@ -2285,6 +2285,14 @@
     },
     {
       "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/SDA/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C895C25EEE06346F0E10A11C0&rownum=1185",
+      "date": "2026-07-10T10:53:39Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Lista SRO — szczegóły accessdata.fda.gov."
+    },
+    {
+      "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/SDA/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C8EBC25EEE06346F0E10A11C0&rownum=1985",
       "date": "2026-07-10T10:49:03Z",
       "source": "FDA Drug News",
@@ -2399,14 +2407,6 @@
       "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/sda/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C8FCC25EEE06346F0E10A11C0&rownum=25",
       "date": "2026-07-10T10:21:27Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Lista SRO — szczegóły accessdata.fda.gov."
-    },
-    {
-      "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/sda/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C8B0D25EEE06346F0E10A11C0&rownum=27",
-      "date": "2026-07-10T10:20:51Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Lista SRO — szczegóły accessdata.fda.gov."
