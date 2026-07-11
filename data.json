@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T01:04:38Z",
+  "last_updated": "2026-07-11T01:05:23Z",
   "poland": [
     {
       "title": "Ograniczenie stawki lekarzy to rozwiązanie krótkoterminowe. Nie zastąpi zmian systemowych - Alert Medyczny",
@@ -223,7 +223,7 @@
       "date": "2026-07-10T13:52:00Z",
       "source": "Termedia",
       "confirmed_by": 1,
-      "summary": "1 lipca rozpoczął się nabór do konkursu Ministerstwa Zdrowia, w ramach którego z Funduszu Medycznego przeznaczono przeszło 1 mld zł na wsparcie konsolidacji szpitali. Jako pierwszy swój wniosek złożył Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu."
+      "summary": "Rusza konsolidacja szpitali Termedia."
     },
     {
       "title": "Zaczęła się konsolidacja szpitali - Termedia",
@@ -410,6 +410,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Kliknij podany link, aby zobaczyć pełny opis stanowiska."
+    },
+    {
+      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/research-summaries",
+      "date": "2026-07-10T22:55:01Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
     },
     {
       "title": "Zdrowie seksualne kobiet - Medscape",
@@ -788,14 +796,6 @@
       "summary": "Światowa Organizacja Zdrowia i Międzynarodowy Związek Telekomunikacyjny zapraszają do komentowania projektu Wytycznych dotyczących architektury referencyjnej dla cyfrowej infrastruktury publicznej dla zdrowia (DPI-H)."
     },
     {
-      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/research-summaries",
-      "date": "2026-07-09T19:05:28Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
-    },
-    {
       "title": "Instytucjonalizacja gotowości na patogeny układu oddechowego w Jemenie – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/feature-stories/detail/institutionalizing-respiratory-pathogen-preparedness-in-yemen",
       "date": "2026-07-09T18:39:38Z",
@@ -811,7 +811,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
+      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
     },
     {
       "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
@@ -1122,7 +1122,7 @@
       "url": "https://www.cdc.gov/adhd/data/index.html",
       "date": "2026-07-08T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Dane dotyczące ADHD w dziecięcych ośrodkach kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1174,6 +1174,14 @@
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
     },
     {
+      "title": "Szkolenie OK COBIK NIL - Dialog motywujący - NIL",
+      "url": "https://nil.org.pl/eventToPdf/1542",
+      "date": "2026-07-05T21:11:06Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Szkolenie OK COBIK NIL - Dialog motywujący NIL."
+    },
+    {
       "title": "Niewydolność serca wywołana kokainą: co powinni wiedzieć lekarze – Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/communities/councils/cardiology-practice/education/cardiopractice/cocaine-induced-heart-failure-what-clinicians-need-to-know/",
       "date": "2026-07-04T19:57:26Z",
@@ -1196,14 +1204,6 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Stan prac Agencja Oceny Technologii Medycznych i Taryfikacji."
-    },
-    {
-      "title": "Deklarujemy pełną gotowość do współpracy. Prezes NRL przedstawił postulaty samorządu premierowi Donaldowi Tuskowi - NIL",
-      "url": "https://nil.org.pl/aktualnosci/9309-deklarujemy-pelna-gotowosc-do-wspolpracy-prezes-nrl-przedstawil-postulaty-samorzadu-premierowi-donaldowi-tuskowi",
-      "date": "2026-07-03T13:56:35Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
     }
   ],
   "epidemiology": [
@@ -2488,12 +2488,12 @@
       "summary": "Kliknij podany link, aby zobaczyć pełny opis stanowiska."
     },
     {
-      "title": "Aktualne informacje naukowe na temat badań i rozwoju Bundibugyo MCM – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/07/17/default-calendar/scientific-update-on-bundibugyo-mcm-research-and-development",
-      "date": "2026-07-10T22:41:29Z",
-      "source": "WHO Disease Outbreak News",
+      "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/research-summaries",
+      "date": "2026-07-10T22:55:01Z",
+      "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Aktualne informacje naukowe na temat badań i rozwoju Bundibugyo MCM."
+      "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
     },
     {
       "title": "Tygodniowy zapis epidemiologiczny – Światowa Organizacja Zdrowia (WHO)",
