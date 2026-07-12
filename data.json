@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T09:20:41Z",
+  "last_updated": "2026-07-12T09:21:27Z",
   "poland": [
     {
       "title": "Opener, OFF Festival i Męskie Granie przyciągają tłumy. Eksperci: obecność marek alkoholowych to nie tylko sponsoring - PolitykaZdrowotna.com",
@@ -612,6 +612,14 @@
       "summary": "Co wiesz o najnowszych odkryciach klinicznych dotyczących migreny? Sprawdź swoją wiedzę w tym krótkim quizie."
     },
     {
+      "title": "Aspekty interwencji psychospołecznych uwzględniające płeć, płeć i pochodzenie etniczne dla osób cierpiących na demencję i BPSD: protokół partycypacyjnego przeglądu parasolowego - BMJ Open",
+      "url": "https://bmjopen.bmj.com/content/16/5/e114162.alerts",
+      "date": "2026-07-11T05:18:26Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Wprowadzenie Behawioralne i psychologiczne objawy demencji (BPSD) dotykają aż 80% osób chorych na demencję i stanowią poważne wyzwanie w kontekście opieki. Jako strategie pierwszego rzutu zaleca się interwencje psychospołeczne, ale rola aspektów płci, płci i pochodzenia etnicznego w tym kontekście pozostaje niedostatecznie zbadana. Celem tego ogólnego przeglądu, który zostanie przeprowadzony w ramach projektu GenderDem, jest synteza istniejących przeglądów interwencji psychospołecznych w przypadku BPSD oraz zbadanie potencjalnych różnic między nimi ze względu na płeć, płeć i pochodzenie etniczne."
+    },
+    {
       "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 08, dane na dzień 5 lipca 2026 r. – WHO | Biuro Regionalne dla Afryki",
       "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1",
       "date": "2026-07-11T04:51:32Z",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Model prognostyczny identyfikuje dzieci z anafilaksją, u których ryzyko konieczności stosowania dodatkowej adrenaliny jest niskie i które mogą bezpiecznie unikać wizyt na oddziale ratunkowym."
-    },
-    {
-      "title": "Wspomagane umieranie: Jersey ma wprowadzić usługę w przyszłym roku – BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100263",
-      "date": "2026-07-10T16:38:16Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Jersey ma stać się pierwszą jurysdykcją Wielkiej Brytanii i Wyspy Normandzkiej, która wdroży usługę wspomaganego umierania po uzyskaniu zgody królewskiej proponowanej ustawy. Według rządu Jersey, dzięki ustawie Assisted Dying (Jersey) z 2026 r., usługa mogłaby rozpocząć działalność pod koniec przyszłego roku, a prace nad rekrutacją personelu na kluczowe stanowiska już trwają.1 Minister zdrowia i usług socjalnych stanu Jersey, Tom Binet, powiedział: „Nadal jest wiele do zrobienia, ale mam wszystko…."
     }
   ],
   "guidelines": [
@@ -1099,7 +1099,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
@@ -1392,20 +1392,20 @@
       "summary": "Epidemia wielostanowego zapalenia wątroby potencjalnie powiązana z centrami kontroli i zapobiegania chorobom mrożonych małży | CDC (.gov)."
     },
     {
-      "title": "Dane dotyczące ścieków dotyczące ptasiej grypy A(H5) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/wastewater/emerging-viruses/h5.html",
-      "date": "2026-07-10T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Dane dotyczące ścieków dla Centrów Kontroli i Zapobiegania Chorobom ptasiej grypy A(H5) | CDC (.gov)."
-    },
-    {
       "title": "Krajowe dane dotyczące ścieków dotyczące wirusów układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/wastewater/respiratory-viruses/national.html",
       "date": "2026-07-10T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Krajowe dane dotyczące ścieków dla wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Dane dotyczące ścieków dotyczące ptasiej grypy A(H5) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/wastewater/emerging-viruses/h5.html",
+      "date": "2026-07-10T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Dane dotyczące ścieków dla Centrów Kontroli i Zapobiegania Chorobom ptasiej grypy A(H5) | CDC (.gov)."
     },
     {
       "title": "Media cyfrowe i społecznościowe — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
