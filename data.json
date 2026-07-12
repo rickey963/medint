@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T15:36:06Z",
+  "last_updated": "2026-07-12T15:37:03Z",
   "poland": [
     {
       "title": "Leczenie raka w Polsce. Bożena ujawnia prawdziwe koszty. \"Ile to będzie trwać?\" - Medonet",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Niebieskie światło TURBT może zmniejszyć nawroty i progresję nieinwazyjnego raka pęcherza moczowego: Cochrane... - Dialogi Medyczne",
+      "url": "https://medicaldialogues.in/oncology/news/blue-light-turbt-may-reduce-recurrence-and-progression-in-non-muscle-invasive-bladder-cancer-cochrane-review-174824",
+      "date": "2026-07-12T15:15:47Z",
+      "source": "Cochrane Library",
+      "confirmed_by": 1,
+      "summary": "Medha Baranwal posiada tytuł licencjata nauk biomedycznych uzyskany na Uniwersytecie w Delhi oraz tytuł magistra biotechnologii uzyskany na Uniwersytecie Amity. Od maja 2018 r. uczestniczy w Medical Dialogues, pisząc i redagując artykuły z zakresu wiadomości medycznych, które przekładają złożone badania na jasne i dostępne informacje dla pracowników służby zdrowia."
+    },
+    {
       "title": "Riwaroksaban następnie aspiryna kontra sama aspiryna po całkowitej alloplastyce stawu biodrowego lub kolanowego - The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2603649",
       "date": "2026-07-12T13:05:08Z",
@@ -689,7 +697,7 @@
       "date": "2026-07-11T05:17:51Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Wprowadzenie Raporty na temat epidemiologii i skutków ostrego uszkodzenia nerek u osób w stanie krytycznym dostarczają zmiennych szacunków w oparciu o różnice w populacjach i podstawowym narażeniu. Potrzebne są aktualne i możliwe do uogólnienia dane dotyczące częstości występowania, a także informacje na temat długoterminowych wyników leczenia pacjentów i nerek. Badanie dotyczące ostrego uszkodzenia nerek – epidemiologia u pacjentów na oddziałach intensywnej terapii 2 (AKI-EPI 2) ma na celu opisanie występowania AKI i związanych z nią skutków u pacjentów w stanie krytycznym na całym świecie."
+      "summary": "Wprowadzenie Raporty na temat epidemiologii i skutków ostrego uszkodzenia nerek u osób w stanie krytycznym dostarczają zmiennych szacunków w oparciu o różnice w populacjach i podstawowym narażeniu. Potrzebne są aktualne i możliwe do uogólnienia dane dotyczące częstości występowania, a także informacje na temat długoterminowych wyników leczenia pacjentów i nerek. Badanie dotyczące ostrego uszkodzenia nerek – epidemiologia u pacjentów na oddziałach intensywnej terapii 2 (AKI-EPI 2) ma na celu opisanie występowania i związanych z nim skutków AKI u krytycznie chorych pacjentów na całym świecie."
     },
     {
       "title": "Kierowana refleksja grupowa a SNAPPS we wzmacnianiu rozumowania klinicznego u studentów ostatniego roku MBBS w szpitalu klinicznym sektora publicznego w Pakistanie: badanie quasi-eksperymentalne – BMJ Open",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Czy jesteś zainteresowany pracą w placówce opieki zdrowotnej i przyczynianiem się do poprawy opieki nad pacjentem dzięki efektywnemu wykorzystaniu technologii? Wyjątkowy i e..."
-    },
-    {
-      "title": "Błędy w sztuce i kwestie prawne — Medscape",
-      "url": "https://www.medscape.com/c27/p14/malpractice-legal-2026a1000j8o",
-      "date": "2026-07-10T21:17:52Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Błędy w sztuce lekarskiej i kwestie prawne mogą być trudnymi obszarami dla lekarzy."
     }
   ],
   "guidelines": [
@@ -1086,20 +1086,20 @@
       "summary": "Starzenie się organizmu powiązane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Aktualizacja wytycznych dotyczących nadciśnienia z 2025 r. nieznacznie zwiększa możliwość kwalifikowania się do leczenia na etapie 1, przy czym wzrost netto dotyczy pacjentów starszych i kobiet — badania Epic",
-      "url": "https://www.epicresearch.org/articles/2025-hypertension-guideline-update-modestly-expands-stage-1-treatment-eligibility-with-net-increases-concentrated-among-older-and-female-patients/",
-      "date": "2026-07-07T11:59:16Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Aktualizacja wytycznych dotyczących nadciśnienia z 2025 r. nieznacznie zwiększa kwalifikowalność do leczenia na etapie 1, przy czym wzrost netto dotyczy pacjentów starszych i kobiet. Epickie badania."
-    },
-    {
       "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
       "url": "https://www.asiae.co.kr/en/article/2026070715043876703",
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
+    },
+    {
+      "title": "Przebudowa i dysfunkcja serca u chorych na nowotwory poddawanych terapiom kardiotoksycznym – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/cardiac-remodelling/",
+      "date": "2026-07-06T08:56:57Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Profilowanie proteomiczne i metabolomiczne po zastosowaniu leków kardiotoksycznych wydaje się interesujące i przydatne klinicznie. W swoim badaniu (n= 547 uczestniczek raka piersi leczonych lekami kardiotoksycznymi) Bonnie Ky i wsp. wykazali, że 203 unikalne białka i 16 unikalnych metabolitów były istotnie powiązane z pomiarami struktury i funkcji serca we współczesnych i opóźnionych analizach."
     },
     {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
@@ -1134,14 +1134,6 @@
       "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest to toksyna sercowo-naczyniowa o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie współczulne spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
     },
     {
-      "title": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/education/live-events/live-events-endorsement/2nd-Annual-Harefield-Stress-Echocardiography-Course/",
-      "date": "2026-07-04T11:31:46Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Londyn – Wielka Brytania, zatwierdzone przez Europejskie Stowarzyszenie Obrazowania Układu Sercowo-Naczyniowego."
-    },
-    {
       "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 - aotm.gov.pl",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/opinia-prezesa-program-polityki-zdrowotnej-w-zakresie-rehabilitacji-mieszkancow-swinoujscia-w-wieku-od-70-roku-zycia-na-lata-2026-2028/",
       "date": "2026-07-03T14:20:20Z",
@@ -1164,6 +1156,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/911",
+      "date": "2026-07-01T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 911, z dniem ogłoszenia 2026-07-07."
     }
   ],
   "epidemiology": [
@@ -1376,20 +1376,20 @@
       "summary": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Centra modelowania i prognozowania kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Laotańska Republika Ludowo-Demokratyczna zwiększa gotowość na wypadek grypy poprzez zintegrowany nadzór – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/feature-stories/detail/lao-peoples-democratic-republic-strengthens-influenza-preparedness-through-integrated-surveillance",
-      "date": "2026-07-10T07:00:00Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Laotańska Republika Ludowo-Demokratyczna (Laotańska Republika Ludowo-Demokratyczna (Laotańska PDR)) rozwijała swoje możliwości w zakresie nadzoru oddechowego przez prawie dwie dekady. Nadzór Sentinel nad chorobami grypopodobnymi (ILI) i ciężkimi ostrymi infekcjami dróg oddechowych (SARI) prowadzony jest od 2007–2008."
-    },
-    {
       "title": "Nadzór i trendy w zakresie krztuśca | Krztusiec — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/pertussis/php/surveillance/index.html",
       "date": "2026-07-10T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Nadzór i trendy w zakresie krztuśca | Centra kontroli i zapobiegania krztuścowi | CDC (.gov)."
+    },
+    {
+      "title": "Laotańska Republika Ludowo-Demokratyczna zwiększa gotowość na wypadek grypy poprzez zintegrowany nadzór – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/feature-stories/detail/lao-peoples-democratic-republic-strengthens-influenza-preparedness-through-integrated-surveillance",
+      "date": "2026-07-10T07:00:00Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Laotańska Republika Ludowo-Demokratyczna (Laotańska Republika Ludowo-Demokratyczna (Laotańska PDR)) rozwijała swoje możliwości w zakresie nadzoru oddechowego przez prawie dwie dekady. Nadzór Sentinel nad chorobami grypopodobnymi (ILI) i ciężkimi ostrymi infekcjami dróg oddechowych (SARI) prowadzony jest od 2007–2008."
     },
     {
       "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1826,20 +1826,20 @@
       "summary": "Szczegóły badania | NCT07692360 | Polimorfizmy genów IL-6 i interleukiny w ślinie w raku płaskonabłonkowym jamy ustnej ClinicalTrials.gov."
     },
     {
-      "title": "Badanie EXACT: badanie zaślepione z udziałem pacjentów z zespołem Alporta mające na celu ocenę skuteczności i bezpieczeństwa stosowania leku Exaluren – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07523581",
-      "date": "2026-07-10T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Badanie EXACT: badanie zaślepione z udziałem pacjentów z zespołem Alporta mające na celu ocenę skuteczności i bezpieczeństwa stosowania leku Exaluren ClinicalTrials.gov."
-    },
-    {
       "title": "Atebimetynib + GnP jako leczenie pierwszego rzutu u pacjentów z przerzutowym gruczolakorakiem trzustki (MAPKeeper 301) - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07562152",
       "date": "2026-07-10T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Atebimetynib + GnP jako leczenie pierwszego rzutu u pacjentów z przerzutowym gruczolakorakiem trzustki (MAPKeeper 301) ClinicalTrials.gov."
+    },
+    {
+      "title": "Badanie EXACT: badanie zaślepione z udziałem pacjentów z zespołem Alporta mające na celu ocenę skuteczności i bezpieczeństwa stosowania leku Exaluren – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07523581",
+      "date": "2026-07-10T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Badanie EXACT: badanie zaślepione z udziałem pacjentów z zespołem Alporta mające na celu ocenę skuteczności i bezpieczeństwa stosowania leku Exaluren ClinicalTrials.gov."
     },
     {
       "title": "Ocena, w jakim stopniu różne typy światłoczułych komórek w oku przyczyniają się do jego zdolności skupiania - ClinicalTrials.gov",
