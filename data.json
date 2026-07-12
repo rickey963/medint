@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T12:10:21Z",
+  "last_updated": "2026-07-12T12:11:04Z",
   "poland": [
     {
       "title": "Rzecznik Praw Pacjenta: czym się zajmuje i jak pomaga? - PolitykaZdrowotna.com",
@@ -859,7 +859,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
+      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
     },
     {
       "title": "WVU Medicine J.W. Szpital Ruby Memorial, uznany w całym kraju za zaangażowanie w doskonałość w leczeniu chorób serca, udaru i cukrzycy – WVU Medicine",
@@ -1094,14 +1094,6 @@
       "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
     },
     {
-      "title": "Przebudowa i dysfunkcja serca u chorych na nowotwory poddawanych terapiom kardiotoksycznym – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/news-room/cardiac-remodelling/",
-      "date": "2026-07-06T08:56:57Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Profilowanie proteomiczne i metabolomiczne po zastosowaniu leków kardiotoksycznych wydaje się interesujące i przydatne klinicznie. W swoim badaniu (n= 547 uczestniczek raka piersi leczonych lekami kardiotoksycznymi) Bonnie Ky i wsp. wykazali, że 203 unikalne białka i 16 unikalnych metabolitów były istotnie powiązane z pomiarami struktury i funkcji serca we współczesnych i opóźnionych analizach."
-    },
-    {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
       "url": "https://esc365.escardio.org/event/2035",
       "date": "2026-07-06T07:00:00Z",
@@ -1132,6 +1124,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest to toksyna sercowo-naczyniowa o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie układu współczulnego spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
+    },
+    {
+      "title": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/education/live-events/live-events-endorsement/2nd-Annual-Harefield-Stress-Echocardiography-Course/",
+      "date": "2026-07-04T11:31:46Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Londyn – Wielka Brytania, zatwierdzone przez Europejskie Stowarzyszenie Obrazowania Układu Sercowo-Naczyniowego."
     },
     {
       "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 - aotm.gov.pl",
@@ -1408,20 +1408,20 @@
       "summary": "Dane dotyczące ścieków dla Centrów Kontroli i Zapobiegania Chorobom ptasiej grypy A(H5) | CDC (.gov)."
     },
     {
-      "title": "Krajowe dane dotyczące ścieków dotyczące wirusów układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/wastewater/respiratory-viruses/national.html",
-      "date": "2026-07-10T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Krajowe dane dotyczące ścieków dla wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
-    },
-    {
       "title": "Ciężka Wirusowa Choroba Układu Oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/illness-severity.html",
       "date": "2026-07-10T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Centra kontroli i zapobiegania poważnym wirusowym chorobom układu oddechowego | CDC (.gov)."
+    },
+    {
+      "title": "Krajowe dane dotyczące ścieków dotyczące wirusów układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/wastewater/respiratory-viruses/national.html",
+      "date": "2026-07-10T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Krajowe dane dotyczące ścieków dla wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Media cyfrowe i społecznościowe — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -2244,6 +2244,14 @@
       "summary": "W tym tygodniu w „The Top Line” omawiamy niektóre z najważniejszych historii z branży biofarmaceutycznej, zanim przejdziemy do jednego z najważniejszych letnich spotkań naukowych w branży. | W tym tygodniu w „The Top Line” omawiamy niektóre z najważniejszych historii z branży biofarmaceutycznej, zanim przejdziemy do jednego z najważniejszych letnich spotkań naukowych w branży."
     },
     {
+      "title": "Zatwierdzone produkty lecznicze z oceną równoważności terapeutycznej | Pomarańczowa Księga – fda.gov",
+      "url": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+      "date": "2026-07-10T12:18:00Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Zatwierdzone produkty lecznicze z oceną równoważności terapeutycznej | Pomarańczowa Księga fda.gov."
+    },
+    {
       "title": "Nobivac NXT HCPCh – Europejska Agencja Leków (EMA)",
       "url": "https://www.ema.europa.eu/sl/medicines/veterinary/EPAR/nobivac-nxt-hcpch",
       "date": "2026-07-10T11:53:00Z",
@@ -2335,14 +2343,6 @@
       "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/SDA/sdDetailNavigation.cfm?sd=srolist&id=5635EF4CA41F25EEE06346F0E10A11C0&rownum=2213",
       "date": "2026-07-10T10:53:49Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Lista SRO — szczegóły accessdata.fda.gov."
-    },
-    {
-      "title": "Lista SRO - Szczegóły - accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/SDA/sdDetailNavigation.cfm?sd=srolist&id=5635EF4C895C25EEE06346F0E10A11C0&rownum=1185",
-      "date": "2026-07-10T10:53:39Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Lista SRO — szczegóły accessdata.fda.gov."
