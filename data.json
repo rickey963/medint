@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T01:02:09Z",
+  "last_updated": "2026-07-12T01:02:58Z",
   "poland": [
     {
       "title": "System eZWM (e - Narodowy Fundusz Zdrowia (NFZ)",
@@ -87,7 +87,7 @@
       "date": "2026-07-11T12:39:00Z",
       "source": "Termedia",
       "confirmed_by": 1,
-      "summary": "Cechy molekularne raka piersi mogą się zmienić w trakcie terapii Termedia."
+      "summary": "U około jednej trzeciej pacjentek z rakiem piersi cechy molekularne guza mogą ulec zmianie w trakcie leczenia prowadzonego przed operacją – wynika z polskiego badania, które publikuje Therapeutic Advances in Medical Oncology”. Chodzi o zmiany dotyczące białka HER2 na powierzchni komórek nowotworu."
     },
     {
       "title": "Leki na odchudzanie zadziałają pod jednym warunkiem. \"To częsta pułapka\" - Medonet",
@@ -311,7 +311,7 @@
       "date": "2026-07-10T16:58:57Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Korzystamy z plików cookies, by ułatwić użytkownikom poruszanie się po serwisie. Ciasteczka pozwalają nam także tworzyć anonimowe statystyki serwisu. Jeżeli nie blokujesz plików cookies, to zgadzasz się na ich używanie i zapisanie w pamięci urządzenia."
+      "summary": "Jak korzystamy z programu Fundusze Europejskie dla Rozwoju Społecznego."
     },
     {
       "title": "\"Najbardziej boję się tego, co będzie za miesiąc\". Dramat 19-letniego Dawida - Medonet",
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "Tanzania rozszerza opiekę w nagłych wypadkach w ramach inicjatywy Accelerating Community and Transformative Learning for Basic Emergency Care (ACTxBEC) w 24 regionach - WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/fr/node/23359",
+      "date": "2026-07-12T00:10:32Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Dodoma — Tanzania intensyfikuje ogólnokrajowe wysiłki na rzecz poprawy dostępu do terminowej, ratującej życie opieki w nagłych wypadkach w placówkach opieki zdrowotnej pierwszej linii w ramach inicjatywy Accelerating Community and Transformative Learning for Basic Emergency Care (ACTxBEC)."
+    },
     {
       "title": "Menedżer ds. transformacji klinicznej EPR *Tylko wewnętrzni kandydaci do HDFT* – BMJ",
       "url": "https://www.bmj.com/healthcareers/job/828431/epr-clinical-transformation-manager-internal-hdft-applicants-only-/?TrackID=8&utm_source=rss&utm_medium=feed&utm_campaign=general",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Pragmatyczne badanie mające na celu poprawę jakości wykazało, że wspomagane komputerowo urządzenia do wykrywania oparte na sztucznej inteligencji podczas kolonoskopii wiązały się z wyższym wskaźnikiem wykrywania gruczolaka niż w przypadku zwykłej opieki."
-    },
-    {
-      "title": "Wspomagająca terapia traumy może pomóc w poprawie opieki nad psychozami - Medscape",
-      "url": "https://www.medscape.com/viewarticle/adjunctive-trauma-therapy-may-help-improve-psychosis-care-2026a1000nek",
-      "date": "2026-07-10T14:43:18Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Nowe randomizowane badanie pokazuje, że terapia skoncentrowana na traumie wiąże się ze zmniejszeniem nasilenia objawów PTSD i zwiększoną remisją u pacjentów ze współwystępującą psychozą."
     }
   ],
   "guidelines": [
@@ -811,7 +811,7 @@
       "date": "2026-07-11T09:10:35Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Notatki | Dokumenty projektowe | Doustny paklitaksel z encequidarem w leczeniu zaawansowanego raka piersi [ID5111] | Poradnik NICE."
+      "summary": "Notatki | Dokumenty projektowe | Doustny paklitaksel z encequidarem w leczeniu zaawansowanego raka piersi [ID5111] | Strona internetowa poradnika NICE."
     },
     {
       "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
@@ -851,7 +851,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
+      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
     },
     {
       "title": "WVU Medicine J.W. Szpital Ruby Memorial, uznany w całym kraju za zaangażowanie w doskonałość w leczeniu chorób serca, udaru i cukrzycy – WVU Medicine",
@@ -1067,7 +1067,7 @@
       "date": "2026-07-08T13:36:15Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "FDA zatwierdza Durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "GL - Dentyści u sterów samorządu lekarskiego - NIL",
@@ -1118,12 +1118,12 @@
       "summary": "Tymczasowe wytyczne dotyczące oceny zdrowia publicznego i zarządzania podróżnymi z krajów dotkniętych epidemią wirusa Ebola w 2026 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – asiae.co.kr",
+      "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
       "url": "https://www.asiae.co.kr/en/article/2026070715043876703",
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
     },
     {
       "title": "Zimowe spotkanie badawcze HFA 2027 na temat ESC 365 – ESC 365",
@@ -1245,7 +1245,7 @@
       "date": "2026-07-10T21:26:11Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 2,
-      "summary": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z tygodnia 26. zakończonego 4 lipca 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje dla tygodnia 26. zakończonego 4 lipca 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga nadal przewyższa reakcję – CIDRAP",
@@ -1277,7 +1277,7 @@
       "date": "2026-07-10T19:58:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Z 2231 potwierdzonymi przypadkami, w USA brakuje zaledwie 58 przypadków do całkowitej liczby przypadków w całym 2025 r., co stanowiło najwyższy poziom od 34 lat."
+      "summary": "Z 2231 potwierdzonymi przypadkami, w USA brakuje zaledwie 58 przypadków do łącznej liczby przypadków w całym 2025 r., co stanowi najwyższy poziom od 34 lat."
     },
     {
       "title": "Tygodniowy zapis epidemiologiczny – Światowa Organizacja Zdrowia (WHO)",
@@ -1429,7 +1429,7 @@
       "date": "2026-07-09T18:39:38Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "W ciągu ponad dziesięciu lat Maroko wzmocniło swoje możliwości w zakresie laboratorium i nadzoru nad grypą dzięki stałemu wsparciu z ram gotowości na wypadek grypy na pandemię (PIP). Inwestycje te przyniosły wymierną poprawę zakresu diagnostyki, terminowego i kompletnego generowania danych oraz raportowania, wspierając skuteczniejsze wykrywanie grypy i innych zagrożeń układu oddechowego oraz reagowanie na nie."
+      "summary": "W ciągu ponad dziesięciu lat Maroko wzmocniło swoje laboratoria ds. grypy i możliwości nadzoru dzięki stałemu wsparciu z ram gotowości na wypadek grypy na pandemię (PIP). Inwestycje te przyniosły wymierną poprawę zakresu diagnostyki, terminowego i kompletnego generowania danych oraz raportowania, wspierając skuteczniejsze wykrywanie grypy i innych zagrożeń układu oddechowego oraz reagowanie na nie."
     },
     {
       "title": "Krajowy program zewnętrznej oceny jakości (EQA) wzmacnia gotowość Ukrainy do diagnostyki wirusa układu oddechowego – Światowa Organizacja Zdrowia (WHO)",
@@ -1445,7 +1445,7 @@
       "date": "2026-07-09T18:33:37Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Globalny raport o statusie raka 2026, opublikowany przez Światową Organizację Zdrowia w lipcu 2026 r., po raz pierwszy stara się opowiedzieć całą historię. Jest to najbardziej kompleksowa ocena, jaką kiedykolwiek opracowano, pokazująca, jakie stanowisko na świecie zajmuje się zapobieganiem i kontrolowaniem nowotworów. Oprócz pomiaru obciążenia chorobami i oceny funkcjonowania systemów opieki zdrowotnej, raport umieszcza ludzi i ich doświadczenia w centrum globalnego programu walki z rakiem."
+      "summary": "Globalny raport o statusie raka 2026, opublikowany przez Światową Organizację Zdrowia w lipcu 2026 r., po raz pierwszy stara się opowiedzieć całą historię. Jest to najbardziej kompleksowa ocena, jaką kiedykolwiek opracowano, pokazująca, jakie stanowisko na świecie zajmuje się zapobieganiem i kontrolowaniem nowotworów. Oprócz pomiaru obciążenia chorobami i oceny funkcjonowania systemów opieki zdrowotnej, raport umieszcza ludzi i ich życiowe doświadczenia w centrum globalnego programu walki z rakiem."
     },
     {
       "title": "Nadzór nad HIV/AIDS w Europie 2024 – Światowa Organizacja Zdrowia (WHO)",
@@ -1584,7 +1584,7 @@
       "summary": "Badanie wykazało, że lek przeciwwirusowy można bezpiecznie przepisywać dzieciom w wieku co najmniej 6 lat chorym na Covid-19."
     },
     {
-      "title": "Szczepionka przeciwko HPV wytwarzana przez E coli, skuteczna przeciwko rakotwórczym szczepom HPV - CIDRAP",
+      "title": "Szczepionka HPV wytwarzana przez E coli, skuteczna przeciwko rakotwórczym szczepom HPV - CIDRAP",
       "url": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/e-coli-produced-hpv-vaccine-effective-against-cancer-causing-strains-hpv",
       "date": "2026-07-08T19:35:00Z",
       "source": "CIDRAP",
@@ -1626,7 +1626,7 @@
       "summary": "Debata na temat szczepionki przeciwko wirusowi brodawczaka ludzkiego (HPV) wkroczyła w nową fazę. Doktor Martin Kulldorff – były biostatystyk z Harvardu, obecnie dyrektor ds. nauki w Departamencie Zdrowia i Opieki Społecznej Stanów Zjednoczonych (HHS), a wcześniej płatny biegły w imieniu powodów w sporach sądowych dotyczących Gardasil – zakwestionował metody statystyczne leżące u podstaw analiz bezpieczeństwa szczepionek HPV firmy Merck."
     },
     {
-      "title": "Departament Sprawiedliwości zabezpiecza przełomowe wyroki skazujące w sprawie Done Global dotyczącej oszustwa Adderall, rodząc nowe pytania dotyczące zdrowia cyfrowego – Trialsitenews.com",
+      "title": "Departament Sprawiedliwości zabezpiecza przełomowe wyroki w sprawie Done Global dotyczącej oszustwa Adderall, rodząc nowe pytania dotyczące zdrowia cyfrowego – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/doj-secures-landmark-convictions-in-done-global-adderall-fraud-case-raising-new-questions-for-digital-health-982a83a8",
       "date": "2026-07-10T22:53:08Z",
       "source": "TrialSite News",
@@ -1642,7 +1642,7 @@
       "summary": "Badacze z Uniwersytetu Alabama w Birmingham (UAB) poinformowali o zachęcających wczesnych wynikach klinicznych INB-200, pierwszej u człowieka genetycznie zmodyfikowanej terapii komórkami T gamma-delta stosowanej w leczeniu nowo zdiagnozowanego glejaka wielopostaciowego, jednego z najbardziej śmiercionośnych nowotworów mózgu u dorosłych. Badanie fazy 1, opublikowane w Journal of Clinical Oncology, było prowadzone przez dr Burta Naborsa, profesora neurologii i dyrektora Neuro-Oncology w UAB O'Neal Comprehensive Cancer Center, we współpracy z IN8bio (NASDAQ: INAB). Terapia eksperymentalna, znana jako DeltEx DRI, wykorzystuje własne komórki T gamma-delta pacjenta, które są genetycznie zmodyfikowane tak, aby były odporne na chemioterapię temozolomidem, zanim zostaną wstrzyknięte bezpośrednio do mózgu po standardowym leczeniu."
     },
     {
-      "title": "Bitwa o narracje na temat szczepionek: Biuletyn CIDRAP „Bezstronna nauka” ujawnia więcej, niż zamierza – Trialsitenews.com",
+      "title": "Bitwa o narracje na temat szczepionek: Biuletyn CIDRAP „Bezstronna nauka” ujawnia więcej, niż zamierzał – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/the-battle-over-vaccine-narratives-cidraps-unbiased-science-newsletter-reveals-more-than-it-intends-1b447d42",
       "date": "2026-07-10T20:56:08Z",
       "source": "TrialSite News",
@@ -1690,7 +1690,7 @@
       "summary": "Roche wstrzymuje rozwój dwóch programów dotyczących choroby Huntingtona – Clinical Trials Arena."
     },
     {
-      "title": "Ipsen gotowy rywalizować z Botoxem po zwycięstwach duetu w fazie III w walce z migreną – Clinical Trials Arena",
+      "title": "Ipsen ma rywalizować z Botoxem po zwycięstwach duetu w fazie III w walce z migreną – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/ipsen-dysport-migraine-phase-iii-episodic-chronic-win/",
       "date": "2026-07-10T10:59:25Z",
       "source": "Clinical Trials Arena",
@@ -1735,7 +1735,7 @@
       "date": "2026-07-10T08:37:10Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07692373 | Test chodu Groningen Meander u osób starszych z problemami z równowagą ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07692373 | Test chodu Groningen Meander u starszych osób dorosłych z problemami z równowagą ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07693218 | Badanie na zdrowych mężczyznach mające na celu sprawdzenie, w jaki sposób BI 1815368 jest przetwarzany w organizmie – ClinicalTrials.gov",
@@ -1831,7 +1831,7 @@
       "date": "2026-07-10T06:52:21Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07693192 | Porównanie skuteczności i bezpieczeństwa dopęcherzowej toksyny botulinowej A w porównaniu z osoczem bogatopłytkowym w leczeniu opornego na leczenie nadreaktywnego pęcherza: dwuletnie badanie ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07693192 | Porównanie skuteczności i bezpieczeństwa dopęcherzowego podawania toksyny botulinowej A w porównaniu z osoczem bogatopłytkowym w leczeniu opornego na leczenie pęcherza nadreaktywnego: dwuletnie badanie ClinicalTrials.gov."
     },
     {
       "title": "Badanie trastuzumabu deruxtekanu (T-DXd) i cetuksymabu u osób chorych na raka jelita grubego – ClinicalTrials.gov",
@@ -1922,12 +1922,12 @@
       "summary": "A co powiesz na sprawę przeciwko abolicji, a także sprawę o odpowiedzialność? Była dyrektor Narodowego Instytutu Zdrowia (NIH) i obecna prezes Narodowej Akademii Medycznej Monica Bertagnolli włączyła się w rosnącą debatę na temat przyszłości NIH, odpowiadając bezpośrednio na niedawną opinię Scotta Atlasa w „Washington Post” wzywającą do rozwiązania agencji. Bertagnolli argumentuje, że likwidacja NIH znacząco osłabiłaby amerykański ekosystem badań biomedycznych, wskazując na dziesięciolecia odkryć finansowanych przez podatników, które pomogły w stworzeniu naukowych podstaw pod terapie przeciwnowotworowe, technologie mRNA, leki GLP-1, genomikę i wiele innych osiągnięć medycznych."
     },
     {
-      "title": "Dlaczego pojedyncze kluczowe badania sprawiają, że rekrutacja pacjentów jest znacznie mniej wyrozumiała — stosowane badania kliniczne online",
+      "title": "Dlaczego pojedyncze kluczowe badania sprawiają, że rekrutacja pacjentów jest znacznie mniej wyrozumiała – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/single-pivotal-trials-patient-recruitment-forgiving",
       "date": "2026-07-09T16:29:12Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Dlaczego pojedyncze kluczowe badania kliniczne sprawiają, że rekrutacja pacjentów jest znacznie mniej wyrozumiała? Stosowane badania kliniczne online."
+      "summary": "Dlaczego pojedyncze kluczowe badania sprawiają, że rekrutacja pacjentów jest znacznie mniej wyrozumiała? Stosowane badania kliniczne online."
     },
     {
       "title": "Akcje AstraZeneca i Ionis znacząco spadają w związku z niepowodzeniem próby Wainua ATTR-CM – Arena Badań Klinicznych",
@@ -1959,7 +1959,7 @@
       "date": "2026-07-09T11:01:16Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "ACT Brief: Wielomodalna architektura systemów AI, rekrutacja do prób oparta na zaufaniu i stosowane online próby kliniczne dotyczące transformacji sztucznej inteligencji Big Pharma."
+      "summary": "ACT Brief: Wielomodalna architektura systemów AI, rekrutacja do prób oparta na zaufaniu i stosowane online próby kliniczne transformacji sztucznej inteligencji Big Pharma."
     },
     {
       "title": "Pierwszy pacjent otrzymuje Forzinity w IV fazie badania Mighty Therapeutics – Clinical Trials Arena",
@@ -2041,7 +2041,7 @@
       "date": "2026-07-10T21:23:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Apnimed pliki dla Nasdaq IPO pod etykietą $APMD, trzy miesiące po przedłożeniu swojego leku na bezdech senny AD109 do zatwierdzenia przez FDA."
+      "summary": "Apnimed pliki dla Nasdaq IPO pod oznaczeniem $APMD, trzy miesiące po przedłożeniu swojego leku na bezdech senny AD109 do zatwierdzenia przez FDA."
     },
     {
       "title": "Stężenie litu w mózgu odzwierciedla stężenie surowicy w chorobie afektywnej dwubiegunowej – Drugs.com",
@@ -2132,7 +2132,7 @@
       "summary": "Redaktorzy Pink Sheet omawiają nowe potencjalne przepisy, które rozszerzyłyby zdolność agencji do publikowania pełnych listów z odpowiedziami i jeszcze bardziej ograniczyłyby reklamy DTC, a także potencjalną reorganizację wyższego kierownictwa FDA."
     },
     {
-      "title": "CDER dodaje ponad 100 nowych pracowników w kwartale po raz pierwszy od końca 2024 r. - Endpoints News",
+      "title": "CDER po raz pierwszy od końca 2024 r. zatrudni w kwartale ponad 100 nowych pracowników - Endpoints News",
       "url": "https://endpoints.news/fda-adds-100-new-cder-employees-in-a-quarter-for-first-time-since-late-2024/",
       "date": "2026-07-10T16:58:00Z",
       "source": "Endpoints News",
@@ -2161,7 +2161,7 @@
       "date": "2026-07-10T15:35:52Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "PIĄTEK, 10 lipca 2026 r. Jak wynika z nowego badania, seniorzy całkiem dobrze radzą sobie z tym, jak bystre są w danym momencie. Samooceny zebrane przez smartwatche zamknij."
+      "summary": "PIĄTEK, 10 lipca 2026 r. Jak wynika z nowego badania, seniorzy całkiem dobrze radzą sobie z tym, jak bystre są w danym momencie. Zamknięcie ocen własnych zarejestrowanych przez smartwatche."
     },
     {
       "title": "Niemieccy prawodawcy uchwalili ustawę oszczędzającą koszty, która według producentów leków ich wypędzi – Endpoints News",
@@ -2403,7 +2403,7 @@
       "date": "2026-07-10T19:58:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Z 2231 potwierdzonymi przypadkami, w USA brakuje zaledwie 58 przypadków do całkowitej liczby przypadków w całym 2025 r., co stanowiło najwyższy poziom od 34 lat."
+      "summary": "Z 2231 potwierdzonymi przypadkami, w USA brakuje zaledwie 58 przypadków do łącznej liczby przypadków w całym 2025 r., co stanowi najwyższy poziom od 34 lat."
     },
     {
       "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 08, dane na dzień 5 lipca 2026 r. – WHO | Biuro Regionalne dla Afryki",
@@ -2464,6 +2464,14 @@
   ],
   "daily_top5": [
     {
+      "title": "Tanzania rozszerza opiekę w nagłych wypadkach w ramach inicjatywy Accelerating Community and Transformative Learning for Basic Emergency Care (ACTxBEC) w 24 regionach - WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/fr/node/23359",
+      "date": "2026-07-12T00:10:32Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Dodoma — Tanzania intensyfikuje ogólnokrajowe wysiłki na rzecz poprawy dostępu do terminowej, ratującej życie opieki w nagłych wypadkach w placówkach opieki zdrowotnej pierwszej linii w ramach inicjatywy Accelerating Community and Transformative Learning for Basic Emergency Care (ACTxBEC)."
+    },
+    {
       "title": "Wypełnianie luki w zgłaszaniu działań niepożądanych leków w celu wzmocnienia systemów nadzoru nad bezpieczeństwem farmakoterapii w krajach o niskich i średnich dochodach - emro.who.int",
       "url": "https://www.emro.who.int/emhj-volume-32-2026/volume-32-number-5/bridging-the-adverse-drug-reaction-reporting-gap-to-strengthen-pharmacovigilance-systems-in-low-and-middle-income-countries.html",
       "date": "2026-07-11T21:42:31Z",
@@ -2494,14 +2502,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
-    },
-    {
-      "title": "Sala egzaminacyjna jako sanktuarium — opieka nad pacjentami nieposiadającymi dokumentów — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2603126",
-      "date": "2026-07-11T17:48:55Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Sala egzaminacyjna jako sanktuarium — opieka nad pacjentami bez dokumentów The New England Journal of Medicine."
     }
   ]
 }
