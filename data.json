@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T20:32:23Z",
+  "last_updated": "2026-07-12T20:33:08Z",
   "poland": [
     {
       "title": "Najlepsza godzina na zjedzenie kolacji. Kilogramy polecą w dół - Rynek Zdrowia",
@@ -383,7 +383,7 @@
       "date": "2026-07-11T12:39:00Z",
       "source": "Termedia",
       "confirmed_by": 1,
-      "summary": "Cechy molekularne raka piersi mogą się zmienić w trakcie terapii Termedia."
+      "summary": "U około jednej trzeciej pacjentek z rakiem piersi cechy molekularne guza mogą ulec zmianie w trakcie leczenia prowadzonego przed operacją."
     },
     {
       "title": "Leki na odchudzanie zadziałają pod jednym warunkiem. \"To częsta pułapka\" - Medonet",
@@ -410,6 +410,14 @@
       "source": "STAT News",
       "confirmed_by": 2,
       "summary": "Na konferencji AAIC 2026 w Londynie naukowcy skupiają się na tau i czynią postępy w przekraczaniu bariery krew-mózg w leczeniu choroby Alzheimera."
+    },
+    {
+      "title": "Terapia medyczna a strategia inwazyjna w stabilnej chorobie niedokrwiennej serca – lekarz NEJM",
+      "url": "https://clinician.nejm.org/nejm-jw.NA51208?0=undefined&1=undefined&2=undefined&3=undefined&4=undefined&5=undefined&6=undefined&7=undefined&8=undefined&9=undefined&10=undefined&11=undefined&12=undefined&13=undefined&14=undefined",
+      "date": "2026-07-12T19:44:45Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     },
     {
       "title": "Lekarz rodzinny z wynagrodzeniem — praca w Devon South w chirurgii Chelston Hall (Torquay) | 826950 - BMJ",
@@ -497,7 +505,7 @@
       "date": "2026-07-12T04:57:23Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Przedstawiamy przypadek mężczyzny po pięćdziesiątce, który zgłosił się do szpitala z powodu świszczącego oddechu, dysfonii i duszności. Był badany pod kątem asymetrycznego osłabienia mięśni przy braku deficytów czucia przez poprzedni rok. Spirometria (pętla objętości przepływu) wykazała ograniczenie poza klatką piersiową, a bronchoskopia potwierdziła obustronne porażenie strun głosowych."
+      "summary": "Przedstawiamy przypadek mężczyzny po pięćdziesiątce, który zgłosił się do szpitala z powodu świszczącego oddechu, dysfonii i duszności. Był badany pod kątem asymetrycznego osłabienia mięśni przy braku deficytów czucia przez poprzedni rok. Spirometria (pętla objętości przepływu) wykazała ograniczenie zewnątrzklatkowe, a bronchoskopia potwierdziła obustronne porażenie strun głosowych."
     },
     {
       "title": "S29 U wcześniej hospitalizowanych osób, które przeżyły COVID-19, upośledzona jest ekstrakcja tlenu przez mięśnie obwodowe podczas submaksymalnych ćwiczeń - thorax.bmj.com",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Wprowadzenie Raporty na temat epidemiologii i skutków ostrego uszkodzenia nerek u osób w stanie krytycznym dostarczają zmiennych szacunków w oparciu o różnice w populacjach i podstawowym narażeniu. Potrzebne są aktualne i możliwe do uogólnienia dane dotyczące częstości występowania, a także informacje na temat długoterminowych wyników leczenia pacjentów i nerek. Badanie dotyczące ostrego uszkodzenia nerek – epidemiologia u pacjentów na oddziałach intensywnej terapii 2 (AKI-EPI 2) ma na celu opisanie występowania i związanych z nim skutków AKI u krytycznie chorych pacjentów na całym świecie."
-    },
-    {
-      "title": "Kierowana refleksja grupowa a SNAPPS we wzmacnianiu rozumowania klinicznego u studentów ostatniego roku MBBS w szpitalu klinicznym sektora publicznego w Pakistanie: badanie quasi-eksperymentalne – BMJ Open",
-      "url": "https://bmjopen.bmj.com/content/16/7/e115534.alerts",
-      "date": "2026-07-11T05:11:21Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Cele (1) Porównanie skuteczności kierowanej refleksji grupowej (GGR) z SNAPPS (podsumowanie historii i badanie przedmiotowe, wąskie różnice, analiza różnic, sondowanie nauczyciela, plan postępowania z pacjentem, samokształcenie) jako interwencja dydaktyczna mająca na celu poprawę umiejętności rozumowania klinicznego (CR) studentów ostatniego roku MBBS (licencjat medycyny, licencjat chirurgii). (2) Określenie, która interwencja dydaktyczna jest bardziej skuteczna w poprawie określonych elementów CR (gromadzenie danych, prezentacja problemu, generowanie hipotez, porównanie scenariuszy choroby i diagnoza) wśród studentów ostatniego roku MBBS. Projekt Badanie quasi-eksperymentalne z udziałem dwóch równoległych grup interwencyjnych, z projektem badawczym przed i po teście."
     }
   ],
   "guidelines": [
@@ -867,7 +867,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
+      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
     },
     {
       "title": "WVU Medicine J.W. Szpital Ruby Memorial uznany w całym kraju za zaangażowanie w doskonałość w leczeniu chorób serca, udaru i cukrzycy – WVU Medicine - WVU Medicine",
@@ -2400,6 +2400,14 @@
   ],
   "daily_top5": [
     {
+      "title": "Terapia medyczna a strategia inwazyjna w stabilnej chorobie niedokrwiennej serca – lekarz NEJM",
+      "url": "https://clinician.nejm.org/nejm-jw.NA51208?0=undefined&1=undefined&2=undefined&3=undefined&4=undefined&5=undefined&6=undefined&7=undefined&8=undefined&9=undefined&10=undefined&11=undefined&12=undefined&13=undefined&14=undefined",
+      "date": "2026-07-12T19:44:45Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+    },
+    {
       "title": "Zdalne programowanie a standardowe programowanie osobiście po głębokiej stymulacji mózgu u pacjentów z chorobą Parkinsona: randomizowane badanie kontrolowane - The Lancet",
       "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00323-8/fulltext",
       "date": "2026-07-12T16:03:49Z",
@@ -2430,14 +2438,6 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Komunikaty i ostrzeżenia (strona 2) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Koninie Gov.pl."
-    },
-    {
-      "title": "Eksperci: opóźnienia w diagnostyce mogą odbierać pacjentom szansę na skuteczne leczenie - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/eksperci-opoznienia-w-diagnostyce-moga-odbierac-pacjentom-szanse-na-skuteczne-leczenie/",
-      "date": "2026-07-12T10:25:31Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Nowoczesna medycyna coraz częściej opiera decyzje terapeutyczne na precyzyjnej diagnostyce molekularnej i obrazowej. W wielu przypadkach to właśnie badania medycyny nuklearnej decydują o rozpoznaniu choroby, ocenie jej zaawansowania oraz wyborze najbardziej skutecznej terapii. Mimo dynamicznego rozwoju tej dziedziny eksperci alarmują, że polski system ochrony zdrowia wciąż nie wykorzystuje jej pełnego potencjału."
     }
   ]
 }
