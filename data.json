@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T20:09:29Z",
+  "last_updated": "2026-07-12T20:10:09Z",
   "poland": [
     {
       "title": "Najlepsza godzina na zjedzenie kolacji. Kilogramy polecą w dół - Rynek Zdrowia",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Tau w centrum uwagi na konferencji poświęconej chorobie Alzheimera – STAT",
+      "url": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/",
+      "date": "2026-07-12T20:08:24Z",
+      "source": "STAT News",
+      "confirmed_by": 2,
+      "summary": "Na konferencji AAIC 2026 w Londynie naukowcy skupiają się na tau i czynią postępy w przekraczaniu bariery krew-mózg w leczeniu choroby Alzheimera."
+    },
+    {
       "title": "Lekarz rodzinny z wynagrodzeniem — praca w Devon South w chirurgii Chelston Hall (Torquay) | 826950 - BMJ",
       "url": "https://www.bmj.com/careers/job/826950/salaried-gp/",
       "date": "2026-07-12T17:40:20Z",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Kontekst Rak szyjki macicy pozostaje główną przyczyną zachorowalności i śmiertelności wśród kobiet w Ghanie, jednak zakres badań przesiewowych jest niezwykle niski, a zorganizowane programy krajowe są ograniczone. Chociaż w kilku badaniach analizowano determinanty badań przesiewowych, w żadnej kompleksowej syntezie nie podsumowano dowodów, które mogłyby stanowić wskazówkę przy projektowaniu skutecznej polityki i interwencji. Cel Synteza istniejących dowodów na temat czynników warunkujących badania przesiewowe szyjki macicy w Ghanie i identyfikacja możliwości wzmocnienia krajowych strategii badań przesiewowych."
-    },
-    {
-      "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 08, dane na dzień 5 lipca 2026 r. – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1",
-      "date": "2026-07-11T04:51:32Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Opis wydarzenia."
     }
   ],
   "guidelines": [
@@ -867,7 +867,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
+      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
     },
     {
       "title": "WVU Medicine J.W. Szpital Ruby Memorial uznany w całym kraju za zaangażowanie w doskonałość w leczeniu chorób serca, udaru i cukrzycy – WVU Medicine - WVU Medicine",
@@ -990,20 +990,20 @@
       "summary": "Mezigdomid-karfilzomib-deksametazon wydłuża PFS w porównaniu z karfilzomibem-deksametazonem przy pierwszym nawrocie u pacjentów z nawrotowym lub opornym na leczenie szpiczakiem mnogim Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
+      "title": "10 najważniejszych artykułów podstawowych w otolaryngologii opartych na dowodach — Conexiant",
+      "url": "https://conexiant.com/otolaryngology/articles/top-10-evidencebased-essentials-in-otolaryngology/",
+      "date": "2026-07-09T11:43:17Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Ustrukturyzowany zbiór wytycznych opartych na dowodach i przełomowych badań klinicznych stosowanych w praktyce klinicznej."
+    },
+    {
       "title": "Shrinidhi Nathany: Nowe wytyczne dotyczące praktyki klinicznej ASCO 2026 ctDNA - Oncodaily",
       "url": "https://oncodaily.com/voices/shrinidhi-nathany-537695",
       "date": "2026-07-08T23:53:56Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Shrinidhi Nathany, konsultantka w dziedzinie hematologii molekularnej i onkologii w Fortis Memorial Research Institute w Indiach, udostępniła post na LinkedIn:"
-    },
-    {
-      "title": "Shoppers Drug Mart i Obesity Canada ogłaszają nową współpracę mającą na celu zwiększenie dostępu Kanadyjczyków do opieki nad otyłością – BNN Bloomberg",
-      "url": "https://www.bnnbloomberg.ca/press-releases/2026/07/08/shoppers-drug-mart-and-obesity-canada-announce-new-collaboration-to-help-expand-access-to-obesity-care-for-canadians/",
-      "date": "2026-07-08T17:44:24Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Firmy Shoppers Drug Mart i Obesity Canada ogłosiły dziś nową współpracę mającą na celu zwiększanie świadomości na temat otyłości jako choroby przewlekłej, zmniejszanie uprzedzeń i piętna związanego z wagą oraz pomaganie większej liczbie Kanadyjczyków w dostępie do opieki i zasobów opartych na dowodach poprzez inicjatywy takie jak program zarządzania wagą Shoppers Drug Mart."
     },
     {
       "title": "Wypisywanie leków u pacjentów z chorobami układu krążenia doświadczających polipragmazji - professional.heart.org",
@@ -1067,15 +1067,7 @@
       "date": "2026-07-07T06:20:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej 아시아경제."
-    },
-    {
-      "title": "Przebudowa i dysfunkcja serca u chorych na nowotwory poddawanych terapiom kardiotoksycznym – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/news-room/cardiac-remodelling/",
-      "date": "2026-07-06T08:56:57Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Profilowanie proteomiczne i metabolomiczne po zastosowaniu leków kardiotoksycznych wydaje się interesujące i przydatne klinicznie. W swoim badaniu (n= 547 uczestniczek raka piersi leczonych lekami kardiotoksycznymi) Bonnie Ky i wsp. wykazali, że 203 unikalne białka i 16 unikalnych metabolitów były istotnie powiązane z pomiarami struktury i funkcji serca we współczesnych i opóźnionych analizach."
+      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
@@ -1108,6 +1100,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest to toksyna sercowo-naczyniowa o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie układu współczulnego spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
+    },
+    {
+      "title": "Drugi doroczny kurs echokardiografii obciążeniowej Harefield: (Stress Echo 2.0) - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/education/live-events/live-events-endorsement/2nd-Annual-Harefield-Stress-Echocardiography-Course/",
+      "date": "2026-07-04T11:31:46Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Londyn – Wielka Brytania, zatwierdzone przez Europejskie Stowarzyszenie Obrazowania Układu Sercowo-Naczyniowego."
     },
     {
       "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 - aotm.gov.pl",
@@ -1472,20 +1472,20 @@
       "summary": "Kanały danych o chorobach układu oddechowego Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Poziomy aktywności wirusa układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
-      "date": "2026-07-10T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Poziomy aktywności wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
-    },
-    {
       "title": "Laotańska Republika Ludowo-Demokratyczna zwiększa gotowość na wypadek grypy poprzez zintegrowany nadzór – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/feature-stories/detail/lao-peoples-democratic-republic-strengthens-influenza-preparedness-through-integrated-surveillance",
       "date": "2026-07-10T07:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Laotańska Republika Ludowo-Demokratyczna (Laotańska Republika Ludowo-Demokratyczna (Laotańska PDR)) rozwijała swoje możliwości w zakresie nadzoru oddechowego przez prawie dwie dekady. Nadzór Sentinel nad chorobami grypopodobnymi (ILI) i ciężkimi ostrymi infekcjami dróg oddechowych (SARI) prowadzony jest od 2007–2008."
+    },
+    {
+      "title": "Poziomy aktywności wirusa układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
+      "date": "2026-07-10T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Poziomy aktywności wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Inne krążące choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2358,14 +2358,6 @@
       "summary": "– Kolejna pandemia to tylko kwestia czasu – twierdzi prof. Adrian Hill, wybitny ekspert w dziedzinie szczepionek i zdobywca Europejskiej Nagrody dla Wynalazcy 2026 (European Inventor Award)."
     },
     {
-      "title": "WYBUCH WIRUSA EBOLA BUNDIBUGYO Demokratyczna Republika Konga | Tygodniowy raport o sytuacji zewnętrznej Ugandy nr 08, dane na dzień 5 lipca 2026 r. – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1",
-      "date": "2026-07-11T04:51:32Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Opis wydarzenia."
-    },
-    {
       "title": "Oświadczenie CDC w sprawie wybuchu epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 10.07.26 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/media/releases/2026/cdc-ebola-outbreak-in-democratic-republic-of-congo-and-uganda.html",
       "date": "2026-07-11T02:24:15Z",
@@ -2404,6 +2396,14 @@
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Niniejsze wydanie raportu ECDC na temat zagrożeń chorobami zakaźnymi (CDTR) obejmuje okres od 6 do 10 lipca 2026 r. i zawiera aktualne informacje na temat wirusa Ebola, zakażeń wirusem Zachodniego Nilu, gorączki krwotocznej krymsko-kongijskiej, wirusa Vibrio, grypy A (H9N2), oddelegowania ekspertów oraz przegląd epidemiologii wirusa układu oddechowego w UE/EOG."
+    },
+    {
+      "title": "Tymczasowa definicja przypadku choroby Ebola do celów zgłaszania w UE/EOG – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-disease-interim-case-definition-reporting-eueea",
+      "date": "2026-07-10T12:00:00Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Ta definicja przypadku ma na celu klasyfikację przypadków choroby Ebola do celów epidemiologicznych i opiera się na kryteriach klinicznych, epidemiologicznych, laboratoryjnych i narażenia na ryzyko wysokiego ryzyka."
     }
   ],
   "daily_top5": [
