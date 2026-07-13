@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T09:57:43Z",
+  "last_updated": "2026-07-13T09:58:26Z",
   "poland": [
     {
       "title": "Nietrzymanie moczu po operacji prostaty (prostatektomii) – ćwiczenia i rady dla mężczyzn - DOZ",
@@ -16,6 +16,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Wypadek w aquaparku. Chirurdzy z Katowic uratowali kręgosłup 15-latka PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Koszaliński obchód milionerów - Termedia",
+      "url": "https://www.termedia.pl/mz/Koszalinski-obchod-milionerow-,68139.html",
+      "date": "2026-07-13T09:17:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Ponad 119 mln zł wypłaconych wynagrodzeń, średnio przeszło 372 tys. zł na jeden etat lub kontrakt i 17 rocznych pensji przekraczających milion złotych – tak przedstawiają się dane dotyczące zarobków lekarzy Szpitala Wojewódzkiego w Koszalinie za 2025 r."
     },
     {
       "title": "Ponad 10 tys. zgonów podczas czerwcowych fal upałów w Europie. Nowe dane EuroMOMO - Alert Medyczny",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Jak Polacy oceniają wysokość zarobków lekarzy w publicznych szpitalach? Ponad połowa uczestników badania przeprowadzonego przez United Surveys by IBRiS twierdzi, że są one zbyt wysokie. Mniejszość myśli, że odpowiednie."
-    },
-    {
-      "title": "Praca lekarza w Polsce czy za granicą? - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/praca-lekarza-w-polsce-n2405462",
-      "date": "2026-07-12T12:30:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Praca lekarza w Polsce czy za granicą? PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -938,7 +938,7 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
       "date": "2026-07-10T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 4,
       "summary": "Nadzór nad centrami kontroli i zapobiegania cyklosporozy | CDC (.gov)."
     },
     {
@@ -980,14 +980,6 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Mezigdomid-karfilzomib-deksametazon wydłuża PFS w porównaniu z karfilzomibem-deksametazonem przy pierwszym nawrocie u pacjentów z nawrotowym lub opornym na leczenie szpiczakiem mnogim Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
-      "title": "10 najważniejszych artykułów podstawowych w otolaryngologii opartych na dowodach — Conexiant",
-      "url": "https://conexiant.com/otolaryngology/articles/top-10-evidencebased-essentials-in-otolaryngology/",
-      "date": "2026-07-09T11:43:17Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Ustrukturyzowany zbiór wytycznych opartych na dowodach i przełomowych badań klinicznych stosowanych w praktyce klinicznej."
     },
     {
       "title": "Shrinidhi Nathany: Nowe wytyczne dotyczące praktyki klinicznej ASCO 2026 ctDNA - Oncodaily",
@@ -1116,6 +1108,14 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
+    },
+    {
+      "title": "AAOS publikuje wytyczne praktyki klinicznej dotyczące leczenia choroby zwyrodnieniowej stawu skokowego – PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/aaos-releases-clinical-practice-guideline-for-management-of-ankle-osteoarthritis-302816181.html",
+      "date": "2026-07-02T07:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "/PRNewswire/ -- Amerykańska Akademia Chirurgów Ortopedów (AAOS) opublikowała nowe wytyczne dotyczące praktyki klinicznej (CPG) dotyczące leczenia choroby zwyrodnieniowej stawu skokowego..."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
@@ -1530,9 +1530,25 @@
   ],
   "clinical_trials": [
     {
+      "title": "Partner GSK, firma Hansoh Pharma, odnosi sukces w chińskim badaniu III fazy SCLC ADC – Clinical Trials Arena",
+      "url": "https://www.clinicaltrialsarena.com/news/gsks-partner-hansoh-pharma-succeeds-in-chinese-phase-iii-sclc-adc-trial/",
+      "date": "2026-07-13T09:56:39Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Partner GSK, firma Hansoh Pharma, odnosi sukcesy w chińskiej fazie III badania SCLC ADC Clinical Trials Arena."
+    },
+    {
+      "title": "Serina kończy dawkowanie wskaźnikowe w kohorcie 1 badania fazy Ib – Arena Badań Klinicznych",
+      "url": "https://www.clinicaltrialsarena.com/news/serina-concludes-dosing-phase-ib-trials/",
+      "date": "2026-07-13T09:56:38Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Serina kończy dawkowanie wskaźnikowe w arenie badań klinicznych fazy Ib Cohort 1."
+    },
+    {
       "title": "Firma Novo Nordisk ogłasza wyniki badania III fazy FRONTIER4 dotyczącego denecimigu – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/novo-nordisk-frontier4-study-results/",
-      "date": "2026-07-13T08:52:17Z",
+      "date": "2026-07-13T09:56:15Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Firma Novo Nordisk ogłasza wyniki badania III fazy FRONTIER4 dotyczącego denecimig Clinical Trials Arena."
