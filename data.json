@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T05:39:46Z",
+  "last_updated": "2026-07-13T05:40:26Z",
   "poland": [
     {
       "title": "Dorośli z hemofilią A nadal bez systemowego dostępu do Hemlibry [Oświadczenie Roche Polska] - Alert Medyczny",
@@ -922,7 +922,7 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
       "date": "2026-07-10T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Nadzór nad centrami kontroli i zapobiegania cyklosporozy | CDC (.gov)."
     },
     {
@@ -972,6 +972,14 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Mezigdomid-karfilzomib-deksametazon wydłuża PFS w porównaniu z karfilzomibem-deksametazonem przy pierwszym nawrocie u pacjentów z nawrotowym lub opornym na leczenie szpiczakiem mnogim Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "10 najważniejszych artykułów podstawowych w otolaryngologii opartych na dowodach — Conexiant",
+      "url": "https://conexiant.com/otolaryngology/articles/top-10-evidencebased-essentials-in-otolaryngology/",
+      "date": "2026-07-09T11:43:17Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Ustrukturyzowany zbiór wytycznych opartych na dowodach i przełomowych badań klinicznych stosowanych w praktyce klinicznej."
     },
     {
       "title": "Shrinidhi Nathany: Nowe wytyczne dotyczące praktyki klinicznej ASCO 2026 ctDNA - Oncodaily",
@@ -1044,22 +1052,6 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Starzenie się organizmu powiązane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
-      "title": "Aktualizacja wytycznych dotyczących nadciśnienia z 2025 r. nieznacznie zwiększa możliwość kwalifikowania się do leczenia na etapie 1, przy czym wzrost netto dotyczy pacjentów starszych i kobiet — badania Epic",
-      "url": "https://www.epicresearch.org/articles/2025-hypertension-guideline-update-modestly-expands-stage-1-treatment-eligibility-with-net-increases-concentrated-among-older-and-female-patients/",
-      "date": "2026-07-07T11:59:16Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Wśród dorosłych w wieku 40–79 lat z nadciśnieniem tętniczym w 1. stopniu kwalifikowalność do leczenia nieznacznie wzrosła z 45,2% zgodnie z wytycznymi z 2017 r. do 47,0% zgodnie z wytycznymi z 2025 r. Ogółem zgodnie z nowymi wytycznymi 3,2% pacjentów byłoby leczonych inaczej (2,5% uzyskało kwalifikację, 0,7% utraciło kwalifikację)."
-    },
-    {
-      "title": "Narodowy Instytut Rozwoju Medycyny Koreańskiej publikuje sześć standardowych wytycznych praktyki klinicznej medycyny koreańskiej – 아시아경제",
-      "url": "https://www.asiae.co.kr/en/article/2026070715043876703",
-      "date": "2026-07-07T06:20:24Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Narodowy Instytut Rozwoju Medycyny Koreańskiej (Prezydent Koh Ho-yeon) i Grupa Projektowa Rozwoju Innowacyjnych Technologii Medycyny Koreańskiej."
     },
     {
       "title": "Przebudowa i dysfunkcja serca u chorych na nowotwory poddawanych terapiom kardiotoksycznym – Europejskie Towarzystwo Kardiologiczne",
@@ -2033,7 +2025,7 @@
       "date": "2026-07-12T10:11:14Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Istnieje poważna interakcja lekowa pomiędzy deferypronem a teryflunomidem. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
+      "summary": "Istnieje główna interakcja lekowa pomiędzy deferypronem a teryflunomidem. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
     },
     {
       "title": "Interakcje pomiędzy rofekoksybem i walgancyklowirem – Drugs.com",
