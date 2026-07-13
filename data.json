@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T14:42:34Z",
+  "last_updated": "2026-07-13T14:43:23Z",
   "poland": [
     {
       "title": "Ustawa o działalności leczniczej: co reguluje? - PolitykaZdrowotna.com",
@@ -15,7 +15,7 @@
       "date": "2026-07-13T14:05:00Z",
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
-      "summary": "Towarzyszące zapaleniu przyzębia bakterie mogą powodować stany zapalne w zastawkach serca i prowadzić do ich stwardnienia. Obecnie nie ma metod leczenia zatrzymujących postęp takich uszkodzeń – ostrzegają naukowcy."
+      "summary": "Naukowcy ostrzegają, że bakterie towarzyszące zapaleniu przyzębia mogą wywoływać stan zapalny w zastawkach serca i sprzyjać ich stwardnieniu. Nie ma dziś leków, które zatrzymałyby postęp takich uszkodzeń."
     },
     {
       "title": "Wielka Brytania rozpoczyna testy szczepionki przeciwko wirusowi Ebola opracowanej w zaledwie osiem tygodni - Alert Medyczny",
@@ -91,7 +91,7 @@
     },
     {
       "title": "Kolejna przełomowa operacja w WUM: zespół prof. Grąta wykonał pierwsze na świecie chimeryczne przeszczepienie wątroby - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/transplantologia/kolejna-przelomowa-operacja-w-wum-zespol-prof-grata-wykonal-pierwsze-na-swiecie-chimeryczne-przeszczepienie-watroby",
+      "url": "https://pulsmedycyny.pl/medycyna/transplantologia/kolejna-przelomowa-operacja-w-wum-zespol-prof-grata-wykonal-pierwsze-na-swiecie-chimeryczne-przeszczepienie-watroby/",
       "date": "2026-07-13T12:30:00Z",
       "source": "Puls Medycyny",
       "confirmed_by": 3,
@@ -107,7 +107,7 @@
     },
     {
       "title": "Kolejna przełomowa operacja w WUM: zespół prof. Grąta wykonał pierwsze na świecie chimeryczne przeszczepienie wątroby - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/transplantologia/kolejna-przelomowa-operacja-w-wum-zespol-prof-grata-wykonal-pierwsze-na-swiecie-chimeryczne-przeszczepienie-watroby/",
+      "url": "https://pulsmedycyny.pl/medycyna/transplantologia/kolejna-przelomowa-operacja-w-wum-zespol-prof-grata-wykonal-pierwsze-na-swiecie-chimeryczne-przeszczepienie-watroby",
       "date": "2026-07-13T12:30:00Z",
       "source": "Puls Medycyny",
       "confirmed_by": 3,
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "Martha Lillard, ostatnia pacjentka z polio w USA stosująca żelazne płuco, umiera w wieku 78 lat w Oklahomie – STAT",
+      "url": "https://www.statnews.com/2026/07/13/martha-lillard-last-us-polio-patient-iron-lung-dies/",
+      "date": "2026-07-13T14:41:28Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Martha Lillard, ostatnia pacjentka z polio w USA stosująca żelazne płuco, zmarła w Oklahomie w wieku 78 lat."
+    },
     {
       "title": "Lek na Alzheimera działa na komórki odpornościowe i stabilizuje marker uszkodzenia nerwów u ludzi – Tech Times",
       "url": "https://www.techtimes.com/articles/320311/20260713/alzheimers-drug-targets-immune-cells-stabilizes-nerve-damage-marker-humans.htm",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Obecnie dostępne są wytyczne dotyczące optymalizacji obrazowania na potrzeby oceny i nadzoru nad rakiem płaskonabłonkowym skóry. Jest to dokument, który ma stanowić podstawę przyszłych wytycznych."
-    },
-    {
-      "title": "Pilna sprawa: Wcześniejsze wykrywanie i leczenie choroby Alzheimera – STAT",
-      "url": "https://www.statnews.com/sponsor/2026/07/12/the-urgency-of-now-earlier-detection-and-treatment-in-alzheimers-disease/",
-      "date": "2026-07-13T07:37:44Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "W miarę ujednolicania nowych metod diagnostycznych i nowych terapii opieka nad chorobą Alzheimera (AD) zmienia się z leczenia objawów na późnym etapie na leczenie wcześniejsze."
     }
   ],
   "guidelines": [
@@ -934,12 +934,12 @@
       "summary": "Elinzanetant | Interakcje BNF."
     },
     {
-      "title": "Prezydium NRL wnioskuje o odrzucenie nowelizacji ustawy o zawodach lekarza i lekarza dentysty - NIL",
-      "url": "https://nil.org.pl/aktualnosci/9315-prezydium-nrl-wnioskuje-o-odrzucenie-nowelizacji-ustawy-o-zawodach-lekarza-i-lekarza-dentysty",
-      "date": "2026-07-10T07:00:00Z",
+      "title": "Kompleksowa opieka nad pacjentem pulmonologicznym – od diagnostyki do rehabilitacji - NIL",
+      "url": "https://nil.org.pl/specialelearningToPdf/157",
+      "date": "2026-07-10T10:07:08Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
+      "summary": "Kompleksowa opieka nad pacjentem pulmonologicznym – od diagnostyki do rehabilitacji NIL."
     },
     {
       "title": "Nadzór nad cyklosporozą — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -948,6 +948,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 4,
       "summary": "Nadzór nad centrami kontroli i zapobiegania cyklosporozy | CDC (.gov)."
+    },
+    {
+      "title": "Prezydium NRL wnioskuje o odrzucenie nowelizacji ustawy o zawodach lekarza i lekarza dentysty - NIL",
+      "url": "https://nil.org.pl/aktualnosci/9315-prezydium-nrl-wnioskuje-o-odrzucenie-nowelizacji-ustawy-o-zawodach-lekarza-i-lekarza-dentysty",
+      "date": "2026-07-10T07:00:00Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
     },
     {
       "title": "Informacje o spotkaniu ACIP – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1046,14 +1054,6 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Paweł Barucha: Premier z kocykiem - NIL",
-      "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/9311-pawel-barucha-premier-z-kocykiem",
-      "date": "2026-07-08T07:28:34Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
       "title": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami – Pharmacy Times",
       "url": "https://www.pharmacytimes.com/view/new-ckm-guideline-elevates-pharmacists-role-in-comprehensive-medication-management",
       "date": "2026-07-07T18:34:58Z",
@@ -1133,7 +1133,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1173,7 +1173,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1261,7 +1261,7 @@
       "date": "2026-07-12T05:45:53Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Dane dotyczące śmiertelności z powodu udaru mózgu wśród dorosłych w USA (35+) według stanu/terytorium i hrabstwa – lata 2022–2024 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Krajobraz diagnostyczny zakażeń przenoszonych drogą płciową – Światowa Organizacja Zdrowia (WHO)",
@@ -2198,6 +2198,14 @@
       "summary": "Przy 2231 potwierdzonych zakażeniach w USA brakuje zaledwie 58 przypadków do łącznej liczby przypadków za cały 2025 r., która była najwyższa od 34 lat."
     },
     {
+      "title": "Martha Lillard, ostatnia pacjentka z polio w USA stosująca żelazne płuco, umiera w wieku 78 lat w Oklahomie – STAT",
+      "url": "https://www.statnews.com/2026/07/13/martha-lillard-last-us-polio-patient-iron-lung-dies/",
+      "date": "2026-07-13T14:41:28Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Martha Lillard, ostatnia pacjentka z polio w USA stosująca żelazne płuco, zmarła w Oklahomie w wieku 78 lat."
+    },
+    {
       "title": "Wielka Brytania rozpoczyna testy szczepionki przeciwko wirusowi Ebola opracowanej w zaledwie osiem tygodni - Alert Medyczny",
       "url": "https://alertmedyczny.pl/wielka-brytania-rozpoczyna-testy-szczepionki-przeciwko-wirusowi-ebola-opracowanej-w-zaledwie-osiem-tygodni/",
       "date": "2026-07-13T13:34:00Z",
@@ -2244,20 +2252,12 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Oświadczenie CDC w sprawie epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 10 lipca 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga nadal przewyższa reakcję – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response",
-      "date": "2026-07-10T21:04:49Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów wirusa Ebola w Demokratycznej Republice Konga (DRK) wysoki rangą urzędnik Światowej Organizacji Zdrowia (WHO) ostrzega, że ​​epidemia może być znacznie większa, niż wskazuje liczba przypadków."
     }
   ],
   "daily_top5": [
     {
       "title": "Kolejna przełomowa operacja w WUM: zespół prof. Grąta wykonał pierwsze na świecie chimeryczne przeszczepienie wątroby - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/transplantologia/kolejna-przelomowa-operacja-w-wum-zespol-prof-grata-wykonal-pierwsze-na-swiecie-chimeryczne-przeszczepienie-watroby",
+      "url": "https://pulsmedycyny.pl/medycyna/transplantologia/kolejna-przelomowa-operacja-w-wum-zespol-prof-grata-wykonal-pierwsze-na-swiecie-chimeryczne-przeszczepienie-watroby/",
       "date": "2026-07-13T12:30:00Z",
       "source": "Puls Medycyny",
       "confirmed_by": 3,
@@ -2265,7 +2265,7 @@
     },
     {
       "title": "Kolejna przełomowa operacja w WUM: zespół prof. Grąta wykonał pierwsze na świecie chimeryczne przeszczepienie wątroby - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/transplantologia/kolejna-przelomowa-operacja-w-wum-zespol-prof-grata-wykonal-pierwsze-na-swiecie-chimeryczne-przeszczepienie-watroby/",
+      "url": "https://pulsmedycyny.pl/medycyna/transplantologia/kolejna-przelomowa-operacja-w-wum-zespol-prof-grata-wykonal-pierwsze-na-swiecie-chimeryczne-przeszczepienie-watroby",
       "date": "2026-07-13T12:30:00Z",
       "source": "Puls Medycyny",
       "confirmed_by": 3,
