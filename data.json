@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T16:27:50Z",
+  "last_updated": "2026-07-13T16:28:40Z",
   "poland": [
     {
       "title": "Ośrodki Eksperckie Chorób Rzadkich znowu na tapecie - Termedia",
@@ -96,6 +96,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "UODO upomniał szpital w Sosnowcu i podmiot przetwarzający po naruszeniu RODO. Sprawa dotyczyła włamania do poczty i danych 224 osób."
+    },
+    {
+      "title": "Prezydium NRL chce odrzucenia nowelizacji ustawy o zawodach lekarza - Remedium | Portal medyczny",
+      "url": "https://remedium.md/publikacje/wiadomosci/prezydium-nrl-chce-odrzucenia-nowelizacji-ustawy-o-zawodach-lekarza",
+      "date": "2026-07-13T14:39:00Z",
+      "source": "Remedium.md",
+      "confirmed_by": 1,
+      "summary": "NRL apeluje o odrzucenie projektu ustawy o lekarzach. Samorząd wskazuje na zagrożenia dla jakości kształcenia i bezpieczeństwa pacjentów, krytykując skrócenie stażu i nowe egzaminy."
     },
     {
       "title": "Tag “LVEF” - Termedia",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Dyrekcja szpitala powiatowego w Bartoszycach próbuje przetrwać, łącząc trzy oddziały w jeden. Powód? Brak rąk do pracy, a jeśli już się znajdą, to wyciągają z kasy fortuny."
-    },
-    {
-      "title": "Chirurgia piersi i nowe taryfy. NFZ daje tydzień na konsultacje - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/chirurgia-piersi-i-nowe-n2406585",
-      "date": "2026-07-13T10:30:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Chirurgia piersi i nowe taryfy. NFZ daje tydzień na konsultacje PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -939,7 +939,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
+      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
     },
     {
       "title": "Toripalimab | Interakcje - BNF",
@@ -970,7 +970,7 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
       "date": "2026-07-10T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 5,
       "summary": "Nadzór nad centrami kontroli i zapobiegania cyklosporozy | CDC (.gov)."
     },
     {
@@ -1052,6 +1052,14 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "GL - Dentyści u sterów samorządu lekarskiego - NIL",
+      "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/9313-gl-dentysci-u-sterow-samorzadu-lekarskiego",
+      "date": "2026-07-08T08:33:49Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
     },
     {
       "title": "Starzenie się organizmu związane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1165,7 +1173,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1357,7 +1365,7 @@
       "date": "2026-07-10T21:26:11Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje dla tygodnia 26. zakończonego 4 lipca 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje z tygodnia 26. zakończonego 4 lipca 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga nadal przewyższa reakcję – CIDRAP",
@@ -1796,6 +1804,14 @@
       "summary": "Nowy pakiet cyklu życia badania klinicznego, ostateczny termin podjęcia decyzji w sprawie pozwolenia na lek, poprawa dostępu do ulotek informacyjnych dla pacjentów dzięki zastosowaniu rozwiązań cyfrowych i wykorzystanie sztucznej inteligencji to także niektóre z tematów poruszanych w celach Agencji Regulacyjnej ds. Leków i Produktów Opieki Zdrowotnej."
     },
     {
+      "title": "Nadużywanie Adderall gwałtownie spada wśród młodych dorosłych – wynika z badania – Drugs.com",
+      "url": "https://www.drugs.com/news/adderall-misuse-falls-sharply-among-young-adults-study-finds-130622.html",
+      "date": "2026-07-13T15:34:10Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "PONIEDZIAŁEK, 13 lipca 2026 r. Połowa młodych dorosłych nadużywa obecnie Adderallu, Ritalinu i innych leków na ADHD, aby pomóc im zachować czujność podczas nauki lub pracy."
+    },
+    {
       "title": "Smartfony mogą zwiększać ryzyko depresji u seniorów – Drugs.com",
       "url": "https://www.drugs.com/news/smartphones-can-increase-seniors-risk-depression-130623.html",
       "date": "2026-07-13T15:30:22Z",
@@ -2146,14 +2162,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Występuje umiarkowana interakcja lekowa pomiędzy lekiem Strepsils Cough i triprolidyną. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=481&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F11%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=devicenamedesc",
-      "date": "2026-07-12T09:04:07Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     }
   ],
   "critical_alerts": [
