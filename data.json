@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-13T08:07:08Z",
+  "last_updated": "2026-07-13T08:07:59Z",
   "poland": [
+    {
+      "title": "Sondaż WP: blisko 59% Polaków uważa, że lekarze zarabiają za dużo - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/sondaz-wp-blisko-59-proc-polakow-uwaza-ze-lekarze-zarabiaja-za-duzo/",
+      "date": "2026-07-13T08:07:21Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Sondaż United Surveys by IBRiS dla Wirtualnej Polski pokazuje, że blisko 59% Polaków uważa zarobki lekarzy w publicznych szpitalach za zbyt wysokie."
+    },
     {
       "title": "Identyfikacja alergenu sprawczego u pacjentów z podwójnym uczuleniem na jady owadów błonkoskrzydłych - Medycyna Praktyczna",
       "url": "https://www.mp.pl/alergologia/choroby/ogolnoustrojowe/alergia-na-owady/404451,identyfikacja-alergenu-sprawczego-u-pacjentow-z-podwojnym-uczuleniem-na-jady-owadow-blonkoskrzydlych",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Endometrioza coraz częściej wpływa na strategie HR i wellbeing. Eksperci wskazują, dlaczego zdrowie kobiet staje się ważnym obszarem dla biznesu."
-    },
-    {
-      "title": "Choroby neuroimmunologiczne mają kobiecą twarz. Diagnostyka ma kluczowe znaczenie - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Neurologia/Choroby-neuroimmunologiczne-maja-kobieca-twarz-Diagnostyka-ma-kluczowe-znaczenie,286372,208.html",
-      "date": "2026-07-12T08:16:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Choroby neuroimmunologiczne, takie jak stwardnienie rozsiane, miastenia czy NMOSD, znacznie częściej dotyczą kobiet niż mężczyzn. – Jeżeli połączymy czynniki hormonalne, genetyczne i epigenetyczne, widzimy, dlaczego kobiety chorują częściej – mówi prof. Monika Adamczyk-Sowa."
     }
   ],
   "world": [
@@ -1099,7 +1099,7 @@
       "date": "2026-07-03T12:58:05Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Keytruda (pembrolizumab) aotm.gov.pl."
+      "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
@@ -1117,7 +1117,7 @@
       "date": "2026-07-13T02:13:44Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 7,
-      "summary": "| Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1133,7 +1133,7 @@
       "date": "2026-07-13T02:13:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1157,7 +1157,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1165,7 +1165,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1237,7 +1237,7 @@
       "date": "2026-07-12T06:34:59Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "| Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Dane dotyczące śmiertelności z powodu udaru mózgu wśród dorosłych w USA (35+) według stanu/terytorium i hrabstwa – lata 2022–2024 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1245,7 +1245,7 @@
       "date": "2026-07-12T05:45:53Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Dane dotyczące śmiertelności z powodu udaru mózgu wśród dorosłych w USA (35+) według stanu/terytorium i hrabstwa – lata 2022–2024 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Krajobraz diagnostyczny zakażeń przenoszonych drogą płciową – Światowa Organizacja Zdrowia (WHO)",
@@ -2333,7 +2333,7 @@
       "date": "2026-07-13T02:13:44Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 7,
-      "summary": "| Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Cotygodniowe biuletyny dotyczące epidemii i innych sytuacji kryzysowych | OMS | Biuro regionalne pour l'Afrique – WHO | Biuro Regionalne dla Afryki",
