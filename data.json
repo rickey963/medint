@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-13T16:04:33Z",
+  "last_updated": "2026-07-13T16:05:15Z",
   "poland": [
+    {
+      "title": "Ma tylko 35 lat. Najmłodszy profesor, lekarz specjalista chirurgii plastycznej w Polsce - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/ma-tylko-35-lat-najmlodszy-n2406647",
+      "date": "2026-07-13T16:00:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Ma tylko 35 lat. Najmłodszy profesor, lekarz specjalista chirurgii plastycznej w Polsce PolitykaZdrowotna.com."
+    },
     {
       "title": "Witamina młodości zwiększa ryzyko zgonu. Naukowcy podnieśli alarm - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/Witamina-mlodosci-zwieksza-ryzyko-zgonu-Naukowcy-podniesli-alarm,286406,11.html",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Lekarze doskonale wiedzą, że z decyzji dotyczących tzw. kominów płacowych na pewno się nie wycofamy – mówi w wywiadzie opublikowanym w poniedziałkowej „Rzeczpospolitej” szefowa resortu zdrowia Jolanta Sobierańska-Grenda. Pierwszy rozmowę przeprowadził i opublikował Rynek Zdrowia."
-    },
-    {
-      "title": "240 zł na za godzinę. Cięcia kominów płacowych przesądzone - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/240-zl-na-za-godzine-Ciecia-kominow-placowych-przesadzone,286595,14.html",
-      "date": "2026-07-13T10:26:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Lekarze doskonale wiedzą, że z decyzji dotyczących tzw. kominów płacowych na pewno się nie wycofamy – mówi w wywiadzie opublikowanym w poniedziałkowej „Rzeczpospolitej” szefowa resortu zdrowia Jolanta Sobierańska-Grenda. Pierwszy rozmowę przeprowadził i opublikował Rynek Zdrowia."
     }
   ],
   "world": [
@@ -489,7 +489,7 @@
       "date": "2026-07-13T13:05:03Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Brytyjscy studenci za granicą rozpoczynają walkę prawną przeciwko reformie kształcenia medycznego, ponieważ zagraniczni studenci w Wielkiej Brytanii stoją w obliczu niepewności BMJ."
+      "summary": "Brytyjscy studenci za granicą rozpoczynają walkę prawną przeciwko zmianom w kształceniu lekarzy, ponieważ zagraniczni studenci w Wielkiej Brytanii stoją w obliczu niepewności – BMJ."
     },
     {
       "title": "Większość zgonów dzieci na grypę ma miejsce u osób niezaszczepionych – Medscape",
@@ -806,6 +806,14 @@
   ],
   "guidelines": [
     {
+      "title": "Co to jest rozwarstwienie aorty? - www.serce.org",
+      "url": "https://newsroom.heart.org/news/what-is-an-aortic-dissection",
+      "date": "2026-07-13T16:03:34Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "DALLAS, 13 lipca 2026 r. — Po nagłej śmierci amerykańskiej senator Lindsey Graham z Karoliny Południowej szeroko rozpowszechnione doniesienia prasowe wskazują, że cierpiał on na rozwarstwienie aorty. Rozwarstwienie aorty to rozdarcie wewnętrznej warstwy aorty, największej części ciała..."
+    },
+    {
       "title": "Project Response Inc. – Krajowa Sieć Informacji o Zapobieganiu (.gov)",
       "url": "https://npin.cdc.gov/organization/project-response-inc",
       "date": "2026-07-13T14:53:27Z",
@@ -962,7 +970,7 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
       "date": "2026-07-10T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 4,
       "summary": "Nadzór nad centrami kontroli i zapobiegania cyklosporozy | CDC (.gov)."
     },
     {
@@ -1044,14 +1052,6 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
-      "title": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami – Pharmacy Times",
-      "url": "https://www.pharmacytimes.com/view/new-ckm-guideline-elevates-pharmacists-role-in-comprehensive-medication-management",
-      "date": "2026-07-07T18:34:58Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami w czasach apteki."
     },
     {
       "title": "Starzenie się organizmu związane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1165,7 +1165,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1173,7 +1173,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1261,7 +1261,7 @@
       "date": "2026-07-12T05:45:53Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Dane dotyczące śmiertelności z powodu udaru mózgu wśród dorosłych w USA (35+) według stanu/terytorium i hrabstwa – lata 2022–2024 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Krajobraz diagnostyczny zakażeń przenoszonych drogą płciową – Światowa Organizacja Zdrowia (WHO)",
@@ -1905,7 +1905,7 @@
       "date": "2026-07-13T10:52:51Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Choć łączna kwota finansowania stanowiła najwyższą kwotę w pierwszym półroczu od początku 2022 r., obserwatorzy branży obawiają się, że małe start-upy pozostają w tyle."
+      "summary": "Chociaż łączna kwota finansowania stanowiła najwyższą kwotę w pierwszym półroczu od początku 2022 r., obserwatorzy branży obawiają się, że małe start-upy pozostają w tyle."
     },
     {
       "title": "Rejestracja zakładu i wykaz urządzeń — accessdata.fda.gov",
