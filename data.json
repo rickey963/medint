@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T03:00:02Z",
+  "last_updated": "2026-07-13T03:00:42Z",
   "poland": [
     {
       "title": "Rak piersi rozpoznany do trzech lat po porodzie może mieć bardziej agresywny przebieg - Alert Medyczny",
@@ -1157,7 +1157,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1165,7 +1165,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Zobacz ten wykres, ostatnia aktualizacja 23 czerwca 2026 r."
     },
     {
       "title": "Epidemia włośnicy powiązana z niedogotowanym mięsem Bear Jerky, Karolina Północna, USA, 2024 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1260,7 +1260,7 @@
       "url": "https://www.cdc.gov/media/releases/2026/cdc-ebola-outbreak-in-democratic-republic-of-congo-and-uganda.html",
       "date": "2026-07-11T02:24:15Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Oświadczenie CDC w sprawie epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 7/10/26 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
@@ -1316,7 +1316,7 @@
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-26.html",
       "date": "2026-07-10T21:26:11Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje dla tygodnia 26. zakończonego 4 lipca 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
@@ -1480,14 +1480,6 @@
       "summary": "Repozytorium danych GHO jest bramą WHO do statystyk dotyczących zdrowia dla 194 państw członkowskich. Zapewnia dostęp do ponad 1000 wskaźników tematów zdrowotnych."
     },
     {
-      "title": "Laotańska Republika Ludowo-Demokratyczna zwiększa gotowość na wypadek grypy poprzez zintegrowany nadzór – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/feature-stories/detail/lao-peoples-democratic-republic-strengthens-influenza-preparedness-through-integrated-surveillance",
-      "date": "2026-07-10T07:00:00Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Laotańska Republika Ludowo-Demokratyczna (Laotańska Republika Ludowo-Demokratyczna (Laotańska PDR)) rozwijała swoje możliwości w zakresie nadzoru oddechowego przez prawie dwie dekady. Nadzór Sentinel nad chorobami grypopodobnymi (ILI) i ciężkimi ostrymi infekcjami dróg oddechowych (SARI) prowadzony jest od 2007–2008."
-    },
-    {
       "title": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Modelowanie i prognozowanie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
       "date": "2026-07-10T07:00:00Z",
@@ -1504,12 +1496,20 @@
       "summary": "Nadzór i trendy w zakresie krztuśca | Centra kontroli i zapobiegania krztuścowi | CDC (.gov)."
     },
     {
-      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Prognozy zespołu dotyczącego COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
       "date": "2026-07-10T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Zespół prognoz dotyczących COVID-19 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Laotańska Republika Ludowo-Demokratyczna zwiększa gotowość na wypadek grypy poprzez zintegrowany nadzór – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/feature-stories/detail/lao-peoples-democratic-republic-strengthens-influenza-preparedness-through-integrated-surveillance",
+      "date": "2026-07-10T07:00:00Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Laotańska Republika Ludowo-Demokratyczna (Laotańska Republika Ludowo-Demokratyczna (Laotańska PDR)) rozwijała swoje możliwości w zakresie nadzoru oddechowego przez prawie dwie dekady. Nadzór Sentinel nad chorobami grypopodobnymi (ILI) i ciężkimi ostrymi infekcjami dróg oddechowych (SARI) prowadzony jest od 2007–2008."
     },
     {
       "title": "Epidemia wielostanowego zapalenia wątroby potencjalnie powiązana z mrożonymi małżami — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2362,7 +2362,7 @@
       "url": "https://www.cdc.gov/media/releases/2026/cdc-ebola-outbreak-in-democratic-republic-of-congo-and-uganda.html",
       "date": "2026-07-11T02:24:15Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Oświadczenie CDC w sprawie epidemii wirusa Ebola w Demokratycznej Republice Konga i Ugandzie: 7/10/26 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
