@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-13T21:32:32Z",
+  "last_updated": "2026-07-13T21:33:15Z",
   "poland": [
     {
-      "title": "Tag “transplantacja gałki ocznej” - Termedia",
-      "url": "https://www.termedia.pl/tag/transplantacja_galki_ocznej-37459",
+      "title": "Tag “aparat perfuzyjny” - Termedia",
+      "url": "https://www.termedia.pl/tag/aparat_perfuzyjny-37460",
       "date": "2026-07-13T20:02:58Z",
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "aktualności, menedżer zdrowia."
     },
     {
-      "title": "Tag “aparat perfuzyjny” - Termedia",
-      "url": "https://www.termedia.pl/tag/aparat_perfuzyjny-37460",
+      "title": "Tag “transplantacja gałki ocznej” - Termedia",
+      "url": "https://www.termedia.pl/tag/transplantacja_galki_ocznej-37459",
       "date": "2026-07-13T20:02:58Z",
       "source": "Termedia",
       "confirmed_by": 1,
@@ -192,6 +192,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Projekt MZ przewiduje wzrost liczby miejsc na kierunkach lekarskim i lekarsko-dentystycznym w roku akademickim 2026/2027."
+    },
+    {
+      "title": "Nietrzymanie moczu po operacji prostaty (prostatektomii) – ćwiczenia i rady dla mężczyzn - DOZ",
+      "url": "https://www.doz.pl/czytelnia/a18736-Nietrzymanie_moczu_po_operacji_prostaty_prostatektomii__cwiczenia_i_rady_dla_mezczyzn",
+      "date": "2026-07-13T15:24:18Z",
+      "source": "DOZ.pl",
+      "confirmed_by": 1,
+      "summary": "Nietrzymanie moczu po operacji prostaty i prostatektomii może obniżać komfort życia. Sprawdź na DOZ.pl, jak radzić sobie z tym problemem."
     },
     {
       "title": "Tag “Michał Wierzchowski” - Termedia",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Neurochirurdzy ze Szpitala Specjalistycznego w Mielcu zoperowali glejaka zlokalizowanego w okolicy odpowiadającej za ruch kończyn. Dzięki neuronawigacji, fluoroskopii i monitoringowi zabieg przeprowadzono bez deficytów neurologicznych."
-    },
-    {
-      "title": "Kolejna przełomowa operacja w WUM: zespół prof. Grąta wykonał pierwsze na świecie chimeryczne przeszczepienie wątroby - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/transplantologia/kolejna-przelomowa-operacja-w-wum-zespol-prof-grata-wykonal-pierwsze-na-swiecie-chimeryczne-przeszczepienie-watroby",
-      "date": "2026-07-13T12:30:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 3,
-      "summary": "Zespół Kliniki Chirurgii Ogólnej, Transplantacyjnej i Wątroby Warszawskiego Uniwersytetu Medycznego pod kierownictwem prof. Michała Grąta wykonał 11 maja 2026 roku pierwsze na świecie chimeryczne przeszczepienie wątroby. Po raz pierwszy w historii transplantologii jeden przeszczepiony narząd został zbudowany z dwóch fragmentów wątroby o odmiennym pochodzeniu genetycznym."
     }
   ],
   "world": [
@@ -826,7 +826,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-13T19:40:22Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 4,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -2178,7 +2178,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-13T19:40:22Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 4,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -2232,20 +2232,20 @@
   ],
   "daily_top5": [
     {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-07-13T19:40:22Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
-      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
       "title": "Subskrypcje i zakupy — NEJM — The New England Journal of Medicine — The New England Journal of Medicine",
       "url": "https://myaccount.nejm.org/subscriptions-purchases",
       "date": "2026-07-13T19:39:44Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Zaloguj się do swojego konta NEJM Group My Account, aby zarządzać informacjami profilowymi i indywidualnymi subskrypcjami w naszych produktach."
+    },
+    {
+      "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
+      "date": "2026-07-13T19:23:37Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
     },
     {
       "title": "Nauka i technologia zdrowotna - Medscape",
