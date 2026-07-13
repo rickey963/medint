@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T12:58:16Z",
+  "last_updated": "2026-07-13T12:59:04Z",
   "poland": [
     {
       "title": "Medycyna estetyczna tylko dla lekarzy? NRL chce wpisać to do ustawy - Alert Medyczny",
@@ -934,20 +934,28 @@
       "summary": "Elinzanetant | Interakcje BNF."
     },
     {
-      "title": "Prezydium NRL wnioskuje o odrzucenie nowelizacji ustawy o zawodach lekarza i lekarza dentysty - NIL",
-      "url": "https://nil.org.pl/aktualnosci/9315-prezydium-nrl-wnioskuje-o-odrzucenie-nowelizacji-ustawy-o-zawodach-lekarza-i-lekarza-dentysty",
-      "date": "2026-07-10T07:00:00Z",
+      "title": "Kompleksowa opieka nad pacjentem pulmonologicznym – od diagnostyki do rehabilitacji - NIL",
+      "url": "https://nil.org.pl/specialelearningToPdf/157",
+      "date": "2026-07-10T10:07:08Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
+      "summary": "Kompleksowa opieka nad pacjentem pulmonologicznym – od diagnostyki do rehabilitacji NIL."
     },
     {
       "title": "Nadzór nad cyklosporozą — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
       "date": "2026-07-10T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 3,
       "summary": "Nadzór nad centrami kontroli i zapobiegania cyklosporozy | CDC (.gov)."
+    },
+    {
+      "title": "Prezydium NRL wnioskuje o odrzucenie nowelizacji ustawy o zawodach lekarza i lekarza dentysty - NIL",
+      "url": "https://nil.org.pl/aktualnosci/9315-prezydium-nrl-wnioskuje-o-odrzucenie-nowelizacji-ustawy-o-zawodach-lekarza-i-lekarza-dentysty",
+      "date": "2026-07-10T07:00:00Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
     },
     {
       "title": "Informacje o spotkaniu ACIP – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1030,22 +1038,6 @@
       "summary": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "GL - Dentyści u sterów samorządu lekarskiego - NIL",
-      "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/9313-gl-dentysci-u-sterow-samorzadu-lekarskiego",
-      "date": "2026-07-08T08:33:49Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Paweł Barucha: Premier z kocykiem - NIL",
-      "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/9311-pawel-barucha-premier-z-kocykiem",
-      "date": "2026-07-08T07:28:34Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
       "title": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami – Pharmacy Times",
       "url": "https://www.pharmacytimes.com/view/new-ckm-guideline-elevates-pharmacists-role-in-comprehensive-medication-management",
       "date": "2026-07-07T18:34:58Z",
@@ -1060,6 +1052,14 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Starzenie się organizmu powiązane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "Aktualizacja wytycznych dotyczących nadciśnienia z 2025 r. nieznacznie zwiększa możliwość kwalifikowania się do leczenia na etapie 1, przy czym wzrost netto dotyczy pacjentów starszych i kobiet — badania Epic",
+      "url": "https://www.epicresearch.org/articles/2025-hypertension-guideline-update-modestly-expands-stage-1-treatment-eligibility-with-net-increases-concentrated-among-older-and-female-patients/",
+      "date": "2026-07-07T11:59:16Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Wśród dorosłych w wieku 40–79 lat z nadciśnieniem tętniczym w 1. stopniu kwalifikowalność do leczenia nieznacznie wzrosła z 45,2% zgodnie z wytycznymi z 2017 r. do 47,0% zgodnie z wytycznymi z 2025 r. Ogółem zgodnie z nowymi wytycznymi 3,2% pacjentów byłoby leczonych inaczej (2,5% uzyskało kwalifikację, 0,7% utraciło kwalifikację)."
     },
     {
       "title": "Przebudowa i dysfunkcja serca u chorych na nowotwory poddawanych terapiom kardiotoksycznym – Europejskie Towarzystwo Kardiologiczne",
@@ -1133,7 +1133,7 @@
       "date": "2026-07-13T02:13:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1157,7 +1157,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1165,7 +1165,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1514,7 +1514,7 @@
       "summary": "Produkcja leków typu „hub-and-szprychy” odniesie korzyści z nowych przepisów FDA Clinical Trials Arena."
     },
     {
-      "title": "ACT Brief: Przerwa w przejrzystości list CRL FDA, zmiana modelu rekrutacji skoncentrowana na protokołach i integracja spraw medycznych w rozwoju – stosowane badania kliniczne online",
+      "title": "ACT Brief: Przerwa w przejrzystości list CRL FDA, zmiana modelu rekrutacji zorientowanej na protokół i integracja spraw medycznych w rozwoju – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/fda-crl-transparency-protocol-centric-recruitment-medical-affairs-integration-development",
       "date": "2026-07-13T10:47:13Z",
       "source": "Applied Clinical Trials",
