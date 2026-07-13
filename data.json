@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-13T17:32:55Z",
+  "last_updated": "2026-07-13T17:33:35Z",
   "poland": [
+    {
+      "title": "Uzależnienia, psychika i mózg. Co warto wiedzieć o współwystępowaniu chorób? - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/uzaleznienie-to-nie-n2406685",
+      "date": "2026-07-13T17:30:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Uzależnienia, psychika i mózg. Co warto wiedzieć o współwystępowaniu chorób? PolitykaZdrowotna.com."
+    },
     {
       "title": "Zmiany w przyznawaniu renty. Wejdą w życie od 2027 roku - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Zmiany-w-przyznawaniu-renty-Wejda-w-zycie-od-2027-roku,286627,1.html",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Choć w procesach rekrutacyjnych oficjalnie liczą się kompetencje i doświadczenie, w praktyce o karierze coraz częściej decyduje wskaźnik BMI."
-    },
-    {
-      "title": "Na WUM wykonano pierwsze na świecie chimeryczne przeszczepienie wątroby - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/na-wum-wykonano-pierwsze-na-swiecie-chimeryczne-przeszczepienie-watroby/",
-      "date": "2026-07-13T11:20:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "WUM przeprowadził pierwsze na świecie chimeryczne przeszczepienie wątroby. To przełom w transplantologii i chirurgii onkologicznej."
     }
   ],
   "world": [
@@ -772,20 +772,20 @@
       "summary": "Zmniejszanie śmiertelności, poprawa wyników i zapewnienie równości kobiet z klasyczną chorobą hematologiczną: Komisja Hematologiczna Lancet The Lancet."
     },
     {
-      "title": "Poszerzanie dostępu do usług związanych ze zdrowiem menstruacyjnym: obszary wymagające uwagi - The Lancet",
-      "url": "https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(26)00139-0/fulltext",
-      "date": "2026-07-13T09:26:52Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Zwiększanie dostępu do usług związanych ze zdrowiem menstruacyjnym: obszary wymagające uwagi The Lancet."
-    },
-    {
       "title": "Służby położnicze powinny być w stanie wspierać zarówno bezpieczną opiekę, jak i świadomy wybór matki – BMJ",
       "url": "https://www.bmj.com/content/394/bmj-2026-100246/rapid-responses",
       "date": "2026-07-13T09:26:52Z",
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Służby położnicze powinny być w stanie wspierać zarówno bezpieczną opiekę, jak i świadomy wybór matki. BMJ."
+    },
+    {
+      "title": "Poszerzanie dostępu do usług związanych ze zdrowiem menstruacyjnym: obszary wymagające uwagi - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(26)00139-0/fulltext",
+      "date": "2026-07-13T09:26:52Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Zwiększanie dostępu do usług związanych ze zdrowiem menstruacyjnym: obszary wymagające uwagi The Lancet."
     },
     {
       "title": "Służby położnicze powinny być w stanie wspierać zarówno bezpieczną opiekę, jak i świadomy wybór matki – BMJ",
@@ -1157,7 +1157,7 @@
       "date": "2026-07-13T02:13:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1189,7 +1189,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1197,7 +1197,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Zobacz ten wykres, ostatnia aktualizacja 23 czerwca 2026 r."
+      "summary": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -1277,7 +1277,7 @@
       "date": "2026-07-12T05:45:53Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Dane dotyczące śmiertelności z powodu udaru mózgu wśród dorosłych w USA (35+) według stanu/terytorium i hrabstwa – lata 2022–2024 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Krajobraz diagnostyczny zakażeń przenoszonych drogą płciową – Światowa Organizacja Zdrowia (WHO)",
