@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T23:06:28Z",
+  "last_updated": "2026-07-13T23:07:10Z",
   "poland": [
     {
       "title": "AI zamiast papierologii. NHS inwestuje 10 mld funtów w cyfrową transformację - Alert Medyczny",
@@ -508,6 +508,14 @@
       "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
     },
     {
+      "title": "Zaburzenia aktywujące płytki krwi i czynnik przeciwpłytkowy 4 — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMra2502459",
+      "date": "2026-07-13T17:43:45Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Zaburzenia aktywujące płytki krwi i czynnik przeciwpłytkowy 4 The New England Journal of Medicine."
+    },
+    {
       "title": "Kiedy brak zaufania do lekarzy, dobre samopoczucie i polityka idą w parze - Medscape",
       "url": "https://www.medscape.com/viewarticle/when-medical-mistrust-wellness-and-politics-align-2026a1000nll?src=ogm_univ_stm_mscpmrk&faf=1",
       "date": "2026-07-13T17:21:38Z",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Zapytanie ofertowe (RFP) dotyczące opracowania krajowych wytycznych dotyczących środków przeciwdrobnoustrojowych w przypadku powszechnych chorób zakaźnych Światowa Organizacja Zdrowia (WHO)."
-    },
-    {
-      "title": "Zdrowie psychiczne dwukierunkowo powiązane z funkcjami poznawczymi w bólu – Medscape",
-      "url": "https://www.medscape.com/viewarticle/mental-health-bidirectionally-linked-cognition-pain-2026a1000nkv",
-      "date": "2026-07-13T10:52:54Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Badania pokazują, że problemy zdrowia psychicznego wiążą się z o 78% większym ryzykiem zaburzeń poznawczych (CI) u osób starszych z przewlekłym bólem, podczas gdy CI wiąże się z wyższym ryzykiem wystąpienia MHC."
     }
   ],
   "guidelines": [
@@ -810,7 +810,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-13T22:42:33Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 5,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1237,7 +1237,7 @@
       "date": "2026-07-13T02:13:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1269,7 +1269,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1296,7 +1296,7 @@
       "summary": "Jasna komunikacja i środki bezpieczeństwa zapobiegają zakażeniu włośnicą przez mięso dzikich zwierząt i są niezbędne do bezpiecznego spożycia."
     },
     {
-      "title": "Epidemia włośnicy powiązana z niedogotowanym mięsem Bear Jerky, Karolina Północna, USA, 2024 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Epidemia włośnicy powiązana z niedogotowanym mięsem Bear Jerky, Karolina Północna, USA, 2024 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0062-t1",
       "date": "2026-07-12T16:24:28Z",
       "source": "CDC Outbreaks",
@@ -2017,7 +2017,7 @@
       "date": "2026-07-13T14:27:55Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Przeglądaj obrazy Utebzi i identyfikuj pigułki według kodu nadruku, kształtu i koloru za pomocą identyfikatora pigułek Drugs.com."
+      "summary": "Przeglądaj zdjęcia Utebzi i identyfikuj pigułki według kodu nadruku, kształtu i koloru za pomocą identyfikatora pigułek Drugs.com."
     },
     {
       "title": "Rejestracja zakładu i wykaz urządzeń — accessdata.fda.gov",
@@ -2146,7 +2146,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-13T22:42:33Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 5,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -2200,12 +2200,12 @@
   ],
   "daily_top5": [
     {
-      "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
-      "date": "2026-07-13T22:26:00Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
+      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-07-13T22:42:33Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 5,
+      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Nauka i technologia zdrowotna - Medscape",
