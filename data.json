@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T10:59:35Z",
+  "last_updated": "2026-07-13T11:00:25Z",
   "poland": [
     {
       "title": "\"Kupuj, będziesz jak sigma\". UOKiK postawił zarzuty znanym influencerom - Rynek Zdrowia",
@@ -676,6 +676,14 @@
       "summary": "Nowe badanie pokazuje, że rytuksymab nie jest gorszy od okrelizumabu pod względem hamowania aktywności choroby w nowo zdiagnozowanym stwardnieniu rozsianym, przy podobnej częstości występowania działań niepożądanych."
     },
     {
+      "title": "Mongolia przeprowadza ocenę wprowadzenia szczepionek przeciwko HPV – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/westernpacific/newsroom/feature-stories/item/mongolia-conducts-evaluation-for-hpv-vaccines-roll-out",
+      "date": "2026-07-13T04:33:08Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Program szczepień przeciwko HPV w Mongolii, rozpoczęty w 2024 r., objął na początku 2026 r. ponad 177 000 dzieci w wieku 11–14 lat. Ocena wspierana przez WHO wykazała, że ​​jego wdrożenie powiodło się dzięki rygorystycznym politykom, prostemu schematowi jednej dawki oraz ścisłej współpracy między sektorami zdrowia i edukacji. Wysiłki w zakresie szczepień uzupełniających pomogły również zwiększyć zasięg na obszarach o początkowo niskim poziomie wykorzystania szczepionek."
+    },
+    {
       "title": "Subskrypcje i zakupy — NEJM — The New England Journal of Medicine — The New England Journal of Medicine",
       "url": "https://myaccount.nejm.org/subscriptions-purchases",
       "date": "2026-07-12T23:25:41Z",
@@ -794,14 +802,6 @@
       "source": "Cochrane Library",
       "confirmed_by": 1,
       "summary": "Medha Baranwal posiada tytuł licencjata nauk biomedycznych uzyskany na Uniwersytecie w Delhi oraz tytuł magistra biotechnologii uzyskany na Uniwersytecie Amity. Od maja 2018 r. uczestniczy w Medical Dialogues, pisząc i redagując artykuły z zakresu wiadomości medycznych, które przekładają złożone badania na jasne i dostępne informacje dla pracowników służby zdrowia."
-    },
-    {
-      "title": "READY-T1D – ocena gotowości do badań i świadczenia usług w leczeniu cukrzycy typu 1 u dzieci: badanie przekrojowe obejmujące wiele krajów - The Lancet",
-      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00320-2/fulltext",
-      "date": "2026-07-12T14:12:17Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "READY-T1D – ocena gotowości do badań i świadczenia usług w leczeniu cukrzycy typu 1 u dzieci: przekrojowe badanie obejmujące wiele krajów, The Lancet."
     }
   ],
   "guidelines": [
@@ -891,7 +891,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
+      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
     },
     {
       "title": "WVU Medicine J.W. Szpital Ruby Memorial uznany w całym kraju za zaangażowanie w doskonałość w leczeniu chorób serca, udaru i cukrzycy – WVU Medicine - WVU Medicine",
@@ -938,7 +938,7 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
       "date": "2026-07-10T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 4,
       "summary": "Nadzór nad centrami kontroli i zapobiegania cyklosporozy | CDC (.gov)."
     },
     {
@@ -1030,22 +1030,6 @@
       "summary": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "GL - Dentyści u sterów samorządu lekarskiego - NIL",
-      "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/9313-gl-dentysci-u-sterow-samorzadu-lekarskiego",
-      "date": "2026-07-08T08:33:49Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Paweł Barucha: Premier z kocykiem - NIL",
-      "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/9311-pawel-barucha-premier-z-kocykiem",
-      "date": "2026-07-08T07:28:34Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
-    },
-    {
       "title": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami – Pharmacy Times",
       "url": "https://www.pharmacytimes.com/view/new-ckm-guideline-elevates-pharmacists-role-in-comprehensive-medication-management",
       "date": "2026-07-07T18:34:58Z",
@@ -1094,20 +1078,12 @@
       "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest to toksyna sercowo-naczyniowa o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie układu współczulnego spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
     },
     {
-      "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 - aotm.gov.pl",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/opinia-prezesa-program-polityki-zdrowotnej-w-zakresie-rehabilitacji-mieszkancow-swinoujscia-w-wieku-od-70-roku-zycia-na-lata-2026-2028/",
-      "date": "2026-07-03T14:20:20Z",
+      "title": "Rekomendacja Prezesa – Keytruda (pembrolizumab) - aotm.gov.pl",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-keytruda-pembrolizumab-10/",
+      "date": "2026-07-03T12:58:05Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
-      "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 47/2026 z dnia 2 lipca 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028”."
-    },
-    {
-      "title": "Posiedzenie Rady Przejrzystości 28/2026 w dniu 13.07.2026 r. - aotm.gov.pl",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/posiedzenie-rady-przejrzystosci-27-2026-w-dniu-13-07-2026-r/",
-      "date": "2026-07-03T09:34:38Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Wykorzystujemy pliki cookie w celu zapewnienia prawidłowego funkcjonowania naszej witryny oraz do analizy ruchu i optymalizacji działania strony. Dzięki nim możemy lepiej dostosować treści do potrzeb użytkowników i stale ulepszać nasze usługi. Pamiętaj, że informacje przechowywane w plikach cookie mogą pozwalać na identyfikację konkretnego urządzenia lub przeglądarki użytkownika, a więc potencjalnie stanowić dane osobowe."
+      "summary": "Rekomendacja nr 88/2026 z dnia 2 lipca 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Keytruda (pembrolizumab) w ramach programu lekowego B.52 „Leczenie chorych z płaskonabłonkowym rakiem narządów głowy i szyi (ICD-10 C01, C02, C03, C04, C05, C06, C09, C10, C12, C13, C14, C32)”."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
@@ -1157,7 +1133,7 @@
       "date": "2026-07-13T02:13:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1181,7 +1157,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1189,7 +1165,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1784,22 +1760,6 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Pięć lat po największej kampanii masowych szczepień w historii Ameryki rząd federalny w końcu przygotowuje się do zrobienia czegoś, co zdaniem wielu ekspertów prawnych powinno było nastąpić wiele lat temu. Zgodnie z ujednoliconą agendą Biura Zarządzania i Budżetu, Departament Zdrowia i Opieki Społecznej (HHS) planuje opublikować w listopadzie 2026 r. proponowaną zasadę ustanawiającą pierwszą tabelę szkód spowodowanych przeciwdziałaniem COVID-19 w ramach programu odszkodowań za obrażenia spowodowane środkami zaradczymi (CICP)."
-    },
-    {
-      "title": "Ipsen gotowy rywalizować z Botoxem po zwycięstwach duetu w fazie III w walce z migreną – Clinical Trials Arena",
-      "url": "https://www.clinicaltrialsarena.com/news/ipsen-dysport-migraine-phase-iii-episodic-chronic-win/",
-      "date": "2026-07-10T10:59:25Z",
-      "source": "Clinical Trials Arena",
-      "confirmed_by": 1,
-      "summary": "Ipsen ma rywalizować z Botoxem po tym, jak duet osób cierpiących na migrenę fazy III wygrywa Clinical Trials Arena."
-    },
-    {
-      "title": "Firma Roche wstrzymuje rozwój dwóch programów leczenia choroby Huntingtona – Clinical Trials Arena",
-      "url": "https://www.clinicaltrialsarena.com/news/roche-culls-development-of-two-huntingtons-disease-programmes/",
-      "date": "2026-07-10T10:59:25Z",
-      "source": "Clinical Trials Arena",
-      "confirmed_by": 1,
-      "summary": "Firma Roche wstrzymuje rozwój dwóch programów dotyczących choroby Huntingtona – Clinical Trials Arena."
     }
   ],
   "pharma_market": [
@@ -1997,6 +1957,14 @@
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=381&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F11%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumberdesc",
+      "date": "2026-07-12T02:52:03Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=301&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F11%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumberdesc",
       "date": "2026-07-12T01:50:53Z",
       "source": "FDA Drug News",
@@ -2045,8 +2013,24 @@
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=251&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F11%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=dknumber",
+      "date": "2026-07-11T21:29:36Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm?start_search=211&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F11%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondatedesc",
       "date": "2026-07-11T19:52:08Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
+    },
+    {
+      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=31&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=07%2F11%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=applicant",
+      "date": "2026-07-11T19:38:32Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
@@ -2178,30 +2162,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Wycofanie urządzenia klasy 2 Olympus Toomey Evacuator 30 cm3 z adapterem accessdata.fda.gov."
-    },
-    {
-      "title": "Wycofanie urządzenia klasy 2 Olympus Toomey Evacuator 50 cm3 z adapterem — accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220045",
-      "date": "2026-07-11T06:00:20Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Wycofanie urządzenia klasy 2 Olympus Toomey Evacuator 50 cm3 z adapterem accessdata.fda.gov."
-    },
-    {
-      "title": "Argonowe zestawy do zabiegów medycznych klasy 1 – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220919",
-      "date": "2026-07-11T06:00:20Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Zestawy procedur medycznych klasy 1 do wycofania z rynku Argon Medical accessdata.fda.gov."
-    },
-    {
-      "title": "Argonowe zestawy do zabiegów medycznych klasy 1 – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=220917",
-      "date": "2026-07-11T06:00:19Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Zestawy procedur medycznych klasy 1 do wycofania z rynku Argon Medical accessdata.fda.gov."
     }
   ],
   "critical_alerts": [
