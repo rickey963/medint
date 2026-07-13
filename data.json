@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T13:59:53Z",
+  "last_updated": "2026-07-13T14:00:50Z",
   "poland": [
     {
       "title": "Wielka Brytania rozpoczyna testy szczepionki przeciwko wirusowi Ebola opracowanej w zaledwie osiem tygodni - Alert Medyczny",
@@ -303,7 +303,7 @@
       "date": "2026-07-13T09:31:52Z",
       "source": "DOZ.pl",
       "confirmed_by": 1,
-      "summary": "Nietrzymanie moczu po operacji prostaty i prostatektomii może obniżać komfort życia. Sprawdź, jak radzić sobie z problemem na DOZ.pl."
+      "summary": "Nietrzymanie moczu po operacji prostaty (prostatektomii) – ćwiczenia i rady dla mężczyzn DOZ."
     },
     {
       "title": "Wypadek w aquaparku. Chirurdzy z Katowic uratowali kręgosłup 15-latka - PolitykaZdrowotna.com",
@@ -482,6 +482,14 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Wśród nieleczonych wcześniej dorosłych zakażonych wirusem HIV stosunek CD4 do CD8 nie różni się istotnie pomiędzy wskaźnikami otrzymującymi dolutegrawir w skojarzeniu z lamiwudyną i tymi, którzy otrzymują schematy trzech leków oparte na inhibitorach integrazy."
+    },
+    {
+      "title": "Etiopia intensyfikuje profilaktykę polio w ośrodkach transgranicznych i społecznościach uchodźców Centrum medialne – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/countries/23513/multimedia",
+      "date": "2026-07-13T11:44:08Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
     },
     {
       "title": "Odbudowa nadziei dla uchodźców po traumie w Czadzie - WHO | Biuro Regionalne dla Afryki",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Szeroko cytowany 10-letni harmonogram wymiany implantów piersi może odzwierciedlać bardziej tradycję niż dowody, a eksperci zamiast tego kładą nacisk na długoterminowy nadzór."
-    },
-    {
-      "title": "Wysokie dawki witaminy D3 nie zapobiegają wirusowym infekcjom górnych dróg oddechowych zimą – lekarz NEJM",
-      "url": "https://clinician.nejm.org/nejm-jw.NA44621?show-author=true&author-id=AU083",
-      "date": "2026-07-13T06:03:34Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     }
   ],
   "guidelines": [
@@ -915,7 +915,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
+      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
     },
     {
       "title": "Toripalimab | Interakcje - BNF",
@@ -1125,7 +1125,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1165,7 +1165,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1173,7 +1173,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Zobacz ten wykres, ostatnia aktualizacja 23 czerwca 2026 r."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -2198,6 +2198,14 @@
       "summary": "W Wielkiej Brytanii ruszają badania kliniczne szczepionki przeciwko wirusowi Ebola opracowanej przez naukowców z Uniwersytetu Oksfordzkiego."
     },
     {
+      "title": "Etiopia intensyfikuje profilaktykę polio w ośrodkach transgranicznych i społecznościach uchodźców Centrum medialne – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/countries/23513/multimedia",
+      "date": "2026-07-13T11:44:08Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
+    },
+    {
       "title": "Apel osoby po polio o dotarcie do dzieci w Edo otrzymujących zerową dawkę – WHO | Biuro Regionalne dla Afryki",
       "url": "https://www.afro.who.int/countries/nigeria/news/polio-survivors-call-reach-zero-dose-children-edo",
       "date": "2026-07-13T10:20:30Z",
@@ -2236,14 +2244,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów wirusa Ebola w Demokratycznej Republice Konga (DRK) wysoki rangą urzędnik Światowej Organizacji Zdrowia (WHO) ostrzega, że ​​epidemia może być znacznie większa, niż wskazuje liczba przypadków."
-    },
-    {
-      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-07-10T19:00:47Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Epidemia wirusa Ebola: Obecna sytuacja Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     }
   ],
   "daily_top5": [
