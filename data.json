@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T11:45:24Z",
+  "last_updated": "2026-07-13T11:46:05Z",
   "poland": [
     {
       "title": "Kosztuje 0 zł i nie wymaga wizyty w gabinecie. Mało kto wie o tym badaniu - Medonet",
@@ -493,7 +493,7 @@
     },
     {
       "title": "Kiedy lekarze opowiadają swoje historie - Medscape",
-      "url": "https://www.medscape.com/viewarticle/when-doctors-tell-their-stories-2026a1000njr",
+      "url": "https://www.medscape.com/viewarticle/when-doctors-tell-their-stories-2026a1000njr?src=",
       "date": "2026-07-13T09:32:39Z",
       "source": "Medscape",
       "confirmed_by": 1,
@@ -501,11 +501,19 @@
     },
     {
       "title": "Kiedy lekarze opowiadają swoje historie - Medscape",
-      "url": "https://www.medscape.com/viewarticle/when-doctors-tell-their-stories-2026a1000njr?src=",
+      "url": "https://www.medscape.com/viewarticle/when-doctors-tell-their-stories-2026a1000njr",
       "date": "2026-07-13T09:32:39Z",
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Anegdoty medyczne to coś więcej niż rozrywka — pomagają lekarzom zrozumieć ciężar życia klinicznego."
+    },
+    {
+      "title": "Między zasadami a rzeczywistością - Lancet",
+      "url": "https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(26)00140-7/fulltext",
+      "date": "2026-07-13T09:27:10Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Między zasadami a rzeczywistością The Lancet."
     },
     {
       "title": "Służby położnicze powinny być w stanie wspierać zarówno bezpieczną opiekę, jak i świadomy wybór matki – BMJ",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Kontekst Zespół Downa (DS) jest główną przyczyną genetycznie zdefiniowanej niepełnosprawności intelektualnej, charakteryzującej się niskim IQ i deficytami poznawczymi. Uważa się, że wśród neurobiologicznych przyczyn tych deficytów zaburzenia sygnalizacji kwasu gamma-aminomasłowego (GABA)-ergicznego w hipokampie oraz brak równowagi pomiędzy pobudzeniem a hamowaniem upośledzają uczenie się i pamięć. Dowody sugerują, że sygnalizacja za pośrednictwem receptora GABAA w DS ma charakter znacząco depolaryzujący i potencjalnie pobudzający, a nie głównie hiperpolaryzujący i hamujący, i towarzyszy jej zwiększona hipokampowa ekspresja kotransportera kationowo-chlorkowego NKCC1."
-    },
-    {
-      "title": "Czas stosowania antybiotyków w bakteryjnym zakażeniu dróg moczowych u niemowląt – lekarz NEJM",
-      "url": "https://clinician.nejm.org/nejm-jw.NA40257?show-author=true&author-id=AU3106",
-      "date": "2026-07-12T16:07:50Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     }
   ],
   "guidelines": [
@@ -946,7 +946,7 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
       "date": "2026-07-10T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 4,
       "summary": "Nadzór nad centrami kontroli i zapobiegania cyklosporozy | CDC (.gov)."
     },
     {
@@ -1094,6 +1094,14 @@
       "summary": "Seminarium na temat elektrofizjologii komórkowej prowadzone przez Grupę Roboczą ds. elektrofizjologii komórkowej serca, mające na celu udoskonalenie praktyki i przygotowanie do egzaminów."
     },
     {
+      "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 - aotm.gov.pl",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/opinia-prezesa-program-polityki-zdrowotnej-w-zakresie-rehabilitacji-mieszkancow-swinoujscia-w-wieku-od-70-roku-zycia-na-lata-2026-2028/",
+      "date": "2026-07-03T14:20:20Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 47/2026 z dnia 2 lipca 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028”."
+    },
+    {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
       "url": "https://dziennikustaw.gov.pl/DU/2026/911",
       "date": "2026-07-01T07:00:00Z",
@@ -1133,7 +1141,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1141,7 +1149,7 @@
       "date": "2026-07-13T02:13:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1261,7 +1269,7 @@
       "date": "2026-07-12T05:45:53Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Dane dotyczące śmiertelności z powodu udaru mózgu wśród dorosłych w USA (35+) według stanu/terytorium i hrabstwa – lata 2022–2024 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Krajobraz diagnostyczny zakażeń przenoszonych drogą płciową – Światowa Organizacja Zdrowia (WHO)",
