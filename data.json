@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T22:26:54Z",
+  "last_updated": "2026-07-13T22:27:41Z",
   "poland": [
     {
       "title": "30 tysięcy dolarów na innowację w ochronie zdrowia. Trwa nabór do międzynarodowego konkursu - Medonet",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
+      "date": "2026-07-13T22:26:00Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
+    },
+    {
       "title": "Doustny lek na Alzheimera po raz pierwszy pojawił się w historii ludzkości z sygnałem przeciwzapalnym – Tech Times",
       "url": "https://www.techtimes.com/articles/320372/20260713/oral-alzheimers-drug-enters-human-record-first-anti-neuroinflammation-signal.htm",
       "date": "2026-07-13T21:58:29Z",
@@ -474,14 +482,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Co wiesz o najnowszych odkryciach klinicznych dotyczących niedoborów żywieniowych? Sprawdź swoją wiedzę w tym krótkim quizie."
-    },
-    {
-      "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
-      "date": "2026-07-13T19:23:37Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
     },
     {
       "title": "Menopauza w mózgu: odpowiedzi na Twoje pytania dotyczące zdrowia psychicznego i funkcji poznawczych – Światowa Organizacja Zdrowia (WHO)",
@@ -1096,6 +1096,14 @@
   ],
   "epidemiology": [
     {
+      "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
+      "date": "2026-07-13T22:26:00Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
+    },
+    {
       "title": "Zarządzenie: Zawieszenie prawa do sprowadzania niektórych osób z krajów, w których występuje choroba zakaźna podlegająca kwarantannie | Port Health — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/port-health/legal-authorities/evdorder.html",
       "date": "2026-07-13T19:42:25Z",
@@ -1110,14 +1118,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
-      "date": "2026-07-13T19:23:37Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
     },
     {
       "title": "Menopauza w mózgu: odpowiedzi na Twoje pytania dotyczące zdrowia psychicznego i funkcji poznawczych – Światowa Organizacja Zdrowia (WHO)",
@@ -1221,7 +1221,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1269,7 +1269,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Zobacz ten wykres, ostatnia aktualizacja 23 czerwca 2026 r."
+      "summary": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -2232,20 +2232,20 @@
   ],
   "daily_top5": [
     {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-07-13T19:40:22Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
-      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
+      "date": "2026-07-13T22:26:00Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
     },
     {
-      "title": "Subskrypcje i zakupy — NEJM — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://myaccount.nejm.org/subscriptions-purchases",
-      "date": "2026-07-13T19:39:44Z",
-      "source": "NEJM",
+      "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
+      "date": "2026-07-13T22:26:00Z",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Zaloguj się do swojego konta NEJM Group My Account, aby zarządzać informacjami profilowymi i indywidualnymi subskrypcjami w naszych produktach."
+      "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
     },
     {
       "title": "Nauka i technologia zdrowotna - Medscape",
