@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T04:01:58Z",
+  "last_updated": "2026-07-13T04:02:41Z",
   "poland": [
     {
       "title": "Rak piersi rozpoznany do trzech lat po porodzie może mieć bardziej agresywny przebieg - Alert Medyczny",
@@ -1102,20 +1102,20 @@
       "summary": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji mieszkańców Świnoujścia w wieku od 70 roku życia na lata 2026-2028 aotm.gov.pl."
     },
     {
+      "title": "Stan prac - aotm.gov.pl",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/stan-prac-8/",
+      "date": "2026-07-03T14:20:19Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Stan prac aotm.gov.pl."
+    },
+    {
       "title": "Deklarujemy pełną gotowość do współpracy. Prezes NRL przedstawił postulaty samorządu premierowi Donaldowi Tuskowi - NIL",
       "url": "https://nil.org.pl/aktualnosci/9309-deklarujemy-pelna-gotowosc-do-wspolpracy-prezes-nrl-przedstawil-postulaty-samorzadu-premierowi-donaldowi-tuskowi",
       "date": "2026-07-03T13:56:35Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Rekomendacja Prezesa – Keytruda (pembrolizumab) - aotm.gov.pl",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-keytruda-pembrolizumab-10/",
-      "date": "2026-07-03T12:58:05Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Keytruda (pembrolizumab) aotm.gov.pl."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
@@ -1156,8 +1156,8 @@
       "url": "https://data.cdc.gov/d/c9xs-vhst/visualization",
       "date": "2026-07-13T02:13:23Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 8,
-      "summary": "| Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "confirmed_by": 1,
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1189,7 +1189,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Zobacz ten wykres, ostatnia aktualizacja 23 czerwca 2026 r."
+      "summary": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Epidemia włośnicy powiązana z niedogotowanym mięsem Bear Jerky, Karolina Północna, USA, 2024 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1325,7 +1325,7 @@
       "date": "2026-07-10T23:48:44Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Dane dotyczące śmiertelności z powodu chorób serca wśród dorosłych w USA (35+) według stanu/terytorium i hrabstwa – lata 2022–2024 | Centra danych dotyczące kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Globalne wysiłki CDC w zakresie opieki zdrowotnej powstrzymują gorączkę doliny Rift – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2408,14 +2408,6 @@
       "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
-      "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://data.cdc.gov/d/c9xs-vhst/visualization",
-      "date": "2026-07-13T02:13:23Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 8,
-      "summary": "| Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
-    },
-    {
       "title": "Subskrypcje i zakupy — NEJM — The New England Journal of Medicine — The New England Journal of Medicine",
       "url": "https://myaccount.nejm.org/subscriptions-purchases",
       "date": "2026-07-12T23:25:41Z",
@@ -2435,6 +2427,14 @@
       "title": "Terapia medyczna a strategia inwazyjna w stabilnej chorobie niedokrwiennej serca – lekarz NEJM",
       "url": "https://clinician.nejm.org/nejm-jw.NA51208?0=undefined&1=undefined&2=undefined&3=undefined&4=undefined&5=undefined&6=undefined&7=undefined&8=undefined&9=undefined&10=undefined&11=undefined&12=undefined&13=undefined&14=undefined",
       "date": "2026-07-12T19:44:45Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+    },
+    {
+      "title": "Czas stosowania antybiotyków w bakteryjnym zakażeniu dróg moczowych u niemowląt – lekarz NEJM",
+      "url": "https://clinician.nejm.org/nejm-jw.NA40257?show-author=true&author-id=AU3106",
+      "date": "2026-07-12T16:07:50Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
