@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T09:52:45Z",
+  "last_updated": "2026-07-14T09:53:42Z",
   "poland": [
     {
       "title": "Gen. broni prof. Grzegorz Gielerak: „I nie wódź nas na pokuszenie”. Lekarzom wystawiamy rachunek za błędy systemu [FELIETON EKSPERCKI] - PolitykaZdrowotna.com",
@@ -441,7 +441,7 @@
       "date": "2026-07-14T08:42:20Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Zakres, perspektywy i ograniczenia żywych systematycznych recenzji w literaturze medycznej: przegląd narracji Cureus."
+      "summary": "Żywe recenzje systematyczne (LSR) powstały w odpowiedzi na utrzymujące się opóźnienie między publikacją badań podstawowych a włączeniem ich do przeglądów systematycznych. Opóźnienie, które w przeszłości trwało kilka lat i mogło sprawić, że znaczna część recenzji stała się nieaktualna w ciągu dwóch lat od publikacji. Od czasu ich formalnego wprowadzenia w 2014 r. LSR ewoluowały od pojedynczej propozycji koncepcyjnej do dojrzałego obszaru metodologicznego, wspieranego przez dedykowane rozszerzenie raportowania PRISMA, ramy decyzyjne umożliwiające określenie, kiedy uzasadnione jest podejście oparte na żywych organizmach, a także zademonstrowane zastosowania w terapiach COVID-19, skuteczności szczepionek, długim okresie COVID oraz opracowaniu formalnych wytycznych klinicznych. Wprowadzanie zmian znacznie przyspieszyło podczas pandemii Covid-19, a automatyzacja, począwszy od przepływów pracy opartych na współpracy człowiek-maszyna po duże modele językowe, stała się kluczowa dla utrzymania częstotliwości aktualizacji wymaganych przez żywy model, przy zgłaszanym wzroście wydajności kontroli przesiewowej i ekstrakcji."
     },
     {
       "title": "Zakres, perspektywy i ograniczenia życia Systematyczne recenzje w literaturze medycznej: przegląd narracji - Cureus",
@@ -818,7 +818,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-14T07:45:49Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 5,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -998,6 +998,14 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
+      "title": "[Wywiad] Nowe wytyczne KASL dotyczące wirusowego zapalenia wątroby typu B skupiają się na DNA wirusa HBV, ale występują opóźnienia w refundacji - koreabiomed.com",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=32390",
+      "date": "2026-07-10T06:03:27Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nowo zmienione wytyczne dotyczące praktyki klinicznej wirusowego zapalenia wątroby typu B wydane przez Koreańskie Stowarzyszenie Badań nad Wątrobą (KASL) umieściły koreańskie standardy leczenia przewlekłego wirusowego zapalenia wątroby typu B w punkcie zwrotnym. Do tej pory głównym kryterium była podwyższona aktywność aminotransferazy alaninowej (ALT)."
+    },
+    {
       "title": "Odcinek 13: Sztuczna inteligencja i rozwiązania cyfrowe w medycynie ratunkowej – Postępowanie w niewydolności serca w amyloidozie sercowej – ESC 365",
       "url": "https://esc365.escardio.org/event/2551",
       "date": "2026-07-09T17:23:10Z",
@@ -1012,6 +1020,22 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Mezigdomid-karfilzomib-deksametazon wydłuża PFS w porównaniu z karfilzomibem-deksametazonem przy pierwszym nawrocie u pacjentów z nawrotowym lub opornym na leczenie szpiczakiem mnogim Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "10 najważniejszych artykułów podstawowych w otolaryngologii opartych na dowodach — Conexiant",
+      "url": "https://conexiant.com/otolaryngology/articles/top-10-evidencebased-essentials-in-otolaryngology/",
+      "date": "2026-07-09T11:43:17Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Ustrukturyzowany zbiór wytycznych opartych na dowodach i przełomowych badań klinicznych stosowanych w praktyce klinicznej."
+    },
+    {
+      "title": "Shrinidhi Nathany: Nowe wytyczne dotyczące praktyki klinicznej ASCO 2026 ctDNA - Oncodaily",
+      "url": "https://oncodaily.com/voices/shrinidhi-nathany-537695",
+      "date": "2026-07-08T23:53:56Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Shrinidhi Nathany, konsultantka hematologii molekularnej i onkologii w Fortis Memorial Research Institute w Indiach, udostępniła post na LinkedIn:."
     },
     {
       "title": "Wyłączanie leku u pacjentów z chorobami układu krążenia doświadczających polipragmazji - professional.heart.org",
@@ -1253,7 +1277,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2202,7 +2226,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-14T07:45:49Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 5,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -2249,6 +2273,14 @@
     },
     {
       "title": "Zakres, perspektywy i ograniczenia życia Systematyczne recenzje w literaturze medycznej: przegląd narracji - Cureus",
+      "url": "https://www.cureus.com/articles/513847-scope-prospects-and-limitations-of-living-systematic-reviews-in-medical-literature-a-narrative-overview",
+      "date": "2026-07-14T08:42:20Z",
+      "source": "Cochrane Library",
+      "confirmed_by": 1,
+      "summary": "Żywe recenzje systematyczne (LSR) powstały w odpowiedzi na utrzymujące się opóźnienie między publikacją badań podstawowych a włączeniem ich do przeglądów systematycznych. Opóźnienie, które w przeszłości trwało kilka lat i mogło sprawić, że znaczna część recenzji stała się nieaktualna w ciągu dwóch lat od publikacji. Od czasu ich formalnego wprowadzenia w 2014 r. LSR ewoluowały od pojedynczej propozycji koncepcyjnej do dojrzałego obszaru metodologicznego, wspieranego przez dedykowane rozszerzenie raportowania PRISMA, ramy decyzyjne umożliwiające określenie, kiedy uzasadnione jest podejście oparte na żywych organizmach, a także zademonstrowane zastosowania w terapiach COVID-19, skuteczności szczepionek, długim okresie COVID oraz opracowaniu formalnych wytycznych klinicznych. Wprowadzanie zmian znacznie przyspieszyło podczas pandemii Covid-19, a automatyzacja, począwszy od przepływów pracy opartych na współpracy człowiek-maszyna po duże modele językowe, stała się kluczowa dla utrzymania częstotliwości aktualizacji wymaganych przez żywy model, przy zgłaszanym wzroście wydajności kontroli przesiewowej i ekstrakcji."
+    },
+    {
+      "title": "Zakres, perspektywy i ograniczenia życia Systematyczne recenzje w literaturze medycznej: przegląd narracji - Cureus",
       "url": "https://www.cureus.com/articles/513847-scope-prospects-and-limitations-of-living-systematic-reviews-in-medical-literature-a-narrative-overview?score_article=true",
       "date": "2026-07-14T08:42:20Z",
       "source": "Cochrane Library",
@@ -2256,20 +2288,12 @@
       "summary": "Żywe recenzje systematyczne (LSR) powstały w odpowiedzi na utrzymujące się opóźnienie między publikacją badań podstawowych a włączeniem ich do przeglądów systematycznych. Opóźnienie, które w przeszłości trwało kilka lat i mogło sprawić, że znaczna część recenzji stała się nieaktualna w ciągu dwóch lat od publikacji. Od czasu ich formalnego wprowadzenia w 2014 r. LSR ewoluowały od pojedynczej propozycji koncepcyjnej do dojrzałego obszaru metodologicznego, wspieranego przez dedykowane rozszerzenie raportowania PRISMA, ramy decyzyjne umożliwiające określenie, kiedy uzasadnione jest podejście oparte na żywych organizmach, a także zademonstrowane zastosowania w terapiach COVID-19, skuteczności szczepionek, długim okresie COVID oraz opracowaniu formalnych wytycznych klinicznych. Wprowadzanie zmian znacznie przyspieszyło podczas pandemii Covid-19, a automatyzacja, począwszy od przepływów pracy opartych na współpracy człowiek-maszyna po duże modele językowe, stała się kluczowa dla utrzymania częstotliwości aktualizacji wymaganych przez żywy model, przy zgłaszanym wzroście wydajności kontroli przesiewowej i ekstrakcji."
     },
     {
-      "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
-      "date": "2026-07-14T07:27:49Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
-    },
-    {
-      "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
-      "date": "2026-07-14T07:27:49Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
+      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-07-14T07:45:49Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 5,
+      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Ponowne napromienianie w przypadku nawrotowego raka płaskonabłonkowego głowy i szyi: zalecenia międzynarodowego konsensusu ekspertów zatwierdzone przez Grupę Współpracy Reirradiation, Grupę Fokusową ds. Reirradiacji Europejskiego Towarzystwa Radioterapii i Onkologii oraz t - The Lancet",
