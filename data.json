@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T06:22:12Z",
+  "last_updated": "2026-07-14T06:22:55Z",
   "poland": [
     {
       "title": "Pilny komunikat GIF. \"Niekontrolowane zagrożenie dla zdrowia pacjentów\" - Rynek Zdrowia",
@@ -433,7 +433,7 @@
       "date": "2026-07-14T03:29:36Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Zapalenie kości i szpiku Clostridioides difficile objawiające się ropniem Brodiego kości piszczelowej. Opisy przypadków BMJ."
+      "summary": "Pozajelitowe zakażenie Clostridioides difficile (Clostridium difficile) rzadko obejmuje kości i może imitować nowotwór złośliwy. Mężczyzna po 70. roku życia z przewlekłą chorobą nerek miał utrzymujący się, bezbolesny i zmienny guz w przedniej części podudzia, bez objawów ogólnoustrojowych ani żołądkowo-jelitowych. Obrazowanie wykazało uszkodzenie lityczne bliższej kości piszczelowej i aspirację powierzchownego zbioru, powiększył się C."
     },
     {
       "title": "Ponowne napromienianie w przypadku nawrotowego raka płaskonabłonkowego głowy i szyi: zalecenia międzynarodowego konsensusu ekspertów zatwierdzone przez Grupę Współpracy Reirradiation, Grupę Fokusową ds. Reirradiacji Europejskiego Towarzystwa Radioterapii i Onkologii oraz t - The Lancet",
@@ -827,7 +827,7 @@
       "date": "2026-07-14T01:10:19Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Przegląd | Pembrolizumab w skojarzeniu z chemioradioterapią w leczeniu nieleczonego miejscowo zaawansowanego raka szyjki macicy | Poradnik NICE."
+      "summary": "Oparte na dowodach zalecenia dotyczące stosowania pembrolizumabu (Keytruda) w skojarzeniu z chemioradioterapią w leczeniu nieleczonego miejscowo zaawansowanego raka szyjki macicy u dorosłych."
     },
     {
       "title": "Centrum Medyczne w Bowling Green uznane w całym kraju przez American Heart Association za wysokiej jakości opiekę udarową - WBKO",
@@ -1030,28 +1030,12 @@
       "summary": "Shrinidhi Nathany, konsultantka w dziedzinie hematologii molekularnej i onkologii w Fortis Memorial Research Institute w Indiach, udostępniła post na LinkedIn:"
     },
     {
-      "title": "Wypisywanie leków u pacjentów z chorobami układu krążenia doświadczających polipragmazji - professional.heart.org",
-      "url": "https://professional.heart.org/en/science-news/deprescribing-in-patients-with-cardiovascular-disease-experiencing-polypharmacy",
-      "date": "2026-07-08T16:38:18Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Polipragmazja jest powszechna w leczeniu chorób sercowo-naczyniowych, ponieważ leczenie oparte na wytycznych często wymaga wielu leków w przypadku współistniejących schorzeń i chorób współistniejących, co zwiększa obciążenie lekami."
-    },
-    {
       "title": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśniowo raka pęcherza moczowego wysokiego ryzyka - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/fda-approves-durvalumab-in-combination-with-bcg-for-high-risk-non-muscle-invasive-bladder-cancer",
       "date": "2026-07-08T13:36:15Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
-      "title": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami – Pharmacy Times",
-      "url": "https://www.pharmacytimes.com/view/new-ckm-guideline-elevates-pharmacists-role-in-comprehensive-medication-management",
-      "date": "2026-07-07T18:34:58Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami w czasach apteki."
     },
     {
       "title": "Starzenie się organizmu związane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1253,7 +1237,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1261,7 +1245,7 @@
       "date": "2026-07-13T02:13:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1285,7 +1269,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1293,7 +1277,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
