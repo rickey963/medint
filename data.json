@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T16:42:11Z",
+  "last_updated": "2026-07-14T16:43:02Z",
   "poland": [
     {
       "title": "Marcin Wrona jest w szpitalu i oczekuje na zabieg. \"Boję się, strach jest\" - Medonet",
@@ -142,7 +142,7 @@
       "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/zarzadzenia-prezesa-nfz/zarzadzenie-nr-652026dsoz,7951.html",
       "date": "2026-07-14T14:11:32Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "zmieniające zarządzenie w sprawie warunków zawarcia i realizacji umów o udzielanie świadczeń opieki zdrowotnej w rodzaju podstawowa opieka zdrowotna Zarządzenie Prezesa NFZ nr..."
     },
     {
@@ -441,7 +441,7 @@
       "date": "2026-07-14T14:26:00Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Sideroza powierzchowna (SS) jest rzadką, postępującą chorobą neurologiczną, której najczęstszymi objawami są postępujący odbiorczy ubytek słuchu, ataksja i mielopatia. Naszym celem jest przedstawienie rzadkiego przypadku klasycznego typu SS z wczesnymi objawami poznawczymi. U starszej kobiety stwierdzono stopniowy postępujący ubytek słuchu trwający 10 lat, pogorszenie pamięci epizodycznej, funkcji wykonawczych i zdolności wzrokowo-przestrzennych, wraz z postępującym pogorszeniem ataksji i częstymi upadkami przez 2 lata."
+      "summary": "Klasyczna powierzchowna sideroza: rzadkie zaburzenie neuropsychiatryczne BMJ Case Reports."
     },
     {
       "title": "Tarczyca: przegląd roku - Medscape",
@@ -625,7 +625,7 @@
       "date": "2026-07-14T10:19:01Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Nowe badanie pokazuje, że w latach 2010–2024 liczba przepisywanych opioidów na receptę przez specjalistów medycyny przeciwbólowej wzrosła, ale ogólna liczba przepisywanych opioidów spadła, zwłaszcza w przypadku stosowania długotrwałego."
+      "summary": "Nowe badanie pokazuje, że w latach 2010–2024 liczba przepisywanych opioidów przepisywanych przez specjalistów medycyny przeciwbólowej wzrosła, ale ogólna liczba przepisywanych opioidów spadła, szczególnie w przypadku stosowania długotrwałego."
     },
     {
       "title": "Rammya Mathew: Zapewniam dobrą opiekę, ale czy mogę zapewnić opiekę sąsiedzką? - BMJ'a",
@@ -1075,7 +1075,7 @@
       "date": "2026-07-08T23:53:56Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Shrinidhi Nathany, konsultantka w dziedzinie hematologii molekularnej i onkologii w Fortis Memorial Research Institute w Indiach, udostępniła post na LinkedIn:"
+      "summary": "Shrinidhi Nathany, konsultantka hematologii molekularnej i onkologii w Fortis Memorial Research Institute w Indiach, udostępniła post na LinkedIn:."
     },
     {
       "title": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśniowo raka pęcherza moczowego wysokiego ryzyka - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1136,7 +1136,7 @@
       "summary": "Światowa Organizacja Zdrowia (WHO) uruchomiła regionalny program badań nad zdrowiem, migracją i przesiedleniami w regionie zachodniego Pacyfiku WHO, ze szczególnym uwzględnieniem zmian klimatycznych."
     },
     {
-      "title": "Zasięg szczepień przeciwko Covid-19 w UE/EOG w kampaniach sezonu 2025–26 – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Zasięg szczepień przeciwko Covid-19 w UE/EOG w kampaniach w sezonie 2025–26 – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/covid-19-vaccination-coverage-eueea-during-2025-26-season-campaigns",
       "date": "2026-07-14T09:08:44Z",
       "source": "ECDC",
@@ -1189,7 +1189,7 @@
       "date": "2026-07-13T19:42:25Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Zarządzenie: Zawieszenie prawa do sprowadzania niektórych osób z krajów, w których występuje choroba zakaźna podlegająca kwarantannie | Portowe Centra Zdrowia ds. Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Zarządzenie: Zawieszenie prawa do sprowadzania niektórych osób z krajów, w których występuje choroba zakaźna podlegająca kwarantannie | Portowe centra zdrowia ds. kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Menopauza w mózgu: odpowiedzi na Twoje pytania dotyczące zdrowia psychicznego i funkcji poznawczych – Światowa Organizacja Zdrowia (WHO)",
@@ -1237,7 +1237,7 @@
       "date": "2026-07-13T17:04:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Biuletyn dotyczący zapalenia opon mózgowo-rdzeniowych, tydzień 26, 2026."
+      "summary": "Biuletyn dotyczący zapalenia opon mózgowych, tydzień 26, 2026."
     },
     {
       "title": "Epidemia zapalenia wątroby typu A w ośrodku wykwalifikowanej pielęgniarki, hrabstwo Los Angeles, Kalifornia, USA, 2025 r. — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1424,6 +1424,14 @@
       "summary": "Budowanie kompletnego planu zdrowia seksualnego."
     },
     {
+      "title": "Doxy-PEP - Zrozumienie ryzyka - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/publications-data/doxy-pep-understanding-risks",
+      "date": "2026-07-12T08:38:58Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Doxy-PEP - Zrozumienie ryzyka."
+    },
+    {
       "title": "Kiedy jest właściwy moment na zastosowanie doxy-PEP? - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/when-right-time-use-doxy-pep",
       "date": "2026-07-12T08:36:27Z",
@@ -1494,14 +1502,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Przy 2231 potwierdzonych zakażeniach w USA brakuje zaledwie 58 przypadków do łącznej liczby przypadków za cały 2025 r., która była najwyższa od 34 lat."
-    },
-    {
-      "title": "2 popularne leki mogą zapewnić krótkotrwałą poprawę długotrwałego zmęczenia związanego z Covid-19 – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/covid-19/2-common-drugs-may-offer-short-term-improvements-long-covid-related-fatigue",
-      "date": "2026-07-10T13:58:28Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Jak wynika z dużego badania klinicznego opublikowanego w tym tygodniu w The Lancet Infectious Diseases, dwa niedrogie, szeroko dostępne leki zapewniły umiarkowaną, krótkotrwałą ulgę w zmęczeniu u osób z długotrwałym zakażeniem wirusem Covid-19."
     }
   ],
   "clinical_trials": [
@@ -1543,7 +1543,7 @@
       "date": "2026-07-14T03:00:35Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07698288 | Badanie kliniczne mające na celu określenie biorównoważności doustnych produktów zawierających tamsulosynę w postaci tabletek 0,4 mg o przedłużonym uwalnianiu u mężczyzn w warunkach przyjmowania pokarmu ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07698288 | Badanie kliniczne mające na celu określenie biorównoważności doustnych produktów tamsulosyny w postaci tabletek 0,4 mg o przedłużonym uwalnianiu u mężczyzn w warunkach przyjmowania pokarmu ClinicalTrials.gov."
     },
     {
       "title": "Szczepionka przeciwko fentanylowi? Przełom naukowy czy problem kliniczny? - wersja próbnanews.com",
@@ -1575,10 +1575,10 @@
       "date": "2026-07-13T22:15:47Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07697638 | System do laserowej aterektomii wieńcowej do leczenia zwężenia tętnic wieńcowych (SHINE) ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07697638 | System do laserowej aterektomii wieńcowej w leczeniu zwężenia tętnic wieńcowych (SHINE) ClinicalTrials.gov."
     },
     {
-      "title": "ED95 leku Ciprofol do zakładania maski krtaniowej z fentanylem u dzieci: tendencyjna próba ustalenia dawki monety - ClinicalTrials.gov",
+      "title": "ED95 leku Ciprofol do zakładania maski krtaniowej z fentanylem u dzieci: próba ustalenia dawki na podstawie monety - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07697404",
       "date": "2026-07-13T22:14:49Z",
       "source": "ClinicalTrials.gov",
@@ -1599,7 +1599,7 @@
       "date": "2026-07-13T18:45:33Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Zanim obciążenie stanie się ryzykiem: rejestrowanie tarcia w stosowanych badaniach klinicznych online w czasie rzeczywistym."
+      "summary": "Zanim obciążenie stanie się ryzykiem: rejestrowanie tarcia w stosowanych badaniach klinicznych w czasie rzeczywistym online."
     },
     {
       "title": "Doktor Jason Riis – Stosowane badania kliniczne online",
@@ -1881,7 +1881,7 @@
       "date": "2026-07-14T15:09:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Celem Erasca jest oferta o wartości 550 mln dolarów; Summit sprzedaje ridinazol; FDA zatwierdza Leqembi do stosowania podskórnego w domu; Aktualizacja WuXi AppTec; i Q32 Bio planują ofertę o wartości 200 mln dolarów."
+      "summary": "Erasca celuje w ofertę o wartości 550 mln dolarów; Summit sprzedaje ridinazol; FDA zatwierdza Leqembi do stosowania podskórnego w domu; Aktualizacja WuXi AppTec; i Q32 Bio planują ofertę o wartości 200 mln dolarów."
     },
     {
       "title": "Badanie sugeruje, że pacjenci cierpiący na ból powinni zmniejszać dawki opioidów we własnym tempie – Drugs.com",
@@ -1929,7 +1929,7 @@
       "date": "2026-07-14T14:32:20Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Wiadomo, że 14 leków wchodzi w interakcję z hialuronianem."
+      "summary": "Wiadomo, że 14 leków wchodzi w interakcje z hialuronianem."
     },
     {
       "title": "AstraZeneca płaci do 1,5 miliarda dolarów za lek na raka płuc EGFR Zegfrovy od swojego spinoffu Dizal – Fierce Pharma",
