@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T19:49:19Z",
+  "last_updated": "2026-07-14T19:50:10Z",
   "poland": [
     {
       "title": "Michał Wiśniewski ujawnił, że miał wazektomię. Zdradził, dlaczego to zrobił - Medonet",
@@ -553,7 +553,7 @@
       "date": "2026-07-14T13:15:30Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Eksperymentalny lek na chorobę Alzheimera firmy Biogen, charakteryzujący się nowatorskim podejściem, spowolnił spadek w porównywalnym tempie jak leki zatwierdzone w badaniu w połowie fazy."
+      "summary": "Eksperymentalny lek na chorobę Alzheimera firmy Biogen, charakteryzujący się nowatorskim podejściem, spowolnił spadek w porównywalnym tempie jak leki zatwierdzone w badaniu śródetapowym."
     },
     {
       "title": "Wytyczne Brytyjskiego Towarzystwa Gastroenterologii z 2026 r. dotyczące diagnostyki i leczenia celiakii u dorosłych - Gut Journal",
@@ -806,6 +806,14 @@
   ],
   "guidelines": [
     {
+      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-07-14T19:48:55Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 4,
+      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
       "title": "Kardioonkologia wchodzi do głównego nurtu: badanie powiązań między dwoma największymi zabójcami na świecie - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/news/news-room/cardio-oncology-goes-mainstream/",
       "date": "2026-07-14T18:12:22Z",
@@ -835,7 +843,7 @@
       "date": "2026-07-14T12:02:11Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "W miarę jak coraz więcej pacjentów przekracza 80. rok życia, kardiolodzy stają w obliczu skomplikowanej mieszanki polipragmazji, słabości, wyzwań poznawczych i zróżnicowanych priorytetów."
+      "summary": "W miarę jak coraz więcej pacjentów osiąga wiek 80 lat i więcej, kardiolodzy stają w obliczu skomplikowanej mieszanki polipragmazji, słabości, wyzwań poznawczych i zróżnicowanych priorytetów."
     },
     {
       "title": "Legacy Hilo Rehab and Nursing uznane za opiekę nad pacjentami po udarze – Big Island Now",
@@ -947,7 +955,7 @@
       "date": "2026-07-13T16:03:34Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "DALLAS, 13 lipca 2026 r. — Po nagłej śmierci amerykańskiej senator Lindsey Graham z Karoliny Południowej powszechne doniesienia prasowe wskazują, że cierpiał on na rozwarstwienie aorty. Rozwarstwienie aorty to rozdarcie wewnętrznej warstwy aorty, największej części ciała..."
+      "summary": "DALLAS, 13 lipca 2026 r. — Po nagłej śmierci amerykańskiej senator Lindsey Graham z Karoliny Południowej szeroko rozpowszechnione doniesienia prasowe wskazują, że cierpiał on na rozwarstwienie aorty. Rozwarstwienie aorty to rozdarcie wewnętrznej warstwy aorty, największej części ciała..."
     },
     {
       "title": "Project Response Inc. – Krajowa Sieć Informacji o Zapobieganiu (.gov)",
@@ -1004,14 +1012,6 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Wykorzystujemy pliki cookie w celu zapewnienia prawidłowego funkcjonowania naszej witryny oraz do analizy ruchu i optymalizacji działania strony. Dzięki nim możemy lepiej dostosować treści do potrzeb użytkowników i stale ulepszać nasze usługi. Pamiętaj, że informacje przechowywane w plikach cookie mogą pozwalać na identyfikację konkretnego urządzenia lub przeglądarki użytkownika, a więc potencjalnie stanowić dane osobowe."
-    },
-    {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-07-13T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
-      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Generał Genewy, żołnierze i marynarze wyróżnieni za wybitne osiągnięcia przez American Heart Association – Finger Lakes Daily News",
@@ -1103,6 +1103,14 @@
     }
   ],
   "epidemiology": [
+    {
+      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-07-14T19:48:55Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
     {
       "title": "Epidemia wirusowego zapalenia wątroby typu A powiązana z mrożonymi jagodami, Holandia, 2024–2025 — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1406_article",
@@ -1358,14 +1366,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
-    },
-    {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-07-13T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -2214,6 +2214,14 @@
   ],
   "critical_alerts": [
     {
+      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-07-14T19:48:55Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 4,
+      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
       "title": "Epidemia cyklosporozy o nieznanym źródle — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
       "date": "2026-07-14T16:48:43Z",
@@ -2260,14 +2268,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Lider Afrykańskiego Centrum ds. Zapobiegania i Kontroli Chorób (Africa CDC) wzywa do zapewnienia silniejszych zabezpieczeń dla osób udzielających pierwszej pomocy, w tym większej liczby sprzętu i ulepszonych protokołów bezpieczeństwa w świetle epidemii wirusa Ebola w Demokratycznej Republice Konga (DRK), która oficjalnie wkracza w drugi miesiąc i wykazuje niewielkie oznaki spowolnienia transmisji."
-    },
-    {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-07-13T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
-      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
