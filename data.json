@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T00:35:01Z",
+  "last_updated": "2026-07-14T00:35:48Z",
   "poland": [
     {
       "title": "AI zamiast papierologii. NHS inwestuje 10 mld funtów w cyfrową transformację - Alert Medyczny",
@@ -404,14 +404,6 @@
   ],
   "world": [
     {
-      "title": "Subskrypcje i zakupy — NEJM — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://myaccount.nejm.org/subscriptions-purchases",
-      "date": "2026-07-13T22:40:14Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Zaloguj się do swojego konta NEJM Group My Account, aby zarządzać informacjami profilowymi i indywidualnymi subskrypcjami w naszych produktach."
-    },
-    {
       "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
       "date": "2026-07-13T22:26:00Z",
@@ -441,7 +433,7 @@
       "date": "2026-07-13T21:33:05Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Przedstawiamy przypadek kobiety po 50. roku życia z olbrzymim współwydzielniczym makrogruczolakiem przysadki wytwarzającym zarówno prolaktynę, jak i hormon wzrostu. Od 20. roku życia cierpiała na bóle głowy, wytrzeszcz, chemozę i wtórny brak miesiączki. Badanie wykazało hiperprolaktynemię (251 µg/l; norma ≤23 µg/l)."
+      "summary": "Hiperprolaktynemia maskowana efektem haczyka u pacjenta z prolactinoma olbrzymim ze współwydzielaniem hormonu wzrostu BMJ Case Reports."
     },
     {
       "title": "Badanie sprawdza bezwzględne ryzyko dla ION w przypadku środków GLP-1 – Medscape",
@@ -474,6 +466,14 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Dołącz do dziennikarzy tworzących serial STAT „Najbardziej śmiercionośny narkotyk” o 13:00 29 lipca na dyskusję na temat epidemii zdrowia publicznego, alkoholu, ukrywania się na widoku."
+    },
+    {
+      "title": "Subskrypcje i zakupy — NEJM — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://myaccount.nejm.org/subscriptions-purchases",
+      "date": "2026-07-13T19:39:44Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Zaloguj się do swojego konta NEJM Group My Account, aby zarządzać informacjami profilowymi i indywidualnymi subskrypcjami w naszych produktach."
     },
     {
       "title": "Obalamy mity dotyczące diety i nowotworów w klinice - Medscape",
@@ -1117,7 +1117,7 @@
       "date": "2026-07-13T19:58:44Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Zmiany w programie Medicaid mogą mieć poważne konsekwencje dla Amerykanów zakażonych wirusem HIV CIDRAP."
+      "summary": "Bez Medicaid 53-letniego Deedee Burrisa z Chicago mogłoby tu nie być lub przynajmniej byłby znacznie mniej zdrowy."
     },
     {
       "title": "Zarządzenie: Zawieszenie prawa do sprowadzania niektórych osób z krajów, w których występuje choroba zakaźna podlegająca kwarantannie | Port Health — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1429,7 +1429,7 @@
       "date": "2026-07-10T21:04:49Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Epidemia wirusa Ebola w Demokratycznej Republice Konga nadal przewyższa reakcję CIDRAP."
+      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów wirusa Ebola w Demokratycznej Republice Konga (DRK) wysoki rangą urzędnik Światowej Organizacji Zdrowia (WHO) ostrzega, że ​​epidemia może być znacznie większa, niż wskazuje liczba przypadków."
     },
     {
       "title": "Z raportu wynika, że ​​w schronisku ewakuacyjnym Eaton w pobliżu Los Angeles doszło do wybuchu epidemii norowirusa, Covid-19 i grypy - CIDRAP",
@@ -1453,7 +1453,7 @@
       "date": "2026-07-10T19:58:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Z 61 nowymi przypadkami, epidemia odry w USA szybko zbliża się do całkowitej wartości CIDRAP z zeszłego roku."
+      "summary": "Przy 2231 potwierdzonych zakażeniach w USA brakuje zaledwie 58 przypadków do łącznej liczby przypadków za cały 2025 r., która była najwyższa od 34 lat."
     },
     {
       "title": "Szybkie ujęcie: rośnie epidemia cyklospory w stanie Michigan, więcej legionistów z Nowego Jorku, ślimak New World w Teksasie - CIDRAP",
@@ -1461,7 +1461,7 @@
       "date": "2026-07-10T18:54:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Szybkie ujęcia: rośnie epidemia cyklospory w stanie Michigan, więcej legionistów z Nowego Jorku, ślimak Nowego Świata w Teksasie CIDRAP."
+      "summary": "Liczba przypadków epidemii cyklosporozy w stanie Michigan wzrosła o ponad 300."
     },
     {
       "title": "2 popularne leki mogą zapewnić krótkotrwałą poprawę długotrwałego zmęczenia związanego z Covid-19 – CIDRAP",
@@ -2166,6 +2166,14 @@
   ],
   "critical_alerts": [
     {
+      "title": "Liczba 61 nowych przypadków oznacza, że ​​epidemia odry w USA szybko zbliża się do całkowitej liczby przypadków odry w zeszłym roku – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/measles/61-new-cases-us-measles-outbreak-fast-approaching-last-year-s-total",
+      "date": "2026-07-10T19:58:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Przy 2231 potwierdzonych zakażeniach w USA brakuje zaledwie 58 przypadków do łącznej liczby przypadków za cały 2025 r., która była najwyższa od 34 lat."
+    },
+    {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-13T22:42:33Z",
@@ -2220,24 +2228,16 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
-    },
-    {
-      "title": "Epidemia legionistów z Upper East Side rodzi trudne pytanie: czy przepisy dotyczące chłodni kominowych nadążają za rzeczywistością? - wersja próbnanews.com",
-      "url": "https://www.trialsitenews.com/a/upper-east-side-legionnaires-outbreak-raises-a-hard-question-are-cooling-tower-rules-keeping-pace-with-reality-75ea0e24",
-      "date": "2026-07-11T18:30:42Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Rosnąca epidemia choroby legionistów w Upper East Side na Manhattanie rodzi pytania wykraczające daleko poza jedną dzielnicę Nowego Jorku. Według doniesień Gothamist co najmniej 46 osób zachorowało, a 22 trafiły do ​​szpitala, podczas gdy władze miejskie pracują nad ustaleniem źródła epidemii. Dochodzenie zwróciło również uwagę na nadzór nad wieżami chłodniczymi, ujawniając oczywiste rozbieżności między rejestrami publicznymi, działalnością inspekcyjną i sprawozdawczością organów regulacyjnych."
     }
   ],
   "daily_top5": [
     {
-      "title": "Subskrypcje i zakupy — NEJM — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://myaccount.nejm.org/subscriptions-purchases",
-      "date": "2026-07-13T22:40:14Z",
-      "source": "NEJM",
+      "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
+      "date": "2026-07-13T22:26:00Z",
+      "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Zaloguj się do swojego konta NEJM Group My Account, aby zarządzać informacjami profilowymi i indywidualnymi subskrypcjami w naszych produktach."
+      "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
     },
     {
       "title": "Nauka i technologia zdrowotna - Medscape",
