@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T11:07:11Z",
+  "last_updated": "2026-07-14T11:07:54Z",
   "poland": [
     {
       "title": "Powstają mobilne punkty medyczne dla wojska - Z kraju - Kurier - Medycyna Praktyczna",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Byli elitarni piłkarze wykazują zmienione zdrowie mózgu w wieku średnim – Medscape",
+      "url": "https://www.medscape.com/viewarticle/former-elite-soccer-players-show-altered-brain-health-2026a1000nr2",
+      "date": "2026-07-14T11:06:01Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Byli elitarni piłkarze wykazują mniejszą objętość istoty szarej w badaniu MRI i zgłaszają więcej depresji, lęku i zaburzeń wykonawczych niż grupa kontrolna, pomimo podobnych wyników w obiektywnych testach poznawczych."
+    },
+    {
       "title": "Rak jajnika: czy leki o zmienionym przeznaczeniu mogą działać lepiej razem? - Medyczny",
       "url": "https://www.medscape.com/viewarticle/ovarian-cancer-can-repurposed-drugs-work-better-together-2026a1000nre?src=",
       "date": "2026-07-14T11:04:02Z",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Dane pokazują, że u pacjentów z cukrzycą typu 2 RA GLP-1 mogą wiązać się z częstszym występowaniem niedokrwiennej neuropatii nerwu wzrokowego niż inne leki."
-    },
-    {
-      "title": "Działacze na rzecz AIDS ostro krytykują umowę badawczo-rozwojową Bidena z Gilead w związku z patentami na leki zapobiegające zakażeniom wirusem HIV – STAT",
-      "url": "https://www.statnews.com/pharmalot/2026/07/13/aids-activists-slam-biden-deal-with-gilead-over-hiv-prevention-patents/",
-      "date": "2026-07-13T21:01:59Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Grupa działaczy na rzecz AIDS uzyskała pakt badawczo-rozwojowy będący podstawą porozumienia między rządem USA a firmą Gilead Sciences w sprawie patentów na zapobieganie HIV."
     }
   ],
   "guidelines": [
@@ -1309,7 +1309,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1317,7 +1317,7 @@
       "date": "2026-07-13T02:13:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1341,7 +1341,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1349,7 +1349,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1881,7 +1881,7 @@
       "date": "2026-07-14T06:49:16Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Firma Elevar Therapeutics otrzymała trzecią listę CRL FDA w ciągu dwóch lat dla rywaceranibu w skojarzeniu z kamrelizumabem w leczeniu raka wątroby, przy czym każdy z nich powoływał się na braki produkcyjne. To jest…."
+      "summary": "Trzy uderzenia, ten sam niedobór: jak firma Elevar Therapeutics zamieniła możliwy do rozwiązania problem produkcyjny w kryzys pacjenta. Awangarda badań klinicznych."
     },
     {
       "title": "Monografia chlorowodorku cefepimu i dihydratu zidebaktamu dla profesjonalistów - Drugs.com",
