@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-14T11:06:27Z",
+  "last_updated": "2026-07-14T11:07:11Z",
   "poland": [
+    {
+      "title": "Powstają mobilne punkty medyczne dla wojska - Z kraju - Kurier - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/kurier/443753,powstaja-mobilne-punkty-medyczne-dla-wojska",
+      "date": "2026-07-14T11:03:45Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Naukowcy z Politechniki Wrocławskiej pracują nad projektem mobilnych modułów medycznych z żelbetu, które mogą zostać wykorzystane w medycynie pola walki. Nowe rozwiązania mają lepiej chronić rannych na zapleczu frontu niż dotychczas stosowa."
+    },
     {
       "title": "Lekarze na SOR-ach pod presją NFZ. DIL: żądania niezgodne z prawem - Medonet",
       "url": "https://www.medonet.pl/biznes-system-i-zdrowie/trendy-w-ochronie-zdrowia/nowe-zasady-raportowania-w-sor-ach-budza-kontrowersje-lekarze-pod-presja-nfz/2s8t18x",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Badanie pokazuje, że lekarze mogą zbyt mocno ufać rekomendacjom AI, nawet gdy dane kliniczne wskazują, że algorytm się myli."
-    },
-    {
-      "title": "Limity zarobków w szpitalach na pierwszy ogień. Prawnicy: stawka 240 zł wymaga zmiany w ustawach - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Limity-zarobkow-w-szpitalach-na-pierwszy-ogien-Prawnicy-stawka-240-zl-wymaga-zmiany-w-ustawach,286629,1.html",
-      "date": "2026-07-14T04:00:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Ministerstwo Zdrowia na szybszej i pewniejszej ścieżce może ograniczyć wydatki na wynagrodzenia w budżetach szpitali . Według informacji Rynku Zdrowia do oszczędności mają skłonić „premie” we współczynnikach jakościowych. Natomiast standardy dla indywidualnych kontraktów i limit 240 zł z godzinę będą wymagały zmiany w ustawach - potwierdzają prawnicy."
     }
   ],
   "world": [
@@ -878,6 +878,14 @@
       "summary": "Seminarium na temat wszczepialnego kardiowertera-defibrylatora (ICD) organizowane przez Europejskie Stowarzyszenie Rytmu Serca (EHRA) mające na celu poprawę Twojej praktyki i przygotowanie do egzaminów."
     },
     {
+      "title": "Zarządzenie: Zawieszenie prawa do sprowadzania niektórych osób z krajów, w których występuje choroba zakaźna podlegająca kwarantannie | Port Health — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/port-health/legal-authorities/evdorder.html",
+      "date": "2026-07-13T19:42:25Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Zarządzenie: Zawieszenie prawa do sprowadzania niektórych osób z krajów, w których występuje choroba zakaźna podlegająca kwarantannie | Portowe Centra Zdrowia ds. Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
       "title": "Cztery szpitale Ascension Florida cieszą się uznaniem w całym kraju za swoje zaangażowanie w doskonałość w leczeniu niewydolności serca - Opieka zdrowotna | Wniebowstąpienie",
       "url": "https://about.ascension.org/news/2026/07/four-ascension-florida-hospitals-are-nationally-recognized-for-their-commitment-to-excellence-in-heart-failure-care",
       "date": "2026-07-13T19:20:05Z",
@@ -1044,6 +1052,14 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Shrinidhi Nathany, konsultantka w dziedzinie hematologii molekularnej i onkologii w Fortis Memorial Research Institute w Indiach, udostępniła post na LinkedIn:"
+    },
+    {
+      "title": "Shoppers Drug Mart i Obesity Canada ogłaszają nową współpracę mającą na celu zwiększenie dostępu Kanadyjczyków do opieki nad otyłością – BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/press-releases/2026/07/08/shoppers-drug-mart-and-obesity-canada-announce-new-collaboration-to-help-expand-access-to-obesity-care-for-canadians/",
+      "date": "2026-07-08T17:44:24Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Firmy Shoppers Drug Mart i Obesity Canada ogłosiły dziś nową współpracę mającą na celu zwiększanie świadomości na temat otyłości jako choroby przewlekłej, zmniejszanie uprzedzeń i piętna związanego z wagą oraz pomaganie większej liczbie Kanadyjczyków w dostępie do opieki i zasobów opartych na dowodach poprzez inicjatywy takie jak program zarządzania wagą Shoppers Drug Mart."
     },
     {
       "title": "Wypisywanie leków u pacjentów z chorobami układu krążenia doświadczających polipragmazji - professional.heart.org",
@@ -1293,7 +1309,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1325,7 +1341,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1559,10 +1575,10 @@
       "date": "2026-07-13T22:15:47Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07697638 | System do laserowej aterektomii wieńcowej w leczeniu zwężenia tętnic wieńcowych (SHINE) ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07697638 | System do laserowej aterektomii wieńcowej do leczenia zwężenia tętnic wieńcowych (SHINE) ClinicalTrials.gov."
     },
     {
-      "title": "ED95 leku Ciprofol do zakładania maski krtaniowej z fentanylem u dzieci: próba ustalenia dawki na podstawie monety - ClinicalTrials.gov",
+      "title": "ED95 leku Ciprofol do zakładania maski krtaniowej z fentanylem u dzieci: tendencyjna próba ustalenia dawki monety - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07697404",
       "date": "2026-07-13T22:14:49Z",
       "source": "ClinicalTrials.gov",
