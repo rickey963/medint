@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T13:47:22Z",
+  "last_updated": "2026-07-14T13:48:12Z",
   "poland": [
     {
       "title": "Minister Zdrowia powołał nowy zespół. Katarzyna Kęcka będzie monitorować realizację programu - Alert Medyczny",
@@ -66,20 +66,20 @@
       "summary": "Nawet kilkukrotne wybudzanie się noworodka w ciągu nocy jest całkowicie naturalnym zachowaniem, które wspiera prawidłowy rozwój młodego organizmu. Choć dla zmęczonych rodziców bywa to ogromnym wyzwaniem, te przerwane cykle chronią zdrowie dziecka i pozwalają mu przystosować się do nowych warunków życia."
     },
     {
-      "title": "Okrągły stół dla zdrowia w Sejmie. Pacjenci i eksperci do rządu: mamy dość sporów. Pokażcie plan dla ochrony zdrowia - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/prawo/okragly-stol-dla-zdrowia-w-sejmie-pacjenci-i-eksperci-do-rzadu-mamy-dosc-sporow-pokazcie-plan-dla-ochrony-zdrowia",
-      "date": "2026-07-14T12:27:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "– Mamy dość kłótni polityków. Oczekujemy planu, czekamy na wizję i nadrzędny cel dla ochrony zdrowia. Dziś nie usłyszeliśmy, jak ma wyglądać wieloletnia strategia – powiedziała podczas sejmowego Okrągłego Stołu dla Ochrony Zdrowia Dorota Korycińska, prezes Ogólnopolskiej Federacji Onkologicznej."
-    },
-    {
       "title": "Piętnaście lat wolnego od profilaktyki - Termedia",
       "url": "https://www.termedia.pl/mz/Pietnascie-lat-wolnego-od-profilaktyki,67379.html",
       "date": "2026-07-14T12:27:00Z",
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Wczesne wykrycie raka piersi daje ponad 90 proc. szans na wyleczenie. W stadium zaawansowanym ten wskaźnik drastycznie spada – do zaledwie ok."
+    },
+    {
+      "title": "Okrągły stół dla zdrowia w Sejmie. Pacjenci i eksperci do rządu: mamy dość sporów. Pokażcie plan dla ochrony zdrowia - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/prawo/okragly-stol-dla-zdrowia-w-sejmie-pacjenci-i-eksperci-do-rzadu-mamy-dosc-sporow-pokazcie-plan-dla-ochrony-zdrowia",
+      "date": "2026-07-14T12:27:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "– Mamy dość kłótni polityków. Oczekujemy planu, czekamy na wizję i nadrzędny cel dla ochrony zdrowia. Dziś nie usłyszeliśmy, jak ma wyglądać wieloletnia strategia – powiedziała podczas sejmowego Okrągłego Stołu dla Ochrony Zdrowia Dorota Korycińska, prezes Ogólnopolskiej Federacji Onkologicznej."
     },
     {
       "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
@@ -850,7 +850,7 @@
       "url": "https://www.cdc.gov/ebola/faq/index.html",
       "date": "2026-07-14T01:45:03Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 5,
       "summary": "Wirus Ebola i Bundibugyo Często zadawane pytania Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1100,6 +1100,14 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
+    },
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/911",
+      "date": "2026-07-01T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 911, z dniem ogłoszenia 2026-07-07."
     }
   ],
   "epidemiology": [
@@ -1110,14 +1118,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Niniejsze wytyczne zawierają oparte na dowodach zalecenia dotyczące stosowania profilaktyki poekspozycyjnej doksycykliny (PEP) w zapobieganiu bakteryjnym zakażeniom przenoszonym drogą płciową (STI) wśród mężczyzn uprawiających seks z mężczyznami i kobietami transpłciowymi, czyli w populacjach nieproporcjonalnie dotkniętych chorobami przenoszonymi drogą płciową."
-    },
-    {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-07-14T10:47:47Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "WHO publikuje zaktualizowane wytyczne dotyczące dawkowania leków przeciwretrowirusowych stosowanych u noworodków, niemowląt i dzieci - Światowa Organizacja Zdrowia (WHO)",
@@ -1312,6 +1312,14 @@
       "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
     },
     {
+      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-07-13T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://data.cdc.gov/d/b559-sbez/visualization",
       "date": "2026-07-13T02:13:44Z",
@@ -1325,7 +1333,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2258,7 +2266,7 @@
       "url": "https://www.cdc.gov/ebola/faq/index.html",
       "date": "2026-07-14T01:45:03Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 5,
       "summary": "Wirus Ebola i Bundibugyo Często zadawane pytania Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
