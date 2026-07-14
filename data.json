@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T20:04:05Z",
+  "last_updated": "2026-07-14T20:05:06Z",
   "poland": [
     {
       "title": "Michał Wiśniewski ujawnił, że miał wazektomię. Zdradził, dlaczego to zrobił - Medonet",
@@ -810,7 +810,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-14T19:48:55Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 5,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1043,7 +1043,7 @@
       "date": "2026-07-10T07:00:00Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
+      "summary": "Prezydium NRL wnioskuje o odrzucenie nowelizacji ustawy o zawodach lekarza i lekarza dentysty NIL."
     },
     {
       "title": "[Wywiad] Nowe wytyczne KASL dotyczące wirusowego zapalenia wątroby typu B skupiają się na DNA wirusa HBV, ale występują opóźnienia w refundacji - koreabiomed.com",
@@ -1078,14 +1078,6 @@
       "summary": "Ustrukturyzowany zbiór wytycznych opartych na dowodach i przełomowych badań klinicznych stosowanych w praktyce klinicznej."
     },
     {
-      "title": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśniowo raka pęcherza moczowego wysokiego ryzyka - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/oncology-news/fda-approves-durvalumab-in-combination-with-bcg-for-high-risk-non-muscle-invasive-bladder-cancer",
-      "date": "2026-07-08T13:36:15Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
       "url": "https://esc365.escardio.org/event/2035",
       "date": "2026-07-06T07:00:00Z",
@@ -1100,6 +1092,14 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
+    },
+    {
+      "title": "Niewydolność serca wywołana kokainą: co powinni wiedzieć lekarze – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/communities/councils/cardiology-practice/education/cardiopractice/cocaine-induced-heart-failure-what-clinicians-need-to-know/",
+      "date": "2026-07-04T19:57:26Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest powszechnie uważaną toksyną układu sercowo-naczyniowego o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie układu współczulnego spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
@@ -1820,6 +1820,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Interakcje salicylan choliny / salicylan magnezu - Drugs.com",
+      "url": "https://www.drugs.com/drug-interactions/choline-salicylate-magnesium-salicylate.html?professional=1",
+      "date": "2026-07-14T19:04:26Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Wiadomo, że 317 leków wchodzi w interakcje z salicylanem choliny/salicylanem magnezu."
+    },
+    {
       "title": "Blue-Emu Maksymalna siła Zapalenie stawów, interakcje łagodzące ból mięśni i stawów - Drugs.com",
       "url": "https://www.drugs.com/drug-interactions/menthol-topical,blue-emu-maximum-strength-arthritis-muscle-joint-pain-relief.html?professional=1",
       "date": "2026-07-14T19:02:51Z",
@@ -2210,14 +2218,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Rejestracja zakładu i lista urządzeń accessdata.fda.gov."
-    },
-    {
-      "title": "Zatwierdzenie przed wprowadzeniem do obrotu (PMA) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?ID=P980022S157",
-      "date": "2026-07-14T10:26:42Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Zatwierdzenie przed wprowadzeniem do obrotu (PMA) accessdata.fda.gov."
     }
   ],
   "critical_alerts": [
@@ -2226,7 +2226,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-14T19:48:55Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 5,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
