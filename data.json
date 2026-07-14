@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-14T11:05:48Z",
+  "last_updated": "2026-07-14T11:06:27Z",
   "poland": [
+    {
+      "title": "Lekarze na SOR-ach pod presją NFZ. DIL: żądania niezgodne z prawem - Medonet",
+      "url": "https://www.medonet.pl/biznes-system-i-zdrowie/trendy-w-ochronie-zdrowia/nowe-zasady-raportowania-w-sor-ach-budza-kontrowersje-lekarze-pod-presja-nfz/2s8t18x",
+      "date": "2026-07-14T11:02:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "\"DocierajÄ do nas niepokojÄ ce sygnaÅy od lekarzy zatrudnionych w Szpitalnych OddziaÅach Ratunkowych (SOR) na terenie DolnoÅlÄ skiej Izby Lekarskiej. Narodowy Fundusz Zdrowia Å¼Ä da od nich podpisywania oÅwiadczeÅ i przekazywania szczegÃ³Åowych danych na temat wypracowanych godzin pracy\" â alarmuje izba lekarzy z Dolnego ÅlÄ ska."
+    },
+    {
+      "title": "Dostęp do opieki medycznej na terenach wiejskich - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/dostep-do-opieki-medycznej-n2407114",
+      "date": "2026-07-14T11:00:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Dostęp do opieki medycznej na terenach wiejskich PolitykaZdrowotna.com."
+    },
     {
       "title": "To najmłodszy profesor chirurgii plastycznej w Polsce. Ma 35 lat - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Nauka/To-najmlodszy-profesor-chirurgii-plastycznej-w-Polsce-Ma-35-lat,286652,9.html",
@@ -384,22 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Ministerstwo Zdrowia na szybszej i pewniejszej ścieżce może ograniczyć wydatki na wynagrodzenia w budżetach szpitali . Według informacji Rynku Zdrowia do oszczędności mają skłonić „premie” we współczynnikach jakościowych. Natomiast standardy dla indywidualnych kontraktów i limit 240 zł z godzinę będą wymagały zmiany w ustawach - potwierdzają prawnicy."
-    },
-    {
-      "title": "AI zamiast papierologii. NHS inwestuje 10 mld funtów w cyfrową transformację - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/ai-zamiast-papierologii-nhs-inwestuje-10-mld-funtow-w-cyfrowa-transformacje/",
-      "date": "2026-07-13T23:01:24Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Cyfryzacja NHS przyspiesza. Wielka Brytania inwestuje 10 mld funtów w AI, elektroniczną dokumentację, wirtualną opiekę i nowe usługi dla pacjentów."
-    },
-    {
-      "title": "Tampony syntetyczne i organiczne mogą uwalniać substancje zaburzające gospodarkę hormonalną - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/tampony-syntetyczne-i-organiczne-moga-uwalniac-substancje-zaburzajace-gospodarke-hormonalna/",
-      "date": "2026-07-13T22:31:14Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Badanie wykazało, że część tamponów uwalnia substancje o działaniu estrogenopodobnym. Naukowcy apelują o nowe standardy oceny bezpieczeństwa."
     }
   ],
   "world": [
@@ -482,6 +482,14 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Pracuję w przychodni ogólnej, w której lista liczy mniej niż 4000 pacjentów, i kocham swoją pracę. Daje mi to możliwość budowania trwałych relacji z pacjentami i myślę, że ta ciągłość znajduje odzwierciedlenie w wynikach zadowolenia naszych pacjentów, które niezmiennie należą do najwyższych lokalnie. Naprawdę wierzę, że zapewniamy elastyczną opiekę wysokiej jakości."
+    },
+    {
+      "title": "Podsumowanie AAIC: Co dalej w chorobie Alzheimera – STAT",
+      "url": "https://www.statnews.com/event/2026-aaic-recap-alzheimers-conference/",
+      "date": "2026-07-14T10:01:15Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Spostrzeżenia zza kulis corocznej Międzynarodowej Konferencji Stowarzyszenia Alzheimera (AAIC) w Londynie."
     },
     {
       "title": "Opis stanowiska - Asystent wykonawczy (program) (2602448) - cares.who.int",
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Grupa działaczy na rzecz AIDS uzyskała pakt badawczo-rozwojowy będący podstawą porozumienia między rządem USA a firmą Gilead Sciences w sprawie patentów na zapobieganie HIV."
-    },
-    {
-      "title": "Godziny pracy z Isabellą Cueto i Levem Facherem – STAT",
-      "url": "https://www.statnews.com/event/deadliest-drug-series-office-hours-ama-july-2026/",
-      "date": "2026-07-13T20:02:03Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Dołącz do dziennikarzy tworzących serial STAT „Najbardziej śmiercionośny narkotyk” o 13:00 29 lipca na dyskusję na temat epidemii zdrowia publicznego, alkoholu, ukrywania się na widoku."
     }
   ],
   "guidelines": [
@@ -1046,14 +1046,6 @@
       "summary": "Shrinidhi Nathany, konsultantka w dziedzinie hematologii molekularnej i onkologii w Fortis Memorial Research Institute w Indiach, udostępniła post na LinkedIn:"
     },
     {
-      "title": "Shoppers Drug Mart i Obesity Canada ogłaszają nową współpracę mającą na celu zwiększenie dostępu Kanadyjczyków do opieki nad otyłością – BNN Bloomberg",
-      "url": "https://www.bnnbloomberg.ca/press-releases/2026/07/08/shoppers-drug-mart-and-obesity-canada-announce-new-collaboration-to-help-expand-access-to-obesity-care-for-canadians/",
-      "date": "2026-07-08T17:44:24Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Firmy Shoppers Drug Mart i Obesity Canada ogłosiły dziś nową współpracę mającą na celu zwiększanie świadomości na temat otyłości jako choroby przewlekłej, zmniejszanie uprzedzeń i piętna związanego z wagą oraz pomaganie większej liczbie Kanadyjczyków w dostępie do opieki i zasobów opartych na dowodach poprzez inicjatywy takie jak program zarządzania wagą Shoppers Drug Mart."
-    },
-    {
       "title": "Wypisywanie leków u pacjentów z chorobami układu krążenia doświadczających polipragmazji - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/deprescribing-in-patients-with-cardiovascular-disease-experiencing-polypharmacy",
       "date": "2026-07-08T16:38:18Z",
@@ -1092,6 +1084,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Seminarium na temat elektrofizjologii komórkowej prowadzone przez Grupę Roboczą ds. elektrofizjologii komórkowej serca, mające na celu udoskonalenie praktyki i przygotowanie do egzaminów."
+    },
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/911",
+      "date": "2026-07-01T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 911, z dniem ogłoszenia 2026-07-07."
     }
   ],
   "epidemiology": [
@@ -1293,7 +1293,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1301,7 +1301,7 @@
       "date": "2026-07-13T02:13:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
