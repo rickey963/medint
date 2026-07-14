@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T13:05:53Z",
+  "last_updated": "2026-07-14T13:06:38Z",
   "poland": [
     {
       "title": "Nowy komponent Mapy potrzeb zdrowotnych. Jest Schemat Zabezpieczenia Opieki Szpitalnej - Alert Medyczny",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Wytyczne Brytyjskiego Towarzystwa Gastroenterologii z 2026 r. dotyczące diagnostyki i leczenia celiakii u dorosłych - Gut Journal",
+      "url": "https://gut.bmj.com/content/early/2026/07/09/gutjnl-2025-337747",
+      "date": "2026-07-14T13:04:50Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "W niniejszym dokumencie przedstawiono zaktualizowane wytyczne Brytyjskiego Towarzystwa Gastroenterologii, szczegółowo opisujące standardy diagnozowania i leczenia celiakii u dorosłych. Do opracowania tych wytycznych przyczynił się multidyscyplinarny panel z Wielkiej Brytanii, Szwecji, Włoch i Australii. Aktualizacja ta wynika z ostatnich postępów w diagnostyce i leczeniu CD u dorosłych."
+    },
+    {
       "title": "Konsultant psychiatra – praca w ramach usług zdrowia psychicznego dla dorosłych w szpitalu Townsville i służbie zdrowia | 829430 - BMJ",
       "url": "https://www.bmj.com/careers/job/829430/consultant-psychiatrist-adult-mental-health-services-/?TrackID=8&utm_source=rss&utm_medium=feed&utm_campaign=general",
       "date": "2026-07-14T12:28:03Z",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "W rzadkich przypadkach semaglutyd stosowany w leczeniu otyłości wiąże się z encefalopatią Wernickego, wynikającą z nietolerancji żołądkowo-jelitowej, zmniejszonego spożycia składników odżywczych i szybkiej utraty wagi prowadzącej do niedoboru tiaminy."
-    },
-    {
-      "title": "Semaglutyd powiązany z rzadką chorobą mózgu – Medscape",
-      "url": "https://www.medscape.com/viewarticle/semaglutide-linked-rare-brain-illness-2026a1000npa",
-      "date": "2026-07-14T06:34:10Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "W rzadkich przypadkach semaglutyd stosowany w leczeniu otyłości wiąże się z encefalopatią Wernickego, wynikającą z nietolerancji żołądkowo-jelitowej, zmniejszonego spożycia składników odżywczych i szybkiej utraty wagi prowadzącej do niedoboru tiaminy."
     }
   ],
   "guidelines": [
@@ -1086,6 +1086,14 @@
       "summary": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami w czasach apteki."
     },
     {
+      "title": "Rozporządzenie Rady Ministrów z dnia 6 lipca 2026 r. zmieniające rozporządzenie w sprawie Narodowego Programu Zdrowia na lata 2021–2026",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/923",
+      "date": "2026-07-06T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
+    },
+    {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
       "url": "https://esc365.escardio.org/event/2035",
       "date": "2026-07-06T07:00:00Z",
@@ -1094,12 +1102,12 @@
       "summary": "Seminarium na temat elektrofizjologii komórkowej prowadzone przez Grupę Roboczą ds. elektrofizjologii komórkowej serca, mające na celu udoskonalenie praktyki i przygotowanie do egzaminów."
     },
     {
-      "title": "Rozporządzenie Rady Ministrów z dnia 6 lipca 2026 r. zmieniające rozporządzenie w sprawie Narodowego Programu Zdrowia na lata 2021–2026",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/923",
-      "date": "2026-07-06T07:00:00Z",
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/911",
+      "date": "2026-07-01T07:00:00Z",
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 911, z dniem ogłoszenia 2026-07-07."
     }
   ],
   "epidemiology": [
