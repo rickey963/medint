@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-14T22:11:17Z",
+  "last_updated": "2026-07-14T22:12:07Z",
   "poland": [
     {
       "title": "Petycja 972/2026 - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/bip/petycje/zlozone-petycje/petycja-9722026,109.html",
       "date": "2026-07-14T20:28:45Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 14,
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 6,
       "summary": "Petycja w przedmiocie wprowadzenia rozwiązań w zakresie zakupu przez NFZ sprzętu medycznego np. rezonansu otwartego oraz zastosowania mechanizmów spłaty kosztów tego sprzętu poprzez potrącenia..."
     },
     {
@@ -810,7 +810,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-14T19:48:55Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 5,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1884,6 +1884,22 @@
       "summary": "Departament Obrony stwierdził, że inwestycja powiązana z państwem, badania kliniczne z uniwersytetami nadzorowanymi przez obronę oraz badanie przeprowadzone w szpitalu Armii Ludowo-Wyzwoleńczej umieściły tę spółkę na liście firm powiązanych z chińską armią i należy jej zakazać współpracy z firmami amerykańskimi."
     },
     {
+      "title": "Interakcje Tylenolu z zatokami w ciągu dnia – Drugs.com",
+      "url": "https://www.drugs.com/drug-interactions/acetaminophen-guaifenesin-phenylephrine,tylenol-sinus-severe-day.html?professional=1",
+      "date": "2026-07-14T21:10:27Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Wiadomo, że 458 leków wchodzi w interakcje z Tylenolem Sinus Severe Day. Obejmuje metforminę, metoprolol, trazodon."
+    },
+    {
+      "title": "Narzędzie do sprawdzania interakcji miłorzębu – Drugs.com",
+      "url": "https://www.drugs.com/drug-interactions/ginkgo.html?professional=1",
+      "date": "2026-07-14T21:06:21Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Wiadomo, że 303 leki wchodzą w interakcje z miłorzębem. Zawiera gabapentynę, ibuprofen, aspirynę."
+    },
+    {
       "title": "CVS Caremark osiąga ugodę z FTC w sprawie kombinezonu insulinowego – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/cvs-caremark-ftc-settlement-insulin-suit/825248/",
       "date": "2026-07-14T20:56:10Z",
@@ -2258,22 +2274,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Wiadomo, że 257 leków wchodzi w interakcje z Aller-Tec. Obejmuje gabapentynę, sertralinę, trazodon."
-    },
-    {
-      "title": "Elevara Medicines mianuje weterana branży biotechnologicznej na stanowisko dyrektora generalnego - BioSpace",
-      "url": "https://www.biospace.com/press-releases/elevara-medicines-appoints-biotech-veteran-as-ceo",
-      "date": "2026-07-14T11:54:10Z",
-      "source": "BioSpace",
-      "confirmed_by": 1,
-      "summary": "Londyn, Wielka Brytania – 14 lipca 2026 r. – Elevara Medicines („Elevara”), biotechnologiczna firma na etapie klinicznym opracowująca terapie na reumatoidalne zapalenie stawów („RZS”) i inne przewlekłe choroby zapalne, ogłosiła dzisiaj mianowanie dr Mai-Britt Zocca na stanowisko dyrektora generalnego ze skutkiem od 1 lipca 2026 r. Dr Zocca zastępuje założycielkę i dyrektor generalną Emmę Tinsley i poprowadzi firmę w kolejną fazę rozwoju. Emma pozostanie w Zarządzie jako dyrektor niewykonawczy."
-    },
-    {
-      "title": "Wiadomości z branży biotechnologicznej i farmaceutycznej - BioPharma Dive",
-      "url": "https://www.biopharmadive.com/?_sp=c71a53a4-1df6-453b-a62e-3d549ac00895",
-      "date": "2026-07-14T11:38:11Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "BioPharma Dive dostarcza wiadomości i analizy dla kadry kierowniczej z branży biotechnologicznej i biofarmaceutycznej. Poruszamy takie tematy, jak badania kliniczne, odkrywanie i rozwój leków, marketing farmaceutyczny, zezwolenia i regulacje FDA i nie tylko."
     }
   ],
   "critical_alerts": [
@@ -2290,7 +2290,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-14T19:48:55Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 5,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -2355,8 +2355,8 @@
       "title": "Petycja 972/2026 - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/bip/petycje/zlozone-petycje/petycja-9722026,109.html",
       "date": "2026-07-14T20:28:45Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 14,
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 6,
       "summary": "Petycja w przedmiocie wprowadzenia rozwiązań w zakresie zakupu przez NFZ sprzętu medycznego np. rezonansu otwartego oraz zastosowania mechanizmów spłaty kosztów tego sprzętu poprzez potrącenia..."
     },
     {
