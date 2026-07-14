@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-14T06:39:28Z",
+  "last_updated": "2026-07-14T06:40:13Z",
   "poland": [
+    {
+      "title": "RPP: zaniedbania w ochronie danych medycznych mogą naruszać zbiorowe prawa pacjentów - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/rpp-zaniedbania-w-ochronie-danych-medycznych-moga-naruszac-zbiorowe-prawa-pacjentow/",
+      "date": "2026-07-14T06:37:00Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "RPP uznał, że brak odpowiednich zabezpieczeń danych medycznych może naruszać prawa pacjentów. Wskazał najważniejsze obowiązki placówek."
+    },
     {
       "title": "„Guz znajdował się w okolicy mózgowia odpowiedzialnej za ruch kończyn”. Lekarzom udało się go usunąć - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/guz-znajdowal-sie-n2406777",
@@ -392,14 +400,6 @@
       "source": "DOZ.pl",
       "confirmed_by": 1,
       "summary": "Jak objawia się stres oksydacyjny? Jak chronić organizm przed negatywnymi skutkami stresu oksydacyjnego? Dowiedz się na DOZ.pl."
-    },
-    {
-      "title": "Szpital upomniany przez UODO. Chodzi o weryfikację dostawcy i bezpieczeństwo danych - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/szpital-upomniany-przez-uodo-chodzi-o-weryfikacje-dostawcy-i-bezpieczenstwo-danych/",
-      "date": "2026-07-13T14:44:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "UODO upomniał szpital w Sosnowcu i podmiot przetwarzający po naruszeniu RODO. Sprawa dotyczyła włamania do poczty i danych 224 osób."
     }
   ],
   "world": [
@@ -1261,7 +1261,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1293,7 +1293,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
