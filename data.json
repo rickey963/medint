@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T13:08:03Z",
+  "last_updated": "2026-07-14T13:08:48Z",
   "poland": [
     {
       "title": "Nowy komponent Mapy potrzeb zdrowotnych. Jest Schemat Zabezpieczenia Opieki Szpitalnej - Alert Medyczny",
@@ -40,6 +40,14 @@
       "source": "Medycyna po Dyplomie",
       "confirmed_by": 1,
       "summary": "medVOD - specjalistyczne filmy medyczne dla lekarzy."
+    },
+    {
+      "title": "Elastyczny tryb organizacji świadczeń szpitalnych - szerszy zakres świadczeń bez konieczności hospitalizacji - Gov.pl",
+      "url": "https://www.gov.pl/web/zdrowie/elastyczny-tryb-organizacji-swiadczen-szpitalnych---szerszy-zakres-swiadczen-bez-koniecznosci-hospitalizacji",
+      "date": "2026-07-14T12:07:07Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Ministerstwo Zdrowia wprowadza zmiany, dzięki którym część badań, zabiegów i procedur, które wcześniej wymagały pobytu w szpitalu, wykonasz w ramach tzw. elastycznej organizacji świadczeń szpitalnych."
     },
     {
       "title": "Więcej miejsc na medycynie - Termedia",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Wyrok belgijskiego sądu potwierdza znaczenie zobowiązań umownych, które stanowiły podstawę skutecznej europejskiej odpowiedzi na pandemię; Pfizer podejmuje kroki, by zapewnić wykonanie tego wyroku za pomocą przewidzianych prawem mechanizmów egzekucyjnych – przekazała firma Pfizer."
-    },
-    {
-      "title": "Michał Wiśniewski ujawnił, że miał wazektomię. Zdradził, dlaczego to zrobił - Medonet",
-      "url": "https://www.medonet.pl/zdrowie/zdrowie-dla-kazdego/michal-wisniewski-jest-po-zabiegu-artysta-nie-bedzie-mial-wiecej-dzieci/vpsk1vm",
-      "date": "2026-07-14T07:03:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "W sierpniu 2025 r. MichaÅ WiÅniewski publicznie ujawniÅ, Å¼e przeszedÅ wazektomiÄ. Lider Ich Troje i ojciec szeÅciorga dzieci przyznaÅ, Å¼e zgodziÅ siÄ na zabieg na proÅbÄ Å¼ony Poli (obecnie sÄ w trakcie rozwodu) i \"bez wahania\"."
     }
   ],
   "world": [
@@ -697,7 +697,7 @@
       "date": "2026-07-14T08:32:54Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Ukryta epidemia alkoholu w Ameryce – żniwo, pojawiające się zagrożenia, zmieniające się spożycie i stawki ekonomiczne – w podziale na 10 wykresów."
+      "summary": "Ukryta epidemia alkoholu w Ameryce – żniwo, pojawiające się zagrożenia, zmieniające się spożycie i stawki gospodarcze – w podziale na 10 wykresów."
     },
     {
       "title": "Wyniki konkursu AI dotyczące metabolizmu leków pokazują, że nie zawsze większe musi oznaczać lepsze - STAT",
@@ -923,7 +923,7 @@
       "date": "2026-07-13T16:03:34Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "DALLAS, 13 lipca 2026 r. — Po nagłej śmierci amerykańskiej senator Lindsey Graham z Karoliny Południowej szeroko rozpowszechnione doniesienia prasowe wskazują, że cierpiał on na rozwarstwienie aorty. Rozwarstwienie aorty to rozdarcie wewnętrznej warstwy aorty, największej części ciała..."
+      "summary": "DALLAS, 13 lipca 2026 r. — Po nagłej śmierci amerykańskiej senator Lindsey Graham z Karoliny Południowej powszechne doniesienia prasowe wskazują, że cierpiał on na rozwarstwienie aorty. Rozwarstwienie aorty to rozdarcie wewnętrznej warstwy aorty, największej części ciała..."
     },
     {
       "title": "Project Response Inc. – Krajowa Sieć Informacji o Zapobieganiu (.gov)",
@@ -1027,7 +1027,7 @@
       "date": "2026-07-10T06:03:27Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Niedawno zmienione wytyczne dotyczące praktyki klinicznej wirusowego zapalenia wątroby typu B wydane przez Koreańskie Stowarzyszenie Badań nad Wątrobą (KASL) umieściły koreańskie standardy leczenia przewlekłego wirusowego zapalenia wątroby typu B w punkcie zwrotnym. Do tej pory głównym kryterium była podwyższona aktywność aminotransferazy alaninowej (ALT)."
+      "summary": "Nowo zmienione wytyczne dotyczące praktyki klinicznej wirusowego zapalenia wątroby typu B wydane przez Koreańskie Stowarzyszenie Badań nad Wątrobą (KASL) umieściły koreańskie standardy leczenia przewlekłego wirusowego zapalenia wątroby typu B w punkcie zwrotnym. Do tej pory głównym kryterium była podwyższona aktywność aminotransferazy alaninowej (ALT)."
     },
     {
       "title": "Odcinek 13: Sztuczna inteligencja i rozwiązania cyfrowe w medycynie ratunkowej – Postępowanie w niewydolności serca w amyloidozie sercowej – ESC 365",
@@ -1070,12 +1070,12 @@
       "summary": "Firmy Shoppers Drug Mart i Obesity Canada ogłosiły dziś nową współpracę mającą na celu zwiększanie świadomości na temat otyłości jako choroby przewlekłej, zmniejszanie uprzedzeń i piętna związanego z wagą oraz pomaganie większej liczbie Kanadyjczyków w dostępie do opieki i zasobów opartych na dowodach poprzez inicjatywy takie jak program zarządzania wagą Shoppers Drug Mart."
     },
     {
-      "title": "Wypisywanie leków u pacjentów z chorobami układu krążenia doświadczających polipragmazji - professional.heart.org",
+      "title": "Wyłączanie leku u pacjentów z chorobami układu krążenia doświadczających polipragmazji - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/deprescribing-in-patients-with-cardiovascular-disease-experiencing-polypharmacy",
       "date": "2026-07-08T16:38:18Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Polipragmazja jest powszechna w leczeniu chorób sercowo-naczyniowych, ponieważ leczenie oparte na wytycznych często wymaga wielu leków w przypadku współistniejących schorzeń i chorób współistniejących, co zwiększa obciążenie lekami."
+      "summary": "Polipragmazja jest powszechna w leczeniu chorób sercowo-naczyniowych, ponieważ leczenie oparte na wytycznych często wymaga wielu leków w przypadku współistniejących schorzeń i chorób współistniejących, co zwiększa obciążenie lekiem."
     },
     {
       "title": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśniowo raka pęcherza moczowego wysokiego ryzyka - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1083,7 +1083,7 @@
       "date": "2026-07-08T13:36:15Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "FDA zatwierdza Durvalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Nowe wytyczne CKM zwiększają rolę farmaceutów w kompleksowym zarządzaniu lekami – Pharmacy Times",
@@ -1125,7 +1125,7 @@
       "date": "2026-07-14T10:57:29Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Niniejsze wytyczne zawierają oparte na dowodach zalecenia dotyczące stosowania profilaktyki poekspozycyjnej doksycykliny (PEP) w zapobieganiu bakteryjnym zakażeniom przenoszonym drogą płciową (STI) wśród mężczyzn uprawiających seks z mężczyznami i kobietami transpłciowymi, czyli w populacjach nieproporcjonalnie dotkniętych chorobami przenoszonymi drogą płciową."
+      "summary": "Wytyczne dotyczące profilaktyki poekspozycyjnej doksycykliny w przypadku zakażeń przenoszonych drogą płciową wśród mężczyzn uprawiających seks z mężczyznami i kobietami transpłciowymi Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1152,7 +1152,7 @@
       "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
     },
     {
-      "title": "Zasięg szczepień przeciwko Covid-19 w UE/EOG w kampaniach w sezonie 2025–26 – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Zasięg szczepień przeciwko Covid-19 w UE/EOG w kampaniach sezonu 2025–26 – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/covid-19-vaccination-coverage-eueea-during-2025-26-season-campaigns",
       "date": "2026-07-14T09:08:44Z",
       "source": "ECDC",
@@ -1221,7 +1221,7 @@
       "date": "2026-07-13T18:49:55Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "To drugie seminarium internetowe z serii seminariów internetowych „Zdrowie w wieku średnim, wpływ na całe życie: seria seminariów internetowych dotyczących menopauzy” odpowie na Twoje pytania dotyczące wpływu menopauzy na funkcje poznawcze i zdrowie psychiczne, w tym pytania dotyczące mgły mózgowej, zmian nastroju i zdrowia mózgu w latach pomenopauzalnych."
+      "summary": "To drugie seminarium internetowe z serii seminariów internetowych „Zdrowie w wieku średnim, wpływ na całe życie: seria seminariów internetowych poświęconych menopauzie” odpowie na Twoje pytania dotyczące wpływu menopauzy na funkcje poznawcze i zdrowie psychiczne, w tym pytania dotyczące mgły mózgowej, zmian nastroju i zdrowia mózgu w latach pomenopauzalnych."
     },
     {
       "title": "Przemówienie otwierające Dyrektora Generalnego WHO na Regional Health Invest Forum – 13 lipca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
@@ -1280,7 +1280,7 @@
       "summary": "Klad HPAI A(H5N1) 2.3.4.4b Genotyp D1.1."
     },
     {
-      "title": "WHO potwierdziło, że Salwador wyeliminował jaglicę jako problem zdrowia publicznego – Światowa Organizacja Zdrowia (WHO)",
+      "title": "WHO uznało, że Salwador wyeliminował jaglicę jako problem zdrowia publicznego – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
       "date": "2026-07-13T15:29:27Z",
       "source": "WHO Disease Outbreak News",
@@ -1333,7 +1333,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1477,7 +1477,7 @@
       "date": "2026-07-10T21:04:49Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów wirusa Ebola w Demokratycznej Republice Konga (DRK) wysoki rangą urzędnik Światowej Organizacji Zdrowia (WHO) ostrzega, że ​​epidemia może być znacznie większa, niż wskazuje liczba przypadków."
+      "summary": "W miarę wzrostu liczby przypadków i zgonów wirusa Ebola w Demokratycznej Republice Konga (DRK) wysoki rangą urzędnik Światowej Organizacji Zdrowia (WHO) ostrzega, że ​​epidemia może być znacznie większa, niż wskazuje liczba przypadków."
     },
     {
       "title": "Z raportu wynika, że ​​w schronisku ewakuacyjnym Eaton w pobliżu Los Angeles doszło do wybuchu epidemii norowirusa, Covid-19 i grypy - CIDRAP",
@@ -1522,7 +1522,7 @@
   ],
   "clinical_trials": [
     {
-      "title": "Pierwszy uczestnik, który dawkował w badaniu ASCEND fazy I-II firmy Ionis – Arena Badań Klinicznych",
+      "title": "Pierwszy uczestnik, który dawkował w badaniu ASCEND fazy I-II firmy Ionis – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/first-participant-dosed-ionis-ascend-study/",
       "date": "2026-07-14T10:52:30Z",
       "source": "Clinical Trials Arena",
@@ -1530,7 +1530,7 @@
       "summary": "Pierwszy uczestnik zażył dawkę w fazie I-II badania ASCEND firmy Ionis Clinical Trials Arena."
     },
     {
-      "title": "Streszczenie ACT: Strategia rekrutacji na poziomie portfolio, pobieranie próbek w czasie rzeczywistym i terapia raka pęcherza moczowego niezawierająca platyny – stosowane badania kliniczne online",
+      "title": "Streszczenie ACT: Strategia rekrutacji na poziomie portfela, pobieranie próbek w czasie rzeczywistym i terapia raka pęcherza moczowego niezawierająca platyny – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/portfolio-level-recruitment-strategy-real-time-burden-sampling-platinum-free-bladder-cancer-therapy",
       "date": "2026-07-14T10:41:15Z",
       "source": "Applied Clinical Trials",
@@ -1615,7 +1615,7 @@
       "date": "2026-07-13T18:45:33Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Zanim obciążenie stanie się ryzykiem: rejestrowanie tarcia w stosowanych badaniach klinicznych w czasie rzeczywistym online."
+      "summary": "Zanim obciążenie stanie się ryzykiem: rejestrowanie tarcia w stosowanych badaniach klinicznych online w czasie rzeczywistym."
     },
     {
       "title": "Doktor Jason Riis – Stosowane badania kliniczne online",
@@ -1650,12 +1650,12 @@
       "summary": "Szczegóły badania | NCT07698223 | Kapsułka Naoxintong na nefropatię cukrzycową ze wzorem zatrzymywania wilgoci: wieloośrodkowe, randomizowane, podwójnie ślepe badanie kontrolowane placeboAcronymNXT-DKD ClinicalTrials.gov."
     },
     {
-      "title": "Alkermes publikuje dane za dziewięć miesięcy w miarę nagrzewania się wyścigu OX2R – Arena Badań Klinicznych",
+      "title": "Alkermes publikuje dane za dziewięć miesięcy w miarę nagrzewania się wyścigu OX2R – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/alkermes-releases-nine-month-data-as-ox2r-race-heats-up/",
       "date": "2026-07-13T15:47:43Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Alkermes publikuje dane za dziewięć miesięcy, w miarę jak wyścig OX2R nabiera tempa na Arenie Badań Klinicznych."
+      "summary": "Alkermes publikuje dane za dziewięć miesięcy, gdy wyścig OX2R nabiera tempa na Arenie Badań Klinicznych."
     },
     {
       "title": "Terapia obniżająca cholesterol w NewAmsterdamie obiecująca w chorobie Alzheimera - Arena Badań Klinicznych",
@@ -1674,7 +1674,7 @@
       "summary": "Czego wymaga rekrutacja na poziomie programu od sponsorów w zakresie operacyjnych badań klinicznych online."
     },
     {
-      "title": "Produkcja leków typu „hub-and-szprychy” odniesie korzyści z nowych przepisów FDA – Clinical Trials Arena",
+      "title": "Produkcja leków metodą „hub-and-szprychy” odniesie korzyści z nowych przepisów FDA – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/hub-and-spoke-drug-manufacturing-set-to-benefit-from-new-fda-rule/",
       "date": "2026-07-13T11:21:18Z",
       "source": "Clinical Trials Arena",
@@ -1687,7 +1687,7 @@
       "date": "2026-07-13T10:47:13Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Streszczenie ACT: Wstrzymanie przejrzystości listy CRL FDA, zmiana modelu rekrutacji skoncentrowanej na protokole i integracja spraw medycznych w stosowanych badaniach klinicznych online w ramach rozwoju."
+      "summary": "Streszczenie ACT: Wstrzymanie przejrzystości listy CRL FDA, zmiana modelu rekrutacji skoncentrowanej na protokole i integracja spraw medycznych w stosowanych badaniach klinicznych online."
     },
     {
       "title": "Serina kończy dawkowanie wskaźnikowe w kohorcie 1 badania fazy Ib – Arena Badań Klinicznych",
@@ -1703,7 +1703,7 @@
       "date": "2026-07-13T09:57:37Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Partner GSK, firma Hansoh Pharma, odnosi sukcesy w chińskim badaniu III fazy SCLC ADC Clinical Trials Arena."
+      "summary": "Partner GSK, firma Hansoh Pharma, odnosi sukcesy w chińskiej fazie III badania SCLC ADC Clinical Trials Arena."
     },
     {
       "title": "Firma Novo Nordisk ogłasza wyniki badania III fazy FRONTIER4 dotyczącego denecimigu – Clinical Trials Arena",
@@ -1826,7 +1826,7 @@
       "summary": "Medycyna rozwija się poprzez kwestionowanie samej siebie. Niebezpieczeństwo zaczyna się, gdy wytyczne stają się doktryną, zanim dowody staną się dojrzałe. To prowokacyjny argument przedstawiony przez lekarza medycyny ratunkowej, dr."
     },
     {
-      "title": "Senat przeanalizuje dwóch kluczowych kandydatów w dziedzinie zdrowia publicznego w USA pod kątem gotowości i przywództwa CDC – Trialssitenews.com",
+      "title": "Senat zbada dwóch kluczowych kandydatów w dziedzinie zdrowia publicznego w USA pod kątem gotowości i przywództwa CDC wisi na włosku - Trialssitenews.com",
       "url": "https://www.trialsitenews.com/a/senate-to-examine-two-key-u.s.-public-health-nominees-as-preparedness-and-cdc-leadership-hang-in-the-balance-2974bfed",
       "date": "2026-07-11T14:55:25Z",
       "source": "TrialSite News",
@@ -1857,7 +1857,7 @@
       "date": "2026-07-14T12:19:06Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Lek Leqembi Iqlik można teraz podawać w domu przez cały okres leczenia, co odróżnia go od leku Kisunla firmy Eli Lilly, jedynego innego na rynku leku przeciwamyloidowego w chorobie Alzheimera."
+      "summary": "Lek Leqembi Iqlik można teraz podawać w domu przez cały okres leczenia, co odróżnia go od preparatu Kisunla firmy Eli Lilly, jedynego innego na rynku leku przeciwamyloidowego w chorobie Alzheimera."
     },
     {
       "title": "Draig zarabia 65 mln dolarów na opracowanie leku na depresję mającego na celu odbudowę synaps – Endpoints News",
@@ -1900,6 +1900,14 @@
       "summary": "Wiadomo, że jeden z leków wchodzi w interakcje z Rutyną."
     },
     {
+      "title": "Rejestracja zakładu i wykaz urządzeń — accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scrIpts/cdrh/cfdocs/cfRL/rl.cfm?lid=1006714&lpcd=DKZ",
+      "date": "2026-07-14T10:43:21Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Rejestracja zakładu i lista urządzeń accessdata.fda.gov."
+    },
+    {
       "title": "Po sprzedaży za 4,7 miliarda dolarów firmie Novo Nordisk były zespół Akero ogłasza utworzenie nowej firmy zajmującej się I&I z chińskim lekiem - Endpoints News",
       "url": "https://endpoints.news/former-akero-team-announces-new-ii-company-avere-with-china-drug/",
       "date": "2026-07-14T10:00:00Z",
@@ -1908,7 +1916,7 @@
       "summary": "Po połączeniu z NextCure firma Avere Therapeutics opiera się na doustnym antagonistze receptora IL-23 w fazie klinicznej, licencjonowanym od chińskiej firmy Hansoh Pharmaceutical za 120 milionów dolarów z góry."
     },
     {
-      "title": "Interakcje pomiędzy ultra multiwitaminą dla kobiet 50+ i olejem rybnym – Drugs.com",
+      "title": "Interakcje między multiwitaminą Ultra dla kobiet 50+ i olejem rybnym – Drugs.com",
       "url": "https://www.drugs.com/drug-interactions/alive-women-s-50-ultra-multivitamin-with-fish-oil-1665-20929-1749-3873.html?professional=1",
       "date": "2026-07-14T09:12:13Z",
       "source": "Drugs.com",
@@ -1929,10 +1937,10 @@
       "date": "2026-07-14T08:16:49Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Wiadomo, że 261 leków wchodzi w interakcje ze Slow-Magiem. Zawiera amlodypinę, lizynopryl, aspirynę."
+      "summary": "Wiadomo, że 261 leków wchodzi w interakcje ze Slow-Mag. Zawiera amlodypinę, lizynopryl, aspirynę."
     },
     {
-      "title": "Pięć rzeczy, które powinni wiedzieć marketerzy farmaceutyczni na wtorek, 14 lipca 2026 r. - Marketing medyczny i media",
+      "title": "Pięć rzeczy, które marketerzy farmaceutyczni powinni wiedzieć na wtorek, 14 lipca 2026 r. - Marketing medyczny i media",
       "url": "https://www.mmm-online.com/news/five-things-for-pharma-marketers-july-14-2026/",
       "date": "2026-07-14T08:03:09Z",
       "source": "Endpoints News",
@@ -1940,7 +1948,7 @@
       "summary": "Przełomowa zagadka dotycząca raka trzustki; Organ nadzorczy HHS twierdzi, że wygenerował oszczędności w wysokości 5,56 miliarda dolarów; Wewnątrz stanu, który przyczynił się do nagłej śmierci byłej senator Lindsey Graham."
     },
     {
-      "title": "Sprawdzanie interakcji Septy - Drugs.com",
+      "title": "Sprawdzanie interakcji Septa - Drugs.com",
       "url": "https://www.drugs.com/drug-interactions/bacitracin-neomycin-polymyxin-b-topical,septa.html?professional=1",
       "date": "2026-07-14T07:18:16Z",
       "source": "Drugs.com",
@@ -2156,7 +2164,7 @@
       "summary": "Administracja Trumpa opracowuje zachęty do ponownego przeniesienia produkcji podstawowych leków w obliczu obaw, że Chiny mogą zakłócić dostęp USA do kluczowych leków i składników."
     },
     {
-      "title": "Psychodeliki: amerykańska FDA łączy zaktualizowane wytyczne dotyczące prób ze spotkaniem publicznym na temat bezpieczeństwa pacjentów, dostęp - insights.citeline.com",
+      "title": "Psychodeliki: amerykańska FDA łączy zaktualizowane wytyczne dotyczące prób ze spotkaniem publicznym na temat bezpieczeństwa pacjentów, dostęp - Insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/psychedelics-us-fda-pairs-updated-trial-guidance-with-public-meeting-on-patient-safety-access-WJFYRDZDDVB6VIIH26TRVMWZCY/",
       "date": "2026-07-13T21:42:53Z",
       "source": "Pink Sheet",
@@ -2226,14 +2234,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Według badania opublikowanego 6 lipca w JAMA Network Open, przezczaszkowa stymulacja pulsu przedczołowego wiąże się z działaniem przeciwdepresyjnym. Penny Pin."
-    },
-    {
-      "title": "Dane dotyczące testu na raka jelita grubego firmy Freenome są lepsze w porównaniu z wcześniejszymi wynikami – BioPharma Dive",
-      "url": "https://www.biopharmadive.com/news/freenome-colorectal-cancer-test-data-improve-on-earlier-results/825085/",
-      "date": "2026-07-13T18:37:42Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "Wyniki nowych badań mogą sprawić, że firma Abbott, która ma umowę z Freenome na sprzedaż testu krwi, stanie się dominującym graczem w badaniach przesiewowych w kierunku raka jelita grubego, twierdzą analitycy Evercore ISI."
     }
   ],
   "critical_alerts": [
@@ -2259,7 +2259,7 @@
       "date": "2026-07-14T08:32:54Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Ukryta epidemia alkoholu w Ameryce – żniwo, pojawiające się zagrożenia, zmieniające się spożycie i stawki ekonomiczne – w podziale na 10 wykresów."
+      "summary": "Ukryta epidemia alkoholu w Ameryce – żniwo, pojawiające się zagrożenia, zmieniające się spożycie i stawki gospodarcze – w podziale na 10 wykresów."
     },
     {
       "title": "Wirus Ebola i Bundibugyo — często zadawane pytania — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -2299,7 +2299,7 @@
       "date": "2026-07-10T21:04:49Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów wirusa Ebola w Demokratycznej Republice Konga (DRK) wysoki rangą urzędnik Światowej Organizacji Zdrowia (WHO) ostrzega, że ​​epidemia może być znacznie większa, niż wskazuje liczba przypadków."
+      "summary": "W miarę wzrostu liczby przypadków i zgonów wirusa Ebola w Demokratycznej Republice Konga (DRK) wysoki rangą urzędnik Światowej Organizacji Zdrowia (WHO) ostrzega, że ​​epidemia może być znacznie większa, niż wskazuje liczba przypadków."
     }
   ],
   "daily_top5": [
@@ -2317,7 +2317,7 @@
       "date": "2026-07-14T10:57:29Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Niniejsze wytyczne zawierają oparte na dowodach zalecenia dotyczące stosowania profilaktyki poekspozycyjnej doksycykliny (PEP) w zapobieganiu bakteryjnym zakażeniom przenoszonym drogą płciową (STI) wśród mężczyzn uprawiających seks z mężczyznami i kobietami transpłciowymi, czyli w populacjach nieproporcjonalnie dotkniętych chorobami przenoszonymi drogą płciową."
+      "summary": "Wytyczne dotyczące profilaktyki poekspozycyjnej doksycykliny w przypadku zakażeń przenoszonych drogą płciową wśród mężczyzn uprawiających seks z mężczyznami i kobietami transpłciowymi Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "WHO publikuje zaktualizowane wytyczne dotyczące dawkowania leków przeciwretrowirusowych stosowanych u noworodków, niemowląt i dzieci - Światowa Organizacja Zdrowia (WHO)",
