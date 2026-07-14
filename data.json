@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T17:36:45Z",
+  "last_updated": "2026-07-14T17:37:41Z",
   "poland": [
     {
       "title": "Koperty do otwarcia - Termedia",
@@ -1357,7 +1357,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1389,7 +1389,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1796,6 +1796,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Sałata podejrzana o rosnącą wielostanową epidemię cyklospory – Drugs.com",
+      "url": "https://www.drugs.com/news/lettuce-suspected-growing-multistate-cyclospora-outbreak-130641.html",
+      "date": "2026-07-14T17:36:21Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "WTOREK, 14 lipca 2026 r. Urzędnicy ds. zdrowia stanu Michigan zidentyfikowali sałatę i inne warzywa sałatowe jako główne podejrzane źródło rosnącej epidemii w wielu stanach."
+    },
+    {
       "title": "Postęp w leczeniu mCSPC: bliższe spojrzenie na ADT + darolutamid pod okiem dr Rany McKay - Fierce Pharma",
       "url": "https://www.fiercepharma.com/sponsored/advancing-mcspc-treatment-closer-look-adt-darolutamide-dr-rana-mckay",
       "date": "2026-07-14T16:57:26Z",
@@ -2186,14 +2194,6 @@
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "Plaster insulinowy Omnipod firmy Insulet może płynnie kontrolować dostarczanie insuliny pacjentom chorym na cukrzycę, ale sam nie jest w stanie wypełnić wszystkich luk w leczeniu związanym ze zdrowiem psychicznym. | Insulet i Calm integrują opiekę psychiatryczną z leczeniem cukrzycy za pomocą szeregu narzędzi do uważności, medytacji i snu specjalnie dostosowanych do społeczności chorych na cukrzycę."
-    },
-    {
-      "title": "Trzy uderzenia, ten sam niedobór: jak firma Elevar Therapeutics zamieniła możliwy do rozwiązania problem produkcyjny w kryzys pacjenta – awangarda badań klinicznych",
-      "url": "https://www.clinicaltrialvanguard.com/clinops-watchdog/three-strikes-same-deficiency-how-elevar-therapeutics-turned-a-solvable-manufacturing-problem-into-a-patient-crisis/",
-      "date": "2026-07-14T06:49:16Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "Firma Elevar Therapeutics otrzymała trzecią listę CRL FDA w ciągu dwóch lat dla rywaceranibu w skojarzeniu z kamrelizumabem w leczeniu raka wątroby, przy czym każdy z nich powoływał się na braki produkcyjne. To jest…."
     }
   ],
   "critical_alerts": [
