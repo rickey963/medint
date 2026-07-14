@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T18:12:44Z",
+  "last_updated": "2026-07-14T18:13:27Z",
   "poland": [
     {
       "title": "Koperty do otwarcia - Termedia",
@@ -1128,6 +1128,14 @@
       "summary": "Ogniska i badania cyklosporozy Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
+      "title": "Epidemia cyklosporozy o nieznanym źródle — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
+      "date": "2026-07-14T16:48:43Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia cyklosporozy z nieznanego źródła Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
       "title": "Docelowy profil produktu WHO dla szczepionek przeciwko wirusowi Bundibugyo, 14 lipca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/B09835",
       "date": "2026-07-14T16:41:49Z",
@@ -1494,17 +1502,17 @@
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Doxy-PEP - Fakty, które musisz znać."
-    },
-    {
-      "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://data.cdc.gov/d/y5ii-knwc/visualization",
-      "date": "2026-07-12T06:34:59Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     }
   ],
   "clinical_trials": [
+    {
+      "title": "Selektywne gromadzenie danych dotyczących bezpieczeństwa i uzasadnienie prostszych badań: pytania i odpowiedzi z Robem DiCicco, TransCelerate Biopharma – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/selective-safety-data-collection-simpler-trials-rob-dicicco-transcelerate-biopharma",
+      "date": "2026-07-14T17:00:25Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 2,
+      "summary": "Selektywne gromadzenie danych o bezpieczeństwie i uzasadnienie prostszych badań: pytania i odpowiedzi z Robem DiCicco, stosowane badania kliniczne TransCelerate Biopharma online."
+    },
     {
       "title": "Pierwszy uczestnik, który dawkował w badaniu ASCEND fazy I-II firmy Ionis – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/first-participant-dosed-ionis-ascend-study/",
@@ -1514,11 +1522,11 @@
       "summary": "Pierwszy uczestnik zażył dawkę w fazie I-II badania ASCEND firmy Ionis Clinical Trials Arena."
     },
     {
-      "title": "Streszczenie ACT: Strategia rekrutacji na poziomie portfela, pobieranie próbek w czasie rzeczywistym i terapia raka pęcherza moczowego niezawierająca platyny – stosowane badania kliniczne online",
+      "title": "Streszczenie ACT: Strategia rekrutacji na poziomie portfolio, pobieranie próbek w czasie rzeczywistym i terapia raka pęcherza moczowego niezawierająca platyny – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/portfolio-level-recruitment-strategy-real-time-burden-sampling-platinum-free-bladder-cancer-therapy",
       "date": "2026-07-14T10:41:15Z",
       "source": "Applied Clinical Trials",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Krótki opis ACT: Strategia rekrutacji na poziomie portfela, pobieranie próbek w czasie rzeczywistym i badania kliniczne stosowane w terapii raka pęcherza moczowego niezawierającego platyny."
     },
     {
@@ -1543,7 +1551,7 @@
       "date": "2026-07-14T03:00:35Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07698288 | Badanie kliniczne mające na celu określenie biorównoważności doustnych produktów zawierających tamsulosynę w postaci tabletek 0,4 mg o przedłużonym uwalnianiu u mężczyzn w warunkach przyjmowania pokarmu ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07698288 | Badanie kliniczne mające na celu określenie biorównoważności doustnych produktów tamsulosyny w postaci tabletek 0,4 mg o przedłużonym uwalnianiu u mężczyzn w warunkach przyjmowania pokarmu ClinicalTrials.gov."
     },
     {
       "title": "Szczepionka przeciwko fentanylowi? Przełom naukowy czy problem kliniczny? - wersja próbnanews.com",
@@ -1857,7 +1865,7 @@
       "date": "2026-07-14T15:30:32Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Wiadomo, że 194 leki wchodzą w interakcje z olejem czosnkowym. Zawiera amlodypinę, lizynopryl, metforminę."
+      "summary": "Wiadomo, że 194 leki wchodzą w interakcję z olejem czosnkowym. Zawiera amlodypinę, lizynopryl, metforminę."
     },
     {
       "title": "Narzędzie do sprawdzania interakcji Vyleesi – Drugs.com",
@@ -2198,6 +2206,14 @@
   ],
   "critical_alerts": [
     {
+      "title": "Epidemia cyklosporozy o nieznanym źródle — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
+      "date": "2026-07-14T16:48:43Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia cyklosporozy z nieznanego źródła Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
       "title": "Większość nowych przypadków wirusa Ebola pochodzi „z nieznanych łańcuchów przenoszenia” – twierdzi urzędnik WHO – STAT",
       "url": "https://www.statnews.com/2026/07/14/ebola-outbreak-congo-new-cases-unknown-chains-of-transmission/",
       "date": "2026-07-14T15:22:47Z",
@@ -2252,14 +2268,6 @@
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
-    },
-    {
-      "title": "Epidemia legionistów z Upper East Side rodzi trudne pytanie: czy przepisy dotyczące chłodni kominowych nadążają za rzeczywistością? - wersja próbnanews.com",
-      "url": "https://www.trialsitenews.com/a/upper-east-side-legionnaires-outbreak-raises-a-hard-question-are-cooling-tower-rules-keeping-pace-with-reality-75ea0e24",
-      "date": "2026-07-11T18:30:42Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Rosnąca epidemia choroby legionistów w Upper East Side na Manhattanie rodzi pytania wykraczające daleko poza jedną dzielnicę Nowego Jorku. Według doniesień Gothamist co najmniej 46 osób zachorowało, a 22 trafiły do ​​szpitala, podczas gdy władze miejskie pracują nad ustaleniem źródła epidemii. Dochodzenie zwróciło również uwagę na nadzór nad wieżami chłodniczymi, ujawniając oczywiste rozbieżności między rejestrami publicznymi, działalnością inspekcyjną i sprawozdawczością organów regulacyjnych."
     }
   ],
   "daily_top5": [
