@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-14T06:14:09Z",
+  "last_updated": "2026-07-14T06:14:58Z",
   "poland": [
+    {
+      "title": "Pilny komunikat GIF. \"Niekontrolowane zagrożenie dla zdrowia pacjentów\" - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Farmacja/Pilny-komunikat-GIF-Niekontrolowane-zagrozenie-dla-zdrowia-pacjentow,286635,6.html",
+      "date": "2026-07-14T06:12:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Główny Inspektor Farmaceutyczny podjął decyzję o zakazie wprowadzenia na teren Polski leku przeciwpsychotycznego Risperidone Teva (Risperidonum). Powodem jest niespełnienie wymagań jakościowych: wykazano przedłużoną ekspozycję na wyższe stężenia substancji czynnej, co stanowi realne i niekontrolowane zagrożenie dla zdrowia pacjentów."
+    },
     {
       "title": "L4 w innych krajach wygląda inaczej niż w Polsce. Różnice sięgają kilku tygodni - Medonet",
       "url": "https://www.medonet.pl/biznes-system-i-zdrowie/trendy-w-ochronie-zdrowia/jak-wyglada-chodzenie-na-l4-w-innych-krajach-to-rak-hiszpanskiego-rynku-pracy/83gywm2",
@@ -392,14 +400,6 @@
       "source": "Remedium.md",
       "confirmed_by": 1,
       "summary": "NRL apeluje o odrzucenie projektu ustawy o lekarzach. Samorząd wskazuje na zagrożenia dla jakości kształcenia i bezpieczeństwa pacjentów, krytykując skrócenie stażu i nowe egzaminy."
-    },
-    {
-      "title": "Tag “LVEF” - Termedia",
-      "url": "https://www.termedia.pl/tag/LVEF-37442",
-      "date": "2026-07-13T14:31:32Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "aktualności, menedżer zdrowia."
     }
   ],
   "world": [
@@ -1062,20 +1062,20 @@
       "summary": "Starzenie się organizmu powiązane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Rozporządzenie Rady Ministrów z dnia 6 lipca 2026 r. zmieniające rozporządzenie w sprawie Narodowego Programu Zdrowia na lata 2021–2026",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/923",
-      "date": "2026-07-06T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
-    },
-    {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
       "url": "https://esc365.escardio.org/event/2035",
       "date": "2026-07-06T07:00:00Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Seminarium na temat elektrofizjologii komórkowej prowadzone przez Grupę Roboczą ds. elektrofizjologii komórkowej serca, mające na celu udoskonalenie praktyki i przygotowanie do egzaminów."
+    },
+    {
+      "title": "Rozporządzenie Rady Ministrów z dnia 6 lipca 2026 r. zmieniające rozporządzenie w sprawie Narodowego Programu Zdrowia na lata 2021–2026",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/923",
+      "date": "2026-07-06T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
@@ -1293,7 +1293,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1575,7 +1575,7 @@
       "date": "2026-07-13T16:11:57Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07698223 | Kapsułka Naoxintong na nefropatię cukrzycową ze wzorem zatrzymywania wilgoci: wieloośrodkowe, randomizowane, podwójnie ślepe badanie kontrolowane placeboAcronymNXT-DKD ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07698223 | Kapsułka Naoxintong na nefropatię cukrzycową ze wzorem zatrzymywania wilgoci: wieloośrodkowe, randomizowane badanie z podwójnie ślepą próbą, kontrolowane placeboAcronymNXT-DKD ClinicalTrials.gov."
     },
     {
       "title": "Alkermes publikuje dane za dziewięć miesięcy w miarę nagrzewania się wyścigu OX2R – Arena Badań Klinicznych",
