@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T16:40:24Z",
+  "last_updated": "2026-07-14T16:41:17Z",
   "poland": [
     {
       "title": "Marcin Wrona jest w szpitalu i oczekuje na zabieg. \"Boję się, strach jest\" - Medonet",
@@ -16,6 +16,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Wyciek danych pacjentów. RPP nakazuje szpitalowi zmiany w zabezpieczeniach PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Ministerstwo Zdrowia wycofuje się z programu pomocowego dla szpitali. Zadłużenie lecznic sięga 40 mld zł - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Ministerstwo-Zdrowia-wycofuje-sie-z-programu-pomocowego-dla-szpitali-Zadluzenie-lecznic-siega-40-mld-zl,286647,1.html",
+      "date": "2026-07-14T16:29:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Ministerstwo Zdrowia zapowiadało oddłużenie szpitali, później preferencyjne kredyty. Nie zostało z tego nic: po dwóch latach prac resort wycofuje się z projektu programu pomocowego dla szpitali."
     },
     {
       "title": "Bakterie z chorych dziąseł mogą uszkadzać zastawki serca - Termedia",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Biotechnologia medyczna została już uznana przez Unię Europejską za technologię krytyczną, ale wciąż niewiele osób wie, czym zajmuje się biotechnolog i jakie możliwości daje ta branża. Sektor szuka więc nowego języka. - Młodzi nie wybiorą kierunku, którego nie potrafią sobie wyobrazić."
-    },
-    {
-      "title": "Lekarze na SOR-ach pod presją NFZ. DIL: żądania niezgodne z prawem - Medonet",
-      "url": "https://www.medonet.pl/biznes-system-i-zdrowie/trendy-w-ochronie-zdrowia/nowe-zasady-raportowania-w-sor-ach-budza-kontrowersje-lekarze-pod-presja-nfz/2s8t18x",
-      "date": "2026-07-14T11:02:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "\"DocierajÄ do nas niepokojÄ ce sygnaÅy od lekarzy zatrudnionych w Szpitalnych OddziaÅach Ratunkowych (SOR) na terenie DolnoÅlÄ skiej Izby Lekarskiej. Narodowy Fundusz Zdrowia Å¼Ä da od nich podpisywania oÅwiadczeÅ i przekazywania szczegÃ³Åowych danych na temat wypracowanych godzin pracy\" â alarmuje izba lekarzy z Dolnego ÅlÄ ska."
     }
   ],
   "world": [
@@ -441,7 +441,7 @@
       "date": "2026-07-14T14:26:00Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Sideroza powierzchowna (SS) jest rzadką, postępującą chorobą neurologiczną, której najczęstszymi objawami są postępujący odbiorczy ubytek słuchu, ataksja i mielopatia. Naszym celem jest przedstawienie rzadkiego przypadku klasycznego typu SS z wczesnymi objawami poznawczymi. U starszej kobiety stwierdzono stopniowy postępujący ubytek słuchu trwający 10 lat, pogorszenie pamięci epizodycznej, funkcji wykonawczych i zdolności wzrokowo-przestrzennych, wraz z postępującym pogorszeniem ataksji i częstymi upadkami przez 2 lata."
+      "summary": "Klasyczna powierzchowna sideroza: rzadkie zaburzenie neuropsychiatryczne BMJ Case Reports."
     },
     {
       "title": "Tarczyca: przegląd roku - Medscape",
@@ -819,7 +819,7 @@
       "date": "2026-07-14T11:00:00Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Legacy Hilo Rehab and Nursing udoskonaliło opiekę poudarową w ramach inicjatywy American Heart Association Mission: Lifeline Stroke w zakresie opieki po leczeniu ostrym."
+      "summary": "Legacy Hilo Rehab and Nursing usprawniło opiekę poudarową w ramach inicjatywy American Heart Association Mission: Lifeline Stroke w zakresie opieki po ostrym leczeniu."
     },
     {
       "title": "Lorlatynib w dalszym ciągu wykazuje długoterminowe korzyści u nowo zdiagnozowanych pacjentów z zaawansowanym NSCLC z dodatnim ALK - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -910,7 +910,7 @@
       "summary": "Centrum medyczne Ascension St. John Jane Phillips otrzymało brązową nagrodę Get With The Guidelines® przyznawaną przez American Heart Association."
     },
     {
-      "title": "Zbieranie opinii interesariuszy w ramach Programu Opieki Zdrowotnej World Trade Center: Wezwanie do publicznego komentarza – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Zbieranie opinii interesariuszy w ramach Programu Opieki Zdrowotnej World Trade Center: Wezwanie do publicznego komentowania — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/wtc/newsStakeholderExperienceFeedback_20260713.html",
       "date": "2026-07-13T17:36:27Z",
       "source": "CDC (rekomendacje)",
@@ -923,7 +923,7 @@
       "date": "2026-07-13T16:03:34Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "DALLAS, 13 lipca 2026 r. — Po nagłej śmierci amerykańskiej senator Lindsey Graham z Karoliny Południowej szeroko rozpowszechnione doniesienia prasowe wskazują, że cierpiał on na rozwarstwienie aorty. Rozwarstwienie aorty to rozdarcie wewnętrznej warstwy aorty, największej części ciała..."
+      "summary": "DALLAS, 13 lipca 2026 r. — Po nagłej śmierci amerykańskiej senator Lindsey Graham z Karoliny Południowej powszechne doniesienia prasowe wskazują, że cierpiał on na rozwarstwienie aorty. Rozwarstwienie aorty to rozdarcie wewnętrznej warstwy aorty, największej części ciała..."
     },
     {
       "title": "Project Response Inc. – Krajowa Sieć Informacji o Zapobieganiu (.gov)",
@@ -1011,7 +1011,7 @@
       "date": "2026-07-11T09:10:35Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Notatki | Dokumenty projektowe | Doustny paklitaksel z encequidarem w leczeniu zaawansowanego raka piersi [ID5111] | Strona internetowa poradnika NICE."
+      "summary": "Notatki | Dokumenty projektowe | Doustny paklitaksel z encequidarem w leczeniu zaawansowanego raka piersi [ID5111] | Poradnik NICE."
     },
     {
       "title": "Centrum medyczne Meritus zdobywa srebrne wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego: cukrzyca typu 2 – bezpłatna prasa hrabstwa Franklin",
@@ -1019,7 +1019,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
+      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
     },
     {
       "title": "Toripalimab | Interakcje - BNF",
@@ -1043,7 +1043,7 @@
       "date": "2026-07-10T06:03:27Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Niedawno zmienione wytyczne dotyczące praktyki klinicznej wirusowego zapalenia wątroby typu B wydane przez Koreańskie Stowarzyszenie Badań nad Wątrobą (KASL) umieściły koreańskie standardy leczenia przewlekłego wirusowego zapalenia wątroby typu B w punkcie zwrotnym. Do tej pory głównym kryterium była podwyższona aktywność aminotransferazy alaninowej (ALT)."
+      "summary": "Nowo zmienione wytyczne dotyczące praktyki klinicznej wirusowego zapalenia wątroby typu B wydane przez Koreańskie Stowarzyszenie Badań nad Wątrobą (KASL) umieściły koreańskie standardy leczenia przewlekłego wirusowego zapalenia wątroby typu B w punkcie zwrotnym. Do tej pory głównym kryterium była podwyższona aktywność aminotransferazy alaninowej (ALT)."
     },
     {
       "title": "Odcinek 13: Sztuczna inteligencja i rozwiązania cyfrowe w medycynie ratunkowej – Postępowanie w niewydolności serca w amyloidozie sercowej – ESC 365",
@@ -1075,7 +1075,7 @@
       "date": "2026-07-08T23:53:56Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Shrinidhi Nathany, konsultantka hematologii molekularnej i onkologii w Fortis Memorial Research Institute w Indiach, udostępniła post na LinkedIn:."
+      "summary": "Shrinidhi Nathany, konsultantka w dziedzinie hematologii molekularnej i onkologii w Fortis Memorial Research Institute w Indiach, udostępniła post na LinkedIn:"
     },
     {
       "title": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśniowo raka pęcherza moczowego wysokiego ryzyka - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1083,7 +1083,7 @@
       "date": "2026-07-08T13:36:15Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "FDA zatwierdza durwalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "FDA zatwierdza Durvalumab w skojarzeniu z BCG w leczeniu nienaciekającego mięśnia raka pęcherza moczowego wysokiego ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
@@ -1136,7 +1136,7 @@
       "summary": "Światowa Organizacja Zdrowia (WHO) uruchomiła regionalny program badań nad zdrowiem, migracją i przesiedleniami w regionie zachodniego Pacyfiku WHO, ze szczególnym uwzględnieniem zmian klimatycznych."
     },
     {
-      "title": "Zasięg szczepień przeciwko Covid-19 w UE/EOG w kampaniach w sezonie 2025–26 – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Zasięg szczepień przeciwko Covid-19 w UE/EOG w kampaniach sezonu 2025–26 – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/covid-19-vaccination-coverage-eueea-during-2025-26-season-campaigns",
       "date": "2026-07-14T09:08:44Z",
       "source": "ECDC",
@@ -1197,7 +1197,7 @@
       "date": "2026-07-13T18:49:55Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "To drugie seminarium internetowe z serii seminariów internetowych „Zdrowie w wieku średnim, wpływ na całe życie: seria seminariów internetowych dotyczących menopauzy” odpowie na Twoje pytania dotyczące wpływu menopauzy na funkcje poznawcze i zdrowie psychiczne, w tym pytania dotyczące mgły mózgowej, zmian nastroju i zdrowia mózgu w latach pomenopauzalnych."
+      "summary": "To drugie seminarium internetowe z serii seminariów internetowych „Zdrowie w wieku średnim, wpływ na całe życie: seria seminariów internetowych poświęconych menopauzie” odpowie na Twoje pytania dotyczące wpływu menopauzy na funkcje poznawcze i zdrowie psychiczne, w tym pytania dotyczące mgły mózgowej, zmian nastroju i zdrowia mózgu w latach pomenopauzalnych."
     },
     {
       "title": "Przemówienie otwierające Dyrektora Generalnego WHO na Regional Health Invest Forum – 13 lipca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
@@ -1469,7 +1469,7 @@
       "date": "2026-07-10T21:04:49Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "W miarę ciągłego wzrostu liczby przypadków i zgonów wirusa Ebola w Demokratycznej Republice Konga (DRK) wysoki rangą urzędnik Światowej Organizacji Zdrowia (WHO) ostrzega, że ​​epidemia może być znacznie większa, niż wskazuje liczba przypadków."
+      "summary": "W miarę wzrostu liczby przypadków i zgonów wirusa Ebola w Demokratycznej Republice Konga (DRK) wysoki rangą urzędnik Światowej Organizacji Zdrowia (WHO) ostrzega, że ​​epidemia może być znacznie większa, niż wskazuje liczba przypadków."
     },
     {
       "title": "Z raportu wynika, że ​​w schronisku ewakuacyjnym Eaton w pobliżu Los Angeles doszło do wybuchu epidemii norowirusa, Covid-19 i grypy - CIDRAP",
@@ -1543,7 +1543,7 @@
       "date": "2026-07-14T03:00:35Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07698288 | Badanie kliniczne mające na celu określenie biorównoważności doustnych produktów zawierających tamsulosynę w postaci tabletek 0,4 mg o przedłużonym uwalnianiu u mężczyzn w warunkach przyjmowania pokarmu ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07698288 | Badanie kliniczne mające na celu określenie biorównoważności doustnych produktów tamsulosyny w postaci tabletek 0,4 mg o przedłużonym uwalnianiu u mężczyzn w warunkach przyjmowania pokarmu ClinicalTrials.gov."
     },
     {
       "title": "Szczepionka przeciwko fentanylowi? Przełom naukowy czy problem kliniczny? - wersja próbnanews.com",
@@ -1578,7 +1578,7 @@
       "summary": "Szczegóły badania | NCT07697638 | System do laserowej aterektomii wieńcowej w leczeniu zwężenia tętnic wieńcowych (SHINE) ClinicalTrials.gov."
     },
     {
-      "title": "ED95 leku Ciprofol do zakładania maski krtaniowej z fentanylem u dzieci: tendencyjna próba ustalenia dawki monety - ClinicalTrials.gov",
+      "title": "ED95 leku Ciprofol do zakładania maski krtaniowej z fentanylem u dzieci: próba ustalenia dawki na podstawie monety - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07697404",
       "date": "2026-07-13T22:14:49Z",
       "source": "ClinicalTrials.gov",
@@ -1623,7 +1623,7 @@
       "date": "2026-07-13T16:24:29Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Międzynarodowe randomizowane, kontrolowane badanie III fazy (TRANSCEND-T2D-1) opublikowane w czasopiśmie The Lancet donosi, że retatrutyd, badany przez firmę Eli Lilly agonista receptorów trójhormonowych, działający na receptory GIP, GLP-1 i glukagonu, znacząco poprawiał zarówno kontrolę glikemii, jak i masę ciała u dorosłych z wczesną cukrzycą typu 2 niedostatecznie kontrolowaną samą dietą i ćwiczeniami fizycznymi. W podwójnie ślepym badaniu, prowadzonym przez dr Harpreeta Bajaja i współpracowników w 48 ośrodkach badań klinicznych w Stanach Zjednoczonych, Meksyku i Indiach, randomizowano 537 uczestników i wykazano redukcję HbA1c sięgającą 1,9 punktu procentowego i utratę masy ciała aż do 15,3% po 40 tygodniach, co znacznie przewyższa skuteczność placebo."
+      "summary": "Międzynarodowe randomizowane, kontrolowane badanie III fazy (TRANSCEND-T2D-1) opublikowane w czasopiśmie The Lancet donosi, że retatrutyd, badany przez firmę Eli Lilly agonista receptorów trójhormonowych, działający na receptory GIP, GLP-1 i glukagonu, znacząco poprawiał zarówno kontrolę glikemii, jak i masę ciała u dorosłych z wczesną cukrzycą typu 2 niedostatecznie kontrolowaną samą dietą i ćwiczeniami fizycznymi. W podwójnie ślepym badaniu, prowadzonym pod kierunkiem dr Harpreeta Bajaja i współpracowników w 48 ośrodkach badań klinicznych w Stanach Zjednoczonych, Meksyku i Indiach, randomizowano 537 uczestników i wykazano redukcję HbA1c sięgającą 1,9 punktu procentowego i utratę masy ciała aż do 15,3% po 40 tygodniach, co znacznie przewyższa skuteczność placebo."
     },
     {
       "title": "Szczegóły badania | NCT07698223 | Kapsułka Naoxintong na nefropatię cukrzycową ze wzorem zatrzymywania wilgoci: wieloośrodkowe, randomizowane badanie z podwójnie ślepą próbą, kontrolowane placeboAcronymNXT-DKD - ClinicalTrials.gov",
@@ -1631,7 +1631,7 @@
       "date": "2026-07-13T16:11:57Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07698223 | Kapsułka Naoxintong na nefropatię cukrzycową ze wzorem zatrzymywania wilgoci: wieloośrodkowe, randomizowane badanie z podwójnie ślepą próbą, kontrolowane placeboAcronymNXT-DKD ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07698223 | Kapsułka Naoxintong na nefropatię cukrzycową ze wzorem zatrzymywania wilgoci: wieloośrodkowe, randomizowane, podwójnie ślepe badanie kontrolowane placeboAcronymNXT-DKD ClinicalTrials.gov."
     },
     {
       "title": "Alkermes publikuje dane za dziewięć miesięcy w miarę nagrzewania się wyścigu OX2R – Clinical Trials Arena",
@@ -1652,13 +1652,13 @@
     {
       "title": "Czego wymaga rekrutacja na poziomie programu od sponsorów pod względem operacyjnym – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/program-level-recruitment-requires-sponsors-operationally",
-      "date": "2026-07-13T11:57:41Z",
+      "date": "2026-07-13T11:48:45Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "Czego wymaga rekrutacja na poziomie programu od sponsorów w zakresie operacyjnych badań klinicznych online."
     },
     {
-      "title": "Produkcja leków typu „hub-and-szprychy” odniesie korzyści z nowych przepisów FDA – Clinical Trials Arena",
+      "title": "Produkcja leków metodą „hub-and-szprychy” odniesie korzyści z nowych przepisów FDA – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/hub-and-spoke-drug-manufacturing-set-to-benefit-from-new-fda-rule/",
       "date": "2026-07-13T11:21:18Z",
       "source": "Clinical Trials Arena",
@@ -1666,7 +1666,7 @@
       "summary": "Produkcja leków typu „hub-and-szprychy” odniesie korzyści z nowych przepisów FDA Clinical Trials Arena."
     },
     {
-      "title": "Informacje o ACT: Przerwa w przejrzystości list CRL FDA, zmiana modelu rekrutacji skoncentrowana na protokole i integracja spraw medycznych w rozwoju – stosowane badania kliniczne online",
+      "title": "ACT Brief: Przerwa w przejrzystości list CRL FDA, zmiana modelu rekrutacji skoncentrowana na protokołach i integracja spraw medycznych w rozwoju – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/fda-crl-transparency-protocol-centric-recruitment-medical-affairs-integration-development",
       "date": "2026-07-13T10:47:13Z",
       "source": "Applied Clinical Trials",
@@ -1687,7 +1687,7 @@
       "date": "2026-07-13T09:57:37Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Partner GSK, firma Hansoh Pharma, odnosi sukcesy w chińskim badaniu III fazy SCLC ADC Clinical Trials Arena."
+      "summary": "Partner GSK, firma Hansoh Pharma, odnosi sukcesy w chińskiej fazie III badania SCLC ADC Clinical Trials Arena."
     },
     {
       "title": "Firma Novo Nordisk ogłasza wyniki badania III fazy FRONTIER4 dotyczącego denecimigu – Clinical Trials Arena",
@@ -1770,7 +1770,7 @@
       "summary": "Inhibitory immunologicznych punktów kontrolnych (ICI) zmieniły współczesną onkologię, radykalnie poprawiając przeżycie pacjentów z czerniakiem, rakiem płuc, rakiem nerki i wieloma innymi nowotworami. Jednak terapie te mogą powodować rzadkie, ale potencjalnie zagrażające życiu zdarzenia niepożądane o podłożu immunologicznym, w tym zapalenie mięśnia sercowego związane z inhibitorem punktu kontrolnego (ICI myocarditis), czyli uszkodzenie zapalne mięśnia sercowego. Centrum Onkologii Anschutz Uniwersytetu Kolorado pod kierownictwem dr."
     },
     {
-      "title": "Nebraska staje się domem dla trzeciej fazy testów nowego leku angażującego komórki T w leczeniu zaawansowanego raka prostaty",
+      "title": "Nebraska staje się domem dla fazy 3 próbnych testów nowego leku angażującego komórki T w leczeniu zaawansowanego raka prostaty",
       "url": "https://www.trialsitenews.com/a/nebraska-becomes-home-to-phase-3-trial-testing-novel-t-cell-engager-for-advanced-prostate-cancer-4b71f66c",
       "date": "2026-07-11T21:03:27Z",
       "source": "TrialSite News",
@@ -1809,7 +1809,7 @@
       "date": "2026-07-14T16:27:53Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Orzeczenie sądu na Kajmanach dodaje nową plamę do toczącego się sporu prawnego, który już doprowadził do ogłoszenia upadłości i złożenia oferty przez komplementariusza Setha Harrisona na spółki portfelowe firmy."
+      "summary": "Orzeczenie sądu na Kajmanach dodaje nowy akcent do toczącego się sporu prawnego, który już doprowadził do ogłoszenia upadłości i złożenia oferty przez komplementariusza Setha Harrisona na spółki portfelowe firmy."
     },
     {
       "title": "Draig gromadzi kolejne 65 milionów dolarów na przyspieszenie testów leków na mózg – BioPharma Dive",
@@ -1825,7 +1825,7 @@
       "date": "2026-07-14T16:03:34Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Mająca wejść na giełdę w drodze odwrotnej fuzji, Avere uzyskała od płodnego chińskiego producenta leków licencję na potencjalne zagrożenie dla leków takich jak Skyrizi i Icotyde."
+      "summary": "Mająca wejść na giełdę w drodze odwrotnej fuzji, Avere uzyskała od wpływowego chińskiego producenta narkotyków licencję na potencjalne zagrożenie dla leków takich jak Skyrizi i Icotyde."
     },
     {
       "title": "Widok agencji od wewnątrz: Havas SO o autentyczności, połączeniu i odpieraniu „morza identyczności” – Fierce Pharma",
@@ -1961,7 +1961,7 @@
       "date": "2026-07-14T13:17:45Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Badanie dostarcza najjaśniejszych jak dotąd dowodów na to, że leki takie jak BIIB080 mogą poprawiać funkcje poznawcze, pozostaje jednak niejasne, dlaczego wyższe dawki nie były skuteczniejsze."
+      "summary": "Badanie dostarcza najjaśniejszych jak dotąd dowodów na to, że leki takie jak BIIB080 mogą poprawiać funkcje poznawcze, pozostaje jednak niejasne, dlaczego wyższe dawki nie działały lepiej."
     },
     {
       "title": "W dalszym ciągu pozostają pytania dotyczące leku tau firmy Biogen na chorobę Alzheimera, ponieważ niska dawka zapewnia lepsze wyniki - Wiadomości z punktów końcowych",
@@ -2009,7 +2009,7 @@
       "date": "2026-07-14T12:19:06Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Lek Leqembi Iqlik można teraz podawać w domu przez cały okres leczenia, co odróżnia go od leku Kisunla firmy Eli Lilly, jedynego innego na rynku leku przeciwamyloidowego w chorobie Alzheimera."
+      "summary": "Lek Leqembi Iqlik można teraz podawać w domu przez cały okres leczenia, co odróżnia go od preparatu Kisunla firmy Eli Lilly, jedynego innego na rynku leku przeciwamyloidowego w chorobie Alzheimera."
     },
     {
       "title": "Narzędzie do sprawdzania interakcji Aller-Tec – Drugs.com",
@@ -2041,7 +2041,7 @@
       "date": "2026-07-14T11:00:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Lyora Therapeutics rozpoczyna działalność z finansowaniem przed zalążkiem w wysokości 2,5 mln dolarów, aby ożywić wstrzymane programy terapii genowej oka firm Editas i Biogen, których celem jest pierwszy IND w ciągu 18 miesięcy."
+      "summary": "Lyora Therapeutics rozpoczyna działalność z dofinansowaniem w wysokości 2,5 mln dolarów przed zalążkiem, aby ożywić wstrzymane programy terapii genowej oczu firm Editas i Biogen, których celem jest pierwszy IND w ciągu 18 miesięcy."
     },
     {
       "title": "Interakcje miejscowe salicylan metylu - Drugs.com",
