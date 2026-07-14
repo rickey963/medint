@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-14T09:21:04Z",
+  "last_updated": "2026-07-14T09:21:53Z",
   "poland": [
+    {
+      "title": "Gen. broni prof. Grzegorz Gielerak: „I nie wódź nas na pokuszenie”. Lekarzom wystawiamy rachunek za błędy systemu [FELIETON EKSPERCKI] - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/gen-broni-prof-grzegorz-n2407159",
+      "date": "2026-07-14T09:17:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Gen. broni prof. Grzegorz Gielerak: „I nie wódź nas na pokuszenie”."
+    },
     {
       "title": "Premier o pakiecie zmian MZ - Z kraju - Kurier - Medycyna Praktyczna",
       "url": "https://www.mp.pl/kurier/443740,premier-o-pakiecie-zmian-mz",
@@ -392,14 +400,6 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Äwiczenia na obniÅ¼enie ciÅnienia krwi mogÄ byÄ rÃ³wnie skuteczne jak farmakoterapia â i to bez wychodzenia z domu. Wystarczy kilka minut dziennie, by zauwaÅ¼yÄ realne efekty. Badania potwierdzajÄ , Å¼e regularne wykonywanie dwÃ³ch prostych ÄwiczeÅ moÅ¼e znaczÄ co poprawiÄ wyniki ciÅnienia tÄtniczego."
-    },
-    {
-      "title": "Uzależnienia, psychika i mózg. Co warto wiedzieć o współwystępowaniu chorób? - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/uzaleznienie-to-nie-n2406685",
-      "date": "2026-07-13T17:30:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Uzależnienia, psychika i mózg. Co warto wiedzieć o współwystępowaniu chorób? PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -452,14 +452,6 @@
       "summary": "Stany Zjednoczone mogą uratować życie przed nadmiernym spożyciem alkoholu bez podejmowania drastycznych środków. Oto 12 kroków, które mogą Ci pomóc."
     },
     {
-      "title": "Wygląda jak Twój lekarz i mówi jak Twój lekarz. Ale to nie jest twój lekarz – STAT",
-      "url": "https://www.statnews.com/2026/07/14/deepfakes-ai-generated-medicine-misinformation-regulation-video/",
-      "date": "2026-07-14T08:33:07Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Deepfakes podważają wiarygodność, która umożliwia opiekę cyfrową – od wizyt telezdrowia po portale pacjentów."
-    },
-    {
       "title": "10 wykresów wyjaśniających ukrytą epidemię alkoholową w Ameryce – STAT",
       "url": "https://www.statnews.com/2026/07/14/alcohol-impact-health-data-deep-dive-deadliest-drug-series/",
       "date": "2026-07-14T08:32:54Z",
@@ -474,6 +466,14 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Wyniki niedawnego konkursu dotyczącego sztucznej inteligencji pokazują, że lepsze dane przewyższają większe modele, jeśli chodzi o przewidywanie właściwości kandydatów na leki."
+    },
+    {
+      "title": "Wygląda jak Twój lekarz i mówi jak Twój lekarz. Ale to nie jest twój lekarz – STAT",
+      "url": "https://www.statnews.com/2026/07/14/deepfakes-ai-generated-medicine-misinformation-regulation-video/",
+      "date": "2026-07-14T08:32:54Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Deepfakes podważają wiarygodność, która umożliwia opiekę cyfrową – od wizyt telezdrowia po portale pacjentów."
     },
     {
       "title": "Dietetyk zaawansowanej praktyki - Cukrzyca dziecięca - BMJ",
@@ -1285,7 +1285,7 @@
       "date": "2026-07-13T02:13:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1309,7 +1309,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
