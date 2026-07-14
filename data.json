@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T22:53:10Z",
+  "last_updated": "2026-07-14T22:54:01Z",
   "poland": [
     {
       "title": "Projekt zarządzenia - opieka psychiatryczna i leczenie uzależnień - Narodowy Fundusz Zdrowia (NFZ)",
@@ -808,7 +808,7 @@
     {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-07-14T19:48:55Z",
+      "date": "2026-07-14T22:52:36Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 5,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
@@ -1019,7 +1019,7 @@
       "date": "2026-07-13T04:24:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "ST. LOUIS — Amerykańskie Stowarzyszenie Optometryczne (AOA) ogłosiło, że rozpoczęło 30-dniowy okres wzajemnej i publicznej oceny drugiego wydania opartych na dowodach wytycznych dotyczących praktyki klinicznej „Kompleksowe badanie wzroku i wzroku u dzieci”. Komentarze będą przyjmowane do 5 sierpnia 2026 r."
+      "summary": "ST. LOUIS — Amerykańskie Towarzystwo Optometryczne (AOA) ogłosiło, że rozpoczęło 30-dniowy okres wzajemnej i publicznej oceny drugiego wydania opartych na dowodach wytycznych dotyczących praktyki klinicznej „Kompleksowe badanie wzroku i wzroku u dzieci”. Komentarze będą akceptowane do 5 sierpnia 2026 r."
     },
     {
       "title": "Generał Genewy, żołnierze i marynarze wyróżnieni za wybitne osiągnięcia przez American Heart Association – Finger Lakes Daily News",
@@ -1078,14 +1078,6 @@
       "summary": "Mezigdomid-karfilzomib-deksametazon wydłuża PFS w porównaniu z karfilzomibem-deksametazonem przy pierwszym nawrocie u pacjentów z nawrotowym lub opornym na leczenie szpiczakiem mnogim Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "10 najważniejszych artykułów podstawowych w otolaryngologii opartych na dowodach — Conexiant",
-      "url": "https://conexiant.com/otolaryngology/articles/top-10-evidencebased-essentials-in-otolaryngology/",
-      "date": "2026-07-09T11:43:17Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Ustrukturyzowany zbiór wytycznych opartych na dowodach i przełomowych badań klinicznych stosowanych w praktyce klinicznej."
-    },
-    {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
       "url": "https://esc365.escardio.org/event/2035",
       "date": "2026-07-06T07:00:00Z",
@@ -1104,20 +1096,20 @@
   ],
   "epidemiology": [
     {
+      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-07-14T22:52:36Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
       "title": "Docelowy profil produktu WHO dla szczepionek przeciwko wirusowi Bundibugyo, 14 lipca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/B09835",
       "date": "2026-07-14T20:37:30Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "W publikacji przedstawiono zamierzone zastosowanie szczepionek przeciwko wirusowi Bundibugyo w zdrowiu publicznym w reagowaniu na epidemię i przygotowaniu się na nią, w tym ich rolę w ochronie grup ryzyka i przyczynianiu się do kontroli epidemii. Opisuje pożądane cechy szczepionki w kluczowych obszarach, w tym wskazania, populacje docelowe, skuteczność, bezpieczeństwo, schemat dawkowania, drogę podawania, przechowywanie i stabilność, względy produkcyjne oraz programową przydatność do wdrożenia w warunkach o ograniczonych zasobach. W dokumencie wyjaśniono również, w jaki sposób TPP ma wspierać zalecenia polityczne Światowej Organizacji Zdrowia, wykaz zastosowań awaryjnych, kwalifikację wstępną i proces podejmowania decyzji regulacyjnych, uznając jednocześnie, że ogólne rozważenie korzyści i ryzyka może przewyższać indywidualne cechy produktu."
-    },
-    {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-07-14T19:48:55Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Co naprawdę wiemy o ogromnej epidemii cyklospory w USA – a czego nie – CIDRAP",
@@ -2294,20 +2286,20 @@
   ],
   "critical_alerts": [
     {
+      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-07-14T22:52:36Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 5,
+      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
       "title": "Większość nowych przypadków wirusa Ebola we wschodnim Kongo pochodzi z nieznanych sieci, ponieważ epidemia przewyższa reakcję – STAT",
       "url": "https://www.statnews.com/2026/07/14/ebola-outbreak-congo-new-cases-unknown-chains-of-transmission/",
       "date": "2026-07-14T20:35:13Z",
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Epidemia wirusa Ebola we wschodnim Kongo „nadal przekracza wysiłki reagowania” – powiedział we wtorek szef WHO ds. sytuacji kryzysowych po powrocie z podróży do jednego z najbardziej dotkniętych obszarów."
-    },
-    {
-      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-07-14T19:48:55Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
-      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Epidemia cyklosporozy o nieznanym źródle — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2360,6 +2352,14 @@
   ],
   "daily_top5": [
     {
+      "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-07-14T22:52:36Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 5,
+      "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
       "title": "Docelowy profil produktu WHO dla szczepionek przeciwko wirusowi Bundibugyo, 14 lipca 2026 r. – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/B09835",
       "date": "2026-07-14T20:37:30Z",
@@ -2374,14 +2374,6 @@
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 6,
       "summary": "Petycja w przedmiocie wprowadzenia rozwiązań w zakresie zakupu przez NFZ sprzętu medycznego np. rezonansu otwartego oraz zastosowania mechanizmów spłaty kosztów tego sprzętu poprzez potrącenia..."
-    },
-    {
-      "title": "Alison Holmes: utrzymywanie globalnej uwagi na temat oporności na środki przeciwdrobnoustrojowe – The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01384-X/fulltext?rss=yes",
-      "date": "2026-07-14T19:56:49Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Alison Holmes: utrzymywanie globalnej uwagi na temat AMR The Lancet."
     },
     {
       "title": "Wytyczne dotyczące profilaktyki poekspozycyjnej doksycykliny w przypadku zakażeń przenoszonych drogą płciową wśród mężczyzn uprawiających seks z mężczyznami i kobietami transpłciowymi – Światowa Organizacja Zdrowia (WHO)",
