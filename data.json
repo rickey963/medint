@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T03:32:37Z",
+  "last_updated": "2026-07-14T03:33:20Z",
   "poland": [
     {
       "title": "AI zamiast papierologii. NHS inwestuje 10 mld funtów w cyfrową transformację - Alert Medyczny",
@@ -818,7 +818,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-14T01:42:52Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 4,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -990,6 +990,14 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
+      "title": "Nadzór nad cyklosporozą — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
+      "date": "2026-07-10T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Nadzór nad centrami kontroli i zapobiegania cyklosporozy | CDC (.gov)."
+    },
+    {
       "title": "[Wywiad] Nowe wytyczne KASL dotyczące wirusowego zapalenia wątroby typu B skupiają się na DNA wirusa HBV, ale występują opóźnienia w refundacji - koreabiomed.com",
       "url": "https://www.koreabiomed.com/news/articleView.html?idxno=32390",
       "date": "2026-07-10T06:03:27Z",
@@ -1030,14 +1038,6 @@
       "summary": "Shrinidhi Nathany, konsultantka w dziedzinie hematologii molekularnej i onkologii w Fortis Memorial Research Institute w Indiach, udostępniła post na LinkedIn:"
     },
     {
-      "title": "Shoppers Drug Mart i Obesity Canada ogłaszają nową współpracę mającą na celu zwiększenie dostępu Kanadyjczyków do opieki nad otyłością – BNN Bloomberg",
-      "url": "https://www.bnnbloomberg.ca/press-releases/2026/07/08/shoppers-drug-mart-and-obesity-canada-announce-new-collaboration-to-help-expand-access-to-obesity-care-for-canadians/",
-      "date": "2026-07-08T17:44:24Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Firmy Shoppers Drug Mart i Obesity Canada ogłosiły dziś nową współpracę mającą na celu zwiększanie świadomości na temat otyłości jako choroby przewlekłej, zmniejszanie uprzedzeń i piętna związanego z wagą oraz pomaganie większej liczbie Kanadyjczyków w dostępie do opieki i zasobów opartych na dowodach poprzez inicjatywy takie jak program zarządzania wagą Shoppers Drug Mart."
-    },
-    {
       "title": "Wyłączanie leku u pacjentów z chorobami układu krążenia doświadczających polipragmazji - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/deprescribing-in-patients-with-cardiovascular-disease-experiencing-polypharmacy",
       "date": "2026-07-08T16:38:18Z",
@@ -1068,6 +1068,14 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Starzenie się organizmu powiązane z większym ryzykiem wystąpienia nowotworów litych o wczesnym początku Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "Przebudowa i dysfunkcja serca u chorych na nowotwory poddawanych terapiom kardiotoksycznym – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/news-room/cardiac-remodelling/",
+      "date": "2026-07-06T08:56:57Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Profilowanie proteomiczne i metabolomiczne po zastosowaniu leków kardiotoksycznych wydaje się interesujące i przydatne klinicznie. W swoim badaniu (n= 547 uczestniczek raka piersi leczonych lekami kardiotoksycznymi) Bonnie Ky i wsp. wykazali, że 203 unikalne białka i 16 unikalnych metabolitów były istotnie powiązane z pomiarami struktury i funkcji serca we współczesnych i opóźnionych analizach."
     },
     {
       "title": "Rozporządzenie Rady Ministrów z dnia 6 lipca 2026 r. zmieniające rozporządzenie w sprawie Narodowego Programu Zdrowia na lata 2021–2026",
@@ -1229,7 +1237,7 @@
       "date": "2026-07-13T08:26:54Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Plan reagowania mający na celu kontrolę i zarządzanie zagrożeniem rzeżączką wielolekooporną w Europie – Monitorowanie wskaźników 2023 Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)."
+      "summary": "W niniejszym sprawozdaniu dokonano przeglądu postępów poczynionych w latach 2019–2023 i monitorowano skuteczność planu reagowania na 2019 r."
     },
     {
       "title": "Szacunki WHO i UNICEF dotyczące krajowego zasięgu szczepień (WUENIC) Seminarium internetowe z wynikami 2025 r. – Światowa Organizacja Zdrowia (WHO)",
@@ -1349,7 +1357,7 @@
       "date": "2026-07-12T08:36:27Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Kiedy jest właściwy moment na zastosowanie doxy-PEP? Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)."
+      "summary": "Kiedy jest właściwy moment na zastosowanie doxy-PEP?"
     },
     {
       "title": "Zacznij bezpiecznie: uzyskaj poradę eksperta - Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1421,7 +1429,7 @@
       "date": "2026-07-10T20:39:05Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Jak wynika z raportu CIDRAP, w schronisku ewakuacyjnym Eaton w pobliżu Los Angeles doszło do wybuchu epidemii norowirusa, Covid-19 i grypy."
+      "summary": "Podsycany wiatrem wiejącym z prędkością 90 mil na godzinę pożar w Eaton w hrabstwie Los Angeles rozpoczął się 7 stycznia 2025 r., a strażacy gasili go dopiero 31 stycznia. W wyniku pożaru zginęło 19 osób, a około 100 000 zmusiło się do ewakuacji – wynika z badania opublikowanego we wczorajszym raporcie Morbidity and Mortality Weekly Report."
     },
     {
       "title": "Jak zapobiegać inwazji ślimaków Nowego Świata u kotów i psów - CIDRAP",
@@ -1429,7 +1437,7 @@
       "date": "2026-07-10T20:09:41Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Jak zapobiegać inwazji ślimaków Nowego Świata u kotów i psów CIDRAP."
+      "summary": "Chociaż ślimak Nowego Świata (NWS) zagraża głównie zwierzętom hodowlanym, pasożytnicze muchy mogą również atakować i zabijać zwierzęta domowe."
     },
     {
       "title": "Liczba 61 nowych przypadków oznacza, że ​​epidemia odry w USA szybko zbliża się do całkowitej liczby przypadków odry w zeszłym roku – CIDRAP",
@@ -2041,7 +2049,7 @@
       "date": "2026-07-13T16:00:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Finansowanie technologii medycznych wzrośnie do 7,4 miliarda dolarów w pierwszej połowie 2026 r. Endpoints News."
+      "summary": "Według firmy badawczej Rock Health start-upy w dziedzinie zdrowia cyfrowego pozyskały w pierwszej połowie 2026 r. 7,4 miliarda dolarów w formie finansowania typu venture, co oznacza wzrost o 1 miliard dolarów w porównaniu z pierwszą połową 2025 roku."
     },
     {
       "title": "Kraje Azji Południowo-Wschodniej rozważają wspólny unijny model oceny klinicznej – insights.citeline.com",
@@ -2218,7 +2226,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-14T01:42:52Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 4,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
