@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T11:15:38Z",
+  "last_updated": "2026-07-14T11:16:22Z",
   "poland": [
     {
       "title": "10 tys. związków chemicznych. Przysmak Polaków nie taki zdrowy - Rynek Zdrowia",
@@ -87,7 +87,7 @@
       "date": "2026-07-14T10:41:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Liczba łóżek szpitalnych w UE spada. W 2024 roku wyniosła 507 na 100 tys. mieszkańców Alert Medyczny."
+      "summary": "W 2024 roku w UE przypadało średnio 507 łóżek szpitalnych na 100 tys. mieszkańców. Dane Eurostatu pokazują długoterminowy trend zmian."
     },
     {
       "title": "Wakacyjny napój przyczyną hospitalizacji. Winny jeden składnik - Rynek Zdrowia",
@@ -119,7 +119,7 @@
       "date": "2026-07-14T09:59:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Szpital w Nowym Jorku zwolnił 12 pielęgniarek. Ich obowiązki przejęła AI Alert Medyczny."
+      "summary": "Szpital w Nowym Jorku zwolnił 12 pielęgniarek. Według związku NYSNA ich obowiązki przejęła AI, co wywołało spór o bezpieczeństwo pacjentów."
     },
     {
       "title": "Radni KO z przywilejami w publicznej przychodni? Dwie osoby potwierdzają - Termedia",
@@ -167,7 +167,7 @@
       "date": "2026-07-14T09:02:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Donald Tusk: w przyszłym tygodniu rząd przyjmie pierwsze projekty reformy zdrowia Alert Medyczny."
+      "summary": "Donald Tusk zapowiedział, że w przyszłym tygodniu rząd zajmie się pierwszymi projektami reformy ochrony zdrowia przygotowanymi przez MZ."
     },
     {
       "title": "Wrocławscy naukowcy zmienili standardy leczenia dzieci. Badania nad PIMS-TS - PolitykaZdrowotna.com",
@@ -199,7 +199,7 @@
       "date": "2026-07-14T08:08:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Mniej aptek, mniej farmaceutów i techników. Tak wyglądał rynek apteczny w Polsce w 2025 roku Alert Medyczny."
+      "summary": "Na koniec 2025 r. w Polsce działało 11 tys. aptek ogólnodostępnych oraz 1,1 tys."
     },
     {
       "title": "Donald Tusk: Pierwsze regulacje w sprawie zmian w ochronie zdrowia na kolejnym posiedzeniu rządu - Termedia",
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "Badania przesiewowe ujawniają wysoki odsetek EoE w astmie dziecięcej – Medscape",
+      "url": "https://www.medscape.com/viewarticle/screening-reveals-high-prevalence-eosinophilic-esophagitis-2026a1000nrt?src=rss",
+      "date": "2026-07-14T11:15:19Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Badania przesiewowe na podstawie objawów przeprowadzane w klinikach astmy dziecięcej i alergologii pozwalają zidentyfikować wcześniej nierozpoznaną wysoką częstość występowania eozynofilowego zapalenia przełyku."
+    },
     {
       "title": "Byli elitarni piłkarze wykazują zmienione zdrowie mózgu w wieku średnim – Medscape",
       "url": "https://www.medscape.com/viewarticle/former-elite-soccer-players-show-altered-brain-health-2026a1000nr2",
@@ -641,7 +649,7 @@
       "date": "2026-07-14T08:24:19Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Kontekst Rak szyjki macicy jest jednym z nowotworów, którym najłatwiej zapobiegać. Liczba badań przesiewowych może być mniejsza wśród kobiet dotkniętych przemocą i wykorzystywaniem seksualnym (SV&A), chociaż dowody są nadal mieszane. Te kobiety borykają się z wyjątkowymi barierami w dostępie do opieki zdrowotnej w zakresie intymności, co odzwierciedla głęboko zakorzenione nierówności."
+      "summary": "Kontekst Rak szyjki macicy jest jednym z nowotworów, którym najłatwiej zapobiegać. Liczba badań przesiewowych może być niższa wśród kobiet dotkniętych przemocą i molestowaniem seksualnym (SV&A), chociaż dowody są nadal mieszane. Te kobiety borykają się z wyjątkowymi barierami w dostępie do opieki zdrowotnej w zakresie intymności, co odzwierciedla głęboko zakorzenione nierówności."
     },
     {
       "title": "Badania przesiewowe szyjki macicy dla kobiet dotkniętych przemocą i wykorzystywaniem seksualnym: przegląd systematyczny - BMJ Sexual & Reproductive Health",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "NHS — Najlepsza praktyka BMJ Najlepsza praktyka BMJ."
-    },
-    {
-      "title": "Hiperprolaktynemia maskowana efektem haczyka u chorej na prolaktynoma olbrzymiego współwydzielającego hormon wzrostu - opisy przypadków BMJ",
-      "url": "https://casereports.bmj.com/content/19/7/e272948",
-      "date": "2026-07-13T21:33:05Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Przedstawiamy przypadek kobiety po 50. roku życia z olbrzymim współwydzielniczym makrogruczolakiem przysadki wytwarzającym zarówno prolaktynę, jak i hormon wzrostu. Od 20. roku życia cierpiała na bóle głowy, wytrzeszcz, chemozę i wtórny brak miesiączki. Badanie wykazało hiperprolaktynemię (251 µg/l; norma ≤23 µg/l)."
     }
   ],
   "guidelines": [
@@ -1128,6 +1128,14 @@
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
+      "title": "WHO publikuje zaktualizowane wytyczne dotyczące dawkowania leków przeciwretrowirusowych stosowanych u noworodków, niemowląt i dzieci - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/14-07-2026-who-issues-updated-dosing-guidance-for-antiretroviral-medicines-used-in-newborns--infants-and-children",
+      "date": "2026-07-14T10:33:11Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "WHO opublikowała nowe wytyczne określające zaktualizowane zalecenia dotyczące dawkowania leków przeciwretrowirusowych u noworodków, niemowląt i dzieci w celu wzmocnienia profilaktyki HIV i leczenia najmłodszych pacjentów. Zalecenia opierają się na najnowszych dowodach farmakokinetycznych, badaniach klinicznych i konsensusie ekspertów."
+    },
+    {
       "title": "Ciepło i zdrowie - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
       "date": "2026-07-14T10:29:20Z",
@@ -1309,7 +1317,7 @@
       "date": "2026-07-13T02:13:39Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Wskaźniki stanu obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1341,7 +1349,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1502,14 +1510,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Proponowana zasada dodałaby szczepionki i środki lecznicze przeciwko Covid-19 do programu odszkodowań za obrażenia spowodowane środkami zaradczymi."
-    },
-    {
-      "title": "Nadal brak kworum ACIP, upadające pozwy i odpowiedzi na pytania dotyczące szczepionek: Stan amerykańskiej polityki dotyczącej szczepionek – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/still-no-acip-quorum-collapsing-lawsuits-and-vaccine-questions-answered",
-      "date": "2026-07-09T20:12:04Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Witamy w naszej dwutygodniowej serii we współpracy z CIDRAP na Uniwersytecie Minnesota."
     }
   ],
   "clinical_trials": [
@@ -1881,7 +1881,7 @@
       "date": "2026-07-14T06:49:16Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Trzy uderzenia, ten sam niedobór: jak firma Elevar Therapeutics zamieniła możliwy do rozwiązania problem produkcyjny w kryzys pacjenta. Awangarda badań klinicznych."
+      "summary": "Firma Elevar Therapeutics otrzymała trzecią listę CRL FDA w ciągu dwóch lat dla rywaceranibu w skojarzeniu z kamrelizumabem w leczeniu raka wątroby, przy czym każdy z nich powoływał się na braki produkcyjne. To jest…."
     },
     {
       "title": "Monografia chlorowodorku cefepimu i dihydratu zidebaktamu dla profesjonalistów - Drugs.com",
@@ -2288,6 +2288,14 @@
       "summary": "Niniejsze wytyczne zawierają oparte na dowodach zalecenia dotyczące stosowania profilaktyki poekspozycyjnej doksycykliny (PEP) w zapobieganiu bakteryjnym zakażeniom przenoszonym drogą płciową (STI) wśród mężczyzn uprawiających seks z mężczyznami i kobietami transpłciowymi, czyli w populacjach nieproporcjonalnie dotkniętych chorobami przenoszonymi drogą płciową."
     },
     {
+      "title": "WHO publikuje zaktualizowane wytyczne dotyczące dawkowania leków przeciwretrowirusowych stosowanych u noworodków, niemowląt i dzieci - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news/item/14-07-2026-who-issues-updated-dosing-guidance-for-antiretroviral-medicines-used-in-newborns--infants-and-children",
+      "date": "2026-07-14T10:33:11Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "WHO opublikowała nowe wytyczne określające zaktualizowane zalecenia dotyczące dawkowania leków przeciwretrowirusowych u noworodków, niemowląt i dzieci w celu wzmocnienia profilaktyki HIV i leczenia najmłodszych pacjentów. Zalecenia opierają się na najnowszych dowodach farmakokinetycznych, badaniach klinicznych i konsensusie ekspertów."
+    },
+    {
       "title": "Oparte na dowodach wytyczne dotyczące wdrażania programów badań przesiewowych w kierunku raka szyjki macicy w kierunku wirusa HPV – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://iris.who.int/items/50af3e3f-35f1-4558-865c-348c2f66e18e",
       "date": "2026-07-14T09:32:51Z",
@@ -2298,14 +2306,6 @@
     {
       "title": "Zakres, perspektywy i ograniczenia życia Systematyczne recenzje w literaturze medycznej: przegląd narracji - Cureus",
       "url": "https://www.cureus.com/articles/513847-scope-prospects-and-limitations-of-living-systematic-reviews-in-medical-literature-a-narrative-overview",
-      "date": "2026-07-14T08:42:20Z",
-      "source": "Cochrane Library",
-      "confirmed_by": 1,
-      "summary": "Żywe recenzje systematyczne (LSR) powstały w odpowiedzi na utrzymujące się opóźnienie między publikacją badań podstawowych a włączeniem ich do przeglądów systematycznych. Opóźnienie, które w przeszłości trwało kilka lat i mogło sprawić, że znaczna część recenzji stała się nieaktualna w ciągu dwóch lat od publikacji. Od czasu ich formalnego wprowadzenia w 2014 r. LSR ewoluowały od pojedynczej propozycji koncepcyjnej do dojrzałego obszaru metodologicznego, wspieranego przez dedykowane rozszerzenie raportowania PRISMA, ramy decyzyjne umożliwiające określenie, kiedy uzasadnione jest podejście oparte na żywych organizmach, a także zademonstrowane zastosowania w terapiach COVID-19, skuteczności szczepionek, długim okresie COVID oraz opracowaniu formalnych wytycznych klinicznych. Wprowadzanie zmian znacznie przyspieszyło podczas pandemii Covid-19, a automatyzacja, począwszy od przepływów pracy opartych na współpracy człowiek-maszyna po duże modele językowe, stała się kluczowa dla utrzymania częstotliwości aktualizacji wymaganych przez żywy model, przy zgłaszanym wzroście wydajności kontroli przesiewowej i ekstrakcji."
-    },
-    {
-      "title": "Zakres, perspektywy i ograniczenia życia Systematyczne recenzje w literaturze medycznej: przegląd narracji - Cureus",
-      "url": "https://www.cureus.com/articles/513847-scope-prospects-and-limitations-of-living-systematic-reviews-in-medical-literature-a-narrative-overview?score_article=true",
       "date": "2026-07-14T08:42:20Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
