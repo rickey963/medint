@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T20:39:22Z",
+  "last_updated": "2026-07-14T20:40:08Z",
   "poland": [
     {
       "title": "Michał Wiśniewski ujawnił, że miał wazektomię. Zdradził, dlaczego to zrobił - Medonet",
@@ -810,7 +810,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-14T19:48:55Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 4,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1575,7 +1575,7 @@
       "date": "2026-07-14T03:00:35Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07698288 | Badanie kliniczne mające na celu określenie biorównoważności doustnych produktów zawierających tamsulosynę w postaci tabletek 0,4 mg o przedłużonym uwalnianiu u mężczyzn w warunkach przyjmowania pokarmu ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07698288 | Badanie kliniczne mające na celu określenie biorównoważności doustnych produktów tamsulosyny w postaci tabletek 0,4 mg o przedłużonym uwalnianiu u mężczyzn w warunkach przyjmowania pokarmu ClinicalTrials.gov."
     },
     {
       "title": "Szczepionka przeciwko fentanylowi? Przełom naukowy czy problem kliniczny? - wersja próbnanews.com",
@@ -1819,6 +1819,14 @@
     }
   ],
   "pharma_market": [
+    {
+      "title": "FDA zatwierdza pierwsze leki generyczne leku Gilotrif (afatynib) w tabletkach – fda.gov",
+      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-approves-first-generics-gilotrif-afatinib-tablets",
+      "date": "2026-07-14T20:38:53Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "FDA zatwierdza pierwsze leki generyczne leku Gilotrif (afatynib) w tabletkach fda.gov."
+    },
     {
       "title": "Diamond Distributions LLC – 731966 – 16.06.2026 – fda.gov",
       "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/diamond-distributions-llc-731966-06162026",
@@ -2210,14 +2218,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Wiadomo, że 5 leków wchodzi w interakcje z Ivarestem."
-    },
-    {
-      "title": "Praca dla chemii w Boulder - BioSpace",
-      "url": "https://jobs.biospace.com/jobs/chemistry/boulder/masters-degree-mba/",
-      "date": "2026-07-14T10:46:36Z",
-      "source": "BioSpace",
-      "confirmed_by": 1,
-      "summary": "Znajdź oferty pracy w dziedzinie chemii w Boulder. 1 oferta pracy magisterskiej/MBA dostępna w BioSpace, siedzibie branży nauk przyrodniczych."
     }
   ],
   "critical_alerts": [
@@ -2226,7 +2226,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-14T19:48:55Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 4,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
