@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T13:16:12Z",
+  "last_updated": "2026-07-14T13:17:46Z",
   "poland": [
     {
       "title": "Darmowe, czyli coraz droższe – bezpłatne leki dla seniorów - Termedia",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Badania pokazują, że lek Biogen Alzheimer na Alzheimera spowalnia spadek w tempie porównywalnym z zatwierdzonymi terapiami – STAT",
+      "url": "https://www.statnews.com/2026/07/14/biogen-alzheimers-tau-diranersen-trial-results-ionis-aaic/",
+      "date": "2026-07-14T13:15:30Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Eksperymentalny lek na chorobę Alzheimera firmy Biogen, charakteryzujący się nowatorskim podejściem, spowolnił spadek w porównywalnym tempie jak leki zatwierdzone w badaniu w połowie fazy."
+    },
+    {
       "title": "Wytyczne Brytyjskiego Towarzystwa Gastroenterologii z 2026 r. dotyczące diagnostyki i leczenia celiakii u dorosłych - Gut Journal",
       "url": "https://gut.bmj.com/content/early/2026/07/09/gutjnl-2025-337747",
       "date": "2026-07-14T13:04:50Z",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Pierwotna gruźlica śluzówkowo-skórna wargi dolnej: nietypowy obraz BMJ Case Reports."
-    },
-    {
-      "title": "Semaglutyd powiązany z rzadką chorobą mózgu – Medscape",
-      "url": "https://www.medscape.com/viewarticle/semaglutide-linked-rare-brain-illness-2026a1000npa?src=rss",
-      "date": "2026-07-14T06:44:46Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "W rzadkich przypadkach semaglutyd stosowany w leczeniu otyłości wiąże się z encefalopatią Wernickego, wynikającą z nietolerancji żołądkowo-jelitowej, zmniejszonego spożycia składników odżywczych i szybkiej utraty wagi prowadzącej do niedoboru tiaminy."
     }
   ],
   "guidelines": [
@@ -1100,6 +1100,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Seminarium na temat elektrofizjologii komórkowej prowadzone przez Grupę Roboczą ds. elektrofizjologii komórkowej serca, mające na celu udoskonalenie praktyki i przygotowanie do egzaminów."
+    },
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/911",
+      "date": "2026-07-01T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 911, z dniem ogłoszenia 2026-07-07."
     }
   ],
   "epidemiology": [
@@ -1820,6 +1828,14 @@
   ],
   "pharma_market": [
     {
+      "title": "W dalszym ciągu pozostają pytania dotyczące leku tau firmy Biogen na chorobę Alzheimera, ponieważ niska dawka zapewnia lepsze wyniki - Wiadomości z punktów końcowych",
+      "url": "https://endpoints.news/biogens-tau-drug-reports-mixed-alzheimers-results-as-low-dose-performs-better/",
+      "date": "2026-07-14T13:15:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Diranersen obniżający tau firmy Biogen spowalnia postęp choroby Alzheimera o 26% przy najniższej dawce w fazie 2, ale odwrotna odpowiedź na dawkę i pominięty punkt końcowy zaciemniają dane."
+    },
+    {
       "title": "Spero stawia nawet 1,1 miliarda dolarów na przeciwciało autoimmunologiczne Innovent – ​​BioSpace",
       "url": "https://www.biospace.com/deals/spero-bets-up-to-1-1b-for-innovents-autoimmune-antibody",
       "date": "2026-07-14T12:59:06Z",
@@ -2210,14 +2226,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Jak wynika z listu badawczego opublikowanego w Internecie 30 czerwca w dzienniku „Jour”, większość dorosłych Amerykanów korzystających z mediów społecznościowych zgłasza w nich pewne interakcje związane ze zdrowiem."
-    },
-    {
-      "title": "Efekty przeciwdepresyjne obserwowane po stymulacji impulsami przezczaszkowymi – Drugs.com",
-      "url": "https://www.drugs.com/news/antidepressant-seen-transcranial-pulse-stimulation-130629.html",
-      "date": "2026-07-13T18:48:22Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Według badania opublikowanego 6 lipca w JAMA Network Open, przezczaszkowa stymulacja pulsu przedczołowego wiąże się z działaniem przeciwdepresyjnym. Penny Pin."
     }
   ],
   "critical_alerts": [
