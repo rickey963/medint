@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T00:01:47Z",
+  "last_updated": "2026-07-14T00:02:31Z",
   "poland": [
     {
       "title": "AI zamiast papierologii. NHS inwestuje 10 mld funtów w cyfrową transformację - Alert Medyczny",
@@ -428,7 +428,7 @@
       "summary": "NHS — Najlepsza praktyka BMJ Najlepsza praktyka BMJ."
     },
     {
-      "title": "Hiperprolaktynemia maskowana efektem haczyka u pacjenta z prolaktynomem olbrzymim współwydzielającym hormon wzrostu - opisy przypadków BMJ",
+      "title": "Hiperprolaktynemia maskowana efektem haczyka u chorej na prolaktynoma olbrzymiego współwydzielającego hormon wzrostu - opisy przypadków BMJ",
       "url": "https://casereports.bmj.com/content/19/7/e272948",
       "date": "2026-07-13T21:33:05Z",
       "source": "The BMJ",
@@ -562,6 +562,14 @@
       "source": "Medscape",
       "confirmed_by": 2,
       "summary": "Nauka i technologia szczegółowo przygląda się stykom opieki zdrowotnej i technologii, przedstawiając informacje na temat przełomowych przełomów w branży, działania nauki i jej znaczenia dla lekarzy i pacjentów. Przyszłość jest tu i teraz."
+    },
+    {
+      "title": "Wiadomości | KTO | Biuro Regionalne dla Afryki – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/pt/countries/23177/news",
+      "date": "2026-07-13T15:55:49Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
     },
     {
       "title": "Ruletka dotycząca pomiaru ciśnienia krwi: czy znalezienie odpowiedniego leku to strzał w dziesiątkę? — Apteka Ludowa",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Światowa Organizacja Zdrowia (WHO) buduje lepszą przyszłość dla ludzi na całym świecie. Zdrowie stanowi podstawę tętniących życiem i produktywnych społeczności, silniejszej gospodarki, bezpieczniejszych narodów i lepszego świata. Nasza praca codziennie wpływa na życie ludzi na całym świecie – często w niewidoczny sposób."
-    },
-    {
-      "title": "Zapytanie ofertowe (RFP) dotyczące opracowania krajowych wytycznych dotyczących środków przeciwdrobnoustrojowych w przypadku powszechnych chorób zakaźnych – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/bangladesh/news/articles-detail/request-for-proposal-(rfp)-for-developing-national-antimicrobial-guideline-for-common-infectious-diseases",
-      "date": "2026-07-13T10:58:03Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Zapytanie ofertowe (RFP) dotyczące opracowania krajowych wytycznych dotyczących środków przeciwdrobnoustrojowych w przypadku powszechnych chorób zakaźnych Światowa Organizacja Zdrowia (WHO)."
     }
   ],
   "guidelines": [
@@ -1261,7 +1261,7 @@
       "date": "2026-07-13T02:13:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1285,7 +1285,7 @@
       "date": "2026-07-13T02:13:20Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki innych cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1293,7 +1293,7 @@
       "date": "2026-07-13T02:11:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Zdiagnozowana cukrzyca – według stanu | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Zdiagnozowana cukrzyca – według wieku, dorośli w wieku 18+ lat, procent, kraj | Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
