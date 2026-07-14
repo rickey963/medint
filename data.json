@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-14T11:46:08Z",
+  "last_updated": "2026-07-14T11:46:49Z",
   "poland": [
+    {
+      "title": "WHO ostrzega przed falą raka. Te nowotwory będą dominować w Polsce - Medonet",
+      "url": "https://www.medonet.pl/narodowy-test-zdrowia-polakow/nowotwory/who-ostrzega-przed-epidemia-nowotworow-onkolog-o-glownej-przyczynie/hvqcwj0",
+      "date": "2026-07-14T11:32:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Co piÄ ty z nas sam zachoruje na raka, a jego skutki odczuje niemal kaÅ¼dy â ostrzega Åwiatowa Organizacja Zdrowia. â Polska nie bÄdzie wyjÄ tkiem. TakÅ¼e u nas liczba zachorowaÅ bÄdzie rosÅa â mÃ³wi prof."
+    },
     {
       "title": "Polska siódma w Unii pod względem liczby łóżek szpitalnych. Trwają zmiany w systemie - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/eurostat-polska-w-czolowce-n2407104",
@@ -70,7 +78,7 @@
       "url": "https://podyplomie.pl/aktualnosci/pierwsze-na-swiecie-chimeryczne-przeszczepienie-watroby-w-warszawskim-uniwersytecie-medycznym",
       "date": "2026-07-14T10:52:00Z",
       "source": "Medycyna po Dyplomie",
-      "confirmed_by": 5,
+      "confirmed_by": 4,
       "summary": "Profesor Michał Grąt stworzył nową koncepcję leczenia zaawansowanych nowotworów wątroby."
     },
     {
@@ -392,14 +400,6 @@
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 2,
       "summary": "System eZWM (e Narodowy Fundusz Zdrowia (NFZ)."
-    },
-    {
-      "title": "RPP kwestionuje limit przepustek w ZOL. Placówki mają usunąć naruszenia - Medonet",
-      "url": "https://www.medonet.pl/biznes-system-i-zdrowie/trendy-w-ochronie-zdrowia/nie-pojada-na-swieta-ani-wakacje-rpp-kwestionuje-limity-przepustek-w-zol/5br58qc",
-      "date": "2026-07-14T05:02:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "ZakÅad opiekuÅczo-leczniczy nie moÅ¼e narzucaÄ limitu przepustek. Rzecznik Praw Pacjenta uznaÅ, Å¼e odgÃ³rne ograniczanie czasu pobytu pacjenta poza placÃ³wkÄ narusza jego prawa. Sprawa dotyczy jednego z zakÅadÃ³w, ktÃ³ry pozwalaÅ pacjentom przebywaÄ na przepustce maksymalnie przez 10 proc."
     }
   ],
   "world": [
@@ -1325,7 +1325,7 @@
       "date": "2026-07-13T02:13:32Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oficjalna strona internetowa rządu Stanów Zjednoczonych. Oto, skąd o tym wiesz."
+      "summary": "Krajowe wskaźniki obciążenia/skali cukrzycy USDSS | Dane | Centra Kontroli i Zapobiegania Chorobom Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1836,6 +1836,14 @@
       "summary": "Wiadomo, że 10 leków wchodzi w interakcje z miejscowo stosowanym salicylanem metylu."
     },
     {
+      "title": "Narzędzie do sprawdzania interakcji Ivarest – Drugs.com",
+      "url": "https://www.drugs.com/drug-interactions/calamine-diphenhydramine-topical,ivarest.html?professional=1",
+      "date": "2026-07-14T10:47:10Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Wiadomo, że 5 leków wchodzi w interakcje z Ivarestem."
+    },
+    {
       "title": "Po sprzedaży za 4,7 miliarda dolarów firmie Novo Nordisk były zespół Akero ogłasza utworzenie nowej firmy zajmującej się I&I z chińskim lekiem - Endpoints News",
       "url": "https://endpoints.news/former-akero-team-announces-new-ii-company-avere-with-china-drug/",
       "date": "2026-07-14T10:00:00Z",
@@ -1873,7 +1881,7 @@
       "date": "2026-07-14T08:03:09Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Pięć rzeczy, które powinni wiedzieć marketerzy farmaceutyczni na wtorek, 14 lipca 2026 r. Marketing medyczny i media."
+      "summary": "Przełomowa zagadka dotycząca raka trzustki; Organ nadzorczy HHS twierdzi, że wygenerował oszczędności w wysokości 5,56 miliarda dolarów; Wewnątrz stanu, który przyczynił się do nagłej śmierci byłej senator Lindsey Graham."
     },
     {
       "title": "Sprawdzanie interakcji Septa - Drugs.com",
@@ -2202,14 +2210,6 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "FDA proponuje zasadę „hub-and-szprychy” w celu usprawnienia rejestracji fabryk leków, której koszt szacuje się na 500–700 tys. dolarów rocznie dla agencji i producentów."
-    },
-    {
-      "title": "TPLC – całkowity cykl życia produktu – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=2824&min_report_year=2021&manufacturer=RIA%20TECH%20CO%2E%2C%20LTD%2E&pmndecision=SUBSTANTIALLY%20EQUIVALENT",
-      "date": "2026-07-13T16:49:16Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "TPLC – całkowity cykl życia produktu accessdata.fda.gov."
     }
   ],
   "critical_alerts": [
