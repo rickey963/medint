@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T21:22:24Z",
+  "last_updated": "2026-07-14T21:23:08Z",
   "poland": [
     {
       "title": "Petycja 972/2026 - Narodowy Fundusz Zdrowia (NFZ)",
@@ -72,6 +72,14 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "W wykazie prac rządu opublikowano założenia projektu nowelizacji ustawy o działalności leczniczej, który nakłada na szpitale i inne podmioty lecznicze obowiązek publicznego ujawniania cen ofert oraz szczegółowych warunków finansowych zawieranych kontraktów medycznych. Projekt przygotowało Ministerstwo Zdrowia."
+    },
+    {
+      "title": "Zakończenie oceny formalnej wniosków o dofinansowanie - Gov.pl",
+      "url": "https://www.gov.pl/web/zdrowie/zakonczenie-oceny-formalnej-wnioskow-o-dofinansowanie",
+      "date": "2026-07-14T16:46:26Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Informacja o projektach zakwalifikowanych do etapu oceny merytorycznej w ramach naboru pn. Inwestycje w infrastrukturę, sprzęt i wyposażenie ambulatoryjnej opieki specjalistycznej zmierzające do odwracania piramidy świadczeń i rozwój opieki jednego dnia w ponadregionalnych podmiotach leczniczych (III nabór)."
     },
     {
       "title": "Marcin Wrona jest w szpitalu i oczekuje na zabieg. \"Boję się, strach jest\" - Medonet",
@@ -392,14 +400,6 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
-    },
-    {
-      "title": "Nowe wytyczne PTL 2026 diagnostyki i leczenia zaburzeń lipidowych w Polsce - komentarz i interpretacja głównego autora - Podyplomie.pl",
-      "url": "https://podyplomie.pl/medVOD/films/10491",
-      "date": "2026-07-14T12:17:23Z",
-      "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
-      "summary": "medVOD - specjalistyczne filmy medyczne dla lekarzy."
     }
   ],
   "world": [
@@ -810,7 +810,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-14T19:48:55Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 4,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1092,14 +1092,6 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
-    },
-    {
-      "title": "Niewydolność serca wywołana kokainą: co klinicyści powinni wiedzieć - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/communities/councils/cardiology-practice/education/cardiopractice/cocaine-induced-heart-failure-what-clinicians-need-to-know/",
-      "date": "2026-07-04T19:57:26Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Kokaina jest szeroko stosowana jako nielegalny narkotyk rekreacyjny na całym świecie. Jest to toksyna sercowo-naczyniowa o silnym powiązaniu z niewydolnością serca. W jego działaniu pośredniczą dwa główne szlaki farmakologiczne: (1) nadmierne działanie współczulne spowodowane hamowaniem wychwytu zwrotnego noradrenaliny, prowadzące do nadciśnienia, tachykardii, skurczu naczyń i zakrzepicy; oraz (2) blokadę kanałów sodowych i innych, która wywołuje arytmie i upośledza kurczliwość."
     }
   ],
   "epidemiology": [
@@ -1695,7 +1687,7 @@
       "date": "2026-07-13T16:11:57Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07698223 | Kapsułka Naoxintong na nefropatię cukrzycową ze wzorem zatrzymywania wilgoci: wieloośrodkowe, randomizowane badanie z podwójnie ślepą próbą, kontrolowane placeboAcronymNXT-DKD ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07698223 | Kapsułka Naoxintong na nefropatię cukrzycową ze wzorem zatrzymywania wilgoci: wieloośrodkowe, randomizowane, podwójnie ślepe badanie kontrolowane placeboAcronymNXT-DKD ClinicalTrials.gov."
     },
     {
       "title": "Alkermes publikuje dane za dziewięć miesięcy w miarę nagrzewania się wyścigu OX2R – Clinical Trials Arena",
@@ -2250,7 +2242,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-14T19:48:55Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 4,
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
