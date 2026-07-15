@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T09:28:27Z",
+  "last_updated": "2026-07-15T09:29:21Z",
   "poland": [
     {
       "title": "Czy problemy finansowe NFZ ograniczają diagnostykę? Szulc: nie widzimy takich zmian - Puls Medycyny",
@@ -32,6 +32,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Jakub Szulc i Jolanta Sobierańska-Grenda przedstawili najnowsze informacje o finansach NFZ, limicie 240 zł za godzinę i reformie zdrowia."
+    },
+    {
+      "title": "Pękło tabu o ochronie zdrowia. Ekspertka: najważniejsze, żeby tego momentu nie zmarnować - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Peklo-tabu-o-ochronie-zdrowia-Ekspertka-najwazniejsze-zeby-tego-momentu-nie-zmarnowac,286683,1.html",
+      "date": "2026-07-15T08:15:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Proponowane przez resort zdrowia ograniczenie wieloetatowości lekarzy i likwidacja spółek lekarskich nie wystarczą do uzdrowienia systemu – powiedziała PAP ekspertka zarządzania w ochronie zdrowia Anna Gołębicka. Ale pękło pewne tabu i otwarcie rozmawiamy o problemach ochrony zdrowia - dodała."
     },
     {
       "title": "Magdalena Młochowska i Izabela Marcewicz-Jendrysik nowymi wiceprezydentkami Warszawy - PolitykaZdrowotna.com",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Nieprawidłowości na ponad milion złotych na oddziale chirurgii w warszawskim Szpitalu Południowym - gdy kierował nim Emil Jędrzejewski - wykazał Narodowy Fundusz Zdrowia. - Kontrola objęła zabiegi proktologiczne. Ten sam zespół rozliczał te zabiegi w ten sam sposób przez kilka lub kilkanaście lat - powiedział Jędrzejewski Rynkowi Zdrowia."
-    },
-    {
-      "title": "Bakterie z chorych dziąseł mogą uszkadzać zastawki serca - Termedia",
-      "url": "https://www.termedia.pl/kardiologia/Bakterie-z-chorych-dziasel-moga-uszkadzac-zastawki-serca,68168.html",
-      "date": "2026-07-14T16:06:00Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "Bakterie, które towarzyszą zapaleniu przyzębia, mogą powodować stany zapalne w zastawkach serca i prowadzić do ich stwardnienia. Jak na razie nie ma metod leczenia zatrzymujących postęp takich uszkodzeń."
     }
   ],
   "world": [
@@ -1128,6 +1128,14 @@
   ],
   "epidemiology": [
     {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-07-15T09:22:59Z",
+      "source": "ECDC",
+      "confirmed_by": 5,
+      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
+    },
+    {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-15T07:58:03Z",
@@ -1300,7 +1308,7 @@
       "url": "https://www.ecdc.europa.eu/en/publications-data/covid-19-vaccination-coverage-eueea-during-2025-26-season-campaigns",
       "date": "2026-07-14T09:08:44Z",
       "source": "ECDC",
-      "confirmed_by": 5,
+      "confirmed_by": 2,
       "summary": "W niniejszym raporcie przedstawiono opis zasięgu szczepień przeciwko Covid-19 w UE/EOG w okresie od 1 sierpnia 2025 r. do 27 marca 2026 r., z pewnymi różnicami w datach raportowania w poszczególnych krajach."
     },
     {
@@ -1486,14 +1494,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Ochrona zdrowia przed rosnącymi temperaturami i ekstremalnymi upałami – broszura WHO na temat ciepła i zdrowia."
-    },
-    {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-07-13T07:00:00Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
       "title": "| Dane | Centra Kontroli i Zapobiegania Chorobom - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2334,6 +2334,14 @@
   ],
   "critical_alerts": [
     {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-07-15T09:22:59Z",
+      "source": "ECDC",
+      "confirmed_by": 5,
+      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
+    },
+    {
       "title": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-07-15T07:58:03Z",
@@ -2388,17 +2396,17 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Stan zdrowia senatora Mitcha McConnella pogorszył się w ostatnich latach. ThatLexingtonKyGuy / Wikimedia Commons."
-    },
-    {
-      "title": "Afrykańskie CDC wzywa do większej ochrony pracowników służby zdrowia, ponieważ epidemia śmiertelnej wirusa Ebola nie wykazuje oznak spowolnienia – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/africa-cdc-calls-more-protection-health-workers-deadly-ebola-outbreak-shows-no-sign-slowing",
-      "date": "2026-07-13T20:41:07Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Lider Afrykańskiego Centrum ds. Zapobiegania i Kontroli Chorób (Africa CDC) wzywa do zapewnienia silniejszych zabezpieczeń dla osób udzielających pierwszej pomocy, w tym większej liczby sprzętu i ulepszonych protokołów bezpieczeństwa w świetle epidemii wirusa Ebola w Demokratycznej Republice Konga (DRK), która oficjalnie wkracza w drugi miesiąc i wykazuje niewielkie oznaki spowolnienia transmisji."
     }
   ],
   "daily_top5": [
+    {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-07-15T09:22:59Z",
+      "source": "ECDC",
+      "confirmed_by": 5,
+      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
+    },
     {
       "title": "Wytyczne dotyczące zdrowia reprodukcyjnego dla społeczności osób cierpiących na mukowiscydozę: stanowisko Fundacji na rzecz Mukowiscydozy – The Lancet",
       "url": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(26)00120-7/fulltext",
@@ -2430,14 +2438,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "WHO opublikowała nowe wytyczne określające zaktualizowane zalecenia dotyczące dawkowania leków przeciwretrowirusowych u noworodków, niemowląt i dzieci w celu wzmocnienia profilaktyki HIV i leczenia najmłodszych pacjentów. Zalecenia opierają się na najnowszych dowodach farmakokinetycznych, badaniach klinicznych i konsensusie ekspertów."
-    },
-    {
-      "title": "Wytyczne dotyczące profilaktyki poekspozycyjnej doksycykliny w przypadku zakażeń przenoszonych drogą płciową wśród mężczyzn uprawiających seks z mężczyznami i kobietami transpłciowymi – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/publications/i/item/9789240124110",
-      "date": "2026-07-14T10:57:29Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Niniejsze wytyczne zawierają oparte na dowodach zalecenia dotyczące stosowania profilaktyki poekspozycyjnej doksycykliny (PEP) w zapobieganiu bakteryjnym zakażeniom przenoszonym drogą płciową (STI) wśród mężczyzn uprawiających seks z mężczyznami i kobietami transpłciowymi, czyli w populacjach nieproporcjonalnie dotkniętych chorobami przenoszonymi drogą płciową."
     }
   ]
 }
