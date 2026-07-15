@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T12:54:09Z",
+  "last_updated": "2026-07-15T12:54:55Z",
   "poland": [
     {
       "title": "Wirus dezinformacji ► - Termedia",
@@ -214,7 +214,7 @@
       "url": "https://www.medonet.pl/biznes-system-i-zdrowie/trendy-w-ochronie-zdrowia/tysiace-kandydatow-walcza-o-miejsca-na-medycynie-panstwo-zwiekszy-limity/6f9d5mh",
       "date": "2026-07-15T08:01:00Z",
       "source": "Medonet",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Tegoroczna rekrutacja na kierunki medyczne przynosi rekordowe wyniki. Uczelnie medyczne notujÄ gwaÅtowny wzrost liczby kandydatÃ³w, a zainteresowanie studiami lekarskimi i lekarsko-dentystycznymi pozostaje bardzo wysokie. JednoczeÅnie Ministerstwo Zdrowia planuje zwiÄkszenie, ale nieznaczne, limitÃ³w przyjÄÄ na obu kierunkach w roku akademickim 2026/2027."
     },
     {
@@ -899,7 +899,7 @@
       "date": "2026-07-14T12:02:11Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "W miarę jak coraz więcej pacjentów przekracza 80. rok życia, kardiolodzy stają w obliczu skomplikowanej mieszanki polipragmazji, słabości, wyzwań poznawczych i zróżnicowanych priorytetów."
+      "summary": "W miarę jak coraz więcej pacjentów osiąga wiek 80 lat i więcej, kardiolodzy stają w obliczu skomplikowanej mieszanki polipragmazji, słabości, wyzwań poznawczych i zróżnicowanych priorytetów."
     },
     {
       "title": "Legacy Hilo Rehab and Nursing uznane za opiekę nad pacjentami po udarze – Big Island Now",
@@ -1607,7 +1607,7 @@
       "date": "2026-07-14T19:28:35Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Badanie walidacyjne zastosowania neurokognitywnej interwencji w zakresie monitorowania emocji (NEMO-I) u młodzieży ClinicalTrials.gov."
+      "summary": "Badanie walidacyjne zastosowania interwencji w zakresie monitorowania emocji neurokognitywnych (NEMO-I) u młodzieży ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07701811 | Informacje pisemne wspomagane sztuczną inteligencją dotyczące przewlekłej szczeliny odbytu – ClinicalTrials.gov",
@@ -1650,7 +1650,7 @@
       "summary": "Poprawa zdrowia społeczności North Shore poprzez żywność pochodzącą z oceanów i uprawianą na farmach (badanie ANCHOR) (ANCHOR) ClinicalTrials.gov."
     },
     {
-      "title": "Bezpieczeństwo i skuteczność kanagliflozyny u pacjentów z miejscowo zaawansowanym lub zaawansowanym nowotworem litym (SGLT2SOLID) - ClinicalTrials.gov",
+      "title": "Bezpieczeństwo i skuteczność kanagliflozyny u pacjentów z miejscowo zaawansowanym lub zaawansowanym rakiem litym (SGLT2SOLID) - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07703163",
       "date": "2026-07-14T18:30:20Z",
       "source": "ClinicalTrials.gov",
@@ -1939,6 +1939,14 @@
     }
   ],
   "pharma_market": [
+    {
+      "title": "Braveheart składa wniosek o IPO, aby sfinansować fazę 3 konkurencyjnego rywala Hengrui z zakresu cytokinetyki - Endpoints News",
+      "url": "https://endpoints.news/braveheart-files-for-ipo-to-fund-phase-3-of-hengruis-cytokinetics-rival/",
+      "date": "2026-07-15T12:52:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Braveheart Bio składa wniosek o pierwszą ofertę publiczną Nasdaq w celu sfinansowania badań fazy 3 leku nasercowego BHB-1893, co będzie czwartym zgłoszeniem spółki biotechnologicznej na giełdę w ciągu dwóch tygodni."
+    },
     {
       "title": "Insilico i Bora Pharma ujawniają plany dotyczące firmy produkcyjnej opartej na sztucznej inteligencji – Endpoints News",
       "url": "https://endpoints.news/insilico-bora-pharma-reveal-plans-for-ai-driven-manufacturing-company/",
@@ -2330,14 +2338,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Benylin DM Interakcje Checker Drugs.com."
-    },
-    {
-      "title": "Postęp w leczeniu mCSPC: bliższe spojrzenie na ADT + darolutamid pod okiem dr Rany McKay - Fierce Pharma",
-      "url": "https://www.fiercepharma.com/sponsored/advancing-mcspc-treatment-closer-look-adt-darolutamide-dr-rana-mckay",
-      "date": "2026-07-14T16:57:26Z",
-      "source": "FiercePharma",
-      "confirmed_by": 1,
-      "summary": "Postęp w leczeniu mCSPC: bliższe spojrzenie na ADT + darolutamid z dr Raną McKay Fierce Pharma."
     }
   ],
   "critical_alerts": [
