@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T15:28:54Z",
+  "last_updated": "2026-07-15T15:29:39Z",
   "poland": [
     {
       "title": "Prof. Adamczyk-Sowa o terapiach biologicznych w miastenii: cel to powrót pacjenta do normalnego życia - Puls Medycyny",
@@ -404,6 +404,22 @@
   ],
   "world": [
     {
+      "title": "Punkt zwrotny w edycji genów w ciężkich chorobach krwi - Natura",
+      "url": "https://www.nature.com/articles/d41591-026-00035-1",
+      "date": "2026-07-15T15:28:56Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Pozytywne wyniki kilku prób z edycją genów ex vivo sugerują, że po latach niepewności reaktywacja hemoglobiny płodowej w niedokrwistości sierpowatokrwinkowej i β-talasemii jest obecnie niezawodną strategią terapeutyczną."
+    },
+    {
+      "title": "Immunoterapia krótkotrwałym przeciwciałem anty-PD-L1 w chorobie Alzheimera: randomizowane badanie fazy 1b z podwójnie ślepą próbą - Natura",
+      "url": "https://www.nature.com/articles/s41591-026-04547-8",
+      "date": "2026-07-15T15:28:56Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Badanie fazy 1b pokazuje, że IBC-Ab002, krótkotrwałe przeciwciało, które okresowo aktywuje obwodowy układ odpornościowy, jest bezpieczne i dobrze tolerowane, a trendy w zakresie biomarkerów u osób z wczesną chorobą Alzheimera wspierają dalszy rozwój kliniczny."
+    },
+    {
       "title": "Jak wpływ sztucznej inteligencji na koszty opieki zdrowotnej będzie kształtowany przez politykę i wybory kierownictwa - ai.nejm.org",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIp2600447?query=recirc_crossjournalmorepubs",
       "date": "2026-07-15T14:36:36Z",
@@ -436,7 +452,7 @@
       "summary": "Identyfikacja komórek CD8+ TIGR daje nowy wgląd w specyficzną dla narządu regulację immunologiczną i potencjalne metody leczenia nieswoistego zapalenia jelit."
     },
     {
-      "title": "Kombinacja gedolizybu zatwierdzona w leczeniu zaawansowanego raka piersi – Medscape",
+      "title": "Zatwierdzono leczenie skojarzone gedatolizybem w leczeniu zaawansowanego raka piersi – Medscape",
       "url": "https://www.medscape.com/viewarticle/gedatolisib-combo-approved-advanced-breast-cancer-2026a1000nwz",
       "date": "2026-07-15T12:41:37Z",
       "source": "Medscape",
@@ -625,7 +641,7 @@
       "date": "2026-07-15T08:34:41Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Nowy startup podejmuje odważny krok w świecie opracowywania leków na otyłość: nie działa z celem GLP-1, który szturmem podbił świat."
+      "summary": "Nowy startup robi odważny krok w świecie opracowywania leków na otyłość: nie działa z celem GLP-1, który szturmem podbił świat."
     },
     {
       "title": "Analiza pokazuje, że zalew komentarzy na temat zmiany systemu przyznawania dotacji w Białym Domu jest w dużej mierze negatywny – wynika z analizy STAT",
@@ -786,22 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Epidemia wirusa Ebola we wschodnim Kongo „nadal przekracza wysiłki reagowania” – powiedział we wtorek szef WHO ds. sytuacji kryzysowych po powrocie z podróży do jednego z najbardziej dotkniętych obszarów."
-    },
-    {
-      "title": "Lek Tau na Alzheimera spowalnia zaburzenia funkcji poznawczych i likwiduje splątanie mózgu w badaniu – Tech Times",
-      "url": "https://www.techtimes.com/articles/320496/20260714/alzheimers-tau-drug-slows-cognitive-decline-cuts-brain-tangles-trial.htm",
-      "date": "2026-07-14T20:14:18Z",
-      "source": "Cochrane Library",
-      "confirmed_by": 1,
-      "summary": "Wyniki badania leku Diranersen Alzheimer w badaniu II fazy CELIA pokazują, że terapia antysensowna firmy Biogen ukierunkowana na tau jednocześnie zmniejszyła splątanie tau w mózgu o 50–65% i spowolniła pogorszenie funkcji poznawczych nawet o 50% przy najniższej dawce – było to pierwsze tak podwójne osiągnięcie w randomizowanym badaniu klinicznym. Biogen."
-    },
-    {
-      "title": "Sprzedaż w ramach kontrowersyjnego programu rabatów na leki w USA wzrosła w ubiegłym roku do 100 miliardów dolarów – STAT",
-      "url": "https://www.statnews.com/pharmalot/2026/07/14/sales-from-controversial-drug-discount-program-rose-to-100-billion-last-year/?utm_campaign=rss",
-      "date": "2026-07-14T19:59:02Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Wartość leków na receptę zakupionych w ramach kontrowersyjnego rządowego programu rabatowego w 2025 r. wyniosła 100 miliardów dolarów, co oznacza wzrost o 22,8% w porównaniu z rokiem poprzednim."
     }
   ],
   "guidelines": [
@@ -1099,7 +1099,7 @@
       "date": "2026-07-13T04:24:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "ST. LOUIS — Amerykańskie Stowarzyszenie Optometryczne (AOA) ogłosiło, że rozpoczęło 30-dniowy okres wzajemnej i publicznej oceny drugiego wydania opartych na dowodach wytycznych dotyczących praktyki klinicznej „Kompleksowe badanie wzroku i wzroku u dzieci”. Komentarze będą przyjmowane do 5 sierpnia 2026 r."
+      "summary": "ST. LOUIS — Amerykańskie Towarzystwo Optometryczne (AOA) ogłosiło, że rozpoczęło 30-dniowy okres wzajemnej i publicznej oceny drugiego wydania opartych na dowodach wytycznych dotyczących praktyki klinicznej „Kompleksowe badanie wzroku i wzroku u dzieci”. Komentarze będą akceptowane do 5 sierpnia 2026 r."
     },
     {
       "title": "Prezydium NRL wnioskuje o odrzucenie nowelizacji ustawy o zawodach lekarza i lekarza dentysty - NIL",
@@ -1349,7 +1349,7 @@
       "date": "2026-07-14T14:46:55Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Demencja jest główną przyczyną niepełnosprawności i zależności wśród osób starszych na całym świecie, wywierając znaczący wpływ na poszczególne osoby, rodziny i systemy opieki zdrowotnej. Wobec braku powszechnie dostępnych metod leczenia i leczenia modyfikującego przebieg choroby, profilaktyka i zmniejszanie ryzyka przez całe życie pozostają najskuteczniejszymi strategiami ograniczania zachorowań w przyszłości."
+      "summary": "Demencja jest główną przyczyną niepełnosprawności i zależności wśród osób starszych na całym świecie, wywierając znaczący wpływ na poszczególne osoby, rodziny i systemy opieki zdrowotnej. Wobec braku powszechnie dostępnych metod leczenia i leczenia modyfikującego przebieg choroby, profilaktyka i zmniejszanie ryzyka w ciągu całego życia pozostają najskuteczniejszymi strategiami ograniczania zachorowalności w przyszłości."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -1639,7 +1639,7 @@
       "date": "2026-07-14T19:28:52Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07701772 | LASER KONTRA KRYSTALIZOWANY FENOL W CHOROBIE ZATOKÓW PILONIDALNYCH ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07701772 | LASER A KRYSTALIZOWANY FENOL W CHOROBIE ZATOKÓW PILONIDALNYCH ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07700732 | Fotofunkcjonalizacja i kwas hialuronowy w implantach szczęki tylnej - ClinicalTrials.gov",
@@ -1969,7 +1969,7 @@
       "date": "2026-07-15T14:51:26Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Zdaniem Leerink Partners, wyniki fazy 3 stanowią pierwszy bezpośredni dowód słuszności koncepcji ADC zastępującego chemioterapię na bazie platyny w standardowym schemacie leczenia pierwszego rzutu w leczeniu niedrobnokomórkowego raka płuc. Odczyt oznacza również drugie zwycięstwo spółki Merck i Kelun-Biotech w późnym etapie…."
+      "summary": "Zdaniem Leerink Partners, wyniki fazy 3 stanowią pierwszy bezpośredni dowód słuszności koncepcji ADC zastępującego chemioterapię na bazie platyny w standardowym schemacie leczenia pierwszego rzutu w przypadku niedrobnokomórkowego raka płuc. Odczyt oznacza również drugie zwycięstwo spółki Merck i Kelun-Biotech w późnym etapie…."
     },
     {
       "title": "Narzędzie do sprawdzania interakcji CliniClean – Drugs.com",
@@ -2169,7 +2169,7 @@
       "date": "2026-07-14T23:08:53Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Rozpalona do czerwoności specjalistka od generatywnej sztucznej inteligencji, firma Insilico Medicine, nawiązała współpracę z innym ważnym graczem w branży biofarmaceutycznej, tym razem z CDMO Bora Pharmaceuticals. | Specjalista w dziedzinie sztucznej inteligencji, firma Insilico Medicine, nawiązała współpracę z inną firmą biofarmaceutyczną, tym razem CDMO Bora Pharmaceuticals. Jeśli zostaną osiągnięte kamienie milowe, współpraca może ostatecznie być warta 2,5 miliarda dolarów."
+      "summary": "Rozpalona do czerwoności specjalistka od generatywnej sztucznej inteligencji, firma Insilico Medicine, nawiązała współpracę z innym ważnym graczem w branży biofarmaceutycznej, tym razem z CDMO Bora Pharmaceuticals. | Specjalista od generatywnej sztucznej inteligencji, firma Insilico Medicine, nawiązała współpracę z inną firmą biofarmaceutyczną, tym razem CDMO Bora Pharmaceuticals. Jeśli zostaną osiągnięte kamienie milowe, współpraca może ostatecznie być warta 2,5 miliarda dolarów."
     },
     {
       "title": "Narzędzie do sprawdzania interakcji tauryny – Drugs.com",
