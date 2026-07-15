@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-15T04:27:48Z",
+  "last_updated": "2026-07-15T04:28:39Z",
   "poland": [
+    {
+      "title": "Bilans apteczny - Termedia",
+      "url": "https://www.termedia.pl/mz/Bilans-apteczny,68169.html",
+      "date": "2026-07-15T04:27:30Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "W 2025 r. działało o 1,8 proc. mniej aptek ogólnodostępnych niż rok wcześniej."
+    },
     {
       "title": "Polska wydała 100 mln zł na rozwój innowacyjnego leku. \"Dziś nie ma ani pieniędzy, ani przełomu\" - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/serwis-hematoonkologia/Polska-wydala-100-mln-zl-na-rozwoj-innowacyjnego-leku-Dzis-nie-ma-ani-pieniedzy-ani-przelomu,286636,1023.html",
@@ -29,8 +37,8 @@
       "title": "Projekt zarządzenia - opieka psychiatryczna i leczenie uzależnień - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/projekty-zarzadzen/projekt-zarzadzenia-opieka-psychiatryczna-i-leczenie-uzaleznien,6999.html",
       "date": "2026-07-14T21:47:09Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
       "summary": "Opinie w sprawie przedmiotowego projektu proszę przekazać w formie tabeli edytowalnej stanowiącej załącznik do niniejszego komunikatu w terminie do 7 dni po dniu publikacji, na adres e-mail: z dopiskiem : dot. uwag do projektowanego zarządzenia PSY."
     },
     {
@@ -45,7 +53,7 @@
       "title": "Petycja 972/2026 - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/bip/petycje/zlozone-petycje/petycja-9722026,109.html",
       "date": "2026-07-14T20:28:45Z",
-      "source": "Narodowy Fundusz Zdrowia",
+      "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Petycja w przedmiocie wprowadzenia rozwiązań w zakresie zakupu przez NFZ sprzętu medycznego np. rezonansu otwartego oraz zastosowania mechanizmów spłaty kosztów tego sprzętu poprzez potrącenia..."
     },
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Nowy komponent Mapy potrzeb zdrowotnych 2022-2026 ma wspierać reformę szpitalnictwa, inwestycje, IOWISZ i kontraktowanie świadczeń przez NFZ."
-    },
-    {
-      "title": "Reforma za dwa lata. Ministra chce zabezpieczyć 20 mld zł - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Reforma-za-dwa-lata-Ministra-chce-zabezpieczyc-20-mld-zl,286653,14.html",
-      "date": "2026-07-14T12:58:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Ministra funduszy i polityki regionalnej Katarzyna Pełczyńska-Nałęcz chce zabezpieczyć 20 mld zł na reformę systemu ochrony zdrowia w przyszłej unijnej perspektywie finansowej na lata 2028-2034. - Trwają prace dotyczące reform i inwestycji, które znajdą się w przyszłym planie – zaznaczył resort."
     }
   ],
   "world": [
@@ -867,7 +867,7 @@
       "date": "2026-07-14T12:02:11Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "W miarę jak coraz więcej pacjentów przekracza 80. rok życia, kardiolodzy stają w obliczu skomplikowanej mieszanki polipragmazji, słabości, wyzwań poznawczych i zróżnicowanych priorytetów."
+      "summary": "W miarę jak coraz więcej pacjentów osiąga wiek 80 lat i więcej, kardiolodzy stają w obliczu skomplikowanej mieszanki polipragmazji, słabości, wyzwań poznawczych i zróżnicowanych priorytetów."
     },
     {
       "title": "Legacy Hilo Rehab and Nursing uznane za opiekę nad pacjentami po udarze – Big Island Now",
@@ -878,7 +878,7 @@
       "summary": "Legacy Hilo Rehab and Nursing udoskonaliło opiekę poudarową w ramach inicjatywy American Heart Association Mission: Lifeline Stroke w zakresie opieki po ostrym leczeniu."
     },
     {
-      "title": "Lorlatynib w dalszym ciągu wykazuje długoterminowe korzyści u nowo zdiagnozowanych pacjentów z zaawansowanym NSCLC z dodatnim ALK - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "Lorlatynib w dalszym ciągu wykazuje długoterminowe korzyści u nowo zdiagnozowanych pacjentów z zaawansowanym NSCLC ALK-dodatnim - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/lorlatinib-continues-to-show-long-term-benefit-in-newly-diagnosed-patients-with-advanced-alk-positive-nsclc",
       "date": "2026-07-14T08:55:10Z",
       "source": "ESMO (onkologia)",
@@ -1059,7 +1059,7 @@
       "date": "2026-07-10T16:33:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum Medyczne Meritus otrzymało od American Heart Association wyróżnienie Get with the Guidelines – Coronary Artery Disease oraz Target: Type 2 Diabetes Honor Roll Silver za swoje zaangażowanie w […]."
+      "summary": "Centrum Medyczne Meritus zdobywa wyróżnienie Amerykańskiego Stowarzyszenia Kardiologicznego. Cel: Cukrzyca typu 2. Srebrne wyróżnienie Franklin County Free Press."
     },
     {
       "title": "Prezydium NRL wnioskuje o odrzucenie nowelizacji ustawy o zawodach lekarza i lekarza dentysty - NIL",
@@ -1157,7 +1157,7 @@
       "date": "2026-07-14T23:15:55Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Niniejszy raport roczny zawiera przegląd kluczowych działań i inicjatyw wdrożonych przez Biuro Krajowe WHO w Bahrajnie w 2024 r. Zawiera liczne przykłady tego, jak biuro krajowe zintegrowało podejścia do dostarczania opartego na danych, zastosowało innowacje gotowe do zwiększenia skali, zachęcające partnerstwa i współpracę wielosektorową oraz zwiększone zaangażowanie społeczności w celu przyspieszenia postępu w realizacji Celów Zrównoważonego Rozwoju związanych ze zdrowiem oraz trzech strategicznych priorytetów Trzynastego Ogólnego Programu Prac WHO: osiągnięcie powszechnej opieki zdrowotnej (UHC), reagowanie na sytuacje kryzysowe dotyczące zdrowia i promowanie zdrowszych populacji."
+      "summary": "Niniejszy raport roczny zawiera przegląd kluczowych działań i inicjatyw wdrożonych przez Biuro Krajowe WHO w Bahrajnie w 2024 r. Zawiera liczne przykłady tego, jak biuro krajowe zintegrowało podejścia do dostarczania opartego na danych, zastosowało innowacje gotowe do zwiększenia skali, zachęcające partnerstwa i współpracę wielosektorową oraz zwiększone zaangażowanie społeczności w celu przyspieszenia postępu w realizacji Celów Zrównoważonego Rozwoju związanych ze zdrowiem oraz trzech strategicznych priorytetów Trzynastego Ogólnego Programu Pracy WHO: osiągnięcie powszechnej opieki zdrowotnej (UHC), reagowanie na sytuacje kryzysowe dotyczące zdrowia i promowanie zdrowszych populacji."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -1602,7 +1602,7 @@
       "summary": "Poprawa zdrowia społeczności North Shore poprzez żywność pochodzącą z oceanów i uprawianą na farmach (badanie ANCHOR) (ANCHOR) ClinicalTrials.gov."
     },
     {
-      "title": "Bezpieczeństwo i skuteczność kanagliflozyny u pacjentów z miejscowo zaawansowanym lub zaawansowanym rakiem litym (SGLT2SOLID) - ClinicalTrials.gov",
+      "title": "Bezpieczeństwo i skuteczność kanagliflozyny u pacjentów z miejscowo zaawansowanym lub zaawansowanym nowotworem litym (SGLT2SOLID) - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07703163",
       "date": "2026-07-14T18:30:20Z",
       "source": "ClinicalTrials.gov",
@@ -2044,7 +2044,7 @@
       "summary": "Diamond Distributions LLC – 731966 – 16.06.2026 fda.gov."
     },
     {
-      "title": "Interakcje aktywnego masowania mięśni Tiger Balm - Drugs.com",
+      "title": "Interakcje aktywnego masowania mięśni z balsamem tygrysim - Drugs.com",
       "url": "https://www.drugs.com/drug-interactions/camphor-menthol-methyl-salicylate-topical,tiger-balm-active-muscle-rub.html?professional=1",
       "date": "2026-07-14T19:36:35Z",
       "source": "Drugs.com",
@@ -2273,7 +2273,7 @@
       "date": "2026-07-14T15:09:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Celem Erasca jest oferta o wartości 550 mln dolarów; Summit sprzedaje ridinazol; FDA zatwierdza Leqembi do stosowania podskórnego w domu; Aktualizacja WuXi AppTec; i Q32 Bio planują ofertę o wartości 200 mln dolarów."
+      "summary": "Erasca celuje w ofertę o wartości 550 mln dolarów; Summit sprzedaje ridinazol; FDA zatwierdza Leqembi do stosowania podskórnego w domu; Aktualizacja WuXi AppTec; i Q32 Bio planują ofertę o wartości 200 mln dolarów."
     },
     {
       "title": "Badanie sugeruje, że pacjenci cierpiący na ból powinni zmniejszać dawki opioidów we własnym tempie – Drugs.com",
