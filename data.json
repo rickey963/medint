@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T22:40:28Z",
+  "last_updated": "2026-07-15T22:41:07Z",
   "poland": [
     {
       "title": "Wszystko na temat: zarządzanie w ochronie zdrowia - Podyplomie.pl",
@@ -420,6 +420,14 @@
       "summary": "Równoważenie wagi — rozszerzone DAPT w chorobie wieńcowej The New England Journal of Medicine."
     },
     {
+      "title": "Ukierunkowana degradacja NET w toczniu z niedoborem DNASE1L3 - The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMc2601997",
+      "date": "2026-07-15T21:35:56Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Ukierunkowana degradacja NET w toczniu z niedoborem DNASE1L3 The New England Journal of Medicine."
+    },
+    {
       "title": "Suplementacja olejem rybnym a zdarzenia sercowo-naczyniowe u pacjentów poddawanych hemodializie - The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMc2602619",
       "date": "2026-07-15T21:35:56Z",
@@ -428,12 +436,12 @@
       "summary": "Suplementacja olejem rybnym i zdarzenia sercowo-naczyniowe u pacjentów poddawanych hemodializie The New England Journal of Medicine."
     },
     {
-      "title": "Ukierunkowana degradacja NET w toczniu z niedoborem DNASE1L3 - The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMc2601997",
-      "date": "2026-07-15T21:35:56Z",
+      "title": "Terapia podtrzymująca ciągła lub o ustalonym czasie trwania w szpiczaku mnogim – The New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2600157",
+      "date": "2026-07-15T21:35:55Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Ukierunkowana degradacja NET w toczniu z niedoborem DNASE1L3. The New England Journal of Medicine."
+      "summary": "Ciągła lub stała terapia podtrzymująca w szpiczaku mnogim The New England Journal of Medicine."
     },
     {
       "title": "Zakażenia związane z opieką zdrowotną w szpitalach w USA, rok 2023 w porównaniu z rokiem 2015 — The New England Journal of Medicine",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Dochodzenie BMJ w sprawie domowego spalania drewna w Wielkiej Brytanii rodzi pytanie szersze niż regulacje dotyczące pieców: czyje interesy gospodarcze są chronione w przypadku kontynuowania emisji możliwych do uniknięcia drobnych cząstek stałych (PM2,5)?1 Argumenty branży przeciwko zaostrzonym ograniczeniom opierają się na znanych obawach – rentowności biznesu, inwestycjach, miejscach pracy i ubóstwie energetycznym. Mają one znaczenie szczególnie dla gospodarstw domowych zależnych od paliw stałych. Ale oni są tylko jedną stroną bilansu gospodarczego."
-    },
-    {
-      "title": "184 Przełamać upadek: zmiana kultury bezpieczeństwa w szpitalu rehabilitacyjnym na stawach gliniastych – BMJ Open Quality",
-      "url": "https://bmjopenquality.bmj.com/content/15/Suppl_2/A178",
-      "date": "2026-07-15T09:15:45Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Wprowadzenie Upadki są główną przyczyną możliwych do uniknięcia szkód w szpitalach rehabilitacyjnych, gdzie upośledzona mobilność, równowaga i funkcje poznawcze znacznie zwiększają ryzyko dla pacjenta. Powstałe urazy mogą opóźnić powrót do zdrowia, zmniejszyć niezależność i wydłużyć pobyt w szpitalu. Pomimo rutynowej oceny ryzyka upadków i stosowania środków zapobiegawczych, w szpitalu rehabilitacyjnym Clayponds Rehabilitation Hospital (CPH) w dalszym ciągu zdarzały się upadki, których można było uniknąć, co wskazuje na różnice w praktyce i utracone możliwości zwiększenia bezpieczeństwa pacjentów. West London NHS Trust (WLT) to jeden z najbardziej zróżnicowanych dostawców usług w zakresie zdrowia psychicznego i środowiskowej opieki zdrowotnej w Wielkiej Brytanii."
     }
   ],
   "guidelines": [
@@ -1155,7 +1155,7 @@
       "date": "2026-07-13T04:24:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "ST. LOUIS — Amerykańskie Stowarzyszenie Optometryczne (AOA) ogłosiło, że rozpoczęło 30-dniowy okres wzajemnej i publicznej oceny drugiego wydania opartych na dowodach wytycznych dotyczących praktyki klinicznej „Kompleksowe badanie wzroku i wzroku u dzieci”. Komentarze będą akceptowane do 5 sierpnia 2026 r."
+      "summary": "ST. LOUIS — Amerykańskie Towarzystwo Optometryczne (AOA) ogłosiło, że rozpoczęło 30-dniowy okres wzajemnej i publicznej oceny drugiego wydania opartych na dowodach wytycznych dotyczących praktyki klinicznej „Kompleksowe badanie wzroku i wzroku u dzieci”. Komentarze będą akceptowane do 5 sierpnia 2026 r."
     },
     {
       "title": "Prezydium NRL wnioskuje o odrzucenie nowelizacji ustawy o zawodach lekarza i lekarza dentysty - NIL",
@@ -2217,7 +2217,7 @@
       "date": "2026-07-15T15:25:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "AdvanCell zebrał kwotę 315 milionów dolarów w ramach serii D na badania nad lekiem na raka prostaty na bazie ołowiu i na wsparcie produkcji leku radioaktywnego w USA."
+      "summary": "AdvanCell zebrał 315 milionów dolarów w ramach serii D na badania nad lekiem na raka prostaty na bazie ołowiu i na wsparcie produkcji leku radioaktywnego w USA."
     },
     {
       "title": "Narzędzie do sprawdzania interakcji echinacei – Drugs.com",
@@ -2265,7 +2265,7 @@
       "date": "2026-07-15T14:51:26Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Zdaniem Leerink Partners, wyniki fazy 3 stanowią pierwszy bezpośredni dowód słuszności koncepcji ADC zastępującego chemioterapię na bazie platyny w standardowym schemacie leczenia pierwszego rzutu w leczeniu niedrobnokomórkowego raka płuc. Odczyt oznacza również drugie zwycięstwo spółki Merck i Kelun-Biotech w późnym etapie…."
+      "summary": "Zdaniem Leerink Partners, wyniki fazy 3 stanowią pierwszy bezpośredni dowód słuszności koncepcji ADC zastępującego chemioterapię na bazie platyny w standardowym schemacie leczenia pierwszego rzutu w przypadku niedrobnokomórkowego raka płuc. Odczyt oznacza również drugie zwycięstwo spółki Merck i Kelun-Biotech w późnym etapie…."
     },
     {
       "title": "Attovia Therapeutics powołuje Johna W. Smithera do zarządu BioSpace",
