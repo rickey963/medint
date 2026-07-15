@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T13:22:13Z",
+  "last_updated": "2026-07-15T13:22:57Z",
   "poland": [
     {
       "title": "Komunikat nr 1 KSS w Kutnie - Gov.pl",
@@ -32,6 +32,14 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Aktualności (strona 27) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Koninie Gov.pl."
+    },
+    {
+      "title": "Koniec pracy powyżej tej temperatury. Nowe przepisy już pewne - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Prawo/Koniec-pracy-powyzej-tej-temperatury-Nowe-przepisy-juz-pewne,286711,2.html",
+      "date": "2026-07-15T12:05:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Ministra rodziny, pracy i polityki społecznej Agnieszka Dziemianowicz-Bąk podpisała rozporządzenie, w którym określono zasady pracy w upały. Jeśli temperatury przekroczą 32°C przy pracy na zewnątrz lub 35°C w pomieszczeniach, czynności zawodowe będą musiały być czasowo wstrzymane. Nowe przepisy wejdą w życie za sześć miesięcy."
     },
     {
       "title": "Na szlaku dobrej decyzji - oddaj krew na wakacjach! - Gov.pl",
@@ -330,20 +338,20 @@
       "summary": "Do wykazu prac Rady Ministrów dodano założenia zmian w ustawie o działalności leczniczej. MZ chce zwiększyć jawność konkursów i umów."
     },
     {
-      "title": "Tłumy chętnych na studia w Szczecinie. Medycyna i psychologia wśród najpopularniejszych kierunków - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/ponad-165-tys-kandydatow-n2407294",
-      "date": "2026-07-15T06:30:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Tłumy chętnych na studia w Szczecinie. Medycyna i psychologia wśród najpopularniejszych kierunków PolitykaZdrowotna.com."
-    },
-    {
       "title": "NIK o działalności Warszawskiego Szpitala Południowego - Najwyższa Izba Kontroli",
       "url": "https://www.nik.gov.pl/aktualnosci/nik-o-dzialalnosci-warszawskiego-szpitala-poludniowego.html",
       "date": "2026-07-15T06:30:00Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Najnowsze wyniki kontroli NIK. Dowiedz się, jak dbamy o efektywne wykorzystanie środków publicznych."
+    },
+    {
+      "title": "Tłumy chętnych na studia w Szczecinie. Medycyna i psychologia wśród najpopularniejszych kierunków - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/ponad-165-tys-kandydatow-n2407294",
+      "date": "2026-07-15T06:30:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Tłumy chętnych na studia w Szczecinie. Medycyna i psychologia wśród najpopularniejszych kierunków PolitykaZdrowotna.com."
     },
     {
       "title": "Wyszukane artykuły - \"WCCK\" - Najwyższa Izba Kontroli",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Poselski projekt ustawy o zawodzie psychoterapeuty oraz samorządzie zawodowym wróci do Sejmu po wakacjach, we wrześniu. Tak wynika z planu pracy sejmowej Komisji Zdrowia. Termin ten potwierdziła Rynkowi Zdrowia także posłanka Marta Golbik, przewodnicząca Komisji."
-    },
-    {
-      "title": "Wiemy, co dalej z projektem ustawy o zawodzie psychoterapeuty - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Wiemy-co-dalej-z-projektem-ustawy-o-zawodzie-psychoterapeuty,286679,14.html",
-      "date": "2026-07-15T05:10:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Poselski projekt ustawy o zawodzie psychoterapeuty oraz samorządzie zawodowym wróci do Sejmu po wakacjach, we wrześniu. Tak wynika z planu pracy sejmowej Komisji Zdrowia. Termin ten potwierdziła Rynkowi Zdrowia także posłanka Marta Golbik, przewodnicząca Komisji."
     }
   ],
   "world": [
@@ -433,7 +433,7 @@
       "date": "2026-07-15T12:08:53Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "WHO uruchomiła drugą kohortę programu szkoleń terenowych w zakresie epidemiologii w Syrii, wyposażając 37 pracowników służby zdrowia w umiejętności umożliwiające wzmocnienie nadzoru nad chorobami i reagowania na epidemie. Źródło zdjęcia: WHO Syria, 15 lipca..."
+      "summary": "WHO uruchomiła drugą kohortę programu szkoleń terenowych z zakresu epidemiologii w Syrii, wyposażając 37 pracowników służby zdrowia w umiejętności umożliwiające wzmocnienie nadzoru nad chorobami i reagowania na epidemie. Źródło zdjęcia: WHO Syria, 15 lipca..."
     },
     {
       "title": "Jak rozpoznać lęk w praktyce ogólnej – Medscape",
@@ -1118,14 +1118,6 @@
       "summary": "Mezigdomid-karfilzomib-deksametazon wydłuża PFS w porównaniu z karfilzomibem-deksametazonem przy pierwszym nawrocie u pacjentów z nawrotowym lub opornym na leczenie szpiczakiem mnogim Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Rozporządzenie Rady Ministrów z dnia 6 lipca 2026 r. zmieniające rozporządzenie w sprawie Narodowego Programu Zdrowia na lata 2021–2026",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/923",
-      "date": "2026-07-06T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
-    },
-    {
       "title": "50. spotkanie EWGCCE 2026 w sprawie ESC 365 - ESC 365",
       "url": "https://esc365.escardio.org/event/2035",
       "date": "2026-07-06T07:00:00Z",
@@ -1134,12 +1126,12 @@
       "summary": "Seminarium na temat elektrofizjologii komórkowej prowadzone przez Grupę Roboczą ds. elektrofizjologii komórkowej serca, mające na celu udoskonalenie praktyki i przygotowanie do egzaminów."
     },
     {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/911",
-      "date": "2026-07-01T07:00:00Z",
+      "title": "Rozporządzenie Rady Ministrów z dnia 6 lipca 2026 r. zmieniające rozporządzenie w sprawie Narodowego Programu Zdrowia na lata 2021–2026",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/923",
+      "date": "2026-07-06T07:00:00Z",
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 911, z dniem ogłoszenia 2026-07-07."
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 923, z dniem ogłoszenia 2026-07-09."
     }
   ],
   "epidemiology": [
@@ -1615,7 +1607,7 @@
       "date": "2026-07-14T19:28:35Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Badanie walidacyjne zastosowania neurokognitywnej interwencji w zakresie monitorowania emocji (NEMO-I) u młodzieży ClinicalTrials.gov."
+      "summary": "Badanie walidacyjne zastosowania interwencji w zakresie monitorowania emocji neurokognitywnych (NEMO-I) u młodzieży ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07701811 | Informacje pisemne wspomagane sztuczną inteligencją dotyczące przewlekłej szczeliny odbytu – ClinicalTrials.gov",
@@ -1658,7 +1650,7 @@
       "summary": "Poprawa zdrowia społeczności North Shore poprzez żywność pochodzącą z oceanów i uprawianą na farmach (badanie ANCHOR) (ANCHOR) ClinicalTrials.gov."
     },
     {
-      "title": "Bezpieczeństwo i skuteczność kanagliflozyny u pacjentów z miejscowo zaawansowanym lub zaawansowanym nowotworem litym (SGLT2SOLID) - ClinicalTrials.gov",
+      "title": "Bezpieczeństwo i skuteczność kanagliflozyny u pacjentów z miejscowo zaawansowanym lub zaawansowanym rakiem litym (SGLT2SOLID) - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07703163",
       "date": "2026-07-14T18:30:20Z",
       "source": "ClinicalTrials.gov",
@@ -1738,7 +1730,7 @@
       "summary": "Szczegóły badania | NCT07703592 | Porównanie ręcznego PAOP i automatycznego PAOP (Smart Wedge) ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07702032 | Badanie dotyczące chemioterapii Petosemtamab Plus w porównaniu z chemioterapią Cetuximab Plus w leczeniu lewostronnego raka jelita grubego z RAS i BRAF typu dzikiego, nieoperacyjnego lub z przerzutami – ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07702032 | Badanie skuteczności chemioterapii Petosemtamab Plus w porównaniu z chemioterapią Cetuximab Plus w leczeniu lewostronnego raka jelita grubego z RAS i BRAF typu dzikiego, nieoperacyjnego lub z przerzutami – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07702032",
       "date": "2026-07-14T17:17:49Z",
       "source": "ClinicalTrials.gov",
@@ -2421,7 +2413,7 @@
       "date": "2026-07-15T12:08:53Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "WHO uruchomiła drugą kohortę programu szkoleń terenowych w zakresie epidemiologii w Syrii, wyposażając 37 pracowników służby zdrowia w umiejętności umożliwiające wzmocnienie nadzoru nad chorobami i reagowania na epidemie. Źródło zdjęcia: WHO Syria, 15 lipca..."
+      "summary": "WHO uruchomiła drugą kohortę programu szkoleń terenowych z zakresu epidemiologii w Syrii, wyposażając 37 pracowników służby zdrowia w umiejętności umożliwiające wzmocnienie nadzoru nad chorobami i reagowania na epidemie. Źródło zdjęcia: WHO Syria, 15 lipca..."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
