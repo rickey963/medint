@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T09:01:45Z",
+  "last_updated": "2026-07-15T09:02:36Z",
   "poland": [
     {
       "title": "Nowe wiceprezydentki Warszawy. Trzaskowski powierzył zdrowie Izabeli Marcewicz-Jendrysik - Alert Medyczny",
@@ -404,12 +404,20 @@
   ],
   "world": [
     {
+      "title": "Ubezpieczyciele Medicare Advantage stoją w obliczu nowej dwustronnej kontroli w sprawie sztucznej inteligencji i odmów opieki – STAT",
+      "url": "https://www.statnews.com/2026/07/15/medicare-advantage-ai-care-denials-probe-blumenthal-hawley/",
+      "date": "2026-07-15T09:01:44Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Blumenthal, Hawley naciskają na UnitedHealth, Humana, CVS, aby uzyskać dokumenty związane z wykorzystaniem sztucznej inteligencji do odmowy lub opóźnienia opieki."
+    },
+    {
       "title": "Pod nowym liderem centrum leków biologicznych FDA stara się uspokoić po burzliwym rozdziale – STAT",
       "url": "https://www.statnews.com/2026/07/15/fda-cber-acting-director-karim-mikhail-return-normal-vinay-prasad/",
       "date": "2026-07-15T08:34:43Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Po burzliwej kadencji swojego poprzednika Karim Michaił pracuje nad przywróceniem morale personelu i ponownym rozpatrzeniem kontrowersyjnych odmów."
+      "summary": "Po burzliwej kadencji swojego poprzednika Karim Michaił pracuje nad przywróceniem morale pracowników i ponownym rozpatrzeniem kontrowersyjnych odmów."
     },
     {
       "title": "Nowy startup biotechnologiczny stara się walczyć z otyłością, ale nie w sposób, jakiego można by się spodziewać – STAT",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Akromegalia wiąże się z wyższym ryzykiem raka jelita grubego i łagodnych zmian w jelicie grubym, ale ogólne długoterminowe ryzyko raka i śmiertelność z powodu nowotworu pozostają porównywalne z populacją ogólną."
-    },
-    {
-      "title": "Neoplazja szyjki macicy: aktywny nadzór czy natychmiastowe wycięcie? - Medyczny",
-      "url": "https://www.medscape.com/viewarticle/cervical-neoplasia-active-surveillance-or-immediate-excision-2026a1000nle",
-      "date": "2026-07-14T12:02:11Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Aktywny nadzór pod kątem śródnabłonkowej neoplazji szyjki macicy stopnia 2 wiąże się z ryzykiem niekorzystnych wyników ciąży podobnym do tego, które obserwuje się w przypadku natychmiastowego wycięcia strefy transformacji."
     }
   ],
   "guidelines": [
@@ -1062,12 +1062,12 @@
       "summary": "ST. LOUIS — Amerykańskie Stowarzyszenie Optometryczne (AOA) ogłosiło, że rozpoczęło 30-dniowy okres wzajemnej i publicznej oceny drugiego wydania opartych na dowodach wytycznych dotyczących praktyki klinicznej „Kompleksowe badanie wzroku i wzroku u dzieci”. Komentarze będą przyjmowane do 5 sierpnia 2026 r."
     },
     {
-      "title": "Formy lecznicze | Elinzanetant | Narkotyki – BNF",
-      "url": "https://bnf.nice.org.uk/drugs/elinzanetant/medicinal-forms/",
-      "date": "2026-07-11T10:30:09Z",
+      "title": "Notatki | Dokumenty projektowe | Doustny paklitaksel z encequidarem w leczeniu zaawansowanego raka piersi [ID5111] | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/gid-ta11022/documents/html-content-2",
+      "date": "2026-07-11T09:10:35Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Formy lecznicze | Elinzanetant | Narkotyki BNF."
+      "summary": "Notatki | Dokumenty projektowe | Doustny paklitaksel z encequidarem w leczeniu zaawansowanego raka piersi [ID5111] | Poradnik NICE."
     },
     {
       "title": "Prezydium NRL wnioskuje o odrzucenie nowelizacji ustawy o zawodach lekarza i lekarza dentysty - NIL",
@@ -1076,14 +1076,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "[Wywiad] Nowe wytyczne KASL dotyczące wirusowego zapalenia wątroby typu B skupiają się na DNA wirusa HBV, ale występują opóźnienia w refundacji - koreabiomed.com",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=32390",
-      "date": "2026-07-10T06:03:27Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Niedawno zmienione wytyczne dotyczące praktyki klinicznej wirusowego zapalenia wątroby typu B wydane przez Koreańskie Stowarzyszenie Badań nad Wątrobą (KASL) umieściły koreańskie standardy leczenia przewlekłego wirusowego zapalenia wątroby typu B w punkcie zwrotnym. Do tej pory głównym kryterium była podwyższona aktywność aminotransferazy alaninowej (ALT)."
     },
     {
       "title": "Odcinek 13: Sztuczna inteligencja i rozwiązania cyfrowe w medycynie ratunkowej – Postępowanie w niewydolności serca w amyloidozie sercowej – ESC 365",
@@ -1448,7 +1440,7 @@
       "summary": "Klad HPAI A(H5N1) 2.3.4.4b Genotyp D1.1."
     },
     {
-      "title": "WHO potwierdziło, że Salwador wyeliminował jaglicę jako problem zdrowia publicznego – Światowa Organizacja Zdrowia (WHO)",
+      "title": "WHO uznało, że Salwador wyeliminował jaglicę jako problem zdrowia publicznego – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
       "date": "2026-07-13T15:29:27Z",
       "source": "WHO Disease Outbreak News",
@@ -1702,7 +1694,7 @@
       "url": "https://www.appliedclinicaltrialsonline.com/view/selective-safety-data-collection-simpler-trials-rob-dicicco-transcelerate-biopharma",
       "date": "2026-07-14T17:00:25Z",
       "source": "Applied Clinical Trials",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Selektywne gromadzenie danych o bezpieczeństwie i uzasadnienie prostszych badań: pytania i odpowiedzi z Robem DiCicco, stosowane badania kliniczne TransCelerate Biopharma online."
     },
     {
@@ -1931,6 +1923,14 @@
     }
   ],
   "pharma_market": [
+    {
+      "title": "Narzędzie do sprawdzania interakcji Diochloya – Drugs.com",
+      "url": "https://www.drugs.com/drug-interactions/calcipotriene-clobetasol-topical,diochloy.html?professional=1",
+      "date": "2026-07-15T08:03:08Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Wiadomo, że 130 leków wchodzi w interakcje z Diochloyem."
+    },
     {
       "title": "Pliki startupu I&I Attovia zostaną upublicznione w miarę wzrostu dynamiki notowań biotechnologicznych – Wiadomości z punktów końcowych",
       "url": "https://endpoints.news/ii-startup-attovia-files-to-go-public-as-biotech-listings-momentum-builds/",
@@ -2322,14 +2322,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "WTOREK, 14 lipca 2026 r. Nieważne Pitt Prawdziwy dramat, który rozgrywa się na oddziałach ratunkowych w Ameryce, przygnębia lekarzy i być może pogarsza jakość opieki, jaką mogą zapewnić."
-    },
-    {
-      "title": "Oferta Erasca o wartości 550 mln dolarów; Summit sprzedaje antybiotyk – Endpoints News",
-      "url": "https://endpoints.news/erascas-550m-offering-summit-sells-an-antibiotic/",
-      "date": "2026-07-14T15:09:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "Celem Erasca jest oferta o wartości 550 mln dolarów; Summit sprzedaje ridinazol; FDA zatwierdza Leqembi do stosowania podskórnego w domu; Aktualizacja WuXi AppTec; i Q32 Bio planują ofertę o wartości 200 mln dolarów."
     }
   ],
   "critical_alerts": [
