@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T11:25:31Z",
+  "last_updated": "2026-07-15T11:26:13Z",
   "poland": [
     {
       "title": "Remont samolotu w locie - Termedia",
@@ -234,6 +234,14 @@
       "summary": "Najnowsze wyniki kontroli NIK. Dowiedz się, jak dbamy o efektywne wykorzystanie środków publicznych."
     },
     {
+      "title": "Wyszukane artykuły - \"WCCK\" - Najwyższa Izba Kontroli",
+      "url": "https://www.nik.gov.pl/tagi/wcck.html?find=WCCK&p=p&findMini=Szukaj&t=tag",
+      "date": "2026-07-15T06:30:00Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Najnowsze wyniki kontroli NIK. Dowiedz się, jak dbamy o efektywne wykorzystanie środków publicznych."
+    },
+    {
       "title": "Jawność umów w szpitalach. Rząd szykuje nowe obowiązki dla podmiotów leczniczych - Alert Medyczny",
       "url": "https://alertmedyczny.pl/jawnosc-umow-w-szpitalach-rzad-szykuje-nowe-obowiazki-dla-podmiotow-leczniczych/",
       "date": "2026-07-15T06:30:00Z",
@@ -248,14 +256,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Tłumy chętnych na studia w Szczecinie. Medycyna i psychologia wśród najpopularniejszych kierunków PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Wyszukane artykuły - \"WCCK\" - Najwyższa Izba Kontroli",
-      "url": "https://www.nik.gov.pl/tagi/wcck.html?find=WCCK&p=p&findMini=Szukaj&t=tag",
-      "date": "2026-07-15T06:30:00Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Najnowsze wyniki kontroli NIK. Dowiedz się, jak dbamy o efektywne wykorzystanie środków publicznych."
     },
     {
       "title": "Wyszukane artykuły - \"Warszawski Szpital Południowy\" - Najwyższa Izba Kontroli",
@@ -1078,14 +1078,6 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "[Wywiad] Nowe wytyczne KASL dotyczące wirusowego zapalenia wątroby typu B skupiają się na DNA wirusa HBV, ale występują opóźnienia w refundacji - koreabiomed.com",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=32390",
-      "date": "2026-07-10T06:03:27Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Nowo zmienione wytyczne dotyczące praktyki klinicznej wirusowego zapalenia wątroby typu B wydane przez Koreańskie Stowarzyszenie Badań nad Wątrobą (KASL) umieściły koreańskie standardy leczenia przewlekłego wirusowego zapalenia wątroby typu B w punkcie zwrotnym. Do tej pory głównym kryterium była podwyższona aktywność aminotransferazy alaninowej (ALT)."
-    },
-    {
       "title": "Odcinek 13: Sztuczna inteligencja i rozwiązania cyfrowe w medycynie ratunkowej – Postępowanie w niewydolności serca w amyloidozie sercowej – ESC 365",
       "url": "https://esc365.escardio.org/event/2551",
       "date": "2026-07-09T17:23:10Z",
@@ -1531,6 +1523,14 @@
   "clinical_trials": [
     {
       "title": "AAIC26: Akcje Biogenu spadają po ujawnieniu danych ASO dotyczących białka tau – Arena Badań Klinicznych",
+      "url": "https://www.clinicaltrialsarena.com/news/aaic26-biogen-stock-drops-after-unveiling-tau-targeting-aso-data",
+      "date": "2026-07-15T10:45:56Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "AAIC26: Akcje Biogenu spadają po ujawnieniu danych ASO dotyczących ukierunkowanych na tau obiektów Clinical Trials Arena."
+    },
+    {
+      "title": "AAIC26: Akcje Biogenu spadają po ujawnieniu danych ASO dotyczących białka tau – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/aaic26-biogen-stock-drops-after-unveiling-tau-targeting-aso-data/",
       "date": "2026-07-15T10:38:07Z",
       "source": "Clinical Trials Arena",
@@ -1626,7 +1626,7 @@
       "summary": "Poprawa zdrowia społeczności North Shore poprzez żywność pochodzącą z oceanów i uprawianą na farmach (badanie ANCHOR) (ANCHOR) ClinicalTrials.gov."
     },
     {
-      "title": "Bezpieczeństwo i skuteczność kanagliflozyny u pacjentów z miejscowo zaawansowanym lub zaawansowanym rakiem litym (SGLT2SOLID) - ClinicalTrials.gov",
+      "title": "Bezpieczeństwo i skuteczność kanagliflozyny u pacjentów z miejscowo zaawansowanym lub zaawansowanym nowotworem litym (SGLT2SOLID) - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07703163",
       "date": "2026-07-14T18:30:20Z",
       "source": "ClinicalTrials.gov",
@@ -1718,7 +1718,7 @@
       "url": "https://www.appliedclinicaltrialsonline.com/view/selective-safety-data-collection-simpler-trials-rob-dicicco-transcelerate-biopharma",
       "date": "2026-07-14T17:00:25Z",
       "source": "Applied Clinical Trials",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Selektywne gromadzenie danych o bezpieczeństwie i uzasadnienie prostszych badań: pytania i odpowiedzi z Robem DiCicco, stosowane badania kliniczne TransCelerate Biopharma online."
     },
     {
@@ -1920,14 +1920,6 @@
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "Czego wymaga rekrutacja na poziomie programu od sponsorów w zakresie operacyjnych badań klinicznych online."
-    },
-    {
-      "title": "Produkcja leków typu „hub-and-szprychy” odniesie korzyści z nowych przepisów FDA – Clinical Trials Arena",
-      "url": "https://www.clinicaltrialsarena.com/news/hub-and-spoke-drug-manufacturing-set-to-benefit-from-new-fda-rule/",
-      "date": "2026-07-13T11:21:18Z",
-      "source": "Clinical Trials Arena",
-      "confirmed_by": 1,
-      "summary": "Produkcja leków typu „hub-and-szprychy” odniesie korzyści z nowych przepisów FDA Clinical Trials Arena."
     }
   ],
   "pharma_market": [
