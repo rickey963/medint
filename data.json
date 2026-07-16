@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-16T10:57:01Z",
+  "last_updated": "2026-07-16T10:57:42Z",
   "poland": [
+    {
+      "title": "Wywiad medyczny to nie formalność. RPP wskazuje, jakie pytania są niezbędne w ankiecie - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/wywiad-medyczny-to-nie-formalnosc-rpp-wskazuje-jakie-pytania-sa-niezbedne-w-ankiecie/",
+      "date": "2026-07-16T10:56:00Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "RPP przypomina, że wywiad medyczny przed świadczeniem to element bezpieczeństwa pacjenta. Wskazuje też, jakie pytania powinny znaleźć się w ankiecie."
+    },
     {
       "title": "Zaraziła się bakterią zjadającą tkanki. Objawy poprzedziło zjedzenie krewetek - Medonet",
       "url": "https://www.medonet.pl/choroby-od-a-do-z/zatrucia/zjadla-smazone-krewetki-bakteria-zaatakowala-jej-cialo-zaczelo-sie-od-wysypki/1l6l0bk",
@@ -392,14 +400,6 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Aby uzyskać archiwalną wersję należy skontaktować się z Redakcją BIP."
-    },
-    {
-      "title": "Wiadomości (strona 55) - Narodowe Centrum Krwi - Gov.pl",
-      "url": "https://www.gov.pl/web/nck/wiadomosci1?page=55&size=10",
-      "date": "2026-07-15T18:51:33Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Wiadomości (strona 55) - Narodowe Centrum Krwi Gov.pl."
     }
   ],
   "world": [
@@ -843,7 +843,7 @@
       "date": "2026-07-15T21:46:53Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Siedem niezależnych oddziałów ratunkowych STHS zostało docenionych za swoje zaangażowanie w doskonałość resuscytacji, a STHS ER McColl, STHS ER Ware Road i STHS ER Weslaco zdobyły srebrną nagrodę Get With The Guidelines® – Resuscitation."
+      "summary": "Niezależne oddziały ratunkowe STHS zdobyły uznanie Amerykańskiego Stowarzyszenia Kardiologicznego za wysokiej jakości opiekę resuscytacyjną Rio Grande Guardian."
     },
     {
       "title": "Sprawozdania Parlamentu Europejskiego zawierają kilka zapytań ESMO i istotnie wzmacniają propozycje Komisji Europejskiej w ramach „pakietu zdrowotnego” - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -2177,7 +2177,7 @@
       "date": "2026-07-15T17:56:20Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Wiadomo, że 408 leków wchodzi w interakcję ze Sting-Kill. Obejmuje ibuprofen, atorwastatynę, acetaminofen."
+      "summary": "Wiadomo, że 408 leków wchodzi w interakcje ze Sting-Kill. Obejmuje ibuprofen, atorwastatynę, acetaminofen."
     },
     {
       "title": "Narzędzie do sprawdzania interakcji AleveX – Drugs.com",
