@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T02:51:26Z",
+  "last_updated": "2026-07-16T02:52:11Z",
   "poland": [
     {
       "title": "Czechy: śledztwo ws. setek wszczepień ICD. Szpital potwierdził nieprawidłowości - Alert Medyczny",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Redukcja ryzyka jako kluczowy element zapobiegania demencji - The Lancet",
+      "url": "https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(26)00251-6/fulltext",
+      "date": "2026-07-16T02:09:06Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Redukcja ryzyka jako kluczowy element zapobiegania demencji The Lancet."
+    },
+    {
       "title": "Wirus Andów — przegląd kliniczny — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2606651",
       "date": "2026-07-16T01:53:30Z",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Chociaż szczepienia są jedną z najskuteczniejszych interwencji w zakresie zdrowia publicznego, ich zasięg utrzymuje się na stałym poziomie od 2024 r., jednak dane podkreślają niepokojącą tendencję w kierunku kluczowych celów globalnego programu szczepień do roku 2030 (IA2030)."
-    },
-    {
-      "title": "Szybki quiz na piątkę: Demodex Blepharitis - Medscape",
-      "url": "https://reference.medscape.com/viewarticle/demodex-blepharitis-2026a1000lq1?src=",
-      "date": "2026-07-15T14:06:49Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Co wiesz o zapaleniu powiek wywołanym przez Demodex? Sprawdź się w tym krótkim quizie."
     }
   ],
   "guidelines": [
@@ -1622,7 +1622,7 @@
       "url": "https://www.appliedclinicaltrialsonline.com/view/fda-finalizes-guidance-clinical-trial-design-psychedelic-drug-development",
       "date": "2026-07-15T17:18:56Z",
       "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "FDA finalizuje wytyczne dotyczące projektowania badań klinicznych online w zakresie stosowanych badań klinicznych dotyczących opracowywania leków psychedelicznych."
     },
     {
@@ -2480,20 +2480,20 @@
   ],
   "daily_top5": [
     {
+      "title": "Redukcja ryzyka jako kluczowy element zapobiegania demencji - The Lancet",
+      "url": "https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(26)00251-6/fulltext",
+      "date": "2026-07-16T02:09:06Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Redukcja ryzyka jako kluczowy element zapobiegania demencji The Lancet."
+    },
+    {
       "title": "Wirus Andów — przegląd kliniczny — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2606651",
       "date": "2026-07-16T01:53:30Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Wirus Andów — przegląd kliniczny The New England Journal of Medicine."
-    },
-    {
-      "title": "Systemy uciskowe stosowane w leczeniu owrzodzeń żylnych podudzi: metaanaliza sieci i analiza opłacalności - The Lancet",
-      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00318-4/fulltext",
-      "date": "2026-07-16T01:22:26Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Systemy uciskowe na żylne owrzodzenia podudzi: metaanaliza sieci i analiza opłacalności The Lancet."
     },
     {
       "title": "Nowe wytyczne WHO: można zapobiec lub opóźnić nawet 45% ryzyka demencji – Światowa Organizacja Zdrowia (WHO)",
