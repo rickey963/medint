@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T09:12:57Z",
+  "last_updated": "2026-07-16T09:13:40Z",
   "poland": [
     {
       "title": "Sześć punktów. Związku Aptek Franczyzowych pokazuje, jakich chce zmian - PolitykaZdrowotna.com",
@@ -86,7 +86,7 @@
       "url": "https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/zmiany-w-wycenach-swiadczen-i-34-tys-aneksow-do-podpisu-nfz-wdraza-rekomendacje-aotmit,8978.html",
       "date": "2026-07-16T07:22:51Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Co roku Agencja Oceny Technologii Medycznych i Taryfikacji przygotowuje rekomendacje dotyczące wzrostu wynagrodzeń w ochronie zdrowia. Tegoroczna rekomendacja wiąże się m.in. ze zmianą taryf..."
     },
     {
@@ -460,6 +460,14 @@
       "summary": "Genetyka choroby Parkinsona u różnych przodków: obserwacyjne badanie genetyczne wariantów przyczynowych i ryzyka z implikacjami translacyjnymi The Lancet."
     },
     {
+      "title": "GCO Cancer Today – Globalne Obserwatorium Raka",
+      "url": "https://gco.iarc.who.int/today/en/dataviz/tables-prevalence?mode=cancer&populations=988&key=asr&sort_by=value1&types=2&group_populations=1&multiple_populations=1&options_indicator=%5Bobject%20Object%5D_%5Bobject%20Object%5D&reset=1",
+      "date": "2026-07-16T02:05:21Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "CANCER TODAY umożliwia kompleksową ocenę obciążenia nowotworami na całym świecie w 2024 r. w oparciu o szacunki GLOBOCAN dotyczące zapadalności, śmiertelności i chorobowości na rok 2024 w 186 krajach lub terytoriach dla 36 typów nowotworów według płci i grupy wiekowej."
+    },
+    {
       "title": "Wirus Andów — przegląd kliniczny — The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2606651",
       "date": "2026-07-16T01:53:30Z",
@@ -794,14 +802,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Zaloguj się do swojego konta NEJM Group My Account, aby zarządzać informacjami profilowymi i indywidualnymi subskrypcjami w naszych produktach."
-    },
-    {
-      "title": "Ponadpartyjni prawodawcy chcą wymagać od Stanów Zjednoczonych zbadania zależności od leków i składników wytwarzanych za granicą – STAT",
-      "url": "https://www.statnews.com/pharmalot/2026/07/15/bill-would-require-us-probe-reliance-on-foreign-made-drugs-and-ingredients/",
-      "date": "2026-07-15T17:29:07Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Trójka ponadpartyjnych prawodawców ponownie przedstawiła projekt ustawy nakładający na FTC i skarb państwa obowiązek zbadania, czy Stany Zjednoczone w ramach swojego farmaceutycznego łańcucha dostaw nie są w zbyt dużym stopniu uzależnione od obcych krajów."
     }
   ],
   "guidelines": [
