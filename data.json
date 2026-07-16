@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T00:47:03Z",
+  "last_updated": "2026-07-16T00:47:42Z",
   "poland": [
     {
       "title": "Czechy: śledztwo ws. setek wszczepień ICD. Szpital potwierdził nieprawidłowości - Alert Medyczny",
@@ -596,6 +596,14 @@
       "summary": "Badanie ujawniło różowe grudki i pęcherzyki zapalne z obszarami brązowej łuski o rozkładzie liniowym rozciągającym się od tuż nad prawą kostką przyśrodkową do prawego fałdu pachwinowego."
     },
     {
+      "title": "GCO Cancer Today – Globalne Obserwatorium Raka",
+      "url": "https://gco.iarc.who.int/today/en/dataviz/tables-prevalence?mode=cancer&sexes=2&types=1&key=total&group_populations=0&multiple_populations=1&reset=1",
+      "date": "2026-07-15T19:53:01Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "CANCER TODAY umożliwia kompleksową ocenę obciążenia nowotworami na całym świecie w 2024 r. w oparciu o szacunki GLOBOCAN dotyczące zapadalności, śmiertelności i chorobowości na rok 2024 w 186 krajach lub terytoriach dla 36 typów nowotworów według płci i grupy wiekowej."
+    },
+    {
       "title": "Cassidy w gorącej wymianie zdań krytykuje kandydata Trumpa w związku z komentarzami dotyczącymi wcześniejszych szczepionek – STAT",
       "url": "https://www.statnews.com/2026/07/15/bill-cassidy-sean-kaufman-confirmation-clash-mrna-hepatitis-b-vaccines/",
       "date": "2026-07-15T17:59:09Z",
@@ -794,14 +802,6 @@
       "source": "Cochrane Library",
       "confirmed_by": 1,
       "summary": "Często u pacjentów z nadciśnieniem hiperurykemia często ulega zaostrzeniu w wyniku stosowania zalecanych w wytycznych terapii przeciwnadciśnieniowych, takich jak tiazydowe leki moczopędne. Losartan jest znany jako antagonista receptora angiotensyny II typu 1 wywołujący efekt urykozuryczny, ale wielkość jego skuteczności w zmniejszaniu stężenia moczanów nie została określona ilościowo w porównaniu z placebo. Staraliśmy się określić ilościowo wpływ losartanu na zmniejszenie stężenia moczanów w porównaniu z placebo, stosując dwa uzupełniające się podejścia."
-    },
-    {
-      "title": "Antykoncepcja hormonalna a rak jelita grubego – BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100222",
-      "date": "2026-07-15T11:17:47Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Pocieszające wyniki, wciąż zadawane pytania W ostatnim czasie rak jelita grubego stał się najczęstszym nowotworem przewodu pokarmowego o wczesnym początku (tj. przed 50. rokiem życia) na świecie i pozostaje trzecim pod względem częstości występowania nowotworem u kobiet.1 Częstość występowania raka jelita grubego wśród dorosłych w wieku poniżej 50 lat gwałtownie wzrosła w ciągu ostatnich dwóch dekad, a czynniki przyczyniające się do tego nowotworu pozostają słabo poznane. Do tej pory stosowanie antykoncepcji hormonalnej wiązało się z brakiem skutków lub zmniejszonym ryzykiem raka jelita grubego w populacji ogólnej.2 Jednakże większość istniejącej literatury jest ograniczona ze względu na powtarzające się problemy metodologiczne, takie jak włączenie kobiet po menopauzie stosujących hormonalną terapię menopauzalną, poleganie na starszych preparatach antykoncepcyjnych, brak rozróżnienia między rodzajami środków antykoncepcyjnych, zgłaszane przez same osoby narażenie z błędem przypominania, mała wielkość próby i nieodpowiednie dostosowanie do czynników zakłócających.3 W powiązanym badaniu 4 Lange i wsp. przedstawiają wyniki dużego badania kohortowego sprawdzającego, czy stosowanie współczesnych hormonalnych środków antykoncepcyjnych wpływa na ryzyko raka jelita grubego u kobiet przed menopauzą (doi: 10.1136/bmj-2026-100065). W tej ogólnokrajowej kohorcie prawie dwóch milionów kobiet w wieku przedmenopauzalnym…."
     }
   ],
   "guidelines": [
@@ -811,7 +811,7 @@
       "date": "2026-07-15T21:46:53Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Siedem niezależnych oddziałów ratunkowych STHS zostało docenionych za swoje zaangażowanie w doskonałość resuscytacji, a STHS ER McColl, STHS ER Ware Road i STHS ER Weslaco zdobyły srebrną nagrodę Get With The Guidelines® – Resuscitation."
+      "summary": "Niezależne oddziały ratunkowe STHS zdobyły uznanie Amerykańskiego Stowarzyszenia Kardiologicznego za wysokiej jakości opiekę resuscytacyjną Rio Grande Guardian."
     },
     {
       "title": "Sprawozdania Parlamentu Europejskiego zawierają kilka zapytań ESMO i istotnie wzmacniają propozycje Komisji Europejskiej w ramach „pakietu zdrowotnego” - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1622,7 +1622,7 @@
       "url": "https://www.appliedclinicaltrialsonline.com/view/fda-finalizes-guidance-clinical-trial-design-psychedelic-drug-development",
       "date": "2026-07-15T17:18:56Z",
       "source": "Applied Clinical Trials",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "FDA finalizuje wytyczne dotyczące projektowania badań klinicznych w zakresie stosowanych badań klinicznych online w zakresie opracowywania leków psychedelicznych."
     },
     {
@@ -1916,7 +1916,7 @@
     {
       "title": "Streszczenie ACT: Strategia rekrutacji na poziomie portfela, pobieranie próbek w czasie rzeczywistym i terapia raka pęcherza moczowego niezawierająca platyny – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/portfolio-level-recruitment-strategy-real-time-burden-sampling-platinum-free-bladder-cancer-therapy",
-      "date": "2026-07-14T10:42:59Z",
+      "date": "2026-07-14T10:41:15Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "Krótki opis ACT: Strategia rekrutacji na poziomie portfela, pobieranie próbek w czasie rzeczywistym i badania kliniczne stosowane w terapii raka pęcherza moczowego niezawierającego platyny."
