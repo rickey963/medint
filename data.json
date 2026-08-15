@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-15T22:20:16Z",
+  "last_updated": "2026-08-15T22:21:00Z",
   "poland": [
+    {
+      "title": "Forum Diagnostyki Obrazowej [Nasz patronat] - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/wydarzenia/forum-diagnostyki-obrazowej/",
+      "date": "2026-08-15T22:19:53Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Forum Diagnostyki Obrazowej odbędzie się 15-17 września 2026 r. w Nadarzynie. Bezpłatne targi i konferencje dla branży diagnostyki obrazowej."
+    },
     {
       "title": "AUDIO-MED Expo 2026 [Nasz patronat] - Alert Medyczny",
       "url": "https://alertmedyczny.pl/wydarzenia/audio-med-expo-2026/",
@@ -8,14 +16,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "AUDIO-MED Expo 2026 odbędzie się 15–17 września w Nadarzynie. Poznaj program targów audiologii i protetyki słuchu oraz zasady udziału."
-    },
-    {
-      "title": "Forum Diagnostyki Obrazowej [Nasz patronat] - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/wydarzenia/forum-diagnostyki-obrazowej/",
-      "date": "2026-08-15T21:21:37Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Forum Diagnostyki Obrazowej odbędzie się 15-17 września 2026 r. w Nadarzynie. Bezpłatne targi i konferencje dla branży diagnostyki obrazowej."
     },
     {
       "title": "Po porodzie przestała wstawać z łóżka. Deynn ujawniła, co skłoniło ją do pilnej wizyty u psychiatry - Medonet",
@@ -386,7 +386,7 @@
       "summary": "Komunikat o stwierdzeniu przydatności wody do spożycia Gov.pl."
     },
     {
-      "title": "Pacjent odmówił badania, przychodnia zapłaci? - podyplomie.pl",
+      "title": "Pacjent odmówił badania, przychodnia zapłaci? - Podyplomie.pl",
       "url": "https://podyplomie.pl/aktualnosci/pacjent-odmowil-badania-przychodnia-zaplaci",
       "date": "2026-08-13T14:04:00Z",
       "source": "Medycyna po Dyplomie",
@@ -1530,30 +1530,6 @@
       "summary": "Wpływ leku Elagolix na objawowego endometriozę w porównaniu ze złożonymi doustnymi pigułkami antykoncepcyjnymi. (endometrioma) ClinicalTrials.gov."
     },
     {
-      "title": "Ocena preferencji i kompromisów w zakresie konsultacji elektronicznych opartych na sztucznej inteligencji dla osób starszych w ramach podstawowej opieki zdrowotnej – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07766694",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Ocena preferencji i kompromisów w zakresie konsultacji elektronicznych opartych na sztucznej inteligencji dla osób starszych w ramach podstawowej opieki zdrowotnej ClinicalTrials.gov."
-    },
-    {
-      "title": "Szczegóły badania | NCT07765641 | Interaktywna edukacja w zakresie cyberzdrowia oparta na demonstracjach wśród uczniów szkół średnich – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07765641",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07765641 | Interaktywna edukacja w zakresie cyberzdrowia oparta na demonstracjach wśród uczniów szkół średnich ClinicalTrials.gov."
-    },
-    {
-      "title": "Szczegóły badania | NCT07766096 | Wpływ jednostronnego złożonego treningu na asymetrię siły kończyn dolnych i wyniki sportowe koszykarzy - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07766096",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07766096 | Wpływ jednostronnego złożonego treningu na asymetrię siły kończyn dolnych i wyniki sportowe koszykarzy ClinicalTrials.gov."
-    },
-    {
       "title": "Szczegóły badania | NCT07764705 | Badanie bilansu masy [14C]HS-10504 – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07764705",
       "date": "2026-08-14T07:00:00Z",
@@ -1568,6 +1544,30 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07764913 | Skutki treningu funkcjonalnego a treningu dwuzadaniowego u dzieci uczęszczających do szkoły ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07765641 | Interaktywna edukacja w zakresie cyberzdrowia oparta na demonstracjach wśród uczniów szkół średnich – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07765641",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07765641 | Interaktywna edukacja w zakresie cyberzdrowia oparta na demonstracjach wśród uczniów szkół średnich ClinicalTrials.gov."
+    },
+    {
+      "title": "Ocena preferencji i kompromisów w zakresie konsultacji elektronicznych opartych na sztucznej inteligencji dla osób starszych w ramach podstawowej opieki zdrowotnej – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07766694",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Ocena preferencji i kompromisów w zakresie konsultacji elektronicznych opartych na sztucznej inteligencji dla osób starszych w ramach podstawowej opieki zdrowotnej ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07766096 | Wpływ jednostronnego złożonego treningu na asymetrię siły kończyn dolnych i wyniki sportowe koszykarzy - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07766096",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07766096 | Wpływ jednostronnego złożonego treningu na asymetrię siły kończyn dolnych i wyniki sportowe koszykarzy ClinicalTrials.gov."
     },
     {
       "title": "Chemioterapia wlewem tętniczym wątrobowym u pacjentów z nieoperacyjnym rakiem jelita grubego z przerzutami do wątroby (HAIP-6192) - ClinicalTrials.gov",
