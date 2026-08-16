@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T13:06:04Z",
+  "last_updated": "2026-08-16T13:06:44Z",
   "poland": [
     {
       "title": "Forum Diagnostyki Obrazowej [Nasz patronat] - Alert Medyczny",
@@ -1232,28 +1232,20 @@
       "summary": "Dyskusja dotyczyła tego, dlaczego wirusy ptasiej grypy są tak dokładnie monitorowane, na co zwracają uwagę naukowcy oceniając potencjał pandemii oraz dlaczego nadzór, wczesne wykrywanie i podejście „Jedno zdrowie” są niezbędne do ograniczenia ryzyka szerszego rozprzestrzeniania się."
     },
     {
+      "title": "Poziomy aktywności wirusa układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Poziomy aktywności wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
       "title": "Epidemia Salmonelli powiązana z Jalapeños – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/salmonella/outbreaks/javiana-08-26/index.html",
       "date": "2026-08-14T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Epidemia Salmonelli powiązana z Centrami Kontroli i Zapobiegania Chorobom Jalapeños | CDC (.gov)."
-    },
-    {
-      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Zespół prognoz COVID-19 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Trwałe szczepy Campylobacter jejuni (REPDBR01) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/campylobacter/php/data-research/rep-strain/index.html",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Trwałe szczepy Campylobacter jejuni (REPDBR01) Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1264,20 +1256,28 @@
       "summary": "Przypadki i ogniska odry Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Poziomy aktywności wirusa układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Poziomy aktywności wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
-    },
-    {
       "title": "Trendy w szczepieniach | Choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
       "date": "2026-08-14T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Trendy w szczepieniach | Centra kontroli i zapobiegania chorobom układu oddechowego | CDC (.gov)."
+    },
+    {
+      "title": "Trwałe szczepy Campylobacter jejuni (REPDBR01) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/campylobacter/php/data-research/rep-strain/index.html",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Trwałe szczepy Campylobacter jejuni (REPDBR01) Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Zespół prognoz COVID-19 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – ecdc.europa.eu",
