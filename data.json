@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T13:39:46Z",
+  "last_updated": "2026-08-16T13:40:36Z",
   "poland": [
     {
       "title": "AUDIO-MED Expo 2026 [Nasz patronat] - Alert Medyczny",
@@ -1232,28 +1232,20 @@
       "summary": "Dyskusja dotyczyła tego, dlaczego wirusy ptasiej grypy są tak dokładnie monitorowane, na co zwracają uwagę naukowcy oceniając potencjał pandemii oraz dlaczego nadzór, wczesne wykrywanie i podejście „Jedno zdrowie” są niezbędne do ograniczenia ryzyka szerszego rozprzestrzeniania się."
     },
     {
+      "title": "Poziomy aktywności wirusa układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Poziomy aktywności wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
       "title": "Epidemia Salmonelli powiązana z Jalapeños – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/salmonella/outbreaks/javiana-08-26/index.html",
       "date": "2026-08-14T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Epidemia Salmonelli powiązana z Centrami Kontroli i Zapobiegania Chorobom Jalapeños | CDC (.gov)."
-    },
-    {
-      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Zespół prognoz COVID-19 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Trwałe szczepy Campylobacter jejuni (REPDBR01) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/campylobacter/php/data-research/rep-strain/index.html",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Trwałe szczepy Campylobacter jejuni (REPDBR01) Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1264,6 +1256,14 @@
       "summary": "Przypadki i ogniska odry Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
+      "title": "Trendy w szczepieniach | Choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Trendy w szczepieniach | Centra kontroli i zapobiegania chorobom układu oddechowego | CDC (.gov)."
+    },
+    {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-14T07:00:00Z",
@@ -1272,20 +1272,20 @@
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
-      "title": "Poziomy aktywności wirusa układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
+      "title": "Trwałe szczepy Campylobacter jejuni (REPDBR01) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/campylobacter/php/data-research/rep-strain/index.html",
       "date": "2026-08-14T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Poziomy aktywności wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Trwałe szczepy Campylobacter jejuni (REPDBR01) Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Trendy w szczepieniach | Choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
+      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
       "date": "2026-08-14T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Trendy w szczepieniach | Centra kontroli i zapobiegania chorobom układu oddechowego | CDC (.gov)."
+      "summary": "Zespół prognoz COVID-19 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Kanał danych o chorobach układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1961,7 +1961,7 @@
       "date": "2026-08-15T14:47:23Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Wiadomo, że 124 leki wchodzą w interakcje z Lopidem. Obejmuje atorwastatynę, meloksykam, karwedilol."
+      "summary": "Lopid Interakcje Checker Drugs.com."
     },
     {
       "title": "Interakcje nalewki jodowej – Drugs.com",
