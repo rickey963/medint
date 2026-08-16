@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T00:39:26Z",
+  "last_updated": "2026-08-16T00:40:15Z",
   "poland": [
     {
       "title": "Forum Diagnostyki Obrazowej [Nasz patronat] - Alert Medyczny",
@@ -409,7 +409,7 @@
       "date": "2026-08-15T23:08:46Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Wprowadzenie Zaburzenia równowagi są główną przyczyną upadków, ograniczenia mobilności i utraty niezależności u osób po udarze. Terapia wibracyjna (VT) jest coraz częściej badana jako nieinwazyjna interwencja poprawiająca kontrolę postawy i równowagę u osób po udarze. Jednakże zgłaszane skutki pozostają niespójne i brakuje kompleksowej syntezy skupiającej się szczególnie na wynikach związanych z równowagą."
+      "summary": "W kierunku precyzyjnej terapii wibracyjnej dla równowagi po udarze: specyficzny dla danej dziedziny systematyczny przegląd i protokół metaanalizy BMJ Open."
     },
     {
       "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
@@ -441,7 +441,7 @@
       "date": "2026-08-15T19:26:51Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Cel Upadki wśród osób starszych zamieszkujących społeczności są powszechne i mają poważne konsekwencje indywidualne, społeczne i ekonomiczne. Pokrewni pracownicy służby zdrowia zapewniają kluczowe interwencje zapobiegające upadkom, jednak ich reprezentacja w aktualnych wytycznych praktyki klinicznej jest niespójna. Większe uznanie pokrewnych ról zdrowotnych i zapewnienie kontekstowych wytycznych dotyczących opieki nad upadkami może pomóc w rozwiązaniu problemu niedoborów kadrowych i optymalizacji podejścia do opieki."
+      "summary": "Rola pokrewnych zawodów medycznych w zapobieganiu upadkom starszych osób dorosłych zamieszkujących społeczności lokalne: przegląd zakresowy BMJ Open."
     },
     {
       "title": "Dietetyk — praca w Northampton w Northamptonshire Healthcare NHS Foundation Trust (kariera zdrowotna) | 838963 - BMJ",
@@ -620,7 +620,7 @@
       "summary": "Istnieje wiele sposobów upublicznienia osobistych doświadczeń i różnych sposobów opowiadania historii. Ta wystawa jest wspomnieniem jednego z nich, jest wizualną historią moich relacji z Europą, historią miłosną, która podzielona jest na trzy akty: I."
     },
     {
-      "title": "Zespół Stevensa-Johnsona z lekami przeciwpadaczkowymi - Clinician.nejm.org",
+      "title": "Zespół Stevensa-Johnsona i leki przeciwpadaczkowe – lekarz NEJM",
       "url": "https://clinician.nejm.org/stevensjohnson-syndrome-antiseizure-meds-clinjwna60421",
       "date": "2026-08-15T04:34:02Z",
       "source": "NEJM",
@@ -806,7 +806,7 @@
   ],
   "guidelines": [
     {
-      "title": "Epidemia chorób układu krążenia: realizacja programu Bezpieczne Serca Unii Europejskiej i krajowych planów działania - esc365.escardio.org",
+      "title": "Epidemia sercowo-naczyniowa: realizacja programu Bezpieczne Serca Unii Europejskiej i krajowych planów działania – ESC 365",
       "url": "https://esc365.escardio.org/session/54925",
       "date": "2026-08-15T08:38:09Z",
       "source": "ESC (kardiologia)",
@@ -1538,6 +1538,14 @@
       "summary": "Wpływ leku Elagolix na objawowego endometriozę w porównaniu ze złożonymi doustnymi pigułkami antykoncepcyjnymi. (endometrioma) ClinicalTrials.gov."
     },
     {
+      "title": "Ocena preferencji i kompromisów w zakresie konsultacji elektronicznych opartych na sztucznej inteligencji dla osób starszych w ramach podstawowej opieki zdrowotnej – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07766694",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Ocena preferencji i kompromisów w zakresie konsultacji elektronicznych opartych na sztucznej inteligencji dla osób starszych w ramach podstawowej opieki zdrowotnej ClinicalTrials.gov."
+    },
+    {
       "title": "Szczegóły badania | NCT07764705 | Badanie bilansu masy [14C]HS-10504 – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07764705",
       "date": "2026-08-14T07:00:00Z",
@@ -1568,14 +1576,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07766096 | Wpływ jednostronnego złożonego treningu na asymetrię siły kończyn dolnych i wyniki sportowe koszykarzy ClinicalTrials.gov."
-    },
-    {
-      "title": "Ocena preferencji i kompromisów w zakresie konsultacji elektronicznych opartych na sztucznej inteligencji dla osób starszych w ramach podstawowej opieki zdrowotnej – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07766694",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Ocena preferencji i kompromisów w zakresie konsultacji elektronicznych opartych na sztucznej inteligencji dla osób starszych w ramach podstawowej opieki zdrowotnej ClinicalTrials.gov."
     },
     {
       "title": "Chemioterapia wlewem tętniczym wątrobowym u pacjentów z nieoperacyjnym rakiem jelita grubego z przerzutami do wątroby (HAIP-6192) - ClinicalTrials.gov",
@@ -2222,7 +2222,7 @@
   ],
   "critical_alerts": [
     {
-      "title": "Epidemia chorób układu krążenia: realizacja programu Bezpieczne Serca Unii Europejskiej i krajowych planów działania - esc365.escardio.org",
+      "title": "Epidemia sercowo-naczyniowa: realizacja programu Bezpieczne Serca Unii Europejskiej i krajowych planów działania – ESC 365",
       "url": "https://esc365.escardio.org/session/54925",
       "date": "2026-08-15T08:38:09Z",
       "source": "ESC (kardiologia)",
