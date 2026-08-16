@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T09:06:28Z",
+  "last_updated": "2026-08-16T09:07:10Z",
   "poland": [
     {
       "title": "Dlaczego mężczyźni częściej chorują na gruźlicę? Nowe badanie wskazuje przyczynę - Alert Medyczny",
@@ -497,7 +497,7 @@
       "date": "2026-08-15T19:45:55Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Wprowadzenie Myalgiczne zapalenie mózgu i rdzenia/zespół chronicznego zmęczenia (ME/CFS) to przewlekła, powodująca niepełnosprawność choroba charakteryzująca się złym samopoczuciem powysiłkowym (PEM), dysfunkcją układu autonomicznego i znacznie obniżoną jakością życia. Częstość występowania tej choroby wzrosła w następstwie pandemii Covid-19, jednak nie są dostępne skuteczne metody leczenia modyfikujące przebieg choroby, a mechanizmy leżące u jej podstaw pozostają niejasne. Dowody wskazują na rozregulowanie układu odpornościowo-metabolicznego, upośledzony metabolizm energetyczny, dysfunkcję naczyń i zmienioną obsługę tlenu."
+      "summary": "REenergizeME: przerywane leczenie hipoksją i hiperoksją w leczeniu mięśniowego zapalenia mózgu i rdzenia/zespołu chronicznego zmęczenia – protokół randomizowanego, kontrolowanego placebo badania BMJ Open."
     },
     {
       "title": "Rola pokrewnych zawodów medycznych w zapobieganiu upadkom starszych osób dorosłych zamieszkujących społeczności lokalne: przegląd zakresu – BMJ Open",
@@ -1188,7 +1188,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-08-14T19:01:08Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Epidemia wirusa Ebola: Obecna sytuacja Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1578,12 +1578,12 @@
       "summary": "Szczegóły badania | NCT07764705 | Badanie bilansu masy [14C]HS-10504 ClinicalTrials.gov."
     },
     {
-      "title": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07764718",
+      "title": "Szczegóły badania | NCT07764913 | Skutki treningu funkcjonalnego a treningu dwuzadaniowego u dzieci uczęszczających do szkoły – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07764913",
       "date": "2026-08-14T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG ClinicalTrials.gov."
+      "summary": "Szczegóły badania | NCT07764913 | Skutki treningu funkcjonalnego a treningu dwuzadaniowego u dzieci uczęszczających do szkoły ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07765641 | Interaktywna edukacja w zakresie cyberzdrowia oparta na demonstracjach wśród uczniów szkół średnich – ClinicalTrials.gov",
@@ -1602,20 +1602,20 @@
       "summary": "Szczegóły badania | NCT07766096 | Wpływ jednostronnego złożonego treningu na asymetrię siły kończyn dolnych i wyniki sportowe koszykarzy ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07764913 | Skutki treningu funkcjonalnego a treningu dwuzadaniowego u dzieci uczęszczających do szkoły – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07764913",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07764913 | Skutki treningu funkcjonalnego a treningu dwuzadaniowego u dzieci uczęszczających do szkoły ClinicalTrials.gov."
-    },
-    {
       "title": "Ocena preferencji i kompromisów w zakresie konsultacji elektronicznych opartych na sztucznej inteligencji dla osób starszych w ramach podstawowej opieki zdrowotnej – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07766694",
       "date": "2026-08-14T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Ocena preferencji i kompromisów w zakresie konsultacji elektronicznych opartych na sztucznej inteligencji dla osób starszych w ramach podstawowej opieki zdrowotnej ClinicalTrials.gov."
+    },
+    {
+      "title": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07764718",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG ClinicalTrials.gov."
     },
     {
       "title": "Chemioterapia wlewem tętniczym wątrobowym u pacjentów z nieoperacyjnym rakiem jelita grubego z przerzutami do wątroby (HAIP-6192) - ClinicalTrials.gov",
@@ -1833,7 +1833,7 @@
       "date": "2026-08-16T04:31:58Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Interakcje choroby Clinacort Drugs.com."
+      "summary": "Wyczerpujące informacje na temat interakcji chorobowych leku Clinacort. Obejmuje kortykosteroidy – infekcje."
     },
     {
       "title": "Porównanie itrakonazolu i lewocetyryzyny – Drugs.com",
@@ -1945,7 +1945,7 @@
       "date": "2026-08-15T14:47:23Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Wiadomo, że 124 leki wchodzą w interakcje z Lopidem. Obejmuje atorwastatynę, meloksykam, karwedilol."
+      "summary": "Lopid Interakcje Checker Drugs.com."
     },
     {
       "title": "Interakcje nalewki jodowej – Drugs.com",
@@ -2320,12 +2320,12 @@
       "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
     },
     {
-      "title": "REenergizeME: przerywane leczenie hipoksją-hiperoksją w leczeniu mięśniowego zapalenia mózgu i rdzenia/zespołu chronicznego zmęczenia – protokół randomizowanego badania kontrolowanego placebo - BMJ Open",
-      "url": "https://bmjopen.bmj.com/content/16/8/e117729.alerts",
-      "date": "2026-08-15T19:45:55Z",
-      "source": "The BMJ",
+      "title": "Subskrypcje i zakupy — NEJM — The New England Journal of Medicine — The New England Journal of Medicine",
+      "url": "https://myaccount.nejm.org/subscriptions-purchases",
+      "date": "2026-08-15T19:49:53Z",
+      "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Wprowadzenie Myalgiczne zapalenie mózgu i rdzenia/zespół chronicznego zmęczenia (ME/CFS) to przewlekła, powodująca niepełnosprawność choroba charakteryzująca się złym samopoczuciem powysiłkowym (PEM), dysfunkcją układu autonomicznego i znacznie obniżoną jakością życia. Częstość występowania tej choroby wzrosła w następstwie pandemii Covid-19, jednak nie są dostępne skuteczne metody leczenia modyfikujące przebieg choroby, a mechanizmy leżące u jej podstaw pozostają niejasne. Dowody wskazują na rozregulowanie układu odpornościowo-metabolicznego, upośledzony metabolizm energetyczny, dysfunkcję naczyń i zmienioną obsługę tlenu."
+      "summary": "Zaloguj się do swojego konta NEJM Group My Account, aby zarządzać informacjami profilowymi i indywidualnymi subskrypcjami w naszych produktach."
     }
   ]
 }
