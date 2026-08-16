@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T06:52:09Z",
+  "last_updated": "2026-08-16T06:52:57Z",
   "poland": [
     {
       "title": "AUDIO-MED Expo 2026 [Nasz patronat] - Alert Medyczny",
@@ -24,14 +24,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Forum Diagnostyki Obrazowej odbędzie się 15-17 września 2026 r. w Nadarzynie. Bezpłatne targi i konferencje dla branży diagnostyki obrazowej."
-    },
-    {
-      "title": "Karmienie piersią – ważne - Termedia",
-      "url": "https://www.termedia.pl/mz/Karmienie-piersia-wazne-,68553.html",
-      "date": "2026-08-16T05:03:43Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "Dlaczego możliwość rozpoczęcia i kontynuowania laktacji nadal zależy od miejsca zamieszkania, organizacji opieki okołoporodowej, wiedzy personelu, sytuacji zawodowej rodziców, a czasem nawet od tego, na jaki dyżur i do jakiego specjalisty trafi matka – i dlaczego to takie ważne? O tym pisze prof. Aleksandra Wesołowska, kierownik Pracowni..."
     },
     {
       "title": "Prawie 400-procentowy wzrost zgłoszeń dotyczących uszkodzeń wątroby. Najczęstszą przyczyną paracetamol - Alert Medyczny",
@@ -250,6 +242,14 @@
       "summary": "Upał nie odpuszcza. W sobotę na zachodzie Polski termometry mogą pokazać nawet 35 st. C, dlatego szczególnego znaczenia nabiera to, co jemy i pijemy."
     },
     {
+      "title": "Karmienie piersią – ważne - Termedia",
+      "url": "https://www.termedia.pl/mz/Karmienie-piersia-wazne-,68553.html",
+      "date": "2026-08-15T05:24:11Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Dlaczego możliwość rozpoczęcia i kontynuowania laktacji nadal zależy od miejsca zamieszkania, organizacji opieki okołoporodowej, wiedzy personelu, sytuacji zawodowej rodziców, a czasem nawet od tego, na jaki dyżur i do jakiego specjalisty trafi matka – i dlaczego to takie ważne? O tym pisze prof. Aleksandra Wesołowska, kierownik Pracowni..."
+    },
+    {
       "title": "Nie daj się nabrać. Wnioski z badania podważają działanie - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Nauka/Nie-daj-sie-nabrac-Wnioski-z-badania-podwazaja-dzialanie,287774,9.html",
       "date": "2026-08-15T04:30:00Z",
@@ -420,6 +420,14 @@
       "summary": "Czy od początku myślimy o skalowalności? Przegląd metodologiczny pilotażowych, randomizowanych, kontrolowanych badań zdrowotnych BMJ Open."
     },
     {
+      "title": "Więcej dowodów potwierdza hipotezę dotyczącą czasu terapii hormonalnej – klinicysta NEJM",
+      "url": "https://clinician.nejm.org/evidence-backs-hormone-therapy-timing-hypothesis-nejm-jw.NA48047",
+      "date": "2026-08-16T00:48:01Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+    },
+    {
       "title": "Przegląd Strategii Współpracy: Burundi – WHO | Biuro Regionalne dla Afryki",
       "url": "https://www.afro.who.int/publications/un-apercu-de-la-strategie-de-cooperation-burundi?form=FUNKUKTZPCK",
       "date": "2026-08-15T23:53:51Z",
@@ -468,7 +476,7 @@
       "summary": "Istnieje wiele sposobów upublicznienia osobistych doświadczeń i różnych sposobów opowiadania historii. Ta wystawa jest wspomnieniem jednego z nich, jest wizualną historią moich relacji z Europą, historią miłosną, która podzielona jest na trzy akty: I."
     },
     {
-      "title": "Ocena wpływu rynku mobilnego Ripe for Revival z bonami na bezpieczeństwo żywnościowe i żywieniowe, spożycie owoców i warzyw oraz ciśnienie krwi na obszarach wiejskich we wschodniej Karolinie Północnej: quasi-eksperymentalny protokół badania projektu badania – BMJ Open",
+      "title": "Ocena wpływu rynku mobilnego Ripe for Revival z bonami na bezpieczeństwo żywnościowe i żywieniowe, spożycie owoców i warzyw oraz ciśnienie krwi na obszarach wiejskich we wschodniej Karolinie Północnej: protokół badania quasi-eksperymentalnego – BMJ Open",
       "url": "https://bmjopen.bmj.com/content/16/8/e114071.alerts",
       "date": "2026-08-15T19:56:27Z",
       "source": "The BMJ",
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Każdy rodzic doświadcza wyjątkowej mieszanki emocji podczas opieki nad noworodkiem. Przepełnia Cię przytłaczające poczucie dumy, miłości i podziwu."
-    },
-    {
-      "title": "Wiadomości tekstowe poprawiają dostęp nastolatków do usług zdrowotnych – lekarz NEJM",
-      "url": "https://clinician.nejm.org/nejm-jw.NA39278?show-author=true&author-id=AU939",
-      "date": "2026-08-14T18:01:33Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     }
   ],
   "guidelines": [
@@ -851,10 +851,10 @@
       "date": "2026-08-14T19:05:20Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "ASTRO publikuje zaktualizowane wytyczne praktyki klinicznej dotyczące RT w onkologii ukierunkowanej na raka trzustki."
+      "summary": "ASTRO publikuje zaktualizowane wytyczne dotyczące praktyki klinicznej dotyczące RT w onkologii ukierunkowanej na raka trzustki."
     },
     {
-      "title": "Zalecenia Polskiego Towarzystwa Nefrologii Dziecięcej (PTNFD) dotyczące postępowania z dzieckiem z zespołem nerczycowym | Szczepanska | Forum Nefrologiczne — Edukacja - Via Medica Journals",
+      "title": "Zalecenia Polskiego Towarzystwa Nefrologii Dziecięcej (PTNFD) dotyczące postępowania z dzieckiem z zespołem nerczycowym | Szczepanska | Forum Nefrologiczne — Edukacja - journals.viamedica.pl",
       "url": "https://journals.viamedica.pl/forum_nefrologiczne_edukacja/article/view/113408",
       "date": "2026-08-14T13:03:44Z",
       "source": "Wytyczne kliniczne",
@@ -934,7 +934,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Spotkanie komisji ds. oceny technologii wysokospecjalistycznych (HSTEC) | Spotkania publiczne | Zaangażuj się - nice.org.uk",
+      "title": "Spotkanie komisji ds. oceny technologii wysokospecjalistycznych (HSTEC) | Spotkania publiczne | Zaangażuj się - strona internetowa NICE",
       "url": "https://www.nice.org.uk/event/hstec-aug-2026",
       "date": "2026-08-13T15:00:00Z",
       "source": "NICE",
@@ -1046,7 +1046,7 @@
       "summary": "Zapobieganie, wczesne wykrywanie i interwencja Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Wytyczne przewodniczących i dyskutantów – Europejskie Towarzystwo Kardiologiczne",
+      "title": "Wytyczne dla przewodniczących i dyskutantów – Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/events/congresses/esc-congress/scientific-programme/faculty-presenters/chairperson-and-disscussant-guidelines/?gad_source=1&gclid=EAIaIQobChMIpNzmiqDYhgMVqKSDBx1cSACKEAAYASABEgL_W_D_BwE",
       "date": "2026-08-13T06:10:58Z",
       "source": "ESC (kardiologia)",
@@ -1413,7 +1413,7 @@
       "date": "2026-08-12T13:42:55Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Wszyscy przywódcy Centrów Kontroli i Zapobiegania Chorobom (CDC) stoją przed trudnymi wyzwaniami."
+      "summary": "Wszyscy liderzy Centrów Kontroli i Zapobiegania Chorobom (CDC) stoją przed trudnymi wyzwaniami."
     },
     {
       "title": "Inwazyjna choroba pleśniowa związana z wysokim wskaźnikiem hospitalizacji na OIOM-ie i śmiercią – CIDRAP",
@@ -1562,6 +1562,14 @@
       "summary": "Szczegóły badania | NCT07764705 | Badanie bilansu masy [14C]HS-10504 ClinicalTrials.gov."
     },
     {
+      "title": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07764718",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG ClinicalTrials.gov."
+    },
+    {
       "title": "Szczegóły badania | NCT07764913 | Skutki treningu funkcjonalnego a treningu dwuzadaniowego u dzieci uczęszczających do szkoły – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07764913",
       "date": "2026-08-14T07:00:00Z",
@@ -1584,14 +1592,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07766096 | Wpływ jednostronnego złożonego treningu na asymetrię siły kończyn dolnych i wyniki sportowe koszykarzy ClinicalTrials.gov."
-    },
-    {
-      "title": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07764718",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG ClinicalTrials.gov."
     },
     {
       "title": "Ocena preferencji i kompromisów w zakresie konsultacji elektronicznych opartych na sztucznej inteligencji dla osób starszych w ramach podstawowej opieki zdrowotnej – ClinicalTrials.gov",
@@ -1860,7 +1860,7 @@
       "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla Arbinoxa, Nalspan Senior DX."
     },
     {
-      "title": "Raport o interakcjach leków: loratadyna, orlistat – drugs.com",
+      "title": "Raport o interakcjach leków: loratadyna, orlistat – Drugs.com",
       "url": "https://www.drugs.com/interactions-check.php?drug_list=1486-0,1756-0&professional=1",
       "date": "2026-08-15T18:51:52Z",
       "source": "Drugs.com",
@@ -2296,6 +2296,14 @@
       "summary": "16 sierpnia 2026, Mogadiszu, Somalia – Federalne Ministerstwo Zdrowia i Opieki Społecznej Somalii oraz Administracja Regionalna Banadir, przy wsparciu Światowej Organizacji Zdrowia (WHO) Somalia, Organizacji Narodów Zjednoczonych ds. Dzieci..."
     },
     {
+      "title": "Więcej dowodów potwierdza hipotezę dotyczącą czasu terapii hormonalnej – klinicysta NEJM",
+      "url": "https://clinician.nejm.org/evidence-backs-hormone-therapy-timing-hypothesis-nejm-jw.NA48047",
+      "date": "2026-08-16T00:48:01Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+    },
+    {
       "title": "Przegląd Strategii Współpracy: Burundi – WHO | Biuro Regionalne dla Afryki",
       "url": "https://www.afro.who.int/publications/un-apercu-de-la-strategie-de-cooperation-burundi?form=FUNKUKTZPCK",
       "date": "2026-08-15T23:53:51Z",
@@ -2310,14 +2318,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
-    },
-    {
-      "title": "Subskrypcje i zakupy — NEJM — The New England Journal of Medicine — The New England Journal of Medicine",
-      "url": "https://myaccount.nejm.org/subscriptions-purchases",
-      "date": "2026-08-15T19:49:53Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Zaloguj się do swojego konta NEJM Group My Account, aby zarządzać informacjami profilowymi i indywidualnymi subskrypcjami w naszych produktach."
     },
     {
       "title": "REenergizeME: przerywane leczenie hipoksją-hiperoksją w leczeniu mięśniowego zapalenia mózgu i rdzenia/zespołu chronicznego zmęczenia – protokół randomizowanego badania kontrolowanego placebo - bmjopen.bmj.com",
