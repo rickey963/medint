@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T02:29:55Z",
+  "last_updated": "2026-08-16T02:30:39Z",
   "poland": [
     {
       "title": "Forum Diagnostyki Obrazowej [Nasz patronat] - alertmedyczny.pl",
@@ -1078,14 +1078,6 @@
       "summary": "Informacje dla podróżnych powracających z obszarów dotkniętych wirusem Ebola Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "O zakażeniu Campylobacter — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/campylobacter/about/index.html",
-      "date": "2026-08-12T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "O zakażeniu Campylobacter Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
-    },
-    {
       "title": "Ryzyko ciężkiej choroby arbowirusowej u pacjentów otrzymujących leki zubożające lub modulujące komórki B — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/han/php/notices/han00532.html",
       "date": "2026-08-11T23:07:48Z",
@@ -1124,6 +1116,14 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 51/2026 z dnia 7 sierpnia 2026 r. o projekcie programu polityki zdrowotnej „Wielkopolski Program Zdrowotny w zakresie fizjoterapii dla kobiet z problemem nietrzymania moczu (NTM)”."
+    },
+    {
+      "title": "Epidemia ślimaków New World — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/new-world-screwworm/situation-summary/index.html",
+      "date": "2026-08-11T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Centra kontroli i zapobiegania epidemiom ślimaków Nowego Świata | CDC (.gov)."
     }
   ],
   "epidemiology": [
@@ -1498,20 +1498,20 @@
       "summary": "Ankieta pokazuje, że amerykańscy biotechnicy wolą krajowe badania kliniczne z udziałem ludzi, ale przeszkody FDA wypychają ich za granicę. Stosowane badania kliniczne online."
     },
     {
-      "title": "FDA wydaje zgodę na badanie fazy III PhenoNet we wczesnej chorobie Alzheimera – Arena Badań Klinicznych",
+      "title": "FDA wydaje zgodę na badanie fazy III PhenoNet we wczesnej chorobie Alzheimera – Clinictrialsarena.com",
       "url": "https://www.clinicaltrialsarena.com/news/fda-clearance-phenonet-alzheimers-trial/",
       "date": "2026-08-14T11:03:26Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "FDA wydaje zgodę na badanie fazy III PhenoNet w początkowej fazie badań klinicznych Alzheimera."
+      "summary": "FDA wydaje zezwolenie na badanie fazy III PhenoNet w ramach wczesnych badań klinicznych choroby Alzheimera."
     },
     {
-      "title": "Bariery powstrzymujące amerykańskie biotechnologie przed prowadzeniem badań FIH na własnym terenie – Arena Badań Klinicznych",
+      "title": "Bariery powstrzymujące amerykańskie firmy biotechnologiczne przed prowadzeniem badań FIH na własnym terenie – Clinicaltrialsarena.com",
       "url": "https://www.clinicaltrialsarena.com/news/barriers-stopping-us-biotechs-from-running-fih-trials-on-home-soil/?",
       "date": "2026-08-14T10:30:57Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Bariery powstrzymujące amerykańskie firmy biotechnologiczne przed prowadzeniem badań FIH na rodzimej arenie badań klinicznych."
+      "summary": "Bariery uniemożliwiające amerykańskim firmom biotechnologicznym prowadzenie badań FIH na rodzimej stronie Clinictrialsarena.com."
     },
     {
       "title": "Pulpotomia wspomagana laserem w porównaniu z pulpotomią MTA w zębach stałych z nieodwracalnym zapaleniem miazgi - ClinicalTrials.gov",
@@ -1722,12 +1722,12 @@
       "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
-      "title": "Badania wykazały, że sztuczna inteligencja może zapewnić zyski w wysokości 21 mln dolarów na program opracowywania leków – Clinical Trials Arena",
+      "title": "Sztuczna inteligencja może zapewnić zyski w wysokości 21 mln dolarów na program opracowywania leków – wynika z badania – Clinicaltrialsarena.com",
       "url": "https://www.clinicaltrialsarena.com/news/ai-can-deliver-gains-of-21m-per-drug-development-programme-study-finds/",
       "date": "2026-08-13T14:53:15Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Jak wynika z badania Clinical Trials Arena, sztuczna inteligencja może zapewnić zyski w wysokości 21 mln dolarów na program opracowywania leków."
+      "summary": "Badanie pokazuje, że sztuczna inteligencja może zapewnić zyski w wysokości 21 milionów dolarów na program opracowywania leków – wynika z badania Clinictrialsarena.com."
     },
     {
       "title": "Stosowane badania kliniczne online – Applyclinicaltrialsonline.com",
@@ -1746,20 +1746,20 @@
       "summary": "Jakość danych w całym cyklu życia badania klinicznego: czego potrzeba, aby w pełni zaufać danym stosowanym w badaniach klinicznych online."
     },
     {
-      "title": "Taiho Oncology raportuje pozytywne wyniki badania REZILIENT3 - Clinical Trials Arena",
+      "title": "Taiho Oncology zgłasza pozytywne wyniki w badaniu REZILIENT3 - Clinictrialsarena.com",
       "url": "https://www.clinicaltrialsarena.com/news/taiho-oncology-rezilient3-trial-positive-results/",
       "date": "2026-08-13T11:27:40Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Taiho Oncology zgłasza pozytywne wyniki badania REZILIENT3 Clinical Trials Arena."
+      "summary": "Taiho Oncology ogłasza pozytywne wyniki badania REZILIENT3 na stronie Clinictrialsarena.com."
     },
     {
-      "title": "Podcast: Wprowadzanie różnorodności do badań nad chorobą Alzheimera – Clinical Trials Arena",
+      "title": "Podcast: Wprowadzanie różnorodności do badań nad chorobą Alzheimera – Clinictrialsarena.com",
       "url": "https://www.clinicaltrialsarena.com/features/podcast-bringing-diversity-to-alzheimers-trials/",
       "date": "2026-08-13T10:56:36Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Podcast: Wprowadzanie różnorodności do badań nad chorobą Alzheimera Clinical Trials Arena."
+      "summary": "Podcast: Wprowadzanie różnorodności do badań nad chorobą Alzheimera. Clinictrialsarena.com."
     },
     {
       "title": "Streszczenie ACT: Ukończenie szkolenia a gotowość do wykonania, Wartość finansowa agenta monitorującego sztuczną inteligencję na dużą skalę oraz pisma ostrzegawcze FDA i luki w nadzorze nad sztuczną inteligencją – stosowane badania kliniczne online",
@@ -1988,14 +1988,6 @@
       "summary": "Szczegółowe informacje na temat dawkowania alkoholu poliwinylowego / powidonu / tetrahydrozoliny do oczu dla dorosłych. Zawiera dawki na suchość/zaczerwienienie oczu; plus korekty nerek, wątroby i dializ."
     },
     {
-      "title": "Doustny moduł śledzący GLP-1: pigułka Wegovy firmy Novo stara się przebić pułap udziału w rynku – Fierce Pharma",
-      "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
-      "date": "2026-08-14T23:02:42Z",
-      "source": "FiercePharma",
-      "confirmed_by": 1,
-      "summary": "Wraz z niedawnym wprowadzeniem na rynek pigułki Wegovy firmy Novo Nordisk i Foundayo firmy Eli Lilly, rynek leczenia otyłości zaczął przesuwać się w stronę doustnych leków GLP-1. | Fierce Pharma wprowadza na rynek cotygodniowy Oral GLP-1 Tracker, wykorzystując notatki analityków i dane IQVIA do monitorowania trendów w zakresie recept i zmian udziałów w rynku, w miarę jak pigułka Wegovy firmy Novo Nordisk i Foundayo firmy Eli Lilly rywalizują o miano popularnego doustnego rozwiązania odchudzającego dla milionów."
-    },
-    {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=451&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=08%2F14%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=knumber",
       "date": "2026-08-14T22:48:35Z",
@@ -2202,6 +2194,14 @@
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "Dopuszczenie Zenbexusa jest pierwszym zezwoleniem dla grupy leków „CELMoD” rozkładających białka, które mogą pomóc firmie Bristol Myers odmłodzić kluczową franczyzę leków."
+    },
+    {
+      "title": "Po raz kolejny inwestorzy BMS kontra Celgene po wznowieniu pozwu przez amerykański sąd apelacyjny – Fierce Pharma",
+      "url": "https://www.fiercepharma.com/pharma/its-bms-vs-celgene-investors-again-after-us-appeals-court-ruling",
+      "date": "2026-08-14T15:33:38Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Federalny sąd apelacyjny uchylił (PDF) oddalenie w 2024 r. pozwu złożonego przez akcjonariuszy Celgene, który oskarża Brisa | Amerykański sąd apelacyjny wznowił pozew złożony przez akcjonariuszy Celgene, w którym zarzuca Bristol Myers Squibbowi powolne zatwierdzanie leku na raka krwi Breyanzi w celu uniknięcia wypłaty warunkowego prawa o wartości ponad 6 miliardów dolarów."
     }
   ],
   "critical_alerts": [
