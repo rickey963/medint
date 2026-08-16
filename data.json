@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T09:19:28Z",
+  "last_updated": "2026-08-16T09:20:11Z",
   "poland": [
     {
       "title": "Forum Diagnostyki Obrazowej [Nasz patronat] - Alert Medyczny",
@@ -1248,20 +1248,20 @@
       "summary": "Epidemia Salmonelli powiązana z Centrami Kontroli i Zapobiegania Chorobom Jalapeños | CDC (.gov)."
     },
     {
-      "title": "Trwałe szczepy Campylobacter jejuni (REPDBR01) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/campylobacter/php/data-research/rep-strain/index.html",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Trwałe szczepy Campylobacter jejuni (REPDBR01) Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
-    },
-    {
       "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-08-14T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Przypadki i ogniska odry Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Trwałe szczepy Campylobacter jejuni (REPDBR01) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/campylobacter/php/data-research/rep-strain/index.html",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Trwałe szczepy Campylobacter jejuni (REPDBR01) Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Krajowe dane dotyczące ścieków dotyczące wirusów układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1418,12 +1418,12 @@
   ],
   "clinical_trials": [
     {
-      "title": "Szczegóły badania | NCT07766356 | Badanie profili poznawczo-językowych: rola kontroli wykonawczej w afazji - Clinictrials.gov",
+      "title": "Szczegóły badania | NCT07766356 | Badanie profili poznawczo-językowych: rola kontroli wykonawczej w afazji - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07766356",
       "date": "2026-08-15T13:35:36Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07766356 | Badanie profili poznawczo-lingwistycznych: rola kontroli wykonawczej w afazji Clinicaltrials.gov."
+      "summary": "Szczegóły badania | NCT07766356 | Badanie profili poznawczo-lingwistycznych: rola kontroli wykonawczej w afazji ClinicalTrials.gov."
     },
     {
       "title": "Ryzyko choroby z Lyme przesuwa się na południe: 40% dorosłych kleszczy uzyskało wynik pozytywny w Karolinie Północnej – Trialsitenews.com",
@@ -1562,22 +1562,6 @@
       "summary": "Szczegóły badania | NCT07764705 | Badanie bilansu masy [14C]HS-10504 ClinicalTrials.gov."
     },
     {
-      "title": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07764718",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG ClinicalTrials.gov."
-    },
-    {
-      "title": "Szczegóły badania | NCT07764913 | Skutki treningu funkcjonalnego a treningu dwuzadaniowego u dzieci uczęszczających do szkoły – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07764913",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07764913 | Skutki treningu funkcjonalnego a treningu dwuzadaniowego u dzieci uczęszczających do szkoły ClinicalTrials.gov."
-    },
-    {
       "title": "Szczegóły badania | NCT07765641 | Interaktywna edukacja w zakresie cyberzdrowia oparta na demonstracjach wśród uczniów szkół średnich – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07765641",
       "date": "2026-08-14T07:00:00Z",
@@ -1600,6 +1584,22 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Ocena preferencji i kompromisów w zakresie konsultacji elektronicznych opartych na sztucznej inteligencji dla osób starszych w ramach podstawowej opieki zdrowotnej ClinicalTrials.gov."
+    },
+    {
+      "title": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07764718",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG ClinicalTrials.gov."
+    },
+    {
+      "title": "Szczegóły badania | NCT07764913 | Skutki treningu funkcjonalnego a treningu dwuzadaniowego u dzieci uczęszczających do szkoły – ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07764913",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07764913 | Skutki treningu funkcjonalnego a treningu dwuzadaniowego u dzieci uczęszczających do szkoły ClinicalTrials.gov."
     },
     {
       "title": "Chemioterapia wlewem tętniczym wątrobowym u pacjentów z nieoperacyjnym rakiem jelita grubego z przerzutami do wątroby (HAIP-6192) - ClinicalTrials.gov",
