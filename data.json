@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T06:57:17Z",
+  "last_updated": "2026-08-16T06:58:06Z",
   "poland": [
     {
       "title": "AUDIO-MED Expo 2026 [Nasz patronat] - Alert Medyczny",
@@ -24,14 +24,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Forum Diagnostyki Obrazowej odbędzie się 15-17 września 2026 r. w Nadarzynie. Bezpłatne targi i konferencje dla branży diagnostyki obrazowej."
-    },
-    {
-      "title": "Karmienie piersią – ważne - Termedia",
-      "url": "https://www.termedia.pl/mz/Karmienie-piersia-wazne-,68553.html",
-      "date": "2026-08-16T05:03:43Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "Dlaczego możliwość rozpoczęcia i kontynuowania laktacji nadal zależy od miejsca zamieszkania, organizacji opieki okołoporodowej, wiedzy personelu, sytuacji zawodowej rodziców, a czasem nawet od tego, na jaki dyżur i do jakiego specjalisty trafi matka – i dlaczego to takie ważne? O tym pisze prof. Aleksandra Wesołowska, kierownik Pracowni..."
     },
     {
       "title": "Prawie 400-procentowy wzrost zgłoszeń dotyczących uszkodzeń wątroby. Najczęstszą przyczyną paracetamol - Alert Medyczny",
@@ -250,6 +242,14 @@
       "summary": "Upał nie odpuszcza. W sobotę na zachodzie Polski termometry mogą pokazać nawet 35 st. C, dlatego szczególnego znaczenia nabiera to, co jemy i pijemy."
     },
     {
+      "title": "Karmienie piersią – ważne - Termedia",
+      "url": "https://www.termedia.pl/mz/Karmienie-piersia-wazne-,68553.html",
+      "date": "2026-08-15T05:24:11Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Dlaczego możliwość rozpoczęcia i kontynuowania laktacji nadal zależy od miejsca zamieszkania, organizacji opieki okołoporodowej, wiedzy personelu, sytuacji zawodowej rodziców, a czasem nawet od tego, na jaki dyżur i do jakiego specjalisty trafi matka – i dlaczego to takie ważne? O tym pisze prof. Aleksandra Wesołowska, kierownik Pracowni..."
+    },
+    {
       "title": "Nie daj się nabrać. Wnioski z badania podważają działanie - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Nauka/Nie-daj-sie-nabrac-Wnioski-z-badania-podwazaja-dzialanie,287774,9.html",
       "date": "2026-08-15T04:30:00Z",
@@ -417,7 +417,7 @@
       "date": "2026-08-16T03:41:46Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Czy od początku myślimy o skalowalności? Przegląd metodologiczny pilotażowych, randomizowanych, kontrolowanych badań zdrowotnych BMJ Open."
+      "summary": "Cele Interwencje zdrowotne należy od samego początku projektować w taki sposób, aby nadawały się do skalowania, jednak zakres, w jakim czynniki istotne dla skalowalności są zgłaszane w pilotażowych, randomizowanych badaniach, jest niejasny. W niniejszym przeglądzie ocenia się, w jakim stopniu pilotażowe, randomizowane badania kliniczne uwzględniają 15 dziedzin skalowalności interwencji. Projekt Przegląd metodologiczny."
     },
     {
       "title": "Więcej dowodów potwierdza hipotezę dotyczącą czasu terapii hormonalnej – klinicysta NEJM",
@@ -441,7 +441,7 @@
       "date": "2026-08-15T23:08:46Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "W kierunku precyzyjnej terapii wibracyjnej dla równowagi po udarze: specyficzny dla danej dziedziny systematyczny przegląd i protokół metaanalizy BMJ Open."
+      "summary": "Wprowadzenie Zaburzenia równowagi są główną przyczyną upadków, ograniczenia mobilności i utraty niezależności u osób po udarze. Terapia wibracyjna (VT) jest coraz częściej badana jako nieinwazyjna interwencja poprawiająca kontrolę postawy i równowagę u osób po udarze. Jednakże zgłaszane skutki pozostają niespójne i brakuje kompleksowej syntezy skupiającej się szczególnie na wynikach związanych z równowagą."
     },
     {
       "title": "Streszczenia badań — The New England Journal of Medicine — The New England Journal of Medicine",
@@ -481,7 +481,7 @@
       "date": "2026-08-15T19:56:27Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Ocena wpływu rynku mobilnego Ripe for Revival z kuponami na bezpieczeństwo żywności i żywienia, spożycie owoców i warzyw oraz ciśnienie krwi na obszarach wiejskich we wschodniej Karolinie Północnej: quasi-eksperymentalny protokół badania projektu BMJ Open."
+      "summary": "Wprowadzenie Mieszkańcy wsi rzadziej realizują zalecenia dotyczące spożycia owoców i warzyw i nieproporcjonalnie ponoszą ciężar chorób przewlekłych związanych z odżywianiem. Programy motywacyjne lub bony żywieniowe mają na celu zwiększenie spożycia owoców i warzyw poprzez zmniejszenie obciążeń finansowych związanych z zakupem produktów. Ponadto rynki mobilne okazały się potencjalną strategią zwiększania dostępu do świeżych owoców i warzyw po przystępnych cenach, szczególnie wśród mieszkańców obszarów wiejskich."
     },
     {
       "title": "Subskrypcje i zakupy — NEJM — The New England Journal of Medicine — The New England Journal of Medicine",
@@ -492,7 +492,7 @@
       "summary": "Zaloguj się do swojego konta NEJM Group My Account, aby zarządzać informacjami profilowymi i indywidualnymi subskrypcjami w naszych produktach."
     },
     {
-      "title": "REenergizeME: przerywane leczenie hipoksją-hiperoksją w leczeniu mięśniowego zapalenia mózgu i rdzenia/zespołu chronicznego zmęczenia – protokół randomizowanego badania kontrolowanego placebo - bmjopen.bmj.com",
+      "title": "REenergizeME: przerywane leczenie hipoksją-hiperoksją w leczeniu mięśniowego zapalenia mózgu i rdzenia/zespołu chronicznego zmęczenia – protokół randomizowanego badania kontrolowanego placebo - BMJ Open",
       "url": "https://bmjopen.bmj.com/content/16/8/e117729.alerts",
       "date": "2026-08-15T19:45:55Z",
       "source": "The BMJ",
@@ -851,7 +851,7 @@
       "date": "2026-08-14T19:05:20Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "ASTRO publikuje zaktualizowane wytyczne praktyki klinicznej dotyczące RT w onkologii ukierunkowanej na raka trzustki."
+      "summary": "ASTRO publikuje zaktualizowane wytyczne dotyczące praktyki klinicznej dotyczące RT w onkologii ukierunkowanej na raka trzustki."
     },
     {
       "title": "Zalecenia Polskiego Towarzystwa Nefrologii Dziecięcej (PTNFD) dotyczące postępowania z dzieckiem z zespołem nerczycowym | Szczepanska | Forum Nefrologiczne — Edukacja - Via Medica Journals",
@@ -934,7 +934,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Spotkanie komisji ds. oceny technologii wysokospecjalistycznych (HSTEC) | Spotkania publiczne | Zaangażuj się - nice.org.uk",
+      "title": "Spotkanie komisji ds. oceny technologii wysokospecjalistycznych (HSTEC) | Spotkania publiczne | Zaangażuj się - strona internetowa NICE",
       "url": "https://www.nice.org.uk/event/hstec-aug-2026",
       "date": "2026-08-13T15:00:00Z",
       "source": "NICE",
@@ -1038,7 +1038,7 @@
       "summary": "Pulpit nawigacyjny DOSE-DIS: Oddział ratunkowy w przypadku przedawkowania niezakończonego zgonem i wypisy ze szpitala Centra danych dotyczące kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Wytyczne przewodniczących i dyskutantów – Europejskie Towarzystwo Kardiologiczne",
+      "title": "Wytyczne dla przewodniczących i dyskutantów – Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/events/congresses/esc-congress/scientific-programme/faculty-presenters/chairperson-and-disscussant-guidelines/?gad_source=1&gclid=EAIaIQobChMIpNzmiqDYhgMVqKSDBx1cSACKEAAYASABEgL_W_D_BwE",
       "date": "2026-08-13T06:10:58Z",
       "source": "ESC (kardiologia)",
@@ -1405,7 +1405,7 @@
       "date": "2026-08-12T13:42:55Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Wszyscy przywódcy Centrów Kontroli i Zapobiegania Chorobom (CDC) stoją przed trudnymi wyzwaniami."
+      "summary": "Wszyscy liderzy Centrów Kontroli i Zapobiegania Chorobom (CDC) stoją przed trudnymi wyzwaniami."
     },
     {
       "title": "Inwazyjna choroba pleśniowa związana z wysokim wskaźnikiem hospitalizacji na OIOM-ie i śmiercią – CIDRAP",
@@ -1562,6 +1562,14 @@
       "summary": "Szczegóły badania | NCT07764705 | Badanie bilansu masy [14C]HS-10504 ClinicalTrials.gov."
     },
     {
+      "title": "Szczegóły badania | NCT07766096 | Wpływ jednostronnego złożonego treningu na asymetrię siły kończyn dolnych i wyniki sportowe koszykarzy - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07766096",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Szczegóły badania | NCT07766096 | Wpływ jednostronnego złożonego treningu na asymetrię siły kończyn dolnych i wyniki sportowe koszykarzy ClinicalTrials.gov."
+    },
+    {
       "title": "Szczegóły badania | NCT07764913 | Skutki treningu funkcjonalnego a treningu dwuzadaniowego u dzieci uczęszczających do szkoły – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07764913",
       "date": "2026-08-14T07:00:00Z",
@@ -1576,14 +1584,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07765641 | Interaktywna edukacja w zakresie cyberzdrowia oparta na demonstracjach wśród uczniów szkół średnich ClinicalTrials.gov."
-    },
-    {
-      "title": "Szczegóły badania | NCT07766096 | Wpływ jednostronnego złożonego treningu na asymetrię siły kończyn dolnych i wyniki sportowe koszykarzy - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07766096",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07766096 | Wpływ jednostronnego złożonego treningu na asymetrię siły kończyn dolnych i wyniki sportowe koszykarzy ClinicalTrials.gov."
     },
     {
       "title": "Stymulacja mózgu z zakłóceniami czasowymi u dorosłych chorych na padaczkę lekooporną poddawanych monitorowaniu stereo-EEG – ClinicalTrials.gov",
@@ -1674,7 +1674,7 @@
       "summary": "Szczegóły badania | NCT07763899 | Badanie kliniczne mające na celu określenie biorównoważności pomiędzy dwoma doustnymi lekami zawierającymi sitagliptynę/metforminę w tabletkach o przedłużonym uwalnianiu 50 mg/1000 mg u zdrowych ochotników, szybkie badanie. ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07763015 | Badanie Resmetiromu u dzieci i młodzieży z MASH – ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07763015 | Badanie dotyczące stosowania Resmetiromu u dzieci i młodzieży z MASH – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07763015",
       "date": "2026-08-14T03:14:24Z",
       "source": "ClinicalTrials.gov",
@@ -1727,7 +1727,7 @@
       "date": "2026-08-13T19:18:00Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Doktor Chi-Hui Tang w sprawie stosowanych badań klinicznych online."
+      "summary": "Doktor Chi-Hui Tang. Stosowane badania kliniczne online."
     },
     {
       "title": "Niezależne, wolne od cenzury media na rzecz zdrowia i badań biomedycznych – Trialsitenews.com",
@@ -1807,7 +1807,7 @@
       "date": "2026-08-13T08:42:24Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Niemiecki sąd apelacyjny przyznał powodzie szczepionce na Covid-19 ważne zwycięstwo proceduralne: BioNTech musi dostarczyć informacje dotyczące rzekomych obrażeń spowodowanych szczepionką po tym, jak Wyższy Sąd Krajowy w Oldenburgu odrzucił apelację firmy jako niedopuszczalną. Orzeczenie to pozostawia w mocy częściowy wyrok Sądu Okręgowego w Aurich z marca 2026 r. Ma to znaczenie dla przejrzystości i przyszłych postępowań sądowych."
+      "summary": "Niemiecki sąd apelacyjny przyznał powodzie szczepionce na Covid-19 ważne zwycięstwo proceduralne: BioNTech musi dostarczyć informacje dotyczące rzekomych obrażeń spowodowanych szczepionką po tym, jak Wyższy Sąd Krajowy w Oldenburgu odrzucił apelację firmy jako niedopuszczalną. Orzeczenie utrzymuje w mocy częściowy wyrok Sądu Okręgowego w Aurich z marca 2026 r. Ma to znaczenie dla przejrzystości i przyszłych postępowań sądowych."
     },
     {
       "title": "List ostrzegawczy FDA stanowi surową lekcję dla badaczy badań klinicznych – Trialsitenews.com",
@@ -2320,7 +2320,7 @@
       "summary": "Streszczenia badań — The New England Journal of Medicine The New England Journal of Medicine."
     },
     {
-      "title": "REenergizeME: przerywane leczenie hipoksją-hiperoksją w leczeniu mięśniowego zapalenia mózgu i rdzenia/zespołu chronicznego zmęczenia – protokół randomizowanego badania kontrolowanego placebo - bmjopen.bmj.com",
+      "title": "REenergizeME: przerywane leczenie hipoksją-hiperoksją w leczeniu mięśniowego zapalenia mózgu i rdzenia/zespołu chronicznego zmęczenia – protokół randomizowanego badania kontrolowanego placebo - BMJ Open",
       "url": "https://bmjopen.bmj.com/content/16/8/e117729.alerts",
       "date": "2026-08-15T19:45:55Z",
       "source": "The BMJ",
