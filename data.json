@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T15:01:22Z",
+  "last_updated": "2026-08-16T15:02:09Z",
   "poland": [
     {
       "title": "Mięśnie, ścięgna i więzadła w sporcie - Termedia",
@@ -449,7 +449,7 @@
       "date": "2026-08-16T09:04:42Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "P36 ERCP w złośliwej niedrożności wnęk żółciowych – 10 lat doświadczenia z ośrodka trzeciorzędowego Gut Journal."
+      "summary": "Wprowadzenie Złośliwa niedrożność dróg żółciowych wnęk (MHBO) często objawia się żółtaczką i pacjenci wymagają drenażu żółci. Zwykle wykonuje się endoskopową cholangiopankreatografię wsteczną (ERCP), jednak w przypadku MHBO może to stanowić wyzwanie. Naszym celem jest przedstawienie charakterystyki i wyników leczenia pacjentów, którzy przeszli ERCP z powodu MHBO w ośrodku trzeciego stopnia."
     },
     {
       "title": "Główny farmaceuta — praca medyczna w Royal United Hospitals Bath NHS Foundation Trust (kariera zdrowotna) | 839432 - BMJ",
@@ -851,7 +851,7 @@
       "date": "2026-08-14T21:29:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Przywrócenie zdrowia Chiropraktyka udostępnia zasoby edukacyjne na temat leczenia rwy kulszowej."
+      "summary": "Restoration Health Chiropraktyka udostępnia zasoby edukacyjne dotyczące treści finansowych dotyczących leczenia rwy kulszowej."
     },
     {
       "title": "ASTRO publikuje zaktualizowane wytyczne praktyki klinicznej dotyczące RT w leczeniu raka trzustki – onkologia ukierunkowana",
@@ -1232,28 +1232,12 @@
       "summary": "Epidemia Salmonelli powiązana z Centrami Kontroli i Zapobiegania Chorobom Jalapeños | CDC (.gov)."
     },
     {
-      "title": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Modelowanie i prognozowanie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Centra modelowania i prognozowania kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
       "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
       "date": "2026-08-14T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Zespół prognoz COVID-19 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "ECDC",
-      "confirmed_by": 2,
-      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
       "title": "Trwałe szczepy Campylobacter jejuni (REPDBR01) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1272,6 +1256,14 @@
       "summary": "Przypadki i ogniska odry Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "ECDC",
+      "confirmed_by": 2,
+      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
+    },
+    {
       "title": "Kanał danych o chorobach układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/index.html",
       "date": "2026-08-14T07:00:00Z",
@@ -1288,14 +1280,6 @@
       "summary": "Poziomy aktywności wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Krajowe dane dotyczące ścieków dotyczące wirusów układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/wastewater/respiratory-viruses/national.html",
-      "date": "2026-08-14T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Krajowe dane dotyczące ścieków dla wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
-    },
-    {
       "title": "Trendy w szczepieniach | Choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
       "date": "2026-08-14T07:00:00Z",
@@ -1310,6 +1294,22 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Centra kontroli i zapobiegania poważnym wirusowym chorobom układu oddechowego | CDC (.gov)."
+    },
+    {
+      "title": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Modelowanie i prognozowanie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Centra modelowania i prognozowania kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Krajowe dane dotyczące ścieków dotyczące wirusów układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/wastewater/respiratory-viruses/national.html",
+      "date": "2026-08-14T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Krajowe dane dotyczące ścieków dla wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 30. kończący się 1 sierpnia 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1841,7 +1841,7 @@
       "date": "2026-08-16T04:31:58Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Interakcje choroby Clinacort Drugs.com."
+      "summary": "Wyczerpujące informacje na temat interakcji chorobowych leku Clinacort. Obejmuje kortykosteroidy – infekcje."
     },
     {
       "title": "Porównanie itrakonazolu i lewocetyryzyny – Drugs.com",
