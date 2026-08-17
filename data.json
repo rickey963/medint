@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T18:40:20Z",
+  "last_updated": "2026-08-17T18:41:01Z",
   "poland": [
     {
       "title": "AUDIO-MED Expo 2026 [Nasz patronat] - alertmedyczny.pl",
@@ -950,12 +950,12 @@
       "summary": "W zeszłym roku AGA opublikowała swoje pierwsze wytyczne dotyczące praktyki klinicznej dotyczące postępowania w gastroparezie, a ostatnio GEN rozmawiało z głównym autorem Kylem-Stallerem-MD o tym, jak wytyczne mogą zmienić podejście gastroenterologów do pacjentów z tą chorobą."
     },
     {
-      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "title": "Trendy w szczepieniach | Choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
       "date": "2026-08-14T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 5,
-      "summary": "Przypadki i ogniska odry Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "summary": "Trendy w szczepieniach | Centra kontroli i zapobiegania chorobom układu oddechowego | CDC (.gov)."
     },
     {
       "title": "Skanowanie SEM przekracza próg światowych wytycznych: technologia zapobiegania urazom ciśnieniowym podniesiona do zalecanego poziomu | Newswise – Newswise",
@@ -964,22 +964,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Każda pielęgniarka, która kiedykolwiek zamieniła pacjenta, wie to samo: zanim uraz uciskowy stanie się widoczny, uszkodzenie zaczęło się już kilka dni temu."
-    },
-    {
-      "title": "Notatki terenowe: Potencjalne narażenie niemowląt na HIV... - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7531a2.htm",
-      "date": "2026-08-13T17:03:03Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Notatki z terenu: Potencjalne narażenie niemowląt na HIV... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Ekspansja Ixodes scapularis na południe... - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7531a1.htm",
-      "date": "2026-08-13T17:03:03Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Ekspansja Ixodes scapularis na południe ... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Spotkanie komisji ds. oceny technologii wysokospecjalistycznych (HSTEC) | Spotkania publiczne | Zaangażuj się - strona internetowa NICE",
@@ -996,6 +980,14 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Nystatyna | Interakcje BNF."
+    },
+    {
+      "title": "Deuruksolitynib | Interakcje - BNF",
+      "url": "https://bnf.nice.org.uk/interactions/deuruxolitinib/",
+      "date": "2026-08-13T11:57:11Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Deuruksolitynib | Interakcje BNF."
     },
     {
       "title": "Rekomendacja Prezesa – Suliqua (insulina glargine + liksysenatyd) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1022,12 +1014,28 @@
       "summary": "Brak korzyści w zakresie OS w przypadku leczenia ciągłego w porównaniu z terapią podtrzymującą o ustalonym czasie trwania z użyciem lenalidomidu u pacjentów z nowo zdiagnozowanym szpiczakiem mnogim Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Epidemia cyklospory powiązana z sałatą lodową | Cyklosporoza — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
+      "title": "Panel kontrolny DOSE-DIS: Oddział ratunkowy w przypadku przedawkowania niezakończonego zgonem oraz dane dotyczące wypisu ze szpitala — wersja dostępna — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/overdose-prevention/data-research/facts-stats/dose-dis-accessible.html",
       "date": "2026-08-13T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Epidemia cyklospory powiązana z sałatą lodową | Centra kontroli i zapobiegania cyklosporozy | CDC (.gov)."
+      "summary": "Panel kontrolny DOSE-DIS: Oddział ratunkowy w przypadku przedawkowania niezakończonego zgonem i dane dotyczące wypisu ze szpitala — dostępna wersja Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Witryny rejestrów przypadków SUID i SDY — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/sudden-infant-death/php/case-registry/awardees.html",
+      "date": "2026-08-13T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Witryny rejestru przypadków SUID i SDY Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Tendencje w zakresie wskaźników SUID według przyczyny zgonów, 1990–2024 | SUID i SIDS – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/sudden-infant-death/data-research/data/sids-deaths-by-cause.html",
+      "date": "2026-08-13T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Tendencje w zakresie wskaźników SUID według przyczyny zgonów, 1990–2024 | Centra kontroli i zapobiegania chorobom SUID i SIDS | CDC (.gov)."
     },
     {
       "title": "42 szpitale w Minnesocie wyróżnione za poprawę jakości opieki nad chorobami serca i udarem mózgu – newsroom.heart.org",
@@ -1189,7 +1197,7 @@
       "date": "2026-08-14T19:01:08Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Epidemia wirusa Ebola: Obecna sytuacja Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Minęły daty przydatności do spożycia wycofanej sałaty lodowej w związku z masową epidemią Cyclospory – twierdzi FDA - CIDRAP",
@@ -1859,15 +1867,7 @@
       "date": "2026-08-14T19:01:08Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Epidemia wirusa Ebola: Obecna sytuacja Centra kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Epidemia cyklospory powiązana z sałatą lodową | Cyklosporoza — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
-      "date": "2026-08-13T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Epidemia cyklospory powiązana z sałatą lodową | Centra kontroli i zapobiegania cyklosporozy | CDC (.gov)."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga będzie największa w historii – CIDRAP",
