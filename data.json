@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-18T06:19:18Z",
+  "last_updated": "2026-08-18T06:20:00Z",
   "poland": [
+    {
+      "title": "MZ chce limitu refundacji na 60 dni i kontroli leków OTC. Zakupy będą rejestrowane - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/prawo/mz-chce-limitu-refundacji-na-60-dni-i-kontroli-lekow-otc-zakupy-beda-rejestrowane/",
+      "date": "2026-08-18T06:00:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Ministerstwo Zdrowia chce zmienić zasady realizacji recept refundowanych i objąć kontrolą wybrane leki OTC. Pacjent zachowa pulę refundacji na 360 dni terapii, ale jednorazowo będzie mógł otrzymać lek z refundacją najwyżej na 60 dni. Resort chce też rejestrować i sumować zakupy wybranych leków dostępnych bez recepty."
+    },
     {
       "title": "AUDIO-MED Expo 2026 [Nasz patronat] - Alert Medyczny",
       "url": "https://alertmedyczny.pl/wydarzenia/audio-med-expo-2026/",
@@ -239,7 +247,7 @@
       "date": "2026-08-17T15:54:23Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Pierwszy transport poszkodowanych z Węgier do Polski jeszcze dziś Gov.pl."
+      "summary": "21 osób poszkodowanych w wypadku polskiego autokaru na Węgrzech mają jeszcze dziś wieczorem wrócić do kraju. Decyzja o transporcie została podjęta po ocenie stanu zdrowia pacjentów przeprowadzonej przez polski Zespół Pomocy Humanitarno-Medycznej wspólnie z lekarzami węgierskimi."
     },
     {
       "title": "Jan Frycz poważnie chorował. \"Walczył z niszczącą, dręczącą go chorobą\" - Medonet",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "System P1 i państwowe systemy informatyczne nie są zagrożone w wyniku cyberataku na platformę MyDr – powiedziała w poniedziałek minister zdrowia Jolanta Sobierańska-Grenda."
-    },
-    {
-      "title": "Rekomendacja AOTMiT – mosunetuzumab - Aktualności - Onkologia - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/onkologia/aktualnosci/446604,rekomendacja-prezesa-aotmit-mosunetuzumab",
-      "date": "2026-08-17T13:36:10Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Prezes Agencji rekomenduje objęcie refundacją produktu leczniczego Lunsumio (mosunetuzumab) do podania podskórnego w programie lekowym B.12.FM. „Leczenie chorych na chłoniaki B-komórkowe (ICD-10: C82, C83, C85)”, pod warunkiem zapewnienia nie wy."
     }
   ],
   "world": [
@@ -545,7 +545,7 @@
       "date": "2026-08-17T19:42:53Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Sztuczna inteligencja, analityka danych i poprawa opieki zdrowotnej: co się właściwie zmieniło i czy zmieniło się wystarczająco? Innowacje BMJ."
+      "summary": "Sztuczna inteligencja (AI) i nauka o danych zmieniają sposób, w jaki systemy opieki zdrowotnej wykrywają ryzyko, generują wnioski i organizują ulepszenia. W artykule zadano pytanie, czy te zmiany wystarczająco zmieniły poprawę opieki zdrowotnej, pod względem koncepcyjnym i praktycznym, czy też przede wszystkim zapewniły szybsze narzędzia do monitorowania i wykrywania, przy czym długotrwałe wyzwania pozostają endemiczne. Wysuwany argument jest taki, że sztuczna inteligencja i nauka o danych zmieniły bardziej sposoby ulepszeń niż faktyczną poprawę."
     },
     {
       "title": "Wpływ pandemii COVID-19 na opiekę nad pacjentami hospitalizowanymi z zaleceniem niereanimowania: retrospektywne badanie kohortowe - Opieka wspomagająca i paliatywna BMJ",
@@ -641,7 +641,7 @@
       "date": "2026-08-17T16:36:48Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Potwierdzone biopsją ostre zapalenie wątroby z gorączką Q wikłające ciężkie zapalenie wątroby związane z alkoholem: wyzwanie diagnostyczne i terapeutyczne. BMJ Case Reports."
+      "summary": "Opisujemy przypadek kobiety po czterdziestce, nadużywającej alkoholu, u której wystąpiła żółtaczka, utrzymująca się gorączka i ciężkie zaburzenia czynności wątroby, początkowo leczone jako alkoholowe zapalenie wątroby. Pomimo antybiotyków o szerokim spektrum działania i negatywnych wyników badań septycznych, nadal gorączkowała. Dalsze badania, zainspirowane narażeniem zwierząt gospodarskich na obszarach wiejskich i niedawnym narażeniem rodziny na gorączkę Q, ujawniły ostrą infekcję Coxiella burnetii, popartą wynikami badań serologicznych dotyczących gorączki Q z przewagą fazy II, w tym miana IgG IFA fazy II 1:2048 i dodatniego wyniku PCR w surowicy/krwi."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -1132,6 +1132,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Obwieszczenie Ministra Zdrowia z dnia 6 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie programu pilotażowego leczenia gruźlicy wielolekoopornej w warunkach ambulatoryjnych",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/1096",
+      "date": "2026-08-06T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1096, z dniem ogłoszenia 2026-08-17."
     }
   ],
   "epidemiology": [
