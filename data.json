@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T07:40:45Z",
+  "last_updated": "2026-08-18T07:43:45Z",
   "poland": [
     {
       "title": "Tłuszcz trzewny a ryzyko metaboliczne - Serwis Zdrowie",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Podzielone zespoły mogą być skuteczną opcją w przypadku rund klinicznych – Medscape",
+      "url": "https://www.medscape.com/viewarticle/split-teams-may-be-efficient-option-clinical-rounds-2026a1000skg?src=rss",
+      "date": "2026-08-18T07:42:05Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Szpitale dążą do zwiększenia wydajności dla personelu szpitalnego i pacjentów."
+    },
+    {
       "title": "Telemedycyna pozostaje istotna w opiece pediatrycznej - Medscape",
       "url": "https://www.medscape.com/viewarticle/telemedicine-remains-relevant-pediatric-care-2026a1000sk4",
       "date": "2026-08-18T05:48:50Z",
@@ -433,7 +441,7 @@
       "date": "2026-08-18T03:40:29Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Praca pielęgniarki/siostry w ośrodku kardiologicznym w Harrogate i District NHS Foundation Trust (kariera w służbie zdrowia) | 838412 BMJ."
+      "summary": "Heart Center to mały zespół z siedzibą w Harrogate District Foundation Trust, wykonujący badania kardiologiczne, w tym angiografię wieńcową..."
     },
     {
       "title": "Informacje dla uczestników – Światowa Organizacja Zdrowia (WHO)",
@@ -577,7 +585,7 @@
       "date": "2026-08-17T20:21:29Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "CAR T Lekarz specjalista - hematologia (stopień lekarza specjalisty) BMJ."
+      "summary": "Wybrany kandydat dołączy do wykwalifikowanego multidyscyplinarnego zespołu, w skład którego wchodzą konsultanci, rejestratorzy specjalności, lekarze specjaliści, ACP, PA, CNS..."
     },
     {
       "title": "Sztuczna inteligencja, analityka danych i poprawa opieki zdrowotnej: co się właściwie zmieniło i czy zmieniło się wystarczająco? - Innowacje BMJ",
@@ -633,7 +641,7 @@
       "date": "2026-08-17T18:17:37Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Rozwój wirusów zaprojektowanych przez sztuczną inteligencję pokazuje, dlaczego takie badania należy prowadzić na otwartej przestrzeni. The BMJ."
+      "summary": "Niedawny przełom w biologii generatywnej jest ekscytujący, ale budzi poważne wątpliwości etyczne i związane z bezpieczeństwem, mówi Simon Clarke. Naukowcy z Uniwersytetu Stanforda odkryli nowe bakteriofagi, wirusy, które infekują i zabijają bakterie, nie szukając ich w zwykłych miejscach, takich jak oceany czy kanały ściekowe, ale wykorzystując sztuczną inteligencję. W szczególności wykorzystali sztuczną inteligencję do zaprojektowania sekwencji genomu nowych fagów, które nie występują w naturze. Jest to ważny krok dla biologii generatywnej, ale tworzenie syntetycznych wirusów budzi poważne obawy dotyczące bezpieczeństwa i etyki dotyczące ryzyka bezpieczeństwa biologicznego, niezamierzonych konsekwencji ekologicznych oraz możliwości niewłaściwego wykorzystania czynników biologicznych zaprojektowanych przez sztuczną inteligencję."
     },
     {
       "title": "Rozwój wirusów zaprojektowanych przez sztuczną inteligencję pokazuje, dlaczego takie badania należy prowadzić na otwartej przestrzeni – BMJ",
@@ -794,21 +802,13 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Dr Anne Peters omawia coraz szersze zastosowanie ciągłego monitorowania poziomu glukozy u osób chorych na cukrzycę."
-    },
-    {
-      "title": "Używanie konopi indyjskich może zwiększać ryzyko upadków u dorosłych zakażonych wirusem HIV - Medscape",
-      "url": "https://www.medscape.com/viewarticle/cannabis-use-may-increase-fall-risk-adults-hiv-2026a1000s50",
-      "date": "2026-08-17T14:18:17Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Wśród dorosłych żyjących z wirusem HIV używanie konopi indyjskich wiąże się ze zwiększonym ryzykiem upadków, ale związek ten słabnie po uwzględnieniu używania innych substancji i leków."
     }
   ],
   "guidelines": [
     {
       "title": "Wyniki kliniczne i wskaźniki jakości AHA/ACC 2026 u pacjentów z migotaniem przedsionków - professional.heart.org",
       "url": "https://professional.heart.org/en/science-news/2026-clinical-performance-and-quality-measures-for-patients-with-atrial-fibrillation",
-      "date": "2026-08-18T00:02:24Z",
+      "date": "2026-08-18T06:02:24Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "National Center 7272 Greenville Ave. Dallas, Teksas 75231 Obsługa klienta 1-800-242-8721 Godziny otwarcia Poniedziałek - piątek: 7:00 - 19:00"
@@ -1006,12 +1006,12 @@
       "summary": "W zeszłym roku AGA opublikowała swoje pierwsze wytyczne dotyczące praktyki klinicznej dotyczące postępowania w gastroparezie, a ostatnio GEN rozmawiało z głównym autorem Kylem-Stallerem-MD o tym, jak wytyczne mogą zmienić podejście gastroenterologów do pacjentów z tą chorobą."
     },
     {
-      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "title": "Trendy w szczepieniach | Choroby układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
       "date": "2026-08-14T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 5,
-      "summary": "Przypadki i ogniska odry Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "summary": "Trendy w szczepieniach | Centra kontroli i zapobiegania chorobom układu oddechowego | CDC (.gov)."
     },
     {
       "title": "ASTRO aktualizuje wytyczne dotyczące radioterapii raka trzustki - Bioengineer.org",
@@ -1020,22 +1020,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "ARLINGTON, Wirginia, 13 sierpnia 2026 r. — Nowe wytyczne kliniczne Amerykańskiego Towarzystwa Radioterapii Onkologicznej (ASTRO) zmieniają sposób myślenia lekarzy o radioterapii dorosłych pacjentów z p."
-    },
-    {
-      "title": "Notatki terenowe: Potencjalne narażenie niemowląt na HIV... - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7531a2.htm",
-      "date": "2026-08-13T17:03:03Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Notatki z terenu: Potencjalne narażenie niemowląt na HIV... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Ekspansja Ixodes scapularis na południe... - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7531a1.htm",
-      "date": "2026-08-13T17:03:03Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Ekspansja Ixodes scapularis na południe ... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Nystatyna | Interakcje - BNF",
@@ -1070,12 +1054,28 @@
       "summary": "Brak korzyści w zakresie OS w przypadku leczenia ciągłego w porównaniu z terapią podtrzymującą o ustalonym czasie trwania lenalidomidem u pacjentów z nowo zdiagnozowanym szpiczakiem mnogim Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Epidemia cyklospory powiązana z sałatą lodową | Cyklosporoza — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
+      "title": "Pulpit nawigacyjny DOSE-DIS: Oddział ratunkowy w przypadku przedawkowania niezakończonego zgonem i dane dotyczące wypisu ze szpitala – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/overdose-prevention/data-research/facts-stats/dose-dashboard-nonfatal-discharge-data.html",
       "date": "2026-08-13T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Epidemia cyklospory powiązana z sałatą lodową | Centra kontroli i zapobiegania cyklosporozy | CDC (.gov)."
+      "summary": "Pulpit nawigacyjny DOSE-DIS: Oddział ratunkowy w przypadku przedawkowania niezakończonego zgonem i wypisy ze szpitala Centra danych dotyczące kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Witryny rejestrów przypadków SUID i SDY — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/sudden-infant-death/php/case-registry/awardees.html",
+      "date": "2026-08-13T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Witryny rejestru przypadków SUID i SDY Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Tendencje w zakresie wskaźników SUID według przyczyny zgonów, 1990–2024 | SUID i SIDS – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/sudden-infant-death/data-research/data/sids-deaths-by-cause.html",
+      "date": "2026-08-13T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Tendencje w zakresie wskaźników SUID według przyczyny zgonów, 1990–2024 | Centra kontroli i zapobiegania chorobom SUID i SIDS | CDC (.gov)."
     },
     {
       "title": "42 szpitale w Minnesocie wyróżnione za poprawę jakości opieki nad chorobami serca i udarem mózgu – www.heart.org",
@@ -2004,14 +2004,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
-    },
-    {
-      "title": "Epidemia cyklospory powiązana z sałatą lodową | Cyklosporoza — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
-      "date": "2026-08-13T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Epidemia cyklospory powiązana z sałatą lodową | Centra kontroli i zapobiegania cyklosporozy | CDC (.gov)."
     },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga będzie największa w historii – CIDRAP",
