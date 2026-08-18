@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T04:52:52Z",
+  "last_updated": "2026-08-18T04:53:33Z",
   "poland": [
     {
       "title": "AUDIO-MED Expo 2026 [Nasz patronat] - Alert Medyczny",
@@ -223,7 +223,7 @@
       "date": "2026-08-17T15:54:23Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "21 osób poszkodowanych w wypadku polskiego autokaru na Węgrzech mają jeszcze dziś wieczorem wrócić do kraju. Decyzja o transporcie została podjęta po ocenie stanu zdrowia pacjentów przeprowadzonej przez polski Zespół Pomocy Humanitarno-Medycznej wspólnie z lekarzami węgierskimi."
+      "summary": "Pierwszy transport poszkodowanych z Węgier do Polski jeszcze dziś Gov.pl."
     },
     {
       "title": "Jan Frycz poważnie chorował. \"Walczył z niszczącą, dręczącą go chorobą\" - Medonet",
@@ -513,7 +513,7 @@
       "date": "2026-08-17T19:42:53Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Sztuczna inteligencja (AI) i nauka o danych zmieniają sposób, w jaki systemy opieki zdrowotnej wykrywają ryzyko, generują wnioski i organizują ulepszenia. W artykule zadano pytanie, czy te zmiany wystarczająco zmieniły poprawę opieki zdrowotnej, pod względem koncepcyjnym i praktycznym, czy też przede wszystkim zapewniły szybsze narzędzia do monitorowania i wykrywania, przy czym długotrwałe wyzwania pozostają endemiczne. Wysuwany argument jest taki, że sztuczna inteligencja i nauka o danych zmieniły bardziej sposoby ulepszeń niż faktyczną poprawę."
+      "summary": "Sztuczna inteligencja, analityka danych i poprawa opieki zdrowotnej: co się właściwie zmieniło i czy zmieniło się wystarczająco? Innowacje BMJ."
     },
     {
       "title": "Wpływ pandemii COVID-19 na opiekę nad pacjentami hospitalizowanymi z zaleceniem niereanimowania: retrospektywne badanie kohortowe - Opieka wspomagająca i paliatywna BMJ",
@@ -982,14 +982,6 @@
       "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
     },
     {
-      "title": "EHJ – Ostra CardioVascular Care Call dla redaktora naczelnego – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/publications/journals/european-heart-journal-acute-cardiovascular-care/ehj---acute-cardiovascular-care-call-for-editor-in-chief/",
-      "date": "2026-08-15T04:49:24Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Europejskie Towarzystwo Kardiologiczne (ESC) ma przyjemność ogłosić otwarcie naboru na stanowisko kolejnego Redaktora Naczelnego czasopisma European Heart Journal – Acute Cardionaczyniowe Care, w związku z dobiegającą końca kadencją obecnego Redaktora Naczelnego."
-    },
-    {
       "title": "ASTRO publikuje zaktualizowane wytyczne praktyki klinicznej dotyczące RT w leczeniu raka trzustki – onkologia ukierunkowana",
       "url": "https://www.targetedonc.com/view/astro-issues-updated-clinical-practice-guideline-on-rt-for-pancreatic-cancer",
       "date": "2026-08-14T19:05:20Z",
@@ -1022,12 +1014,12 @@
       "summary": "Przypadki i ogniska odry Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Skanowanie SEM przekracza próg światowych wytycznych: technologia zapobiegania urazom ciśnieniowym podniesiona do zalecanego poziomu | Newswise – Newswise",
-      "url": "https://www.newswise.com/articles/sem-scanning-crosses-the-global-guideline-threshold-elevated-to-recommended-pressure-injury-prevention-technology",
-      "date": "2026-08-13T23:45:00Z",
+      "title": "ASTRO aktualizuje wytyczne dotyczące radioterapii raka trzustki - Bioengineer.org",
+      "url": "https://bioengineer.org/astro-updates-radiation-therapy-guidelines-for-pancreatic-cancer/",
+      "date": "2026-08-14T04:36:32Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Każda pielęgniarka, która kiedykolwiek zamieniła pacjenta, wie to samo: zanim uraz uciskowy stanie się widoczny, uszkodzenie zaczęło się już kilka dni temu."
+      "summary": "ARLINGTON, Wirginia, 13 sierpnia 2026 r. — Nowe wytyczne kliniczne Amerykańskiego Towarzystwa Radioterapii Onkologicznej (ASTRO) zmieniają sposób, w jaki lekarze myślą o radioterapii dorosłych pacjentów z p."
     },
     {
       "title": "Notatki terenowe: Potencjalne narażenie niemowląt na HIV... - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1052,6 +1044,14 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Nystatyna | Interakcje BNF."
+    },
+    {
+      "title": "Deuruksolitynib | Interakcje - BNF",
+      "url": "https://bnf.nice.org.uk/interactions/deuruxolitinib/",
+      "date": "2026-08-13T11:57:11Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Deuruksolitynib | Interakcje BNF."
     },
     {
       "title": "Rekomendacja Prezesa – Suliqua (insulina glargine + liksysenatyd) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1132,14 +1132,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Obwieszczenie Ministra Zdrowia z dnia 6 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie programu pilotażowego leczenia gruźlicy wielolekoopornej w warunkach ambulatoryjnych",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/1096",
-      "date": "2026-08-06T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1096, z dniem ogłoszenia 2026-08-17."
     }
   ],
   "epidemiology": [
@@ -1245,7 +1237,7 @@
       "date": "2026-08-17T16:47:18Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Dzień dobry, bonjour. Bardzo mi przykro, że nie mogę być dzisiaj z Wami osobiście w Bangi."
+      "summary": "Dzień dobry, bonjour. Bardzo mi przykro, że nie mogę być dziś z Wami osobiście w Bangi."
     },
     {
       "title": "Wyszukiwanie ogólne - platforma.who.int",
@@ -1261,7 +1253,7 @@
       "date": "2026-08-17T13:54:39Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Tło Wirusy przenoszone przez stawonogi (arbowirusy), takie jak denga, chikungunya, żółta febra i wirusy Zika, stanowią zagrożenie dla zdrowia publicznego na obszarach tropikalnych i subtropikalnych. Częstotliwość i wielkość ognisk chorób wywoływanych przez te arbowirusy rosną na całym świecie, na co wpływa zbieżność czynników ekologicznych, ekonomicznych i społecznych. Globalny program WHO dotyczący arbowirusów promuje kompleksowe podejścia do zdrowia publicznego, osadzone w krajowych systemach opieki zdrowotnej i powiązane z szerzej zakrojonymi wysiłkami w zakresie zarządzania epidemiami i pandemiami, w tym z ramami gotowości, reagowania i odporności na sytuacje kryzysowe WHO (HEPR)."
+      "summary": "Tło Wirusy przenoszone przez stawonogi (arbowirusy), takie jak denga, chikungunya, żółta febra i wirusy Zika, stanowią zagrożenie dla zdrowia publicznego na obszarach tropikalnych i subtropikalnych. Częstotliwość i wielkość ognisk chorób wywoływanych przez te arbowirusy rosną na całym świecie, napędzane przez zbieżność czynników ekologicznych, ekonomicznych i społecznych. Globalny program WHO dotyczący arbowirusów promuje kompleksowe podejścia do zdrowia publicznego, osadzone w krajowych systemach opieki zdrowotnej i powiązane z szerzej zakrojonymi wysiłkami w zakresie zarządzania epidemiami i pandemiami, w tym z ramami gotowości, reagowania i odporności na sytuacje kryzysowe WHO (HEPR)."
     },
     {
       "title": "Światowy Dzień Pomocy Humanitarnej 2026: uhonorowanie poległych humanitarystów i wezwanie do większej ochrony opieki zdrowotnej - Światowa Organizacja Zdrowia (WHO)",
@@ -1413,7 +1405,7 @@
       "date": "2026-08-12T19:45:53Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Stowarzyszenie Profesjonalistów ds. Kontroli Zakażeń i Epidemiologii (APIC) oraz Amerykańskie Towarzystwo Epidemiologii Opieki Zdrowotnej (SHEA) wydały wczoraj wspólne oświadczenie, w którym stwierdzają, że zarządzenie prezydenta Donalda Trumpa „Dostarczanie Amerykanom złotego standardu dotyczącego szczepionek dla dzieci” nie opiera się na niczym innym niż na złotym standardzie."
+      "summary": "Stowarzyszenie Profesjonalistów ds. Kontroli Zakażeń i Epidemiologii (APIC) oraz Amerykańskie Towarzystwo Epidemiologii Opieki Zdrowotnej (SHEA) wydały wczoraj wspólne oświadczenie, w którym stwierdzają, że zarządzenie prezydenta Donalda Trumpa „Dostarczenie Amerykanom złotego standardu zaleceń dotyczących szczepionek dziecięcych” nie opiera się na niczym innym niż na złotym standardzie."
     }
   ],
   "clinical_trials": [
@@ -1612,12 +1604,12 @@
       "summary": "| GLP-1, sztuczna inteligencja i telemedycyna zmieniają zachowania pacjentów. Dowiedz się, co to oznacza dla diagnozy, zaangażowania i komercjalizacji."
     },
     {
-      "title": "Zatwierdzenie Zenbexusa przez BMS to kamień milowy w leczeniu szpiczaka w zakresie minimalnej choroby resztkowej - pink.pharmaintelligence.informa.com",
+      "title": "Zatwierdzenie Zenbexusa przez BMS to kamień milowy w leczeniu szpiczaka w zakresie minimalnych chorób resztkowych - insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/pathways-and-standards/review-pathways/bms-zenbexus-approval-is-a-myeloma-milestone-for-minimal-residual-disease-QTZLMB37VJH6JLTCC2QFE63HBA/",
       "date": "2026-08-17T23:49:51Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Styczniowy projekt wytycznych amerykańskiej FDA, w których uznano MRD za zastępczy punkt końcowy w szpiczaku mnogim, zapewnił podstawę prawną do zatwierdzenia leku Zenbexus, odzwierciedlając szersze wysiłki tej agencji na rzecz modernizacji onkologicznych punktów końcowych tam, gdzie skuteczne istniejące metody leczenia sprawiły, że tradycyjne metody stały się poza zasięgiem."
+      "summary": "Styczniowy projekt wytycznych amerykańskiej FDA, w których uznano MRD za zastępczy punkt końcowy w szpiczaku mnogim, zapewnił podstawę prawną do zatwierdzenia leku Zenbexus, odzwierciedlając szersze wysiłki tej agencji na rzecz modernizacji onkologicznych punktów końcowych tam, gdzie istniejące skuteczne metody leczenia sprawiły, że tradycyjne metody stały się poza zasięgiem."
     },
     {
       "title": "Zatwierdzenie przed wprowadzeniem do obrotu (PMA) – accessdata.fda.gov",
@@ -1641,10 +1633,10 @@
       "date": "2026-08-17T21:55:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "AKTUALIZACJA: Firma Oma's Pride dobrowolnie wycofuje jedną partię kompletnego przepisu na kurczaka z kurczakiem dla psów (worek 6 funtów) ze względu na możliwe ryzyko zdrowotne związane z Salmonellą fda.gov."
+      "summary": "AKTUALIZACJA: Firma Oma's Pride dobrowolnie wycofuje jedną partię kompletnego przepisu na kurczaka z kurczakiem dla psów (worek 6 funtów) ze względu na możliwe zagrożenie dla zdrowia wywołanego Salmonellą fda.gov."
     },
     {
-      "title": "Inspekcje leków amerykańskiej FDA powracają do poziomu sprzed pandemii; Krajowe cytowania OIA przekraczają średnią światową - pink.pharmaintelligence.informa.com",
+      "title": "Inspekcje leków amerykańskiej FDA powracają do poziomu sprzed pandemii; Krajowe cytowania OIA przekraczają średnią światową – insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/compliance/manufacturing/us-fda-drug-inspections-return-to-pre-pandemic-levels-domestic-oia-citations-exceed-global-average-GPR6UU7FD5FVTOGBH2ZVWUP3NI/",
       "date": "2026-08-17T21:34:44Z",
       "source": "Pink Sheet",
@@ -1745,7 +1737,7 @@
       "date": "2026-08-17T17:41:08Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Wartości National Early Warning Score 2 (NEWS2) obliczone według wytycznych brytyjskiego Narodowego Instytutu Doskonałości Zdrowia i Opieki (NICE) pozwalają zidentyfikować pacjentów."
+      "summary": "Wartości National Early Warning Score 2 (NEWS2) obliczone przez wytyczne brytyjskiego Narodowego Instytutu Doskonałości Zdrowia i Opieki (NICE) pozwalają zidentyfikować pacjentów."
     },
     {
       "title": "Zatwierdzenie przed wprowadzeniem do obrotu (PMA) – accessdata.fda.gov",
@@ -1761,7 +1753,7 @@
       "date": "2026-08-17T17:23:09Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Istnieje zależny od dawki związek pomiędzy cytrynianem klomifenu (CC) a niekorzystnymi wynikami okołoporodowymi w przypadku świeżych cykli autologicznego zapłodnienia in vitro (IVF)."
+      "summary": "Istnieje zależny od dawki związek pomiędzy cytrynianem klomifenu (CC) a niekorzystnymi wynikami okołoporodowymi w świeżych cyklach autologicznego zapłodnienia in vitro (IVF)."
     },
     {
       "title": "Częstość występowania ARIA w świecie rzeczywistym po zastosowaniu lekanemabu jest zgodna z wynikami badań klinicznych - Drugs.com",
@@ -1820,7 +1812,7 @@
       "summary": "Najnowsze wyniki dają inwestorom pewność co do możliwości zatwierdzenia leku w innym wskazaniu, dla którego nie ma zatwierdzonych metod leczenia."
     },
     {
-      "title": "Niemcy muszą zreformować ceny leków, w przeciwnym razie inwestycje w produkty farmaceutyczne stracą ryzyko – ostrzega branża - pink.pharmaintelligence.informa.com",
+      "title": "Niemcy muszą zreformować ceny leków, w przeciwnym razie inwestycje w produkty farmaceutyczne stracą ryzyko – ostrzega branża – Insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/germany-must-reform-drug-pricing-or-risk-losing-pharma-investment-industry-warns-T2CEBIEMX5BPVC3VSM2EPZI3FY/",
       "date": "2026-08-17T16:40:52Z",
       "source": "Pink Sheet",
@@ -1916,12 +1908,12 @@
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
-      "title": "Tylko badania na temat zdrowego ochotnika: Wielka Brytania ogranicza uprawnienia do zatwierdzenia szybkiej fazy I badania – pink.pharmaintelligence.informa.com",
+      "title": "Tylko badania na temat zdrowego wolontariatu: Wielka Brytania ogranicza uprawnienia do zatwierdzenia szybkiej fazy I badania – spostrzeżenia.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/healthy-volunteer-studies-only-uk-limits-eligibility-for-speedy-phase-i-trial-approvals-2ITYTTPIMNHUVF7MU7ILNXGCTY/",
       "date": "2026-08-17T15:36:02Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Brytyjski organ regulacyjny ds. leków opublikował zasady kwalifikowalności swojego pilotażu dotyczące przeglądu wniosków o badanie fazy I w ciągu 14 dni, ujawniając wąskie okno kwalifikacyjne, które wyklucza badania z udziałem ludzi i terapii zaawansowanej."
+      "summary": "Brytyjski organ regulacyjny ds. leków opublikował zasady kwalifikowalności pilotażu dotyczącego przeglądu wniosków o badanie fazy I w ciągu 14 dni, ujawniając wąskie okno kwalifikacyjne, które wyklucza badania z udziałem ludzi i terapii zaawansowanej."
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
@@ -1995,7 +1987,7 @@
       "date": "2026-08-17T13:54:39Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Tło Wirusy przenoszone przez stawonogi (arbowirusy), takie jak denga, chikungunya, żółta febra i wirusy Zika, stanowią zagrożenie dla zdrowia publicznego na obszarach tropikalnych i subtropikalnych. Częstotliwość i wielkość ognisk chorób wywoływanych przez te arbowirusy rosną na całym świecie, na co wpływa zbieżność czynników ekologicznych, ekonomicznych i społecznych. Globalny program WHO dotyczący arbowirusów promuje kompleksowe podejścia do zdrowia publicznego, osadzone w krajowych systemach opieki zdrowotnej i powiązane z szerzej zakrojonymi wysiłkami w zakresie zarządzania epidemiami i pandemiami, w tym z ramami gotowości, reagowania i odporności na sytuacje kryzysowe WHO (HEPR)."
+      "summary": "Tło Wirusy przenoszone przez stawonogi (arbowirusy), takie jak denga, chikungunya, żółta febra i wirusy Zika, stanowią zagrożenie dla zdrowia publicznego na obszarach tropikalnych i subtropikalnych. Częstotliwość i wielkość ognisk chorób wywoływanych przez te arbowirusy rosną na całym świecie, napędzane przez zbieżność czynników ekologicznych, ekonomicznych i społecznych. Globalny program WHO dotyczący arbowirusów promuje kompleksowe podejścia do zdrowia publicznego, osadzone w krajowych systemach opieki zdrowotnej i powiązane z szerzej zakrojonymi wysiłkami w zakresie zarządzania epidemiami i pandemiami, w tym z ramami gotowości, reagowania i odporności na sytuacje kryzysowe WHO (HEPR)."
     },
     {
       "title": "Epidemia sercowo-naczyniowa: realizacja programu Bezpieczne Serca Unii Europejskiej i krajowych planów działania – ESC 365",
@@ -2061,7 +2053,7 @@
       "date": "2026-08-17T13:54:39Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Tło Wirusy przenoszone przez stawonogi (arbowirusy), takie jak denga, chikungunya, żółta febra i wirusy Zika, stanowią zagrożenie dla zdrowia publicznego na obszarach tropikalnych i subtropikalnych. Częstotliwość i wielkość ognisk chorób wywoływanych przez te arbowirusy rosną na całym świecie, na co wpływa zbieżność czynników ekologicznych, ekonomicznych i społecznych. Globalny program WHO dotyczący arbowirusów promuje kompleksowe podejścia do zdrowia publicznego, osadzone w krajowych systemach opieki zdrowotnej i powiązane z szerzej zakrojonymi wysiłkami w zakresie zarządzania epidemiami i pandemiami, w tym z ramami gotowości, reagowania i odporności na sytuacje kryzysowe WHO (HEPR)."
+      "summary": "Tło Wirusy przenoszone przez stawonogi (arbowirusy), takie jak denga, chikungunya, żółta febra i wirusy Zika, stanowią zagrożenie dla zdrowia publicznego na obszarach tropikalnych i subtropikalnych. Częstotliwość i wielkość ognisk chorób wywoływanych przez te arbowirusy rosną na całym świecie, napędzane przez zbieżność czynników ekologicznych, ekonomicznych i społecznych. Globalny program WHO dotyczący arbowirusów promuje kompleksowe podejścia do zdrowia publicznego, osadzone w krajowych systemach opieki zdrowotnej i powiązane z szerzej zakrojonymi wysiłkami w zakresie zarządzania epidemiami i pandemiami, w tym z ramami gotowości, reagowania i odporności na sytuacje kryzysowe WHO (HEPR)."
     },
     {
       "title": "Brak dotacji na terapię hormonalną dla osób trans w Albanii – spojrzenie na Bałkany",
