@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T09:15:11Z",
+  "last_updated": "2026-08-18T09:15:46Z",
   "poland": [
     {
       "title": "Dieta Portfolio – zalecenia i przykładowy jadłospis. Czy pomaga obniżyć poziom cholesterolu we krwi? - DOZ.pl",
@@ -83,7 +83,7 @@
     },
     {
       "title": "Ministerstwo Zdrowia opublikowało nowy skład Komisji Ekonomicznej - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/kadry/menedzerowie-ochrony-zdrowia/ministerstwo-zdrowia-opublikowalo-nowy-sklad-komisji-ekonomicznej/",
+      "url": "https://pulsmedycyny.pl/kadry/menedzerowie-ochrony-zdrowia/ministerstwo-zdrowia-opublikowalo-nowy-sklad-komisji-ekonomicznej",
       "date": "2026-08-18T08:03:00Z",
       "source": "Puls Medycyny",
       "confirmed_by": 1,
@@ -91,7 +91,7 @@
     },
     {
       "title": "Ministerstwo Zdrowia opublikowało nowy skład Komisji Ekonomicznej - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/kadry/menedzerowie-ochrony-zdrowia/ministerstwo-zdrowia-opublikowalo-nowy-sklad-komisji-ekonomicznej",
+      "url": "https://pulsmedycyny.pl/kadry/menedzerowie-ochrony-zdrowia/ministerstwo-zdrowia-opublikowalo-nowy-sklad-komisji-ekonomicznej/",
       "date": "2026-08-18T08:03:00Z",
       "source": "Puls Medycyny",
       "confirmed_by": 1,
@@ -577,7 +577,7 @@
       "date": "2026-08-18T01:47:41Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Obecnie rozpoczynamy kolejny rok akademicki. W sierpniu wielu stażystów medycznych rozpoczyna pracę w nowych rolach. Niedawno absolwenci medycyny przyzwyczajają się do słuchania doktora."
+      "summary": "Obecnie rozpoczynamy kolejny rok akademicki. Do sierpnia wielu stażystów medycznych rozpoczyna pracę w nowych rolach. Niedawno absolwenci medycyny przyzwyczajają się do słuchania doktora."
     },
     {
       "title": "Karaibski lekarz weterynarii na pierwszej linii frontu w walce o klimat i zdrowie zwierząt – Światowa Organizacja Zdrowia (WHO)",
@@ -1006,14 +1006,6 @@
       "summary": "ASTRO publikuje zaktualizowane wytyczne dotyczące praktyki klinicznej dotyczące RT w onkologii ukierunkowanej na raka trzustki."
     },
     {
-      "title": "Testowanie BRCA zmienia się z danych późnych na pilne - Medscape",
-      "url": "https://www.medscape.com/viewarticle/brca-testing-shifts-late-data-urgent-priority-2026a1000rvj?src=",
-      "date": "2026-08-14T14:04:18Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Badanie BRCA pomaga obecnie w podejmowaniu pilnych decyzji dotyczących leczenia oraz ocenie ryzyka rodzinnego, a hiszpańscy eksperci podkreślają jego wpływ na inhibitory PARP, oncofertlność, biopsję płynną i ćwiczenia fizyczne."
-    },
-    {
       "title": "EMA zaleca rozszerzenie wskazań do stosowania cetuksymabu - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-therapeutic-indications-for-cetuximab",
       "date": "2026-08-14T10:17:57Z",
@@ -1022,12 +1014,28 @@
       "summary": "EMA zaleca rozszerzenie wskazań do stosowania cetuksymabu Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
+      "title": "Dokładne spojrzenie na wytyczne kliniczne AGA dotyczące leczenia gastroparezy – wiadomości z gastroenterologii i endoskopii",
+      "url": "https://www.gastroendonews.com/Multimedia/Article/08-26/AGA-Clinical-Guideline-on-Gastroparesis-Management/81335",
+      "date": "2026-08-14T09:05:10Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "W zeszłym roku AGA opublikowała swoje pierwsze wytyczne dotyczące praktyki klinicznej dotyczące postępowania w gastroparezie, a ostatnio GEN rozmawiało z głównym autorem Kylem-Stallerem-MD o tym, jak wytyczne mogą zmienić podejście gastroenterologów do pacjentów z tą chorobą."
+    },
+    {
       "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-08-14T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 5,
       "summary": "Przypadki i ogniska odry Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "ASTRO aktualizuje wytyczne dotyczące radioterapii raka trzustki - Bioengineer.org",
+      "url": "https://bioengineer.org/astro-updates-radiation-therapy-guidelines-for-pancreatic-cancer/",
+      "date": "2026-08-14T04:36:32Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "ARLINGTON, Wirginia, 13 sierpnia 2026 r. — Nowe wytyczne kliniczne Amerykańskiego Towarzystwa Radioterapii Onkologicznej (ASTRO) zmieniają sposób, w jaki lekarze myślą o radioterapii dorosłych pacjentów z p."
     },
     {
       "title": "Notatki terenowe: Potencjalne narażenie niemowląt na HIV... - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1060,14 +1068,6 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Nystatyna | Interakcje bnf.nice.org.uk."
-    },
-    {
-      "title": "Rekomendacja Prezesa – Suliqua (insulina glargine + liksysenatyd) - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-suliqua-insulina-glargine-liksysenatyd/",
-      "date": "2026-08-13T11:19:01Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja nr 115/2026 z dnia 10 sierpnia 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie objęcia refundacją produktu leczniczego Suliqua (insulina glargine + liksysenatyd) we wskazaniu leczenie cukrzycy typu 2."
     },
     {
       "title": "Co powinien zrobić gabinet korzystający z systemu MyDr? Kolejność czynności, terminy, wzory pism i formularze - NIL",
