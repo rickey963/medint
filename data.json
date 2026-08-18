@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T11:06:01Z",
+  "last_updated": "2026-08-18T11:07:01Z",
   "poland": [
     {
       "title": "7848 zł za godzinę pracy ortopedy. Szpital pokazał dane o wynagrodzeniach - Alert Medyczny",
@@ -307,7 +307,7 @@
     },
     {
       "title": "Sprawdź, ile osób czeka na SOR - pacjent.gov.pl",
-      "url": "https://pacjent.gov.pl/aktualnosc/sprawdz-ile-osob-czeka-na-sor",
+      "url": "http://pacjent.gov.pl/aktualnosc/sprawdz-ile-osob-czeka-na-sor",
       "date": "2026-08-18T06:03:13Z",
       "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 2,
@@ -315,7 +315,7 @@
     },
     {
       "title": "Sprawdź, ile osób czeka na SOR - pacjent.gov.pl",
-      "url": "http://pacjent.gov.pl/aktualnosc/sprawdz-ile-osob-czeka-na-sor",
+      "url": "https://pacjent.gov.pl/aktualnosc/sprawdz-ile-osob-czeka-na-sor",
       "date": "2026-08-18T06:03:13Z",
       "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 2,
@@ -625,7 +625,7 @@
       "date": "2026-08-18T07:29:50Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Aspiracja tabletek jest rzadką, ale potencjalnie zagrażającą życiu formą aspiracji ciała obcego, wymagającą szybkiego rozpoznania i interwencji. W przeciwieństwie do innych materiałów zasysanych, pigułki mogą powodować specyficzne reakcje w drogach oddechowych, w zależności od ich składu, rozpuszczalności i powłoki, co może komplikować zarówno diagnozę, jak i leczenie. Przedstawiamy przypadek mężczyzny w wieku około 70 lat, u którego wystąpił ostry kaszel i duszność utrzymujące się przez 2 dni po przyjęciu rutynowych leków stosowanych na noc."
+      "summary": "Zespół aspiracji pigułki wapniowej dróg oddechowych BMJ Case Reports."
     },
     {
       "title": "Zaburzenia erekcji Lexapro: Oparte na dowodach wsparcie dla mężczyzn w zakresie Lexapro – Zobacz 31SxFQNDT – Universidad Autónoma del Estado de Hidalgo",
@@ -692,7 +692,7 @@
       "summary": "79. sesja Komitetu Regionalnego WHO ds. Azji Południowo-Wschodniej, 7–10 września 2026 r., Dili, Timor Wschodni."
     },
     {
-      "title": "10 najlepszych sposobów leczenia grzybicy paznokci — Zobacz zSjIz3XeM — Uniwersytet Autonomiczny stanu Hidalgo",
+      "title": "10 najlepszych metod leczenia grzybicy paznokci — Zobacz zSjIz3XeM — Universidad Autónoma del Estado de Hidalgo",
       "url": "https://www.uaeh.edu.mx/fini/2022/exposiciones/apuntes-viaje/360/index.html?xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url=%22%2F%5C%2Fuso.updays.site%2Ffungus%2F%3Fvid=3vlu6e%22%2F%3E%3C/krpano%3E",
       "date": "2026-08-18T02:35:17Z",
       "source": "Cochrane Library",
@@ -1006,14 +1006,6 @@
       "summary": "ASTRO publikuje zaktualizowane wytyczne dotyczące praktyki klinicznej dotyczące RT w onkologii ukierunkowanej na raka trzustki."
     },
     {
-      "title": "Testowanie BRCA zmienia się z danych późnych na pilne - Medscape",
-      "url": "https://www.medscape.com/viewarticle/brca-testing-shifts-late-data-urgent-priority-2026a1000rvj?src=",
-      "date": "2026-08-14T14:04:18Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Testowanie BRCA pomaga obecnie w podejmowaniu pilnych decyzji dotyczących leczenia oraz ocenie ryzyka rodzinnego, a hiszpańscy eksperci podkreślają jego konsekwencje dla inhibitorów PARP, onkopłodności, biopsji płynnej i ćwiczeń fizycznych."
-    },
-    {
       "title": "EMA zaleca rozszerzenie wskazań do stosowania cetuksymabu - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-therapeutic-indications-for-cetuximab",
       "date": "2026-08-14T10:17:57Z",
@@ -1036,6 +1028,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 5,
       "summary": "Przypadki i ogniska odry Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "ASTRO aktualizuje wytyczne dotyczące radioterapii raka trzustki - Bioengineer.org",
+      "url": "https://bioengineer.org/astro-updates-radiation-therapy-guidelines-for-pancreatic-cancer/",
+      "date": "2026-08-14T04:36:32Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "ARLINGTON, Wirginia, 13 sierpnia 2026 r. — Nowe wytyczne kliniczne Amerykańskiego Towarzystwa Radioterapii Onkologicznej (ASTRO) zmieniają sposób myślenia lekarzy o radioterapii dorosłych pacjentów z p."
     },
     {
       "title": "Notatki terenowe: Potencjalne narażenie niemowląt na HIV... - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1078,7 +1078,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Brak korzyści w zakresie OS w przypadku leczenia ciągłego w porównaniu z terapią podtrzymującą o ustalonym czasie trwania lenalidomidem u pacjentów z nowo zdiagnozowanym szpiczakiem mnogim - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "Brak korzyści w zakresie OS w przypadku leczenia ciągłego w porównaniu z terapią podtrzymującą o ustalonym czasie trwania z użyciem lenalidomidu u pacjentów z nowo zdiagnozowanym szpiczakiem mnogim - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/no-os-benefit-from-continuous-as-compared-with-fixed-duration-maintenance-therapy-with-lenalidomide-in-patients-with-newly-diagnosed-multiple-myeloma",
       "date": "2026-08-13T10:21:09Z",
       "source": "ESMO (onkologia)",
@@ -1253,7 +1253,7 @@
       "date": "2026-08-17T20:30:59Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Przy oszałamiającej liczbie 2325 zgonów epidemia wirusa Ebola w Demokratycznej Kongu (DRK) zabiła obecnie więcej osób niż epidemia w latach 2018–2020, w wyniku której zginęło 2299 osób, co czyni ją najbardziej śmiercionośną epidemią wirusa Ebola w historii tego kraju."
+      "summary": "Przy oszałamiającej liczbie 2325 zgonów epidemia wirusa Ebola w Demokratycznej Kongu (DRK) zabiła obecnie więcej osób niż epidemia w latach 2018–2020, w której zginęło 2299 osób, co czyni ją najbardziej śmiercionośną epidemią wirusa Ebola w historii tego kraju."
     },
     {
       "title": "FDA zwiększa wycofywanie jaj, aby odzwierciedlić potencjalne „poważne niekorzystne konsekwencje zdrowotne lub śmierć” – CIDRAP",
@@ -1309,7 +1309,7 @@
       "date": "2026-08-17T13:54:39Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Tło Wirusy przenoszone przez stawonogi (arbowirusy), takie jak denga, chikungunya, żółta febra i wirusy Zika, stanowią zagrożenie dla zdrowia publicznego na obszarach tropikalnych i subtropikalnych. Częstotliwość i wielkość ognisk chorób wywoływanych przez te arbowirusy rosną na całym świecie, na co wpływa zbieżność czynników ekologicznych, ekonomicznych i społecznych. Globalny program WHO dotyczący arbowirusów promuje kompleksowe podejścia do zdrowia publicznego, osadzone w krajowych systemach opieki zdrowotnej i powiązane z szerzej zakrojonymi wysiłkami w zakresie zarządzania epidemiami i pandemiami, w tym z ramami gotowości, reagowania i odporności na sytuacje kryzysowe WHO (HEPR)."
+      "summary": "Tło Wirusy przenoszone przez stawonogi (arbowirusy), takie jak denga, chikungunya, żółta febra i wirusy Zika, stanowią zagrożenie dla zdrowia publicznego na obszarach tropikalnych i subtropikalnych. Częstotliwość i wielkość ognisk chorób wywoływanych przez te arbowirusy rosną na całym świecie, napędzane przez zbieżność czynników ekologicznych, ekonomicznych i społecznych. Globalny program WHO dotyczący arbowirusów promuje kompleksowe podejścia do zdrowia publicznego, osadzone w krajowych systemach opieki zdrowotnej i powiązane z szerzej zakrojonymi wysiłkami w zakresie zarządzania epidemiami i pandemiami, w tym z ramami gotowości, reagowania i odporności na sytuacje kryzysowe WHO (HEPR)."
     },
     {
       "title": "Obchody Międzynarodowego Dnia Młodzieży 2026 – Światowa Organizacja Zdrowia (WHO)",
@@ -1429,7 +1429,7 @@
       "date": "2026-08-13T13:59:46Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Liczba przepisanych antybiotyków jest często liczona w dniach. Jednak ich wpływ na mikrobiom jelitowy można mierzyć w latach."
+      "summary": "Recepty na antybiotyki są często liczone w dniach. Jednak ich wpływ na mikrobiom jelitowy można mierzyć w latach."
     },
     {
       "title": "Szczepienie na Covid mogło zapobiec ponad 4000 zgonów w jednym hrabstwie Waszyngtonu – CIDRAP",
@@ -1618,6 +1618,14 @@
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "Badania na późnym etapie wykazały, że lek, który Amylyx kupiła tanio na aukcji upadłościowej, skutecznie reguluje poziom cukru we krwi u pacjentów, którzy właśnie przeszli operację bariatryczną."
+    },
+    {
+      "title": "Amylyx ogłasza zwycięstwo w późnym etapie z antagonistą GLP-1 podczas resetu po ALS – Endpoints News",
+      "url": "https://endpoints.news/amylyx-reports-phase-3-win-for-glp-1-antagonist-avexitide-in-post-bariatric-hypoglycemia/",
+      "date": "2026-08-18T11:01:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Aweksytyd firmy Amylyx zmniejszył liczbę epizodów ciężkiej hipoglikemii o 55% w porównaniu z placebo w fazie 3, co umożliwiło złożenie wniosku do FDA do końca roku."
     },
     {
       "title": "Coultreon Biopharma mianuje lek. Pristę Charuworn na stanowisko dyrektora medycznego – BioSpace",
@@ -1900,7 +1908,7 @@
       "summary": "510(k) Powiadomienie przed wprowadzeniem na rynek accessdata.fda.gov."
     },
     {
-      "title": "Krótki interaktywny przewodnik po procesie rejestracji w systemie EudraVigilance (EV) - ema.europa.eu",
+      "title": "Szybki interaktywny przewodnik po procesie rejestracji w systemie EudraVigilance (EV) - ema.europa.eu",
       "url": "https://www.ema.europa.eu/fr/media/42449",
       "date": "2026-08-17T20:55:15Z",
       "source": "EMA",
@@ -2002,14 +2010,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=461&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=04%2F28%2F2024&denovo=%2F1000&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondate",
-      "date": "2026-08-17T17:23:49Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     }
   ],
   "critical_alerts": [
@@ -2027,7 +2027,7 @@
       "date": "2026-08-17T20:30:59Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Przy oszałamiającej liczbie 2325 zgonów epidemia wirusa Ebola w Demokratycznej Kongu (DRK) zabiła obecnie więcej osób niż epidemia w latach 2018–2020, w wyniku której zginęło 2299 osób, co czyni ją najbardziej śmiercionośną epidemią wirusa Ebola w historii tego kraju."
+      "summary": "Przy oszałamiającej liczbie 2325 zgonów epidemia wirusa Ebola w Demokratycznej Kongu (DRK) zabiła obecnie więcej osób niż epidemia w latach 2018–2020, w której zginęło 2299 osób, co czyni ją najbardziej śmiercionośną epidemią wirusa Ebola w historii tego kraju."
     },
     {
       "title": "Wraz z rozpoczęciem nauki w szkole pojawia się zagrożenie większymi, rozszerzonymi epidemiami odry – CIDRAP",
@@ -2043,7 +2043,7 @@
       "date": "2026-08-17T13:54:39Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Tło Wirusy przenoszone przez stawonogi (arbowirusy), takie jak denga, chikungunya, żółta febra i wirusy Zika, stanowią zagrożenie dla zdrowia publicznego na obszarach tropikalnych i subtropikalnych. Częstotliwość i wielkość ognisk chorób wywoływanych przez te arbowirusy rosną na całym świecie, na co wpływa zbieżność czynników ekologicznych, ekonomicznych i społecznych. Globalny program WHO dotyczący arbowirusów promuje kompleksowe podejścia do zdrowia publicznego, osadzone w krajowych systemach opieki zdrowotnej i powiązane z szerzej zakrojonymi wysiłkami w zakresie zarządzania epidemiami i pandemiami, w tym z ramami gotowości, reagowania i odporności na sytuacje kryzysowe WHO (HEPR)."
+      "summary": "Tło Wirusy przenoszone przez stawonogi (arbowirusy), takie jak denga, chikungunya, żółta febra i wirusy Zika, stanowią zagrożenie dla zdrowia publicznego na obszarach tropikalnych i subtropikalnych. Częstotliwość i wielkość ognisk chorób wywoływanych przez te arbowirusy rosną na całym świecie, napędzane przez zbieżność czynników ekologicznych, ekonomicznych i społecznych. Globalny program WHO dotyczący arbowirusów promuje kompleksowe podejścia do zdrowia publicznego, osadzone w krajowych systemach opieki zdrowotnej i powiązane z szerzej zakrojonymi wysiłkami w zakresie zarządzania epidemiami i pandemiami, w tym z ramami gotowości, reagowania i odporności na sytuacje kryzysowe WHO (HEPR)."
     },
     {
       "title": "Epidemia cyklospory powiązana z sałatą lodową | Cyklosporoza — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2101,7 +2101,7 @@
       "date": "2026-08-17T13:54:39Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Tło Wirusy przenoszone przez stawonogi (arbowirusy), takie jak denga, chikungunya, żółta febra i wirusy Zika, stanowią zagrożenie dla zdrowia publicznego na obszarach tropikalnych i subtropikalnych. Częstotliwość i wielkość ognisk chorób wywoływanych przez te arbowirusy rosną na całym świecie, na co wpływa zbieżność czynników ekologicznych, ekonomicznych i społecznych. Globalny program WHO dotyczący arbowirusów promuje kompleksowe podejścia do zdrowia publicznego, osadzone w krajowych systemach opieki zdrowotnej i powiązane z szerzej zakrojonymi wysiłkami w zakresie zarządzania epidemiami i pandemiami, w tym z ramami gotowości, reagowania i odporności na sytuacje kryzysowe WHO (HEPR)."
+      "summary": "Tło Wirusy przenoszone przez stawonogi (arbowirusy), takie jak denga, chikungunya, żółta febra i wirusy Zika, stanowią zagrożenie dla zdrowia publicznego na obszarach tropikalnych i subtropikalnych. Częstotliwość i wielkość ognisk chorób wywoływanych przez te arbowirusy rosną na całym świecie, napędzane przez zbieżność czynników ekologicznych, ekonomicznych i społecznych. Globalny program WHO dotyczący arbowirusów promuje kompleksowe podejścia do zdrowia publicznego, osadzone w krajowych systemach opieki zdrowotnej i powiązane z szerzej zakrojonymi wysiłkami w zakresie zarządzania epidemiami i pandemiami, w tym z ramami gotowości, reagowania i odporności na sytuacje kryzysowe WHO (HEPR)."
     }
   ]
 }
