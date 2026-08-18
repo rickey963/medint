@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T06:25:05Z",
+  "last_updated": "2026-08-18T06:25:52Z",
   "poland": [
     {
       "title": "MZ chce limitu refundacji na 60 dni i kontroli leków OTC. Zakupy będą rejestrowane - Puls Medycyny",
@@ -263,7 +263,7 @@
       "date": "2026-08-17T15:54:23Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "21 osób poszkodowanych w wypadku polskiego autokaru na Węgrzech mają jeszcze dziś wieczorem wrócić do kraju. Decyzja o transporcie została podjęta po ocenie stanu zdrowia pacjentów przeprowadzonej przez polski Zespół Pomocy Humanitarno-Medycznej wspólnie z lekarzami węgierskimi."
+      "summary": "Pierwszy transport poszkodowanych z Węgier do Polski jeszcze dziś Gov.pl."
     },
     {
       "title": "Jan Frycz poważnie chorował. \"Walczył z niszczącą, dręczącą go chorobą\" - Medonet",
@@ -425,7 +425,7 @@
       "date": "2026-08-18T03:40:29Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Heart Center to mały zespół z siedzibą w Harrogate District Foundation Trust, wykonujący badania kardiologiczne, w tym angiografię wieńcową..."
+      "summary": "Praca pielęgniarki/siostry w ośrodku kardiologicznym w Harrogate i District NHS Foundation Trust (kariera w służbie zdrowia) | 838412 BMJ."
     },
     {
       "title": "Informacje dla uczestników – Światowa Organizacja Zdrowia (WHO)",
@@ -474,6 +474,14 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Tydzień po wstrzyknięciu toksyny botulinowej 86-letni wdowiec zaczyna mieć żywe halucynacje w ciągu dnia, bez zmian w stanie czujności. Jaka jest diagnoza? Sprawa dr Laury J."
+    },
+    {
+      "title": "Przekraczanie tolerancji człowieka na ciepło w ocieplającym się, starzejącym się świecie: globalne badanie oparte na modelowaniu projekcyjnym - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(26)00067-7/fulltext",
+      "date": "2026-08-17T22:36:25Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Przekraczanie tolerancji na ciepło człowieka w ocieplającym się, starzejącym się świecie: globalne badanie oparte na modelowaniu projekcyjnym The Lancet."
     },
     {
       "title": "Subskrypcje i zakupy — NEJM — The New England Journal of Medicine — The New England Journal of Medicine",
@@ -537,7 +545,7 @@
       "date": "2026-08-17T20:21:29Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Wybrany kandydat dołączy do wykwalifikowanego multidyscyplinarnego zespołu, w skład którego wchodzą konsultanci, rejestratorzy specjalności, lekarze specjaliści, ACP, PA, CNS..."
+      "summary": "CAR T Lekarz specjalista - hematologia (stopień lekarza specjalisty) BMJ."
     },
     {
       "title": "Sztuczna inteligencja, analityka danych i poprawa opieki zdrowotnej: co się właściwie zmieniło i czy zmieniło się wystarczająco? - Innowacje BMJ",
@@ -593,7 +601,7 @@
       "date": "2026-08-17T18:17:37Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Niedawny przełom w biologii generatywnej jest ekscytujący, ale budzi poważne wątpliwości etyczne i związane z bezpieczeństwem, mówi Simon Clarke. Naukowcy z Uniwersytetu Stanforda odkryli nowe bakteriofagi, wirusy, które infekują i zabijają bakterie, nie szukając ich w zwykłych miejscach, takich jak oceany czy kanały ściekowe, ale wykorzystując sztuczną inteligencję. W szczególności wykorzystali sztuczną inteligencję do zaprojektowania sekwencji genomu nowych fagów, które nie występują w naturze. Jest to ważny krok dla biologii generatywnej, ale tworzenie syntetycznych wirusów budzi poważne obawy dotyczące bezpieczeństwa i etyki dotyczące ryzyka bezpieczeństwa biologicznego, niezamierzonych konsekwencji ekologicznych oraz możliwości niewłaściwego wykorzystania czynników biologicznych zaprojektowanych przez sztuczną inteligencję."
+      "summary": "Rozwój wirusów zaprojektowanych przez sztuczną inteligencję pokazuje, dlaczego takie badania należy prowadzić na otwartej przestrzeni. The BMJ."
     },
     {
       "title": "Rozwój wirusów zaprojektowanych przez sztuczną inteligencję pokazuje, dlaczego takie badania należy prowadzić na otwartej przestrzeni – BMJ",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Ile wiesz o łuszczycy u pacjentek w ciąży? Sprawdź swoją wiedzę w tym krótkim quizie."
-    },
-    {
-      "title": "Lek Akeso i Summit na raka płuc wykazuje pogorszenie korzyści w zakresie progresji nowotworu – STAT",
-      "url": "https://www.statnews.com/2026/08/17/biotech-news-akeso-summit-ivonescimabs-worsening-tumor-progression-benefit/",
-      "date": "2026-08-17T13:42:07Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Europa wciąga Tavneosa w związku z obawami dotyczącymi rzetelności badań, obawami dotyczącymi cen leku na nadciśnienie firmy AstraZeneca i kolejnymi doniesieniami biotechnologicznymi z The Readout."
     }
   ],
   "guidelines": [
@@ -1458,7 +1458,7 @@
       "summary": "Utrzymanie długoterminowej obserwacji w zakresie terapii komórkowych i genowych Clinical Trials Arena."
     },
     {
-      "title": "Sztywność tętnic u dzieci i młodych osób z nadciśnieniem tętniczym i przewlekłą chorobą nerek (ART-KIDS) - ClinicalTrials.gov",
+      "title": "Sztywność tętnic u dzieci i młodych osób z nadciśnieniem i przewlekłą chorobą nerek (ART-KIDS) - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07768865?term=cardiovascular",
       "date": "2026-08-17T13:02:56Z",
       "source": "ClinicalTrials.gov",
