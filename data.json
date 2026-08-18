@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T07:16:47Z",
+  "last_updated": "2026-08-18T07:17:33Z",
   "poland": [
     {
       "title": "Co zrobić, gdy okres wypada w złym momencie - Serwis Zdrowie",
@@ -38,7 +38,7 @@
       "url": "https://alertmedyczny.pl/pierwszy-transport-poszkodowanych-z-wegier-5-osob-trafilo-do-szpitali-16-wrocilo-do-domow/",
       "date": "2026-08-18T06:43:23Z",
       "source": "alertmedyczny.pl",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Pierwszych 21 poszkodowanych w wypadku autokaru na Węgrzech wróciło do Polski. Pięć osób trafiło do szpitali w Rzeszowie."
     },
     {
@@ -433,7 +433,7 @@
       "date": "2026-08-18T03:40:29Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Praca pielęgniarki/siostry w ośrodku kardiologicznym w Harrogate i District NHS Foundation Trust (kariera w służbie zdrowia) | 838412 BMJ."
+      "summary": "Heart Center to mały zespół z siedzibą w Harrogate District Foundation Trust, wykonujący badania kardiologiczne, w tym angiografię wieńcową..."
     },
     {
       "title": "Informacje dla uczestników – Światowa Organizacja Zdrowia (WHO)",
@@ -633,7 +633,7 @@
       "date": "2026-08-17T18:17:37Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Rozwój wirusów zaprojektowanych przez sztuczną inteligencję pokazuje, dlaczego takie badania należy prowadzić na otwartej przestrzeni. The BMJ."
+      "summary": "Niedawny przełom w biologii generatywnej jest ekscytujący, ale budzi poważne wątpliwości etyczne i związane z bezpieczeństwem, mówi Simon Clarke. Naukowcy z Uniwersytetu Stanforda odkryli nowe bakteriofagi, wirusy, które infekują i zabijają bakterie, nie szukając ich w zwykłych miejscach, takich jak oceany czy kanały ściekowe, ale wykorzystując sztuczną inteligencję. W szczególności wykorzystali sztuczną inteligencję do zaprojektowania sekwencji genomu nowych fagów, które nie występują w naturze. Jest to ważny krok dla biologii generatywnej, ale tworzenie syntetycznych wirusów budzi poważne obawy dotyczące bezpieczeństwa i etyki dotyczące ryzyka bezpieczeństwa biologicznego, niezamierzonych konsekwencji ekologicznych oraz możliwości niewłaściwego wykorzystania czynników biologicznych zaprojektowanych przez sztuczną inteligencję."
     },
     {
       "title": "Rozwój wirusów zaprojektowanych przez sztuczną inteligencję pokazuje, dlaczego takie badania należy prowadzić na otwartej przestrzeni – BMJ",
@@ -1556,20 +1556,20 @@
   ],
   "pharma_market": [
     {
+      "title": "Co czytamy - Nurkowanie BioPharma",
+      "url": "https://www.biopharmadive.com/what-we-are-reading/",
+      "date": "2026-08-18T07:16:30Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "BioPharma."
+    },
+    {
       "title": "Leo Pharma udziela licencji na rzadki lek Tanabe na ból związany z ekspozycją na słońce - Endpoints News",
       "url": "https://endpoints.news/leo-pharma-to-license-tanabes-rare-disease-drug-for-pain-with-sun-exposure/",
       "date": "2026-08-18T07:00:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Leo Pharma udziela licencji na dersimelagon firmy Tanabe, przeznaczony do leczenia dwóch rzadkich chorób skóry związanych z nadwrażliwością na światło, oczekujący na ocenę FDA."
-    },
-    {
-      "title": "Co czytamy - Nurkowanie BioPharma",
-      "url": "https://www.biopharmadive.com/what-we-are-reading/",
-      "date": "2026-08-18T06:16:45Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "BioPharma."
     },
     {
       "title": "Princeton 10 – Ostra Farmacja",
@@ -2024,14 +2024,6 @@
   ],
   "daily_top5": [
     {
-      "title": "Pierwszy transport poszkodowanych z Węgier. 5 osób trafiło do szpitali, 16 wróciło do domów - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/pierwszy-transport-poszkodowanych-z-wegier-5-osob-trafilo-do-szpitali-16-wrocilo-do-domow/",
-      "date": "2026-08-18T06:43:23Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 3,
-      "summary": "Pierwszych 21 poszkodowanych w wypadku autokaru na Węgrzech wróciło do Polski. Pięć osób trafiło do szpitali w Rzeszowie."
-    },
-    {
       "title": "Telemedycyna pozostaje istotna w opiece pediatrycznej - Medscape",
       "url": "https://www.medscape.com/viewarticle/telemedicine-remains-relevant-pediatric-care-2026a1000sk4",
       "date": "2026-08-18T05:48:50Z",
@@ -2044,6 +2036,14 @@
       "url": "https://www.who.int/news-room/events/detail/2026/08/19/default-calendar/world-humanitarian-day-2026--honoring-fallen-humanitarians-and-calling-for-greater-protection-of-health-care",
       "date": "2026-08-18T05:41:17Z",
       "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Obchodząc Światowy Dzień Pomocy Humanitarnej przypadający 19 sierpnia, WHO składa hołd pracownikom organizacji humanitarnych i pracowników służby zdrowia, którzy przedkładają obowiązek opieki nad własne bezpieczeństwo, a zbyt często własne życie, służąc społecznościom dotkniętym konfliktami i kryzysami. Światowy Dzień Pomocy Humanitarnej został ustanowiony przez Zgromadzenie Ogólne ONZ w 2008 r., aby upamiętnić zamach bombowy na siedzibę ONZ w Bagdadzie w 2003 r. i uhonorować pracowników organizacji humanitarnych na całym świecie."
+    },
+    {
+      "title": "Światowy Dzień Pomocy Humanitarnej 2026: uhonorowanie poległych humanitarystów i wezwanie do większej ochrony opieki zdrowotnej - Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/08/19/default-calendar/world-humanitarian-day-2026--honoring-fallen-humanitarians-and-calling-for-greater-protection-of-health-care",
+      "date": "2026-08-18T05:41:17Z",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Obchodząc Światowy Dzień Pomocy Humanitarnej przypadający 19 sierpnia, WHO składa hołd pracownikom organizacji humanitarnych i pracowników służby zdrowia, którzy przedkładają obowiązek opieki nad własne bezpieczeństwo, a zbyt często własne życie, służąc społecznościom dotkniętym konfliktami i kryzysami. Światowy Dzień Pomocy Humanitarnej został ustanowiony przez Zgromadzenie Ogólne ONZ w 2008 r., aby upamiętnić zamach bombowy na siedzibę ONZ w Bagdadzie w 2003 r. i uhonorować pracowników organizacji humanitarnych na całym świecie."
     },
