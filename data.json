@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T07:07:01Z",
+  "last_updated": "2026-08-18T07:08:12Z",
   "poland": [
     {
       "title": "Co zrobić, gdy okres wypada w złym momencie - zdrowie.pap.pl",
@@ -8,6 +8,14 @@
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Dobra wiadomość jest taka, że przesuniecie miesiączki jest możliwe, zła – że efektu takich działań nie możemy przewidzieć w stu procentach. Najprościej jest, gdy kobieta stosuje dwuskładnikowe tabletki antykoncepcyjne - wystarczy wtedy pominąć przerwę (tabletki placebo) i od razu rozpocząć kolejne opakowanie. Podobnie można postępować z krążkiem dopochwowym czy plastrem – odpowiednio modyfikując schemat stosowania."
+    },
+    {
+      "title": "Ebola zabija co pół godziny - Termedia",
+      "url": "https://www.termedia.pl/mz/Ebola-zabija-co-pol-godziny,68602.html",
+      "date": "2026-08-18T07:00:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "W Demokratycznej Republice Konga potwierdzono już 4665 przypadków zakażenia wirusem Ebola i 2184 zgony. To najszybciej rozwijająca się epidemia tej choroby, jaką dotąd odnotowano. Służby medyczne nie nadążają ze śledzeniem kontaktów zakażonych, a patogen rozprzestrzenia się na kolejne regiony kraju."
     },
     {
       "title": "Testują szczepionkę, która ma chronić przed zachorowaniem na raka - Puls Medycyny",
@@ -392,14 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Jak będzie wyglądała medycyna za 25 lat? Czy sztuczna inteligencja stanie się podstawowym narzędziem pracy lekarza? Czy choroby, które dzisiaj uznawane są za nieuleczalne, będzie można skutecznie leczyć?"
-    },
-    {
-      "title": "Hormonoterapia raka piersi ma swoją cenę. „Opieka nad pacjentką musi być interdyscyplinarna” - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/onkologia/hormonoterapia-raka-piersi-ma-swoja-cene-opieka-nad-pacjentka-musi-byc-interdyscyplinarna",
-      "date": "2026-08-17T15:00:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "Ograniczenie działania estrogenów skutecznie blokuje rozwój nowotworu, jednak wywołany terapią hipoestrogenizm to potężne wyzwanie dla organizmu kobiety. Osteoporoza, cukrzyca czy choroba otyłościowa to schorzenia, które zwiększają ryzyko sercowo-naczyniowe oraz pogarszają jakość życia pacjentek. Dr n."
     }
   ],
   "world": [
@@ -537,7 +537,7 @@
       "date": "2026-08-17T21:40:52Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Regionalny podręcznik zawierający instrukcje obsługi sprzętu i urządzeń do ochrony dróg oddechowych Światowa Organizacja Zdrowia (WHO)."
+      "summary": "Celem podręcznika regionalnego wraz z instrukcjami obsługi jest dostarczenie podstawowych informacji na temat kluczowych biomedycznych aspektów konserwacji sprzętu do ochrony dróg oddechowych i ekologii sprzętu do ochrony dróg oddechowych w państwach członkowskich Regionu Azji Południowo-Wschodniej (SE). Przewodniki niekoniecznie będą zawierać wyczerpujące instrukcje (podręcznik użytkownika i serwisowy powinny zawsze być głównym źródłem tych informacji), ale raczej pozwolą użytkownikom zrozumieć poziom wiedzy wymaganej do zainstalowania urządzeń, a także rodzaje i częstotliwość interwencji konserwacyjnych, których mogą wymagać. Przewodniki te pomogą inżynierom i technikom biomedycznym, a także innym specjalistom pracującym w obszarach biomedycznych, takim jak menedżerowie, elektrycy, hydraulicy i mechanicy, w wykonywaniu rutynowych zadań w celu poprawy wydajności i zgodności ze standardami jakości oraz standaryzacji procesów."
     },
     {
       "title": "Cztery oznaki, że należy wykonać biopsję zmiany skórnej, a nie ją zamrażać - Medscape",
@@ -585,7 +585,7 @@
       "date": "2026-08-17T19:42:53Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Sztuczna inteligencja (AI) i nauka o danych zmieniają sposób, w jaki systemy opieki zdrowotnej wykrywają ryzyko, generują wnioski i organizują ulepszenia. W artykule zadano pytanie, czy te zmiany wystarczająco zmieniły poprawę opieki zdrowotnej, pod względem koncepcyjnym i praktycznym, czy też przede wszystkim zapewniły szybsze narzędzia do monitorowania i wykrywania, przy czym długotrwałe wyzwania pozostają endemiczne. Wysuwany argument jest taki, że sztuczna inteligencja i nauka o danych zmieniły bardziej sposoby ulepszeń niż faktyczną poprawę."
+      "summary": "Sztuczna inteligencja, analityka danych i poprawa opieki zdrowotnej: co się właściwie zmieniło i czy zmieniło się wystarczająco? Innowacje BMJ."
     },
     {
       "title": "Wpływ pandemii COVID-19 na opiekę nad pacjentami hospitalizowanymi z zaleceniem niereanimowania: retrospektywne badanie kohortowe - Opieka wspomagająca i paliatywna BMJ",
@@ -681,7 +681,7 @@
       "date": "2026-08-17T16:36:48Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Opisujemy przypadek kobiety po czterdziestce, nadużywającej alkoholu, u której wystąpiła żółtaczka, utrzymująca się gorączka i ciężkie zaburzenia czynności wątroby, początkowo leczone jako alkoholowe zapalenie wątroby. Pomimo antybiotyków o szerokim spektrum działania i negatywnych wyników badań septycznych, nadal gorączkowała. Dalsze badania, zainspirowane narażeniem zwierząt gospodarskich na obszarach wiejskich i niedawnym narażeniem rodziny na gorączkę Q, ujawniły ostrą infekcję Coxiella burnetii, popartą wynikami badań serologicznych dotyczących gorączki Q z przewagą fazy II, w tym miana IgG IFA fazy II 1:2048 i dodatniego wyniku PCR w surowicy/krwi."
+      "summary": "Potwierdzone biopsją ostre zapalenie wątroby z gorączką Q wikłające ciężkie zapalenie wątroby związane z alkoholem: wyzwanie diagnostyczne i terapeutyczne. BMJ Case Reports."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -1054,6 +1054,14 @@
       "summary": "Projekt porządku obrad Spotkanie odbędzie się w formie spotkania za pośrednictwem Zoom, bezpiecznego narzędzia do prowadzenia konferencji internetowych. Spotkanie odbędzie się w godzinach 9:00 – 15:30, choć godziny mogą ulec zmianie. Otrzymasz zaproszenie i link dołączenia do tematu lub tematów, na które się zarejestrowałeś, po zamknięciu rejestracji."
     },
     {
+      "title": "Nystatyna | Interakcje - BNF",
+      "url": "https://bnf.nice.org.uk/interactions/nystatin/",
+      "date": "2026-08-13T11:59:08Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Nystatyna | Interakcje BNF."
+    },
+    {
       "title": "Rekomendacja Prezesa – Suliqua (insulina glargine + liksysenatyd) - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-suliqua-insulina-glargine-liksysenatyd/",
       "date": "2026-08-13T11:19:01Z",
@@ -1189,7 +1197,7 @@
       "date": "2026-08-17T21:40:52Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Regionalny podręcznik zawierający instrukcje obsługi sprzętu i urządzeń do ochrony dróg oddechowych Światowa Organizacja Zdrowia (WHO)."
+      "summary": "Celem podręcznika regionalnego wraz z instrukcjami obsługi jest dostarczenie podstawowych informacji na temat kluczowych biomedycznych aspektów konserwacji sprzętu do ochrony dróg oddechowych i ekologii sprzętu do ochrony dróg oddechowych w państwach członkowskich Regionu Azji Południowo-Wschodniej (SE). Przewodniki niekoniecznie będą zawierać wyczerpujące instrukcje (podręcznik użytkownika i serwisowy powinny zawsze być głównym źródłem tych informacji), ale raczej pozwolą użytkownikom zrozumieć poziom wiedzy wymaganej do zainstalowania urządzeń, a także rodzaje i częstotliwość interwencji konserwacyjnych, których mogą wymagać. Przewodniki te pomogą inżynierom i technikom biomedycznym, a także innym specjalistom pracującym w obszarach biomedycznych, takim jak menedżerowie, elektrycy, hydraulicy i mechanicy, w wykonywaniu rutynowych zadań w celu poprawy wydajności i zgodności ze standardami jakości oraz standaryzacji procesów."
     },
     {
       "title": "Oświadczenie CDC w sprawie nowo opublikowanych danych dotyczących szczepień dzieci w wieku przedszkolnym – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1974,6 +1982,14 @@
   ],
   "critical_alerts": [
     {
+      "title": "Ebola zabija co pół godziny - Termedia",
+      "url": "https://www.termedia.pl/mz/Ebola-zabija-co-pol-godziny,68602.html",
+      "date": "2026-08-18T07:00:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "W Demokratycznej Republice Konga potwierdzono już 4665 przypadków zakażenia wirusem Ebola i 2184 zgony. To najszybciej rozwijająca się epidemia tej choroby, jaką dotąd odnotowano. Służby medyczne nie nadążają ze śledzeniem kontaktów zakażonych, a patogen rozprzestrzenia się na kolejne regiony kraju."
+    },
+    {
       "title": "Epidemia wirusa Ebola jest obecnie najbardziej śmiertelna w historii Konga, a wskaźnik śmiertelności sięga 46% – CIDRAP",
       "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-now-deadliest-ever-dr-congo-death-rate-reaches-46",
       "date": "2026-08-17T20:30:59Z",
@@ -2028,14 +2044,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Epidemia cyklospory powiązana z sałatą lodową | Centra kontroli i zapobiegania cyklosporozy | CDC (.gov)."
-    },
-    {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga będzie największa w historii – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/dr-congo-ebola-outbreak-track-be-largest-history",
-      "date": "2026-08-12T20:23:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Dyrektor WHO twierdzi, że potrzeba więcej pracowników służby zdrowia."
     }
   ],
   "daily_top5": [
