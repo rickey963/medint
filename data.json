@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T09:46:28Z",
+  "last_updated": "2026-08-19T09:47:21Z",
   "poland": [
     {
       "title": "„To bardzo trudna, ale niezbędna decyzja”. Jest wniosek o upadłość Szpitala Miejskiego w Miastku - politykazdrowotna.com",
@@ -78,7 +78,7 @@
       "url": "https://pacjent.gov.pl/aktualnosc/jedz-zielone",
       "date": "2026-08-19T08:30:54Z",
       "source": "Internetowe Konto Pacjenta",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Latem jak najczęściej sięgaj po zielone warzywa. To właśnie teraz są najświeższe, najsmaczniejsze i najłatwiej dostępne. Szpinak, sałaty, groszek, brokuły, cukinia, czy szparagi nie tylko wzbogacają smak potraw, ale także dostarczają wielu cennych dla organizmu składników odżywczych."
     },
     {
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "Budząc się z koszmaru PTSD – Natura",
+      "url": "https://www.nature.com/articles/s41591-026-04586-1",
+      "date": "2026-08-19T09:46:08Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Dronabinol, farmaceutyczna postać Δ9-tetrahydrokannabinolu, jest obiecująca w leczeniu koszmarów sennych związanych z zespołem stresu pourazowego (PTSD), ale potrzebne są dodatkowe badania w celu potwierdzenia bezpieczeństwa i skuteczności."
+    },
     {
       "title": "Dodatek Doravirine zwiększa kontrolę wirusologiczną w przypadku zakażenia wirusem HIV - Medscape",
       "url": "https://www.medscape.com/viewarticle/doravirine-add-boosts-virologic-control-people-living-hiv-2026a1000spc?src=",
@@ -794,25 +802,9 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Lekarz pierwszego kontaktu i zdrowie publiczne. Lancet."
-    },
-    {
-      "title": "Nieinwazyjne badania w kierunku zwłóknienia i marskości wątroby w MASLD - Natura",
-      "url": "https://www.nature.com/articles/s41575-026-01247-z",
-      "date": "2026-08-18T12:56:54Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
     }
   ],
   "guidelines": [
-    {
-      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://myesc.escardio.org/ESCApplications",
-      "date": "2026-08-19T08:13:15Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
-    },
     {
       "title": "Nowe wytyczne wzywają kardiologów do myślenia poza silosami podczas leczenia zespołu CKM – Cleveland Clinic",
       "url": "https://consultqd.clevelandclinic.org/think-beyond-silos-when-managing-ckm-syndrome",
@@ -844,6 +836,14 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Dlaczego weterani nie zawsze mogą uzyskać leczenie zatwierdzone przez FDA za pośrednictwem VA? Dr Wiecher z VA wyjaśnia, w jaki sposób dowody, bezpieczeństwo, wytyczne i zasoby kształtują opiekę VA."
+    },
+    {
+      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://myesc.escardio.org/ESCApplications",
+      "date": "2026-08-18T17:57:45Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1229,7 +1229,7 @@
       "date": "2026-08-18T19:41:29Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Stanowisko WHO w sprawie szczepionek przeciw durowi brzusznemu, sierpień 2026 r. Światowa Organizacja Zdrowia (WHO)."
+      "summary": "Niniejsze stanowisko w sprawie szczepionek podsumowuje istotne informacje podstawowe na temat chorób i szczepionek, a kończy się bieżącym stanowiskiem WHO w sprawie stosowania szczepionek przeciwko durowi brzusznemu na całym świecie. Niniejszy dokument zastępuje stanowisko WHO z 2018 r. w sprawie szczepionek przeciwko durowi brzusznemu i, biorąc pod uwagę nowe dostępne dowody, skupia się przede wszystkim na szczepionkach z TCV."
     },
     {
       "title": "Podwójny test sekwencjonowania PCR-Sangera do jednoczesnej identyfikacji w oparciu o sqle i wykrywania oporności u gatunków Trichophyton - Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2416,20 +2416,20 @@
       "summary": "Obchodząc Światowy Dzień Pomocy Humanitarnej przypadający 19 sierpnia, WHO składa hołd pracownikom organizacji humanitarnych i pracowników służby zdrowia, którzy przedkładają obowiązek opieki nad własne bezpieczeństwo, a zbyt często własne życie, służąc społecznościom dotkniętym konfliktami i kryzysami. Światowy Dzień Pomocy Humanitarnej został ustanowiony przez Zgromadzenie Ogólne ONZ w 2008 r., aby upamiętnić zamach bombowy na siedzibę ONZ w Bagdadzie w 2003 r. i uhonorować pracowników organizacji humanitarnych na całym świecie."
     },
     {
-      "title": "Trzeci międzynarodowy dialog na temat zrównoważonego finansowania chorób niezakaźnych i zdrowia psychicznego – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2027/02/16/default-calendar/third-international-dialogue-on-sustainable-financing-for-ncds-and-mental-health",
-      "date": "2026-08-19T07:51:56Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Tło Choroby niezakaźne (NCD) i problemy zdrowia psychicznego pozostają jednymi z głównych przyczyn zachorowalności, śmiertelności i obciążeń ekonomicznych na całym świecie. Pomimo rosnącego zaangażowania politycznego postęp w leczeniu chorób niezakaźnych i zdrowia psychicznego w dalszym ciągu jest ograniczany przez niewystarczające finansowanie, słabą ochronę finansową oraz ograniczony dostęp do niedrogich leków i usług. Wykorzystując dynamikę pierwszego i drugiego dialogu z serii, które odbyły się odpowiednio w latach 2018 i 2024, Trzeci Międzynarodowy Dialog na temat zrównoważonego finansowania chorób niezakaźnych i zdrowia psychicznego skupi się na tym, jak kraje mogą przełożyć zobowiązania polityczne na praktyczne reformy w zakresie finansowania, zamówień publicznych, regulacji i świadczenia usług. Ten osobisty dialog, organizowany przez rząd Filipin we współpracy ze Światową Organizacją Zdrowia i Azjatyckim Bankiem Rozwoju, jest zwoływany w kluczowym momencie chwila."
-    },
-    {
       "title": "Ochronne działanie zgromadzonej szczepionki A(H5N8) przeciwko wirusowi genetycznie identycznemu z ludzkim izolatem bydlęcego wirusa grypy A(H5N1) - The Lancet",
       "url": "https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(26)00314-2/fulltext?rss=yes",
       "date": "2026-08-19T06:52:00Z",
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Ochronne działanie zgromadzonej szczepionki A(H5N8) przeciwko wirusowi genetycznie identycznemu z ludzkim izolatem bydlęcego wirusa grypy A(H5N1) The Lancet."
+    },
+    {
+      "title": "Stanowisko WHO w sprawie szczepionek przeciw durowi brzusznemu, sierpień 2026 r. – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/publications/i/item/who-wer10132-166-180",
+      "date": "2026-08-18T19:41:29Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Niniejsze stanowisko w sprawie szczepionek podsumowuje istotne informacje podstawowe na temat chorób i szczepionek, a kończy się bieżącym stanowiskiem WHO w sprawie stosowania szczepionek przeciwko durowi brzusznemu na całym świecie. Niniejszy dokument zastępuje stanowisko WHO z 2018 r. w sprawie szczepionek przeciwko durowi brzusznemu i, biorąc pod uwagę nowe dostępne dowody, skupia się przede wszystkim na szczepionkach z TCV."
     },
     {
       "title": "Uwagi wstępne Dyrektora Generalnego WHO na drugim posiedzeniu Komitetu ds. Nagłych Przypadków IHR w sprawie epidemii choroby wirusowej Bundibugyo w Demokratycznej Republice Konga – 18 sierpnia 2026 r. – Światowa Organizacja Zdrowia (WHO)",
