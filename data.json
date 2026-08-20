@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T11:21:44Z",
+  "last_updated": "2026-08-20T11:22:40Z",
   "poland": [
     {
       "title": "Prezydent zdecydował ws. Lex szarlatan. Nie ma podpisu pod ustawą - PolitykaZdrowotna.com",
@@ -80,6 +80,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Miliony dni bez pracy. Wiadomo, co najczęściej wyłącza Polaków z aktywności zawodowej PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Medycyna i Zdrowie wiadomości, Portal dla systemu ochrony zdrowia - PolitykaZdrowotna.com - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/",
+      "date": "2026-08-20T09:17:21Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Medycyna i Zdrowie wiadomości, Portal dla systemu ochrony zdrowia - PolitykaZdrowotna.com PolitykaZdrowotna.com."
     },
     {
       "title": "Obniża kortyzol, redukuje stres. Taką kawę piją długowieczni Grecy - Rynek Zdrowia",
@@ -184,14 +192,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Premier nie chce demotywować lekarzy. Nie chce dopuścić, by wylano dziecko z kąpielą. Rząd nie chce zamykać szpitali powiatowych."
-    },
-    {
-      "title": "Medycyna i Zdrowie wiadomości, Portal dla systemu ochrony zdrowia - PolitykaZdrowotna.com - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/",
-      "date": "2026-08-20T07:34:56Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Medycyna i Zdrowie wiadomości, Portal dla systemu ochrony zdrowia - PolitykaZdrowotna.com PolitykaZdrowotna.com."
     },
     {
       "title": "Czy witamina C podawana dożylnie jest skuteczna w leczeniu ciężkich oparzeń? Jest jednoznaczna odpowiedź naukowców - Puls Medycyny",
@@ -1190,20 +1190,20 @@
       "summary": "Rekomendacja nr 116/2026 z dnia 13 sierpnia 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu leczniczego Ztalmy (ganaksolon) we wskazaniu: padaczka lekooporna na podłożu mutacji w genie CDKL5 w populacji pediatrycznej."
     },
     {
-      "title": "Rekomendacja Prezesa – Ryplazim (plasminogen) - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-ryplazim-plasminogen/",
-      "date": "2026-08-17T08:59:46Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja nr 118/2026 z dnia 13 sierpnia 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu leczniczego Ryplazim (plasminogen) we wskazaniu: niedobór plazminogenu u pacjentów pediatrycznych."
-    },
-    {
       "title": "Opieka kliniczna nad boreliozą — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/lyme/hcp/clinical-care/index.html",
       "date": "2026-08-17T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 5,
       "summary": "Opieka kliniczna ośrodków kontroli i zapobiegania chorobom z Lyme | CDC (.gov)."
+    },
+    {
+      "title": "Wytyczne kliniczne: Diagnostyka i leczenie malarii w USA — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/malaria/hcp/clinical-guidance/index.html",
+      "date": "2026-08-17T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Wytyczne kliniczne: diagnostyka i leczenie malarii w amerykańskich Centrach Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     }
   ],
   "epidemiology": [
