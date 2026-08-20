@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T19:43:01Z",
+  "last_updated": "2026-08-20T19:43:49Z",
   "poland": [
     {
       "title": "Depresja lekooporna i nawracająca: kiedy zmienić strategię leczenia? - Podyplomie.pl",
@@ -441,7 +441,7 @@
       "date": "2026-08-20T16:27:21Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Z recenzji lekarzy dziecięcych wynika, że ​​dzieci, które wapują, częściej doświadczają problemów z oddychaniem i zaczynają palić papierosy. Jednak jeden z badaczy zakwestionował siłę dowodów przedstawionych w pracy. W przeglądzie przeprowadzonym przez Royal College of Paediatrics and Child Health (RCPCH) zbadano informacje z 14 026 artykułów opublikowanych na całym świecie i ostatecznie przeanalizowano dane z 81 badań."
+      "summary": "Jak sugeruje recenzja The BMJ, wapowanie powoduje szkody dla zdrowia dzieci."
     },
     {
       "title": "Zakaz mediów społecznościowych dla młodzieży we Francji zablokowany przez sąd – BMJ",
@@ -449,7 +449,7 @@
       "date": "2026-08-20T16:13:00Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Francuski zakaz korzystania z mediów społecznościowych dla osób poniżej 15 roku życia został unieważniony przez Radę Konstytucyjną, odpowiednik Sądu Najwyższego Wielkiej Brytanii, ze względu na obawy związane z prywatnością1. W swoim siedmiostronicowym orzeczeniu na początku tego miesiąca Rada stwierdziła, że zakaz jest nieproporcjonalny i narusza wolność słowa.2 Zakaz zatwierdzony przez parlament w lipcu i popierany przez prezydenta Emmanuela Macrona uczyniłby z Francji pierwszy kraj europejski i dopiero drugi na świecie po Australii, który nałożył takie ograniczenia na media społecznościowe3. W zamierzeniu aby uniemożliwić dzieciom i nastolatkom rejestrowanie się na platformach mediów społecznościowych, jednocześnie wymagając od firm technologicznych weryfikacji…."
+      "summary": "Zakaz mediów społecznościowych dla młodzieży we Francji zablokowany przez sąd The BMJ."
     },
     {
       "title": "Wczesny rak piersi: czas działać w sprawie oporności molekularnej? - Medyczny",
@@ -891,7 +891,7 @@
       "date": "2026-08-20T13:08:24Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Ekspresowa aktualizacja wytycznych dotyczących praktyki klinicznej ESMO: Daraxonrasib w leczeniu raka trzustki z przerzutami Oncodaily."
+      "summary": "ESMO wydało ekspresową aktualizację swoich Wytycznych praktyki klinicznej w leczeniu raka trzustki, zawierającą nowe zalecenia dotyczące profilowania molekularnego nieresekcyjnego gruczolakoraka przewodowego trzustki (PDAC) i leczenia choroby drugiego rzutu w chorobie z przerzutami w związku z nowymi danymi dotyczącymi skuteczności wieloselektywnego inhibitora pan-RAS(ON) – daraksonrazybu."
     },
     {
       "title": "Centrum Medyczne OSF Saint Francis uhonorowane przez American Heart Association - 1470 i 100,3 WMBD",
@@ -1268,7 +1268,7 @@
       "url": "https://www.ecdc.europa.eu/en/publications-data/surveillance-and-control-culex-mosquitoes-and-aedes-invasive-mosquitoes-europe",
       "date": "2026-08-20T14:20:00Z",
       "source": "ECDC",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "W Europie występują dłuższe i intensywniejsze sezony przenoszenia chorób przenoszonych przez komary, w tym zakażenia wirusem Zachodniego Nilu (WNV), a także chorób wywołanych wirusami dengi i chikungunya. Zmiany te zwiększają potrzebę stałego nadzoru komarów i terminowych, skutecznych środków kontroli, ale możliwości i organizacja różnią się w zależności od kraju."
     },
     {
@@ -1508,7 +1508,7 @@
       "url": "https://www.ecdc.europa.eu/en/publications-data/final-annual-accounts-2025",
       "date": "2026-08-19T06:50:06Z",
       "source": "ECDC",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Roczne sprawozdanie finansowe Europejskiego Centrum ds. Zapobiegania i Kontroli Chorób (ECDC) obejmuje sprawozdania finansowe i sprawozdanie z wykonania budżetu."
     },
     {
@@ -1584,14 +1584,6 @@
       "summary": "Niniejszy raport przedstawia najnowsze szacunki krajowe, regionalne i globalne dotyczące WASH w placówkach opieki zdrowotnej do roku 2025 i zastępuje poprzednie aktualizacje postępu."
     },
     {
-      "title": "Nadzór nad cyklosporozą — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
-      "date": "2026-08-18T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Nadzór nad centrami kontroli i zapobiegania cyklosporozy | CDC (.gov)."
-    },
-    {
       "title": "Dane z bieżącego roku (2026) | Wirus Zachodniego Nilu — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/west-nile-virus/data-maps/current-year-data.html",
       "date": "2026-08-18T07:00:00Z",
@@ -1606,6 +1598,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Przypadki wirusa Zika w Stanach Zjednoczonych | Centra kontroli i zapobiegania wirusom Zika | CDC (.gov)."
+    },
+    {
+      "title": "O bezpieczeństwie żywności w restauracjach — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/restaurant-food-safety/about/index.html",
+      "date": "2026-08-18T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "O centrach kontroli i zapobiegania chorobom zajmującym się bezpieczeństwem żywności w restauracjach | CDC (.gov)."
     }
   ],
   "clinical_trials": [
