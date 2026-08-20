@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T08:31:53Z",
+  "last_updated": "2026-08-20T08:32:39Z",
   "poland": [
     {
       "title": "Ponad 20 placówek uczestniczy w kampanii promującej wczesne wykrywanie i leczenie HIV - Podyplomie.pl",
@@ -359,7 +359,7 @@
       "date": "2026-08-19T15:04:00Z",
       "source": "Medonet",
       "confirmed_by": 1,
-      "summary": "Eksperymentalna szczepionka oparta na technologii mRNA skutecznie zapobiegÅa nawrotom i rozprzestrzenianiu siÄ czerniaka u pacjentÃ³w wysokiego ryzyka â poinformowaÅy firmy Moderna i Merck. Wyniki badaÅ otwierajÄ drogÄ do nowej, potencjalnie przeÅomowej terapii, ktÃ³ra moÅ¼e wydÅuÅ¼yÄ Å¼ycie tysiÄcy osÃ³b kaÅ¼dego roku diagnozowanych z tym agresywnym nowotworem skÃ³ry."
+      "summary": "Eksperymentalna szczepionka oparta na technologii mRNA skutecznie zapobiegÅa nawrotom i rozprzestrzenianiu siÄ czerniaka u pacjentÃ³w wysokiego ryzyka â poinformowaÅy firmy Moderna i MSD (znana w Stanach Zjednoczonych i Kanadzie jako Merck). Wyniki badaÅ otwierajÄ drogÄ do nowej, potencjalnie przeÅomowej terapii, ktÃ³ra moÅ¼e wydÅuÅ¼yÄ Å¼ycie tysiÄcy osÃ³b kaÅ¼dego roku diagnozowanych z tym agresywnym nowotworem skÃ³ry."
     },
     {
       "title": "Merck i Moderna: spersonalizowana szczepionka mRNA ogranicza nawroty czerniaka w fazie 3 - Alert Medyczny",
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "Jak lojalistka Trumpa, Heidi Overton, została wybrana przez prezydenta na szefa FDA – STAT",
+      "url": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/",
+      "date": "2026-08-20T08:03:45Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Jeśli uzyska nominację na komisarza FDA, Heidi Overton stanie przed wieloma dużymi wyzwaniami."
+    },
     {
       "title": "Brazylia ustanawia nowy próg 6 godzin w przypadku chirurgii plastycznej – Medscape",
       "url": "https://www.medscape.com/viewarticle/brazil-sets-new-6-hour-threshold-cosmetic-surgery-2026a1000sx6",
@@ -626,14 +634,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Kardiolog rozpoczynający karierę zawodową dzieli się wskazówkami, jak znaleźć podczas szkolenia mentorów i sponsorów, którzy będą Cię wspierać i otworzyć drzwi, o których wiedziałeś, że są dostępne."
-    },
-    {
-      "title": "Jak lojalistka Trumpa, Heidi Overton, została wybrana przez prezydenta na szefa FDA – STAT",
-      "url": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/",
-      "date": "2026-08-19T20:05:28Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Jeśli uzyska nominację na komisarza FDA, Heidi Overton stanie przed wieloma dużymi wyzwaniami."
     },
     {
       "title": "Nowa dyrektor CDC mówi pracownikom, że jest gotowa powiedzieć „prawdę władzy” – STAT",
@@ -1198,12 +1198,12 @@
       "summary": "Wytyczne kliniczne: diagnostyka i leczenie malarii w amerykańskich Centrach Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Zasoby | Sepsa — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/sepsis/hcp/core-elements/resources.html",
+      "title": "Wytyczne dotyczące badań klinicznych w kierunku HIV | HIV Nexus — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/hivnexus/hcp/diagnosis-testing/index.html",
       "date": "2026-08-17T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 4,
-      "summary": "Zasoby | Centra kontroli i zapobiegania chorobom sepsy | CDC (.gov)."
+      "summary": "Wytyczne dotyczące badań klinicznych w kierunku HIV | Centra kontroli i zapobiegania chorobom HIV Nexus | CDC (.gov)."
     }
   ],
   "epidemiology": [
