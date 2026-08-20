@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T11:06:43Z",
+  "last_updated": "2026-08-20T11:07:32Z",
   "poland": [
     {
       "title": "Reduzek przeszedł ważne badanie. Celon Pharma rozwija konkurencję dla Ozempicu i Wegovy - Alert Medyczny",
@@ -48,14 +48,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Miliony dni bez pracy. Wiadomo, co najczęściej wyłącza Polaków z aktywności zawodowej PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Medycyna i Zdrowie wiadomości, Portal dla systemu ochrony zdrowia - PolitykaZdrowotna.com - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/",
-      "date": "2026-08-20T09:17:21Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Medycyna i Zdrowie wiadomości, Portal dla systemu ochrony zdrowia - PolitykaZdrowotna.com PolitykaZdrowotna.com."
     },
     {
       "title": "Obniża kortyzol, redukuje stres. Taką kawę piją długowieczni Grecy - Rynek Zdrowia",
@@ -126,7 +118,7 @@
       "url": "https://ezwm.nfz.gov.pl/",
       "date": "2026-08-20T08:24:35Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "System eZWM Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -168,6 +160,14 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Premier nie chce demotywować lekarzy. Nie chce dopuścić, by wylano dziecko z kąpielą. Rząd nie chce zamykać szpitali powiatowych."
+    },
+    {
+      "title": "Medycyna i Zdrowie wiadomości, Portal dla systemu ochrony zdrowia - PolitykaZdrowotna.com - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/",
+      "date": "2026-08-20T07:34:56Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Medycyna i Zdrowie wiadomości, Portal dla systemu ochrony zdrowia - PolitykaZdrowotna.com PolitykaZdrowotna.com."
     },
     {
       "title": "Czy witamina C podawana dożylnie jest skuteczna w leczeniu ciężkich oparzeń? Jest jednoznaczna odpowiedź naukowców - Puls Medycyny",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Początek T1D przed okresem dojrzewania wiąże się z niższym ryzykiem powikłań – Medscape",
+      "url": "https://www.medscape.com/viewarticle/prepubertal-t1d-onset-tied-lower-risk-complications-2026a1000sys",
+      "date": "2026-08-20T11:04:54Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "U dzieci, u których T1D zdiagnozowano przed 7. rokiem życia, ryzyko wystąpienia długotrwałych powikłań przewlekłych w ciągu pierwszych 20 lat od diagnozy jest mniejsze w porównaniu z dziećmi zdiagnozowanymi w późniejszym dzieciństwie."
+    },
+    {
       "title": "Praca specjalisty pielęgniarki klinicznej ds. udarów w fundacji Frimley Health NHS Foundation Trust (kariera zdrowotna) | 840560 - BMJ",
       "url": "https://www.bmj.com/healthcareers/job/840560/advanced-stroke-clinical-nurse-specialist?LinkSource=SimilarJobPlatform",
       "date": "2026-08-20T10:36:22Z",
@@ -537,7 +545,7 @@
       "date": "2026-08-20T00:44:35Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Kortykosteroidy są czasami stosowane w przypadku nieoperacyjnej złośliwej niedrożności jelit (MBO), pomimo ograniczonych dowodów. Główne randomizowane dowody pochodzą ze starego przeglądu Cochrane, obejmującego łącznie 89 pacjentów i wykazującego nieistotną tendencję w kierunku ustępowania niedrożności i braku korzyści w zakresie przeżycia. Późniejsza literatura obejmuje badania retrospektywne i niekontrolowane, w których nie uwzględniono samoistnego ustąpienia choroby, heterogeniczności choroby i towarzyszących terapii."
+      "summary": "Kortykosteroidy w nieoperacyjnej złośliwej niedrożności jelit: praktyka kliniczna oparta na ograniczonych dowodach Opieka wspomagająca i paliatywna BMJ."
     },
     {
       "title": "Powiadomienie o śmierci w praktyce klinicznej: protokoły, wpływ klinicysty i wyniki rodzinne - Opieka wspomagająca i paliatywna BMJ",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Brazzaville – Po rygorystycznych ocenach technicznych pięć krajów afrykańskich skutecznie powstrzymało rozprzestrzenianie się polio, co stanowi ważny kamień milowy w wysiłkach na rzecz ochrony dzieci przed tym wirusem i postępu w kierunku jego wykorzenienia."
-    },
-    {
-      "title": "Ostatni uścisk: historia doktora Ahmada Al-Sahhara – emro.who.int",
-      "url": "https://www.emro.who.int/opt/news/a-last-embrace-dr-ahmad-al-sahhars-story.html",
-      "date": "2026-08-19T14:24:05Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "\"Ratuj to, co pozostało z życia. Jesteśmy ludźmi, którzy kochają życie. Czujemy, marzymy i chcemy szansy na realizację tych marzeń. \"19 sierpnia 2026 – Ahmad Al-Sahhar miał 28 lat, syn, brat, lekarz, mąż i marzyciel...."
     }
   ],
   "guidelines": [
@@ -1030,6 +1030,14 @@
       "summary": "Tymczasowa lista interesariuszy (wersja do pobrania) (PDF 135 KB)."
     },
     {
+      "title": "Wyniki kliniczne i wskaźniki jakości AHA/ACC 2026 u pacjentów z migotaniem przedsionków - professional.heart.org",
+      "url": "https://professional.heart.org/en/science-news/2026-clinical-performance-and-quality-measures-for-patients-with-atrial-fibrillation",
+      "date": "2026-08-18T06:02:24Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "National Center 7272 Greenville Ave. Dallas, Teksas 75231 Obsługa klienta 1-800-242-8721 Godziny otwarcia Poniedziałek - piątek: 7:00 - 19:00"
+    },
+    {
       "title": "Rozważania praktyczne – ESC 365",
       "url": "https://esc365.escardio.org/presentation/334240",
       "date": "2026-08-17T23:04:59Z",
@@ -1188,14 +1196,6 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Rekomendacja nr 116/2026 z dnia 13 sierpnia 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu leczniczego Ztalmy (ganaksolon) we wskazaniu: padaczka lekooporna na podłożu mutacji w genie CDKL5 w populacji pediatrycznej."
-    },
-    {
-      "title": "Rekomendacja Prezesa – Ryplazim (plasminogen) - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-ryplazim-plasminogen/",
-      "date": "2026-08-17T08:59:46Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja nr 118/2026 z dnia 13 sierpnia 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu leczniczego Ryplazim (plasminogen) we wskazaniu: niedobór plazminogenu u pacjentów pediatrycznych."
     },
     {
       "title": "Opieka kliniczna nad boreliozą — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1642,7 +1642,7 @@
       "summary": "Szczegóły badania | NCT07772336 | Interwencja mitochondrialna na rzecz odporności u starszych osób dorosłych za pomocą koenzymu Q10 ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07774481 | Badanie umiejętności lękowych – ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07774481 | Badanie umiejętności związanych z lękiem – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07774481",
       "date": "2026-08-20T04:42:10Z",
       "source": "ClinicalTrials.gov",
@@ -1674,6 +1674,14 @@
       "summary": "Szczegóły badania | NCT07774624 | Badanie SKB103 w raku piersi HER2-ujemnym ClinicalTrials.gov."
     },
     {
+      "title": "Sonrotoclaks, glofitamab, gemcytabina i oksaliplatyna w leczeniu nawrotowego lub opornego na leczenie chłoniaka z dużych komórek B - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07774234",
+      "date": "2026-08-20T02:09:57Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Sonrotoclaks, glofitamab, gemcytabina i oksaliplatyna w leczeniu nawrotowego lub opornego na leczenie chłoniaka z dużych komórek B ClinicalTrials.gov."
+    },
+    {
       "title": "Niezależne, wolne od cenzury media na rzecz zdrowia i badań biomedycznych – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/p/delhicitybabes",
       "date": "2026-08-19T21:52:39Z",
@@ -1690,7 +1698,7 @@
       "summary": "Szczegóły badania | NCT07774013 | Punkt opieki — badanie dotyczące sepsy ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07773298 | Technika emocjonalnej wolności w przypadku postrzeganego traumatycznego porodu - ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07773298 | Technika wolności emocjonalnej w przypadku postrzeganego traumatycznego porodu - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07773298",
       "date": "2026-08-19T20:28:01Z",
       "source": "ClinicalTrials.gov",
@@ -2000,14 +2008,6 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Niedawno ujawnione dane rządu Nowej Zelandii ujawniają coś bardziej istotnego niż kolejny spór dotyczący tego, czy szczepionki przeciwko Covid-19 są „bezpieczne”; lub „niebezpieczne”.” Doradcy rządowi aktywnie zmagali się z zapaleniem mięśnia sercowego, ryzykiem drugiej dawki i niepewnością u młodych ludzi, podczas gdy przywódcy polityczni przygotowywali się do rozszerzenia szczepień na osoby w wieku 12–15 lat. To zasługuje na analizę. Jednak artykuł z 17 sierpnia w The Noticer osłabia tę tezę, opisując drugie dawki jako „wzmacniacze”. i czasami przesuwając dokumenty poza to, co faktycznie dowodzą."
-    },
-    {
-      "title": "Duravyu z EyePoint nie dorównuje Eylei w fazie III badania – Clinical Trials Arena",
-      "url": "https://www.clinicaltrialsarena.com/news/eyepoint-duravyu-falls-short-eylea-phase-iii-trial/",
-      "date": "2026-08-18T13:50:22Z",
-      "source": "Clinical Trials Arena",
-      "confirmed_by": 1,
-      "summary": "Duravyu z EyePoint nie dorównuje Eylei w fazie III prób klinicznych Arena."
     }
   ],
   "pharma_market": [
