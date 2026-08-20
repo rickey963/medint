@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T10:42:27Z",
+  "last_updated": "2026-08-20T10:43:18Z",
   "poland": [
     {
       "title": "Jest decyzja i termin. Apteczka z samochodzie osobowym będzie obowiązkowa - PolitykaZdrowotna.com",
@@ -94,7 +94,7 @@
       "url": "https://ezwm.nfz.gov.pl/",
       "date": "2026-08-20T08:24:35Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "System eZWM Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -537,7 +537,7 @@
       "date": "2026-08-20T00:44:35Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Kortykosteroidy w nieoperacyjnej złośliwej niedrożności jelit: praktyka kliniczna oparta na ograniczonych dowodach Opieka wspomagająca i paliatywna BMJ."
+      "summary": "Kortykosteroidy są czasami stosowane w przypadku nieoperacyjnej złośliwej niedrożności jelit (MBO), pomimo ograniczonych dowodów. Główne randomizowane dowody pochodzą ze starego przeglądu Cochrane, obejmującego łącznie 89 pacjentów i wykazującego nieistotną tendencję w kierunku ustępowania niedrożności i braku korzyści w zakresie przeżycia. Późniejsza literatura obejmuje badania retrospektywne i niekontrolowane, w których nie uwzględniono samoistnego ustąpienia choroby, heterogeniczności choroby i towarzyszących terapii."
     },
     {
       "title": "Powiadomienie o śmierci w praktyce klinicznej: protokoły, wpływ klinicysty i wyniki rodzinne - Opieka wspomagająca i paliatywna BMJ",
@@ -1019,7 +1019,7 @@
       "date": "2026-08-18T07:00:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Propozycja naukowa Sancti Spiritus wzmacnia opiekę nad urazami krwotocznymi na Kubie radiosanctispiritus.cu."
+      "summary": "Wytyczne praktyki klinicznej opracowane w Sancti Spíritus dotyczące diagnostyki i leczenia pacjentów z traumatycznym wstrząsem krwotocznym stanowią znaczący wkład w zarządzanie takimi nagłymi sytuacjami na Kubie, ponieważ ułatwiają szybsze podejmowanie decyzji medycznych oraz ograniczają powikłania, pobyty w szpitalu i wskaźniki śmiertelności."
     },
     {
       "title": "Dokumenty projektowe | Szybkie testy MT-RNR1 do wykrywania wariantu genetycznego w celu ukierunkowania stosowania antybiotyków i zapobiegania utracie słuchu u niemowląt (tymczasowy tytuł) | Poradnik - strona internetowa NICE",
@@ -1196,6 +1196,14 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Rekomendacja nr 116/2026 z dnia 13 sierpnia 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu leczniczego Ztalmy (ganaksolon) we wskazaniu: padaczka lekooporna na podłożu mutacji w genie CDKL5 w populacji pediatrycznej."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Ryplazim (plasminogen) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-ryplazim-plasminogen/",
+      "date": "2026-08-17T08:59:46Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja nr 118/2026 z dnia 13 sierpnia 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgody na refundację produktu leczniczego Ryplazim (plasminogen) we wskazaniu: niedobór plazminogenu u pacjentów pediatrycznych."
     }
   ],
   "epidemiology": [
