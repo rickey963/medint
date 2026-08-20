@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T00:36:59Z",
+  "last_updated": "2026-08-20T00:37:50Z",
   "poland": [
     {
       "title": "Lekarze mówią „nie” obniżaniu płatności za świadczenia - Podyplomie.pl",
@@ -409,7 +409,7 @@
       "date": "2026-08-20T00:34:06Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Powiadomienie o śmierci w praktyce klinicznej: protokoły, wpływ klinicysty i wyniki rodzinne BMJ Opieka wspomagająca i paliatywna."
+      "summary": "Powiadamianie o śmierci (DN) to krytyczne zadanie kliniczne, które inicjuje trajektorię żałoby i wpływa na nią, a także niesie ze sobą głębokie konsekwencje dla dobrostanu klinicysty. Dowody łączą jakość DN z poznawczo-emocjonalnym przetwarzaniem straty, reorganizacją przywiązania i mobilizacją wsparcia społecznego. Zróżnicowany ekosystem protokołów DN zapewnia stopniowe wytyczne, ale dane dotyczące wyników, adaptacja kulturowa i wsparcie zgłaszających pozostają ograniczone."
     },
     {
       "title": "Nadzwyczajne spotkanie Strategicznej Grupy Doradczej Ekspertów (SAGE) ds. Szczepień 19 sierpnia 2026 r. – Światowa Organizacja Zdrowia (WHO)",
@@ -620,6 +620,14 @@
       "summary": "Ekstremalnie ostre jedzenie może powodować objawy żołądkowo-jelitowe, a w rzadkich przypadkach ciężkie reakcje, co skłania władze odpowiedzialne za opiekę zdrowotną do nalegania na większą ostrożność u nastolatków."
     },
     {
+      "title": "Czy GIP zapewnia dodatkową korzyść glikemiczną w T2D? - Medyczny",
+      "url": "https://www.medscape.com/viewarticle/does-gip-provide-added-glycemic-benefit-t2d-2026a1000stb",
+      "date": "2026-08-19T13:05:19Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Dodany do semaglutydu lub placebo, zależny od glukozy polipeptyd insulinotropowy (GIP) nie wykazuje wpływu na kontrolę glikemii w cukrzycy typu 2."
+    },
+    {
       "title": "Cefazolina pasuje do penicylin w leczeniu bakterii MSSA - Medscape",
       "url": "https://www.medscape.com/viewarticle/cefazolin-matches-penicillins-methicillin-susceptible-2026a1000ssy",
       "date": "2026-08-19T12:35:16Z",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "McCartney podkreśla ryzyko nadmiernej diagnozy, nadmiernego leczenia i marnowania zasobów związanych z badaniami przesiewowymi w kierunku raka prostaty.1 Obawy te pozostają głównym przedmiotem decyzji politycznych. Na uwagę zasługuje jednak kwestia metodologiczna. Zalecenie brytyjskiego Krajowego Komitetu ds. Badań Przesiewowych jest często interpretowane jako „badania przesiewowe a brak badań przesiewowych” – jest to ważne porównanie przy ustalaniu skuteczności."
-    },
-    {
-      "title": "Apel o priorytetowe tematy dotyczące zdrowia kobiet, dzieci i młodzieży po roku 2030 – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/articles-detail/call-for-priority-topics-on-women-s--children-s--and-adolescents--health-beyond-2030",
-      "date": "2026-08-19T09:10:26Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "WHO, UNICEF, UNFPA i PMNCH przeprowadzają przegląd dowodów na temat działań niezbędnych do ochrony i poprawy zdrowia i dobrostanu kobiet, noworodków, dzieci i młodzieży po roku 2030 i zapraszają do pomocy w odpowiedzi na to pytanie."
     }
   ],
   "guidelines": [
@@ -843,7 +843,7 @@
       "date": "2026-08-19T10:49:07Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Oparte na dowodach zalecenia dotyczące donidalorsenu (Dawnzera) w celu zapobiegania nawracającym atakom dziedzicznego obrzęku naczynioruchowego u osób w wieku 12 lat i starszych."
     },
     {
       "title": "Przegląd | Acalabrutinib z bendamustyną i rytuksymabem w leczeniu nieleczonego chłoniaka z komórek płaszcza | Poradnik - strona internetowa NICE",
@@ -1142,7 +1142,7 @@
       "summary": "Dostęp do artykułu European Heart Journal - Cardionaczyniowe Farmakoterapia na temat CHOROBY SERCA NACZYNIOWEGO W OKREŚLONYCH POPULACJACH, FARMAKOLOGII SERCA, NIEWOLNOŚCI SERCA, Przewlekłej niewydolności serca, Chirurgii sercowo-naczyniowej w ESC 365."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "ASTRO publikuje zaktualizowane wytyczne praktyki klinicznej dotyczące RT w leczeniu raka trzustki – onkologia ukierunkowana",
       "url": "https://www.targetedonc.com/view/astro-issues-updated-clinical-practice-guideline-on-rt-for-pancreatic-cancer",
       "date": "2026-08-14T19:05:20Z",
       "source": "Wytyczne kliniczne",
@@ -1163,7 +1163,7 @@
       "date": "2026-08-14T09:05:10Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W zeszłym roku AGA opublikowała swoje pierwsze wytyczne dotyczące praktyki klinicznej dotyczące postępowania w gastroparezie, a ostatnio GEN rozmawiało z głównym autorem Kylem-Stallerem-MD o tym, jak wytyczne mogą zmienić podejście gastroenterologów do pacjentów z tą chorobą."
     },
     {
       "title": "Kanał danych o chorobach układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2065,7 +2065,7 @@
       "date": "2026-08-19T18:58:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Akcje spółki Moderna wzrosły po pozytywnych wynikach fazy 3 szczepionki przeciw czerniakowi dostarczanej przez firmę Merck, zwiększając zaufanie do jej portfolio poza Covid-19."
     },
     {
       "title": "Pasatru firmy Regeneron uzyskał aprobatę FDA w leczeniu ultrarzadkich schorzeń kości – Fierce Pharma",
@@ -2137,7 +2137,7 @@
       "date": "2026-08-19T14:43:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Amgen kończy umowę z TScan; Amylyx zbiera 350 mln dolarów; sejf ENV-308 firmy Enveda w fazie 1; Kynexis zwiększa wartość serii A do 110 mln dolarów; Tolerance Bio posiada licencję na efineptakin alfa firmy NeoImmuneTech."
     },
     {
       "title": "Jednostka Aurobindo, chiński producent API, znalazła się w ostatniej serii listów ostrzegawczych FDA – Fierce Pharma",
@@ -2249,7 +2249,7 @@
       "date": "2026-08-19T08:24:14Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Spotkanie publiczne na temat opracowywania leków ukierunkowanych na pacjenta na niegojące się rany przewlekłe PYTANIA DO DYSKUSJI Temat 1: Wpływ na zdrowie an fda.gov."
     },
     {
       "title": "Praca w nauce akademickiej/badaniach i rozwoju w Nebrasce | Kontrakt - BioSpace",
@@ -2329,7 +2329,7 @@
       "date": "2026-08-19T01:31:59Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Wiadomo, że 15 leków wchodzi w interakcje z Trilitasem."
     },
     {
       "title": "Trump wybierze Heidi Overton na stanowisko szefa FDA po serii niestabilnych przywództw – Endpoints News",
