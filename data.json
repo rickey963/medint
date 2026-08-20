@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T05:17:29Z",
+  "last_updated": "2026-08-20T05:18:18Z",
   "poland": [
     {
       "title": "Alarm w aptekach. Syrop na kaszel wycofany: sprawdź, czy masz te serie w domu - Rynek Zdrowia",
@@ -142,7 +142,7 @@
       "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/projekty-zarzadzen/projekt-zarzadzenia-leczenie-szpitalne-swiadczenia-kompleksowe,7007.html",
       "date": "2026-08-19T20:41:37Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Projekt zarządzenia Prezesa Narodowego Funduszu Zdrowia zmieniającego zarządzenie w sprawie warunków zawierania i realizacji umów w rodzaju leczenie szpitalne– świadczenia kompleksowe."
     },
     {
@@ -806,6 +806,14 @@
   ],
   "guidelines": [
     {
+      "title": "Podsumowanie i zakończenie – ESC 365",
+      "url": "https://esc365.escardio.org/presentation/332873",
+      "date": "2026-08-20T02:30:56Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Uzyskaj dostęp do tej prezentacji na ESC 365 z Kongresu ESC 2026 na temat choroby wieńcowej (przewlekłej) / przewlekłych zespołów wieńcowych (CCS) pod adresem ESC 365."
+    },
+    {
       "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://myesc.escardio.org/ESCApplications",
       "date": "2026-08-20T02:03:57Z",
@@ -1196,14 +1204,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Dostęp do artykułu European Heart Journal - Cardionaczyniowe Farmakoterapia na temat CHOROBY SERCA NACZYNIOWEGO W OKREŚLONYCH POPULACJACH, FARMAKOLOGII SERCA, NIEWOLNOŚCI SERCA, Przewlekłej niewydolności serca, Chirurgii sercowo-naczyniowej w ESC 365."
-    },
-    {
-      "title": "ASTRO publikuje zaktualizowane wytyczne praktyki klinicznej dotyczące RT w leczeniu raka trzustki – targetonc.com",
-      "url": "https://www.targetedonc.com/view/astro-issues-updated-clinical-practice-guideline-on-rt-for-pancreatic-cancer",
-      "date": "2026-08-14T19:05:20Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "ASTRO publikuje zaktualizowane wytyczne dotyczące praktyki klinicznej dotyczące RT w leczeniu raka trzustki targetonc.com."
     }
   ],
   "epidemiology": [
@@ -1795,7 +1795,7 @@
     },
     {
       "title": "Szczegóły badania | NCT07770451 | Stymulacja magnetyczna mózgu przyśrodkowej kory przedczołowej w autyzmie – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07770451?lastUpdPost=2020-03-16_",
+      "url": "https://clinicaltrials.gov/study/NCT07770451",
       "date": "2026-08-19T06:33:22Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
@@ -1803,7 +1803,7 @@
     },
     {
       "title": "Szczegóły badania | NCT07770451 | Stymulacja magnetyczna mózgu przyśrodkowej kory przedczołowej w autyzmie – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07770451",
+      "url": "https://clinicaltrials.gov/study/NCT07770451?lastUpdPost=2020-03-16_",
       "date": "2026-08-19T06:33:22Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
