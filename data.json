@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T04:13:43Z",
+  "last_updated": "2026-08-20T04:14:33Z",
   "poland": [
     {
       "title": "Zbliża się XXII Forum Rynku Zdrowia. Ruszyła rejestracja na wydarzenie - Rynek Zdrowia",
@@ -433,7 +433,7 @@
       "date": "2026-08-20T00:44:35Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Kortykosteroidy w nieoperacyjnej złośliwej niedrożności jelit: praktyka kliniczna oparta na ograniczonych dowodach Opieka wspomagająca i paliatywna BMJ."
+      "summary": "Kortykosteroidy są czasami stosowane w przypadku nieoperacyjnej złośliwej niedrożności jelit (MBO), pomimo ograniczonych dowodów. Główne randomizowane dowody pochodzą ze starego przeglądu Cochrane, obejmującego łącznie 89 pacjentów i wykazującego nieistotną tendencję w kierunku ustępowania niedrożności i braku korzyści w zakresie przeżycia. Późniejsza literatura obejmuje badania retrospektywne i niekontrolowane, w których nie uwzględniono samoistnego ustąpienia choroby, heterogeniczności choroby i towarzyszących terapii."
     },
     {
       "title": "Powiadomienie o śmierci w praktyce klinicznej: protokoły, wpływ klinicysty i wyniki rodzinne - Opieka wspomagająca i paliatywna BMJ",
@@ -441,7 +441,7 @@
       "date": "2026-08-20T00:34:06Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Powiadomienie o śmierci w praktyce klinicznej: protokoły, wpływ klinicysty i wyniki rodzinne BMJ Opieka wspomagająca i paliatywna."
+      "summary": "Powiadamianie o śmierci (DN) to krytyczne zadanie kliniczne, które inicjuje trajektorię żałoby i wpływa na nią, a także niesie ze sobą głębokie konsekwencje dla dobrostanu klinicysty. Dowody łączą jakość DN z poznawczo-emocjonalnym przetwarzaniem straty, reorganizacją przywiązania i mobilizacją wsparcia społecznego. Zróżnicowany ekosystem protokołów DN zapewnia stopniowe wytyczne, ale dane dotyczące wyników, adaptacja kulturowa i wsparcie zgłaszających pozostają ograniczone."
     },
     {
       "title": "Nadzwyczajne spotkanie Strategicznej Grupy Doradczej Ekspertów (SAGE) ds. Szczepień 19 sierpnia 2026 r. – Światowa Organizacja Zdrowia (WHO)",
@@ -806,14 +806,6 @@
   ],
   "guidelines": [
     {
-      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://myesc.escardio.org/ESCApplications",
-      "date": "2026-08-20T02:03:57Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
-    },
-    {
       "title": "Enzalutamid w dalszym ciągu zapewnia znaczne, długoterminowe korzyści w zakresie OS po 8 latach pacjentom z rakiem prostaty hormonozależnym z przerzutami - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/enzalutamide-continues-to-provide-substantial-long-term-os-benefit-at-8-years-for-patients-with-metastatic-hormone-sensitive-prostate-cancer",
       "date": "2026-08-19T19:55:41Z",
@@ -836,6 +828,14 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Więcej informacji na temat naszych procesów i metod można znaleźć w naszym podręczniku procesów i metod CHTE."
+    },
+    {
+      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://myesc.escardio.org/ESCApplications",
+      "date": "2026-08-19T18:05:01Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Naukowcy z Mayo szukają wglądu w nawyki dentystów w zakresie przepisywania antybiotyków – adanews.ada.org",
@@ -1787,7 +1787,7 @@
     },
     {
       "title": "Szczegóły badania | NCT07770451 | Stymulacja magnetyczna mózgu przyśrodkowej kory przedczołowej w autyzmie – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07770451?lastUpdPost=2020-03-16_",
+      "url": "https://clinicaltrials.gov/study/NCT07770451",
       "date": "2026-08-19T06:33:22Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
@@ -1795,7 +1795,7 @@
     },
     {
       "title": "Szczegóły badania | NCT07770451 | Stymulacja magnetyczna mózgu przyśrodkowej kory przedczołowej w autyzmie – ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07770451",
+      "url": "https://clinicaltrials.gov/study/NCT07770451?lastUpdPost=2020-03-16_",
       "date": "2026-08-19T06:33:22Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
