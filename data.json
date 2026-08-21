@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T14:49:41Z",
+  "last_updated": "2026-08-21T14:50:39Z",
   "poland": [
     {
       "title": "Anastazja Więckiewicz dyrektorem Szpitala Klinicznego im. ks. Anny Mazowieckiej - Alert Medyczny",
@@ -409,7 +409,7 @@
       "date": "2026-08-21T12:40:50Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Łączenie czarnej skrzynki: sztuczna inteligencja w opiece doraźnej wymaga większej możliwości interpretacji i precyzji BMJ Health & Care Informatics."
+      "summary": "Zastosowanie uczenia maszynowego w opiece doraźnej odchodzi od teorii do rzeczywistych warunków klinicznych. Dwa ostatnie badania opublikowane w BMJ Health and Care Informatics omawiają tę kwestię i obejmują dwa ważne tematy, które skupiały się na wczesnej segregacji pacjentów z podejrzeniem ostrego zespołu wieńcowego i przepływie pacjentów na oddziałach ratunkowych (ED) z wykorzystaniem przewidywania długości pobytu."
     },
     {
       "title": "Czy wcześniejsze leczenie biologiczne wpływa na trwałość anty-TNF w IBD? - Medyczny",
@@ -705,7 +705,7 @@
       "date": "2026-08-20T17:07:26Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Błędy diagnostyczne w endogennej hipoglikemii hiperinsulinemicznej spowodowanej autoimmunologicznym zespołem insulinowym BMJ Case Reports."
+      "summary": "Insulinowy zespół autoimmunologiczny (IAS) jest rzadką przyczyną samoistnej endogennej hipoglikemii hiperinsulinemicznej, w której pośredniczą autoprzeciwciała skierowane przeciwko endogennej insulinie w przypadku braku wcześniejszej ekspozycji na insulinę egzogenną. U starszej kobiety wystąpiły nawracające epizody hipoglikemii na czczo i poposiłkowej, bez cukrzycy lub wcześniejszej operacji bariatrycznej. Triada Whipple’a została spełniona, a podczas udokumentowanej hipoglikemii (glikemia w osoczu 2,4 mmol/l) stężenie insuliny i peptydu C było wyraźnie podwyższone, a wynik badania na obecność sulfonylomocznika był ujemny."
     },
     {
       "title": "Przechwytywanie raka trzustki szczepionką – Natura",
@@ -1381,7 +1381,7 @@
       "date": "2026-08-20T14:20:00Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W Europie występują dłuższe i intensywniejsze sezony przenoszenia chorób przenoszonych przez komary, w tym zakażenia wirusem Zachodniego Nilu (WNV), a także chorób wywołanych wirusami dengi i chikungunya. Zmiany te zwiększają potrzebę stałego nadzoru komarów i terminowych, skutecznych środków kontroli, ale możliwości i organizacja różnią się w zależności od kraju."
     },
     {
       "title": "Szczepienie matki przeciwko wirusowi RSV wysoce skuteczne w zapobieganiu hospitalizacji niemowląt – CIDRAP",
@@ -1416,12 +1416,12 @@
       "summary": "W zeszłym tygodniu rząd Demokratycznej Republiki Konga (DRK) zwrócił się o zwolnienie szczepionek Ervebo z globalnych zapasów szczepionek przeciwko wirusowi Ebola, zarządzanych przez Międzynarodową Grupę Koordynacyjną ds. Dostarczania Szczepionek (ICG). Wniosek dotyczył zastosowania szczepionki w związku z obecną epidemią choroby wirusowej Bundibugyo."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Palenie powoduje udary i niepełnosprawność /2 - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/tools/pictorial-health-warnings-on-tobacco-products/item/tobacco-image-database/smoking-causes-strokes-and-disability--2",
       "date": "2026-08-20T10:20:02Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Baza danych obrazkowych ostrzeżeń zdrowotnych Światowej Organizacji Zdrowia."
     },
     {
       "title": "Światowy Dzień Pomocy Humanitarnej 2026: uhonorowanie poległych humanitarystów i wezwanie do większej ochrony opieki zdrowotnej - Światowa Organizacja Zdrowia (WHO)",
@@ -1663,7 +1663,7 @@
       "date": "2026-08-21T03:21:41Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczegóły badania | NCT07777380 | ONE-P TMS Weterani wojskowi ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07777939 | Zastosowanie TENS w leczeniu bólu po cięciu cesarskim - ClinicalTrials.gov",
@@ -1712,6 +1712,14 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Szczegóły badania | NCT07776977 | Ograniczenie stosowania urządzeń przed snem i desmopresyna w PMNE. ClinicalTrials.gov."
+    },
+    {
+      "title": "Mpox staje się chorobą endemiczną w Ameryce – a dane CDC sugerują, że szczepienia zmniejszają ryzyko wystąpienia ciężkich chorób",
+      "url": "https://www.trialsitenews.com/a/mpox-is-becoming-endemic-in-americaand-cdc-data-suggest-vaccination-cuts-severe-disease-66b24379",
+      "date": "2026-08-21T01:28:42Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Epidemiolog z Centrum Kontroli i Zapobiegania Chorobom (CDC), Ryan Sandford, MPH, wraz ze współpracownikami z Krajowego Centrum Pojawiających się Zoonotycznych Chorób Zakaźnych CDC donosi w cotygodniowym raporcie Morbidity and Mortality Weekly Report (MMWR), że mpox nie zachowuje się już po prostu jak wygasająca epidemia w 2022 roku. W ramach tej analizy nadzoru krajowego zidentyfikowano 5322 przypadki w USA w latach 2024–2025–2803 w 2024 r. i 2519 w 2025 r."
     },
     {
       "title": "Brownsville inwestuje w pilotażowy projekt dotyczący zdrowia dzieci o wartości 32 milionów dolarów, ale HHS nadal musi udowodnić, że eksperyment działa – Trialsitenews.com",
@@ -2000,14 +2008,6 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Grupa nadzorująca chce, aby Biuro Generalnego Inspektora ds. Zdrowia i Opieki Społecznej (HHS) zbadało, czy członkowie komitetu doradczego FDA nie mieli potencjalnie dyskwalifikujących interesów finansowych podczas głosowania nad rozszerzonym dostępem do kontrowersyjnych peptydów złożonych. Zarzuty są poważne, ale pozostają zarzutami. W przypadku TrialSite kontrowersje ujawniają szerszy problem: wiedza fachowa, ideologia, popyt konsumentów i interesy komercyjne zderzają się w ramach procesu regulacyjnego, który już stara się dotrzymać kroku medycynie peptydowej."
-    },
-    {
-      "title": "DMT przechodzi od psychodelicznych skrajności do opracowania poważnych narkotyków – ale dowody wciąż budzą szum – Trialsitenews.com",
-      "url": "https://www.trialsitenews.com/a/dmt-moves-from-psychedelic-fringe-to-serious-drug-developmentbut-evidence-still-trails-the-hype-311070bf",
-      "date": "2026-08-19T17:20:03Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "DMT przez dziesięciolecia niosło ze sobą więcej mitologii niż danych klinicznych. Ta równowaga się zmienia. N,N-dimetylotryptamina (N,N-DMT) jest silnym, krótko działającym psychodelikiem serotoninergicznym występującym w wielu roślinach i jest głównym psychoaktywnym składnikiem ayahuaski."
     }
   ],
   "pharma_market": [
@@ -2036,7 +2036,7 @@
       "summary": "John Carroll o tym, dlaczego nowe badanie JAMA Oncology – pokazujące, że NCI wypełnia luki, których przemysł nie dotknie, od nowotworów u dzieci po deeskalację dawek – ma znaczenie, gdy administracja Trumpa kontynuuje wprowadzanie głębokich cięć w federalnym finansowaniu badań nad rakiem."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Novo Nordisk rozpoczyna testy niższych dawek podtrzymujących doustnego leku Wegovy – BioSpace",
       "url": "https://www.biospace.com/drug-development/novo-nordisk-starts-trialing-lower-maintenance-doses-of-oral-wegovy",
       "date": "2026-08-21T11:49:23Z",
       "source": "BioSpace",
@@ -2081,7 +2081,7 @@
       "date": "2026-08-21T08:21:06Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla Dulcolax, Ultravist."
     },
     {
       "title": "Raport o interakcjach leków: aprepitant, Syndros – Drugs.com",
@@ -2364,7 +2364,7 @@
       "summary": "Epic poszerza zakres sztucznej inteligencji lekarzy i pacjentów w UGM, wywierając presję na start-upy z branży technologii medycznych w związku z doniesieniami o dochodzeniu antymonopolowym FTC i odejściach dyrektorów."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Długo działająca insulina Lilly zdobywa błogosławieństwo NICE przed potencjalnym zatwierdzeniem w Wielkiej Brytanii – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/lillys-onswik-set-broad-uk-coverage-after-pricing-authority-gives-ok",
       "date": "2026-08-20T13:12:00Z",
       "source": "FiercePharma",
@@ -2396,7 +2396,7 @@
       "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla defibrotydu, Vioxx."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Sukces szczepionki firmy Merck, której partnerem jest Moderna, rozjaśnia obraz przyszłości po wprowadzeniu Keytrudy - BioSpace",
       "url": "https://www.biospace.com/business/mercks-moderna-partnered-vaccine-success-clears-view-of-post-keytruda-future",
       "date": "2026-08-20T12:13:31Z",
       "source": "BioSpace",
@@ -2413,6 +2413,14 @@
     }
   ],
   "critical_alerts": [
+    {
+      "title": "Mpox staje się chorobą endemiczną w Ameryce – a dane CDC sugerują, że szczepienia zmniejszają ryzyko wystąpienia ciężkich chorób",
+      "url": "https://www.trialsitenews.com/a/mpox-is-becoming-endemic-in-americaand-cdc-data-suggest-vaccination-cuts-severe-disease-66b24379",
+      "date": "2026-08-21T01:28:42Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Epidemiolog z Centrum Kontroli i Zapobiegania Chorobom (CDC), Ryan Sandford, MPH, wraz ze współpracownikami z Krajowego Centrum Pojawiających się Zoonotycznych Chorób Zakaźnych CDC donosi w cotygodniowym raporcie Morbidity and Mortality Weekly Report (MMWR), że mpox nie zachowuje się już po prostu jak wygasająca epidemia w 2022 roku. W ramach tej analizy nadzoru krajowego zidentyfikowano 5322 przypadki w USA w latach 2024–2025–2803 w 2024 r. i 2519 w 2025 r."
+    },
     {
       "title": "Epidemia Salmonelli związana z jalapeno w USA rośnie do 431 przypadków, 57 hospitalizacji – CIDRAP",
       "url": "https://www.cidrap.umn.edu/salmonella/jalapeno-linked-us-salmonella-outbreak-grows-431-cases-57-hospitalizations",
