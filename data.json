@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T20:49:00Z",
+  "last_updated": "2026-08-21T20:50:00Z",
   "poland": [
     {
       "title": "Kiedy w praktyce warto zastosować doksazosynę? Opis przypadku pacjenta z BPH, LUTS i nadciśnieniem tętniczym - Podyplomie.pl",
@@ -184,6 +184,14 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Prezydium Naczelnej Rady Lekarskiej pozytywnie oceniło projekt zmian w Kodeksie karnym oraz ustawie o prawach pacjenta i Rzeczniku Praw Pacjenta, zgłaszając jednocześnie swoje uwagi i spostrzeżenia."
+    },
+    {
+      "title": "SGLT-2i – szansa czy zagrożenie dla stopy cukrzycowej? - Medycyna Praktyczna",
+      "url": "https://diabetologia.mp.pl/wiadomosci/446914,sglt-2i-szansa-czy-zagrozenie-dla-stopy-cukrzycowej",
+      "date": "2026-08-21T12:35:16Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Ocena kliniczna wpływu inhibitorów SGLT-2 na przebieg owrzodzenia stopy cukrzycowej w 12-miesięcznym badaniu obserwacyjnym."
     },
     {
       "title": "Nowe zasady finansowania przychodni. Samorząd lekarski krytykuje projekt NFZ - PolitykaZdrowotna.com",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Pracodawcy z małych firm zyskali nowe możliwości kontrolowania zwolnień lekarskich. Od 13 kwietnia 2026 r. przedsiębiorca zgłaszający do ubezpieczenia chorobowego maksymalnie 20 osób może sam sprawdzić, czy pracownik prawidłowo korzysta z L4."
-    },
-    {
-      "title": "To nie koniec afery wokół piosenki o Taco Hemingwaya. Rzecznik Praw Obywatelskich idzie do sądu - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Farmacja/To-nie-koniec-afery-wokol-piosenki-o-Taco-Hemingwaya-Rzecznik-Praw-Obywatelskich-idzie-do-sadu,288001,6.html",
-      "date": "2026-08-21T08:57:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Rzecznik Praw Obywatelskich wkracza do sporu o piosenkę \"Zakochałem się pod apteką\". Główny Inspektor Farmaceutyczny uznał utwór za reklamę produktu leczniczego i nakazał twórcy zaprzestać jej rozpowszechniania. Rzecznik staje po stronie artysty i ostrzega, że taka interpretacja przepisów może prowadzić do ograniczenia wolności twórczości artystycznej i wywołać tzw."
     }
   ],
   "world": [
@@ -537,7 +537,7 @@
       "date": "2026-08-21T12:40:50Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Łączenie czarnej skrzynki: sztuczna inteligencja w opiece doraźnej wymaga większej możliwości interpretacji i precyzji BMJ Health & Care Informatics."
+      "summary": "Zastosowanie uczenia maszynowego w opiece doraźnej odchodzi od teorii do rzeczywistych warunków klinicznych. Dwa ostatnie badania opublikowane w BMJ Health and Care Informatics omawiają tę kwestię i obejmują dwa ważne tematy, które skupiały się na wczesnej segregacji pacjentów z podejrzeniem ostrego zespołu wieńcowego i przepływie pacjentów na oddziałach ratunkowych (ED) z wykorzystaniem przewidywania długości pobytu."
     },
     {
       "title": "Czy wcześniejsze leczenie biologiczne wpływa na trwałość anty-TNF w IBD? - Medyczny",
@@ -585,7 +585,7 @@
       "date": "2026-08-21T10:11:48Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Diagnostyka i leczenie ostrej hiperkaliemii BMJ."
+      "summary": "Hiperkaliemia jest częstym i potencjalnie zagrażającym życiu zaburzeniem elektrolitowym ze względu na jego związek ze złośliwymi zaburzeniami rytmu serca i nagłym zatrzymaniem krążenia. Schorzenie to często występuje w placówkach opieki doraźnej i przewlekłej i nieproporcjonalnie dotyka pacjentów z chorobami współistniejącymi, takimi jak przewlekła choroba nerek, niewydolność serca, cukrzyca oraz pacjentów otrzymujących leki zaburzające wydalanie potasu przez nerki. Do najczęstszych przyczyn hiperkaliemii zalicza się upośledzenie wydalania potasu przez nerki wynikające z przewlekłej choroby nerek lub farmakologicznego hamowania układu renina-angiotensyna-aldosteron oraz przezkomórkowe przesunięcia potasu wynikające z kwasicy metabolicznej, rozpadu tkanek, niedoboru insuliny lub stanów hipertonicznych."
     },
     {
       "title": "Ścienienie siatkówki przewiduje pogorszenie funkcji poznawczych w stwardnieniu rozsianym - Medscape",
@@ -2249,7 +2249,7 @@
       "date": "2026-08-20T20:00:44Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla halazepamu, Siltussin-DM DAS-NA."
+      "summary": "Raport interakcji leków: halazepam, Siltussin-DM DAS-NA Drugs.com."
     },
     {
       "title": "Leslie Zhen Liang – Ostra farmacja",
