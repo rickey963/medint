@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T04:00:20Z",
+  "last_updated": "2026-08-21T04:01:09Z",
   "poland": [
     {
       "title": "Lekarze mówią „nie” obniżaniu płatności za świadczenia - Podyplomie.pl",
@@ -404,7 +404,7 @@
   ],
   "world": [
     {
-      "title": "Osłabienie okołowieńcowej tkanki tłuszczowej i nawrót migotania przedsionków po ablacji cewnikowej: przegląd systematyczny i metaanaliza - Cureus",
+      "title": "Okołowieńcowe osłabienie tkanki tłuszczowej i nawrót migotania przedsionków po ablacji cewnika: przegląd systematyczny i metaanaliza - Cureus",
       "url": "https://www.cureus.com/articles/496138-peri-coronary-adipose-tissue-attenuation-and-atrial-fibrillation-recurrence-after-catheter-ablation-a-systematic-review-and-meta-analysis",
       "date": "2026-08-21T03:14:18Z",
       "source": "Cochrane Library",
@@ -521,7 +521,7 @@
       "date": "2026-08-20T18:00:09Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Jedno badanie krwi może ujawnić dziedziczne ryzyko sercowo-naczyniowe, którego nie naprawią same zmiany stylu życia. Często pomija się lipoproteinę(a), ale ma ona znaczenie."
+      "summary": "Jedno badanie krwi może ujawnić dziedziczne ryzyko sercowo-naczyniowe, którego same zmiany stylu życia nie naprawią. Często pomija się lipoproteinę(a), ale ma ona znaczenie."
     },
     {
       "title": "Palenie powoduje raka jamy ustnej i gardła /1 - Światowa Organizacja Zdrowia (WHO)",
@@ -548,7 +548,7 @@
       "summary": "Błędy diagnostyczne w endogennej hipoglikemii hiperinsulinemicznej spowodowanej autoimmunologicznym zespołem insulinowym BMJ Case Reports."
     },
     {
-      "title": "Przechwytywanie raka trzustki szczepionką – Natura",
+      "title": "Przechwytywanie raka trzustki za pomocą szczepionki - Natura",
       "url": "https://www.nature.com/articles/d41591-026-00041-3",
       "date": "2026-08-20T16:49:16Z",
       "source": "Nature Medicine",
@@ -820,6 +820,14 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Insulina efsitora alfa w leczeniu cukrzycy typu 2 Strona internetowa NICE."
+    },
+    {
+      "title": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ta1187/documents/html-content-2",
+      "date": "2026-08-20T21:08:34Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Poradnik NICE."
     },
     {
       "title": "Notatki | Dokumenty projektowe | Durwalumab z tremelimumabem i przeztętniczą chemoembolizacją z lenwatynibem lub bez niego w leczeniu miejscowo zaawansowanego raka wątrobowokomórkowego [ID6527] | Poradnik - strona internetowa NICE",
@@ -1196,14 +1204,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Nauka o układzie krążenia, spostrzeżenia i wiedza na wyciągnięcie ręki."
-    },
-    {
-      "title": "centrum wiedzy kardiologicznej - ESC 365",
-      "url": "https://esc365.escardio.org/event/2798",
-      "date": "2026-08-18T09:52:38Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "ESC 365 to centrum wiedzy kardiologicznej, w którym znajdziesz zasoby z kongresów, seminariów internetowych, kursów, publikacji i podcastów, kiedy tylko chcesz."
     }
   ],
   "epidemiology": [
@@ -1229,7 +1229,7 @@
       "date": "2026-08-20T18:52:14Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Ta trzyczęściowa seria oferuje relaksującą i interaktywną przestrzeń, w której można bezpośrednio nawiązać kontakt z doświadczonymi praktykami One Health, wysłuchać ich osobistych podróży i zadawać pytania w otwartym dialogu."
+      "summary": "Ta trzyczęściowa seria oferuje relaksującą i interaktywną przestrzeń, w której można bezpośrednio kontaktować się z doświadczonymi praktykami One Health, słuchać ich osobistych podróży i zadawać pytania w otwartym dialogu."
     },
     {
       "title": "Rząd Malawi – Ministerstwo Zdrowia | Portal strategicznego partnerstwa na rzecz bezpieczeństwa zdrowia i gotowości na wypadek sytuacji kryzysowych (SPH) - Światowa Organizacja Zdrowia (WHO)",
@@ -1584,12 +1584,12 @@
       "summary": "Roczne sprawozdanie finansowe Europejskiego Centrum ds. Zapobiegania i Kontroli Chorób (ECDC) obejmuje sprawozdania finansowe i sprawozdanie z wykonania budżetu."
     },
     {
-      "title": "W zeszłym roku szkolnym wzrosło zwolnienie ze szczepień dla przedszkoli w USA, podaje CDC – CIDRAP",
+      "title": "W ubiegłym roku szkolnym wzrosło zwolnienie ze szczepień dla przedszkoli w USA, podaje CDC – CIDRAP",
       "url": "https://www.cidrap.umn.edu/childhood-vaccines/us-kindergarten-vaccine-exemptions-jumped-last-school-year-cdc-reports",
       "date": "2026-08-18T21:22:13Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Więcej przedszkolaków (4,2%) zostało zwolnionych z co najmniej jednego szczepienia w roku szkolnym 2025–26 niż w roku poprzednim (3,6%) – podało wczoraj Centrum Kontroli i Zapobiegania Chorobom (CDC)."
+      "summary": "Więcej przedszkolaków (4,2%) zostało zwolnionych z co najmniej jednego szczepienia w roku szkolnym 2025–2026 niż w roku poprzednim (3,6%) – podało wczoraj Centrum Kontroli i Zapobiegania Chorobom (CDC)."
     },
     {
       "title": "Niska odporność na wirusowe zapalenie wątroby typu A i B u dorosłych w USA oraz ostatnie zmiany w polityce mogą zwiastować wzrost zachorowań na chorobę CIDRAP",
@@ -1639,7 +1639,7 @@
       "date": "2026-08-20T15:31:49Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Zmieniający się krajobraz chorób zakaźnych u dzieci w amerykańskiej arenie badań klinicznych."
+      "summary": "Zmieniający się krajobraz chorób zakaźnych u dzieci na arenie badań klinicznych w USA."
     },
     {
       "title": "Niezależne, wolne od cenzury media na rzecz zdrowia i badań biomedycznych – Trialsitenews.com",
@@ -1679,7 +1679,7 @@
       "date": "2026-08-20T11:01:11Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Reformy brytyjskiego sektora badań klinicznych wykazują oznaki powodzenia. Arena Badań Klinicznych."
+      "summary": "Reformy brytyjskiego sektora badań klinicznych wykazują oznaki sukcesu. Arena Badań Klinicznych."
     },
     {
       "title": "Niezależne, wolne od cenzury media na rzecz zdrowia i badań biomedycznych – Trialsitenews.com",
@@ -1914,12 +1914,12 @@
       "summary": "Szczegóły badania | NCT07770919 | Ciągła stymulacja Theta Burst w przypadku uogólnionych zaburzeń lękowych ClinicalTrials.gov."
     },
     {
-      "title": "ACT Brief: Priorytety automatyzacji zaplecza w fazie I, interpretacja danych na wczesnym etapie pod presją kapitału oraz rozwój ekosystemu Syneos AI – stosowane badania kliniczne online",
+      "title": "Krótki opis ACT: Priorytety automatyzacji zaplecza w fazie I, interpretacja danych na wczesnym etapie pod presją kapitału oraz rozwój ekosystemu Syneos AI – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/phase-i-back-office-automation-priorities-early-phase-data-interpretation-capital-pressure-and-syneos-ai-ecosystem-expansion",
       "date": "2026-08-19T13:37:56Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Krótki opis ACT: Priorytety I fazy automatyzacji zaplecza, interpretacja danych na wczesnym etapie pod presją kapitału oraz stosowane badania kliniczne online dotyczące rozbudowy ekosystemu Syneos AI."
+      "summary": "Krótki opis ACT: Priorytety automatyzacji zaplecza w fazie I, interpretacja danych na wczesnym etapie pod presją kapitału oraz stosowane badania kliniczne online dotyczące rozbudowy ekosystemu Syneos AI."
     },
     {
       "title": "Abcuro pozyskuje 66 mln dolarów na wsparcie badań klinicznych ulviprubartu dla IBM – Clinical Trials Arena",
@@ -2020,7 +2020,7 @@
       "summary": "I. Lek i jego zastosowanie II. Zagrożenia związane z lekiem i działaniami mającymi na celu zminimalizowanie lub uszczegółowienie jego charakterystyki leży w gestii Europejskiej Agencji Leków (EMA)."
     },
     {
-      "title": "Medicare zaprzecza, jakoby była „nadmiernie rygorystyczna” w recenzjach płatności dodatkowych – Insights.citeline.com",
+      "title": "Medicare zaprzecza, jakoby była „nadmiernie rygorystyczna” w recenzjach płatności dodatkowych – insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/pricing-debate/medicare-denies-being-excessively-stringent-in-reviews-of-add-on-payments-N2Z73XI7HZA3LN7FT5OUKZ4FGQ/",
       "date": "2026-08-21T01:04:14Z",
       "source": "Pink Sheet",
@@ -2050,6 +2050,14 @@
       "source": "BioSpace",
       "confirmed_by": 1,
       "summary": "Znajdź oferty pracy w dziedzinie biotechnologii i spraw medycznych w Kalifornii. 5 Biotech Beach, Praca na pełny etat dostępna w BioSpace, siedzibie branży nauk przyrodniczych."
+    },
+    {
+      "title": "Raport o interakcjach leków: halazepam, Siltussin-DM DAS-NA - Drugs.com",
+      "url": "https://www.drugs.com/interactions-check.php?drug_list=1226-0,846-12217&professional=1",
+      "date": "2026-08-20T20:00:44Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla halazepamu, Siltussin-DM DAS-NA."
     },
     {
       "title": "Leslie Zhen Liang – Ostra farmacja",
@@ -2097,7 +2105,7 @@
       "date": "2026-08-20T17:55:04Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Laserowa śródmiąższowa termoterapia (LITT) jest obiecująca dla pacjentów z pierwotnymi i przerzutowymi guzami mózgu, przy krótkich pobytach w szpitalu i zachowanej jakości."
+      "summary": "Laserowa śródmiąższowa termoterapia (LITT) jest obiecująca dla pacjentów z pierwotnymi i przerzutowymi guzami mózgu, przy krótkich pobytach w szpitalu i zachowaniu jakości."
     },
     {
       "title": "Regeneron rzuca wyzwanie firmie Ipsen po dopuszczeniu przez FDA leku na choroby kości – BioPharma Dive",
@@ -2121,7 +2129,7 @@
       "date": "2026-08-20T15:43:32Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Likwidacja Genglikosu w związku z rzadką chorobą spichrzania glikogenu daje Ultragenyxowi voucher do sprzedaży i dynamikę przed niecierpliwie oczekiwanym odczytem badania."
+      "summary": "Likwidacja Genglikosu w związku z rzadką chorobą spichrzania glikogenu daje Ultragenyx voucher do sprzedaży i dynamikę przed niecierpliwie oczekiwanym odczytem badania."
     },
     {
       "title": "Aurinia zawarła porozumienie z Teva, pomagając powstrzymać potencjalny lek generyczny Lupkynis do końca 2036 r. - Fierce Pharma",
@@ -2153,7 +2161,7 @@
       "date": "2026-08-20T14:44:10Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Firma B. Braun Medical — producent między innymi roztworów dożylnych dla szpitali — zainicjowała wycofywanie produktów w Stanach Zjednoczonych i Kanadzie w związku z zanieczyszczeniem cząstkami stałymi. | B."
+      "summary": "B. Braun Medical — producent między innymi roztworów dożylnych dla szpitali — zainicjował wycofywanie produktów w Stanach Zjednoczonych i Kanadzie w związku z zanieczyszczeniem cząstkami stałymi. | B."
     },
     {
       "title": "Najpierw spróbuj, oceń później: Jak FDA podchodzi do cyfrowych urządzeń zdrowotnych – Wiadomości o punktach końcowych",
@@ -2161,7 +2169,7 @@
       "date": "2026-08-20T14:34:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Program pilotażowy TEMPO FDA dodał Limbic, Cadence i Dexcom, umożliwiając cyfrowym firmom z branży zdrowotnej pominięcie autoryzacji przed wprowadzeniem na rynek w zamian za przesyłanie danych po wprowadzeniu do obrotu do CMS."
+      "summary": "Pilotażowy program TEMPO FDA dodał Limbic, Cadence i Dexcom, umożliwiając cyfrowym firmom z branży zdrowotnej pominięcie autoryzacji przed wprowadzeniem na rynek w zamian za przesyłanie danych po wprowadzeniu do obrotu do CMS."
     },
     {
       "title": "Lilly współpracuje z Amplitude w zakresie szczepionek; Otsuka rezygnuje z próby psychodelicznej – Endpoints News",
@@ -2188,7 +2196,7 @@
       "summary": "WuXi Bio zbywa swoje udziały w Bestchrom, Cabaletta dodaje ElevateBio wraz z Lonzą w celu rese-cel, a SK pharmteco rozbudowuje swój kampus w Swords w Irlandii."
     },
     {
-      "title": "Rozwój sztucznej inteligencji firmy Epic pokrywa się ze start-upami z branży technologii medycznych — Wiadomości dotyczące punktów końcowych",
+      "title": "Działania AI firmy Epic pokrywają się ze start-upami z branży technologii medycznych — Wiadomości dotyczące punktów końcowych",
       "url": "https://endpoints.news/epics-ai-push-to-overlap-with-health-tech-startups-at-annual-meeting/",
       "date": "2026-08-20T13:16:00Z",
       "source": "Endpoints News",
@@ -2265,10 +2273,10 @@
       "date": "2026-08-20T08:29:02Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Firma Boehringer Ingelheim kontynuowała swój wzrost w rankingach firm zajmujących się chorobami rzadkimi grup pacjentów, uzupełniając ubiegłoroczne zyski i ugruntowując swoją pozycję na szczycie rankingów. | Firma Boehringer Ingelheim kontynuowała swój wzrost w rankingach firm zajmujących się chorobami rzadkimi grup pacjentów, uzupełniając ubiegłoroczne zyski i ugruntowując swoją pozycję na szczycie rankingów. Niemieckiemu producentowi leków nie udało się jednak przebić pierwszej trójki pełnego stołu, w którym ponownie zajęły te same trzy firmy."
+      "summary": "Firma Boehringer Ingelheim kontynuowała swój wzrost w rankingu firm zajmujących się chorobami rzadkimi grup pacjentów, uzupełniając ubiegłoroczne zyski i ugruntowując swoją pozycję na szczycie rankingów. | Firma Boehringer Ingelheim kontynuowała swój wzrost w rankingu firm zajmujących się chorobami rzadkimi grup pacjentów, uzupełniając ubiegłoroczne zyski i ugruntowując swoją pozycję na szczycie rankingów. Niemieckiemu producentowi leków nie udało się jednak przebić pierwszej trójki pełnego stołu, w którym ponownie zajęły te same trzy firmy."
     },
     {
-      "title": "7 transakcji fuzji i przejęć w firmie Biopharma, po których nastąpiły zwolnienia - BioSpace",
+      "title": "7 transakcji fuzji i przejęć w biofarmie, po których nastąpiły zwolnienia - BioSpace",
       "url": "https://www.biospace.com/job-trends/7-biopharma-m-a-deals-where-layoffs-followed",
       "date": "2026-08-20T07:03:28Z",
       "source": "BioSpace",
@@ -2402,14 +2410,6 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Akcje spółki Moderna wzrosły po pozytywnych wynikach fazy 3 szczepionki przeciw czerniakowi dostarczanej przez firmę Merck, zwiększając zaufanie do jej portfolio poza Covid-19."
-    },
-    {
-      "title": "Pasatru firmy Regeneron uzyskał aprobatę FDA w leczeniu ultrarzadkich schorzeń kości – Fierce Pharma",
-      "url": "https://www.fiercepharma.com/pharma/regeneron-approval-fop",
-      "date": "2026-08-19T18:35:17Z",
-      "source": "FiercePharma",
-      "confirmed_by": 1,
-      "summary": "Po ponad 10 latach prac rozwojowych firma Regeneron uzyskała przełomowe zatwierdzenie swojego przeciwciała monoklonalnego garetosmab, obecnie znanego w handlu pod nazwą Pasatru. | Po ponad dziesięciu latach prac rozwojowych Pasatru firmy Regeneron uzyskało zgodę FDA. Lek ten jest dopiero drugim zatwierdzonym lekiem na FOP – niezwykle rzadką chorobę genetyczną, która powoduje, że tkanki miękkie pacjentów zamieniają się w kości."
     }
   ],
   "critical_alerts": [
