@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T10:40:24Z",
+  "last_updated": "2026-08-21T10:41:21Z",
   "poland": [
     {
       "title": "Rehabilitacja po zawale zdecyduje o finansowaniu. NFZ proponuje nowe zasady dla szpitali - PolitykaZdrowotna.com",
@@ -207,7 +207,7 @@
       "date": "2026-08-21T06:20:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 2,
-      "summary": "NFZ ma zyskać około 2 mld zł dzięki zmianom podatkowym. Andrzej Domański wyjaśnia, skąd mają pochodzić dodatkowe środki na ochronę zdrowia."
+      "summary": "NFZ ma dostać 2 mld zł więcej. Minister finansów wskazuje źródło Alert Medyczny."
     },
     {
       "title": "Portugalia – smartfony zakazane w gimnazjach - Aktualności - Pediatria - Medycyna Praktyczna",
@@ -417,7 +417,7 @@
       "date": "2026-08-21T10:13:09Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Cotygodniowe zastrzyki z insuliną na cukrzycę typu 2 zatwierdzone przez NICE The BMJ."
+      "summary": "Nowe wytyczne mówią, że setki tysięcy pacjentów w Wielkiej Brytanii chorych na cukrzycę typu 2 mogłoby zamienić codzienne zastrzyki insuliny na nowy wstrzyknięcie raz w tygodniu. Narodowy Instytut Doskonałości Zdrowia i Opieki zalecił cotygodniowy zastrzyk insuliny efsitora alfa, znanej również jako Onswik i produkowanej przez firmę Eli Lilly, dorosłym chorym na cukrzycę typu 2.1 Takie posunięcie mogłoby zmniejszyć liczbę wszystkich wstrzyknięć potrzebnych tym pacjentom każdego roku o 86%. Zanim jednak będą mogli uzyskać do niego dostęp, pacjenci będą musieli poczekać do uzyskania pozwolenia na leczenie przez Agencję Regulacyjną ds. Leków i Produktów Opieki Zdrowotnej (MHRA)."
     },
     {
       "title": "Diagnostyka i leczenie ostrej hiperkaliemii – BMJ",
@@ -1397,7 +1397,7 @@
       "date": "2026-08-20T04:28:37Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Rysunek 1 . Krzywa epidemii przypadków infekcji Wickerhamomyces anomalus z komentarzem według tygodnia epidemiologicznego, Republika Południowej Afryki, 1 stycznia 2022 r. – 29 kwietnia 2024 r. Zwykle próbki pobierane w warunkach sterylnych to te pobierane z miejsc anatomicznych, co do których oczekuje się, że będą wolne od żywych mikroorganizmów."
+      "summary": "Wickerhamomyces anomalus Pseudo-epidemia związana z medycznym żelem smarującym, Republika Południowej Afryki, 2023–2024 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Plan reagowania kryzysowego i odporności w służbie zdrowia Malawi | Portal strategicznego partnerstwa na rzecz bezpieczeństwa zdrowia i gotowości na wypadek sytuacji kryzysowych (SPH) - Światowa Organizacja Zdrowia (WHO)",
@@ -1413,7 +1413,7 @@
       "date": "2026-08-20T03:26:53Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Rysunek 2 . Filogeneza SNP całego genomu Wickerhamomyces anomalus, izolaty kliniczne, żelowe, monitorowane i referencyjne, Republika Południowej Afryki. Czerwone pole wskazuje klaster 1; niebieskie pole wskazuje klaster 2."
+      "summary": "Wickerhamomyces anomalus Pseudo-epidemia związana z medycznym żelem smarującym, Republika Południowej Afryki, 2023–2024 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -2480,20 +2480,20 @@
   ],
   "daily_top5": [
     {
+      "title": "Cotygodniowe zastrzyki z insuliną w cukrzycy typu 2 zatwierdzone przez NICE – The BMJ",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100631",
+      "date": "2026-08-21T10:13:09Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Nowe wytyczne mówią, że setki tysięcy pacjentów w Wielkiej Brytanii chorych na cukrzycę typu 2 mogłoby zamienić codzienne zastrzyki insuliny na nowy wstrzyknięcie raz w tygodniu. Narodowy Instytut Doskonałości Zdrowia i Opieki zalecił cotygodniowy zastrzyk insuliny efsitora alfa, znanej również jako Onswik i produkowanej przez firmę Eli Lilly, dorosłym chorym na cukrzycę typu 2.1 Takie posunięcie mogłoby zmniejszyć liczbę wszystkich wstrzyknięć potrzebnych tym pacjentom każdego roku o 86%. Zanim jednak będą mogli uzyskać do niego dostęp, pacjenci będą musieli poczekać do uzyskania pozwolenia na leczenie przez Agencję Regulacyjną ds. Leków i Produktów Opieki Zdrowotnej (MHRA)."
+    },
+    {
       "title": "Zdrowy i bezpieczny powrót do szkoły - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/zdrowy-i-bezpieczny-powrot-do-szkoly,8660.html",
       "date": "2026-08-21T09:39:32Z",
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 5,
       "summary": "Wkrótce zadzwoni pierwszy dzwonek. Zaczynamy kompletować wyprawkę szkolną — czas na wybór tornistra, mebli i innych akcesoriów do pokoju dziecka. Pozornie proste wybory okazują się trudne."
-    },
-    {
-      "title": "Wspomagana ramieniem robota a konwencjonalna całkowita alloplastyka stawu kolanowego (RACER-Knee): pragmatyczne, wieloośrodkowe, randomizowane badanie kontrolowane z maską uczestników i oceniającego, zapewniające przewagę i przewagę - The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00986-4/fulltext",
-      "date": "2026-08-21T08:03:25Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Wspomagana ramieniem robota a konwencjonalna całkowita alloplastyka stawu kolanowego (RACER-Knee): pragmatyczne, wieloośrodkowe, z maską uczestników i oceniającego, randomizowane badanie kontrolowane o wyższości, z randomizacją The Lancet."
     },
     {
       "title": "Susza w Wielkiej Brytanii stanowi ostrzeżenie: zmiany klimatyczne stanowią zagrożenie dla żywności i zdrowia publicznego – BMJ",
