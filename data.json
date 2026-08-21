@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T11:32:52Z",
+  "last_updated": "2026-08-21T11:34:16Z",
   "poland": [
     {
       "title": "Polski akcent w UT Southwestern Medical Center w Dallas - Aktualności - Otolaryngologia - Medycyna Praktyczna",
@@ -238,7 +238,7 @@
       "url": "https://alertmedyczny.pl/nfz-ma-dostac-2-mld-zl-wiecej-minister-finansow-wskazuje-zrodlo/",
       "date": "2026-08-21T06:20:00Z",
       "source": "alertmedyczny.pl",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "NFZ ma zyskać około 2 mld zł dzięki zmianom podatkowym. Andrzej Domański wyjaśnia, skąd mają pochodzić dodatkowe środki na ochronę zdrowia."
     },
     {
@@ -484,7 +484,7 @@
       "summary": "Dtsch Ęrztebl Int - Informacje o publikacji Medscape."
     },
     {
-      "title": "Osłabienie okołowieńcowej tkanki tłuszczowej i nawrót migotania przedsionków po ablacji cewnikowej: przegląd systematyczny i metaanaliza - Cureus",
+      "title": "Okołowieńcowe osłabienie tkanki tłuszczowej i nawrót migotania przedsionków po ablacji cewnika: przegląd systematyczny i metaanaliza - Cureus",
       "url": "https://www.cureus.com/articles/496138-peri-coronary-adipose-tissue-attenuation-and-atrial-fibrillation-recurrence-after-catheter-ablation-a-systematic-review-and-meta-analysis",
       "date": "2026-08-21T03:14:18Z",
       "source": "Cochrane Library",
@@ -814,14 +814,6 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://myesc.escardio.org/ESCApplications",
-      "date": "2026-08-21T10:09:32Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
-    },
-    {
       "title": "Jak diagnostyka kliniczna pozwala uniknąć opóźnień w leczeniu endometriozy – streamlinefeed.co.ke",
       "url": "https://streamlinefeed.co.ke/news/clinical-diagnosis-can-begin-before-surgery",
       "date": "2026-08-21T07:09:54Z",
@@ -859,7 +851,7 @@
       "date": "2026-08-20T21:08:34Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Strona internetowa poradnika NICE."
+      "summary": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Poradnik NICE."
     },
     {
       "title": "Notatki | Dokumenty projektowe | Durwalumab z tremelimumabem i przeztętniczą chemoembolizacją z lenwatynibem lub bez niego w leczeniu miejscowo zaawansowanego raka wątrobowokomórkowego [ID6527] | Poradnik - strona internetowa NICE",
@@ -996,6 +988,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://myesc.escardio.org/ESCApplications",
+      "date": "2026-08-20T11:16:16Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Chemioterapia wysokodawkowa, a następnie ASCT poprawia przeżycie w porównaniu z konsolidacją niemieloablacyjną w pierwotnym chłoniaku OUN - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1504,6 +1504,14 @@
       "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
     },
     {
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-08-19T19:01:36Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia wirusa Ebola: Obecna sytuacja Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
       "title": "Portal strategicznego partnerstwa na rzecz bezpieczeństwa zdrowia i gotowości na wypadek sytuacji kryzysowych (SPH) | Budowanie silniejszych systemów opieki zdrowotnej w celu zapewnienia zrównoważonego bezpieczeństwa zdrowotnego – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://extranet.who.int/sph/node?field_jee_version_value=All&page=2855",
       "date": "2026-08-19T19:00:26Z",
@@ -1598,14 +1606,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Tło Choroby niezakaźne (NCD) i problemy zdrowia psychicznego pozostają jednymi z głównych przyczyn zachorowalności, śmiertelności i obciążeń ekonomicznych na całym świecie. Pomimo rosnącego zaangażowania politycznego postęp w leczeniu chorób niezakaźnych i zdrowia psychicznego w dalszym ciągu jest ograniczany przez niewystarczające finansowanie, słabą ochronę finansową oraz ograniczony dostęp do niedrogich leków i usług. Wykorzystując dynamikę pierwszego i drugiego dialogu z serii, które odbyły się odpowiednio w 2018 i 2024 r., Trzeci Międzynarodowy Dialog na temat zrównoważonego finansowania chorób niezakaźnych i zdrowia psychicznego skupi się na tym, jak kraje mogą przełożyć zobowiązania polityczne na praktyczne reformy w zakresie finansowania, zamówień publicznych, regulacji i świadczenia usług. Ten osobisty dialog, organizowany przez rząd Filipin we współpracy ze Światową Organizacją Zdrowia i Azjatyckim Bankiem Rozwoju, jest zwoływany w kluczowym momencie chwila."
-    },
-    {
-      "title": "Epidemia Salmonelli powiązana z Jalapeños – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/salmonella/outbreaks/javiana-08-26/index.html",
-      "date": "2026-08-19T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Epidemia Salmonelli powiązana z Centrami Kontroli i Zapobiegania Chorobom Jalapeños | CDC (.gov)."
     }
   ],
   "clinical_trials": [
@@ -1703,7 +1703,7 @@
       "date": "2026-08-20T15:31:49Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Zmieniający się krajobraz chorób zakaźnych u dzieci w amerykańskiej arenie badań klinicznych."
+      "summary": "Zmieniający się krajobraz chorób zakaźnych u dzieci na arenie badań klinicznych w USA."
     },
     {
       "title": "Niezależne, wolne od cenzury media na rzecz zdrowia i badań biomedycznych – Trialsitenews.com",
@@ -1762,7 +1762,7 @@
       "summary": "Szczegóły badania | NCT07772336 | Interwencja mitochondrialna na rzecz odporności u starszych osób dorosłych za pomocą koenzymu Q10 ClinicalTrials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07774481 | Badanie umiejętności związanych z lękiem – ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07774481 | Badanie umiejętności lękowych – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07774481",
       "date": "2026-08-20T04:42:10Z",
       "source": "ClinicalTrials.gov",
@@ -1991,7 +1991,7 @@
       "date": "2026-08-19T13:37:56Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Krótki opis ACT: Priorytety I fazy automatyzacji zaplecza, interpretacja danych na wczesnym etapie pod presją kapitału oraz stosowane badania kliniczne online dotyczące rozbudowy ekosystemu Syneos AI."
+      "summary": "Krótki opis ACT: Priorytety automatyzacji zaplecza w fazie I, interpretacja danych na wczesnym etapie pod presją kapitału oraz stosowane badania kliniczne online dotyczące rozbudowy ekosystemu Syneos AI."
     },
     {
       "title": "Abcuro pozyskuje 66 mln dolarów na wsparcie badań klinicznych ulviprubartu dla IBM – Clinical Trials Arena",
@@ -2233,7 +2233,7 @@
       "date": "2026-08-20T14:34:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Program pilotażowy TEMPO FDA dodał Limbic, Cadence i Dexcom, umożliwiając cyfrowym firmom z branży zdrowotnej pominięcie autoryzacji przed wprowadzeniem na rynek w zamian za przesyłanie danych po wprowadzeniu do obrotu do CMS."
+      "summary": "Pilotażowy program TEMPO FDA dodał Limbic, Cadence i Dexcom, umożliwiając cyfrowym firmom z branży zdrowotnej pominięcie autoryzacji przed wprowadzeniem na rynek w zamian za przesyłanie danych po wprowadzeniu do obrotu do CMS."
     },
     {
       "title": "Lilly współpracuje z Amplitude w zakresie szczepionek; Otsuka rezygnuje z próby psychodelicznej – Endpoints News",
@@ -2260,7 +2260,7 @@
       "summary": "WuXi Bio zbywa swoje udziały w Bestchrom, Cabaletta dodaje ElevateBio wraz z Lonzą w celu rese-cel, a SK pharmteco rozbudowuje swój kampus w Swords w Irlandii."
     },
     {
-      "title": "Rozwój sztucznej inteligencji firmy Epic pokrywa się ze start-upami z branży technologii medycznych — Wiadomości dotyczące punktów końcowych",
+      "title": "Działania AI firmy Epic pokrywają się ze start-upami z branży technologii medycznych — Wiadomości dotyczące punktów końcowych",
       "url": "https://endpoints.news/epics-ai-push-to-overlap-with-health-tech-startups-at-annual-meeting/",
       "date": "2026-08-20T13:16:00Z",
       "source": "Endpoints News",
@@ -2356,7 +2356,7 @@
       "summary": "Firma Boehringer Ingelheim kontynuowała swój wzrost w rankingach firm zajmujących się chorobami rzadkimi grup pacjentów, uzupełniając ubiegłoroczne zyski i ugruntowując swoją pozycję na szczycie rankingów. | Firma Boehringer Ingelheim kontynuowała swój wzrost w rankingach firm zajmujących się chorobami rzadkimi grup pacjentów, uzupełniając ubiegłoroczne zyski i ugruntowując swoją pozycję na szczycie rankingów. Niemieckiemu producentowi leków nie udało się jednak przebić pierwszej trójki pełnego stołu, w którym ponownie zajęły te same trzy firmy."
     },
     {
-      "title": "7 transakcji fuzji i przejęć w firmie Biopharma, po których nastąpiły zwolnienia - BioSpace",
+      "title": "7 transakcji fuzji i przejęć w biofarmie, po których nastąpiły zwolnienia - BioSpace",
       "url": "https://www.biospace.com/job-trends/7-biopharma-m-a-deals-where-layoffs-followed",
       "date": "2026-08-20T07:03:28Z",
       "source": "BioSpace",
@@ -2446,20 +2446,20 @@
       "summary": "W zeszłym tygodniu rząd Demokratycznej Republiki Konga (DRK) zwrócił się o zwolnienie szczepionek Ervebo z globalnych zapasów szczepionek przeciwko wirusowi Ebola, zarządzanych przez Międzynarodową Grupę Koordynacyjną ds. Dostarczania Szczepionek (ICG). Wniosek dotyczył zastosowania szczepionki w związku z obecną epidemią choroby wirusowej Bundibugyo."
     },
     {
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-08-19T19:01:36Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia wirusa Ebola: Obecna sytuacja Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
       "title": "Szybkie ujęcia: nominacja na dyrektora FDA, liczba przypadków wirusa Ebola osiągnęła 5000, epidemia Cyclospory zwalnia, ale liczba przypadków przekracza 15 000 – CIDRAP",
       "url": "https://www.cidrap.umn.edu/public-health/quick-takes-nominee-fda-director-ebola-cases-hit-5000-cyclospora-outbreak-slows-cases",
       "date": "2026-08-19T17:55:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Trump mianował Heidi Overton, lekarkę i doradcę ds. polityki, następną komisarz Agencji ds. Żywności i Leków."
-    },
-    {
-      "title": "Epidemia Salmonelli powiązana z Jalapeños – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/salmonella/outbreaks/javiana-08-26/index.html",
-      "date": "2026-08-19T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Epidemia Salmonelli powiązana z Centrami Kontroli i Zapobiegania Chorobom Jalapeños | CDC (.gov)."
     }
   ],
   "daily_top5": [
@@ -2488,12 +2488,12 @@
       "summary": "Wspomagana ramieniem robota a konwencjonalna całkowita alloplastyka stawu kolanowego (RACER-Knee): pragmatyczne, wieloośrodkowe, z maską uczestników i oceniającego, randomizowane badanie kontrolowane o wyższości, z randomizacją The Lancet."
     },
     {
-      "title": "NFZ ma dostać 2 mld zł więcej. Minister finansów wskazuje źródło - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/nfz-ma-dostac-2-mld-zl-wiecej-minister-finansow-wskazuje-zrodlo/",
-      "date": "2026-08-21T06:20:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 3,
-      "summary": "NFZ ma zyskać około 2 mld zł dzięki zmianom podatkowym. Andrzej Domański wyjaśnia, skąd mają pochodzić dodatkowe środki na ochronę zdrowia."
+      "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+7001+0763+%28FORTRESS%29+motif+pintu+motif+kayu+Kotabumi+Utara+Kabupaten+Lampung+Utara+Lampung",
+      "date": "2026-08-21T06:17:16Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "Susza w Wielkiej Brytanii stanowi ostrzeżenie: zmiany klimatyczne stanowią zagrożenie dla żywności i zdrowia publicznego – BMJ",
