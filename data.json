@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T16:10:12Z",
+  "last_updated": "2026-08-21T16:11:04Z",
   "poland": [
     {
       "title": "Leki na nadciśnienie pod lupą. Badanie wskazuje na ryzyko dla nerek - PolitykaZdrowotna.com",
@@ -22,7 +22,7 @@
       "url": "https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/zdrowy-i-bezpieczny-powrot-do-szkoly,8660.html",
       "date": "2026-08-21T14:49:45Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 4,
+      "confirmed_by": 1,
       "summary": "Wkrótce zadzwoni pierwszy dzwonek. Zastanawiasz się, jak dobrać odpowiedni plecak i stworzyć miejsce do nauki? Przeczytaj nasz Poradnik Pacjenta NFZ i zapewnij swojemu dziecku zdrowy start w nowy rok szkolny."
     },
     {
@@ -465,7 +465,7 @@
       "date": "2026-08-21T12:40:50Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Łączenie czarnej skrzynki: sztuczna inteligencja w opiece doraźnej wymaga większej możliwości interpretacji i precyzji BMJ Health & Care Informatics."
+      "summary": "Zastosowanie uczenia maszynowego w opiece doraźnej odchodzi od teorii do rzeczywistych warunków klinicznych. Dwa ostatnie badania opublikowane w BMJ Health and Care Informatics omawiają tę kwestię i obejmują dwa ważne tematy, które skupiały się na wczesnej segregacji pacjentów z podejrzeniem ostrego zespołu wieńcowego i przepływie pacjentów na oddziałach ratunkowych (ED) z wykorzystaniem przewidywania długości pobytu."
     },
     {
       "title": "Czy wcześniejsze leczenie biologiczne wpływa na trwałość anty-TNF w IBD? - Medyczny",
@@ -473,7 +473,7 @@
       "date": "2026-08-21T12:00:41Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Terapia anty-TNF drugiej linii po lekach biologicznych o innym mechanizmie działania wiąże się z mniejszą trwałością nieswoistego zapalenia jelit, szczególnie u pacjentów z wrzodziejącym zapaleniem jelita grubego."
+      "summary": "Terapia anty-TNF drugiej linii po lekach biologicznych o innym mechanizmie działania wiąże się z mniejszą trwałością nieswoistego zapalenia jelit, zwłaszcza u pacjentów z wrzodziejącym zapaleniem jelita grubego."
     },
     {
       "title": "Rozregulowana neurogeneza hipokampa u dorosłych w dużych zaburzeniach depresyjnych - Natura",
@@ -505,7 +505,7 @@
       "date": "2026-08-21T10:13:09Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Cotygodniowe zastrzyki z insuliną na cukrzycę typu 2 zatwierdzone przez NICE The BMJ."
+      "summary": "Nowe wytyczne mówią, że setki tysięcy pacjentów w Wielkiej Brytanii chorych na cukrzycę typu 2 mogłoby zamienić codzienne zastrzyki insuliny na nowy wstrzyknięcie raz w tygodniu. Narodowy Instytut Doskonałości Zdrowia i Opieki zalecił cotygodniowy zastrzyk insuliny efsitora alfa, znanej również jako Onswik i produkowanej przez firmę Eli Lilly, dorosłym chorym na cukrzycę typu 2.1 Takie posunięcie mogłoby zmniejszyć liczbę wszystkich wstrzyknięć potrzebnych tym pacjentom każdego roku o 86%. Zanim jednak będą mogli uzyskać do niego dostęp, pacjenci będą musieli poczekać do uzyskania pozwolenia na leczenie przez Agencję Regulacyjną ds. Leków i Produktów Opieki Zdrowotnej (MHRA)."
     },
     {
       "title": "Diagnostyka i leczenie ostrej hiperkaliemii – BMJ",
@@ -513,7 +513,7 @@
       "date": "2026-08-21T10:11:48Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Diagnostyka i leczenie ostrej hiperkaliemii BMJ."
+      "summary": "Hiperkaliemia jest częstym i potencjalnie zagrażającym życiu zaburzeniem elektrolitowym ze względu na jego związek ze złośliwymi zaburzeniami rytmu serca i nagłym zatrzymaniem krążenia. Schorzenie to często występuje w placówkach opieki doraźnej i przewlekłej i nieproporcjonalnie dotyka pacjentów z chorobami współistniejącymi, takimi jak przewlekła choroba nerek, niewydolność serca, cukrzyca oraz pacjentów otrzymujących leki zaburzające wydalanie potasu przez nerki. Do najczęstszych przyczyn hiperkaliemii zalicza się upośledzenie wydalania potasu przez nerki wynikające z przewlekłej choroby nerek lub farmakologicznego hamowania układu renina-angiotensyna-aldosteron oraz przezkomórkowe przesunięcia potasu wynikające z kwasicy metabolicznej, rozpadu tkanek, niedoboru insuliny lub stanów hipertonicznych."
     },
     {
       "title": "Ścienienie siatkówki przewiduje pogorszenie funkcji poznawczych w stwardnieniu rozsianym - Medscape",
@@ -524,20 +524,20 @@
       "summary": "Ścienienie określonych warstw siatkówki przewiduje pogorszenie funkcji poznawczych u pacjentów ze stwardnieniem rozsianym, nawet bez nawrotów choroby, co sugeruje, że oko może ujawnić ukrytą neurodegenerację."
     },
     {
-      "title": "Wystawienie na próbę zegarów starzenia epigenetycznego – Natura",
-      "url": "https://www.nature.com/articles/s41591-026-04524-1",
-      "date": "2026-08-21T09:07:19Z",
-      "source": "Nature Medicine",
-      "confirmed_by": 1,
-      "summary": "Nowe badanie stanowi pierwszy systematyczny test sprawdzający, czy zegary metylacji DNA zachowują się tak, jak powinien zachowywać się zastępczy punkt końcowy starzenia, reagując na rzeczywiste korzyści kliniczne i pozostając stabilne, gdy ich nie ma."
-    },
-    {
       "title": "Próby przełożenia leczenia psilocybiną z badań na praktykę - Natura",
       "url": "https://www.nature.com/articles/s41591-026-04597-y",
       "date": "2026-08-21T09:07:19Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Badanie wykonalności polegające na zapewnieniu terapii wspomaganej psilocybiną w przypadku depresji opornej na leczenie w brytyjskiej służbie zdrowia donosi, że zachęca do przestrzegania zaleceń i bezpieczeństwa – otwiera przyszłe pytania o to, do kogo się dociera, gdzie odbywa się leczenie i jakie standardy będą potrzebne do jego utrzymania."
+    },
+    {
+      "title": "Wystawienie na próbę zegarów starzenia epigenetycznego – Natura",
+      "url": "https://www.nature.com/articles/s41591-026-04524-1",
+      "date": "2026-08-21T09:07:19Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Nowe badanie stanowi pierwszy systematyczny test sprawdzający, czy zegary metylacji DNA zachowują się tak, jak powinien zachowywać się zastępczy punkt końcowy starzenia, reagując na rzeczywiste korzyści kliniczne i pozostając stabilne, gdy ich nie ma."
     },
     {
       "title": "Tylko u 20% młodych dorosłych nie występują czynniki ryzyka CKM – Medscape",
@@ -1293,7 +1293,7 @@
       "date": "2026-08-20T18:52:14Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Ta trzyczęściowa seria oferuje relaksującą i interaktywną przestrzeń, w której można bezpośrednio kontaktować się z doświadczonymi praktykami One Health, słuchać ich osobistych podróży i zadawać pytania w otwartym dialogu."
+      "summary": "Ta trzyczęściowa seria oferuje relaksującą i interaktywną przestrzeń, w której można bezpośrednio nawiązać kontakt z doświadczonymi praktykami One Health, wysłuchać ich osobistych podróży i zadawać pytania w otwartym dialogu."
     },
     {
       "title": "Rząd Malawi – Ministerstwo Zdrowia | Portal strategicznego partnerstwa na rzecz bezpieczeństwa zdrowia i gotowości na wypadek sytuacji kryzysowych (SPH) - Światowa Organizacja Zdrowia (WHO)",
@@ -1397,7 +1397,7 @@
       "date": "2026-08-20T14:20:00Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "W Europie występują dłuższe i intensywniejsze sezony przenoszenia chorób przenoszonych przez komary, w tym zakażenia wirusem Zachodniego Nilu (WNV), a także chorób wywołanych wirusami dengi i chikungunya. Zmiany te zwiększają potrzebę stałego nadzoru komarów i terminowych, skutecznych środków kontroli, ale możliwości i organizacja różnią się w poszczególnych krajach."
+      "summary": "W Europie występują dłuższe i intensywniejsze sezony przenoszenia chorób przenoszonych przez komary, w tym zakażenia wirusem Zachodniego Nilu (WNV), a także chorób wywołanych wirusami dengi i chikungunya. Zmiany te zwiększają potrzebę stałego nadzoru komarów i terminowych, skutecznych środków kontroli, ale możliwości i organizacja różnią się w zależności od kraju."
     },
     {
       "title": "Szczepienie matki przeciwko wirusowi RSV wysoce skuteczne w zapobieganiu hospitalizacji niemowląt – CIDRAP",
@@ -1405,7 +1405,7 @@
       "date": "2026-08-20T13:36:38Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Według nowego badania przeprowadzonego w Australii, szczepienie przeciwko syncytialnemu wirusowi oddechowemu (RSV) podczas ciąży jest bardzo skuteczne w zapobieganiu hospitalizacji związanej z RSV u niemowląt w wieku do 6 miesięcy i młodszych, a ochrona jest najsilniejsza w pierwszych miesiącach życia."
+      "summary": "Jak wynika z nowego badania przeprowadzonego w Australii, szczepienie przeciwko syncytialnemu wirusowi oddechowemu (RSV) podczas ciąży jest bardzo skuteczne w zapobieganiu hospitalizacji związanej z zakażeniem RSV u niemowląt w wieku do 6 miesięcy i młodszych, a ochrona jest najsilniejsza w pierwszych miesiącach życia."
     },
     {
       "title": "Aktualizacja epidemiologiczna – 11 sierpnia 2026 r.: Importowany przypadek hantawirusa Andów do UE/EOG – Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
@@ -2012,6 +2012,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Doustny tracker GLP-1: pigułka Wegovy firmy Novo wraca na właściwe tory, a dynamika Lilly zwalnia – Fierce Pharma",
+      "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+      "date": "2026-08-21T16:09:06Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Wraz z niedawnym wprowadzeniem na rynek pigułki Wegovy firmy Novo Nordisk i Foundayo firmy Eli Lilly, rynek leczenia otyłości zaczął przesuwać się w stronę doustnych leków GLP-1. | Fierce Pharma wprowadza na rynek cotygodniowy Oral GLP-1 Tracker, wykorzystując notatki analityków i dane IQVIA do monitorowania trendów w zakresie recept i zmian udziałów w rynku, w miarę jak pigułka Wegovy firmy Novo Nordisk i Foundayo firmy Eli Lilly rywalizują o miano popularnego doustnego rozwiązania odchudzającego dla milionów."
+    },
+    {
       "title": "Kanada w sprawie wykorzystania sztucznej inteligencji do generowania RWE na potrzeby HTA: zadeklaruj to, uzasadnij, zweryfikuj - spostrzeżenia.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/advanced-technologies/ai/canada-on-using-ai-to-generate-rwe-for-htas-declare-it-justify-it-validate-it-RJW2DTQDDVGFJD33YD5RURAMNQ/",
       "date": "2026-08-21T15:59:19Z",
@@ -2273,7 +2281,7 @@
       "date": "2026-08-20T17:55:04Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Laserowa śródmiąższowa termoterapia (LITT) jest obiecująca dla pacjentów z pierwotnymi i przerzutowymi guzami mózgu, przy krótkich pobytach w szpitalu i zachowaniu jakości."
+      "summary": "Laserowa śródmiąższowa terapia termiczna korzystna w przypadku guzów mózgu Drugs.com."
     },
     {
       "title": "Czas przyjęcia na oddział ratunkowy różni się znacznie w zależności od szpitala – Drugs.com",
@@ -2321,7 +2329,7 @@
       "date": "2026-08-20T15:43:32Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Likwidacja Genglikosu w związku z rzadką chorobą spichrzania glikogenu daje Ultragenyx voucher do sprzedaży i dynamikę przed niecierpliwie oczekiwanym odczytem badania."
+      "summary": "Likwidacja Genglikosu w związku z rzadką chorobą spichrzania glikogenu daje Ultragenyxowi voucher do sprzedaży i dynamikę przed niecierpliwie oczekiwanym odczytem badania."
     },
     {
       "title": "Aurinia zawarła porozumienie z Teva, pomagając powstrzymać potencjalny lek generyczny Lupkynis do końca 2036 r. - Fierce Pharma",
@@ -2369,7 +2377,7 @@
       "date": "2026-08-20T14:34:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Pilotażowy program TEMPO FDA dodał Limbic, Cadence i Dexcom, umożliwiając cyfrowym firmom z branży zdrowotnej pominięcie autoryzacji przed wprowadzeniem na rynek w zamian za przesyłanie danych po wprowadzeniu do obrotu do CMS."
+      "summary": "Program pilotażowy TEMPO FDA dodał Limbic, Cadence i Dexcom, umożliwiając cyfrowym firmom z branży zdrowotnej pominięcie autoryzacji przed wprowadzeniem na rynek w zamian za przesyłanie danych po wprowadzeniu do obrotu do CMS."
     },
     {
       "title": "Lilly współpracuje z Amplitude w zakresie szczepionek; Otsuka rezygnuje z próby psychodelicznej – Endpoints News",
@@ -2402,14 +2410,6 @@
       "source": "BioSpace",
       "confirmed_by": 1,
       "summary": "Pacjenci zgłaszali ogólnie o około 58% mniejszy dyskomfort w oku leczonym IHEEZO, przy czym największe bezwzględne różnice obserwowano bezpośrednio po wstrzyknięciu, kiedy dyskomfort był największy."
-    },
-    {
-      "title": "WuXi Bio do odciążenia jednostki chromatograficznej; Cabaletta wyznacza kolejnego partnera CDMO – Endpoints News",
-      "url": "https://endpoints.news/wuxi-bio-to-offload-chromatography-unit-cabaletta-names-another-cdmo-partner/",
-      "date": "2026-08-20T13:23:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "WuXi Bio zbywa swoje udziały w Bestchrom, Cabaletta dodaje ElevateBio wraz z Lonzą w celu rese-cel, a SK pharmteco rozbudowuje swój kampus w Swords w Irlandii."
     }
   ],
   "critical_alerts": [
@@ -2504,12 +2504,12 @@
       "summary": "Baza danych obrazkowych ostrzeżeń zdrowotnych Światowej Organizacji Zdrowia."
     },
     {
-      "title": "Palenie zmniejsza płodność /2 - Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/tools/pictorial-health-warnings-on-tobacco-products/item/tobacco-image-database/smoking-reduces-fertility--2",
-      "date": "2026-08-21T15:09:50Z",
-      "source": "WHO Disease Outbreak News",
+      "title": "Cotygodniowe zastrzyki z insuliną w cukrzycy typu 2 zatwierdzone przez NICE – The BMJ",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100631",
+      "date": "2026-08-21T10:13:09Z",
+      "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Baza danych obrazkowych ostrzeżeń zdrowotnych Światowej Organizacji Zdrowia."
+      "summary": "Nowe wytyczne mówią, że setki tysięcy pacjentów w Wielkiej Brytanii chorych na cukrzycę typu 2 mogłoby zamienić codzienne zastrzyki insuliny na nowy wstrzyknięcie raz w tygodniu. Narodowy Instytut Doskonałości Zdrowia i Opieki zalecił cotygodniowy zastrzyk insuliny efsitora alfa, znanej również jako Onswik i produkowanej przez firmę Eli Lilly, dorosłym chorym na cukrzycę typu 2.1 Takie posunięcie mogłoby zmniejszyć liczbę wszystkich wstrzyknięć potrzebnych tym pacjentom każdego roku o 86%. Zanim jednak będą mogli uzyskać do niego dostęp, pacjenci będą musieli poczekać do uzyskania pozwolenia na leczenie przez Agencję Regulacyjną ds. Leków i Produktów Opieki Zdrowotnej (MHRA)."
     },
     {
       "title": "FDA publikuje nowe wytyczne dotyczące konkretnych produktów, mające ułatwić opracowywanie leków generycznych - fda.gov",
