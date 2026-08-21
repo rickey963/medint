@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T13:17:00Z",
+  "last_updated": "2026-08-21T13:17:57Z",
   "poland": [
     {
       "title": "Ochrona zdrowia priorytetem budżetu. 17 mld zł więcej i 1,5 mld zł na bezpieczeństwo medyczne - PolitykaZdrowotna.com",
@@ -409,7 +409,7 @@
       "date": "2026-08-21T12:40:50Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Łączenie czarnej skrzynki: sztuczna inteligencja w opiece doraźnej wymaga większej możliwości interpretacji i precyzji BMJ Health & Care Informatics."
+      "summary": "Zastosowanie uczenia maszynowego w opiece doraźnej odchodzi od teorii do rzeczywistych warunków klinicznych. Dwa ostatnie badania opublikowane w BMJ Health and Care Informatics omawiają tę kwestię i obejmują dwa ważne tematy, które skupiały się na wczesnej segregacji pacjentów z podejrzeniem ostrego zespołu wieńcowego i przepływie pacjentów na oddziałach ratunkowych (ED) z wykorzystaniem przewidywania długości pobytu."
     },
     {
       "title": "Czy wcześniejsze leczenie biologiczne wpływa na trwałość anty-TNF w IBD? - Medyczny",
@@ -530,6 +530,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Światowa Organizacja Zdrowia (WHO) Indonezja pragnie zaprosić Państwa do złożenia propozycji wsparcia technicznego IT (outsourcing) o numerze RFP 058-2026. Dalsze szczegóły dotyczące niezbędnych wymagań można znaleźć w załączonej dokumentacji przetargowej. Odpowiednie ogłoszenie o przetargu dla niniejszego zapytania ofertowego jest również opublikowane w zawiadomieniu o zamówieniu WHO. Jeśli chcą Państwo wziąć udział w niniejszym zapytaniu ofertowym, prosimy o przesłanie ofert technicznych i finansowych w oddzielnych plikach na następujący adres e-mail: wpinobids@who.int, podając numer referencyjny zapytania ofertowego w wierszu tematu."
+    },
+    {
+      "title": "Tom 408 Numer 10556 s. 667-760 – The Lancet",
+      "url": "https://www.thelancet.com/issue/S0140-6736(26)X2031-1",
+      "date": "2026-08-21T02:03:58Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Tom 408 Numer 10556 s. 667-760 The Lancet."
     },
     {
       "title": "Zaufanie do szczepionek i sztucznej inteligencji można zdobyć tylko na podstawie dowodów – BMJ",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Dwie grupy badały te same mutacje nowotworowe we krwi. Zgodzili się w wielu aspektach, w tym w działaniu mechanizmu. Ale ich odpowiedzi były radykalnie różne."
-    },
-    {
-      "title": "Gwałtowny wzrost wskaźników rezygnacji z recepty na buprenorfinę – Medscape",
-      "url": "https://www.medscape.com/viewarticle/buprenorphine-prescription-abandonment-rates-surge-2026a1000szm?src=rss",
-      "date": "2026-08-20T12:25:39Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Nowe badanie pokazuje, że w latach 2020–2024 w USA odsetek osób niestosujących się do zaleceń buprenorfiny po pierwszym napełnieniu z powodu zaburzeń związanych z używaniem opioidów wzrósł niemal dwukrotnie w latach 2020–2024."
     }
   ],
   "guidelines": [
@@ -875,7 +875,7 @@
       "date": "2026-08-21T09:00:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Młodzież może otrzymać diagnostykę kliniczną i leczenie streamlinefeed.co.ke."
+      "summary": "Nastolatki cierpiące na uniemożliwiający ból miesiączkowy mogą uzyskać kliniczną diagnozę endometriozy i rozpocząć leczenie przed jakąkolwiek operacją, pod kierunkiem ACOG i ESHRE."
     },
     {
       "title": "Jak diagnostyka kliniczna pozwala uniknąć opóźnień w leczeniu endometriozy – streamlinefeed.co.ke",
@@ -883,7 +883,7 @@
       "date": "2026-08-21T07:09:54Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Jak diagnostyka kliniczna omija opóźnienia w leczeniu endometriozy streamlinefeed.co.ke."
+      "summary": "Wytyczne ACOG z 2026 r. wyznaczają zmianę paradygmatu, zezwalając klinicystom na domniemane diagnozowanie i leczenie endometriozy bez obowiązkowej laparoskopii."
     },
     {
       "title": "ACOG zmienia zasady dotyczące endometriozy: dlaczego nastolatki nie potrzebują już operacji w celu postawienia diagnozy - streamlinefeed.co.ke",
@@ -931,7 +931,7 @@
       "date": "2026-08-20T21:08:34Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Poradnik NICE."
+      "summary": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Strona internetowa poradnika NICE."
     },
     {
       "title": "Notatki | Dokumenty projektowe | Durwalumab z tremelimumabem i przeztętniczą chemoembolizacją z lenwatynibem lub bez niego w leczeniu miejscowo zaawansowanego raka wątrobowokomórkowego [ID6527] | Poradnik - strona internetowa NICE",
@@ -1349,7 +1349,7 @@
       "date": "2026-08-20T15:26:40Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Każdy przypadek odry podczas epidemii w USA w 2025 r. – największy od czasu wyeliminowania choroby z kraju w 2000 r. – kosztował 43 200 dolarów, a po uwzględnieniu działań związanych ze zdrowiem publicznym szacuje się, że badacze Johnsa Hopkinsa w Vaccine ."
+      "summary": "Według szacunków badania każdy przypadek odry w 2025 r. w USA kosztował prawie 60 000 dolarów, czyli łącznie 134 miliony dolarów CIDRAP."
     },
     {
       "title": "Uwagi wstępne Dyrektora Generalnego WHO na 5. posiedzeniu Regionalnego Ministerialnego Komitetu Sterującego (ReSCO) dla Afryki Południowej – 20 sierpnia 2026 r. – Światowa Organizacja Zdrowia (WHO)",
@@ -1437,7 +1437,7 @@
       "date": "2026-08-20T04:28:37Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Rysunek 1 . Krzywa epidemii przypadków infekcji Wickerhamomyces anomalus z komentarzem według tygodnia epidemiologicznego, Republika Południowej Afryki, 1 stycznia 2022 r. – 29 kwietnia 2024 r. Zwykle próbki pobierane w warunkach sterylnych to te pobierane z miejsc anatomicznych, co do których oczekuje się, że będą wolne od żywych mikroorganizmów."
+      "summary": "Wickerhamomyces anomalus Pseudo-epidemia związana z medycznym żelem smarującym, Republika Południowej Afryki, 2023–2024 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Plan reagowania kryzysowego i odporności w służbie zdrowia Malawi | Portal strategicznego partnerstwa na rzecz bezpieczeństwa zdrowia i gotowości na wypadek sytuacji kryzysowych (SPH) - Światowa Organizacja Zdrowia (WHO)",
@@ -1557,7 +1557,7 @@
       "date": "2026-08-19T17:55:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Trump mianował Heidi Overton, lekarkę i doradcę ds. polityki, następną komisarz Agencji ds. Żywności i Leków."
+      "summary": "Szybkie ujęcia: nominacja na dyrektora FDA, liczba przypadków wirusa Ebola osiągnęła 5000, epidemia Cyclospory zwalnia, ale liczba przypadków przekracza 15 000 CIDRAP."
     },
     {
       "title": "Antigua i Barbuda – Światowa Organizacja Zdrowia (WHO)",
@@ -2467,7 +2467,7 @@
       "date": "2026-08-19T17:55:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Trump mianował Heidi Overton, lekarkę i doradcę ds. polityki, następną komisarz Agencji ds. Żywności i Leków."
+      "summary": "Szybkie ujęcia: nominacja na dyrektora FDA, liczba przypadków wirusa Ebola osiągnęła 5000, epidemia Cyclospory zwalnia, ale liczba przypadków przekracza 15 000 CIDRAP."
     }
   ],
   "daily_top5": [
