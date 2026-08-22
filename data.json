@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T09:41:55Z",
+  "last_updated": "2026-08-22T09:42:43Z",
   "poland": [
     {
       "title": "Skuteczność szczepionki można przewidzieć przed szczepieniem? Pomóc może analiza przeciwciał i AI - PolitykaZdrowotna.com",
@@ -850,7 +850,7 @@
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-32.html",
       "date": "2026-08-21T17:17:48Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 32. kończący się 15 sierpnia 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
@@ -1074,7 +1074,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a3.htm",
       "date": "2026-08-20T17:01:47Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Wskaźniki zgonów spowodowanych alkoholem Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1488,6 +1488,14 @@
       "summary": "Baza danych obrazkowych ostrzeżeń zdrowotnych Światowej Organizacji Zdrowia."
     },
     {
+      "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+7001+0763+%28FORTRESS%29+pintu+kamar+keren+Tirto+Kabupaten+Pekalongan+Jawa+Tengah",
+      "date": "2026-08-21T02:59:52Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
+    },
+    {
       "title": "Społeczne zrozumienie nadzoru nad ściekami, Stany Zjednoczone, sierpień 2025 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0559",
       "date": "2026-08-20T22:55:29Z",
@@ -1598,14 +1606,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Skażona papryka była uprawiana w Meksyku i dystrybuowana przez dystrybutorów Coast Citrus."
-    },
-    {
-      "title": "Pojawienie się wirusa Oropouche, Wenezuela, 2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/25-0678_article",
-      "date": "2026-08-20T15:40:08Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Pojawienie się wirusa Oropouche, Wenezuela,"
     }
   ],
   "clinical_trials": [
@@ -1858,20 +1858,20 @@
       "summary": "ACT Brief: Należyta staranność w zakresie architektury sztucznej inteligencji i własności modelu, Ramy FDA dotyczące urządzeń medycznych generujących sztuczną inteligencję oraz Heidi Overton nominowana do stosowanych przez komisarza FDA badań klinicznych online."
     },
     {
-      "title": "Reformy brytyjskiego sektora badań klinicznych wykazują oznaki sukcesu – Clinical Trials Arena",
-      "url": "https://www.clinicaltrialsarena.com/news/reforms-to-uk-clinical-trial-sector-showing-signs-of-success/",
-      "date": "2026-08-20T11:01:11Z",
-      "source": "Clinical Trials Arena",
-      "confirmed_by": 1,
-      "summary": "Reformy brytyjskiego sektora badań klinicznych wykazują oznaki powodzenia. Arena Badań Klinicznych."
-    },
-    {
       "title": "Brytyjska MHRA udziela zgody na badanie fazy III firmy Scancell dotyczące iSCIB1+ – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/uk-mhra-approval-scancells-iscib1-study/",
       "date": "2026-08-20T11:01:11Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Brytyjska MHRA udziela zgody na badanie fazy III firmy Scancell dotyczące iSCIB1+ Clinical Trials Arena."
+    },
+    {
+      "title": "Reformy brytyjskiego sektora badań klinicznych wykazują oznaki sukcesu – Clinical Trials Arena",
+      "url": "https://www.clinicaltrialsarena.com/news/reforms-to-uk-clinical-trial-sector-showing-signs-of-success/",
+      "date": "2026-08-20T11:01:11Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Reformy brytyjskiego sektora badań klinicznych wykazują oznaki powodzenia. Arena Badań Klinicznych."
     },
     {
       "title": "Niezależne, wolne od cenzury media na rzecz zdrowia i badań biomedycznych – Trialsitenews.com",
