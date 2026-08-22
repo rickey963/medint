@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T01:02:49Z",
+  "last_updated": "2026-08-22T01:03:40Z",
   "poland": [
     {
       "title": "Rak piersi może „werbować” komórki z kości. Pomagają guzowi rosnąć - Alert Medyczny",
@@ -318,7 +318,7 @@
       "url": "https://alertmedyczny.pl/tusk-zapowiada-17-mld-zl-wiecej-na-ochrone-zdrowia-w-2027-roku/",
       "date": "2026-08-21T11:06:00Z",
       "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Donald Tusk zapowiada, że w 2027 r. wydatki z budżetu na ochronę zdrowia wzrosną o 17 mld zł. Projekt budżetu rząd ma przyjąć 28 sierpnia."
     },
     {
@@ -476,7 +476,7 @@
       "summary": "Baza danych obrazkowych ostrzeżeń zdrowotnych Światowej Organizacji Zdrowia."
     },
     {
-      "title": "Selektywne wybielanie tętnic siatkówki w przebiegu hamartoma astrocytarnego siatkówki w stwardnieniu guzowatym - BMJ Case Reports",
+      "title": "Selektywne wybielanie tętnic siatkówki w przebiegu hamartoma astrocytowego siatkówki w stwardnieniu guzowatym - BMJ Case Reports",
       "url": "https://casereports.bmj.com/content/19/8/e274414",
       "date": "2026-08-21T15:13:49Z",
       "source": "The BMJ",
@@ -561,7 +561,7 @@
       "date": "2026-08-21T12:00:41Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Terapia anty-TNF drugiej linii po lekach biologicznych o innym mechanizmie działania wiąże się z mniejszą trwałością nieswoistego zapalenia jelit, zwłaszcza u pacjentów z wrzodziejącym zapaleniem jelita grubego."
+      "summary": "Terapia anty-TNF drugiej linii po lekach biologicznych o innym mechanizmie działania wiąże się z mniejszą trwałością nieswoistego zapalenia jelit, szczególnie u pacjentów z wrzodziejącym zapaleniem jelita grubego."
     },
     {
       "title": "Coraz popularniejsza jest terapia falami uderzeniowymi w leczeniu zaburzeń erekcji – Science News",
@@ -806,6 +806,14 @@
   ],
   "guidelines": [
     {
+      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://myesc.escardio.org/ESCApplications",
+      "date": "2026-08-22T00:11:42Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
+    },
+    {
       "title": "Formy lecznicze | Szczepionka na półpasiec | Narkotyki – BNF",
       "url": "https://bnf.nice.org.uk/drugs/herpes-zoster-vaccine/medicinal-forms/",
       "date": "2026-08-21T19:24:56Z",
@@ -916,14 +924,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://myesc.escardio.org/ESCApplications",
-      "date": "2026-08-21T10:09:32Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Młodzież może otrzymać diagnostykę kliniczną i leczenie – streamlinefeed.co.ke",
@@ -1046,20 +1046,20 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Nadzór nad wirusem ospy małpiej – Stany Zjednoczone, 2024–2025 – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a1.htm",
-      "date": "2026-08-20T17:01:47Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
-      "summary": "Nadzór nad wirusem ospy małpiej – Stany Zjednoczone, 2024–2025 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
       "title": "Wskaźniki zgonów spowodowanych alkoholem — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a3.htm",
       "date": "2026-08-20T17:01:47Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 5,
       "summary": "Wskaźniki zgonów spowodowanych alkoholem Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Nadzór nad wirusem ospy małpiej – Stany Zjednoczone, 2024–2025 – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a1.htm",
+      "date": "2026-08-20T17:01:47Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Nadzór nad wirusem ospy małpiej – Stany Zjednoczone, 2024–2025 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Notatki terenowe: Epidemia dengi – Naoero, 2025 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1461,7 +1461,7 @@
       "date": "2026-08-20T18:52:14Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Ta trzyczęściowa seria oferuje relaksującą i interaktywną przestrzeń, w której można bezpośrednio nawiązać kontakt z doświadczonymi praktykami One Health, wysłuchać ich osobistych podróży i zadawać pytania w otwartym dialogu."
+      "summary": "Ta trzyczęściowa seria oferuje relaksującą i interaktywną przestrzeń, w której można bezpośrednio kontaktować się z doświadczonymi praktykami One Health, słuchać ich osobistych podróży i zadawać pytania w otwartym dialogu."
     },
     {
       "title": "Rząd Malawi – Ministerstwo Zdrowia | Portal strategicznego partnerstwa na rzecz bezpieczeństwa zdrowia i gotowości na wypadek sytuacji kryzysowych (SPH) - Światowa Organizacja Zdrowia (WHO)",
@@ -1581,7 +1581,7 @@
       "date": "2026-08-20T14:20:00Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "W Europie występują dłuższe i intensywniejsze sezony przenoszenia chorób przenoszonych przez komary, w tym zakażenia wirusem Zachodniego Nilu (WNV), a także chorób wywołanych wirusami dengi i chikungunya. Zmiany te zwiększają potrzebę stałego nadzoru komarów i terminowych, skutecznych środków kontroli, ale możliwości i organizacja różnią się w zależności od kraju."
+      "summary": "W Europie występują dłuższe i intensywniejsze sezony przenoszenia chorób przenoszonych przez komary, w tym zakażenia wirusem Zachodniego Nilu (WNV), a także chorób wywołanych wirusami dengi i chikungunya. Zmiany te zwiększają potrzebę stałego nadzoru komarów i terminowych, skutecznych środków kontroli, ale możliwości i organizacja różnią się w poszczególnych krajach."
     },
     {
       "title": "Szczepienie matki przeciwko wirusowi RSV wysoce skuteczne w zapobieganiu hospitalizacji niemowląt – CIDRAP",
@@ -1589,7 +1589,7 @@
       "date": "2026-08-20T13:36:38Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Jak wynika z nowego badania przeprowadzonego w Australii, szczepienie przeciwko syncytialnemu wirusowi oddechowemu (RSV) podczas ciąży jest bardzo skuteczne w zapobieganiu hospitalizacji związanej z zakażeniem RSV u niemowląt w wieku do 6 miesięcy i młodszych, a ochrona jest najsilniejsza w pierwszych miesiącach życia."
+      "summary": "Według nowego badania przeprowadzonego w Australii, szczepienie przeciwko syncytialnemu wirusowi oddechowemu (RSV) podczas ciąży jest bardzo skuteczne w zapobieganiu hospitalizacji związanej z RSV u niemowląt w wieku do 6 miesięcy i młodszych, a ochrona jest najsilniejsza w pierwszych miesiącach życia."
     },
     {
       "title": "Naukowcy badają, dlaczego dwie rdzenne grupy w Boliwii miały najniższy na świecie wskaźnik zgonów z powodu Covid-19 – CIDRAP",
@@ -2049,7 +2049,7 @@
       "date": "2026-08-21T21:47:20Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Jak wynika z badania pilotażowego opublikowanego w czasopiśmie „Niewielka zmiana godzin pracy na nocną zmianę poprawia jakość snu i biomarkery stanu zapalnego u lekarzy medycyny ratunkowej."
+      "summary": "Jak wynika z badania pilotażowego opublikowanego w czasopiśmie „Niewielka zmiana godzin pracy na nocną zmianę” poprawia jakość snu i biomarkery stanu zapalnego u lekarzy medycyny ratunkowej."
     },
     {
       "title": "Narzędzie do śledzenia przepisów: J&J uzyskuje zgodę UE na kombinację Tecvayli-Darzalex - Fierce Pharma",
