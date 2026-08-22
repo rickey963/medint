@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T02:15:47Z",
+  "last_updated": "2026-08-22T02:16:34Z",
   "poland": [
     {
       "title": "Rak piersi może „werbować” komórki z kości. Pomagają guzowi rosnąć - Alert Medyczny",
@@ -625,7 +625,7 @@
       "date": "2026-08-21T10:13:09Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Nowe wytyczne mówią, że setki tysięcy pacjentów w Wielkiej Brytanii chorych na cukrzycę typu 2 mogłoby zamienić codzienne zastrzyki insuliny na nowy wstrzyknięcie raz w tygodniu. Narodowy Instytut Doskonałości Zdrowia i Opieki zalecił cotygodniowy zastrzyk insuliny efsitora alfa, znanej również jako Onswik i produkowanej przez firmę Eli Lilly, dorosłym chorym na cukrzycę typu 2.1 Takie posunięcie mogłoby zmniejszyć liczbę wszystkich wstrzyknięć potrzebnych tym pacjentom każdego roku o 86%. Zanim jednak będą mogli uzyskać do niego dostęp, pacjenci będą musieli poczekać do uzyskania pozwolenia na leczenie przez Agencję Regulacyjną ds. Leków i Produktów Opieki Zdrowotnej (MHRA)."
+      "summary": "Cotygodniowe zastrzyki z insuliną na cukrzycę typu 2 zatwierdzone przez NICE The BMJ."
     },
     {
       "title": "Diagnostyka i leczenie ostrej hiperkaliemii – BMJ",
@@ -633,7 +633,7 @@
       "date": "2026-08-21T10:11:48Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Hiperkaliemia jest częstym i potencjalnie zagrażającym życiu zaburzeniem elektrolitowym ze względu na jego związek ze złośliwymi zaburzeniami rytmu serca i nagłym zatrzymaniem krążenia. Schorzenie to często występuje w placówkach opieki doraźnej i przewlekłej i nieproporcjonalnie dotyka pacjentów z chorobami współistniejącymi, takimi jak przewlekła choroba nerek, niewydolność serca, cukrzyca oraz pacjentów otrzymujących leki zaburzające wydalanie potasu przez nerki. Do najczęstszych przyczyn hiperkaliemii zalicza się upośledzenie wydalania potasu przez nerki wynikające z przewlekłej choroby nerek lub farmakologicznego hamowania układu renina-angiotensyna-aldosteron oraz przezkomórkowe przesunięcia potasu wynikające z kwasicy metabolicznej, rozpadu tkanek, niedoboru insuliny lub stanów hipertonicznych."
+      "summary": "Diagnostyka i leczenie ostrej hiperkaliemii BMJ."
     },
     {
       "title": "Ścienienie siatkówki przewiduje pogorszenie funkcji poznawczych w stwardnieniu rozsianym - Medscape",
@@ -2316,12 +2316,20 @@
       "summary": "Znajdź oferty pracy w dziedzinie biotechnologii i spraw medycznych w Kalifornii. 6 Biotech Beach, Praca na pełny etat dostępna w BioSpace, siedzibie branży nauk przyrodniczych."
     },
     {
+      "title": "Raport o interakcjach leków: Claritin, elinzanetant – Drugs.com",
+      "url": "https://www.drugs.com/interactions-check.php?drug_list=1486-898,4730-0&professional=1",
+      "date": "2026-08-20T20:06:00Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla Claritin, elinzanetantu."
+    },
+    {
       "title": "Raport o interakcjach leków: halazepam, Siltussin-DM DAS-NA - Drugs.com",
       "url": "https://www.drugs.com/interactions-check.php?drug_list=1226-0,846-12217&professional=1",
       "date": "2026-08-20T20:00:44Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Raport interakcji leków: halazepam, Siltussin-DM DAS-NA Drugs.com."
+      "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla halazepamu, Siltussin-DM DAS-NA."
     },
     {
       "title": "Leslie Zhen Liang – Ostra farmacja",
@@ -2402,14 +2410,6 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Tani, szybki i cichy chiński system testowania najnowocześniejszych leków zostaje poddany analizie po śmierci trzech osób w badaniach zainicjowanych przez badaczy."
-    },
-    {
-      "title": "Laserowa śródmiąższowa terapia termiczna korzystna w przypadku guzów mózgu – Drugs.com",
-      "url": "https://www.drugs.com/news/laser-interstitial-thermal-therapy-beneficial-brain-tumors-131063.html",
-      "date": "2026-08-20T17:55:04Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Laserowa śródmiąższowa termoterapia (LITT) jest obiecująca dla pacjentów z pierwotnymi i przerzutowymi guzami mózgu, przy krótkich pobytach w szpitalu i zachowanej jakości."
     }
   ],
   "critical_alerts": [
@@ -2496,6 +2496,14 @@
       "summary": "Tygodniowy zapis epidemiologiczny Światowa Organizacja Zdrowia (WHO)."
     },
     {
+      "title": "Epidemia E. coli i Salmonelli powiązana z kiełkami lucerny — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/index.html",
+      "date": "2026-08-21T20:47:16Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia E. coli i Salmonelli powiązana z kiełkami lucerny Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
       "title": "Tygodniowy zapis epidemiologiczny – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://iris.who.int/server/api/core/bitstreams/18c72e11-6540-4d75-8657-c3bef29f9404/content",
       "date": "2026-08-21T16:43:08Z",
@@ -2510,14 +2518,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Urzędnicy twierdzą, że osoby bezbronne powinny unikać jedzenia rzadkich jajek podczas posiłków poza domem ze względu na poważną, trwającą epidemię salmonelli. Brytyjska Agencja ds. Standardów Żywności (FSA) zaleca, aby dzieci w wieku poniżej 5 lat, powyżej 65. roku życia, kobiety w ciąży i osoby z problemami zdrowotnymi nie powinny spożywać niedogotowanych lub surowych jaj podczas posiłków w restauracjach, kawiarniach i barach ani podczas zamawiania dań na wynos. Chociaż dotyczy to rzadkich jajek w koszulce, ostrzeżenie dotyczy również produktów, które mogą zawierać jajka niegotowane…."
-    },
-    {
-      "title": "Cotygodniowe zastrzyki z insuliną w cukrzycy typu 2 zatwierdzone przez NICE – The BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100631",
-      "date": "2026-08-21T10:13:09Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Nowe wytyczne mówią, że setki tysięcy pacjentów w Wielkiej Brytanii chorych na cukrzycę typu 2 mogłoby zamienić codzienne zastrzyki insuliny na nowy wstrzyknięcie raz w tygodniu. Narodowy Instytut Doskonałości Zdrowia i Opieki zalecił cotygodniowy zastrzyk insuliny efsitora alfa, znanej również jako Onswik i produkowanej przez firmę Eli Lilly, dorosłym chorym na cukrzycę typu 2.1 Takie posunięcie mogłoby zmniejszyć liczbę wszystkich wstrzyknięć potrzebnych tym pacjentom każdego roku o 86%. Zanim jednak będą mogli uzyskać do niego dostęp, pacjenci będą musieli poczekać do uzyskania pozwolenia na leczenie przez Agencję Regulacyjną ds. Leków i Produktów Opieki Zdrowotnej (MHRA)."
     }
   ]
 }
