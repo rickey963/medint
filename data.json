@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T10:04:15Z",
+  "last_updated": "2026-08-22T10:05:06Z",
   "poland": [
     {
       "title": "Skuteczność szczepionki można przewidzieć przed szczepieniem? Pomóc może analiza przeciwciał i AI - PolitykaZdrowotna.com",
@@ -561,7 +561,7 @@
       "date": "2026-08-21T15:13:49Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Selektywne wybielanie tętnic siatkówki w hamartoma astrocytarnym siatkówki w stwardnieniu guzowatym BMJ Case Reports."
+      "summary": "Celem niniejszego opisu przypadku jest opisanie i zrozumienie mechanizmu selektywnego wybielania tętnic siatkówki w przypadku hamartoma astrocytarnego siatkówki (RAH) związanego z zespołem stwardnienia guzowatego (TSC). Multimodalne obrazowanie kobiety w późnym okresie dojrzewania z RAH związanym z TSC wykazało unikalne cechy naczyniowe, w tym selektywne wybielanie tętnic siatkówki z oszczędzeniem żył siatkówki. Badania genetyczne potwierdziły mutację genu TSC2 (tuberyny), o której wiadomo, że wpływa na docelowy szlak sygnałowy rapamycyny (mTOR) u ssaków."
     },
     {
       "title": "Palenie zmniejsza płodność /2 - Światowa Organizacja Zdrowia (WHO)",
@@ -850,7 +850,7 @@
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-32.html",
       "date": "2026-08-21T17:17:48Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 32. kończący się 15 sierpnia 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
@@ -1070,11 +1070,19 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
+      "title": "Wskaźniki zgonów spowodowanych alkoholem — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a3.htm",
+      "date": "2026-08-20T17:01:47Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 2,
+      "summary": "Wskaźniki zgonów spowodowanych alkoholem Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
       "title": "Nadzór nad wirusem ospy małpiej – Stany Zjednoczone, 2024–2025 – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a1.htm",
       "date": "2026-08-20T17:01:47Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Nadzór nad wirusem ospy małpiej – Stany Zjednoczone, 2024–2025 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1084,14 +1092,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Notatki terenowe: Epidemia dengi — Naoero, 2025 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Wskaźniki zgonów spowodowanych alkoholem — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a3.htm",
-      "date": "2026-08-20T17:01:47Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
-      "summary": "Wskaźniki zgonów spowodowanych alkoholem Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Wskaźniki zgonów spowodowanych alkoholem — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2012,6 +2012,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Trzecia śmierć w przyspieszonych procesach w Chinach; Zwycięstwo szczepionki przeciwnowotworowej firm Merck i Moderna; i więcej — Wiadomości dotyczące punktów końcowych",
+      "url": "https://endpoints.news/third-death-in-chinas-expedited-trials-merck-and-modernas-cancer-vaccine-win-and-more/",
+      "date": "2026-08-22T10:00:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Witamy ponownie w Tygodniu punktów końcowych! W tym tygodniu na pierwszych stronach gazet znalazły się firmy Merck i Moderna, prezentujące najważniejsze wyniki dotyczące ich spersonalizowanej szczepionki przeciwnowotworowej. Sprawdź szczegółową analizę wyników przeprowadzoną przez nasz zespół..."
+    },
+    {
       "title": "Medicare utrudnia antybiotykom uzyskanie wyższej płatności – insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/government-payers/medicare/medicare-makes-it-harder-for-antibiotics-to-win-enhanced-payment-B4XMHYXTF5AL7ESFIQRHYKE7H4/",
       "date": "2026-08-22T04:05:35Z",
@@ -2402,14 +2410,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla Claritin, elinzanetantu."
-    },
-    {
-      "title": "Raport o interakcjach leków: halazepam, Siltussin-DM DAS-NA - Drugs.com",
-      "url": "https://www.drugs.com/interactions-check.php?drug_list=1226-0,846-12217&professional=1",
-      "date": "2026-08-20T20:00:44Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla halazepamu, Siltussin-DM DAS-NA."
     }
   ],
   "critical_alerts": [
