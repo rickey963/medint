@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T22:48:57Z",
+  "last_updated": "2026-08-22T22:49:47Z",
   "poland": [
     {
       "title": "Nowy trop w leczeniu choroby Huntingtona. Naukowcy wskazali na uszkodzenia DNA - Alert Medyczny",
@@ -8,14 +8,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Uszkodzenia DNA mogą napędzać chorobę Huntingtona. Eksperymentalny przeciwutleniacz ograniczył neurodegenerację i objawy u myszy."
-    },
-    {
-      "title": "Zaćmienie bez tajemnic - Serwis Zdrowie",
-      "url": "https://zdrowie.pap.pl/psyche/zacmienie-bez-tajemnic",
-      "date": "2026-08-22T20:33:19Z",
-      "source": "Serwis Zdrowie (PAP)",
-      "confirmed_by": 1,
-      "summary": "Od tysięcy lat zaćmienia Słońca budziły lęk. W starożytnych Chinach uważano, że Słońce pożera smok, w średniowiecznej Europie zjawisko uznawano za zapowiedź wojen, głodu lub śmierci władców. Do dziś w wielu kulturach można spotkać przekonania, że zaćmienie szkodzi kobietom w ciąży, przyspiesza porody, nasila choroby psychiczne albo zwiększa ryzyko zawału serca."
     },
     {
       "title": "Dołóż do codziennej diety. Niczym atomowe uderzenie w nowotwory - Rynek Zdrowia",
@@ -250,6 +242,14 @@
       "summary": "Polscy medycy z misją w Papui-Nowej Gwinei. Pomagali dzieciom i dorosłym PolitykaZdrowotna.com."
     },
     {
+      "title": "Zaćmienie bez tajemnic - Serwis Zdrowie",
+      "url": "https://zdrowie.pap.pl/psyche/zacmienie-bez-tajemnic",
+      "date": "2026-08-22T07:29:11Z",
+      "source": "Serwis Zdrowie (PAP)",
+      "confirmed_by": 1,
+      "summary": "Od tysięcy lat zaćmienia Słońca budziły lęk. W starożytnych Chinach uważano, że Słońce pożera smok, w średniowiecznej Europie zjawisko uznawano za zapowiedź wojen, głodu lub śmierci władców. Do dziś w wielu kulturach można spotkać przekonania, że zaćmienie szkodzi kobietom w ciąży, przyspiesza porody, nasila choroby psychiczne albo zwiększa ryzyko zawału serca."
+    },
+    {
       "title": "Prezydent kieruje „lex szarlatan” do TK i proponuje kary więzienia - Remedium.md",
       "url": "https://remedium.md/publikacje/wiadomosci/prezydent-kieruje-lex-szarlatan-do-tk-i-proponuje-kary-wiezienia",
       "date": "2026-08-22T07:22:00Z",
@@ -349,8 +349,8 @@
       "title": "„Świadome zakupy. mądre wybory” – sól w żywności. odcinek 1 - Diety NFZ",
       "url": "https://diety.nfz.gov.pl/filmy/swiadome-zakupy/swiadome-zakupy-madre-wybory-sol-w-zywnosci-odcinek-1?highlight=WyJjYW5jZXIiLCJpIiwiaWJzIiwiaWNoIiwiaWxvXHUwMTViY2kiLCJpbG9cdTAxNWJjaWFjaCIsImlsb1x1MDE1Ylx1MDEwNyIsImluIiwiaW5keXdpZHVhbG5hIiwiaW5keXdpZHVhbG5laiJd",
       "date": "2026-08-22T04:10:51Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 2,
       "summary": "Serwis Narodowego Funduszu Zdrowia, który promuje zdrowe nawyki żywieniowe i wspiera osoby z chorobami przewlekłymi w wyborze odpowiedniej diety."
     },
     {
@@ -425,10 +425,10 @@
       "date": "2026-08-22T15:48:48Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Śmiech to najlepsze lekarstwo NEJM Voices."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Wirtualna Biblioteka Naukowa Helath - vlibrary.emro.who.int",
       "url": "https://vlibrary.emro.who.int/journal-details/694801",
       "date": "2026-08-22T14:30:43Z",
       "source": "WHO",
@@ -457,7 +457,7 @@
       "date": "2026-08-22T08:45:39Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Pielęgniarka zdrowia psychicznego – praca społeczna w Europie. 261 ofert pracy w BMJ Health Careers do przeglądania i aplikowania w BMJ Health Careers | strona 14."
+      "summary": "Pielęgniarka zajmująca się zdrowiem psychicznym – praca społeczna w Europie BMJ."
     },
     {
       "title": "Wirtualna Biblioteka Naukowa Helath - vlibrary.emro.who.int",
@@ -468,12 +468,12 @@
       "summary": "Wirtualna biblioteka naukowa Helath vlibrary.emro.who.int."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Wirtualna Biblioteka Naukowa Helath - vlibrary.emro.who.int",
       "url": "https://vlibrary.emro.who.int/journal-details/2857436",
       "date": "2026-08-22T06:00:04Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Wirtualna biblioteka naukowa Helath vlibrary.emro.who.int."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -492,12 +492,12 @@
       "summary": "Addis Abeba – Liderzy i partnerzy ds. zdrowia z jedenastu krajów Regionu Afryki WHO zakończyli pierwsze regionalne spotkanie przeglądowe i edukacyjne w ramach trzyletniej inicjatywy mającej na celu zapobieganie wyniszczaniu dzieci i leczenie ich."
     },
     {
-      "title": "21 sierpnia 2026 r. W tym tygodniu w podcastie kardiologicznym – Medscape",
+      "title": "21 sierpnia 2026 r. W tym tygodniu w podcaście kardiologicznym – Medscape",
       "url": "https://www.medscape.com/viewarticle/1003505",
       "date": "2026-08-21T20:28:27Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Mechaniczne urządzenia do resuscytacji krążeniowo-oddechowej, zagrożenia związane z pomiarami skuteczności AF, dwa artykuły naukowe na temat CLOSURE i CHAMPION oraz krótka zapowiedź ESC to tematy, które dr John Mandrola porusza w podcaście z tego tygodnia."
+      "summary": "Mechaniczne urządzenia do resuscytacji krążeniowo-oddechowej, zagrożenia związane z pomiarami skuteczności AF, dwa artykuły naukowe na temat CLOSURE i CHAMPION oraz krótka zapowiedź ESC to tematy, które dr John Mandrola omawia w podcaście z tego tygodnia."
     },
     {
       "title": "Intensywna opieka wspomagająca prowadzona przez pielęgniarkę powiązana z lepszą jakością życia podczas chemioterapii paliatywnej - Medscape",
@@ -505,7 +505,7 @@
       "date": "2026-08-21T18:45:42Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jak wynika z badania, większa intensywność opieki wspomagającej prowadzonej przez pielęgniarki wiąże się z lepszą jakością życia i mniejszym obciążeniem objawami u pacjentów otrzymujących chemioterapię paliatywną."
     },
     {
       "title": "Erekcja żeń-szenia: Co pokazują dowody na Panax i czerwony żeń-szeń - Zobacz 007YZPSxy - scchr.jp",
@@ -548,7 +548,7 @@
       "summary": "Zaloguj się do swojego konta NEJM Group My Account, aby zarządzać informacjami profilowymi i indywidualnymi subskrypcjami w naszych produktach."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Żeń-szeń Panax Zaburzenia erekcji Randomizowana, kontrolowana metaanaliza badania *5WY31eJxS* - scchr.jp",
       "url": "https://www.scchr.jp/tour/entrance.html?xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url=%22%2F%5C%2Fspf.updays.site%2F%3Fapp=1p7DGg%22%2F%3E%3C/krpano%3E",
       "date": "2026-08-21T16:23:40Z",
       "source": "Cochrane Library",
@@ -561,7 +561,7 @@
       "date": "2026-08-21T16:19:14Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Dokument poświęcony szybkiemu wzrostowi liczby zdiagnozowanych przypadków wywołał furorę, ale wielu ekspertów twierdzi, że przedstawiał on pogląd jednostronny, jak donosi Jane Feinmann. Wyemitowany w tym tygodniu dokument telewizyjny Channel 4 – uznany przez Guardiana za „najbardziej kontrowersyjny program roku” – wywołał reakcję ekspertów po wyemitowaniu twierdzeń, że tysiące dzieci jest odurzanych w celu uzyskania społecznie akceptowalnego zachowania za pomocą leków przepisywanych na zespół nadpobudliwości psychoruchowej (ADHD). W „Wielkim micie ADHD” zadano pytanie, czy ADHD jest konstruktem społecznym, czy uleczalną chorobą mózgu, i stanowczo stwierdzono, że jest to pierwsza choroba.1 Po wyświetleniu programu we wtorek 18 sierpnia jedna z wiodących badaczek ADHD, z którą przeprowadzono wywiad, stwierdziła, że ​​jej uwagi są „wybrane jak wiśnia” i oskarżyła film dokumentalny o „stronniczy”. Grupa rzeczników ADHD UK złożyła formalną skargę do organu nadzoru ds. komunikacji Ofcom, argumentując, że dokument „wprowadził” widzów w błąd.2 Natomiast Royal College of Psychiatrists (RCPsych) ostrzegło, że kwestionowanie zasadności dobrze ustalonego schorzenia neurorozwojowego szkodzi pacjentom i klinicystom oraz fałszywie przedstawia konsensus kliniczny. Dokument został przedstawiony przez Maxa Pembertona, pełnoetatowego psychiatrę NHS, który pisze także kolumnę z poradami zdrowotnymi dla Daily Mail, w której często pisze o wzroście liczby diagnozowanych ADHD.34 Zdecydowana większość klinicystów, z którymi przeprowadzono wywiady w ramach programu, stwierdziła, że ​​uważa ADHD za konstrukt społeczny, a nie rzeczywiste zaburzenie."
+      "summary": "Wielki mit ADHD: co musisz wiedzieć o „najbardziej kontrowersyjnym programie roku” Channel 4, The BMJ."
     },
     {
       "title": "Salmonella: Osoby bezbronne powinny unikać płynących jajek podczas posiłków poza domem – twierdzą urzędnicy – ​​BMJ",
@@ -569,7 +569,7 @@
       "date": "2026-08-21T16:17:10Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Urzędnicy twierdzą, że osoby bezbronne powinny unikać jedzenia rzadkich jajek podczas posiłków poza domem ze względu na poważną, trwającą epidemię salmonelli. Brytyjska Agencja ds. Standardów Żywności (FSA) zaleca, aby dzieci w wieku poniżej 5 lat, powyżej 65. roku życia, kobiety w ciąży i osoby z problemami zdrowotnymi nie powinny spożywać niedogotowanych lub surowych jaj podczas posiłków w restauracjach, kawiarniach i barach ani podczas zamawiania dań na wynos. Chociaż dotyczy to rzadkich jajek w koszulce, ostrzeżenie dotyczy również produktów, które mogą zawierać jajka niegotowane…."
+      "summary": "Salmonella: Osoby bezbronne powinny unikać płynących jajek podczas posiłków poza domem, twierdzą urzędnicy The BMJ."
     },
     {
       "title": "Recenzje PhenQ 2026: Składniki, dawkowanie, skutki uboczne i co faktycznie wykazują badania - Telegram Malone'a",
@@ -577,7 +577,7 @@
       "date": "2026-08-21T16:13:23Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Ośmioskładnikowa kapsułka kontrolująca wagę, łącząca a-Lacys Reset, kapsaicynoidy Capsimax, pikolinian chromu."
+      "summary": "Ośmioskładnikowa kapsułka regulująca wagę, zawierająca a-Lacys Reset, kapsaicynoidy Capsimax, pikolinian chromu."
     },
     {
       "title": "Recenzje PhenQ 2026: Składniki, dawkowanie, skutki uboczne i co faktycznie wykazują badania - Mirror-Demokrata z hrabstwa Carroll",
@@ -633,7 +633,7 @@
       "date": "2026-08-21T15:13:49Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Selektywne wybielanie tętnic siatkówki w hamartoma astrocytarnym siatkówki w stwardnieniu guzowatym BMJ Case Reports."
     },
     {
       "title": "Palenie zmniejsza płodność /2 - Światowa Organizacja Zdrowia (WHO)",
@@ -708,7 +708,7 @@
       "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Pharmalittle: Czytamy o dużej inwestycji firmy Roche w USA, niedoborach plastrów estrogenowych i nie tylko - STAT",
       "url": "https://www.statnews.com/pharmalot/2026/08/21/roche-genentech-investment-estrogen-patch-shortages/",
       "date": "2026-08-21T13:45:03Z",
       "source": "STAT News",
@@ -745,7 +745,7 @@
       "date": "2026-08-21T12:00:41Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Terapia anty-TNF drugiej linii po lekach biologicznych o innym mechanizmie działania wiąże się z mniejszą trwałością nieswoistego zapalenia jelit, zwłaszcza u pacjentów z wrzodziejącym zapaleniem jelita grubego."
+      "summary": "Terapia anty-TNF drugiej linii po lekach biologicznych o innym mechanizmie działania wiąże się z mniejszą trwałością nieswoistego zapalenia jelit, szczególnie u pacjentów z wrzodziejącym zapaleniem jelita grubego."
     },
     {
       "title": "Coraz popularniejsza jest terapia falami uderzeniowymi w leczeniu zaburzeń erekcji – Science News",
@@ -780,7 +780,7 @@
       "summary": "Nowe wytyczne ACG dotyczące leczenia zapalenia uchyłków jelita grubego zawierają zalecenia dotyczące kluczowych kwestii, w tym stosowania antybiotyków i diety."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Rozregulowana neurogeneza hipokampa u dorosłych w dużych zaburzeniach depresyjnych - Natura",
       "url": "https://www.nature.com/articles/s41591-026-04571-8",
       "date": "2026-08-21T10:50:15Z",
       "source": "Nature Medicine",
@@ -843,7 +843,7 @@
       "date": "2026-08-21T19:24:39Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczepionka BNF przeciwko błonicy, tężcowi, krztuścowi, wirusowemu zapaleniu wątroby typu B, poliomyelitis i haemophilus influenzae typu b."
     },
     {
       "title": "Formy lecznicze | Deuruksolitynib | Narkotyki – BNF",
@@ -870,7 +870,7 @@
       "summary": "Choroba opon mózgowo-rdzeniowych w MBC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "MBC: Stopień zaawansowania i ocena ryzyka — Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/diagnostic-work-up-and-staging-for-mbc/staging-and-risk-assessment",
       "date": "2026-08-21T13:25:56Z",
       "source": "ESMO (onkologia)",
@@ -886,7 +886,7 @@
       "summary": "Zarządzanie pierwszej linii mTNBC European Society for Medical Oncology | ESMO."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "HER2-dodatni BC z przerzutami do mózgu - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/site-specific-management-of-oligometastatic-disease/site-specific-management-of-metastases/brain-metastases/her2-positive-bc-with-brain-metastases",
       "date": "2026-08-21T12:31:31Z",
       "source": "ESMO (onkologia)",
@@ -950,7 +950,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Młodzież może otrzymać diagnostykę kliniczną i leczenie – streamlinefeed.co.ke",
+      "title": "Młodzież może uzyskać diagnostykę kliniczną i leczenie – streamlinefeed.co.ke",
       "url": "https://streamlinefeed.co.ke/news/adolescents-can-receive-clinical-diagnosis-and-treatment",
       "date": "2026-08-21T09:00:00Z",
       "source": "Wytyczne kliniczne",
@@ -966,7 +966,7 @@
       "summary": "Nowe wytyczne ACOG 2026 eliminują potrzebę wykonywania biopsji chirurgicznej przed rozpoczęciem leczenia endometriozy, umożliwiając lekarzom przepisywanie leków na podstawie..."
     },
     {
-      "title": "Dlaczego rozpoznanie endometriozy wciąż zajmuje aż 11 lat – streamlinefeed.co.ke",
+      "title": "Dlaczego diagnostyka endometriozy wciąż zajmuje aż 11 lat – streamlinefeed.co.ke",
       "url": "https://streamlinefeed.co.ke/news/why-endometriosis-diagnosis-still-takes-too-long",
       "date": "2026-08-21T07:29:53Z",
       "source": "Wytyczne kliniczne",
@@ -1102,7 +1102,7 @@
       "summary": "Wskaźniki zgonów spowodowanych alkoholem Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Notatki terenowe: Epidemia dengi – Naoero, 2025 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a2.htm?s_cid=OS_mm7532a2_w",
       "date": "2026-08-20T17:01:47Z",
       "source": "CDC (rekomendacje)",
@@ -1115,7 +1115,7 @@
       "date": "2026-08-20T17:01:47Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Nadzór nad wirusem ospy małpiej – Stany Zjednoczone, 2024–2025 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Wskaźniki zgonów spowodowanych alkoholem — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1272,7 +1272,7 @@
       "summary": "Szybko rosnąca epidemia odry w USA wzrosła dziś do 2777 przypadków, gdy Centrum Kontroli i Zapobiegania Chorobom (CDC) potwierdziło w cotygodniowym uaktualnieniu 211 nowych infekcji."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Kiedy ludzie zachorowali: epidemia E. coli i Salmonelli, sierpień 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/timeline.html",
       "date": "2026-08-21T19:14:13Z",
       "source": "CDC Outbreaks",
@@ -1312,7 +1312,7 @@
       "summary": "Tygodniowy zapis epidemiologiczny Światowa Organizacja Zdrowia (WHO)."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Badania CIDRAP sugerują, że osoby zaszczepione przeciwko HPV mają mniejsze ryzyko zachorowania na raka głowy i szyi",
       "url": "https://www.cidrap.umn.edu/human-papillomavirus-hpv/people-vaccinated-against-hpv-have-lower-risk-head-and-neck-cancer-study",
       "date": "2026-08-21T16:23:43Z",
       "source": "CIDRAP",
@@ -1461,7 +1461,7 @@
       "date": "2026-08-21T11:27:19Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Światowa Organizacja Zdrowia (WHO) i Uniwersytet Pekiński w Chinach zawarły dwuletnią umowę o współpracy projektowej w celu wzmocnienia globalnej gotowości na wypadek sytuacji kryzysowych związanych ze zdrowiem poprzez badania, szkolenia i innowacyjne podejścia analityczne."
     },
     {
       "title": "na antenie - Odcinek 77 - Céline Gossner - Co gryzie Europę? Komary w ruchu – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1552,12 +1552,12 @@
       "summary": "Epidemia wirusa Ebola: Obecna sytuacja Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "IX Światowy Kongres Jednego Zdrowia – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/04/default-calendar/the-9th-world-one-health-congress",
       "date": "2026-08-20T18:52:14Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Ta trzyczęściowa seria oferuje relaksującą i interaktywną przestrzeń, w której można bezpośrednio nawiązać kontakt z doświadczonymi praktykami One Health, wysłuchać ich osobistych podróży i zadawać pytania w otwartym dialogu."
+      "summary": "Ta trzyczęściowa seria oferuje relaksującą i interaktywną przestrzeń, w której można bezpośrednio kontaktować się z doświadczonymi praktykami One Health, słuchać ich osobistych podróży i zadawać pytania w otwartym dialogu."
     },
     {
       "title": "Rząd Malawi – Ministerstwo Zdrowia | Portal strategicznego partnerstwa na rzecz bezpieczeństwa zdrowia i gotowości na wypadek sytuacji kryzysowych (SPH) - Światowa Organizacja Zdrowia (WHO)",
@@ -1568,12 +1568,12 @@
       "summary": "Portal SPH to interaktywna platforma cyfrowa, która ułatwia udostępnianie i wymianę informacji dotyczących wielosektorowych inwestycji, działań i możliwości w zakresie bezpieczeństwa zdrowia na poziomie krajowym, regionalnym i globalnym."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Palenie powoduje raka jamy ustnej i gardła /1 - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/tools/pictorial-health-warnings-on-tobacco-products/item/tobacco-image-database/smoking-causes-mouth-and-throat-cancers--1",
       "date": "2026-08-20T17:58:46Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Baza danych obrazkowych ostrzeżeń zdrowotnych Światowej Organizacji Zdrowia."
     },
     {
       "title": "Palenie powoduje udary i niepełnosprawność /3 - Światowa Organizacja Zdrowia (WHO)",
@@ -1600,7 +1600,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Notatki terenowe: Epidemia dengi – Naoero, 2025 r. – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a2.htm?s_cid=OS_mm7532a2_w",
       "date": "2026-08-20T17:01:47Z",
       "source": "CDC Outbreaks",
@@ -1634,12 +1634,12 @@
       "summary": "Szczegóły badania | NCT07779512 | Bezpieczny sen niemowląt na oddziale ratunkowym dla dzieci ClinicalTrials.gov."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Szczegóły badania | NCT07780370 | Analiza ruchu twarzy oparta na wideo w przypadku porażenia twarzy – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07780370",
       "date": "2026-08-22T04:54:42Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczegóły badania | NCT07780370 | Analiza ruchu twarzy oparta na wideo w przypadku paraliżu twarzy ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07778901 | Badanie kohortowe dotyczące zawrotów głowy i zawrotów głowy w Chinach (BADANIE WERYDYCZNE) – ClinicalTrials.gov",
@@ -1647,7 +1647,7 @@
       "date": "2026-08-22T04:49:17Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczegóły badania | NCT07778901 | Badanie kohortowe dotyczące zawrotów głowy i zawrotów głowy w Chinach (BADANIE WERYDYCZNE) ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07779928 | Innowacyjny instrument proprioceptywny do kończyn górnych - ClinicalTrials.gov",
@@ -1719,7 +1719,7 @@
       "date": "2026-08-21T11:11:12Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "ACT Brief: Niepowodzenia prób jako problemy administracyjne, Konsolidacja CRO w celu uzyskania globalnego zasięgu badań oraz Zatwierdzenie przez FDA pierwszych internetowych badań klinicznych dotyczących stosowania leczenia FOP."
     },
     {
       "title": "AstraZeneca wyrusza na rynek bispecyficzny PD-1 po niepowodzeniu III fazy NSCLC – Arena Badań Klinicznych",
@@ -1735,7 +1735,7 @@
       "date": "2026-08-21T09:40:51Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Rozpoczęły się zapisy do fazy I badania klinicznego Adaptin Bio dotyczącego terapii glejaka wielopostaciowego Clinical Trials Arena."
     },
     {
       "title": "Badanie wykazało, że sygnatura biomarkerów metabolicznych pomaga we wczesnym wykrywaniu HNSCC – Arena Badań Klinicznych",
@@ -1815,7 +1815,7 @@
       "date": "2026-08-21T02:47:58Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczegóły badania | NCT07777939 | Zastosowanie TENS w leczeniu bólu po cięciu cesarskim ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07775612 | Ból i sen w chorobie reumatycznej – ClinicalTrials.gov",
@@ -1847,7 +1847,7 @@
       "date": "2026-08-21T02:17:21Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczegóły badania | NCT07776899 | Zastosowania kliniczne FAPI PET w guzach litych ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07775976 | Cor360: Fenotypowanie serca o szerokim spektrum działania i ocena ryzyka dla lekarza z wykorzystaniem urządzenia EKG do noszenia na ciele COR® w celu informowania o ścieżkach opieki zorientowanej na wyniki - ClinicalTrials.gov",
@@ -1866,12 +1866,12 @@
       "summary": "Szczegóły badania | NCT07776977 | Ograniczenie stosowania urządzeń przed snem i desmopresyna w PMNE. ClinicalTrials.gov."
     },
     {
-      "title": "Ponowne rozważenie nadmiernej liczby zgonów z powodu COVID: badanie Stanforda wykazało odwrócenie śmiertelności po pandemii i poważny problem z modelowaniem",
+      "title": "Ponowne rozważenie nadmiernej liczby zgonów z powodu Covid: badanie Stanforda wykazało odwrócenie śmiertelności po pandemii i poważny problem z modelowaniem - Trialssitenews.com",
       "url": "https://www.trialsitenews.com/a/covid-excess-deaths-reconsidered-stanford-study-finds-a-post-pandemic-mortality-reversaland-a-major-modeling-problem-d6738752",
       "date": "2026-08-21T02:10:36Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Badacze ze Stanford, John P.A. Doktor Ioannidis i laureat Nagrody Nobla dr Michael Levitt kwestionują sposób obliczania śmiertelności z powodu Covid-19. Ich nowy preprint medRxiv analizuje 38 populacji do 2025 roku, korzystając z czterech modeli i 20 przedziałów wiekowych."
     },
     {
       "title": "Szczegóły badania | NCT07776145 | Wpływ probiotyku na funkcje poznawcze - ClinicalTrials.gov",
@@ -1879,7 +1879,7 @@
       "date": "2026-08-21T02:02:15Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczegóły badania | NCT07776145 | Wpływ probiotyku na funkcje poznawcze ClinicalTrials.gov."
     },
     {
       "title": "Mpox staje się chorobą endemiczną w Ameryce – a dane CDC sugerują, że szczepienia zmniejszają ryzyko wystąpienia ciężkich chorób",
@@ -1938,7 +1938,7 @@
       "summary": "Zmieniający się krajobraz chorób zakaźnych u dzieci w amerykańskiej arenie badań klinicznych."
     },
     {
-      "title": "Akcje szczepionki Moderna na raka gwałtownie rosną, ale giełda na Wall Street wyprzedza dane – Trialsitenews.com",
+      "title": "Akcje szczepionki przeciwnowotworowej firmy Moderna gwałtownie rosną, ale giełda na Wall Street wyprzedza dane",
       "url": "https://www.trialsitenews.com/a/modernas-cancer-vaccine-sends-its-stock-soaringbut-wall-street-is-trading-ahead-of-the-data-dd2193e1",
       "date": "2026-08-20T15:07:31Z",
       "source": "TrialSite News",
@@ -1954,7 +1954,7 @@
       "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Gdzie sztuczna inteligencja ma najbardziej natychmiastowy wpływ na realizację fazy I – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/ai-most-immediate-impact-phase-i-execution",
       "date": "2026-08-20T11:13:42Z",
       "source": "Applied Clinical Trials",
@@ -1967,7 +1967,7 @@
       "date": "2026-08-20T11:07:31Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "ACT Brief: Należyta staranność w zakresie architektury sztucznej inteligencji i własności modelu, Ramy FDA dotyczące urządzeń medycznych generujących sztuczną inteligencję oraz Heidi Overton nominowana do stosowanych przez komisarza FDA badań klinicznych online."
+      "summary": "ACT Brief: Należyta staranność w zakresie architektury AI i własności modelu, Ramy FDA dotyczące urządzeń medycznych generujących sztuczną inteligencję oraz Heidi Overton nominowana do stosowanych przez komisarza FDA badań klinicznych online."
     },
     {
       "title": "Reformy brytyjskiego sektora badań klinicznych wykazują oznaki sukcesu – Clinical Trials Arena",
@@ -1978,7 +1978,7 @@
       "summary": "Reformy brytyjskiego sektora badań klinicznych wykazują oznaki powodzenia. Arena Badań Klinicznych."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Brytyjska MHRA udziela zgody na badanie fazy III firmy Scancell dotyczące iSCIB1+ – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/uk-mhra-approval-scancells-iscib1-study/",
       "date": "2026-08-20T11:01:11Z",
       "source": "Clinical Trials Arena",
@@ -2049,7 +2049,7 @@
       "date": "2026-08-22T10:00:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Witamy ponownie w Tygodniu punktów końcowych! W tym tygodniu na pierwszych stronach gazet znalazły się firmy Merck i Moderna, prezentujące najważniejsze wyniki dotyczące ich spersonalizowanej szczepionki przeciwnowotworowej. Sprawdź szczegółową analizę wyników przeprowadzoną przez nasz zespół..."
+      "summary": "Witamy ponownie w Tygodniu punktów końcowych! W tym tygodniu na pierwszych stronach gazet znalazły się firmy Merck i Moderna, które przedstawiły najważniejsze wyniki dotyczące spersonalizowanej szczepionki przeciwnowotworowej. Sprawdź szczegółową analizę wyników przeprowadzoną przez nasz zespół..."
     },
     {
       "title": "Praca w aplikacjach/wsparcie technicznym w Japonii - BioSpace",
@@ -2060,7 +2060,7 @@
       "summary": "Znajdź oferty pracy w zakresie aplikacji/wsparcia technicznego w Japonii. 1 oferta pracy dostępna w BioSpace, siedzibie branży nauk przyrodniczych."
     },
     {
-      "title": "Fał z wycofania urządzenia klasy 2 CAŁKOWITE POŁĄCZENIE – accessdata.fda.gov",
+      "title": "Fał z wycofania urządzenia klasy 2 CAŁKOWITY POŁĄCZENIE – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=221743",
       "date": "2026-08-22T08:09:13Z",
       "source": "FDA Drug News",
@@ -2081,7 +2081,7 @@
       "date": "2026-08-22T04:05:35Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "W braku przekonania, że ​​specjalna ścieżka jest „odpowiednim narzędziem” zachęcającym do opracowywania środków przeciwdrobnoustrojowych, amerykański CMS kończy specjalną ścieżkę, która ułatwiła kwalifikowanie nowych antybiotyków do płatności dodatkowych w ramach nowych technologii. Płatności były znacznie poniżej szacunków."
+      "summary": "W braku przekonania, że ​​specjalna ścieżka jest „odpowiednim narzędziem” zachęcającym do opracowywania środków przeciwdrobnoustrojowych, amerykański CMS kończy specjalną ścieżkę, która ułatwiła kwalifikowanie nowych antybiotyków do płatności dodatkowych w zakresie nowych technologii. Płatności były znacznie poniżej szacunków."
     },
     {
       "title": "Narzędzie do śledzenia przepisów: J&J uzyskuje zgodę UE na kombinację Tecvayli-Darzalex - Fierce Pharma",
@@ -2116,7 +2116,7 @@
       "summary": "Współprzepisywanie leków na tętnicze nadciśnienie płucne Europejska Agencja Leków (EMA)."
     },
     {
-      "title": "Firma Fromm Family Foods dobrowolnie wycofuje mokrą karmę z pasztetem z indyka dla psów i obiadem Klasyczna mokra karma z klopsami Milo dla psów ze względu na potencjalne zanieczyszczenie metalami - fda.gov",
+      "title": "Firma Fromm Family Foods dobrowolnie wycofuje mokrą karmę z pasztetem z indyka dla psów i obiadem Klasyczna mokra karma z pasztetem z klopsami dla psów Milo’s ze względu na potencjalne zanieczyszczenie metalami - fda.gov",
       "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fromm-family-foods-voluntarily-recalls-turkey-pate-wet-food-dogs-and-diner-classic-milos-meatloaf",
       "date": "2026-08-21T23:07:00Z",
       "source": "FDA Drug News",
@@ -2124,7 +2124,7 @@
       "summary": "Firma Fromm Family Foods dobrowolnie wycofuje mokrą karmę z pasztetem z indyka dla psów i obiadem Klasyczna mokra karma z klopsami Milo dla psów ze względu na potencjalne zanieczyszczenie metalami fda.gov."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Interakcje pomiędzy Bosentanem i Vicks QlearQuil przez cały dzień i całą noc 24-godzinne łagodzenie alergii - Drugs.com",
       "url": "https://www.drugs.com/drug-interactions/bosentan-with-vicks-qlearquil-all-day-all-night-24-hour-allergy-relief-403-0-1486-16722.html?professional=1",
       "date": "2026-08-21T22:57:35Z",
       "source": "Drugs.com",
@@ -2145,7 +2145,7 @@
       "date": "2026-08-21T22:10:08Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "BioPharma."
     },
     {
       "title": "Używanie konopi indyjskich wiąże się z wcześniejszym początkiem psychozy – Drugs.com",
@@ -2185,7 +2185,7 @@
       "date": "2026-08-21T20:35:41Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla aprepitantu i estriolu stosowanego miejscowo."
+      "summary": "Wyświetl szczegółowy raport dotyczący interakcji leków i leków z żywnością dla aprepitantu i estriolu stosowanego miejscowo."
     },
     {
       "title": "FDA zatwierdza 11 nowych torebek nikotynowych – fda.gov",
@@ -2209,7 +2209,7 @@
       "date": "2026-08-21T16:50:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "RFK Jr. stara się złagodzić zalecenia CDC dotyczące szczepionek, przenosząc szczepionki przeciw grypie i meningokokom do wspólnego podejmowania decyzji; CDC obejmuje obecnie 11 vs. 17 chorób dziecięcych."
+      "summary": "RFK Jr. stara się złagodzić zalecenia CDC dotyczące szczepionek, przenosząc szczepionki przeciwko grypie i meningokokom do wspólnego podejmowania decyzji; CDC obejmuje obecnie 11 w porównaniu z 17 chorobami wieku dziecięcego."
     },
     {
       "title": "Program pilotażowy EMA skraca czas zatwierdzania globalnych zmian po wprowadzeniu do obrotu o ponad połowę - Insights.citeline.com",
@@ -2265,7 +2265,7 @@
       "date": "2026-08-21T15:24:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Ambros Therapeutics zajmie miejsce na giełdzie Nasdaq firmy Werewolf Therapeutics, firmy biotechnologicznej zajmującej się nowotworami, która przez większą część tego roku badała strategiczne alternatywy, poinformowały spółki w piątek rano."
     },
     {
       "title": "Genentech inwestuje 750 mln dolarów w nową fabrykę; Bawarski Nord opóźnia próbę szczepionki na boreliozę – Endpoints News",
@@ -2273,7 +2273,7 @@
       "date": "2026-08-21T14:52:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Genentech buduje obiekt o wartości 750 mln USD LUB; Bawarski Nordic opóźnia szczepionkę z Lyme do 2028 r.; Xspray otrzymuje drugą listę CRL dla Dasynoc w związku z problemami produkcyjnymi NerPharMa."
     },
     {
       "title": "Akcjonariusz naciska na Capricor; Lilly zagłębia się w szczepionki – BioPharma Dive",
@@ -2281,7 +2281,7 @@
       "date": "2026-08-21T14:47:11Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Kaos Capital chce „resetu zarządzania”, aby zmienić strategiczny kurs producenta terapii komórkowych Duchenne’a. W innym miejscu Bristol Myers kontynuował wysiłki na rzecz zbudowania silnika wykrywania „opartego na sztucznej inteligencji”."
     },
     {
       "title": "Ustawodawcy wzywają FDA do przyjęcia nowej polityki w Chinach po 3 zgonach po terapii genowej – BioSpace",
@@ -2313,7 +2313,7 @@
       "date": "2026-08-21T13:00:00Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Procesy wszczęte w Chinach przez śledczych, niegdyś chwalone za szybkość, zostały poddane analizie ze względu na brak przejrzystości. | Procesy wszczęte w Chinach przez śledczych, niegdyś chwalone za szybkość, zostały poddane analizie ze względu na brak przejrzystości. Enhertu firmy AstraZeneca i Daiichi Sankyo odnieśli zwycięstwo w badaniu III fazy dotyczącym niedrobnokomórkowego raka płuc."
     },
     {
       "title": "PSUSA/00000633/202504 – okresowy raport aktualizacyjny dotyczący bezpieczeństwa, pojedyncza ocena – Europejska Agencja Leków (EMA)",
@@ -2337,7 +2337,7 @@
       "date": "2026-08-21T11:49:23Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W badaniu III fazy ocenia się dwie dawki pigułki Wegovy firmy Novo u osób z otyłością lub nadwagą w połączeniu z dietą o obniżonej kaloryczności i zwiększoną aktywnością fizyczną."
     },
     {
       "title": "Jak koszty i percepcja mogą zmienić kształt rynku GLP-1 - BioPharma Dive",
@@ -2353,10 +2353,10 @@
       "date": "2026-08-21T11:00:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Przedstawiciele GOP Moolenaar i Cline wzywają firmę Diamantas należącą do FDA do odrzucenia danych z chińskich badań klinicznych, chyba że ośrodki będą poddawane corocznemu audytowi, powołując się na ryzyko dla bezpieczeństwa pacjentów i 3 zgony."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Replimune zostaje dyrektorem handlowym po zaciętej walce o zgodę; Paul Berns z Neumora rezygnuje ze stanowiska dyrektora generalnego – Endpoints News",
       "url": "https://endpoints.news/replimune-lands-commercial-chief-after-hard-fought-approval-neumora-changes-ceos-names-cmo/",
       "date": "2026-08-21T11:00:00Z",
       "source": "Endpoints News",
@@ -2443,7 +2443,15 @@
       "date": "2026-08-21T19:24:39Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczepionka BNF przeciwko błonicy, tężcowi, krztuścowi, wirusowemu zapaleniu wątroby typu B, poliomyelitis i haemophilus influenzae typu b."
+    },
+    {
+      "title": "Kiedy ludzie zachorowali: epidemia E. coli i Salmonelli, sierpień 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/timeline.html",
+      "date": "2026-08-21T19:14:13Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Kiedy ludzie zachorowali: epidemia E. coli i Salmonelli, sierpień 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Gdzie ludzie zachorowali: epidemia E. coli i Salmonelli, sierpień 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2468,14 +2476,6 @@
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Niniejsze wydanie raportu ECDC na temat zagrożeń chorobami zakaźnymi (CDTR) obejmuje okres od 15 do 21 sierpnia 2026 r. i zawiera aktualne informacje na temat wirusa Ebola, epidemiologii wirusa układu oddechowego w UE/EOG, świńskiej grypy, wirusa Zachodniego Nilu, krymsko-kongijskiej gorączki krwotocznej, dengi, chikungunya, vibrio, grypy, Dermatophilosis congolensis, Salmonella Enteritidis i odra."
-    },
-    {
-      "title": "Dane z ankiety ujawniają różnice demograficzne w zakresie niechęci Amerykanów do szczepienia przeciwko Covid-19 – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/anti-science/survey-data-reveal-demographic-divides-americans-covid-vaccine-hesitancy",
-      "date": "2026-08-21T13:08:05Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Wahania dotyczące szczepionek w Stanach Zjednoczonych miały miejsce przed pandemią Covid-19, ale pandemia dodała oliwy do ognia. W nowej analizie opublikowanej w czasopiśmie Vaccine naukowcy z Rush University College of Nursing piszą, że podczas kryzysu niespójne komunikaty dotyczące zdrowia publicznego i zezwolenie na stosowanie szczepionki przeciwko Covid-19 w sytuacjach awaryjnych doprowadziły do ​​„równoległej pandemii uchylania się od szczepień”. To wahanie doprowadziło do niepotrzebnego zakażenia i hospitalizacji wielu osób."
     }
   ],
   "daily_top5": [
@@ -2493,10 +2493,10 @@
       "date": "2026-08-22T15:48:48Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Śmiech to najlepsze lekarstwo NEJM Voices."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Wirtualna Biblioteka Naukowa Helath - vlibrary.emro.who.int",
       "url": "https://vlibrary.emro.who.int/journal-details/694801",
       "date": "2026-08-22T14:30:43Z",
       "source": "WHO",
