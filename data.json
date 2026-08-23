@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T21:01:44Z",
+  "last_updated": "2026-08-23T21:02:39Z",
   "poland": [
     {
       "title": "Dla wątroby nie ma nic lepszego. Zbyt rzadko na polskich stołach - Rynek Zdrowia",
@@ -1106,7 +1106,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a3.htm",
       "date": "2026-08-20T17:01:47Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 4,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1124,6 +1124,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Uwagi do projektu zarządzenia Prezesa NFZ o podstawowej opiece zdrowotnej - NIL",
+      "url": "https://nil.org.pl/aktualnosci/9364-uwagi-do-projektu-zarzadzenia-prezesa-nfz-o-podstawowej-opiece-zdrowotnej",
+      "date": "2026-08-20T15:32:07Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1183,6 +1191,14 @@
     }
   ],
   "epidemiology": [
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.who.int/publications/b/61231",
+      "date": "2026-08-23T17:41:23Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://extranet.who.int/sph/emergency-diseases/bundibugyo-virus-disease-type-ebola-disease",
@@ -1389,7 +1405,7 @@
       "date": "2026-08-21T15:18:03Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Baza danych obrazkowych ostrzeżeń zdrowotnych Światowej Organizacji Zdrowia."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1570,14 +1586,6 @@
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.cdc.gov/respiratory-viruses/data/index.html",
-      "date": "2026-08-21T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
       "date": "2026-08-21T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
@@ -2377,6 +2385,14 @@
   "daily_top5": [
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.who.int/publications/b/61231",
+      "date": "2026-08-23T17:41:23Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://clinician.nejm.org/browse/topic/international-health-policy",
       "date": "2026-08-23T14:05:05Z",
       "source": "NEJM",
@@ -2403,14 +2419,6 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.afro.who.int/fr/countries/ethiopia/news?page=73",
       "date": "2026-08-23T09:56:36Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.emro.who.int/somalia/news/somalia-launches-its-first-unified-national-registry-of-health-facilities.html",
-      "date": "2026-08-23T09:28:07Z",
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
