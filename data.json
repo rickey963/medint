@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T06:21:39Z",
+  "last_updated": "2026-08-23T06:22:22Z",
   "poland": [
     {
       "title": "Długie przerwy między posiłkami wiążą się z szybszym rozwojem chorób przewlekłych u seniorów - Alert Medyczny",
@@ -16,6 +16,14 @@
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 6,
       "summary": "System eZWM Narodowy Fundusz Zdrowia (NFZ)."
+    },
+    {
+      "title": "Zawały i udary poprzedzały czynniki ryzyka. Najczęściej to nadciśnienie - Medonet",
+      "url": "https://www.medonet.pl/zdrowie/wiadomosci/prawie-wszyscy-chorzy-maja-te-problemy-przed-pierwszym-zawalem-lub-udarem/tknlce5",
+      "date": "2026-08-23T05:03:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Najnowsze miÄdzynarodowe badanie rzuca ÅwiatÅo na czynniki poprzedzajÄ ce groÅºne zdarzenia sercowo-naczyniowe, jak zawaÅ serca czy udar mÃ³zgu. Analiza danych przeprowadzona na milionach osÃ³b z Korei PoÅudniowej i USA jednoznacznie pokazuje, Å¼e niemal wszyscy pacjenci mieli co najmniej jeden modyfikowalny czynnik ryzyka. NajczÄÅciej byÅo nim nadciÅnienie."
     },
     {
       "title": "Nowy trop w leczeniu choroby Huntingtona. Naukowcy wskazali na uszkodzenia DNA - Alert Medyczny",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Rak piersi może rekrutować komórki ze szpiku kostnego i wykorzystywać je do tworzenia środowiska sprzyjającego wzrostowi guza."
-    },
-    {
-      "title": "Zdrowy sen po 50. roku życia może sprzyjać dłuższej aktywności zawodowej - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/zdrowy-sen-po-50-roku-zycia-moze-sprzyjac-dluzszej-aktywnosci-zawodowej/",
-      "date": "2026-08-21T23:02:10Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Zdrowy sen po 50. roku życia wiąże się z dłuższą aktywnością zawodową. Zaburzenia i sen ≥9 godzin mogą ją skracać."
     }
   ],
   "world": [
@@ -617,7 +617,7 @@
       "date": "2026-08-21T16:13:23Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Recenzje PhenQ 2026: Składniki, dawkowanie, skutki uboczne i co właściwie wykazują badania Telegram Malone’a."
+      "summary": "Ośmioskładnikowa kapsułka kontrolująca wagę, łącząca a-Lacys Reset, kapsaicynoidy Capsimax, pikolinian chromu."
     },
     {
       "title": "Recenzje PhenQ 2026: Składniki, dawkowanie, skutki uboczne i co faktycznie wykazują badania - Mirror-Demokrata z hrabstwa Carroll",
@@ -1791,7 +1791,7 @@
       "date": "2026-08-21T05:14:03Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Badanie z podwójnie ślepą próbą dotyczące szybkiego i długotrwałego stosowania miejscowego kannabidiolu w celu złagodzenia bólu w leczeniu zapalenia powięzi podeszwowej ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07775326 | Makroskładniki odżywcze i markery metaboliczne – ClinicalTrials.gov",
@@ -2281,7 +2281,7 @@
       "date": "2026-08-21T17:15:22Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Język duński jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
       "title": "RFK Jr. robi kolejny krok w kierunku demontażu zaleceń dotyczących szczepionek - Endpoints News",
