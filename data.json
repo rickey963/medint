@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-24T05:57:30Z",
+  "last_updated": "2026-08-24T05:58:14Z",
   "poland": [
+    {
+      "title": "ZUS: zwolnienie lekarskie przerywa urlop - Medycyna Praktyczna",
+      "url": "https://prawo.mp.pl/wiadomosci/446954,zus-zwolnienie-lekarskie-przerywa-urlop",
+      "date": "2026-08-24T05:51:37Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Zwolnienie lekarskie stwierdzające czasową niezdolność do pracy przerywa urlop wypoczynkowy. Pobyt za granicą nie wyklucza jednak możliwości przeprowadzenia kontroli prawidłowego wykorzystywania zwolnienia – przekazał Zakład Ubezpieczeń Społ."
+    },
     {
       "title": "Serce, wysiłek i sport. Eksperci spotkają się na konferencji PTK w Nałęczowie - Alert Medyczny",
       "url": "https://alertmedyczny.pl/serce-wysilek-i-sport-eksperci-spotkaja-sie-na-konferencji-ptk-w-naleczowie/",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Zaawansowane testy DNA wskazały nowe możliwości leczenia u 28 proc. pacjentów onkologicznych. Badaniem objęto 554 osoby."
-    },
-    {
-      "title": "Nowy trop w leczeniu choroby Huntingtona. Naukowcy wskazali na uszkodzenia DNA - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/nowy-trop-w-leczeniu-choroby-huntingtona-naukowcy-wskazali-na-uszkodzenia-dna/",
-      "date": "2026-08-22T22:30:32Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Uszkodzenia DNA mogą napędzać chorobę Huntingtona. Eksperymentalny przeciwutleniacz ograniczył neurodegenerację i objawy u myszy."
     }
   ],
   "world": [
@@ -601,7 +601,7 @@
       "date": "2026-08-23T14:11:27Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Pierworodka w 32. tygodniu i 6. dniu ciąży zgłosiła się z bólem brzucha i cechami ostrego brzucha z podejrzeniem zapalenia otrzewnej o niejasnej etiologii. Wykonano pilne cesarskie cięcie dolnego odcinka, w wyniku którego urodził się wcześniak wymagający intensywnej opieki noworodkowej. Śródoperacyjnie stwierdzono gęste zrosty i zapieczętowaną perforację obejmującą esicę, co wymagało odwrócenia kolostomii i wycięcia węzłów chłonnych."
+      "summary": "Ostry brzuch w ciąży objawiający się rakiem esicy podczas cięcia cesarskiego BMJ Case Reports."
     },
     {
       "title": "Podsumowania badań międzynarodowej polityki zdrowotnej – lekarz NEJM",
@@ -990,6 +990,14 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
+      "title": "Młodzież może otrzymać diagnostykę kliniczną i leczenie – streamlinefeed.co.ke",
+      "url": "https://streamlinefeed.co.ke/news/adolescents-can-receive-clinical-diagnosis-and-treatment",
+      "date": "2026-08-21T09:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nastolatki cierpiące na uniemożliwiający ból miesiączkowy mogą uzyskać kliniczną diagnozę endometriozy i rozpocząć leczenie przed jakąkolwiek operacją, pod kierunkiem ACOG i ESHRE."
+    },
+    {
       "title": "Leczenie można rozpocząć bez potwierdzenia tkanki – streamlinefeed.co.ke",
       "url": "https://streamlinefeed.co.ke/news/treatment-can-start-without-tissue-confirmation",
       "date": "2026-08-21T09:00:00Z",
@@ -1004,14 +1012,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Ból miesiączkowy u nastolatków, który powoduje wymioty, omdlenia lub powtarzającą się nieobecność, nie jest normalnym bolesnym miesiączkowaniem. Wytyczne wspierają wczesną ocenę bez konieczności operacji."
-    },
-    {
-      "title": "Młodzież może uzyskać diagnostykę kliniczną i leczenie – streamlinefeed.co.ke",
-      "url": "https://streamlinefeed.co.ke/news/adolescents-can-receive-clinical-diagnosis-and-treatment",
-      "date": "2026-08-21T09:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Nastolatki cierpiące na uniemożliwiający ból miesiączkowy mogą uzyskać kliniczną diagnozę endometriozy i rozpocząć leczenie przed jakąkolwiek operacją, pod kierunkiem ACOG i ESHRE."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1060,6 +1060,14 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Specyficzne dla miejsca leczenie choroby oligometastatycznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "MBC: Obserwacja, implikacje długoterminowe i przeżycie – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/follow-up-long-term-implications-and-survivorship",
+      "date": "2026-08-21T01:53:04Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "MBC: Obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Insulina efsitora alfa w leczeniu cukrzycy typu 2 – strona internetowa NICE",
