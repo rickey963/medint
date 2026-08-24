@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-24T15:49:48Z",
+  "last_updated": "2026-08-24T15:51:47Z",
   "poland": [
     {
       "title": "530 uwag do projektu MZ - Medycyna Praktyczna",
       "url": "https://prawo.mp.pl/wiadomosci/446990,mz-530-uwag-do-projektu-dot-min-maksymalnego-wynagrodzenia",
       "date": "2026-08-24T15:33:22Z",
       "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Ten projekt to strzelanie z armaty do wróbli – ocenił Sebastian Goncerz z Porozumienia Rezydentów."
     },
     {
@@ -186,7 +186,7 @@
       "summary": "Kieliszek czerwonego wina „dla zdrowia” to szkodliwy mit czy też rzeczywiście niewielkie dawki alkoholu mogą działać kardioprotekcyjnie? - Etanol co do zasady jest trucizną i bardzo trudno jest wyważyć dawkę, która miałaby mieć charakter prozdrowotny – mówi w rozmowie z „Pulsem Medycyny” dr hab. n."
     },
     {
-      "title": "Nie żyje młody chirurg z Warszawy. Miał tylko 38 lat. \"Pękły nam serca\" - Medonet",
+      "title": "Nie żyje uwielbiany lekarz. Miał tylko 38 lat. \"Serca nam pękły\" - Medonet",
       "url": "https://www.medonet.pl/zdrowie/wiadomosci/mlody-lekarz-nie-zyje-warszawska-klinika-zegna-cenionego-chirurga/7rznwx4",
       "date": "2026-08-24T13:07:29Z",
       "source": "Medonet",
@@ -1025,6 +1025,14 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "http://nice.org.uk/guidance/gid-ta11644/documents/674",
       "date": "2026-08-20T22:47:17Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.nice.org.uk/guidance/ta1187/documents/html-content-2",
+      "date": "2026-08-20T21:08:34Z",
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -2053,6 +2061,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/Cfdocs/cfrl/rl.cfm?lid=1007667&lpcd=IPG",
+      "date": "2026-08-24T05:00:36Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.biospace.com/fda/capricor-replimune-reviews-signal-fdas-return-to-reliability-but-every-application-will-stand-alone",
       "date": "2026-08-24T04:05:17Z",
       "source": "BioSpace",
@@ -2162,14 +2178,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://jobs.biospace.com/jobs/anaheim/biotech-beach/full-time/biotechnology/",
-      "date": "2026-08-23T18:26:17Z",
-      "source": "BioSpace",
-      "confirmed_by": 1,
-      "summary": "Znajdź oferty pracy w dziedzinie biotechnologii w Anaheim. 1 Biotech Beach, praca na pełny etat dostępna w BioSpace, siedzibie branży nauk przyrodniczych."
     }
   ],
   "critical_alerts": [
