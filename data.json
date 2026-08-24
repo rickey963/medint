@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T19:37:14Z",
+  "last_updated": "2026-08-24T19:37:59Z",
   "poland": [
     {
       "title": "Spesolimab (spesolimab) opis substancji - Indeks Leków MP",
@@ -13,6 +13,14 @@
       "title": "Tag “prawo pacjenta” - Termedia",
       "url": "https://www.termedia.pl/tag/prawo_pacjenta-39147",
       "date": "2026-08-24T18:30:42Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "aktualności, menedżer zdrowia."
+    },
+    {
+      "title": "Tag “alkoholizm w Niemczech” - Termedia",
+      "url": "https://www.termedia.pl/tag/alkoholizm_w_Niemczech-39150",
+      "date": "2026-08-24T18:30:39Z",
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "aktualności, menedżer zdrowia."
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Mapa Zależności Lekowej pokazuje, skąd Polska importuje leki i API oraz dlaczego europejscy dostawcy nie eliminują zależności od Azji."
-    },
-    {
-      "title": "Młodszy Specjalista (k/m)* w Delegaturze Mazowieckiego Oddziału Wojewódzkiego NFZ w Ciechanowie - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/warszawa2667,2987.html",
-      "date": "2026-08-24T12:23:00Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
     }
   ],
   "world": [
@@ -942,14 +942,6 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-indications-for-datopotamab-deruxtecan",
-      "date": "2026-08-21T11:48:22Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
       "title": "Stan prac nad zleceniami - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/stan-prac-nad-zleceniami-50/",
       "date": "2026-08-21T11:21:05Z",
@@ -1017,6 +1009,14 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "http://nice.org.uk/guidance/gid-ta11644/documents/674",
       "date": "2026-08-20T22:47:17Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.nice.org.uk/guidance/ta1187/documents/html-content-2",
+      "date": "2026-08-20T21:08:34Z",
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -2186,7 +2186,7 @@
       "summary": "",
       "url": "",
       "source": "",
-      "date": "2026-08-24T19:37:14Z"
+      "date": "2026-08-24T19:37:59Z"
     }
   ],
   "daily_top5": [
