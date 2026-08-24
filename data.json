@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T07:28:45Z",
+  "last_updated": "2026-08-24T07:29:30Z",
   "poland": [
     {
       "title": "Rozwiązanie nieidealne, ale niezbędne - Termedia",
@@ -16,6 +16,22 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "MZ wydłużyło nabór na sprzęt dla kardiologii dziecięcej do 26 sierpnia 2026 r. Placówki mogą otrzymać do 1,5 mln zł dotacji."
+    },
+    {
+      "title": "Onkologia kliniczna ma problem z kadrami - Ochrona zdrowia - mp.pl",
+      "url": "https://ochronazdrowia.mp.pl/aktualnosci/446968,onkologia-kliniczna-ma-problem-z-kadrami",
+      "date": "2026-08-24T07:06:53Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "W 2025 roku specjalizację z onkologii klinicznej wybrało więcej młodych lekarzy niż w latach poprzednich, mimo to trudno mówić o sukcesie. Nawet co trzeci lekarz rezygnuje z tej specjalizacji, jeszcze zanim dotrze na onkologię, w trakcie modułu z interny lub po jego zakończeniu. Potężnym wyzwaniem jest więc utrzymanie lekarza na ścieżce onkologicznej."
+    },
+    {
+      "title": "Poszukajmy racjonalnego rozwiązania impasu - Ochrona zdrowia - mp.pl",
+      "url": "https://ochronazdrowia.mp.pl/wywiady/446967,poszukajmy-racjonalnego-rozwiazania-impasu",
+      "date": "2026-08-24T06:48:01Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Warto, by Ministerstwo Zdrowia złożyło kolejny projekt, może w bardziej precyzyjny sposób wytyczający granicę, co jest szarlatanerią i będzie podlegać ściganiu, a co jest jedynie metodą komplementarną wobec medycyny – mówi dr Tadeusz J�."
     },
     {
       "title": "Poszukajmy racjonalnego rozwiązania impasu - Ochrona zdrowia - mp.pl",
@@ -47,7 +63,7 @@
       "date": "2026-08-24T06:35:55Z",
       "source": "Medycyna Praktyczna",
       "confirmed_by": 3,
-      "summary": "Długie przerwy między posiłkami mogą szkodzić - Aktualności - Geriatria Medycyna Praktyczna."
+      "summary": "Dłuższe przerwy między posiłkami u starszych osób mogą przyspieszać postęp wielu przewlekłych chorób – informują autorzy badania opublikowanego w „Journal of Internal Medicine”."
     },
     {
       "title": "„Drugie oko” lekarza, a nie samodzielny decydent. O tym jak AI odzyskuje najcenniejszy zasób dla ochrony zdrowia, czyli czas. - PolitykaZdrowotna.com",
@@ -384,22 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Lex Szarlatan to ustawa wymierzona przede wszystkim w nieuczciwe osoby, które wykorzystują chorobę pacjentów - przekonywał w rozmowie z Rynkiem Zdrowia pediatra Dawid Ciemięga, znany z bezpardonowej walki z hejterami i pseudomedycyną. Prezydent skierował jednak tę regulację do Trybunału Konstytucyjnego, wskazując m.in. na ryzyko naruszenia prawa do sprawiedliwego procesu."
-    },
-    {
-      "title": "Zbigniew Bogucki o projekcie prezydenta. Mają być kary za nakłanianie pacjentów do porzucenia leczenia - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/zbigniew-bogucki-o-projekcie-n2461911",
-      "date": "2026-08-23T11:30:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Zbigniew Bogucki o projekcie prezydenta. Mają być kary za nakłanianie pacjentów do porzucenia leczenia PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Wypadek polskiego autokaru na Węgrzech: wojskowi lekarze ustalą termin kolejnego transportu rannych - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Wypadek-polskiego-autokaru-na-Wegrzech-wojskowi-lekarze-ustala-termin-kolejnego-transportu-rannych,288058,14.html",
-      "date": "2026-08-23T11:02:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Trzech specjalistów z Wojskowego Instytutu Medycznego pojechało na Węgry, by ocenić stan rannych po wypadku polskiego autokaru i ustalić m.in. termin kolejnego transportu poszkodowanych do Polski. Zespół ma też przygotować plan dalszego leczenia."
     }
   ],
   "world": [
@@ -625,7 +625,7 @@
       "date": "2026-08-23T14:11:27Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Ostry brzuch w ciąży objawiający się rakiem esicy podczas cięcia cesarskiego BMJ Case Reports."
+      "summary": "Pierworodka w 32. tygodniu i 6. dniu ciąży zgłosiła się z bólem brzucha i cechami ostrego brzucha z podejrzeniem zapalenia otrzewnej o niejasnej etiologii. Wykonano pilne cesarskie cięcie dolnego odcinka, w wyniku którego urodził się wcześniak wymagający intensywnej opieki noworodkowej. Śródoperacyjnie stwierdzono gęste zrosty i zapieczętowaną perforację obejmującą esicę, co wymagało odwrócenia kolostomii i wycięcia węzłów chłonnych."
     },
     {
       "title": "Podsumowania badań międzynarodowej polityki zdrowotnej – lekarz NEJM",
@@ -1062,6 +1062,14 @@
       "summary": "Insulina efsitora alfa w leczeniu cukrzycy typu 2 Strona internetowa NICE."
     },
     {
+      "title": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ta1187/documents/html-content-2",
+      "date": "2026-08-20T21:08:34Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Poradnik NICE."
+    },
+    {
       "title": "Medycyna podróży w teorii i praktyce - NIL",
       "url": "https://nil.org.pl/elearningToPdf/1808",
       "date": "2026-08-20T18:28:58Z",
@@ -1118,12 +1126,12 @@
       "summary": "Terapia medyczna ukierunkowana na wytyczne w trwałych urządzeniach wspomagających lewą komorę: dlaczego jest nadal konieczna, czasopisma American Heart Association."
     },
     {
-      "title": "Centrum medyczne Sanford Jackson wyróżnione za doskonalenie opieki nad pacjentami z udarem na obszarach wiejskich — Jackson County Pilot",
-      "url": "https://www.jacksoncountypilot.com/articles/sanford-jackson-medical-center-recognized-for-advancing-rural-stroke-care/",
-      "date": "2026-08-19T13:10:14Z",
+      "title": "Nowe wytyczne wzywają kardiologów do myślenia poza silosami podczas leczenia zespołu CKM – Cleveland Clinic",
+      "url": "https://consultqd.clevelandclinic.org/think-beyond-silos-when-managing-ckm-syndrome",
+      "date": "2026-08-19T11:25:37Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum medyczne Sanford Jackson wyróżnione za doskonalenie opieki nad pacjentami z udarem na obszarach wiejskich w Jackson County Pilot."
+      "summary": "Nowe wytyczne CKM pomagają kardiologom ocenić ryzyko, poszerzyć ocenę i ujednolicić leczenie pacjentów z nakładającymi się chorobami serca, nerek i chorobami metabolicznymi."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 19 sierpnia 2026 r. zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety",
