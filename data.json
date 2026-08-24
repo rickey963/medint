@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T08:55:07Z",
+  "last_updated": "2026-08-24T08:57:02Z",
   "poland": [
     {
       "title": "Prezes NFZ wylicza. Żeby zapłacić za nadwykonania trzeba nawet 25 mld złotych - PolitykaZdrowotna.com",
@@ -48,6 +48,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Komórki macierzyste w leczeniu: gdzie kończy się nauka, a zaczyna obietnica PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Nowe działanie kawy. Naukowcy z Finlandii mówią o spektakularnych efektach - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/Nowe-dzialanie-kawy-Naukowcy-z-Finlandii-mowia-o-spektakularnych-efektach,288080,11.html",
+      "date": "2026-08-24T07:20:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Według fińskich badaczy kawa może mieć jeszcze więcej właściwości zdrowotnych niż dotychczas myślano. Najczęściej napój ten kojarzy się z pobudzeniem i podtrzymaniem czujności, ale wiele wskazuje na to, że jest kluczem dla zdrowszego metabolizmu. Kawa wiąże się także ze zmianami hormonalnymi."
     },
     {
       "title": "Rozwiązanie nieidealne, ale niezbędne - Termedia",
@@ -392,14 +400,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Tak źle jeszcze nie było. Liczba aptek w Polsce spadła już poniżej 11 tysięcy PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Bilans tygodnia. Od optymalnej terapii do Lex szarlatan. W ochronie zdrowia ciśnienie nie spada - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/system-ochrony-zdrowia/bilans-tygodnia-od-optymalnej-terapii-do-lex-szarlatan-w-ochronie-zdrowia-cisnienie-nie-spada/",
-      "date": "2026-08-23T15:26:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "W ochronie zdrowia trudno było w tym tygodniu znaleźć spokojny moment. Ministerstwo Zdrowia zapowiedziało zmiany w refundacji i nowe kompetencje farmaceutów, eksperci mówili o optymalizacji terapii i potrzebie dalszego leczenia po zabiegach, a decyzja prezydenta w sprawie Lex szarlatan wywołała kolejną falę emocji. Do tego doszła zapowiedź dodatkowych 17 mld zł na zdrowie."
     }
   ],
   "world": [
@@ -497,7 +497,7 @@
       "date": "2026-08-24T05:48:38Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Z badania wynika, że ​​odmrożenia najczęściej zdarzają się wśród młodszych pacjentów, ale w przypadku starszych pacjentów i osób narażonych na kontakt społeczny częściej kończą się poważnym skierowaniem na oddział ratunkowy."
+      "summary": "Z badania wynika, że ​​odmrożenia najczęściej zdarzają się wśród młodszych pacjentów, ale w przypadku starszych pacjentów i osób narażonych na kontakt z otoczeniem prawdopodobieństwo poważnego skierowania się na oddział ratunkowy jest większe."
     },
     {
       "title": "Amerykanie kupili o 12% mniej napojów gazowanych w ramach nowych ograniczeń SNAP, wynika z badania - STAT",
@@ -713,7 +713,7 @@
       "date": "2026-08-23T14:11:27Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Pierworodka w 32. tygodniu i 6. dniu ciąży zgłosiła się z bólem brzucha i cechami ostrego brzucha z podejrzeniem zapalenia otrzewnej o niejasnej etiologii. Wykonano pilne cesarskie cięcie dolnego odcinka, w wyniku którego urodził się wcześniak wymagający intensywnej opieki noworodkowej. Śródoperacyjnie stwierdzono gęste zrosty i zapieczętowaną perforację obejmującą esicę, co wymagało odwrócenia kolostomii i wycięcia węzłów chłonnych."
+      "summary": "Ostry brzuch w ciąży objawiający się rakiem esicy podczas cięcia cesarskiego BMJ Case Reports."
     },
     {
       "title": "Podsumowania badań międzynarodowej polityki zdrowotnej – lekarz NEJM",
@@ -793,7 +793,7 @@
       "date": "2026-08-23T07:12:48Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Kontekst Zespół nadpobudliwości psychoruchowej z deficytem uwagi (ADHD) to powszechnie uznawana choroba psychiczna, która często utrzymuje się do wieku dorosłego, znacząco wpływając na dobrostan emocjonalny, relacje międzyludzkie, edukację i zatrudnienie. Dorośli z ADHD często zgłaszają poważne wyzwania psychospołeczne, w tym napiętnowanie, rozregulowanie emocjonalne i upośledzenie zawodowe. Jednak obecna literatura koncentruje się głównie na diagnostyce klinicznej, chorobach współistniejących i wynikach leczenia, kładąc nieproporcjonalny nacisk na ilościowe wskaźniki oparte na objawach."
+      "summary": "Doświadczenia psychospołeczne dorosłych żyjących z zespołem nadpobudliwości psychoruchowej: jakościowy protokół systematycznego przeglądu BMJ Open."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -915,7 +915,7 @@
       "date": "2026-08-21T13:25:56Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "MBC: Ocena stopnia zaawansowania i oceny ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "MBC: Ocena stopnia zaawansowania i ocena ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Zarządzanie pierwszej linii mTNBC – Europejskiego Towarzystwa Onkologii Medycznej | ESMO",
@@ -950,7 +950,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "EMA zaleca rozszerzenie wskazań dla datopotamabu Deruxtecan – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "EMA zaleca rozszerzenie wskazań dla datopotabu Deruxtecan – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-indications-for-datopotamab-deruxtecan",
       "date": "2026-08-21T11:48:22Z",
       "source": "ESMO (onkologia)",
@@ -995,7 +995,7 @@
       "date": "2026-08-21T09:00:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Leczenie można rozpocząć bez potwierdzenia tkanki streamlinefeed.co.ke."
+      "summary": "Nowe wytyczne ACOG 2026 eliminują potrzebę wykonywania biopsji chirurgicznej przed rozpoczęciem leczenia endometriozy, umożliwiając lekarzom przepisywanie leków na podstawie..."
     },
     {
       "title": "Młodzież może otrzymać diagnostykę kliniczną i leczenie – streamlinefeed.co.ke",
@@ -1019,7 +1019,7 @@
       "date": "2026-08-21T07:29:53Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Dlaczego diagnostyka endometriozy wciąż zajmuje aż 11 lat streamlinefeed.co.ke."
+      "summary": "Pomimo wytycznych zalecających wcześniejszą interwencję, na całym świecie utrzymują się opóźnienia w diagnostyce endometriozy, wynoszące średnio od 4 do 11 lat, w miarę jak pacjentki pokonują bariery."
     },
     {
       "title": "Zimbabwe - Widok podróżnika | Zdrowie podróżnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1030,7 +1030,7 @@
       "summary": "Oficjalne zalecenia zdrowotne rządu USA dotyczące podróżowania. Dostarczone przez USA"
     },
     {
-      "title": "Pozaszpitalne zatrzymanie krążenia bez powrotu spontanicznego krążenia po upływie ponad 2 godzin: czy zakończenie resuscytacji jest jedyną opcją? Opis przypadku - ESC 365",
+      "title": "Pozaszpitalne zatrzymanie krążenia bez powrotu samoistnego krążenia po upływie ponad 2 godzin: czy zakończenie resuscytacji jest jedyną opcją? Opis przypadku - ESC 365",
       "url": "https://esc365.escardio.org/journal/94413",
       "date": "2026-08-21T07:00:00Z",
       "source": "ESC (kardiologia)",
@@ -1046,28 +1046,12 @@
       "summary": "Specyficzne dla miejsca leczenie choroby oligometastatycznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "MBC: Obserwacja, implikacje długoterminowe i przeżycie – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/follow-up-long-term-implications-and-survivorship",
-      "date": "2026-08-21T01:53:04Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "MBC: Obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
       "title": "Insulina efsitora alfa w leczeniu cukrzycy typu 2 – strona internetowa NICE",
       "url": "http://nice.org.uk/guidance/gid-ta11644/documents/674",
       "date": "2026-08-20T22:47:17Z",
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Insulina efsitora alfa w leczeniu cukrzycy typu 2 Strona internetowa NICE."
-    },
-    {
-      "title": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/ta1187/documents/html-content-2",
-      "date": "2026-08-20T21:08:34Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Poradnik NICE."
     },
     {
       "title": "Medycyna podróży w teorii i praktyce - NIL",
@@ -1118,7 +1102,7 @@
       "summary": "Badania identyfikują zespół CKM u młodych dorosłych i sugerują promowanie Life's Essential 8™ opracowanego przez American Heart Association na wczesnym etapie życia w celu poprawy zdrowia układu sercowo-naczyniowego."
     },
     {
-      "title": "Terapia medyczna oparta na wytycznych w trwałych urządzeniach wspomagających pracę lewej komory: dlaczego jest nadal konieczna - czasopisma American Heart Association",
+      "title": "Terapia medyczna oparta na wytycznych w trwałych urządzeniach wspomagających lewą komorę: dlaczego jest nadal konieczna - czasopisma American Heart Association",
       "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.052912",
       "date": "2026-08-19T17:38:37Z",
       "source": "Wytyczne AHA/ACC",
@@ -1131,7 +1115,7 @@
       "date": "2026-08-19T13:10:14Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum medyczne Sanford Jackson zostało docenione za wysiłki mające na celu optymalizację opieki nad pacjentami po udarze i zmniejszenie różnic w wynikach zdrowotnych na obszarach wiejskich. Lokalne centrum medyczne otrzymało niedawno brązową nagrodę Get With The Guidelines Stroke Rural Recognition przyznaną przez American Heart Association. Udar to nr."
+      "summary": "Centrum medyczne Sanford Jackson wyróżnione za doskonalenie opieki nad pacjentami z udarem na obszarach wiejskich w Jackson County Pilot."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 19 sierpnia 2026 r. zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety",
@@ -1184,7 +1168,7 @@
       "summary": "Portal SPH to interaktywna platforma cyfrowa, która ułatwia udostępnianie i wymianę informacji dotyczących wielosektorowych inwestycji, działań i możliwości w zakresie bezpieczeństwa zdrowia na poziomie krajowym, regionalnym i globalnym."
     },
     {
-      "title": "C8: Krajowe ramy sytuacji nadzwyczajnych dotyczących zdrowia – Światowa Organizacja Zdrowia (WHO)",
+      "title": "C8: Krajowe ramy sytuacji nadzwyczajnych w zakresie zdrowia – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://extranet.who.int/sph/node?field_jee_version_value=ver1&page=2876",
       "date": "2026-08-22T21:53:45Z",
       "source": "WHO Disease Outbreak News",
@@ -1735,7 +1719,7 @@
       "date": "2026-08-21T16:33:21Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Kiedy skończy się zapas czasu: badania kliniczne w trybie online dotyczące modelu operacyjnego AI i CRO."
+      "summary": "Kiedy skończy się zapas czasu: badania kliniczne dotyczące modelu operacyjnego AI i CRO w Internecie."
     },
     {
       "title": "Schemat bez chemii zachwala zwycięstwo nad rakiem piersi w obliczu zmiany terapii celowanej – Arena Badań Klinicznych",
@@ -1751,7 +1735,7 @@
       "date": "2026-08-21T11:11:12Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Streszczenie ACT: Niepowodzenie prób jako problemy administracyjne, Konsolidacja CRO w celu uzyskania globalnego zasięgu badań oraz Zatwierdzenie przez FDA pierwszych internetowych badań klinicznych dotyczących stosowania leczenia FOP."
+      "summary": "ACT Brief: Niepowodzenia prób jako problemy administracyjne, Konsolidacja CRO w celu uzyskania globalnego zasięgu badań oraz Zatwierdzenie przez FDA pierwszych internetowych badań klinicznych dotyczących stosowania leczenia FOP."
     },
     {
       "title": "AstraZeneca wyrusza na rynek bispecyficzny PD-1 po niepowodzeniu III fazy NSCLC – Arena Badań Klinicznych",
@@ -1945,7 +1929,7 @@
       "date": "2026-08-23T15:44:10Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Występuje główna interakcja lekowa pomiędzy brensokatybem a szczepionką Dengvaxia. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
+      "summary": "Istnieje główna interakcja lekowa pomiędzy brensokatybem a szczepionką Dengvaxia. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
