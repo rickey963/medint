@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T21:55:28Z",
+  "last_updated": "2026-08-24T21:56:23Z",
   "poland": [
     {
       "title": "Zapaść na Śląsku - Termedia",
@@ -1333,7 +1333,7 @@
       "date": "2026-08-21T16:23:43Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Z badania opublikowanego w tym tygodniu w International Journal of Infectious Diseases wynika, że ​​u osób zaszczepionych przeciwko wirusowi brodawczaka ludzkiego (HPV) ryzyko zachorowania na nowotwory głowy i szyi było znacznie mniejsze."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1352,7 +1352,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Epidemia Salmonelli związana z jalapeno w USA rośnie do 431 przypadków, 57 hospitalizacji – CIDRAP",
       "url": "https://www.cidrap.umn.edu/salmonella/jalapeno-linked-us-salmonella-outbreak-grows-431-cases-57-hospitalizations",
       "date": "2026-08-20T16:12:00Z",
       "source": "CIDRAP",
@@ -1438,6 +1438,14 @@
       "url": "https://clinicaltrials.gov/study/NCT07782840?term=pituitary",
       "date": "2026-08-24T20:39:48Z",
       "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/why-payment-performance-become-competitive-differentiator-sponsors",
+      "date": "2026-08-24T19:36:41Z",
+      "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
@@ -2214,11 +2222,12 @@
   ],
   "critical_alerts": [
     {
-      "title": "Sytuacja stabilna - brak nowych alertów medycznych",
-      "summary": "",
-      "url": "",
-      "source": "",
-      "date": "2026-08-24T21:55:28Z"
+      "title": "Epidemia Salmonelli związana z jalapeno w USA rośnie do 431 przypadków, 57 hospitalizacji – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/salmonella/jalapeno-linked-us-salmonella-outbreak-grows-431-cases-57-hospitalizations",
+      "date": "2026-08-20T16:12:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "daily_top5": [
