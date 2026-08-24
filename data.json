@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T20:02:42Z",
+  "last_updated": "2026-08-24T20:03:41Z",
   "poland": [
     {
       "title": "Spesolimab (spesolimab) opis substancji - Indeks Leków MP",
@@ -990,7 +990,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Zimbabwe - Widok podróżnika | Zdrowie podróżnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/zimbabwe",
       "date": "2026-08-21T07:00:00Z",
       "source": "CDC (rekomendacje)",
@@ -1011,7 +1011,15 @@
       "date": "2026-08-20T22:47:17Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Insulina efsitora alfa w leczeniu cukrzycy typu 2 Strona internetowa NICE."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.nice.org.uk/guidance/ta1187/documents/html-content-2",
+      "date": "2026-08-20T21:08:34Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Medycyna podróży w teorii i praktyce - NIL",
@@ -1051,7 +1059,7 @@
       "date": "2026-08-20T17:01:47Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Notatki terenowe: Epidemia dengi — Naoero, 2025 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1071,8 +1079,8 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.jacksoncountypilot.com/articles/sanford-jackson-medical-center-recognized-for-advancing-rural-stroke-care/",
-      "date": "2026-08-19T13:10:14Z",
+      "url": "https://consultqd.clevelandclinic.org/think-beyond-silos-when-managing-ckm-syndrome",
+      "date": "2026-08-19T11:25:37Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -1789,7 +1797,7 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.drugs.com/news/zinc-supplementation-cuts-infections-children-under-5-years-sickle-cell-anemia-131094.html",
+      "url": "https://www.drugs.com/news/family-medicine-shortage-why-future-doctors-look-elsewhere-131089.html",
       "date": "2026-08-24T17:44:44Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
@@ -1805,7 +1813,7 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.drugs.com/news/family-medicine-shortage-why-future-doctors-look-elsewhere-131089.html",
+      "url": "https://www.drugs.com/news/zinc-supplementation-cuts-infections-children-under-5-years-sickle-cell-anemia-131094.html",
       "date": "2026-08-24T17:44:44Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
@@ -2174,12 +2182,11 @@
   ],
   "critical_alerts": [
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a2.htm?s_cid=OS_mm7532a2_w",
-      "date": "2026-08-20T17:01:47Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Notatki terenowe: Epidemia dengi — Naoero, 2025 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "title": "Sytuacja stabilna - brak nowych alertów medycznych",
+      "summary": "",
+      "url": "",
+      "source": "",
+      "date": "2026-08-24T20:03:41Z"
     }
   ],
   "daily_top5": [
