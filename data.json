@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T07:19:07Z",
+  "last_updated": "2026-08-24T07:19:53Z",
   "poland": [
     {
       "title": "Do 1,5 mln zł na wyroby medyczne dla kardiologii dziecięcej. MZ wydłuża nabór - Alert Medyczny",
@@ -950,7 +950,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "EMA zaleca rozszerzenie wskazań dla datopotamabu Deruxtecan – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "EMA zaleca rozszerzenie wskazań dla datopotabu Deruxtecan – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-indications-for-datopotamab-deruxtecan",
       "date": "2026-08-21T11:48:22Z",
       "source": "ESMO (onkologia)",
@@ -990,20 +990,20 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Młodzież może otrzymać diagnostykę kliniczną i leczenie – streamlinefeed.co.ke",
-      "url": "https://streamlinefeed.co.ke/news/adolescents-can-receive-clinical-diagnosis-and-treatment",
-      "date": "2026-08-21T09:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Nastolatki cierpiące na uniemożliwiający ból miesiączkowy mogą uzyskać kliniczną diagnozę endometriozy i rozpocząć leczenie przed jakąkolwiek operacją, pod kierunkiem ACOG i ESHRE."
-    },
-    {
       "title": "Leczenie można rozpocząć bez potwierdzenia tkanki – streamlinefeed.co.ke",
       "url": "https://streamlinefeed.co.ke/news/treatment-can-start-without-tissue-confirmation",
       "date": "2026-08-21T09:00:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Nowe wytyczne ACOG 2026 eliminują potrzebę wykonywania biopsji chirurgicznej przed rozpoczęciem leczenia endometriozy, umożliwiając lekarzom przepisywanie leków na podstawie..."
+    },
+    {
+      "title": "Młodzież może otrzymać diagnostykę kliniczną i leczenie – streamlinefeed.co.ke",
+      "url": "https://streamlinefeed.co.ke/news/adolescents-can-receive-clinical-diagnosis-and-treatment",
+      "date": "2026-08-21T09:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nastolatki cierpiące na uniemożliwiający ból miesiączkowy mogą uzyskać kliniczną diagnozę endometriozy i rozpocząć leczenie przed jakąkolwiek operacją, pod kierunkiem ACOG i ESHRE."
     },
     {
       "title": "Silny ból miesiączkowy u nastolatków zasługuje na wczesną ocenę – streamlinefeed.co.ke",
@@ -1019,7 +1019,7 @@
       "date": "2026-08-21T07:29:53Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Dlaczego diagnostyka endometriozy wciąż zajmuje aż 11 lat streamlinefeed.co.ke."
+      "summary": "Pomimo wytycznych zalecających wcześniejszą interwencję, na całym świecie utrzymują się opóźnienia w diagnostyce endometriozy, wynoszące średnio od 4 do 11 lat, w miarę jak pacjentki pokonują bariery."
     },
     {
       "title": "Zimbabwe - Widok podróżnika | Zdrowie podróżnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1152,7 +1152,7 @@
       "summary": "To narzędzie do planowania i budżetowania badań na gruźlicę i lekooporną gruźlicę powinno być wykorzystywane do obliczania zapotrzebowania na testy i materiały eksploatacyjne, w tym produkty związane z bezpieczeństwem biologicznym, w laboratoriach gruźlicy w danym kraju lub regionie. Zaktualizowane narzędzie uwzględnia nowe testy do diagnostyki gruźlicy i badania lekowrażliwości zalecane przez WHO i powinno pomóc krajom w ustaleniu rocznego budżetu na laboratoria gruźlicy. Narzędzie przeznaczone jest wyłącznie do budżetowania, a nie do planowania czy rozbudowy sieci diagnostycznej."
     },
     {
-      "title": "Wielosektorowa koordynacja na rzecz gotowości w zakresie bezpieczeństwa zdrowia MPC – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Wielosektorowa koordynacja na rzecz gotowości w zakresie bezpieczeństwa zdrowotnego MPC – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://extranet.who.int/sph/emergency-diseases/bundibugyo-virus-disease-type-ebola-disease",
       "date": "2026-08-23T08:20:40Z",
       "source": "WHO Disease Outbreak News",
@@ -1493,7 +1493,7 @@
       "date": "2026-08-21T12:00:00Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Cotygodniowe aktualizacje zawierające najnowsze raporty na temat przypadków wirusa Zachodniego Nilu w Europie, aktualizowane w każdy piątek w sezonie przenoszenia."
+      "summary": "Cotygodniowe aktualizacje zawierające najnowsze raporty dotyczące przypadków wirusa Zachodniego Nilu w Europie, aktualizowane w każdy piątek w sezonie przenoszenia."
     },
     {
       "title": "WHO i Uniwersytet Pekiński zacieśniają współpracę na rzecz poprawy gotowości na wypadek sytuacji kryzysowych zdrowotnych – Światowa Organizacja Zdrowia (WHO)",
@@ -1575,10 +1575,10 @@
       "date": "2026-08-22T10:40:02Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Jean-Fran&ccedil;ois Lesgards, niezależny badacz z Marsylii i jego współpracownicy, w tym onkolog Angus Dalgleish z City St George’s na Uniwersytecie Londyńskim, opublikowali 121-stronicowy wydruk wstępny Zenodo sprawdzający, czy szczepienie przeciwko Covid-19 – zwłaszcza szczepienie mRNA – może przyczynić się do inicjacji, nawrotu lub progresji raka. Globalny wzrost umieralności na nowotwory od końca 2021 r. w związku z zastrzykami mRNA COVID łączy trendy nowotworowe z literaturą mechanistyczną obejmującą odporność wrodzoną, IgG4, sygnalizację interferonową, stany zapalne, ACE2/RAAS, p53, resztkowe DNA, telomery i metabolizm komórkowy. Co ważne, autorzy ostatecznie opisują swój model jako „teoretyczny i badawczy”. a nie dowód przyczynowości."
+      "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
-      "title": "Szczegóły badania | NCT07778719 | Wpływ metforminy i dapagliflozyny na IGF-1 u mężczyzn z T2DM i MASLD – ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07778719 | Wpływ metforminy i dapagliflozyny na IGF-1 u mężczyzn z T2DM i MASLD - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07778719",
       "date": "2026-08-22T05:05:23Z",
       "source": "ClinicalTrials.gov",
@@ -1618,7 +1618,7 @@
       "summary": "Szczegóły badania | NCT07779512 | Bezpieczny sen niemowląt na oddziale ratunkowym dla dzieci ClinicalTrials.gov."
     },
     {
-      "title": "CZYNNIKI WPŁYWAJĄCE NA NIETOLERANCJĘ ŻYWIENIA DOJELITOWEGO U PACJENTÓW ODDZIAŁÓW INTENSYWNEJ OPIEKI (EFI-ICU) - ClinicalTrials.gov",
+      "title": "Czynniki wpływające na nietolerancję żywienia dojelitowego u pacjentów oddziałów intensywnej terapii (EFI-ICU) - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07780734",
       "date": "2026-08-22T04:55:00Z",
       "source": "ClinicalTrials.gov",
@@ -1711,7 +1711,7 @@
       "date": "2026-08-22T00:23:11Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Raport przejrzany przez TrialSite News przedstawia prowokacyjny argument: optymalizacja witaminy D3, cynku i kwercetyny w całej populacji mogłaby zapewnić szerszą, bezpieczniejszą i tańszą ochronę przed wirusami RNA niż strategia oparta na szczepionce oparta na wielokrotnym szczepieniu mRNA. Hipoteza zasługuje na poważne zbadanie. Jednak po przejrzeniu randomizowanych badań, metaanaliz oraz badań skuteczności i bezpieczeństwa szczepionek TSN dochodzi do bardziej powściągliwego wniosku: korygowanie rzeczywistych niedoborów żywieniowych jest rozsądne z biologicznego i medycznego punktu widzenia, ale nie wykazano klinicznie, że proponowana trzyczęściowa strategia przeciwwirusowa jest skuteczniejsza od szczepień."
+      "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
       "title": "Przegląd szczepionki mRNA stwierdza wczesną ochronę, ale pozostawia nierozwiązane główne pytania związane z pandemią - Trialsitenews.com",
@@ -1727,7 +1727,7 @@
       "date": "2026-08-21T22:11:14Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Kiedy prawnik przeszkodził: nowe dokumenty ponownie otwierają pytania dotyczące brytyjskiej maszyny do walki z wirusem COVID – Trialsitenews.com."
+      "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
       "title": "Kiedy skończy się zapas czasu: sztuczna inteligencja i model operacyjny CRO – stosowane badania kliniczne online",
@@ -1735,7 +1735,7 @@
       "date": "2026-08-21T16:33:21Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Kiedy skończy się zapas czasu: badania kliniczne w trybie online dotyczące modelu operacyjnego AI i CRO."
+      "summary": "Kiedy skończy się zapas czasu: badania kliniczne dotyczące modelu operacyjnego AI i CRO w Internecie."
     },
     {
       "title": "Schemat bez chemii zachwala zwycięstwo nad rakiem piersi w obliczu zmiany terapii celowanej – Arena Badań Klinicznych",
@@ -1751,7 +1751,7 @@
       "date": "2026-08-21T11:11:12Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Streszczenie ACT: Niepowodzenie prób jako problemy administracyjne, Konsolidacja CRO w celu uzyskania globalnego zasięgu badań oraz Zatwierdzenie przez FDA pierwszych internetowych badań klinicznych dotyczących stosowania leczenia FOP."
+      "summary": "ACT Brief: Niepowodzenia prób jako problemy administracyjne, Konsolidacja CRO w celu uzyskania globalnego zasięgu badań oraz Zatwierdzenie przez FDA pierwszych internetowych badań klinicznych dotyczących stosowania leczenia FOP."
     },
     {
       "title": "AstraZeneca wyrusza na rynek bispecyficzny PD-1 po niepowodzeniu III fazy NSCLC – Arena Badań Klinicznych",
@@ -1775,7 +1775,7 @@
       "date": "2026-08-21T09:28:37Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Badanie wykazało, że sygnatura biomarkerów metabolicznych pomaga we wczesnym wykrywaniu HNSCC. Arena badań klinicznych."
+      "summary": "Badanie wykazało, że sygnatura biomarkerów metabolicznych pomaga we wczesnym wykrywaniu HNSCC w ośrodku badań klinicznych."
     },
     {
       "title": "VA stawia na psilocybinę dla weteranów z oporną depresją – ale dowody wciąż muszą wzbudzić zainteresowanie – trialsitenews.com",
@@ -1913,7 +1913,7 @@
       "date": "2026-08-23T15:44:10Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Występuje główna interakcja lekowa pomiędzy brensokatybem a szczepionką Dengvaxia. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
+      "summary": "Istnieje główna interakcja lekowa pomiędzy brensokatybem a szczepionką Dengvaxia. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
