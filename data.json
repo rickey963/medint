@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T08:40:10Z",
+  "last_updated": "2026-08-24T08:41:04Z",
   "poland": [
     {
       "title": "Prezes NFZ wylicza. Żeby zapłacić za nadwykonania trzeba nawet 25 mld złotych - PolitykaZdrowotna.com",
@@ -497,7 +497,7 @@
       "date": "2026-08-24T05:48:38Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Z badania wynika, że ​​odmrożenia najczęściej zdarzają się wśród młodszych pacjentów, ale w przypadku starszych pacjentów i osób narażonych na kontakt z otoczeniem prawdopodobieństwo poważnego skierowania się na oddział ratunkowy jest większe."
+      "summary": "Z badania wynika, że ​​odmrożenia najczęściej zdarzają się wśród młodszych pacjentów, ale w przypadku starszych pacjentów i osób narażonych na kontakt społeczny częściej kończą się poważnym skierowaniem na oddział ratunkowy."
     },
     {
       "title": "Amerykanie kupili o 12% mniej napojów gazowanych w ramach nowych ograniczeń SNAP, wynika z badania - STAT",
@@ -915,7 +915,7 @@
       "date": "2026-08-21T13:25:56Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "MBC: Ocena stopnia zaawansowania i ocena ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "MBC: Ocena stopnia zaawansowania i oceny ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Zarządzanie pierwszej linii mTNBC – Europejskiego Towarzystwa Onkologii Medycznej | ESMO",
@@ -1030,7 +1030,7 @@
       "summary": "Oficjalne zalecenia zdrowotne rządu USA dotyczące podróżowania. Dostarczone przez USA"
     },
     {
-      "title": "Pozaszpitalne zatrzymanie krążenia bez powrotu samoistnego krążenia po upływie ponad 2 godzin: czy zakończenie resuscytacji jest jedyną opcją? Opis przypadku - ESC 365",
+      "title": "Pozaszpitalne zatrzymanie krążenia bez powrotu spontanicznego krążenia po upływie ponad 2 godzin: czy zakończenie resuscytacji jest jedyną opcją? Opis przypadku - ESC 365",
       "url": "https://esc365.escardio.org/journal/94413",
       "date": "2026-08-21T07:00:00Z",
       "source": "ESC (kardiologia)",
@@ -1046,12 +1046,28 @@
       "summary": "Specyficzne dla miejsca leczenie choroby oligometastatycznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
+      "title": "MBC: Obserwacja, implikacje długoterminowe i przeżycie – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/follow-up-long-term-implications-and-survivorship",
+      "date": "2026-08-21T01:53:04Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "MBC: Obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
       "title": "Insulina efsitora alfa w leczeniu cukrzycy typu 2 – strona internetowa NICE",
       "url": "http://nice.org.uk/guidance/gid-ta11644/documents/674",
       "date": "2026-08-20T22:47:17Z",
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Insulina efsitora alfa w leczeniu cukrzycy typu 2 Strona internetowa NICE."
+    },
+    {
+      "title": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Poradnik - strona internetowa NICE",
+      "url": "https://www.nice.org.uk/guidance/ta1187/documents/html-content-2",
+      "date": "2026-08-20T21:08:34Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Poradnik NICE."
     },
     {
       "title": "Medycyna podróży w teorii i praktyce - NIL",
@@ -1102,7 +1118,7 @@
       "summary": "Badania identyfikują zespół CKM u młodych dorosłych i sugerują promowanie Life's Essential 8™ opracowanego przez American Heart Association na wczesnym etapie życia w celu poprawy zdrowia układu sercowo-naczyniowego."
     },
     {
-      "title": "Terapia medyczna oparta na wytycznych w trwałych urządzeniach wspomagających lewą komorę: dlaczego jest nadal konieczna - czasopisma American Heart Association",
+      "title": "Terapia medyczna oparta na wytycznych w trwałych urządzeniach wspomagających pracę lewej komory: dlaczego jest nadal konieczna - czasopisma American Heart Association",
       "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.052912",
       "date": "2026-08-19T17:38:37Z",
       "source": "Wytyczne AHA/ACC",
@@ -1110,12 +1126,12 @@
       "summary": "Terapia medyczna ukierunkowana na wytyczne w trwałych urządzeniach wspomagających lewą komorę: dlaczego jest nadal konieczna, czasopisma American Heart Association."
     },
     {
-      "title": "Centrum medyczne Sanford Jackson wyróżnione za doskonalenie opieki nad pacjentami z udarem na obszarach wiejskich — Jackson County Pilot",
-      "url": "https://www.jacksoncountypilot.com/articles/sanford-jackson-medical-center-recognized-for-advancing-rural-stroke-care/",
-      "date": "2026-08-19T13:10:14Z",
+      "title": "Nowe wytyczne wzywają kardiologów do myślenia poza silosami podczas leczenia zespołu CKM – Cleveland Clinic",
+      "url": "https://consultqd.clevelandclinic.org/think-beyond-silos-when-managing-ckm-syndrome",
+      "date": "2026-08-19T11:25:37Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Centrum medyczne Sanford Jackson wyróżnione za doskonalenie opieki nad pacjentami z udarem na obszarach wiejskich w Jackson County Pilot."
+      "summary": "Nowe wytyczne CKM pomagają kardiologom ocenić ryzyko, poszerzyć ocenę i ujednolicić leczenie pacjentów z nakładającymi się chorobami serca, nerek i chorobami metabolicznymi."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 19 sierpnia 2026 r. zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety",
@@ -1168,7 +1184,7 @@
       "summary": "Portal SPH to interaktywna platforma cyfrowa, która ułatwia udostępnianie i wymianę informacji dotyczących wielosektorowych inwestycji, działań i możliwości w zakresie bezpieczeństwa zdrowia na poziomie krajowym, regionalnym i globalnym."
     },
     {
-      "title": "C8: Krajowe ramy sytuacji nadzwyczajnych w zakresie zdrowia – Światowa Organizacja Zdrowia (WHO)",
+      "title": "C8: Krajowe ramy sytuacji nadzwyczajnych dotyczących zdrowia – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://extranet.who.int/sph/node?field_jee_version_value=ver1&page=2876",
       "date": "2026-08-22T21:53:45Z",
       "source": "WHO Disease Outbreak News",
@@ -1485,7 +1501,7 @@
       "date": "2026-08-21T12:00:00Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Cotygodniowe aktualizacje zawierające najnowsze raporty na temat przypadków wirusa Zachodniego Nilu w Europie, aktualizowane w każdy piątek w sezonie przenoszenia."
+      "summary": "Cotygodniowe aktualizacje zawierające najnowsze raporty dotyczące przypadków wirusa Zachodniego Nilu w Europie, aktualizowane w każdy piątek w sezonie przenoszenia."
     },
     {
       "title": "WHO i Uniwersytet Pekiński zacieśniają współpracę na rzecz poprawy gotowości na wypadek sytuacji kryzysowych zdrowotnych – Światowa Organizacja Zdrowia (WHO)",
@@ -1562,7 +1578,7 @@
       "summary": "Jean-Fran&ccedil;ois Lesgards, niezależny badacz z Marsylii i jego współpracownicy, w tym onkolog Angus Dalgleish z City St George’s na Uniwersytecie Londyńskim, opublikowali 121-stronicowy wydruk wstępny Zenodo sprawdzający, czy szczepienie przeciwko Covid-19 – zwłaszcza szczepienie mRNA – może przyczynić się do inicjacji, nawrotu lub progresji raka. Globalny wzrost umieralności na nowotwory od końca 2021 r. w związku z zastrzykami mRNA COVID łączy trendy nowotworowe z literaturą mechanistyczną obejmującą odporność wrodzoną, IgG4, sygnalizację interferonową, stany zapalne, ACE2/RAAS, p53, resztkowe DNA, telomery i metabolizm komórkowy. Co ważne, autorzy ostatecznie opisują swój model jako „teoretyczny i badawczy”. a nie dowód przyczynowości."
     },
     {
-      "title": "Szczegóły badania | NCT07778719 | Wpływ metforminy i dapagliflozyny na IGF-1 u mężczyzn z T2DM i MASLD – ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07778719 | Wpływ metforminy i dapagliflozyny na IGF-1 u mężczyzn z T2DM i MASLD - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07778719",
       "date": "2026-08-22T05:05:23Z",
       "source": "ClinicalTrials.gov",
@@ -1602,7 +1618,7 @@
       "summary": "Szczegóły badania | NCT07779512 | Bezpieczny sen niemowląt na oddziale ratunkowym dla dzieci ClinicalTrials.gov."
     },
     {
-      "title": "CZYNNIKI WPŁYWAJĄCE NA NIETOLERANCJĘ ŻYWIENIA DOJELITOWEGO U PACJENTÓW ODDZIAŁÓW INTENSYWNEJ OPIEKI (EFI-ICU) - ClinicalTrials.gov",
+      "title": "Czynniki wpływające na nietolerancję żywienia dojelitowego u pacjentów oddziałów intensywnej terapii (EFI-ICU) - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07780734",
       "date": "2026-08-22T04:55:00Z",
       "source": "ClinicalTrials.gov",
@@ -1759,15 +1775,7 @@
       "date": "2026-08-21T09:28:37Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Badanie wykazało, że sygnatura biomarkerów metabolicznych pomaga we wczesnym wykrywaniu HNSCC. Arena badań klinicznych."
-    },
-    {
-      "title": "VA stawia na psilocybinę dla weteranów z oporną depresją – ale dowody wciąż muszą wzbudzić zainteresowanie – trialsitenews.com",
-      "url": "https://www.trialsitenews.com/a/va-bets-on-psilocybin-for-veterans-with-resistant-depressionbut-the-evidence-still-has-to-catch-the-hype-f8409773",
-      "date": "2026-08-21T08:40:37Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Psychodelik, niegdyś zepchnięty na margines medycyny amerykańskiej, trafia prosto do federalnego establishmentu badawczego. Departament Spraw Weteranów Stanów Zjednoczonych uruchomił PIVOT, wieloośrodkowe, randomizowane, kontrolowane badanie testujące psilocybinę o jakości farmaceutycznej u weteranów z oporną na leczenie poważną depresją, w tym osób z zespołem stresu pourazowego (PTSD)."
+      "summary": "Badanie wykazało, że sygnatura biomarkerów metabolicznych pomaga we wczesnym wykrywaniu HNSCC w ośrodku badań klinicznych."
     }
   ],
   "pharma_market": [
