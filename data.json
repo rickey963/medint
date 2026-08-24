@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T10:28:26Z",
+  "last_updated": "2026-08-24T10:29:12Z",
   "poland": [
     {
       "title": "Choroba Hashimoto a płodność - jak wpływa na organizm kobiety? - Serwis Zdrowie",
@@ -420,7 +420,7 @@
       "summary": "Starsi dorośli z zaburzeniami poznawczymi, którzy stosują niewłaściwe leki powiązane z niekorzystnymi skutkami poznawczymi, częściej mają gorszą jakość życia związaną ze zdrowiem psychicznym."
     },
     {
-      "title": "Powszechny ASM powiązany z podwójnym ryzykiem zakrzepowo-zatorowym w przypadku DOAC – Medscape",
+      "title": "Powszechna ASM powiązana z podwójnym ryzykiem zakrzepowo-zatorowym w przypadku DOAC – Medscape",
       "url": "https://www.medscape.com/viewarticle/antiseizure-med-linked-twofold-increased-thromboembolic-risk-2026a1000tcf?src=rss",
       "date": "2026-08-24T10:19:31Z",
       "source": "Medscape",
@@ -473,7 +473,7 @@
       "date": "2026-08-24T09:46:15Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Monitoring DNA krążącego guza wykrywa nawrót raka z komórek Merkla po operacji mającej na celu wyleczenie."
+      "summary": "Monitoring DNA krążącego nowotworu wykrywa nawrót raka z komórek Merkla po operacji mającej na celu wyleczenie."
     },
     {
       "title": "Wdrożenie w całym mieście programu szybkiego sekwencjonowania całego genomu dla krytycznie chorych pacjentów pediatrycznych - Nature",
@@ -588,7 +588,7 @@
       "summary": "Spadek zakupów napojów gazowanych jest znaczący, ale nie ogromny – stwierdził jeden z autorów badania."
     },
     {
-      "title": "Chemoradioterapia a krótkotrwała radioterapia w celu zachowania narządów dostosowanego do odpowiedzi we wczesnym i pośrednim stadium raka odbytnicy (STAR-TREC): 12-miesięczne wyniki międzynarodowej, wieloośrodkowej, otwartej, randomizowanej fazy z grupami równoległymi - The Lancet",
+      "title": "Chemioradioterapia a krótkotrwała radioterapia w celu zachowania narządów dostosowanego do odpowiedzi we wczesnym i pośrednim stadium raka odbytnicy (STAR-TREC): 12-miesięczne wyniki międzynarodowej, wieloośrodkowej, otwartej, randomizowanej fazy z grupami równoległymi - The Lancet",
       "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00228-7/fulltext",
       "date": "2026-08-24T04:42:29Z",
       "source": "The Lancet",
@@ -806,6 +806,14 @@
   ],
   "guidelines": [
     {
+      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://myesc.escardio.org/ESCApplications",
+      "date": "2026-08-24T08:42:27Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
+    },
+    {
       "title": "Portugalscy kardiolodzy przedstawiają kampanię Poznaj swoje liczby w Parlamencie – Europejskim Towarzystwie Kardiologicznym",
       "url": "https://www.escardio.org/news/news-room/cvh-checks-at-portuguese-parliament/",
       "date": "2026-08-24T04:14:38Z",
@@ -820,14 +828,6 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Szpital uniwersytecki w New Brunswick i Saint Peters uznany za specjalistę w leczeniu udaru mózgu."
-    },
-    {
-      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://myesc.escardio.org/ESCApplications",
-      "date": "2026-08-23T18:37:22Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "JumpStart ma nowego reżysera Starka i inne wieści | Podsumowanie działalności — Repozytorium Canton",
@@ -915,7 +915,7 @@
       "date": "2026-08-21T13:25:56Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "MBC: Ocena stopnia zaawansowania i oceny ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "MBC: Ocena stopnia zaawansowania i ocena ryzyka Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Zarządzanie pierwszej linii mTNBC – Europejskiego Towarzystwa Onkologii Medycznej | ESMO",
@@ -1014,7 +1014,7 @@
       "summary": "Oficjalne zalecenia zdrowotne rządu USA dotyczące podróżowania. Dostarczone przez USA"
     },
     {
-      "title": "Pozaszpitalne zatrzymanie krążenia bez powrotu spontanicznego krążenia po upływie ponad 2 godzin: czy zakończenie resuscytacji jest jedyną opcją? Opis przypadku - ESC 365",
+      "title": "Pozaszpitalne zatrzymanie krążenia bez powrotu samoistnego krążenia po upływie ponad 2 godzin: czy zakończenie resuscytacji jest jedyną opcją? Opis przypadku - ESC 365",
       "url": "https://esc365.escardio.org/journal/94413",
       "date": "2026-08-21T07:00:00Z",
       "source": "ESC (kardiologia)",
@@ -1030,28 +1030,12 @@
       "summary": "Specyficzne dla miejsca leczenie choroby oligometastatycznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "MBC: Obserwacja, implikacje długoterminowe i przeżycie – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
-      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/follow-up-long-term-implications-and-survivorship",
-      "date": "2026-08-21T01:53:04Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "MBC: Obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
-    },
-    {
       "title": "Insulina efsitora alfa w leczeniu cukrzycy typu 2 – strona internetowa NICE",
       "url": "http://nice.org.uk/guidance/gid-ta11644/documents/674",
       "date": "2026-08-20T22:47:17Z",
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Insulina efsitora alfa w leczeniu cukrzycy typu 2 Strona internetowa NICE."
-    },
-    {
-      "title": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/ta1187/documents/html-content-2",
-      "date": "2026-08-20T21:08:34Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Notatki | Rilzabrutynib w leczeniu trwałej lub przewlekłej małopłytkowości immunologicznej (ocena zakończona) | Poradnik NICE."
     },
     {
       "title": "Medycyna podróży w teorii i praktyce - NIL",
@@ -1102,7 +1086,7 @@
       "summary": "Badania identyfikują zespół CKM u młodych dorosłych i sugerują promowanie Life's Essential 8™ opracowanego przez American Heart Association na wczesnym etapie życia w celu poprawy zdrowia układu sercowo-naczyniowego."
     },
     {
-      "title": "Terapia medyczna oparta na wytycznych w trwałych urządzeniach wspomagających pracę lewej komory: dlaczego jest nadal konieczna - czasopisma American Heart Association",
+      "title": "Terapia medyczna oparta na wytycznych w trwałych urządzeniach wspomagających lewą komorę: dlaczego jest nadal konieczna - czasopisma American Heart Association",
       "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.052912",
       "date": "2026-08-19T17:38:37Z",
       "source": "Wytyczne AHA/ACC",
@@ -1110,12 +1094,12 @@
       "summary": "Terapia medyczna ukierunkowana na wytyczne w trwałych urządzeniach wspomagających lewą komorę: dlaczego jest nadal konieczna, czasopisma American Heart Association."
     },
     {
-      "title": "Nowe wytyczne wzywają kardiologów do myślenia poza silosami podczas leczenia zespołu CKM – Cleveland Clinic",
-      "url": "https://consultqd.clevelandclinic.org/think-beyond-silos-when-managing-ckm-syndrome",
-      "date": "2026-08-19T11:25:37Z",
+      "title": "Centrum medyczne Sanford Jackson wyróżnione za doskonalenie opieki nad pacjentami z udarem na obszarach wiejskich — Jackson County Pilot",
+      "url": "https://www.jacksoncountypilot.com/articles/sanford-jackson-medical-center-recognized-for-advancing-rural-stroke-care/",
+      "date": "2026-08-19T13:10:14Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Nowe wytyczne CKM pomagają kardiologom ocenić ryzyko, poszerzyć ocenę i ujednolicić leczenie pacjentów z nakładającymi się chorobami serca, nerek i chorobami metabolicznymi."
+      "summary": "Centrum medyczne Sanford Jackson zostało docenione za wysiłki mające na celu optymalizację opieki nad pacjentami po udarze i zmniejszenie różnic w wynikach zdrowotnych na obszarach wiejskich. Lokalne centrum medyczne otrzymało niedawno brązową nagrodę Get With The Guidelines Stroke Rural Recognition przyznaną przez American Heart Association. Udar to nr."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 19 sierpnia 2026 r. zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety",
@@ -1136,7 +1120,7 @@
       "summary": "To narzędzie do planowania i budżetowania badań na gruźlicę i lekooporną gruźlicę powinno być wykorzystywane do obliczania zapotrzebowania na testy i materiały eksploatacyjne, w tym produkty związane z bezpieczeństwem biologicznym, w laboratoriach gruźlicy w danym kraju lub regionie. Zaktualizowane narzędzie uwzględnia nowe testy do diagnostyki gruźlicy i badania lekowrażliwości zalecane przez WHO i powinno pomóc krajom w ustaleniu rocznego budżetu na laboratoria gruźlicy. Narzędzie przeznaczone jest wyłącznie do budżetowania, a nie do planowania czy rozbudowy sieci diagnostycznej."
     },
     {
-      "title": "Wielosektorowa koordynacja na rzecz gotowości w zakresie bezpieczeństwa zdrowotnego MPC – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Wielosektorowa koordynacja na rzecz gotowości w zakresie bezpieczeństwa zdrowia MPC – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://extranet.who.int/sph/emergency-diseases/bundibugyo-virus-disease-type-ebola-disease",
       "date": "2026-08-23T08:20:40Z",
       "source": "WHO Disease Outbreak News",
@@ -1168,7 +1152,7 @@
       "summary": "Portal SPH to interaktywna platforma cyfrowa, która ułatwia udostępnianie i wymianę informacji dotyczących wielosektorowych inwestycji, działań i możliwości w zakresie bezpieczeństwa zdrowia na poziomie krajowym, regionalnym i globalnym."
     },
     {
-      "title": "C8: Krajowe ramy sytuacji nadzwyczajnych dotyczących zdrowia – Światowa Organizacja Zdrowia (WHO)",
+      "title": "C8: Krajowe ramy sytuacji nadzwyczajnych w zakresie zdrowia – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://extranet.who.int/sph/node?field_jee_version_value=ver1&page=2876",
       "date": "2026-08-22T21:53:45Z",
       "source": "WHO Disease Outbreak News",
@@ -1485,7 +1469,7 @@
       "date": "2026-08-21T12:00:00Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Cotygodniowe aktualizacje zawierające najnowsze raporty dotyczące przypadków wirusa Zachodniego Nilu w Europie, aktualizowane w każdy piątek w sezonie przenoszenia."
+      "summary": "Cotygodniowe aktualizacje zawierające najnowsze raporty na temat przypadków wirusa Zachodniego Nilu w Europie, aktualizowane w każdy piątek w sezonie przenoszenia."
     },
     {
       "title": "WHO i Uniwersytet Pekiński zacieśniają współpracę na rzecz poprawy gotowości na wypadek sytuacji kryzysowych zdrowotnych – Światowa Organizacja Zdrowia (WHO)",
@@ -1535,7 +1519,7 @@
       "date": "2026-08-24T09:46:45Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Orum rozpocznie badania fazy I ORM-1153 po zatwierdzeniu przez FDA Clinic Trials Arena."
+      "summary": "Orum rozpocznie badania fazy I ORM-1153 po zatwierdzeniu przez FDA Clinical Trials Arena."
     },
     {
       "title": "Niezależne, wolne od cenzury media na rzecz zdrowia i badań biomedycznych – Trialsitenews.com",
@@ -1570,7 +1554,7 @@
       "summary": "Jean-Fran&ccedil;ois Lesgards, niezależny badacz z Marsylii i jego współpracownicy, w tym onkolog Angus Dalgleish z City St George’s na Uniwersytecie Londyńskim, opublikowali 121-stronicowy wydruk wstępny Zenodo sprawdzający, czy szczepienie przeciwko Covid-19 – zwłaszcza szczepienie mRNA – może przyczynić się do inicjacji, nawrotu lub progresji raka. Globalny wzrost umieralności na nowotwory od końca 2021 r. w związku z zastrzykami mRNA COVID łączy trendy nowotworowe z literaturą mechanistyczną obejmującą odporność wrodzoną, IgG4, sygnalizację interferonową, stany zapalne, ACE2/RAAS, p53, resztkowe DNA, telomery i metabolizm komórkowy. Co ważne, autorzy ostatecznie opisują swój model jako „teoretyczny i badawczy”. a nie dowód przyczynowości."
     },
     {
-      "title": "Szczegóły badania | NCT07778719 | Wpływ metforminy i dapagliflozyny na IGF-1 u mężczyzn z T2DM i MASLD - ClinicalTrials.gov",
+      "title": "Szczegóły badania | NCT07778719 | Wpływ metforminy i dapagliflozyny na IGF-1 u mężczyzn z T2DM i MASLD – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07778719",
       "date": "2026-08-22T05:05:23Z",
       "source": "ClinicalTrials.gov",
@@ -1610,7 +1594,7 @@
       "summary": "Szczegóły badania | NCT07779512 | Bezpieczny sen niemowląt na oddziale ratunkowym dla dzieci ClinicalTrials.gov."
     },
     {
-      "title": "Czynniki wpływające na nietolerancję żywienia dojelitowego u pacjentów oddziałów intensywnej terapii (EFI-ICU) - ClinicalTrials.gov",
+      "title": "CZYNNIKI WPŁYWAJĄCE NA NIETOLERANCJĘ ŻYWIENIA DOJELITOWEGO U PACJENTÓW ODDZIAŁÓW INTENSYWNEJ OPIEKI (EFI-ICU) - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07780734",
       "date": "2026-08-22T04:55:00Z",
       "source": "ClinicalTrials.gov",
@@ -2216,7 +2200,7 @@
   ],
   "daily_top5": [
     {
-      "title": "Chemoradioterapia a krótkotrwała radioterapia w celu zachowania narządów dostosowanego do odpowiedzi we wczesnym i pośrednim stadium raka odbytnicy (STAR-TREC): 12-miesięczne wyniki międzynarodowej, wieloośrodkowej, otwartej, randomizowanej fazy z grupami równoległymi - The Lancet",
+      "title": "Chemioradioterapia a krótkotrwała radioterapia w celu zachowania narządów dostosowanego do odpowiedzi we wczesnym i pośrednim stadium raka odbytnicy (STAR-TREC): 12-miesięczne wyniki międzynarodowej, wieloośrodkowej, otwartej, randomizowanej fazy z grupami równoległymi - The Lancet",
       "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00228-7/fulltext",
       "date": "2026-08-24T04:42:29Z",
       "source": "The Lancet",
