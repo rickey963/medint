@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T05:50:54Z",
+  "last_updated": "2026-08-24T05:51:40Z",
   "poland": [
     {
       "title": "Serce, wysiłek i sport. Eksperci spotkają się na konferencji PTK w Nałęczowie - Alert Medyczny",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Wiek, narażenie społeczne powiązane z dysfunkcją zaburzeń erekcji w Frostbite – Medscape",
+      "url": "https://www.medscape.com/viewarticle/older-age-and-social-exposure-tied-serious-emergency-2026a1000tao",
+      "date": "2026-08-24T05:48:38Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Z badania wynika, że ​​odmrożenia najczęściej zdarzają się wśród młodszych pacjentów, ale w przypadku starszych pacjentów i osób narażonych na kontakt społeczny częściej kończą się poważnym skierowaniem na oddział ratunkowy."
+    },
+    {
       "title": "Amerykanie kupili o 12% mniej napojów gazowanych w ramach nowych ograniczeń SNAP, wynika z badania - STAT",
       "url": "https://www.statnews.com/2026/08/24/snap-restrictions-12-percent-drop-soda-purchases/",
       "date": "2026-08-24T05:04:57Z",
@@ -793,15 +801,7 @@
       "date": "2026-08-23T01:11:16Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Opis stanowiska Poszukujemy pielęgniarki z zespołu 5 na urlop macierzyński. Poszukujemy zmotywowanej i troskliwej pielęgniarki, która dołączy do zespołu..."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://extranet.who.int/sph/government-malawi-mepa",
-      "date": "2026-08-23T00:41:44Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Pielęgniarka personelu - POPD The BMJ."
     }
   ],
   "guidelines": [
@@ -950,7 +950,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "EMA zaleca rozszerzenie wskazań dla datopotabu Deruxtecan – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "EMA zaleca rozszerzenie wskazań dla datopotamabu Deruxtecan – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-indications-for-datopotamab-deruxtecan",
       "date": "2026-08-21T11:48:22Z",
       "source": "ESMO (onkologia)",
@@ -990,7 +990,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Młodzież może uzyskać diagnostykę kliniczną i leczenie – streamlinefeed.co.ke",
+      "title": "Młodzież może otrzymać diagnostykę kliniczną i leczenie – streamlinefeed.co.ke",
       "url": "https://streamlinefeed.co.ke/news/adolescents-can-receive-clinical-diagnosis-and-treatment",
       "date": "2026-08-21T09:00:00Z",
       "source": "Wytyczne kliniczne",
@@ -1038,20 +1038,20 @@
       "summary": "Nowe wytyczne ACOG z 2026 r. rezygnują z konieczności chirurgicznego rozpoznawania endometriozy u nastolatek, dzięki czemu diagnoza kliniczna może przyspieszyć kluczowe leczenie."
     },
     {
-      "title": "Zimbabwe - Widok podróżnika | Zdrowie podróżnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
-      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/zimbabwe",
-      "date": "2026-08-21T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
-      "summary": "Oficjalne zalecenia zdrowotne rządu USA dotyczące podróżowania. Dostarczone przez USA"
-    },
-    {
       "title": "Pozaszpitalne zatrzymanie krążenia bez powrotu spontanicznego krążenia po upływie ponad 2 godzin: czy zakończenie resuscytacji jest jedyną opcją? Opis przypadku - ESC 365",
       "url": "https://esc365.escardio.org/journal/94413",
       "date": "2026-08-21T07:00:00Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Uzyskaj dostęp do artykułu European Heart Journal — Case Reports na temat ARRYTMII I TERAPII URZĄDZENIOWEJ, CHOROBY TĘTNICY WIEŃCOWEJ, Ostrych zespołów wieńcowych, OSTREJ OPIEKI KARDIOLOGICZNEJ, Ostrej opiece kardiologicznej, Terapii urządzeniami w ESC 365."
+    },
+    {
+      "title": "Zimbabwe - Widok podróżnika | Zdrowie podróżnych — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/zimbabwe",
+      "date": "2026-08-21T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 2,
+      "summary": "Oficjalne zalecenia zdrowotne rządu USA dotyczące podróżowania. Dostarczone przez USA"
     },
     {
       "title": "Specyficzne dla miejsca leczenie choroby skąpoprzerzutowej — Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -1134,6 +1134,14 @@
       "summary": "Badania identyfikują zespół CKM u młodych dorosłych i sugerują promowanie Life's Essential 8™ opracowanego przez American Heart Association na wczesnym etapie życia w celu poprawy zdrowia układu sercowo-naczyniowego."
     },
     {
+      "title": "Jak nikotyna atakuje naczynia krwionośne: główny przegląd mapuje biologiczną hierarchię uszkodzeń układu sercowo-naczyniowego – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/press/press-releases/how-nicotine-attacks-the-blood-vessels-major-review-maps-the-biological-hierarchy-of-cardiovascular-harm/",
+      "date": "2026-08-20T07:24:11Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Przegląd opublikowany w Nature Reviews Cardiology zapewnia najbardziej szczegółowy jak dotąd obraz tego, jak nikotyna uszkadza układ sercowo-naczyniowy – śledząc biologiczny łańcuch zdarzeń od momentu związania się nikotyny z receptorami w ścianach naczyń krwionośnych aż do pęknięcia blaszki miażdżycowej, które powoduje zawały serca i udary mózgu."
+    },
+    {
       "title": "Terapia medyczna oparta na wytycznych w trwałych urządzeniach wspomagających pracę lewej komory: dlaczego jest nadal konieczna - czasopisma American Heart Association",
       "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.052912",
       "date": "2026-08-19T17:38:37Z",
@@ -1168,7 +1176,7 @@
       "summary": "To narzędzie do planowania i budżetowania badań na gruźlicę i lekooporną gruźlicę powinno być wykorzystywane do obliczania zapotrzebowania na testy i materiały eksploatacyjne, w tym produkty związane z bezpieczeństwem biologicznym, w laboratoriach gruźlicy w danym kraju lub regionie. Zaktualizowane narzędzie uwzględnia nowe testy do diagnostyki gruźlicy i badania lekowrażliwości zalecane przez WHO i powinno pomóc krajom w ustaleniu rocznego budżetu na laboratoria gruźlicy. Narzędzie przeznaczone jest wyłącznie do budżetowania, a nie do planowania czy rozbudowy sieci diagnostycznej."
     },
     {
-      "title": "Wielosektorowa koordynacja na rzecz gotowości w zakresie bezpieczeństwa zdrowotnego MPC – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Wielosektorowa koordynacja na rzecz gotowości w zakresie bezpieczeństwa zdrowia MPC – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://extranet.who.int/sph/emergency-diseases/bundibugyo-virus-disease-type-ebola-disease",
       "date": "2026-08-23T08:20:40Z",
       "source": "WHO Disease Outbreak News",
@@ -1501,7 +1509,7 @@
       "date": "2026-08-21T12:00:00Z",
       "source": "ECDC",
       "confirmed_by": 2,
-      "summary": "Cotygodniowe aktualizacje zawierające najnowsze raporty dotyczące przypadków wirusa Zachodniego Nilu w Europie, aktualizowane w każdy piątek w sezonie przenoszenia."
+      "summary": "Cotygodniowe aktualizacje zawierające najnowsze raporty na temat przypadków wirusa Zachodniego Nilu w Europie, aktualizowane w każdy piątek w sezonie przenoszenia."
     },
     {
       "title": "WHO i Uniwersytet Pekiński zacieśniają współpracę na rzecz poprawy gotowości na wypadek sytuacji kryzysowych zdrowotnych – Światowa Organizacja Zdrowia (WHO)",
@@ -1549,15 +1557,15 @@
       "date": "2026-08-21T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Dane stanu/terytorium dotyczące ścieków w przypadku wirusów układu oddechowego. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "summary": "Dane stanu/terytorium dotyczące ścieków dla wirusów układu oddechowego Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Prognozy zespołu dotyczącego COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Prognozy zespołu ds. COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
       "date": "2026-08-21T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Zespół prognoz dotyczących COVID-19 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "summary": "Zespół prognoz COVID-19 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     }
   ],
   "clinical_trials": [
@@ -1727,7 +1735,7 @@
       "date": "2026-08-21T16:33:21Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Kiedy skończy się zapas czasu: badania kliniczne dotyczące modelu operacyjnego AI i CRO w Internecie."
+      "summary": "Kiedy skończy się zapas czasu: badania kliniczne w trybie online dotyczące modelu operacyjnego AI i CRO."
     },
     {
       "title": "Schemat bez chemii zachwala zwycięstwo nad rakiem piersi w obliczu zmiany terapii celowanej – Arena Badań Klinicznych",
@@ -1743,7 +1751,7 @@
       "date": "2026-08-21T11:11:12Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "ACT Brief: Niepowodzenia prób jako problemy administracyjne, Konsolidacja CRO w celu uzyskania globalnego zasięgu badań oraz Zatwierdzenie przez FDA pierwszych internetowych badań klinicznych dotyczących stosowania leczenia FOP."
+      "summary": "Streszczenie ACT: Niepowodzenie prób jako problemy administracyjne, Konsolidacja CRO w celu uzyskania globalnego zasięgu badań oraz Zatwierdzenie przez FDA pierwszych internetowych badań klinicznych dotyczących stosowania leczenia FOP."
     },
     {
       "title": "AstraZeneca wyrusza na rynek bispecyficzny PD-1 po niepowodzeniu III fazy NSCLC – Arena Badań Klinicznych",
@@ -1937,7 +1945,7 @@
       "date": "2026-08-23T15:44:10Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Istnieje główna interakcja lekowa pomiędzy brensokatybem a szczepionką Dengvaxia. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
+      "summary": "Występuje główna interakcja lekowa pomiędzy brensokatybem a szczepionką Dengvaxia. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
@@ -2204,7 +2212,7 @@
       "summary": "Znajdź oferty pracy w branży farmaceutycznych badań klinicznych w Ontario. 1 oferta pracy dostępna w BioSpace, siedzibie branży nauk przyrodniczych."
     },
     {
-      "title": "Praca w branży farmaceutycznych badań klinicznych na Florydzie | Studia licencjackie – BioSpace",
+      "title": "Praca w farmaceutycznych badaniach klinicznych na Florydzie | Studia licencjackie – BioSpace",
       "url": "https://jobs.biospace.com/jobs/clinical-research/florida/bachelors-degree/pharmaceutical/",
       "date": "2026-08-22T22:36:27Z",
       "source": "BioSpace",
