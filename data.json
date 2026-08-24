@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T06:57:40Z",
+  "last_updated": "2026-08-24T06:58:22Z",
   "poland": [
     {
       "title": "Poszukajmy racjonalnego rozwiązania impasu - Ochrona zdrowia - mp.pl",
@@ -481,7 +481,7 @@
       "date": "2026-08-24T03:09:52Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Usługi społeczne dla dorosłych CLCH Hertfordshire — CLCH NHS Trust świadczy szereg usług społecznych, a oddział Hertfordshire prowadzi rekrutację!..."
+      "summary": "Praca pielęgniarki specjalizującej się w leczeniu choroby Parkinsona w Central London Community Healthcare NHS Trust (kariera zdrowotna) | 841302 BMJ."
     },
     {
       "title": "Zastępca Dyrektora Generalnego Oddziału – BMJ",
@@ -721,7 +721,7 @@
       "date": "2026-08-23T04:00:22Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "To ekscytująca szansa na kształtowanie przyszłości pielęgniarstwa sąsiedzkiego. Jako lokalny menedżer pielęgniarek będziesz na czele dostaw..."
+      "summary": "Menedżer pielęgniarek w okolicy BMJ."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -898,7 +898,7 @@
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-32.html",
       "date": "2026-08-21T17:17:48Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 32. kończący się 15 sierpnia 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
@@ -1042,7 +1042,7 @@
       "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/zimbabwe",
       "date": "2026-08-21T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Oficjalne zalecenia zdrowotne rządu USA dotyczące podróżowania. Dostarczone przez USA"
     },
     {
@@ -1060,6 +1060,14 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Specyficzne dla miejsca leczenie choroby oligometastatycznej Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+    },
+    {
+      "title": "MBC: Obserwacja, implikacje długoterminowe i przeżycie – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/follow-up-long-term-implications-and-survivorship",
+      "date": "2026-08-21T01:53:04Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "MBC: Obserwacja, implikacje długoterminowe i przeżycie Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Insulina efsitora alfa w leczeniu cukrzycy typu 2 – strona internetowa NICE",
@@ -1110,6 +1118,14 @@
       "summary": "Notatki terenowe: Epidemia dengi — Naoero, 2025 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
+      "title": "Ekspresowa aktualizacja wytycznych dotyczących praktyki klinicznej ESMO: Daraxonrasib w leczeniu raka trzustki z przerzutami - Oncodaily",
+      "url": "https://oncodaily.com/oncolibrary/gastrointestinal-oncology/esmo-3",
+      "date": "2026-08-20T13:08:24Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "ESMO wydało ekspresową aktualizację swoich Wytycznych praktyki klinicznej w leczeniu raka trzustki, zawierającą nowe zalecenia dotyczące profilowania molekularnego nieresekcyjnego gruczolakoraka przewodowego trzustki (PDAC) i leczenia choroby drugiego rzutu w chorobie z przerzutami w związku z nowymi danymi dotyczącymi skuteczności wieloselektywnego inhibitora pan-RAS(ON) – daraksonrazybu."
+    },
+    {
       "title": "Badanie wykazało uszkodzenie tętnic u dorosłych w wieku 20 lat, co podkreśla potrzebę wczesnej oceny ryzyka sercowo-naczyniowego – www.heart.org",
       "url": "https://newsroom.heart.org/news/study-found-artery-damage-in-adults-in-their-20s-highlighting-need-for-early-cardiovascular-risk-assessment",
       "date": "2026-08-20T09:06:54Z",
@@ -1126,12 +1142,20 @@
       "summary": "Terapia medyczna ukierunkowana na wytyczne w trwałych urządzeniach wspomagających lewą komorę: dlaczego jest nadal konieczna, czasopisma American Heart Association."
     },
     {
-      "title": "Nowe wytyczne wzywają kardiologów do myślenia poza silosami podczas leczenia zespołu CKM – Cleveland Clinic",
-      "url": "https://consultqd.clevelandclinic.org/think-beyond-silos-when-managing-ckm-syndrome",
-      "date": "2026-08-19T11:25:37Z",
+      "title": "Naukowcy z Mayo szukają wglądu w nawyki lekarzy dentystów w zakresie przepisywania antybiotyków – American Dental Association",
+      "url": "https://adanews.ada.org/ada-news/2026/august/mayo-researchers-seek-insight-into-dentists-antibiotic-prescribing-habits/",
+      "date": "2026-08-19T14:31:13Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Naukowcy przeprowadzili ankietę, aby lepiej zrozumieć, w jaki sposób dentyści podchodzą do opieki stomatologicznej nad pacjentami po endoprotezoplastyce stawów."
+    },
+    {
+      "title": "Centrum medyczne Sanford Jackson wyróżnione za doskonalenie opieki nad pacjentami z udarem na obszarach wiejskich — Jackson County Pilot",
+      "url": "https://www.jacksoncountypilot.com/articles/sanford-jackson-medical-center-recognized-for-advancing-rural-stroke-care/",
+      "date": "2026-08-19T13:10:14Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Nowe wytyczne CKM pomagają kardiologom ocenić ryzyko, poszerzyć ocenę i ujednolicić leczenie pacjentów z nakładającymi się chorobami serca, nerek i chorobami metabolicznymi."
+      "summary": "Centrum medyczne Sanford Jackson zostało docenione za wysiłki mające na celu optymalizację opieki nad pacjentami po udarze i zmniejszenie różnic w wynikach zdrowotnych na obszarach wiejskich. Lokalne centrum medyczne otrzymało niedawno brązową nagrodę Get With The Guidelines Stroke Rural Recognition przyznaną przez American Heart Association. Udar to nr."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 19 sierpnia 2026 r. zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety",
@@ -1140,6 +1164,22 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1115, z dniem ogłoszenia 2026-08-21."
+    },
+    {
+      "title": "ASTRO aktualizuje wytyczne dotyczące radioterapii raka trzustki – CancerNetwork",
+      "url": "https://www.cancernetwork.com/view/astro-updates-guideline-on-radiation-therapy-for-pancreatic-cancer",
+      "date": "2026-08-17T15:37:49Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nowe wytyczne praktyki klinicznej ASTRO rozszerzają zalecenia dotyczące radioterapii w przypadku resekcyjnego, miejscowo zaawansowanego, nawrotowego i przerzutowego raka trzustki."
+    },
+    {
+      "title": "Brak dotacji na terapię hormonalną dla osób trans w Albanii – spojrzenie na Bałkany",
+      "url": "https://balkaninsight.com/2026/08/17/no-subsidies-for-hormone-therapy-for-trans-people-in-albania/bi/",
+      "date": "2026-08-17T11:59:42Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nowe wytyczne kliniczne zatwierdzające terapię hormonalną afirmującą płeć w Albanii wywołały w Internecie ostry sprzeciw w sprawie dotacji dla osób transpłciowych – chociaż oficjalne dokumenty wskazują, że leki nie będą refundowane."
     }
   ],
   "epidemiology": [
@@ -1152,7 +1192,7 @@
       "summary": "To narzędzie do planowania i budżetowania badań na gruźlicę i lekooporną gruźlicę powinno być wykorzystywane do obliczania zapotrzebowania na testy i materiały eksploatacyjne, w tym produkty związane z bezpieczeństwem biologicznym, w laboratoriach gruźlicy w danym kraju lub regionie. Zaktualizowane narzędzie uwzględnia nowe testy do diagnostyki gruźlicy i badania lekowrażliwości zalecane przez WHO i powinno pomóc krajom w ustaleniu rocznego budżetu na laboratoria gruźlicy. Narzędzie przeznaczone jest wyłącznie do budżetowania, a nie do planowania czy rozbudowy sieci diagnostycznej."
     },
     {
-      "title": "Wielosektorowa koordynacja na rzecz gotowości w zakresie bezpieczeństwa zdrowotnego MPC – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Wielosektorowa koordynacja na rzecz gotowości w zakresie bezpieczeństwa zdrowia MPC – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://extranet.who.int/sph/emergency-diseases/bundibugyo-virus-disease-type-ebola-disease",
       "date": "2026-08-23T08:20:40Z",
       "source": "WHO Disease Outbreak News",
