@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T06:23:22Z",
+  "last_updated": "2026-08-24T06:24:13Z",
   "poland": [
     {
       "title": "Pacjenci masowo ignorują darmową profilaktykę - Aktualności - Onkologia - Medycyna Praktyczna",
@@ -990,14 +990,6 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Młodzież może uzyskać diagnostykę kliniczną i leczenie – streamlinefeed.co.ke",
-      "url": "https://streamlinefeed.co.ke/news/adolescents-can-receive-clinical-diagnosis-and-treatment",
-      "date": "2026-08-21T09:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Nastolatki cierpiące na uniemożliwiający ból miesiączkowy mogą uzyskać kliniczną diagnozę endometriozy i rozpocząć leczenie przed jakąkolwiek operacją, pod kierunkiem ACOG i ESHRE."
-    },
-    {
       "title": "Leczenie można rozpocząć bez potwierdzenia tkanki – streamlinefeed.co.ke",
       "url": "https://streamlinefeed.co.ke/news/treatment-can-start-without-tissue-confirmation",
       "date": "2026-08-21T09:00:00Z",
@@ -1012,6 +1004,14 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Ból miesiączkowy u nastolatków, który powoduje wymioty, omdlenia lub powtarzającą się nieobecność, nie jest normalnym bolesnym miesiączkowaniem. Wytyczne wspierają wczesną ocenę bez konieczności operacji."
+    },
+    {
+      "title": "Młodzież może uzyskać diagnostykę kliniczną i leczenie – streamlinefeed.co.ke",
+      "url": "https://streamlinefeed.co.ke/news/adolescents-can-receive-clinical-diagnosis-and-treatment",
+      "date": "2026-08-21T09:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nastolatki cierpiące na uniemożliwiający ból miesiączkowy mogą uzyskać kliniczną diagnozę endometriozy i rozpocząć leczenie przed jakąkolwiek operacją, pod kierunkiem ACOG i ESHRE."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1544,20 +1544,20 @@
       "summary": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Centra modelowania i prognozowania kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Modelowanie i prognozowanie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
-      "date": "2026-08-21T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Aktualne trendy epidemiczne (na podstawie Rt) | CFA: Centra modelowania i prognozowania kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
       "title": "Dane stanu/terytorium dotyczące ścieków pod kątem wirusów układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/wastewater/respiratory-viruses/state.html",
       "date": "2026-08-21T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Dane stanu/terytorium dotyczące ścieków w przypadku wirusów układu oddechowego. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Prognozy zespołu dotyczącego COVID-19 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
+      "date": "2026-08-21T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Zespół prognoz dotyczących COVID-19 Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     }
   ],
   "clinical_trials": [
