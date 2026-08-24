@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T22:42:12Z",
+  "last_updated": "2026-08-24T22:43:04Z",
   "poland": [
     {
       "title": "Zapaść na Śląsku - Termedia",
@@ -127,7 +127,7 @@
       "date": "2026-08-24T16:03:48Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nie tylko leki. Nowe wytyczne pokazują, jak skuteczniej walczyć z alergią Alert Medyczny."
+      "summary": "Walka z alergią nie kończy się na lekach. Wytyczne EAACI podkreślają rolę prognoz pylenia, profilaktyki i wczesnego leczenia."
     },
     {
       "title": "Czy należy opóźniać włączenie lewodopy u młodszych pacjentów z chorobą Parkinsona? - Ekspert - Neurologia - Medycyna Praktyczna",
@@ -199,7 +199,7 @@
       "date": "2026-08-24T14:38:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Trofinetyd dopuszczony w UE. Pierwsza terapia na objawy zespołu Retta Alert Medyczny."
+      "summary": "Trofinetyd został dopuszczony do obrotu w UE w leczeniu objawów zespołu Retta. To pierwsza terapia zatwierdzona w tym wskazaniu."
     },
     {
       "title": "Prezes NFZ: warto zastanowić się nad grupami, które płacą niższą składkę - Rynek Zdrowia",
@@ -271,7 +271,7 @@
       "date": "2026-08-24T14:00:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "CEO MyDr zabrał głos po cyberataku. Powiadomienia mogą objąć 18 mln osób Alert Medyczny."
+      "summary": "CEO MyDr Piotr Miluski zabrał głos po cyberataku. Firma przygotowuje powiadomienia, które mogą trafić do około 18 mln osób."
     },
     {
       "title": "Po czyjej stronie jest prezydent? - Termedia",
@@ -359,7 +359,7 @@
       "date": "2026-08-24T13:18:35Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "FDA zatwierdziła test krwi Roche i Eli Lilly na chorobę Alzheimera Alert Medyczny."
+      "summary": "FDA zatwierdziła Elecsys pTau217 – test krwi Roche i Eli Lilly wspierający ocenę patologii amyloidowej związanej z chorobą Alzheimera."
     },
     {
       "title": "Kieliszek wina dla zdrowia? Ekspert: to ryzykowna przyjemność - Puls Medycyny",
@@ -581,6 +581,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://casereports.bmj.com/content/19/8/e274170.alerts",
+      "date": "2026-08-24T15:37:19Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.statnews.com/2026/08/24/doctors-hand-shakes-patients-research/",
       "date": "2026-08-24T15:11:15Z",
       "source": "STAT News",
@@ -792,14 +800,6 @@
       "url": "https://www.medscape.com/viewarticle/mushrooms-gain-ground-medicine-despite-limited-clinical-2026a1000tdp?src=",
       "date": "2026-08-24T12:54:32Z",
       "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.statnews.com/2026/08/24/health-news-fda-plans-to-regulate-generative-ai/",
-      "date": "2026-08-24T12:50:07Z",
-      "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
@@ -1071,8 +1071,8 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.jacksoncountypilot.com/articles/sanford-jackson-medical-center-recognized-for-advancing-rural-stroke-care/",
-      "date": "2026-08-19T13:10:14Z",
+      "url": "https://consultqd.clevelandclinic.org/think-beyond-silos-when-managing-ckm-syndrome",
+      "date": "2026-08-19T11:25:37Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -2226,7 +2226,7 @@
       "summary": "",
       "url": "",
       "source": "",
-      "date": "2026-08-24T22:42:12Z"
+      "date": "2026-08-24T22:43:04Z"
     }
   ],
   "daily_top5": [
@@ -2268,7 +2268,7 @@
       "date": "2026-08-24T16:03:48Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Nie tylko leki. Nowe wytyczne pokazują, jak skuteczniej walczyć z alergią Alert Medyczny."
+      "summary": "Walka z alergią nie kończy się na lekach. Wytyczne EAACI podkreślają rolę prognoz pylenia, profilaktyki i wczesnego leczenia."
     }
   ]
 }
