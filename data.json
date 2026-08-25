@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T00:02:42Z",
+  "last_updated": "2026-08-25T00:03:25Z",
   "poland": [
     {
       "title": "43 euro na osobę. Polacy wyprzedzili Niemców i Francuzów w wydatkach na suplementy - Alert Medyczny",
@@ -476,7 +476,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Subskrypcje i zakupy — NEJM — The New England Journal of Medicine — The New England Journal of Medicine",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://myaccount.nejm.org/subscriptions-purchases",
       "date": "2026-08-24T18:03:43Z",
       "source": "NEJM",
@@ -991,14 +991,6 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/respiratory-viruses/data/index.html",
-      "date": "2026-08-21T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://esc365.escardio.org/journal/94413",
       "date": "2026-08-21T07:00:00Z",
       "source": "ESC (kardiologia)",
@@ -1034,12 +1026,20 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a1.htm",
       "date": "2026-08-20T17:01:47Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a3.htm",
+      "date": "2026-08-20T17:01:47Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a2.htm?s_cid=OS_mm7532a2_w",
       "date": "2026-08-20T17:01:47Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
@@ -1063,8 +1063,8 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.jacksoncountypilot.com/articles/sanford-jackson-medical-center-recognized-for-advancing-rural-stroke-care/",
-      "date": "2026-08-19T13:10:14Z",
+      "url": "https://consultqd.clevelandclinic.org/think-beyond-silos-when-managing-ckm-syndrome",
+      "date": "2026-08-19T11:25:37Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -1080,7 +1080,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-24T21:15:08Z",
       "source": "ECDC",
@@ -1320,7 +1320,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Szybkie ujęcia: więcej odrzuceń zarządzeń wykonawczych dotyczących szczepionek, wzrost cyklospory, polio w 5 krajach – CIDRAP",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.cidrap.umn.edu/anti-science/quick-takes-more-vaccine-executive-order-pushback-cyclospora-increase-polio-5-nations",
       "date": "2026-08-21T16:58:00Z",
       "source": "CIDRAP",
@@ -1471,7 +1471,7 @@
       "date": "2026-08-24T23:06:12Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczegóły badania | NCT07782619 | Umowa dotycząca dwóch biometrów OCT: badanie pilotażowe ClinicalTrials.gov."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2222,10 +2222,10 @@
   ],
   "critical_alerts": [
     {
-      "title": "Szybkie ujęcia: więcej odrzuceń zarządzeń wykonawczych dotyczących szczepionek, wzrost cyklospory, polio w 5 krajach – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/anti-science/quick-takes-more-vaccine-executive-order-pushback-cyclospora-increase-polio-5-nations",
-      "date": "2026-08-21T16:58:00Z",
-      "source": "CIDRAP",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-08-24T21:15:08Z",
+      "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
@@ -2236,6 +2236,14 @@
       "url": "https://gco.iarc.who.int/today/en/dataviz/tables?mode=population&age_start=3&age_end=5&populations=903_904&group_populations=0&key=asr&reset=1",
       "date": "2026-08-24T22:21:52Z",
       "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-08-24T21:15:08Z",
+      "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
@@ -2252,14 +2260,6 @@
       "url": "https://www.afro.who.int/fr/about-us/programmes-clusters/who-health-emergencies-programme/documents?page=1245",
       "date": "2026-08-24T20:03:45Z",
       "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://clinician.nejm.org/nejm-jw.NA51125?show-author=true&author-id=AU1810",
-      "date": "2026-08-24T19:33:53Z",
-      "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
