@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T07:09:20Z",
+  "last_updated": "2026-08-25T07:09:58Z",
   "poland": [
     {
       "title": "Nie przekarmiaj niemowlęcia. Narażasz je na nadwagę. - Serwis Zdrowie",
@@ -120,6 +120,14 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Przepraszam każdego pacjenta i każdego naszego użytkownika, niezależnie od tego, czy incydent dotyczy jego danych - podkreślił w oświadczeniu w sprawie cyberataku na firmę MyDr, jej szef Piotr Miluski. Dodał, że zespół MyDr kończy analizę tego, jakie dane objął incydent."
+    },
+    {
+      "title": "Zrób to z ugotowanymi ziemniakami. Pomaga kontrolować cukier we krwi - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zrob-to-z-ugotowanymi-ziemniakami-Pomaga-kontrolowac-cukier-we-krwi,288089,11.html",
+      "date": "2026-08-24T19:15:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Skrobia ma duże znaczenie w kontekście m.in. regulacji poziomu cukru we krwi. Niewiele osób zdaje sobie sprawę z istnienia skrobi opornej, która nie ulega trawieniu w jelicie cienkim."
     },
     {
       "title": "Spesolimab (spesolimab) opis substancji - Indeks Leków MP",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Porozumienie Zielonogórskie sprzeciwia się projektowanym zmianom, które mogą prowadzić do obniżenia finansowania POZ na podstawie niepełnych i niezweryfikowanych wskaźników – głosi stanowisko Zarządu Funkcyjnego Federacji PZ."
-    },
-    {
-      "title": "CEO MyDr zabrał głos po cyberataku. Powiadomienia mogą objąć 18 mln osób - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/ceo-mydr-zabral-glos-po-cyberataku-powiadomienia-moga-objac-18-mln-osob/",
-      "date": "2026-08-24T14:00:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "CEO MyDr Piotr Miluski zabrał głos po cyberataku. Firma przygotowuje powiadomienia, które mogą trafić do około 18 mln osób."
     }
   ],
   "world": [
@@ -903,14 +903,6 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-32.html",
-      "date": "2026-08-21T17:17:48Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/site-specific-management-of-oligometastatic-disease/site-specific-management-of-metastases/leptomeningeal-disease",
       "date": "2026-08-21T14:52:21Z",
       "source": "ESMO (onkologia)",
@@ -1002,7 +994,7 @@
       "url": "https://www.cdc.gov/respiratory-viruses/data/index.html",
       "date": "2026-08-21T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 4,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1058,6 +1050,14 @@
       "url": "https://newsroom.heart.org/news/study-found-artery-damage-in-adults-in-their-20s-highlighting-need-for-early-cardiovascular-risk-assessment",
       "date": "2026-08-20T09:06:54Z",
       "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
+      "date": "2026-08-20T07:00:00Z",
+      "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
@@ -2234,7 +2234,7 @@
       "summary": "",
       "url": "",
       "source": "",
-      "date": "2026-08-25T07:09:20Z"
+      "date": "2026-08-25T07:09:58Z"
     }
   ],
   "daily_top5": [
