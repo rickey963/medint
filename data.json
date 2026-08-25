@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-08-25T12:29:39Z",
+  "last_updated": "2026-08-25T12:30:29Z",
   "poland": [
-    {
-      "title": "102 gminy bez psychologa szkolnego - Aktualności - Psychiatria dzieci i młodzieży - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/psychiatria-dzieci-i-mlodziezy/aktualnosci/447123,102-gminy-bez-psychologa-szkolnego",
-      "date": "2026-08-25T12:27:23Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Zadaj pytanie ekspertowi, przyślij ciekawy przypadek, zgłoś absurd, zaproponuj temat dziennikarzom. Pomóż redagować portal. Pomóż usprawnić system ochrony zdrowia."
-    },
     {
       "title": "Pierwsza taka nagroda w Polsce - Z kraju - Kurier - Medycyna Praktyczna",
       "url": "https://www.mp.pl/kurier/447127,pierwsza-taka-nagroda-w-polsce",
@@ -16,6 +8,14 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Uniwersytet Medyczny w Lublinie jako pierwsza uczelnia w Polsce otrzymał nagrodę ASPIRE w obszarze symulacji medycznej."
+    },
+    {
+      "title": "102 gminy bez psychologa szkolnego - Aktualności - Psychiatria dzieci i młodzieży - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/psychiatria-dzieci-i-mlodziezy/aktualnosci/447123,102-gminy-bez-psychologa-szkolnego",
+      "date": "2026-08-25T12:26:43Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Zadaj pytanie ekspertowi, przyślij ciekawy przypadek, zgłoś absurd, zaproponuj temat dziennikarzom. Pomóż redagować portal. Pomóż usprawnić system ochrony zdrowia."
     },
     {
       "title": "Szkoły bez smartfonów, z nowym przedmiotem i dietą. Reforma MEN rusza już od 2026 r. - Medonet",
@@ -218,6 +218,14 @@
       "summary": "Po cyberataku na MyDr trwa zasilanie bazy Bezpieczne Dane. Dariusz Standerski podał, kiedy będzie można sprawdzić, czy dane wyciekły."
     },
     {
+      "title": "Monitoring \"bilokacji\" lekarzy. Zmiany już od 1 listopada - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Monitoring-bilokacji-lekarzy-Zmiany-juz-od-1-listopada,288013,1.html",
+      "date": "2026-08-25T10:03:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Lekarz leczy w dwóch różnych miejscach, w tym samym czasie - tę patologię systemu nagłośnioną przez media jako \"bilokacja\" ma ukrócić nowe prawo, które wejdzie w życie 1 listopada. Na ostatniej prostej złagodzono przepisy: szpital lub poradnia nie będą musiały za każdym razem przekazywać PESEL-u medyka przy sprawozdawaniu każdego świadczenia."
+    },
+    {
       "title": "RSV a zaostrzenia POChP – co pokazują nowe dane o ochronie po szczepieniu? - Podyplomie.pl",
       "url": "https://podyplomie.pl/aktualnosci/rsv-a-zaostrzenia-pochp-co-pokazuja-nowe-dane-o-ochronie-po-szczepieniu",
       "date": "2026-08-25T10:01:00Z",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Centrum e-Zdrowia zamawia modele AI do wykrywania zmian nowotworowych piersi w badaniach mammograficznych."
-    },
-    {
-      "title": "Śniadanie o tej porze to przepis na cukrzycę. Ryzyko rośnie o 59 proc. - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/Sniadanie-o-tej-porze-to-przepis-na-cukrzyce-Ryzyko-rosnie-o-59-proc,288128,11.html",
-      "date": "2026-08-25T06:25:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "O której godzinie jesz śniadanie? To może mieć większe znaczenie, niż się wydaje. Badanie z udziałem ponad 100 tys."
     }
   ],
   "world": [
@@ -1084,6 +1084,14 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 19 sierpnia 2026 r. zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/1115",
+      "date": "2026-08-19T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1115, z dniem ogłoszenia 2026-08-21."
     }
   ],
   "epidemiology": [
@@ -2274,7 +2282,7 @@
       "summary": "",
       "url": "",
       "source": "",
-      "date": "2026-08-25T12:29:39Z"
+      "date": "2026-08-25T12:30:29Z"
     }
   ],
   "daily_top5": [
