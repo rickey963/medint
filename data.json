@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T12:40:34Z",
+  "last_updated": "2026-08-25T12:41:19Z",
   "poland": [
     {
       "title": "Onkologia traci rezydentów. Nawet 30 proc. rezygnuje ze specjalizacji - Puls Medycyny",
@@ -8,6 +8,14 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Na Mazowszu nawet 30 proc. rezydentów rezygnuje ze specjalizacji z onkologii. Młodych lekarzy zniechęcają przeciążenie pracą i biurokracja, presja psychiczna, konieczność ciągłego dokształcania oraz niewystarczające zachęty finansowe."
+    },
+    {
+      "title": "Ułatwienie dla chorych, odciążenie dla szpitali. Pacjent zdecyduje, gdzie chce dostać lek - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Ulatwienie-dla-chorych-odciazenie-dla-szpitali-Pacjent-zdecyduje-gdzie-chce-dostac-lek,288149,14.html",
+      "date": "2026-08-25T12:35:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Część leków z programów lekowych ma trafić do aptek ogólnodostępnych. Wybrane terapie generyczne, biologiczne i małocząsteczkowe będą mogły być wydawane na specjalną receptę, bez konieczności każdorazowej wizyty pacjenta w szpitalu."
     },
     {
       "title": "102 gminy bez ani jednego psychologa szkolnego. Łatwy dostęp do pomocy psychologicznej nie dla wszystkich - PolitykaZdrowotna.com",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Udar mózgu wywołany przez zapalenie tętnic Takayasu (TAK) oraz udar w przebiegu miażdżycy dużych naczyń (LAA) wykazują nakładające się cechy kliniczne, choć u ich podstaw leżą zupełnie odmienne mechanizmy patofizjologiczne a samo leczenie wymagai wymaga innych strategii terapeutycznych. Nowe badanie zestawia niuanse kliniczne, jak i..."
-    },
-    {
-      "title": "NFZ i UMP łączą siły na rzecz profilaktyki - Z kraju - Kurier - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/kurier/447058,nfz-i-ump-lacza-sily-na-rzecz-profilaktyki",
-      "date": "2026-08-25T07:11:05Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Wielkopolski Oddział Wojewódzki Narodowego Funduszu Zdrowia oraz Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu będą wspólnie realizować działania na rzecz profilaktyki i edukacji zdrowotnej."
     }
   ],
   "world": [
@@ -953,6 +953,14 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/diagnostic-work-up-and-staging-for-mbc/staging-and-risk-assessment",
       "date": "2026-08-21T13:25:56Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/site-specific-management-of-oligometastatic-disease/site-specific-management-of-metastases/brain-metastases/her2-positive-bc-with-brain-metastases",
+      "date": "2026-08-21T12:31:31Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -1997,6 +2005,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.drugs.com/compare/qnasl-vs-zyrtec",
+      "date": "2026-08-25T07:18:59Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.drugs.com/nda/ralinepag_260824.html",
       "date": "2026-08-25T07:15:13Z",
       "source": "Drugs.com",
@@ -2258,14 +2274,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.drugs.com/interactions-check.php?drug_list=3706-0,1486-898&professional=1",
-      "date": "2026-08-24T23:10:15Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "critical_alerts": [
@@ -2274,7 +2282,7 @@
       "summary": "",
       "url": "",
       "source": "",
-      "date": "2026-08-25T12:40:34Z"
+      "date": "2026-08-25T12:41:19Z"
     }
   ],
   "daily_top5": [
