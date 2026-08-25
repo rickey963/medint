@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-25T08:32:41Z",
+  "last_updated": "2026-08-25T08:33:34Z",
   "poland": [
+    {
+      "title": "WHO: Polska wśród krajów o najwyższym spożyciu alkoholu. Ponad 11 litrów czystego alkoholu na osobę - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/who-polska-wsrod-krajow-n2464561",
+      "date": "2026-08-25T08:30:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "WHO: Polska wśród krajów o najwyższym spożyciu alkoholu. Ponad 11 litrów czystego alkoholu na osobę PolitykaZdrowotna.com."
+    },
     {
       "title": "Krew na rękach prezydenta? ► - Termedia",
       "url": "https://www.termedia.pl/mz/Krew-na-rekach-prezydenta-,68690.html",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "aktualności, menedżer zdrowia."
-    },
-    {
-      "title": "Długie przerwy między posiłkami u seniorów a rozwój chorób kardiologicznych i neuropsychiatrycznych - Remedium.md",
-      "url": "https://remedium.md/publikacje/wiadomosci/dlugie-przerwy-miedzy-posilkami-u-seniorow-a-rozwoj-chorob-kardiologicznych-i-neuropsychiatrycznych",
-      "date": "2026-08-24T15:04:00Z",
-      "source": "Remedium.md",
-      "confirmed_by": 1,
-      "summary": "Badanie wskazuje, że przerwy w jedzeniu rzędu 14-24 godzin u seniorów wiążą się z szybszym narastaniem wielochorobowości."
     }
   ],
   "world": [
@@ -516,7 +516,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Śródmiąższowe zapalenie pęcherza moczowego/zespół bólowy pęcherza: narracyjny przegląd nomenklatury, epidemiologii, patofizjologii, diagnozy i leczenia - Cureus",
       "url": "https://www.cureus.com/articles/525414-interstitial-cystitisbladder-pain-syndrome-a-narrative-review-of-nomenclature-epidemiology-pathophysiology-diagnosis-and-management?score_article=true",
       "date": "2026-08-25T01:30:14Z",
       "source": "Cochrane Library",
@@ -1352,7 +1352,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Szybkie ujęcia: więcej odrzuceń zarządzeń wykonawczych dotyczących szczepionek, wzrost cyklospory, polio w 5 krajach – CIDRAP",
       "url": "https://www.cidrap.umn.edu/anti-science/quick-takes-more-vaccine-executive-order-pushback-cyclospora-increase-polio-5-nations",
       "date": "2026-08-21T16:58:00Z",
       "source": "CIDRAP",
@@ -2238,11 +2238,12 @@
   ],
   "critical_alerts": [
     {
-      "title": "Sytuacja stabilna - brak nowych alertów medycznych",
-      "summary": "",
-      "url": "",
-      "source": "",
-      "date": "2026-08-25T08:32:41Z"
+      "title": "Szybkie ujęcia: więcej odrzuceń zarządzeń wykonawczych dotyczących szczepionek, wzrost cyklospory, polio w 5 krajach – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/anti-science/quick-takes-more-vaccine-executive-order-pushback-cyclospora-increase-polio-5-nations",
+      "date": "2026-08-21T16:58:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "daily_top5": [
