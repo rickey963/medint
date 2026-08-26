@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T00:24:50Z",
+  "last_updated": "2026-08-26T00:25:37Z",
   "poland": [
     {
       "title": "Pestycydy w ciąży a autyzm. Duże badanie nie wykazało związku - Alert Medyczny",
@@ -1023,6 +1023,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-32.html",
+      "date": "2026-08-21T17:17:48Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 3,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/site-specific-management-of-oligometastatic-disease/site-specific-management-of-metastases/leptomeningeal-disease",
       "date": "2026-08-21T14:52:21Z",
       "source": "ESMO (onkologia)",
@@ -1074,29 +1082,21 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-08-21T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 2,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/index.html",
+      "date": "2026-08-21T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7532a1.htm",
       "date": "2026-08-20T17:01:47Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
-      "date": "2026-08-20T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/malaria/hcp/clinical-guidance/index.html",
-      "date": "2026-08-17T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -1361,17 +1361,17 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/locations.html",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-24T07:00:00Z",
-      "source": "CDC Outbreaks",
+      "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "url": "https://www.cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/locations.html",
       "date": "2026-08-24T07:00:00Z",
-      "source": "ECDC",
+      "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
@@ -2314,7 +2314,7 @@
       "summary": "",
       "url": "",
       "source": "",
-      "date": "2026-08-26T00:24:50Z"
+      "date": "2026-08-26T00:25:37Z"
     }
   ],
   "daily_top5": [
