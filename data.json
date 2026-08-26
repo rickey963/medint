@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T07:10:33Z",
+  "last_updated": "2026-08-26T07:11:17Z",
   "poland": [
     {
       "title": "Ponad 300 zakażeń salmonellą w Belgii - Medycyna Praktyczna",
@@ -1248,7 +1248,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "W miarę jak epidemia wirusa Ebola w Kongu przekracza 5500 przypadków, nasilają się apele o zwiększenie zasobów – CIDRAP",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.cidrap.umn.edu/ebola/dr-congo-ebola-outbreak-tops-5500-cases-calls-more-resources-intensify",
       "date": "2026-08-24T20:38:48Z",
       "source": "CIDRAP",
@@ -2121,7 +2121,7 @@
       "date": "2026-08-25T16:58:55Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Wiadomo, że 5 leków wchodzi w interakcje z Yartemleą."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2318,12 +2318,11 @@
   ],
   "critical_alerts": [
     {
-      "title": "W miarę jak epidemia wirusa Ebola w Kongu przekracza 5500 przypadków, nasilają się apele o zwiększenie zasobów – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/dr-congo-ebola-outbreak-tops-5500-cases-calls-more-resources-intensify",
-      "date": "2026-08-24T20:38:48Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "title": "Sytuacja stabilna - brak nowych alertów medycznych",
+      "summary": "",
+      "url": "",
+      "source": "",
+      "date": "2026-08-26T07:11:17Z"
     }
   ],
   "daily_top5": [
