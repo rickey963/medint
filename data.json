@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T17:19:22Z",
+  "last_updated": "2026-08-26T17:22:43Z",
   "poland": [
     {
       "title": "Zmiany w finansowaniu leczenia uzdrowiskowego - Termedia",
@@ -54,7 +54,7 @@
       "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/dk26115,2992.html",
       "date": "2026-08-26T15:26:37Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 9,
+      "confirmed_by": 3,
       "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
     },
     {
@@ -1103,8 +1103,16 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/site-specific-management-of-oligometastatic-disease/site-specific-management-of-metastases/leptomeningeal-disease",
-      "date": "2026-08-21T14:52:21Z",
+      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/diagnostic-work-up-and-staging-for-mbc/staging-and-risk-assessment",
+      "date": "2026-08-21T13:25:56Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/site-specific-management-of-oligometastatic-disease/site-specific-management-of-metastases/brain-metastases/her2-positive-bc-with-brain-metastases",
+      "date": "2026-08-21T12:31:31Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -2368,14 +2376,6 @@
   ],
   "daily_top5": [
     {
-      "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/dk26115,2992.html",
-      "date": "2026-08-26T15:26:37Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 9,
-      "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
-    },
-    {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.who.int/news-room/events/detail/2026/09/02/default-calendar/evidence-to-impact-the-past-present-and-future-of-research-and-progress-in-sexual-and-reproductive-health-and-rights",
       "date": "2026-08-26T14:24:59Z",
@@ -2404,6 +2404,14 @@
       "url": "https://www.afro.who.int/news/african-countries-commit-train-and-retain-3-million-more-health-workers-2035",
       "date": "2026-08-26T09:09:49Z",
       "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.who.int/news-room/articles-detail/call-for-experts-for-the-malaria-policy-advisory-group-(mpag)",
+      "date": "2026-08-26T08:49:34Z",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
