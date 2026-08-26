@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T01:11:48Z",
+  "last_updated": "2026-08-26T01:12:37Z",
   "poland": [
     {
       "title": "I Krakowska Konferencja Kardiologicznych Chorób Rzadkich [Nasz patronat] - Alert Medyczny",
@@ -421,6 +421,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDoa2500352",
+      "date": "2026-08-25T23:14:39Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "http://bmjpaedsopen.bmj.com/cgi/content/short/10/1/e004712?rss=1",
       "date": "2026-08-25T22:02:53Z",
       "source": "The BMJ",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://gco.iarc.who.int/today/en/dataviz/tables-prevalence?mode=population&group_populations=0&age_end=2&populations=904_905&key=asr&types=2&reset=1",
-      "date": "2026-08-25T10:54:13Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "guidelines": [
@@ -1026,7 +1026,7 @@
       "url": "https://www.cdc.gov/fluview/surveillance/2026-week-32.html",
       "date": "2026-08-21T17:17:48Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1041,6 +1041,14 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/diagnostic-work-up-and-staging-for-mbc/staging-and-risk-assessment",
       "date": "2026-08-21T13:25:56Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.esmo.org/guidelines/living-guidelines/esmo-living-guideline-metastatic-breast-cancer/management-of-metastatic-tnbc/first-line-management-of-mtnbc",
+      "date": "2026-08-21T13:21:55Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -1082,7 +1090,7 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-08-21T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1100,30 +1108,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://oncodaily.com/oncolibrary/gastrointestinal-oncology/esmo-3",
-      "date": "2026-08-20T13:08:24Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 2,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.onclive.com/view/esmo-guidelines-express-update-recommends-daraxonrasib-for-ras-g12-mutated-metastatic-pdac",
-      "date": "2026-08-19T14:40:13Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://adanews.ada.org/ada-news/2026/august/mayo-researchers-seek-insight-into-dentists-antibiotic-prescribing-habits/",
-      "date": "2026-08-19T14:31:13Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "epidemiology": [
@@ -1133,7 +1117,7 @@
       "date": "2026-08-25T21:28:53Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Publikacje Światowej Organizacji Zdrowia."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1393,17 +1377,17 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "url": "https://www.cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/locations.html",
       "date": "2026-08-24T07:00:00Z",
-      "source": "ECDC",
+      "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/locations.html",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-24T07:00:00Z",
-      "source": "CDC Outbreaks",
+      "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
@@ -2009,7 +1993,7 @@
       "date": "2026-08-25T18:14:37Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Amidat (etomidat) i leki generyczne są poddawane wstępnej ocenie przez międzynarodowy komitet ds. kontroli leków, co może prowadzić do ograniczeń dotyczących produktu znieczulającego."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2020,7 +2004,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Internetowa terapia poznawczo-behawioralna pomaga w leczeniu objawów lękowych u dzieci - Drugs.com",
       "url": "https://www.drugs.com/news/internet-based-cognitive-behavioral-therapy-aids-children-s-anxiety-131110.html",
       "date": "2026-08-25T17:53:53Z",
       "source": "Drugs.com",
@@ -2161,7 +2145,7 @@
       "date": "2026-08-25T14:53:34Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Język irlandzki jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
       "title": "Bausch + Lomb wpadają w ph. 2 z Xiidrą i Miebo, ale przesuwa kombinację do ph. 3 - Ostra farmacja",
@@ -2261,6 +2245,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.ema.europa.eu/sk/medicines/human/EPAR/svariya",
+      "date": "2026-08-25T12:22:00Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.ema.europa.eu/lt/medicines/human/EPAR/svariya",
       "date": "2026-08-25T12:22:00Z",
       "source": "EMA",
@@ -2270,14 +2262,6 @@
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.ema.europa.eu/nl/medicines/human/EPAR/svariya",
-      "date": "2026-08-25T12:22:00Z",
-      "source": "EMA",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.ema.europa.eu/sk/medicines/human/EPAR/svariya",
       "date": "2026-08-25T12:22:00Z",
       "source": "EMA",
       "confirmed_by": 1,
@@ -2338,17 +2322,25 @@
       "summary": "",
       "url": "",
       "source": "",
-      "date": "2026-08-26T01:11:48Z"
+      "date": "2026-08-26T01:12:37Z"
     }
   ],
   "daily_top5": [
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDoa2500352",
+      "date": "2026-08-25T23:14:39Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.who.int/publications/i/item/who-laboratory-manual-for-the-diagnosis-of-diphtheria-and-other-related-infections",
       "date": "2026-08-25T21:28:53Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Publikacje Światowej Organizacji Zdrowia."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2371,14 +2363,6 @@
       "url": "https://myaccount.nejm.org/contact-us",
       "date": "2026-08-25T17:47:38Z",
       "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.who.int/publications/m/item/greater-horn-of-africa-food-insecurity-and-health-crisis-strategic-response-plan-august-2026-january-2027",
-      "date": "2026-08-25T16:48:04Z",
-      "source": "WHO",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
