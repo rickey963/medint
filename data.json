@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T18:35:07Z",
+  "last_updated": "2026-08-27T18:35:51Z",
   "poland": [
     {
       "title": "Sezon infekcyjny 2026/2027. „Kultura szczepień jest cały czas na niskim poziomie”. Eksperci wskazują, gdzie system traci pacjentów - PolitykaZdrowotna.com",
@@ -665,7 +665,7 @@
       "date": "2026-08-27T08:50:54Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Historyczna sprawa dotycząca kwoty ponad 50 milionów funtów pokazuje, o co toczy się debata na temat przejrzystości relacji lekarz-przemysł. Laura Spinney donosi, że brytyjski kardiolog i były prezes Europejskiego Towarzystwa Kardiologicznego (ESC) został uznany przez ESC za dopuszczenie się poważnego uchybienia po tym, jak duńska telewizja dokumentalna doniosła, że był on zaangażowany w opracowywanie wytycznych dotyczących stosowania leku nasercowego iwabradyny (Corlanor, Procoralan), czerpiąc korzyści z lukratywnych kontraktów z producentem leku.1 W latach 2006–2015 Kim Fox, emerytowany profesor katedry kardiologii klinicznej w National Heart and Lung Institute w Imperial College w Londynie oraz jego żona Karen Summers, była dyrektor branży farmaceutycznej, otrzymali ponad 50 milionów funtów jako współdyrektorzy brytyjskiej organizacji zajmującej się badaniami kontraktowymi Heart Research. Firma ta brała udział w prowadzeniu co najmniej trzech badań klinicznych iwabradyny prowadzonych przez francuską firmę farmaceutyczną Servier, które zostały opublikowane w tym samym okresie."
+      "summary": "„Potworny” konflikt interesów: Kim Fox, iwabradyna i wytyczne praktyki klinicznej Europejskiego Towarzystwa Kardiologicznego BMJ."
     },
     {
       "title": "Ustawa ma chronić amerykańską biotechnologię przed chińską konkurencją. Ale jest luka – STAT",
@@ -761,7 +761,7 @@
       "date": "2026-08-27T06:27:34Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Zaloguj się Przypomnij mi | BMJ Zdrowie Kariera BMJ."
+      "summary": "Zaloguj się Przypomnij mi."
     },
     {
       "title": "Ciężar w dół, kroki w dół: haczyk GLP-1 - Medscape",
@@ -805,6 +805,14 @@
     }
   ],
   "guidelines": [
+    {
+      "title": "Film — Rehabilitację po udarze należy rozpocząć wcześnie i uwzględnić zdrowie fizyczne, poznawcze i psychiczne — www.heart.org",
+      "url": "https://newsroom.heart.org/file?fid=6a8f55f43d6332ccacc96ab7",
+      "date": "2026-08-27T18:33:58Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Wytyczne American Stroke Association z 2026 r. dotyczące rehabilitacji i rekonwalescencji po udarze u dorosłych Transkrypcja (doc) | Okładka graficzna (jpg) Prawa autorskie do filmu American Heart Association 2026 Piosenka: Bright Future Ahead/ Royalty Free."
+    },
     {
       "title": "Szpitale uniwersyteckie po raz kolejny docenione na szczeblu krajowym za zaangażowanie w doskonałość w leczeniu udarów mózgu - Szpitale uniwersyteckie",
       "url": "https://news.uhhospitals.org/news-releases/articles/2026/08/university-hospitals-nationally-recognized-once-again-for-commitment-to-excellence-in-stroke-care",
@@ -1196,14 +1204,6 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Stacey Cutrell, PharmD, BCACP, CDCES, na kalkulatorze PREVENT, badaniach przesiewowych w kierunku przyczyn wtórnych, intensywnych docelowych wartościach ciśnienia krwi i korygowaniu uporczywego ciśnienia krwi."
-    },
-    {
-      "title": "Szpitale Bronson zdobywają uznanie Amerykańskiego Stowarzyszenia Kardiologicznego za opiekę nad udarem - Bronson Healthcare",
-      "url": "https://www.bronsonhealth.com/news/bronson-earns-get-with-the-guidelines/",
-      "date": "2026-08-25T19:21:39Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Szpitale Bronson zdobywają uznanie Amerykańskiego Stowarzyszenia Kardiologicznego za opiekę nad udarem Bronson Healthcare."
     }
   ],
   "epidemiology": [
@@ -1212,7 +1212,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-27T18:25:06Z",
       "source": "ECDC",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
@@ -2434,7 +2434,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-27T18:25:06Z",
       "source": "ECDC",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
@@ -2464,14 +2464,6 @@
   ],
   "daily_top5": [
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-08-27T18:25:06Z",
-      "source": "ECDC",
-      "confirmed_by": 3,
-      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
-    },
-    {
       "title": "Gwinea Bissau przyspiesza walidację krajowych protokołów leczenia HIV – WHO | Biuro Regionalne dla Afryki",
       "url": "https://www.afro.who.int/countries/guinea-bissau/news/guinea-bissau-advances-validation-national-hiv-treatment-protocols",
       "date": "2026-08-27T17:59:38Z",
@@ -2494,6 +2486,14 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 19,
       "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
+    },
+    {
+      "title": "Mpox w Gwinei Bissau: transmisja społeczna pozostaje aktywna pomimo wzmocnienia nadzoru – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/countries/guinea-bissau/news/mpox-guinea-bissau-community-transmission-remains-active-surveillance-strengthened",
+      "date": "2026-08-27T10:54:01Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Bissau — dwa miesiące po potwierdzeniu pierwszego przypadku w kraju odnotowano 10 potwierdzonych przypadków i brak zgonów. Zespoły ds. zdrowia intensyfikują aktywne wyszukiwanie przypadków i monitorowanie kontaktów, korzystając ze wsparcia technicznego Światowej Organizacji Zdrowia. Dwa miesiące po wybuchu epidemii."
     },
     {
       "title": "Inwestowanie w gotowość na pandemię na rzecz odpornych i zrównoważonych systemów opieki zdrowotnej – Światowa Organizacja Zdrowia (WHO)",
