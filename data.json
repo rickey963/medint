@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-27T06:50:48Z",
+  "last_updated": "2026-08-27T06:51:35Z",
   "poland": [
+    {
+      "title": "UCK WUM z akredytacją Ministerstwa Zdrowia. Certyfikat ważny przez 3 lata - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/uck-wum-z-akredytacja-ministerstwa-zdrowia-certyfikat-wazny-przez-3-lata/",
+      "date": "2026-08-27T06:48:00Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "UCK WUM otrzymało Certyfikat Akredytacyjny Ministerstwa Zdrowia na 3 lata. Dokument wręczyła ministra zdrowia Jolanta Sobierańska-Grenda."
+    },
     {
       "title": "Zmiany na liście 65 plus. Kacperczyk: w tym tygodniu ogłaszamy zarządzenie - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Farmacja/Zmiany-na-liscie-65-plus-Kacperczyk-w-tym-tygodniu-oglaszamy-zarzadzenie,288213,6.html",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Retrospektywne badanie kohortowe na bazie Epic Cosmos porównuje roczną skuteczność (redukcja masy ciała, kontrola glikemii) i bezpieczeństwo agonistów GLP-1, GIP/GLP-1 oraz chirurgii bariatrycznej u dorosłych z otyłością i cukrzycą typu 2."
-    },
-    {
-      "title": "Miliony Polaków opiekują się bliskimi. Jak przygotować system na rosnące potrzeby? - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/wydarzenia/patronaty/miliony-polakow-opiekuja-sie-bliskimi-jak-przygotowac-system-na-rosnace-potrzeby/",
-      "date": "2026-08-26T12:55:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "Polska szybko się starzeje, a wraz z liczbą osób wymagających stałej pomocy rośnie także odpowiedzialność rodzin i nieformalnych opiekunów. To właśnie oni zapewniają nawet 80 proc. opieki nad osobami potrzebującymi wsparcia."
     }
   ],
   "world": [
@@ -489,7 +489,7 @@
       "date": "2026-08-26T23:37:41Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Czy jesteś doświadczonym psychologiem klinicznym i szukasz możliwości kształtowania przyszłości usług w zakresie zdrowia psychicznego dla dorosłych, jednocześnie..."
+      "summary": "Praca kierownika działu psychologii i terapii psychologicznych w Somerset NHS Foundation Trust (kariera zdrowotna) | 842012 BMJ."
     },
     {
       "title": "Zaloguj się Przypomnij mi | Kariera w BMJ w zdrowiu - BMJ",
@@ -785,7 +785,7 @@
       "date": "2026-08-26T13:50:06Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Specjalista ds. zgodności z przepisami wspiera zarządzanie kliniczne, jakość i bezpieczeństwo w całym Funduszu, pracując pod kierownictwem..."
+      "summary": "Specjalista ds. zgodności z przepisami — praca w Aylesbury w Buckinghamshire Healthcare NHS Trust (kariera w służbie zdrowia) | 841731 BMJ."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1221,7 +1221,7 @@
       "date": "2026-08-26T23:24:36Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Celem tego seminarium internetowego jest przedstawienie kompleksowego przeglądu związku między używaniem tytoniu, w tym nowych form i narażenia na bierne palenie, a niepłodnością."
+      "summary": "Tytoń i niepłodność: przeoczane wyzwanie dla zdrowia publicznego Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "Skuteczność szczepionek - Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
