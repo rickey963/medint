@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T19:10:06Z",
+  "last_updated": "2026-08-27T19:11:02Z",
   "poland": [
     {
       "title": "Sezon infekcyjny 2026/2027. „Kultura szczepień jest cały czas na niskim poziomie”. Eksperci wskazują, gdzie system traci pacjentów - PolitykaZdrowotna.com",
@@ -457,7 +457,7 @@
       "date": "2026-08-27T14:15:44Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Wprowadzenie Usługi opieki domowej stoją przed coraz większymi wyzwaniami wynikającymi ze starzenia się społeczeństwa, polityki dotyczącej starzenia się w miejscu pracy, rosnącej złożoności potrzeb w zakresie opieki wśród osób korzystających z opieki domowej oraz niedoborów wykwalifikowanego personelu. Zmiany te podkreślają potrzebę lepszego wykorzystania dostępnej siły roboczej i jej kompetencji. Skład siły roboczej odnosi się do zestawu umiejętności i struktur organizacyjnych usług opieki domowej, w tym doświadczenia zawodowego, konfiguracji zespołów i praktyk w zakresie planowania pracy."
+      "summary": "Optymalizacja kompetencji pracowników w zakresie usług opieki domowej: protokół przeglądu zakresu BMJ Open."
     },
     {
       "title": "Postępuj zgodnie z taryfą dla kadry nauczycielskiej - BMJ",
@@ -521,7 +521,7 @@
       "date": "2026-08-27T12:13:51Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Zmiany powyżej i poniżej podniebienia: patologie podwójne pojawiające się jako pojedyncza zmiana. Opisy przypadków BMJ."
+      "summary": "Zarówno grzybicze zapalenie zatok, jak i torbiele korzeniowe są stosunkowo częstymi schorzeniami; jednakże ich równoczesne występowanie może stwarzać wyzwania diagnostyczne i terapeutyczne, zwłaszcza gdy torbiel korzeniowa znajduje się w górnym zębodole. W pracy przedstawiono przypadek pacjenta z torbielą korzeniową podniebienia związaną z próchnicą zębów szczęki, objawiającą się głównie deformacją kosmetyczną. Tomografia komputerowa wykazała dobrze odgraniczoną zmianę torbielowatą rozciągającą się do podniebienia i przedniej ściany szczęki, wraz z niejednorodnym zmętnieniem lewej zatoki szczękowej odpowiadającym zajęciu grzybiczem."
     },
     {
       "title": "Biomarkery optyczne pozwalają przewidzieć stopień nasilenia atopowego zapalenia skóry - Medscape",
@@ -1504,6 +1504,14 @@
       "summary": "Dane z bieżącego roku (2026) | Centra kontroli i zapobiegania chorobom wirusa Zachodniego Nilu | CDC (.gov)."
     },
     {
+      "title": "Dane z bieżącego roku (2026) | Wirus wschodniego zapalenia mózgu koni — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/eastern-equine-encephalitis/data-maps/current-year-data.html",
+      "date": "2026-08-25T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Dane z bieżącego roku (2026) | Centra kontroli i zapobiegania chorobom wschodniego zapalenia mózgu koni | CDC (.gov)."
+    },
+    {
       "title": "Materiały komunikacyjne i edukacyjne | Choroby grzybicze — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/fungal/communication-resources/index.html",
       "date": "2026-08-25T07:00:00Z",
@@ -1512,12 +1520,12 @@
       "summary": "Materiały komunikacyjne i edukacyjne | Choroby Grzybicze Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Dane z bieżącego roku (2026) | Wirus wschodniego zapalenia mózgu koni — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/eastern-equine-encephalitis/data-maps/current-year-data.html",
+      "title": "Zasoby na Tydzień Świadomości Chorób Grzybiczych — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/fungal/fungal-disease-awareness-week/social-media-toolkit.html",
       "date": "2026-08-25T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Dane z bieżącego roku (2026) | Centra kontroli i zapobiegania chorobom wschodniego zapalenia mózgu koni | CDC (.gov)."
+      "summary": "Zasoby dla Tygodnia Świadomości Chorób Grzybiczych Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1598,14 +1606,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Nadal narasta sprzeciw wobec niedawnego zarządzenia prezydenta Trumpa bagatelizującego kwestię szczepionek dziecięcych."
-    },
-    {
-      "title": "Badania CIDRAP sugerują, że osoby zaszczepione przeciwko HPV są mniej narażone na raka głowy i szyi",
-      "url": "https://www.cidrap.umn.edu/human-papillomavirus-hpv/people-vaccinated-against-hpv-have-lower-risk-head-and-neck-cancer-study",
-      "date": "2026-08-21T16:23:43Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Z badania opublikowanego w tym tygodniu w International Journal of Infectious Diseases wynika, że ​​u osób zaszczepionych przeciwko wirusowi brodawczaka ludzkiego (HPV) ryzyko zachorowania na nowotwory głowy i szyi było znacznie mniejsze."
     }
   ],
   "clinical_trials": [
