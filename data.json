@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-27T08:34:52Z",
+  "last_updated": "2026-08-27T08:35:33Z",
   "poland": [
+    {
+      "title": "Projekt już w Sejmie. Na takich zasadach będą mogły się reklamować apteki - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/projekt-juz-w-sejmie-n2466194",
+      "date": "2026-08-27T08:30:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Projekt już w Sejmie. Na takich zasadach będą mogły się reklamować apteki PolitykaZdrowotna.com."
+    },
     {
       "title": "Diagnostyka przejmuje większość udziałów w AidPort. Wchodzi w badania kliniczne - Alert Medyczny",
       "url": "https://alertmedyczny.pl/diagnostyka-przejmuje-wiekszosc-udzialow-w-aidport-wchodzi-w-badania-kliniczne/",
@@ -392,14 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Na podstawie średniej z prawidłowo wykonanych pomiarów możemy ocenić, czy nieleczony pacjent ma nadciśnienie tętnicze, bądź czy dotychczasowa farmakoterapia działa prawidłowo – mówi prof. Grzegorz Bilo z Uniwersytetu Milano-Bicocca. Choć wytyczne ESH wskazują na przewagę kontroli pozagabinetowej, w praktyce klinicznej wyzwaniem pozostaje jakość odczytów oraz nadmierne monitorowanie ciśnienia przez pacjentów."
-    },
-    {
-      "title": "Krakowski szpital wdrożył nowy system leczenia arytmii - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/dwie-metody-ablacji-w-n2463361",
-      "date": "2026-08-26T14:30:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Krakowski szpital wdrożył nowy system leczenia arytmii PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -425,7 +425,7 @@
       "date": "2026-08-27T06:44:41Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Zaloguj się Przypomnij mi."
+      "summary": "Zaloguj się Przypomnij mi | BMJ Zdrowie Kariera BMJ."
     },
     {
       "title": "Zaloguj się Przypomnij mi | Kariera w BMJ w zdrowiu - BMJ",
@@ -806,6 +806,14 @@
   ],
   "guidelines": [
     {
+      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://myesc.escardio.org/ESCApplications",
+      "date": "2026-08-27T07:21:37Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
+    },
+    {
       "title": "Aktualizacje wytycznych AHA/ACC: Stratyfikacja ryzyka i postępowanie w ostrej zatorowości płucnej – dialogi medyczne",
       "url": "https://medicaldialogues.in/cardiology-ctvs/guidelines/ahaacc-guideline-updates-risk-stratification-and-management-of-acute-pulmonary-embolism-177969",
       "date": "2026-08-27T03:30:51Z",
@@ -900,14 +908,6 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Szpital Dziecięcy Rady w hrabstwie Orange został doceniony przez American Heart Association za wybitne osiągnięcia w leczeniu chorób serca i udaru mózgu."
-    },
-    {
-      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://myesc.escardio.org/ESCApplications",
-      "date": "2026-08-26T13:00:08Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Szpital Baptist Memorial w hrabstwie Carroll wyróżniony za postęp w opiece nad pacjentami z udarem na obszarach wiejskich – wbbjtv.com",
@@ -1010,7 +1010,7 @@
       "url": "https://www.cdc.gov/cyclosporiasis/cases/index.html",
       "date": "2026-08-25T20:48:30Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 5,
       "summary": "Dane dotyczące przypadku cyklospory | Centra kontroli i zapobiegania cyklosporozy | CDC (.gov)."
     },
     {
@@ -1195,7 +1195,7 @@
       "date": "2026-08-23T01:59:01Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Otwarte na komentarze Otwarte do 28 sierpnia 2026 r. Poproś o pozwolenie na komentowanie."
+      "summary": "1 Rekomendacje Strona NICE."
     },
     {
       "title": "Cotygodniowy raport z nadzoru nad grypą w USA: najważniejsze aktualizacje za tydzień 32. kończący się 15 sierpnia 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
