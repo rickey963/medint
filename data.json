@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T18:05:22Z",
+  "last_updated": "2026-08-27T18:06:07Z",
   "poland": [
     {
       "title": "Sezon infekcyjny 2026/2027. „Kultura szczepień jest cały czas na niskim poziomie”. Eksperci wskazują, gdzie system traci pacjentów - PolitykaZdrowotna.com",
@@ -56,6 +56,14 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Ponad 7100 przeszkolonych pracowników, 221 wdrożonych standardów jakości i dwa lata intensywnych przygotowań – Uniwersyteckie Centrum Kliniczne WUM otrzymało Certyfikat Akredytacyjny Ministra Zdrowia. To najwyższe w polskim systemie ochrony zdrowia wyróżnienie nadawane szpitalom."
+    },
+    {
+      "title": "Lekarze usunęli 25-centymetrowego guza u 19-latki - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Lekarze-usuneli-25-centymetrowego-guza-u-19-latki,288256,14.html",
+      "date": "2026-08-27T14:55:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "19-latka trafiła do szpitala z nasilającymi się bólami brzucha. Badania wykazały ogromny guz, który uciskał naczynia miednicy i prawdopodobnie doprowadził do zakrzepicy. Operacja była konieczna, ale wcześniej lekarze musieli zabezpieczyć pacjentkę przed groźnym powikłaniem."
     },
     {
       "title": "Test „wstań i idź” – szybka ocena ryzyka upadków u seniorów - Remedium.md",
@@ -392,14 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Zarządzenie, które Ministerstwo Zdrowia ma opublikować 27 sierpnia, nie dotyczy usuwania leków z listy S. Ma wprowadzić procedurę negocjowania z producentami cen leków, tak aby za te same pieniądze można było sfinansować większą liczbę terapii. - Zakładamy, że z listy nie zostaną wyrzucone żadne leki – powiedziała wiceminister zdrowia Katarzyna Kacperczyk."
-    },
-    {
-      "title": "WSA potwierdza stanowisko RPP ws. rejestracji - Medycyna Praktyczna",
-      "url": "https://prawo.mp.pl/wiadomosci/447270,wsa-potwierdza-stanowisko-rpp-ws-rejestracji-telefonicznej",
-      "date": "2026-08-27T08:48:45Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Sąd potwierdził, że pacjenci muszą mieć realną możliwość zarejestrowania się telefonicznie do przychodni."
     }
   ],
   "world": [
@@ -1220,7 +1220,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-27T15:22:23Z",
       "source": "ECDC",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
@@ -1614,7 +1614,7 @@
       "url": "https://www.appliedclinicaltrialsonline.com/view/ai-invoice-processing-botanical-medicines-fda-pathways-connected-trial-finance-systems",
       "date": "2026-08-27T10:51:32Z",
       "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "ACT Brief: sztuczna inteligencja w przetwarzaniu faktur, lekach botanicznych i ścieżkach FDA oraz połączone systemy finansowania prób stosowane w badaniach klinicznych online."
     },
     {
@@ -2052,7 +2052,7 @@
       "summary": "Język grecki jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
-      "title": "Podczas gdy RevMed przygotowuje się do „historycznego” wprowadzenia leku na rynek raka trzustki, pytania pozostają w terenie – Fierce Pharma",
+      "title": "Podczas gdy RevMed przygotowuje się do „historycznego” wprowadzenia leku na raka trzustki, pytania pozostają w terenie – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/revmed-preps-historic-pancreatic-cancer-launch-questions-linger-ground",
       "date": "2026-08-27T15:27:09Z",
       "source": "FiercePharma",
@@ -2426,7 +2426,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-27T15:22:23Z",
       "source": "ECDC",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
@@ -2472,20 +2472,20 @@
       "summary": "Bissau — aktualizacja ma na celu ujednolicenie praktyk w zakresie opieki, promowanie równego dostępu do leczenia i poprawę opieki zapewnianej osobom żyjącym z HIV. Ministerstwo Zdrowia Publicznego Gwinei Bissau, przy wsparciu technicznym Światowej Organizacji Zdrowia (WHO), przeprowadza walidację krajowych protokołów leczenia HIV w dniach 26 i 27 sierpnia. W tym działaniu pracownicy służby zdrowia, eksperci i partnerzy sektorowi spotykają się w celu przeglądu treści technicznych i osiągnięcia konsensusu przed ostatecznym zatwierdzeniem. Zaktualizowane wytyczne w celu poprawy opieki."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-08-27T15:22:23Z",
-      "source": "ECDC",
-      "confirmed_by": 3,
-      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
-    },
-    {
       "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/szczecin-2610,2993.html",
       "date": "2026-08-27T12:51:44Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 19,
       "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
+    },
+    {
+      "title": "Mpox w Gwinei Bissau: transmisja społeczna pozostaje aktywna pomimo wzmocnienia nadzoru – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/countries/guinea-bissau/news/mpox-guinea-bissau-community-transmission-remains-active-surveillance-strengthened",
+      "date": "2026-08-27T10:54:01Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Bissau — dwa miesiące po potwierdzeniu pierwszego przypadku w kraju odnotowano 10 potwierdzonych przypadków i brak zgonów. Zespoły ds. zdrowia intensyfikują aktywne wyszukiwanie przypadków i monitorowanie kontaktów, korzystając ze wsparcia technicznego Światowej Organizacji Zdrowia. Dwa miesiące po wybuchu epidemii."
     },
     {
       "title": "Inwestowanie w gotowość na pandemię na rzecz odpornych i zrównoważonych systemów opieki zdrowotnej – Światowa Organizacja Zdrowia (WHO)",
