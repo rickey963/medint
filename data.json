@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T13:35:02Z",
+  "last_updated": "2026-08-27T13:36:41Z",
   "poland": [
     {
       "title": "NIPiP: wykorzystajmy kompetencje pielęgniarek i położnych - Z kraju - Kurier - Medycyna Praktyczna",
@@ -425,7 +425,7 @@
       "date": "2026-08-27T12:13:51Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Zarówno grzybicze zapalenie zatok, jak i torbiele korzeniowe są stosunkowo częstymi schorzeniami; jednakże ich równoczesne występowanie może stwarzać wyzwania diagnostyczne i terapeutyczne, zwłaszcza gdy torbiel korzeniowa znajduje się w górnym zębodole. W pracy przedstawiono przypadek pacjenta z torbielą korzeniową podniebienia związaną z próchnicą zębów szczęki, objawiającą się głównie deformacją kosmetyczną. Tomografia komputerowa wykazała dobrze odgraniczoną zmianę torbielowatą rozciągającą się do podniebienia i przedniej ściany szczęki, wraz z niejednorodnym zmętnieniem lewej zatoki szczękowej odpowiadającym zajęciu grzybiczem."
+      "summary": "Zmiany powyżej i poniżej podniebienia: patologie podwójne pojawiające się jako pojedyncza zmiana. Opisy przypadków BMJ."
     },
     {
       "title": "Biomarkery optyczne pozwalają przewidzieć stopień nasilenia atopowego zapalenia skóry - Medscape",
@@ -1253,7 +1253,7 @@
       "date": "2026-08-26T19:09:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Departament Zdrowia Florydy usuwa 4 szczepionki z listy wymaganej dla szkół publicznych CIDRAP."
+      "summary": "Studenci nadal będą zobowiązani do zaszczepienia się przeciwko 7 chorobom."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1405,7 +1405,7 @@
       "date": "2026-08-25T20:19:14Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "DR Konga przeżywa najbardziej śmiertelny tydzień w związku z epidemią wirusa Ebola CIDRAP."
+      "summary": "W zeszłym tygodniu epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) odnotowała najwyższą tygodniową liczbę ofiar śmiertelnych – ponad 300 nowych zgonów. Epidemia, skupiona w prowincji Ituri, wzrosła obecnie do 5514 przypadków i 2642 zgonów spowodowanych szczepem Ebola Bundibugyo."
     },
     {
       "title": "Choć rzadki, przenoszony przez kleszcze wirus Bourbon może występować w USA częściej niż sądzono – CIDRAP",
@@ -1541,7 +1541,7 @@
       "date": "2026-08-24T18:10:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Badanie łączy zakażenie wirusem Covid-19 w momencie porodu ze zwiększonym ryzykiem CIDRAP dla mamy i dziecka."
+      "summary": "Ryzyko położnicze zmieniało się w różnych okresach, co podkreśla potrzebę stałego nadzoru stanu zdrowia matki i adaptacyjnej polityki zdrowotnej."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2414,6 +2414,14 @@
   ],
   "critical_alerts": [
     {
+      "title": "DR Konga przeżywa najbardziej śmiertelny tydzień w związku z epidemią wirusa Ebola – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/ebola/dr-congo-suffers-deadliest-week-its-ebola-outbreak",
+      "date": "2026-08-25T20:19:14Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "W zeszłym tygodniu epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) odnotowała najwyższą tygodniową liczbę ofiar śmiertelnych – ponad 300 nowych zgonów. Epidemia, skupiona w prowincji Ituri, wzrosła obecnie do 5514 przypadków i 2642 zgonów spowodowanych szczepem Ebola Bundibugyo."
+    },
+    {
       "title": "W miarę jak epidemia wirusa Ebola w Kongu przekracza 5500 przypadków, nasilają się apele o zwiększenie zasobów – CIDRAP",
       "url": "https://www.cidrap.umn.edu/ebola/dr-congo-ebola-outbreak-tops-5500-cases-calls-more-resources-intensify",
       "date": "2026-08-24T20:38:48Z",
@@ -2444,14 +2452,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Choroba Ebola – sklonowana WHO | Biuro Regionalne dla Afryki."
-    },
-    {
-      "title": "DR Konga przeżywa najbardziej śmiertelny tydzień w związku z epidemią wirusa Ebola – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/dr-congo-suffers-deadliest-week-its-ebola-outbreak",
-      "date": "2026-08-25T20:19:14Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "DR Konga przeżywa najbardziej śmiertelny tydzień w związku z epidemią wirusa Ebola CIDRAP."
     },
     {
       "title": "Można powstrzymać najbardziej śmiercionośną epidemię Bundibugyo Ebola – Światowa Organizacja Zdrowia (WHO)",
