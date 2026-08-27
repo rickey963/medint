@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T11:13:53Z",
+  "last_updated": "2026-08-27T11:14:44Z",
   "poland": [
     {
       "title": "GUS: systematycznie przybywa lekarzy, ale pod względem dostępności Polska wciąż w ogonie Europy - Puls Medycyny",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Skalowanie szybkiego sekwencjonowania całego genomu na potrzeby krytycznej opieki pediatrycznej na Bliskim Wschodzie – nature.com",
+      "url": "https://www.nature.com/articles/s41591-026-04627-9",
+      "date": "2026-08-27T11:13:10Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Opisujemy wdrożenie na dużą skalę Little Falcon, programu szybkiego sekwencjonowania całego genomu (rWGS), który umożliwia lepszą diagnostykę i leczenie krytycznie chorych dzieci w Dubaju. Nasze badanie pokazuje użyteczność kliniczną rWGS w populacjach przodków z Bliskiego Wschodu i Azji."
+    },
+    {
       "title": "Indukowane pluripotencjalne komórki macierzyste od odkrycia do translacji – nature.com",
       "url": "https://www.nature.com/articles/s41591-026-04584-3",
       "date": "2026-08-27T10:07:11Z",
@@ -625,7 +633,7 @@
       "date": "2026-08-26T23:54:41Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "„Potworny” konflikt interesów: Kim Fox, iwabradyna i wytyczne praktyki klinicznej Europejskiego Towarzystwa Kardiologicznego BMJ."
+      "summary": "Historyczna sprawa dotycząca kwoty ponad 50 milionów funtów pokazuje, o co toczy się debata na temat przejrzystości relacji lekarz-przemysł. Laura Spinney donosi, że brytyjski kardiolog i były prezes Europejskiego Towarzystwa Kardiologicznego (ESC) został uznany przez ESC za dopuszczenie się poważnego uchybienia po tym, jak duńska telewizja dokumentalna doniosła, że był on zaangażowany w opracowywanie wytycznych dotyczących stosowania leku nasercowego iwabradyny (Corlanor, Procoralan), czerpiąc korzyści z lukratywnych kontraktów z producentem leku.1 W latach 2006–2015 Kim Fox, emerytowany profesor katedry kardiologii klinicznej w National Heart and Lung Institute w Imperial College w Londynie oraz jego żona Karen Summers, była dyrektor branży farmaceutycznej, otrzymali ponad 50 milionów funtów jako współdyrektorzy brytyjskiej organizacji zajmującej się badaniami kontraktowymi Heart Research. Firma ta brała udział w prowadzeniu co najmniej trzech badań klinicznych iwabradyny prowadzonych przez francuską firmę farmaceutyczną Servier, które zostały opublikowane w tym samym okresie."
     },
     {
       "title": "Zaloguj się Przypomnij mi | Kariera w BMJ w zdrowiu - BMJ",
@@ -641,7 +649,7 @@
       "date": "2026-08-26T23:37:41Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Praca kierownika działu psychologii i terapii psychologicznych w Somerset NHS Foundation Trust (kariera zdrowotna) | 842012 BMJ."
+      "summary": "Czy jesteś doświadczonym psychologiem klinicznym i szukasz możliwości kształtowania przyszłości usług w zakresie zdrowia psychicznego dla dorosłych, jednocześnie..."
     },
     {
       "title": "Zaloguj się Przypomnij mi | Kariera w BMJ w zdrowiu - BMJ",
@@ -794,14 +802,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100690",
-      "date": "2026-08-26T17:09:03Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "guidelines": [
@@ -1212,7 +1212,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-27T09:19:48Z",
       "source": "ECDC",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
@@ -2434,7 +2434,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-27T09:19:48Z",
       "source": "ECDC",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
@@ -2480,14 +2480,6 @@
   ],
   "daily_top5": [
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-08-27T09:19:48Z",
-      "source": "ECDC",
-      "confirmed_by": 2,
-      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
-    },
-    {
       "title": "WHO powołuje 21 czołowych naukowców do Rady Naukowej, aby pomóc w kształtowaniu przyszłych przełomów w dziedzinie zdrowia – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/27-08-2026-who-appoints-21-leading-scientists-to-science-council-to-help-shape-future-health-breakthroughs",
       "date": "2026-08-27T08:48:23Z",
@@ -2518,6 +2510,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Ponieważ coraz więcej krajów w regionie Azji i Pacyfiku zmaga się z epidemiami wysoce zjadliwej grypy ptaków (HPAI) A(H5N1) atakującej zwierzęta i mogącej przenieść się na ludzi, wzywa się kraje, aby zapewniły przygotowanie swoich systemów opieki zdrowotnej do szybkiego wykrywania tego zagrożenia odzwierzęcego i reagowania na nie. W tym tygodniu ponad 150 ekspertów ds. grypy, naukowców laboratoryjnych i urzędników ds. zdrowia publicznego podsumowało 19. Międzyregionalne Spotkanie Krajowych Centrów ds. Grypy i Influenza Surveillance, współorganizowana przez Biuro Regionalne Światowej Organizacji Zdrowia (WHO) dla Azji Południowo-Wschodniej i Biuro Regionalne dla Zachodniego Pacyfiku. Podczas trzydniowego spotkania internetowego, które odbyło się w dniach 25–27 sierpnia 2026 r., zbadano, w jaki sposób dane z nadzoru można przekształcić w szybsze i skuteczniejsze decyzje dotyczące zdrowia publicznego, w tym w odpowiedzi na ciągłe rozprzestrzenianie się HPAI A(H5N1) u ptaków na Pacyfiku. W spotkaniu uczestniczyli programy przeciw grypie, krajowe laboratoria ds. grypy i WHO współpracujące ośrodki i laboratoria referencyjne H5 w celu opracowania wspólnego podejścia do nadzoru nad grypą i wirusami układu oddechowego, zgodnie z globalną strategią przeciw grypie (2019–2030) i ramami gotowości na wypadek grypy na pandemię (PIP). A(H5N1) w centrum uwagi na Pacyfiku Najważniejszym punktem tegorocznego spotkania była dedykowana sesja poświęcona mechanizmom koordynacji „Jedno zdrowie”, obejmująca studia przypadków dotyczące reakcji regionu na wtargnięcie HPAI A(H5N1) w Australii i Nowej Zelandii oraz zagrożenie, jakie stanowi ono dla szerszego regionu Pacyfiku. One Health podkreśla wzajemne powiązania zdrowia zwierząt, ludzi i środowiska, łącząc wiele sektorów w celu wzmocnienia gotowości i reagowania na sytuacje kryzysowe dotyczące zdrowia, w tym gotowości na pandemię. Australia przedstawiła swoje krajowe reakcje po niedawnym przedostaniu się wirusa do populacji ptaków, a także środki gotowości podjęte na Pacyfiku w oczekiwaniu na dalsze rozprzestrzenianie się."
+    },
+    {
+      "title": "Iwonescimab w skojarzeniu z chemioterapią w porównaniu z placebo w skojarzeniu z chemioterapią u pacjentów z zaawansowanym niedrobnokomórkowym rakiem płuca z mutacją EGFR po progresji choroby w trakcie terapii inhibitorami kinazy tyrozynowej EGFR (HARMONi): wieloośrodkowe, randomizowane badanie z podwójną ślepą próbą - The Lancet",
+      "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00282-2/abstract",
+      "date": "2026-08-27T03:46:07Z",
+      "source": "The Lancet",
+      "confirmed_by": 2,
+      "summary": "Iwonescimab w skojarzeniu z chemioterapią w porównaniu z placebo w skojarzeniu z chemioterapią u pacjentów z zaawansowanym niedrobnokomórkowym rakiem płuc z mutacją EGFR po progresji choroby podczas terapii inhibitorami kinazy tyrozynowej EGFR (HARMONi): wieloośrodkowe, randomizowane badanie z podwójnie ślepą próbą The Lancet."
     }
   ]
 }
