@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T15:34:29Z",
+  "last_updated": "2026-08-27T15:35:41Z",
   "poland": [
     {
       "title": "Szpital Uniwersytecki przygotowuje się na zdarzenia masowe. Otrzyma blisko 2,5 mln zł - PolitykaZdrowotna.com",
@@ -39,7 +39,7 @@
       "date": "2026-08-27T14:03:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Proacta i PZU Zdrowie przetestują Dbam o Siebie Smart LAB. Rusza pilotaż Alert Medyczny."
+      "summary": "Proacta i PZU Zdrowie rozpoczynają pilotaż Dbam o Siebie Smart LAB, wyrobu medycznego do automatycznej analizy wyników badań laboratoryjnych."
     },
     {
       "title": "Centralna e-rejestracja przyspiesza. Znamy już ostateczny harmonogram wdrożeń - Puls Medycyny",
@@ -199,7 +199,7 @@
       "date": "2026-08-27T11:03:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Jest zarządzenie MZ w sprawie bezpłatnych leków. Jakie są nowe zasady oceny? Alert Medyczny."
+      "summary": "MZ opublikowało zarządzenie określające zasady weryfikacji wykazów bezpłatnych leków dla dzieci, seniorów i kobiet w ciąży."
     },
     {
       "title": "Najgorszy rodzaj mięsa. W tej samej grupie co azbest - Rynek Zdrowia",
@@ -399,17 +399,25 @@
       "date": "2026-08-27T08:17:00Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Diagnostyka przejmuje większość udziałów w AidPort. Wchodzi w badania kliniczne Alert Medyczny."
+      "summary": "Diagnostyka S.A. nabyła 63,7% udziałów w AidPort. Grupa rozszerza działalność o badania kliniczne i wykorzysta własne zaplecze diagnostyczne."
     }
   ],
   "world": [
+    {
+      "title": "Szpitale planują reakcję na cięcia w finansowaniu - STAT",
+      "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/",
+      "date": "2026-08-27T15:33:23Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Szpital przygotowuje się do lobbowania, RFK Jr. musi się zmierzyć z kolejnymi złymi wiadomościami na temat odry i lekiem na raka, który pomógł Benowi Sasse’owi, zostaje zatwierdzony."
+    },
     {
       "title": "Postępuj zgodnie z taryfą dla kadry nauczycielskiej - BMJ",
       "url": "https://www.bmj.com/content/394/bmj-2026-100649",
       "date": "2026-08-27T13:30:09Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "W dochodzeniu BMJ słusznie zadano pytanie, czy trusty mogą rozliczać się z finansowania taryf medycznych dla studentów studiów licencjackich1. Odpowiedzialność nie powinna kończyć się na zwrocie środków finansowych. Powinien dotrzeć do oddziałów, klinik i wydziałów, na których uczą się studenci. Edukacja kliniczna opiera się na działaniach dydaktycznych, które łatwo przeoczyć: lekarz rezydent rezygnuje z lunchu, aby przeprowadzić „mini nauczanie”, konsultant wysyła e-maile, aby wesprzeć pierwszego ucznia…."
+      "summary": "Postępuj zgodnie z taryfą dla kadry nauczycielskiej BMJ."
     },
     {
       "title": "Epidemia salmonelli w Wielkiej Brytanii: liczba przypadków rośnie wraz z odnotowaniem kolejnej śmierci – BMJ",
@@ -476,7 +484,7 @@
       "summary": "Opisujemy wdrożenie na dużą skalę Little Falcon, programu szybkiego sekwencjonowania całego genomu (rWGS), który umożliwia lepszą diagnostykę i leczenie krytycznie chorych dzieci w Dubaju. Nasze badanie pokazuje użyteczność kliniczną rWGS w populacjach przodków z Bliskiego Wschodu i Azji."
     },
     {
-      "title": "Wczesne wycofanie jest bezpieczne i opłacalne w przypadku stabilnej kandydozy - Medscape",
+      "title": "Bezpieczne i ekonomiczne wczesne wycofanie w przypadku stabilnej kandydozy - Medscape",
       "url": "https://www.medscape.com/viewarticle/early-step-down-azole-echinocandins-safe-invasive-2026a1000tus",
       "date": "2026-08-27T10:07:30Z",
       "source": "Medscape",
@@ -569,7 +577,7 @@
       "date": "2026-08-27T08:51:55Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Historyczna sprawa dotycząca kwoty ponad 50 milionów funtów pokazuje, o co toczy się debata na temat przejrzystości relacji lekarz-przemysł. Laura Spinney donosi, że brytyjski kardiolog i były prezes Europejskiego Towarzystwa Kardiologicznego (ESC) został uznany przez ESC za dopuszczenie się poważnego uchybienia po tym, jak duńska telewizja dokumentalna doniosła, że był on zaangażowany w opracowywanie wytycznych dotyczących stosowania leku nasercowego iwabradyny (Corlanor, Procoralan), czerpiąc korzyści z lukratywnych kontraktów z producentem leku.1 W latach 2006–2015 Kim Fox, emerytowany profesor katedry kardiologii klinicznej w National Heart and Lung Institute w Imperial College w Londynie oraz jego żona Karen Summers, była dyrektor branży farmaceutycznej, otrzymali ponad 50 milionów funtów jako współdyrektorzy brytyjskiej organizacji zajmującej się badaniami kontraktowymi Heart Research. Firma ta brała udział w prowadzeniu co najmniej trzech badań klinicznych iwabradyny prowadzonych przez francuską firmę farmaceutyczną Servier, które zostały opublikowane w tym samym okresie."
+      "summary": "„Potworny” konflikt interesów: Kim Fox, iwabradyna i wytyczne praktyki klinicznej Europejskiego Towarzystwa Kardiologicznego BMJ."
     },
     {
       "title": "„potworny” konflikt interesów: Kim Fox, iwabradyna i wytyczne dotyczące praktyki klinicznej Europejskiego Towarzystwa Kardiologicznego - The BMJ",
@@ -577,7 +585,7 @@
       "date": "2026-08-27T08:50:54Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Historyczna sprawa dotycząca kwoty ponad 50 milionów funtów pokazuje, o co toczy się debata na temat przejrzystości relacji lekarz-przemysł. Laura Spinney donosi, że brytyjski kardiolog i były prezes Europejskiego Towarzystwa Kardiologicznego (ESC) został uznany przez ESC za dopuszczenie się poważnego uchybienia po tym, jak duńska telewizja dokumentalna doniosła, że był on zaangażowany w opracowywanie wytycznych dotyczących stosowania leku nasercowego iwabradyny (Corlanor, Procoralan), czerpiąc korzyści z lukratywnych kontraktów z producentem leku.1 W latach 2006–2015 Kim Fox, emerytowany profesor katedry kardiologii klinicznej w National Heart and Lung Institute w Imperial College w Londynie oraz jego żona Karen Summers, była dyrektor branży farmaceutycznej, otrzymali ponad 50 milionów funtów jako współdyrektorzy brytyjskiej organizacji zajmującej się badaniami kontraktowymi Heart Research. Firma ta brała udział w prowadzeniu co najmniej trzech badań klinicznych iwabradyny prowadzonych przez francuską firmę farmaceutyczną Servier, które zostały opublikowane w tym samym okresie."
+      "summary": "„Potworny” konflikt interesów: Kim Fox, iwabradyna i wytyczne praktyki klinicznej Europejskiego Towarzystwa Kardiologicznego BMJ."
     },
     {
       "title": "Ustawa ma chronić amerykańską biotechnologię przed chińską konkurencją. Ale jest luka – STAT",
@@ -596,12 +604,12 @@
       "summary": "Spersonalizowana szczepionka przeciwnowotworowa opracowana przez Modernę i Merck może być triumfem immunologii i biologii nowotworów. Może to być także triumf algorytmu."
     },
     {
-      "title": "Stan przekazał szeryfom 20% środków z tytułu rozliczenia opioidów. Poszliśmy za pieniędzmi - STAT",
+      "title": "Stan przekazał szeryfom 20% środków pieniężnych z tytułu rozliczenia opioidów. Poszliśmy za pieniędzmi - STAT",
       "url": "https://www.statnews.com/2026/08/27/opioid-settlement-funds-enforcement-or-treatment-louisiana-sheriff-investigation/",
       "date": "2026-08-27T08:32:15Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "KFF Health News sprawdza, w jaki sposób szeryfowie wydają pieniądze z tytułu opioidów i okazuje się, że wydają miliony na sprzęt policyjny."
+      "summary": "KFF Health News sprawdza, w jaki sposób szeryfowie wydają pieniądze z uregulowań dotyczących opioidów i okazuje się, że wydają miliony na sprzęt policyjny."
     },
     {
       "title": "Przestudiowałam fora Reddit dotyczące menopauzy i odkryłam to, czego brakuje lekarzom – STAT",
@@ -665,7 +673,7 @@
       "date": "2026-08-27T06:27:34Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Zaloguj się Przypomnij mi."
+      "summary": "Zaloguj się Przypomnij mi | BMJ Zdrowie Kariera BMJ."
     },
     {
       "title": "Ciężar w dół, kroki w dół: haczyk GLP-1 - Medscape",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "„Potworny” konflikt interesów: Kim Fox, iwabradyna i wytyczne praktyki klinicznej Europejskiego Towarzystwa Kardiologicznego BMJ."
-    },
-    {
-      "title": "Praca Senior Manager w Wells - The BMJ",
-      "url": "https://www.bmj.com/healthcareers/jobs/senior-manager/wells/",
-      "date": "2026-08-26T23:44:00Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Praca starszy menedżer w Wells The BMJ."
     }
   ],
   "guidelines": [
@@ -811,7 +811,7 @@
       "date": "2026-08-27T15:28:00Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Udar może w jednej chwili zmienić życie, wpływając na wszystko, od chodzenia i mówienia, po pamięć, nastrój i zdolność wykonywania codziennych zadań."
+      "summary": "Udar może w jednej chwili zmienić życie, wpływając na wszystko, od chodzenia i mówienia po pamięć, nastrój i zdolność wykonywania codziennych zadań."
     },
     {
       "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: Ból dolnej części pleców, 15 września – DVIDS",
@@ -1091,7 +1091,7 @@
       "date": "2026-08-26T06:25:33Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "Napromienianie grasicy wiąże się z gorszymi wynikami u pacjentów chorych na niedrobnokomórkowego raka płuca Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "Napromieniowanie grasicy wiąże się z gorszymi wynikami u pacjentów chorych na niedrobnokomórkowego raka płuca Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
       "title": "Zdrowie FMOL | Św. Dominik uznany w całym kraju za zaangażowanie w doskonałość w leczeniu udaru – Jackson Advocate",
@@ -1198,7 +1198,7 @@
       "summary": "NICE nie jest w stanie wydać zaleceń dotyczących brensokatybu (Brinsupri) w leczeniu rozstrzeni oskrzeli niezwiązanych z mukowiscydozą u osób w wieku 12 lat i starszych. Wynika to z faktu, że przedsiębiorstwo nie przedstawiło dowodów."
     },
     {
-      "title": "Kierowca NASCAR 23XI Racing Tyler Reddick ujawnia diagnozę bezdechu sennego i współpracuje z firmą Resmed, aby pomóc innym rozpoznać objawy - The Manila Times",
+      "title": "Kierowca 23XI Racing NASCAR Tyler Reddick ujawnia diagnozę bezdechu sennego i współpracuje z firmą Resmed, aby pomóc innym rozpoznać objawy - The Manila Times",
       "url": "https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/23xi-racing-nascar-driver-tyler-reddick-reveals-sleep-apnea-diagnosis-teams-up-with-resmed-to-help-others-recognize-the-signs/2411803",
       "date": "2026-08-25T13:09:09Z",
       "source": "Wytyczne kliniczne",
@@ -1237,7 +1237,7 @@
       "date": "2026-08-26T23:24:36Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Celem tego seminarium internetowego jest przedstawienie kompleksowego przeglądu związku między używaniem tytoniu, w tym nowych form i narażenia na bierne palenie, a niepłodnością."
+      "summary": "Celem tego seminarium internetowego jest przedstawienie kompleksowego przeglądu związku między używaniem tytoniu, w tym nowymi formami i narażeniem na papierosy z drugiej ręki, a niepłodnością."
     },
     {
       "title": "Skuteczność szczepionek - Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1269,7 +1269,7 @@
       "date": "2026-08-26T18:45:32Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Together for Science & Health organizuje globalne seminarium internetowe Science for Health: Translating Evidence to Everyday Life, na którym bada, w jaki sposób postęp naukowy kształtuje zdrowie, dobrostan, politykę i społeczeństwo."
+      "summary": "Together for Science & Health organizuje globalne seminarium internetowe Science for Health: Translating Evidence to Everyday Life poświęcone temu, jak postęp naukowy kształtuje zdrowie, dobrostan, politykę i społeczeństwo."
     },
     {
       "title": "Nowy kandydat na szczepionkę przeciw gruźlicy nie osiągnął celu w badaniu fazy 3 u noworodków – CIDRAP",
@@ -1349,7 +1349,7 @@
       "date": "2026-08-26T01:17:55Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Dołącz do WHO i weź udział w Globalnym Dialogu z okazji Światowego Dnia Bezpieczeństwa Pacjenta 2026 pod hasłem „Bezpieczna troska o życie!”."
+      "summary": "Dołącz do WHO i weź udział w Globalnym Dialogu z okazji Światowego Dnia Bezpieczeństwa Pacjenta 2026 pod hasłem „Bezpieczna pielęgnacja życia!”."
     },
     {
       "title": "Nagrody Światowego Dnia Bez Tytoniu 2024 – zaproszenie do zgłaszania nominacji – Światowa Organizacja Zdrowia (WHO)",
@@ -1357,7 +1357,7 @@
       "date": "2026-08-26T00:50:43Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia (WHO) wzywa do zgłaszania nominacji do nagród Światowego Dnia bez Tytoniu przyznawanych osobom lub organizacjom w każdym z sześciu regionów WHO za ich osiągnięcia w obszarze kontroli tytoniu."
+      "summary": "Światowa Organizacja Zdrowia (WHO) wzywa do zgłaszania nominacji do nagród Światowego Dnia Bez Tytoniu przyznawanych osobom lub organizacjom w każdym z sześciu Regionów WHO za ich osiągnięcia w obszarze kontroli tytoniu."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1464,7 +1464,7 @@
       "summary": "Konopie indyjskie są na świecie najczęściej używaną substancją psychoaktywną podlegającą międzynarodowej kontroli. Coraz większą uwagę zwraca się na zdrowotne i społeczne konsekwencje niemedycznego używania konopi indyjskich, w tym na zaburzenia związane z używaniem konopi indyjskich. W tym dokumencie technicznym przedstawiono aktualizację dowodów na temat wpływu niemedycznego używania konopi indyjskich na zdrowie, w oparciu o poprzednią publikację z 2016 roku."
     },
     {
-      "title": "WHO Health Emergency EPI-WIN webinarium: Poprawa przeżywalności w przypadku chorób filowirusowych, w tym wirusa Ebola i Marburg: wprowadzenie Wytycznych WHO dotyczących zarządzania klinicznego – Światowa Organizacja Zdrowia (WHO)",
+      "title": "WHO Health Emergency EPI-WIN seminarium internetowe: Poprawa przeżywalności w przypadku chorób filowirusowych, w tym wirusa Ebola i Marburg: wprowadzenie Wytycznych WHO dotyczących zarządzania klinicznego – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/02/default-calendar/who-health-emergencies-epi-win-webinar-improving-survival-in-filovirus-disease-including-ebola-and-marburg-launch-of-the-who-clinical-management-guidelines",
       "date": "2026-08-25T09:51:05Z",
       "source": "WHO Disease Outbreak News",
@@ -1485,7 +1485,7 @@
       "date": "2026-08-25T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Dane z bieżącego roku (2026) | Centra kontroli i zapobiegania chorobom wirusa Zachodniego Nilu | CDC (.gov)."
+      "summary": "Dane z bieżącego roku (2026) | Centra kontroli i zapobiegania wirusom Zachodniego Nilu | CDC (.gov)."
     },
     {
       "title": "Materiały komunikacyjne i edukacyjne | Choroby grzybicze — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
@@ -1826,7 +1826,7 @@
       "summary": "Bausch + Lomb przechodzi do III fazy leczenia kandydata z zespołem suchego oka pomimo mieszanych danych z areny badań klinicznych."
     },
     {
-      "title": "Zakończenie rekrutacji pacjentów do badania fazy Ib Senhwy dotyczącego pidnarulexu – Arena Badań Klinicznych",
+      "title": "Zakończono rejestrację pacjentów w badaniu fazy Ib Senhwy dotyczącym pidnarulexu – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/enrolment-concludes-senhwas-pidnarulex-trial/",
       "date": "2026-08-26T09:52:04Z",
       "source": "Clinical Trials Arena",
@@ -2025,7 +2025,7 @@
       "date": "2026-08-27T14:54:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Redesign Health zmienia nazwę ze studia venture na firmę venture capital, ponieważ sztuczna inteligencja przyspiesza tworzenie startupów, twierdzi Neil Patel, dyrektor New Ventures."
+      "summary": "Redesign Health zmienia nazwę ze studia typu venture na firmę typu venture, ponieważ sztuczna inteligencja przyspiesza tworzenie startupów, twierdzi Neil Patel, dyrektor New Ventures."
     },
     {
       "title": "Lonza tworzy stanowisko dyrektora handlowego; WuXi Biologics zgłasza wzrost przychodów — Wiadomości dotyczące punktów końcowych",
@@ -2265,7 +2265,7 @@
       "date": "2026-08-26T23:10:48Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Nowo opublikowane notatki z przeglądu FDA ujawniły wątpliwości FDA co do zdolności Replimune do ukończenia badania potwierdzającego Tudriqev oraz wskazały obawy dotyczące integralności danych i konflikty interesów w dokumentach firmy złożonych przez organy regulacyjne."
+      "summary": "W nowo opublikowanych notatkach z przeglądu FDA ujawniono wątpliwości FDA co do zdolności Replimune do ukończenia badania potwierdzającego Tudriqev oraz zgłoszono obawy dotyczące integralności danych i konflikty interesów w dokumentach firmy złożonych przez organy regulacyjne."
     },
     {
       "title": "Sprawa DESI dotycząca estrogenów i androgenów nie zostanie zamknięta, ponieważ firmy żądają formalnego przesłuchania - Insights.citeline.com",
@@ -2305,7 +2305,7 @@
       "date": "2026-08-26T18:48:39Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Z opublikowanego badania wynika, że ​​narażenie ojca na walproinian podczas rozwoju nasienia nie jest powiązane z zaburzeniami neurorozwojowymi (NDD) u potomstwa."
+      "summary": "Z opublikowanego badania wynika, że ​​narażenie ojca na walproinian podczas rozwoju plemników nie jest powiązane z zaburzeniami neurorozwojowymi (NDD) u potomstwa."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2337,7 +2337,7 @@
       "date": "2026-08-26T17:28:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Raport MassBio pokazuje, że liczba stanowisk pracy w MA biopharma spadła o 3,1%, nagrody NIH spadły o 6%, podczas gdy chiński rurociąg farmaceutyczny wzrósł o 36% w 2025 r., niepokojąc dyrektor generalną Kendalle Burlin O'Connell."
+      "summary": "Raport MassBio pokazuje, że liczba stanowisk pracy w MA biofarmaceutycznych spadła o 3,1%, nagrody NIH spadły o 6%, podczas gdy chiński rurociąg farmaceutyczny wzrósł o 36% w 2025 r., niepokojąc dyrektor generalną Kendalle Burlin O'Connell."
     },
     {
       "title": "Czy Twój marketing napędza rozwój, czy tylko aktywność? - Ostra farmacja",
