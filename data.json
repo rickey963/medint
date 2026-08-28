@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T01:39:15Z",
+  "last_updated": "2026-08-28T01:39:59Z",
   "poland": [
     {
       "title": "IV Kongres Multiforum Stany Nagłe już jutro! - Podyplomie.pl",
@@ -1232,6 +1232,14 @@
       "summary": "CDC dodało także 8 nowych przypadków do 3 mniejszych ognisk Cyclospora."
     },
     {
+      "title": "Szczepionka na półpasiec powiązana z niższym ryzykiem chorób serca od 7 lat – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/shingles-vaccine-linked-lower-risk-heart-disease-7-years",
+      "date": "2026-08-27T17:49:19Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "W artykule opublikowanym wczoraj w Nature Medicine badacze z Uniwersytetu Oksfordzkiego doszli do wniosku, że rekombinowana szczepionka przeciwko półpaścowi (półpasiec) może zmniejszyć prawdopodobieństwo chorób sercowo-naczyniowych w większym stopniu niż szczepionka żywa atenuowana, której wycofano w Stanach Zjednoczonych w 2020 r. ze względu na jej niższą skuteczność i szybkie zanikanie."
+    },
+    {
       "title": "Pokaz filmu i dyskusja: Rosa – te burze – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/29/default-calendar/film-screening-and-discussion--rosa---these-storms",
       "date": "2026-08-27T17:16:29Z",
@@ -1598,14 +1606,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "W niniejszym raporcie przedstawiono wyniki oceny Malawi Health Financing Progress Matrix (HFPM) na rok 2025, będącej standaryzowaną analizą jakościową WHO dotyczącą systemu finansowania opieki zdrowotnej w danym kraju. Malawi poczyniło stałe postępy w kierunku powszechnego ubezpieczenia zdrowotnego (UHC) i nadal osiąga wyniki powyżej średniej dla krajów o niskich dochodach. Z oceny wynika jednak, że korzyści te maskują utrzymujące się nierówności w dostępie do podstawowych usług, przy czym na niektórych obszarach pogłębiają się różnice między biedniejszymi i bogatszymi populacjami."
-    },
-    {
-      "title": "W miarę jak epidemia wirusa Ebola w Kongu przekracza 5500 przypadków, nasilają się apele o zwiększenie zasobów – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/dr-congo-ebola-outbreak-tops-5500-cases-calls-more-resources-intensify",
-      "date": "2026-08-24T20:38:48Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Sto dni po ogłoszeniu najszybciej rosnącej w historii epidemii wirusa Ebola w Demokratycznej Republice Konga (DRK) urzędnicy nalegają na zwiększenie środków, a urzędnicy ds. zdrowia ostrzegają, że oficjalna suma może być znacznie zaniżona."
     }
   ],
   "clinical_trials": [
@@ -2438,14 +2438,6 @@
       "summary": "W zeszłym tygodniu epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) odnotowała najwyższą tygodniową liczbę ofiar śmiertelnych – ponad 300 nowych zgonów. Epidemia, skupiona w prowincji Ituri, wzrosła obecnie do 5514 przypadków i 2642 zgonów spowodowanych szczepem Ebola Bundibugyo."
     },
     {
-      "title": "W miarę jak epidemia wirusa Ebola w Kongu przekracza 5500 przypadków, nasilają się apele o zwiększenie zasobów – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/dr-congo-ebola-outbreak-tops-5500-cases-calls-more-resources-intensify",
-      "date": "2026-08-24T20:38:48Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Sto dni po ogłoszeniu najszybciej rosnącej w historii epidemii wirusa Ebola w Demokratycznej Republice Konga (DRK) urzędnicy nalegają na zwiększenie środków, a urzędnicy ds. zdrowia ostrzegają, że oficjalna suma może być znacznie zaniżona."
-    },
-    {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-27T21:25:31Z",
@@ -2476,6 +2468,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "W Ugandzie zakończyła się epidemia wirusa Ebola wywołana wirusem Bundibugyo po 42 kolejnych dniach bez nowego potwierdzonego przypadku – ogłosiły WHO i Africa CDC, wzywając do trwałej gotowości w całym regionie."
+    },
+    {
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-08-25T19:01:39Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia wirusa Ebola: Obecna sytuacja Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     }
   ],
   "daily_top5": [
