@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T08:32:14Z",
+  "last_updated": "2026-08-28T08:33:02Z",
   "poland": [
     {
       "title": "Synektik z kolejną umową z CeZ. Tym razem AI przeanalizuje RTG klatki piersiowej - Alert Medyczny",
@@ -7,7 +7,7 @@
       "date": "2026-08-28T07:21:20Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Synektik i Carebot z kolejną umową z Centrum e-Zdrowia. Modele AI do analizy RTG klatki piersiowej mają kosztować maksymalnie 13,2 mln zł netto."
+      "summary": "Synektik z kolejną umową z CeZ. Tym razem AI przeanalizuje RTG klatki piersiowej Alert Medyczny."
     },
     {
       "title": "Odeszła prof. Anna Jung-Hauska - Termedia",
@@ -87,7 +87,7 @@
       "date": "2026-08-28T06:01:18Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "NFZ zmienia zasady prowadzenia harmonogramów przyjęć. Od 1 października część kolejek będzie prowadzona w czasie rzeczywistym w AP-KOLCE."
+      "summary": "NFZ przypomina o zmianach w harmonogramach przyjęć. Placówki mają czas do 30 września Alert Medyczny."
     },
     {
       "title": "O której godzinie najlepiej jeść śniadanie, by schudnąć? Dwie ważne zasady - Żywienie Medonet",
@@ -119,7 +119,7 @@
       "date": "2026-08-28T05:12:24Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Wojewódzki Sąd Administracyjny potwierdził stanowisko Rzecznika Praw Pacjenta dotyczące telefonicznej rejestracji do przychodni. Samo udostępnienie pacjentom numeru telefonu nie wystarcza – placówka musi zorganizować rejestrację tak, aby można było skutecznie się dodzwonić. WSA zaakceptował również stosowany przez Rzecznika miernik, zgodnie z którym skutecznie odebranych powinno być 75% połączeń."
+      "summary": "Przychodnie powinny odbierać 75% połączeń. WSA potwierdza stanowisko RPP Alert Medyczny."
     },
     {
       "title": "Reforma szkolnych stołówek. Wszystko, co trzeba wiedzieć o zmianach - Medonet",
@@ -135,7 +135,7 @@
       "date": "2026-08-28T04:16:41Z",
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
-      "summary": "Konkretne nazwy nowotworów i drastyczne obrazy silniej zwracały uwagę na ryzyko związane ze spożywaniem alkoholu."
+      "summary": "Drastyczne obrazy mogą zwiększać świadomość ryzyka nowotworów związanych z alkoholem Alert Medyczny."
     },
     {
       "title": "Dyplom jest, pracy nie ma. Młodym coraz trudniej wejść do zawodu pielęgniarki - Rynek Zdrowia",
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "IMICAMS: Wzmocnienie informacji zdrowotnych i wymiany wiedzy w regionie zachodniego Pacyfiku – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/westernpacific/news/item/28-09-2026-imicams--strengthening-health-information-and-knowledge-sharing-in-the-western-pacific-region",
+      "date": "2026-08-28T07:38:09Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Instytut Informacji Medycznej Chińskiej Akademii Nauk Medycznych (IMICAMS) to współpracujące centrum WHO w zakresie informacji o zdrowiu i biomedycynie z siedzibą w Pekinie. Dzięki zarządzaniu indeksem Medicus Regionu Zachodniego Pacyfiku (WPRIM) IMICAMS wzmocnił dzielenie się wiedzą oraz zwiększył widoczność i dostępność badań zdrowotnych i biomedycznych w regionie."
+    },
     {
       "title": "Farmaceuta rotacyjny — praca w Exeter w Devon Partnership NHS Trust (kariera zdrowotna) | 842603 - BMJ",
       "url": "https://www.bmj.com/healthcareers/job/842603/rotational-pharmacist?LinkSource=SimilarJobPlatform",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Większe spożycie błonnika wiąże się z ważnymi korzyściami zdrowotnymi; jednakże korzyści wydają się stabilizować przy umiarkowanym spożyciu, podczas gdy nadmierne ilości mogą powodować objawy żołądkowo-jelitowe."
-    },
-    {
-      "title": "Mpox w Gwinei Bissau: transmisja społeczna pozostaje aktywna pomimo wzmocnienia nadzoru – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/guinea-bissau/news/mpox-guinea-bissau-community-transmission-remains-active-surveillance-strengthened",
-      "date": "2026-08-27T10:54:01Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Bissau — dwa miesiące po potwierdzeniu pierwszego przypadku w kraju odnotowano 10 potwierdzonych przypadków i brak zgonów. Zespoły ds. zdrowia intensyfikują aktywne wyszukiwanie przypadków i monitorowanie kontaktów, korzystając ze wsparcia technicznego Światowej Organizacji Zdrowia. Dwa miesiące po wybuchu epidemii."
     }
   ],
   "guidelines": [
@@ -1208,15 +1208,15 @@
   ],
   "epidemiology": [
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-28T03:34:20Z",
       "source": "ECDC",
       "confirmed_by": 2,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Spostrzeżenia genomiczne i epidemiologiczne dotyczące trwającej epidemii odry, Izrael, 2025–2026 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0625-f3",
       "date": "2026-08-28T03:14:32Z",
       "source": "CDC Outbreaks",
@@ -1253,7 +1253,7 @@
       "date": "2026-08-27T17:49:19Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W artykule opublikowanym wczoraj w Nature Medicine badacze z Uniwersytetu Oksfordzkiego doszli do wniosku, że rekombinowana szczepionka przeciwko półpaścowi (półpasiec) może zmniejszyć prawdopodobieństwo chorób sercowo-naczyniowych w większym stopniu niż szczepionka żywa atenuowana, której wycofano w Stanach Zjednoczonych w 2020 r. ze względu na jej niższą skuteczność i szybkie zanikanie."
     },
     {
       "title": "Pokaz filmu i dyskusja: Rosa – te burze – Światowa Organizacja Zdrowia (WHO)",
@@ -1261,7 +1261,7 @@
       "date": "2026-08-27T17:16:29Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W ramach Światowego Miesiąca Zdrowia Seksualnego i Reprodukcyjnego 2026 dołącz do HRP i Delegacji Flandrii w celu obejrzenia filmu Rosa – Te burze, wielokrotnie nagradzanego krótkiego filmu dokumentalnego przedstawiającego życie Rosy w jej podróży przez przeciwności losu, odporność i samostanowienie. Po pokazie odbędzie się interaktywna dyskusja na temat tego, jak zdrowie seksualne i reprodukcyjne oraz prawa wpływają na zdrowie, możliwości i dobre samopoczucie na przestrzeni całego życia. Dzięki udziałowi publiczności i refleksjom ekspertów wydarzenie poświęcone będzie analizie czynników społecznych, ekonomicznych i strukturalnych wpływających na wyniki zdrowotne, podkreślając jednocześnie działania, jakie jednostki, instytucje i społeczności mogą podjąć, aby zbudować bardziej sprawiedliwe, pełne szacunku i skoncentrowane na osobie systemy opieki zdrowotnej. Data: 29 września 2026 r. Godzina: 13:15–14:15, po której odbędzie się przyjęcie networkingowe. Lokalizacja: Palais des Nations, budynek A, sala kinowa XIV, Genewa."
     },
     {
       "title": "Nowcasting w celu oszacowania w czasie rzeczywistym trendów przenoszenia odry – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1285,10 +1285,10 @@
       "date": "2026-08-27T16:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Wyszukiwanie ogólne Światowa Organizacja Zdrowia (WHO)."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Jak wynika z raportu CIDRAP, u 1 na 4 zakażonych pracowników służby zdrowia w Wielkiej Brytanii zapadła na długotrwałą chorobę Covid-19",
       "url": "https://www.cidrap.umn.edu/covid-19/1-4-infected-uk-healthcare-workers-developed-long-covid-report-shows",
       "date": "2026-08-27T14:29:57Z",
       "source": "CIDRAP",
@@ -1309,7 +1309,7 @@
       "date": "2026-08-27T08:00:28Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Światowa Organizacja Zdrowia (WHO) wyznaczyła Centrum Globalnej Harmonizacji (GHC) w Republice Korei jako centrum współpracujące z WHO w zakresie wzmacniania i szkolenia systemów regulacyjnych dotyczących produktów zdrowotnych. Centrum, którego gospodarzem jest Narodowy Instytut Oceny Bezpieczeństwa Żywności i Leków (NIFDS) podlegający Ministerstwu Bezpieczeństwa Żywności i Leków (MFDS), pomoże zwiększyć globalne możliwości regulacyjne, wspierając kraje w budowaniu wiedzy specjalistycznej niezbędnej do zapewnienia dostępu do bezpiecznych, skutecznych i gwarantowanych jakościowo produktów zdrowotnych. Skuteczne systemy regulacyjne mają fundamentalne znaczenie dla ochrony zdrowia publicznego i poprawy powszechnego ubezpieczenia zdrowotnego, jednak około 70% państw członkowskich WHO nadal nie ma dobrze funkcjonujących systemów regulacyjnych."
     },
     {
       "title": "Tytoń i niepłodność: pomijane wyzwanie dla zdrowia publicznego – Światowa Organizacja Zdrowia (WHO)",
@@ -1317,7 +1317,7 @@
       "date": "2026-08-26T23:24:36Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Celem tego seminarium internetowego jest przedstawienie kompleksowego przeglądu związku między używaniem tytoniu, w tym nowych form i narażenia na bierne palenie, a niepłodnością."
     },
     {
       "title": "Skuteczność szczepionek - Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC)",
@@ -1336,12 +1336,12 @@
       "summary": "W typowych latach sezon cyklosporozy w USA kończy się 31 sierpnia."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Departament Zdrowia Florydy usuwa 4 szczepionki z listy obowiązkowych dla szkół publicznych – CIDRAP",
       "url": "https://www.cidrap.umn.edu/public-health/florida-s-department-health-removes-4-vaccines-required-list-public-schools",
       "date": "2026-08-26T19:09:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Studenci nadal będą zobowiązani do zaszczepienia się przeciwko 7 chorobom."
     },
     {
       "title": "Wydarzenie inaugurujące: Razem na rzecz nauki i zdrowia – Światowa Organizacja Zdrowia (WHO)",
@@ -1357,7 +1357,7 @@
       "date": "2026-08-26T15:23:57Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jak wynika z wyników badania III fazy opublikowanego w zeszłym tygodniu w czasopiśmie The Lancet Infectious Diseases, nowa kandydatka na szczepionkę przeciwko gruźlicy (TB) nie dorównuje standardowej szczepionce Bacillus Calmette-Guerin (BCG) w zapobieganiu zakażeniom gruźlicą u noworodków."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1408,15 +1408,15 @@
       "summary": "Kampania pokaże, w jaki sposób przemysł tytoniowy i nikotynowy nieustannie opracowuje na nowo i przepakowuje swoje produkty, aby przyciągnąć nowe pokolenie, zwłaszcza dzieci i młodzież, unikając jednocześnie bardziej rygorystycznych środków kontroli tytoniu na całym świecie."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zarządzanie badaniami nad zdrowiem i prawami seksualnymi i reprodukcyjnymi oraz działania wzmacniające potencjał – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/articles-detail/sexual-and-reproductive-health-and-rights-research-governance-and-capacity-strengthening-activities",
       "date": "2026-08-26T01:18:19Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Celem tego doradztwa jest wsparcie WHO/HRP w zarządzaniu badaniami nad zdrowiem seksualnym i reprodukcyjnym oraz prawami człowieka oraz wzmacnianiu potencjału. HRP poszukuje kandydatów na zasadach konkurencyjnych na 6-miesięczne doradztwo."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Otwarte zaproszenie: Co ukształtuje przyszłość zdrowia i praw seksualnych i reprodukcyjnych? - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/articles-detail/open-call--what-will-shape-the-future-of-sexual-and-reproductive-health-and-rights",
       "date": "2026-08-26T01:18:18Z",
       "source": "WHO Disease Outbreak News",
@@ -1432,7 +1432,7 @@
       "summary": "Dołącz do WHO i weź udział w Globalnym Dialogu z okazji Światowego Dnia Bezpieczeństwa Pacjenta 2026 pod hasłem „Bezpieczna troska o życie!”."
     },
     {
-      "title": "Zaproszenie do zgłaszania nominacji: Nagrody Światowego Dnia bez Tytoniu 2027 – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Zaproszenie do zgłaszania nominacji: Nagrody Światowego Dnia Bez Tytoniu 2027 – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/articles-detail/call-for-nominations--world-no-tobacco-day-2027-awards",
       "date": "2026-08-26T00:50:43Z",
       "source": "WHO Disease Outbreak News",
@@ -1448,7 +1448,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "W jaki sposób gromadzone są dane dotyczące cyklosporozy — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/cyclosporiasis/about-data/surveillance/index.html",
       "date": "2026-08-25T20:58:39Z",
       "source": "CDC Outbreaks",
@@ -1469,7 +1469,7 @@
       "date": "2026-08-25T20:28:50Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Po ujawnieniu doniesień o rzadkich przypadkach zapalenia mięśnia sercowego po szczepieniu przeciwko Covid-19 niektórzy rodzice obawiali się, że szczepionki mRNA mogą powodować choroby serca u ich dzieci."
     },
     {
       "title": "Wyszukiwanie ogólne — Światowa Organizacja Zdrowia (WHO)",
@@ -1887,7 +1887,7 @@
       "date": "2026-08-26T10:56:08Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Krótki opis ACT: Infrastruktura płatnicza i gotówka w placówce, gotowość do kontroli przez cały czas realizacji oraz pierwsze internetowe badania kliniczne dotyczące leczenia anemii hemolitycznej."
     },
     {
       "title": "Bausch + Lomb wprowadza kandydata z zespołem suchego oka do fazy III pomimo mieszanych danych – Arena Badań Klinicznych",
@@ -2430,6 +2430,14 @@
       "summary": "Sto dni po ogłoszeniu najszybciej rosnącej w historii epidemii wirusa Ebola w Demokratycznej Republice Konga (DRK) urzędnicy nalegają na zwiększenie środków, a urzędnicy ds. zdrowia ostrzegają, że oficjalna suma może być znacznie zaniżona."
     },
     {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-08-28T03:34:20Z",
+      "source": "ECDC",
+      "confirmed_by": 2,
+      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
+    },
+    {
       "title": "USDA potwierdza nowe przypadki ptasiej grypy H5N1 u drobiu i bydła mlecznego – CIDRAP",
       "url": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/usda-confirms-new-h5n1-avian-flu-cases-poultry-dairy-cattle",
       "date": "2026-08-27T19:45:00Z",
@@ -2444,14 +2452,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Afrykańscy ministrowie zdrowia i przedstawiciele wysokiego szczebla przyjęli dziś 10-letni plan mający na celu kontynuację wysiłków na rzecz zwalczania polio poprzez wzmocnienie krajowych systemów opieki zdrowotnej i potwierdzili zaangażowanie w ochronę dziesięcioleci inwestycji na rzecz kontynentu wolnego od polio."
-    },
-    {
-      "title": "Mpox w Gwinei Bissau: transmisja społeczna pozostaje aktywna pomimo wzmocnienia nadzoru – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/guinea-bissau/news/mpox-guinea-bissau-community-transmission-remains-active-surveillance-strengthened",
-      "date": "2026-08-27T10:54:01Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Bissau — dwa miesiące po potwierdzeniu pierwszego przypadku w kraju odnotowano 10 potwierdzonych przypadków i brak zgonów. Zespoły ds. zdrowia intensyfikują aktywne wyszukiwanie przypadków i monitorowanie kontaktów, korzystając ze wsparcia technicznego Światowej Organizacji Zdrowia. Dwa miesiące po wybuchu epidemii."
     },
     {
       "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2472,12 +2472,20 @@
   ],
   "daily_top5": [
     {
-      "title": "Czy agoniści GLP-1 zmieniają smak i zapach? - Lekarz NEJM",
-      "url": "https://clinician.nejm.org/CLINjwNA60350?show-author=true&author-id=AU3738",
-      "date": "2026-08-28T03:32:24Z",
-      "source": "NEJM",
+      "title": "IMICAMS: Wzmocnienie informacji zdrowotnych i wymiany wiedzy w regionie zachodniego Pacyfiku – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/westernpacific/news/item/28-09-2026-imicams--strengthening-health-information-and-knowledge-sharing-in-the-western-pacific-region",
+      "date": "2026-08-28T07:38:09Z",
+      "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+      "summary": "Instytut Informacji Medycznej Chińskiej Akademii Nauk Medycznych (IMICAMS) to współpracujące centrum WHO w zakresie informacji o zdrowiu i biomedycynie z siedzibą w Pekinie. Dzięki zarządzaniu indeksem Medicus Regionu Zachodniego Pacyfiku (WPRIM) IMICAMS wzmocnił dzielenie się wiedzą oraz zwiększył widoczność i dostępność badań zdrowotnych i biomedycznych w regionie."
+    },
+    {
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-08-28T03:34:20Z",
+      "source": "ECDC",
+      "confirmed_by": 2,
+      "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
       "title": "Gwinea Bissau przyspiesza walidację krajowych protokołów leczenia HIV – WHO | Biuro Regionalne dla Afryki",
@@ -2494,14 +2502,6 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 19,
       "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
-    },
-    {
-      "title": "Mpox w Gwinei Bissau: transmisja społeczna pozostaje aktywna pomimo wzmocnienia nadzoru – WHO | Biuro Regionalne dla Afryki",
-      "url": "https://www.afro.who.int/countries/guinea-bissau/news/mpox-guinea-bissau-community-transmission-remains-active-surveillance-strengthened",
-      "date": "2026-08-27T10:54:01Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Bissau — dwa miesiące po potwierdzeniu pierwszego przypadku w kraju odnotowano 10 potwierdzonych przypadków i brak zgonów. Zespoły ds. zdrowia intensyfikują aktywne wyszukiwanie przypadków i monitorowanie kontaktów, korzystając ze wsparcia technicznego Światowej Organizacji Zdrowia. Dwa miesiące po wybuchu epidemii."
     },
     {
       "title": "WHO powołuje 21 czołowych naukowców do Rady Naukowej, aby pomóc w kształtowaniu przyszłych przełomów w dziedzinie zdrowia – Światowa Organizacja Zdrowia (WHO)",
