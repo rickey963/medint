@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T01:42:11Z",
+  "last_updated": "2026-08-29T01:42:59Z",
   "poland": [
     {
       "title": "Informacja o jakości wody Strefa Zaopatrzenia Okonek 28.08.2026r. - Gov.pl",
@@ -807,14 +807,6 @@
   "guidelines": [
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://myesc.escardio.org/ESCApplications",
-      "date": "2026-08-29T00:30:39Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.escardio.org/news/press/press-releases/xylitol-may-increase-the-risk-of-cardiovascular-events/",
       "date": "2026-08-28T22:51:38Z",
       "source": "ESC (kardiologia)",
@@ -850,6 +842,14 @@
       "url": "https://www.mdlinx.com/article/biopsy-or-what-rethinking-the-referral-threshold-for-microscopic-hematuria-in-primary-care/74pmga9OPrMx9oGjELI0bO?mdl_cp_loc=bottom_extender&mdl_cp_imp=4HPi5KmG8JEwRpTVK8DQl7%7C74pmga9OPrMx9oGjELI0bO%7C5Nj75hRTnZIVBElbvoSxAS",
       "date": "2026-08-28T17:58:08Z",
       "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://myesc.escardio.org/ESCApplications",
+      "date": "2026-08-28T16:02:31Z",
+      "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
@@ -1162,7 +1162,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7533a1.htm",
       "date": "2026-08-27T17:00:31Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1614,7 +1614,7 @@
       "url": "https://www.appliedclinicaltrialsonline.com/view/navigating-adoption-biomarker-informed-trial-enrollment-oncology",
       "date": "2026-08-28T18:13:23Z",
       "source": "Applied Clinical Trials",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
