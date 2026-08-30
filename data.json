@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T22:07:58Z",
+  "last_updated": "2026-08-30T22:08:46Z",
   "poland": [
     {
       "title": "Sanatoria dostaną mniej pieniędzy z NFZ. Zmiany odbiją się na pacjentach - Rynek Zdrowia",
@@ -1107,7 +1107,7 @@
       "date": "2026-08-28T20:06:33Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Należy pamiętać, że informacje dotyczące harmonogramu tej oceny zostaną udostępnione w odpowiednim czasie. W międzyczasie NICE będzie w dalszym ciągu monitorować sytuację i będzie przekazywać aktualne informacje, gdy tylko sytuacja ulegnie zmianie."
     },
     {
       "title": "Cel szkolenia: - NIL",
@@ -1893,6 +1893,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.ema.europa.eu/lv/taxonomy/term/104313",
+      "date": "2026-08-30T15:26:17Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.ema.europa.eu/hu/events/pharmacovigilance-risk-assessment-committee-prac-6-9-march-2028",
       "date": "2026-08-30T14:22:31Z",
       "source": "EMA",
@@ -2274,14 +2282,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Jak wynika z badania opublikowanego w Internecie 2 sierpnia, prawdopodobna psychoza ponapadowa (PIP) wiąże się ze zwiększonym ryzykiem wystąpienia późniejszych pierwotnych zaburzeń psychotycznych."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.drugs.com/news/fractional-exhaled-nitric-oxide-elevated-pediatric-chest-tightness-variant-asthma-131158.html",
-      "date": "2026-08-28T18:18:53Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "critical_alerts": [
@@ -2290,7 +2290,7 @@
       "summary": "",
       "url": "",
       "source": "",
-      "date": "2026-08-30T22:07:58Z"
+      "date": "2026-08-30T22:08:46Z"
     }
   ],
   "daily_top5": [
