@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-30T10:45:14Z",
+  "last_updated": "2026-08-30T10:46:00Z",
   "poland": [
+    {
+      "title": "Wyciek danych z MyDr. Sprawdź, czy Twoje dane trafiły do sieci - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/e-zdrowie/wyciek-danych-z-mydr-sprawdz-czy-twoje-dane-trafily-do-sieci",
+      "date": "2026-08-30T10:43:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 2,
+      "summary": "Osoby, których dane mogły znaleźć się w bazie zaatakowanej firmy MyDr, mogą już sprawdzić, czy ich numer PESEL został objęty wyciekiem. Służy do tego rządowa strona bezpiecznedane.gov.pl."
+    },
     {
       "title": "Bilans tygodnia: ważne decyzje dla onkologii, nowe zasady dla leków i wyzwania kardiologii - Puls Medycyny",
       "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/prawo/bilans-tygodnia-wazne-decyzje-dla-onkologii-nowe-zasady-dla-lekow-i-wyzwania-kardiologii/",
@@ -392,14 +400,6 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Skóra coraz częściej ujawnia skutki współczesnego stylu życia. — Pacjent może mieć predyspozycję do zachorowania, ale dopiero silny stres staje się czynnikiem wyzwalającym — mówi Medonetowi dermatolożka dr hab. med."
-    },
-    {
-      "title": "10 lat bezpłatnych leków. Teraz Ministerstwo Zdrowia zmienia zasady gry - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Farmacja/10-lat-bezplatnych-lekow-Teraz-Ministerstwo-Zdrowia-zmienia-zasady-gry,288294,6.html",
-      "date": "2026-08-29T10:40:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Program bezpłatnych leków wchodzi w dziesiąty rok funkcjonowania z rosnącymi kosztami i coraz większą liczbą pacjentów. Ministerstwo Zdrowia chce mocniej negocjować ceny preparatów, ale jednocześnie podkreśla, że przy kształtowaniu list liczyć się mają nie tylko wydatki, lecz także ciągłość dostaw i dostępność terapii."
     }
   ],
   "world": [
@@ -625,7 +625,7 @@
       "date": "2026-08-29T06:41:37Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Wprowadzenie Pankreatoduodenektomia (PD) jest preferowaną metodą chirurgiczną w przypadku resekcyjnych raków okołoampułkowych. Nietrzustkowe raki okołobrodawkowe (NPPC) wykazują odmienne zachowania biologiczne i są na ogół mniej agresywne niż rak trzustki. Pomimo ponad trzydziestu lat postępu, rola laparoskopowej PD (LPD) pozostaje przedmiotem dyskusji."
+      "summary": "Laparoskopowa a otwarta pankreatoduodenektomia w przypadku gruczolakoraków okołoampułowych innych niż trzustka: protokół badania wieloośrodkowego, randomizowanego, kontrolowanego badania w Chinach bmjopen.bmj.com."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -649,7 +649,7 @@
       "date": "2026-08-29T03:10:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Elektryczna stymulacja mięśni (EMS) to jedna z najpopularniejszych i najskuteczniejszych technik uzupełniających, która naśladuje potencjał czynnościowy sąsiadujących mięśni i utrzymuje je w zdrowiu. Oprócz rehabilitacji mięśni donoszono o obiecującej roli EMS w szerokim zakresie schorzeń klinicznych, od zaburzeń funkcji poznawczych po choroby metaboliczne i leczenie bólu. Jednakże odpowiedź kliniczna i skuteczność tej metody pozostają zmienne."
+      "summary": "Elektryczna stymulacja mięśni: multidyscyplinarny przegląd narracji BMJ Opieka wspomagająca i paliatywna."
     },
     {
       "title": "Wspomagane umieranie: jakie są konsekwencje dla personelu medycznego? - Opieka wspomagająca i paliatywna BMJ",
@@ -657,7 +657,7 @@
       "date": "2026-08-29T03:07:05Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Członkowie parlamentu głosowali niedawno za legalizacją wspomaganego umierania w Anglii i Walii na mocy ustawy o osobach nieuleczalnie chorych (u kresu życia). Projekt ustawy zapewni osobie dorosłej, która jest nieuleczalnie chora, z rokowaniem krótszym niż 6 miesięcy, prawo do zwrócenia się o pomoc i otrzymania pomocy w celu zakończenia własnego życia. Lekarze są niewątpliwie niezbędni w tym procesie; w istocie wspomniano o nich 189 razy w projekcie ustawy1 i choć szczegóły dotyczące sposobu świadczenia usług są obecnie minimalne, oczekuje się, że będzie to część opieki w ramach krajowej służby zdrowia (NHS)."
+      "summary": "Wspomagane umieranie: jakie są konsekwencje dla personelu medycznego? Opieka wspomagająca i paliatywna BMJ."
     },
     {
       "title": "Witamina E i choroby serca: tematyczny przegląd systematyczny - BMJ Opieka wspomagająca i paliatywna",
@@ -2017,7 +2017,7 @@
       "date": "2026-08-29T01:01:49Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Zobacz interakcje leków pomiędzy Biafiną i Nikapryną. Leki te mogą również wchodzić w interakcje z niektórymi pokarmami lub chorobami."
+      "summary": "Interakcje między Biafine i Nicaprin Drugs.com."
     },
     {
       "title": "Raport interakcji leków: echinacea, tymoglobulina – Drugs.com",
