@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T11:03:32Z",
+  "last_updated": "2026-08-30T11:04:16Z",
   "poland": [
     {
       "title": "Wyciek danych z MyDr. Sprawdź, czy Twoje dane trafiły do sieci - Puls Medycyny",
@@ -517,6 +517,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/01/default-calendar/world-sexual-and-reproductive-health-month-2026",
+      "date": "2026-08-29T18:03:50Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.nejm.org/doi/10.1056/NEJMoa2609059",
       "date": "2026-08-29T17:53:52Z",
       "source": "NEJM",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Obecnie zatwierdzono lek Lilly's Mounjaro (tyrzepatid) w celu zmniejszenia ryzyka chorób sercowo-naczyniowych u dorosłych chorych na cukrzycę typu 2."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.afro.who.int/pt/news/infographics?page=598",
-      "date": "2026-08-28T23:21:29Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "guidelines": [
@@ -1305,6 +1305,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
+      "date": "2026-08-28T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
       "date": "2026-08-28T07:00:00Z",
       "source": "CDC Outbreaks",
@@ -1314,14 +1322,6 @@
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.cdc.gov/wastewater/respiratory-viruses/state.html",
-      "date": "2026-08-28T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
       "date": "2026-08-28T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
@@ -2266,7 +2266,7 @@
       "summary": "",
       "url": "",
       "source": "",
-      "date": "2026-08-30T11:03:32Z"
+      "date": "2026-08-30T11:04:16Z"
     }
   ],
   "daily_top5": [
@@ -2303,12 +2303,12 @@
       "summary": "Bezpieczeństwo i skuteczność ścieżki 0/1 h dla zawału mięśnia sercowego na oddziale ratunkowym: międzynarodowe, pragmatyczne, schodkowe, randomizowane, kontrolowane badanie The Lancet."
     },
     {
-      "title": "Światowy miesiąc zdrowia seksualnego i reprodukcyjnego 2026 – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.who.int/news-room/events/detail/2026/09/01/default-calendar/world-sexual-and-reproductive-health-month-2026",
       "date": "2026-08-29T18:03:50Z",
-      "source": "WHO Disease Outbreak News",
+      "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Dołącz do nas we wrześniu. Światowy Miesiąc Zdrowia Seksualnego i Reprodukcyjnego jest okazją do głębszego przyjrzenia się obszarowi zdrowia, który dotyczy każdego."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ]
 }
