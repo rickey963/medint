@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T22:14:34Z",
+  "last_updated": "2026-08-30T22:15:18Z",
   "poland": [
     {
       "title": "Sanatoria dostaną mniej pieniędzy z NFZ. Zmiany odbiją się na pacjentach - Rynek Zdrowia",
@@ -822,7 +822,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Wczesne obrazowanie miażdżycy umożliwia identyfikację cichej choroby, której nie uwzględnia konwencjonalna ocena ryzyka – Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/news/press/press-releases/early-imaging-of-atherosclerosis-identifies-silent-disease-not-captured-by-conventional-risk-assessment/",
       "date": "2026-08-30T18:01:32Z",
       "source": "ESC (kardiologia)",
@@ -1107,7 +1107,7 @@
       "date": "2026-08-28T20:06:33Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Należy pamiętać, że informacje dotyczące harmonogramu tej oceny zostaną udostępnione w odpowiednim czasie. W międzyczasie NICE będzie w dalszym ciągu monitorować sytuację i będzie przekazywać aktualne informacje, gdy tylko sytuacja ulegnie zmianie."
     },
     {
       "title": "Cel szkolenia: - NIL",
@@ -1131,7 +1131,7 @@
       "date": "2026-08-28T17:58:08Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Biopsja czy co? Ponowne przemyślenie progu skierowania z powodu mikroskopijnego krwiomoczu w podstawowej opiece zdrowotnej MDLinx."
     },
     {
       "title": "Program szkolenia: - NIL",
@@ -1224,7 +1224,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Portal strategicznego partnerstwa na rzecz bezpieczeństwa zdrowia i gotowości na wypadek sytuacji kryzysowych (SPH) | Budowanie silniejszych systemów opieki zdrowotnej w celu zapewnienia zrównoważonego bezpieczeństwa zdrowotnego – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://extranet.who.int/sph/node?field_jee_version_value=ver3&page=2813",
       "date": "2026-08-29T08:21:15Z",
       "source": "WHO Disease Outbreak News",
@@ -1256,7 +1256,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-08-28T19:00:55Z",
       "source": "CDC Outbreaks",
@@ -1349,7 +1349,7 @@
       "date": "2026-08-28T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Dane dotyczące ścieków dla Centrów Kontroli i Zapobiegania Chorobom ptasiej grypy A(H5) | CDC (.gov)."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1360,7 +1360,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Dane stanu/terytorium dotyczące ścieków pod kątem wirusów układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/wastewater/respiratory-viruses/state.html",
       "date": "2026-08-28T07:00:00Z",
       "source": "CDC Outbreaks",
@@ -2294,11 +2294,12 @@
   ],
   "critical_alerts": [
     {
-      "title": "Sytuacja stabilna - brak nowych alertów medycznych",
-      "summary": "",
-      "url": "",
-      "source": "",
-      "date": "2026-08-30T22:14:34Z"
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-08-28T19:00:55Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "daily_top5": [
