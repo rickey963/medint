@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T11:57:38Z",
+  "last_updated": "2026-08-30T11:58:16Z",
   "poland": [
     {
       "title": "Kraków – szkolenie „Czy leci z nami lekarz?” - Z kraju - Kurier - Medycyna Praktyczna",
@@ -130,6 +130,14 @@
       "summary": "— To nie zawsze wygląda tak, że ratujemy komuś życie tu i teraz, w spektakularny sposób — mówi Anna Mackiewicz, pielęgniarka anestezjologiczna. W rozmowie z Medonetem opisuje swój dzień pracy krok po kroku i pokazuje, co dzieje się wtedy, kiedy pacjent niczego już nie widzi i niczego nie pamięta."
     },
     {
+      "title": "Najpierw implanty, a potem objadanie słodyczami. Naukowcy: skończy się utratą kości - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Nauka/Najpierw-implanty-a-potem-objadanie-slodyczami-Naukowcy-skonczy-sie-utrata-kosci,288300,9.html",
+      "date": "2026-08-30T08:00:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "To ważne badanie dla pacjentów po wszczepieniu implantu. Naukowcy wykazali, że leczenie zapalenia tkanek wokół implantu to nie tylko opanowanie zakażenia. Niedobór witamin, nadmiar cukrów prostych i tłuszcze nasycone mogą nasilać stan zapalny i utrudniać gojenie, zwłaszcza u seniorów."
+    },
+    {
       "title": "Szpitale boją się ujawniania lekarskich ofert. Nowy obowiązek możliwy od 1 stycznia - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Szpitale-boja-sie-ujawniania-lekarskich-ofert-Nowy-obowiazek-mozliwy-od-1-stycznia,288284,1.html",
       "date": "2026-08-30T08:00:00Z",
@@ -144,14 +152,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Aplikacje zdrowotne: które są wiarygodne? PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Najpierw implanty, a potem objadanie słodyczami. Naukowcy: skończy się utratą kości - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Nauka/Najpierw-implanty-a-potem-objadanie-slodyczami-Naukowcy-skonczy-sie-utrata-kosci,288300,9.html",
-      "date": "2026-08-30T08:00:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "To ważne badanie dla pacjentów po wszczepieniu implantu. Naukowcy wykazali, że leczenie zapalenia tkanek wokół implantu to nie tylko opanowanie zakażenia. Niedobór witamin, nadmiar cukrów prostych i tłuszcze nasycone mogą nasilać stan zapalny i utrudniać gojenie, zwłaszcza u seniorów."
     },
     {
       "title": "Zrób ten test, jeśli masz ponad 50 lat. Wynik może być pierwszym ostrzeżeniem - Medonet",
@@ -585,7 +585,7 @@
       "date": "2026-08-29T09:33:09Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Schizofrenia: postępy w patofizjologii, zarządzaniu i medycynie precyzyjnej BMJ."
+      "summary": "Schizofrenia jest powszechną i ciężką chorobą psychiczną, której początek zwykle przypada na późny okres dojrzewania i wczesną dorosłość. Schizofrenia jest spowodowana połączeniem wielu czynników genetycznych i środowiskowych o znaczących implikacjach neurorozwojowych. Postęp w leczeniu klinicznym schizofrenii obejmuje metody leczenia biologicznego i niebiologicznego."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1336,12 +1336,12 @@
       "summary": "Poziomy aktywności wirusów układu oddechowego Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Dane dotyczące ścieków dotyczące ptasiej grypy A(H5) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/wastewater/emerging-viruses/h5.html",
+      "title": "Informacje o programie monitorowania ścieków CDC — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/wastewater/about/index.html",
       "date": "2026-08-28T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Dane dotyczące ścieków dla Centrów Kontroli i Zapobiegania Chorobom ptasiej grypy A(H5) | CDC (.gov)."
+      "summary": "Informacje o programie monitorowania ścieków CDC Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
       "title": "Dane stanu/terytorium dotyczące ścieków pod kątem wirusów układu oddechowego — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1352,12 +1352,12 @@
       "summary": "Dane stanu/terytorium dotyczące ścieków dla wirusów układu oddechowego Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Informacje o programie monitorowania ścieków CDC — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/wastewater/about/index.html",
+      "title": "Dane dotyczące ścieków dotyczące ptasiej grypy A(H5) — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/wastewater/emerging-viruses/h5.html",
       "date": "2026-08-28T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Informacje o programie monitorowania ścieków CDC Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "summary": "Dane dotyczące ścieków dla Centrów Kontroli i Zapobiegania Chorobom ptasiej grypy A(H5) | CDC (.gov)."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
