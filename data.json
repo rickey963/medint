@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T12:28:45Z",
+  "last_updated": "2026-08-31T12:29:30Z",
   "poland": [
     {
       "title": "Psycholog i dietetyk wesprą młodych Łodzian - Z kraju - Kurier - Medycyna Praktyczna",
@@ -16,6 +16,14 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Nowe badanie sugeruje związek między wcześniejszym wystąpieniem menopauzy a wyższym ryzykiem rozstrzeni oskrzeli – informują naukowcy na łamach pisma „Chronic Obstructive Pulmonary Diseases Journal of the COPD Foundation”."
+    },
+    {
+      "title": "NFZ nie może płacić za wszystko. Bernard Waśko: na finansowanie wszystkiego bezlimitowo nas nie stać - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/finanse/nfz-nie-moze-placic-za-wszystko-bernard-wasko-na-finansowanie-wszystkiego-bezlimitowo-nas-nie-stac/",
+      "date": "2026-08-31T12:25:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Budżet NFZ nie nadąża za rosnącymi potrzebami zdrowotnymi Polaków. To stawia pod znakiem zapytania bezlimitowe finansowanie świadczeń. Zdaniem Bernarda Waśko, byłego wiceprezesa NFZ, system musi określić priorytety i zdecydować, które świadczenia oraz technologie powinny być nadal finansowane."
     },
     {
       "title": "Witaj szkoło! - pacjent.gov.pl",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "RZS oraz inne postacie zapalenia stawów charakteryzują się patologicznym tworzeniem nowych naczyń, naciekiem krwinek białych oraz przerostem błony maziowej, nieuchronnie prowadząc do niszczenia struktury stawu i niepełnosprawności ruchowej."
-    },
-    {
-      "title": "Rada naukowa - Pediatria po Dyplomie - Podyplomie.pl",
-      "url": "https://podyplomie.pl/czasopisma/pediatria-po-dyplomie/o-czasopismie/rada-naukowa",
-      "date": "2026-08-31T08:58:55Z",
-      "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
-      "summary": "Rada naukowa - Pediatria po Dyplomie. Regularna dawka aktualnej wiedzy pediatrycznej co 2 miesiące! Doskonale wiemy, jak ważne w Twojej pracy jest bycie na bieżąco z aktualnymi badaniami, wytycznymi i rekomendacjami."
     }
   ],
   "world": [
@@ -425,7 +425,7 @@
       "date": "2026-08-31T11:59:23Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Nowa analiza WHO pokazuje, że produkcja liści tytoniu w Afryce stale rośnie, podczas gdy produkcja globalna spada, co budzi obawy o zdrowie, źródła utrzymania rolników, środowisko i zrównoważony rozwój."
+      "summary": "Nowa analiza WHO pokazuje, że produkcja liści tytoniu w Afryce stale rośnie, podczas gdy produkcja światowa spada, co budzi obawy o zdrowie, źródła utrzymania rolników, środowisko i zrównoważony rozwój."
     },
     {
       "title": "Młodzi ludzie mobilizują się, by chronić zdobycze Bangladeszu przed zaniedbanymi chorobami tropikalnymi – Światowa Organizacja Zdrowia (WHO)",
@@ -436,7 +436,7 @@
       "summary": "Młodzi ludzie w całym Bangladeszu przyłączają się do nowych wysiłków na rzecz ochrony ciężko zdobytych zdobyczy kraju przed zaniedbanymi chorobami tropikalnymi (NTD) i wzmacniania działań społeczności przeciwko pozostałym chorobom chorobowym, które w dalszym ciągu dotykają miliony ludzi. Inicjatywa Youth Against NTDs zrzesza organizacje młodzieżowe, studentów medycyny i wolontariuszy z całego kraju. Planuje się utworzenie do końca 2026 r. 36 młodzieżowych grup zadaniowych NTD zarówno w publicznych, jak i prywatnych uczelniach medycznych. Zainicjowana przez WHO w Bangladeszu inicjatywa Youth Against NTDs jest prowadzona przez Nymat Global, prowadzoną przez młodzież sieć zdrowia publicznego, której korzenie sięgają propagowania gruźlicy, przy stałym wsparciu ze strony krajowego biura WHO i Biuro Regionalne WHO dla Azji Południowo-Wschodniej."
     },
     {
-      "title": "Samotny guz włóknisty objawiający się masywnym wysiękiem w opłucnej - opisy przypadków BMJ",
+      "title": "Samotny guz włóknisty objawiający się masywnym wysiękiem w jamie opłucnej – opisy przypadków BMJ",
       "url": "https://casereports.bmj.com/content/19/8/e275133.citation-tools",
       "date": "2026-08-31T11:05:03Z",
       "source": "The BMJ",
@@ -460,7 +460,7 @@
       "summary": "Dokument przedstawiający stanowisko wielu społeczeństw przedstawia strategie ulepszeń na poziomie szpitala i systemów."
     },
     {
-      "title": "Rak rdzeniasty tarczycy nie wykazujący kalcytoniny u młodych dorosłych – opisy przypadków BMJ",
+      "title": "Rak rdzeniasty tarczycy ujemny pod względem kalcytoniny u młodych dorosłych – opisy przypadków BMJ",
       "url": "https://casereports.bmj.com/content/19/8/e272358",
       "date": "2026-08-31T10:44:05Z",
       "source": "The BMJ",
@@ -665,7 +665,7 @@
       "date": "2026-08-30T21:29:46Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Resekcja mięśnia prostego przyśrodkowego od dawna jest uważana za standardową procedurę wzmacniania mięśni w chirurgicznym leczeniu egzotropii. Niedawno pojawiła się plikacja mięśnia prostego przyśrodkowego jako alternatywa oszczędzająca naczynia, która pozwala zachować krążenie rzęskowe przednie i może zapewniać dodatkowe korzyści chirurgiczne. Jednakże porównywalna skuteczność tych dwóch procedur pozostaje niepewna."
+      "summary": "Resekcja mięśnia prostego od dawna jest uważana za standardową procedurę wzmacniania mięśni w chirurgicznym leczeniu egzotropii. Niedawno pojawiła się plikacja mięśnia prostego przyśrodkowego jako alternatywa oszczędzająca naczynia, która pozwala zachować krążenie rzęskowe przednie i może zapewniać dodatkowe korzyści chirurgiczne. Jednakże porównywalna skuteczność tych dwóch procedur pozostaje niepewna."
     },
     {
       "title": "Porównawcza skuteczność plikacji mięśnia prostego przyśrodkowego w porównaniu z resekcją w przypadku egzotropii: przegląd systematyczny i metaanaliza - Cureus",
@@ -676,7 +676,7 @@
       "summary": "Resekcja mięśnia prostego przyśrodkowego od dawna jest uważana za standardową procedurę wzmacniania mięśni w chirurgicznym leczeniu egzotropii. Niedawno pojawiła się plikacja mięśnia prostego przyśrodkowego jako alternatywa oszczędzająca naczynia, która pozwala zachować krążenie rzęskowe przednie i może zapewniać dodatkowe korzyści chirurgiczne. Jednakże porównywalna skuteczność tych dwóch procedur pozostaje niepewna."
     },
     {
-      "title": "FDA zatwierdza lek Protagonist i Takeda na rzadkie nowotwory krwi - STAT",
+      "title": "FDA zatwierdza lek Protagonist i Takeda na rzadkie nowotwory krwi – STAT",
       "url": "https://www.statnews.com/2026/08/30/fda-approves-mimrylo-takeda-protagonist-treatment-for-polycythemia-vera/",
       "date": "2026-08-30T19:26:15Z",
       "source": "STAT News",
@@ -814,20 +814,20 @@
       "summary": "Badanie, które zostanie zaprezentowane na Kongresie ESC 2026, wykaże, że wysoki poziom sztucznej substancji słodzącej, ksylitolu, we krwi, jest powiązany ze zwiększonym ryzykiem poważnych niepożądanych zdarzeń sercowo-naczyniowych."
     },
     {
-      "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji leczniczej mieszkańców gminy Brochów na lata 2026-2029 - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/opinia-prezesa-program-polityki-zdrowotnej-w-zakresie-rehabilitacji-leczniczej-mieszkancow-gminy-brochow-na-lata-2026-2029/",
-      "date": "2026-08-31T10:55:57Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 66/2026 z dnia 28 sierpnia 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej w zakresie rehabilitacji leczniczej mieszkańców gminy Brochów na lata 2026-2029”."
-    },
-    {
       "title": "Opinia Prezesa - Program polityki zdrowotnej z zakresu wczesnego wykrywania wad wzroku u dzieci z powiatu leszczyńskiego - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/opinia-prezesa-program-polityki-zdrowotnej-z-zakresu-wczesnego-wykrywania-wad-wzroku-u-dzieci-z-powiatu-leszczynskiego/",
       "date": "2026-08-31T10:55:57Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 67/2026 z dnia 28 sierpnia 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej z zakresu wczesnego wykrywania wad wzroku u dzieci z powiatu leszczyńskiego”."
+    },
+    {
+      "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji leczniczej mieszkańców gminy Brochów na lata 2026-2029 - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/opinia-prezesa-program-polityki-zdrowotnej-w-zakresie-rehabilitacji-leczniczej-mieszkancow-gminy-brochow-na-lata-2026-2029/",
+      "date": "2026-08-31T10:55:57Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 66/2026 z dnia 28 sierpnia 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej w zakresie rehabilitacji leczniczej mieszkańców gminy Brochów na lata 2026-2029”."
     },
     {
       "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji leczniczej mieszkańców gminy Prażmów na lata 2027-2029 - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -875,7 +875,7 @@
       "date": "2026-08-30T16:15:18Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Jak wynika z badania przeprowadzonego na obszarach wiejskich w Chinach, intensywna interwencja obniżająca ciśnienie krwi zmniejszyła częstość występowania demencji w porównaniu ze zwykłą opieką, jak wynika z wyników chińskiego programu kontroli nadciśnienia na obszarach wiejskich zaprezentowanych dzisiaj podczas sesji gorącej linii podczas Kongresu ESC 2026."
+      "summary": "Jak wynika z badania przeprowadzonego na społeczności wiejskiej na obszarach wiejskich Chin, intensywna interwencja obniżająca ciśnienie krwi zmniejszyła częstość występowania demencji w porównaniu ze zwykłą opieką, jak wynika z wyników chińskiego programu kontroli nadciśnienia na obszarach wiejskich zaprezentowanych dzisiaj podczas sesji gorącej linii podczas Kongresu ESC 2026."
     },
     {
       "title": "Plozasiran znacząco obniża poziom trójglicerydów u pacjentów z ciężką hipertriglicerydemią - Europejskie Towarzystwo Kardiologiczne",
@@ -883,7 +883,7 @@
       "date": "2026-08-30T16:05:18Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Jak wynika z wyników przedstawionych podczas dzisiejszej sesji Hot Line na Kongresie ESC 2026, leczenie plozasiranem spowodowało znaczne zmniejszenie poziomu triglicerydów u pacjentów z ciężką hipertriglicerydemią po roku."
+      "summary": "Jak wynika z wyników przedstawionych dzisiaj podczas sesji Hot Line na Kongresie ESC 2026, leczenie plozasiranem spowodowało znaczne zmniejszenie poziomu triglicerydów u pacjentów z ciężką hipertriglicerydemią po roku."
     },
     {
       "title": "Ablacja cewnikowa nie poprawia jakości życia związanej z migotaniem przedsionków – Europejskie Towarzystwo Kardiologiczne",
@@ -902,7 +902,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Sztuczna inteligencja może pomóc w wykrywaniu powszechnych chorób układu krążenia na podstawie mammografii – Europejskie Towarzystwo Kardiologiczne",
+      "title": "Sztuczna inteligencja może pomóc w wykrywaniu powszechnych chorób sercowo-naczyniowych na podstawie mammografii – Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/news/press/press-releases/ai-could-help-detect-common-cardiovascular-diseases-from-mammograms/",
       "date": "2026-08-30T13:18:46Z",
       "source": "ESC (kardiologia)",
@@ -1224,20 +1224,20 @@
       "summary": "Ponieważ 31 sierpnia w Afryce obchodzony jest 24. Dzień Afrykańskiej Tradycyjnej Medycyny, przywódcy, badacze i praktycy zajmujący się tradycyjną medycyną zastanawiają się nad kluczowym pytaniem: w jaki sposób medycyna tradycyjna może pomóc przyspieszyć powszechną opiekę zdrowotną na całym kontynencie? Pod tegorocznym tematem „Refleksja na temat wysiłków badawczo-rozwojowych medycyny tradycyjnej na rzecz osiągnięcia powszechnej opieki zdrowotnej w regionie Afryki” Światowe Centrum Medycyny Tradycyjnej WHO i Biuro Regionalne WHO dla Afryki zorganizowały rozmowę na temat tego, w jaki sposób dowody, innowacje i zaufanie społeczne mogą pomóc w przeniesieniu tradycyjnej medycyny z badań do zasięgu. Obejrzyj rozmowę Dzień Afrykańskiej Medycyny Tradycyjnej upamiętnia przełomową uchwałę przyjętą przez Komitet Regionalny WHO ds. Afryki na jego pięćdziesiątej sesji w Wagadugu (rezolucja AFR/RC50/R3) w 2000 r. i uznaje kluczową rolę, jaką medycyna tradycyjna odgrywa w zapewnianiu dostępnej, niedrogiej i zakorzenionej kulturowo opieki dla milionów ludzi na całym kontynencie."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Światowy miesiąc zdrowia seksualnego i reprodukcyjnego 2026 – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/01/default-calendar/world-sexual-and-reproductive-health-month-2026",
       "date": "2026-08-31T04:49:05Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Dołącz do nas we wrześniu. Światowy Miesiąc Zdrowia Seksualnego i Reprodukcyjnego jest okazją do głębszego przyjrzenia się obszarowi zdrowia, który dotyczy każdego."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Korzystanie z interfejsu API ICD-11: odprawa techniczna – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/01/default-calendar/using-the-icd-11-api--a-technical-briefing",
       "date": "2026-08-30T15:34:08Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Sesja techniczna na temat API ICD-11, obejmująca podstawowe koncepcje, wzorce użycia i praktyczne wskazówki dotyczące integracji, w tym opis wdrożenia w Malezji w kraju."
     },
     {
       "title": "Strona wyszukiwania ogólnego — Światowa Organizacja Zdrowia (WHO)",
@@ -1285,10 +1285,10 @@
       "date": "2026-08-28T21:04:31Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Od czasu opublikowania ostatnich wiadomości o epidemii choroby w dniu 14 sierpnia 2026 r. epidemia rozprzestrzeniła się z 54 do 60 stref zdrowia. Liczba dotkniętych prowincji wynosi sześć z 26 prowincji kraju: Bas-Uélé, Haut-Uélé, Ituri, Kiwu Północne, Kiwu Południowe i Tshopo. Od ostatniej aktualizacji przypadki zgłosiło sześć dodatkowych stref zdrowia – strefy zdrowia Ganga i Viadana w prowincji Bas-Uélé, Biena, Manguredjipa i Mutwanga w Kiwu Północnym oraz strefa zdrowia Tshopo w prowincji Tshopo."
+      "summary": "Od czasu opublikowania ostatnich wiadomości o epidemii choroby w dniu 14 sierpnia 2026 r. epidemia rozprzestrzeniła się z 54 do 60 stref zdrowia. Liczba dotkniętych prowincji wynosi sześć z 26 prowincji kraju: Bas-Uélé, Haut-Uélé, Ituri, Kiwu Północne, Kiwu Południowe i Tshopo. Od ostatniej aktualizacji sześć dodatkowych stref zdrowia zgłosiło przypadki – strefy zdrowia Ganga i Viadana w prowincji Bas-Uélé, Biena, Manguredjipa i Mutwanga w Kiwu Północnym oraz strefa zdrowia Tshopo w prowincji Tshopo."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Liczba przypadków odry w Pensylwanii nadal rośnie, podczas gdy inne stany zgłaszają nowe przypadki – CIDRAP",
       "url": "https://www.cidrap.umn.edu/measles/measles-cases-continue-climb-pennsylvania-outbreak-other-states-report-new-cases",
       "date": "2026-08-28T20:47:43Z",
       "source": "CIDRAP",
@@ -1301,7 +1301,7 @@
       "date": "2026-08-28T19:19:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "FDA zatwierdziła zaktualizowane szczepionki przeciwko Covid-19 dla dorosłych w wieku powyżej 65 lat i młodszych osób cierpiących na choroby przewlekłe."
     },
     {
       "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1341,7 +1341,7 @@
       "date": "2026-08-28T12:55:07Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jak wynika z nowej analizy, która wykazała, że ​​od 2016 r. liczba badań, na podstawie których zatwierdzono lek, stale spada, na ponad dwie trzecie nowych leków zatwierdzonych przez amerykańską Agencję ds. Żywności i Leków (FDA) w 2024 r. nałożono sankcje na podstawie wyników jednego badania."
     },
     {
       "title": "Noworodek, jeden z dwóch zgonów związanych z odrą w Pensylwanii – CIDRAP",
@@ -1349,7 +1349,7 @@
       "date": "2026-08-27T20:48:12Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jedną z dwóch niezaszczepionych osób w hrabstwie Lancaster w Pensylwanii, która zmarła na odrę, był noworodek, ale dokładna przyczyna śmierci nie jest jasna."
     },
     {
       "title": "Epidemia wirusa Ebola oficjalnie kończy się w Ugandzie wraz z ogłoszeniem przez CEPI nowego kandydata na szczepionkę – CIDRAP",
@@ -1360,7 +1360,7 @@
       "summary": "Epidemia wirusa Ebola w Ugandzie dobiegła końca, gdy minęły 42 dni bez nowego potwierdzonego przypadku, odkąd 16 lipca ostatni pacjent w tym kraju, który zaraził się wirusem w Demokratycznej Republice Konga (DRK), został wypisany ze szpitala."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Powrót do szkoły: co musisz wiedzieć — CIDRAP",
       "url": "https://www.cidrap.umn.edu/public-health/back-school-what-you-need-know",
       "date": "2026-08-27T20:08:30Z",
       "source": "CIDRAP",
@@ -1384,7 +1384,7 @@
       "summary": "W artykule opublikowanym wczoraj w Nature Medicine badacze z Uniwersytetu Oksfordzkiego doszli do wniosku, że rekombinowana szczepionka przeciwko półpaścowi (półpasiec) może zmniejszyć prawdopodobieństwo chorób sercowo-naczyniowych w większym stopniu niż szczepionka żywa atenuowana, której wycofano w Stanach Zjednoczonych w 2020 r. ze względu na jej niższą skuteczność i szybkie zanikanie."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Jak wynika z badania szpitalnego CIDRAP, lepsza higiena rąk nie miała wpływu na wykrywanie organizmów wielolekoopornych",
       "url": "https://www.cidrap.umn.edu/healthcare-associated-infections/improved-hand-hygiene-had-no-impact-detection-multidrug-resistant",
       "date": "2026-08-27T16:54:00Z",
       "source": "CIDRAP",
@@ -1392,15 +1392,15 @@
       "summary": "Autorzy badania twierdzą, że wyniki nie negują znaczenia higieny rąk."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Jak wynika z raportu CIDRAP, u 1 na 4 zakażonych pracowników służby zdrowia w Wielkiej Brytanii zapadła na długotrwałą chorobę Covid-19",
       "url": "https://www.cidrap.umn.edu/covid-19/1-4-infected-uk-healthcare-workers-developed-long-covid-report-shows",
       "date": "2026-08-27T14:29:57Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jak wynika z nowego raportu badającego długoterminowy wpływ pandemii na pracowników służby zdrowia, około jeden na czterech pracowników służby zdrowia w Wielkiej Brytanii, który zaraził się Covid-19, miał długotrwałe objawy COVID przez pięć tygodni lub dłużej, a 26,5% pracowników służby zdrowia na całym świecie rok później nadal doświadczało powiązanych objawów."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "CDC dodaje ponad 3000 nowych przypadków Cyclospora – CIDRAP",
       "url": "https://www.cidrap.umn.edu/cyclospora/cdc-adds-more-3000-new-cyclospora-cases",
       "date": "2026-08-26T20:10:00Z",
       "source": "CIDRAP",
@@ -1455,15 +1455,15 @@
       "date": "2026-08-31T00:11:51Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Niezależne, wolne od cenzury media na rzecz zdrowia i badań biomedycznych – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/topics/statins",
       "date": "2026-08-30T19:45:17Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
       "title": "Autyzm u jednego na trzydzieści jeden: epidemia, lepsze wykrywanie – czy sygnał, którego wciąż nie rozumiemy? - wersja próbnanews.com",
@@ -1474,12 +1474,20 @@
       "summary": "W najnowszym raporcie sieci monitorowania autyzmu i niepełnosprawności rozwojowej (ADDM) amerykańskiego Centrum Kontroli i Zapobiegania Chorobom (CDC) zidentyfikowano zaburzenia ze spektrum autyzmu (ASD) u 32,2 na 1000 ośmiolatków w 2022 r. – około 1 na 31 – w 16 społecznościach monitorowanych w USA."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Przerywany post obniża HbA1c w badaniu dotyczącym małej cukrzycy typu 1, ale korzyści w postaci utraty wagi są niewystarczające",
       "url": "https://trialsitenews.com/p/trialsitenews/intermittent-fasting-lowers-hba1c-in-small-type-1-diabetes-trialbut-weight-loss-benefit-falls-short-d65f44e1",
       "date": "2026-08-30T00:27:55Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Pierwsze w swoim rodzaju randomizowane badanie przeprowadzone na Uniwersytecie Illinois w Chicago (UIC) sugeruje, że jedzenie ograniczone w czasie może poprawić kontrolę poziomu cukru we krwi u dorosłych chorych na cukrzycę typu 1 (T1D) i nadwagę lub otyłość, bez zwiększania poważnych ostrych powikłań. Opublikowane w Diabetes Care sześciomiesięczne badanie było prowadzone przez autorkę korespondującą i badaczkę dotyczącą postu przerywanego, dr Kristę Varady, wraz z pierwszą autorką Mary-Claire Runchey i współpracownikami. Opublikowane badanie Naukowcy przydzielili losowo zaledwie 32 osoby dorosłe do trzech grup: jedzenie tylko od południa do 20:00."
+    },
+    {
+      "title": "Ameryka przegrywa próby fazy 1 z Australią. HHS chce ich z powrotem – Trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/america-is-losing-phase-1-trials-to-australia.-hhs-wants-them-back-26ec1d76",
+      "date": "2026-08-29T17:04:10Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Amerykańskie firmy biotechnologiczne coraz częściej wysyłają do Australii swoje najwcześniejsze badania leków na ludziach – nie dlatego, że amerykańska nauka jest słabsza, ale dlatego, że Australia często może znacznie szybciej rozpocząć badania. Nowa analiza Chemical & Engineering News wykazała, że ​​Australia przewodzi Stanom Zjednoczonym."
     },
     {
       "title": "Pytanie BioNTech warte 28 miliardów dolarów: Ile naprawdę wart jest rurociąg po pandemii? - wersja próbnanews.com",
@@ -1488,6 +1496,14 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Decyzja niemieckiej firmy BioNTech o zakończeniu fazy 2 BNT122-01 jest bardziej niepokojąca niż zwykła daremna awaria. Autogene cevumeran – spersonalizowana immunoterapia nowotworów mRNA we współpracy z Genentech – przekroczyła z góry określoną granicę daremności w październiku 2025 r. Obecnie niezależna Rada ds. Monitorowania Bezpieczeństwa Leków (DSMB) stwierdziła brak równowagi liczbowej w zakresie całkowitego przeżycia i stwierdziła, że ​​dalsze leczenie raczej nie zmieni wyniku skuteczności."
+    },
+    {
+      "title": "Woody Harrelson dołącza do ponad 160 pracowników służby zdrowia wzywających do przeprowadzenia przeglądu bezpieczeństwa szczepionek przeciwko COVID w Wielkiej Brytanii – Trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/woody-harrelson-joins-160-health-professionals-calling-for-uk-covid-vaccine-safety-review-1d0be9e2",
+      "date": "2026-08-29T17:04:10Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Aktor Woody Harrelson dołączył do ponad 160 lekarzy, naukowców i pracowników służby zdrowia w liście otwartym, w którym wzywa nowego premiera Wielkiej Brytanii Andy’ego Burnhama do zlecenia szerszego badania bezpieczeństwa szczepionki przeciwko Covid-19 i wsparcia osób zgłaszających poważne obrażenia poszczepienne. Woody’ego Harrelsona."
     },
     {
       "title": "Czy dzieci mogą prowadzić badanie kliniczne? Globalny „próba dziecięca” potwierdza, że ​​tak, ale utrzymanie ich zaangażowania jest trudne – Trialsitenews.com",
@@ -1506,28 +1522,12 @@
       "summary": "Jingnan Wang ze szpitala Peking Union Medical College Hospital (PUMCH) wraz ze współpracownikami zgłasza intrygujące, ale niezwykle wstępne dowody na istnienie nowej metody „zobacz, potraktuj”. strategia radiofarmaceutyczna przeciwko przerzutowemu rakowi jasnokomórkowemu nerki (ccRCC). Opublikowane w Journal of Nuclear Medicine, przedkliniczne i pierwsze badanie na ludziach oceniało ^68Ga/^177Lu-NYM096, którego celem jest anhydraza węglanowa IX (CAIX), silnie wyrażana w ccRCC. Obrazowanie wykazało wyjątkowo wysoki wychwyt guza, podczas gdy terapeutyczny ^177Lu-NYM096 dał widoczne odpowiedzi."
     },
     {
-      "title": "Ameryka przegrywa próby fazy 1 z Australią. HHS chce ich z powrotem – Trialsitenews.com",
-      "url": "https://www.trialsitenews.com/a/america-is-losing-phase-1-trials-to-australia.-hhs-wants-them-back-26ec1d76",
-      "date": "2026-08-29T17:04:10Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.trialsitenews.com/a/woody-harrelson-joins-160-health-professionals-calling-for-uk-covid-vaccine-safety-review-1d0be9e2",
-      "date": "2026-08-29T17:04:10Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Niezależne, wolne od cenzury media na rzecz zdrowia i badań biomedycznych – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/p/snehakaurslim",
       "date": "2026-08-29T13:38:33Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
       "title": "ESC 2026: Kongres przedstawia kluczowe odczyty z przestrzeni sercowo-naczyniowej – Arena Badań Klinicznych",
@@ -1559,7 +1559,7 @@
       "date": "2026-08-29T00:35:03Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczegóły badania | NCT07791524 | Badanie fazy 2 tabletki MWN109 u uczestników z nadwagą lub otyłością ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07791732 | Badanie dotyczące stosowania raludotatugu deruxtekanu (R-DXd) z bewacyzumabem lub bez niego w terapii podtrzymującej w leczeniu drugiego rzutu nawracającego raka jajnika wrażliwego na platynę (REJOICE-Ovarian03) – ClinicalTrials.gov",
@@ -1567,7 +1567,7 @@
       "date": "2026-08-29T00:28:32Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczegóły badania | NCT07791732 | Badanie dotyczące stosowania raludotatugu deruxtekanu (R-DXd) z bewacyzumabem lub bez niego w terapii podtrzymującej w leczeniu drugiego rzutu nawracającego raka jajnika wrażliwego na platynę (REJOICE-Ovarian03) ClinicalTrials.gov."
     },
     {
       "title": "Szczegóły badania | NCT07791589 | Zwłóknienie i markery metaboliczne w związku z zapobieganiem ryzyku sercowo-naczyniowemu w MASLD - ClinicalTrials.gov",
@@ -1655,7 +1655,7 @@
       "date": "2026-08-28T21:39:58Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
       "title": "Niezależne, wolne od cenzury media na rzecz zdrowia i badań biomedycznych – Trialsitenews.com",
@@ -1663,7 +1663,7 @@
       "date": "2026-08-28T21:17:06Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Przejrzyste relacje z badań klinicznych."
     },
     {
       "title": "Jak wdrożyć rejestrację do badań klinicznych opartych na biomarkerach poza onkologią – stosowane badania kliniczne online",
@@ -1682,28 +1682,12 @@
       "summary": "ESC 2026: ocena laroprowstatu pod kątem wypełnienia luki w leczeniu LDL-C. Arena badań klinicznych."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "ACT Brief: Wymagania dotyczące umiejętności korzystania z sztucznej inteligencji i przyjęcia ekosystemów, modele operacyjne CRO pod presją agentycznej sztucznej inteligencji oraz współpraca platform w zakresie odkrywania szczepionek i przeciwciał – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/ai-literacy-ecosystem-adoption-requirements-cro-operating-models-agentic-ai-pressure-platform-collaborations-vaccine-antibody-discovery",
       "date": "2026-08-28T17:42:00Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "ACT Brief: Wymagania w zakresie umiejętności korzystania z sztucznej inteligencji i przyjęcia ekosystemów, modele operacyjne CRO pod presją agentycznej sztucznej inteligencji oraz współpraca platform w zakresie stosowanych badań klinicznych online szczepionek i przeciwciał."
-    },
-    {
-      "title": "Raportowanie bezpieczeństwa w RBQM: łączenie oceny ryzyka, monitorowania i działań – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/safety-reporting-rbqm-risk-assessment-monitoring",
-      "date": "2026-08-28T17:42:00Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Planowanie badania klinicznego EDC – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/planning-edc-clinical-trial",
-      "date": "2026-08-28T17:42:00Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Planowanie badania klinicznego EDC Stosowane badania kliniczne online."
     },
     {
       "title": "Poznaj EAB: Aaron F. Bartlone – stosowane badania kliniczne online",
@@ -1712,6 +1696,22 @@
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "Poznaj EAB: Stosowane badania kliniczne Aarona F. Bartlone’a online."
+    },
+    {
+      "title": "Raportowanie bezpieczeństwa w RBQM: łączenie oceny ryzyka, monitorowania i działań – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/safety-reporting-rbqm-risk-assessment-monitoring",
+      "date": "2026-08-28T17:42:00Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Raportowanie bezpieczeństwa w RBQM: łączenie oceny ryzyka, monitorowania i prób klinicznych stosowanych w Internecie."
+    },
+    {
+      "title": "Planowanie badania klinicznego EDC – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/planning-edc-clinical-trial",
+      "date": "2026-08-28T17:42:00Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Planowanie badania klinicznego EDC Stosowane badania kliniczne online."
     },
     {
       "title": "Wpływ sztucznej inteligencji, medycyny precyzyjnej i mobilnych technologii medycznych na usprawnienie badań klinicznych – stosowane badania kliniczne online",
@@ -1738,14 +1738,6 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.trialsitenews.com/a/boston-childrens-streamlines-sickle-cell-gene-therapy-as-race-shifts-to-access-and-cost-e484bc6a",
-      "date": "2026-08-28T17:05:06Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Naukowcy z Bostońskiego Szpitala Dziecięcego i Instytutu Onkologii Dana-Farber donoszą o postępie w przyspieszaniu i ułatwianiu stosowania potencjalnie leczniczej terapii genowej anemii sierpowatokrwinkowej. Opublikowany w czasopiśmie Blood pierwszy pilotażowy eksperyment na człowieku prowadzony przez lek. Ericę Esrick, lek. Davida A. Williamsa, lek. med. Johna Manisa i współpracowników testował autologiczną terapię komórkami macierzystymi przy użyciu wektora lentiwirusowego w celu supresji BCL11A, reaktywującej ochronną hemoglobinę płodową."
-    },
-    {
       "title": "Uniwersytet Utah otrzymuje 30 milionów dolarów na rozwiązanie poważnej kwestii dotyczącej leczenia odstawienia alkoholu",
       "url": "https://www.trialsitenews.com/a/university-of-utah-lands-30-million-to-settle-a-major-alcohol-withdrawal-treatment-question-c2e10caa",
       "date": "2026-08-28T17:05:06Z",
@@ -1754,12 +1746,20 @@
       "summary": "Uniwersytet Utah Health otrzymał nagrodę o wartości 30 milionów dolarów od Instytutu Badań nad Efektami Skupionymi Na Pacjentach (PCORI) w celu ustalenia, czy fenobarbital czy tradycyjne benzodiazepiny zapewniają lepsze leczenie hospitalizowanych pacjentów z zespołem odstawienia alkoholu (AWS). AWS może przejść od pobudzenia i halucynacji do drgawek, delirium i śmierci. Jednak szpitale znacznie różnią się pod względem sposobów zarządzania tą chorobą, co pozostawia istotną lukę w dowodach."
     },
     {
+      "title": "Boston Children’s usprawnia terapię genową sierpowatokrwinkową w miarę zmiany rasy w zakresie dostępu i kosztów – Trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/boston-childrens-streamlines-sickle-cell-gene-therapy-as-race-shifts-to-access-and-cost-e484bc6a",
+      "date": "2026-08-28T17:05:06Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Naukowcy z Bostońskiego Szpitala Dziecięcego i Instytutu Onkologii Dana-Farber donoszą o postępie w przyspieszaniu i ułatwianiu stosowania potencjalnie leczniczej terapii genowej anemii sierpowatokrwinkowej. Opublikowany w czasopiśmie Blood pierwszy pilotażowy eksperyment na człowieku prowadzony przez lek. Ericę Esrick, lek. Davida A. Williamsa, lek. med. Johna Manisa i współpracowników testował autologiczną terapię komórkami macierzystymi przy użyciu wektora lentiwirusowego w celu supresji BCL11A, reaktywującej ochronną hemoglobinę płodową."
+    },
+    {
       "title": "Uniwersytet w Arizonie wygrywa 30,6 miliona dolarów na sprawdzenie, czy transfuzje krwi w ambulansach ratują pacjentów po urazach",
       "url": "https://www.trialsitenews.com/a/university-of-arizona-wins-30.6-million-to-test-whether-ambulance-blood-transfusions-save-trauma-patients-6eac9453",
       "date": "2026-08-28T17:05:02Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Uniwersytet w Arizonie otrzymał zgodę Instytutu Badań nad Efektami Skoncentrowanymi na Pacjentu (PCORI) na kwotę 30,6 miliona dolarów na udzielenie odpowiedzi na zwodniczo proste pytanie dotyczące urazów: czy pacjenci z poważnym krwawieniem powinni otrzymywać krew przed dotarciem do szpitala? W ramach sześcioletniego projektu dotyczącego porównawczej skuteczności ocenionych zostanie prawie 2000 pacjentów po urazach, leczonych przez kilkanaście agencji naziemnych EMS w Arizonie. Naukowcy porównają przedszpitalną transfuzję krwi ze standardowymi płynami krystaloidowymi, takimi jak sól fizjologiczna, stosowana w przypadku traumatycznego wstrząsu krwotocznego, oceniając zarówno przeżycie, jak i bezpieczeństwo."
     },
     {
       "title": "Badanie starzenia się mózgu znajduje nieoczekiwanego podejrzanego: zbyt wiele dysfunkcjonalnych komórek wytwarzających mielinę",
@@ -1768,14 +1768,6 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Georgina A. Craig z Unity Health Toronto/University of Toronto i współpracownicy donoszą w Nature Medicine, że oligodendrocyty – komórki wytwarzające mielinę izolującą mózg – mogą aktywnie przyczyniać się do związanego z wiekiem pogorszenia funkcji poznawczych, a nie jedynie stać się szkodami ubocznymi. Wykorzystując niezwykłą kohortę urodzeniową Lothian 1936, badacze powiązali dziesięciolecia testów poznawczych z pośmiertną analizą mózgu, sekwencjonowaniem jednojądrowego RNA i myszami poddanymi inżynierii genetycznej."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.trialsitenews.com/a/kansas-measles-is-rising-as-mmr-coverage-fallsbut-the-story-needs-more-than-two-camps-f985ba27",
-      "date": "2026-08-28T12:29:00Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "pharma_market": [
@@ -1804,7 +1796,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Kolejna granica: udoskonalanie modeli podstawowych z danymi multimodalnymi – BioPharma Dive",
       "url": "https://www.biopharmadive.com/spons/the-next-frontier-advancing-foundation-models-with-multimodal-data/828675/",
       "date": "2026-08-31T09:03:09Z",
       "source": "BioPharma Dive",
@@ -1833,7 +1825,7 @@
       "date": "2026-08-31T07:27:34Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Język słowacki jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1857,7 +1849,7 @@
       "date": "2026-08-31T05:04:48Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Dobrze znana ze swoich wysiłków w dziedzinie onkologii i pojawiająca się ostatnio na pierwszych stronach gazet w związku z plotkami o wielkiej fuzji z AstraZeneca, Bristol Myers Squibb przeznacza również znaczne środki na choroby neurologiczne i psychiatryczne, kierując się nastawieniem „ciągłości opieki”."
+      "summary": "Firma Bristol Myers Squibb, dobrze znana ze swoich wysiłków w dziedzinie onkologii, a ostatnio pojawiająca się na pierwszych stronach gazet w związku z plotkami o wielkiej fuzji z AstraZeneca, przeznacza również znaczne środki na choroby neurologiczne i psychiatryczne, kierując się nastawieniem „ciągłości opieki”."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1876,12 +1868,12 @@
       "summary": "- Ciągła realizacja strategii transformacji napędza postęp handlowy, produkcyjny i rurociągowy."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Bixlenvo: zastosowania, dawkowanie, skutki uboczne i ostrzeżenia - Drugs.com",
       "url": "https://www.drugs.com/bixlenvo.html",
       "date": "2026-08-31T00:35:03Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Bixlenvo to schemat leczenia skojarzonego obejmujący jedną tabletkę stosowany w leczeniu ludzkiego wirusa niedoboru odporności-1 (HIV-1) u dorosłych w celu zastąpienia aktualnie stosowanych leków przeciw HIV-1, gdy lekarz stwierdzi, że spełniają one określone wymagania. Zawiera biktegrawir i lenakapawir. Dowiedz się o skutkach ubocznych, podaniu i interakcjach."
     },
     {
       "title": "Mimrylo: zastosowania, dawkowanie, skutki uboczne i ostrzeżenia - Drugs.com",
@@ -1916,7 +1908,7 @@
       "summary": "Język łotewski jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Komitet ds. Oceny Ryzyka w ramach Nadzoru nad Bezpieczeństwem Farmakoterapii (PRAC): 6–9 marca 2028 r. – Europejska Agencja Leków (EMA)",
       "url": "https://www.ema.europa.eu/bg/events/pharmacovigilance-risk-assessment-committee-prac-6-9-march-2028",
       "date": "2026-08-30T18:41:27Z",
       "source": "EMA",
@@ -1996,12 +1988,12 @@
       "summary": "Znajdź oferty pracy w branży biotechnologii klinicznej w Norwood. 5 ofert pracy w Genetown dostępnych w BioSpace, siedzibie branży nauk przyrodniczych."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Komitet ds. Sierocych Produktów Leczniczych (COMP): 6–8 października 2026 r. – Europejska Agencja Leków (EMA)",
       "url": "https://www.ema.europa.eu/nl/events/committee-orphan-medicinal-products-comp-6-8-october-2026",
       "date": "2026-08-30T09:50:56Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Język niderlandzki jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
       "title": "Interakcje pomiędzy Medilaxem i Tebentafuspem – Drugs.com",
@@ -2012,7 +2004,7 @@
       "summary": "Występuje umiarkowana interakcja lekowa pomiędzy Medilaxem i Tebentafuspem. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
     },
     {
-      "title": "#ESC26: Pigułka relaksacyjna firmy AstraZeneca jest obiecująca w badaniu dotyczącym niewydolności serca w środkowym stadium – Endpoints News",
+      "title": "#ESC26: Pigułka relaksacyjna firmy AstraZeneca jest obiecująca w badaniu dotyczącym niewydolności serca w średnim stadium – Endpoints News",
       "url": "https://endpoints.news/esc26-astrazenecas-relaxin-pill-shows-promise-in-mid-stage-heart-failure-trial/",
       "date": "2026-08-30T07:19:00Z",
       "source": "Endpoints News",
@@ -2028,12 +2020,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Praca w Lynchburgu | Pełny etat - BioSpace",
       "url": "https://jobs.biospace.com/jobs/lynchburg/full-time/",
       "date": "2026-08-30T03:43:03Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Znajdź pracę w Lynchburgu. 1 Praca na pełny etat dostępna w BioSpace, siedzibie branży nauk przyrodniczych."
     },
     {
       "title": "Bezsenność pierwotna - Europejska Agencja Leków (EMA)",
@@ -2052,7 +2044,7 @@
       "summary": "Język francuski jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "ESC: AZ, sekcja zwłok Wainua Ionisa poddaje w wątpliwość podejście obejmujące tłumik i stabilizator w ATTR-CM – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/esc-az-ionis-wainua-post-mortem-throws-water-silencer-plus-stabilizer-approach-attr-cm",
       "date": "2026-08-29T17:35:01Z",
       "source": "FiercePharma",
@@ -2132,7 +2124,7 @@
       "summary": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Fał do wycofania urządzenia klasy 2 – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=221622",
       "date": "2026-08-29T06:36:18Z",
       "source": "FDA Drug News",
@@ -2156,7 +2148,7 @@
       "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla ezetymibu, Hepcludex."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Praca w branży farmaceutycznych badań klinicznych w Stamford - BioSpace",
       "url": "https://jobs.biospace.com/jobs/clinical-research/stamford/full-time/pharmaceutical/",
       "date": "2026-08-29T04:53:34Z",
       "source": "BioSpace",
@@ -2203,7 +2195,7 @@
       "date": "2026-08-28T21:04:31Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Od czasu opublikowania ostatnich wiadomości o epidemii choroby w dniu 14 sierpnia 2026 r. epidemia rozprzestrzeniła się z 54 do 60 stref zdrowia. Liczba dotkniętych prowincji wynosi sześć z 26 prowincji kraju: Bas-Uélé, Haut-Uélé, Ituri, Kiwu Północne, Kiwu Południowe i Tshopo. Od ostatniej aktualizacji przypadki zgłosiło sześć dodatkowych stref zdrowia – strefy zdrowia Ganga i Viadana w prowincji Bas-Uélé, Biena, Manguredjipa i Mutwanga w Kiwu Północnym oraz strefa zdrowia Tshopo w prowincji Tshopo."
+      "summary": "Od czasu opublikowania ostatnich wiadomości o epidemii choroby w dniu 14 sierpnia 2026 r. epidemia rozprzestrzeniła się z 54 do 60 stref zdrowia. Liczba dotkniętych prowincji wynosi sześć z 26 prowincji kraju: Bas-Uélé, Haut-Uélé, Ituri, Kiwu Północne, Kiwu Południowe i Tshopo. Od ostatniej aktualizacji sześć dodatkowych stref zdrowia zgłosiło przypadki – strefy zdrowia Ganga i Viadana w prowincji Bas-Uélé, Biena, Manguredjipa i Mutwanga w Kiwu Północnym oraz strefa zdrowia Tshopo w prowincji Tshopo."
     },
     {
       "title": "Epidemia wirusa Ebola: bieżąca sytuacja — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2269,7 +2261,7 @@
       "date": "2026-08-31T11:59:23Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Nowa analiza WHO pokazuje, że produkcja liści tytoniu w Afryce stale rośnie, podczas gdy produkcja globalna spada, co budzi obawy o zdrowie, źródła utrzymania rolników, środowisko i zrównoważony rozwój."
+      "summary": "Nowa analiza WHO pokazuje, że produkcja liści tytoniu w Afryce stale rośnie, podczas gdy produkcja światowa spada, co budzi obawy o zdrowie, źródła utrzymania rolników, środowisko i zrównoważony rozwój."
     },
     {
       "title": "Dzień Afrykańskiej Medycyny Tradycyjnej 2026: od badań do osiągnięcia, poprawa zdrowia dla wszystkich – Światowa Organizacja Zdrowia (WHO)",
