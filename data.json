@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T09:49:09Z",
+  "last_updated": "2026-08-31T09:49:57Z",
   "poland": [
     {
       "title": "Nowe wytyczne CHEST 2025 dotyczące przetaczania płytek i osocza świeżo mrożonego u pacjentów krytycznie chorych - Medycyna Praktyczna",
@@ -16,6 +16,14 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Kto w szpitalu gra na własny rachunek, a kto tylko udaje przedsiębiorcę na etacie z fakturą? Do niedawna pytanie o nowe uprawnienia Państwowej Inspekcji Pracy było teoretyczny. Gdy jednak między 17 a 20 sierpnia 2026 r."
+    },
+    {
+      "title": "Od 1 września e-skierowania tylko z ICD-9 - Z kraju - Kurier - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/kurier/447445,od-1-wrzesnia-e-skierowania-tylko-z-icd-9",
+      "date": "2026-08-31T09:31:03Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Od 1 września 2026 r. na każdym skierowaniu należy podać kod procedury ICD-9."
     },
     {
       "title": "Realloplastyka stawu skokowego w Zdunowie - Z kraju - Kurier - Medycyna Praktyczna",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "- To nie jest lista oddziałów do zamknięcia - podkreśla w rozmowie z Rynkiem Zdrowia Barbara Więckowska, dyrektor Departamentu Analiz i Strategii w Ministerstwie Zdrowia. Nowe mapy potrzeb zdrowotnych, które niedawno opublikowano na stronach MZ, mają pokazywać, które zakresy świadczeń spełniają przyjęte kryteria kliniczne, a które powinny zostać przeanalizowane pod kątem zmiany profilu lub sposobu udzielania świadczeń. Mają też wpływać na ocenę inwestycji, w tym w ramach IOWISZ."
-    },
-    {
-      "title": "Zamienniki dla \" Humalog KwikPen - Remedium.md",
-      "url": "https://remedium.md/wyszukiwarka-lekow/zamienniki/100004784",
-      "date": "2026-08-31T00:46:23Z",
-      "source": "Remedium.md",
-      "confirmed_by": 1,
-      "summary": "Skorzystaj z wyszukiwarki leków. Znajdziesz ich setki na naszej liście leków, razem ze wskazaniami, dawkowaniem, ceną i działaniami niepożądanymi."
     }
   ],
   "world": [
@@ -1334,6 +1334,102 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Jak wynika z nowej analizy, która wykazała, że ​​od 2016 r. liczba badań, na podstawie których zatwierdzono lek, stale spada, na ponad dwie trzecie nowych leków zatwierdzonych przez amerykańską Agencję ds. Żywności i Leków (FDA) w 2024 r. nałożono sankcje na podstawie wyników jednego badania."
+    },
+    {
+      "title": "Noworodek, jeden z dwóch zgonów związanych z odrą w Pensylwanii – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/measles/newborn-one-2-measles-associated-deaths-pennsylvania",
+      "date": "2026-08-27T20:48:12Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Jedną z dwóch niezaszczepionych osób w hrabstwie Lancaster w Pensylwanii, która zmarła na odrę, był noworodek, ale dokładna przyczyna śmierci nie jest jasna."
+    },
+    {
+      "title": "Epidemia wirusa Ebola oficjalnie kończy się w Ugandzie wraz z ogłoszeniem przez CEPI nowego kandydata na szczepionkę – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-officially-ends-uganda-cepi-announces-new-vaccine-candidate",
+      "date": "2026-08-27T20:15:42Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Epidemia wirusa Ebola w Ugandzie dobiegła końca, gdy minęły 42 dni bez nowego potwierdzonego przypadku, odkąd 16 lipca ostatni pacjent w tym kraju, który zaraził się wirusem w Demokratycznej Republice Konga (DRK), został wypisany ze szpitala."
+    },
+    {
+      "title": "Powrót do szkoły: co musisz wiedzieć — CIDRAP",
+      "url": "https://www.cidrap.umn.edu/public-health/back-school-what-you-need-know",
+      "date": "2026-08-27T20:08:30Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "„Beauty Flow” Kevin MacLeod (incompetech.com) na licencji Creative Commons: według uznania autorstwa 4.0."
+    },
+    {
+      "title": "USDA potwierdza nowe przypadki ptasiej grypy H5N1 u drobiu i bydła mlecznego – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/usda-confirms-new-h5n1-avian-flu-cases-poultry-dairy-cattle",
+      "date": "2026-08-27T19:45:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Teksas zgłasza ptasią grypę H5N1 w 3 stadach mlecznych."
+    },
+    {
+      "title": "Szczepionka na półpasiec powiązana z niższym ryzykiem chorób serca od 7 lat – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/shingles-vaccine-linked-lower-risk-heart-disease-7-years",
+      "date": "2026-08-27T17:49:19Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "W artykule opublikowanym wczoraj w Nature Medicine badacze z Uniwersytetu Oksfordzkiego doszli do wniosku, że rekombinowana szczepionka przeciwko półpaścowi (półpasiec) może zmniejszyć prawdopodobieństwo chorób sercowo-naczyniowych w większym stopniu niż szczepionka żywa atenuowana, której wycofano w Stanach Zjednoczonych w 2020 r. ze względu na jej niższą skuteczność i szybkie zanikanie."
+    },
+    {
+      "title": "Jak wynika z badania szpitalnego CIDRAP, lepsza higiena rąk nie miała wpływu na wykrywanie organizmów wielolekoopornych",
+      "url": "https://www.cidrap.umn.edu/healthcare-associated-infections/improved-hand-hygiene-had-no-impact-detection-multidrug-resistant",
+      "date": "2026-08-27T16:54:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Autorzy badania twierdzą, że wyniki nie negują znaczenia higieny rąk."
+    },
+    {
+      "title": "Jak wynika z raportu CIDRAP, u 1 na 4 zakażonych pracowników służby zdrowia w Wielkiej Brytanii zapadła na długotrwałą chorobę Covid-19",
+      "url": "https://www.cidrap.umn.edu/covid-19/1-4-infected-uk-healthcare-workers-developed-long-covid-report-shows",
+      "date": "2026-08-27T14:29:57Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Jak wynika z nowego raportu badającego długoterminowy wpływ pandemii na pracowników służby zdrowia, około jeden na czterech pracowników służby zdrowia w Wielkiej Brytanii, który zaraził się wirusem Covid-19, miał długotrwałe objawy COVID przez pięć tygodni lub dłużej, a 26,5% pracowników służby zdrowia na całym świecie nadal doświadczało podobnych objawów rok później."
+    },
+    {
+      "title": "CDC dodaje ponad 3000 nowych przypadków Cyclospora – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/cyclospora/cdc-adds-more-3000-new-cyclospora-cases",
+      "date": "2026-08-26T20:10:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "W typowych latach sezon cyklosporozy w USA kończy się 31 sierpnia."
+    },
+    {
+      "title": "„Inna niż każda inna alergia”: w miarę wzrostu liczby przypadków alfa-gal naukowcy pracują nad zrozumieniem zagadki przenoszonej przez kleszcze - CIDRAP",
+      "url": "https://www.cidrap.umn.edu/tick-borne-disease/not-any-other-allergy-alpha-gal-cases-rise-researchers-work-understand-tick",
+      "date": "2026-08-26T18:28:50Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Pewnego listopadowego wieczoru 2017 roku Harmony Litteral, wówczas 8-letnia, obudziła się z opuchniętymi wargami i językiem oraz ściśniętym gardłem, co było objawami ciężkiej reakcji alergicznej zwanej anafilaksją. Jej mama, Mandy Litteral, zawiozła ją do szpitala, gdzie lekarze zasypywali oboje pytaniami, w tym o to, co ostatnio zjadła Harmony."
+    },
+    {
+      "title": "Szczepionka mRNA na Covid-19 powiązana z niższym ryzykiem zapalenia mięśnia sercowego u nastolatków i młodych dorosłych – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/covid-19/mrna-covid-vaccine-linked-lower-risk-myocarditis-teens-young-adults",
+      "date": "2026-08-25T20:28:50Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Po ujawnieniu doniesień o rzadkich przypadkach zapalenia mięśnia sercowego po szczepieniu przeciwko Covid-19 niektórzy rodzice obawiali się, że szczepionki mRNA mogą powodować choroby serca u ich dzieci."
+    },
+    {
+      "title": "DR Konga przeżywa najbardziej śmiertelny tydzień w związku z epidemią wirusa Ebola – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/ebola/dr-congo-suffers-deadliest-week-its-ebola-outbreak",
+      "date": "2026-08-25T20:19:14Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "W zeszłym tygodniu epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) odnotowała najwyższą tygodniową liczbę ofiar śmiertelnych – ponad 300 nowych zgonów. Epidemia, skupiona w prowincji Ituri, wzrosła obecnie do 5514 przypadków i 2642 zgonów spowodowanych szczepem Ebola Bundibugyo."
+    },
+    {
+      "title": "Choć rzadki, przenoszony przez kleszcze wirus Bourbon może występować w USA częściej niż sądzono – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/tick-borne-disease/while-rare-tick-borne-bourbon-virus-may-be-more-common-us-thought",
+      "date": "2026-08-25T19:40:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Autorzy twierdzą, że choroba ta jest prawdopodobnie niedostatecznie rozpoznawana, ponieważ często powoduje łagodne objawy i występuje na obszarach o ograniczonym nadzorze."
     }
   ],
   "clinical_trials": [
@@ -2094,6 +2190,14 @@
   ],
   "critical_alerts": [
     {
+      "title": "DR Konga przeżywa najbardziej śmiertelny tydzień w związku z epidemią wirusa Ebola – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/ebola/dr-congo-suffers-deadliest-week-its-ebola-outbreak",
+      "date": "2026-08-25T20:19:14Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "W zeszłym tygodniu epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) odnotowała najwyższą tygodniową liczbę ofiar śmiertelnych – ponad 300 nowych zgonów. Epidemia, skupiona w prowincji Ituri, wzrosła obecnie do 5514 przypadków i 2642 zgonów spowodowanych szczepem Ebola Bundibugyo."
+    },
+    {
       "title": "Autyzm u jednego na trzydzieści jeden: epidemia, lepsze wykrywanie – czy sygnał, którego wciąż nie rozumiemy? - wersja próbnanews.com",
       "url": "https://www.trialsitenews.com/a/autism-at-one-in-thirty-one-epidemic-better-detectionor-a-signal-we-still-dont-understand-58ead9d8",
       "date": "2026-08-30T03:19:42Z",
@@ -2132,6 +2236,22 @@
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Niniejsze wydanie raportu ECDC na temat zagrożeń chorobami zakaźnymi (CDTR) obejmuje okres od 22 do 28 sierpnia i zawiera aktualne informacje na temat błonicy, wirusa Ebola, świńskiej grypy A(H1N2), epidemiologii wirusów układu oddechowego, krymsko-kongijskiej gorączki krwotocznej, dengi, choroby wywołanej wirusem chikungunya, wzrostu Vibrio, wirusa Zachodniego Nilu, cholery, wirusa polio oraz rozmieszczeń ekspertów."
+    },
+    {
+      "title": "Epidemia wirusa Ebola oficjalnie kończy się w Ugandzie wraz z ogłoszeniem przez CEPI nowego kandydata na szczepionkę – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-officially-ends-uganda-cepi-announces-new-vaccine-candidate",
+      "date": "2026-08-27T20:15:42Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Epidemia wirusa Ebola w Ugandzie dobiegła końca, gdy minęły 42 dni bez nowego potwierdzonego przypadku, odkąd 16 lipca ostatni pacjent w tym kraju, który zaraził się wirusem w Demokratycznej Republice Konga (DRK), został wypisany ze szpitala."
+    },
+    {
+      "title": "USDA potwierdza nowe przypadki ptasiej grypy H5N1 u drobiu i bydła mlecznego – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/usda-confirms-new-h5n1-avian-flu-cases-poultry-dairy-cattle",
+      "date": "2026-08-27T19:45:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Teksas zgłasza ptasią grypę H5N1 w 3 stadach mlecznych."
     }
   ],
   "daily_top5": [
