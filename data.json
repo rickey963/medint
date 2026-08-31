@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T06:12:50Z",
+  "last_updated": "2026-08-31T06:13:35Z",
   "poland": [
     {
       "title": "Cena za wygodę - Termedia",
@@ -593,7 +593,7 @@
       "date": "2026-08-30T11:38:37Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Kierownik biura cateringowego — praca w ramach czytania w fundacji Royal Berkshire NHS Foundation Trust (kariera w służbie zdrowia) | 843165 BMJ."
+      "summary": "Do pracy w 6-osobowym zespole zarządzającym nadzorującym biuro cateringowe i sklepy, a także wspierającym pacjenta, kierownika obsługi personelu i..."
     },
     {
       "title": "Specjalista ds. zdrowia psychicznego – The BMJ",
@@ -609,7 +609,7 @@
       "date": "2026-08-30T10:38:08Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Praca starszy specjalista kliniczny w dziedzinie położnictwa i ginekologii w King's College Hospital NHS Foundation Trust | 842158 BMJ."
+      "summary": "Departament Zdrowia Kobiet poszukuje starszego specjalisty klinicznego w dziedzinie położnictwa i ginekologii na poziomie ST6 lub wyższym."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -681,7 +681,7 @@
       "date": "2026-08-30T04:39:57Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Innowacyjny model wdrażania cyfrowych technologii zdrowotnych wśród osób starszych cierpiących na choroby przewlekłe: integracja ujednoliconej teorii akceptacji i wykorzystania technologii z modelem wiedza-postawa-praktyka w badaniu przeprowadzonym wśród 1222 pacjentów w Shanghai BMJ Open."
+      "summary": "Cel Zaproponowanie i przetestowanie innowacyjnego modelu poprzez integrację Zunifikowanej Teorii Akceptacji i Wykorzystania Technologii oraz modelu Wiedza-Postawa-Praktyka w celu wyjaśnienia mechanizmów wpływających na przyjęcie cyfrowych technologii zdrowotnych przez starszych pacjentów z chorobami przewlekłymi z perspektywy czynników wewnętrznych i zewnętrznych, promując akceptację i wykorzystanie cyfrowych technologii zdrowotnych wśród starszych przewlekle chorych pacjentów. Projekt badania Bezpośrednie badanie kwestionariuszowe przeprowadzono od lipca do września 2023 r. Warunki badania Badanie przeprowadzono w 12 placówkach medycznych w Szanghaju, w tym w 6 szpitalach trzeciego stopnia, 3 szpitalach średniego szczebla i 3 szpitalach lokalnych."
     },
     {
       "title": "Całkowita rewaskularyzacja pod kontrolą czynnościowej koronarografii w STEMI – nejm.org",
@@ -801,7 +801,7 @@
       "date": "2026-08-29T12:45:39Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Zaloguj się Przypomnij mi | BMJ Zdrowie Kariera BMJ."
+      "summary": "Zaloguj się Przypomnij mi."
     }
   ],
   "guidelines": [
@@ -812,6 +812,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Badanie, które zostanie zaprezentowane na Kongresie ESC 2026, wykaże, że wysoki poziom sztucznej substancji słodzącej, ksylitolu, we krwi, jest powiązany ze zwiększonym ryzykiem poważnych niepożądanych zdarzeń sercowo-naczyniowych."
+    },
+    {
+      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://myesc.escardio.org/ESCApplications",
+      "date": "2026-08-31T04:10:20Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -828,14 +836,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Jak wynika z badania REACT zaprezentowanego dzisiaj podczas sesji Hot Line na Kongresie ESC 2026 i opublikowanego jednocześnie w New England Journal of Medicine, cicha miażdżyca była wykrywalna od wczesnej dorosłości i wykazywała specyficzne dla płci wzorce wzrostu wraz z wiekiem."
-    },
-    {
-      "title": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne - Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://myesc.escardio.org/ESCApplications",
-      "date": "2026-08-30T17:48:04Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne Europejskie Towarzystwo Kardiologiczne."
     },
     {
       "title": "Długoterminowa intensywna kontrola ciśnienia krwi zmniejsza ryzyko demencji – Europejskie Towarzystwo Kardiologiczne",
@@ -1738,20 +1738,28 @@
       "summary": "ESC 2026: ocena laroprowstatu pod kątem wypełnienia luki w leczeniu LDL-C. Arena badań klinicznych."
     },
     {
-      "title": "ACT Brief: Wymagania dotyczące umiejętności korzystania z sztucznej inteligencji i przyjęcia ekosystemów, modele operacyjne CRO pod presją agentycznej sztucznej inteligencji oraz współpraca platform w zakresie odkrywania szczepionek i przeciwciał – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/ai-literacy-ecosystem-adoption-requirements-cro-operating-models-agentic-ai-pressure-platform-collaborations-vaccine-antibody-discovery",
-      "date": "2026-08-28T17:42:00Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "ACT Brief: Wymagania w zakresie umiejętności korzystania z sztucznej inteligencji i przyjęcia ekosystemów, modele operacyjne CRO pod presją agentycznej sztucznej inteligencji oraz współpraca platform w zakresie stosowanych badań klinicznych online szczepionek i przeciwciał."
-    },
-    {
       "title": "Planowanie badania klinicznego EDC – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/planning-edc-clinical-trial",
       "date": "2026-08-28T17:42:00Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "Planowanie badania klinicznego EDC Stosowane badania kliniczne online."
+    },
+    {
+      "title": "Granice tolerancji jakości: dlaczego naruszenia zdarzają się wcześnie i jak działać szybko — stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/quality-tolerance-limits-breaches",
+      "date": "2026-08-28T17:42:00Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Granice tolerancji jakości: dlaczego naruszenia zdarzają się wcześnie i jak szybko działać. Stosowane badania kliniczne online."
+    },
+    {
+      "title": "ACT Brief: Wymagania dotyczące umiejętności korzystania z sztucznej inteligencji i przyjęcia ekosystemów, modele operacyjne CRO pod presją agentycznej sztucznej inteligencji oraz współpraca platform w zakresie odkrywania szczepionek i przeciwciał – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/ai-literacy-ecosystem-adoption-requirements-cro-operating-models-agentic-ai-pressure-platform-collaborations-vaccine-antibody-discovery",
+      "date": "2026-08-28T17:42:00Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "ACT Brief: Wymagania w zakresie umiejętności korzystania z sztucznej inteligencji i przyjęcia ekosystemów, modele operacyjne CRO pod presją agentycznej sztucznej inteligencji oraz współpraca platform w zakresie stosowanych badań klinicznych online szczepionek i przeciwciał."
     },
     {
       "title": "Raportowanie bezpieczeństwa w RBQM: łączenie oceny ryzyka, monitorowania i działań – stosowane badania kliniczne online",
@@ -1768,14 +1776,6 @@
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Granice tolerancji jakości: dlaczego naruszenia zdarzają się wcześnie i jak działać szybko — stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/quality-tolerance-limits-breaches",
-      "date": "2026-08-28T17:42:00Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Granice tolerancji jakości: dlaczego naruszenia zdarzają się wcześnie i jak szybko działać. Stosowane badania kliniczne online."
     },
     {
       "title": "Poznaj EAB: Aaron F. Bartlone – stosowane badania kliniczne online",
@@ -2265,7 +2265,7 @@
       "date": "2026-08-29T01:27:10Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Raport o interakcjach leków: idekabtagen vicleucel, ekstrakt z Candida albicans Drugs.com."
+      "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla idekabtagenu vicleucel, ekstraktu z Candida albicans."
     },
     {
       "title": "Prowadzona przez terapeutę internetowa terapia poznawczo-behawioralna pomaga w depresji – Drugs.com",
@@ -2273,7 +2273,7 @@
       "date": "2026-08-29T01:15:02Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Prowadzona przez terapeutę internetowa terapia poznawczo-behawioralna pomaga w leczeniu depresji Drugs.com."
+      "summary": "Z badania opublikowanego w czerwcowym numerze The La. wynika, że ​​zintegrowana terapia poznawczo-behawioralna (CBT) jest skuteczna u pacjentów z depresją podstawowej opieki zdrowotnej."
     },
     {
       "title": "Początek śmiertelności, opóźniona zachorowalność u potomstwa stulatków – Drugs.com",
