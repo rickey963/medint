@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T21:48:48Z",
+  "last_updated": "2026-08-31T21:51:22Z",
   "poland": [
     {
       "title": "Suplementacja witaminy D przez cały rok? Lekarka radzi, na co uważać - Medonet",
@@ -1272,6 +1272,14 @@
       "summary": "Repozytorium danych GHO jest bramą WHO do statystyk dotyczących zdrowia dla 194 państw członkowskich. Zapewnia dostęp do ponad 1000 wskaźników tematów zdrowotnych."
     },
     {
+      "title": "Mętna woda: pływanie w słodkiej wodzie wiąże się z większym ryzykiem wysypki skórnej i problemów żołądkowych – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/e-coli/murky-waters-freshwater-swimming-tied-higher-risk-skin-rashes-and-stomach-trouble",
+      "date": "2026-08-31T14:09:11Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Skakanie do zimnego jeziora w upalny dzień to jedna z wielu przyjemności lata, ale pływanie w jeziorach i rzekach może zwiększać ryzyko chorób żołądkowo-jelitowych i dolegliwości skórnych. Tak wynika z nowego badania, w którym porównano wyniki osób, które pływały w jeziorze lub rzece przez 10 minut, z wynikami tych, które stały na brzegu."
+    },
+    {
       "title": "Oczekiwana długość życia – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy?utm_source=substack&utm_medium=email",
       "date": "2026-08-31T13:54:40Z",
@@ -1502,14 +1510,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Po ujawnieniu doniesień o rzadkich przypadkach zapalenia mięśnia sercowego po szczepieniu przeciwko Covid-19 niektórzy rodzice obawiali się, że szczepionki mRNA mogą powodować choroby serca u ich dzieci."
-    },
-    {
-      "title": "DR Konga przeżywa najbardziej śmiertelny tydzień w związku z epidemią wirusa Ebola – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/dr-congo-suffers-deadliest-week-its-ebola-outbreak",
-      "date": "2026-08-25T20:19:14Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "W zeszłym tygodniu epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) odnotowała najwyższą tygodniową liczbę ofiar śmiertelnych – ponad 300 nowych zgonów. Epidemia, skupiona w prowincji Ituri, wzrosła obecnie do 5514 przypadków i 2642 zgonów spowodowanych szczepem Ebola Bundibugyo."
     }
   ],
   "clinical_trials": [
@@ -2165,14 +2165,6 @@
     }
   ],
   "critical_alerts": [
-    {
-      "title": "DR Konga przeżywa najbardziej śmiertelny tydzień w związku z epidemią wirusa Ebola – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/dr-congo-suffers-deadliest-week-its-ebola-outbreak",
-      "date": "2026-08-25T20:19:14Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "W zeszłym tygodniu epidemia wirusa Ebola w Demokratycznej Republice Konga (DRK) odnotowała najwyższą tygodniową liczbę ofiar śmiertelnych – ponad 300 nowych zgonów. Epidemia, skupiona w prowincji Ituri, wzrosła obecnie do 5514 przypadków i 2642 zgonów spowodowanych szczepem Ebola Bundibugyo."
-    },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
