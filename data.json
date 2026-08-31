@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T10:43:39Z",
+  "last_updated": "2026-08-31T10:44:27Z",
   "poland": [
     {
       "title": "Przyszłość profilaktyki i zdrowego starzenia. Czołowi eksperci medycyny longevity przyjadą do Warszawy - Alert Medyczny",
@@ -8,6 +8,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Elevate Health & Longevity Summit odbędzie się 28-29 listopada na PGE Narodowym. Ponad 50 ekspertów, health-tech, warsztaty i biohacking."
+    },
+    {
+      "title": "Stopka - Medycyna po Dyplomie - Podyplomie.pl",
+      "url": "https://podyplomie.pl/czasopisma/medycyna-po-dyplomie/o-czasopismie/stopka",
+      "date": "2026-08-31T09:51:02Z",
+      "source": "Medycyna po Dyplomie",
+      "confirmed_by": 1,
+      "summary": "Stopka - Medycyna po Dyplomie. Sięgnij po prenumeratę „Medycyny po Dyplomie”. Co miesiąc dostarczymy Ci jedyne kompendium wiedzy dla lekarzy internistów i lekarzy POZ, którego potrzebujesz, by zawsze dysponować najnowszymi, praktycznymi informacjami i wytycznymi!"
     },
     {
       "title": "Nowe wytyczne CHEST 2025 dotyczące przetaczania płytek i osocza świeżo mrożonego u pacjentów krytycznie chorych - Medycyna Praktyczna",
@@ -392,14 +400,6 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Choć \"kompleks męczennika\" bywa używany żartobliwie, w rzeczywistości może być poważnym problemem wpływającym na zdrowie psychiczne i relacje z innymi."
-    },
-    {
-      "title": "Rzadki efekt uboczny Ozempicu. Naukowcy: pacjenci powinni być świadomi - Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Nauka/Rzadki-efekt-uboczny-Ozempicu-Naukowcy-pacjenci-powinni-byc-swiadomi,288353,9.html",
-      "date": "2026-08-31T04:51:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Naukowcy z Uniwersytetu Rutgersa odkryli rzadki, ale możliwy skutek uboczny leków GLP-1. Okazuje się, że mogą one podwyższyć ryzyko pogorszenia wzroku. Co prawda, ich zdaniem ryzyko jest niewielkie, ale pacjenci powinni być świadomi możliwego związku."
     }
   ],
   "world": [
@@ -2145,7 +2145,7 @@
       "date": "2026-08-29T02:54:39Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością klobazamu, MiraLAX."
+      "summary": "Raport o interakcjach leków: klobazam, MiraLAX Drugs.com."
     },
     {
       "title": "Raport o interakcjach leków: Crestor, ripretynib – Drugs.com",
@@ -2169,7 +2169,7 @@
       "date": "2026-08-29T02:25:53Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Interakcje między Chlophedianolem i ChlorTan Drugs.com."
+      "summary": "Występuje umiarkowana interakcja lekowa pomiędzy Chlophedianolem i ChlorTanem. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
     },
     {
       "title": "Raport o interakcjach leków: Aqvesme, doksorubicyna – Drugs.com",
@@ -2185,7 +2185,7 @@
       "date": "2026-08-29T02:08:38Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Raport o interakcjach leków: Aqvesme, ticagrelor Drugs.com."
+      "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla Aqvesme, tikagreloru."
     }
   ],
   "critical_alerts": [
