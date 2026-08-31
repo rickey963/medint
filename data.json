@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-31T16:27:37Z",
+  "last_updated": "2026-08-31T16:28:28Z",
   "poland": [
+    {
+      "title": "To już oficjalne: centralna e-rejestracja do specjalistów przyspiesza - Termedia",
+      "url": "https://www.termedia.pl/mz/To-juz-oficjalne-centralna-e-rejestracja-do-specjalistow-przyspiesza,68792.html",
+      "date": "2026-08-31T16:10:00Z",
+      "source": "Termedia",
+      "confirmed_by": 2,
+      "summary": "W Dzienniku Ustaw zostało opublikowane rozporządzenie przyspieszające wdrożenie e-rejestracji. Do końca 2027 r. do kilkudziesięciu specjalistów będzie można zapisać się przez Internetowe Konto Pacjenta."
+    },
     {
       "title": "Największe badanie genetyczne borderline. Odkryto geny związane z rozwojem zaburzenia - Alert Medyczny",
       "url": "https://alertmedyczny.pl/najwieksze-badanie-genetyczne-borderline-odkryto-geny-zwiazane-z-rozwojem-zaburzenia/",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Do Rzecznika Praw Pacjenta od lat otrzymuje sygnały dotyczące możliwych nieprawidłowości w działaniu platform telemedycznych oferujących recepty. Jak wyjaśnił Rzecznik, nałożył kary finansowe o łącznej kwocie wynoszącej blisko 1,3 mln zł i wydał 72 decyzje."
-    },
-    {
-      "title": "Złamała mu obie rączki i nóżkę. Matka oskarżona o znęcanie nad niemowlakiem - Medonet",
-      "url": "https://www.medonet.pl/zdrowie/wiadomosci/matka-oskarzona-o-znecanie-nad-niemowleciem-szczegolne-okrucienstwo/e4myprz",
-      "date": "2026-08-31T11:02:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "W Łodzi 31-letnia kobieta została oskarżona o wyjątkowo brutalne znęcanie się nad swoim pięciomiesięcznym synem. Chłopiec trafił do szpitala z poważnymi obrażeniami – lekarze stwierdzili u niego złamania obu rąk oraz jednej nogi. Matka tłumaczyła, że dziecko doznało urazów podczas przewijania, jednak według opinii medycznej obrażenia te powstały w wyniku przemocy."
     }
   ],
   "world": [
@@ -465,7 +465,7 @@
       "date": "2026-08-31T14:59:42Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Wydaje się, że rozpoczęcie terapii przeciwretrowirusowej natychmiast po rozpoznaniu wirusa HIV pozwala na utrzymanie zaangażowania pacjentów w opiekę w krytycznych pierwszych miesiącach, chociaż przewaga ta maleje po roku."
+      "summary": "Wydaje się, że rozpoczęcie terapii przeciwretrowirusowej natychmiast po zdiagnozowaniu wirusa HIV pozwala na utrzymanie zaangażowania pacjentów w opiekę w krytycznych pierwszych miesiącach, chociaż korzyść ta zanika po 1 roku."
     },
     {
       "title": "Szczepienia na Covid-19 w czasie ciąży i ochrona niemowląt - Lekarz NEJM",
@@ -620,7 +620,7 @@
       "summary": "Nowa analiza WHO pokazuje, że produkcja liści tytoniu w Afryce stale rośnie, podczas gdy produkcja globalna spada, co budzi obawy o zdrowie, źródła utrzymania rolników, środowisko i zrównoważony rozwój."
     },
     {
-      "title": "Ropień moczowodu w przebiegu choroby Leśniowskiego-Crohna wykryty w badaniu ultrasonograficznym – BMJ Case Reports",
+      "title": "Ropień moczowodu w przebiegu choroby Leśniowskiego-Crohna wykrywany w badaniu ultrasonograficznym – BMJ Case Reports",
       "url": "https://casereports.bmj.com/content/19/8/e272622.citation-tools",
       "date": "2026-08-31T11:40:04Z",
       "source": "The BMJ",
@@ -811,7 +811,7 @@
       "date": "2026-08-31T14:31:48Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Badanie, które zostanie zaprezentowane na Kongresie ESC 2026, wykaże, że wysoki poziom sztucznego słodzika, ksylitolu, we krwi, jest powiązany ze zwiększonym ryzykiem poważnych niepożądanych zdarzeń sercowo-naczyniowych."
+      "summary": "Badanie, które zostanie zaprezentowane na Kongresie ESC 2026, wykaże, że wysoki poziom sztucznej substancji słodzącej, ksylitolu, we krwi, jest powiązany ze zwiększonym ryzykiem poważnych niepożądanych zdarzeń sercowo-naczyniowych."
     },
     {
       "title": "Firma Stony Brook Medicine zdobyła uznanie w całym kraju za zaangażowanie w wysokiej jakości leczenie udaru i kardiologii - Stony Brook Matters",
@@ -1171,7 +1171,7 @@
       "date": "2026-08-28T20:06:33Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Należy pamiętać, że informacje dotyczące harmonogramu tej oceny zostaną udostępnione w odpowiednim czasie. W międzyczasie NICE będzie w dalszym ciągu monitorować sytuację i będzie informować o zmianach sytuacji."
+      "summary": "Należy pamiętać, że informacje dotyczące harmonogramu tej oceny zostaną udostępnione w odpowiednim czasie. W międzyczasie NICE będzie w dalszym ciągu monitorować sytuację i będzie przekazywać aktualne informacje, gdy tylko sytuacja ulegnie zmianie."
     },
     {
       "title": "Cel szkolenia: - NIL",
@@ -1328,7 +1328,7 @@
       "summary": "Od czasu opublikowania ostatnich wiadomości o epidemii choroby w dniu 14 sierpnia 2026 r. epidemia rozprzestrzeniła się z 54 do 60 stref zdrowia. Liczba dotkniętych prowincji wynosi sześć z 26 prowincji kraju: Bas-Uélé, Haut-Uélé, Ituri, Kiwu Północne, Kiwu Południowe i Tshopo. Od ostatniej aktualizacji przypadki zgłosiło sześć dodatkowych stref zdrowia – strefy zdrowia Ganga i Viadana w prowincji Bas-Uélé, Biena, Manguredjipa i Mutwanga w Kiwu Północnym oraz strefa zdrowia Tshopo w prowincji Tshopo."
     },
     {
-      "title": "Liczba przypadków odry w Pensylwanii stale rośnie, podczas gdy inne stany zgłaszają nowe przypadki – CIDRAP",
+      "title": "Liczba przypadków odry w Pensylwanii nadal rośnie, podczas gdy inne stany zgłaszają nowe przypadki – CIDRAP",
       "url": "https://www.cidrap.umn.edu/measles/measles-cases-continue-climb-pennsylvania-outbreak-other-states-report-new-cases",
       "date": "2026-08-28T20:47:43Z",
       "source": "CIDRAP",
@@ -1405,7 +1405,7 @@
       "date": "2026-08-27T17:49:19Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "W artykule opublikowanym wczoraj w Nature Medicine badacze z Uniwersytetu Oksfordzkiego doszli do wniosku, że rekombinowana szczepionka przeciwko półpaścowi (półpasiec) może zmniejszyć prawdopodobieństwo chorób sercowo-naczyniowych w większym stopniu niż żywa atenuowana szczepionka, której wycofano w Stanach Zjednoczonych w 2020 r. ze względu na jej niższą skuteczność i szybkie zanikanie."
+      "summary": "W artykule opublikowanym wczoraj w Nature Medicine badacze z Uniwersytetu Oksfordzkiego doszli do wniosku, że rekombinowana szczepionka przeciwko półpaścowi (półpasiec) może zmniejszyć prawdopodobieństwo chorób sercowo-naczyniowych w większym stopniu niż szczepionka żywa atenuowana, której wycofano w Stanach Zjednoczonych w 2020 r. ze względu na jej niższą skuteczność i szybkie zanikanie."
     },
     {
       "title": "Jak wynika z badania szpitalnego CIDRAP, lepsza higiena rąk nie miała wpływu na wykrywanie organizmów wielolekoopornych",
@@ -1421,7 +1421,7 @@
       "date": "2026-08-27T14:29:57Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Jak wynika z nowego raportu badającego długoterminowy wpływ pandemii na pracowników służby zdrowia, około jeden na czterech pracowników służby zdrowia w Wielkiej Brytanii, który zaraził się Covid-19, miał długotrwałe objawy COVID przez pięć tygodni lub dłużej, a 26,5% pracowników służby zdrowia na całym świecie rok później nadal doświadczało powiązanych objawów."
+      "summary": "Jak wynika z nowego raportu badającego długoterminowy wpływ pandemii na pracowników służby zdrowia, około jeden na czterech pracowników służby zdrowia w Wielkiej Brytanii, który zaraził się wirusem Covid-19, miał długotrwałe objawy COVID przez pięć tygodni lub dłużej, a 26,5% pracowników służby zdrowia na całym świecie nadal doświadczało podobnych objawów rok później."
     },
     {
       "title": "CDC dodaje ponad 3000 nowych przypadków Cyclospora – CIDRAP",
@@ -1487,7 +1487,7 @@
       "date": "2026-08-31T10:41:01Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Krótki opis ACT: Priorytet dotyczący pasa startowego środków pieniężnych i infrastruktury płatniczej, wybór i rozbieżności w zakresie odcięcia biomarkerów oraz systemy zapobiegania awariom serii stosowane w badaniach klinicznych online."
+      "summary": "Krótki opis ACT: Priorytet dotyczący pasa startowego środków pieniężnych i infrastruktury płatniczej, wybór i rozbieżności w zakresie odcięcia biomarkerów oraz systemy zapobiegania awariom partii. Stosowane badania kliniczne online."
     },
     {
       "title": "HiRO i Differentia Biotech współpracują przy symulacji badań klinicznych - Clinical Trials Arena",
@@ -1519,7 +1519,7 @@
       "date": "2026-08-30T03:19:42Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "W najnowszym raporcie sieci monitorowania autyzmu i niepełnosprawności rozwojowej (ADDM) amerykańskiego Centrum Kontroli i Zapobiegania Chorobom (CDC) zidentyfikowano zaburzenia ze spektrum autyzmu (ASD) u 32,2 na 1000 ośmiolatków w 2022 r. – około 1 na 31 – w 16 społecznościach monitorujących w USA."
+      "summary": "W najnowszym raporcie sieci monitorowania autyzmu i niepełnosprawności rozwojowej (ADDM) amerykańskiego Centrum Kontroli i Zapobiegania Chorobom (CDC) zidentyfikowano zaburzenia ze spektrum autyzmu (ASD) u 32,2 na 1000 ośmiolatków w 2022 r. – około 1 na 31 – w 16 społecznościach monitorowanych w USA."
     },
     {
       "title": "Przerywany post obniża HbA1c w badaniu dotyczącym małej cukrzycy typu 1, ale korzyści w postaci utraty wagi są niewystarczające",
@@ -1738,7 +1738,7 @@
       "summary": "ESC 2026: ocena laroprowstatu pod kątem wypełnienia luki w leczeniu LDL-C. Arena badań klinicznych."
     },
     {
-      "title": "ACT Brief: Wymagania w zakresie umiejętności korzystania z sztucznej inteligencji i przyjęcia ekosystemów, modele operacyjne CRO pod presją agentycznej sztucznej inteligencji oraz współpraca platform w zakresie odkrywania szczepionek i przeciwciał – stosowane badania kliniczne online",
+      "title": "ACT Brief: Wymagania dotyczące umiejętności korzystania z sztucznej inteligencji i przyjęcia ekosystemów, modele operacyjne CRO pod presją agentycznej sztucznej inteligencji oraz współpraca platform w zakresie odkrywania szczepionek i przeciwciał – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/ai-literacy-ecosystem-adoption-requirements-cro-operating-models-agentic-ai-pressure-platform-collaborations-vaccine-antibody-discovery",
       "date": "2026-08-28T17:42:00Z",
       "source": "Applied Clinical Trials",
@@ -1751,7 +1751,7 @@
       "date": "2026-08-28T17:42:00Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Poznaj EAB: Stosowane badania kliniczne Aarona F. Bartlone’a online."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1860,6 +1860,14 @@
       "summary": "Na dużym spotkaniu poświęconym lekom na układ sercowo-naczyniowy firmy Cytokinetics i Arrowhead chciały oddzielić swoje leki od konkurentów, podczas gdy nieudane badanie wywarło presję na firmę Alnylam."
     },
     {
+      "title": "Opóźnienia w rehabilitacji domowej powiązane z gorszą regeneracją po wymianie stawu biodrowego i kolanowego – Drugs.com",
+      "url": "https://www.drugs.com/news/home-rehab-delays-linked-poorer-recovery-after-hip-knee-replacement-131165.html",
+      "date": "2026-08-31T14:43:16Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "PONIEDZIAŁEK, 31 sierpnia 2026 Po wymianie stawu biodrowego lub kolanowego powrót na nogi może częściowo zależeć od tego, jak szybko rozpocznie się rehabilitacja. Co roku setki tysięcy."
+    },
+    {
       "title": "Badania mówią, że media społecznościowe zwiększają ryzyko depresji",
       "url": "https://www.drugs.com/news/social-media-increases-risk-depression-study-says-131167.html",
       "date": "2026-08-31T14:43:16Z",
@@ -1882,14 +1890,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "PONIEDZIAŁEK, 31 sierpnia 2026 r. Jak wynika z nowego badania, ostrzeżenia dotyczące związku między alkoholem a rakiem są skuteczniejsze, jeśli komunikaty są kształtowane w określony sposób."
-    },
-    {
-      "title": "Opóźnienia w rehabilitacji domowej powiązane z gorszą regeneracją po wymianie stawu biodrowego i kolanowego – Drugs.com",
-      "url": "https://www.drugs.com/news/home-rehab-delays-linked-poorer-recovery-after-hip-knee-replacement-131165.html",
-      "date": "2026-08-31T14:43:16Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "PONIEDZIAŁEK, 31 sierpnia 2026 Po wymianie stawu biodrowego lub kolanowego powrót na nogi może częściowo zależeć od tego, jak szybko rozpocznie się rehabilitacja. Co roku setki tysięcy."
     },
     {
       "title": "Wspierana przez firmę Sanofi dokumentacja Electra dotycząca IPO w celu sfinansowania leku immunologicznego fazy 2/3 - Wiadomości z punktów końcowych",
@@ -1916,7 +1916,7 @@
       "summary": "SOUTH SAN FRANCISCO, Kalifornia, 31 sierpnia 2026 r. (GLOBE NEWSWIRE) — Allogene Therapeutics, Inc. (Nasdaq: ALLO), firma biotechnologiczna na etapie klinicznym, pionierska w opracowywaniu allogenicznych produktów CAR T (AlloCAR T) na raka i choroby autoimmunologiczne, ogłosiła dzisiaj, że weźmie udział w kolejnej nadchodzącej konferencji inwestorów we wrześniu."
     },
     {
-      "title": "Wyłączność rynkowa – Europejska Agencja Leków (EMA)",
+      "title": "Wyłączność na rynku – Europejska Agencja Leków (EMA)",
       "url": "https://www.ema.europa.eu/sk/taxonomy/term/43235",
       "date": "2026-08-31T13:47:38Z",
       "source": "EMA",
@@ -2251,7 +2251,7 @@
       "date": "2026-08-30T03:19:42Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "W najnowszym raporcie sieci monitorowania autyzmu i niepełnosprawności rozwojowej (ADDM) amerykańskiego Centrum Kontroli i Zapobiegania Chorobom (CDC) zidentyfikowano zaburzenia ze spektrum autyzmu (ASD) u 32,2 na 1000 ośmiolatków w 2022 r. – około 1 na 31 – w 16 społecznościach monitorujących w USA."
+      "summary": "W najnowszym raporcie sieci monitorowania autyzmu i niepełnosprawności rozwojowej (ADDM) amerykańskiego Centrum Kontroli i Zapobiegania Chorobom (CDC) zidentyfikowano zaburzenia ze spektrum autyzmu (ASD) u 32,2 na 1000 ośmiolatków w 2022 r. – około 1 na 31 – w 16 społecznościach monitorowanych w USA."
     },
     {
       "title": "Choroba Ebola wywołana wirusem Bundibugyo – Demokratyczna Republika Konga – Światowa Organizacja Zdrowia (WHO)",
