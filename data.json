@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-31T06:04:47Z",
+  "last_updated": "2026-08-31T06:05:25Z",
   "poland": [
+    {
+      "title": "Cena za wygodę - Termedia",
+      "url": "https://www.termedia.pl/mz/Cena-za-wygode,68781.html",
+      "date": "2026-08-31T06:02:59Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Mężczyźni, których jadłospis zawiera dużo ultraprzetworzonej żywności, częściej zapadają na raka prostaty. Różnica może sięgać nawet 30 proc. w porównaniu z osobami spożywającymi najmniej takich produktów."
+    },
     {
       "title": "Skład i pora posiłków wpływają na późniejszy sen - Serwis Zdrowie",
       "url": "https://zdrowie.pap.pl/dieta/sklad-i-pora-posilkow-wplywaja-na-pozniejszy-sen",
@@ -392,14 +400,6 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "— To nie zawsze wygląda tak, że ratujemy komuś życie tu i teraz, w spektakularny sposób — mówi Anna Mackiewicz, pielęgniarka anestezjologiczna. W rozmowie z Medonetem opisuje swój dzień pracy krok po kroku i pokazuje, co dzieje się wtedy, kiedy pacjent niczego już nie widzi i niczego nie pamięta."
-    },
-    {
-      "title": "Aplikacje zdrowotne: które są wiarygodne? - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/aplikacje-zdrowotne-n2471723",
-      "date": "2026-08-30T08:00:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Aplikacje zdrowotne: które są wiarygodne? PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -609,7 +609,7 @@
       "date": "2026-08-30T10:38:08Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Departament Zdrowia Kobiet poszukuje starszego stażysty klinicznego w dziedzinie położnictwa i ginekologii na poziomie ST6 lub wyższym."
+      "summary": "Departament Zdrowia Kobiet poszukuje starszego specjalisty klinicznego w dziedzinie położnictwa i ginekologii na poziomie ST6 lub wyższym."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2241,7 +2241,7 @@
       "date": "2026-08-29T02:08:38Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla Aqvesme, tikagreloru."
+      "summary": "Raport o interakcjach leków: Aqvesme, ticagrelor Drugs.com."
     },
     {
       "title": "Takeda zwiększa ofertę produktów przeciwnowotworowych krwi dzięki ukłonowi FDA dla preparatu Mimrylo na czerwienicę prawdziwą – Fierce Pharma",
@@ -2265,7 +2265,7 @@
       "date": "2026-08-29T01:27:10Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Raport o interakcjach leków: idekabtagen vicleucel, ekstrakt z Candida albicans Drugs.com."
+      "summary": "Zobacz szczegółowy raport dotyczący interakcji leków i leków z żywnością dla idekabtagenu vicleucel, ekstraktu z Candida albicans."
     },
     {
       "title": "Prowadzona przez terapeutę internetowa terapia poznawczo-behawioralna pomaga w depresji – Drugs.com",
