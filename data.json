@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T14:09:02Z",
+  "last_updated": "2026-09-01T14:09:47Z",
   "poland": [
     {
       "title": "Opublikowano nową wersję słownika ICD-9 PL CM w wersji 5.89 - Narodowy Fundusz Zdrowia (NFZ)",
@@ -7,7 +7,7 @@
       "date": "2026-09-01T14:07:01Z",
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
-      "summary": "Opublikowano nową wersję słownika ICD-9 PL CM w wersji 5.89."
+      "summary": "Wprowadzone zmiany w wersji 5.89 dotyczą następujących pozycji słownika ICD 9 PL CM: Kod Nazwa Data wybieralności 23.16011 Usunięcie złogów nazębnych miękkich z 1/2 łuku zębowego od 1.09.2026 r...."
     },
     {
       "title": "Prace konserwacyjno-serwisowe w dniu 03 września 2026r. - Narodowy Fundusz Zdrowia (NFZ)",
@@ -476,7 +476,7 @@
       "summary": "System recepcjonistyczny oparty na sztucznej inteligencji do gabinetów ogólnych, który słabo reaguje na regionalny akcent i wady wymowy, może narazić pacjentów na ryzyko wykluczenia cyfrowego – ostrzega organ nadzorujący zdrowie. Healthwatch Rotherham powiedział, że wielu pacjentów doświadczyło frustracji w związku z „Emmą”, nową recepcjonistką wykorzystującą sztuczną inteligencję, która jest wdrażana w ogólnych przychodniach w okolicy. W swoim raporcie ostrzeżono, że przychodnie lekarskie mają prawny obowiązek wprowadzenia rozsądnych dostosowań dla pacjentów i stwierdzono, że takie systemy mogą stwarzać ryzyko stworzenia dalszych barier dla najbardziej bezbronnych pacjentów.1 Jeden z pacjentów powiedział organizacji: „Nigdy nie udało mi się mnie zrozumieć, skończyło się na tym, że po prostu się rozłączyłem i nie zawracałem sobie głowy próbą zarezerwowania…."
     },
     {
-      "title": "Fale upałów w USA: prawie 1 na 10 wizyt na oddziałach ratunkowych jest związanych z upałami – wynika z badania – The BMJ",
+      "title": "Fale upałów w USA: prawie 1 na 10 oddziałów ratunkowych odwiedza je z powodu upałów – wynika z badania – The BMJ",
       "url": "https://www.bmj.com/content/394/bmj-2026-100722",
       "date": "2026-09-01T12:59:25Z",
       "source": "The BMJ",
@@ -505,7 +505,7 @@
       "date": "2026-09-01T12:29:37Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Śmierć wirusa Zachodniego Nilu potwierdzono w Holandii The BMJ."
+      "summary": "Holenderski Narodowy Instytut Zdrowia Publicznego i Środowiska (RIVM) potwierdził, że w Utrechcie w Holandii zmarł mężczyzna po zakażeniu wirusem Zachodniego Nilu. Jego śmierć wzbudziła obawy ekspertów ds. zdrowia publicznego w związku z rozprzestrzenianiem się wirusa w krajach, w których wcześniej go nie stwierdzono. Wirusa ostatni raz wykryto w Holandii w 2020 r., kiedy odkryto, że zakażony został dawca krwi z Utrechtu, który niedawno nie przebywał za granicą."
     },
     {
       "title": "W Holandii potwierdzono śmierć wirusa Zachodniego Nilu – BMJ",
@@ -700,6 +700,14 @@
       "summary": "Większy nacisk na dietę i ćwiczenia fizyczne lub zmianę zaleceń wśród opcji."
     },
     {
+      "title": "Ponieważ MAHA jest orędownikiem żywienia, ignoruje ekspertów, mówią dietetycy - STAT",
+      "url": "https://www.statnews.com/2026/09/01/maha-nutrition-makeover-hampered-dietitian-workforce-crisis/",
+      "date": "2026-09-01T09:14:12Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Kluczowy aspekt programu Make America Healthy Again może być utrudniony przez kurczącą się i słabo opłacaną siłę roboczą zarejestrowanych dietetyków."
+    },
+    {
       "title": "Farmaceuta kliniczny - Zespół 7 - The BMJ",
       "url": "https://www.bmj.com/healthcareers/job/842029/clinical-pharmacist-band-7?LinkSource=SimilarJobPlatform",
       "date": "2026-09-01T09:04:59Z",
@@ -730,14 +738,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Ten Biały Dom stał się administracją papierkową, piszą Brandon Marshall i Abdullah Shihipar."
-    },
-    {
-      "title": "Ponieważ MAHA jest orędownikiem żywienia, ignoruje ekspertów, mówią dietetycy - STAT",
-      "url": "https://www.statnews.com/2026/09/01/maha-nutrition-makeover-hampered-dietitian-workforce-crisis/",
-      "date": "2026-09-01T08:32:26Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Kluczowy aspekt programu Make America Healthy Again może być utrudniony przez kurczącą się i słabo opłacaną siłę roboczą zarejestrowanych dietetyków."
     },
     {
       "title": "Sen i otyłość są ze sobą powiązane. Czy drzemki pomagają czy szkodzą? - Medyczny",
@@ -1232,7 +1232,7 @@
       "summary": "Szacuje się, że w 2021 r. niedokrwistość sierpowatokrwinkowa spowodowała 81 100 zgonów dzieci poniżej piątego roku życia. WHO pracuje nad wypełnieniem tej luki, łącząc zaktualizowane wytyczne kliniczne z nowymi wysiłkami na rzecz szerszego udostępniania leków o gwarantowanej jakości i przyjaznych dzieciom, szczególnie w Afryce Subsaharyjskiej, gdzie występuje prawie 80% przypadków."
     },
     {
-      "title": "Webinarium WHO: Światowy Dzień Higieny Rąk – Akcja Ratuje Życie – ecdc.europa.eu",
+      "title": "Webinar WHO: Światowy Dzień Higieny Rąk – Akcja Ratuje Życie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/who-webinar-world-hand-hygiene-day-action-saves-lives",
       "date": "2026-09-01T06:03:53Z",
       "source": "ECDC",
@@ -1376,7 +1376,7 @@
       "summary": "Nowa analiza WHO pokazuje, że produkcja liści tytoniu w Afryce stale rośnie, podczas gdy produkcja globalna spada, co budzi obawy o zdrowie, źródła utrzymania rolników, środowisko i zrównoważony rozwój."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – ecdc.europa.eu",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-31T07:00:00Z",
       "source": "ECDC",
@@ -2028,12 +2028,12 @@
       "summary": "Rejestracja zakładu i lista urządzeń accessdata.fda.gov."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "TPLC – całkowity cykl życia produktu – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=4156&min_report_year=2020&manufacturer=HELIUS%20MEDICAL%2C%20INC%2E&pmndecision=SUBSTANTIALLY%20EQUIVALENT",
       "date": "2026-09-01T00:35:52Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "TPLC – całkowity cykl życia produktu accessdata.fda.gov."
     },
     {
       "title": "Trzy zgony w badaniach CAR-T powodują zatrzymanie przez firmę Novartis; Programy Bristol Myers również zostały wstrzymane – Endpoints News",
@@ -2142,7 +2142,7 @@
       "summary": "W weekend nasiliły się narracje na temat tego, czy odra była przyczyną śmierci noworodka w Pensylwanii."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – ecdc.europa.eu",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-08-31T07:00:00Z",
       "source": "ECDC",
