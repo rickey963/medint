@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-01T09:39:14Z",
+  "last_updated": "2026-09-01T09:39:57Z",
   "poland": [
+    {
+      "title": "Dzieci z rakiem wrócą do leczenia w Katowicach. Jest decyzja rektora SUM - Medonet",
+      "url": "https://www.medonet.pl/biznes-system-i-zdrowie/trendy-w-ochronie-zdrowia/dzieci-z-nowotworami-wroca-do-katowic-na-leczenie-glosna-sprawa-ma-swoj-final/dysk28r",
+      "date": "2026-09-01T09:32:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Górnośląskie Centrum Zdrowia Dziecka (GCZD) w Katowicach ponownie zajmie się leczeniem małych pacjentów onkologicznych. Decyzję ogłosił rektor Śląskiego Uniwersytetu Medycznego (SUM) prof. Tomasz Szczepański, powołując się na doświadczenia z ostatnich tygodni po konsolidacji tej dziedziny medycyny w nowej placówce w Zabrzu."
+    },
     {
       "title": "Lekarze ostrzegają przed RSV. Wirus jest jedną z najczęstszych przyczyn hospitalizacji niemowląt - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/lekarze-ostrzegaja-przed-n2475128",
@@ -392,14 +400,6 @@
       "source": "Remedium.md",
       "confirmed_by": 1,
       "summary": "Jak prowadzić pacjenta po zaostrzeniu POChP mimo terapii LAMA/LABA? Oceń technikę inhalacji, adherencję i wskazania do intensyfikacji leczenia w interaktywnym przypadku klinicznym."
-    },
-    {
-      "title": "Testy RNA mogą poprawić wykrywanie kluczowych biomarkerów raka płuca - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/testy-rna-moga-poprawic-wykrywanie-kluczowych-biomarkerow-raka-pluca/",
-      "date": "2026-08-31T22:31:21Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Nowe badanie wskazuje, że analiza RNA może zwiększyć skuteczność wykrywania mutacji MET i poprawić diagnostykę raka płuca."
     }
   ],
   "world": [
@@ -561,7 +561,7 @@
       "date": "2026-09-01T01:50:31Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Ta statyczna oferta terapeuty zajęciowego zespołu 5 obejmuje pracę na oddziałach udarowych fundacji NHS Trust East Kent Hospitals University. Cu..."
+      "summary": "Terapeuta zajęciowy w opiece po udarze The BMJ."
     },
     {
       "title": "Biomarker krwi przewiduje raka płuc – klinicysta NEJM",
@@ -593,7 +593,7 @@
       "date": "2026-08-31T22:30:44Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Poszukujemy doświadczonego i dynamicznego fizjoterapeuty Band 7 do prowadzenia oddziału fizjoterapii szpitalnej Opieki Zdrowotnej Osób Starszych (HOP)..."
+      "summary": "Kierownik Fizjoterapii Stacjonarnej Opieki Zdrowotnej Osób Starszych BMJ."
     },
     {
       "title": "Plastyka połowicza a całkowita alloplastyka stawu biodrowego w przypadku złamań szyjki kości udowej z przemieszczeniem - lekarz NEJM",
@@ -657,7 +657,7 @@
       "date": "2026-08-31T19:32:22Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "30 godzin tygodniowo Umowa na czas określony na 12 miesięcy Jest to ekscytująca szansa dla doświadczonej i zmotywowanej pielęgniarki noworodkowej..."
+      "summary": "Wiodąca zaawansowana pielęgniarka noworodkowa BMJ."
     },
     {
       "title": "Wpływ na środowisko całkowitej endoprotezoplastyki stawu biodrowego: badanie oceny cyklu życia - BMJ Open",
@@ -814,7 +814,7 @@
       "summary": "Badanie, które zostanie zaprezentowane na Kongresie ESC 2026, wykaże, że wysoki poziom sztucznej substancji słodzącej, ksylitolu, we krwi, jest powiązany ze zwiększonym ryzykiem poważnych niepożądanych zdarzeń sercowo-naczyniowych."
     },
     {
-      "title": "Szkolenie OK COBIK NIL: Jak holistycznie leczyć pacjenta z cukrzycą typu 2 - wytyczne i praktyka - nil.org.pl",
+      "title": "Szkolenie OK COBIK NIL: Jak holistycznie leczyć pacjenta z cukrzycą typu 2 - wytyczne i praktyka - NIL",
       "url": "https://nil.org.pl/lista-wydarzen/1608-szkolenie-ok-cobik-nil-jak-holistycznie-leczyc-pacjenta-z-cukrzyca-typu-2-wytyczne-i-praktyka",
       "date": "2026-09-01T08:34:31Z",
       "source": "Naczelna Izba Lekarska",
@@ -886,7 +886,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Lista wydarzeń - nil.org.pl",
+      "title": "Lista wydarzeń - NIL",
       "url": "https://nil.org.pl/lista-wydarzen?fulllist=0&year=2026&month=09&day=11",
       "date": "2026-08-31T22:01:52Z",
       "source": "Naczelna Izba Lekarska",
@@ -1118,7 +1118,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Wyniki: siatkówka - nil.org.pl",
+      "title": "Wyniki: siatkówka - NIL",
       "url": "https://nil.org.pl/dla-lekarzy/nadchodzace-wydarzenia-medyczne/igrzyska-lekarskie/23-igrzyska-lekarskie/9379-wyniki-siatkowka",
       "date": "2026-08-29T20:54:38Z",
       "source": "Naczelna Izba Lekarska",
@@ -1860,12 +1860,12 @@
       "summary": "BURLINGTON, Massachusetts--(BUSINESS WIRE)--31 sierpnia 2026 r. PharmaEssentia USA Corporation, spółka zależna PharmaEssentia Corporation (TWSE: 6446), ogłosiła dzisiaj, że amerykańska Agencja ds. Żywności i Leków (FDA) zatwierdziła BESREMi ® (ropinterferon alfa-2b-njft) do leczenia osób dorosłych z nadpłytkowością samoistną (ET), dzięki czemu jest on pierwszy od prawie trzech dekad nowy, zatwierdzony przez FDA sposób leczenia ET. BESREMi został zatwierdzony do stosowania u dorosłych z ET, niezależnie od ich genotypu i stanu chorobowego, w tym u pacjentów z nowo zdiagnozowaną chorobą, którzy wcześniej nie stosowali terapii cytoredukcyjnej."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Rejestracja zakładu i wykaz urządzeń — accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/TextResults.cfm?dls=621&q=ZmlsdGVyIHBhcGVy&pn=10&pf=0&sc=ena&rcount=520",
       "date": "2026-08-31T22:54:03Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Rejestracja zakładu i lista urządzeń accessdata.fda.gov."
     },
     {
       "title": "Klasyfikacja urządzenia zgodnie z sekcją 513(f)(2)(De Novo) – accessdata.fda.gov",
@@ -1956,12 +1956,12 @@
       "summary": "Dziewięciu kolejnych producentów leków zawiera dobrowolne umowy dotyczące cen leków z Białym Domem, zobowiązując się do zainwestowania w USA prawie 20 miliardów dolarów w celu uniknięcia ceł i programów pilotażowych ustalania cen CMS."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "TPLC – całkowity cykl życia produktu – accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cftpLC/tplc.cfm?ID=4140&min_report_year=2011&manufacturer=JAN%20MEDICAL%2C%20INC%2E&pmndecision=GRANTED",
       "date": "2026-08-31T19:46:28Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "TPLC – całkowity cykl życia produktu accessdata.fda.gov."
     },
     {
       "title": "TPLC – całkowity cykl życia produktu – accessdata.fda.gov",
