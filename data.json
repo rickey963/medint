@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T20:40:13Z",
+  "last_updated": "2026-09-02T20:41:21Z",
   "poland": [
     {
       "title": "Apteka jak z reklamy. Kto zyska, a kto straci? - Termedia",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Lek Ultragenyx do leczenia rzadkiej choroby zespołu Angelmana kończy się niepowodzeniem w późnym etapie badania – STAT",
+      "url": "https://www.statnews.com/2026/09/02/ultragenyx-drug-angelman-syndrome-clinical-trial/",
+      "date": "2026-09-02T20:39:14Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Firma Ultragenyx stwierdziła, że ​​eksperymentalna terapia rzadkiej choroby zespołu Angelmana nie przyniosła żadnych korzyści w porównaniu z leczeniem pozorowanym w badaniu III fazy."
+    },
+    {
       "title": "Przewodnik dotyczący opracowywania ram monitorowania, oceny i uczenia się dla zespołów szybkiego reagowania w dziedzinie zdrowia publicznego – emro.who.int",
       "url": "https://www.emro.who.int/e-library/latest-publications/guide-to-developing-a-monitoring-evaluation-and-learning-framework-for-public-health-rapid-response-teams.html",
       "date": "2026-09-02T18:59:34Z",
@@ -794,14 +802,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
-    },
-    {
-      "title": "Hiszpański lider podstawowej opieki zdrowotnej forsuje reformę – Medscape",
-      "url": "https://www.medscape.com/viewarticle/spains-primary-care-leader-pushes-reform-2026a1000v7h",
-      "date": "2026-09-02T00:36:53Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Hiszpański lider medyczny twierdzi, że cyfrowe dane i sztuczna inteligencja mogą pomóc zmniejszyć obciążenia administracyjne i zapewnić lekarzom podstawowej opieki zdrowotnej więcej czasu spędzonego z pacjentami."
     }
   ],
   "guidelines": [
@@ -1615,7 +1615,7 @@
       "date": "2026-09-02T18:07:00Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Doktor Anamika Krishanpal w sprawie stosowanych badań klinicznych online."
+      "summary": "Doktor Anamika Krishanpal Stosowane badania kliniczne online."
     },
     {
       "title": "mAb Teva wykazuje korzyści w badaniu celiakii – Arena Badań Klinicznych",
@@ -2108,6 +2108,14 @@
       "summary": "BMS zbliża się do wyniku badania klinicznego, z którego wynika, że ​​lek H.C. Analityk Wainwright uważa, że ​​może to przyczynić się do powrotu do fuzji między mega-kapitalnymi producentami leków."
     },
     {
+      "title": "Telix kończy rejestrację w badaniu Fazy 3 BiPASS, współpracuje z FDA w sprawie NDA Pathway - BioSpace",
+      "url": "https://www.biospace.com/press-releases/telix-completes-enrollment-in-phase-3-bipass-study-aligns-with-fda-on-nda-pathway",
+      "date": "2026-09-02T04:07:17Z",
+      "source": "BioSpace",
+      "confirmed_by": 1,
+      "summary": "MELBOURNE, Australia i INDIANAPOLIS, 2 września 2026 r. (GLOBE NEWSWIRE) — Firma Telix Pharmaceuticals Limited (ASX: TLX, NASDAQ: TLX, „Telix”) ogłosiła dziś zakończenie rekrutacji pacjentów do badania fazy 3 BiPASS™ dotyczącego komercyjnych środków do obrazowania PSMA-PET 1, Illuccix® (zestaw do przygotowania gozetotydu galu Ga68 zastrzyk) i Gozellix® (zestaw do przygotowania zastrzyku gozetotydu galu Ga68) do obrazowania raka prostaty przed biopsją. Telix nawiązał także współpracę z amerykańską Agencją ds. Żywności i Leków (FDA) w sprawie ścieżki stosowania nowego leku (NDA) dla BiPASS, która, jeśli zostanie zatwierdzona, będzie wspierać refundację jako nowy produkt i poszerzać dostęp pacjentów."
+    },
+    {
       "title": "David Baker: Projektowanie białek nowej generacji - Fierce Pharma",
       "url": "https://www.fiercepharma.com/fierce-50/david-baker",
       "date": "2026-09-02T03:25:03Z",
@@ -2242,14 +2250,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Amerykańska Agencja ds. Żywności i Leków zatwierdziła 10-dniowy ciągły system podwójnego monitorowania poziomu glukozy i ketonów Libre Duo dla osób w wieku od 2 lat i starszych."
-    },
-    {
-      "title": "ARPA-H przyznaje 125 mln dolarów na produkcję niestandardowych terapii RNA na żądanie – Endpoints News",
-      "url": "https://endpoints.news/arpa-h-awards-125m-for-manufacturing-custom-rna-therapies-on-demand/",
-      "date": "2026-09-01T18:32:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "ARPA-H przyznaje do 125 mln dolarów 5 zespołom, w tym Waterfall Scientific, za zbudowanie zautomatyzowanych systemów, które będą w stanie wytworzyć spersonalizowane leki RNA w czasie krótszym niż tydzień."
     }
   ],
   "critical_alerts": [
