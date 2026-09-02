@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T19:00:10Z",
+  "last_updated": "2026-09-02T19:01:15Z",
   "poland": [
     {
       "title": "Nad stan ► - Termedia",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Przewodnik dotyczący opracowywania ram monitorowania, oceny i uczenia się dla zespołów szybkiego reagowania w dziedzinie zdrowia publicznego – emro.who.int",
+      "url": "https://www.emro.who.int/e-library/latest-publications/guide-to-developing-a-monitoring-evaluation-and-learning-framework-for-public-health-rapid-response-teams.html",
+      "date": "2026-09-02T18:59:34Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Niniejszy dokument stanowi kompleksowy i praktyczny przewodnik dotyczący opracowywania i wdrażania ram monitorowania, oceny i uczenia się (MEL) dla zespołów szybkiego reagowania (RRT) zajmujących się zdrowiem publicznym. Przedstawia podstawowe ramy i..."
+    },
+    {
       "title": "Wczesne wykrywanie ryzyka niedożywienia u weteranów chorych na raka: podejście multidyscyplinarne - Medscape",
       "url": "https://www.medscape.com/viewarticle/early-detection-malnutrition-risk-veterans-cancer-2026a1000v6t",
       "date": "2026-09-02T18:20:52Z",
@@ -465,7 +473,7 @@
       "date": "2026-09-02T14:34:46Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "W dokumencie Channel 4 The Great ADHD Myth wyemitowanym 18 sierpnia 2026 r. psychiatra i dziennikarz Max Pemberton kwestionował, czy zespół nadpobudliwości psychoruchowej (ADHD) jest „prawdziwym zaburzeniem neurorozwojowym czy konstruktem społecznym”1. Dokument przyczynił się do dezinformacji i zamieszania w i tak już napiętym dyskursie na temat ADHD. Bogactwo solidnych badań potwierdza pogląd, że ADHD jest dobrze ugruntowaną, obszernie udokumentowaną chorobą neurorozwojową.2 Zaburzenie to wiąże się z poważnymi niekorzystnymi skutkami, w tym nadużywaniem substancji psychoaktywnych, samobójstwami i przedwczesną śmiercią.2 Istotne dowody z randomizowanych, kontrolowanych badań pokazują, że ADHD reaguje na leczenie.34 Dowody te pominięto w dokumencie, co jest niepokojące, biorąc pod uwagę, że pracownicy służby zdrowia mogą być o nich informowani. W programie nie wyjaśniono w pełni, w jaki sposób diagnozuje się ADHD."
+      "summary": "Dokument „Wielki mit ADHD” wprowadza w błąd i wprowadza w błąd The BMJ."
     },
     {
       "title": "Grupy lekarzy publikują wytyczne dotyczące szczepień przed sezonem chorób układu oddechowego - STAT",
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Jak dowiedział się STAT, przegląd ustaleń pięcioosobowej komisji jest wysyłany do zarządu ADA w celu podjęcia działań, ale wydaje się mało prawdopodobne, aby uciszyło to kontrowersje."
-    },
-    {
-      "title": "Dyrektor generalny stowarzyszenia Diabetes: To, co według niezależnego przeglądu miało miejsce podczas kontrowersyjnej czerwcowej konferencji ADA – STAT",
-      "url": "https://www.statnews.com/2026/09/01/american-diabetes-association-june-conference-independent-review/",
-      "date": "2026-09-01T23:04:24Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "„To nie jest moment, w którym nasza społeczność może sobie pozwolić na walkę” – pisze dyrektor generalny Amerykańskiego Stowarzyszenia Diabetologicznego, Charles „Chuck” Henderson."
     }
   ],
   "guidelines": [
@@ -1086,12 +1086,12 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Co PREVENT może Ci powiedzieć o ryzyku chorób serca - heart.org",
+      "title": "Co PREVENT może Ci powiedzieć o ryzyku chorób serca – www.heart.org",
       "url": "https://www.heart.org/en/news/2026/08/31/what-prevent-can-tell-you-about-heart-disease-risk",
       "date": "2026-08-31T18:39:20Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Co PREVENT może Ci powiedzieć o ryzyku chorób serca heart.org."
+      "summary": "Co PREVENT może Ci powiedzieć o ryzyku chorób serca www.heart.org."
     },
     {
       "title": "Kanał danych dotyczących zapobiegania przedawkowaniu — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1349,7 +1349,7 @@
       "date": "2026-09-01T12:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Sesja techniczna na temat API ICD-11, obejmująca podstawowe koncepcje, wzorce użycia i praktyczne wskazówki dotyczące integracji, w tym opis wdrożenia w Malezji w kraju."
+      "summary": "Sesja techniczna poświęcona API ICD-11, obejmująca podstawowe koncepcje, wzorce użycia i praktyczne wskazówki dotyczące integracji, w tym opis wdrożenia w Malezji w kraju."
     },
     {
       "title": "Przegląd wczesnych działań dotyczących wykrywania, powiadamiania i terminowości reakcji w przypadku transgranicznej epidemii choroby wywołanej wirusem Bundibugyo, Uganda, 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1818,7 +1818,7 @@
       "summary": "Szczegóły badania | NCT07795736 | Charakterystyka niedoboru hormonu wzrostu w urazowym uszkodzeniu mózgu ClinicalTrials.gov."
     },
     {
-      "title": "Kompresja siły roboczej w operacjach badań klinicznych opartych na sztucznej inteligencji – stosowane badania kliniczne online",
+      "title": "Kompresja siły roboczej w badaniach klinicznych opartych na sztucznej inteligencji – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/workforce-compression-ai-driven-clinical-trial-operations",
       "date": "2026-08-31T11:34:46Z",
       "source": "Applied Clinical Trials",
@@ -2169,7 +2169,7 @@
       "date": "2026-09-01T21:37:29Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Do programu pomostowego mogło przystąpić 15% kwalifikujących się beneficjentów części D już po dwóch miesiącach, co rodzi pytania dotyczące planu CMS po zakończeniu demonstracji w 2027 r."
+      "summary": "Do programu Bridge mogło przystąpić 15% kwalifikujących się beneficjentów części D już po dwóch miesiącach, co rodzi pytania dotyczące planu CMS po zakończeniu demonstracji w 2027 r."
     },
     {
       "title": "Napad nieświadomy - Europejska Agencja Leków (EMA)",
