@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T01:01:56Z",
+  "last_updated": "2026-09-03T01:02:58Z",
   "poland": [
     {
       "title": "Automatyczna kabina ma odciążyć SOR. Pacjent sam zmierzy parametry - Alert Medyczny",
@@ -50,7 +50,7 @@
       "summary": "Dowiedz się wszystkiego na temat leku Hemisylat. Skład, wskazania, dawkowanie, refundacja, działania niepożądane, interakcje."
     },
     {
-      "title": "Konserwy - informacje. Czytaj więcej na rynekzdrowia.pl - Rynek Zdrowia",
+      "title": "Konserwy - informacje. Czytaj więcej na rynekzdrowia.pl - rynekzdrowia.pl",
       "url": "https://www.rynekzdrowia.pl/Listy/Konserwy,66239.html",
       "date": "2026-09-02T19:09:28Z",
       "source": "Rynek Zdrowia",
@@ -58,7 +58,7 @@
       "summary": "Konserwy - informacje i artykuły związane z powyższą tematyką. Wszystko na temat medycyny, systemu ochrony zdrowia, zarządzania w służbie zdrowia i in."
     },
     {
-      "title": "Apteka jak z reklamy. Kto zyska, a kto straci? - Termedia",
+      "title": "Apteka jak z reklamy. Kto zyska, a kto straci? - termedia.pl",
       "url": "https://www.termedia.pl/mz/Apteka-jak-z-reklamy-Kto-zyska-a-kto-straci-,68830.html",
       "date": "2026-09-02T19:08:00Z",
       "source": "Termedia",
@@ -66,7 +66,7 @@
       "summary": "Dziś na rynku reklamy aptek mamy do czynienia z Dzikim Wschodem”. Niby apteka nie może się reklamować, ale jeśli to zrobi, zgodnie z wyrokiem TSUE, nic jej właścicielowi nie grozi. Aby uregulować sytuację, przed Komisję Zdrowia trafił rządowy projekt liberalizujący zakaz reklamowania aptek."
     },
     {
-      "title": "Szarlatańskie złośliwości ► - Termedia",
+      "title": "Szarlatańskie złośliwości ► - termedia.pl",
       "url": "https://www.termedia.pl/mz/Szarlatanskie-zlosliwosci-,68831.html",
       "date": "2026-09-02T18:26:00Z",
       "source": "Termedia",
@@ -130,7 +130,7 @@
       "summary": "Chcesz zadbać o serce? Nie zawsze potrzebujesz skomplikowanych metod. Badania sugerują, że kilka minut dziennie poświęconych na uważność, wdzięczność czy trening optymizmu może wspierać zdrowie układu krążenia."
     },
     {
-      "title": "Co posłowie wyczytali z planu finansowego NFZ? ► - Termedia",
+      "title": "Co posłowie wyczytali z planu finansowego NFZ? ► - termedia.pl",
       "url": "https://www.termedia.pl/mz/Co-poslowie-wyczytali-z-planu-finansowego-NFZ-,68821.html",
       "date": "2026-09-02T17:01:00Z",
       "source": "Termedia",
@@ -154,7 +154,7 @@
       "summary": "Genetyka a długowieczność co mówią geny i epigenetyka w podcaście z dr Paulą Dobosz PolitykaZdrowotna.com."
     },
     {
-      "title": "Nad stan ► - Termedia",
+      "title": "Nad stan ► - termedia.pl",
       "url": "https://www.termedia.pl/mz/Nad-stan-,68829.html",
       "date": "2026-09-02T16:21:00Z",
       "source": "Termedia",
@@ -202,7 +202,7 @@
       "summary": "Wyjątkowej pozycji witaminy D wśród wszystkich makro— i mikroskładników nic nie jest w stanie zachwiać. Jej działanie potwierdzają również najnowsze badania, których głównym celem było przeanalizowanie wpływu witaminy słońca na zdrowie kardiologiczne oraz metabolizm. Okazało się, że jej wysoka dawka może obniżać poszczególne parametry, w tym ciśnienie, cholesterol i glukozę, które są powiązane z chorobami cywilizacyjnymi."
     },
     {
-      "title": "Posiedzenie Rady Przejrzystości 38/2026 w dniu 14.09.2026 r. - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "title": "Posiedzenie Rady Przejrzystości 38/2026 w dniu 14.09.2026 r. - aotm.gov.pl",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/posiedzenie-rady-przejrzystosci-38-2026-w-dniu-14-09-2026-r/",
       "date": "2026-09-02T14:54:21Z",
       "source": "Ministerstwo Zdrowia RP",
@@ -298,14 +298,6 @@
       "summary": "Specjaliści z University of Birmingham (Wielka Brytania) sprawdzili skuteczność testu na grupie prawie 1000 pacjentów. Wykazał on wyjątkowo dużą wiarygodność, gdyż wynik negatywny daje 99 proc. gwarancję, że nie doszło do rozwoju raka pęcherza."
     },
     {
-      "title": "Szpitale szykują się na AI - Podyplomie.pl",
-      "url": "https://podyplomie.pl/aktualnosci/szpitale-szykuja-sie-na-ai",
-      "date": "2026-09-02T13:05:00Z",
-      "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
-      "summary": "Jak polskie placówki wykorzystują cyfrowe technologie? - pokazuje nowy raport Centrum e-Zdrowia i Ministerstwa Zdrowia."
-    },
-    {
       "title": "Pilotaż dobrowolnego przekazywania danych ma przyspieszyć rozwój innowacyjnych metod alternatywnych wobec badań na zwierzęt - Medycyna Praktyczna",
       "url": "https://www.mp.pl/kurier/447664,pilotaz-dobrowolnego-przekazywania-danych-ma-przyspieszyc-rozwoj-innowacyjnych-metod-alternatywnych-wobec-badan-na-zwierzetach",
       "date": "2026-09-02T13:05:00Z",
@@ -314,11 +306,19 @@
       "summary": "Europejska Agencja Leków (EMA) uruchomiła nowy pilotaż dobrowolnego przekazywania danych (Voluntary Data Submitting, VDS), którego celem jest ułatwienie udostępniania danych uzyskanych z wykorzystaniem metod nowego podejścia (New Approach Methodol."
     },
     {
-      "title": "„Profilaktyka – podaj dalej” – rusza ogólnopolska kampania na rzecz zdrowia Polaków - Centrum e-Zdrowia",
+      "title": "Szpitale szykują się na AI - Podyplomie.pl",
+      "url": "https://podyplomie.pl/aktualnosci/szpitale-szykuja-sie-na-ai",
+      "date": "2026-09-02T13:05:00Z",
+      "source": "Medycyna po Dyplomie",
+      "confirmed_by": 1,
+      "summary": "Jak polskie placówki wykorzystują cyfrowe technologie? - pokazuje nowy raport Centrum e-Zdrowia i Ministerstwa Zdrowia."
+    },
+    {
+      "title": "„Profilaktyka – podaj dalej” – rusza ogólnopolska kampania na rzecz zdrowia Polaków - cez.gov.pl",
       "url": "https://www.cez.gov.pl/pl/page/o-nas/aktualnosci/profilaktyka-podaj-dalej-rusza-ogolnopolska-kampania-na-rzecz-zdrowia",
       "date": "2026-09-02T13:04:44Z",
       "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Realizujemy projekty IT kluczowe dla funkcjonowania obszaru ochrony zdrowia w Polsce."
     },
     {
@@ -404,12 +404,20 @@
   ],
   "world": [
     {
+      "title": "62-letnia kobieta z utratą pamięci, anhedonią i zanikiem czasowym — The New England Journal of Medicine",
+      "url": "https://www.nejm.org/do/10.1056/NEJMdo008670/full/",
+      "date": "2026-09-02T23:26:15Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "62-letnia kobieta z utratą pamięci, anhedonią i zanikiem czasowym – New England Journal of Medicine."
+    },
+    {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://informatics.bmj.com/content/33/1/e102340",
       "date": "2026-09-02T23:21:46Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jak opracować ścieżki opieki: praktyczny przegląd podejść metodologicznych BMJ Health & Care Informatics."
     },
     {
       "title": "Resuscytacja płynowa u pacjentów z sepsą — dla kogo liczy się równowaga — The New England Journal of Medicine",
@@ -417,7 +425,7 @@
       "date": "2026-09-02T22:24:08Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Resuscytacja płynowa u pacjentów z sepsą — dla kogo liczy się równowaga The New England Journal of Medicine."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -428,12 +436,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Azacytydyna-wenetoklaks lub chemioterapia indukcyjna w ostrej białaczce szpikowej - The New England Journal of Medicine",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2602804",
       "date": "2026-09-02T22:24:01Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Azacytydyna-wenetoklaks lub chemioterapia indukcyjna w ostrej białaczce szpikowej The New England Journal of Medicine."
     },
     {
       "title": "Zoonotyczny ortonairowirus od pacjentów z gorączką w Chinach – The New England Journal of Medicine",
@@ -457,23 +465,23 @@
       "date": "2026-09-02T21:25:58Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Aktualne wydanie | New England Journal of Medicine. New England Journal of Medicine."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Australijski zakaz mediów społecznościowych nie zakłócił jeszcze status quo – The BMJ",
       "url": "https://www.bmj.com/content/394/bmj-2026-100615",
       "date": "2026-09-02T21:06:48Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Zarejestruj się, aby otrzymywać alerty Jeśli zarejestrowałeś się, aby otrzymywać alerty, jako nazwy użytkownika powinieneś używać zarejestrowanego adresu e-mail."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Azacytydyna-wenetoklaks lub chemioterapia indukcyjna w ostrej białaczce szpikowej - The New England Journal of Medicine",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602804",
       "date": "2026-09-02T21:06:08Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Azacytydyna-wenetoklaks lub chemioterapia indukcyjna w ostrej białaczce szpikowej The New England Journal of Medicine."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -481,15 +489,15 @@
       "date": "2026-09-02T21:06:07Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Daraxonrasib na wcześniej leczony RAS – zmutowany niedrobnokomórkowy rak płuc The New England Journal of Medicine."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Profilaktyka chorób wysokościowych u dorosłych: przygotowanie ludzi do podróży na duże wysokości - BMJ",
       "url": "https://www.bmj.com/content/394/bmj-2026-100532/article-info",
       "date": "2026-09-02T20:59:11Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "### Co musisz wiedzieć Choroba wysokościowa to zbiorcze określenie syndromów, które mogą wystąpić u niezaaklimatyzowanych osób podróżujących do miejsc położonych wyżej niż 2500 metrów nad poziomem morza.1,2,3 Choroba wysokościowa potencjalnie zagraża życiu; można jednak temu zapobiec i zarządzać nim dzięki odpowiedniemu planowaniu i przygotowaniu przed podróżą. W tym miejscu podpowiadamy, jak doradzać pacjentom w zakresie podróży na wysokości wyższe niż 2500 m n.p.m. oraz kiedy rozważyć skierowanie pacjenta do specjalisty medycyny podróży mającego doświadczenie w chorobach wysokościowych. Zalecenia opierają się na wytycznych Wilderness Medical Society (WMS) z 2024 r.1, aktualizacji wytycznych Komisji Medycznej Union Internationale des Associations d’Alpinisme (UIAA) z 2012 r. z 2024 r.2 oraz doświadczeniu klinicznym autorów."
     },
     {
       "title": "Profilaktyka chorób wysokościowych u dorosłych: przygotowanie ludzi do podróży na duże wysokości - BMJ",
@@ -500,7 +508,7 @@
       "summary": "### Co musisz wiedzieć Choroba wysokościowa to zbiorcze określenie syndromów, które mogą wystąpić u niezaaklimatyzowanych osób podróżujących do miejsc położonych wyżej niż 2500 metrów nad poziomem morza.1,2,3 Choroba wysokościowa potencjalnie zagraża życiu; można jednak temu zapobiec i zarządzać nim dzięki odpowiedniemu planowaniu i przygotowaniu przed podróżą. W tym miejscu podpowiadamy, jak doradzać pacjentom w zakresie podróży na wysokości wyższe niż 2500 m n.p.m. oraz kiedy rozważyć skierowanie pacjenta do specjalisty medycyny podróży mającego doświadczenie w chorobach wysokościowych. Zalecenia opierają się na wytycznych Wilderness Medical Society (WMS) z 2024 r.1, aktualizacji wytycznych Komisji Medycznej Union Internationale des Associations d’Alpinisme (UIAA) z 2012 r. z 2024 r.2 oraz doświadczeniu klinicznym autorów."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Grupy lekarzy publikują wytyczne dotyczące szczepień przed sezonem chorób układu oddechowego - STAT",
       "url": "https://www.statnews.com/2026/09/02/vaccine-integrity-project-fall-winter-guidelines-rsv-covid-flu-shots/",
       "date": "2026-09-02T20:57:16Z",
       "source": "STAT News",
@@ -521,18 +529,18 @@
       "date": "2026-09-02T20:52:22Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "David urodził się i wychował w Newcastle. Oboje jego rodzice byli lekarzami: ojciec był profesorem hematologii, a matka pracowała w pediatrii środowiskowej. Jego wczesna edukacja odbywała się w Newcastle, ale później rozpoczął naukę w Bootham School w Yorku, gdzie wyróżniał się w sporcie."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Lek Ultragenyx do leczenia rzadkiej choroby zespołu Angelmana kończy się niepowodzeniem w późnym etapie badania – STAT",
       "url": "https://www.statnews.com/2026/09/02/ultragenyx-drug-angelman-syndrome-clinical-trial/",
       "date": "2026-09-02T20:51:17Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Firma Ultragenyx stwierdziła, że ​​eksperymentalna terapia rzadkiej choroby zespołu Angelmana nie przyniosła żadnych korzyści w porównaniu z leczeniem pozorowanym w badaniu III fazy."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "DMARD w leczeniu reumatoidalnego zapalenia stawów drugiego rzutu – nzdoctor.co.nz",
       "url": "https://www.nzdoctor.co.nz/article/educate/practice/dmards-second-line-treatment-rheumatoid-arthritis",
       "date": "2026-09-02T20:37:30Z",
       "source": "Cochrane Library",
@@ -556,23 +564,23 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Wczesne wykrywanie ryzyka niedożywienia u weteranów chorych na raka: podejście multidyscyplinarne - Medscape",
       "url": "https://www.medscape.com/viewarticle/early-detection-malnutrition-risk-veterans-cancer-2026a1000v6t",
       "date": "2026-09-02T18:20:52Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Niedożywienie dotyka 40–80% pacjentów, u których zdiagnozowano nowotwór i może znacząco wpływać na rozpoczęcie leczenia, odpowiedź na leczenie i przestrzeganie zaleceń."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Isthmin 2 może określić wczesne przyczyny stanu przedrzucawkowego i ograniczenia wzrostu płodu – Natura",
       "url": "https://www.nature.com/articles/s41591-026-04604-2",
       "date": "2026-09-02T18:20:17Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Stan przedrzucawkowy i ograniczenie wzrostu płodu (FGR) to główne przyczyny zachorowalności i śmiertelności płodów na całym świecie. Obydwa schorzenia wiążą się z upośledzoną inwazją trofoblastów na macicę. Odkryliśmy, że niższy poziom isthminy 2 (ISM2) w surowicy matki we wczesnej ciąży jest czynnikiem prognostycznym stanu przedrzucawkowego i FGR oraz że ISM2 jest niezbędny do inwazji trofoblastów."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Lekarz federalny, wrzesień 2026 r. – Medscape",
       "url": "https://www.medscape.com/c32/p14/federal-practitioner-september-2026-2026a1000vxu",
       "date": "2026-09-02T18:04:22Z",
       "source": "Medscape",
@@ -593,7 +601,7 @@
       "date": "2026-09-02T17:42:32Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Rak piersi pozostaje najczęstszym nowotworem złośliwym u kobiet, a szczyt zachorowań przypada na koniec lat 60. XX wieku. Aby sprostać potrzebom onkologicznym, niezbędne jest zapewnienie odpowiednich zasobów kadrowych w chirurgii piersi."
     },
     {
       "title": "Radzenie sobie z niepewnością diagnostyczną: koordynacja opieki RN w celu terminowej oceny potencjalnego nowotworu złośliwego - Medscape",
@@ -625,15 +633,15 @@
       "date": "2026-09-02T16:14:16Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Quiz Fast Five: objawy i objawy reumatoidalnego zapalenia stawów – reference.medscape.com",
       "url": "https://reference.medscape.com/viewarticle/fast-five-quiz-rheumatoid-arthritis-signs-and-symptoms-2026a1000ta0?src=",
       "date": "2026-09-02T16:12:22Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Co wiesz o wynikach klinicznych, które są brane pod uwagę? Sprawdź swoją wiedzę w tym krótkim quizie."
     },
     {
       "title": "Ruszyła globalna inicjatywa mająca na celu poprawę dostępu do szczepionek przeciwko mpox - who.int",
@@ -676,20 +684,20 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Pharmalittle: Czytamy o terapii genowej Huntingtona, wyzwaniach stojących przed Novo i nie tylko - STAT",
       "url": "https://www.statnews.com/pharmalot/2026/09/02/uniqure-huntingtons-fda-novo-nordisk-investors-pharmalittle-newsletter/",
       "date": "2026-09-02T13:45:43Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Firma UniQure zgłosiła FDA terapię genową Huntingtona, inwestorzy nie są entuzjastycznie nastawieni do Novo Nordisk i innych najnowszych nagłówków farmaceutycznych w dzisiejszym biuletynie Pharmalittle."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "ARPA-H finansuje biotechnologów pracujących nad niestandardowymi terapiami RNA - STAT",
       "url": "https://www.statnews.com/2026/09/02/biotech-news-arp-h-funds-biotechs-working-on-custom-rna-therapies/",
       "date": "2026-09-02T13:41:13Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Roche licencjonuje trójspecyficzne przeciwciało, nowe umowy z Trumpem mogą podważyć jego własne cele i inne wiadomości biotechnologiczne."
     },
     {
       "title": "Jak startup byłego dyrektora ARPA-H radzi sobie z „głupimi problemami” sztucznej inteligencji – STAT",
@@ -697,7 +705,7 @@
       "date": "2026-09-02T13:34:59Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Czytasz internetowe wydanie biuletynu AI Prognosis firmy STAT, naszego dostępnego wyłącznie dla subskrybentów przewodnika po sztucznej inteligencji w opiece zdrowotnej i medycynie. Zarejestruj się, aby otrzymywać je w swoją skrzynkę odbiorczą w każdą środę."
     },
     {
       "title": "Dr Richard Mouzoko: Humanitarysta kierujący się poczuciem obowiązku – WHO | Biuro Regionalne dla Afryki",
@@ -708,20 +716,20 @@
       "summary": "Yaoundé w Kamerunie — Światowy Dzień Pomocy Humanitarnej obchodzony jest co roku 19 sierpnia. Z okazji obchodów roku 2026, zatytułowanych „Działanie dla ludzkości”, społeczność międzynarodowa złożyła hołd pracownikom organizacji humanitarnych, którzy stracili życie podczas pełnienia obowiązków, na podstawie zeznań swoich rodzin i współpracowników. W tym kontekście rodzina dr Richarda Valery’ego Mouzoko Kibounga zastanawia się nad życiem, wartościami i dziedzictwem tego oddanego działacza humanitarnego, który zmarł w 2019 r., uczestnicząc w akcji reagowania na epidemię wirusa Ebola w Demokratycznej Republice Konga."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Badania obrazowe serca mogą sygnalizować ryzyko SCD w HFmrEF – Medscape",
       "url": "https://www.medscape.com/viewarticle/cardiac-imaging-measures-may-predict-scd-risk-heart-failure-2026a1000wj7",
       "date": "2026-09-02T12:43:56Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Stopień późnego wzmocnienia gadolinem i uszkodzenia tkanek w badaniach obrazowych serca może pomóc w przewidywaniu ryzyka nagłej śmierci sercowej u pacjentów z niewydolnością serca z nieznacznie zmniejszoną frakcją wyrzutową."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Nowy wykaz UE – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://extranet.who.int/prequal/news/new-eul-listing-0",
       "date": "2026-09-02T12:38:00Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Skuteczna kontrola epidemii rozpoczyna się od dokładnej i terminowej diagnozy."
     },
     {
       "title": "Dowody wpływu: przeszłość, teraźniejszość i przyszłość badań oraz postęp w zakresie zdrowia seksualnego i reprodukcyjnego oraz praw – Światowa Organizacja Zdrowia (WHO)",
@@ -740,7 +748,7 @@
       "summary": "Otyłość we wczesnym dzieciństwie jest silnie powiązana z otyłością w okresie dojrzewania, podczas gdy nadwaga niesie ze sobą znacznie mniejsze ryzyko progresji – nawet po niedawnym wzroście BMI w porównaniu z normalną wagą."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "HHS opowiada historię przyszłego dziecka twórcy treści – STAT",
       "url": "https://www.statnews.com/2026/09/02/health-news-hhs-spins-a-tale-of-a-would-be-content-creator/",
       "date": "2026-09-02T12:00:43Z",
       "source": "STAT News",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Mongbwalu, Demokratyczna Republika Konga — W dusznym upale panującym w Generalnym Szpitalu Referencyjnym Mongbwalu w prowincji Ituri, epicentrum trwającej epidemii wirusa Ebola we wschodniej Demokratycznej Republice Konga, po korytarzach roznosi się brzęk wiader do dezynfekcji. Kiedy pracownicy służby zdrowia biegają od oddziału do oddziału, w powietrzu unosi się zapach chloru."
-    },
-    {
-      "title": "Dorota Charlotte Gordon Mackay Hadley – BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100654",
-      "date": "2026-09-02T10:58:43Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Dorota Charlotte Gordon Mackay Hadley BMJ."
     }
   ],
   "guidelines": [
@@ -822,7 +822,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Posiedzenie Rady Przejrzystości 38/2026 w dniu 14.09.2026 r. - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "title": "Posiedzenie Rady Przejrzystości 38/2026 w dniu 14.09.2026 r. - aotm.gov.pl",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/posiedzenie-rady-przejrzystosci-38-2026-w-dniu-14-09-2026-r/",
       "date": "2026-09-02T14:54:21Z",
       "source": "AOTMiT",
@@ -1083,7 +1083,7 @@
       "date": "2026-08-31T22:38:46Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "ESMO Raki układu moczowo-płciowego Azja 2027: Dokumenty Europejskie Towarzystwo Onkologii Medycznej | ESMO."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Szkolenie OK COBIK NIL - Jak się poruszać po prawie medycznym - NIL",
@@ -1118,7 +1118,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Rekomendacja Prezesa – Tibsovo (iwosydenib) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "title": "Rekomendacja Prezesa – Tibsovo (iwosydenib) - aotm.gov.pl",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-tibsovo-iwosydenib/",
       "date": "2026-08-31T16:17:50Z",
       "source": "AOTMiT",
@@ -1166,7 +1166,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Opinia Prezesa - Program polityki zdrowotnej z zakresu wczesnego wykrywania wad wzroku u dzieci z powiatu leszczyńskiego - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "title": "Opinia Prezesa - Program polityki zdrowotnej z zakresu wczesnego wykrywania wad wzroku u dzieci z powiatu leszczyńskiego - aotm.gov.pl",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/opinia-prezesa-program-polityki-zdrowotnej-z-zakresu-wczesnego-wykrywania-wad-wzroku-u-dzieci-z-powiatu-leszczynskiego/",
       "date": "2026-08-31T10:55:57Z",
       "source": "AOTMiT",
@@ -1174,7 +1174,7 @@
       "summary": "Opinia Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji nr 67/2026 z dnia 28 sierpnia 2026 r. o projekcie programu polityki zdrowotnej „Program polityki zdrowotnej z zakresu wczesnego wykrywania wad wzroku u dzieci z powiatu leszczyńskiego”."
     },
     {
-      "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji leczniczej mieszkańców gminy Brochów na lata 2026-2029 - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji leczniczej mieszkańców gminy Brochów na lata 2026-2029 - aotm.gov.pl",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/opinia-prezesa-program-polityki-zdrowotnej-w-zakresie-rehabilitacji-leczniczej-mieszkancow-gminy-brochow-na-lata-2026-2029/",
       "date": "2026-08-31T10:55:57Z",
       "source": "AOTMiT",
@@ -1190,7 +1190,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji leczniczej mieszkańców gminy Prażmów na lata 2027-2029 - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "title": "Opinia Prezesa - Program polityki zdrowotnej w zakresie rehabilitacji leczniczej mieszkańców gminy Prażmów na lata 2027-2029 - aotm.gov.pl",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/opinia-prezesa-program-polityki-zdrowotnej-w-zakresie-rehabilitacji-leczniczej-mieszkancow-gminy-prazmow-na-lata-2027-2029/",
       "date": "2026-08-31T10:44:15Z",
       "source": "AOTMiT",
@@ -1212,7 +1212,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-02T21:11:49Z",
       "source": "ECDC",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1416,12 +1416,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Konferencja Global Digital Collaboration 2026 – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.who.int/news-room/events/detail/2026/09/01/default-calendar/global-digital-collaboration-conference-2026",
       "date": "2026-09-01T02:28:55Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Konferencja Global Digital Collaboration Conference 2026 zgromadzi rządy, organizacje międzynarodowe, ekspertów technicznych i partnerów z sektora prywatnego, aby zacieśnić współpracę w zakresie zaufanych systemów cyfrowych i transgranicznych rozwiązań cyfrowych."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1472,7 +1472,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Młody działacz z Ghany zaangażowany w działania społeczne – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.who.int/news-room/feature-stories/detail/a-young-ghanaian-advocate-involved-in-community-outreach",
       "date": "2026-08-31T16:41:01Z",
       "source": "WHO Disease Outbreak News",
@@ -1600,7 +1600,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Epidemia wirusa Ebola oficjalnie kończy się w Ugandzie wraz z ogłoszeniem przez CEPI nowego kandydata na szczepionkę – CIDRAP",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-officially-ends-uganda-cepi-announces-new-vaccine-candidate",
       "date": "2026-08-27T20:15:42Z",
       "source": "CIDRAP",
@@ -1913,7 +1913,7 @@
       "date": "2026-09-02T17:16:25Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "ŚRODA, 2 września 2026 r. Sędzia zablokował radykalne zmiany w federalnych dotacjach na zapobieganie ciąży nastolatkom, orzekając, że urzędnicy ds. zdrowia popierają nowy wymóg."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1921,7 +1921,7 @@
       "date": "2026-09-02T17:16:25Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Jak wynika z badania opublikowanego 29 sierpnia w czasopiśmie New England Journal of Medi, cichą miażdżycę można wykryć we wczesnej dorosłości i nasilać się ona wraz z wiekiem."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1961,7 +1961,7 @@
       "date": "2026-09-02T16:59:26Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "505(b)(2) sponsorzy mogą teraz zażądać oceny równoważności terapeutycznej, jeśli nieaktywne składniki ich produktu różnią się od leku znajdującego się na liście referencyjnej."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2020,7 +2020,7 @@
       "summary": "ŚRODA, 2 września 2026 r. To naturalne, że odczuwasz niepokój, gdy leżysz w szpitalnym łóżku z powodu poważnej choroby. Ale ten niepokój można złagodzić za pomocą o."
     },
     {
-      "title": "Daybu firmy Acadia wśród nowych dopuszczeń UE – insights.citeline.com",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/product-reviews/approvals/acadias-daybu-is-among-new-eu-approvals-7GJANO3U5BH73CIPGWYYC3H6T4/",
       "date": "2026-09-02T15:02:42Z",
       "source": "Pink Sheet",
@@ -2089,7 +2089,7 @@
       "date": "2026-09-02T13:02:17Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "NOVATO, Kalifornia, 2 września 2026 r. (GLOBE NEWSWIRE) — Firma Amlogenyx, Inc., firma biotechnologiczna skupiająca się na opracowywaniu terapii genowych na chorobę Alzheimera i inne choroby neurodegeneracyjne, ogłosiła dzisiaj, że członkowie zespołu zarządzającego Spółki wystąpią na 21. dorocznej konferencji Wells Fargo w Bostonie w stanie Massachusetts, we wtorek 8 września 2026 r. o godzinie 15:00 czasu wschodniego. Przez cały czas trwania konferencji Spółka będzie także gospodarzem indywidualnych spotkań z inwestorami."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "ALX Oncology zaprezentuje się na nadchodzących konferencjach inwestorskich we wrześniu 2026 r. – biospace.com",
@@ -2188,7 +2188,7 @@
       "summary": "CAMBRIDGE, Massachusetts--(BUSINESS WIRE)--Aera Therapeutics, firma biotechnologiczna wykorzystująca technologie dostarczania nowej generacji i precyzyjne ładunki w celu uwolnienia pełnego potencjału leków genetycznych, ogłosiła dzisiaj, że kierownictwo weźmie udział w dwóch nadchodzących konferencjach inwestorów:"
     },
     {
-      "title": "Niedobór wodorowęglanu sodu do wstrzykiwań - drugs.com",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.drugs.com/drug-shortages/sodium-bicarbonate-injection-216",
       "date": "2026-09-02T00:19:09Z",
       "source": "Drugs.com",
@@ -2201,7 +2201,7 @@
       "date": "2026-09-02T00:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Kawa MAXMAN może być szkodliwa ze względu na ukryte składniki leku fda.gov."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2300,25 +2300,9 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Wytyczne przedstawiają korzyści, ryzyko i niewiadome związane ze stosowaniem szczepionki Ervebo® niezgodnie z wskazaniami rejestracyjnymi podczas trwającej epidemii BDBV i zalecają stosowanie szczepionki wyłącznie w ramach protokołów badawczych. Podkreśla znaczenie szybkiego generowania solidnych danych dotyczących skuteczności w drodze randomizowanego, kontrolowanego badania pierścieniowego, utrzymywania sprawdzonych środków kontroli epidemii, jasnego informowania o nieznanej skuteczności przeciwko BDBV oraz przyspieszania rozwoju szczepionek specyficznych dla BDBV i innych środków zaradczych."
-    },
-    {
-      "title": "Epidemia wirusa Ebola oficjalnie kończy się w Ugandzie wraz z ogłoszeniem przez CEPI nowego kandydata na szczepionkę – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-officially-ends-uganda-cepi-announces-new-vaccine-candidate",
-      "date": "2026-08-27T20:15:42Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "daily_top5": [
-    {
-      "title": "AI projektuje wirusy, które zabijają bakterie. Przełom w walce z antybiotykoopornością? - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/ai-projektuje-wirusy-ktore-zabijaja-bakterie-przelom-w-walce-z-antybiotykoopornoscia/",
-      "date": "2026-09-02T22:31:14Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "AI Evo 2 zaprojektowała nowe bakteriofagi zwalczające E. coli. Koktajl 16 fagów pokonał oporność bakterii na naturalnego faga ΦX174."
-    },
     {
       "title": "Włączenie kwestii równości do krajowych planów działania dotyczących oporności na środki przeciwdrobnoustrojowe: wytyczne uzupełniające podejście skoncentrowane na człowieku – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/i/item/9789240123892",
@@ -2342,6 +2326,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Yaoundé w Kamerunie — Światowy Dzień Pomocy Humanitarnej obchodzony jest co roku 19 sierpnia. Z okazji obchodów roku 2026, zatytułowanych „Działanie dla ludzkości”, społeczność międzynarodowa złożyła hołd pracownikom organizacji humanitarnych, którzy stracili życie podczas pełnienia obowiązków, na podstawie zeznań swoich rodzin i współpracowników. W tym kontekście rodzina dr Richarda Valery’ego Mouzoko Kibounga zastanawia się nad życiem, wartościami i dziedzictwem tego oddanego działacza humanitarnego, który zmarł w 2019 r., uczestnicząc w akcji reagowania na epidemię wirusa Ebola w Demokratycznej Republice Konga."
+    },
+    {
+      "title": "Nowy wykaz UE – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://extranet.who.int/prequal/news/new-eul-listing-0",
+      "date": "2026-09-02T12:38:00Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Skuteczna kontrola epidemii rozpoczyna się od dokładnej i terminowej diagnozy."
     },
     {
       "title": "Na pierwszej linii frontu zapobiegania zakażeniom i kontroli wirusa Ebola – WHO | Biuro Regionalne dla Afryki",
