@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T16:08:59Z",
+  "last_updated": "2026-09-03T16:09:53Z",
   "poland": [
     {
       "title": "Ekspert: badania endoskopowe bywają wykonywane niepotrzebnie i zbyt często - Puls Medycyny",
@@ -181,8 +181,8 @@
       "title": "Ogłoszenia o pracę - nfz.gov.pl",
       "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/olsztyn2618,3005.html",
       "date": "2026-09-03T12:08:00Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 4,
       "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
     },
     {
@@ -290,6 +290,14 @@
       "summary": "Poziom receptorów estrogenowych może dokładniej określać rokowanie i biologię HER2-ujemnego raka piersi niż prosty podział na ER+ i ER-."
     },
     {
+      "title": "Otyłość u seniorów – dlaczego wiek nie chroni przed chorobą otyłości? - Alert Medyczny",
+      "url": "https://alertmedyczny.pl/otylosc-u-seniorow-dlaczego-wiek-nie-chroni-przed-choroba-otylosci/",
+      "date": "2026-09-03T10:51:00Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Otyłość u seniorów nie jest naturalnym skutkiem starzenia. Zwiększa ryzyko chorób, utraty sprawności i wymaga indywidualnie dobranego leczenia."
+    },
+    {
       "title": "Jednoczesne podanie kilku szczepionek jest bezpieczne i skuteczne - Termedia",
       "url": "https://www.termedia.pl/mz/Jednoczesne-podanie-kilku-szczepionek-jest-bezpieczne-i-skuteczne,68842.html",
       "date": "2026-09-03T10:48:00Z",
@@ -314,20 +322,20 @@
       "summary": "10 730 osób rozpocznie w październiku studia lekarskie, a kolejnych 1 510 - lekarsko-dentystyczne. Ministerstwo Zdrowia pokazało ostateczne limity przyjęć na rok akademicki 2026/27. Kilka uczelni dostało więcej miejsc niż przewidywał to pierwotny projekt rozporządzenia, a jedna o 20 mniej."
     },
     {
-      "title": "Łączy ludzi wspierających ideę transplantacji. Bieg po Nowe Życie 5 września w Warszawie - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/transplantologia/laczy-ludzi-wspierajacych-idee-transplantacji-bieg-po-nowe-zycie-5-wrzesnia-w-warszawie/",
-      "date": "2026-09-03T10:30:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "Osoby po przeszczepieniach, dawców i biorców, lekarzy, koordynatorów transplantacyjnych, przedstawicieli świata kultury i mediów oraz młodzież zgromadzi w sobotę, 5 września w Warszawie 31. Bieg po Nowe Życie."
-    },
-    {
       "title": "List na pożegnanie. Prof. Agata Przekora-Kuśmierz z zespołem odchodzi z UMLub i zabiera projekty za 12 mln zł - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/list-na-pozegnanie-n2478261",
       "date": "2026-09-03T10:30:00Z",
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "List na pożegnanie. Prof. Agata Przekora-Kuśmierz z zespołem odchodzi z UMLub i zabiera projekty za 12 mln zł PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Łączy ludzi wspierających ideę transplantacji. Bieg po Nowe Życie 5 września w Warszawie - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/medycyna/transplantologia/laczy-ludzi-wspierajacych-idee-transplantacji-bieg-po-nowe-zycie-5-wrzesnia-w-warszawie/",
+      "date": "2026-09-03T10:30:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Osoby po przeszczepieniach, dawców i biorców, lekarzy, koordynatorów transplantacyjnych, przedstawicieli świata kultury i mediów oraz młodzież zgromadzi w sobotę, 5 września w Warszawie 31. Bieg po Nowe Życie."
     },
     {
       "title": "Rak na własne życzenie - Termedia",
@@ -344,14 +352,6 @@
       "source": "Remedium.md",
       "confirmed_by": 1,
       "summary": "Posłuchaj wykładów i paneli dyskusyjnych, które poprowadzą czołowi specjaliści w dziedzinie medycyny. Dowiedz się, jak osiągnęli sukces i jakie sposoby leczenia wykorzystują w codziennej praktyce."
-    },
-    {
-      "title": "Otyłość u seniorów – dlaczego wiek nie chroni przed chorobą otyłości? - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/otylosc-u-seniorow-dlaczego-wiek-nie-chroni-przed-choroba-otylosci/",
-      "date": "2026-09-03T10:07:32Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Otyłość u seniorów nie jest naturalnym skutkiem starzenia. Zwiększa ryzyko chorób, utraty sprawności i wymaga indywidualnie dobranego leczenia."
     },
     {
       "title": "Po receptę już nie tylko do lekarza. Rewolucja dla pacjentów coraz bliżej - Rynek Zdrowia",
@@ -748,7 +748,7 @@
       "summary": "Doktor medycyny Paul Nghiem, światowy ekspert w dziedzinie raka z komórek Merkla, rozmawiał z Medscape Dermatology o najnowszych odkryciach i trendach w opiece i badaniach nad MCC, a także o spojrzeniu w przyszłość."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Dialog społecznościowy budujący zaufanie do reakcji na wirusa Ebola w Demokratycznej Republice Konga – WHO | Biuro Regionalne dla Afryki",
       "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/community-dialogues-build-trust-ebola-response-democratic-republic-congo",
       "date": "2026-09-03T07:56:06Z",
       "source": "WHO",
@@ -878,12 +878,12 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Dokumenty projektowe | Siatka chirurgiczna do leczenia pierwotnych przepuklin brzusznych | Poradnik – nice.org.uk",
       "url": "https://www.nice.org.uk/guidance/indevelopment/gid-htg10876/documents",
       "date": "2026-09-02T19:02:35Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Dokumenty projektowe | Siatka chirurgiczna do leczenia pierwotnych przepuklin brzusznych | Wskazówki nice.org.uk."
     },
     {
       "title": "Programy zdrowotne dotyczące udaru mózgu Uniwersytetu Nowojorskiego w Langone zdobywają najwyższe wyróżnienia krajowe od American Heart Association – nyulangone.org",
@@ -934,12 +934,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zakres aktualizacji wytycznych (od kwietnia 2026 r.) – nice.org.uk",
       "url": "https://www.nice.org.uk/guidance/gid-ng10451/documents/draft-scope-pdf-version-2",
       "date": "2026-09-02T05:09:41Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Zakres aktualizacji wytycznych (od kwietnia 2026 r.) nice.org.uk."
     },
     {
       "title": "Tymczasowe rozważania kliniczne dotyczące stosowania szczepionek przeciwko grypie sezonowej w Stanach Zjednoczonych — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -998,20 +998,20 @@
       "summary": "Charakterystyka i monitorowanie epidemii wirusa Ebola w 2026 r.... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Notatki | Dokumenty projektowe | Wipiwotyd lutetu-177, tetraksetan w skojarzeniu do leczenia przerzutowego raka prostaty wrażliwego na hormony PSMA-dodatnie [ID6589] | Poradnik – nice.org.uk",
       "url": "https://www.nice.org.uk/guidance/gid-ta11766/documents/html-content-3",
       "date": "2026-09-01T15:32:50Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Należy pamiętać, że w odpowiedzi na wniosek otrzymany od firmy harmonogram tej oceny został zmieniony i obecnie oczekuje się, że proces oceny rozpocznie się pod koniec listopada 2026 r., kiedy napiszemy do Ciebie, w jaki sposób możesz się zaangażować."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Notatki | Dokumenty projektowe | Lewodopa/karbidopa (ND0612) na chorobę Parkinsona [ID6727] | Poradnik – nice.org.uk",
       "url": "https://www.nice.org.uk/guidance/gid-ta11954/documents/html-content",
       "date": "2026-09-01T11:47:08Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Należy pamiętać, że informacje dotyczące harmonogramu tej oceny zostaną udostępnione w odpowiednim czasie. W międzyczasie NICE będzie w dalszym ciągu monitorować sytuację i będzie informować o zmianach sytuacji."
     },
     {
       "title": "Szkolenie OK COBIK NIL: Bezpieczna ordynacja leków refundowanych - NIL",
@@ -1038,12 +1038,12 @@
       "summary": "Nowe badania wykazały, że u większości ludzi ocena uwapnienia w tętnicy wieńcowej ledwo pozwala na przewidywanie ryzyka serca. Dla jednej grupy z pogranicza robi to różnicę."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Historia | Dostarlimab w leczeniu wcześniej leczonego zaawansowanego lub nawrotowego raka endometrium z dużą niestabilnością mikrosatelitarną lub niedoborem naprawy niedopasowania | Poradnik – nice.org.uk",
       "url": "https://www.nice.org.uk/guidance/ta1189/history",
       "date": "2026-09-01T10:40:06Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Ocena wpływu na równość (wersja do pobrania) (PDF 114 KB)."
     },
     {
       "title": "Szkolenie OK COBIK NIL: Nawracające zakażenia układu moczowego – gdzie tkwi problemem? - NIL",
@@ -1591,7 +1591,7 @@
       "date": "2026-09-03T15:22:30Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "AbbVie może przejąć udziały BitTE firmy Tecvayli w fazie III MM w Clinical Trials Arena."
+      "summary": "AbbVie może przejąć udziały BitTE w rynku Tecvayli w fazie III MM, wygrywając Clinical Trials Arena."
     },
     {
       "title": "Ultragenyx zastanawia się nad losem programu chorób rzadkich na flopie fazy III – Clinical Trials Arena",
@@ -1690,7 +1690,7 @@
       "summary": "mAb Teva wykazuje korzyści w badaniu dotyczącym celiakii w ramach Clinical Trials Arena."
     },
     {
-      "title": "Fortrea przejmie dział usług wczesnej fazy badań klinicznych na całym świecie za kwotę 45 milionów dolarów - Applied Clinical Trials Online",
+      "title": "Fortrea przejmie dział usług wczesnej fazy badań klinicznych na całym świecie za 45 milionów dolarów – Applied Clinical Trials Online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/fortrea-acquire-worldwide-clinical-trials-early-phase-services-division-45-million-deal",
       "date": "2026-09-02T16:25:07Z",
       "source": "Applied Clinical Trials",
@@ -1746,7 +1746,7 @@
       "summary": "Lek na toczeń firmy Alumis trafia do fazy III pomimo opuszczenia w połowie etapu Clinical Trials Arena."
     },
     {
-      "title": "EMA debiutuje w ramach programu pilotażowego udostępniania danych NAM w związku z rozbieżnościami w testach na zwierzętach – Clinical Trials Arena",
+      "title": "EMA rozpoczyna pilotażowy program udostępniania danych NAM w związku z rozbieżnościami w testach na zwierzętach – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/ema-debuts-nam-data-sharing-pilot-amid-animal-testing-divergence/",
       "date": "2026-09-02T10:48:04Z",
       "source": "Clinical Trials Arena",
@@ -1759,7 +1759,7 @@
       "date": "2026-09-02T10:24:19Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Krótki opis ACT: Kwantyfikacja wartości finansowej RBQM, luka w widoczności kosztów budżetu badania oraz stosowane badania kliniczne online dotyczące szczepionki przeciw grypie GSK mRNA, fazy III."
+      "summary": "Streszczenie ACT: Kwantyfikacja wartości finansowej RBQM, luka w widoczności kosztów budżetu badania oraz stosowane badania kliniczne online dotyczące szczepionki przeciw grypie GSK mRNA, faza III."
     },
     {
       "title": "Autyzm rośnie w zamożnych krajach, ale nikt nie jest w stanie powiedzieć, jak duży jest to rzeczywisty wzrost – Trialsitenews.com",
@@ -1823,7 +1823,7 @@
       "date": "2026-09-01T16:20:39Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Dlaczego gotowość do CMC staje się kluczowa dla umów licencyjnych dotyczących biofarmaceutyków? Clinical Trials Arena."
+      "summary": "Dlaczego gotowość CMC staje się kluczowa dla umów licencyjnych dotyczących biofarmaceutyków Clinical Trials Arena."
     },
     {
       "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
@@ -1908,6 +1908,14 @@
   ],
   "pharma_market": [
     {
+      "title": "GSK stawia nawet 1,3 miliarda dolarów na inny rodzaj leku przeciwnowotworowego – BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/gsk-hutchmed-egfr-kras-cancer-drug-deal-china/829542/",
+      "date": "2026-09-03T16:06:35Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Wraz z niedawną wizytą w Chinach firma GSK nabyła od firmy Hutchmed prawa do „koniugatu terapii ukierunkowanej na przeciwciała”, wpływającego na dwie dobrze znane czynniki nowotworowe, EGFR i KRAS."
+    },
+    {
       "title": "Umowa Novartis na dostawę leków z Alteogen; Kolejne zwolnienia pracowników w Cellares – Endpoints News",
       "url": "https://endpoints.news/novartis-drug-delivery-deal-with-alteogen-further-worker-cuts-at-cellares/",
       "date": "2026-09-03T15:30:00Z",
@@ -1916,15 +1924,15 @@
       "summary": "Uzyskaj bezpłatny dostęp do ograniczonej liczby artykułów i wybierz biuletyny, które będą trafiać bezpośrednio do Twojej skrzynki odbiorczej."
     },
     {
-      "title": "Niemcy: Ocena korzyści Koselugo ujawnia nowatorskie podejście do punktów końcowych - Insights.citeline.com",
+      "title": "Niemcy: Ocena korzyści Koselugo ujawnia nowatorskie podejście do punktów końcowych - insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/health-technology-assessment/germany-koselugo-benefit-assessment-reveals-novel-approach-to-endpoints-4QBAFBSE65G63KEOPOOB47AKUM/",
       "date": "2026-09-03T15:22:41Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Firmy farmaceutyczne z radością przyjęłyby większą akceptację klinicznie istotnych punktów końcowych w ocenach korzyści z niemieckich leków, nie jest jednak jasne, czy nietypowe podejście do leku firmy Alexion na rzadkie choroby, Koselugo, wskazuje na zmianę praktyki."
+      "summary": "Firmy farmaceutyczne z radością przyjęłyby większą akceptację klinicznie istotnych punktów końcowych w ocenach korzyści niemieckich leków, ale nie jest jasne, czy nietypowe podejście do leku firmy Alexion na rzadkie choroby, Koselugo, wskazuje na zmianę praktyki."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Ultragenyx rozważy „znaczące” obniżki kosztów w związku z niepowodzeniem kluczowego badania leku Angelman - BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/ultragenyx-angelman-syndrome-drug-results-cost-cuts/829528/",
       "date": "2026-09-03T15:08:07Z",
       "source": "BioPharma Dive",
@@ -2172,12 +2180,12 @@
       "summary": "WALTHAM, Massachusetts, 2 września 2026 r. (GLOBE NEWSWIRE) — Dyne Therapeutics, Inc . (Nasdaq: DYN), firma na etapie klinicznym, skupiająca się na zapewnianiu poprawy funkcjonalnej osobom cierpiącym na genetycznie uwarunkowane choroby nerwowo-mięśniowe, ogłosiła dzisiaj, że zarząd będzie brał udział w następujących nadchodzących konferencjach inwestorskich:"
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "ARPA-H przeznacza 125 mln dolarów na finansowanie spersonalizowanej produkcji leków na bazie RNA – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/arpa-h-puts-125m-bankroll-personalized-rna-based-drug-production",
       "date": "2026-09-02T19:12:01Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczepionki i leki na bazie RNA mogły ostatnio stanąć w obliczu wyboistej drogi w USA, ale nowa duża inwestycja federalna dowodzi, że rząd nadal mocno stawia na swoją przyszłość. | Szczepionki i leki na bazie RNA mogły w USA pokonać wyboistą drogę."
     },
     {
       "title": "Zgony w badaniu Novartis CAR-T zmuszają do obliczenia akceptowalnego ryzyka w przypadku chorób autoimmunologicznych - Endpoints News",
@@ -2188,12 +2196,12 @@
       "summary": "Trzy zgony pacjentów w badaniach autoimmunologicznych CAR-T firmy Novartis rodzą pytania o ryzyko leczenia chorób niezakończonych zgonem."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Novartis telegrafuje o zwolnieniu 130 pracowników w związku z ponownym przemyśleniem kwestii leków biologicznych w Szwajcarii – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland",
       "date": "2026-09-02T18:15:42Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Novartis może zwolnić około 130 stanowisk pracy w Szwajcarii, jeśli ponownie przemyśle swój rozwój techniczny produktów biologicznych i zasięg produkcyjny w Bazylei. | Firma Novartis może zwolnić około 130 stanowisk pracy w Szwajcarii, jeśli ponownie rozważy swój rozwój techniczny produktów biologicznych i zasięg produkcji w Bazylei."
     },
     {
       "title": "Społeczne dotacje zdrowotne na razie oszczędzone po tym, jak sędzia odkrył, że HHS korzystało z fałszywych źródeł – Drugs.com",
@@ -2257,10 +2265,10 @@
       "date": "2026-09-02T16:57:49Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Firma ma teraz nadzieję na pozytywną odpowiedź w sprawie swojego wniosku po niezwykle burzliwym roku współpracy z amerykańskimi organami regulacyjnymi."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Autoimmunologiczny CAR-T stoi przed trudnymi pytaniami po wstrzymaniu badania Novartis w Bristol Myers - BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
       "date": "2026-09-02T16:32:37Z",
       "source": "BioPharma Dive",
@@ -2292,20 +2300,12 @@
       "summary": "Język chorwacki jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Cellares ogranicza działalność w New Jersey po utracie kontraktu na terapię komórkową BMS – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/cellares-restructuring-rolls-new-jersey-amid-cell-therapy-client-loss",
       "date": "2026-09-02T15:09:03Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Brytyjski organ regulacyjny wstrzymuje sprzedaż Tavneos; UniQure stara się o zgodę na terapię genową Huntingtona – Endpoints News",
-      "url": "https://endpoints.news/uk-regulator-halts-sales-of-tavneos-uniqure-seeks-approval-for-huntingtons-gene-therapy/",
-      "date": "2026-09-02T15:07:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "Brytyjski organ regulacyjny wstrzymuje sprzedaż Tavneos; uniQure zabiega o zgodę na terapię genową Huntingtona. Plus nowości Regeneron, Novocure, Jazz, Ascendis, AstraZeneca i TScan."
+      "summary": "Po uderzeniu w bazę klientów zintegrowanego dewelopera kontraktowego i producenta, Cellares kontynuuje działania w ramach operacji o odpowiednim rozmiarze, którą jej dyrektor generalny i współzałożyciel zaprezentowali pod koniec zeszłego miesiąca | Po utracie klienta Bristol Myers Squibb, Cellares kontynuuje działania dzięki odpowiedniemu doborowi dyrektora generalnego, który przedstawił pod koniec zeszłego miesiąca."
     }
   ],
   "critical_alerts": [
@@ -2318,7 +2318,7 @@
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Dialog społecznościowy budujący zaufanie do reakcji na wirusa Ebola w Demokratycznej Republice Konga – WHO | Biuro Regionalne dla Afryki",
       "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/community-dialogues-build-trust-ebola-response-democratic-republic-congo",
       "date": "2026-09-03T07:56:06Z",
       "source": "WHO",
@@ -2392,7 +2392,7 @@
       "summary": "Drugie osobiste spotkanie Panelu Ekspertów Wysokiego Szczebla ds. Jednego Zdrowia (OHHLEP) w kadencji II odbędzie się po Światowym Kongresie Jednego Zdrowia (WOHC) w Lizbonie w Portugalii. Spotkanie będzie okazją do przeglądu postępów w zakresie rezultatów projektu OHHLEP i omówienia wyników WOHC."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Dialog społecznościowy budujący zaufanie do reakcji na wirusa Ebola w Demokratycznej Republice Konga – WHO | Biuro Regionalne dla Afryki",
       "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/community-dialogues-build-trust-ebola-response-democratic-republic-congo",
       "date": "2026-09-03T07:56:06Z",
       "source": "WHO",
