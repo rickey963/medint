@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T15:13:52Z",
+  "last_updated": "2026-09-03T15:14:45Z",
   "poland": [
     {
       "title": "Zmarł ceniony i lubiany chirurg urazowy. \"Dotknął guzka i postawił diagnozę\" - Medonet",
@@ -130,10 +130,10 @@
       "summary": "AOTMiT rekomenduje wdrożenie pomiaru wskaźnika kostka-ramię (WKR/ABI) jako odrębnego świadczenia w opiece specjalistycznej. Nowa procedura ułatwi wczesną diagnostykę miażdżycy tętnic kończyn dolnych i poprawi dostęp do leczenia pacjentów z grup wysokiego ryzyka."
     },
     {
-      "title": "Ogłoszenia o pracę - nfz.gov.pl",
+      "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/olsztyn2618,3005.html",
       "date": "2026-09-03T12:08:00Z",
-      "source": "Ministerstwo Zdrowia RP",
+      "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
       "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
     },
@@ -354,7 +354,7 @@
       "summary": "NFZ miał 2,3 mld zł straty w 2025 roku. Komisja Zdrowia zaopiniowała sprawozdanie Funduszu politykazdrowotna.com."
     },
     {
-      "title": "Informacja o wdrożeniu komunikatu XML UMX 4.2 - nfz.gov.pl",
+      "title": "Informacja o wdrożeniu komunikatu XML UMX 4.2 - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/informacja-o-wdrozeniu-komunikatu-xml-umx-4-2,9007.html",
       "date": "2026-09-03T09:28:38Z",
       "source": "Narodowy Fundusz Zdrowia",
@@ -697,7 +697,7 @@
       "date": "2026-09-03T08:34:24Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "„Te sukcesy są zaskakujące, warte dyskusji, a nawet trochę świętowania” – pisze o FDA i komórkach macierzystych Paul Knoepfler, felietonista STAT Lab Dish."
+      "summary": "„Te sukcesy są zaskakujące, warte dyskusji, a nawet trochę świętowania” – pisze o FDA i komórkach macierzystych felietonista STAT Lab Dish, Paul Knoepfler."
     },
     {
       "title": "Pilot FDA oferuje generatywnym wyrobom medycznym AI ścieżkę do pacjentów przed ich autoryzacją – STAT",
@@ -1212,7 +1212,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-03T14:22:50Z",
       "source": "ECDC",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
@@ -1296,7 +1296,7 @@
       "summary": "Jesień przynosi wiele nowych zmian, w tym nowy rok szkolny i falę chorób układu oddechowego. Przy niewielkich wskazówkach ze strony rządu federalnego wiele osób nie jest zdezorientowanych, czy potrzebuje szczepionki na grypę, Covid-19 czy wirus syncytialny układu oddechowego (RSV)."
     },
     {
-      "title": "Przegląd dowodów dotyczących sezonu oddechowego 2026–27 – projekt dotyczący integralności szczepionek",
+      "title": "Przegląd dowodów dotyczących sezonu oddechowego 2026–2027 – projekt dotyczący integralności szczepionek",
       "url": "https://vaxintegrity.cidrap.umn.edu/2026-27-respiratory-season-evidence-review",
       "date": "2026-09-02T14:41:59Z",
       "source": "CIDRAP",
@@ -1574,6 +1574,38 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Repozytorium danych GHO jest bramą WHO do statystyk dotyczących zdrowia dla 194 państw członkowskich. Zapewnia dostęp do ponad 1000 wskaźników tematów zdrowotnych."
+    },
+    {
+      "title": "Szybkie ujęcia: zatrucie jadem kiełbasianym u niemowląt, zapobieganie robakom ślimakowym z Nowego Świata, „malaria lotniskowa” w Niemczech, nowe przypadki polio w Afryce – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/botulism/quick-takes-infant-botulism-new-world-screwworm-preventative-airport-malaria-germany-new",
+      "date": "2026-08-28T21:09:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "CDC twierdzi, że epidemia zatrucia jadem kiełbasianym u niemowląt związana ze sproszkowanymi mieszankami dobiegła końca."
+    },
+    {
+      "title": "Liczba przypadków odry w Pensylwanii nadal rośnie, podczas gdy inne stany zgłaszają nowe przypadki – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/measles/measles-cases-continue-climb-pennsylvania-outbreak-other-states-report-new-cases",
+      "date": "2026-08-28T20:47:43Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Jak wynika z dzisiejszej aktualizacji stanowego panelu odry, w Pensylwanii w dalszym ciągu rośnie liczba zachorowań na odrę – w tym tygodniu odnotowano 86 nowych przypadków, co daje łączną liczbę przypadków do 460 i 83 hospitalizacje. Żaden z przypadków nie wystąpił u osób w pełni zaszczepionych."
+    },
+    {
+      "title": "FDA zatwierdza nową szczepionkę na Covid – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/covid-19/fda-approves-new-covid-vaccines",
+      "date": "2026-08-28T19:19:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "FDA zatwierdziła zaktualizowane szczepionki przeciwko Covid-19 dla dorosłych w wieku powyżej 65 lat i młodszych osób cierpiących na choroby przewlekłe."
+    },
+    {
+      "title": "Ponad dwie trzecie nowych leków zatwierdzonych przez FDA w 2024 r. opierało się na jednym badaniu – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/public-health/more-two-thirds-new-drugs-approved-fda-2024-were-based-single-study",
+      "date": "2026-08-28T12:55:07Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Jak wynika z nowej analizy, która wykazała, że ​​od 2016 r. liczba badań, na podstawie których zatwierdzono lek, stale spada, na ponad dwie trzecie nowych leków zatwierdzonych przez amerykańską Agencję ds. Żywności i Leków (FDA) w 2024 r. nałożono sankcje na podstawie wyników jednego badania."
     }
   ],
   "clinical_trials": [
@@ -1591,7 +1623,7 @@
       "date": "2026-09-03T14:43:27Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "AbbVie może przejąć udziały BitTE firmy Tecvayli w fazie III MM w Clinical Trials Arena."
+      "summary": "AbbVie może przejąć udziały BitTE w rynku Tecvayli w fazie III MM, wygrywając Clinical Trials Arena."
     },
     {
       "title": "Czy dynamika badań CNS może przełożyć się na dowody na późnym etapie? - Arena Badań Klinicznych",
@@ -1735,7 +1767,7 @@
       "date": "2026-09-02T10:48:04Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Lek na tocznia firmy Alumis trafia do fazy III pomimo opuszczenia Areny Badań Klinicznych w połowie etapu."
+      "summary": "Lek na toczeń firmy Alumis trafia do fazy III pomimo opuszczenia w połowie etapu Clinical Trials Arena."
     },
     {
       "title": "EMA rozpoczyna pilotażowy program udostępniania danych NAM w związku z rozbieżnościami w testach na zwierzętach – Clinical Trials Arena",
@@ -1815,7 +1847,7 @@
       "date": "2026-09-01T16:20:39Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Dlaczego gotowość do CMC staje się kluczowa dla umów licencyjnych dotyczących biofarmaceutyków? Clinical Trials Arena."
+      "summary": "Dlaczego gotowość CMC staje się kluczowa dla umów licencyjnych dotyczących biofarmaceutyków Clinical Trials Arena."
     },
     {
       "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
@@ -1921,7 +1953,7 @@
       "date": "2026-09-03T14:50:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "AbbVie twierdzi, że etentamig zmniejszył ryzyko progresji szpiczaka o 60% w badaniu III fazy, ustanawiając skoncentrowaną na bezpieczeństwie argumentację przeciwko Tecvayli, Elrexfio i Lynozyfic."
+      "summary": "AbbVie twierdzi, że etentamig zmniejszył ryzyko progresji szpiczaka o 60% w badaniu fazy 3, ustanawiając skoncentrowaną na bezpieczeństwie argumentację przeciwko Tecvayli, Elrexfio i Lynozyfic."
     },
     {
       "title": "Terapia światłem poprawia sen wśród seniorów – wynika z badania – Drugs.com",
@@ -1932,7 +1964,7 @@
       "summary": "CZWARTEK, 3 września 2026 r. Jak wynika z nowego badania, terapia jasnym światłem może pomóc seniorom lepiej spać. Lampy do terapii światłem poprawiają cykle snu i poziom aktywności."
     },
     {
-      "title": "Nuvectis Pharma weźmie udział w nadchodzących konferencjach inwestorskich we wrześniu 2026 r. - biospace.com",
+      "title": "Nuvectis Pharma weźmie udział w nadchodzących konferencjach inwestorskich we wrześniu 2026 r. - BioSpace",
       "url": "https://www.biospace.com/press-releases/nuvectis-pharma-to-participate-in-upcoming-september-2026-investor-conferences",
       "date": "2026-09-03T13:51:43Z",
       "source": "BioSpace",
@@ -1964,7 +1996,7 @@
       "summary": "Aktualizacja FDA dotycząca dostępności plastrów transdermalnych z estradiolem fda.gov."
     },
     {
-      "title": "Organizacja Therapeutics do udziału w nadchodzących konferencjach dla inwestorów z branży opieki zdrowotnej – biospace.com",
+      "title": "Organizacja Therapeutics do udziału w nadchodzących konferencjach dla inwestorów z branży opieki zdrowotnej — BioSpace",
       "url": "https://www.biospace.com/press-releases/structure-therapeutics-to-participate-in-upcoming-healthcare-investor-conferences",
       "date": "2026-09-03T12:30:00Z",
       "source": "BioSpace",
@@ -1996,7 +2028,7 @@
       "summary": "LAUSANNA, Szwajcaria, 3 września 2026 r. /PRNewswire/ -- Firma ADC Therapeutics SA (NYSE: ADCT) ogłosiła dzisiaj, że Ameet Mallik, dyrektor generalna, weźmie udział w rozmowie przy kominku podczas Globalnej Konferencji Cantor Healthcare 2026 w Nowym Jorku, Nowy Jork, która odbędzie się w piątek 11 września 2026 r. o godzinie 9:10 czasu wschodniego."
     },
     {
-      "title": "Avalo Therapeutics weźmie udział w nadchodzących konferencjach inwestorskich we wrześniu 2026 r. - biospace.com",
+      "title": "Avalo Therapeutics weźmie udział w nadchodzących konferencjach inwestorskich we wrześniu 2026 r. - BioSpace",
       "url": "https://www.biospace.com/press-releases/avalo-therapeutics-to-participate-in-upcoming-september-2026-investor-conferences",
       "date": "2026-09-03T12:03:04Z",
       "source": "BioSpace",
@@ -2076,7 +2108,7 @@
       "summary": "Transmisja internetowa prezentacji na żywo będzie dostępna w zakładce „Wydarzenia i prezentacje” w sekcji dla inwestorów na stronie internetowej Xencor pod adresem www.xencor.com. Powtórka wydarzenia będzie dostępna przez co najmniej 30 dni od prezentacji."
     },
     {
-      "title": "Novavax weźmie udział we wrześniu 2026 r. w konferencjach inwestorskich - biospace.com",
+      "title": "Novavax weźmie udział we wrześniu 2026 r. w konferencjach inwestorskich - BioSpace",
       "url": "https://www.biospace.com/press-releases/novavax-to-participate-in-september-2026-investor-conferences",
       "date": "2026-09-03T01:44:13Z",
       "source": "BioSpace",
@@ -2108,12 +2140,12 @@
       "summary": "Wyłączenie leków sierocych zawarte w umowie BridgeBio o klauzuli największego uprzywilejowania z administracją Trumpa sugeruje, że inne firmy również mogą mieć unikalne postanowienia."
     },
     {
-      "title": "FDA podnosi poprzeczkę dla inspekcji w placówkach zagranicznych w związku ze wzrostem liczby prób w Chinach – biospace.com",
+      "title": "FDA podnosi poprzeczkę dla inspekcji w placówkach zagranicznych w związku ze wzrostem liczby prób w Chinach – BioSpace",
       "url": "https://www.biospace.com/fda/fda-raises-bar-for-foreign-site-inspections-as-china-trials-surge",
       "date": "2026-09-02T20:00:52Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Dostęp do inspekcji nie jest „przypisem administracyjnym” – napisali w środę w artykule wstępnym liderzy kluczowych działów FDA, obiecując rozszerzenie nadzoru nad zagranicznymi ośrodkami badań klinicznych."
+      "summary": "Dostęp do inspekcji nie jest „przypisem administracyjnym” – napisali w środę w artykule redakcyjnym liderzy kluczowych działów FDA, obiecując rozszerzenie nadzoru nad zagranicznymi ośrodkami badań klinicznych."
     },
     {
       "title": "Spotkanie publiczne w sprawie zaleceń dotyczących ustawy o ponownej autoryzacji leków na receptę (PDUFA) – fda.gov",
@@ -2132,12 +2164,12 @@
       "summary": "Liderzy FDA bronią rygorystycznego przeglądu danych z badań zagranicznych i podwajają liczbę inspektorów w Chinach, gdy prawodawcy nalegają, aby przeciwdziałać przewadze badań klinicznych w Pekinie."
     },
     {
-      "title": "Dyne Therapeutics weźmie udział w nadchodzących konferencjach inwestorskich we wrześniu 2026 r. - biospace.com",
+      "title": "Dyne Therapeutics weźmie udział w nadchodzących konferencjach inwestorskich we wrześniu 2026 r. - BioSpace",
       "url": "https://www.biospace.com/press-releases/dyne-therapeutics-to-participate-in-upcoming-september-2026-investor-conferences",
       "date": "2026-09-02T19:12:35Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "WALTHAM, Massachusetts, 2 września 2026 r. (GLOBE NEWSWIRE) — Dyne Therapeutics, Inc . (Nasdaq: DYN), firma na etapie klinicznym, skupiająca się na zapewnianiu poprawy funkcjonalnej osobom cierpiącym na choroby nerwowo-mięśniowe o podłożu genetycznym, ogłosiła dzisiaj, że zarząd będzie brał udział w następujących nadchodzących konferencjach inwestorskich:"
+      "summary": "WALTHAM, Massachusetts, 2 września 2026 r. (GLOBE NEWSWIRE) — Dyne Therapeutics, Inc . (Nasdaq: DYN), firma na etapie klinicznym, skupiająca się na zapewnianiu poprawy funkcjonalnej osobom cierpiącym na genetycznie uwarunkowane choroby nerwowo-mięśniowe, ogłosiła dzisiaj, że zarząd będzie brał udział w następujących nadchodzących konferencjach inwestorskich:"
     },
     {
       "title": "ARPA-H przeznacza 125 mln dolarów na finansowanie spersonalizowanej produkcji leków na bazie RNA – Fierce Pharma",
@@ -2297,7 +2329,7 @@
       "date": "2026-09-02T15:02:42Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Lista scentralizowanych zatwierdzeń nowych substancji czynnych w Pink Sheet przez UE została zaktualizowana o dwa nowe produkty, z których jednym jest Daybu (trofinetyd) stosowany w leczeniu zespołu Retta firmy Acadia Pharmaceuticals."
+      "summary": "Lista scentralizowanych zatwierdzeń nowych substancji czynnych w Pink Sheet w UE została zaktualizowana o dwa nowe produkty, z których jeden to Daybu (trofinetyd) stosowany w leczeniu zespołu Retta firmy Acadia Pharmaceuticals."
     }
   ],
   "critical_alerts": [
@@ -2306,7 +2338,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-03T14:22:50Z",
       "source": "ECDC",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
@@ -2372,7 +2404,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-03T14:22:50Z",
       "source": "ECDC",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "W dniu 17 maja 2026 r. Światowa Organizacja Zdrowia (WHO) uznała epidemię wirusa Ebola wywołaną wirusem Bundibugyo w Demokratycznej Republice Konga (DRK) i Ugandzie za stan nadzwyczajny w zakresie zdrowia publicznego o zasięgu międzynarodowym."
     },
     {
