@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-03T15:33:21Z",
+  "last_updated": "2026-09-03T15:34:08Z",
   "poland": [
+    {
+      "title": "Jeśli operacja zaćmy za granicą, to już nie tylko Czechy. Zagraniczne wojaże Polaków po zdrowie - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/finanse/jesli-operacja-zacmy-za-granica-to-juz-nie-tylko-czechy-zagraniczne-wojaze-polakow-po-zdrowie/",
+      "date": "2026-09-03T15:23:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Ponad 14 tys. wniosków o zwrot kosztów za leczenie ambulatoryjne na podstawie unijnej dyrektywy transgranicznej złożyli w Narodowym Funduszu Zdrowia za 2025 r. Polacy."
+    },
     {
       "title": "Stres we wczesnym okresie życia może „programować” mózg na większą wrażliwość w dorosłości - Alert Medyczny",
       "url": "https://alertmedyczny.pl/stres-we-wczesnym-okresie-zycia-moze-programowac-mozg-na-wieksza-wrazliwosc-w-doroslosci/",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Uciążliwa i długotrwała opieka nad bliskimi przyspiesza spadek funkcji poznawczych u osób po 50. roku życia."
-    },
-    {
-      "title": "System eZWM - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://ezwm.nfz.gov.pl/",
-      "date": "2026-09-03T08:48:56Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
-      "summary": "System eZWM Narodowy Fundusz Zdrowia (NFZ)."
     }
   ],
   "world": [
@@ -636,7 +636,7 @@
       "summary": "Jak zaangażować się w BMJ Student The BMJ."
     },
     {
-      "title": "Bliskość indukowana dojrzewa – Natura",
+      "title": "Bliskość indukowana dojrzewa – nature.com",
       "url": "https://www.nature.com/articles/d41591-026-00045-z",
       "date": "2026-09-03T10:16:52Z",
       "source": "Nature Medicine",
@@ -644,7 +644,7 @@
       "summary": "Pierwszy zatwierdzony projekt PROTAC dotyczący raka piersi potwierdził tezę, że leki mogą działać poprzez łączenie białek, a nie po prostu ich blokowanie. Obecnie nowa generacja terapii opartych na bliskości poszerza tę zasadę."
     },
     {
-      "title": "Odpowiedź na: Ograniczone testy porównawcze ograniczają wnioski z porównania sztucznej inteligencji ogólnego przeznaczenia z kliniczną sztuczną inteligencją – Natura",
+      "title": "Odpowiedź na: Ograniczone testy porównawcze ograniczają wnioski z porównania sztucznej inteligencji ogólnego przeznaczenia z kliniczną sztuczną inteligencją – nature.com",
       "url": "https://www.nature.com/articles/s41591-026-04637-7",
       "date": "2026-09-03T10:16:52Z",
       "source": "Nature Medicine",
@@ -652,7 +652,7 @@
       "summary": "Dziękujemy za odwiedzenie strony natura.com. Używasz wersji przeglądarki z ograniczoną obsługą CSS. Aby uzyskać najlepszą jakość, zalecamy użycie nowszej przeglądarki (lub wyłączenie trybu zgodności w przeglądarce Internet Explorer)."
     },
     {
-      "title": "Ograniczone testy porównawcze ograniczają wnioski z porównania sztucznej inteligencji ogólnego przeznaczenia z kliniczną sztuczną inteligencją – Natura",
+      "title": "Ograniczone testy porównawcze ograniczają wnioski z porównania sztucznej inteligencji ogólnego przeznaczenia z kliniczną sztuczną inteligencją – nature.com",
       "url": "https://www.nature.com/articles/s41591-026-04638-6",
       "date": "2026-09-03T10:16:52Z",
       "source": "Nature Medicine",
@@ -1574,38 +1574,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Repozytorium danych GHO jest bramą WHO do statystyk dotyczących zdrowia dla 194 państw członkowskich. Zapewnia dostęp do ponad 1000 wskaźników tematów zdrowotnych."
-    },
-    {
-      "title": "Szybkie ujęcia: zatrucie jadem kiełbasianym u niemowląt, zapobieganie robakom ślimakowym z Nowego Świata, „malaria lotniskowa” w Niemczech, nowe przypadki polio w Afryce – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/botulism/quick-takes-infant-botulism-new-world-screwworm-preventative-airport-malaria-germany-new",
-      "date": "2026-08-28T21:09:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "CDC twierdzi, że epidemia zatrucia jadem kiełbasianym u niemowląt związana ze sproszkowanymi mieszankami dobiegła końca."
-    },
-    {
-      "title": "Liczba przypadków odry w Pensylwanii nadal rośnie, podczas gdy inne stany zgłaszają nowe przypadki – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/measles/measles-cases-continue-climb-pennsylvania-outbreak-other-states-report-new-cases",
-      "date": "2026-08-28T20:47:43Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Jak wynika z dzisiejszej aktualizacji stanowego panelu odry, w Pensylwanii w dalszym ciągu rośnie liczba zachorowań na odrę – w tym tygodniu odnotowano 86 nowych przypadków, co daje łączną liczbę przypadków do 460 i 83 hospitalizacje. Żaden z przypadków nie wystąpił u osób w pełni zaszczepionych."
-    },
-    {
-      "title": "FDA zatwierdza nową szczepionkę na Covid – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/covid-19/fda-approves-new-covid-vaccines",
-      "date": "2026-08-28T19:19:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "FDA zatwierdziła zaktualizowane szczepionki przeciwko Covid-19 dla dorosłych w wieku powyżej 65 lat i młodszych osób cierpiących na choroby przewlekłe."
-    },
-    {
-      "title": "Ponad dwie trzecie nowych leków zatwierdzonych przez FDA w 2024 r. opierało się na jednym badaniu – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/public-health/more-two-thirds-new-drugs-approved-fda-2024-were-based-single-study",
-      "date": "2026-08-28T12:55:07Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Jak wynika z nowej analizy, która wykazała, że ​​od 2016 r. liczba badań, na podstawie których zatwierdzono lek, stale spada, na ponad dwie trzecie nowych leków zatwierdzonych przez amerykańską Agencję ds. Żywności i Leków (FDA) w 2024 r. nałożono sankcje na podstawie wyników jednego badania."
     }
   ],
   "clinical_trials": [
