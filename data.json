@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T14:30:49Z",
+  "last_updated": "2026-09-03T14:32:36Z",
   "poland": [
     {
       "title": "Skaner leków w mojeIKP: jak sprawdzić ulotkę leku w telefonie? - PolitykaZdrowotna.com",
@@ -102,7 +102,7 @@
       "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/olsztyn2618,3005.html",
       "date": "2026-09-03T12:08:00Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
     },
     {
@@ -303,7 +303,7 @@
       "date": "2026-09-03T09:28:38Z",
       "source": "Narodowy Fundusz Zdrowia",
       "confirmed_by": 1,
-      "summary": "Od dnia 1 stycznia 2027 roku zmienia się postać komunikatu XML dotyczącego umów w postaci elektronicznej (UMX)."
+      "summary": "Informujemy, że od dnia 1 stycznia 2027 roku zmienia się postać komunikatu XML dotyczącego umów w postaci elektronicznej (UMX). Nowy format będzie generowany w wersji UMX 4.2. Szczegółowy wykaz zmian..."
     },
     {
       "title": "Dyktat podwyżek ► - Termedia",
@@ -1440,14 +1440,6 @@
       "summary": "Epidemia choroby wirusowej Bundibugyo, Uganda,"
     },
     {
-      "title": "W jaki sposób gromadzone są dane dotyczące cyklosporozy — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/cyclosporiasis/about-data/surveillance/index.html",
-      "date": "2026-09-01T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "W jaki sposób gromadzone są dane dla ośrodków kontroli i zapobiegania cyklosporozy | CDC (.gov)."
-    },
-    {
       "title": "Tabela 2 – Przegląd wczesnego działania w zakresie wykrywania, powiadamiania i reagowania w czasie transgranicznej epidemii choroby wirusowej Bundibugyo, Uganda, 2026 r. – tom 32, numer 10 – październik 2026 r. – Czasopismo Emerging Infectious Diseases – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-1411-t2",
       "date": "2026-09-01T07:00:00Z",
@@ -1472,20 +1464,28 @@
       "summary": "Wąskie gardła i działania według filarów wynikające z wczesnego przeglądu działań w zakresie wykrywania, powiadamiania i terminowości reakcji podczas transgranicznej epidemii choroby wirusowej Bundibugyo, Uganda, 2026*."
     },
     {
-      "title": "Światowy miesiąc zdrowia seksualnego i reprodukcyjnego 2026 – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/01/default-calendar/world-sexual-and-reproductive-health-month-2026",
-      "date": "2026-09-01T07:00:00Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Dołącz do nas we wrześniu. Światowy Miesiąc Zdrowia Seksualnego i Reprodukcyjnego jest okazją do głębszego przyjrzenia się obszarowi zdrowia, który dotyczy każdego."
-    },
-    {
       "title": "Dane z bieżącego roku (2026) | Wirus Powassan — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/powassan/data-maps/current-year-data.html",
       "date": "2026-09-01T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Dane z bieżącego roku (2026) | Centra Wirusów Powassan ds. Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
+      "title": "W jaki sposób gromadzone są dane dotyczące cyklosporozy — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/cyclosporiasis/about-data/surveillance/index.html",
+      "date": "2026-09-01T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "W jaki sposób gromadzone są dane dla ośrodków kontroli i zapobiegania cyklosporozy | CDC (.gov)."
+    },
+    {
+      "title": "Światowy miesiąc zdrowia seksualnego i reprodukcyjnego 2026 – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/01/default-calendar/world-sexual-and-reproductive-health-month-2026",
+      "date": "2026-09-01T07:00:00Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Dołącz do nas we wrześniu. Światowy Miesiąc Zdrowia Seksualnego i Reprodukcyjnego jest okazją do głębszego przyjrzenia się obszarowi zdrowia, który dotyczy każdego."
     },
     {
       "title": "Webinar WHO: Światowy Dzień Higieny Rąk – Akcja Ratuje Życie – ecdc.europa.eu",
@@ -2025,7 +2025,7 @@
       "date": "2026-09-02T23:56:56Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Z badania opublikowanego w Internecie 17 sierpnia wynika, że ​​jedzenie ograniczone w czasie (TRE) może pomóc dorosłym chorym na cukrzycę typu 1 (T1D) i nadwagę kontrolować poziom cukru we krwi."
+      "summary": "Według badania opublikowanego w Internecie 17 sierpnia jedzenie ograniczone w czasie (TRE) może pomóc dorosłym chorym na cukrzycę typu 1 (T1D) i nadwagę kontrolować poziom cukru we krwi."
     },
     {
       "title": "Pakt MFN BridgeBio wyłącza produkty sieroce, podkreślając oferty Bespoke Nature - insights.citeline.com",
@@ -2121,7 +2121,7 @@
       "date": "2026-09-02T17:16:25Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "W przypadku kobiet cierpiących na chorobę autoimmunologiczną, które otrzymały terapię komórkami T z autologicznym chimerycznym receptorem antygenu CD19 (CAR), ciąża wydaje się przebiegać bez komplikacji."
+      "summary": "W przypadku kobiet z chorobą autoimmunologiczną, które otrzymały terapię limfocytami T z autologicznym chimerycznym receptorem antygenu CD19 (CAR), ciąża wydaje się przebiegać bez komplikacji."
     },
     {
       "title": "Nowe wytyczne mówią, że osoby po udarze powinny rozpocząć rehabilitację w ciągu 48 godzin – Drugs.com",
