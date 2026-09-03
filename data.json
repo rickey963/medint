@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-09-03T13:37:17Z",
+  "last_updated": "2026-09-03T13:40:34Z",
   "poland": [
-    {
-      "title": "Popularny składnik plastiku na cenzurowanym. \"Limity powinny być niższe\" - Medonet",
-      "url": "https://www.medonet.pl/zdrowie/zdrowie-dla-kazdego/plastikowe-pojemniki-i-ryzyko-cukrzycy-naukowcy-apeluja-o-zmiane-norm/kr32eb3",
-      "date": "2026-09-03T13:30:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Bisfenol A (BPA), powszechnie stosowany składnik tworzyw sztucznych, od dawna budzi obawy naukowców. Teraz nowe badanie przynosi dowody, że BPA może zwiększać ryzyko cukrzycy, nawet na poziomach uważanych dotychczas za bezpieczne. Gdzie znajduje się szkodliwa substancja?"
-    },
     {
       "title": "Czy fizyk medyczny potrzebuje ustawy? Ministerstwo Zdrowia mówi, że przepisy już są - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/czy-fizyk-medyczny-potrzebuje-n2478480",
@@ -16,6 +8,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Czy fizyk medyczny potrzebuje ustawy? Ministerstwo Zdrowia mówi, że przepisy już są PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Popularny składnik plastiku na cenzurowanym. \"Limity powinny być niższe\" - Medonet",
+      "url": "https://www.medonet.pl/zdrowie/zdrowie-dla-kazdego/plastikowe-pojemniki-i-ryzyko-cukrzycy-naukowcy-apeluja-o-zmiane-norm/kr32eb3",
+      "date": "2026-09-03T13:30:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Bisfenol A (BPA), powszechnie stosowany składnik tworzyw sztucznych, od dawna budzi obawy naukowców. Teraz nowe badanie przynosi dowody, że BPA może zwiększać ryzyko cukrzycy, nawet na poziomach uważanych dotychczas za bezpieczne. Gdzie znajduje się szkodliwa substancja?"
     },
     {
       "title": "Więcej orzeczeń o rehabilitacji leczniczej. Pomogło rozszerzenie uprawnień fizjoterapeutom - Termedia",
@@ -77,8 +77,8 @@
       "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/olsztyn2618,3005.html",
       "date": "2026-09-03T12:08:00Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 5,
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
       "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
     },
     {
@@ -138,7 +138,7 @@
       "summary": "Miażdżyca przez lata może rozwijać się bezobjawowo, by w pewnym momencie doprowadzić do zawału serca lub udaru mózgu. Stąd ważna jest prewencja pierwotna, a także dyscyplina w leczeniu - wyjaśnia prof. Agnieszka Tycińska, prezes elekt Polskiego Towarzystwa Kardiologicznego."
     },
     {
-      "title": "Emeryci mają 20 dni. Inaczej pieniądze wrócą do ZUS - rynekzdrowia.pl",
+      "title": "Emeryci mają 20 dni. Inaczej pieniądze wrócą do ZUS - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Emeryci-maja-20-dni-Inaczej-pieniadze-wroca-do-ZUS,288513,1.html",
       "date": "2026-09-03T11:01:00Z",
       "source": "Rynek Zdrowia",
@@ -218,7 +218,7 @@
       "summary": "Otyłość u seniorów nie jest naturalnym skutkiem starzenia. Zwiększa ryzyko chorób, utraty sprawności i wymaga indywidualnie dobranego leczenia."
     },
     {
-      "title": "Wystarczyła jedna zmiana. Ponad 5 tys. zgonów rocznie mniej - rynekzdrowia.pl",
+      "title": "Wystarczyła jedna zmiana. Ponad 5 tys. zgonów rocznie mniej - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Nauka/Wystarczyla-jedna-zmiana-Ponad-5-tys-zgonow-rocznie-mniej,288515,9.html",
       "date": "2026-09-03T09:57:00Z",
       "source": "Rynek Zdrowia",
@@ -322,7 +322,7 @@
       "summary": "Nowe mojePZU z sekcją Zdrowie. PZU Zdrowie upraszcza umawianie wizyt i dostęp do telemedycyny PolitykaZdrowotna.com."
     },
     {
-      "title": "Zmierz talię. Niedoceniane narzędzie pozwala w porę wykryć zagrożenie - rynekzdrowia.pl",
+      "title": "Zmierz talię. Niedoceniane narzędzie pozwala w porę wykryć zagrożenie - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Nauka/Zmierz-talie-Niedoceniane-narzedzie-pozwala-w-pore-wykryc-zagrozenie,288509,9.html",
       "date": "2026-09-03T08:24:00Z",
       "source": "Rynek Zdrowia",
@@ -412,20 +412,20 @@
       "summary": "Spadek liczby zgonów spowodowanych przedawkowaniem narkotyków, droga do pacjentów dla urządzeń AI i więcej wiadomości zdrowotnych z porannych rund."
     },
     {
-      "title": "OpenEvidence wprowadza na rynek nową rodzinę modeli AI - STAT",
-      "url": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/",
-      "date": "2026-09-03T13:19:24Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Mario zajmuje się technologią w opiece zdrowotnej, w tym regulacjami FDA dotyczącymi sztucznej inteligencji; w jaki sposób Medicare płaci za technologie medyczne; wykorzystanie sztucznej inteligencji w opiece klinicznej; chatboty dotyczące zdrowia psychicznego; i konsumenckie urządzenia do noszenia. Jest także współautorem bezpłatnego, wydawanego dwa razy w tygodniu biuletynu STAT Health Tech. Możesz skontaktować się z Mario w Signal pod adresem mariojoze.13."
-    },
-    {
       "title": "Czytamy o niepowodzeniu Ultragenyxu, RevMed na raka płuc i nie tylko – STAT",
       "url": "https://www.statnews.com/pharmalot/2026/09/03/pharmalittle-ultrangenyx-gene-therapy-failure-rev-med-lung-cancer/",
-      "date": "2026-09-03T13:19:24Z",
+      "date": "2026-09-03T13:24:29Z",
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Najnowsze wiadomości farmaceutyczne z kampusu Pharmalot za pośrednictwem biuletynu Pharmalittle."
+    },
+    {
+      "title": "OpenEvidence wprowadza na rynek nową rodzinę modeli AI - STAT",
+      "url": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/",
+      "date": "2026-09-03T13:19:55Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Mario zajmuje się technologią w opiece zdrowotnej, w tym regulacjami FDA dotyczącymi sztucznej inteligencji; w jaki sposób Medicare płaci za technologie medyczne; wykorzystanie sztucznej inteligencji w opiece klinicznej; chatboty dotyczące zdrowia psychicznego; i konsumenckie urządzenia do noszenia. Jest także współautorem bezpłatnego, wydawanego dwa razy w tygodniu biuletynu STAT Health Tech. Możesz skontaktować się z Mario w Signal pod adresem mariojoze.13."
     },
     {
       "title": "Dziesięć krajów Afryki podpisało porozumienie o wzmocnieniu współpracy transgranicznej w sytuacjach zagrożenia zdrowia – WHO | Biuro Regionalne dla Afryki",
@@ -1216,7 +1216,7 @@
       "summary": "Drugie osobiste spotkanie Panelu Ekspertów Wysokiego Szczebla ds. Jednego Zdrowia (OHHLEP) w kadencji II odbędzie się po Światowym Kongresie Jednego Zdrowia (WOHC) w Lizbonie w Portugalii. Spotkanie będzie okazją do przeglądu postępów w zakresie rezultatów projektu OHHLEP i omówienia wyników WOHC."
     },
     {
-      "title": "Główny naukowiec / Kierownik Działu Dowodów Naukowych i Komunikacji – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Główny naukowiec/Kierownik Działu Dowodów Naukowych i Komunikacji – ecdc.europa.eu",
       "url": "https://www.ecdc.europa.eu/en/about-us/work-us/vacancies/chief-scientist-head-unit-scientific-evidence-and-communication",
       "date": "2026-09-03T11:44:24Z",
       "source": "ECDC",
@@ -1320,7 +1320,7 @@
       "summary": "Aby rozpocząć Światowy Miesiąc Zdrowia Seksualnego i Reprodukcyjnego 2026, Specjalny program WHO w zakresie badań, rozwoju i szkoleń badawczych w zakresie reprodukcji człowieka (HRP) zaprasza do sztandarowej dyskusji poświęconej jednemu głównemu pytaniu: co nauka mówi nam o roli zdrowia seksualnego i reprodukcyjnego dla ogólnego zdrowia i dobrostanu?"
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – ecdc.europa.eu",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-02T07:00:00Z",
       "source": "ECDC",
@@ -1488,7 +1488,7 @@
       "summary": "Dołącz do nas we wrześniu. Światowy Miesiąc Zdrowia Seksualnego i Reprodukcyjnego jest okazją do głębszego przyjrzenia się obszarowi zdrowia, który dotyczy każdego."
     },
     {
-      "title": "Webinar WHO: Światowy Dzień Higieny Rąk – Akcja Ratuje Życie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Webinar WHO: Światowy Dzień Higieny Rąk – Akcja Ratuje Życie – ecdc.europa.eu",
       "url": "https://www.ecdc.europa.eu/en/publications-data/who-webinar-world-hand-hygiene-day-action-saves-lives",
       "date": "2026-09-01T06:03:53Z",
       "source": "ECDC",
@@ -1582,30 +1582,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Szybkie ujęcia: zatrucie jadem kiełbasianym u niemowląt, zapobieganie robakom ślimakowym z Nowego Świata, „malaria lotniskowa” w Niemczech, nowe przypadki polio w Afryce – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/botulism/quick-takes-infant-botulism-new-world-screwworm-preventative-airport-malaria-germany-new",
-      "date": "2026-08-28T21:09:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "CDC twierdzi, że epidemia zatrucia jadem kiełbasianym u niemowląt związana ze sproszkowanymi mieszankami dobiegła końca."
-    },
-    {
-      "title": "Liczba przypadków odry w Pensylwanii nadal rośnie, podczas gdy inne stany zgłaszają nowe przypadki – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/measles/measles-cases-continue-climb-pennsylvania-outbreak-other-states-report-new-cases",
-      "date": "2026-08-28T20:47:43Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Jak wynika z dzisiejszej aktualizacji stanowego panelu odry, w Pensylwanii w dalszym ciągu rośnie liczba zachorowań na odrę – w tym tygodniu odnotowano 86 nowych przypadków, co daje łączną liczbę przypadków do 460 i 83 hospitalizacje. Żaden z przypadków nie wystąpił u osób w pełni zaszczepionych."
-    },
-    {
-      "title": "FDA zatwierdza nową szczepionkę na Covid – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/covid-19/fda-approves-new-covid-vaccines",
-      "date": "2026-08-28T19:19:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "FDA zatwierdziła zaktualizowane szczepionki przeciwko Covid-19 dla dorosłych w wieku powyżej 65 lat i młodszych osób cierpiących na choroby przewlekłe."
     }
   ],
   "clinical_trials": [
@@ -1671,7 +1647,7 @@
       "date": "2026-09-02T18:07:00Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Doktor Anamika Krishanpal Stosowane badania kliniczne online."
+      "summary": "Doktor Anamika Krishanpal w sprawie stosowanych badań klinicznych online."
     },
     {
       "title": "mAb Teva wykazuje korzyści w badaniu celiakii – Arena Badań Klinicznych",
@@ -1730,7 +1706,7 @@
       "summary": "Pierwszy pacjent otrzymuje BHB810 w fazie I badania Clinical Trials Arena firmy BigHat Biosciences."
     },
     {
-      "title": "Lek na tocznia firmy Alumis wkracza do fazy III pomimo pomyłki w połowie etapu – Arena Badań Klinicznych",
+      "title": "Lek na tocznia firmy Alumis trafia do fazy III pomimo pomyłki w połowie etapu – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/alumis-envudeucitinib-sle-lupus-phase-iib/",
       "date": "2026-09-02T10:48:04Z",
       "source": "Clinical Trials Arena",
@@ -1738,7 +1714,7 @@
       "summary": "Lek na toczeń firmy Alumis trafia do fazy III pomimo opuszczenia w połowie etapu Clinical Trials Arena."
     },
     {
-      "title": "EMA rozpoczyna pilotażowy program udostępniania danych NAM w związku z rozbieżnościami w testach na zwierzętach – Clinical Trials Arena",
+      "title": "EMA debiutuje w ramach programu pilotażowego udostępniania danych NAM w związku z rozbieżnościami w testach na zwierzętach – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/ema-debuts-nam-data-sharing-pilot-amid-animal-testing-divergence/",
       "date": "2026-09-02T10:48:04Z",
       "source": "Clinical Trials Arena",
@@ -1751,7 +1727,7 @@
       "date": "2026-09-02T10:24:19Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Streszczenie ACT: Kwantyfikacja wartości finansowej RBQM, luka w widoczności kosztów budżetu badania oraz stosowane badania kliniczne online dotyczące szczepionki przeciw grypie GSK mRNA, faza III."
+      "summary": "Krótki opis ACT: Kwantyfikacja wartości finansowej RBQM, luka w widoczności kosztów budżetu badania oraz stosowane badania kliniczne online dotyczące szczepionki przeciw grypie GSK mRNA, fazy III."
     },
     {
       "title": "Autyzm rośnie w zamożnych krajach, ale nikt nie jest w stanie powiedzieć, jak duży jest to rzeczywisty wzrost – Trialsitenews.com",
@@ -1980,7 +1956,7 @@
       "summary": "FDA zabiega o wkład społeczeństwa w rozwój botanicznych produktów leczniczych fda.gov."
     },
     {
-      "title": "Novavax weźmie udział we wrześniu 2026 r. w konferencjach inwestorskich - BioSpace",
+      "title": "Novavax weźmie udział we wrześniu 2026 r. w Konferencjach Inwestorskich - BioSpace",
       "url": "https://www.biospace.com/press-releases/novavax-to-participate-in-september-2026-investor-conferences",
       "date": "2026-09-03T01:44:13Z",
       "source": "BioSpace",
@@ -2009,7 +1985,7 @@
       "date": "2026-09-02T20:00:52Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Dostęp do inspekcji nie jest „przypisem administracyjnym” – napisali w środę w artykule redakcyjnym liderzy kluczowych działów FDA, obiecując rozszerzenie nadzoru nad zagranicznymi ośrodkami badań klinicznych."
+      "summary": "Dostęp do inspekcji nie jest „przypisem administracyjnym” – napisali w środę w artykule wstępnym liderzy kluczowych działów FDA, obiecując rozszerzenie nadzoru nad zagranicznymi ośrodkami badań klinicznych."
     },
     {
       "title": "Spotkanie publiczne w sprawie zaleceń dotyczących ustawy o ponownej autoryzacji leków na receptę (PDUFA) – fda.gov",
@@ -2033,7 +2009,7 @@
       "date": "2026-09-02T19:12:35Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "WALTHAM, Massachusetts, 2 września 2026 r. (GLOBE NEWSWIRE) — Dyne Therapeutics, Inc . (Nasdaq: DYN), firma na etapie klinicznym, skupiająca się na zapewnianiu poprawy funkcjonalnej osobom cierpiącym na genetycznie uwarunkowane choroby nerwowo-mięśniowe, ogłosiła dzisiaj, że zarząd będzie brał udział w następujących nadchodzących konferencjach inwestorskich:"
+      "summary": "WALTHAM, Massachusetts, 2 września 2026 r. (GLOBE NEWSWIRE) — Dyne Therapeutics, Inc . (Nasdaq: DYN), firma na etapie klinicznym, skupiająca się na zapewnianiu poprawy funkcjonalnej osobom cierpiącym na choroby nerwowo-mięśniowe o podłożu genetycznym, ogłosiła dzisiaj, że zarząd będzie brał udział w następujących nadchodzących konferencjach inwestorskich:"
     },
     {
       "title": "ARPA-H przeznacza 125 mln dolarów na finansowanie spersonalizowanej produkcji leków na bazie RNA – Fierce Pharma",
@@ -2120,7 +2096,7 @@
       "url": "https://www.biopharmadive.com/news/uniqure-submit-fda-approval-huntingtons-gene-therapy/829400/",
       "date": "2026-09-02T16:57:49Z",
       "source": "BioPharma Dive",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Firma ma teraz nadzieję na pozytywną odpowiedź w sprawie swojego wniosku po niezwykle burzliwym roku współpracy z amerykańskimi organami regulacyjnymi."
     },
     {
@@ -2326,7 +2302,7 @@
       "summary": "27 sierpnia uruchomiono globalną inicjatywę mającą na celu utworzenie zapasów szczepionek przeciwko mpoksowi, tworząc mechanizm długoterminowy."
     },
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga i Ugandzie – ecdc.europa.eu",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-02T07:00:00Z",
       "source": "ECDC",
