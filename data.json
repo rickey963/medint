@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T07:39:23Z",
+  "last_updated": "2026-09-04T07:40:11Z",
   "poland": [
     {
       "title": "Powikłania cukrzycy typu 2 różnią się zależnie od płci. Badanie 28,7 tys. pacjentów - PolitykaZdrowotna.com",
@@ -16,6 +16,14 @@
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Od jakiego badania powinnyśmy zaczynać historię badania piersi? Panuje przekonanie, że dla młodszych kobiet badanie USG, dla dojrzałych – mammografia. Ma to swoje uzasadnienie?"
+    },
+    {
+      "title": "Rak na własne życzenie - Termedia",
+      "url": "https://www.termedia.pl/mz/Rak-na-wlasne-zyczenie,68841.html",
+      "date": "2026-09-04T07:06:15Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Lekarze podstawowej opieki zdrowotnej mieliby osobiście zapraszać pacjentów na badania – to jeden z pomysłów sejmowej Komisji Zdrowia. Posłowie szukali sposobów na podniesienie frekwencji w programach onkologicznych, ponieważ z mammografii w Polsce korzysta zaledwie 34 proc. kobiet."
     },
     {
       "title": "Społeczny jetlag u nastolatka może nasilać lęki - Serwis Zdrowie",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Sejmowa Komisja Zdrowia przeprowadziła pierwsze czytanie i rozpatrzyła rządowy projekt ustawy o zmianie ustawy – Prawo wodne."
-    },
-    {
-      "title": "Skaner leków w mojeIKP: jak sprawdzić ulotkę leku w telefonie? - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/jak-czytac-ulotke-leku-n2476484",
-      "date": "2026-09-03T14:00:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Skaner leków w mojeIKP: jak sprawdzić ulotkę leku w telefonie? PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -418,6 +418,14 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Szereg schorzeń psychicznych będących następstwem urazu powiązano z podwyższonym ryzykiem chorób sercowo-naczyniowych, przy czym głównym czynnikiem predykcyjnym zarówno u mężczyzn, jak i kobiet stały się zaburzenia związane z używaniem alkoholu."
+    },
+    {
+      "title": "Tavapadon w elastycznej dawce w chorobie Parkinsona: randomizowane badanie – klinicysta NEJM",
+      "url": "https://clinician.nejm.org/flexible-dose-tavapadon-parkinson-s-disease-randomized-trial-clinjwna60423",
+      "date": "2026-09-04T06:30:18Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     },
     {
       "title": "Tavapadon w elastycznej dawce w chorobie Parkinsona: randomizowane badanie – klinicysta NEJM",
@@ -521,7 +529,7 @@
       "date": "2026-09-04T00:37:14Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Wyszukaj i aplikuj o pracę w Russell Medical Center w BMJ Health Careers."
+      "summary": "Centrum Medyczne Russella BMJ."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -585,7 +593,7 @@
       "date": "2026-09-03T20:01:06Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Praca dla lekarzy OGÓLNYCH w Toronto (region), Ontario (Kalifornia) w pilnej opiece pediatrycznej. Aplikuj już dziś."
+      "summary": "LEKARZE OGÓLNI - Toronto (Region), Ontario (Kalifornia) praca w pilnej opiece pediatrycznej | 842131 BMJ."
     },
     {
       "title": "Halucynogeny: przereklamowane i rozczarowujące – Medscape",
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Nowe wytyczne KDIGO dotyczące wielotorbielowatości nerek autosomalnie dominującej – lekarz NEJM",
-      "url": "https://clinician.nejm.org/new-kdigo-guidelines-autosomal-dominant-polycystic-kidney-disease-clingwna60037",
-      "date": "2026-09-03T12:58:49Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł z wytycznymi i więcej podsumowań klinicznych na temat NEJM Clinician."
     }
   ],
   "guidelines": [
@@ -2353,6 +2353,14 @@
     },
     {
       "title": "Tavapadon w elastycznej dawce w chorobie Parkinsona: randomizowane badanie – klinicysta NEJM",
+      "url": "https://clinician.nejm.org/flexible-dose-tavapadon-parkinson-s-disease-randomized-trial-clinjwna60423",
+      "date": "2026-09-04T06:30:18Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+    },
+    {
+      "title": "Tavapadon w elastycznej dawce w chorobie Parkinsona: randomizowane badanie – klinicysta NEJM",
       "url": "https://clinician.nejm.org/clinjwna60423",
       "date": "2026-09-04T06:06:17Z",
       "source": "NEJM",
@@ -2374,14 +2382,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
-    },
-    {
-      "title": "Nowe wytyczne KDIGO dotyczące wielotorbielowatości nerek autosomalnie dominującej – lekarz NEJM",
-      "url": "https://clinician.nejm.org/new-kdigo-guidelines-autosomal-dominant-polycystic-kidney-disease-clingwna60037",
-      "date": "2026-09-03T12:58:49Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł z wytycznymi i więcej podsumowań klinicznych na temat NEJM Clinician."
     }
   ]
 }
