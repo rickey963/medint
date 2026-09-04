@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T09:28:57Z",
+  "last_updated": "2026-09-04T09:29:48Z",
   "poland": [
     {
       "title": "Nowa terapia „odblokowuje się” w guzie. Ma precyzyjniej niszczyć komórki nowotworowe - Alert Medyczny",
@@ -748,7 +748,7 @@
       "summary": "Spotkanie CCIA/prezentacja wyników wspólnej oceny afro.who.int."
     },
     {
-      "title": "Naukowcy z Seattle rozpoczynają wysiłek w zakresie biologii sztucznej inteligencji o wartości 95 milionów dolarów – statnews.com",
+      "title": "Naukowcy z Seattle rozpoczynają wysiłek w zakresie biologii sztucznej inteligencji o wartości 95 milionów dolarów – STAT",
       "url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/",
       "date": "2026-09-03T14:41:47Z",
       "source": "STAT News",
@@ -833,8 +833,8 @@
       "title": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO – The American Journal of Managed Care",
       "url": "https://www.ajmc.com/view/ckm-guideline-aims-to-break-down-specialty-silos-keith-bellovich-do",
       "date": "2026-09-03T20:20:39Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 2,
       "summary": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO The American Journal of Managed Care."
     },
     {
@@ -1248,6 +1248,14 @@
       "summary": "Dochodzenie prowadzone przez CDC wykazało 12 zgonów związanych z zastrzykami ceftriaksonu w placówkach opieki zdrowotnej w 18 stanach w ciągu 11 miesięcy."
     },
     {
+      "title": "Badanie pokazuje, że pediatrzy doświadczają mniejszego wypalenia zawodowego niż w szczytowym okresie pandemii COVID – CIDRAP",
+      "url": "https://www.cidrap.umn.edu/public-health/pediatricians-experiencing-less-burnout-during-covid-pandemic-peak-survey-shows",
+      "date": "2026-09-03T19:18:28Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Gdy lekarze zmagali się z pandemią Covid-19, wielu z nich czuło się wyczerpanych leczeniem tak wielu chorych pacjentów w niepewnych warunkach. Ankieta mająca na celu zrozumienie, czy pediatrzy nadal doświadczają wysokiego poziomu wypalenia zawodowego, wykazała, że ​​mniej lekarzy odczuwa intensywne napięcie, jakie odczuwali w szczytowym okresie pandemii."
+    },
+    {
       "title": "PIM | Portal strategicznego partnerstwa na rzecz bezpieczeństwa zdrowia i gotowości na wypadek sytuacji kryzysowych (SPH) - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://extranet.who.int/sph/phim",
       "date": "2026-09-03T18:23:07Z",
@@ -1526,14 +1534,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "W weekend nasiliły się narracje na temat tego, czy odra była przyczyną śmierci noworodka w Pensylwanii."
-    },
-    {
-      "title": "Mętna woda: pływanie w słodkiej wodzie wiąże się z większym ryzykiem wysypki skórnej i problemów żołądkowych – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/e-coli/murky-waters-freshwater-swimming-tied-higher-risk-skin-rashes-and-stomach-trouble",
-      "date": "2026-08-31T14:09:11Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Skakanie do zimnego jeziora w upalny dzień to jedna z wielu przyjemności lata, ale pływanie w jeziorach i rzekach może zwiększać ryzyko chorób żołądkowo-jelitowych i dolegliwości skórnych. Tak wynika z nowego badania, w którym porównano wyniki osób, które pływały w jeziorze lub rzece przez 10 minut, z wynikami tych, które stały na brzegu."
     }
   ],
   "clinical_trials": [
@@ -2057,7 +2057,7 @@
       "date": "2026-09-03T16:05:25Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Wraz z ostatnią wizytą w Chinach firma GSK nabyła od firmy Hutchmed prawa do „koniugatu terapii ukierunkowanej na przeciwciała”, wpływającego na dwie dobrze znane czynniki nowotworowe, EGFR i KRAS."
+      "summary": "Wraz z niedawną wizytą w Chinach firma GSK nabyła od firmy Hutchmed prawa do „koniugatu terapii ukierunkowanej na przeciwciała”, wpływającego na dwie dobrze znane czynniki nowotworowe, EGFR i KRAS."
     },
     {
       "title": "CMI zwiększa możliwości w zakresie spraw medycznych dzięki nowej specjalistycznej jednostce komunikacyjnej – Fierce Pharma",
