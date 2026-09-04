@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-04T10:50:03Z",
+  "last_updated": "2026-09-04T10:50:51Z",
   "poland": [
+    {
+      "title": "KSS z prestiżową akredytacją - kardiologia.mp.pl",
+      "url": "https://kardiologia.mp.pl/wiadomosci/447842,kss-z-prestizowa-akredytacja",
+      "date": "2026-09-04T10:45:09Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Krakowski Szpital Specjalistyczny im. św. Jana Pawła II uzyskał najwyższą akredytację dla Zaawansowanych Centrów Leczenia Niewydolności Serca (typ A) przyznawaną przez HFA w ramach inicjatywy ICARe-HF."
+    },
     {
       "title": "MZ wycofuje się z zaostrzenia przepisów dla rynku suplementów. Biznes odetchnął z ulgą - Puls Medycyny",
       "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/prawo/mz-wycofuje-sie-z-zaostrzenia-przepisow-dla-rynku-suplementow-biznes-odetchnal-z-ulga/",
@@ -16,6 +24,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Rząd wycofuje się z zaostrzenia przepisów dotyczących rynku suplementów diety PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Nowa siedziba i jubileusz - Termedia",
+      "url": "https://www.termedia.pl/mz/Nowa-siedziba-i-jubileusz-,68862.html",
+      "date": "2026-09-04T10:22:09Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Małgorzata Grześkowiak i Zbigniew Krasiński/Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu."
     },
     {
       "title": "Olympus rozszerza ofertę. Nowy system do kriobiopsji trafi do Europy - Alert Medyczny",
@@ -384,22 +400,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Ministerstwo Zdrowia rozszerza diagnostykę. Pomiar wskaźnika kostka-ramię ma być refundowany PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Magnez i melatonina pomagają zasnąć, ale działają inaczej. To bezpieczne dawki - Medonet",
-      "url": "https://www.medonet.pl/zdrowy-dom/zdrowy-sen/magnez-i-melatonina-na-sen-nie-dzialaja-tak-samo-farmaceuta-wyjasnia/jdv015v",
-      "date": "2026-09-03T17:29:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Choć magnez i melatonina często polecane są na problemy ze snem, działają zupełnie inaczej. Jeden wspiera organizm stopniowo, drugi może zadziałać już tej samej nocy. Każdy może wywołać też skutki uboczne."
-    },
-    {
-      "title": "Wysoki poziom glukozy pomaga komórkom rakowym ukrywać się przed układem odpornościowym - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/wysoki-poziom-glukozy-pomaga-komorkom-rakowym-ukrywac-sie-przed-ukladem-odpornosciowym/",
-      "date": "2026-09-03T17:27:42Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Hiperglikemia może pogrubiać cukrową osłonę komórek rakowych, utrudniając układowi odpornościowemu ich rozpoznanie i zniszczenie."
     }
   ],
   "world": [
@@ -609,7 +609,7 @@
       "date": "2026-09-04T00:37:14Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Wyszukaj i aplikuj o pracę w Russell Medical Center w BMJ Health Careers."
+      "summary": "Centrum Medyczne Russella BMJ."
     },
     {
       "title": "Irlandzka Służba Transfuzji Krwi, - BMJ",
@@ -681,7 +681,7 @@
       "date": "2026-09-03T20:01:06Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Praca dla lekarzy OGÓLNYCH w Toronto (region), Ontario (Kalifornia) w pilnej opiece pediatrycznej. Aplikuj już dziś."
+      "summary": "LEKARZE OGÓLNI - Toronto (Region), Ontario (Kalifornia) praca w pilnej opiece pediatrycznej | 842131 BMJ."
     },
     {
       "title": "Halucynogeny: przereklamowane i rozczarowujące – Medscape",
@@ -761,7 +761,7 @@
       "date": "2026-09-03T15:29:37Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Kim Fox jest brytyjskim kardiologiem opłacanym przez francuską firmę farmaceutyczną Servier za wspieranie badań klinicznych nad iwabradyną, lekiem stosowanym w leczeniu dusznicy bolesnej. Płatności dokonywano w latach 2006–2015 na rzecz prywatnej firmy prowadzonej przez Foxa i jego żonę, która zajmowała się badaniami na zlecenie. Większość pieniędzy została pobrana przez Foxa i jego żonę jako zysk firmy."
+      "summary": "Sprawa o wartości 50 milionów funtów dotycząca wyeliminowania interesów finansowych z wytycznych klinicznych BMJ."
     },
     {
       "title": "Pilot FDA oferuje generatywnym wyrobom medycznym AI ścieżkę do pacjentów przed ich autoryzacją – STAT",
@@ -2164,7 +2164,7 @@
       "summary": "CZWARTEK, 3 września 2026 r. Jak wynika z nowego badania, terapia jasnym światłem może pomóc seniorom lepiej spać. Lampy do terapii światłem poprawiły cykle snu i poziom aktywności."
     },
     {
-      "title": "Akeso, Summit’s ivonescimab extends lives in Keytruda head-to-head trial. Co teraz? - Ostra farmacja",
+      "title": "Akeso, iwonescimab firmy Summit przedłuża życie w bezpośrednim procesie w Keytruda. Co teraz? - Ostra farmacja",
       "url": "https://www.fiercepharma.com/pharma/akeso-summit-ivonescimab-extends-lives-keytruda-head-head-trial-what-now",
       "date": "2026-09-03T14:29:21Z",
       "source": "FiercePharma",
