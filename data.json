@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T21:50:12Z",
+  "last_updated": "2026-09-04T21:51:00Z",
   "poland": [
     {
       "title": "Polscy lekarze wracają z emigracji. Powód jest jeden. \"W ogóle nie żałuję\" - Medonet",
@@ -882,7 +882,7 @@
       "url": "https://www.ajmc.com/view/ckm-guideline-aims-to-break-down-specialty-silos-keith-bellovich-do",
       "date": "2026-09-03T20:20:39Z",
       "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO The American Journal of Managed Care."
     },
     {
@@ -938,7 +938,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7534a1.htm?s_cid=OS_mm7534a1_w",
       "date": "2026-09-03T16:59:18Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 4,
       "summary": "Zasięg szczepień wśród młodzieży w 2025 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1166,22 +1166,6 @@
       "summary": "Tymczasowe rozważania kliniczne dotyczące stosowania szczepionek przeciwko grypie sezonowej w Stanach Zjednoczonych Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "UT Health Jacksonville wyróżnione za postęp w opiece nad pacjentami z udarem na obszarach wiejskich – UT Health East Texas",
-      "url": "https://uthealtheasttexas.com/2026/09/01/ut-health-jacksonville-recognized-for-advancing-rural-stroke-care/",
-      "date": "2026-09-01T21:38:50Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Jacksonville, Teksas (1 września 2026 r.) — Zgodnie z zaleceniami prezydenckimi American Heart Association dotyczącymi zdrowia obszarów wiejskich osoby mieszkające w społecznościach wiejskich żyją średnio o trzy lata krócej niż ich odpowiednicy w miastach, są o 40% bardziej narażone na ryzyko zachorowania na choroby serca i o 30% zwiększone ryzyko zgonu z powodu udaru mózgu. UT Health Jacksonville […]."
-    },
-    {
-      "title": "Szpitale Cut Bank i Shelby cieszą się uznaniem w całym kraju za zaangażowanie w doskonałość w opiece kardiologicznej – Cut Bank Pioneer Press",
-      "url": "https://www.cutbankpioneerpress.com/story/2026/09/02/news/cut-bank-and-shelby-hospitals-nationally-recognized-for-commitment-to-excellence-in-cardiovascular-care/5189.html",
-      "date": "2026-09-01T21:27:27Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Szpitale Logan Health w Cut Bank i Shelby otrzymały łącznie 5 nagród za osiągnięcia American Heart Association Get With The Guidelines® za wykazanie zaangażowania w przestrzeganie aktualnych, opartych na badaniach wytycznych dotyczących leczenia chorób serca i udaru mózgu, pomagając ratować życie, wspierać powrót do zdrowia i ograniczać liczbę ponownych hospitalizacji..."
-    },
-    {
       "title": "Chemioterapia pierwszego rzutu Nivolumab Plus i Nivolumab Plus Ipilimumab w dalszym ciągu wykazują korzyści w zakresie OS u pacjentów z zaawansowanym rakiem płaskonabłonkowym przełyku - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/oncology-news/first-line-nivolumab-plus-chemotherapy-and-nivolumab-plus-ipilimumab-continue-to-demonstrate-os-benefit-in-patients-with-advanced-oesophageal-squamous-cell-carcinoma",
       "date": "2026-09-01T17:24:58Z",
@@ -1198,12 +1182,28 @@
       "summary": "Charakterystyka i monitorowanie epidemii wirusa Ebola w 2026 r.... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Notatki | Dokumenty projektowe | Wipiwotyd lutetu-177, tetraksetan w skojarzeniu do leczenia przerzutowego raka prostaty wrażliwego na hormony PSMA-dodatnie [ID6589] | Poradnik - strona internetowa NICE",
-      "url": "https://www.nice.org.uk/guidance/gid-ta11766/documents/html-content-3",
-      "date": "2026-09-01T15:32:50Z",
-      "source": "NICE",
+      "title": "Szkolenie OK COBIK NIL: Bezpieczna ordynacja leków refundowanych - NIL",
+      "url": "https://nil.org.pl/eventToPdf/1609",
+      "date": "2026-09-01T11:28:17Z",
+      "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
-      "summary": "Należy pamiętać, że w odpowiedzi na wniosek otrzymany od firmy harmonogram tej oceny został zmieniony i obecnie oczekuje się, że proces oceny rozpocznie się pod koniec listopada 2026 r., kiedy napiszemy do Ciebie, w jaki sposób możesz się zaangażować."
+      "summary": "Szkolenie OK COBIK NIL: Bezpieczna ordynacja leków refundowanych NIL."
+    },
+    {
+      "title": "Kliniczne uwarunkowania szczepień przeciw grypie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/flu/hcp/vax-summary/index.html",
+      "date": "2026-09-01T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Względy kliniczne dotyczące ośrodków szczepień przeciwko grypie w celu kontroli i zapobiegania chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Wytyczne konsensusu dla Indii dotyczące badań przesiewowych i leczenia MASLD u dorosłych chorych na cukrzycę typu 2: uwzględnienie lokalnej epidemiologii i ograniczeń zasobów - verahealth.ai",
+      "url": "https://verahealth.ai/ja/news/51986c3a",
+      "date": "2026-08-30T15:26:22Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Wiadomości medyczne i spostrzeżenia z badań Vera Health — najnowsze aktualizacje."
     }
   ],
   "epidemiology": [
@@ -1534,38 +1534,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Tymczasowe rozważania kliniczne dotyczące stosowania szczepionek przeciwko grypie sezonowej w Stanach Zjednoczonych Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Badania sugerują, że dłuższe leczenie Paxlovidem nie przynosi korzyści w przypadku długotrwałych objawów COVID – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/covid-19/longer-paxlovid-treatment-shows-no-benefit-long-covid-symptoms-study-suggests",
-      "date": "2026-09-01T21:26:14Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Według amerykańskiego randomizowanego, kontrolowanego badania opublikowanego wczoraj w amerykańskim randomizowanym, kontrolowanym badaniu opublikowanym wczoraj w The Lancet Infectious Diseases, przyjmowanie leku przeciwwirusowego Paxlovid (nirmatrelwir-rytonawir) przez maksymalnie 25 dni nie poprawiło problemów poznawczych, objawów autonomicznych, takich jak zawroty głowy i duszność, ani nietolerancji wysiłku fizycznego u dorosłych z długą chorobą Covid-19."
-    },
-    {
-      "title": "Szybkie ujęcia: wznowienie działalności szkół w Demokratycznej Republice Konga; kiełki, przypomniano mango; 2 przypadki ptasiej grypy H9N2 w Chinach – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/quick-takes-schools-resume-dr-congo-sprouts-mangos-recalled-2-h9n2-avian-flu-cases-china",
-      "date": "2026-09-01T19:16:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Od 2015 roku w Chinach udokumentowano 176 przypadków zakażenia człowieka H9N2."
-    },
-    {
-      "title": "Probiotyk wieloszczepowy powiązany ze zmniejszonym ryzykiem ciężkich chorób przewodu pokarmowego u wcześniaków - CIDRAP",
-      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/multistrain-probiotic-tied-reduced-risk-severe-gi-disease-preterm",
-      "date": "2026-09-01T19:13:58Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Rutynowe podawanie wieloszczepowego probiotyku może pomóc zmniejszyć ryzyko poważnych chorób żołądkowo-jelitowych u wcześniaków, jak podali wczoraj holenderscy badacze w JAMA Network Open."
-    },
-    {
-      "title": "Liczba ofiar śmiertelnych wirusa Ebola zbliża się do 3000, a wskaźnik śmiertelności oscyluje wokół 50% – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/ebola-death-toll-approaches-3000-case-fatality-rate-hovers-around-50",
-      "date": "2026-08-31T20:30:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Całkowita liczba przypadków w Demokratycznej Republice Konga przekroczyła 6000."
     }
   ],
   "clinical_trials": [
@@ -2012,7 +1980,7 @@
       "summary": "MustGrow ogłasza mianowanie dyrektora i przyznanie DSU BioSpace."
     },
     {
-      "title": "Globalny kryzys finansowy w służbie zdrowia może zagrozić wyścigowi o nowe szczepionki przeciw wirusowi Ebola – Endpoints News",
+      "title": "Globalny brak środków finansowych na opiekę zdrowotną może zagrozić wyścigowi o nowe szczepionki przeciw wirusowi Ebola – Endpoints News",
       "url": "https://endpoints.news/the-race-to-make-new-ebola-vaccines-faces-a-cash-crunch/",
       "date": "2026-09-04T15:34:00Z",
       "source": "Endpoints News",
@@ -2060,7 +2028,7 @@
       "summary": "PIĄTEK, 4 września 2026 r. Twój smartwatch może przypisywać Ci więcej punktów za trening, niż faktycznie zarobiłeś. Naukowcy poprosili o wykonanie pracy na rowerze 58 dorosłych."
     },
     {
-      "title": "NeuShen, była szefowa I-Mab Joan Shen, przekazała ponad 80 mln dolarów na 3 leki wpływające na zdrowie mózgu – Endpoints News",
+      "title": "NeuShen, była szefowa I-Mab, Joan Shen, przekazała ponad 80 mln dolarów na 3 leki wpływające na zdrowie mózgu – Endpoints News",
       "url": "https://endpoints.news/us-china-biotech-neushen-gets-80m-to-develop-brain-health-drugs/",
       "date": "2026-09-04T14:47:00Z",
       "source": "Endpoints News",
@@ -2072,7 +2040,7 @@
       "url": "https://endpoints.news/ionis-wins-fda-approval-of-alexander-disease-drug-zilganersen/",
       "date": "2026-09-04T14:46:00Z",
       "source": "Endpoints News",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "FDA zatwierdza Zanvastro firmy Ionis jako pierwszy lek na chorobę Aleksandra, otwierając drogę do pierwszego samodzielnego wprowadzenia na rynek leku neurologicznego."
     },
     {
@@ -2208,7 +2176,7 @@
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/pathways-and-standards/us-fda-will-help-botanical-drug-development-grow-amid-public-trump-administration-interest-DVEEMQ6EU5DUJNMCSMOSCJJ2BA/",
       "date": "2026-09-04T00:27:43Z",
       "source": "Pink Sheet",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "FDA zabiega o wkład społeczeństwa w modernizację ram regulacyjnych dotyczących botanicznych produktów leczniczych, pobudzona rosnącym zainteresowaniem konsumentów terapiami roślinnymi oraz priorytetami administracji Trumpa „Make America Healthy Again” administracji Trumpa."
     },
     {
@@ -2302,7 +2270,7 @@
       "summary": "Dzisiaj w Pensylwanii koroner hrabstwa Lancaster Stephen Diamantoni potwierdził, że druga śmierć niemowląt z powodu odry w hrabstwie, którą początkowo nazwał „związaną z odrą”, została spowodowana przez wysoce zaraźliwego wirusa. W hrabstwie występuje szybko rozwijająca się epidemia odry."
     },
     {
-      "title": "Globalny kryzys finansowy w służbie zdrowia może zagrozić wyścigowi o nowe szczepionki przeciw wirusowi Ebola – Endpoints News",
+      "title": "Globalny brak środków finansowych na opiekę zdrowotną może zagrozić wyścigowi o nowe szczepionki przeciw wirusowi Ebola – Endpoints News",
       "url": "https://endpoints.news/the-race-to-make-new-ebola-vaccines-faces-a-cash-crunch/",
       "date": "2026-09-04T15:34:00Z",
       "source": "Endpoints News",
