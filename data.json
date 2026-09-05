@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T17:34:56Z",
+  "last_updated": "2026-09-05T17:35:45Z",
   "poland": [
     {
       "title": "Jak ulepszyć szczepionki przeciw grypie - Termedia",
@@ -247,7 +247,7 @@
       "date": "2026-09-05T02:18:37Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
-      "summary": "Bądź na bieżąco z Funduszami Europejskimi."
+      "summary": "Rozwój umiejętności kadr medycznych w obszarze stanów nagłych i radiologii - projekt wybrany do dofinansowania Portal Funduszy Europejskich."
     },
     {
       "title": "45 minut szkolenia i 98% sukcesu. Ręczny robot sprawdzony w trzech specjalnościach - Alert Medyczny",
@@ -897,8 +897,8 @@
       "title": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO – The American Journal of Managed Care",
       "url": "https://www.ajmc.com/view/ckm-guideline-aims-to-break-down-specialty-silos-keith-bellovich-do",
       "date": "2026-09-03T20:20:39Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 2,
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
       "summary": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO The American Journal of Managed Care."
     },
     {
@@ -1102,6 +1102,14 @@
       "summary": "Ten 20-minutowy odcinek obejmuje niewydolność serca i nie tylko z udziałem doktora E. Joyce'a (Irlandia, IE), profesora D. Capodanno (Włochy, Włochy), profesora M."
     },
     {
+      "title": "7 szpitali w Sanford wśród najlepszych miejsc pod względem leczenia zawałów serca – Sanford Health News",
+      "url": "https://news.sanfordhealth.org/thought-leadership/awards/7-sanford-hospitals-among-top-places-for-heart-attack-care/",
+      "date": "2026-09-02T07:00:00Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Siedem szpitali Sanford Health w czterech stanach uzyskało uznanie American College of Cardiology za leczenie bólu w klatce piersiowej."
+    },
+    {
       "title": "Tralokinumab w leczeniu umiarkowanego i ciężkiego atopowego zapalenia skóry u osób w wieku 12 lat i starszych [ID3823] - witryna NICE",
       "url": "https://www.nice.org.uk/guidance/gid-ta10702/documents/html-content",
       "date": "2026-09-02T05:44:48Z",
@@ -1156,14 +1164,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Wiadomości medyczne i spostrzeżenia z badań Vera Health — najnowsze aktualizacje."
-    },
-    {
-      "title": "Biopsja czy co? Ponowne przemyślenie progu skierowania z powodu mikroskopijnego krwiomoczu w podstawowej opiece zdrowotnej – MDLinx",
-      "url": "https://www.mdlinx.com/article/biopsy-or-what-rethinking-the-referral-threshold-for-microscopic-hematuria-in-primary-care/74pmga9OPrMx9oGjELI0bO/",
-      "date": "2026-08-28T17:58:08Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Biopsja czy co? Ponowne przemyślenie progu skierowania z powodu mikroskopijnego krwiomoczu w podstawowej opiece zdrowotnej MDLinx."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 25 sierpnia 2026 r. zmieniające rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej",
@@ -2044,12 +2044,12 @@
       "summary": "Transakcje z chińskimi producentami leków są kontynuowane w stałym tempie, podczas gdy ceny akcji dwóch spółek biotechnologicznych o średniej kapitalizacji spadły w tym tygodniu. Tymczasem w tym roku Lilly wyprzedziła inne apteki pod względem zawierania transakcji."
     },
     {
-      "title": "MustGrow ogłasza mianowanie dyrektora i przyznanie DSU – BioSpace",
+      "title": "MustGrow ogłasza mianowanie oficera i przyznanie DSU – biospace.com",
       "url": "https://www.biospace.com/press-releases/mustgrow-announces-officer-appointment-and-grant-of-dsus",
       "date": "2026-09-04T15:55:35Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "MustGrow ogłasza nominację na stanowisko dyrektora i przyznanie DSU BioSpace."
+      "summary": "MustGrow ogłasza mianowanie dyrektora i przyznanie DSU biospace.com."
     },
     {
       "title": "Globalny kryzys finansowy w służbie zdrowia może zagrozić wyścigowi o nowe szczepionki przeciw wirusowi Ebola – Endpoints News",
@@ -2172,7 +2172,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Immuron wprowadzi PROIBS® w Stanach Zjednoczonych - BioSpace",
+      "title": "Immuron wprowadzi PROIBS® w Stanach Zjednoczonych - biospace.com",
       "url": "https://www.biospace.com/press-releases/immuron-to-launch-proibs-in-the-united-states",
       "date": "2026-09-04T11:19:09Z",
       "source": "BioSpace",
@@ -2268,7 +2268,7 @@
       "summary": "CAMBRIDGE, Massachusetts, 3 września 2026 r. (GLOBE NEWSWIRE) — Wave Life Sciences Ltd. (Nasdaq: WVE), firma biotechnologiczna na etapie klinicznym, skupiająca się na uwalnianiu szerokiego potencjału leków RNA w celu zmiany zdrowia ludzkiego, ogłosiła dzisiaj, że Paul Bolno, lekarz medycyny, MBA, prezes i dyrektor generalny, ma wziąć udział w prowadzonym przez analityków czacie przy kominku podczas Światowej Konferencji Opieki Zdrowotnej Cantor 2026 w Nowy Jork, czwartek, 10 września 2026 o 9:45"
     },
     {
-      "title": "Cipla ogłasza wyłączne partnerstwo z Qilu Pharmaceutical w zakresie licencjonowania i dostaw leku biopodobnego do leku Keytruda® (pembrolizumab) w USA - BioSpace",
+      "title": "Cipla ogłasza wyłączne partnerstwo z Qilu Pharmaceutical w zakresie licencjonowania i dostaw leku biopodobnego do leku Keytruda® (pembrolizumab) w USA - biospace.com",
       "url": "https://www.biospace.com/press-releases/cipla-announces-exclusive-partnership-with-qilu-pharmaceutical-for-the-licensing-and-supply-of-biosimilar-to-keytruda-pembrolizumab-in-the-us",
       "date": "2026-09-04T01:10:54Z",
       "source": "BioSpace",
@@ -2368,6 +2368,14 @@
       "summary": "Kiedy strach stał się przeszkodą w opiece — lekcje szybkiej reakcji klinicznej podczas operacji Metro Surge The New England Journal of Medicine."
     },
     {
+      "title": "Podsumowanie zdrowia publicznego – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://iris.who.int/items/5d54fec7-70ab-4d3a-80fd-6c3d04d4aed6",
+      "date": "2026-09-05T09:46:02Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Podsumowanie zdrowia publicznego Światowa Organizacja Zdrowia (WHO)."
+    },
+    {
       "title": "Cotygodniowe biuletyny dotyczące epidemii i innych sytuacji kryzysowych | OMS | Biuro regionalne pour l'Afrique – WHO | Biuro Regionalne dla Afryki",
       "url": "https://www.afro.who.int/fr/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?002=94&cat=Security%2520and%2520Intelligence&page=44&rp=McGill",
       "date": "2026-09-05T08:50:13Z",
@@ -2382,14 +2390,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Tygodniowy Rejestr Epidemiologiczny, 2026, tom. 101, 35 [pełne wydanie] Światowa Organizacja Zdrowia (WHO)."
-    },
-    {
-      "title": "WHO zatwierdza Bhutan pod kątem wyeliminowania wścieklizny przenoszonej przez psy – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news/item/04-09-2026-who-validates-bhutan-for-eliminating-dog-transmitted-human-rabies",
-      "date": "2026-09-04T17:35:38Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Światowa Organizacja Zdrowia (WHO) potwierdziła, że ​​Bhutan wyeliminował wściekliznę przenoszoną przez psy jako problem zdrowia publicznego w kraju. Bhutan jest pierwszym krajem w regionie Azji Południowo-Wschodniej WHO, który odniósł ten sukces."
     }
   ]
 }
