@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T06:57:11Z",
+  "last_updated": "2026-09-05T06:57:55Z",
   "poland": [
     {
       "title": "Czechy chcą ułatwić rozwój innowacyjnych wyrobów medycznych. SÚKL uruchamia pilotaż - Alert Medyczny",
@@ -946,7 +946,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7534a1.htm?s_cid=OS_mm7534a1_w",
       "date": "2026-09-03T16:59:18Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 4,
       "summary": "Zasięg szczepień wśród młodzieży w 2025 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1166,14 +1166,6 @@
       "summary": "Charakterystyka i monitorowanie epidemii wirusa Ebola w 2026 r.... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Zaktualizowane wytyczne pomagają klinicystom zidentyfikować najskuteczniejsze leki zapobiegające migrenie u dorosłych – Uniwersytet w Vermont",
-      "url": "https://www.uvm.edu/larnermed/medcommunications/news/updated-guideline-helps-clinicians-identify-most-effective",
-      "date": "2026-09-01T15:28:46Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "| Uniwersytet w Vermoncie."
-    },
-    {
       "title": "Kliniczne uwarunkowania szczepień przeciw grypie — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/flu/hcp/vax-summary/index.html",
       "date": "2026-09-01T07:00:00Z",
@@ -1204,6 +1196,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Jak wynika z wyników przedstawionych dzisiaj podczas sesji Hot Line na Kongresie ESC 2026, optyczna tomografia koherentna nie jest gorsza od ultrasonografii wewnątrznaczyniowej w zakresie wskazywania stentowania u pacjentów z chorobą wieńcową lewej tętnicy głównej."
+    },
+    {
+      "title": "Poręczny monitor poprawia diagnostykę zaburzeń rytmu serca po omdleniu - Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/press/press-releases/wearable-monitor-improves-diagnosis-of-heart-rhythm-disorders-after-fainting/",
+      "date": "2026-08-31T10:50:18Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Wczesne monitorowanie EKG rozpoczęte na oddziale ratunkowym (SOR) może zmienić sposób leczenia tysięcy pacjentów zgłaszających się na SOR z niewyjaśnionymi omdleniami. Taki był główny wniosek z badania ASPIRED zaprezentowany dzisiaj podczas sesji Hot Line na Kongresie ESC 2026 i opublikowany jednocześnie w New England Journal of Medicine."
     }
   ],
   "epidemiology": [
