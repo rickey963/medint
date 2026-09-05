@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T18:04:03Z",
+  "last_updated": "2026-09-05T18:04:50Z",
   "poland": [
     {
       "title": "Najzdrowszy owoc na świecie wygląda niepozornie. To \"polska cytryna\" - Żywienie Medonet",
@@ -954,7 +954,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7534a1.htm?s_cid=OS_mm7534a1_w",
       "date": "2026-09-03T16:59:18Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 4,
       "summary": "Zasięg szczepień wśród młodzieży w 2025 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -1164,14 +1164,6 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1137, z dniem ogłoszenia 2026-08-27."
-    },
-    {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 19 sierpnia 2026 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/1113",
-      "date": "2026-08-19T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1113, z dniem ogłoszenia 2026-08-21."
     }
   ],
   "epidemiology": [
@@ -1786,6 +1778,14 @@
       "summary": "Markel uruchamia program zwrotu kosztów podróży związanych z badaniami związanymi z rzadkimi chorobami, Clinical Trials Arena."
     },
     {
+      "title": "Odra bez mitu: co stulecie danych mówi o szczepionce MMR, ryzyku i zresetowaniu szczepionek Trumpa – Trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/measles-without-myth-what-a-century-of-data-says-about-mmr-risk-and-trumps-vaccine-reset-7541cbb6",
+      "date": "2026-09-03T07:00:00Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Odra nie zasługuje ani na nostalgię, ani na apokalipsę. Kiedy w 1912 r. zaczęto sporządzać sprawozdania krajowe, w Stanach Zjednoczonych odnotowywano rocznie około 6000 zgonów spowodowanych odrą. Do dekady poprzedzającej szczepienia śmiertelność spadła: Centra Kontroli i Zapobiegania Chorobom (CDC) zgłaszają rocznie około 3–4 miliony infekcji, około 500 000 zgłoszonych przypadków, 400–500 zgonów, 48 000 hospitalizacji i około 1000 przypadków zapalenia mózgu."
+    },
+    {
       "title": "Szczegóły badania | NCT07497087 | Badanie mające na celu sprawdzenie, czy nerandomilast pomaga osobom cierpiącym na twardzinę układową – ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07497087",
       "date": "2026-09-03T07:00:00Z",
@@ -1816,14 +1816,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Badanie oceniające różne warunki podawania i wpływ pokarmowy tabletek MWN109 na chińskich uczestników ClinicalTrials.gov."
-    },
-    {
-      "title": "Odra bez mitu: co stulecie danych mówi o szczepionce MMR, ryzyku i zresetowaniu szczepionek Trumpa – Trialsitenews.com",
-      "url": "https://www.trialsitenews.com/a/measles-without-myth-what-a-century-of-data-says-about-mmr-risk-and-trumps-vaccine-reset-7541cbb6",
-      "date": "2026-09-03T07:00:00Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Odra nie zasługuje ani na nostalgię, ani na apokalipsę. Kiedy w 1912 r. zaczęto sporządzać sprawozdania krajowe, w Stanach Zjednoczonych odnotowywano rocznie około 6000 zgonów spowodowanych odrą. Do dekady poprzedzającej szczepienia śmiertelność spadła: Centra Kontroli i Zapobiegania Chorobom (CDC) zgłaszają rocznie około 3–4 miliony infekcji, około 500 000 zgłoszonych przypadków, 400–500 zgonów, 48 000 hospitalizacji i około 1000 przypadków zapalenia mózgu."
     },
     {
       "title": "Metabolity mikroflory jelitowej celują w lekooporne zapalenie płuc Klebsiella – ale terapia istnieje tylko w krzemie - Trialsitenews.com",
