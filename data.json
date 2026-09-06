@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-06T01:14:28Z",
+  "last_updated": "2026-09-06T01:15:11Z",
   "poland": [
     {
-      "title": "Tak będą przygotowywać roboty do pracy w szpitalach. URG otwiera nowe centrum - alertmedyczny.pl",
+      "title": "Tak będą przygotowywać roboty do pracy w szpitalach. URG otwiera nowe centrum - Alert Medyczny",
       "url": "https://alertmedyczny.pl/tak-beda-przygotowywac-roboty-do-pracy-w-szpitalach-urg-otwiera-nowe-centrum/",
       "date": "2026-09-05T23:02:40Z",
       "source": "alertmedyczny.pl",
@@ -10,7 +10,7 @@
       "summary": "United Robotics Group otwiera w Gelsenkirchen centrum, w którym roboty będą przygotowywane do pracy w szpitalach, laboratoriach i opiece."
     },
     {
-      "title": "Kobiety powinny być priorytetem w badaniach nad długowiecznością. Naukowcy wyjaśniają dlaczego - alertmedyczny.pl",
+      "title": "Kobiety powinny być priorytetem w badaniach nad długowiecznością. Naukowcy wyjaśniają dlaczego - Alert Medyczny",
       "url": "https://alertmedyczny.pl/kobiety-powinny-byc-priorytetem-w-badaniach-nad-dlugowiecznoscia-naukowcy-wyjasniaja-dlaczego/",
       "date": "2026-09-05T22:32:32Z",
       "source": "alertmedyczny.pl",
@@ -242,7 +242,7 @@
       "summary": "Nie wszyscy reagujemy na słodkie jedzenie w ten sam sposób. Są osoby, które mogą długo nie myśleć o ciastkach czy czekoladzie, ale są też takie, którym ochota na coś słodkiego regularnie wraca. I nie zawsze da się to wyjaśnić tym, że ktoś ma po prostu \"słabszą wolę\"."
     },
     {
-      "title": "Kolejny cyberatak na giganta medtech. Tym razem celem był Cook Medical - alertmedyczny.pl",
+      "title": "Kolejny cyberatak na giganta medtech. Tym razem celem był Cook Medical - Alert Medyczny",
       "url": "https://alertmedyczny.pl/kolejny-cyberatak-na-giganta-medtech-tym-razem-celem-byl-cook-medical/",
       "date": "2026-09-05T08:18:10Z",
       "source": "alertmedyczny.pl",
@@ -420,12 +420,20 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Kiedy strach stał się przeszkodą w opiece — lekcje szybkiej reakcji klinicznej podczas operacji Metro Surge — The New England Journal of Medicine",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.thelancet.com/journals/lancet/issue/current",
+      "date": "2026-09-05T14:36:05Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.nejm.org/doi/abs/10.1056/NEJMp2607981",
       "date": "2026-09-05T12:28:38Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Kiedy strach stał się przeszkodą w opiece — lekcje szybkiej reakcji klinicznej podczas operacji Metro Surge The New England Journal of Medicine."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Zapytanie ofertowe: Światowa Organizacja Zdrowia (WHO)."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.medscape.com/viewarticle/substance-use-screening-variation-noted-provider-and-clinic-2026a1000x0p?src=rss",
-      "date": "2026-09-04T15:54:50Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "guidelines": [
@@ -962,7 +962,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7534a1.htm?s_cid=OS_mm7534a1_w",
       "date": "2026-09-03T16:59:18Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1156,14 +1156,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Rozporządzenie Ministra Zdrowia z dnia 19 sierpnia 2026 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/1113",
-      "date": "2026-08-19T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1113, z dniem ogłoszenia 2026-08-21."
     }
   ],
   "epidemiology": [
@@ -1320,12 +1312,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Strona wyszukiwania ogólnego — Światowa Organizacja Zdrowia (WHO)",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+1305+0400++%5B%5BADEFA%5D%5D++Tempat+Jual+Geobag+Erosi+Bener+Meriah+Aceh",
       "date": "2026-09-04T06:10:51Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Strona wyszukiwania ogólnego Światowa Organizacja Zdrowia (WHO)."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2116,12 +2108,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "MustGrow ogłasza mianowanie dyrektora i przyznanie DSU – BioSpace",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.biospace.com/press-releases/mustgrow-announces-officer-appointment-and-grant-of-dsus",
       "date": "2026-09-04T15:55:35Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "MustGrow ogłasza mianowanie dyrektora i przyznanie DSU BioSpace."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2200,7 +2192,7 @@
       "url": "https://endpoints.news/ionis-wins-fda-approval-of-alexander-disease-drug-zilganersen/",
       "date": "2026-09-04T14:46:00Z",
       "source": "Endpoints News",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -2244,12 +2236,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Immuron wprowadzi PROIBS® w Stanach Zjednoczonych - BioSpace",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.biospace.com/press-releases/immuron-to-launch-proibs-in-the-united-states",
       "date": "2026-09-04T11:19:09Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "MELBOURNE, Australia, 4 września 2026 r. (GLOBE NEWSWIRE) — Immuron Limited (ASX: IMC; NASDAQ: IMRN) ma przyjemność ogłosić, że zawarł umowę na wyłączną dystrybucję PROIBS® w Stanach Zjednoczonych z grupą Calmino AB. Immuron wprowadził PROIBS® w Australii w roku finansowym 2026."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2345,19 +2337,19 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.thelancet.com/journals/lancet/issue/current",
+      "date": "2026-09-05T14:36:05Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/general-search?indexCatalogue=mcaportalindex1&searchQuery=WA+0821+1305+0400++%5B%5BAdefa%5D%5D++Pusat+Penjualan+Geotube+Pantai+Terdekat+Batanghari+Jambi",
       "date": "2026-09-05T12:47:47Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Kiedy strach stał się przeszkodą w opiece — lekcje szybkiej reakcji klinicznej podczas operacji Metro Surge — The New England Journal of Medicine",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMp2607981",
-      "date": "2026-09-05T12:28:38Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Kiedy strach stał się przeszkodą w opiece — lekcje szybkiej reakcji klinicznej podczas operacji Metro Surge The New England Journal of Medicine."
     }
   ]
 }
