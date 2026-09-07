@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T10:07:29Z",
+  "last_updated": "2026-09-07T10:08:17Z",
   "poland": [
     {
       "title": "Odeszła prof. Bożena Płonka-Syroka - Termedia",
@@ -657,7 +657,7 @@
       "date": "2026-09-06T17:52:03Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Osteoporozę od dawna uważano za chorobę starszych kobiet, ale nowy systematyczny przegląd randomizowanych, kontrolowanych badań klinicznych zwraca uwagę na tę populację, co wielokrotnie podkreślali klinicyści."
+      "summary": "Osteoporozę od dawna uznawano za chorobę starszych kobiet, jednak nowy systematyczny przegląd randomizowanych, kontrolowanych badań klinicznych wielokrotnie zwraca uwagę na tę populację."
     },
     {
       "title": "Strona wyszukiwania ogólnego - platforma.who.int",
@@ -906,7 +906,7 @@
       "url": "https://www.cdc.gov/respiratory-viruses/data/index.html",
       "date": "2026-09-04T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 5,
       "summary": "Kanały danych o chorobach układu oddechowego Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -938,7 +938,7 @@
       "url": "https://www.ajmc.com/view/ckm-guideline-aims-to-break-down-specialty-silos-keith-bellovich-do",
       "date": "2026-09-03T20:20:39Z",
       "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO The American Journal of Managed Care."
     },
     {
@@ -963,7 +963,7 @@
       "date": "2026-09-03T18:04:57Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "WASZYNGTON i DALLAS, 3 września 2026 r. — Choroby sercowo-naczyniowe (CVD) są główną medyczną przyczyną zgonów związanych ze służbą wśród sportowców taktycznych, w tym personelu wojskowego, strażaków, funkcjonariuszy organów ścigania, ratowników medycznych,…"
+      "summary": "WASZYNGTON i DALLAS, 3 września 2026 r. — Choroby sercowo-naczyniowe (CVD) są główną medyczną przyczyną zgonów związanych ze służbą wśród sportowców taktycznych, w tym personelu wojskowego, strażaków, funkcjonariuszy organów ścigania, ratowników medycznych,..."
     },
     {
       "title": "Notatki terenowe: Wykrywanie konopi indyjskich wśród zgonów spowodowanych przedawkowaniem – Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1014,6 +1014,22 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
+      "title": "Mayo prosi dentystów o opinię na temat nawyków przepisywania antybiotyków – DrBicuspid.com",
+      "url": "https://www.drbicuspid.com/dental-hygiene/infection-control/antibiotics/article/15833446/mayo-seeks-dentist-input-on-antibioticprescribing-habits",
+      "date": "2026-09-01T07:05:38Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Mayo prosi dentystów o opinię na temat nawyków związanych z przepisywaniem antybiotyków DrBicuspid.com."
+    },
+    {
+      "title": "Nowe badania oferują więcej możliwości zapobiegania migrenie – brainhealth.com",
+      "url": "https://www.brainhealth.com/explore/news-research/migraine-prevention-guideline/",
+      "date": "2026-09-01T05:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Nowe wytyczne praktyki klinicznej Amerykańskiej Akademii Neurologii i Amerykańskiego Towarzystwa Bólu Głowy zawierają zalecenia dotyczące wyboru i stosowania leków zapobiegawczych na migrenę."
+    },
+    {
       "title": "Nowe wytyczne aktualizują leki stosowane w zapobieganiu migrenie u dorosłych - news-medical.net",
       "url": "https://www.news-medical.net/news/20260831/New-guideline-updates-medications-for-preventing-migraine-in-adults.aspx",
       "date": "2026-09-01T03:06:00Z",
@@ -1052,22 +1068,6 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1167, z dniem ogłoszenia 2026-09-02."
-    },
-    {
-      "title": "CHEST publikuje wytyczne dotyczące leczenia rozstrzeni oskrzeli u dorosłych – doradca pulmonologa",
-      "url": "https://www.pulmonologyadvisor.com/features/chest-guideline-adult-bronchiectasis-2026/",
-      "date": "2026-08-28T04:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Panel CHEST opracował oparte na dowodach zalecenia dotyczące leczenia i leczenia rozstrzeni oskrzeli u dorosłych."
-    },
-    {
-      "title": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: ból krzyża 15 września – Newsroom TRICARE (.mil)",
-      "url": "https://newsroom.tricare.mil/News/TRICARE-News/Article/4584300/provide-feedback-on-clinical-practice-guidelines-in-joint-patient-focus-groups",
-      "date": "2026-08-27T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Przekaż opinię na temat wytycznych praktyki klinicznej we wspólnych grupach fokusowych pacjentów: ból dolnej części pleców, 15 września TRICARE Newsroom (.mil)."
     }
   ],
   "epidemiology": [
@@ -1538,7 +1538,7 @@
       "summary": "Oszczędność czasu jako główny czynnik wpływający na stosowane badania kliniczne online w zakresie opracowywania leków."
     },
     {
-      "title": "Argo wskazuje na zróżnicowany profil leku na obrzęki w kontekście powodzenia fazy II – Clinical Trials Arena",
+      "title": "Argo wskazuje na zróżnicowany profil leku na obrzęki w odniesieniu do powodzenia fazy II – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/argo-hae-bw-20805-phase-ii-results/",
       "date": "2026-09-04T16:00:14Z",
       "source": "Clinical Trials Arena",
@@ -1769,7 +1769,7 @@
       "date": "2026-09-06T06:00:00Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Dzięki sztucznej inteligencji inhalator „trzy w jednym” firmy AstraZeneca, Breztri, ma nową futrzaną maskotkę, która pomaga mu wyróżniać się na zatłoczonym rynku leków na astmę. | Reklama Breztri zachęca widzów do „zatrudnienia LAMA”, przedstawiając lamę wygenerowaną przez sztuczną inteligencję i jego kolegów z podwórza pracujących do późna w biurze."
+      "summary": "Dzięki sztucznej inteligencji inhalator „trzy w jednym” firmy AstraZeneca, Breztri, ma nową futrzaną maskotkę, która pomaga mu wyróżniać się na zatłoczonym rynku leków na astmę. | Reklama Breztri zachęca widzów do „zatrudnienia LAMA”, przedstawiając lamę wygenerowaną przez sztuczną inteligencję i jego kolegów z podwórka pracujących do późna w biurze."
     },
     {
       "title": "Made Fresh Salads, Inc. wycofuje gotowe do spożycia sałatki Deli Style i serek śmietankowy ze względu na możliwe ryzyko dla zdrowia - fda.gov",
