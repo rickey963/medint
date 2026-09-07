@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T00:40:53Z",
+  "last_updated": "2026-09-07T00:41:41Z",
   "poland": [
     {
       "title": "Po czym poznać, że mózg już się nam starzeje? Neurolog o pierwszym widocznym sygnale - Medonet",
@@ -906,7 +906,7 @@
       "url": "https://www.cdc.gov/respiratory-viruses/data/index.html",
       "date": "2026-09-04T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 6,
+      "confirmed_by": 2,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -935,6 +935,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.tctmd.com/news/esc-introduces-first-clinical-guideline-cardiac-rehab",
+      "date": "2026-09-03T19:26:00Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.springhopeenterprise.com/news/unc-health-nash-marks-decade-of-national-acclaim-for-heart-stroke-care-2d3afa74",
       "date": "2026-09-03T19:20:39Z",
       "source": "Wytyczne AHA/ACC",
@@ -945,14 +953,6 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsroom.heart.org/news/new-guidance-introduces-framework-for-assessing-cardiovascular-risk-and-fitness-for-duty-in-tactical-athletes",
       "date": "2026-09-03T18:04:57Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://cardiovascularbusiness.com/topics/clinical/stroke/stroke-patients-should-start-rehab-soon-possible",
-      "date": "2026-09-03T17:03:33Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -1188,7 +1188,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-09-04T19:00:35Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1305,6 +1305,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-09-04T07:00:00Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
       "date": "2026-09-04T07:00:00Z",
       "source": "CDC Outbreaks",
@@ -1372,14 +1380,6 @@
       "url": "https://www.cdc.gov/bird-flu/h5-monitoring/index.html",
       "date": "2026-09-04T07:00:00Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga – ecdc.europa.eu",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-09-04T07:00:00Z",
-      "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
@@ -2142,12 +2142,11 @@
   ],
   "critical_alerts": [
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga – ecdc.europa.eu",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-09-04T07:00:00Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "title": "Sytuacja stabilna - brak nowych alertów medycznych",
+      "summary": "",
+      "url": "",
+      "source": "",
+      "date": "2026-09-07T00:41:41Z"
     }
   ],
   "daily_top5": [
