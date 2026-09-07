@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T10:25:47Z",
+  "last_updated": "2026-09-07T10:26:37Z",
   "poland": [
     {
       "title": "Komunikat Ministra Zdrowia w sprawie realizacji szczepień przeciw COVID-19 w sezonie 2026/2027 - Szczepienia.Info",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Kwasica ketonowa związana z tyrzepatidem u jednej kobiety – Medscape",
+      "url": "https://www.medscape.com/viewarticle/tirzepatide-associated-ketoacidosis-one-woman-2026a1000x4a?src=",
+      "date": "2026-09-07T10:22:54Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "U kobiety bez cukrzycy po podaniu pojedynczej dawki tyrzepatidu wystąpiły uporczywe wymioty i ciężka kwasica z dużą luką anionową, co uwypukliło rzadkie zagrożenie dotyczące bezpieczeństwa."
+    },
+    {
       "title": "Afrykańscy ministrowie zdrowia przyjmują przełomowe ramy mające na celu wzmocnienie zespołów ratownictwa medycznego – afro.who.int",
       "url": "https://www.afro.who.int/countries/ethiopia/news/african-health-ministers-adopt-landmark-framework-strengthen-emergency-medical-teams",
       "date": "2026-09-07T10:16:45Z",
@@ -665,7 +673,7 @@
       "date": "2026-09-06T17:52:03Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Osteoporozę od dawna uznawano za chorobę starszych kobiet, jednak nowy systematyczny przegląd randomizowanych, kontrolowanych badań klinicznych zwraca uwagę na tę populację, co wielokrotnie podkreślali klinicyści."
+      "summary": "Osteoporozę od dawna uznawano za chorobę starszych kobiet, jednak nowy systematyczny przegląd randomizowanych, kontrolowanych badań klinicznych wielokrotnie zwraca uwagę na tę populację."
     },
     {
       "title": "Strona wyszukiwania ogólnego — Światowa Organizacja Zdrowia (WHO)",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Czy kolejność urodzenia jest Twoim przeznaczeniem? - Lekarz NEJM",
-      "url": "https://clinician.nejm.org/nejm-jw.NA39430?show-author=true&author-id=AU108",
-      "date": "2026-09-06T02:00:45Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     }
   ],
   "guidelines": [
@@ -814,20 +814,20 @@
       "summary": "Aplikacje - Moje konto ESC - Europejskie Towarzystwo Kardiologiczne myesc.escardio.org."
     },
     {
-      "title": "Dokument konsultacyjny dotyczący oceny wytycznych dla technologii HTG10877 do diagnozowania endometriozy w podstawowej opiece zdrowotnej – witryna internetowa NICE",
+      "title": "Dokument konsultacyjny dotyczący oceny wytycznych dla technologii HTG10877 do diagnozowania endometriozy w podstawowej opiece zdrowotnej - nice.org.uk",
       "url": "https://www.nice.org.uk/consultations/3386/3/information-about-the-technologies",
       "date": "2026-09-06T05:41:33Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Nie można komentować Ta konsultacja zakończyła się 27 lipca 2026 r. o godzinie 17:00. Poproś o pozwolenie na komentowanie."
+      "summary": "Nie można komentować Ta konsultacja zakończyła się 27 lipca 2026 o godzinie 17:00 Poproś o pozwolenie na komentowanie."
     },
     {
-      "title": "CaRi-Heart do przewidywania ryzyka kardiologicznego u dorosłych z podejrzeniem choroby wieńcowej (CAD) – witryna internetowa NICE",
+      "title": "CaRi-Heart do przewidywania ryzyka kardiologicznego u dorosłych z podejrzeniem choroby wieńcowej (CAD) - nice.org.uk",
       "url": "https://www.nice.org.uk/guidance/indevelopment/gid-htg10885/documents",
       "date": "2026-09-06T01:13:59Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "CaRi-Heart do przewidywania ryzyka kardiologicznego u dorosłych z podejrzeniem choroby wieńcowej (CAD) Strona internetowa NICE."
+      "summary": "CaRi-Heart do przewidywania ryzyka kardiologicznego u dorosłych z podejrzeniem choroby wieńcowej (CAD) nice.org.uk."
     },
     {
       "title": "Szkolenie OK COBIK NIL - Fundacja Rodzinna w sektorze medycznym – zarządzanie formami działalności medycznej - NIL",
@@ -838,12 +838,12 @@
       "summary": "Szkolenie OK COBIK NIL - Fundacja Rodzinna w sektorze medycznym – zarządzanie formami działalności medycznej NIL."
     },
     {
-      "title": "Zaktualizowane wytyczne udoskonalają podejście do zapobiegania migrenie u dorosłych – drugtopics.com",
+      "title": "Zaktualizowane wytyczne udoskonalają podejście do zapobiegania migrenie u dorosłych – tematy związane z narkotykami",
       "url": "https://www.drugtopics.com/view/updated-guideline-refines-approach-to-migraine-prevention-in-adults",
       "date": "2026-09-04T20:11:03Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Zaktualizowane wytyczne udoskonalają podejście do zapobiegania migrenie u dorosłych drugtopics.com."
+      "summary": "Zaktualizowane wytyczne udoskonalają podejście do zapobiegania migrenie u dorosłych w kontekście narkotyków."
     },
     {
       "title": "Konsultacje dotyczące projektu wytycznych – strona internetowa NICE",
@@ -862,15 +862,15 @@
       "summary": "We wrześniu AOTMiT rozpoczyna prace nad zleceniami Ministra Zdrowia:."
     },
     {
-      "title": "Próby według projektu: w nowych wytycznych dobrej praktyki klinicznej - thepharmaletter.com",
+      "title": "Próby według projektu: w nowych wytycznych dobrej praktyki klinicznej - The Pharma Letter",
       "url": "https://www.thepharmaletter.com/insights/trials-by-design-inside-the-news-clinical-guidelines",
       "date": "2026-09-04T10:31:45Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Próby według projektu: w nowych wytycznych dobrej praktyki klinicznej thepharmaletter.com."
+      "summary": "Próby według projektu: w nowych wytycznych dobrej praktyki klinicznej The Pharma Letter."
     },
     {
-      "title": "MINOKA: najnowocześniejszy stan wiedzy - escardio.org",
+      "title": "MINOCA: stan wiedzy - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/communities/councils/cardiology-practice/education/cardiopractice/minoca-state-of-the-art/",
       "date": "2026-09-04T08:47:52Z",
       "source": "ESC (kardiologia)",
@@ -906,7 +906,7 @@
       "url": "https://www.cdc.gov/respiratory-viruses/data/index.html",
       "date": "2026-09-04T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 6,
+      "confirmed_by": 5,
       "summary": "Kanały danych o chorobach układu oddechowego Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
@@ -942,12 +942,28 @@
       "summary": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO The American Journal of Managed Care."
     },
     {
+      "title": "ESC przedstawia pierwsze wytyczne kliniczne dotyczące rehabilitacji kardiologicznej – TCTMD.com",
+      "url": "https://www.tctmd.com/news/esc-introduces-first-clinical-guideline-cardiac-rehab",
+      "date": "2026-09-03T19:26:00Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "ESC przedstawia pierwsze wytyczne kliniczne dotyczące rehabilitacji kardiologicznej TCTMD.com."
+    },
+    {
       "title": "UNC Health Nash upamiętnia dekadę narodowego uznania dla opieki nad sercem i udarem mózgu – springhopeenterprise.com",
       "url": "https://www.springhopeenterprise.com/news/unc-health-nash-marks-decade-of-national-acclaim-for-heart-stroke-care-2d3afa74",
       "date": "2026-09-03T19:20:39Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "UNC Health Nash upamiętnia dekadę krajowego uznania dla opieki nad sercem i udarem springhopeenterprise.com."
+    },
+    {
+      "title": "Nowe wytyczne wprowadzają ramy oceny ryzyka sercowo-naczyniowego i zdolności do pełnienia obowiązków u sportowców taktycznych – www.heart.org",
+      "url": "https://newsroom.heart.org/news/new-guidance-introduces-framework-for-assessing-cardiovascular-risk-and-fitness-for-duty-in-tactical-athletes",
+      "date": "2026-09-03T18:04:57Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "WASZYNGTON i DALLAS, 3 września 2026 r. — Choroby sercowo-naczyniowe (CVD) są główną medyczną przyczyną zgonów związanych ze służbą wśród sportowców taktycznych, w tym personelu wojskowego, strażaków, funkcjonariuszy organów ścigania, ratowników medycznych,..."
     },
     {
       "title": "Notatki terenowe: Wykrywanie konopi indyjskich wśród zgonów spowodowanych przedawkowaniem – Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -998,22 +1014,6 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "NeuroVoices: dr Lorie Richards, OTR/L, w sprawie nowych wytycznych AHA/ASA dotyczących rehabilitacji po udarze na rok 2026 – NeurologyLive",
-      "url": "https://www.neurologylive.com/view/neurovoices-lorie-richards-new-2026-aha-asa-stroke-rehabilitation-guideline",
-      "date": "2026-09-02T11:36:52Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "NeuroVoices: dr Lorie Richards, OTR/L, w sprawie nowych wytycznych AHA/ASA dotyczących rehabilitacji po udarze na rok 2026 NeurologyLive."
-    },
-    {
-      "title": "Pierwotna i wtórna profilaktyka choroby wieńcowej - Medscape",
-      "url": "https://emedicine.medscape.com/article/164214-overview",
-      "date": "2026-09-02T07:00:00Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Pomimo stosunkowo niedawnego spadku śmiertelności skorygowanej o wiek, w 2005 r. choroby układu krążenia (CVD) były główną przyczyną 864 480 zgonów (35,3% ogółu), a drugą przyczyną kolejnych 507 520 zgonów w Stanach Zjednoczonych."
-    },
-    {
       "title": "Mayo prosi dentystów o opinię na temat nawyków przepisywania antybiotyków – DrBicuspid.com",
       "url": "https://www.drbicuspid.com/dental-hygiene/infection-control/antibiotics/article/15833446/mayo-seeks-dentist-input-on-antibioticprescribing-habits",
       "date": "2026-09-01T07:05:38Z",
@@ -1030,7 +1030,7 @@
       "summary": "Nowe wytyczne praktyki klinicznej Amerykańskiej Akademii Neurologii i Amerykańskiego Towarzystwa Bólu Głowy zawierają zalecenia dotyczące wyboru i stosowania leków zapobiegawczych na migrenę."
     },
     {
-      "title": "Nowe wytyczne aktualizują leki stosowane w profilaktyce migreny u dorosłych - News-Medical",
+      "title": "Nowe wytyczne aktualizują leki stosowane w zapobieganiu migrenie u dorosłych - news-medical.net",
       "url": "https://www.news-medical.net/news/20260831/New-guideline-updates-medications-for-preventing-migraine-in-adults.aspx",
       "date": "2026-09-01T03:06:00Z",
       "source": "Wytyczne kliniczne",
@@ -1038,7 +1038,7 @@
       "summary": "Aby pomóc lekarzom w określeniu, które leki mogą być najskuteczniejsze w zapobieganiu migrenie u dorosłych, Amerykańska Akademia Neurologii (AAN) i Amerykańskie Towarzystwo Bólu Głowy (AHS) wydały aktualizację wspólnych wytycznych praktycznych zawierającą zalecenia oparte na dowodach, opublikowaną 31 sierpnia 2026 r. w Neurology®, czasopiśmie medycznym Amerykańskiej Akademii Neurologii oraz w Headache, oficjalnym czasopiśmie Amerykańskiego Towarzystwa Bólu Głowy."
     },
     {
-      "title": "Czy u pacjentów z pozaszpitalnym zatrzymaniem krążenia i bez uniesienia odcinka ST w EKG należy natychmiast wykonać koronarografię? - escardio.org",
+      "title": "Czy u pacjentów z pozaszpitalnym zatrzymaniem krążenia i bez uniesienia odcinka ST w EKG należy natychmiast wykonać koronarografię? - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/news/press/press-releases/should-patients-with-an-out-of-hospital-cardiac-arrest-and-without-an-ecg-st-elevation-receive-immediate-coronary-angiography/",
       "date": "2026-08-31T12:46:39Z",
       "source": "ESC (kardiologia)",
@@ -1046,7 +1046,7 @@
       "summary": "Ostry zespół wieńcowy jest częstą przyczyną pozaszpitalnego zatrzymania krążenia (OHCA). U pacjentów z pozaszpitalnym zatrzymaniem krążenia i uniesieniem odcinka ST w EKG zaleca się natychmiastową koronarografię w celu oceny blokady tętnic, a następnie, jeśli to konieczne, przezskórną interwencję wieńcową (PCI) w celu przywrócenia przepływu krwi. Jednakże dowody na stosowanie koronarografii u pacjentów bez uniesienia odcinka ST w EKG są ograniczone."
     },
     {
-      "title": "Nowe dane dotyczące wykorzystania wapnia w tętnicach wieńcowych w ocenie ryzyka sercowo-naczyniowego - escardio.org",
+      "title": "Nowe dane dotyczące wykorzystania wapnia w tętnicach wieńcowych w ocenie ryzyka sercowo-naczyniowego – Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/news/press/press-releases/new-data-presented-on-the-use-of-coronary-artery-calcium-for-cardiovascular-risk-assessment/",
       "date": "2026-08-31T12:06:38Z",
       "source": "ESC (kardiologia)",
@@ -1054,7 +1054,7 @@
       "summary": "Jak wynika z wyników przedstawionych dzisiaj podczas sesji Hot Line na Kongresie ESC 2026, nie stwierdzono różnicy w zakresie poważnych zdarzeń sercowo-naczyniowych, gdy rozpoczęcie leczenia statynami opierało się na podstawie stężenia wapnia w tętnicach wieńcowych w porównaniu z tradycyjną oceną czynników ryzyka."
     },
     {
-      "title": "Dwie techniki obrazowania równie skuteczne w prowadzeniu skomplikowanego stentowania – escardio.org",
+      "title": "Dwie techniki obrazowania równie skuteczne w prowadzeniu złożonego stentowania – Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/news/press/press-releases/two-imaging-techniques-equally-as-effective-to-guide-complex-stenting/",
       "date": "2026-08-31T11:46:38Z",
       "source": "ESC (kardiologia)",
@@ -1133,7 +1133,7 @@
       "date": "2026-09-06T14:40:26Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Rysunek 2 . Regionalna różnorodność genetyczna i czasowe rozprzestrzenianie się epidemii wirusa chikungunya w Boliwii w obu Amerykach, 2025. A) Drzewo filogenetyczne przedstawiające umiejscowienie genomów z Boliwii w ramach szerszej różnorodności w obu Amerykach."
+      "summary": "Rysunek 2 . Regionalna różnorodność genetyczna i tymczasowe rozprzestrzenianie się epidemii wirusa chikungunya w Boliwii w obu Amerykach, 2025. A) Drzewo filogenetyczne przedstawiające umiejscowienie genomów z Boliwii w ramach szerszej różnorodności w obu Amerykach."
     },
     {
       "title": "Predyktory i wzorce przerzutowej infekcji Candidozyma auris — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1200,7 +1200,7 @@
       "summary": "Epidemia wirusa Ebola: Obecna sytuacja Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Syryjska Republika Arabska: Indywidualny wyciąg z konta 2026 – Światowa Organizacja Zdrowia (WHO)",
+      "title": "Syryjska Republika Arabska: Indywidualny wyciąg z rachunku 2026 – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/syrian-arab-republic--individual-statement-of-account-2026",
       "date": "2026-09-04T18:28:26Z",
       "source": "WHO Disease Outbreak News",
@@ -1304,7 +1304,7 @@
       "summary": "Mapa ta, opracowana przez Panel Ekspertów Wysokiego Szczebla ds. One Health (OHHLEP), stanowi praktyczny przewodnik po międzynarodowych instrumentach — traktatach, standardach i politykach — które kształtują One Health. Identyfikując wzajemne powiązania między zdrowiem ludzi, zwierząt, roślin i ekosystemów, prace te pomagają Czterostronnemu i państwom członkowskim wykorzystać istniejące ramy w celu uzyskania bardziej spójnego, międzysektorowego zarządzania bez konieczności stosowania nowych mechanizmów prawnych."
     },
     {
-      "title": "Profil kraju | Portal strategicznego partnerstwa na rzecz bezpieczeństwa zdrowia i gotowości na wypadek sytuacji kryzysowych (SPH) - extranet.who.int",
+      "title": "Profil kraju | Portal strategicznego partnerstwa na rzecz bezpieczeństwa zdrowia i gotowości na wypadek sytuacji kryzysowych (SPH) - Światowa Organizacja Zdrowia (WHO)",
       "url": "https://extranet.who.int/sph/country-profile/research?country=1279",
       "date": "2026-09-04T13:10:35Z",
       "source": "WHO Disease Outbreak News",
@@ -1365,7 +1365,7 @@
       "date": "2026-09-02T18:57:05Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Syncytialny wirus oddechowy (RSV) może prowadzić do ciężkich chorób u osób starszych, wysyłając je do szpitala, a nawet powodując śmierć. Jednak badanie opublikowane w tym tygodniu w JAMA Internal Medicine, gdy pensjonariusze domów opieki otrzymają szczepionkę przeciwko wirusowi RSV, są mniej narażeni na hospitalizację, powikłania związane z wirusem RSV i śmierć."
+      "summary": "Syncytialny wirus oddechowy (RSV) może prowadzić do ciężkich chorób u osób starszych, wysyłając je do szpitala, a nawet powodując śmierć. Jednak badanie opublikowane w tym tygodniu w JAMA Internal Medicine, gdy pensjonariusze domu opieki otrzymają szczepionkę przeciwko wirusowi RSV, są mniej narażeni na hospitalizację, powikłania związane z wirusem RSV i śmierć."
     },
     {
       "title": "Projekt Vaccine Integrity Project, Amerykańskie Stowarzyszenie Medyczne dokonuje przeglądu szczepionek przeciwko COVID, grypie i RSV – CIDRAP",
@@ -1373,7 +1373,7 @@
       "date": "2026-09-02T14:44:05Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Jesień przynosi wiele nowych zmian, w tym nowy rok szkolny i falę chorób układu oddechowego. Przy niewielkich wskazówkach ze strony rządu federalnego wiele osób nie jest zdezorientowanych, czy potrzebuje szczepionki na grypę, Covid-19 czy wirus syncytialny układu oddechowego (RSV)."
+      "summary": "Jesień przynosi wiele nowych zmian, w tym nowy rok szkolny i falę chorób układu oddechowego. Przy niewielkich wskazówkach ze strony rządu federalnego wiele osób nie jest zdezorientowanych, czy potrzebna im szczepionka na grypę, Covid-19 czy wirus syncytialny układu oddechowego (RSV)."
     },
     {
       "title": "KOMENTARZ: Kiedy federalny proces szczepień zawodzi, dobra nauka nie może się zatrzymać – CIDRAP",
@@ -1538,7 +1538,7 @@
       "summary": "Oszczędność czasu jako główny czynnik wpływający na stosowane badania kliniczne online w zakresie opracowywania leków."
     },
     {
-      "title": "Argo wskazuje na zróżnicowany profil leku na obrzęki w kontekście powodzenia fazy II – Clinical Trials Arena",
+      "title": "Argo wskazuje na zróżnicowany profil leku na obrzęki w odniesieniu do powodzenia fazy II – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/argo-hae-bw-20805-phase-ii-results/",
       "date": "2026-09-04T16:00:14Z",
       "source": "Clinical Trials Arena",
@@ -1591,7 +1591,7 @@
       "date": "2026-09-04T10:30:06Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "ACT Brief: Oszczędność czasu jako czynnik napędzający wartość RBQM, FDA zaostrza nadzór nad badaniami zagranicznymi i zaufane środowiska badawcze w porównaniu z stosowanymi badaniami klinicznymi online w formie płaskich plików."
+      "summary": "ACT Brief: Oszczędność czasu jako czynnik zwiększający wartość RBQM, FDA zaostrza nadzór nad badaniami zagranicznymi i zaufane środowiska badawcze w porównaniu z badaniami klinicznymi stosowanymi w trybie płaskich plików online."
     }
   ],
   "pharma_market": [
@@ -1761,7 +1761,7 @@
       "date": "2026-09-06T06:00:00Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Dzięki sztucznej inteligencji inhalator „trzy w jednym” firmy AstraZeneca, Breztri, ma nową futrzaną maskotkę, która pomaga mu wyróżniać się na zatłoczonym rynku leków na astmę. | Reklama Breztri zachęca widzów do „zatrudnienia LAMA”, przedstawiając lamę wygenerowaną przez sztuczną inteligencję i jego kolegów z podwórza pracujących do późna w biurze."
+      "summary": "Dzięki sztucznej inteligencji inhalator „trzy w jednym” firmy AstraZeneca, Breztri, ma nową futrzaną maskotkę, która pomaga mu wyróżniać się na zatłoczonym rynku leków na astmę. | Reklama Breztri zachęca widzów do „zatrudnienia LAMA”, przedstawiając lamę wygenerowaną przez sztuczną inteligencję i jego kolegów z podwórka pracujących do późna w biurze."
     },
     {
       "title": "Made Fresh Salads, Inc. wycofuje gotowe do spożycia sałatki Deli Style i serek śmietankowy ze względu na możliwe ryzyko dla zdrowia - fda.gov",
@@ -1801,7 +1801,7 @@
       "date": "2026-09-06T01:25:08Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Wiadomo, że 941 leków wchodzi w interakcje z Actifed Cold i Sinus. Obejmuje gabapentynę, lizynopryl, atorwastatynę."
+      "summary": "Wiadomo, że 698 leków wchodzi w interakcje z Actifed Cold i Sinus. Zawiera gabapentynę, sertralinę, metoprolol."
     },
     {
       "title": "Alka-Seltzer Plus Interakcje z ciężkim przeziębieniem, śluzem i przekrwieniem - Drugs.com",
