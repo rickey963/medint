@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T00:19:11Z",
+  "last_updated": "2026-09-08T00:20:01Z",
   "poland": [
     {
       "title": "PUI wesprze diagnostykę w szpitalach. Ministerstwo Zdrowia wskazało 5 usług - Alert Medyczny",
@@ -641,7 +641,7 @@
       "date": "2026-09-07T12:45:48Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Rabdomioliza, rzadkie schorzenie występujące u dzieci i młodzieży, charakteryzuje się uwalnianiem składników wewnątrzkomórkowych w wyniku uszkodzenia mięśni. Chociaż opisano różne etiologie, ciężką hipernatremię rzadko rozpoznaje się jako przyczynę. Przedstawiamy przypadek pediatryczny rabdomiolizy związanej z ciężką hipernatremią wtórną do urazowego uszkodzenia mózgu (TBI)."
+      "summary": "Rabdomioliza związana z hipernatremią w urazach mózgu u dzieci BMJ Case Reports."
     },
     {
       "title": "Mechaniczne ograniczenie żuchwy po złamaniu kompleksu jarzmowo-szczękowego: nietypowa relacja koronoidowo-jarzmowa - BMJ Case Reports",
@@ -914,7 +914,7 @@
       "url": "https://www.cdc.gov/monkeypox/hcp/vaccine-considerations/index.html",
       "date": "2026-09-04T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 3,
       "summary": "Szczepionka zapobiegająca ospie małpiej w amerykańskich Centrach Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
@@ -1484,6 +1484,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Camille Thomassin – Sesja 2_Perspektywa HTA – Europejska Agencja Leków (EMA)",
+      "url": "https://www.ema.europa.eu/da/media/66138",
+      "date": "2026-09-07T23:37:44Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Camille Thomassin – Sesja 2_Perspektywa HTA Europejska Agencja Leków (EMA)."
+    },
+    {
       "title": "Biorę Levaquin. Czy można go przyjmować niezależnie od posiłku, mimo że biorę Velphoro? - narkotyki.com",
       "url": "https://www.drugs.com/answers/levaquin-taken-without-regard-food-tho-take-velpho-3582987.html",
       "date": "2026-09-07T22:29:38Z",
@@ -1874,14 +1882,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Zobacz interakcje leków pomiędzy Abrysvo i Cetyryzyną. Leki te mogą również wchodzić w interakcje z niektórymi pokarmami lub chorobami."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.drugs.com/drug-interactions/acetaminophen-ibuprofen-with-biofreeze-4137-0-2767-18066.html?professional=1",
-      "date": "2026-09-07T15:22:37Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "critical_alerts": [
