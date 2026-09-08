@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T08:19:13Z",
+  "last_updated": "2026-09-08T08:19:59Z",
   "poland": [
     {
       "title": "Medycyna i Zdrowie wiadomości, Portal dla systemu ochrony zdrowia - PolitykaZdrowotna.com - PolitykaZdrowotna.com",
@@ -441,7 +441,7 @@
       "date": "2026-09-08T07:50:33Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Praca starszy specjalista ds. nieruchomości (mechanik) w Buckinghamshire Healthcare NHS Trust (kariera w służbie zdrowia) | 845722 BMJ."
+      "summary": "Starszy specjalista ds. nieruchomości (mechanik) to starszy specjalista techniczny, który zapewnia ochronę upoważnionej osoby, gwarancję inżynierii mechanicznej i..."
     },
     {
       "title": "Dyplomowany Nauczyciel Dzieci i Młodzieży Głuchej – The BMJ",
@@ -681,7 +681,7 @@
       "date": "2026-09-08T01:20:52Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Balamuthia mandrillaris jest rzadką i trudną do zdiagnozowania infekcją o wysokiej śmiertelności. Przedstawiamy przypadek małego dziecka z prawidłową odpornością, u którego wystąpiło zapalenie naczyń ośrodkowego układu nerwowego (OUN). Początkowo zdiagnozowano u niego zapalenie tętnic Takayasu i po leczeniu immunosupresyjnym nastąpił początkowy okres poprawy."
+      "summary": "Balamuthia mandrillaris objawiająca się zapaleniem naczyń ośrodkowego układu nerwowego u małego dziecka. Opisy przypadków BMJ."
     },
     {
       "title": "Nowe podejścia do przywództwa w transformacji systemu opieki zdrowotnej w czasach szybkich zmian — NEJM Catalyst Innovations in Care Delivery",
@@ -998,22 +998,6 @@
       "summary": "WASZYNGTON i DALLAS, 3 września 2026 r. — Choroby sercowo-naczyniowe (CVD) są główną medyczną przyczyną zgonów związanych ze służbą wśród sportowców taktycznych, w tym personelu wojskowego, strażaków, funkcjonariuszy organów ścigania, ratowników medycznych,..."
     },
     {
-      "title": "Notatki terenowe: Wykrywanie konopi indyjskich wśród zgonów spowodowanych przedawkowaniem – Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7534a2.htm",
-      "date": "2026-09-03T16:59:18Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Notatki terenowe: Wykrywanie konopi indyjskich wśród zgonów spowodowanych przedawkowaniem – Stany Zjednoczone, 2021–2025 Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Zasięg szczepień wśród młodzieży w roku 2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7534a1.htm",
-      "date": "2026-09-03T16:59:18Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Zasięg szczepień wśród młodzieży w 2025 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
       "title": "Adiuwant pembrolizumab w dalszym ciągu wykazuje korzyści w zakresie DFS i OS wśród pacjentów z ccRCC - esmo.org",
       "url": "https://www.esmo.org/oncology-news/adjuvant-pembrolizumab-continues-to-demonstrate-benefit-in-dfs-and-os-among-patients-with-ccrcc",
       "date": "2026-09-03T16:59:09Z",
@@ -1028,6 +1012,22 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
+    },
+    {
+      "title": "Epidemia Salmonelli powiązana z jajami w skorupkach – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/salmonella/outbreaks/shell-eggs-07-26/index.html",
+      "date": "2026-09-03T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Epidemia Salmonelli powiązana z Centrami Kontroli i Zapobiegania Chorobom zajmującymi się jajami w skorupkach | CDC (.gov)."
+    },
+    {
+      "title": "Obszary zagrożone Chikungunya — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/chikungunya/data-maps/index.html",
+      "date": "2026-09-03T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Obszary zagrożone dla Chikungunya Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Prezydium NRL przeciw zmianom, które obniżą finansowanie świadczeń uzdrowiskowych - NIL",
@@ -1884,6 +1884,14 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Urzędnicy korzystają z anonimowych danych telefonicznych, które służą do śledzenia przemieszczania się ludności w regionie objętym epidemią."
+    },
+    {
+      "title": "Epidemia Salmonelli powiązana z jajami w skorupkach – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/salmonella/outbreaks/shell-eggs-07-26/index.html",
+      "date": "2026-09-03T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Epidemia Salmonelli powiązana z Centrami Kontroli i Zapobiegania Chorobom zajmującymi się jajami w skorupkach | CDC (.gov)."
     }
   ],
   "daily_top5": [
