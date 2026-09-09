@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-09T06:46:24Z",
+  "last_updated": "2026-09-09T06:47:00Z",
   "poland": [
+    {
+      "title": "Awantura o szkolne posiłki - Aktualności - Pediatria - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/pediatria/aktualnosci/448242,awantura-o-szkolne-posilki",
+      "date": "2026-09-09T06:44:22Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "„Awantura” wokół nowych zasad żywienia dzieci w szkołach przekracza granice zdrowego rozsądku – oceniła we wtorek minister edukacji Barbara Nowacka."
+    },
     {
       "title": "Nowe zasady leczenia odleżyn w opiece długoterminowej - Termedia",
       "url": "https://www.termedia.pl/mz/Nowe-zasady-leczenia-odlezyn-w-opiece-dlugoterminowej,68600.html",
@@ -392,14 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "W tym roku Samodzielny Publiczny Szpital Kliniczny im. prof. W."
-    },
-    {
-      "title": "Szczepienie zapobiega ciężkim infekcjom dolnych dróg oddechowych - Termedia",
-      "url": "https://www.termedia.pl/mz/Szczepienie-zapobiega-ciezkim-infekcjom-dolnych-drog-oddechowych,68907.html",
-      "date": "2026-09-08T12:44:00Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "O znaczeniu szczepień przeciwko RSV dla seniorów i osób z chorobami współistniejącymi mówi prof. dr hab. n."
     }
   ],
   "world": [
@@ -649,7 +649,7 @@
       "date": "2026-09-08T13:00:43Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Tozorakimab w zapobieganiu zaostrzeniom POChP NEJM."
     },
     {
       "title": "Wysoce wyspecjalizowany dietetyk zajmujący się alergią dziecięcą i ostrymi schorzeniami – BMJ",
@@ -780,7 +780,7 @@
       "summary": "Sztuczna inteligencja dla zdrowia Amazonii: weryfikacja jest ceną wejścia The Lancet."
     },
     {
-      "title": "Eradykacja polio w Afryce: ulotka z najważniejszymi informacjami (pierwszy i drugi kwartał 2026 r.) – WHO | Biuro Regionalne dla Afryki",
+      "title": "Eradykacja polio w Afryce: ulotka z najważniejszymi informacjami (pierwszy i drugi kwartał 2026 r.) – afro.who.int",
       "url": "https://afro.who.int/publications/polio-eradication-africa-highlights-leaflet-q1-and-q2-2026",
       "date": "2026-09-08T10:55:49Z",
       "source": "WHO",
@@ -1966,8 +1966,16 @@
       "summary": "Od maja 2026 r. w Demokratycznej Republice Konga (DRK) trwa epidemia wirusa Ebola wywołana wirusem Bundibugyo."
     },
     {
-      "title": "Eradykacja polio w Afryce: ulotka z najważniejszymi informacjami (pierwszy i drugi kwartał 2026 r.) – WHO | Biuro Regionalne dla Afryki",
+      "title": "Eradykacja polio w Afryce: ulotka z najważniejszymi informacjami (pierwszy i drugi kwartał 2026 r.) – afro.who.int",
       "url": "https://afro.who.int/publications/polio-eradication-africa-highlights-leaflet-q1-and-q2-2026",
+      "date": "2026-09-08T10:55:49Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "W pierwszej połowie 2026 r. odnotowano zachęcający postęp w kierunku Afryki wolnej od polio. Pomimo wykrycia krążącego wirusa polio typu 1 i 3 kraje wykazują silne zaangażowanie w powstrzymywanie przenoszenia się wirusa i ochronę każdego dziecka. Poza polio, możliwości programu w zakresie nadzoru, laboratoriów, siły roboczej i reagowania w sytuacjach kryzysowych w dalszym ciągu wzmacniają szersze wysiłki w zakresie zdrowia publicznego w całym regionie. Osiągnięcia te podkreślają, dlaczego utrzymanie i integracja tych aktywów ma znaczenie dla przyszłości zdrowia publicznego."
+    },
+    {
+      "title": "Eradykacja polio w Afryce: ulotka z najważniejszymi informacjami (pierwszy i drugi kwartał 2026 r.) – WHO | Biuro Regionalne dla Afryki",
+      "url": "https://www.afro.who.int/publications/polio-eradication-africa-highlights-leaflet-q1-and-q2-2026",
       "date": "2026-09-08T10:55:49Z",
       "source": "WHO",
       "confirmed_by": 1,
