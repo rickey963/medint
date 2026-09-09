@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T22:27:02Z",
+  "last_updated": "2026-09-09T22:27:38Z",
   "poland": [
     {
       "title": "Tryb podstawowy bez przeprowadzenia negocjacji - Narodowy Fundusz Zdrowia (NFZ)",
@@ -441,7 +441,7 @@
       "date": "2026-09-09T18:17:18Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Ogłoszona w sierpniu ugoda Meta o wartości 18 miliardów dolarów (13 miliardów funtów; 15 miliardów euro) z 51 stanami USA jest już nazywana tytoniowym momentem w mediach społecznościowych. Uzasadnia to porównanie, ale nie z powodu, jak sugerują nagłówki.1 Pieniądze są trywialne jak na firmę, która w zeszłym roku zarobiła 60 miliardów dolarów dochodu netto i miała przychody na poziomie 201 miliardów dolarów.2 Liczy się to, że Meta po raz pierwszy zgodziła się związać projekt swojego produktu z możliwymi do wyegzekwowania, zewnętrznymi audytami limitami, w tym tym, jak długo dzieci mogą korzystać z jej platform, kiedy mogą być powiadamiane, co mogą zobaczyć w przypadku „lajków” i w jaki sposób generowany jest ich kanał. Wszystkie te produkty są prawdziwymi nowościami i stanowią odpowiedź na większość krytyki kierowanej pod adresem firmy."
+      "summary": "Od tytoniu po TikTok, ciąg dalszy: Co naprawdę oznacza ugoda Meta o wartości 18 miliardów dolarów BMJ."
     },
     {
       "title": "Dane dotyczące leków na białaczkę sugerują inny sposób leczenia cukrzycy. Nowa biotechnologia przetestuje ten pomysł – STAT",
@@ -529,7 +529,7 @@
       "date": "2026-09-09T14:50:01Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Trzy lata temu pielęgniarka noworodkowa Lucy Letby została skazana za siedem morderstw i sześć usiłowań morderstwa dzieci znajdujących się pod jej opieką. Zaakceptowałem wówczas werdykt ławy przysięgłych, że stawiane jej zarzuty zostały udowodnione ponad wszelką wątpliwość. Spekulowałem na temat możliwych czynników psychologicznych i systemowych, które mogły mieć wpływ na zarzucane przestępstwa."
+      "summary": "John Launer: Dlaczego zmieniłem zdanie na temat Lucy Letby The BMJ."
     },
     {
       "title": "Ciężkie infekcje powiązane z ryzykiem niewydolności serca – Medscape",
@@ -553,7 +553,7 @@
       "date": "2026-09-09T13:59:57Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Allotey i współpracownicy mają rację, że globalne spowolnienie redukcji umieralności dzieci od 2015 r. jest porażką, której społeczność międzynarodowa nie może zignorować.12 Jednak w artykule redakcyjnym i towarzyszącym mu badaniu agregowano dane w skali globalnej; nie pytają, które kraje poczyniły postępy pomimo przestoju. Chiny tak zrobiły i to, co się tam wydarzyło, jest warte zrozumienia. W latach 2016–2022 Chiny…."
+      "summary": "Chiny poczyniły postępy w zakresie śmiertelności dzieci Według BMJ."
     },
     {
       "title": "Odkrywcy oreksyny wyróżnieni prestiżową nagrodą Laskera – STAT",
@@ -1570,19 +1570,11 @@
   ],
   "clinical_trials": [
     {
-      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
-      "date": "2026-09-09T20:37:50Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 2,
-      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
-    },
-    {
       "title": "Więcej niż zgodność: dr Joseph Geraci z firmy NetraMark o wyjaśnianiu podgrup pacjentów wykorzystujących sztuczną inteligencję – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/beyond-compliance-netramark-joseph-geraci-phd-ai-driven-patient-subgroups-explainable",
       "date": "2026-09-09T16:40:45Z",
       "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Więcej niż zgodność: dr Joseph Geraci z firmy NetraMark o wyjaśnianiu stosowanych prób klinicznych online w podgrupach pacjentów opartych na sztucznej inteligencji."
     },
     {
@@ -1640,6 +1632,14 @@
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Kombinacja Imfinzi-Imdelltra buduje frontalny przypadek SCLC w fazie III wygrywającej Arenie Badań Klinicznych."
+    },
+    {
+      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
+      "date": "2026-09-09T09:29:03Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
     },
     {
       "title": "Streszczenie ACT: Ukryta wartość RBQM, partnerstwo pacjentów z chorobami rzadkimi i postrzeganie bezpieczeństwa w IBD – stosowane badania kliniczne online",
