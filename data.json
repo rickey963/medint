@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T21:20:49Z",
+  "last_updated": "2026-09-09T21:21:38Z",
   "poland": [
     {
       "title": "Tryb podstawowy bez przeprowadzenia negocjacji - Narodowy Fundusz Zdrowia (NFZ)",
@@ -16,6 +16,14 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Podczas trwającego właśnie Forum Ekonomicznego w Karpaczu, Ministerstwo Zdrowia przedstawiło założenia Polityki Lekowej Państwa na lata 2027-2032."
+    },
+    {
+      "title": "Gdzie trzymać chleb, by był świeży: piekarze wskazują najlepsze miejsce - Żywienie Medonet",
+      "url": "https://zywienie.medonet.pl/narodowy-test-zywienia-polakow/produkty-spozywcze/nie-lodowka-i-nie-kazdy-chlebak-eksperci-zdradzaja-gdzie-trzymac-chleb/gcbj3xk",
+      "date": "2026-09-09T19:11:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Nawet najlepszy chleb szybko straci na jakości, jeśli nie zadbamy o odpowiednie warunki przechowywania. Piekarze nie mają wątpliwości: to, gdzie i jak trzymamy pieczywo, decyduje o jego smaku, chrupkości skórki i soczystości miękiszu. Najgorsze, co można zrobić, to schować chlebowe bochenki do lodówki, ale nie brakuje też innych błędów popełnianych z niewiedzy."
     },
     {
       "title": "Nie ignoruj tych siedmiu objawów. W ciele może rozwijać się rak - Medonet",
@@ -392,17 +400,17 @@
       "source": "Remedium.md",
       "confirmed_by": 1,
       "summary": "Szpitale zalegają na 87 mln zł wobec Regionalnych Centrów Krwi i Krwiolecznictwa. Osiem ośrodków przygotowuje plany naprawcze. Szykują się podwyżki stawek."
-    },
-    {
-      "title": "Wybierz subskrypcję mp.pl premium - Medycyna Praktyczna",
-      "url": "https://premium.mp.pl/platnosci/formularz-zamowienia/?product=23480&pg=1&pf=monthly&rfr=https%3A%2F%2Fpremium.mp.pl%2Fpodreczniki%2Finterna-klon%2Fchapter%2FB99-III-J-7%2Cautoimmunologiczne-zapalenie-watroby%2F",
-      "date": "2026-09-09T10:12:33Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Wybierz subskrypcję MP.pl Premium."
     }
   ],
   "world": [
+    {
+      "title": "Do głośnego płaczu: co kryje się za kolką dziecięcą? - Lekarz NEJM",
+      "url": "https://clinician.nejm.org/CLINjwNA60453",
+      "date": "2026-09-09T18:45:33Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
+    },
     {
       "title": "Wczesna terapia o wysokiej skuteczności w stwardnieniu rozsianym u dzieci – klinicysta NEJM",
       "url": "https://clinician.nejm.org/CLINjwNA60303",
@@ -420,20 +428,12 @@
       "summary": "Przeczytaj ten artykuł z wytycznymi i więcej podsumowań klinicznych na temat NEJM Clinician."
     },
     {
-      "title": "Do głośnego płaczu: co kryje się za kolką dziecięcą? - Lekarz NEJM",
-      "url": "https://clinician.nejm.org/CLINjwNA60453",
-      "date": "2026-09-09T18:45:33Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
-    },
-    {
       "title": "Od tytoniu po TikTok, ciąg dalszy: Co naprawdę oznacza ugoda Meta na kwotę 18 miliardów dolarów – BMJ",
       "url": "https://www.bmj.com/content/394/bmj-2026-100800/related",
       "date": "2026-09-09T18:17:18Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Od tytoniu po TikTok, ciąg dalszy: Co naprawdę oznacza ugoda Meta o wartości 18 miliardów dolarów BMJ."
+      "summary": "Ogłoszona w sierpniu ugoda Meta o wartości 18 miliardów dolarów (13 miliardów funtów; 15 miliardów euro) z 51 stanami USA jest już nazywana tytoniowym momentem w mediach społecznościowych. Uzasadnia to porównanie, ale nie z powodu, jak sugerują nagłówki.1 Pieniądze są trywialne jak na firmę, która w zeszłym roku zarobiła 60 miliardów dolarów dochodu netto i miała przychody na poziomie 201 miliardów dolarów.2 Liczy się to, że Meta po raz pierwszy zgodziła się związać projekt swojego produktu z możliwymi do wyegzekwowania, zewnętrznymi audytami limitami, w tym tym, jak długo dzieci mogą korzystać z platform, kiedy mogą być powiadamiane, co mogą zobaczyć w przypadku „lajków” i w jaki sposób generowany jest ich kanał. Wszystkie te produkty są prawdziwymi nowościami i stanowią odpowiedź na większość krytyki kierowanej pod adresem firmy."
     },
     {
       "title": "Dane dotyczące leków na białaczkę sugerują inny sposób leczenia cukrzycy. Nowa biotechnologia przetestuje ten pomysł – STAT",
@@ -444,7 +444,7 @@
       "summary": "Caspian Therapeutics rozpoczyna działalność z finansowaniem w wysokości 50 milionów dolarów na opracowanie inhibitorów meniny stosowanych w leczeniu cukrzycy i innych chorób kardiometabolicznych."
     },
     {
-      "title": "Wziewna terapia siRNA ukierunkowana na RAGE w leczeniu zapalenia płuc: pierwsze randomizowane badanie na ludziach - Nature",
+      "title": "Wdychana terapia siRNA ukierunkowana na RAGE w leczeniu zapalenia płuc: pierwsze randomizowane badanie na ludziach - Nature",
       "url": "https://www.nature.com/articles/s41591-026-04607-z",
       "date": "2026-09-09T17:47:56Z",
       "source": "Nature Medicine",
@@ -476,12 +476,12 @@
       "summary": "Żaden uczeń nie powinien czuć się niezdolny do zgłoszenia molestowania lub niewłaściwego zachowania na tle seksualnym ani sądzić, że zgłaszanie tego faktu może zaszkodzić jego przyszłej karierze.1 Uczniowie powinni jasno powiedzieć, że zgłaszanie niewłaściwego zachowania, molestowania lub innych problemów na tle seksualnym…."
     },
     {
-      "title": "Rumień zapalny u pacjenta pediatrycznego: nieoczekiwana przyczyna - casereports.bmj.com",
+      "title": "Rumień zapalny u pacjenta pediatrycznego: nieoczekiwana przyczyna - opisy przypadków BMJ",
       "url": "https://casereports.bmj.com/content/19/9/e270756",
       "date": "2026-09-09T15:44:35Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Rumień zapalny u pacjenta pediatrycznego: nieoczekiwana przyczyna casereports.bmj.com."
+      "summary": "Rumień ab igne (EAI) to siatkowata, rumieniowa wysypka powstająca w wyniku powtarzającego się narażenia na działanie niskiej jakości ciepła, zwykle emitowanego przez urządzenia grzewcze. Chociaż w przeszłości EAI występowała częściej u dorosłych, coraz częściej rozpoznawana jest u dzieci ze względu na rosnące wykorzystanie urządzeń elektronicznych. Opisujemy chłopca w połowie dzieciństwa, u którego wystąpiła wysypka w jamie brzusznej, początkowo podejrzanej o uszkodzenie wątroby w następstwie drobnego urazu."
     },
     {
       "title": "Skuteczność przeciwbólowa celekoksybu w porównaniu z ibuprofenem po operacji trzeciego zęba trzonowego: przegląd systematyczny i metaanaliza randomizowanych, kontrolowanych badań klinicznych - Cureus",
@@ -489,7 +489,7 @@
       "date": "2026-09-09T15:20:49Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Skuteczność przeciwbólowa celekoksybu w porównaniu z ibuprofenem po operacji trzeciego zęba trzonowego: przegląd systematyczny i metaanaliza randomizowanych, kontrolowanych badań Cureus."
+      "summary": "Skuteczność przeciwbólowa celekoksybu w porównaniu z ibuprofenem po operacji trzeciego trzonowca: przegląd systematyczny i metaanaliza randomizowanych, kontrolowanych badań Cureus."
     },
     {
       "title": "Nigeria: Lista leków podstawowych 2024 (angielski) - who.int",
@@ -553,7 +553,7 @@
       "date": "2026-09-09T13:43:39Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Nowy szef FDA CBER, firma zajmująca się sztuczną inteligencją Schrodinger z nowym start-upem i więcej wiadomości biotechnologicznych z The Readout."
+      "summary": "Nowy szef FDA CBER, firma AI Schrodinger z nowym start-upem i więcej wiadomości biotechnologicznych z The Readout."
     },
     {
       "title": "Pharmalittle: Czytamy o zwycięstwie AstraZeneca w zakresie POChP, obsadzaniu kluczowych stanowisk przez FDA i nie tylko – STAT",
@@ -593,7 +593,7 @@
       "date": "2026-09-09T12:00:00Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Dołącz do WHO i weź udział w Globalnym Dialogu z okazji Światowego Dnia Bezpieczeństwa Pacjenta 2026 pod hasłem „Bezpieczna pielęgnacja życia!”."
+      "summary": "Dołącz do WHO i weź udział w Globalnym Dialogu z okazji Światowego Dnia Bezpieczeństwa Pacjenta 2026 pod hasłem „Bezpieczna troska o życie!”."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -851,7 +851,7 @@
       "date": "2026-09-09T07:06:56Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska."
+      "summary": "Stanowisko PNRL ws. projektu zarządzenia Prezesa Narodowego Funduszu Zdrowia NIL."
     },
     {
       "title": "Przegląd | Nemolizumab w leczeniu świądu guzkowego o nasileniu umiarkowanym do ciężkiego | Poradnik - strona internetowa NICE",
@@ -1086,6 +1086,14 @@
       "summary": "Przypadki i ogniska odry Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
+      "title": "Prezes UODO odpowiada w sprawie incydentu dotyczącego MyDr - NIL",
+      "url": "https://nil.org.pl/aktualnosci/9387-prezes-uodo-odpowiada-w-sprawie-incydentu-dotyczacego-mydr",
+      "date": "2026-09-03T22:39:09Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Prezes UODO odpowiada w sprawie incydentu dotyczącego MyDr NIL."
+    },
+    {
       "title": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO – The American Journal of Managed Care",
       "url": "https://www.ajmc.com/view/ckm-guideline-aims-to-break-down-specialty-silos-keith-bellovich-do",
       "date": "2026-09-03T20:20:39Z",
@@ -1107,7 +1115,7 @@
       "date": "2026-09-03T18:04:57Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "WASZYNGTON i DALLAS, 3 września 2026 r. — Choroby sercowo-naczyniowe (CVD) są główną medyczną przyczyną zgonów związanych ze służbą wśród sportowców taktycznych, w tym personelu wojskowego, strażaków, funkcjonariuszy organów ścigania, ratowników medycznych,…"
+      "summary": "WASZYNGTON i DALLAS, 3 września 2026 r. — Choroby sercowo-naczyniowe (CVD) są główną medyczną przyczyną zgonów związanych ze służbą wśród sportowców taktycznych, w tym personelu wojskowego, strażaków, funkcjonariuszy organów ścigania, ratowników medycznych,..."
     },
     {
       "title": "Pacjenci po udarze powinni jak najszybciej rozpocząć rehabilitację - Biznes Kardiologiczny",
@@ -1134,14 +1142,6 @@
       "summary": "Zasięg szczepień wśród młodzieży w 2025 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Włączanie i optymalizacja leczenia w zespole nadpobudliwości psychoruchowej z deficytem uwagi: praktyczne podejście do praktyki ogólnej – Royal Australian College of General Practitioners (RACGP)",
-      "url": "https://www1.racgp.org.au/ajgp/2026/september/medication-initiation-and-optimisation-in-attentio",
-      "date": "2026-09-01T21:10:15Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Celem tego artykułu jest przedstawienie praktycznego przewodnika dla lekarzy pierwszego kontaktu w Australii, którzy chcą rozpocząć leczenie ADHD o działaniu stymulującym lub niestymulującym."
-    },
-    {
       "title": "Czy u pacjentów z pozaszpitalnym zatrzymaniem krążenia i bez uniesienia odcinka ST w EKG należy natychmiast wykonać koronarografię? - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/news/press/press-releases/should-patients-with-an-out-of-hospital-cardiac-arrest-and-without-an-ecg-st-elevation-receive-immediate-coronary-angiography/",
       "date": "2026-08-31T12:46:39Z",
@@ -1158,17 +1158,17 @@
       "summary": "Jak wynika z wyników przedstawionych dzisiaj podczas sesji Hot Line na Kongresie ESC 2026, optyczna tomografia koherentna nie jest gorsza od ultrasonografii wewnątrznaczyniowej w zakresie wskazywania stentowania u pacjentów z chorobą wieńcową lewej tętnicy głównej."
     },
     {
-      "title": "Poręczny monitor usprawnia diagnostykę zaburzeń rytmu serca po omdleniu – Europejskie Towarzystwo Kardiologiczne",
-      "url": "https://www.escardio.org/news/press/press-releases/wearable-monitor-improves-diagnosis-of-heart-rhythm-disorders-after-fainting/",
-      "date": "2026-08-31T10:50:18Z",
-      "source": "ESC (kardiologia)",
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 28 sierpnia 2026 r. w sprawie limitu przyjęć na studia na kierunkach lekarskim i lekarsko-dentystycznym",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/1167",
+      "date": "2026-08-28T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
-      "summary": "Wczesne monitorowanie EKG rozpoczęte na oddziale ratunkowym (SOR) może zmienić sposób leczenia tysięcy pacjentów zgłaszających się na SOR z niewyjaśnionymi omdleniami. Taki był główny wniosek z badania ASPIRED zaprezentowany dzisiaj podczas sesji Hot Line na Kongresie ESC 2026 i opublikowany jednocześnie w New England Journal of Medicine."
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1167, z dniem ogłoszenia 2026-09-02."
     }
   ],
   "epidemiology": [
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga – ecdc.europa.eu",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-09T20:29:37Z",
       "source": "ECDC",
@@ -1277,7 +1277,7 @@
       "date": "2026-09-09T12:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Dołącz do WHO i weź udział w Globalnym Dialogu z okazji Światowego Dnia Bezpieczeństwa Pacjenta 2026 pod hasłem „Bezpieczna pielęgnacja życia!”."
+      "summary": "Dołącz do WHO i weź udział w Globalnym Dialogu z okazji Światowego Dnia Bezpieczeństwa Pacjenta 2026 pod hasłem „Bezpieczna troska o życie!”."
     },
     {
       "title": "Nawigacja po menopauzie: seks, relacje i dobre samopoczucie - who.int",
@@ -1325,7 +1325,7 @@
       "date": "2026-09-08T22:13:40Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Celem tego seminarium internetowego jest przedstawienie kompleksowego przeglądu związku między używaniem tytoniu, w tym nowymi formami i narażeniem na papierosy z drugiej ręki, a niepłodnością."
+      "summary": "Celem tego seminarium internetowego jest przedstawienie kompleksowego przeglądu związku między używaniem tytoniu, w tym nowych form i narażenia na bierne palenie, a niepłodnością."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1570,100 +1570,100 @@
   ],
   "clinical_trials": [
     {
-      "title": "Więcej niż zgodność: dr Joseph Geraci z firmy NetraMark o wyjaśnianiu podgrup pacjentów wykorzystujących sztuczną inteligencję – stosowane badania kliniczne online",
+      "title": "Więcej niż zgodność: dr Joseph Geraci z firmy NetraMark o wyjaśnianiu podgrup pacjentów wykorzystujących sztuczną inteligencję - Applyclinicaltrialsonline.com",
       "url": "https://www.appliedclinicaltrialsonline.com/view/beyond-compliance-netramark-joseph-geraci-phd-ai-driven-patient-subgroups-explainable",
       "date": "2026-09-09T16:40:45Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Więcej niż zgodność: dr Joseph Geraci z firmy NetraMark o wyjaśnianiu stosowanych prób klinicznych online w podgrupach pacjentów opartych na sztucznej inteligencji."
+      "summary": "Więcej niż zgodność: dr Joseph Geraci z firmy NetraMark o wyjaśnianiu podgrup pacjentów opartych na sztucznej inteligencji Applyclinicaltrialsonline.com."
     },
     {
-      "title": "Doktor Joseph Geraci – Stosowane badania kliniczne online",
+      "title": "Doktor Joseph Geraci – Applyclinicaltrialsonline.com",
       "url": "https://www.appliedclinicaltrialsonline.com/authors/joseph-geraci",
       "date": "2026-09-09T15:31:00Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Doktor Joseph Geraci Stosowane badania kliniczne online."
+      "summary": "Doktor Joseph Geraci Applyclinicaltrialsonline.com."
     },
     {
-      "title": "ERS 2026: przełomowe zmniejszenie zaostrzeń dzięki tozorakimabowi wyznacza nową poprzeczkę w leczeniu POChP - Clinictrialsarena.com",
+      "title": "ERS 2026: przełomowe zmniejszenie zaostrzeń dzięki tozorakimabowi wyznacza nową poprzeczkę w POChP – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/analyst-comment/ers-2026-tozorakimab-exacerbation-reduction-copd/",
       "date": "2026-09-09T14:57:27Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "ERS 2026: przełomowa redukcja zaostrzeń dzięki tozorakimabowi wyznacza nową poprzeczkę na stronie Clinictrialsarena.com dotyczącej POChP."
+      "summary": "ERS 2026: przełomowa redukcja zaostrzeń dzięki tozorakimabowi wyznacza nową poprzeczkę w arenie badań klinicznych POChP."
     },
     {
-      "title": "Pharvaris wyznacza kurs zatwierdzania leku na obrzęki po zwycięstwie w fazie III – Clinictrialsarena.com",
+      "title": "Pharvaris wyznacza przebieg zatwierdzenia leku na obrzęk w fazie III – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/pharvaris-deucrictibant-xr-charts-us-approval-course-hae-swelling-disorder/",
       "date": "2026-09-09T11:37:10Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Pharvaris rejestruje kurs zatwierdzania leku na zaburzenia obrzękowe w fazie III wygrywając Clinictrialsarena.com."
+      "summary": "Pharvaris wyznacza kurs zatwierdzania leku na obrzęki w fazie III wygranej na Arenie Badań Klinicznych."
     },
     {
-      "title": "Orphalan rozpoczyna badanie III fazy TRADYCYJNE dotyczące choroby Wilsona – Clinicaltrialsarena.com",
+      "title": "Orphalan rozpoczyna TRADYCYJNE badanie fazy III dotyczące choroby Wilsona - Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/orphalan-begins-phase-iii-traditional-study/",
       "date": "2026-09-09T10:23:50Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Orphalan rozpoczyna badanie III fazy TRADYCYJNE dotyczące choroby Wilsona Clinictrialsarena.com."
+      "summary": "Orphalan rozpoczyna TRADYCYJNE badanie III fazy na platformie badań klinicznych nad chorobą Wilsona."
     },
     {
-      "title": "BMS zgłasza pozytywne dane z badania fazy II QUINTESSENTIAL dotyczącego r/r MM - ClinicalTrialsarena.com",
+      "title": "BMS zgłasza pozytywne dane z badania fazy II QUINTESSENTIAL dla r/r MM - Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/bms-positive-data-quintessential-study/",
       "date": "2026-09-09T10:23:05Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "BMS zgłasza pozytywne dane z badania fazy II QUINTESSENTIAL dla r/r MM Clinictrialsarena.com."
+      "summary": "BMS zgłasza pozytywne dane z badania fazy II QUINTESSENTIAL dla r/r MM Clinical Trials Arena."
     },
     {
-      "title": "Informacje o ACT: Wielofunkcyjna rejestracja RBQM i E6(R3), wydajność płatności w witrynie i pas startowy gotówki oraz terapia wziewna w przypadku mukowiscydozy – stosowane badania kliniczne online",
+      "title": "Informacje o ACT: Wielofunkcyjna rejestracja RBQM i E6(R3), wydajność płatności w witrynie i pas startowy gotówki oraz terapia wziewna w przypadku mukowiscydozy - Applyclinicaltrialsonline.com",
       "url": "https://www.appliedclinicaltrialsonline.com/view/rbqm-multi-functional-buy-in-e6-r3-site-payment-performance-cash-inhaled-therapy-cystic-fibrosis",
       "date": "2026-09-09T10:20:49Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Informacje o ACT: wielofunkcyjne wpisowe RBQM i E6(R3), wyniki płatności w witrynie i pas startowy gotówki oraz stosowane w Internecie badania kliniczne dotyczące terapii wziewnej w przypadku mukowiscydozy."
+      "summary": "Informacje o ACT: wielofunkcyjne wpisowe RBQM i E6(R3), wydajność płatności w witrynie i pas startowy gotówki oraz terapia wziewna w przypadku mukowiscydozy Applyclinicaltrialsonline.com."
     },
     {
-      "title": "Kombinacja Imfinzi-Imdelltra buduje przypadek SCLC na pierwszej linii po zwycięstwie w fazie III – ClinicalTrialsarena.com",
+      "title": "Kombinacja Imfinzi-Imdelltra buduje frontalny przypadek SCLC po zwycięstwie w fazie III – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/astrazeneca-amgen-imfinzi-imdelltra-es-sclc-phase-iii/",
       "date": "2026-09-09T10:18:36Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Kombinacja Imfinzi-Imdelltra tworzy frontalny przypadek SCLC w fazie III wygrywając Clinictrialsarena.com."
+      "summary": "Kombinacja Imfinzi-Imdelltra buduje frontalny przypadek SCLC w fazie III wygrywającej Arenie Badań Klinicznych."
     },
     {
-      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi – stosowane badania kliniczne online",
+      "title": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi - Applyclinicaltrialsonline.com",
       "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
       "date": "2026-09-09T09:29:03Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
+      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi Applyclinicaltrialsonline.com."
     },
     {
-      "title": "Streszczenie ACT: Ukryta wartość RBQM, partnerstwo pacjentów z chorobami rzadkimi i postrzeganie bezpieczeństwa w IBD – stosowane badania kliniczne online",
+      "title": "Streszczenie ACT: Ukryta wartość RBQM, partnerstwo z pacjentami cierpiącymi na choroby rzadkie i postrzeganie bezpieczeństwa w IBD – Applyclinicaltrialsonline.com",
       "url": "https://www.appliedclinicaltrialsonline.com/view/hidden-rbqm-value-rare-disease-patient-partnership-safety-perception-ibd",
       "date": "2026-09-08T10:21:21Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Streszczenie ACT: Ukryta wartość RBQM, partnerstwo pacjentów z chorobami rzadkimi i postrzeganie bezpieczeństwa w internetowych badaniach klinicznych stosowanych w leczeniu IBD."
+      "summary": "Streszczenie ACT: Ukryta wartość RBQM, partnerstwo z pacjentami cierpiącymi na choroby rzadkie i postrzeganie bezpieczeństwa w IBD Applyclinicaltrialsonline.com."
     },
     {
-      "title": "Zakład Novartis na Avidity o wartości 12 miliardów dolarów słabnie po flopie del-desirana w późnej fazie gry – Clinicaltrialsarena.com",
+      "title": "Zakład Novartis na Avidity o wartości 12 miliardów dolarów słabnie po flopie del-desiran w późnej fazie – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/novartis-12bn-avidity-bet-falters-del-desiran-flop/",
       "date": "2026-09-08T09:51:51Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Zakład Novartis Avidity o wartości 12 miliardów dolarów słabnie po flopie del-desiran na stronie Clinicaltrialsarena.com w późnej fazie."
+      "summary": "Zakład Novartis na Avidity o wartości 12 miliardów dolarów zawodzi na flopie del-desiran Clinical Trials Arena w późnej fazie."
     },
     {
-      "title": "Wegovy firmy Novo zachwala potencjał leczenia otyłości u pacjentów w wieku zaledwie sześciu lat - Clinicaltrialsarena.com",
+      "title": "Wegovy firmy Novo zachwala potencjał leczenia otyłości u pacjentów w wieku sześciu lat – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/novo-nordisk-wegovy-touts-obesity-treating-potential-as-young-as-six/",
       "date": "2026-09-08T09:26:49Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Wegovy firmy Novo zachwala potencjał leczenia otyłości u pacjentów w wieku sześciu lat. Clinicaltrialsarena.com."
+      "summary": "Wegovy firmy Novo zachwala potencjał w leczeniu otyłości u pacjentów w wieku sześciu lat na arenie badań klinicznych."
     },
     {
       "title": "Rezubio podaje dawki pierwszej kohorcie w I fazie badania wziewnego RZ-520 – Arena Badań Klinicznych",
@@ -1682,12 +1682,12 @@
       "summary": "Acepodia uzyskuje zgodę FDA na rozpoczęcie fazy I badania klinicznego ACE723 na arenie badań klinicznych."
     },
     {
-      "title": "„Spikeopatia” po szczepieniu na Covid-19: dwa uderzające przypadki budzą poważną hipotezę, ale jej nie udowadniają",
+      "title": "„Spikeopatia” po szczepieniu na Covid-19: dwa uderzające przypadki budzą poważną hipotezę, ale jej nie udowadniają – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/spikeopathy-after-covid-19-vaccination-two-striking-cases-raise-a-serious-hypothesisbut-do-not-prove-it-5946a362",
       "date": "2026-09-08T01:05:17Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Robyn Cosford, przewodnicząca Children’s Health Defense Australia, w opisie przypadku opublikowanym w Medical Research Archives opisuje dwóch wcześniej zdrowych mężczyzn, u których po szczepieniu mRNA przeciwko Covid-19 rozwinęła się ciężka, trwała choroba wielonarządowa. Oboje doświadczyli lat zmęczenia i dysfunkcji autonomicznych; u jednego rozwinęło się przewlekłe zapalenie osierdzia, u drugiego nawracające migotanie przedsionków i neuropatia drobnowłóknista potwierdzona biopsją. W obu przypadkach wykazano wiele autoprzeciwciał GPCR i znacznie podwyższone przeciwciała przeciw szczytowi."
+      "summary": "Robyn Cosford, przewodnicząca Children’s Health Defense Australia, w opisie przypadku opublikowanym w Medical Research Archives opisuje dwóch wcześniej zdrowych mężczyzn, u których po szczepieniu mRNA przeciwko Covid-19 rozwinęła się ciężka, trwała choroba wielonarządowa. Oboje doświadczyli lat zmęczenia i dysfunkcji autonomicznych; u jednego rozwinęło się przewlekłe zapalenie osierdzia, u drugiego nawracające migotanie przedsionków i neuropatia drobnowłóknista potwierdzona biopsją. W obu przypadkach wykazano wiele autoprzeciwciał GPCR i znacznie podwyższone przeciwciała przeciw szczytom."
     },
     {
       "title": "Czy DNA wskazuje na inteligentnego Stwórcę? Dowody na pochodzenie życia są niezwykłe, ale dalekie od rozstrzygnięć – Trialsitenews.com",
@@ -1698,36 +1698,36 @@
       "summary": "Pochodzenie życia pozostaje jednym z najważniejszych, niedokończonych problemów nauki. Dr Orson Wedgwood, badacz z Nowej Zelandii, posiadający doktorat z organicznej chemii medycznej, twierdzi, że bogata w informacje architektura DNA stwarza przeszkody na drodze do nieukierunkowanego pochodzenia tak ogromne, że inteligencja staje się wiarygodnym wyjaśnieniem."
     },
     {
-      "title": "Szczepionki kombinowane układu oddechowego Clover zapewniają zwycięstwo fazy II u starszych biorców – Clinicaltrialsarena.com",
+      "title": "Kombinowane szczepionki przeciwoddechowe firmy Clover zapewniają wygraną fazy II u starszych biorców – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/clover-respiratory-combo-vaccines-phase-ii-wins-elderly-recipients/",
       "date": "2026-09-07T10:34:09Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Kombinowane szczepionki przeciwoddechowe firmy Clover zapewniają wygraną fazy II wśród starszych odbiorców Clinictrialsarena.com."
+      "summary": "Kombinowane szczepionki przeciwoddechowe firmy Clover zapewniają wygraną fazy II u starszych biorców na arenie badań klinicznych."
     },
     {
-      "title": "Ziltivekimab firmy Novo Nordisk ponownie potyka się o parę zakończeń fazy III – Clinicaltrialsarena.com",
+      "title": "Ziltivekimab firmy Novo Nordisk ponownie potyka się o dwa zakończenia fazy III – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/novo-nordisk-ziltivekimab-phase-iii-terminations/",
       "date": "2026-09-07T10:30:55Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Ziltivekimab firmy Novo Nordisk ponownie natrafia na parę zakończeń fazy III na stronie Clinictrialsarena.com."
+      "summary": "Ziltivekimab firmy Novo Nordisk ponownie natrafia na parę zakańczeń fazy III na Arenie Badań Klinicznych."
     },
     {
-      "title": "Pelacarsen firmy Novartis nie osiągnął pierwszorzędowego punktu końcowego w badaniu Lp(a)HORIZON - Clinicaltrialsarena.com",
+      "title": "Pelacarsen firmy Novartis nie osiąga głównego punktu końcowego w badaniu Lp(a)HORIZON – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/novartis-pelacarsen-trial-fails-primary-endpoint/",
       "date": "2026-09-07T09:40:14Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Pelacarsen firmy Novartis nie osiągnął pierwszorzędowego punktu końcowego w badaniu Lp(a)HORIZON Clinictrialsarena.com."
+      "summary": "Pelacarsen firmy Novartis nie osiągnął głównego punktu końcowego w badaniu Lp(a)HORIZON Clinical Trials Arena."
     },
     {
-      "title": "Praktyczne ramy wyboru e-podpisów w badaniach globalnych - Clinictrialsarena.com",
+      "title": "Praktyczne ramy wyboru e-podpisów w badaniach globalnych – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/comment/a-practical-framework-for-choosing-e-signatures-in-global-trials/",
       "date": "2026-09-07T08:34:05Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Praktyczne ramy wyboru podpisów elektronicznych w globalnych badaniach Clinictrialsarena.com."
+      "summary": "Praktyczne ramy wyboru e-podpisów w badaniach globalnych Clinical Trials Arena."
     }
   ],
   "pharma_market": [
@@ -1738,6 +1738,14 @@
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "Wskaźniki remisji zaobserwowane w badaniu fazy 2 nie spełniły oczekiwań Wall Street, chociaż niektórzy analitycy uważają, że firma powinna uzyskać lepsze wyniki w testach na późnym etapie."
+    },
+    {
+      "title": "Leki immunosupresyjne – Europejska Agencja Leków (EMA)",
+      "url": "https://www.ema.europa.eu/sk/taxonomy/term/103778",
+      "date": "2026-09-09T20:41:53Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Język słowacki jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
       "title": "Co czytamy - Nurkowanie BioPharma",
@@ -1772,7 +1780,7 @@
       "summary": "ŚRODA, 9 września 2026 r. Lek, od którego powszechnie oczekiwali kardiolodzy, że stanie się kolejną ważną bronią w walce z zawałami serca, nie przeszedł dużego badania klinicznego, d."
     },
     {
-      "title": "Komitet ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP): 09-12 listopada 2026 r. - Europejska Agencja Leków (EMA)",
+      "title": "Komitet ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP): 9-12 listopada 2026 r. - Europejska Agencja Leków (EMA)",
       "url": "https://www.ema.europa.eu/sk/events/committee-medicinal-products-human-use-chmp-09-12-november-2026",
       "date": "2026-09-09T18:24:16Z",
       "source": "EMA",
@@ -1801,7 +1809,7 @@
       "date": "2026-09-09T18:20:52Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Jak wynika z badania opublikowanego w Internecie 30 sierpnia br., u pacjentów z omdleniem 14-dniowe monitorowanie pracy serca nie zmniejsza liczby epizodów omdleń w ciągu roku."
+      "summary": "Jak wynika z badania opublikowanego w Internecie 30 sierpnia 14-dniowy monitoring pracy serca u pacjentów z omdleniami nie zmniejsza liczby epizodów omdleń w ciągu roku."
     },
     {
       "title": "Encoded zamyka serię F o wartości 275 mln dolarów dla leku na zespół Draveta – Endpoints News",
@@ -1876,7 +1884,7 @@
       "summary": "Według Javiera Padilli Bernáldeza, hiszpańskiego sekretarza stanu ds. zdrowia, agregacja siły nabywczej państw członkowskich UE oznaczałaby wcześniejszy dostęp do rynku dla firm farmaceutycznych, a tym samym większe przychody."
     },
     {
-      "title": "Od przekomarzań w laboratorium po nagrodę Laskera: nauka stojąca za narkolepsją – Wiadomości z punktów końcowych",
+      "title": "Od przekomarzań w laboratorium po nagrodę Laskera: nauka stojąca za narkolepsją – Endpoints News",
       "url": "https://endpoints.news/key-research-behind-orexin-and-narcolepsy-wins-lasker-award/",
       "date": "2026-09-09T15:43:00Z",
       "source": "Endpoints News",
@@ -1889,7 +1897,7 @@
       "date": "2026-09-09T15:35:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Lek psilocybinowy Compass raportuje 13-punktową redukcję wyniku depresji; Solstice debiutuje z serią A o wartości 225 milionów dolarów; Luma ujawnia fundusz o wartości 410 mln dolarów; i inne wiadomości."
+      "summary": "Lek psilocybinowy Compass donosi o 13-punktowej redukcji wyniku depresji; Solstice debiutuje z serią A o wartości 225 milionów dolarów; Luma ujawnia fundusz o wartości 410 mln dolarów; i inne wiadomości."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1940,7 +1948,7 @@
       "summary": "Dotrzymując terminu obniżek kosztów wyznaczonego na rok 2027, firma Merck & Co. ogłosiła kolejną rundę zwolnień w swojej globalnej centrali w Rahway w stanie New Jersey. | Merck kontynuuje radykalne redukcje personelu, zwalniając 54 osoby w swojej siedzibie w Rahway."
     },
     {
-      "title": "Etui na podkładki BioMarin do ekspansji Voxzogo w obliczu zmian na polu zawodów w zakresie achondroplazji - Fierce Pharma",
+      "title": "Etui na podkładki BioMarin do ekspansji Voxzogo w obliczu zmian w polu zawodów w zakresie achondroplazji - Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/biomarin-pads-case-voxzogo-expansion-achondroplasia-competition-field-shifts",
       "date": "2026-09-09T14:28:10Z",
       "source": "FiercePharma",
@@ -2122,19 +2130,11 @@
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "Wieloagentowe rozumowanie AI w miejscu opieki, z wbudowaną pełną suwerennością danych."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.biopharmadive.com/spons/six-ai-agents-one-deskside-system-a-new-model-for-clinical-decision-suppo/829301",
-      "date": "2026-09-09T04:55:06Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "critical_alerts": [
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga – ecdc.europa.eu",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-09T20:29:37Z",
       "source": "ECDC",
@@ -2200,7 +2200,7 @@
   ],
   "daily_top5": [
     {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
+      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga – ecdc.europa.eu",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-09T20:29:37Z",
       "source": "ECDC",
