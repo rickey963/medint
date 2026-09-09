@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T01:58:35Z",
+  "last_updated": "2026-09-09T01:59:14Z",
   "poland": [
     {
       "title": "Te wczesne objawy raka często ignorujemy. \"Nie wyglądają na niebezpieczne\" - medonet.pl",
@@ -505,7 +505,7 @@
       "date": "2026-09-08T16:54:12Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Zaloguj się Przypomnij mi | BMJ Zdrowie Kariera BMJ."
+      "summary": "Zaloguj się Przypomnij mi."
     },
     {
       "title": "Pojawiający się haplotyp oporności na malarię - Natura",
@@ -529,7 +529,7 @@
       "date": "2026-09-08T15:45:21Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Delikatność ma znaczenie w służbie zdrowia BMJ."
+      "summary": "Samoświadomość personelu może poprawić jakość opieki, pisze Susannah Darling Khan. Oboje moich rodziców w ciągu ostatnich 12 lat odbyło długie podróże z powodu raka i ostatecznie zmarli na raka. Nasze doświadczenia z NHS są mieszane. Byłem wdzięczny za życzliwość i dobrą opiekę, których byłem świadkiem i przerażony złem."
     },
     {
       "title": "Nowy plan antykoncepcji dla mężczyzn – Światowa Organizacja Zdrowia (WHO)",
@@ -1100,6 +1100,30 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Jak wynika z wyników przedstawionych dzisiaj podczas sesji Hot Line na Kongresie ESC 2026, optyczna tomografia koherentna nie jest gorsza od ultrasonografii wewnątrznaczyniowej w zakresie wskazywania stentowania u pacjentów z chorobą wieńcową lewej tętnicy głównej."
+    },
+    {
+      "title": "Poręczny monitor usprawnia diagnostykę zaburzeń rytmu serca po omdleniu – Europejskie Towarzystwo Kardiologiczne",
+      "url": "https://www.escardio.org/news/press/press-releases/wearable-monitor-improves-diagnosis-of-heart-rhythm-disorders-after-fainting/",
+      "date": "2026-08-31T10:50:18Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Wczesne monitorowanie EKG rozpoczęte na oddziale ratunkowym (SOR) może zmienić sposób leczenia tysięcy pacjentów zgłaszających się na SOR z niewyjaśnionymi omdleniami. Taki był główny wniosek z badania ASPIRED zaprezentowany dzisiaj podczas sesji Hot Line na Kongresie ESC 2026 i opublikowany jednocześnie w czasopiśmie New England Journal of Medicine."
+    },
+    {
+      "title": "Rozporządzenie Ministra Zdrowia z dnia 28 sierpnia 2026 r. w sprawie limitu przyjęć na studia na kierunkach lekarskim i lekarsko-dentystycznym",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/1167",
+      "date": "2026-08-28T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1167, z dniem ogłoszenia 2026-09-02."
+    },
+    {
+      "title": "Obwieszczenie Ministra Zdrowia z dnia 26 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie warunków wynagradzania za pracę pracowników podmiotów leczniczych działających w formie jednostki budżetowej",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/1170",
+      "date": "2026-08-26T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1170, z dniem ogłoszenia 2026-09-03."
     }
   ],
   "epidemiology": [
@@ -1524,20 +1548,20 @@
       "summary": "Nowo utworzona rola pomoże realizować strategiczne priorytety Instytutu w okresie przyspieszających zmian w standardach, ocenie zgodności i pojawiających się technologiach."
     },
     {
-      "title": "Szanse na uzyskanie kolejności obrazowania są wyższe, gdy klinicyści samodzielnie je interpretują – Drugs.com",
-      "url": "https://www.drugs.com/news/odds-imaging-order-higher-clinicians-self-interpret-131260.html",
-      "date": "2026-09-09T00:31:16Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Jak wynika z badania opublikowanego 31 sierpnia w czasopiśmie Journal of, lekarze samodzielnie interpretujący badania obrazowe znacznie częściej zlecają badania obrazowe w warunkach ambulatoryjnych."
-    },
-    {
       "title": "Smartwatche znacznie zawyżają liczbę spalanych kalorii",
       "url": "https://www.drugs.com/news/smartwatches-significantly-overestimate-many-calories-burned-131259.html",
       "date": "2026-09-09T00:31:16Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Jak wynika z badania opublikowanego 29 lipca w internetowym czasopiśmie PLOS One, inteligentne zegarki znacznie zawyżają liczbę kalorii spalanych przez ludzi podczas ćwiczeń."
+    },
+    {
+      "title": "Szanse na uzyskanie kolejności obrazowania są wyższe, gdy klinicyści samodzielnie je interpretują – Drugs.com",
+      "url": "https://www.drugs.com/news/odds-imaging-order-higher-clinicians-self-interpret-131260.html",
+      "date": "2026-09-09T00:31:16Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Jak wynika z badania opublikowanego 31 sierpnia w czasopiśmie Journal of, lekarze samodzielnie interpretujący badania obrazowe znacznie częściej zlecają badania obrazowe w warunkach ambulatoryjnych."
     },
     {
       "title": "Mniejszy pakiet aplikacji wśród celów reformy amerykańskiej FDA IND - pink.pharmaintelligence.informa.com",
@@ -1593,7 +1617,7 @@
       "date": "2026-09-08T18:29:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Wersja deukrybantu o przedłużonym uwalnianiu zmniejszyła średni miesięczny wskaźnik napadów u pacjentów o 83% w porównaniu z placebo, osiągając główny punkt końcowy w badaniu fazy 3."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Spotkania komitetu doradczego amerykańskiej FDA pozostają rzadkie pomimo zmian na kierownictwie – Insights.citeline.com",
