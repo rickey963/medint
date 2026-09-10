@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T15:54:25Z",
+  "last_updated": "2026-09-10T15:55:06Z",
   "poland": [
     {
       "title": "Sezon infekcyjny u młodych pacjentów – profilaktyka od przedszkolaka do nastolatka [PODCAST] - Puls Medycyny",
@@ -62,7 +62,7 @@
       "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/zarzadzenia-prezesa-nfz/zarzadzenie-nr-972026dgl,7976.html",
       "date": "2026-09-10T14:05:33Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 3,
+      "confirmed_by": 6,
       "summary": "w sprawie określenia trybu zawierania i realizacji umów o finansowanie kosztów produktów leczniczych terapii zaawansowanej, podawanych jednorazowo w leczeniu szpitalnym osobom do..."
     },
     {
@@ -362,6 +362,14 @@
       "summary": "Dowiedz się wszystkiego na temat leku Piperacillin + Tazobactam AptaPharma. Skład, wskazania, dawkowanie, refundacja, działania niepożądane, interakcje."
     },
     {
+      "title": "Wrzesień miesiącem profilaktyki - pacjent.gov.pl",
+      "url": "http://pacjent.gov.pl/aktualnosc/wrzesien-miesiacem-profilaktyki",
+      "date": "2026-09-10T09:18:24Z",
+      "source": "Internetowe Konto Pacjenta",
+      "confirmed_by": 2,
+      "summary": "W ramach kampanii „Profilaktyka – podaj dalej” Ministerstwa Zdrowia we wrześniu odbędzie się ponad 500 wydarzeń i akcji zdrowotnych, w trakcie których przebadasz się lub porozmawiasz ze specjalistami. Wybierz wydarzenie dla siebie lub Twoich bliskich."
+    },
+    {
       "title": "Pierwsza taka realloplastyka stawu skokowego w Polsce - Podyplomie.pl",
       "url": "https://podyplomie.pl/aktualnosci/pierwsza-taka-realloplastyka-stawu-skokowego-w-polsce",
       "date": "2026-09-10T09:12:00Z",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Zespół Ekspertów Konferencji Episkopatu Polski ds. Bioetycznych przypomina, jakie jest nauczanie Kościoła w sprawie transplantacji. – Gdy jest to możliwe z etycznego i medycznego punktu widzenia, oddanie swojego transplantu jest świadectwem miłości bliźniego i postawy prospołecznej – czytamy w stanowisku z 8 września."
-    },
-    {
-      "title": "Przepis na nielegalnego internistę ► - Termedia",
-      "url": "https://www.termedia.pl/mz/Przepis-na-nielegalnego-interniste-,68920.html",
-      "date": "2026-09-10T08:40:00Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "– Pracuję w 70-łóżkowym szpitalu psychiatrycznym, do którego przychodzi internista, by badać pacjentów. Zajmuje mu to od kilku do maksymalnie dziesięciu godzin w tygodniu. Nowa ustawa sprawiłaby, że jego praca stałaby się nielegalna – powiedział Sebastian Goncerz, przewodniczący Porozumienia Rezydentów, komentując odroczenie prac nad..."
     }
   ],
   "world": [
@@ -457,7 +457,7 @@
       "date": "2026-09-10T11:01:20Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Ikigai to japońska koncepcja „tego, co sprawia, że ​​warto żyć”. Inaczej można by to opisać jako poczucie spełnienia poprzez realizację swoich pasji. Ikigai pomogło Milo Kato poczuć się ożywionym i wyleczonym po ostrym przyjęciu do szpitala z powodu schizofrenii (doi:10.1136/bmj-2026-100399).1 Kato przezwyciężył piętno związane z laicką definicją tego stanu, jako „rozszczepionego umysłu”, osiągając lepsze zrozumienie jej naukowej definicji. W naszym przeglądzie stanu wiedzy zagłębiamy się w naukę o schizofrenii, w której analizujemy postępy w patofizjologii, zarządzaniu i medycynie precyzyjnej (doi:10.1136/bmj-2026-635470).2 Chociaż częstość występowania schizofrenii w ciągu całego życia wynosi około 0,5%, długość życia skraca się o 15–20…."
+      "summary": "Ikigai i uprzejmość: panaceum na życie, które warto przeżyć? BMJ’a."
     },
     {
       "title": "Rutynowe markery wątroby mogą sygnalizować przyszłe ryzyko chorób układu krążenia – Medscape",
@@ -883,7 +883,7 @@
       "date": "2026-09-10T06:40:12Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "NICE opublikowało wytyczne zalecające rutynowy dostęp NHS do specjalistycznych urządzeń, dzięki którym oddane wątroby i płuca funkcjonują poza organizmem, potencjalnie odblokowując co roku setki narządów do przeszczepu."
+      "summary": "NICE opublikowało wytyczne zalecające rutynowy dostęp NHS do specjalistycznych urządzeń, które umożliwiają funkcjonowanie oddanych wątroby i płuc poza organizmem, potencjalnie odblokowując co roku setki narządów do przeszczepu."
     },
     {
       "title": "Czy nowe wytyczne mogą poprawić leczenie bólu głowy? - DynamicChiropractic.com",
@@ -1187,7 +1187,7 @@
       "date": "2026-08-31T12:46:39Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "Ostry zespół wieńcowy jest częstą przyczyną pozaszpitalnego zatrzymania krążenia (OHCA). U pacjentów z pozaszpitalnym zatrzymaniem krążenia i uniesieniem odcinka ST w EKG zaleca się natychmiastową koronarografię w celu oceny blokady tętnic, a następnie, jeśli to konieczne, przezskórną interwencję wieńcową (PCI), aby przywrócić przepływ krwi. Jednakże dowody na stosowanie koronarografii u pacjentów bez uniesienia odcinka ST w EKG są ograniczone."
+      "summary": "Ostry zespół wieńcowy jest częstą przyczyną pozaszpitalnego zatrzymania krążenia (OHCA). U pacjentów z pozaszpitalnym zatrzymaniem krążenia i uniesieniem odcinka ST w EKG zaleca się natychmiastową koronarografię w celu oceny blokady tętnic, a następnie, jeśli to konieczne, przezskórną interwencję wieńcową (PCI) w celu przywrócenia przepływu krwi. Jednakże dowody na stosowanie koronarografii u pacjentów bez uniesienia odcinka ST w EKG są ograniczone."
     }
   ],
   "epidemiology": [
@@ -1453,7 +1453,7 @@
       "date": "2026-09-08T18:23:39Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Około siedem lat temu Paul Schultz, lekarz medycyny, profesor i neurolog w UTHealth Houston, spotkał się z zespołem informatyki biomedycznej, z którym regularnie współpracuje, badając czynniki ryzyka choroby Alzheimera. Ktoś napisał komentarz, który wzbudził jego zainteresowanie."
+      "summary": "Około siedem lat temu Paul Schultz, lekarz medycyny, profesor i neurolog w UTHealth Houston, spotkał się z zespołem informatyki biomedycznej, z którym regularnie współpracuje podczas badania czynników ryzyka choroby Alzheimera. Ktoś napisał komentarz, który wzbudził jego zainteresowanie."
     },
     {
       "title": "Poza metodą: co motywuje do stosowania nowatorskich metod antykoncepcji dla mężczyzn? - Światowa Organizacja Zdrowia (WHO)",
@@ -1480,12 +1480,12 @@
       "summary": "Projekt WHO FP Accelerator Plus opiera się na osiągnięciach projektu parasolowego planowania rodziny (FP) (2015–2018) i projektu FP Accelerator (2019–2022), aby wspierać partnerów i Ministerstwa Zdrowia w przyspieszaniu zwiększania i utrzymywania zalecanych przez WHO, uwzględniających problematykę płci i opartych na dowodach praktyk PR."
     },
     {
-      "title": "Przyczyny zgonów wśród martwych urodzeń i dzieci w wieku 5 lat w Afryce i Azji Południowej — Nadzór nad zdrowiem dzieci i zapobieganiem śmiertelności, siedem krajów, 2016–2024 | MMWR – cdc.gov",
+      "title": "Przyczyny zgonów wśród martwych urodzeń i dzieci w starszym wieku – cdc.gov",
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7506a1.htm",
       "date": "2026-09-08T17:02:30Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Przyczyny zgonów wśród martwych urodzeń i dzieci w wieku 5 lat w Afryce i Azji Południowej — Nadzór nad zdrowiem dzieci i zapobieganiem śmiertelności, siedem krajów, 2016–2024 | MMWR cdc.gov."
+      "summary": "Przyczyny zgonów wśród martwych urodzeń i dzieci w wieku cdc.gov."
     },
     {
       "title": "Nowy przegląd pokazuje, że utrzymujące się objawy wirusa oddechowego nie ograniczają się do Covid-19 – CIDRAP",
@@ -1552,14 +1552,6 @@
       "summary": "Strona wyszukiwania ogólnego platforma.who.int."
     },
     {
-      "title": "Dane z bieżącego roku (2026) | Wirus Zachodniego Nilu – cdc.gov",
-      "url": "https://www.cdc.gov/west-nile-virus/data-maps/current-year-data.html",
-      "date": "2026-09-08T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Dane z bieżącego roku (2026) | Wirus Zachodniego Nilu cdc.gov."
-    },
-    {
       "title": "Dane dotyczące przypadku cyklospory | Cyklosporoza – cdc.gov",
       "url": "https://www.cdc.gov/cyclosporiasis/cases/index.html",
       "date": "2026-09-08T07:00:00Z",
@@ -1574,6 +1566,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Epidemia wirusa Ebola: bieżąca sytuacja cdc.gov."
+    },
+    {
+      "title": "Dane z bieżącego roku (2026) | Wirus Zachodniego Nilu – cdc.gov",
+      "url": "https://www.cdc.gov/west-nile-virus/data-maps/current-year-data.html",
+      "date": "2026-09-08T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Dane z bieżącego roku (2026) | Wirus Zachodniego Nilu cdc.gov."
     },
     {
       "title": "Uwagi Dyrektora Generalnego WHO wygłoszone podczas Ministerialnego Okrągłego Stołu podczas 79. sesji Komitetu Regionalnego ds. Azji Południowo-Wschodniej – 8 września 2026 r. – Światowa Organizacja Zdrowia (WHO)",
@@ -1631,7 +1631,7 @@
       "date": "2026-09-10T08:24:19Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Pharvaris wyznacza kurs zatwierdzania leku na obrzęki w fazie III wygranej na Arenie Badań Klinicznych."
+      "summary": "Pharvaris wyznacza kurs zatwierdzania leku na obrzęk w fazie III wygranej na Arenie Badań Klinicznych."
     },
     {
       "title": "Tyra ogłasza wstępne dane z badania II fazy SURF302 dabogratynibu – Clinical Trials Arena",
