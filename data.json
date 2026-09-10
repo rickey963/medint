@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T22:08:37Z",
+  "last_updated": "2026-09-10T22:09:27Z",
   "poland": [
     {
       "title": "Dorosłość nie daje im wytchnienia. \"Czasem nie wychodzę z łóżka\" - Medonet",
@@ -38,7 +38,7 @@
       "url": "https://www.nfz.gov.pl/biuletyn-informacji-publicznej-slaskiego-ow-nfz/zamowienia-publiczne/przetargi/tryb-podstawowy-bez-przeprowadzenia-negocjacji,80.html",
       "date": "2026-09-10T19:51:46Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Tryb podstawowy bez przeprowadzenia negocjacji pn. Usługa wsparcia technicznego dla posiadanych przełączników SAN (zamówienie nr 9/tp/2026) Nr ogłoszenia o zamówieniu: 2026/BZP 00432930/01."
     },
     {
@@ -1178,7 +1178,7 @@
       "url": "https://www.cdc.gov/monkeypox/hcp/vaccine-considerations/index.html",
       "date": "2026-09-04T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 4,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1219,6 +1219,14 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.cdc.gov/han/php/notices/han00533.html",
       "date": "2026-09-10T21:15:41Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.cdc.gov/media/releases/2026/cdc-statement-on-increases-in-recent-animal-rabies-activity-and-associated-human-exposures.html",
+      "date": "2026-09-10T20:47:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -1598,14 +1606,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Niniejszy dokument jest dwunastym z serii podsumowań wiedzy o tytoniu i został przygotowany w celu podsumowania aktualnych dowodów na związek między używaniem tytoniu a niepłodnością. To zwięzłe narzędzie doradcze ma na celu informowanie i mobilizację pracowników służby zdrowia, decydentów i zwolenników."
-    },
-    {
-      "title": "Ósme spotkanie Międzyrządowej Grupy Roboczej (IGWG) w sprawie Porozumienia WHO w sprawie pandemii – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/14/default-calendar/eighth-meeting-of-the-intergovernmental-working-group-(igwg)-on-the-who-pandemic-agreement",
-      "date": "2026-09-08T08:33:48Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Ósme spotkanie Międzyrządowej Grupy Roboczej (IGWG) ds. Porozumienia WHO w sprawie pandemii odbędzie się w formacie hybrydowym w dniach 14–18 września 2026 r."
     }
   ],
   "clinical_trials": [
@@ -1693,6 +1693,14 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.trialsitenews.com/a/911s-second-health-toll-more-than-57000-cancer-casesbut-what-do-the-numbers-actually-prove-573ae906",
       "date": "2026-09-10T09:06:13Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.trialsitenews.com/a/vaccine-associated-dna-found-in-rare-cardiac-tumorprovocative-case-raises-questions-but-falls-far-short-of-proving-causation-c4bfb2c2",
+      "date": "2026-09-10T08:42:28Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
