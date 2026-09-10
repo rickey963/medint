@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-09-10T02:56:36Z",
+  "last_updated": "2026-09-10T02:57:25Z",
   "poland": [
-    {
-      "title": "Nie ignoruj tych siedmiu objawów. W ciele może rozwijać się rak - Medonet",
-      "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-nowotworowe/siedem-objawow-raka-jelita-grubego-nie-wszystkie-sa-oczywiste/cjhzff8",
-      "date": "2026-09-10T00:39:02Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Rak jelita grubego przestał być chorobą \"osób starszych\" i dziś to jedna z głównych przyczyn zgonów nowotworowych u ludzi przed 50. rokiem życia. Najnowsze dane pokazują wyraźnie: coraz częściej chorują młodsi dorośli, którzy często nie podejrzewają, że ich objawy mogą być czymś poważnym."
-    },
     {
       "title": "Jak wdrażać innowacje w ochronie zdrowia? 22. edycja MEDmeetsTECH - Alert Medyczny",
       "url": "https://alertmedyczny.pl/jak-wdrazac-innowacje-w-ochronie-zdrowia-22-edycja-medmeetstech/",
@@ -24,6 +16,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Rynek nanorobotyki może wzrosnąć do 31,44 mld dolarów do 2034 r. Motorem rozwoju mają być przede wszystkim zastosowania medyczne."
+    },
+    {
+      "title": "Nie ignoruj tych siedmiu objawów. W ciele może rozwijać się rak - Medonet",
+      "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-nowotworowe/siedem-objawow-raka-jelita-grubego-nie-wszystkie-sa-oczywiste/cjhzff8",
+      "date": "2026-09-09T21:57:41Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Rak jelita grubego przestał być chorobą \"osób starszych\" i dziś to jedna z głównych przyczyn zgonów nowotworowych u ludzi przed 50. rokiem życia. Najnowsze dane pokazują wyraźnie: coraz częściej chorują młodsi dorośli, którzy często nie podejrzewają, że ich objawy mogą być czymś poważnym."
     },
     {
       "title": "Wrzesień miesiącem profilaktyki - pacjent.gov.pl",
@@ -417,7 +417,7 @@
       "date": "2026-09-10T01:10:58Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Inne oferty pracy związane ze służbą zdrowia w Preston The BMJ."
+      "summary": "Inne oferty pracy związane ze służbą zdrowia w Preston. 7 ofert pracy w BMJ Health Careers do przeglądania i aplikowania w BMJ Health Careers."
     },
     {
       "title": "Całkowita rewaskularyzacja pod kontrolą czynnościowej koronarografii w STEMI – NEJM",
@@ -441,7 +441,7 @@
       "date": "2026-09-09T23:25:33Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Ujawniono racjonowanie NHS: połowa ICB celowo opóźnia opiekę nad pacjentem poprzez „minimalne oczekiwanie” The BMJ."
+      "summary": "Jak ujawnia BMJ, prawie połowa rad ds. zdrowia w Anglii celowo opóźnia opiekę nad pacjentami, narzucając minimalne czasy oczekiwania. Jak wynika z wniosków o wolność informacji, w sumie 17 z 36 komisji opieki zintegrowanej (ICB) wprowadziło minimalny okres oczekiwania od 12 do 16 tygodni na zabiegi, w tym operację biodra, kolana i zaćmy. Royal College of Surgeons wyraziło „zaniepokojenie skalą” środków, które mogą przedłużyć ból pacjentów, natomiast Royal College of General Practitioners stwierdziło, że progi „trudno uzasadnić”. Lokalne ICB wykorzystują minimalny czas oczekiwania jako narzędzie racjonowania, mające na celu spowolnienie tempa procedur i kontrolę kosztów.1 Jednak eksperci wskazali, że w szczególności narzucanie całkowitego 16-tygodniowego oczekiwania oznaczało, że pacjenci prawdopodobnie przekroczyli docelowy 18-tygodniowy okres."
     },
     {
       "title": "Wielka Brytania przedstawia zalecenia dotyczące regulacji sztucznej inteligencji w medycynie – STAT",
@@ -649,7 +649,7 @@
       "date": "2026-09-09T15:44:35Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Rumień zapalny u pacjenta pediatrycznego: nieoczekiwana przyczyna casereports.bmj.com."
+      "summary": "Rumień ab igne (EAI) to siatkowata, rumieniowa wysypka powstająca w wyniku powtarzającego się narażenia na działanie niskiej jakości ciepła, zwykle emitowanego przez urządzenia grzewcze. Chociaż w przeszłości EAI występowała częściej u dorosłych, coraz częściej rozpoznawana jest u dzieci ze względu na rosnące wykorzystanie urządzeń elektronicznych. Opisujemy chłopca w połowie dzieciństwa, u którego wystąpiła wysypka w jamie brzusznej, początkowo podejrzanej o uszkodzenie wątroby w następstwie drobnego urazu."
     },
     {
       "title": "Skuteczność przeciwbólowa celekoksybu w porównaniu z ibuprofenem po operacji trzeciego zęba trzonowego: przegląd systematyczny i metaanaliza randomizowanych, kontrolowanych badań klinicznych - Cureus",
@@ -1690,12 +1690,12 @@
       "summary": "Rezubio podaje dawki pierwszej kohorcie w I fazie badania wziewnego RZ-520 Clinical Trials Arena."
     },
     {
-      "title": "Szczegóły badania | NCT07805954 | Badanie dotyczące stosowania zoldonrasybu (RMC-9805) i daraksonrazybu (RMC-6236) w porównaniu z gemcytabiną i nab-paklitakselem jako leczenie pierwszego rzutu w leczeniu gruczolakoraka trzustki z przerzutami z mutacją KRAS G12D – Clinical Trials.gov",
+      "title": "Szczegóły badania | NCT07805954 | Badanie dotyczące stosowania zoldonrasybu (RMC-9805) w skojarzeniu z daraxonrasibem (RMC-6236) w porównaniu z gemcytabiną i nab-paklitakselem jako leczeniem pierwszego rzutu w leczeniu gruczolakoraka trzustki z przerzutami z mutacją KRAS G12D - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07805954",
       "date": "2026-09-08T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07805954 | Badanie dotyczące stosowania zoldonrasybu (RMC-9805) i daraksonrazybu (RMC-6236) w porównaniu z gemcytabiną i nab-paklitakselem jako leczenie pierwszego rzutu w leczeniu gruczolakoraka trzustki z przerzutami z mutacją KRAS G12D Clinical Trials.gov."
+      "summary": "Szczegóły badania | NCT07805954 | Badanie dotyczące stosowania zoldonrasybu (RMC-9805) i daraksonrazybu (RMC-6236) w porównaniu z gemcytabiną i nab-paklitakselem jako leczenie pierwszego rzutu w leczeniu gruczolakoraka trzustki z przerzutami KRAS G12D ClinicalTrials.gov."
     },
     {
       "title": "Acepodia uzyskuje zgodę FDA na rozpoczęcie fazy I badania ACE723 – Clinical Trials Arena",
@@ -2165,6 +2165,14 @@
     }
   ],
   "critical_alerts": [
+    {
+      "title": "Ujawniono racjonowanie żywności przez NHS: połowa ICB celowo opóźnia opiekę nad pacjentem poprzez „minimalne oczekiwanie” – The BMJ",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100765",
+      "date": "2026-09-09T23:25:33Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Jak ujawnia BMJ, prawie połowa rad ds. zdrowia w Anglii celowo opóźnia opiekę nad pacjentami, narzucając minimalne czasy oczekiwania. Jak wynika z wniosków o wolność informacji, w sumie 17 z 36 komisji opieki zintegrowanej (ICB) wprowadziło minimalny okres oczekiwania od 12 do 16 tygodni na zabiegi, w tym operację biodra, kolana i zaćmy. Royal College of Surgeons wyraziło „zaniepokojenie skalą” środków, które mogą przedłużyć ból pacjentów, natomiast Royal College of General Practitioners stwierdziło, że progi „trudno uzasadnić”. Lokalne ICB wykorzystują minimalny czas oczekiwania jako narzędzie racjonowania, mające na celu spowolnienie tempa procedur i kontrolę kosztów.1 Jednak eksperci wskazali, że w szczególności narzucanie całkowitego 16-tygodniowego oczekiwania oznaczało, że pacjenci prawdopodobnie przekroczyli docelowy 18-tygodniowy okres."
+    },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga – ecdc.europa.eu",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
