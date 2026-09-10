@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T07:07:21Z",
+  "last_updated": "2026-09-10T07:08:14Z",
   "poland": [
     {
       "title": "Geny nie wpływają silnie na osobowość - Aktualności - Psychiatria w POZ - Medycyna Praktyczna",
@@ -1325,7 +1325,7 @@
       "date": "2026-09-09T09:30:25Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Dołącz do ekspertów, aby zbadać menopauzę, zdrowie seksualne, intymność i dobre samopoczucie oraz dowiedzieć się, dlaczego menopauza jest tak ważnym etapem dla zdrowia kobiet."
+      "summary": "Nawigacja po menopauzie: seks, relacje i dobre samopoczucie Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "Światowy Dzień Cukrzycy 2026 – who.int",
@@ -1341,7 +1341,7 @@
       "date": "2026-09-09T08:35:47Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Weź udział w BEZPŁATNYM seminarium internetowym organizowanym przez Royal College of General Practitioners (RCGP) we współpracy ze Światową Organizacją Zdrowia (WHO). Sztuczna inteligencja (AI) szybko przekształca systemy opieki zdrowotnej, tworząc nowe możliwości i wyzwania w zakresie edukacji, zarządzania i planowania siły roboczej. Podczas tego seminarium internetowego zbadamy, w jaki sposób sztuczna inteligencja wpływa na umiejętności wymagane od pracowników służby zdrowia, przekształcając rozmieszczenie siły roboczej i proces podejmowania decyzji oraz kształtując krajowe i globalne rynki pracy w służbie zdrowia. Uczestnicy zapoznają się z kluczowymi wnioskami płynącymi z pojawiających się praktyk, w tym zarówno korzyściami płynącymi z innowacji opartych na sztucznej inteligencji, jak i barierami, które mogą ograniczać ich przyjęcie, takimi jak gotowość siły roboczej, regulacje, etyka i kwestie równości."
+      "summary": "Czy sztuczna inteligencja jest pomocą czy wrogiem dla globalnej siły roboczej w służbie zdrowia? Światowa Organizacja Zdrowia (WHO)."
     },
     {
       "title": "Instrukcja obsługi narzędzia szybkiej oceny ryzyka państwa członkowskiego (MS-RRA) – Światowa Organizacja Zdrowia (WHO)",
@@ -1496,6 +1496,14 @@
       "summary": "Strona wyszukiwania ogólnego platforma.who.int."
     },
     {
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja – cdc.gov",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-09-08T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia wirusa Ebola: bieżąca sytuacja cdc.gov."
+    },
+    {
       "title": "Uwagi Dyrektora Generalnego WHO wygłoszone podczas Ministerialnego Okrągłego Stołu podczas 79. sesji Komitetu Regionalnego ds. Azji Południowo-Wschodniej – 8 września 2026 r. – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-remarks-at-the-ministerial-roundtable-at-the-79th-session-of-the-regional-committee-for-south-east-asia---8-september-2026",
       "date": "2026-09-08T07:00:00Z",
@@ -1566,14 +1574,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Urzędnicy korzystają z anonimowych danych telefonicznych, które służą do śledzenia przemieszczania się ludności w regionie objętym epidemią."
-    },
-    {
-      "title": "Koroner hrabstwa Lancaster potwierdza, że ​​drugi zgon na odrę dotyczy także dziecka – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/measles/lancaster-county-coroner-confirms-second-measles-death-also-involves-child",
-      "date": "2026-09-03T19:52:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Nie jest jasne, czy jest to nowy zgon, czy też drugi zgon zgłoszony w zeszłym tygodniu."
     }
   ],
   "clinical_trials": [
@@ -2222,20 +2222,20 @@
       "summary": "Kiedy ludzie zachorowali: epidemia Salmonelli, wrzesień 2026 r. cdc.gov."
     },
     {
+      "title": "Epidemia wirusa Ebola: bieżąca sytuacja – cdc.gov",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-09-08T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Epidemia wirusa Ebola: bieżąca sytuacja cdc.gov."
+    },
+    {
       "title": "Koroner hrabstwa Lancaster twierdzi, że odra spowodowała drugą śmierć niemowląt, a liczba przypadków w USA przekroczyła 3100 – CIDRAP",
       "url": "https://www.cidrap.umn.edu/measles/lancaster-county-coroner-says-measles-caused-second-infant-death-us-cases-soar-past-3100",
       "date": "2026-09-04T19:54:33Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Dzisiaj w Pensylwanii koroner hrabstwa Lancaster Stephen Diamantoni potwierdził, że druga śmierć niemowląt z powodu odry w hrabstwie, którą początkowo nazwał „związaną z odrą”, została spowodowana przez wysoce zaraźliwego wirusa. W hrabstwie występuje szybko rozwijająca się epidemia odry."
-    },
-    {
-      "title": "Liczba przypadków wirusa Ebola osiągnęła 6250 w epidemii w Demokratycznej Republice Konga – CIDRAP",
-      "url": "https://www.cidrap.umn.edu/ebola/ebola-case-counts-reach-6250-dr-congo-outbreak",
-      "date": "2026-09-03T19:54:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Urzędnicy korzystają z anonimowych danych telefonicznych, które służą do śledzenia przemieszczania się ludności w regionie objętym epidemią."
     }
   ],
   "daily_top5": [
