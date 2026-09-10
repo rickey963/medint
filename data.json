@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-10T01:22:57Z",
+  "last_updated": "2026-09-10T01:23:40Z",
   "poland": [
+    {
+      "title": "Nie ignoruj tych siedmiu objawów. W ciele może rozwijać się rak - Medonet",
+      "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-nowotworowe/siedem-objawow-raka-jelita-grubego-nie-wszystkie-sa-oczywiste/cjhzff8",
+      "date": "2026-09-10T00:39:02Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Rak jelita grubego przestał być chorobą \"osób starszych\" i dziś to jedna z głównych przyczyn zgonów nowotworowych u ludzi przed 50. rokiem życia. Najnowsze dane pokazują wyraźnie: coraz częściej chorują młodsi dorośli, którzy często nie podejrzewają, że ich objawy mogą być czymś poważnym."
+    },
     {
       "title": "Jak wdrażać innowacje w ochronie zdrowia? 22. edycja MEDmeetsTECH - Alert Medyczny",
       "url": "https://alertmedyczny.pl/jak-wdrazac-innowacje-w-ochronie-zdrowia-22-edycja-medmeetstech/",
@@ -16,14 +24,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Rynek nanorobotyki może wzrosnąć do 31,44 mld dolarów do 2034 r. Motorem rozwoju mają być przede wszystkim zastosowania medyczne."
-    },
-    {
-      "title": "Nie ignoruj tych siedmiu objawów. W ciele może rozwijać się rak - Medonet",
-      "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-nowotworowe/siedem-objawow-raka-jelita-grubego-nie-wszystkie-sa-oczywiste/cjhzff8",
-      "date": "2026-09-09T21:57:41Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Rak jelita grubego przestał być chorobą \"osób starszych\" i dziś to jedna z głównych przyczyn zgonów nowotworowych u ludzi przed 50. rokiem życia. Najnowsze dane pokazują wyraźnie: coraz częściej chorują młodsi dorośli, którzy często nie podejrzewają, że ich objawy mogą być czymś poważnym."
     },
     {
       "title": "Wrzesień miesiącem profilaktyki - pacjent.gov.pl",
@@ -417,7 +417,7 @@
       "date": "2026-09-10T01:10:58Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Inne oferty pracy związane ze służbą zdrowia w Preston. 7 ofert pracy w BMJ Health Careers do przeglądania i aplikowania w BMJ Health Careers."
+      "summary": "Inne oferty pracy w branży zdrowotnej w Preston bmj.com."
     },
     {
       "title": "Całkowita rewaskularyzacja pod kontrolą czynnościowej koronarografii w STEMI – NEJM",
@@ -433,7 +433,7 @@
       "date": "2026-09-09T23:25:33Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Jak ujawnia BMJ, prawie połowa rad ds. zdrowia w Anglii celowo opóźnia opiekę nad pacjentami, narzucając minimalne czasy oczekiwania. Jak wynika z wniosków o wolność informacji, w sumie 17 z 36 komisji opieki zintegrowanej (ICB) wprowadziło minimalny okres oczekiwania od 12 do 16 tygodni na zabiegi, w tym operację biodra, kolana i zaćmy. Royal College of Surgeons wyraziło „zaniepokojenie skalą” środków, które mogą przedłużyć ból pacjentów, natomiast Royal College of General Practitioners stwierdziło, że progi „trudno uzasadnić”. Lokalne ICB wykorzystują minimalny czas oczekiwania jako narzędzie racjonowania, mające na celu spowolnienie tempa procedur i kontrolę kosztów.1 Jednak eksperci wskazali, że w szczególności narzucanie całkowitego 16-tygodniowego oczekiwania oznaczało, że pacjenci prawdopodobnie przekroczyli docelowy 18-tygodniowy okres."
+      "summary": "Ujawniono racjonowanie żywności przez NHS: połowa ICB celowo opóźnia opiekę nad pacjentem poprzez „minimalne oczekiwanie” bmj.com."
     },
     {
       "title": "Wielka Brytania przedstawia zalecenia dotyczące regulacji sztucznej inteligencji w medycynie – statnews.com",
@@ -2149,14 +2149,6 @@
     }
   ],
   "critical_alerts": [
-    {
-      "title": "Ujawniono racjonowanie NHS: połowa ICB celowo opóźnia opiekę nad pacjentem poprzez „minimalne oczekiwanie” - bmj.com",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100765",
-      "date": "2026-09-09T23:25:33Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Jak ujawnia BMJ, prawie połowa rad ds. zdrowia w Anglii celowo opóźnia opiekę nad pacjentami, narzucając minimalne czasy oczekiwania. Jak wynika z wniosków o wolność informacji, w sumie 17 z 36 komisji opieki zintegrowanej (ICB) wprowadziło minimalny okres oczekiwania od 12 do 16 tygodni na zabiegi, w tym operację biodra, kolana i zaćmy. Royal College of Surgeons wyraziło „zaniepokojenie skalą” środków, które mogą przedłużyć ból pacjentów, natomiast Royal College of General Practitioners stwierdziło, że progi „trudno uzasadnić”. Lokalne ICB wykorzystują minimalny czas oczekiwania jako narzędzie racjonowania, mające na celu spowolnienie tempa procedur i kontrolę kosztów.1 Jednak eksperci wskazali, że w szczególności narzucanie całkowitego 16-tygodniowego oczekiwania oznaczało, że pacjenci prawdopodobnie przekroczyli docelowy 18-tygodniowy okres."
-    },
     {
       "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
