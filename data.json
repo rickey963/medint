@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T00:06:38Z",
+  "last_updated": "2026-09-10T00:07:27Z",
   "poland": [
     {
       "title": "Jak wdrażać innowacje w ochronie zdrowia? 22. edycja MEDmeetsTECH - Alert Medyczny",
@@ -24,6 +24,14 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Rak jelita grubego przestał być chorobą \"osób starszych\" i dziś to jedna z głównych przyczyn zgonów nowotworowych u ludzi przed 50. rokiem życia. Najnowsze dane pokazują wyraźnie: coraz częściej chorują młodsi dorośli, którzy często nie podejrzewają, że ich objawy mogą być czymś poważnym."
+    },
+    {
+      "title": "Wrzesień miesiącem profilaktyki - pacjent.gov.pl",
+      "url": "http://pacjent.gov.pl/aktualnosc/wrzesien-miesiacem-profilaktyki",
+      "date": "2026-09-09T21:18:41Z",
+      "source": "Internetowe Konto Pacjenta",
+      "confirmed_by": 2,
+      "summary": "W ramach kampanii „Profilaktyka – podaj dalej” Ministerstwa Zdrowia we wrześniu odbędzie się ponad 500 wydarzeń i akcji zdrowotnych, w trakcie których przebadasz się lub porozmawiasz ze specjalistami. Wybierz wydarzenie dla siebie lub Twoich bliskich."
     },
     {
       "title": "Tryb podstawowy bez przeprowadzenia negocjacji - Narodowy Fundusz Zdrowia (NFZ)",
@@ -392,19 +400,11 @@
       "source": "DOZ.pl",
       "confirmed_by": 1,
       "summary": "Absolwentka kierunku lekarskiego na Uniwersytecie Medycznym w Łodzi. Obecnie lekarka w trakcie stażu podyplomowego. Główny obszary jej zainteresowań zawodowych to ginekologia i zdrowie kobiet."
-    },
-    {
-      "title": "Długi szpitali za krew. RCKiK w trudnej sytuacji finansowej - Remedium | Portal medyczny",
-      "url": "https://remedium.md/publikacje/wiadomosci/szpitale-zalegaja-z-platnosciami-za-krew-i-powiekszaja-dlugi-wobec-rckik",
-      "date": "2026-09-09T10:24:00Z",
-      "source": "Remedium.md",
-      "confirmed_by": 1,
-      "summary": "Szpitale zalegają na 87 mln zł wobec Regionalnych Centrów Krwi i Krwiolecznictwa. Osiem ośrodków przygotowuje plany naprawcze. Szykują się podwyżki stawek."
     }
   ],
   "world": [
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Ujawniono racjonowanie NHS: połowa ICB celowo opóźnia opiekę nad pacjentem poprzez „minimalne oczekiwanie” - bmj.com",
       "url": "https://www.bmj.com/content/394/bmj-2026-100765",
       "date": "2026-09-09T23:25:33Z",
       "source": "The BMJ",
@@ -428,17 +428,25 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Znak Graya Turnera - NEJM",
       "url": "https://www.nejm.org/doi/abs/10.1056/NEJMicm2605791",
       "date": "2026-09-09T22:24:57Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Objaw Graya Turnera NEJM."
+    },
+    {
+      "title": "Całkowita regresja wątrobiaka zarodkowego po terapii komórkami T CAR z koekspresją interleukiny-15 i interleukiny-21 - NEJM",
+      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMc2605958",
+      "date": "2026-09-09T22:24:55Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMc2605958",
-      "date": "2026-09-09T22:24:55Z",
+      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMe2607923",
+      "date": "2026-09-09T22:24:54Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -450,14 +458,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMe2607923",
-      "date": "2026-09-09T22:24:54Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Postęp w edytowaniu genów u dzieci z hemolobinopatią NEJM."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -556,7 +556,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Głębsze i szersze zmniejszenie liczby komórek B w zaburzeniach ze spektrum zapalenia nerwu i rdzenia wzrokowego – nature.com",
       "url": "https://www.nature.com/articles/s41582-026-01269-w",
       "date": "2026-09-09T16:45:47Z",
       "source": "Nature Medicine",
@@ -569,7 +569,7 @@
       "date": "2026-09-09T16:44:28Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "ARPA-H, agencja rządowa finansująca najnowocześniejsze badania w dziedzinie zdrowia, planuje przeznaczyć 62,7 miliona dolarów na opracowanie botów sztucznej inteligencji, które kierują leczeniem niewydolności serca."
     },
     {
       "title": "Uczniowie muszą wiedzieć, jak uzyskać dostęp do wsparcia i zgłosić wątpliwości – BMJ",
@@ -593,7 +593,7 @@
       "date": "2026-09-09T15:20:49Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Skuteczność przeciwbólowa celekoksybu w porównaniu z ibuprofenem po operacji trzeciego zęba trzonowego: przegląd systematyczny i metaanaliza randomizowanych badań kontrolowanych curus.com."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -628,7 +628,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Ciężkie infekcje powiązane z ryzykiem niewydolności serca – Medscape",
       "url": "https://www.medscape.com/viewarticle/severe-infections-linked-elevated-risk-heart-failure-2026a1000xhi",
       "date": "2026-09-09T14:36:15Z",
       "source": "Medscape",
@@ -636,7 +636,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "NHS wezwana do zniesienia „przestarzałych” przepisów dotyczących przeszczepów – Medscape",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.medscape.com/viewarticle/nhs-urged-scrap-outdated-transplant-rule-2026a1000xgi",
       "date": "2026-09-09T14:30:23Z",
       "source": "Medscape",
@@ -713,7 +713,7 @@
       "date": "2026-09-09T12:00:00Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Dołącz do WHO i weź udział w Globalnym Dialogu z okazji Światowego Dnia Bezpieczeństwa Pacjenta 2026 pod hasłem „Bezpieczna troska o życie!”."
     },
     {
       "title": "Firma telemedyczna oferuje GLP-1 na uzależnienia - STAT",
@@ -724,7 +724,7 @@
       "summary": "Restrukturyzacja CDC Covid, zaufanie publiczne do Fauci i więcej wiadomości zdrowotnych z Morning Rounds."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Pierwotny rak zrazikowokomórkowy lewej przegrody nosowej – opisy przypadków BMJ",
       "url": "https://casereports.bmj.com/content/19/9/e268236",
       "date": "2026-09-09T11:36:33Z",
       "source": "The BMJ",
@@ -870,7 +870,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Notatki | Dokumenty projektowe | Durwalumab z bewacyzumabem lub bez bewacyzumabu do leczenia uzupełniającego usuniętego lub usuniętego raka wątrobowokomórkowego o wysokim ryzyku nawrotu [ID6428] | Poradnik - strona internetowa NICE",
       "url": "https://www.nice.org.uk/guidance/gid-ta11538/documents/html-content-6",
       "date": "2026-09-08T23:11:06Z",
       "source": "NICE",
@@ -907,7 +907,7 @@
       "date": "2026-09-08T16:30:00Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Sesja na żywo 2: Nowotwory układu moczowo-płciowego ESMO OncologyPRO."
     },
     {
       "title": "Kalendarz posiedzeń KS NRL X kadencji w 2026 roku - NIL",
@@ -947,10 +947,10 @@
       "date": "2026-09-08T09:57:16Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Potencjalna rola aktywowanego mikrośrodowiska immunologicznego nowotworu w przewidywaniu korzyści ze stosowania atezolizumabu dla TNBC Europejskie Towarzystwo Onkologii Medycznej | ESMO."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "ESMO Cancers Genitourinary Cancers Asia 2027: Prasa i media – Europejskie Towarzystwo Onkologii Medycznej | ESMO",
       "url": "https://www.esmo.org/meeting-calendar/esmo-genitourinary-cancers-asia-2027/press-media",
       "date": "2026-09-08T09:29:26Z",
       "source": "ESMO (onkologia)",
@@ -990,12 +990,12 @@
       "summary": "Wytyczne AAO-HNSF dotyczące ubytku słuchu związanego z wiekiem standaryzują badania przesiewowe u osób w wieku 50+ i eskalację do audiogramu, wzmocnienia i kandydatury do implantacji. Wpływ operacyjny."
     },
     {
-      "title": "Starsza rola w CDMO dla Josa Vergeesta – The Pharma Letter",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.thepharmaletter.com/biotech-news/senior-cdmo-role-for-jos-vergeest",
       "date": "2026-09-07T17:01:07Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Starsza rola w CDMO dla Josa Vergeesta thepharmaletter.com."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1006,7 +1006,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Okołooperacyjna chemioterapia neoadjuwantowa Pembrolizumab Plus w dalszym ciągu wydłuża EFS i OS u pacjentów z NSCLC w stadium II, IIIA lub IIIB (N2) - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.esmo.org/oncology-news/perioperative-pembrolizumab-plus-neoadjuvant-chemotherapy-continues-to-prolong-efs-and-os-in-patients-with-stage-ii-iiia-or-iiib-n2-nsclc",
       "date": "2026-09-07T11:34:12Z",
       "source": "ESMO (onkologia)",
@@ -1046,7 +1046,7 @@
       "summary": "Szkolenie OK COBIK NIL - Fundacja Rodzinna w sektorze medycznym – zarządzanie formami działalności medycznej NIL."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zaktualizowane wytyczne udoskonalają podejście do zapobiegania migrenie u dorosłych – tematy związane z narkotykami",
       "url": "https://www.drugtopics.com/view/updated-guideline-refines-approach-to-migraine-prevention-in-adults",
       "date": "2026-09-04T20:11:03Z",
       "source": "Wytyczne kliniczne",
@@ -1059,10 +1059,10 @@
       "date": "2026-09-04T14:45:33Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Pierwotny aldosteronizm (PA) jest częstą i uleczalną przyczyną nadciśnienia tętniczego, dotykającą do 15% pacjentów podstawowej opieki zdrowotnej, a mimo to pozostaje w znacznym stopniu niezdiagnozowany. Najnowsze międzynarodowe wytyczne zalecają rutynowe badania przesiewowe w kierunku PA u wszystkich osób z nadciśnieniem tętniczym, podkreślając potrzebę opracowania skutecznych strategii wdrażania w praktyce ogólnej. Naszym celem jest ustalenie, czy elektroniczne narzędzie do wspomagania decyzji klinicznych (eCDS) zintegrowane z oprogramowaniem gabinetu ogólnego poprawia badania przesiewowe i diagnostykę PA."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Próby według projektu: w nowych wytycznych dobrej praktyki klinicznej - thepharmaletter.com",
       "url": "https://www.thepharmaletter.com/insights/trials-by-design-inside-the-news-clinical-guidelines",
       "date": "2026-09-04T10:31:45Z",
       "source": "Wytyczne kliniczne",
@@ -1083,10 +1083,10 @@
       "date": "2026-09-04T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 5,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Szczepionka zapobiegająca ospie małpiej w amerykańskich Centrach Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-09-04T07:00:00Z",
       "source": "CDC (rekomendacje)",
@@ -1094,12 +1094,20 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
+      "title": "Prezes UODO odpowiada w sprawie incydentu dotyczącego MyDr - NIL",
+      "url": "https://nil.org.pl/aktualnosci/9387-prezes-uodo-odpowiada-w-sprawie-incydentu-dotyczacego-mydr",
+      "date": "2026-09-03T22:39:09Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
+    },
+    {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.ajmc.com/view/ckm-guideline-aims-to-break-down-specialty-silos-keith-bellovich-do",
       "date": "2026-09-03T20:20:39Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 2,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO The American Journal of Managed Care."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1107,7 +1115,7 @@
       "date": "2026-09-03T19:26:00Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "ESC przedstawia pierwsze wytyczne kliniczne dotyczące rehabilitacji kardiologicznej TCTMD.com."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1123,10 +1131,10 @@
       "date": "2026-09-03T18:04:57Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "WASZYNGTON i DALLAS, 3 września 2026 r. — Choroby sercowo-naczyniowe (CVD) są główną medyczną przyczyną zgonów związanych ze służbą wśród sportowców taktycznych, w tym personelu wojskowego, strażaków, funkcjonariuszy organów ścigania, ratowników medycznych,..."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Notatki terenowe: Wykrywanie konopi indyjskich wśród zgonów spowodowanych przedawkowaniem – Stany Zjednoczone, 2021–2025 — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7534a2.htm",
       "date": "2026-09-03T16:59:18Z",
       "source": "CDC (rekomendacje)",
@@ -1142,7 +1150,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Czy u pacjentów z pozaszpitalnym zatrzymaniem krążenia i bez uniesienia odcinka ST w EKG należy natychmiast wykonać koronarografię? - Europejskie Towarzystwo Kardiologiczne",
       "url": "https://www.escardio.org/news/press/press-releases/should-patients-with-an-out-of-hospital-cardiac-arrest-and-without-an-ecg-st-elevation-receive-immediate-coronary-angiography/",
       "date": "2026-08-31T12:46:39Z",
       "source": "ESC (kardiologia)",
@@ -1153,14 +1161,6 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.escardio.org/news/press/press-releases/two-imaging-techniques-equally-as-effective-to-guide-complex-stenting/",
       "date": "2026-08-31T11:46:38Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.escardio.org/news/press/press-releases/wearable-monitor-improves-diagnosis-of-heart-rhythm-disorders-after-fainting/",
-      "date": "2026-08-31T10:50:18Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -1565,7 +1565,7 @@
       "date": "2026-09-03T19:54:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Urzędnicy korzystają z anonimowych danych telefonicznych, które służą do śledzenia przemieszczania się ludności w regionie objętym epidemią."
     }
   ],
   "clinical_trials": [
@@ -1574,7 +1574,7 @@
       "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
       "date": "2026-09-09T20:37:50Z",
       "source": "Applied Clinical Trials",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1849,7 +1849,7 @@
       "date": "2026-09-09T17:44:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "ARPA-H inwestuje 62,7 mln dolarów w program ADVOCATE; UpDoc, Tempus AI i Atman Health opracują w ciągu 4 lat autoryzowane przez FDA narzędzia AI do leczenia chorób serca."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2009,7 +2009,7 @@
       "date": "2026-09-09T13:50:25Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "FRAMINGHAM, Massachusetts--(BUSINESS WIRE)-- Tortugas Neuroscience („Tortugas”), firma biotechnologiczna skupiająca się na fazie klinicznej centralnego układu nerwowego (OUN), opracowująca leki o klinicznie potwierdzonych mechanizmach działania we wskazaniach zarówno u znacznych populacji pacjentów, jak i przy wysokim poziomie niezaspokojonych potrzeb, ogłosiła dzisiaj mianowanie Jima Fratesa na członka Zarządu i na przewodniczącego Komisji Rewizyjnej. Frates to bardzo doświadczony lider branży biofarmaceutycznej, który pełnił funkcję dyrektora finansowego (CFO) w wielu publicznych i prywatnych firmach biotechnologicznych. Obecnie Frates pełni funkcję dyrektora finansowego Amylyx Pharmaceuticals (Nasdaq: AMLX)."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2068,7 +2068,7 @@
       "summary": "Język słowacki jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "NodThera, dziesięcioletni gracz NLRP3, planuje fazę 3 i rebranding - Endpoints News",
       "url": "https://endpoints.news/nodthera-a-decade-old-nlrp3-player-plans-phase-3-and-a-rebrand/",
       "date": "2026-09-09T11:01:00Z",
       "source": "Endpoints News",
@@ -2160,17 +2160,25 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Znak Graya Turnera - NEJM",
       "url": "https://www.nejm.org/doi/abs/10.1056/NEJMicm2605791",
       "date": "2026-09-09T22:24:57Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Objaw Graya Turnera NEJM."
+    },
+    {
+      "title": "Całkowita regresja wątrobiaka zarodkowego po terapii komórkami T CAR z koekspresją interleukiny-15 i interleukiny-21 - NEJM",
+      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMc2605958",
+      "date": "2026-09-09T22:24:55Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMc2605958",
-      "date": "2026-09-09T22:24:55Z",
+      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMe2607923",
+      "date": "2026-09-09T22:24:54Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
@@ -2182,14 +2190,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMe2607923",
-      "date": "2026-09-09T22:24:54Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "Postęp w edytowaniu genów u dzieci z hemolobinopatią NEJM."
     }
   ]
 }
