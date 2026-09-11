@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-11T11:37:22Z",
+  "last_updated": "2026-09-11T11:38:19Z",
   "poland": [
+    {
+      "title": "Piętno bohaterstwa - Termedia",
+      "url": "https://www.termedia.pl/mz/Pietno-bohaterstwa,68964.html",
+      "date": "2026-09-11T11:33:23Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Ataki terrorystyczne z 11 września 2001 r. wywołały u uczestników akcji w World Trade Center – strażaków, ratowników medycznych, policjantów oraz wolontariuszy usuwających gruz z miejsca tragedii – długofalowe skutki zdrowotne, które nie ustały wraz z zakończeniem działań. Osoby te, cierpiące między innymi na zespół stresu pourazowego czy..."
+    },
     {
       "title": "Porozumienie NIK i Biura RPD w służbie ochrony praw najmłodszych - Najwyższa Izba Kontroli",
       "url": "https://www.nik.gov.pl/aktualnosci/porozumienie-nik-i-biura-rpd-w-sluzbie-ochrony-praw-najmlodszych.html",
@@ -66,7 +74,7 @@
       "summary": "Prof. Michał Markuszewski, rektor Gdańskiego Uniwersytetu Medycznego, w rozmowie z „Menedżerem Zdrowia” opowiedział o integracji polskiego szkolnictwa wyższego. Spytaliśmy go także o to, czy pomorski model budowania związku uczelni – łączący medycynę, technologie, naukę uniwersytecką oraz sztukę – powinien stać się wzorem strukturalnym dla całego kraju i czy polskie prawo wciąż stawia zbyt wiele barier biurokratycznych."
     },
     {
-      "title": "Bezpłatne kursy dla 1420 lekarzy i dentystów. NIL rusza z ogólnopolskim programem - Alert Medyczny",
+      "title": "Bezpłatne kursy dla 1420 lekarzy i dentystów. NIL rusza z ogólnopolskim programem - alertmedyczny.pl",
       "url": "https://alertmedyczny.pl/bezplatne-kursy-dla-1420-lekarzy-i-dentystow-nil-rusza-z-ogolnopolskim-programem/",
       "date": "2026-09-11T09:56:00Z",
       "source": "alertmedyczny.pl",
@@ -130,6 +138,14 @@
       "summary": "Jak rozpoznać alergię u psa? Czy częsta kąpiel pomaga alergikowi? Dowiedz się więcej na DOZ.pl."
     },
     {
+      "title": "Patronaty Pulsu Medycyny - pulsmedycyny.pl",
+      "url": "https://pulsmedycyny.pl/wydarzenia/patronaty/",
+      "date": "2026-09-11T09:10:43Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Zapraszamy na IV edycję w pełni bezpłatnej konferencji online „Kompendium Młodego Internisty”, stworzonej specjalnie z myślą o młodych lekarzach internistach oraz lekarzach POZ. Wydarzenie odbędzie się 27 listopada 2026 r. (sobota)."
+    },
+    {
       "title": "Już nie 10 tys. kroków. Wystarczy połowa tego, ale jest ważny warunek - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Nauka/Juz-nie-10-tys-krokow-Wystarczy-polowa-tego-ale-jest-wazny-warunek,288810,9.html",
       "date": "2026-09-11T08:55:00Z",
@@ -168,14 +184,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Z początkiem października rusza nowy program profilaktyczny, mający na celu wczesne wykrywanie raka płuca za pomocą niskodawkowej tomografii. NFZ ogłosił właśnie konkursy na realizatorów programu – poinformował w piątek Paweł Florek, dyrektor Biura Komunikacji Społecznej i Promocji Narodowego Funduszu Zdrowia."
-    },
-    {
-      "title": "Patronaty Pulsu Medycyny - pulsmedycyny.pl",
-      "url": "https://pulsmedycyny.pl/wydarzenia/patronaty/",
-      "date": "2026-09-11T08:12:27Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "Zapraszamy na IV edycję w pełni bezpłatnej konferencji online „Kompendium Młodego Internisty”, stworzonej specjalnie z myślą o młodych lekarzach internistach oraz lekarzach POZ. Wydarzenie odbędzie się 27 listopada 2026 r. (sobota)."
     },
     {
       "title": "IV edycja kongresu online VMS Stomatologia startuje już jutro o 10:00! - Podyplomie.pl",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Psychiatrzy byli zgodni co do diagnozy tylko w 55 proc. przypadków. Badanie 1038 specjalistów z 19 krajów ujawniło duże rozbieżności."
-    },
-    {
-      "title": "Dorosłość nie daje im wytchnienia. \"Czasem nie wychodzę z łóżka\" - Medonet",
-      "url": "https://www.medonet.pl/zdrowie/zdrowie-dla-kazdego/takiego-pokolenia-jak-dzisiejszych-zetek-jeszcze-nie-bylo-mierza-sie-z-efektem-nocebo/8sd0zh5",
-      "date": "2026-09-10T21:50:40Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Wejście w dorosłość nigdy nie było proste, ale współczesne pokolenie dwudziesto‑ i trzydziestolatków mierzy się z poziomem niepewności bez precedensu. Niestabilny rynek pracy, ciągłe przeprowadzki, rozluźnione więzi społeczne i odkładane w czasie decyzje życiowe sprawiają, że młodzi dorośli czują się zagubieni i osamotnieni. Wtedy pojawia się u nich efekt nocebo."
     }
   ],
   "world": [
@@ -1867,7 +1867,7 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://clinicaltrials.gov/study/NCT07807280",
+      "url": "http://www.clinicaltrials.gov/ct2/show/NCT07807280",
       "date": "2026-09-09T04:41:24Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
@@ -1875,7 +1875,7 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "http://www.clinicaltrials.gov/ct2/show/NCT07807280",
+      "url": "https://clinicaltrials.gov/study/NCT07807280",
       "date": "2026-09-09T04:41:24Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
