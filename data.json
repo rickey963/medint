@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-11T11:35:39Z",
+  "last_updated": "2026-09-11T11:36:25Z",
   "poland": [
     {
-      "title": "Porozumienie NIK i Biura RPD w służbie ochrony praw najmłodszych - nik.gov.pl",
+      "title": "Porozumienie NIK i Biura RPD w służbie ochrony praw najmłodszych - Najwyższa Izba Kontroli",
       "url": "https://www.nik.gov.pl/aktualnosci/porozumienie-nik-i-biura-rpd-w-sluzbie-ochrony-praw-najmlodszych.html",
       "date": "2026-09-11T11:31:00Z",
       "source": "Ministerstwo Zdrowia RP",
@@ -24,14 +24,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "GIF wycofuje dwa leki w całym kraju. Fluoksetyna EGIS i Envil gardło z niezgodnościami PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Wrzesień miesiącem profilaktyki - pacjent.gov.pl",
-      "url": "http://pacjent.gov.pl/aktualnosc/wrzesien-miesiacem-profilaktyki",
-      "date": "2026-09-11T10:48:37Z",
-      "source": "Internetowe Konto Pacjenta",
-      "confirmed_by": 2,
-      "summary": "W ramach kampanii „Profilaktyka – podaj dalej” Ministerstwa Zdrowia we wrześniu odbędzie się ponad 500 wydarzeń i akcji zdrowotnych, w trakcie których przebadasz się lub porozmawiasz ze specjalistami. Wybierz wydarzenie dla siebie lub Twoich bliskich."
     },
     {
       "title": "Balsam brązujący czy samoopalacz? Kiedy stosować kosmetyki brązujące i jak je wybrać? - DOZ.pl",
@@ -202,7 +194,7 @@
       "summary": "Atogepant firmy AbbVie zmniejszył liczbę dni z migreną miesiączkową i osiągnął wszystkie kluczowe punkty końcowe badania fazy 3."
     },
     {
-      "title": "Gospodarka majątkowa i finansowa PAN – wyniki kontroli NIK - nik.gov.pl",
+      "title": "Gospodarka majątkowa i finansowa PAN – wyniki kontroli NIK - Najwyższa Izba Kontroli",
       "url": "https://www.nik.gov.pl/aktualnosci/gospodarka-majatkowa-i-finansowa-pan-wyniki-kontroli-nik.html",
       "date": "2026-09-11T08:00:00Z",
       "source": "Ministerstwo Zdrowia RP",
@@ -360,6 +352,14 @@
       "source": "Remedium.md",
       "confirmed_by": 1,
       "summary": "Dowiedz się wszystkiego na temat leku Siarczan protaminy. Skład, wskazania, dawkowanie, refundacja, działania niepożądane, interakcje."
+    },
+    {
+      "title": "Wrzesień miesiącem profilaktyki - pacjent.gov.pl",
+      "url": "http://pacjent.gov.pl/aktualnosc/wrzesien-miesiacem-profilaktyki",
+      "date": "2026-09-10T23:16:10Z",
+      "source": "Internetowe Konto Pacjenta",
+      "confirmed_by": 2,
+      "summary": "W ramach kampanii „Profilaktyka – podaj dalej” Ministerstwa Zdrowia we wrześniu odbędzie się ponad 500 wydarzeń i akcji zdrowotnych, w trakcie których przebadasz się lub porozmawiasz ze specjalistami. Wybierz wydarzenie dla siebie lub Twoich bliskich."
     },
     {
       "title": "Interpelacja nr 27012 - Sejm Rzeczypospolitej Polskiej",
@@ -866,7 +866,7 @@
       "url": "https://www.cdc.gov/han/php/notices/han00533.html",
       "date": "2026-09-10T21:15:41Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1122,7 +1122,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7506a1.htm",
       "date": "2026-09-08T17:02:30Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 4,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1159,18 +1159,18 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/monkeypox/hcp/vaccine-considerations/index.html",
-      "date": "2026-09-04T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.ajmc.com/view/ckm-guideline-aims-to-break-down-specialty-silos-keith-bellovich-do",
       "date": "2026-09-03T20:20:39Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 2,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.escardio.org/news/press/press-releases/should-patients-with-an-out-of-hospital-cardiac-arrest-and-without-an-ecg-st-elevation-receive-immediate-coronary-angiography/",
+      "date": "2026-08-31T12:46:39Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
@@ -1180,7 +1180,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-11T09:17:41Z",
       "source": "ECDC",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1465,7 +1465,7 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/public-health-data-strategy/php/story/mdn-emerging.html",
+      "url": "https://www.cdc.gov/lyme/data-research/facts-stats/index.html",
       "date": "2026-09-09T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
@@ -1473,7 +1473,7 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/lyme/data-research/facts-stats/index.html",
+      "url": "https://www.cdc.gov/public-health-data-strategy/php/story/mdn-emerging.html",
       "date": "2026-09-09T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
@@ -2321,6 +2321,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-09-11T09:17:41Z",
+      "source": "ECDC",
+      "confirmed_by": 3,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://clinician.nejm.org/CLINjwNA60331?show-author=true&author-id=AU1502",
       "date": "2026-09-11T06:33:39Z",
       "source": "NEJM",
@@ -2340,14 +2348,6 @@
       "url": "https://www.thelancet.com/journals/langas/article/PIIS2468-1253(26)00192-5/fulltext",
       "date": "2026-09-11T04:19:01Z",
       "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.who.int/europe/fr/emergencies/our-work-in-emergencies",
-      "date": "2026-09-11T02:34:54Z",
-      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
