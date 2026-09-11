@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-09-11T00:22:18Z",
+  "last_updated": "2026-09-11T00:23:02Z",
   "poland": [
-    {
-      "title": "Wrzesień miesiącem profilaktyki - pacjent.gov.pl",
-      "url": "http://pacjent.gov.pl/aktualnosc/wrzesien-miesiacem-profilaktyki",
-      "date": "2026-09-10T23:16:10Z",
-      "source": "Internetowe Konto Pacjenta",
-      "confirmed_by": 2,
-      "summary": "W ramach kampanii „Profilaktyka – podaj dalej” Ministerstwa Zdrowia we wrześniu odbędzie się ponad 500 wydarzeń i akcji zdrowotnych, w trakcie których przebadasz się lub porozmawiasz ze specjalistami. Wybierz wydarzenie dla siebie lub Twoich bliskich."
-    },
     {
       "title": "800 procedur stomatologicznych zakwestionowanych. Prokuratura stawia zarzuty - Alert Medyczny",
       "url": "https://alertmedyczny.pl/800-procedur-stomatologicznych-zakwestionowanych-prokuratura-stawia-zarzuty/",
@@ -400,6 +392,14 @@
       "source": "DOZ.pl",
       "confirmed_by": 1,
       "summary": "Katar z krwią – co oznacza i kiedy jest powodem do niepokoju? Sprawdź, kiedy krew z nosa przy katarze wymaga konsultacji z lekarzem. Dowiedz się więcej na DOZ.pl."
+    },
+    {
+      "title": "Zabrze: bezpłatne badania w kierunku nowotworów głowy i szyi - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Zabrze-bezplatne-badania-w-kierunku-nowotworow-glowy-i-szyi,288776,14.html",
+      "date": "2026-09-10T10:55:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Od 21 do 25 września w Szpitalu Specjalistycznym w Zabrzu będzie można bezpłatnie wykonać badania w kierunku nowotworów głowy i szyi. Z diagnostyki mogą skorzystać osoby, u których od ponad trzech tygodni utrzymują się niepokojące objawy, m.in. przewlekła chrypka czy problemy z połykaniem."
     }
   ],
   "world": [
@@ -409,7 +409,7 @@
       "date": "2026-09-10T23:37:30Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Naukowcy z Międzynarodowej Agencji Badań nad Rakiem (IARC) i instytucji partnerskich będą współpracować przy projektowaniu i wdrażaniu innowacyjnego, wieloetapowego systemu opartego na sztucznej inteligencji (AI), który będzie wspierał precyzyjną diagnostykę i terapię pacjentów z guzami mózgu. Prace będą prowadzone w ramach europejskiego projektu Unified Cancer Diagnostics and Treatment AI agent (EUcanAI)."
+      "summary": "Naukowcy z Międzynarodowej Agencji Badań nad Rakiem (IARC) i instytucji partnerskich będą współpracować przy zaprojektowaniu i wdrożeniu innowacyjnego, wieloetapowego systemu opartego na sztucznej inteligencji (AI), który pomoże w precyzyjnej diagnostyce i terapii pacjentów z guzami mózgu. Prace będą prowadzone w ramach europejskiego projektu Unified Cancer Diagnostics and Treatment AI agent (EUcanAI)."
     },
     {
       "title": "Zdrowie Green Barns - BMJ",
@@ -417,10 +417,10 @@
       "date": "2026-09-10T19:52:25Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Green Barns Zdrowie BMJ."
+      "summary": "Wyszukaj i aplikuj o pracę w Green Barns Health w BMJ Health Careers."
     },
     {
-      "title": "Wcześniejsza rola 177Lu-PSMA-617 w przerzutowym raku prostaty? - Clinician.nejm.org",
+      "title": "Wcześniejsza rola 177Lu-PSMA-617 w przerzutowym raku prostaty? - Lekarz NEJM",
       "url": "https://clinician.nejm.org/CLINjwNA60465",
       "date": "2026-09-10T19:49:02Z",
       "source": "NEJM",
@@ -428,7 +428,7 @@
       "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     },
     {
-      "title": "Początkowe schematy leczenia przeciwretrowirusowego i przyrost masy ciała – Clinician.nejm.org",
+      "title": "Początkowe schematy leczenia przeciwretrowirusowego i przyrost masy ciała – lekarz NEJM",
       "url": "https://clinician.nejm.org/CLINjwNA60446",
       "date": "2026-09-10T19:49:01Z",
       "source": "NEJM",
@@ -444,7 +444,7 @@
       "summary": "Co wiesz o objawach klinicznych choroby meningokokowej? Sprawdź swoją wiedzę w tym krótkim quizie składającym się z pięciu pytań."
     },
     {
-      "title": "Korzystanie ze sztucznej inteligencji przy łóżku pacjenta: ramy praktyczne – Clinician.nejm.org",
+      "title": "Korzystanie ze sztucznej inteligencji przy łóżku pacjenta: ramy praktyczne – lekarz NEJM",
       "url": "https://clinician.nejm.org/CLINjwNA60383",
       "date": "2026-09-10T18:49:58Z",
       "source": "NEJM",
@@ -452,7 +452,7 @@
       "summary": "Przeczytaj ten artykuł w czasopiśmie Journal Watch i więcej podsumowań klinicznych na temat NEJM Clinician."
     },
     {
-      "title": "Identyfikacja uleczalnych przyczyn szybko postępującej demencji – Clinician.nejm.org",
+      "title": "Identyfikacja uleczalnych przyczyn szybko postępującej demencji – lekarz NEJM",
       "url": "https://clinician.nejm.org/CLINjwNA60527",
       "date": "2026-09-10T18:49:58Z",
       "source": "NEJM",
@@ -481,7 +481,7 @@
       "date": "2026-09-10T17:18:40Z",
       "source": "STAT News",
       "confirmed_by": 1,
-      "summary": "Odbyła się ostra debata na temat przyjmowania przez lekarzy darmowych prezentów i honorariów za wystąpienia od firm farmaceutycznych. Nie oznacza to, że lekarze ponownie to rozważyli."
+      "summary": "Odbyła się ostra debata na temat przyjmowania przez lekarzy bezpłatnych prezentów i honorariów za wystąpienia od firm farmaceutycznych. Nie oznacza to, że lekarze ponownie to rozważyli."
     },
     {
       "title": "Grupa Medyczna Helena - The BMJ",
@@ -489,7 +489,7 @@
       "date": "2026-09-10T17:17:23Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Helena Grupa Medyczna The BMJ."
+      "summary": "Wyszukaj i aplikuj o pracę w Helena Medical Group w BMJ Health Careers."
     },
     {
       "title": "Służba cywilna Irlandii Północnej - BMJ",
@@ -497,7 +497,7 @@
       "date": "2026-09-10T17:17:23Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Służba cywilna Irlandii Północnej BMJ."
+      "summary": "Wyszukaj i aplikuj o pracę w służbie cywilnej Irlandii Północnej w serwisie BMJ Health Careers."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -609,7 +609,7 @@
       "date": "2026-09-10T10:54:01Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Podwyższone markery tłuszczu wątrobowego, zwłóknienia i pogorszenia czynnościowego są powiązane ze zwiększonym ryzykiem chorób sercowo-naczyniowych u osób bez klinicznych objawów choroby wątroby na początku badania."
+      "summary": "Podwyższone markery tłuszczu wątrobowego, zwłóknienia i pogorszenia czynnościowego są związane ze zwiększonym ryzykiem chorób sercowo-naczyniowych u osób bez klinicznych objawów choroby wątroby na początku badania."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -649,7 +649,7 @@
       "date": "2026-09-10T10:32:20Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Badanie MRI wykonane podczas hipotermii terapeutycznej pozwala dokładnie określić wzór i stopień uszkodzenia mózgu u noworodków z encefalopatią niedotlenieniowo-niedokrwienną."
+      "summary": "Badanie MRI wykonane podczas hipotermii terapeutycznej dokładnie identyfikuje wzór i stopień uszkodzenia mózgu u noworodków z encefalopatią niedotlenieniowo-niedokrwienną."
     },
     {
       "title": "Kostka wartości: przekładanie korzyści klinicznych na możliwą do zrealizowania wartość w globalnej onkologii - Natura",
@@ -684,20 +684,20 @@
       "summary": "Nowe wytyczne mówią, że ciągły nadzór powinien uwzględniać choroby współistniejące, oczekiwaną długość życia, ryzyko w stosunku do korzyści, poziom tolerancji chirurgicznej, a także preferencje pacjenta."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "POChP i choroby serca wymagają zintegrowanej opieki klinicznej - Medscape",
       "url": "https://www.medscape.com/viewarticle/why-copd-and-vascular-disease-demand-unified-management-2026a1000xl4",
       "date": "2026-09-10T10:21:58Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Brak spojrzenia poza spirometrię w POChP może kosztować życie. Eksperci ERS 2026 przedstawiają nowe wytyczne kliniczne mające na celu ujednolicenie postępowania sercowo-naczyniowego i oddechowego."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Nasilenie objawów menopauzy u kobiet chorych na cukrzycę typu 2 - Medscape.pl",
       "url": "https://www.medscape.com/viewarticle/menopausal-symptoms-worse-women-type-2-diabetes-2026a1000xkc",
       "date": "2026-09-10T10:12:02Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Badanie obserwacyjne wykazało większą liczbę objawów i większe nasilenie u kobiet w średnim wieku chorych na cukrzycę typu 2 w porównaniu z kobietami bez cukrzycy."
     },
     {
       "title": "Bispecyficzne przeciwciało CD3×CD19 przeciwko toczniowi rumieniowatemu układowemu: badanie fazy 1 - Natura",
@@ -806,20 +806,28 @@
   ],
   "guidelines": [
     {
-      "title": "Ogólnokrajowy wzrost zgłaszanych narażeń ludzi na wściekliznę: Administracja ds. profilaktyki poekspozycyjnej na wściekliznę — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Ogólnokrajowy wzrost zgłaszanych narażeń ludzi na wściekliznę: Administracja ds. profilaktyki poekspozycyjnej na wściekliznę - cdc.gov",
       "url": "https://www.cdc.gov/han/php/notices/han00533.html",
       "date": "2026-09-10T21:15:41Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
-      "summary": "Ogólnokrajowy wzrost zgłaszanych narażeń ludzi na wściekliznę: Administracyjne profilaktyka poekspozycyjna na wściekliznę Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "confirmed_by": 1,
+      "summary": "Ogólnokrajowy wzrost zgłaszanych narażeń ludzi na wściekliznę: Administracja ds. profilaktyki poekspozycyjnej na wściekliznę cdc.gov."
     },
     {
-      "title": "Oświadczenie CDC w sprawie wzrostu niedawnej aktywności wścieklizny zwierząt i związanego z tym narażenia ludzi – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Nowe wytyczne mają na celu ochronę sportowców taktycznych przed ryzykiem chorób serca – WBAL-TV",
+      "url": "https://www.wbaltv.com/article/new-guidelines-for-tactical-athletes-heart-health/73672236",
+      "date": "2026-09-10T21:09:00Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Sportowcy taktyczni to osoby, których zawód wiąże się z dużą aktywnością fizyczną, np. strażacy, policjanci i personel wojskowy."
+    },
+    {
+      "title": "Oświadczenie CDC w sprawie wzrostu niedawnej aktywności wścieklizny zwierząt i powiązanego narażenia ludzi – cdc.gov",
       "url": "https://www.cdc.gov/media/releases/2026/cdc-statement-on-increases-in-recent-animal-rabies-activity-and-associated-human-exposures.html",
       "date": "2026-09-10T20:47:17Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Oświadczenie CDC w sprawie wzrostu niedawnej aktywności wścieklizny zwierząt i związanego z tym narażenia ludzi Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oświadczenie CDC w sprawie wzrostu niedawnej aktywności wścieklizny zwierząt i powiązanego z nią narażenia ludzi cdc.gov."
     },
     {
       "title": "Inicjatywa ESMO dotycząca finansowania badań klinicznych: Optymalizacja ścieżek leczenia raka w celu poprawy wyników leczenia pacjentów - Europejskie Towarzystwo Onkologii Medycznej | ESMO",
@@ -838,7 +846,7 @@
       "summary": "Nowe wytyczne kliniczne na rok 2026 kładą nacisk na nielekową opiekę nad bólami głowy związanymi z problemami szyi openPR.com."
     },
     {
-      "title": "Nowe wytyczne kliniczne na rok 2026 kładą nacisk na nielekową opiekę nad bólami głowy związanymi z problemami szyi – WBOC TV",
+      "title": "Nowe wytyczne kliniczne na rok 2026 kładą nacisk na nielekową opiekę nad bólami głowy związanymi z problemami szyi - wboc.com",
       "url": "https://www.wboc.com/online_features/press_releases/new-2026-clinical-guidelines-put-spotlight-on-non-drug-care-for-headaches-associated-with-neck/article_45efbe4b-2cfa-5ec7-846c-9092240f804e.html",
       "date": "2026-09-10T15:55:02Z",
       "source": "Wytyczne kliniczne",
@@ -846,7 +854,7 @@
       "summary": "Kolejna witryna oparta na WordPressie."
     },
     {
-      "title": "Wytyczne VA/DoD zalecają terapię opartą na ICS/formoterolu w leczeniu astmy – dialog medyczny",
+      "title": "Wytyczne VA/DoD zalecają terapię opartą na ICS/formoterolu w leczeniu astmy - Medicaldialogues.in",
       "url": "https://medicaldialogues.in/pulmonology/guidelines/vadod-guideline-recommends-icsformoterol-based-therapy-for-asthma-management-178709",
       "date": "2026-09-10T15:15:18Z",
       "source": "Wytyczne kliniczne",
@@ -862,12 +870,12 @@
       "summary": "Medha Baranwal posiada tytuł licencjata nauk biomedycznych uzyskany na Uniwersytecie w Delhi oraz tytuł magistra biotechnologii uzyskany na Uniwersytecie Amity. Od maja 2018 r. uczestniczy w Medical Dialogues, pisząc i redagując artykuły z zakresu wiadomości medycznych, które przekładają złożone badania na jasne i dostępne informacje dla pracowników służby zdrowia."
     },
     {
-      "title": "Strategia ustalania priorytetów zaleceń zdrowotnych w systemie Kolumbii – Bioengineer.org",
+      "title": "Strategia ustalania priorytetów zaleceń zdrowotnych w systemie Kolumbii - Bioengineer.org",
       "url": "https://bioengineer.org/strategy-for-prioritizing-health-recommendations-in-colombias-system/",
       "date": "2026-09-10T15:01:18Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Podczas szeroko zakrojonej kontroli Kolumbijskich wytycznych zdrowotnych opartych na dowodach naukowcy odkryli, że ponad połowa zaleceń klinicznych w tym kraju uznawanych za priorytetowe nadal czeka na zmiany."
+      "summary": "Podczas szeroko zakrojonej kontroli Kolumbijskich wytycznych zdrowotnych opartych na dowodach naukowcy odkryli, że ponad połowa priorytetowych zaleceń klinicznych w tym kraju utknęła w oczekiwaniu na zmiany."
     },
     {
       "title": "Posiedzenie Rady Przejrzystości 38/2026 w dniu 14.09.2026 r. – AKTUALIZACJA - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -899,7 +907,7 @@
       "date": "2026-09-10T12:29:16Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "DALLAS, czwartek, 10 września — American Heart Association Predicting Risk of sercowo-naczyniowe równania EVENTs™ (PREVENT) są teraz zintegrowane z platformą elektronicznej dokumentacji zdrowotnej (EHR) firmy Epic, dzięki czemu nowoczesna ocena ryzyka chorób sercowo-naczyniowych jest teraz..."
+      "summary": "DALLAS, czwartek, 10 września — Amerykańskie Towarzystwo Kardiologiczne przewidujące ryzyko chorób sercowo-naczyniowych Równania EVENTs™ (PREVENT) zostały teraz zintegrowane z platformą elektronicznej dokumentacji zdrowotnej (EHR) firmy Epic, dzięki czemu nowoczesna ocena ryzyka chorób sercowo-naczyniowych jest teraz..."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -910,7 +918,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Komisja Stomatologiczna NRL rozpoczęła prace w X kadencji - NIL",
+      "title": "Komisja Stomatologiczna NRL rozpoczęła prace w X kadencji - nil.org.pl",
       "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/9394-komisja-stomatologiczna-nrl-rozpoczela-prace-w-x-kadencji",
       "date": "2026-09-10T09:44:18Z",
       "source": "Naczelna Izba Lekarska",
@@ -918,7 +926,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Bezpłatne szkolenia dla kadr medycznych - NIL",
+      "title": "Bezpłatne szkolenia dla kadr medycznych - nil.org.pl",
       "url": "https://nil.org.pl/dzialalnosc/osrodki/centralny-osrodek-badan-innowacji-i-ksztalcenia-cobik-nil/bezplatne-szkolenia-dla-kadr-medycznych",
       "date": "2026-09-10T08:52:03Z",
       "source": "Naczelna Izba Lekarska",
@@ -955,7 +963,7 @@
       "date": "2026-09-10T06:40:12Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "NICE opublikowało wytyczne zalecające rutynowy dostęp NHS do specjalistycznych urządzeń, dzięki którym oddane wątroby i płuca funkcjonują poza organizmem, potencjalnie odblokowując co roku setki narządów do przeszczepu."
+      "summary": "NICE opublikowało wytyczne zalecające rutynowy dostęp NHS do specjalistycznych urządzeń, które umożliwiają funkcjonowanie oddanych wątroby i płuc poza organizmem, potencjalnie odblokowując co roku setki narządów do przeszczepu."
     },
     {
       "title": "Czy nowe wytyczne mogą poprawić leczenie bólu głowy? - DynamicChiropractic.com",
@@ -1006,7 +1014,7 @@
       "summary": "1.Stanowisko Rady Przejrzystości nr 124/2026 z dnia 31 sierpnia 2026 roku w sprawie zasadności kwalifikacji świadczenia opieki zdrowotnej „Porada infekcyjna pielęgniarki” jako świadczenia gwarantowanego."
     },
     {
-      "title": "Stanowisko PNRL ws. projektu zarządzenia Prezesa Narodowego Funduszu Zdrowia - NIL",
+      "title": "Stanowisko PNRL ws. projektu zarządzenia Prezesa Narodowego Funduszu Zdrowia - nil.org.pl",
       "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/9392-stanowisko-pnrl-ws-projektu-zarzadzenia-prezesa-narodowego-funduszu-zdrowia",
       "date": "2026-09-09T07:06:56Z",
       "source": "Naczelna Izba Lekarska",
@@ -1070,12 +1078,12 @@
       "summary": "Przewodniczący Grupy Zadaniowej, profesor Maria Bäck, profesor Dominique Hansen i profesor nadzwyczajny Matthias Wilhelm, przedstawili dziś pierwsze wytyczne ESC dotyczące rehabilitacji kardiologicznej."
     },
     {
-      "title": "Przyczyny zgonów wśród martwych urodzeń i dzieci w starszym wieku — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Przyczyny zgonów wśród martwych urodzeń i dzieci w starszym wieku – cdc.gov",
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7506a1.htm",
       "date": "2026-09-08T17:02:30Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
-      "summary": "Przyczyny zgonów wśród martwych urodzeń i dzieci w starszym wieku Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "confirmed_by": 1,
+      "summary": "Przyczyny zgonów wśród martwych urodzeń i dzieci w wieku cdc.gov."
     },
     {
       "title": "Sesja na żywo 2: Nowotwory układu moczowo-płciowego – ESMO OncologyPRO",
@@ -1086,7 +1094,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Kalendarz posiedzeń KS NRL X kadencji w 2026 roku - NIL",
+      "title": "Kalendarz posiedzeń KS NRL X kadencji w 2026 roku - nil.org.pl",
       "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/9391-kalendarz-posiedzen-ks-nrl-x-kadencji-w-2026-roku",
       "date": "2026-09-08T11:45:43Z",
       "source": "Naczelna Izba Lekarska",
@@ -1174,36 +1182,28 @@
       "summary": "Zawał mięśnia sercowego z nieobturacyjnymi tętnicami wieńcowymi (MINOCA) to heterogenny zespół kliniczny stanowiący około 6–10% ostrych zawałów mięśnia sercowego. Obejmuje wiele mechanizmów wieńcowych i pozawieńcowych, co sprawia, że ​​diagnoza i leczenie są szczególnie trudne. W niniejszym przeglądzie podsumowano aktualne dane dotyczące definicji, epidemiologii, patofizjologii, oceny diagnostycznej i leczenia MINOCA."
     },
     {
-      "title": "Przypadki i ogniska odry — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Przypadki i epidemie odry – cdc.gov",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-09-04T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Przypadki i ogniska odry Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "summary": "Przypadki i epidemie odry cdc.gov."
     },
     {
-      "title": "Szczepionka zapobiegająca ospie małpiej w Stanach Zjednoczonych — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Szczepionka zapobiegająca ospie małpiej w Stanach Zjednoczonych – cdc.gov",
       "url": "https://www.cdc.gov/monkeypox/hcp/vaccine-considerations/index.html",
       "date": "2026-09-04T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Szczepionka zapobiegająca ospie małpiej w amerykańskich Centrach Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Szczepionka zapobiegająca ospie małpiej w Stanach Zjednoczonych cdc.gov."
     },
     {
-      "title": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO - ajmc.com",
+      "title": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO – The American Journal of Managed Care",
       "url": "https://www.ajmc.com/view/ckm-guideline-aims-to-break-down-specialty-silos-keith-bellovich-do",
       "date": "2026-09-03T20:20:39Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 2,
-      "summary": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO ajmc.com."
-    },
-    {
-      "title": "ESC przedstawia pierwsze wytyczne kliniczne dotyczące rehabilitacji kardiologicznej – TCTMD.com",
-      "url": "https://www.tctmd.com/news/esc-introduces-first-clinical-guideline-cardiac-rehab",
-      "date": "2026-09-03T19:26:00Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "ESC przedstawia pierwsze wytyczne kliniczne dotyczące rehabilitacji kardiologicznej TCTMD.com."
+      "summary": "Wytyczne CKM mają na celu rozbicie silosów specjalistycznych: Keith Bellovich, DO The American Journal of Managed Care."
     }
   ],
   "epidemiology": [
@@ -1212,32 +1212,32 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-11T00:11:11Z",
       "source": "ECDC",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Od maja 2026 r. w Demokratycznej Republice Konga (DRK) trwa epidemia wirusa Ebola wywołana wirusem Bundibugyo."
     },
     {
-      "title": "Ogólnokrajowy wzrost zgłaszanych narażeń ludzi na wściekliznę: Administracja ds. profilaktyki poekspozycyjnej na wściekliznę — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Ogólnokrajowy wzrost zgłaszanych narażeń ludzi na wściekliznę: Administracja ds. profilaktyki poekspozycyjnej na wściekliznę - cdc.gov",
       "url": "https://www.cdc.gov/han/php/notices/han00533.html",
       "date": "2026-09-10T21:15:41Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Ogólnokrajowy wzrost zgłaszanych narażeń ludzi na wściekliznę: Administracyjne profilaktyka poekspozycyjna na wściekliznę Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "summary": "Ogólnokrajowy wzrost zgłaszanych narażeń ludzi na wściekliznę: Administracja ds. profilaktyki poekspozycyjnej na wściekliznę cdc.gov."
     },
     {
-      "title": "Oświadczenie CDC w sprawie wzrostu niedawnej aktywności wścieklizny zwierząt i związanego z tym narażenia ludzi – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Oświadczenie CDC w sprawie wzrostu niedawnej aktywności wścieklizny zwierząt i powiązanego narażenia ludzi – cdc.gov",
       "url": "https://www.cdc.gov/media/releases/2026/cdc-statement-on-increases-in-recent-animal-rabies-activity-and-associated-human-exposures.html",
       "date": "2026-09-10T20:47:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Oświadczenie CDC w sprawie wzrostu niedawnej aktywności wścieklizny zwierząt i związanego z tym narażenia ludzi Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Oświadczenie CDC w sprawie wzrostu niedawnej aktywności wścieklizny zwierząt i powiązanego z nią narażenia ludzi cdc.gov."
     },
     {
-      "title": "Dwadzieścia pięć lat po 11 września — wnioski z programu zdrowotnego World Trade Center — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Dwadzieścia pięć lat po 11 września — wnioski z programu zdrowotnego World Trade Center - cdc.gov",
       "url": "https://www.cdc.gov/media/releases/2026/twenty-five-years-after-9-11-lessons-from-the-world-trade-center-health-program.html",
       "date": "2026-09-10T20:37:30Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Dwadzieścia pięć lat po 11 września — wnioski z programu zdrowotnego World Trade Center Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Dwadzieścia pięć lat po 11 września — wnioski z programu zdrowotnego World Trade Center cdc.gov."
     },
     {
       "title": "Zawał serca – Światowa Organizacja Zdrowia (WHO)",
@@ -1272,12 +1272,12 @@
       "summary": "Charakterystyka i monitorowanie epidemii wirusa Ebola w 2026 r.… cdc.gov."
     },
     {
-      "title": "Charakterystyka kliniczna pacjentów chorych na wirus Ebola... — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Charakterystyka kliniczna pacjentów chorych na wirus Ebola… – cdc.gov",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7535a2.htm?s_cid=OS_mm7535a2_w",
       "date": "2026-09-10T17:03:02Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Charakterystyka kliniczna pacjentów chorych na wirus Ebola... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Charakterystyka kliniczna pacjentów chorych na wirus Ebola… cdc.gov."
     },
     {
       "title": "Laboratoryjna ocena ścieków jako narzędzie nadzoru pod kątem wirusa Zachodniego Nilu, Stany Zjednoczone — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -1360,36 +1360,36 @@
       "summary": "O okładce."
     },
     {
-      "title": "Epidemia Salmonelli powiązana z kiełkami brokułów – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Epidemia Salmonelli powiązana z kiełkami brokułów – cdc.gov",
       "url": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/index.html",
       "date": "2026-09-09T19:49:04Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Epidemia Salmonelli powiązana z Centrami Kontroli i Zapobiegania Chorobom zajmującymi się kiełkami brokułów | CDC (.gov)."
+      "summary": "Epidemia Salmonelli powiązana z kiełkami brokułów cdc.gov."
     },
     {
-      "title": "Gdzie ludzie zachorowali: epidemia salmonelli, wrzesień 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
-      "url": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/locations.html",
-      "date": "2026-09-09T19:49:04Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Gdzie ludzie zachorowali: epidemia salmonelli, wrzesień 2026 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
-    },
-    {
-      "title": "Aktualizacja dochodzenia: Epidemia Salmonelli, wrzesień 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Aktualizacja dochodzenia: Epidemia Salmonelli, wrzesień 2026 r. – cdc.gov",
       "url": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/investigation.html",
       "date": "2026-09-09T19:49:04Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Aktualizacja dochodzenia: Epidemia Salmonelli, wrzesień 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Aktualizacja dochodzenia: Epidemia Salmonelli, wrzesień 2026 r. cdc.gov."
     },
     {
-      "title": "Kiedy ludzie zachorowali: epidemia salmonelli, wrzesień 2026 r. — Centra ds. kontroli i zapobiegania chorobom | CDC (.gov)",
+      "title": "Gdzie ludzie zachorowali: epidemia Salmonelli, wrzesień 2026 r. – cdc.gov",
+      "url": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/locations.html",
+      "date": "2026-09-09T19:49:04Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Gdzie ludzie zachorowali: epidemia Salmonelli, wrzesień 2026 r. cdc.gov."
+    },
+    {
+      "title": "Kiedy ludzie zachorowali: epidemia Salmonelli, wrzesień 2026 r. – cdc.gov",
       "url": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/timeline.html",
       "date": "2026-09-09T19:49:03Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Kiedy ludzie zachorowali: epidemia salmonelli, wrzesień 2026 r. Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "summary": "Kiedy ludzie zachorowali: epidemia Salmonelli, wrzesień 2026 r. cdc.gov."
     },
     {
       "title": "Spłukiwanie toalety może spowodować uwolnienie pióropusza zarazków na wysokości twarzy osoby dorosłej – CIDRAP",
@@ -1413,7 +1413,7 @@
       "date": "2026-09-09T16:19:32Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Co roku 28 września społeczność globalna gromadzi się, aby podnosić świadomość na temat eliminacji wścieklizny! Temat tegorocznego Światowego Dnia Wścieklizny „Razem silniejsi” podkreśla prostą prawdę: wyeliminowanie wścieklizny jest możliwe tylko wtedy, gdy współpracujemy."
+      "summary": "Co roku 28 września społeczność globalna gromadzi się, aby podnosić świadomość na temat eliminacji wścieklizny! Tegoroczne hasło Światowego Dnia Wścieklizny „Razem silniejsi” podkreśla prostą prawdę: wyeliminowanie wścieklizny jest możliwe tylko wtedy, gdy współpracujemy."
     },
     {
       "title": "Badanie: Candida auris często przenosi się z pacjentów na rękawiczki i fartuchy pracowników służby zdrowia – CIDRAP",
@@ -1453,7 +1453,7 @@
       "date": "2026-09-09T12:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Dołącz do WHO i weź udział w Globalnym Dialogu z okazji Światowego Dnia Bezpieczeństwa Pacjenta 2026 pod hasłem „Bezpieczna pielęgnacja życia!”."
+      "summary": "Dołącz do WHO i weź udział w Globalnym Dialogu z okazji Światowego Dnia Bezpieczeństwa Pacjenta 2026 pod hasłem „Bezpieczna troska o życie!”."
     },
     {
       "title": "Jak przetrwać menopauzę: seks, związki i dobre samopoczucie – Światowa Organizacja Zdrowia (WHO)",
@@ -1568,12 +1568,12 @@
       "summary": "Projekt WHO FP Accelerator Plus opiera się na osiągnięciach projektu parasolowego planowania rodziny (FP) (2015–2018) i projektu FP Accelerator (2019–2022), aby wspierać partnerów i Ministerstwa Zdrowia w przyspieszaniu zwiększania i utrzymywania zalecanych przez WHO, uwzględniających problematykę płci i opartych na dowodach praktyk PR."
     },
     {
-      "title": "Przyczyny zgonów wśród martwych urodzeń i dzieci w starszym wieku — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Przyczyny zgonów wśród martwych urodzeń i dzieci w starszym wieku – cdc.gov",
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7506a1.htm",
       "date": "2026-09-08T17:02:30Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Przyczyny zgonów wśród martwych urodzeń i dzieci w starszym wieku Centra kontroli i zapobiegania chorobom | CDC (.gov)."
+      "summary": "Przyczyny zgonów wśród martwych urodzeń i dzieci w wieku cdc.gov."
     },
     {
       "title": "Nowy przegląd pokazuje, że utrzymujące się objawy wirusa oddechowego nie ograniczają się do Covid-19 – CIDRAP",
@@ -1589,7 +1589,7 @@
       "date": "2026-09-08T15:16:52Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Dołącz do WHO i weź udział w seminarium internetowym przedstawiającym nowe profile produktów docelowych (TPP) dla męskich metod antykoncepcji. TPP zapewniają ramy dla opracowania przyszłych męskich produktów antykoncepcyjnych poprzez określenie preferowanych i minimalnych cech, które powinny mieć na celu osiągnięcie nowych metod."
+      "summary": "Dołącz do WHO i weź udział w seminarium internetowym przedstawiającym nowe profile produktów docelowych (TPP) dla męskich metod antykoncepcji. TPP zapewniają ramy dla opracowania przyszłych produktów antykoncepcyjnych dla mężczyzn poprzez określenie preferowanych i minimalnych cech, które powinny mieć na celu osiągnięcie nowych metod."
     },
     {
       "title": "Wytyczne WHO dotyczące rozszerzania opcji antykoncepcyjnych – Światowa Organizacja Zdrowia (WHO)",
@@ -1842,7 +1842,7 @@
       "summary": "Szczegóły badania | NCT07801508 | Badanie [68Ga]Ga-DWJ155 u dorosłych pacjentów z guzami litymi Clinical Trials.gov."
     },
     {
-      "title": "Szczegóły badania | NCT07807280 | C-Carbs: kierowane przez CGM podejście do nauczania świadomości węglowodanów - Clinical Trials.gov",
+      "title": "Szczegóły badania | NCT07807280 | C-Carbs: kierowane przez CGM podejście do nauczania świadomości węglowodanów – Clinical Trials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07807280",
       "date": "2026-09-09T04:41:24Z",
       "source": "ClinicalTrials.gov",
@@ -1903,10 +1903,18 @@
       "date": "2026-09-08T07:00:00Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Amerykańska opieka zdrowotna przechodzi zmiany strukturalne, w ramach których stowarzyszenia zawodowe, konglomeraty szpitalne, private equity, firmy farmaceutyczne i organy regulacyjne w coraz większym stopniu działają w ramach nakładających się systemów pieniędzy, wpływów i władzy klinicznej. Dowody nie potwierdzają uproszczonego twierdzenia, że ​​wszelka konsolidacja lub zaangażowanie branży szkodzi pacjentom; faktycznie pokazuje wyższe ceny po konsolidacji, niepokojący poziom personelu w funduszach private equity i sygnały dotyczące jakości, znaczne płatności ze strony sektora i lobbing, a także zabezpieczenia przed konfliktem interesów, które pozostają zagrożone."
+      "summary": "Amerykańska opieka zdrowotna przechodzi zmiany strukturalne, w ramach których stowarzyszenia zawodowe, konglomeraty szpitalne, private equity, firmy farmaceutyczne i organy regulacyjne w coraz większym stopniu działają w ramach nakładających się systemów pieniędzy, wpływów i władzy klinicznej. Dowody nie potwierdzają uproszczonego twierdzenia, że ​​wszelka konsolidacja lub zaangażowanie branży szkodzi pacjentom; faktycznie pokazuje wyższe ceny po konsolidacji, niepokojące sygnały dotyczące personelu w funduszach private equity i jakości, znaczne płatności ze strony przemysłu i lobbing, a także zabezpieczenia przed konfliktem interesów, które pozostają zagrożone."
     },
     {
-      "title": "Szczegóły badania | NCT07607964 | Badanie mające na celu ocenę zdarzeń niepożądanych, sposobu przemieszczania się leku przez organizm oraz skuteczności wlewów dożylnych i wstrzyknięć podskórnych ABBV-519 u dorosłych pacjentów chorych na toczeń rumieniowaty układowy (SLE) lub – Clinical Trials.gov",
+      "title": "Skromna propozycja. SATYRA W SPOSÓB JONATHANA SWIFTA, 1729. - Trialssitenews.com",
+      "url": "https://www.trialsitenews.com/a/a-modest-proposal.-a-satire-in-the-manner-of-jonathan-swift-1729.-996479fa",
+      "date": "2026-09-08T07:00:00Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Dr Robert W. Malone za zapobieganie sytuacji, w której wyborcy ze wschodnich Niemiec byli ciężarem dla swoich lepszych oraz za uczynienie ich korzystnymi dla Unii. Dla osób niesłyszących: To nie jest propozycja polityczna."
+    },
+    {
+      "title": "Szczegóły badania | NCT07607964 | Badanie oceniające zdarzenia niepożądane, sposób przemieszczania się leku przez organizm oraz skuteczność wlewów dożylnych i wstrzyknięć podskórnych ABBV-519 u dorosłych pacjentów chorych na toczeń rumieniowaty układowy (SLE) lub – Clinical Trials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07607964",
       "date": "2026-09-08T07:00:00Z",
       "source": "ClinicalTrials.gov",
@@ -1927,15 +1935,7 @@
       "date": "2026-09-08T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Szczegóły badania | NCT07805954 | Badanie dotyczące stosowania zoldonrasybu (RMC-9805) i daraksonrazybu (RMC-6236) w porównaniu z gemcytabiną i nab-paklitakselem jako leczenie pierwszego rzutu w leczeniu gruczolakoraka trzustki z przerzutami z mutacją KRAS G12D Clinical Trials.gov."
-    },
-    {
-      "title": "Skromna propozycja. SATYRA W SPOSÓB JONATHANA SWIFTA, 1729. - Trialssitenews.com",
-      "url": "https://www.trialsitenews.com/a/a-modest-proposal.-a-satire-in-the-manner-of-jonathan-swift-1729.-996479fa",
-      "date": "2026-09-08T07:00:00Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Dr Robert W. Malone za zapobieganie sytuacji, w której wyborcy ze wschodnich Niemiec byli ciężarem dla lepszych od siebie oraz za uczynienie ich korzystnymi dla Unii. Dla osób niepełnosprawnych: To nie jest propozycja polityczna."
+      "summary": "Szczegóły badania | NCT07805954 | Badanie dotyczące stosowania zoldonrasybu (RMC-9805) i daraksonrazybu (RMC-6236) w porównaniu z gemcytabiną i nab-paklitakselem jako leczenie pierwszego rzutu w leczeniu gruczolakoraka trzustki z przerzutami KRAS G12D Clinical Trials.gov."
     },
     {
       "title": "Nadmierna aktywacja szlaku PI3K/AKT/mTOR – Trialssitenews.com",
@@ -1970,12 +1970,12 @@
       "summary": "José Orlando da Silva Queiroz z Universidade da Amazénia i współpracownicy zbadali wyzwania stojące przed młodzieżą autystyczną w zintegrowanym przeglądzie literatury opublikowanym 2 września 2026 r. w Derecho y Cambio Social. W przeglądzie zbadano zaburzenia ze spektrum autyzmu (ASD), okres dojrzewania i socjalizację. Badacze początkowo zidentyfikowali 120 rekordów, zgłosili wybranie 10 do przeglądu pełnotekstowego, ale ostatecznie oparli swoje tabele dyskusyjne na pięciu badaniach brazylijskich przeprowadzonych w latach 2021–2023."
     },
     {
-      "title": "„Spikeopatia” po szczepieniu na Covid-19: dwa uderzające przypadki budzą poważną hipotezę, ale jej nie udowadniają",
+      "title": "„Spikeopatia” po szczepieniu na Covid-19: dwa uderzające przypadki budzą poważną hipotezę, ale jej nie udowadniają – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/spikeopathy-after-covid-19-vaccination-two-striking-cases-raise-a-serious-hypothesisbut-do-not-prove-it-5946a362",
       "date": "2026-09-08T01:05:17Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Robyn Cosford, przewodnicząca Children’s Health Defense Australia, w opisie przypadku opublikowanym w Medical Research Archives opisuje dwóch wcześniej zdrowych mężczyzn, u których po szczepieniu mRNA przeciwko Covid-19 rozwinęła się ciężka, trwała choroba wielonarządowa. Oboje doświadczyli lat zmęczenia i dysfunkcji autonomicznych; u jednego rozwinęło się przewlekłe zapalenie osierdzia, u drugiego nawracające migotanie przedsionków i neuropatia drobnowłóknista potwierdzona biopsją. W obu przypadkach wykazano wiele autoprzeciwciał GPCR i znacznie podwyższone przeciwciała przeciw szczytowi."
+      "summary": "Robyn Cosford, przewodnicząca Children’s Health Defense Australia, w opisie przypadku opublikowanym w Medical Research Archives opisuje dwóch wcześniej zdrowych mężczyzn, u których po szczepieniu mRNA przeciwko Covid-19 rozwinęła się ciężka, trwała choroba wielonarządowa. Oboje doświadczyli lat zmęczenia i dysfunkcji autonomicznych; u jednego rozwinęło się przewlekłe zapalenie osierdzia, u drugiego nawracające migotanie przedsionków i neuropatia drobnowłóknista potwierdzona biopsją. W obu przypadkach wykazano wiele autoprzeciwciał GPCR i znacznie podwyższone przeciwciała przeciw szczytom."
     }
   ],
   "pharma_market": [
@@ -2004,12 +2004,12 @@
       "summary": "Język portugalski jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
-      "title": "Zgłoś problem do FDA - contact.fda.gov",
+      "title": "Zgłoś problem do FDA – Amerykańskiej Agencji ds. Żywności i Leków (.gov)",
       "url": "https://contact.fda.gov/report-problem/product-type",
       "date": "2026-09-10T20:49:31Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Zgłaszaj szkody, problemy z jakością lub niewłaściwe postępowanie dotyczące produktów objętych regulacjami FDA. Zajmuje tylko 5–10 minut i pomaga zapewnić bezpieczeństwo publiczne."
+      "summary": "Zgłaszaj szkody, problemy z jakością lub niewłaściwe postępowanie dotyczące produktów objętych regulacjami FDA. Zajmie to tylko 5–10 minut i pomoże zapewnić bezpieczeństwo publiczne."
     },
     {
       "title": "Wyzwania prawne związane z negocjacjami dotyczącymi Medicare w zakresie rozwiązań farmaceutycznych Stałe zasady łączenia - insights.citeline.com",
@@ -2100,7 +2100,7 @@
       "summary": "CZWARTEK, 10 września 2026 r. Grupa demokratycznych prawodawców wzywa administrację Trumpa do zawieszenia nowego programu inwigilacji, który po cichu uruchomiła."
     },
     {
-      "title": "Andy Plump, architekt działu badań i rozwoju Takedy, w przyszłym roku odejdzie na emeryturę - BioPharma Dive",
+      "title": "Andy Plump, architekt działu badań i rozwoju firmy Takeda, w przyszłym roku odchodzi na emeryturę - BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/takeda-andy-plump-retire-president-research-development/830017/",
       "date": "2026-09-10T15:43:51Z",
       "source": "BioPharma Dive",
@@ -2108,7 +2108,7 @@
       "summary": "Plump dołączył do Takedy w burzliwym okresie, zmusił firmę do bliższej współpracy z młodymi biotechnologami i opuści ją z, jak to określiła dyrektor generalna Julie Kim, „trwałym fundamentem”."
     },
     {
-      "title": "Systemy operacyjne w onkologii: Komunikat amerykańskiej FDA dotyczący planowania tymczasowych analiz cieszy się dużym zainteresowaniem - Insights.citeline.com",
+      "title": "Systemy operacyjne w onkologii: Komunikat amerykańskiej Agencji ds. Żywności i Leków dotyczący planowania tymczasowych analiz cieszy się dużym zainteresowaniem - Insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/os-in-oncology-us-fda-message-to-plan-for-interim-analyses-resonating-SQTVXPVWQFCPRL2Z5EC4ZCISXU/",
       "date": "2026-09-10T15:42:56Z",
       "source": "Pink Sheet",
@@ -2172,7 +2172,7 @@
       "summary": "Recenzje Endpoints News 77 startupów E11; najważniejsze wydarzenia obejmują wykup UCB firmy Candid za 2 miliardy dolarów, podwyżkę Isomorphic Labs o 2,1 miliarda dolarów, zatwierdzenie Orca Bio przez FDA i zamknięcie Aretei."
     },
     {
-      "title": "Akcjonariusz Novartis wzywa do zmiany zarządu w związku z kosztownymi niepowodzeniami w transakcjach: Reuters – Fierce Pharma",
+      "title": "Akcjonariusz Novartis wzywa do zmiany zarządu w związku z kosztownymi niepowodzeniami w transakcji: Reuters – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters",
       "date": "2026-09-10T14:26:28Z",
       "source": "FiercePharma",
@@ -2188,7 +2188,7 @@
       "summary": "ARPA-H uruchomiła projekt ADVOCATE, finansując UpDoc, Tempus AI i Atman Health w celu zbudowania w ciągu 24 miesięcy zatwierdzonych przez FDA agentów AI do leczenia niewydolności serca."
     },
     {
-      "title": "Australijska stopa dyskontowa wynosząca 5% kosztuje pacjentów dostęp do leków – branża wzywa do rozwiązania problemu - insights.citeline.com",
+      "title": "Australijska stopa dyskontowa wynosząca 5% utrudnia pacjentom dostęp do leków – branża wzywa do rozwiązania problemu – insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/health-technology-assessment/australias-5-discount-rate-is-costing-patients-access-to-drugs-industry-calls-for-fix-IMIQOAW4YFCTREPGOFO5OAEWJY/",
       "date": "2026-09-10T14:17:22Z",
       "source": "Pink Sheet",
@@ -2236,7 +2236,7 @@
       "summary": "Wiodącym produktem firmy Encoded Therapeutics ETX101 jest terapia genowa testowana pod kątem zespołu Dravet. Dane z fazy 1/2 wykazały znaczną redukcję napadów."
     },
     {
-      "title": "Firma Sanofi uderza na boisko do gry w pickleball, promując edukacyjną szczepionkę na Covid Nuvaxovid – Fierce Pharma",
+      "title": "Firma Sanofi uderza na boisko do gry w pickleball, zachęcając do edukacji szczepionkę na Covid Nuvaxovid – Fierce Pharma",
       "url": "https://www.fiercepharma.com/marketing/sanofi-bounces-usa-pickleball-partnership-promote-nuvaxovid-covid-vaccine-older-adults",
       "date": "2026-09-10T13:00:00Z",
       "source": "FiercePharma",
@@ -2353,7 +2353,7 @@
       "date": "2026-09-10T07:07:20Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "W zeszłym miesiącu wśród firm biotechnologicznych i farmaceutycznych, które dokonywały lub planowały redukcję zatrudnienia, znalazły się trzy, których redukcje zmniejszą zatrudnienie o ponad połowę. Zwolnienia w Blueprint Medicines dotkną większość pracowników."
+      "summary": "W zeszłym miesiącu wśród firm biotechnologicznych i farmaceutycznych, które dokonywały lub planowały redukcję zatrudnienia, znalazły się trzy, których redukcje spowodują zmniejszenie zatrudnienia o ponad połowę. Zwolnienia w Blueprint Medicines dotkną większość pracowników."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2394,7 +2394,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-11T00:11:11Z",
       "source": "ECDC",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Od maja 2026 r. w Demokratycznej Republice Konga (DRK) trwa epidemia wirusa Ebola wywołana wirusem Bundibugyo."
     },
     {
@@ -2414,12 +2414,12 @@
       "summary": "Charakterystyka i monitorowanie epidemii wirusa Ebola w 2026 r.… cdc.gov."
     },
     {
-      "title": "Charakterystyka kliniczna pacjentów chorych na wirus Ebola... — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Charakterystyka kliniczna pacjentów chorych na wirus Ebola… – cdc.gov",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7535a2.htm?s_cid=OS_mm7535a2_w",
       "date": "2026-09-10T17:03:02Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Charakterystyka kliniczna pacjentów chorych na wirus Ebola... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Charakterystyka kliniczna pacjentów chorych na wirus Ebola… cdc.gov."
     },
     {
       "title": "Ebola w Afryce. WHO apeluje: brakuje ponad 5 tys. medyków - Rynek Zdrowia",
@@ -2438,23 +2438,15 @@
       "summary": "W ramach posunięcia, które co najmniej jedna lokalna organizacja charytatywna zajmująca się HIV uznała za „głęboko rozczarowujące”, angielska ekspertka ds. technologii medycznych NICE odradza obecnie relacjonowanie najważniejszego miejsca Gilead Sciences | W ramach posunięcia, które co najmniej jedna lokalna organizacja charytatywna zajmująca się HIV uznała za „głęboko rozczarowujące”, angielska rzeczoznawca ds. technologii medycznych NICE odradza obecnie publikowanie w ramach Narodowej Służby Zdrowia przełomowego leku PrEP firmy Gilead Sciences podawanego dwa razy w roku – lenakapawiru."
     },
     {
-      "title": "Epidemia Salmonelli powiązana z kiełkami brokułów – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "title": "Epidemia Salmonelli powiązana z kiełkami brokułów – cdc.gov",
       "url": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/index.html",
       "date": "2026-09-09T19:49:04Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Epidemia Salmonelli powiązana z Centrami Kontroli i Zapobiegania Chorobom zajmującymi się kiełkami brokułów | CDC (.gov)."
+      "summary": "Epidemia Salmonelli powiązana z kiełkami brokułów cdc.gov."
     }
   ],
   "daily_top5": [
-    {
-      "title": "Epidemia wirusa Ebola w Demokratycznej Republice Konga – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-09-11T00:11:11Z",
-      "source": "ECDC",
-      "confirmed_by": 3,
-      "summary": "Od maja 2026 r. w Demokratycznej Republice Konga (DRK) trwa epidemia wirusa Ebola wywołana wirusem Bundibugyo."
-    },
     {
       "title": "Projekt zarządzenia – onkologiczne świadczenia kompleksowe - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/projekty-zarzadzen/projekt-zarzadzenia-onkologiczne-swiadczenia-kompleksowe,7011.html",
@@ -2462,6 +2454,14 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 5,
       "summary": "Projekt zarządzenia Prezesa Narodowego Funduszu Zdrowia zmieniającego zarządzenie w sprawie warunków umów o udzielanie onkologicznych świadczeń kompleksowych."
+    },
+    {
+      "title": "Nowe wytyczne AGA dotyczące nadzoru nad rakiem u seniorów – Medscape",
+      "url": "https://www.medscape.com/viewarticle/new-aga-guidance-surveillance-premalignant-conditions-2026a1000xkp?src=",
+      "date": "2026-09-10T10:27:50Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Nowe wytyczne mówią, że ciągły nadzór powinien uwzględniać choroby współistniejące, oczekiwaną długość życia, ryzyko w stosunku do korzyści, poziom tolerancji chirurgicznej, a także preferencje pacjenta."
     },
     {
       "title": "Choroba Ebola wywołana wirusem Bundibugyo – Demokratyczna Republika Konga – Światowa Organizacja Zdrowia (WHO)",
