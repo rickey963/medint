@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-09-11T22:59:56Z",
+  "last_updated": "2026-09-11T23:00:46Z",
   "poland": [
-    {
-      "title": "Witamina D a zdrowie Polaków. Farmaceutka wskazuje cztery najczęstsze błędy - Medonet",
-      "url": "https://www.medonet.pl/leki/witamina-d-i-polacy-farmaceutka-podaje-cztery-najczestsze-bledy/4tmpd1x",
-      "date": "2026-09-11T22:49:48Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Niedobór witaminy D ma nawet 90 proc. Polaków i tak naprawdę większość z nas powinna ją suplementować. Dobra wiadomość jest taka, że coraz więcej rodaków wie, że powinni zażywać witaminę D i w jakich ilościach."
-    },
     {
       "title": "System eZWM (e - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://ezwm.nfz.gov.pl/",
@@ -88,6 +80,14 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Wirus Epsteina-Barr — \"cichy towarzysz\", który może wywołać poważne choroby — doczekał się nowej, obiecującej strategii zwalczania. Amerykańscy naukowcy opracowali przeciwciała, które mogą zrewolucjonizować leczenie infekcji i jej groźnych powikłań."
+    },
+    {
+      "title": "Witamina D a zdrowie Polaków. Farmaceutka wskazuje cztery najczęstsze błędy - Medonet",
+      "url": "https://www.medonet.pl/leki/witamina-d-i-polacy-farmaceutka-podaje-cztery-najczestsze-bledy/4tmpd1x",
+      "date": "2026-09-11T16:36:09Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Niedobór witaminy D ma nawet 90 proc. Polaków i tak naprawdę większość z nas powinna ją suplementować. Dobra wiadomość jest taka, że coraz więcej rodaków wie, że powinni zażywać witaminę D i w jakich ilościach."
     },
     {
       "title": "Zakaz telefonów w szkołach będzie odbierany jako kara, ale jest konieczny - Serwis Zdrowie",
@@ -170,7 +170,7 @@
       "summary": "Czy popularny lek przeciwbólowy może mieć wpływ na płodność przyszłych pokoleń? Najnowsze badania duńskich naukowców wskazują na niepokojące różnice w rozwoju narządów rozrodczych dziewczynek, których matki przyjmowały paracetamol w ciąży. Eksperci uspokajają jednak: na razie nie ma powodów do paniki."
     },
     {
-      "title": "Start kampanii „Profilaktyka – podaj dalej” - nio.gov.pl",
+      "title": "Start kampanii „Profilaktyka – podaj dalej” - Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie",
       "url": "https://nio.gov.pl/start-kampanii-profilaktyka--podaj-dalej",
       "date": "2026-09-11T15:07:55Z",
       "source": "Ministerstwo Zdrowia RP",
@@ -178,7 +178,7 @@
       "summary": "Zacząć wrzesień od profilaktyki? Ekspertów NIO nie trzeba do tego długo namawiać.W całej Polsce dostępnych jest obecnie ponad 800 tysięcy wolnych terminów na dwa ważne badania profilaktyczne – ponad 384 tys. na mammografię i ponad 445 tys."
     },
     {
-      "title": "Karpacz 2026: terapie ograniczone w czasie przynoszą korzyści dla pacjenta i systemu ochrony zdrowia - Serwis Zdrowie",
+      "title": "Karpacz 2026: terapie ograniczone w czasie przynoszą korzyści dla pacjenta i systemu ochrony zdrowia - zdrowie.pap.pl",
       "url": "https://zdrowie.pap.pl/leczenie/karpacz-2026-terapie-ograniczone-w-czasie-przynosza-korzysci-dla-pacjenta-i-systemu",
       "date": "2026-09-11T14:55:12Z",
       "source": "Serwis Zdrowie (PAP)",
@@ -218,7 +218,7 @@
       "summary": "MZ chce rozszerzyć uprawnienia pielęgniarek. Lidokaina będzie mogła być stosowana bez zlecenia lekarza podczas leczenia ran."
     },
     {
-      "title": "Niskodawkowa tomografia komputerowa w profilaktyce raka płuca - Serwis Zdrowie",
+      "title": "Niskodawkowa tomografia komputerowa w profilaktyce raka płuca - zdrowie.pap.pl",
       "url": "https://zdrowie.pap.pl/profilaktyka/niskodawkowa-tomografia-komputerowa-w-profilaktyce-raka-piersi",
       "date": "2026-09-11T14:20:01Z",
       "source": "Serwis Zdrowie (PAP)",
@@ -282,7 +282,7 @@
       "summary": "Narodowy Fundusz Zdrowia rozpoczął nabór placówek medycznych, które będą realizować nowy, bezpłatny program profilaktyczny w kierunku raka płuca. Kluczowym elementem programu jest niskodawkowa..."
     },
     {
-      "title": "„Zagłodzić” raka - Aktualności - Otolaryngologia - Medycyna Praktyczna",
+      "title": "„Zagłodzić” raka - Aktualności - Otolaryngologia - mp.pl",
       "url": "https://www.mp.pl/otolaryngologia/aktualnosci/448543,zaglodzic-raka",
       "date": "2026-09-11T12:43:48Z",
       "source": "Medycyna Praktyczna",
@@ -370,7 +370,7 @@
       "summary": "ABM opublikowała rekomendacje dotyczące udziału organizacji pacjentów w projektach niekomercyjnych badań klinicznych."
     },
     {
-      "title": "Powstaną nowe CZP dla dorosłych - Medycyna Praktyczna",
+      "title": "Powstaną nowe CZP dla dorosłych - mp.pl",
       "url": "https://www.mp.pl/psychiatria/aktualnosci/448524,powstana-nowe-czp-dla-doroslych",
       "date": "2026-09-11T11:43:45Z",
       "source": "Medycyna Praktyczna",
@@ -692,7 +692,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Globalny cyfrowy nawigator zdrowia ludzkiego dla medycyny precyzyjnej - Natura",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.nature.com/articles/s41591-026-04621-1",
       "date": "2026-09-11T09:47:36Z",
       "source": "Nature Medicine",
@@ -769,7 +769,7 @@
       "date": "2026-09-11T02:37:44Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Zaloguj się Przypomnij mi."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1602,7 +1602,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Organizacja laboratorium nie jest taka, jak myślisz – stosowane badania kliniczne online",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.appliedclinicaltrialsonline.com/view/lab-orchestration",
       "date": "2026-09-11T14:45:31Z",
       "source": "Applied Clinical Trials",
@@ -2009,7 +2009,7 @@
       "date": "2026-09-11T20:57:22Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Język włoski jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2020,7 +2020,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Rak jest obecnie głównym zagrożeniem dla osób, które przeżyły 11 września po 25 latach - Drugs.com",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.drugs.com/news/cancer-now-leading-health-threat-9-11-survivors-25-years-131298.html",
       "date": "2026-09-11T18:47:18Z",
       "source": "Drugs.com",
@@ -2028,7 +2028,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Stosowanie SAMA i SABA powiązane ze zdarzeniami sercowo-naczyniowymi, śmiertelnością w astmie i POChP - Drugs.com",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.drugs.com/news/sama-saba-linked-cardiovascular-events-mortality-asthma-copd-131301.html",
       "date": "2026-09-11T18:20:02Z",
       "source": "Drugs.com",
@@ -2036,7 +2036,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Badania przesiewowe + internetowy program terapii poznawczo-behawioralnej wspomaga zdrowie psychiczne pielęgniarek - Drugs.com",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.drugs.com/news/screening-online-cognitive-behavioral-therapy-program-aids-nurses-mental-health-131302.html",
       "date": "2026-09-11T18:20:02Z",
       "source": "Drugs.com",
@@ -2057,7 +2057,7 @@
       "date": "2026-09-11T16:36:25Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Redaktorzy Pink Sheet i Mike McCaughan z Prevision Policy omawiają wpływ nowo awansowanych dyrektorów ośrodków leków i leków biologicznych FDA, a także ciągłe zaangażowanie agencji w prowadzenie posiedzeń komitetu doradczego w sprawie zastosowań nowych produktów."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2100,7 +2100,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Badania mówią, że stymulacja nerwów łagodzi ból nerwów cukrzycowych - Drugs.com",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.drugs.com/news/nerve-stimulation-eases-diabetic-nerve-pain-study-says-131292.html",
       "date": "2026-09-11T15:46:36Z",
       "source": "Drugs.com",
@@ -2113,7 +2113,7 @@
       "date": "2026-09-11T15:46:25Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "RA Capital uczestniczyła już we wrześniu w czterech finansowaniech biotechnologicznych. Tymczasem według Gilmartin Group Janus Henderson był w tym roku najbardziej płodnym zwolennikiem odwrotnych fuzji biotechnologicznych."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2124,7 +2124,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Yrow przynosi więcej gotówki; Lek AbbVie powiódł się w badaniu dotyczącym migreny menstruacyjnej – Wiadomości z punktów końcowych",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://endpoints.news/yarrow-brings-in-more-cash-abbvie-drug-succeeds-in-menstrual-migraine-trial/",
       "date": "2026-09-11T15:28:00Z",
       "source": "Endpoints News",
@@ -2209,7 +2209,7 @@
       "date": "2026-09-11T11:00:00Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "W dniu 10 września 2026 roku Komitet ds. Weterynaryjnych Produktów Leczniczych (CVMP) przyjął pozytywną opinię, rekomendując wydanie grupy zmian do warunków pozwolenia na dopuszczenie do obrotu weterynaryjnego produktu leczniczego Vectormune HVT-AIV. Podmiotem odpowiedzialnym posiadającym pozwolenie na dopuszczenie do obrotu tego weterynaryjnego produktu leczniczego jest Ceva Sante Animale. Preparat Vectormune HVT-AIV jest obecnie dopuszczony do czynnego uodparniania jednodniowych kurcząt w celu zmniejszenia śmiertelności, objawów klinicznych i siewstwa wirusa w wyniku zakażenia wysoce zjadliwym wirusem grypy ptaków (HPAI) podtypu H5."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2217,7 +2217,7 @@
       "date": "2026-09-11T11:00:00Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "W dniu 10 września 2026 roku Komitet ds. Weterynaryjnych Produktów Leczniczych (CVMP) przyjął pozytywną opinię, rekomendując wydanie pozwolenia na dopuszczenie do obrotu dla weterynaryjnego produktu leczniczego AviGate S. Typhimurium, liofilizat do podawania w wodzie do picia, przeznaczonego dla kurcząt (brojlerów, niosek i przyszłych hodowców). Wnioskodawcą dotyczącym tego weterynaryjnego produktu leczniczego jest HuVepharma."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2297,7 +2297,7 @@
       "date": "2026-09-11T02:35:58Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Język łotewski jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
