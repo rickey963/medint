@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-11T11:31:46Z",
+  "last_updated": "2026-09-11T11:32:37Z",
   "poland": [
+    {
+      "title": "Porozumienie NIK i Biura RPD w służbie ochrony praw najmłodszych - Najwyższa Izba Kontroli",
+      "url": "https://www.nik.gov.pl/aktualnosci/porozumienie-nik-i-biura-rpd-w-sluzbie-ochrony-praw-najmlodszych.html",
+      "date": "2026-09-11T11:31:00Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Najnowsze wyniki kontroli NIK. Dowiedz się, jak dbamy o efektywne wykorzystanie środków publicznych."
+    },
     {
       "title": "Rozmowa może uratować życie - Serwis Zdrowie",
       "url": "https://zdrowie.pap.pl/psyche/rozmowa-moze-uratowac-zycie",
@@ -21,7 +29,7 @@
       "title": "Wrzesień miesiącem profilaktyki - pacjent.gov.pl",
       "url": "http://pacjent.gov.pl/aktualnosc/wrzesien-miesiacem-profilaktyki",
       "date": "2026-09-11T10:48:37Z",
-      "source": "Ministerstwo Zdrowia RP",
+      "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 2,
       "summary": "W ramach kampanii „Profilaktyka – podaj dalej” Ministerstwa Zdrowia we wrześniu odbędzie się ponad 500 wydarzeń i akcji zdrowotnych, w trakcie których przebadasz się lub porozmawiasz ze specjalistami. Wybierz wydarzenie dla siebie lub Twoich bliskich."
     },
@@ -194,7 +202,7 @@
       "summary": "Atogepant firmy AbbVie zmniejszył liczbę dni z migreną miesiączkową i osiągnął wszystkie kluczowe punkty końcowe badania fazy 3."
     },
     {
-      "title": "Gospodarka majątkowa i finansowa PAN – wyniki kontroli NIK - nik.gov.pl",
+      "title": "Gospodarka majątkowa i finansowa PAN – wyniki kontroli NIK - Najwyższa Izba Kontroli",
       "url": "https://www.nik.gov.pl/aktualnosci/gospodarka-majatkowa-i-finansowa-pan-wyniki-kontroli-nik.html",
       "date": "2026-09-11T08:00:00Z",
       "source": "Ministerstwo Zdrowia RP",
@@ -226,7 +234,7 @@
       "summary": "Większa dawka antygenu, mniej hospitalizacji. Wyniki badań wśród seniorów z chorobami płuc PolitykaZdrowotna.com."
     },
     {
-      "title": "Będzie chaos receptowy? - ochronazdrowia.mp.pl",
+      "title": "Będzie chaos receptowy? - Ochrona zdrowia - mp.pl",
       "url": "https://ochronazdrowia.mp.pl/aktualnosci/448479,bedzie-chaos-receptowy",
       "date": "2026-09-11T06:35:24Z",
       "source": "Medycyna Praktyczna",
@@ -370,7 +378,7 @@
       "summary": "Dowiedz się wszystkiego na temat leku Human Albumin Grifols. Skład, wskazania, dawkowanie, refundacja, działania niepożądane, interakcje."
     },
     {
-      "title": "800 procedur stomatologicznych zakwestionowanych. Prokuratura stawia zarzuty - alertmedyczny.pl",
+      "title": "800 procedur stomatologicznych zakwestionowanych. Prokuratura stawia zarzuty - Alert Medyczny",
       "url": "https://alertmedyczny.pl/800-procedur-stomatologicznych-zakwestionowanych-prokuratura-stawia-zarzuty/",
       "date": "2026-09-10T23:00:00Z",
       "source": "alertmedyczny.pl",
@@ -392,14 +400,6 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Wejście w dorosłość nigdy nie było proste, ale współczesne pokolenie dwudziesto‑ i trzydziestolatków mierzy się z poziomem niepewności bez precedensu. Niestabilny rynek pracy, ciągłe przeprowadzki, rozluźnione więzi społeczne i odkładane w czasie decyzje życiowe sprawiają, że młodzi dorośli czują się zagubieni i osamotnieni. Wtedy pojawia się u nich efekt nocebo."
-    },
-    {
-      "title": "Projekt zarządzenia – onkologiczne świadczenia kompleksowe - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/projekty-zarzadzen/projekt-zarzadzenia-onkologiczne-swiadczenia-kompleksowe,7011.html",
-      "date": "2026-09-10T20:17:11Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 5,
-      "summary": "Projekt zarządzenia Prezesa Narodowego Funduszu Zdrowia zmieniającego zarządzenie w sprawie warunków umów o udzielanie onkologicznych świadczeń kompleksowych."
     }
   ],
   "world": [
@@ -413,7 +413,7 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.nature.com/articles/s41591-026-04635-9",
+      "url": "https://www.nature.com/articles/s41591-026-04642-w",
       "date": "2026-09-11T10:11:34Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
@@ -421,7 +421,7 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.nature.com/articles/s41591-026-04642-w",
+      "url": "https://www.nature.com/articles/s41591-026-04635-9",
       "date": "2026-09-11T10:11:34Z",
       "source": "Nature Medicine",
       "confirmed_by": 1,
@@ -866,7 +866,7 @@
       "url": "https://www.cdc.gov/han/php/notices/han00533.html",
       "date": "2026-09-10T21:15:41Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1122,7 +1122,7 @@
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7506a1.htm",
       "date": "2026-09-08T17:02:30Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 4,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1159,14 +1159,6 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/monkeypox/hcp/vaccine-considerations/index.html",
-      "date": "2026-09-04T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.ajmc.com/view/ckm-guideline-aims-to-break-down-specialty-silos-keith-bellovich-do",
       "date": "2026-09-03T20:20:39Z",
       "source": "Wytyczne AHA/ACC",
@@ -1180,7 +1172,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-11T09:17:41Z",
       "source": "ECDC",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1229,7 +1221,7 @@
       "date": "2026-09-10T19:28:41Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Broszura informacyjna WHO na temat zawału serca, zawierająca najważniejsze fakty, objawy, przyczyny i czynniki ryzyka, leczenie, zapobieganie i reakcję WHO."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1237,7 +1229,7 @@
       "date": "2026-09-10T19:13:28Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Norowirus w ściekach i hospitalizacjach."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1843,7 +1835,7 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "http://www.clinicaltrials.gov/ct2/show/NCT07807280",
+      "url": "https://clinicaltrials.gov/study/NCT07807280",
       "date": "2026-09-09T04:41:24Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
@@ -1851,7 +1843,7 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://clinicaltrials.gov/study/NCT07807280",
+      "url": "http://www.clinicaltrials.gov/ct2/show/NCT07807280",
       "date": "2026-09-09T04:41:24Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
@@ -1897,14 +1889,6 @@
       "date": "2026-09-11T11:00:00Z",
       "source": "Endpoints News",
       "confirmed_by": 2,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.biopharmadive.com/what-we-are-reading/",
-      "date": "2026-09-11T10:32:00Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -2282,6 +2266,14 @@
       "source": "EMA",
       "confirmed_by": 1,
       "summary": "Język niemiecki jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.biopharmadive.com/news/biotech-reverse-mergers-public-markets-ipo/829197/",
+      "date": "2026-09-10T11:46:27Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "critical_alerts": [
@@ -2301,6 +2293,14 @@
       "date": "2026-09-11T10:18:52Z",
       "source": "WHO",
       "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-09-11T09:17:41Z",
+      "source": "ECDC",
+      "confirmed_by": 3,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -2326,14 +2326,6 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Projekt zarządzenia – onkologiczne świadczenia kompleksowe - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/projekty-zarzadzen/projekt-zarzadzenia-onkologiczne-swiadczenia-kompleksowe,7011.html",
-      "date": "2026-09-10T20:17:11Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 5,
-      "summary": "Projekt zarządzenia Prezesa Narodowego Funduszu Zdrowia zmieniającego zarządzenie w sprawie warunków umów o udzielanie onkologicznych świadczeń kompleksowych."
     }
   ]
 }
