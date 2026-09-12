@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T06:12:44Z",
+  "last_updated": "2026-09-12T06:13:36Z",
   "poland": [
     {
       "title": "Wszystko na temat: Onkobieg - Podyplomie.pl",
@@ -413,6 +413,14 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/bipolar-disorder",
+      "date": "2026-09-12T04:07:01Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.who.int/news-room/fact-sheets/detail/depression",
       "date": "2026-09-12T04:02:46Z",
       "source": "WHO",
@@ -608,14 +616,6 @@
       "url": "https://www.bmj.com/content/394/bmj-2026-100840",
       "date": "2026-09-11T14:38:03Z",
       "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/bipolar-disorder",
-      "date": "2026-09-11T14:26:41Z",
-      "source": "WHO",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
@@ -1168,7 +1168,7 @@
   ],
   "epidemiology": [
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zaburzenia psychiczne – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/mental-disorders",
       "date": "2026-09-12T04:53:04Z",
       "source": "WHO Disease Outbreak News",
@@ -1176,12 +1176,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zaburzenie depresyjne (depresja) – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/depression",
       "date": "2026-09-12T04:02:46Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Broszura informacyjna WHO na temat depresji, zawierająca informacje na temat częstości występowania, objawów, zapobiegania i czynników sprzyjających, diagnozowania i leczenia oraz pracy WHO w tym obszarze."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1189,7 +1189,7 @@
       "date": "2026-09-11T20:00:13Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Nadzór i kontrola podczas epidemii odry."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1205,15 +1205,15 @@
       "date": "2026-09-11T16:53:28Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Transmisja wirusa Andes z osoby na osobę."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Ryzyko i Cyclospora — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/cyclosporiasis/risk-factors/index.html",
       "date": "2026-09-11T15:31:35Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Centra kontroli i zapobiegania chorobom ds. ryzyka i cyklospory | CDC (.gov)."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1237,7 +1237,7 @@
       "date": "2026-09-11T13:59:09Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Niniejsze wydanie raportu ECDC na temat zagrożeń chorobami zakaźnymi (CDTR) obejmuje okres od 5 do 12 września i zawiera aktualne informacje na temat wirusa Ebola, przegląd epidemiologii wirusa układu oddechowego w UE/EOG, wirusa Zachodniego Nilu, gorączki krwotocznej krymsko-kongijskiej, dengi, chikungunya i vibrio."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1245,26 +1245,26 @@
       "date": "2026-09-11T13:55:03Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jad węży to zaniedbana choroba tropikalna dotykająca biednych ludzi w społecznościach wiejskich, szczególnie osoby w wieku produkcyjnym i dzieci. Każdego roku prawie 5,4 miliona ludzi na całym świecie zostaje ukąszonych przez węże, co powoduje ponad 80 000 zgonów i trzykrotnie większą liczbę osób, które przeżywają niepełnosprawność. Szybkie podanie antytoksyny może uratować życie i ograniczyć długoterminowe skutki zatrucia."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Szybkie doradztwo naukowe dotyczące postępowania w przypadku kontaktów w następstwie sporadycznych przypadków importowanego ortohantawirusa andyjskiego (ANDV) na terenie Unii Europejskiej/Europejskiego Obszaru Gospodarczego (UE/EOG) – Europejskie Centrum Zapobiegania i Kontroli Chorób (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/andes-orthohantavirus-rapid-scientific-advice-management-contacts-imported-cases",
       "date": "2026-09-11T06:12:47Z",
       "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W dniu 26 sierpnia 2026 r. Dyrekcja Generalna ds. Zdrowia i Bezpieczeństwa Żywności (DG SANTE) Komisji Europejskiej zwróciła się do ECDC z wnioskiem o szybką poradę naukową dotyczącą postępowania w przypadku kontaktów w następstwie sporadycznych zakażeń importowanym ortohantawirusem Andów (ANDV), w tym zalecenia dotyczące klasyfikacji kontaktów, monitorowania, badań laboratoryjnych i odpowiednich środków w zakresie zdrowia publicznego."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Epidemia Salmonelli powiązana z kiełkami brokułów – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/index.html",
       "date": "2026-09-11T03:20:51Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 2,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Epidemia Salmonelli powiązana z Centrami Kontroli i Zapobiegania Chorobom zajmującymi się kiełkami brokułów | CDC (.gov)."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Reagowanie w sytuacjach kryzysowych Światowej Organizacji Zdrowia – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/europe/fr/emergencies/our-work-in-emergencies",
       "date": "2026-09-11T02:34:54Z",
       "source": "WHO Disease Outbreak News",
@@ -1277,15 +1277,15 @@
       "date": "2026-09-10T21:15:41Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Ogólnokrajowy wzrost zgłaszanych narażeń ludzi na wściekliznę: Administracja profilaktyki poekspozycyjnej na wściekliznę Centra kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Oświadczenie CDC w sprawie wzrostu niedawnej aktywności wścieklizny zwierząt i związanego z tym narażenia ludzi – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/media/releases/2026/cdc-statement-on-increases-in-recent-animal-rabies-activity-and-associated-human-exposures.html",
       "date": "2026-09-10T20:47:17Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Oświadczenie CDC w sprawie wzrostu niedawnej aktywności wścieklizny zwierząt i związanego z tym narażenia ludzi Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1301,15 +1301,15 @@
       "date": "2026-09-10T20:11:49Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W obecnym stanie sztuczna inteligencja napędzana przez przemysł nie może być etycznie i odpowiedzialnie wdrażana w systemach zdrowia publicznego, piszą lekarze w American Journal of Public Health."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zawał serca – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/heart-attack",
       "date": "2026-09-10T19:28:41Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Broszura informacyjna WHO na temat zawału serca, zawierająca najważniejsze fakty, objawy, przyczyny i czynniki ryzyka, leczenie, zapobieganie i reakcję WHO."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1317,7 +1317,7 @@
       "date": "2026-09-10T19:13:28Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Norowirus w ściekach i hospitalizacjach."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1328,31 +1328,31 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zrozumienie dezinformacji na temat odry – CIDRAP",
       "url": "https://www.cidrap.umn.edu/public-health/making-sense-measles-misinformation",
       "date": "2026-09-10T17:31:13Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W sierpniu ubiegłego roku w Pensylwanii odnotowano dwa zgony spowodowane odrą wśród nieszczepionych mieszkańców, co oznacza pierwszy zgon na odrę w tym stanie od trzydziestu pięciu lat. W tym tygodniu gospodarze Chris Dall i dr Micheal Osterholm omawiają dwie śmierci i związane z nimi kontrowersje."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Charakterystyka i monitorowanie epidemii wirusa Ebola w 2026 r.… — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7535e1.htm?s_cid=OS_mm7535e1_w",
       "date": "2026-09-10T17:30:45Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Charakterystyka i monitorowanie epidemii wirusa Ebola w 2026 r.... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Charakterystyka kliniczna pacjentów chorych na wirus Ebola... — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7535a2.htm?s_cid=OS_mm7535a2_w",
       "date": "2026-09-10T17:03:02Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Charakterystyka kliniczna pacjentów chorych na wirus Ebola... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Laboratoryjna ocena ścieków jako narzędzie nadzoru pod kątem wirusa Zachodniego Nilu, Stany Zjednoczone — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0616",
       "date": "2026-09-10T15:27:58Z",
       "source": "CDC Outbreaks",
@@ -1360,23 +1360,23 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Polecane artykuły: Biuro CDC w Indiach w USA – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
       "url": "https://www.cdc.gov/global-health/impact/featured-stories-india.html",
       "date": "2026-09-10T15:15:55Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Polecane artykuły: Centra biurowe CDC w Indiach, USA ds. kontroli i zapobiegania chorobom | CDC (.gov)."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Powtarzające się infekcje Covid-19 powiązane z większym prawdopodobieństwem wystąpienia nowych schorzeń – CIDRAP",
       "url": "https://www.cidrap.umn.edu/covid-19/repeat-covid-infections-tied-higher-odds-new-health-conditions",
       "date": "2026-09-10T13:27:04Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Z badania opublikowanego w tym tygodniu w Canada Communicable Disease Report wynika, że ​​u dorosłych, którzy co najmniej dwukrotnie zgłosili zakażenie Covid-19, ryzyko zdiagnozowania nowego schorzenia było znacznie większe w porównaniu z tymi, którzy nigdy nie zostali zakażeni."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Choroba Ebola wywołana wirusem Bundibugyo – Demokratyczna Republika Konga – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON617",
       "date": "2026-09-10T09:53:33Z",
       "source": "WHO Disease Outbreak News",
@@ -1405,10 +1405,10 @@
       "date": "2026-09-09T22:41:04Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Badacze medycyny tradycyjnej, decydenci i eksperci w dziedzinie zdrowia publicznego zebrali się niedawno w Kapsztadzie w Republice Południowej Afryki na Światowym Kongresie Zdrowia Publicznego (WCPH). Podczas warsztatów zbadano wkład medycyny tradycyjnej w zdrowie publiczne poprzez wdrożenie niedawno przyjętej Globalnej Strategii Medycyny Tradycyjnej WHO na lata 2025–2034. Sesja zatytułowana Medycyna tradycyjna i zdrowie publiczne: przygotowanie do zmian w całym systemie podkreśliła rosnącą rolę medycyny tradycyjnej, komplementarnej i integracyjnej (TCIM) w rozwoju opieki skoncentrowanej na ludziach, opartej na dowodach naukowych."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Grupa pediatryczna publikuje często zadawane pytania dotyczące odry wrodzonej – CIDRAP",
       "url": "https://www.cidrap.umn.edu/measles/pediatrics-group-publishes-faq-congenital-measles",
       "date": "2026-09-09T21:11:44Z",
       "source": "CIDRAP",
@@ -1416,20 +1416,20 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "CDC łączy swoje oddziały ds. grypy i COVID, aby „wzmocnić efektywność operacyjną” – CIDRAP",
       "url": "https://www.cidrap.umn.edu/covid-19/cdc-merges-its-flu-covid-divisions-strengthen-operational-efficiency",
       "date": "2026-09-09T20:27:46Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Centra Kontroli i Zapobiegania Chorobom (CDC) łączą swój Oddział ds. Grypy z Oddziałem ds. Koronawirusów i Innych Chorób Układu Oddechowego, tworząc Oddział ds. Grypy i Wirusów Układu Oddechowego (IRVD)."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Sondaże pokazują, że Amerykanie stracili zaufanie do rządu federalnego, liderów zdrowia publicznego – CIDRAP",
       "url": "https://www.cidrap.umn.edu/public-health/polls-show-americans-have-lost-confidence-federal-government-public-health-leaders",
       "date": "2026-09-09T20:11:41Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Dwa nowe sondaże, jeden przeprowadzony przez Centrum Polityki Publicznej w Annenberg na Uniwersytecie Pensylwanii i jeden przez Associated Press (AP), pokazują, że dorośli Amerykanie tracą zaufanie do rządu federalnego w kwestiach opieki zdrowotnej, a zaufanie do osobistości ze zdrowia publicznego, takich jak Sekretarz Zdrowia i Opieki Społecznej Robert F. Kennedy Jr. i były lider amerykańskiego zdrowia publicznego Anthony Fauci, spada."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1472,39 +1472,39 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Spłukiwanie toalety może spowodować uwolnienie smug zarazków na wysokości twarzy osoby dorosłej – CIDRAP",
       "url": "https://www.cidrap.umn.edu/misc-emerging-topics/flushing-toilet-may-release-germ-plume-adult-face-height",
       "date": "2026-09-09T18:34:37Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Spłukiwanie toalety może powodować przedostawanie się aerozoli do powietrza w łazience na wysokości oddechu osoby dorosłej, tworząc potencjalną drogę wdychania patogenów unoszących się w powietrzu – twierdzą australijscy badacze w metaanalizie 22 badań opublikowanej w Science of The Total Environment."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Globalna aktywność wirusów układu oddechowego: cotygodniowa aktualizacja nr 594 – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/publications/m/item/global-respiratory-virus-activity--weekly-update-n--594",
       "date": "2026-09-09T17:36:02Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Publikacje Światowej Organizacji Zdrowia."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Światowy Dzień Wścieklizny 2026 – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/28/default-calendar/world-rabies-day-2026",
       "date": "2026-09-09T16:19:32Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Co roku 28 września społeczność globalna gromadzi się, aby podnosić świadomość na temat eliminacji wścieklizny! Tegoroczne hasło Światowego Dnia Wścieklizny „Razem silniejsi” podkreśla prostą prawdę: wyeliminowanie wścieklizny jest możliwe tylko wtedy, gdy współpracujemy."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Badanie: Candida auris często przenosi się z pacjentów na rękawiczki i fartuchy pracowników służby zdrowia – CIDRAP",
       "url": "https://www.cidrap.umn.edu/candida-auris/study-candida-auris-often-spreads-patients-gloves-gowns-healthcare-workers",
       "date": "2026-09-09T16:04:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Przeniesienie z kolonizowanych pacjentów na środki ochrony indywidualnej stwierdzono w blisko jednej trzeciej interakcji."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "WHO wstępnie kwalifikuje wielodawkową fiolkę ze szczepionką przeciwko wirusowi RSV, torując drogę do ochrony większej liczby niemowląt na całym świecie – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/09-09-2026-who-prequalifies-multi-dose-rsv-vaccine-vial--paving-the-way-to-protecting-more-infants-globally",
       "date": "2026-09-09T14:59:05Z",
       "source": "WHO Disease Outbreak News",
@@ -1512,7 +1512,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Osoby, które twierdzą, że zostaną zaszczepione na Covid-19 i grypę, często tego nie robią. Dlaczego nie? - CIDRAP",
       "url": "https://www.cidrap.umn.edu/covid-19/people-who-say-they-ll-get-vaccinated-against-covid-and-flu-often-don-t-why-not",
       "date": "2026-09-09T14:37:27Z",
       "source": "CIDRAP",
@@ -1520,12 +1520,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Dr Vanessa Kerry mianowana na nowe stanowisko Specjalnego Wysłannika Dyrektora Generalnego WHO ds. odporności zdrowotnej – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news/item/09-09-2026-dr-vanessa-kerry-appointed-to-new-role-as-who-director-general-s-special-envoy-for-health-resilience",
       "date": "2026-09-09T13:13:52Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Opierając się na swojej poprzedniej roli, dr Kerry pomoże w realizacji szerszego programu skupiającego się na budowaniu odpornych, zintegrowanych i finansowanych w sposób zrównoważony systemów opieki zdrowotnej, które będą w stanie reagować na codzienne wyzwania i pojawiające się zagrożenia wynikające ze zmiany klimatu, sytuacji kryzysowych w dziedzinie zdrowia i innych złożonych wyzwań globalnych."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1533,10 +1533,10 @@
       "date": "2026-09-09T12:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Dołącz do WHO i weź udział w Globalnym Dialogu z okazji Światowego Dnia Bezpieczeństwa Pacjenta 2026 pod hasłem „Bezpieczna troska o życie!”."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Jak przetrwać menopauzę: seks, związki i dobre samopoczucie – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/24/default-calendar/navigating-menopause--sex--relationships-and-well-being",
       "date": "2026-09-09T09:30:25Z",
       "source": "WHO Disease Outbreak News",
@@ -1565,7 +1565,7 @@
       "date": "2026-09-09T07:00:00Z",
       "source": "ECDC",
       "confirmed_by": 2,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Comiesięczne aktualizacje z najnowszymi raportami na temat przypadków wirusa Zachodniego Nilu w Europie."
     }
   ],
   "clinical_trials": [
@@ -1599,7 +1599,7 @@
       "date": "2026-09-11T12:10:44Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Firma AbbVie rozszerzyła analizę przypadku użycia Qulipty na migrenę menstruacyjną III fazy, wygrywając arenę badań klinicznych."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1607,7 +1607,7 @@
       "date": "2026-09-11T11:02:39Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "TenNor zgłasza najlepsze wyniki fazy IIa dla rifakwizynonu w PJI Clinical Trials Arena."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1618,20 +1618,20 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Streszczenie ACT: Głos pacjenta w projektowaniu protokołów, procesy rekrutacji oparte na sztucznej inteligencji i dojrzałość zaangażowania wykraczająca poza performatywność – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/patient-voice-protocol-design-ai-informed-recruitment-workflows-engagement-maturity-beyond-performative",
       "date": "2026-09-11T10:27:59Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "ACT Brief: Głos pacjenta w projektowaniu protokołów, procesy rekrutacji oparte na sztucznej inteligencji i dojrzałość zaangażowania wykraczająca poza performatywne stosowane badania kliniczne online."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Pierwsi zdrowi ochotnicy otrzymali dawki w badaniu fazy I BYN-001 firmy Bionyra - Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/first-healthy-volunteers-dosed-bionyras-byn-001-study/",
       "date": "2026-09-11T10:25:18Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Pierwsi zdrowi ochotnicy otrzymali dawki w ramach badania klinicznego fazy I BYN-001 firmy Bionyra."
     },
     {
       "title": "Pierwsi zdrowi ochotnicy otrzymali dawki w badaniu fazy I BYN-001 firmy Bionyra - Arena Badań Klinicznych",
@@ -1642,12 +1642,12 @@
       "summary": "Pierwsi zdrowi ochotnicy otrzymali dawki w ramach badania klinicznego fazy I BYN-001 firmy Bionyra."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Dynamiczne obrazowanie rezonansu magnetycznego przestrzeni podpajęczynówkowej człowieka z użyciem dokanałowego kontrastu gadolinowego - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07796360",
       "date": "2026-09-11T01:06:23Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Dynamiczne obrazowanie rezonansu magnetycznego przestrzeni podpajęczynówkowej człowieka przy użyciu dokanałowego kontrastu gadolinowego ClinicalTrials.gov."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1663,7 +1663,7 @@
       "date": "2026-09-10T19:53:33Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Dlaczego głos pacjenta ma znaczenie w badaniach klinicznych Stosowane badania kliniczne online."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1674,12 +1674,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Kto mówi o autyzmie? Pieniądze, misja i organizacje kształtujące debatę – Trialsitenews.com",
       "url": "https://www.trialsitenews.com/a/who-speaks-for-autism-money-mission-and-the-organizations-shaping-the-debate-715aef47",
       "date": "2026-09-10T19:41:31Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Obecnie autyzm stwierdza się u około 1 na 31 ośmiolatków w USA, w porównaniu z 1 na 36 zaledwie dwa lata wcześniej. Wzrost ten ponownie otworzył trudne pytanie, które niedawno zbadało TrialSite News: czy przede wszystkim lepiej wykrywamy autyzm, jesteśmy świadkami rzeczywistego wzrostu, czy też widzimy jakąś kombinację genetyki, środowiska, zmian diagnostycznych i innych czynników, których wciąż nie rozumiemy?"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1695,7 +1695,7 @@
       "date": "2026-09-10T18:19:50Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Co właściwie oznacza uwzględnianie głosu pacjenta w projektach stosowanych badań klinicznych online."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1703,7 +1703,7 @@
       "date": "2026-09-10T16:38:50Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "ERS 2026: Brensokatib zmniejsza zaostrzenia NCFB u pacjentów z NTM w wywiadzie. Arena badań klinicznych."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1735,7 +1735,7 @@
       "date": "2026-09-10T10:21:17Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "ACT Brief: Wyjaśnialna sztuczna inteligencja dla podgrup pacjentów, zrozumienie i zaangażowanie uczestników oraz stosowane badania kliniczne online w zakresie stabilizacji przywództwa FDA."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1746,12 +1746,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Uznano, że cztery na pięć zgonów dzieci można zapobiec: globalna sieć nadzoru stwierdza luki w opiece podstawowej",
       "url": "https://www.trialsitenews.com/a/four-in-five-child-deaths-judged-potentially-preventable-global-surveillance-network-finds-basic-care-gaps-7f649ccd",
       "date": "2026-09-10T09:06:13Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Doktor Zachary J. Madewell z Globalnego Centrum Zdrowia Centrum Kontroli i Zapobiegania Chorobom (CDC) oraz międzynarodowy zespół badawczy donoszą o uderzającym odkryciu: 80,7% z 7558 ocenionych martwych urodzeń i zgonów wśród dzieci poniżej piątego roku życia uznano za możliwe do uniknięcia lub możliwe do uniknięcia. Opublikowana w MMWR Surveillance Summaries analiza CHAMPS (Child Health and Mortality Prevention Surveillance) dotyczyła społeczności o wysokiej śmiertelności w Bangladeszu, Etiopii, Kenii, Mali, Mozambiku, Sierra Leone i Republice Południowej Afryki od 2016 r. do 2024 r."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1767,7 +1767,7 @@
       "date": "2026-09-10T08:42:28Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Nicolas Hulscher, MPH z Fundacji McCullough i współpracownicy zgłaszają niezwykły, ale wysoce niepewny przypadek: 170 dni po przyjęciu pierwszej dawki szczepionki Pfizer-BioNTech BNT162b2 przeciwko Covid-19 u 35-letniego mężczyzny rozwinął się rzadki pierwotny mięsak błony wewnętrznej serca z licznymi przerzutami do mózgu. W preprintach Zenodo Fatal Cardiac Intimal Sarcoma in a 35-Year-Old Male After COVID-19 mRNA Vaccination naukowcy donoszą o wykryciu trzech syntetycznych fragmentów genu kolczastego i plazmidowej sekwencji początku replikacji w zarchiwizowanej tkance nowotworowej. Odkrycie molekularne wymaga niezależnych badań."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1775,15 +1775,15 @@
       "date": "2026-09-10T08:24:19Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Pharvaris wyznacza kurs zatwierdzania leku na obrzęki w fazie III wygranej na Arenie Badań Klinicznych."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Tyra ogłasza wstępne dane z badania II fazy SURF302 dabogratynibu – Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/tyra-initial-data-surf302-trial/",
       "date": "2026-09-10T08:24:19Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Tyra ogłasza wstępne dane z badania fazy II SURF302 dotyczącego dabogratynibu Clinical Trials Arena."
     },
     {
       "title": "Podejście komercyjne firmy Pharma do badań i rozwoju zmienia się wraz z ewolucją polityki globalnej - Arena Badań Klinicznych",
@@ -1810,15 +1810,15 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Podcast RFK Jr. stawia ibogainę w centrum uwagi – ale jak mocne są dowody? - wersja próbnanews.com",
       "url": "https://www.trialsitenews.com/a/rfk-jr.-podcast-puts-ibogaine-in-the-spotlightbut-how-strong-is-the-evidence-20090b6f",
       "date": "2026-09-10T07:00:00Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Sekretarz ds. Zdrowia i Opieki Społecznej Robert F. Kennedy (RFK) Jr. włącza ibogainę, silny związek psychoaktywny pochodzący z afrykańskiej rośliny iboga, do ogólnokrajowej debaty na temat uzależnień i leczenia zdrowia psychicznego."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Maryland po cichu tworzy własny zbiór przepisów dotyczących szczepionek – brakuje CDC",
       "url": "https://www.trialsitenews.com/a/maryland-quietly-builds-its-own-vaccine-rulebookand-cdc-is-missing-75fd4caa",
       "date": "2026-09-10T07:00:00Z",
       "source": "TrialSite News",
@@ -1831,15 +1831,15 @@
       "date": "2026-09-10T07:00:00Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "We współczesnej Ameryce rozwinęły się dwa trendy. Program szczepień dzieci znacznie się rozszerzył w porównaniu ze stosunkowo ograniczonym harmonogramem z początku lat 60. XX wieku, podczas gdy otyłość, diagnoza autyzmu, zaburzenia zdrowia psychicznego i inne schorzenia przewlekłe stawały się coraz bardziej powszechne. Jeśli zestawisz te krzywe ze sobą, pojawi się oczywiste pytanie: czy rozszerzający się harmonogram szczepień przyczynił się do wzrostu liczby chorób przewlekłych w Ameryce?"
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Cholina jest niezbędna, ale czy rzeczywiście nie dostarczamy jej w wystarczającej ilości? - wersja próbnanews.com",
       "url": "https://www.trialsitenews.com/a/choline-is-essentialbut-are-we-actually-not-getting-enough-b6d4c96e",
       "date": "2026-09-10T07:00:00Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Cholina jest niewątpliwie niezbędnym składnikiem odżywczym. Trudniejsze pytanie brzmi: czy miliony ludzi spożywających mniej niż zalecane ilości rzeczywiście mają niedobory i czy zwiększenie spożycia poprawia zdrowie. NAS."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1855,7 +1855,7 @@
       "date": "2026-09-09T20:37:50Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Ryzyko ujmowania przychodów w organizacjach zajmujących się badaniami kontraktowymi stosowanymi w badaniach klinicznych online."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1863,10 +1863,10 @@
       "date": "2026-09-09T16:40:45Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Więcej niż zgodność: dr Joseph Geraci z firmy NetraMark o wyjaśnianiu stosowanych prób klinicznych online w podgrupach pacjentów opartych na sztucznej inteligencji."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Doktor Joseph Geraci – Stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/authors/joseph-geraci",
       "date": "2026-09-09T15:31:00Z",
       "source": "Applied Clinical Trials",
@@ -1882,20 +1882,20 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "ERS 2026: przełomowe zmniejszenie zaostrzeń dzięki tozorakimabowi wyznacza nową poprzeczkę w POChP – Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/analyst-comment/ers-2026-tozorakimab-exacerbation-reduction-copd/",
       "date": "2026-09-09T14:57:27Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "ERS 2026: przełomowa redukcja zaostrzeń dzięki tozorakimabowi wyznacza nową poprzeczkę w arenie badań klinicznych POChP."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Orphalan rozpoczyna TRADYCYJNE badanie III fazy dotyczące choroby Wilsona - Arena Badań Klinicznych",
       "url": "https://www.clinicaltrialsarena.com/news/orphalan-begins-phase-iii-traditional-study/",
       "date": "2026-09-09T10:23:50Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Orphalan rozpoczyna TRADYCYJNE badanie III fazy na platformie badań klinicznych nad chorobą Wilsona."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1906,7 +1906,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Informacje o ACT: Wielofunkcyjna rejestracja RBQM i E6(R3), wydajność płatności w witrynie i pas startowy gotówki oraz terapia wziewna w przypadku mukowiscydozy – stosowane badania kliniczne online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/rbqm-multi-functional-buy-in-e6-r3-site-payment-performance-cash-inhaled-therapy-cystic-fibrosis",
       "date": "2026-09-09T10:20:49Z",
       "source": "Applied Clinical Trials",
@@ -1919,7 +1919,7 @@
       "date": "2026-09-09T10:18:36Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Kombinacja Imfinzi-Imdelltra buduje frontalny przypadek SCLC w fazie III wygrywającej Arenie Badań Klinicznych."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1964,7 +1964,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Co czytamy - Nurkowanie BioPharma",
       "url": "https://www.biopharmadive.com/what-we-are-reading/",
       "date": "2026-09-12T06:00:02Z",
       "source": "BioPharma Dive",
@@ -1972,7 +1972,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Nocna ekspozycja na światło powiązana z niekorzystną przebudową serca",
       "url": "https://www.drugs.com/news/nighttime-light-exposure-linked-adverse-cardiac-remodeling-131304.html",
       "date": "2026-09-12T00:49:04Z",
       "source": "Drugs.com",
@@ -1993,7 +1993,7 @@
       "date": "2026-09-11T22:15:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Whole Foods Market wydaje ostrzeżenie dla alergików dotyczące niezadeklarowanych jajek w serze Cabricharme fda.gov."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2001,7 +2001,7 @@
       "date": "2026-09-11T21:01:21Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Znajdź oferty pracy w administracji w Warren. 1 oferta pracy magisterskiej/MBA dostępna w BioSpace, siedzibie branży nauk przyrodniczych."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2009,7 +2009,7 @@
       "date": "2026-09-11T20:57:22Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Język włoski jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2020,12 +2020,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Rak jest obecnie głównym zagrożeniem dla osób, które przeżyły 11 września, 25 lat później - Drugs.com",
       "url": "https://www.drugs.com/news/cancer-now-leading-health-threat-9-11-survivors-25-years-131298.html",
       "date": "2026-09-11T18:47:18Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "PIĄTEK, 11 września 2026 r. Dwadzieścia pięć lat po atakach na World Trade Center rak stał się głównym problemem zdrowotnym wśród osób, które przeżyły."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2052,15 +2052,15 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Podcast Pink Sheet: Zwiększanie stabilności przywództwa amerykańskiej Agencji ds. Żywności i Leków (FDA) i dokąd zniknęły wszystkie reklamy - Insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/podcasts/pink-sheet-podcast-increasing-us-fda-leadership-stability-and-where-all-the-adcomms-have-gone-MNOXMUE2HVEGLNTW3NMES44PV4/",
       "date": "2026-09-11T16:36:25Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Redaktorzy Pink Sheet i Mike McCaughan z Prevision Policy omawiają wpływ nowo awansowanych dyrektorów ośrodków leków i leków biologicznych FDA, a także ciągłe zaangażowanie agencji w prowadzenie posiedzeń komitetu doradczego w sprawie zastosowań nowych produktów."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Freeze It Roll-On + Ulipristal: czy można je brać razem? - Narkotyki.com",
       "url": "https://www.drugs.com/drug-interactions/freeze-it-roll-on-with-ulipristal-485-14588-3257-0.html",
       "date": "2026-09-11T16:31:15Z",
       "source": "Drugs.com",
@@ -2073,7 +2073,7 @@
       "date": "2026-09-11T16:29:39Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Istnieje niewielka interakcja lekowa pomiędzy Freeze It Roll-On i Lenacapavirem. Wyświetl szczegółowe informacje dotyczące interakcji tego leku."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2092,7 +2092,7 @@
       "summary": "PIĄTEK, 11 września 2026 Muzyk Zack Morgan żartuje, że kiedy w 2015 roku stracił pracę w korporacji, czuł się, jakby został zepchnięty z klifu. Powiedział, że będzie nim przez lata."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "FDA przedłuża recenzję kandydata na lek na raka jelita grubego firmy Exelixis – Endpoints News",
       "url": "https://endpoints.news/fda-extends-review-of-exelixis-colorectal-cancer-drug-candidate/",
       "date": "2026-09-11T16:02:00Z",
       "source": "Endpoints News",
@@ -2108,12 +2108,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Ten tydzień na wykresach: nienasycony apetyt RA, duży spadek Novartis i szaleństwo odwrotnej fuzji - BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
       "date": "2026-09-11T15:46:25Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "RA Capital uczestniczyła już we wrześniu w czterech finansowaniech biotechnologicznych. Tymczasem według Gilmartin Group Janus Henderson był w tym roku najbardziej płodnym zwolennikiem odwrotnych fuzji biotechnologicznych."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2121,7 +2121,7 @@
       "date": "2026-09-11T15:41:31Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Grupy farmaceutyczne z zadowoleniem przyjęły plany nadania większej wagi jakości, innowacjom i odporności w ramach nowo zaproponowanej ustawy o zamówieniach publicznych, chociaż EFPIA nalega, aby wysiłki na rzecz wzmocnienia bezpieczeństwa dostaw nie mogły stać się restrykcyjnymi wymogami lokalizacyjnymi."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2129,15 +2129,15 @@
       "date": "2026-09-11T15:28:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Yarrow Bioscience zbiera 150 mln dolarów; Qulipta firmy AbbVie pomyślnie przeszła badanie III fazy dotyczące migreny menstruacyjnej; Sino Biopharm płaci 668 mln dolarów za 5% więcej spółki zależnej Chia Tai Tianqing."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Raport ostrzega, że ​​brak opracowania leków biopodobnych może kosztować miliardy utraconych oszczędności – ostrzega raport – Endpoints News",
       "url": "https://endpoints.news/new-report-may-spell-trouble-for-future-cheaper-biologics/",
       "date": "2026-09-11T15:22:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Odkrycia podkreślają jedną z twardych prawd o amerykańskim rynku leków: tańsze opcje mogą dotrzeć do pacjentów tylko wtedy, gdy zostaną wprowadzone."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2153,7 +2153,7 @@
       "date": "2026-09-11T14:11:15Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Karyopharm kupił dodatkowy miesiąc na negocjacje z wierzycielami lub zawarcie umowy. W innym miejscu onkologiczny oddział BridgeBio Pharma pokrzyżował plany rozwoju, a startup zajmujący się terapią genową skupiającą się na mózgu zarobił 275 milionów dolarów."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2161,18 +2161,18 @@
       "date": "2026-09-11T13:52:45Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Lista nadchodzących posiedzeń komitetu doradczego FDA związanych z lekami i lekami biologicznymi, wraz z podsumowaniem poruszanych tematów."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Novartis ściąga innych na ziemię potrójnym potknięciem się o aktywa – BioSpace",
       "url": "https://www.biospace.com/business/novartis-drags-peers-down-with-trip-asset-stumble",
       "date": "2026-09-11T13:52:08Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Akcje Novartis spadły w tym tygodniu o 13% po zgłoszeniu trzech oddzielnych niepowodzeń aktywów na późnym etapie. Wpływ wykraczał poza szwajcarskiego producenta leków, ściągając konkurentów z całego rynku."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Fierce Pharma Asia — zmiana kierownictwa działu badań i rozwoju firmy Takeda; Wygrana sądowa Daiichiego o wartości 1,3 miliarda dolarów; Nowy kontrakt Samsung Bio - Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/takeda-rd-leadership-change-daiichi-13b-court-win-new-samsung-bio-contract",
       "date": "2026-09-11T13:15:03Z",
       "source": "FiercePharma",
@@ -2180,15 +2180,15 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "CDMO Argonaut porzuca dział nauk przyrodniczych i diagnostyki za nieujawnioną sumę – Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/cdmo-argonaut-sheds-life-sciences-diagnostics-division-undisclosed-sum",
       "date": "2026-09-11T12:33:34Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Argonaut Manufacturing Services, CDMO specjalizująca się w aseptycznym napełnianiu leków biologicznych do wstrzykiwań i innych leków, sprzedała swój dział nauk przyrodniczych i diagnostyki firmie private equity 1315 Capital za nieujawnioną cenę."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Komitet ds. Oceny Ryzyka w ramach Nadzoru nad Bezpieczeństwem Farmakoterapii (PRAC): 6–9 czerwca 2028 r. – Europejska Agencja Leków (EMA)",
       "url": "https://www.ema.europa.eu/en/events/pharmacovigilance-risk-assessment-committee-prac-6-9-june-2028",
       "date": "2026-09-11T11:58:43Z",
       "source": "EMA",
@@ -2196,15 +2196,15 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Największe bariery rynkowe szczepionek przeciwnowotworowych mRNA – BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/mrna-cancer-vaccines-commercialization-manufacturing/830137/",
       "date": "2026-09-11T11:56:12Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Przeszkody produkcyjne to tylko jedno z wyzwań, jakie branża musi pokonać, aby komercjalizować spersonalizowane szczepionki przeciwnowotworowe zawierające mRNA."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Szef działu badań i rozwoju Takedy, Andy Plump, odchodzi na emeryturę; Novo Nordisk mianuje globalnego szefa badań - Endpoints News",
       "url": "https://endpoints.news/takedas-r-novo-nordisk-appoints-global-research-head/",
       "date": "2026-09-11T11:00:00Z",
       "source": "Endpoints News",
@@ -2217,7 +2217,7 @@
       "date": "2026-09-11T11:00:00Z",
       "source": "EMA",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Wyniki posiedzenia Komitetu ds. Weterynaryjnych Produktów Leczniczych (CVMP)."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2244,7 +2244,7 @@
       "summary": "Język portugalski jest dostępny za pośrednictwem eTranslation, usługi tłumaczeń maszynowych Komisji Europejskiej."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "W pierwszym wywiadzie jako szef onkologii FDA Angelo de Claro obiecuje „kontynuować innowacje” stojące za dziedzictwem OCE - Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/first-interview-fda-oncology-chief-angelo-de-claro-vows-continue-innovation-behind-oce",
       "date": "2026-09-11T08:00:00Z",
       "source": "FiercePharma",
@@ -2252,12 +2252,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Nutromics otrzymuje oznaczenie przełomowego urządzenia FDA – BioSpace",
       "url": "https://www.biospace.com/press-releases/nutromics-receives-fda-breakthrough-device-designation",
       "date": "2026-09-11T04:25:33Z",
       "source": "BioSpace",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "MELBOURNE, Australia i SAN DIEGO--(BUSINESS WIRE)--Nutromics buduje przenośne laboratorium-on-a-patch™ do ciągłego monitorowania molekularnego. Firma ogłosiła dzisiaj, że FDA przyznała tytuł przełomowego urządzenia (BDD) swojemu pierwszemu opracowywanemu produktowi – urządzeniu do noszenia, służącemu do monitorowania leku terapeutycznego wankomycyny."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2345,10 +2345,10 @@
       "date": "2026-09-11T00:00:00Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "FDA zatwierdza pierwsze leczenie dzieci w wieku 4-11 lat z APDS, rzadką chorobą genetyczną układu odpornościowego fda.gov."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Pacjenci wzywają amerykańską FDA do usunięcia barier finansowych i logistycznych w badaniach klinicznych dotyczących ran przewlekłych - insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/r-and-d/clinical-trials/patients-urge-us-fda-to-address-financial-logistical-barriers-in-chronic-wound-clinical-trials-63JFWX2OVNHYRIB2HBUB5VG73E/",
       "date": "2026-09-10T21:37:36Z",
       "source": "Pink Sheet",
@@ -2358,20 +2358,44 @@
   ],
   "critical_alerts": [
     {
-      "title": "Choroba Ebola wywołana wirusem Bundibugyo – Demokratyczna Republika Konga – Światowa Organizacja Zdrowia (WHO)",
-      "url": "https://www.who.int/emergencies/emergency-events/item/2026-DON617",
-      "date": "2026-09-10T09:18:20Z",
-      "source": "WHO Disease Outbreak News",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-5-11-september-week-37",
+      "date": "2026-09-11T13:59:09Z",
+      "source": "ECDC",
       "confirmed_by": 1,
-      "summary": "Od czasu opublikowania ostatnich wiadomości o epidemii choroby w dniu 28 sierpnia 2026 r. epidemia wirusa Bundibugyo w Demokratycznej Republice Konga rozszerzyła się na jedną dodatkową strefę zdrowia – Kayna w Północnym Kiwu. Wzrost ten powoduje, że łączna liczba dotkniętych stref zdrowia wynosi 61 w sześciu z 26 prowincji kraju: Bas-Uélé, Haut-Uélé, Ituri, Kiwu Północne, Kiwu Południowe i Tshopo. Według stanu na dzień 7 września 2026 r. Demokratyczna Republika Konga zgłosiła 6757 potwierdzonych przypadków, w tym 3267 zgonów, co daje surowy współczynnik śmiertelności przypadków (CFR) na poziomie 48,3%."
+      "summary": "Niniejsze wydanie raportu ECDC na temat zagrożeń chorobami zakaźnymi (CDTR) obejmuje okres od 5 do 12 września i zawiera aktualne informacje na temat wirusa Ebola, przegląd epidemiologii wirusa układu oddechowego w UE/EOG, wirusa Zachodniego Nilu, gorączki krwotocznej krymsko-kongijskiej, dengi, chikungunya i vibrio."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/investigation.html",
-      "date": "2026-09-09T19:49:04Z",
+      "title": "Epidemia Salmonelli powiązana z kiełkami brokułów – Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/index.html",
+      "date": "2026-09-11T03:20:51Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 2,
+      "summary": "Epidemia Salmonelli powiązana z Centrami Kontroli i Zapobiegania Chorobom zajmującymi się kiełkami brokułów | CDC (.gov)."
+    },
+    {
+      "title": "Charakterystyka i monitorowanie epidemii wirusa Ebola w 2026 r.… — Centra kontroli i zapobiegania chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7535e1.htm?s_cid=OS_mm7535e1_w",
+      "date": "2026-09-10T17:30:45Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Aktualizacja dochodzenia: Epidemia Salmonelli, wrzesień 2026 r. Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+      "summary": "Charakterystyka i monitorowanie epidemii wirusa Ebola w 2026 r.... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Charakterystyka kliniczna pacjentów chorych na wirus Ebola... — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7535a2.htm?s_cid=OS_mm7535a2_w",
+      "date": "2026-09-10T17:03:02Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Charakterystyka kliniczna pacjentów chorych na wirus Ebola... Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)."
+    },
+    {
+      "title": "Choroba Ebola wywołana wirusem Bundibugyo – Demokratyczna Republika Konga – Światowa Organizacja Zdrowia (WHO)",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON617",
+      "date": "2026-09-10T09:53:33Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Kiedy ludzie zachorowali: epidemia Salmonelli, wrzesień 2026 r. — Centra Kontroli i Zapobiegania Chorobom | CDC (.gov)",
@@ -2392,10 +2416,18 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zaburzenia psychiczne – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/mental-disorders",
       "date": "2026-09-12T04:53:04Z",
       "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/bipolar-disorder",
+      "date": "2026-09-12T04:07:01Z",
+      "source": "WHO",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
@@ -2408,20 +2440,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zaburzenie depresyjne (depresja) – Światowa Organizacja Zdrowia (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/depression",
       "date": "2026-09-12T04:02:46Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00165-2/fulltext?fbp=fb.1.1789171200377.688076860644569478",
-      "date": "2026-09-12T02:48:37Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Broszura informacyjna WHO na temat depresji, zawierająca informacje na temat częstości występowania, objawów, zapobiegania i czynników sprzyjających, diagnozowania i leczenia oraz pracy WHO w tym obszarze."
     }
   ]
 }
