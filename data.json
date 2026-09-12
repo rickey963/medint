@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T05:38:14Z",
+  "last_updated": "2026-09-12T05:39:02Z",
   "poland": [
     {
       "title": "52 Zjazd Polskiego Towarzystwa Otorynolaryngologów Chirurgów Głowy i Szyi - Termedia",
@@ -34,12 +34,12 @@
       "summary": "Zgodnie z postanowieniami § 18 ust. 13 Regulaminu wyboru projektów poniżej przedstawiamy informację o projektach wybranych do dofinansowania oraz projektach ocenionych negatywnie w postaci Listy rankingowej projektów."
     },
     {
-      "title": "System eZWM (e - Narodowy Fundusz Zdrowia (NFZ)",
+      "title": "System eZWM (e - ezwm.nfz.gov.pl",
       "url": "https://ezwm.nfz.gov.pl/",
       "date": "2026-09-11T20:03:24Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 7,
-      "summary": "System eZWM (e Narodowy Fundusz Zdrowia (NFZ)."
+      "confirmed_by": 1,
+      "summary": "System eZWM (e ezwm.nfz.gov.pl."
     },
     {
       "title": "Nie żyje wybitny patomorfolog. \"Nikogo nie pozostawiał bez pomocy\" - Medonet",
@@ -914,7 +914,7 @@
       "url": "https://www.cdc.gov/han/php/notices/han00533.html",
       "date": "2026-09-10T21:15:41Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1135,10 +1135,18 @@
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.nice.org.uk/guidance/ta1190",
+      "date": "2026-09-09T02:28:55Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.cdc.gov/mmwr/volumes/75/ss/ss7506a1.htm",
       "date": "2026-09-08T17:02:30Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
@@ -1556,7 +1564,7 @@
       "url": "https://www.ecdc.europa.eu/en/infectious-disease-topics/west-nile-virus-infection/surveillance-and-disease-data/monthly-updates",
       "date": "2026-09-09T07:00:00Z",
       "source": "ECDC",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
