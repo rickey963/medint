@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T19:24:03Z",
+  "last_updated": "2026-09-14T19:24:52Z",
   "poland": [
     {
       "title": "Chore dziąsła ostrzegają przed problemami z sercem i nerkami - Medonet",
@@ -130,7 +130,7 @@
       "summary": "Szpital im. Stefana Żeromskiego w Krakowie żegna dr. Janusza Hejnara, cenionego ginekologa i wieloletniego współpracownika."
     },
     {
-      "title": "Polacy krytycznie o działaniach rządu po aferze w Szpitalu Południowym [SONDAŻ] - Puls Medycyny",
+      "title": "Polacy krytycznie o działaniach rządu po aferze w Szpitalu Południowym [SONDAŻ] - pulsmedycyny.pl",
       "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/prawo/polacy-krytycznie-o-dzialaniach-rzadu-po-aferze-w-szpitalu-poludniowym-sondaz/",
       "date": "2026-09-14T14:50:00Z",
       "source": "Puls Medycyny",
@@ -649,7 +649,7 @@
       "date": "2026-09-14T13:16:06Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Negative media coverage of the company Palantir, which operates the NHS Federated Data Platform (FDP), seems to be driving patients to opt out of data sharing, according to a letter from James Frith, minister for health innovation.1 Replying to Layla Moran MP, chair of the health and social care committee, Frith said, “I am concerned about mistrust of Palantir, and the impact it could have on people’s willingness to share data with the NHS, and in eroding the support of health professionals for using the platform. “I agree fully that it may not be possible to realise the benefits of the 10 Year Health Plan if patients stop sharing their data.” He said there had been only “a small spike” in national data opt-outs—roughly 20 000 when the FDP was announced in 2023 and around 60 000 over the past four months. “The increase is modest compared with those we saw …."
+      "summary": "Palantir publicity could harm NHS research, health minister claims The BMJ."
     },
     {
       "title": "Cluster Headache Treatment Tips and Nuances - Medscape",
@@ -713,7 +713,7 @@
       "date": "2026-09-14T12:23:42Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Rapid responses are electronic comments to the editor. They enable our users to debate issues raised in articles published on bmj.com. A rapid response is first posted online."
+      "summary": "Identifying and managing pregnancy-related pelvic girdle pain The BMJ."
     },
     {
       "title": "Identifying and managing pregnancy-related pelvic girdle pain - The BMJ",
@@ -805,6 +805,14 @@
     }
   ],
   "guidelines": [
+    {
+      "title": "Azacitidine-Venetoclax Prolongs EFS Over Induction Chemotherapy Among Induction-Eligible Patients with AML - European Society For Medical Oncology | ESMO",
+      "url": "https://www.esmo.org/oncology-news/azacitidine-venetoclax-prolongs-efs-over-induction-chemotherapy-among-induction-eligible-patients-with-aml",
+      "date": "2026-09-14T19:23:31Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Azacitidine-Venetoclax Prolongs EFS Over Induction Chemotherapy Among Induction-Eligible Patients with AML European Society For Medical Oncology | ESMO."
+    },
     {
       "title": "Improving Your Headache Care: New Guideline - DynamicChiropractic.com",
       "url": "https://dynamicchiropractic.com/article/103288-improving-your-headache-care-new-guideline",
@@ -902,6 +910,14 @@
       "summary": "To declare any new board and executive team interests , and consider any conflicts of interest specific to the meeting."
     },
     {
+      "title": "ESMO Therapeutic Landscapes: Optimising Antibody–Drug Conjugate Safety: Mechanisms, Monitoring and Management of Toxicities 2026 | OncologyPRO - ESMO OncologyPRO",
+      "url": "https://oncologypro.esmo.org/webinars/esmo-therapeutic-landscapes-optimising-antibody-drug-conjugate-safety-mechanisms-monitoring-and-management-of-toxicities-2026",
+      "date": "2026-09-11T17:25:50Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "CME for this webinar will be available soon."
+    },
+    {
       "title": "Rekomendacja Prezesa – Opzelura (ruksolitynib) - aotm.gov.pl",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/rekomendacja-prezesa-opzelura-ruksolitynib-2/",
       "date": "2026-09-11T15:52:43Z",
@@ -940,14 +956,6 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "ESMO Launches Clinical Trials Funding Initiative to Optimise Cancer Care Pathways European Society For Medical Oncology | ESMO."
-    },
-    {
-      "title": "EMA Recommends Extension of Therapeutic Indications for Teclistamab - European Society For Medical Oncology | ESMO",
-      "url": "https://www.esmo.org/oncology-news/ema-recommends-extension-of-therapeutic-indications-for-teclistamab",
-      "date": "2026-09-11T08:01:49Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "EMA Recommends Extension of Therapeutic Indications for Teclistamab European Society For Medical Oncology | ESMO."
     },
     {
       "title": "Measles Cases and Outbreaks - cdc.gov",
@@ -1044,14 +1052,6 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "NICE has published guidance recommending routine NHS access to specialist devices that keep donated livers and lungs functioning outside the body, potentially unlocking hundreds of organs for transplant each year."
-    },
-    {
-      "title": "Overview | Nemolizumab for treating moderate to severe prurigo nodularis | Guidance - NICE website",
-      "url": "https://www.nice.org.uk/guidance/ta1191",
-      "date": "2026-09-09T02:28:55Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Evidence-based recommendations on nemolizumab (Nemluvio) for treating moderate to severe prurigo nodularis in adults."
     }
   ],
   "epidemiology": [
@@ -1636,7 +1636,7 @@
       "summary": "Electra eyes $297M IPO; Enhertu cuts lung cancer progression risk 37%; Lilly drops LY4064912; Cellectis scraps lasme-cel, eti-cel; Tyra raises $400M; Shennon gets $12M; QL Biopharm raises $44M."
     },
     {
-      "title": "PSUSA/00010000/202601 - periodic safety update report single assessment - European Medicines Agency (EMA)",
+      "title": "PSUSA/00010000/202601 - periodic safety update report single assessment - ema.europa.eu",
       "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00010000-202601",
       "date": "2026-09-14T14:50:31Z",
       "source": "EMA",
