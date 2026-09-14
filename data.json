@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-14T11:08:18Z",
+  "last_updated": "2026-09-14T11:09:15Z",
   "poland": [
+    {
+      "title": "Michał Bulsa przeprasza Łukasza Jankowskiego. To efekt ugody sądowej - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/prawo/michal-bulsa-przeprasza-lukasza-jankowskiego-to-efekt-ugody-sadowej/",
+      "date": "2026-09-14T11:03:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Prezes Okręgowej Izby Lekarskiej w Szczecinie Michał Bulsa przeprosił prezesa NRL Łukasza Jankowskiego za działania, które naraziły na szwank jego dobre imię. Chodzi m.in. o ujawnienie fragmentów prywatnej korespondencji szefa lekarskiego samorządu."
+    },
     {
       "title": "Michał Bulsa przeprasza Łukasza Jankowskiego. To efekt ugody sądowej - Puls Medycyny",
       "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/prawo/michal-bulsa-przeprasza-lukasza-jankowskiego-to-efekt-ugody-sadowej",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Połowa Polaków krytykuje działania rządu po aferze w Szpitalu Południowym. Tylko 18% uważa je za wystarczające - wynika z sondażu."
-    },
-    {
-      "title": "Tag “zdrowie układu krążenia” - Termedia",
-      "url": "https://www.termedia.pl/tag/zdrowie_ukladu_krazenia-39920",
-      "date": "2026-09-14T06:38:02Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "aktualności, menedżer zdrowia."
     }
   ],
   "world": [
@@ -1426,20 +1426,20 @@
       "summary": "Lab Orchestration Is Not What You Think It Is Applied Clinical Trials Online."
     },
     {
-      "title": "Safety Reporting in RBQM: Bridging Risk Assessment, Monitoring, and Action - Applied Clinical Trials Online",
-      "url": "https://www.appliedclinicaltrialsonline.com/view/safety-reporting-rbqm-risk-assessment-monitoring",
-      "date": "2026-09-11T13:38:57Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "Safety Reporting in RBQM: Bridging Risk Assessment, Monitoring, and Action Applied Clinical Trials Online."
-    },
-    {
       "title": "INTERLAB has Changed its Company Name to synlab Pharma Institute - Applied Clinical Trials Online",
       "url": "https://www.appliedclinicaltrialsonline.com/view/interlab-has-changed-its-company-name-synlab-pharma-institute",
       "date": "2026-09-11T13:38:57Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "INTERLAB has Changed its Company Name to synlab Pharma Institute Applied Clinical Trials Online."
+    },
+    {
+      "title": "Safety Reporting in RBQM: Bridging Risk Assessment, Monitoring, and Action - Applied Clinical Trials Online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/safety-reporting-rbqm-risk-assessment-monitoring",
+      "date": "2026-09-11T13:38:57Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Safety Reporting in RBQM: Bridging Risk Assessment, Monitoring, and Action Applied Clinical Trials Online."
     },
     {
       "title": "AbbVie eyes extended Qulipta use case on Phase III menstrual migraine win - Clinical Trials Arena",
@@ -1610,6 +1610,14 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Centric Compounding Issues Nationwide Recall of Glutathione, Myer’s Cocktail, and Tri-Immune Boost Due to Elevated Endotoxin Levels fda.gov."
+    },
+    {
+      "title": "Device Classification Under Section 513(f)(2)(De Novo) - accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?start_search=1&center=&panel=&productcode=&knumber=&denknumber=&applicant=&devicename=&type=&thirdpartyreviewed=&expeditedreview=&decision=&decisiondatefrom=&decisiondateto=09%2F13%2F2026&denovo=&pccp=&ivdproducts=&pagenum=10&sortcolumn=decisiondate",
+      "date": "2026-09-13T15:07:31Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Device Classification Under Section 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
       "title": "Immune reconstitution syndrome - European Medicines Agency (EMA)",
@@ -1842,14 +1850,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Class 2 Device Recall Oncology sets with drip chambers accessdata.fda.gov."
-    },
-    {
-      "title": "Class 2 Device Recall MEDRAD Stellant FLEX Syringe Kit - accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=222232",
-      "date": "2026-09-12T06:42:55Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Class 2 Device Recall MEDRAD Stellant FLEX Syringe Kit accessdata.fda.gov."
     }
   ],
   "critical_alerts": [
