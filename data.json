@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-14T15:11:13Z",
+  "last_updated": "2026-09-14T15:12:06Z",
   "poland": [
+    {
+      "title": "Nagła śmierć cenionego lekarza w Krakowie. Koledzy nie kryją żalu - Medonet",
+      "url": "https://www.medonet.pl/zdrowie/wiadomosci/krakow-szpital-im-zeromskiego-w-zalobie-po-smierci-dr-janusza-hejnara/335l2gv",
+      "date": "2026-09-14T15:02:31Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Szpital im. Stefana Żeromskiego w Krakowie żegna dr. Janusza Hejnara, cenionego ginekologa i wieloletniego współpracownika."
+    },
     {
       "title": "„Mam jeszcze wiele do zrobienia”. Michał walczy z zaawansowanym nowotworem jamy ustnej - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/mam-jeszcze-wiele-n2492557",
@@ -226,12 +234,12 @@
       "summary": "Wszystkie operacje kardiochirurgiczne są zabiegami ratującymi życie. Dlatego będę zabiegał o to, aby świadczenia w kardiochirurgii były nielimitowane – wskazuje prof. Kazimierz Widenka, nowy konsultant krajowy w tej dziedzinie."
     },
     {
-      "title": "Nowacka o edukacji zdrowotnej: nauczyciel wybiera metody, medycy mogą wspierać lekcje - politykazdrowotna.com",
+      "title": "Nowacka o edukacji zdrowotnej: nauczyciel wybiera metody, medycy mogą wspierać lekcje - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/edukacja-zdrowotna-obowiazkowa-n2492692",
       "date": "2026-09-14T11:30:00Z",
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
-      "summary": "Nowacka o edukacji zdrowotnej: nauczyciel wybiera metody, medycy mogą wspierać lekcje politykazdrowotna.com."
+      "summary": "Nowacka o edukacji zdrowotnej: nauczyciel wybiera metody, medycy mogą wspierać lekcje PolitykaZdrowotna.com."
     },
     {
       "title": "Konin – 88-latka wypadła przez szpitalne okno - Z kraju - Kurier - Medycyna Praktyczna",
@@ -392,14 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "W porządku wtorkowego (15 września) posiedzenia rządu nie ma projektów Ministerstwa Zdrowia reformujących ochronę zdrowia. Które sprawy zyskały większy priorytet?"
-    },
-    {
-      "title": "Choroby otępienne coraz większym wyzwaniem. MZ rozpoczyna realizację krajowego programu - alertmedyczny.pl",
-      "url": "https://alertmedyczny.pl/choroby-otepienne-coraz-wiekszym-wyzwaniem-mz-rozpoczyna-realizacje-krajowego-programu/",
-      "date": "2026-09-14T09:49:58Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "MZ rozpoczęło realizację Krajowego Programu Działań wobec Chorób Otępiennych. W Polsce z otępieniem żyje ponad pół miliona osób."
     }
   ],
   "world": [
@@ -569,7 +569,7 @@
       "date": "2026-09-14T12:20:52Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Register for alerts If you have registered for alerts, you should use your registered email address as your username."
+      "summary": "Identifying and managing pregnancy-related pelvic girdle pain The BMJ."
     },
     {
       "title": "Meningitis Survivors May Face Slightly Higher Risk for Death - Medscape",
@@ -1232,6 +1232,14 @@
       "summary": "Toilet flushing can propel aerosols into bathroom air at adult breathing height, creating a potential pathway for inhalation of airborne pathogens, say Australian researchers in a meta-analysis of 22 studies published in Science of The Total Environment ."
     },
     {
+      "title": "Study: Candida auris often spreads from patients to gloves, gowns of healthcare workers - CIDRAP",
+      "url": "https://www.cidrap.umn.edu/candida-auris/study-candida-auris-often-spreads-patients-gloves-gowns-healthcare-workers",
+      "date": "2026-09-09T16:04:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Transfer from colonized patients to the personal protective equipment was found in nearly a third of interactions."
+    },
+    {
       "title": "People who say they’ll get vaccinated against COVID and flu often don’t. Why not? - CIDRAP",
       "url": "https://www.cidrap.umn.edu/covid-19/people-who-say-they-ll-get-vaccinated-against-covid-and-flu-often-don-t-why-not",
       "date": "2026-09-09T14:37:27Z",
@@ -1262,14 +1270,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "For many people who contract COVID-19, the initial infection comes with a set of worrisome symptoms, from muscle aches and fatigue to trouble breathing—and for a subset of those people, symptoms persist beyond the acute infection phase. Long COVID has become a well-known post-viral condition that can take a significant toll on health and quality of life."
-    },
-    {
-      "title": "Think you have a penicillin allergy? You probably don’t - CIDRAP",
-      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/think-you-have-penicillin-allergy-you-probably-don-t",
-      "date": "2026-09-04T07:00:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Heather Millington suffers frequent bouts of bronchitis and pneumonia, caused by a weak immune system and what she calls “an alphabet soup” of chronic conditions."
     }
   ],
   "clinical_trials": [
@@ -1812,20 +1812,20 @@
       "summary": "Device Classification Under Section 513(f)(2)(De Novo) accessdata.fda.gov."
     },
     {
-      "title": "GSK prepares frontline FDA bid for Jideytro, its first lung cancer drug - Fierce Pharma",
-      "url": "https://www.fiercepharma.com/pharma/gsk-prepares-frontline-fda-bid-jideytro-its-first-lung-cancer-drug",
-      "date": "2026-09-13T23:00:00Z",
-      "source": "FiercePharma",
-      "confirmed_by": 1,
-      "summary": "GSK is advancing its inaugural lung cancer asset, Jideytro, toward a landmark first-line FDA approval, aided by an unprecedented complete response rate. | GSK is advancing its inaugural lung cancer asset, Jideytro, toward a landmark first-line FDA approval, aided by an unprecedented complete response rate."
-    },
-    {
       "title": "Increased deaths shadow AstraZeneca, Daiichi’s Enhertu first-line lung cancer data - Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/higher-death-risk-shadows-astrazeneca-daiichi-enhertu-first-line-lung-cancer-data",
       "date": "2026-09-13T23:00:00Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "An unfavorable overall survival trend in a phase 3 trial threatens to thwart AstraZeneca and Daiichi Sankyo’s bid to establish their star antibody-drug conjugate Enhertu as a first-line treatment f | A preliminary 15% higher death risk in a phase 3 trial threatens to thwart AstraZeneca and Daiichi Sankyo’s bid to establish their star ADC Enhertu as a first-line treatment for patients with HER2-mutant non-small cell lung cancer."
+    },
+    {
+      "title": "GSK prepares frontline FDA bid for Jideytro, its first lung cancer drug - Fierce Pharma",
+      "url": "https://www.fiercepharma.com/pharma/gsk-prepares-frontline-fda-bid-jideytro-its-first-lung-cancer-drug",
+      "date": "2026-09-13T23:00:00Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "GSK is advancing its inaugural lung cancer asset, Jideytro, toward a landmark first-line FDA approval, aided by an unprecedented complete response rate. | GSK is advancing its inaugural lung cancer asset, Jideytro, toward a landmark first-line FDA approval, aided by an unprecedented complete response rate."
     }
   ],
   "critical_alerts": [
