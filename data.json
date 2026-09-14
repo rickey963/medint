@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T15:28:57Z",
+  "last_updated": "2026-09-14T15:29:55Z",
   "poland": [
     {
       "title": "Nagła śmierć cenionego lekarza w Krakowie. Koledzy nie kryją żalu - Medonet",
@@ -110,7 +110,7 @@
       "url": "https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/prace-serwisowe-w-dniu-16-wrzesnia-2026r-w-systemie-dilo,9012.html",
       "date": "2026-09-14T13:08:58Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Informujemy, że w związku z zaplanowanymi pracami serwisowymi w dniu 16.09.2026r. od godziny 16.30 do godziny 23.00 - mogą wystąpić utrudnienia w dostępie do systemów informatycznych Centrali..."
     },
     {
@@ -878,7 +878,7 @@
       "summary": "Rekomendacja nr 138/2026 z dnia 10 września 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgód na refundację produktu leczniczego Opzelura (ruksolitynib) we wskazaniu: bielactwo nabyte."
     },
     {
-      "title": "Treating Stage IV periodontitis: the UK adolopment of the EFP Stage IV Periodontitis Treatment Guidelines - nature.com",
+      "title": "Treating Stage IV periodontitis: the UK adolopment of the EFP Stage IV Periodontitis Treatment Guidelines - Nature",
       "url": "https://www.nature.com/articles/s41415-026-9887-0",
       "date": "2026-09-11T15:52:33Z",
       "source": "Wytyczne kliniczne",
@@ -1224,14 +1224,6 @@
       "summary": "Toilet flushing can propel aerosols into bathroom air at adult breathing height, creating a potential pathway for inhalation of airborne pathogens, say Australian researchers in a meta-analysis of 22 studies published in Science of The Total Environment ."
     },
     {
-      "title": "Study: Candida auris often spreads from patients to gloves, gowns of healthcare workers - cidrap.umn.edu",
-      "url": "https://www.cidrap.umn.edu/candida-auris/study-candida-auris-often-spreads-patients-gloves-gowns-healthcare-workers",
-      "date": "2026-09-09T16:04:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Transfer from colonized patients to the personal protective equipment was found in nearly a third of interactions."
-    },
-    {
       "title": "People who say they’ll get vaccinated against COVID and flu often don’t. Why not? - cidrap.umn.edu",
       "url": "https://www.cidrap.umn.edu/covid-19/people-who-say-they-ll-get-vaccinated-against-covid-and-flu-often-don-t-why-not",
       "date": "2026-09-09T14:37:27Z",
@@ -1262,6 +1254,14 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "For many people who contract COVID-19, the initial infection comes with a set of worrisome symptoms, from muscle aches and fatigue to trouble breathing—and for a subset of those people, symptoms persist beyond the acute infection phase. Long COVID has become a well-known post-viral condition that can take a significant toll on health and quality of life."
+    },
+    {
+      "title": "Think you have a penicillin allergy? You probably don’t - cidrap.umn.edu",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/think-you-have-penicillin-allergy-you-probably-don-t",
+      "date": "2026-09-04T07:00:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Heather Millington suffers frequent bouts of bronchitis and pneumonia, caused by a weak immune system and what she calls “an alphabet soup” of chronic conditions."
     }
   ],
   "clinical_trials": [
@@ -1565,7 +1565,7 @@
     },
     {
       "title": "Establishment Registration & Device Listing - accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scrIpts/cdrh/cfdocs/cfRL/rl.cfm?lid=1025370&lpcd=MOS",
+      "url": "https://www.accessdata.fda.gov/scrIpts/cdrh/cfdocs/cfRL/rl.cfm?lid=1025369&lpcd=LNI",
       "date": "2026-09-14T10:44:06Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
@@ -1573,7 +1573,7 @@
     },
     {
       "title": "Establishment Registration & Device Listing - accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scrIpts/cdrh/cfdocs/cfRL/rl.cfm?lid=1025369&lpcd=LNI",
+      "url": "https://www.accessdata.fda.gov/scrIpts/cdrh/cfdocs/cfRL/rl.cfm?lid=1025370&lpcd=MOS",
       "date": "2026-09-14T10:44:06Z",
       "source": "FDA Drug News",
       "confirmed_by": 1,
