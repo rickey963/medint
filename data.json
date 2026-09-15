@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T06:23:59Z",
+  "last_updated": "2026-09-15T06:24:52Z",
   "poland": [
     {
       "title": "PNRL: potrzebne jasne zasady dokumentowania e-konsultacji - prawo.mp.pl",
@@ -1046,6 +1046,14 @@
       "summary": "Just another WordPress site."
     },
     {
+      "title": "VA/DoD Guideline Recommends ICS/Formoterol-Based Therapy for Asthma Management - Medical Dialogues",
+      "url": "https://medicaldialogues.in/pulmonology/guidelines/vadod-guideline-recommends-icsformoterol-based-therapy-for-asthma-management-178709",
+      "date": "2026-09-10T15:15:18Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Medha Baranwal holds a Bachelor’s degree in Biomedical Sciences from the University of Delhi and a Master’s degree in Biotechnology from Amity University. Since May 2018, she has been contributing to Medical Dialogues, writing and editing medical news articles that translate complex research into clear, accessible information for healthcare professionals."
+    },
+    {
       "title": "Posiedzenie Rady Przejrzystości 38/2026 w dniu 14.09.2026 r. – AKTUALIZACJA - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/posiedzenie-rady-przejrzystosci-38-2026-w-dniu-14-09-2026-r-aktualizacja/",
       "date": "2026-09-10T14:39:02Z",
@@ -1516,12 +1524,20 @@
   ],
   "pharma_market": [
     {
-      "title": "What We’re Reading - biopharmadive.com",
+      "title": "What We’re Reading - BioPharma Dive",
       "url": "https://www.biopharmadive.com/what-we-are-reading/",
       "date": "2026-09-15T06:02:54Z",
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "BioPharma."
+    },
+    {
+      "title": "Regulatory awareness session on medical devices (Webinar) - European Medicines Agency (EMA)",
+      "url": "https://www.ema.europa.eu/fr/events/regulatory-awareness-session-medical-devices-webinar",
+      "date": "2026-09-15T05:21:26Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "French is available via eTranslation, the European Commission's machine translation service."
     },
     {
       "title": "Pharmacovigilance Risk Assessment Committee (PRAC): 11 - 14 January 2027 - European Medicines Agency (EMA)",
@@ -1661,6 +1677,14 @@
     },
     {
       "title": "TPLC - Total Product Life Cycle - accessdata.fda.gov",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=3871&min_report_year=2020&manufacturer=INFLAMMATIX%2C%20INC%2E&pmndecision=SUBSTANTIALLY%20EQUIVALENT",
+      "date": "2026-09-14T23:20:14Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "TPLC - Total Product Life Cycle accessdata.fda.gov."
+    },
+    {
+      "title": "TPLC - Total Product Life Cycle - accessdata.fda.gov",
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=3871&min_report_year=2020&manufacturer=IMMUNEXPRESS%2C%20INC%2E&pmndecision=SUBSTANTIALLY%20EQUIVALENT",
       "date": "2026-09-14T23:20:08Z",
       "source": "FDA Drug News",
@@ -1724,7 +1748,7 @@
       "summary": "Inmaculada Hernandez also said expansion of the Cell and Gene Therapy Access Model, which currently is focused on Medicaid coverage of gene therapy for sickle cell disease, faces several challenges."
     },
     {
-      "title": "Summit, Akeso look to shed PD-1/VEGF drug doubts with latest study results - biopharmadive.com",
+      "title": "Summit, Akeso look to shed PD-1/VEGF drug doubts with latest study results - BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/summit-akeso-wclc-2026-ivonescimab-lung-cancer-survival/830318/",
       "date": "2026-09-14T20:52:15Z",
       "source": "BioPharma Dive",
@@ -1898,22 +1922,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Device Classification Under Section 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "TPLC - Total Product Life Cycle - accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=1540&min_report_year=2020&manufacturer=DENTAL%20MONITORING%20SAS&pmndecision=GRANTED",
-      "date": "2026-09-14T18:18:21Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "TPLC - Total Product Life Cycle accessdata.fda.gov."
-    },
-    {
-      "title": "TPLC - Total Product Life Cycle - accessdata.fda.gov",
-      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=1091&min_report_year=2021&manufacturer=ANUMANA%2C%20INC%2E&pmndecision=SUBSTANTIALLY%20EQUIVALENT",
-      "date": "2026-09-14T18:17:17Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "TPLC - Total Product Life Cycle accessdata.fda.gov."
     }
   ],
   "critical_alerts": [
