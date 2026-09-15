@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T05:26:37Z",
+  "last_updated": "2026-09-15T05:27:32Z",
   "poland": [
     {
       "title": "Mapa trzeźwienia - Termedia",
@@ -428,12 +428,20 @@
       "summary": "The dataset includes information from 182 countries on their vaccine purchases from 2005 to 2025 (based on data collected in the 2026 Electronic Joint Reporting Forum as of September."
     },
     {
+      "title": "Create new account - casereports.bmj.com",
+      "url": "https://casereports.bmj.com/user/register?destination=node/333564",
+      "date": "2026-09-15T00:41:44Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Create new account casereports.bmj.com."
+    },
+    {
       "title": "8B Principal Clinical/Counselling Psychologist, Psychotherapist - The BMJ",
       "url": "https://www.bmj.com/healthcareers/job/847173/8b-principal-clinical-counselling-psychologist-psychotherapist?LinkSource=SimilarJobPlatform",
       "date": "2026-09-14T22:33:03Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "8B Principal Clinical/Counselling Psychologist, Psychotherapist The BMJ."
+      "summary": "This is an exciting opportunity to join senior clinical leadership across the PICT and SUN Teams, part of Surrey and Borders Partnership NHS Founda..."
     },
     {
       "title": "Neurologic and Psychiatric Risks after Infection - NEJM Clinician",
@@ -457,7 +465,7 @@
       "date": "2026-09-14T20:57:56Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Subarachnoid haemorrhage associated with septic cavernous sinus thrombosis secondary to odontogenic maxillary sinusitis casereports.bmj.com."
+      "summary": "This case report describes a man in his 50 s who developed septic cavernous sinus thrombosis secondary to odontogenic maxillary sinusitis complicated by a non-aneurysmal subarachnoid haemorrhage (SAH). He presented with visual loss, altered consciousness and shock. CT revealed SAH near the left Sylvian fissure; right maxillary sinusitis and thrombosis of the cavernous sinuses, superior ophthalmic veins and internal jugular veins without an aneurysm."
     },
     {
       "title": "Pharmacist PCN/ARRS job with West London NHS Trust (Health Careers) | 847683 - The BMJ",
@@ -465,7 +473,7 @@
       "date": "2026-09-14T20:46:44Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Pharmacist PCN/ARRS job with West London NHS Trust (Health Careers) | 847683 The BMJ."
+      "summary": "Thank you for your interest in this post for as a Care Home Practice Foundation Pharmacist in the Care Home GP Practice. The Care Home GP Practice..."
     },
     {
       "title": "Closing the childhood cancer survival gap through sustainable access to essential medicines: market shaping strategy (2026–2030) - World Health Organization (WHO)",
@@ -521,7 +529,7 @@
       "date": "2026-09-14T17:47:31Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Prescribing Adviser - Newbridge job with Aneurin Bevan University Health Board (Health Careers) | 846514 The BMJ."
+      "summary": "Are you an experienced pharmacist with a passion for improving prescribing quality, medicines optimisation, and patient outcomes in primary care? A..."
     },
     {
       "title": "Kennedy to deliver keynote for anti-vaccine group he once led - statnews.com",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Dar es Salaam — Tanzania has taken another step towards strengthening emergency care services with the inaugural Steering Committee meeting for the Acute Care Transformation through Basic Emergency Care (ACTxBEC) Initiative."
-    },
-    {
-      "title": "Presidential dialogue on high-threat pathogens - WHO | Regional Office for Africa",
-      "url": "https://afro.who.int/media-centre/events/presidential-dialogue-high-threat-pathogens?form=FUNKUKTZPCK",
-      "date": "2026-09-14T12:40:54Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Africa’s borders cut across communities, ecosystems, markets and transport networks. A country can hold strong national preparedness and remain exposed if its border districts are disconnected."
     }
   ],
   "guidelines": [
@@ -998,20 +998,20 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
-      "date": "2026-09-11T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Information for Travelers Returning from Ebola-Affected Areas Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Appendix A: Type and Duration of Precautions Recommended for Selected Infections and Conditions - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html",
       "date": "2026-09-11T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Appendix A: Type and Duration of Precautions Recommended for Selected Infections and Conditions Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
+      "date": "2026-09-11T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Information for Travelers Returning from Ebola-Affected Areas Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Geisinger Jersey Shore Hospital receives American Heart Association recognition - - lockhaven.com",
@@ -1028,6 +1028,22 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "ESMO Clinical Trials Funding Initiative: Application European Society For Medical Oncology | ESMO."
+    },
+    {
+      "title": "New guidance aims to protect tactical athletes from heart risk - WBAL-TV",
+      "url": "https://www.wbaltv.com/article/new-guidelines-for-tactical-athletes-heart-health/73672236",
+      "date": "2026-09-10T21:09:00Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Tactical athletes are those whose profession involves high levels of physical activity, such as firefighters, police officers and military personnel."
+    },
+    {
+      "title": "New 2026 Clinical Guidelines Put Spotlight on Non-Drug Care for Headaches Associated With Neck Problems - WBOC TV",
+      "url": "https://www.wboc.com/online_features/press_releases/new-2026-clinical-guidelines-put-spotlight-on-non-drug-care-for-headaches-associated-with-neck/article_45efbe4b-2cfa-5ec7-846c-9092240f804e.html",
+      "date": "2026-09-10T15:55:02Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Just another WordPress site."
     },
     {
       "title": "Posiedzenie Rady Przejrzystości 38/2026 w dniu 14.09.2026 r. – AKTUALIZACJA - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1836,6 +1852,14 @@
       "summary": "TPLC - Total Product Life Cycle accessdata.fda.gov."
     },
     {
+      "title": "Voice Disorders Linked to Elevated Risk for Incident Cognitive Decline - drugs.com",
+      "url": "https://www.drugs.com/news/voice-disorders-linked-elevated-risk-incident-cognitive-decline-131317.html",
+      "date": "2026-09-14T18:23:58Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Voice disorders are associated with an elevated risk for incident cognitive decline, according to a study published online Aug. 11 in the Journal of Voice. Anth."
+    },
+    {
       "title": "2021 to 2026 Saw Increase in State Funding for Suicide Prevention - drugs.com",
       "url": "https://www.drugs.com/news/2021-2026-saw-increase-state-funding-suicide-prevention-131313.html",
       "date": "2026-09-14T18:23:58Z",
@@ -1858,14 +1882,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Distinct phenotype-specific skin microbiome features emerge before and after atopic disease onset in infants, according to a study published online July 17 in A."
-    },
-    {
-      "title": "Voice Disorders Linked to Elevated Risk for Incident Cognitive Decline - drugs.com",
-      "url": "https://www.drugs.com/news/voice-disorders-linked-elevated-risk-incident-cognitive-decline-131317.html",
-      "date": "2026-09-14T18:23:58Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Voice disorders are associated with an elevated risk for incident cognitive decline, according to a study published online Aug. 11 in the Journal of Voice. Anth."
     },
     {
       "title": "Updated COVID-19 Shot Beneficial for Those With Autoimmune Rheumatic Disease - Drugs.com",
