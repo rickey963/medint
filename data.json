@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-15T15:07:06Z",
+  "last_updated": "2026-09-15T15:08:20Z",
   "poland": [
+    {
+      "title": "Co dzieci powinny jeść w szkole? Dietetyczki wskazują ważną rolę placówki. Nie chodzi tylko o obiady - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/co-dzieci-powinny-jesc-n2492325",
+      "date": "2026-09-15T15:00:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Co dzieci powinny jeść w szkole? Dietetyczki wskazują ważną rolę placówki. Nie chodzi tylko o obiady PolitykaZdrowotna.com."
+    },
     {
       "title": "Nowe zasady leczenia uzdrowiskowego od 2027 r. NFZ rezygnuje z 5% bonusu i zaoszczędzi 118 mln zł - Alert Medyczny",
       "url": "https://alertmedyczny.pl/nowe-zasady-leczenia-uzdrowiskowego-od-2027-r-nfz-rezygnuje-z-5-bonusu-i-zaoszczedzi-118-mln-zl/",
@@ -106,20 +114,20 @@
       "summary": "Gdy młody chłopiec trafił na oddział ratunkowy z nietypowymi, samoistnymi siniakami na brzuchu, lekarze nie potrafili znaleźć przyczyny. Ani pacjent, ani jego rodzice nie wiedzieli, skąd wzięły się zmiany skórne, a wyniki badań nie wykazały żadnych nieprawidłowości."
     },
     {
-      "title": "STADA przejmuje 16 znanych marek. Vitrum, Nycoplus i Apovit zmieniają właściciela - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/stada-przejmuje-16-marek-n2493662",
-      "date": "2026-09-15T13:00:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "STADA przejmuje 16 znanych marek. Vitrum, Nycoplus i Apovit zmieniają właściciela PolitykaZdrowotna.com."
-    },
-    {
       "title": "Faktyczne zarobki lekarzy. Prawdę poznamy w styczniu 2027 r. - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Faktyczne-zarobki-lekarzy-Prawde-poznamy-w-styczniu-2027-r,288918,1.html",
       "date": "2026-09-15T13:00:00Z",
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Szpitale dostaną czas do 30 listopada na przekazanie danych o wynagrodzeniach m.in. lekarzy w powiązaniu z PESEL-em. Podmioty niebędące szpitalami informacje te będą musiały przekazać do 15 listopada br."
+    },
+    {
+      "title": "STADA przejmuje 16 znanych marek. Vitrum, Nycoplus i Apovit zmieniają właściciela - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/stada-przejmuje-16-marek-n2493662",
+      "date": "2026-09-15T13:00:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "STADA przejmuje 16 znanych marek. Vitrum, Nycoplus i Apovit zmieniają właściciela PolitykaZdrowotna.com."
     },
     {
       "title": "Już 3 minuty z kucykami i osłami poprawiły nastrój nastolatków - Aktualności - Psychiatria dzieci i młodzieży - Medycyna Praktyczna",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Już 3 października w Warszawie, w hotelu Golden Tulip, odbędzie się kolejna edycja konferencji Sobota Kardiometaboliczna pod kierownictwem naukowym prof. dr. hab."
-    },
-    {
-      "title": "Otyłość – koszty czy inwestycja w zdrowie? - Medycyna Praktyczna",
-      "url": "https://www.mp.pl/nadwaga-i-otylosc/baza-wiedzy/celleczenia/448614,otylosc-koszty-czy-inwestycja-w-zdrowie",
-      "date": "2026-09-15T09:00:21Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Jednym z kluczowych tematów XXXV Forum Ekonomicznego w Karpaczu w ścieżce „Ochrona zdrowia” był panel poświęcony otyłości."
     }
   ],
   "world": [
@@ -915,7 +915,7 @@
       "date": "2026-09-14T17:53:34Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Explore the new clinical practice guideline for chiropractic management of cervicogenic and tension-type headaches with evidence-based treatment insights."
+      "summary": "Improving Your Headache Care: New Guideline DynamicChiropractic.com."
     },
     {
       "title": "What is aortic dissection? Symptoms, causes and how to lower risk - www.heart.org",
@@ -1043,7 +1043,7 @@
       "date": "2026-09-11T12:03:15Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "The new frontier of cancer neuroscience dailyreporter.esmo.org."
+      "summary": "Understanding complex interactions between cancer and the nervous system may offer new insights into the mechanisms that drive tumour progression."
     },
     {
       "title": "Two studies provide insights into the biological basis of triple-negative breast cancer - dailyreporter.esmo.org",
@@ -1051,7 +1051,7 @@
       "date": "2026-09-11T08:36:14Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "Two studies provide insights into the biological basis of triple-negative breast cancer dailyreporter.esmo.org."
+      "summary": "Potential novel drivers of chromosome instability and biomarkers of early recurrence were identified."
     },
     {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
