@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-15T12:49:43Z",
+  "last_updated": "2026-09-15T12:50:40Z",
   "poland": [
+    {
+      "title": "Telefon dzwoni, chorzy szukają pomocy. Poradnia leczenia bólu musi odmawiać - Medonet",
+      "url": "https://www.medonet.pl/zdrowie/wiadomosci/poradnia-leczenia-bolu-ogranicza-przyjecia-wyczerpal-sie-limit-nfz/0559yjy",
+      "date": "2026-09-15T12:44:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Poradnia Leczenia Bólu przy Miejskim Szpitalu Zespolonym w Olsztynie musiała drastycznie ograniczyć liczbę przyjmowanych pacjentów. Powód? Wyczerpano limit punktów finansowanych przez NFZ, a zapotrzebowanie na leczenie przewlekłego bólu wciąż rośnie."
+    },
     {
       "title": "Tajemnica najstarszej kobiety na świecie - Serwis Zdrowie",
       "url": "https://zdrowie.pap.pl/senior/tajemnica-najstarszej-kobiety-na-swiecie",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Po ponad pięciu miesiącach od wprowadzenia nowych zasad finansowania badań diagnostycznych kolejki w całej Polsce wyraźnie się wydłużyły. Przykład: na kolonoskopię bez znieczulenia w trybie zwykłym pacjenci czekają średnio 336 dni, a w pilnym – 262 dni. To odpowiednio o 99 i 94 dni dłużej niż przed zmianą."
-    },
-    {
-      "title": "Osoby z autyzmem żyją krócej. Wśród przyczyn: samobójstwa i grypa - Medonet",
-      "url": "https://www.medonet.pl/zdrowie/zdrowie-dla-kazdego/osoby-z-autyzmem-zyja-srednio-krocej-niz-pozostali-naukowcy-wskazali-o-ile/b7s60th",
-      "date": "2026-09-15T06:34:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Osoby z zaburzeniami ze spektrum autyzmu mają niemal o 14 lat krótszą oczekiwaną długość życia niż reszta populacji — wynika z najnowszych badań przeprowadzonych w USA. Wśród głównych przyczyn tej dramatycznej różnicy naukowcy wskazują m.in. zgony spowodowane grypą, zapaleniem płuc, niedożywieniem czy utonięciami."
     }
   ],
   "world": [
@@ -553,7 +553,7 @@
       "date": "2026-09-15T10:39:14Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "How patients explain and make sense of their decision for assisted suicide in Switzerland (the Exit Project): qualitative exploratory study The BMJ."
+      "summary": "Objective To explore how people actively pursuing assisted suicide in Switzerland frame and report the motivations underpinning their decision. Design Qualitative exploratory study using semistructured interviews analysed through reflexive thematic analysis within a constructivist framework. Setting Participants were recruited across Switzerland between October 2023 and July 2025 through three right-to-die associations and contact with healthcare professionals, including palliative care clinicians and general practitioners."
     },
     {
       "title": "How patients explain and make sense of their decision for assisted suicide in Switzerland (the Exit Project): qualitative exploratory study - The BMJ",
@@ -561,7 +561,7 @@
       "date": "2026-09-15T10:38:22Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "How patients explain and make sense of their decision for assisted suicide in Switzerland (the Exit Project): qualitative exploratory study The BMJ."
+      "summary": "Objective To explore how people actively pursuing assisted suicide in Switzerland frame and report the motivations underpinning their decision. Design Qualitative exploratory study using semistructured interviews analysed through reflexive thematic analysis within a constructivist framework. Setting Participants were recruited across Switzerland between October 2023 and July 2025 through three right-to-die associations and contact with healthcare professionals, including palliative care clinicians and general practitioners."
     },
     {
       "title": "Diagnosis and management of lower limb cellulitis - The BMJ",
@@ -577,7 +577,7 @@
       "date": "2026-09-15T10:35:43Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Improving maternity services: change must be collective The BMJ."
+      "summary": "UK maternity care is at a turning point after successive reviews into services locally and nationally. It has the opportunity to tackle the underlying drivers of failures and poor care. Many of these were identified in the recent review of Nottingham University Hospitals NHS Trust.1 They are systemic in nature—racism, lack of governance, failures in leadership, underresourcing, toxic workplace culture—but also clinical."
     },
     {
       "title": "Esophagitis Dissecans Superficialis in Woman With Dysphagia - Medscape",
@@ -601,7 +601,7 @@
       "date": "2026-09-15T10:25:12Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "For the love of statistics: how a nephrologist became a researcher and is encouraging others to follow suit The BMJ."
+      "summary": "Helen Jones talks to Anand Srivastava, a nephrologist combining medicine, research, and artificial intelligence “At medical school, I was probably one of the few people that really enjoyed learning about fluids and electrolytes,” says Anand Srivastava, associate professor of medicine in the division of nephrology at the University of Illinois Chicago. That interest led him into nephrology, a specialty he was drawn to because of the way kidney disease affects multiple organs. “I really enjoy the complexity of caring for patients that unfortunately have kidney disease,” he says."
     },
     {
       "title": "Diagnosis and management of lower limb cellulitis - The BMJ",
@@ -609,7 +609,7 @@
       "date": "2026-09-15T10:24:39Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Diagnosis and management of lower limb cellulitis The BMJ."
+      "summary": "### What you need to know A 71 year old woman presents to the emergency department with 48 hours of pain, erythema, and swelling of the right lower leg. She appears comfortable, is alert and oriented, and can walk independently. Her temperature is 38.3ºC and her other vital signs are normal."
     },
     {
       "title": "Protecting global sexual and reproductive health and rights - The BMJ",
@@ -1120,7 +1120,7 @@
       "summary": "WHO and the Commonwealth Secretariat today reaffirmed their shared commitment to improving health and well-being across the Commonwealth’s 56 member countries, and strengthening collaboration to address pressing global health challenges."
     },
     {
-      "title": "Public consultation on including underrepresented populations in clinical trials - World Health Organization (WHO)",
+      "title": "Public consultation on including underrepresented populations in clinical trials - who.int",
       "url": "https://www.who.int/news-room/articles-detail/public-consultation-on-including-underrepresented-populations-in-clinical-trials",
       "date": "2026-09-15T09:37:32Z",
       "source": "WHO Disease Outbreak News",
