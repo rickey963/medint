@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-09-15T19:52:38Z",
+  "last_updated": "2026-09-15T19:53:34Z",
   "poland": [
-    {
-      "title": "Materiały pomocnicze - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/standard-rachunku-kosztow/czwartki-z-aotmit/materialy-pomocnicze/",
-      "date": "2026-09-15T18:35:23Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "*Szanowni Państwo, informujemy, iż zamieszczane na stronie Agencji materiały i wyniki dyskusji stanowią efekt pracy koncepcyjnej i procesu analitycznego przeprowadzonego przez zespół Agencji Oceny Technologii Medycznych i Taryfikacji w oparciu o paradygmat EBM, obejmujący: wyszukiwanie, selekcję, syntezę i interpretację dowodów naukowych, lub przeprowadzoną analizę danych. W związku z powyższym, pragniemy przekazać, iż wykorzystywanie materiału analitycznego lub wyników dyskusji, zgodnie z dobrą praktyką, powinno być opatrzone informacją na temat źródła w postaci: [tytuł prezentacji/raportu], AOTMiT, Warszawa, miesiąc 2024 r.]."
-    },
     {
       "title": "Czwartki z AOTMiT - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/standard-rachunku-kosztow/czwartki-z-aotmit/",
@@ -18,7 +10,15 @@
       "summary": "Program szkoleń ma charakter praktyczny i obejmuje omówienie nowych regulacji, wykorzystanie narzędzi analitycznych oraz zagadnienia związane z prognozowaniem finansowym i operacyjnym. Uczestnicy poznają również dedykowaną aplikację Centrum e-Zdrowia, wspierającą przygotowanie i monitorowanie programów naprawczych."
     },
     {
-      "title": "Bezpieczeństwo, zdrowie, pieniądze publiczne. Sprawozdanie z działalności Izby za 2025 rok w Sejmie RP - Najwyższa Izba Kontroli",
+      "title": "Materiały pomocnicze - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/standard-rachunku-kosztow/czwartki-z-aotmit/materialy-pomocnicze/",
+      "date": "2026-09-15T18:35:23Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "*Szanowni Państwo, informujemy, iż zamieszczane na stronie Agencji materiały i wyniki dyskusji stanowią efekt pracy koncepcyjnej i procesu analitycznego przeprowadzonego przez zespół Agencji Oceny Technologii Medycznych i Taryfikacji w oparciu o paradygmat EBM, obejmujący: wyszukiwanie, selekcję, syntezę i interpretację dowodów naukowych, lub przeprowadzoną analizę danych. W związku z powyższym, pragniemy przekazać, iż wykorzystywanie materiału analitycznego lub wyników dyskusji, zgodnie z dobrą praktyką, powinno być opatrzone informacją na temat źródła w postaci: [tytuł prezentacji/raportu], AOTMiT, Warszawa, miesiąc 2024 r.]."
+    },
+    {
+      "title": "Bezpieczeństwo, zdrowie, pieniądze publiczne. Sprawozdanie z działalności Izby za 2025 rok w Sejmie RP - nik.gov.pl",
       "url": "https://www.nik.gov.pl/aktualnosci/bezpieczenstwo-zdrowie-pieniadze-publiczne-sprawozdanie-z-dzialalnosci-izby-za-2025-rok-w-sejmie-rp.html",
       "date": "2026-09-15T17:56:00Z",
       "source": "Ministerstwo Zdrowia RP",
@@ -122,7 +122,7 @@
       "summary": "ABM. 125 mln zł na nowatorskie eksperymenty badawcze PolitykaZdrowotna.com."
     },
     {
-      "title": "Pierwsze Kroki w POZ – infekcje, szczepienia, antybiotykoterapia (jesień 2026) - Remedium | Portal medyczny",
+      "title": "Pierwsze Kroki w POZ – infekcje, szczepienia, antybiotykoterapia (jesień 2026) - remedium.md",
       "url": "https://remedium.md/wideo/pierwsze-kroki-w-poz-infekcje-szczepienia-antybiotykoterapia-jesien-2026-254/przygotowanie-do-sezonu-infekcyjnego-profilaktyka-i-leczenie-grypy-978",
       "date": "2026-09-15T15:28:45Z",
       "source": "Remedium.md",
@@ -134,7 +134,7 @@
       "url": "https://www.nfz.gov.pl/zarzadzenia-prezesa/zarzadzenia-prezesa-nfz/zarzadzenie-nr-992026dsm,7977.html",
       "date": "2026-09-15T15:27:29Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "zmieniające zarządzenie w sprawie określenia warunków zawierania i realizacji umów o udzielanie świadczeń opieki zdrowotnej w rodzaju lecznictwo uzdrowiskowe."
     },
     {
@@ -250,7 +250,7 @@
       "summary": "ABM uruchomiła konkurs na eksperymenty badawcze. Budżet wynosi 125 mln zł, a wnioski można składać do 17 listopada 2026 r."
     },
     {
-      "title": "Nawracające infekcje: kiedy „wiek przedszkolny”, kiedy diagnostyka niedoborów odporności - Remedium | Portal medyczny",
+      "title": "Nawracające infekcje: kiedy „wiek przedszkolny”, kiedy diagnostyka niedoborów odporności - remedium.md",
       "url": "https://remedium.md/wideo/pierwsze-kroki-w-poz-infekcje-szczepienia-antybiotykoterapia-jesien-2026-254/nawracajace-infekcje-kiedy-wiek-przedszkolny-kiedy-diagnostyka-niedoborow-odpornosci-977",
       "date": "2026-09-15T14:01:47Z",
       "source": "Remedium.md",
@@ -298,7 +298,7 @@
       "summary": "Od 1 października będą zmiany na liście bezpłatnych leków dla seniorów. Ministerstwo Zdrowia postawiło na renegocjacje cen z producentami najdroższych produktów. W ciągu dwóch tygodni udało się obniżyć ceny sześciu leków, w tym Ozempiku i Xarelto."
     },
     {
-      "title": "Winny okazał się laptop syna. \"Nie wiedzieliśmy, co się dzieje\" - Uroda Medonet",
+      "title": "Winny okazał się laptop syna. \"Nie wiedzieliśmy, co się dzieje\" - uroda.medonet.pl",
       "url": "https://uroda.medonet.pl/o-wlosach-i-paznokciach-wiemy-wszystko/skora/rumien-od-ciepla-u-chlopca-nauka-zdalna-i-laptop-staly-sie-zagrozeniem/h7qetgt",
       "date": "2026-09-15T13:17:00Z",
       "source": "Medonet",
@@ -489,7 +489,7 @@
       "date": "2026-09-15T16:11:35Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Civil society resistance to anti-rights mobilisation The BMJ."
+      "summary": "Advocates must use history, evidence, and multilateral leverage to protect sexual and reproductive health from attempts to erode rights, write Terry McGovern and colleagues Anti-rights forces—whether religious-conservative, nationalist, or far right—are increasingly gaining political power by challenging the multilateral system and the international human rights framework that safeguard gender equality, sexual and reproductive health, and LGBTQ+ rights. These political actors and alliances reject and distort settled international norms to obstruct inclusive development efforts, with disastrous effects on health outcomes. These trends erode the quality of patient care, restrict access to essential services, and hinder the implementation of evidence based care."
     },
     {
       "title": "Central role of civil society in advancing sexual and reproductive health and rights - The BMJ",
@@ -540,7 +540,7 @@
       "summary": "Amid proposals to restructure the UN and merge UNFPA and UN Women, Clarisa Bencomo and colleagues argue that strong specialised multilateral institutions remain essential for advancing gender equality and sexual and reproductive health and rights For 80 years the United Nations (UN) system has been a venue for advancing the rights of women, girls, and, over time, LGBTQ+ individuals.12 Its support for laws, norms, policies, and programmes to improve gender equality and sexual and reproductive health and rights (SRHR, box 1) directly contributed to global decreases in maternal mortality (40%, 2000-23) and women’s and girls’ AIDS related mortality (58%, 2010-24), and halved the lifetime risk of maternal related death (2020-23).34 The features that helped the UN make progress on SRHR—specialised gender equality and SRHR agencies with complementary mandates; civil society contributions to knowledge production, norm setting, and accountability; and consensus based decision making—are being undermined and those gains reversed. Today’s the UN faces unprecedented crises. Member states owed a record $1.6bn in regular budget dues at the end of 2025, and by May 2026, the UN projected it would run out of money in August if member states didn’t pay up.5 Voluntary development funding is shrinking, and 2026 bilateral aid for health is projected to reach its lowest level in almost two decades, with reproductive and population health hardest hit.6 Anti-rights agendas are gaining ground.7891011 Imposed austerity measures, illicit financial flows, and an emerging debt crisis make women and girls in low and middle income countries especially vulnerable.12 The UN secretary general’s solution to this moment is UN80, a rushed package of restructuring and programmatic cuts."
     },
     {
-      "title": "Beyond the breakthrough for RAS-driven cancers - Nature",
+      "title": "Beyond the breakthrough for RAS-driven cancers - nature.com",
       "url": "https://www.nature.com/articles/s41591-026-04610-4",
       "date": "2026-09-15T15:31:10Z",
       "source": "Nature Medicine",
@@ -806,20 +806,20 @@
   ],
   "guidelines": [
     {
-      "title": "Materiały pomocnicze - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/standard-rachunku-kosztow/czwartki-z-aotmit/materialy-pomocnicze/",
-      "date": "2026-09-15T18:35:23Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "*Szanowni Państwo, informujemy, iż zamieszczane na stronie Agencji materiały i wyniki dyskusji stanowią efekt pracy koncepcyjnej i procesu analitycznego przeprowadzonego przez zespół Agencji Oceny Technologii Medycznych i Taryfikacji w oparciu o paradygmat EBM, obejmujący: wyszukiwanie, selekcję, syntezę i interpretację dowodów naukowych, lub przeprowadzoną analizę danych. W związku z powyższym, pragniemy przekazać, iż wykorzystywanie materiału analitycznego lub wyników dyskusji, zgodnie z dobrą praktyką, powinno być opatrzone informacją na temat źródła w postaci: [tytuł prezentacji/raportu], AOTMiT, Warszawa, miesiąc 2024 r.]."
-    },
-    {
       "title": "Czwartki z AOTMiT - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://www.aotm.gov.pl/standard-rachunku-kosztow/czwartki-z-aotmit/",
       "date": "2026-09-15T18:35:23Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Program szkoleń ma charakter praktyczny i obejmuje omówienie nowych regulacji, wykorzystanie narzędzi analitycznych oraz zagadnienia związane z prognozowaniem finansowym i operacyjnym. Uczestnicy poznają również dedykowaną aplikację Centrum e-Zdrowia, wspierającą przygotowanie i monitorowanie programów naprawczych."
+    },
+    {
+      "title": "Materiały pomocnicze - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://www.aotm.gov.pl/standard-rachunku-kosztow/czwartki-z-aotmit/materialy-pomocnicze/",
+      "date": "2026-09-15T18:35:23Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "*Szanowni Państwo, informujemy, iż zamieszczane na stronie Agencji materiały i wyniki dyskusji stanowią efekt pracy koncepcyjnej i procesu analitycznego przeprowadzonego przez zespół Agencji Oceny Technologii Medycznych i Taryfikacji w oparciu o paradygmat EBM, obejmujący: wyszukiwanie, selekcję, syntezę i interpretację dowodów naukowych, lub przeprowadzoną analizę danych. W związku z powyższym, pragniemy przekazać, iż wykorzystywanie materiału analitycznego lub wyników dyskusji, zgodnie z dobrą praktyką, powinno być opatrzone informacją na temat źródła w postaci: [tytuł prezentacji/raportu], AOTMiT, Warszawa, miesiąc 2024 r.]."
     },
     {
       "title": "Being aware of salpingectomy opportunities with David Shalowitz, MD - Contemporary OB/GYN",
@@ -878,7 +878,7 @@
       "summary": "Perioperative Durvalumab Plus FLOT Improves OS in Patients with Resectable Gastric or GEJ Adenocarcinoma European Society For Medical Oncology | ESMO."
     },
     {
-      "title": "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
+      "title": "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - newsroom.heart.org",
       "url": "https://newsroom.heart.org/news/cardiovascular-disease-tops-cancer-as-leading-cause-of-death-among-hispanic-adults-in-u-s",
       "date": "2026-09-15T09:05:58Z",
       "source": "Wytyczne AHA/ACC",
@@ -1078,28 +1078,20 @@
       "summary": "AAN/AHS Pharmacologic Treatment of Migraine Prevention Guideline Update: Quiz MedCentral."
     },
     {
-      "title": "Measles Cases and Outbreaks - cdc.gov",
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-09-11T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Measles Cases and Outbreaks cdc.gov."
+      "confirmed_by": 4,
+      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Information for Travelers Returning from Ebola-Affected Areas - cdc.gov",
+      "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-09-11T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Information for Travelers Returning from Ebola-Affected Areas cdc.gov."
-    },
-    {
-      "title": "Appendix A: Type and Duration of Precautions Recommended for Selected Infections and Conditions - cdc.gov",
-      "url": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html",
-      "date": "2026-09-11T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Appendix A: Type and Duration of Precautions Recommended for Selected Infections and Conditions cdc.gov."
+      "summary": "Information for Travelers Returning from Ebola-Affected Areas Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Prezydium NRL: potrzebne jasne zasady dokumentowania e-konsultacji - NIL",
@@ -1110,23 +1102,31 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - cdc.gov",
+      "title": "Appendix A: Type and Duration of Precautions Recommended for Selected Infections and Conditions - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html",
+      "date": "2026-09-11T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Appendix A: Type and Duration of Precautions Recommended for Selected Infections and Conditions Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/han/php/notices/han00533.html",
       "date": "2026-09-10T21:15:41Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration cdc.gov."
+      "summary": "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Komisja Stomatologiczna NRL rozpoczęła prace w X kadencji - NIL",
+      "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/9394-komisja-stomatologiczna-nrl-rozpoczela-prace-w-x-kadencji",
+      "date": "2026-09-10T09:44:18Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Naczelna Izba Lekarska."
     }
   ],
   "epidemiology": [
-    {
-      "title": "Third meeting of the Global Initiative on AI for Health - World Health Organization (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/16/default-calendar/third-meeting-of-the-global-initiative-on-ai-for-health",
-      "date": "2026-09-15T18:36:48Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "The International Telecommunication Union (ITU), the World Health Organization (WHO) and the World Intellectual Property Organization (WIPO) will convene the third meeting of the Global Initiative on AI for Health (GI-AI4H) in Hangzhou, China, from 16 to 18 September 2026."
-    },
     {
       "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
@@ -1150,6 +1150,14 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "The report “ Closing the childhood cancer survival gap through sustainable access to medicines: market shaping strategy 2026–2030” builds on the experience of the Global Platform for Access to Childhood Cancer Medicines , jointly established by WHO and St. Jude Children’s Research Hospital in collaboration with UNICEF and PAHO Strategic Fund."
+    },
+    {
+      "title": "Third meeting of the Global Initiative on AI for Health - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/16/default-calendar/third-meeting-of-the-global-initiative-on-ai-for-health",
+      "date": "2026-09-15T14:05:40Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "The International Telecommunication Union (ITU), the World Health Organization (WHO) and the World Intellectual Property Organization (WIPO) will convene the third meeting of the Global Initiative on AI for Health (GI-AI4H) in Hangzhou, China, from 16 to 18 September 2026."
     },
     {
       "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
@@ -1288,12 +1296,12 @@
       "summary": "A third person in Pennsylvania has reportedly died due to complications associated with measles. The Jefferson County Coroner’s Office said that a 40-year-old woman died on Saturday and that, out of respect for the privacy of the deceased and her family, it was providing no additional identifying information."
     },
     {
-      "title": "Steps to Protect from Ebola While Waiting for Help: Flipbook - cdc.gov",
+      "title": "Steps to Protect from Ebola While Waiting for Help: Flipbook - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/communication-resources/steps-to-protect-flipbook.html",
       "date": "2026-09-14T16:14:18Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Steps to Protect from Ebola While Waiting for Help: Flipbook cdc.gov."
+      "summary": "Steps to Protect from Ebola While Waiting for Help: Flipbook Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Safely Caring for Someone with Suspected Ebola: Flipbook - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1660,7 +1668,7 @@
       "summary": "Lithuanian is available via eTranslation, the European Commission's machine translation service."
     },
     {
-      "title": "HHS official Klomp spars with Warren over drug pricing contracts - Endpoints News",
+      "title": "HHS official Klomp spars with Warren over drug pricing contracts - endpoints.news",
       "url": "https://endpoints.news/klomp-warren-spar-over-mfn-deal-contracts/",
       "date": "2026-09-15T18:45:00Z",
       "source": "Endpoints News",
@@ -1708,7 +1716,7 @@
       "summary": "Pulse pressure (PP) transitions from a falling to rising profile occur about 10 years earlier in women than men, before the onset of menopause in women, accordi."
     },
     {
-      "title": "FDA approves first radioligand generic, setting up rivalry with Novartis - Endpoints News",
+      "title": "FDA approves first radioligand generic, setting up rivalry with Novartis - endpoints.news",
       "url": "https://endpoints.news/fda-approves-first-radioligand-generic-setting-up-rivalry-with-novartis/",
       "date": "2026-09-15T16:59:00Z",
       "source": "Endpoints News",
@@ -1724,7 +1732,7 @@
       "summary": "Lithuanian is available via eTranslation, the European Commission's machine translation service."
     },
     {
-      "title": "Centric Compounding recalls three injectables over contamination - Endpoints News",
+      "title": "Centric Compounding recalls three injectables over contamination - endpoints.news",
       "url": "https://endpoints.news/centric-compounding-recalls-three-injectables-over-contamination/",
       "date": "2026-09-15T16:28:00Z",
       "source": "Endpoints News",
@@ -1764,7 +1772,7 @@
       "summary": "Novo is set to learn whether the European Medicines Agency’s human medicines committee will back its hemophilia A drug for EU marketing approval."
     },
     {
-      "title": "Rocket’s Danon plans; Novo leaves Ascendis; Lilly’s latest deal - Endpoints News",
+      "title": "Rocket’s Danon plans; Novo leaves Ascendis; Lilly’s latest deal - endpoints.news",
       "url": "https://endpoints.news/rockets-danon-plans-novo-leaves-ascendis-lillys-latest-deal/",
       "date": "2026-09-15T15:19:00Z",
       "source": "Endpoints News",
@@ -1772,7 +1780,7 @@
       "summary": "Rocket aligns with FDA on RP-A501 Danon trial; Lilly pays $237M/program with QurCan; Connect's rademikibart fails Phase 2; Ascendis ends Novo $285M GLP-1 alliance. Plus news about Corbus, Syntis, Arrowhead, BioMarin, BioVie, Agomab, Antelope Therapeutics, Connect Biopharma and Genfit."
     },
     {
-      "title": "GSK to wind down German vaccine factory due to lack of demand - Endpoints News",
+      "title": "GSK to wind down German vaccine factory due to lack of demand - endpoints.news",
       "url": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
       "date": "2026-09-15T14:33:00Z",
       "source": "Endpoints News",
@@ -1788,7 +1796,7 @@
       "summary": "TUESDAY, Sept. 15, 2026 Here s an unwelcome bit of news as Fido or Socks cuddles up to you for attention they could be carrying antibiotic-resistant strains of."
     },
     {
-      "title": "FDA leaders say they’ve woven in feedback as expedited trial program goes live - Endpoints News",
+      "title": "FDA leaders say they’ve woven in feedback as expedited trial program goes live - endpoints.news",
       "url": "https://endpoints.news/fda-leaders-say-theyve-woven-feedback-into-new-trial-pilot/",
       "date": "2026-09-15T14:24:00Z",
       "source": "Endpoints News",
@@ -1844,7 +1852,7 @@
       "summary": "TUESDAY, Sept. 15, 2026 Hormone therapy can help quell mood swings associated with menopause, a new study says. The proportion of women with severe mood symptom."
     },
     {
-      "title": "Why Omada is staying in its lane - Endpoints News",
+      "title": "Why Omada is staying in its lane - endpoints.news",
       "url": "https://endpoints.news/why-omada-is-staying-in-its-lane/",
       "date": "2026-09-15T14:10:00Z",
       "source": "Endpoints News",
@@ -1874,6 +1882,14 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "What's the deal? RegCell, an Emeryville, California biotech co-f…."
+    },
+    {
+      "title": "Despite 3 patient deaths, Cullinan-Taiho plan FDA filing for lung cancer pill on survival benefit - BioSpace",
+      "url": "https://www.biospace.com/drug-development/despite-3-patient-deaths-cullinan-taiho-plan-fda-filing-for-lung-cancer-pill-on-survival-benefit",
+      "date": "2026-09-15T13:51:57Z",
+      "source": "BioSpace",
+      "confirmed_by": 1,
+      "summary": "Analysts believe Cullinan Therapeutics and Taiho Oncology can overcome the safety risks as zipalertinib “sets [a] new bar” for first-line treatment of a type of lung cancer. The candidate is already under review for the the second-line setting, with a decision expected by early next year."
     },
     {
       "title": "PolyPid Announces Participation in Upcoming Fall Investor Conferences - BioSpace",
@@ -2018,14 +2034,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Device Classification Under Section 513(f)(2)(De Novo) accessdata.fda.gov."
-    },
-    {
-      "title": "Pharmacovigilance Risk Assessment Committee (PRAC): 11 - 14 January 2027 - European Medicines Agency (EMA)",
-      "url": "https://www.ema.europa.eu/fr/events/pharmacovigilance-risk-assessment-committee-prac-11-14-january-2027",
-      "date": "2026-09-15T04:31:10Z",
-      "source": "EMA",
-      "confirmed_by": 1,
-      "summary": "French is available via eTranslation, the European Commission's machine translation service."
     }
   ],
   "critical_alerts": [
@@ -2062,12 +2070,12 @@
       "summary": "The Bundibugyo virus outbreak in the DRC is spreading faster than the 2018 Ebola outbreak, with conflict, displacement, and healthcare access complicating containment."
     },
     {
-      "title": "Steps to Protect from Ebola While Waiting for Help: Flipbook - cdc.gov",
+      "title": "Steps to Protect from Ebola While Waiting for Help: Flipbook - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/communication-resources/steps-to-protect-flipbook.html",
       "date": "2026-09-14T16:14:18Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Steps to Protect from Ebola While Waiting for Help: Flipbook cdc.gov."
+      "summary": "Steps to Protect from Ebola While Waiting for Help: Flipbook Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Safely Caring for Someone with Suspected Ebola: Flipbook - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -2086,23 +2094,15 @@
       "summary": "This is the 69th situation report for the multi-country outbreak of mpox. This report provides details on the global epidemiological situation for mpox as of 31 July 2026 and in Africa as of 16 July 2026, with operational response updates as of 19 July 2026."
     },
     {
-      "title": "Information for Travelers Returning from Ebola-Affected Areas - cdc.gov",
+      "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-09-11T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Information for Travelers Returning from Ebola-Affected Areas cdc.gov."
+      "summary": "Information for Travelers Returning from Ebola-Affected Areas Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
   "daily_top5": [
-    {
-      "title": "Third meeting of the Global Initiative on AI for Health - World Health Organization (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/16/default-calendar/third-meeting-of-the-global-initiative-on-ai-for-health",
-      "date": "2026-09-15T18:36:48Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "The International Telecommunication Union (ITU), the World Health Organization (WHO) and the World Intellectual Property Organization (WIPO) will convene the third meeting of the Global Initiative on AI for Health (GI-AI4H) in Hangzhou, China, from 16 to 18 September 2026."
-    },
     {
       "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
@@ -2118,6 +2118,14 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
+    },
+    {
+      "title": "WHO Expert Hour Series on Food Fortification: sustaining the elimination of iodine deficiency through universal salt iodization (USI) - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/who-expert-hour-series-on-food-fortification--sustaining-the-elimination-of-iodine-deficiency-through-universal-salt-iodization-(usi)",
+      "date": "2026-09-15T16:54:28Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "First webinar of the WHO expert hour series on food fortification. The webinar will feature expert perspectives and country experiences on salt iodization, including implementation, regulatory considerations, and key challenges in sustaining elimination efforts."
     },
     {
       "title": "WHO Health Emergencies EPI-WIN webinar: Strengthening pandemic preparedness: from investment to implementation and impact - World Health Organization (WHO)",
