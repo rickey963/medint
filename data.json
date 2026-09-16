@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-16T14:08:58Z",
+  "last_updated": "2026-09-16T14:09:55Z",
   "poland": [
+    {
+      "title": "Będą dodatkowe kontrole w placówkach ochrony zdrowia - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/system-ochrony-zdrowia/e-zdrowie/beda-dodatkowe-kontrole-w-placowkach-ochrony-zdrowia/",
+      "date": "2026-09-16T14:05:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Prezes Urzędu Ochrony Danych Osobowych Mirosław Wróblewski zapowiedział kontrole w placówkach ochrony zdrowia. Urzędnicy sprawdzą, jak podmioty lecznicze zabezpieczają wrażliwe informacje pacjentów. To pokłosie wycieku danych z firmy MyDr."
+    },
     {
       "title": "Karpacz 2026: wczesna diagnostyka cukrzycy pozwala poprawiać jakość życia pacjentów i zapobiegać powikłaniom - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/karpacz-2026-wczesna-n2494989",
@@ -392,14 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Lekarze z Górnośląskiego Centrum Zdrowia Dziecka w Katowicach prowadzą interdyscyplinarne leczenie dwóch braci chorych na SMA, którzy – wraz ze zdrową siostrą – przyszli na świat jako trojaczki. To jak dotąd jedyna taka opisana sytuacja na świecie – poinformowała w środę, 16 września, placówka."
-    },
-    {
-      "title": "Nie żyje dr Janusz Hejnar. Znany ginekolog i położnik ze Szpitala Żeromskiego w Krakowie - PolitykaZdrowotna.com",
-      "url": "https://politykazdrowotna.com/artykul/nie-zyje-dr-janusz-hejnar-n2494985",
-      "date": "2026-09-16T08:30:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Nie żyje dr Janusz Hejnar. Znany ginekolog i położnik ze Szpitala Żeromskiego w Krakowie PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -1876,20 +1876,20 @@
       "summary": "Current drugs shortage notification for Dexmedetomidine Hydrochloride Injection including reason for shortage, estimated resupply dates, and alternative drug therapy if available."
     },
     {
-      "title": "Dextrose Monohydrate 5% Injection Shortage - Drugs.com",
-      "url": "https://www.drugs.com/drug-shortages/dextrose-monohydrate-5-injection-61",
-      "date": "2026-09-16T02:50:02Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Current drugs shortage notification for Dextrose Monohydrate 5% Injection including reason for shortage, estimated resupply dates, and alternative drug therapy if available."
-    },
-    {
       "title": "Bumetanide Injection Shortage - Drugs.com",
       "url": "https://www.drugs.com/drug-shortages/bumetanide-injection-25",
       "date": "2026-09-16T02:50:02Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Current drugs shortage notification for Bumetanide Injection including reason for shortage, estimated resupply dates, and alternative drug therapy if available."
+    },
+    {
+      "title": "Dextrose Monohydrate 5% Injection Shortage - Drugs.com",
+      "url": "https://www.drugs.com/drug-shortages/dextrose-monohydrate-5-injection-61",
+      "date": "2026-09-16T02:50:02Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Current drugs shortage notification for Dextrose Monohydrate 5% Injection including reason for shortage, estimated resupply dates, and alternative drug therapy if available."
     },
     {
       "title": "Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection Shortage - Drugs.com",
