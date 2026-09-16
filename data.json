@@ -1,12 +1,28 @@
 {
-  "last_updated": "2026-09-16T19:27:29Z",
+  "last_updated": "2026-09-16T19:28:32Z",
   "poland": [
+    {
+      "title": "Poradnik Pacjenta: Studencie, pamiętaj o ubezpieczeniu - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/poradnik-pacjenta-studencie-pamietaj-o-ubezpieczeniu,8478.html",
+      "date": "2026-09-16T17:50:39Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 3,
+      "summary": "Zaczynasz studia? Wracasz na kolejny rok nauki po zakończeniu wakacyjnej pracy? Zadbaj o formalności jeszcze przed rozpoczęciem roku akademickiego."
+    },
+    {
+      "title": "Nadciśnienie się nie pojawiło. Badacze odkryli, co dało silną ochronę - Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Nauka/Nadcisnienie-sie-nie-pojawilo-Badacze-odkryli-co-dalo-silna-ochrone,288985,9.html",
+      "date": "2026-09-16T17:30:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Naukowcy z Uniwersytetu Temple rzucają nowe światło na walkę z nadciśnieniem. Przeprowadzone przez nich badania na myszach wykazały, że tradycyjny koncentrat soku z japońskiej śliwki może skutecznie hamować rozwój tego schorzenia."
+    },
     {
       "title": "System eZWM - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://ezwm.nfz.gov.pl/",
       "date": "2026-09-16T17:03:47Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 4,
+      "confirmed_by": 2,
       "summary": "System eZWM Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -190,7 +206,7 @@
       "url": "https://www.mp.pl/neurologia/aktualnosci/449021,swiatowe-dni-choroby-alzheimera-w-sejmie",
       "date": "2026-09-16T13:34:34Z",
       "source": "Medycyna Praktyczna",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "W ramach obchodów Światowego Dnia Choroby Alzheimera we wtorek, 15 września w Sejmie zorganizowano debatę ekspercką „Choroby otępienne i przyszłość pokoleń – wyzwania dla polityki zdrowotnej”."
     },
     {
@@ -384,22 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Dr n. med. Przemysław Jasiewicz jest specjalistą anestezjologii i intensywnej terapii, w trakcie specjalizacji z transplantologii klinicznej."
-    },
-    {
-      "title": "Dodatkowe kontrole UODO w placówkach medycznych jeszcze w 2026 roku - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/dodatkowe-kontrole-uodo-w-placowkach-medycznych-jeszcze-w-2026-roku/",
-      "date": "2026-09-16T10:59:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "UODO zwiększa kontrole w sektorze ochrony zdrowia. Do końca 2026 r. sprawdzi kolejne podmioty i zabezpieczenia danych pacjentów."
-    },
-    {
-      "title": "Nowy interfejs mózg-komputer pozwala jednocześnie mówić i gestykulować osobom z paraliżem - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/nowy-interfejs-mozg-komputer-pozwala-jednoczesnie-mowic-i-gestykulowac-osobom-z-paralizem/",
-      "date": "2026-09-16T10:44:49Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Nowy BCI odczytuje jednocześnie intencję mowy i gestów. Technologia może przywrócić bardziej naturalną komunikację osobom z paraliżem."
     }
   ],
   "world": [
@@ -444,16 +444,16 @@
       "summary": "The Heart of the Matter — Transforming Congenital Heart Disease Care through Patient-Reported Outcomes catalyst.nejm.org."
     },
     {
-      "title": "Comparing Transcatheter Tricuspid Valve Repair to Medical Therapy - NEJM Clinician",
-      "url": "https://clinician.nejm.org/CLINjwNA60537",
+      "title": "Eosinophilic Esophagitis in Children with Asthma - clinician.nejm.org",
+      "url": "https://clinician.nejm.org/CLINjwNA60510",
       "date": "2026-09-16T17:09:22Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Read this Journal Watch article and more clinical summaries on NEJM Clinician."
     },
     {
-      "title": "Eosinophilic Esophagitis in Children with Asthma - NEJM Clinician",
-      "url": "https://clinician.nejm.org/CLINjwNA60510",
+      "title": "Comparing Transcatheter Tricuspid Valve Repair to Medical Therapy - clinician.nejm.org",
+      "url": "https://clinician.nejm.org/CLINjwNA60537",
       "date": "2026-09-16T17:09:22Z",
       "source": "NEJM",
       "confirmed_by": 1,
@@ -545,7 +545,7 @@
       "date": "2026-09-16T12:08:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Infantile fibrosarcoma (IFS) is a malignant soft tissue tumour and rarely presents in the newborn period. Congenital IFS poses a particular diagnostic challenge, as they may clinically and radiologically mimic vascular anomalies, such as haemangiomata. We present a case of a baby boy who, at birth, was noted to have a smooth mass of approximately 4 cm×4 cm on the sole of his right foot."
+      "summary": "Congenital infantile fibrosarcoma of the foot BMJ Case Reports."
     },
     {
       "title": "Occult breast carcinoma presenting as paraneoplastic opsoclonus–myoclonus–ataxia syndrome - BMJ Case Reports",
@@ -553,7 +553,7 @@
       "date": "2026-09-16T12:07:51Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Opsoclonus–myoclonus–ataxia syndrome (OMAS) is a rare immune-mediated neurological disorder in adults and is frequently associated with an underlying malignancy. We report a woman in her sixties presenting with subacute onset opsoclonus and gait ataxia. Diagnostic evaluation identified metastatic carcinoma involving the left axillary lymph nodes."
+      "summary": "Occult breast carcinoma presenting as paraneoplastic opsoclonus–myoclonus–ataxia syndrome BMJ Case Reports."
     },
     {
       "title": "U.S. reaches highest number of measles deaths in decades - STAT",
@@ -580,7 +580,7 @@
       "summary": "Read this Journal Watch article and more clinical summaries on NEJM Clinician."
     },
     {
-      "title": "The First Real-World Data on the 20-Valent Pneumococcal Conjugate Vaccine - NEJM Clinician",
+      "title": "The First Real-World Data on the 20-Valent Pneumococcal Conjugate Vaccine - clinician.nejm.org",
       "url": "https://clinician.nejm.org/first-real-world-data-20-valent-pneumococcal-conjugate-vaccine-CLINjwNA60462?show-author=true&author-id=AU030",
       "date": "2026-09-16T11:29:07Z",
       "source": "NEJM",
@@ -601,7 +601,7 @@
       "date": "2026-09-16T10:17:56Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "UN policy review should promote gender responsive care, not punishment Globally, women account for one in four people who use drugs such as heroin, cocaine, and cannabis but bear the greatest burden of harm,1 not because of their drug use but from laws and policies designed to punish them.2 Now, for the first time in decades, the United Nations Commission on Narcotic Drugs is to scrutinise global drug policy.3 An independent expert panel will report in 2027. This is a rare chance to replace the failed experiment of prohibition with policy that is gender responsive, evidence based, and grounded in human rights law and the right to health. The UN’s 2026 World Drug Report yet again shows the failures of prohibition: 331 million people used drugs in 2024, up 34% in a decade, and nearly 500 000 people died from drug related causes in 2023.1 Concurrently, 27 UN special rapporteurs called for evidence based reforms.4 They were unequivocal: overcriminalisation, stigma, and discrimination are not incidental to prohibition; they are its structural logic, as The BMJ argued a decade ago.5 No group feels this more acutely than women, particularly …."
+      "summary": "The war on drugs is a war on women The BMJ."
     },
     {
       "title": "Host-Directed Therapies and Phages in Lung Care - Medscape",
@@ -708,7 +708,7 @@
       "summary": "Democrats are mapping out their post-election strategy, and see health care probes as a winning issue."
     },
     {
-      "title": "Cochrane Methods Report 2026 - Cochrane Collaboration",
+      "title": "Cochrane Methods Report 2026 - cochrane.org",
       "url": "https://www.cochrane.org/about-us/news/cochrane-methods-report-2026",
       "date": "2026-09-16T08:00:00Z",
       "source": "Cochrane Library",
@@ -716,7 +716,7 @@
       "summary": "Highlighting the importance of our methods community in continuing to improve the relevance, quality and timeliness of Cochrane reviews."
     },
     {
-      "title": "Spotlight on Cochrane Methods Groups 2026 - Cochrane Collaboration",
+      "title": "Spotlight on Cochrane Methods Groups 2026 - cochrane.org",
       "url": "https://www.cochrane.org/about-us/news/spotlight-cochrane-methods-groups-2026",
       "date": "2026-09-16T08:00:00Z",
       "source": "Cochrane Library",
@@ -1158,12 +1158,12 @@
       "summary": "Rekomendacja nr 138/2026 z dnia 10 września 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgód na refundację produktu leczniczego Opzelura (ruksolitynib) we wskazaniu: bielactwo nabyte."
     },
     {
-      "title": "Komunikat w sprawie posiedzenia Rady ds. Taryfikacji w dniu 3 września 2026 r. - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/komunikat-w-sprawie-posiedzenia-rady-ds-taryfikacji-w-dniu-3-wrzesnia-2026-r/",
-      "date": "2026-09-11T13:15:22Z",
-      "source": "AOTMiT",
+      "title": "AAN/AHS Pharmacologic Treatment of Migraine Prevention Guideline Update: Quiz - MedCentral",
+      "url": "https://www.medcentral.com/neurology/migraine/test-your-knowledge-aan-ahs-pharmacologic-treatment-of-migraine-prevention-guideline-update",
+      "date": "2026-09-11T13:34:41Z",
+      "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Na posiedzeniu w dniu 03.09.2026 r. Rada zapoznała się z wynikami prac dotyczących świadczeń gwarantowanych z zakresu leczenia szpitalnego, w których istotny koszt stanowi wyrób medyczny część I – systemy robotyczne. Rada przeprowadziła dyskusję na temat przedstawionego materiału."
+      "summary": "AAN/AHS Pharmacologic Treatment of Migraine Prevention Guideline Update: Quiz MedCentral."
     },
     {
       "title": "Viral Respiratory Infections - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1188,14 +1188,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Information for Travelers Returning from Ebola-Affected Areas Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Paper of the month - European Society of Cardiology",
-      "url": "https://www.escardio.org/guidelines/scientific-documents/recommended-reading/hypertension/",
-      "date": "2026-09-11T07:00:00Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 2,
-      "summary": "Although arterial hypertension is the most common cause of heart failure in women, it is important to assess female-specific risk factors in the prevention of heart failure. To update yourself on these aspects, I recommend reading the ESC expert consensus statement on Prevention of heart failure in women."
     },
     {
       "title": "Obwieszczenie Ministra Zdrowia z dnia 26 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie warunków wynagradzania za pracę pracowników podmiotów leczniczych działających w formie jednostki budżetowej",
@@ -1690,12 +1682,12 @@
       "summary": "The Evolution of Preclinical CRO Strategic Partnerships: From Transactional Services to Value-Driven Ecosystems in 2026 Applied Clinical Trials Online."
     },
     {
-      "title": "Study Details | NCT07819435 | Phase 2/3 Efficacy and Safety of PP405 in Adult Males With NHS Type IV/V - clinicaltrials.gov",
+      "title": "Study Details | NCT07819435 | Phase 2/3 Efficacy and Safety of PP405 in Adult Males With NHS Type IV/V - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07819435",
       "date": "2026-09-15T19:14:31Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Study Details | NCT07819435 | Phase 2/3 Efficacy and Safety of PP405 in Adult Males With NHS Type IV/V clinicaltrials.gov."
+      "summary": "Study Details | NCT07819435 | Phase 2/3 Efficacy and Safety of PP405 in Adult Males With NHS Type IV/V ClinicalTrials.gov."
     },
     {
       "title": "Agentic AI trust gap slowing healthcare provider adoption, survey reveals - Clinical Trials Arena",
@@ -1900,6 +1892,14 @@
       "summary": "5 pharma giants—Bristol Myers Squibb, Pfizer, Merck, Eli Lilly & AbbVie—cooperate with Rep. Moolenaar's probe into clinical trials at Chinese military hospitals."
     },
     {
+      "title": "5 biotechs braving the commercial waters with product launches - BioSpace",
+      "url": "https://www.biospace.com/business/5-biotechs-braving-the-commercial-waters-with-product-launches",
+      "date": "2026-09-16T18:07:04Z",
+      "source": "BioSpace",
+      "confirmed_by": 1,
+      "summary": "A growing number of biotechs are entering the market with newly launched medicines, a pattern indicative of “improving capital markets,” according to Jefferies’ Andrew Tsai."
+    },
+    {
       "title": "FDA faces questions on ‘America First’ provisions in latest user fee agreement - Endpoints News",
       "url": "https://endpoints.news/fda-faces-questions-on-america-first-provisions-in-latest-user-fee-agreement/",
       "date": "2026-09-16T17:19:00Z",
@@ -1921,7 +1921,7 @@
       "date": "2026-09-16T16:11:48Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "WEDNESDAY, Sept. 16, 2026 Air pollution could be keeping you up at night, robbing you of sleep, a new study says. Data gathered by the popular Sleep Cycle app s."
+      "summary": "WEDNESDAY, Sept. 16, 2026 Air pollution could be keeping you up at night, robbing you of sleep, a new study says.Data gathered by the popular Sleep Cycle app sh."
     },
     {
       "title": "Does Exercise Improve Cancer Survival? - Drugs.com",
@@ -2114,14 +2114,6 @@
       "source": "EMA",
       "confirmed_by": 1,
       "summary": "Bulgarian is available via eTranslation, the European Commission's machine translation service."
-    },
-    {
-      "title": "5 biotechs braving the commercial waters with product launches - BioSpace",
-      "url": "https://www.biospace.com/business/5-biotechs-braving-the-commercial-waters-with-product-launches",
-      "date": "2026-09-16T05:01:31Z",
-      "source": "BioSpace",
-      "confirmed_by": 1,
-      "summary": "A growing number of biotechs are entering the market with newly launched medicines, a pattern indicative of “improving capital markets,” according to Jefferies’ Andrew Tsai."
     },
     {
       "title": "Pixclara (floretyrosine F 18): Uses, Side Effects, What to Expect - Drugs.com",
