@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T19:30:34Z",
+  "last_updated": "2026-09-16T19:31:29Z",
   "poland": [
     {
       "title": "Poradnik Pacjenta: Studencie, pamiętaj o ubezpieczeniu - Narodowy Fundusz Zdrowia (NFZ)",
@@ -545,7 +545,7 @@
       "date": "2026-09-16T12:08:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Infantile fibrosarcoma (IFS) is a malignant soft tissue tumour and rarely presents in the newborn period. Congenital IFS poses a particular diagnostic challenge, as they may clinically and radiologically mimic vascular anomalies, such as haemangiomata. We present a case of a baby boy who, at birth, was noted to have a smooth mass of approximately 4 cm×4 cm on the sole of his right foot."
+      "summary": "Congenital infantile fibrosarcoma of the foot BMJ Case Reports."
     },
     {
       "title": "Occult breast carcinoma presenting as paraneoplastic opsoclonus–myoclonus–ataxia syndrome - BMJ Case Reports",
@@ -553,7 +553,7 @@
       "date": "2026-09-16T12:07:51Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Opsoclonus–myoclonus–ataxia syndrome (OMAS) is a rare immune-mediated neurological disorder in adults and is frequently associated with an underlying malignancy. We report a woman in her sixties presenting with subacute onset opsoclonus and gait ataxia. Diagnostic evaluation identified metastatic carcinoma involving the left axillary lymph nodes."
+      "summary": "Occult breast carcinoma presenting as paraneoplastic opsoclonus–myoclonus–ataxia syndrome BMJ Case Reports."
     },
     {
       "title": "U.S. reaches highest number of measles deaths in decades - STAT",
@@ -1392,14 +1392,6 @@
       "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
     },
     {
-      "title": "NIOSH and Partners Announce 2026 Prevention through Design Award Winner - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/niosh/newsroom/updates/upd-09-15-26.html",
-      "date": "2026-09-15T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "NIOSH and Partners Announce 2026 Prevention through Design Award Winner Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Anxiety disorders - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders",
       "date": "2026-09-15T07:00:00Z",
@@ -1414,6 +1406,14 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "All workers have the right to a safe and healthy environment at work. There are effective actions to prevent mental health risks and support workers with mental health conditions."
+    },
+    {
+      "title": "NIOSH and Partners Announce 2026 Prevention through Design Award Winner - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/niosh/newsroom/updates/upd-09-15-26.html",
+      "date": "2026-09-15T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "NIOSH and Partners Announce 2026 Prevention through Design Award Winner Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Pain /1 - World Health Organization (WHO)",
@@ -1584,20 +1584,20 @@
       "summary": "The World Health Organization (WHO) is seeking experts to serve as members of its Technical Advisory Group on Wastewater and Environmental Surveillance for Public Health (WES TAG)."
     },
     {
-      "title": "Ebola Outbreak: Current Situation - cdc.gov",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-09-14T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Ebola Outbreak: Current Situation cdc.gov."
-    },
-    {
       "title": "Mumps Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/mumps/outbreaks/index.html",
       "date": "2026-09-14T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Mumps Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - cdc.gov",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-09-14T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Ebola Outbreak: Current Situation cdc.gov."
     }
   ],
   "clinical_trials": [
