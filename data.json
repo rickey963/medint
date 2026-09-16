@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T12:47:27Z",
+  "last_updated": "2026-09-16T12:48:26Z",
   "poland": [
     {
       "title": "Badanie siatkówki może pomóc wcześniej wykryć migotanie przedsionków - PolitykaZdrowotna.com",
@@ -21,8 +21,8 @@
       "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/dk26125,3021.html",
       "date": "2026-09-16T12:06:00Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 15,
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 2,
       "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
     },
     {
@@ -346,7 +346,7 @@
       "summary": "Najważniejszym pytaniem, które dorośli powinni stawiać w obliczu problematycznego korzystania przez dzieci z internetu, jest to, dlaczego tak łatwo i często zanurzają się one w cyfrowym świecie. Odpowiedzi nie można sprowadzić tylko do czasu, jaki w nim spędzają."
     },
     {
-      "title": "Istnieją trzy grupy stulatków. Co trzeci to \"uciekinier\" - Medonet",
+      "title": "Istnieją trzy grupy stulatków. Co trzeci to \"uciekinier\" - medonet.pl",
       "url": "https://www.medonet.pl/narodowy-test-zdrowia-polakow/zyj-zdrowiej/ile-lat-moze-dozyc-czlowiek-stulatkowie-robia-to-na-trzy-sposoby/7xfbxlv",
       "date": "2026-09-16T07:41:49Z",
       "source": "Medonet",
@@ -404,12 +404,20 @@
   ],
   "world": [
     {
+      "title": "AI Flags Physical Inactivity as Key Obesity Predictor in US - Medscape",
+      "url": "https://www.medscape.com/viewarticle/ai-flags-physical-inactivity-key-obesity-predictor-us-2026a1000ydw",
+      "date": "2026-09-16T12:45:57Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Physical inactivity is the single strongest predictor of obesity across US counties, according to a new AI-driven analysis explaining 78% of the variation in county-level obesity prevalence."
+    },
+    {
       "title": "Congenital infantile fibrosarcoma of the foot - BMJ Case Reports",
       "url": "https://casereports.bmj.com/content/19/9/e261623",
       "date": "2026-09-16T12:08:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Infantile fibrosarcoma (IFS) is a malignant soft tissue tumour and rarely presents in the newborn period. Congenital IFS poses a particular diagnostic challenge, as they may clinically and radiologically mimic vascular anomalies, such as haemangiomata. We present a case of a baby boy who, at birth, was noted to have a smooth mass of approximately 4 cm×4 cm on the sole of his right foot."
+      "summary": "Congenital infantile fibrosarcoma of the foot BMJ Case Reports."
     },
     {
       "title": "Occult breast carcinoma presenting as paraneoplastic opsoclonus–myoclonus–ataxia syndrome - BMJ Case Reports",
@@ -417,7 +425,7 @@
       "date": "2026-09-16T12:07:51Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Opsoclonus–myoclonus–ataxia syndrome (OMAS) is a rare immune-mediated neurological disorder in adults and is frequently associated with an underlying malignancy. We report a woman in her sixties presenting with subacute onset opsoclonus and gait ataxia. Diagnostic evaluation identified metastatic carcinoma involving the left axillary lymph nodes."
+      "summary": "Occult breast carcinoma presenting as paraneoplastic opsoclonus–myoclonus–ataxia syndrome BMJ Case Reports."
     },
     {
       "title": "U.S. reaches highest number of measles deaths in decades - STAT",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Readmission and mortality rates varied depending on residence location."
-    },
-    {
-      "title": "A fourth measles death is reported in Pennsylvania - STAT",
-      "url": "https://www.statnews.com/2026/09/15/fourth-measles-death-pennsylvania-acute-disseminated-encephalomyelitis/",
-      "date": "2026-09-15T18:46:08Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Pennsylvania officials have reported a fourth measles-associated death within the past month, the latest in an unvaccinated 18-year-old."
     }
   ],
   "guidelines": [
@@ -1022,12 +1022,12 @@
       "summary": "Explore the new clinical practice guideline for chiropractic management of cervicogenic and tension-type headaches with evidence-based treatment insights."
     },
     {
-      "title": "What is aortic dissection? Symptoms, causes and how to lower risk - heart.org",
+      "title": "What is aortic dissection? Symptoms, causes and how to lower risk - www.heart.org",
       "url": "https://www.heart.org/en/news/2026/09/14/what-is-aortic-dissection-symptoms-causes-and-how-to-lower-risk",
       "date": "2026-09-14T17:49:56Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
-      "summary": "What is aortic dissection? Symptoms, causes and how to lower risk heart.org."
+      "summary": "What is aortic dissection? Symptoms, causes and how to lower risk www.heart.org."
     },
     {
       "title": "The Chronic Kidney Disease Solution Reviews: Program Outlines Evidence-Based Approach to Evaluating Kidney Health Claims - USA Today",
@@ -1156,14 +1156,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Obwieszczenie Ministra Zdrowia z dnia 26 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie warunków wynagradzania za pracę pracowników podmiotów leczniczych działających w formie jednostki budżetowej",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/1170",
-      "date": "2026-08-26T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1170, z dniem ogłoszenia 2026-09-03."
     }
   ],
   "epidemiology": [
@@ -1852,20 +1844,20 @@
       "summary": "Current drugs shortage notification for Dexmedetomidine Hydrochloride Injection including reason for shortage, estimated resupply dates, and alternative drug therapy if available."
     },
     {
-      "title": "Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection Shortage - Drugs.com",
-      "url": "https://www.drugs.com/drug-shortages/bupivacaine-hydrochloride-epinephrine-bitartrate-injection-27",
-      "date": "2026-09-16T02:50:02Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Current drugs shortage notification for Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection including reason for shortage, estimated resupply dates, and alternative drug therapy if available."
-    },
-    {
       "title": "Bumetanide Injection Shortage - Drugs.com",
       "url": "https://www.drugs.com/drug-shortages/bumetanide-injection-25",
       "date": "2026-09-16T02:50:02Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Current drugs shortage notification for Bumetanide Injection including reason for shortage, estimated resupply dates, and alternative drug therapy if available."
+    },
+    {
+      "title": "Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection Shortage - Drugs.com",
+      "url": "https://www.drugs.com/drug-shortages/bupivacaine-hydrochloride-epinephrine-bitartrate-injection-27",
+      "date": "2026-09-16T02:50:02Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Current drugs shortage notification for Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection including reason for shortage, estimated resupply dates, and alternative drug therapy if available."
     },
     {
       "title": "Dextrose Monohydrate 5% Injection Shortage - Drugs.com",
@@ -2248,14 +2240,6 @@
   ],
   "daily_top5": [
     {
-      "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://www.nfz.gov.pl/o-nfz/rekrutacja/ogloszenia-o-prace/dk26125,3021.html",
-      "date": "2026-09-16T12:06:00Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 15,
-      "summary": "Sprawdź, jak korzystać z bezpłatnej opieki medycznej NFZ. Znajdź termin badań, zamów kartę EKUZ online i zadbaj o profilaktykę. Wszystko w jednym miejscu!"
-    },
-    {
       "title": "The First Real-World Data on the 20-Valent Pneumococcal Conjugate Vaccine - NEJM Clinician",
       "url": "https://clinician.nejm.org/first-real-world-data-20-valent-pneumococcal-conjugate-vaccine-CLINjwNA60462?show-author=true&author-id=AU030",
       "date": "2026-09-16T11:29:07Z",
@@ -2276,6 +2260,14 @@
       "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work",
       "date": "2026-09-16T10:42:17Z",
       "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "All workers have the right to a safe and healthy environment at work. There are effective actions to prevent mental health risks and support workers with mental health conditions."
+    },
+    {
+      "title": "Mental health at work - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work",
+      "date": "2026-09-16T10:42:17Z",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "All workers have the right to a safe and healthy environment at work. There are effective actions to prevent mental health risks and support workers with mental health conditions."
     },
