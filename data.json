@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T12:39:28Z",
+  "last_updated": "2026-09-16T12:40:26Z",
   "poland": [
     {
       "title": "Badanie siatkówki może pomóc wcześniej wykryć migotanie przedsionków - PolitykaZdrowotna.com",
@@ -19,7 +19,7 @@
     },
     {
       "title": "Pacjent z ZJN w centrum uwagi: jak zadbać o poprawę jego jakości życia? [PODCAST] - Puls Medycyny",
-      "url": "https://pulsmedycyny.pl/medycyna/gastroenterologia/pacjent-z-zjn-w-centrum-uwagi-jak-zadbac-o-poprawe-jego-jakosci-zycia-podcast/",
+      "url": "http://pulsmedycyny.pl/medycyna/gastroenterologia/pacjent-z-zjn-w-centrum-uwagi-jak-zadbac-o-poprawe-jego-jakosci-zycia-podcast",
       "date": "2026-09-16T11:57:00Z",
       "source": "Puls Medycyny",
       "confirmed_by": 1,
@@ -27,7 +27,7 @@
     },
     {
       "title": "Pacjent z ZJN w centrum uwagi: jak zadbać o poprawę jego jakości życia? [PODCAST] - Puls Medycyny",
-      "url": "http://pulsmedycyny.pl/medycyna/gastroenterologia/pacjent-z-zjn-w-centrum-uwagi-jak-zadbac-o-poprawe-jego-jakosci-zycia-podcast",
+      "url": "https://pulsmedycyny.pl/medycyna/gastroenterologia/pacjent-z-zjn-w-centrum-uwagi-jak-zadbac-o-poprawe-jego-jakosci-zycia-podcast/",
       "date": "2026-09-16T11:57:00Z",
       "source": "Puls Medycyny",
       "confirmed_by": 1,
@@ -409,7 +409,7 @@
       "date": "2026-09-16T12:08:15Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Congenital infantile fibrosarcoma of the foot BMJ Case Reports."
+      "summary": "Infantile fibrosarcoma (IFS) is a malignant soft tissue tumour and rarely presents in the newborn period. Congenital IFS poses a particular diagnostic challenge, as they may clinically and radiologically mimic vascular anomalies, such as haemangiomata. We present a case of a baby boy who, at birth, was noted to have a smooth mass of approximately 4 cm×4 cm on the sole of his right foot."
     },
     {
       "title": "Occult breast carcinoma presenting as paraneoplastic opsoclonus–myoclonus–ataxia syndrome - BMJ Case Reports",
@@ -417,7 +417,7 @@
       "date": "2026-09-16T12:07:51Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Occult breast carcinoma presenting as paraneoplastic opsoclonus–myoclonus–ataxia syndrome BMJ Case Reports."
+      "summary": "Opsoclonus–myoclonus–ataxia syndrome (OMAS) is a rare immune-mediated neurological disorder in adults and is frequently associated with an underlying malignancy. We report a woman in her sixties presenting with subacute onset opsoclonus and gait ataxia. Diagnostic evaluation identified metastatic carcinoma involving the left axillary lymph nodes."
     },
     {
       "title": "U.S. reaches highest number of measles deaths in decades - STAT",
@@ -1148,14 +1148,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Obwieszczenie Ministra Zdrowia z dnia 26 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie warunków wynagradzania za pracę pracowników podmiotów leczniczych działających w formie jednostki budżetowej",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/1170",
-      "date": "2026-08-26T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1170, z dniem ogłoszenia 2026-09-03."
     }
   ],
   "epidemiology": [
@@ -1852,20 +1844,20 @@
       "summary": "Current drugs shortage notification for Bumetanide Injection including reason for shortage, estimated resupply dates, and alternative drug therapy if available."
     },
     {
-      "title": "Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection Shortage - Drugs.com",
-      "url": "https://www.drugs.com/drug-shortages/bupivacaine-hydrochloride-epinephrine-bitartrate-injection-27",
-      "date": "2026-09-16T02:50:02Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Current drugs shortage notification for Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection including reason for shortage, estimated resupply dates, and alternative drug therapy if available."
-    },
-    {
       "title": "Dextrose Monohydrate 5% Injection Shortage - Drugs.com",
       "url": "https://www.drugs.com/drug-shortages/dextrose-monohydrate-5-injection-61",
       "date": "2026-09-16T02:50:02Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Current drugs shortage notification for Dextrose Monohydrate 5% Injection including reason for shortage, estimated resupply dates, and alternative drug therapy if available."
+    },
+    {
+      "title": "Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection Shortage - Drugs.com",
+      "url": "https://www.drugs.com/drug-shortages/bupivacaine-hydrochloride-epinephrine-bitartrate-injection-27",
+      "date": "2026-09-16T02:50:02Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Current drugs shortage notification for Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection including reason for shortage, estimated resupply dates, and alternative drug therapy if available."
     },
     {
       "title": "Cancer Drug Shortages Persist at All Cancer Centers - Drugs.com",
