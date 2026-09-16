@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T22:57:19Z",
+  "last_updated": "2026-09-16T22:58:12Z",
   "poland": [
     {
       "title": "Istnieją trzy grupy stulatków. Co trzeci to \"uciekinier\" - Medonet",
@@ -230,7 +230,7 @@
       "url": "https://www.mp.pl/neurologia/aktualnosci/449021,swiatowe-dni-choroby-alzheimera-w-sejmie",
       "date": "2026-09-16T13:34:34Z",
       "source": "Medycyna Praktyczna",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "W ramach obchodów Światowego Dnia Choroby Alzheimera we wtorek, 15 września w Sejmie zorganizowano debatę ekspercką „Choroby otępienne i przyszłość pokoleń – wyzwania dla polityki zdrowotnej”."
     },
     {
@@ -418,6 +418,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
+    },
+    {
+      "title": "Initial Screening for Colorectal Cancer - NEJM",
+      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMclde2600695",
+      "date": "2026-09-16T21:48:35Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Initial Screening for Colorectal Cancer NEJM."
     },
     {
       "title": "Kidney Transplantation in Highly Sensitized Persons after CAR T-Cell Therapy - NEJM",
@@ -794,14 +802,6 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Increased expression of EBV reactivation genes in B cells and MS risk genes targeted by the EBV protein EBNA-2 precedes MS attacks, linking EBV reactivation and genetic risk to the development of MS relapses."
-    },
-    {
-      "title": "Insulin Timing Can Be Flexible in CF-Related Diabetes - Medscape",
-      "url": "https://www.medscape.com/viewarticle/insulin-timing-can-be-flexible-cystic-fibrosis-related-2026a1000ybc",
-      "date": "2026-09-16T08:36:06Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "In adults with cystic fibrosis–related diabetes, insulin given after meals provides glucose control similar to that with standard mealtime dosing, offering a flexible treatment option."
     }
   ],
   "guidelines": [
@@ -1158,14 +1158,6 @@
       "summary": "Rekomendacja nr 138/2026 z dnia 10 września 2026 r. Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji w sprawie zasadności wydawania zgód na refundację produktu leczniczego Opzelura (ruksolitynib) we wskazaniu: bielactwo nabyte."
     },
     {
-      "title": "AAN/AHS Pharmacologic Treatment of Migraine Prevention Guideline Update: Quiz - medcentral.com",
-      "url": "https://www.medcentral.com/neurology/migraine/test-your-knowledge-aan-ahs-pharmacologic-treatment-of-migraine-prevention-guideline-update",
-      "date": "2026-09-11T13:34:41Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "AAN/AHS Pharmacologic Treatment of Migraine Prevention Guideline Update: Quiz medcentral.com."
-    },
-    {
       "title": "Viral Respiratory Infections - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/viral-respiratory-infections.html",
       "date": "2026-09-11T07:00:00Z",
@@ -1196,6 +1188,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 2,
       "summary": "Although arterial hypertension is the most common cause of heart failure in women, it is important to assess female-specific risk factors in the prevention of heart failure. To update yourself on these aspects, I recommend reading the ESC expert consensus statement on Prevention of heart failure in women."
+    },
+    {
+      "title": "Obwieszczenie Ministra Zdrowia z dnia 26 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie warunków wynagradzania za pracę pracowników podmiotów leczniczych działających w formie jednostki budżetowej",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/1170",
+      "date": "2026-08-26T07:00:00Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1170, z dniem ogłoszenia 2026-09-03."
     }
   ],
   "epidemiology": [
