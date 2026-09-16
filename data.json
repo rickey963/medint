@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T17:39:27Z",
+  "last_updated": "2026-09-16T17:40:28Z",
   "poland": [
     {
       "title": "WOBASZ3 pokazał słabe punkty zdrowia Polaków. \"Lekarz musi być influencerem\" - Puls Medycyny",
@@ -56,6 +56,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Karpacz 2026: terapie ograniczone w czasie przynoszą korzyści dla pacjenta i systemu ochrony zdrowia PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Start kampanii „Profilaktyka – podaj dalej” - Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie",
+      "url": "https://nio.gov.pl/start-kampanii-profilaktyka--podaj-dalej",
+      "date": "2026-09-16T15:12:12Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Zacząć wrzesień od profilaktyki? Ekspertów NIO nie trzeba do tego długo namawiać.W całej Polsce dostępnych jest obecnie ponad 800 tysięcy wolnych terminów na dwa ważne badania profilaktyczne – ponad 384 tys. na mammografię i ponad 445 tys."
     },
     {
       "title": "Molestowanie, receptomaty, podanie toksycznej substancji – przewinienia niektórych lekarzy szokują. Sankcje, a raczej ich brak – również - Puls Medycyny",
@@ -150,7 +158,7 @@
       "url": "https://www.mp.pl/neurologia/aktualnosci/449021,swiatowe-dni-choroby-alzheimera-w-sejmie",
       "date": "2026-09-16T13:34:46Z",
       "source": "Medycyna Praktyczna",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "W ramach obchodów Światowego Dnia Choroby Alzheimera we wtorek, 15 września w Sejmie zorganizowano debatę ekspercką „Choroby otępienne i przyszłość pokoleń – wyzwania dla polityki zdrowotnej”."
     },
     {
@@ -392,14 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Droga do odkrycia leku często zależała od przypadku, intuicji i lat badań. Sztuczna inteligencja może zmienić każdy z tych elementów. - AI pozwala prowadzić eksperymenty na niespotykaną dotąd skalę, szybciej znajdować obiecujące cząsteczki i odkrywać zależności, których człowiek nie jest w stanie dostrzec - mówi dr Piotr Byrski, założyciel Molecule.one."
-    },
-    {
-      "title": "Lekarze mówią „tak” dla e-konsyliów - Podyplomie.pl",
-      "url": "https://podyplomie.pl/aktualnosci/lekarze-mowia-tak-dla-e-konsyliow",
-      "date": "2026-09-16T10:18:00Z",
-      "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
-      "summary": "Prezydium Naczelnej Rady Lekarskiej pozytywnie oceniło możliwość zdalnych konsultacji specjalistycznych."
     }
   ],
   "world": [
@@ -1142,11 +1142,19 @@
       "summary": "AAN/AHS Pharmacologic Treatment of Migraine Prevention Guideline Update: Quiz MedCentral."
     },
     {
+      "title": "Viral Respiratory Infections - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/viral-respiratory-infections.html",
+      "date": "2026-09-11T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 4,
+      "summary": "Viral Respiratory Infections Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-09-11T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 1,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1158,28 +1166,12 @@
       "summary": "Information for Travelers Returning from Ebola-Affected Areas Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Appendix A: Type and Duration of Precautions Recommended for Selected Infections and Conditions - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html",
-      "date": "2026-09-11T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Appendix A: Type and Duration of Precautions Recommended for Selected Infections and Conditions Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Prezydium NRL: potrzebne jasne zasady dokumentowania e-konsultacji - NIL",
       "url": "https://nil.org.pl/aktualnosci/9399-prezydium-nrl-potrzebne-jasne-zasady-dokumentowania-e-konsultacji",
       "date": "2026-09-11T07:00:00Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Naczelna Izba Lekarska."
-    },
-    {
-      "title": "Obwieszczenie Ministra Zdrowia z dnia 26 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie warunków wynagradzania za pracę pracowników podmiotów leczniczych działających w formie jednostki budżetowej",
-      "url": "https://dziennikustaw.gov.pl/DU/2026/1170",
-      "date": "2026-08-26T07:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1170, z dniem ogłoszenia 2026-09-03."
     }
   ],
   "epidemiology": [
