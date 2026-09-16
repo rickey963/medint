@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T17:08:10Z",
+  "last_updated": "2026-09-16T17:09:00Z",
   "poland": [
     {
       "title": "WOBASZ3 pokazał słabe punkty zdrowia Polaków. \"Lekarz musi być influencerem\" - Puls Medycyny",
@@ -56,14 +56,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Karpacz 2026: terapie ograniczone w czasie przynoszą korzyści dla pacjenta i systemu ochrony zdrowia PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Start kampanii „Profilaktyka – podaj dalej” - Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie",
-      "url": "https://nio.gov.pl/start-kampanii-profilaktyka--podaj-dalej",
-      "date": "2026-09-16T15:12:12Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Zacząć wrzesień od profilaktyki? Ekspertów NIO nie trzeba do tego długo namawiać.W całej Polsce dostępnych jest obecnie ponad 800 tysięcy wolnych terminów na dwa ważne badania profilaktyczne – ponad 384 tys. na mammografię i ponad 445 tys."
     },
     {
       "title": "Molestowanie, receptomaty, podanie toksycznej substancji – przewinienia niektórych lekarzy szokują. Sankcje, a raczej ich brak – również - Puls Medycyny",
@@ -150,7 +142,7 @@
       "url": "https://www.mp.pl/neurologia/aktualnosci/449021,swiatowe-dni-choroby-alzheimera-w-sejmie",
       "date": "2026-09-16T13:34:46Z",
       "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "W ramach obchodów Światowego Dnia Choroby Alzheimera we wtorek, 15 września w Sejmie zorganizowano debatę ekspercką „Choroby otępienne i przyszłość pokoleń – wyzwania dla polityki zdrowotnej”."
     },
     {
@@ -400,6 +392,14 @@
       "source": "Medycyna po Dyplomie",
       "confirmed_by": 1,
       "summary": "Prezydium Naczelnej Rady Lekarskiej pozytywnie oceniło możliwość zdalnych konsultacji specjalistycznych."
+    },
+    {
+      "title": "Podrabiane leki – kolejni zatrzymani - Z kraju - Kurier - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/kurier/448854,podrabiane-leki-kolejni-zatrzymani",
+      "date": "2026-09-16T09:54:15Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Funkcjonariusze Centralnego Biura Zwalczania Cyberprzestępczości zatrzymali 4 członków zorganizowanej grupy przestępczej, handlujących w sieci podrabianymi lekami."
     }
   ],
   "world": [
@@ -1148,14 +1148,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "AAN/AHS Pharmacologic Treatment of Migraine Prevention Guideline Update: Quiz MedCentral."
-    },
-    {
-      "title": "Komunikat w sprawie posiedzenia Rady ds. Taryfikacji w dniu 3 września 2026 r. - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://www.aotm.gov.pl/aktualnosci/najnowsze/komunikat-w-sprawie-posiedzenia-rady-ds-taryfikacji-w-dniu-3-wrzesnia-2026-r/",
-      "date": "2026-09-11T13:15:22Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Na posiedzeniu w dniu 03.09.2026 r. Rada zapoznała się z wynikami prac dotyczących świadczeń gwarantowanych z zakresu leczenia szpitalnego, w których istotny koszt stanowi wyrób medyczny część I – systemy robotyczne. Rada przeprowadziła dyskusję na temat przedstawionego materiału."
     },
     {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -2262,6 +2254,14 @@
       "summary": "In July and August, two fellows from ECDC’s long-standing European Programme for Intervention Epidemiology Training (EPIET) were deployed to South Sudan through the EU Health Task Force (EUHTF) and WHO’s Global Outbreak Alert and Response Network (GOARN), to support the country’s Ebola preparedness and strengthen surveillance."
     },
     {
+      "title": "Podrabiane leki – kolejni zatrzymani - Z kraju - Kurier - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/kurier/448854,podrabiane-leki-kolejni-zatrzymani",
+      "date": "2026-09-16T09:54:15Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Funkcjonariusze Centralnego Biura Zwalczania Cyberprzestępczości zatrzymali 4 członków zorganizowanej grupy przestępczej, handlujących w sieci podrabianymi lekami."
+    },
+    {
       "title": "The risk of mpox false positive results in high transmission settings: evidence from a multi-site observational study in DR Congo - The Lancet",
       "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00411-1/fulltext",
       "date": "2026-09-16T01:49:40Z",
@@ -2300,14 +2300,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Steps to Protect from Ebola While Waiting for Help: Flipbook Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Safely Caring for Someone with Suspected Ebola: Flipbook - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/communication-resources/caring-for-someone-flipbook.html",
-      "date": "2026-09-14T16:14:17Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Safely Caring for Someone with Suspected Ebola: Flipbook Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
   "daily_top5": [
