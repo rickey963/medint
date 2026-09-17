@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T15:22:27Z",
+  "last_updated": "2026-09-17T15:24:32Z",
   "poland": [
     {
       "title": "Te dwa czynniki zwiększają ryzyko demencji. Sprawdź, czy też jesteś w grupie ryzyka - Medonet",
@@ -480,7 +480,7 @@
       "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
       "date": "2026-09-17T13:03:20Z",
       "source": "WHO",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     },
     {
@@ -1208,6 +1208,14 @@
   ],
   "epidemiology": [
     {
+      "title": "International Snakebite Awareness Day 2026 (ISBAD ’26) - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/19/default-calendar/international-snakebite-awareness-day-2026--isbad-26",
+      "date": "2026-09-17T15:15:48Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Snakebite envenoming is a neglected tropical disease affecting poor people in rural communities, particularly people of working age and children. Each year, nearly 5.4 million people are bitten by snakes worldwide, resulting in over 80,000 deaths and leaving three times that number of survivors with disabilities. Prompt administration of antivenoms can save lives and limit the long-term consequences of envenoming."
+    },
+    {
       "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
       "date": "2026-09-17T13:03:20Z",
@@ -1598,17 +1606,17 @@
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
-    },
-    {
-      "title": "Cyclospora Case Data | Cyclosporiasis - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/cyclosporiasis/cases/index.html",
-      "date": "2026-09-15T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Cyclospora Case Data | Cyclosporiasis Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
   "clinical_trials": [
+    {
+      "title": "Altis Labs’ AI software detected treatment benefit earlier in oncology trial - Clinical Trials Arena",
+      "url": "https://www.clinicaltrialsarena.com/news/altis-labs-ai-software-detected-treatment-benefit-earlier-in-oncology-trial/",
+      "date": "2026-09-17T15:20:11Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Altis Labs’ AI software detected treatment benefit earlier in oncology trial Clinical Trials Arena."
+    },
     {
       "title": "Optimi Health plans Phase III trial of PTSD therapy - Clinical Trials Arena",
       "url": "https://www.clinicaltrialsarena.com/news/optimi-health-plans-ptsd-phase-iii-trial/",
@@ -2000,14 +2008,6 @@
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "Definium tees up regulatory submission for psychedelic on Phase III hat trick Clinical Trials Arena."
-    },
-    {
-      "title": "BioNTech and OncoC4 report median OS data from RESERVE-003 Phase III trial - Clinical Trials Arena",
-      "url": "https://www.clinicaltrialsarena.com/news/biontech-oncoc4-reserve-003-trial/",
-      "date": "2026-09-15T10:51:32Z",
-      "source": "Clinical Trials Arena",
-      "confirmed_by": 1,
-      "summary": "BioNTech and OncoC4 report median OS data from RESERVE-003 Phase III trial Clinical Trials Arena."
     }
   ],
   "pharma_market": [
@@ -2472,19 +2472,19 @@
   ],
   "daily_top5": [
     {
-      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
-      "date": "2026-09-17T13:03:20Z",
-      "source": "WHO",
+      "title": "International Snakebite Awareness Day 2026 (ISBAD ’26) - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/19/default-calendar/international-snakebite-awareness-day-2026--isbad-26",
+      "date": "2026-09-17T15:15:48Z",
+      "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
-      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
+      "summary": "Snakebite envenoming is a neglected tropical disease affecting poor people in rural communities, particularly people of working age and children. Each year, nearly 5.4 million people are bitten by snakes worldwide, resulting in over 80,000 deaths and leaving three times that number of survivors with disabilities. Prompt administration of antivenoms can save lives and limit the long-term consequences of envenoming."
     },
     {
       "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
       "date": "2026-09-17T13:03:20Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
+      "source": "WHO",
+      "confirmed_by": 2,
       "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     },
     {
