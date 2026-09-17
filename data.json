@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T14:35:01Z",
+  "last_updated": "2026-09-17T14:36:08Z",
   "poland": [
     {
       "title": "Mamy 16 nowych profesorów nauk medycznych i nauk o zdrowiu - Puls Medycyny",
@@ -21,6 +21,14 @@
       "title": "Departament e-Zdrowia zajmie się cyberbezpieczeństwem w szerszym zakresie - Termedia",
       "url": "https://www.termedia.pl/mz/Departament-e-Zdrowia-zajmie-sie-cyberbezpieczenstwem-w-szerszym-zakresie-,69056.html",
       "date": "2026-09-17T14:17:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Ministerstwo Zdrowia rozszerza obowiązki Departamentu e-Zdrowia w zakresie walki z cyberzagrożeniami. Zmiany znalazły się w znowelizowanym zarządzeniu."
+    },
+    {
+      "title": "Departament e-Zdrowia zajmie się cyberbezpieczeństwem - Termedia",
+      "url": "https://www.termedia.pl/mz/Departament-e-Zdrowia-zajmie-sie-cyberbezpieczenstwem,69056.html",
+      "date": "2026-09-17T14:14:18Z",
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Ministerstwo Zdrowia rozszerza obowiązki Departamentu e-Zdrowia w zakresie walki z cyberzagrożeniami. Zmiany znalazły się w znowelizowanym zarządzeniu."
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Problematyczne korzystanie z technologii może być objawem wcześniejszych trudności intrapsychicznych czy relacyjnych, a nie wyizolowaną chorobą, która pojawia się znikąd – mówi dr Ewa Wojtynkiewicz."
-    },
-    {
-      "title": "Wyższa dawka nusinersenu dla chorych na SMA. Refundacja od 1 października - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/wyzsza-dawka-nusinersenu-dla-chorych-na-sma-refundacja-od-1-pazdziernika/",
-      "date": "2026-09-17T06:57:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Wyższe dawki nusinersenu dla chorych na SMA będą refundowane od 1 października 2026 r. w programie lekowym B.102. Sprawdź nowy schemat."
     }
   ],
   "world": [
@@ -473,7 +473,7 @@
       "date": "2026-09-17T10:59:11Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Doctors should avoid embracing every new AI system uncritically or refusing to use AI on principle, says Daniel Sokol AI is already being introduced into workflows in the NHS, and in the coming years it will undoubtedly become part of the day-to-day practice of most doctors. But what happens when AI contributes to patient harm? Unlike doctors, an AI system cannot be sued under English law."
+      "summary": "Six rules for doctors using AI The BMJ."
     },
     {
       "title": "Novel Screen Quickly IDs Mental Illness, SUD, Suicide Risk - Medscape",
