@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T10:01:11Z",
+  "last_updated": "2026-09-17T10:04:58Z",
   "poland": [
     {
       "title": "Kobietom rzadziej niż mężczyznom proponuje się aktywne leczenie tych samych chorób - Ze świata - Kurier - Medycyna Praktyczna",
@@ -404,6 +404,22 @@
   ],
   "world": [
     {
+      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - who.int",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
+      "date": "2026-09-17T10:03:52Z",
+      "source": "WHO",
+      "confirmed_by": 2,
+      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
+    },
+    {
+      "title": "Mild Phenotype Eliminated in New HF Guidelines - Medscape",
+      "url": "https://www.medscape.com/viewarticle/new-esc-guidelines-eliminate-phenotype-adopt-stages-hf-2026a1000yjc",
+      "date": "2026-09-17T09:58:19Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "There are many changes in the new European Society of Cardiology heart failure guidelines, but the elimination of one of the three phenotypes — mild ejection fraction — is among the most notable."
+    },
+    {
       "title": "Waist Size, Not Just BMI, Predicts Mortality in Older Adults - Medscape",
       "url": "https://www.medscape.com/viewarticle/waist-size-not-just-bmi-predicts-mortality-older-adults-2026a1000yk8",
       "date": "2026-09-17T09:57:35Z",
@@ -426,14 +442,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "A breast cancer drug from AstraZeneca will now be available in England after a pricing deal was reached, in part a result of the U.S.-U.K. pharma pact."
-    },
-    {
-      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - who.int",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
-      "date": "2026-09-17T07:12:57Z",
-      "source": "WHO",
-      "confirmed_by": 2,
-      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     },
     {
       "title": "Keto Diet Boosts Liver Health More Than Others in Obesity - Medscape",
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "The FDA is opening applications for a pilot program designed to shorten the time it takes for drugmakers to begin testing their products in humans."
-    },
-    {
-      "title": "As-Needed Allergic Rhinitis Meds Comparable to Daily Use - Medscape",
-      "url": "https://www.medscape.com/viewarticle/needed-vs-regular-medication-use-allergic-rhinitis-2026a1000yen",
-      "date": "2026-09-16T14:20:38Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Patients with allergic rhinitis who use medication as needed can achieve symptom control and treatment satisfaction comparable to those achieved by patients who use them daily."
     }
   ],
   "guidelines": [
@@ -1208,6 +1208,14 @@
   ],
   "epidemiology": [
     {
+      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - who.int",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
+      "date": "2026-09-17T10:03:52Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
+    },
+    {
       "title": "Virtual launch: New report on ethics oversight of AI-related health research - who.int",
       "url": "https://www.who.int/news-room/events/detail/2026/09/21/default-calendar/virtual-launch-new-report-on-ethics-oversight-of-ai-related-health-research",
       "date": "2026-09-17T09:26:37Z",
@@ -1222,14 +1230,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "WHO will host a virtual launch of its new report, Artificial Intelligence-related Health Research: Ethics Review and Oversight, which provides practical recommendations for researchers, ethics committees, regulators, funders and policy-makers on the responsible conduct of AI-enabled health research."
-    },
-    {
-      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - who.int",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
-      "date": "2026-09-17T07:12:57Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     },
     {
       "title": "30th meeting of the Malaria Policy Advisory Group (MPAG) - who.int",
@@ -2482,7 +2482,7 @@
     {
       "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - who.int",
       "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
-      "date": "2026-09-17T07:12:57Z",
+      "date": "2026-09-17T10:03:52Z",
       "source": "WHO",
       "confirmed_by": 2,
       "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
