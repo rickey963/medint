@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T16:22:49Z",
+  "last_updated": "2026-09-17T16:23:52Z",
   "poland": [
     {
       "title": "AI przeanalizowała 7000 leków. Jeden działał na lekooporne pneumokoki - Alert Medyczny",
@@ -404,12 +404,20 @@
   ],
   "world": [
     {
+      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
+      "date": "2026-09-17T16:05:56Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
+    },
+    {
       "title": "US-UK drug pricing deal: MPs urge National Audit Office to investigate costs - bmj.com",
       "url": "https://www.bmj.com/content/394/bmj-2026-100894",
       "date": "2026-09-17T15:06:56Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "US-UK drug pricing deal: MPs urge National Audit Office to investigate costs bmj.com."
+      "summary": "The cost implications of the US-UK drug pricing deal must be rapidly investigated by the UK’s public spending watchdog, the heads of six different parliamentary committees have urged. The UK signed a drug trade deal with the US in December 2025 to reduce the effect of tariffs put in place by US president Donald Trump.1 As part of the deal, ministers agreed to raise the cost effectiveness thresholds used by the National Institute for Health and Care Excellence (NICE). These thresholds will rise from £20 000 to £30 000 per quality adjusted life year (QALY) to £25 000 to £35 000 per QALY."
     },
     {
       "title": "Kennedy names new members to preventive services task force, after months of vacancies - STAT",
@@ -476,14 +484,6 @@
       "summary": "Mario covers technology in health care, including FDA regulation of artificial intelligence; how Medicare pays for health tech; the use of AI in clinical care; mental health chatbots; and consumer wearables. He’s also the co-author of the free, twice weekly STAT Health Tech newsletter . You can reach Mario on Signal at mariojoze.13."
     },
     {
-      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
-      "date": "2026-09-17T13:03:20Z",
-      "source": "WHO",
-      "confirmed_by": 2,
-      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
-    },
-    {
       "title": "Pharmalittle: We’re reading about FDA hiring delays, a new Bavarian Nordic CEO, and more - STAT",
       "url": "https://www.statnews.com/pharmalot/2026/09/17/fda-hiring-delays-bavarian-nordic-appoints-ceo/",
       "date": "2026-09-17T12:04:39Z",
@@ -521,7 +521,7 @@
       "date": "2026-09-17T10:59:11Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Six rules for doctors using AI bmj.com."
+      "summary": "Doctors should avoid embracing every new AI system uncritically or refusing to use AI on principle, says Daniel Sokol AI is already being introduced into workflows in the NHS, and in the coming years it will undoubtedly become part of the day-to-day practice of most doctors. But what happens when AI contributes to patient harm? Unlike doctors, an AI system cannot be sued under English law."
     },
     {
       "title": "Novel Screen Quickly IDs Mental Illness, SUD, Suicide Risk - Medscape",
@@ -545,7 +545,7 @@
       "date": "2026-09-17T10:37:41Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Assisted dying: Jersey won’t be a “Dignitas-style model” for Brits, says Sarah Wollaston bmj.com."
+      "summary": "Jersey will not provide a “Dignitas-style model” for British citizens seeking an assisted death after the bill for England and Wales was rejected,1 the head of the island’s implementation committee has told The BMJ . But Sarah Wollaston, the doctor and former British MP now overseeing the rollout of the Channel Island’s assisted dying service, said that Jersey could provide a template for UK nations if they decide to revisit the debate again. In February, Jersey passed a law to introduce an assisted dying service—becoming the first UK and Channel Island jurisdiction to do so.2 Wollaston, a former GP and MP who served as chair of the commons health and care select committee, is now charged with ensuring that the service is introduced safely and effectively as chair of Jersey’s assisted dying assurance and delivery committee."
     },
     {
       "title": "A Sellas immunotherapy study, long delayed, will end in failure - STAT",
@@ -569,7 +569,7 @@
       "date": "2026-09-17T10:18:28Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Hazel Thornton: patient advocate who campaigned for informed choice bmj.com."
+      "summary": "Hazel Thornton returned from a holiday in France in 1991 to find an invitation to attend Essex County Hospital in Colchester for a routine breast scan. Like many, she found the prospect slightly unnerving. Yet she had more reason than most to worry: surgery for a malignant melanoma some years earlier had left a hole in her leg the size of an apple."
     },
     {
       "title": "Mild Phenotype Eliminated in New HF Guidelines - Medscape",
@@ -1208,6 +1208,14 @@
   ],
   "epidemiology": [
     {
+      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
+      "date": "2026-09-17T16:05:56Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
+    },
+    {
       "title": "Genomic Epidemiology of Salmonella enterica Serovar Hadar Strain Linked to Poultry-Associated Salmonellosis Outbreaks, United States - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0501",
       "date": "2026-09-17T15:36:29Z",
@@ -1238,14 +1246,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Snakebite envenoming is a neglected tropical disease affecting poor people in rural communities, particularly people of working age and children. Each year, nearly 5.4 million people are bitten by snakes worldwide, resulting in over 80,000 deaths and leaving three times that number of survivors with disabilities. Prompt administration of antivenoms can save lives and limit the long-term consequences of envenoming."
-    },
-    {
-      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
-      "date": "2026-09-17T13:03:20Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     },
     {
       "title": "Virtual launch: New report on ethics oversight of AI-related health research - World Health Organization (WHO)",
@@ -2012,6 +2012,14 @@
   ],
   "pharma_market": [
     {
+      "title": "What We’re Reading - BioPharma Dive",
+      "url": "https://www.biopharmadive.com/what-we-are-reading/",
+      "date": "2026-09-17T16:19:54Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "BioPharma."
+    },
+    {
       "title": "North Immunology joins biotech reverse merger boom with Aethlon deal - BioPharma Dive",
       "url": "https://www.biopharmadive.com/news/north-immunology-aethlon-biotech-reverse-merger-eczema-drug/830631/",
       "date": "2026-09-17T16:07:30Z",
@@ -2402,14 +2410,6 @@
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "The Danish drugmaker will use Claude Science as part of a goal to become \"the world’s most AI-driven healthcare company.\"."
-    },
-    {
-      "title": "Orphan Drug Hopefuls Navepegritide And Norucholic Acid Face EMA Oral Explanations - insights.citeline.com",
-      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/product-reviews/eu-chmp/orphan-drug-hopefuls-navepegritide-and-norucholic-acid-face-ema-oral-explanations-ET6JVULOJNDEFFGGLWWKRQIF6M/",
-      "date": "2026-09-16T15:39:44Z",
-      "source": "Pink Sheet",
-      "confirmed_by": 1,
-      "summary": "The European Medicines Agency has scheduled oral explanation meetings this week for three products, including rare disease therapies from Ascendis Pharma and Dr Falk Pharma."
     }
   ],
   "critical_alerts": [
@@ -2464,19 +2464,19 @@
   ],
   "daily_top5": [
     {
-      "title": "Genomic Epidemiology of Salmonella enterica Serovar Hadar Strain Linked to Poultry-Associated Salmonellosis Outbreaks, United States - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0501",
-      "date": "2026-09-17T15:36:29Z",
-      "source": "CDC Outbreaks",
+      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
+      "date": "2026-09-17T16:05:56Z",
+      "source": "WHO",
       "confirmed_by": 1,
-      "summary": "Genomic Epidemiology of Salmonella Hadar."
+      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     },
     {
       "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
-      "date": "2026-09-17T13:03:20Z",
-      "source": "WHO",
-      "confirmed_by": 2,
+      "date": "2026-09-17T16:05:56Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
       "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     },
     {
