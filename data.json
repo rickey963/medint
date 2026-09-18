@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T14:15:22Z",
+  "last_updated": "2026-09-18T14:16:18Z",
   "poland": [
     {
       "title": "Prof. Nitsch-Osuch: Dorośli również potrzebują kalendarza szczepień - PolitykaZdrowotna.com",
@@ -205,8 +205,8 @@
       "title": "Młodzież i alkohol – wielkie ryzyko - pacjent.gov.pl",
       "url": "https://pacjent.gov.pl/aktualnosc/mlodziez-i-alkohol-wielkie-ryzyko",
       "date": "2026-09-18T09:22:19Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
+      "source": "Internetowe Konto Pacjenta",
+      "confirmed_by": 2,
       "summary": "Picie alkoholu przez młodzież szkolną to istotny problem, który dotyczy chłopców i dziewcząt. Zagraża ich zdrowiu i prawidłowemu rozwojowi."
     },
     {
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Drug-Induced Lupus: Predicting Systemic Disease Risk - Medscape",
+      "url": "https://www.medscape.com/viewarticle/drug-induced-lupus-predicting-systemic-disease-risk-2026a1000yx1",
+      "date": "2026-09-18T14:14:55Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Certain antibodies and systemic symptoms at diagnosis are more frequent in patients with drug-induced subacute cutaneous lupus who develop systemic lupus erythematosus."
+    },
+    {
       "title": "Roche expands its Boston footprint with new research center - STAT",
       "url": "https://www.statnews.com/2026/09/18/biotech-news-roche-expands-it-boston-footprint-with-research-center/",
       "date": "2026-09-18T13:43:52Z",
@@ -428,7 +436,7 @@
       "summary": "A new study finds nearly 1 in 5 children with congenital ptosis — a condition causing drooping eyelids — are diagnosed with ADHD, a rate far above that seen in the general pediatric population."
     },
     {
-      "title": "Myles David Buckingham Stephens - The BMJ",
+      "title": "Myles David Buckingham Stephens - bmj.com",
       "url": "http://www.bmj.com/content/394/bmj-2026-100843.short?rss=1",
       "date": "2026-09-18T12:33:07Z",
       "source": "The BMJ",
@@ -476,7 +484,7 @@
       "summary": "Bed rest and activity restriction are recommended in nearly half of US pregnancies, despite professional society guidance against routine use."
     },
     {
-      "title": "Fragmentation of care worsens outcomes in cellulitis management - The BMJ",
+      "title": "Fragmentation of care worsens outcomes in cellulitis management - bmj.com",
       "url": "https://www.bmj.com/content/394/bmj-2026-100811",
       "date": "2026-09-18T11:35:19Z",
       "source": "The BMJ",
@@ -484,7 +492,7 @@
       "summary": "Improving diagnosis and management must be matched by greater attention to health equity and recurrence prevention Cellulitis is one of the most common skin and soft tissue infections, with over 100 000 patients admitted to hospital annually in England.1 There are multiple challenges across the patient journey, which are worsened by inequities and fragmentation of care. One of the key challenges is accurate diagnosis. Cellulitis remains a clinical diagnosis without a validated diagnostic test, so misdiagnosis is common, with approximately 40% of patients eventually receiving an alternative diagnosis.2 Clinicians might default to a diagnosis of cellulitis when presented with an erythematous lower limb because alternative diagnoses are less familiar.3 The linked practice pointer by Yadav and colleagues (doi:10.1136/bmj-2026-100505) gives a practical diagnostic approach.4 Key mimics include stasis dermatitis, eczema, and oedema or lymphoedema; these conditions might coexist with cellulitis, which compounds the uncertainty of diagnosis."
     },
     {
-      "title": "Advanced CAMH Dietitian job with Cambridgeshire & Peterborough NHS Foundation Trust (Health Careers) | 849115 - The BMJ",
+      "title": "Advanced CAMH Dietitian job with Cambridgeshire & Peterborough NHS Foundation Trust (Health Careers) | 849115 - bmj.com",
       "url": "https://www.bmj.com/healthcareers/job/849115/advanced-camh-dietitian?LinkSource=SimilarJobPlatform",
       "date": "2026-09-18T10:50:12Z",
       "source": "The BMJ",
@@ -532,7 +540,7 @@
       "summary": "Rudimentary horn pregnancy mimicking tubal ectopic pregnancy: a diagnostic dilemma BMJ Case Reports."
     },
     {
-      "title": "UK maternity inquiries over 25 years—or 100? - The BMJ",
+      "title": "UK maternity inquiries over 25 years—or 100? - bmj.com",
       "url": "https://www.bmj.com/content/394/bmj-2026-100839",
       "date": "2026-09-18T09:16:39Z",
       "source": "The BMJ",
@@ -588,12 +596,12 @@
       "summary": "The burden of noncommunicable diseases (NCDs) is increasing rapidly across the African Region, posing a significant threat to health systems, economic development, and population well-being."
     },
     {
-      "title": "Cardiac rehabilitation cuts hospital admissions and heart attack risk - medicalxpress.com",
+      "title": "Cardiac rehabilitation cuts hospital admissions and heart attack risk - Medical Xpress",
       "url": "https://medicalxpress.com/news/2026-09-cardiac-hospital-admissions-heart.html",
       "date": "2026-09-18T00:00:07Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Cardiac rehabilitation cuts hospital admissions and heart attack risk medicalxpress.com."
+      "summary": "Cardiac rehabilitation cuts hospital admissions and heart attack risk Medical Xpress."
     },
     {
       "title": "The unmet needs of people living with severe asthma - The Lancet",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Jersey will not provide a “Dignitas-style model” for British citizens seeking an assisted death after the bill for England and Wales was rejected,1 the head of the island’s implementation committee has told The BMJ . But Sarah Wollaston, the doctor and former British MP now overseeing the rollout of the Channel Island’s assisted dying service, said that Jersey could provide a template for UK nations if they decide to revisit the debate again. In February, Jersey passed a law to introduce an assisted dying service—becoming the first UK and Channel Island jurisdiction to do so.2 Wollaston, a former GP and MP who served as chair of the commons health and care select committee, is now charged with ensuring that the service is introduced safely and effectively as chair of Jersey’s assisted dying assurance and delivery committee."
-    },
-    {
-      "title": "Six rules for doctors using AI - The BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100883/peer-review",
-      "date": "2026-09-17T13:43:19Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Doctors should avoid embracing every new AI system uncritically or refusing to use AI on principle, says Daniel Sokol AI is already being introduced into workflows in the NHS, and in the coming years it will undoubtedly become part of the day-to-day practice of most doctors. But what happens when AI contributes to patient harm? Unlike doctors, an AI system cannot be sued under English law."
     }
   ],
   "guidelines": [
@@ -870,12 +870,12 @@
       "summary": "The Pentagon issued new guidance late Thursday instructing mandatory testosterone deficiency screening for male active-duty and ​reserve service members over the age of 30 after temporarily rescind…."
     },
     {
-      "title": "New guidance puts diabetes distress assessment alongside glucose care for adults - medicalxpress.com",
+      "title": "New guidance puts diabetes distress assessment alongside glucose care for adults - Medical Xpress",
       "url": "https://medicalxpress.com/news/2026-09-guidance-diabetes-distress-glucose-adults.html",
       "date": "2026-09-18T01:40:01Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "New guidance puts diabetes distress assessment alongside glucose care for adults medicalxpress.com."
+      "summary": "New guidance puts diabetes distress assessment alongside glucose care for adults Medical Xpress."
     },
     {
       "title": "How to reveal your market access blind spots - NICE website",
@@ -942,7 +942,7 @@
       "summary": "Acute kidney injury (AKI) is a common and severe complication in the intensive care unit (ICU). Due to its high incidence, strong correlation with poor prognosis, and substantial consumption of medical resources, AKI has become one of the central challenges in modern critical care medicine."
     },
     {
-      "title": "ASTRO Issues First Clinical Practice Guideline on Radiation for Bladder Cancer - CancerNetwork",
+      "title": "ASTRO Issues First Clinical Practice Guideline on Radiation for Bladder Cancer - cancernetwork.com",
       "url": "https://www.cancernetwork.com/view/astro-issues-first-clinical-practice-guideline-on-radiation-for-bladder-cancer",
       "date": "2026-09-17T16:06:36Z",
       "source": "Wytyczne kliniczne",
@@ -1138,7 +1138,7 @@
       "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001211",
       "date": "2026-09-16T10:57:11Z",
       "source": "ISAP",
-      "confirmed_by": 6,
+      "confirmed_by": 5,
       "summary": "To regain access, please make sure that cookies and JavaScript are enabled before reloading the page."
     },
     {
@@ -1642,12 +1642,12 @@
       "summary": "Podcast: What’s new in pulmonary fibrosis: Insights from ERS 2026 Clinical Trials Arena."
     },
     {
-      "title": "What \"Patient Voice\" Actually Requires: Beyond the Buzzword - Applied Clinical Trials Online",
+      "title": "What \"Patient Voice\" Actually Requires: Beyond the Buzzword - appliedclinicaltrialsonline.com",
       "url": "https://www.appliedclinicaltrialsonline.com/view/patient-voice-requires-beyond-buzzword",
       "date": "2026-09-17T18:48:02Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "What \"Patient Voice\" Actually Requires: Beyond the Buzzword Applied Clinical Trials Online."
+      "summary": "What \"Patient Voice\" Actually Requires: Beyond the Buzzword appliedclinicaltrialsonline.com."
     },
     {
       "title": "Rama Kondru, PhD - Applied Clinical Trials Online",
@@ -1666,12 +1666,12 @@
       "summary": "Altis Labs’ AI software detected treatment benefit earlier in oncology trial Clinical Trials Arena."
     },
     {
-      "title": "ACT Brief: Expedited IND Pilot Launch, Operating Model Importance, and Readiness Prediction - Applied Clinical Trials Online",
+      "title": "ACT Brief: Expedited IND Pilot Launch, Operating Model Importance, and Readiness Prediction - appliedclinicaltrialsonline.com",
       "url": "https://www.appliedclinicaltrialsonline.com/view/expedited-ind-pilot-launch-operating-model-importance-readiness-prediction",
       "date": "2026-09-17T10:40:21Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "ACT Brief: Expedited IND Pilot Launch, Operating Model Importance, and Readiness Prediction Applied Clinical Trials Online."
+      "summary": "ACT Brief: Expedited IND Pilot Launch, Operating Model Importance, and Readiness Prediction appliedclinicaltrialsonline.com."
     },
     {
       "title": "SpliSense begins Phase IIb SPL84 trial for cystic fibrosis - Clinical Trials Arena",
@@ -1978,12 +1978,12 @@
       "summary": "Study Details | NCT07823426 | Cervical Spinal Cord Signal Abnormalities in Patients With Cervical Radicular Pain ClinicalTrials.gov."
     },
     {
-      "title": "Revenue Recognition Risk in Contract Research Organizations - Applied Clinical Trials Online",
+      "title": "Revenue Recognition Risk in Contract Research Organizations - appliedclinicaltrialsonline.com",
       "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
       "date": "2026-09-17T00:49:48Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Revenue Recognition Risk in Contract Research Organizations Applied Clinical Trials Online."
+      "summary": "Revenue Recognition Risk in Contract Research Organizations appliedclinicaltrialsonline.com."
     },
     {
       "title": "Study Details | NCT07822971 | Impact of an On-site Simulation-based Training Programme on Adherence to Standard Precautions and Healthcare-associated Infections in Adult Intensive Care - ClinicalTrials.gov",
@@ -2044,20 +2044,20 @@
       "summary": "Marea’s acquisition by Lisata, alongside a $225 million financing deal, will back development of a pair of medicines in mid-stage testing for cardiovascular and endocrine conditions."
     },
     {
-      "title": "Anzupgo - opinion on variation to marketing authorisation - ema.europa.eu",
-      "url": "https://www.ema.europa.eu/en/medicines/human/variation/anzupgo",
-      "date": "2026-09-18T10:05:00Z",
-      "source": "EMA",
-      "confirmed_by": 1,
-      "summary": "On 17 September 2026, the Committee for Medicinal Products for Human Use (CHMP) adopted a positive opinion recommending a change to the terms of the marketing authorisation for the medicinal product Anzupgo. The marketing authorisation holder for this medicinal product is LEO PHARMA A/S. The CHMP adopted an extension to the existing indication as follows: Anzupgo is indicated for the treatment of moderate to severe chronic hand eczema (CHE) in adults and adolescents 12 years and older for whom topical corticosteroids are inadequate or inappropriate (see section 5.1)."
-    },
-    {
       "title": "Ocrevus - opinion on variation to marketing authorisation - European Medicines Agency (EMA)",
       "url": "https://www.ema.europa.eu/en/medicines/human/variation/ocrevus",
       "date": "2026-09-18T10:05:00Z",
       "source": "EMA",
       "confirmed_by": 1,
       "summary": "On 17 September 2026, the Committee for Medicinal Products for Human Use (CHMP) adopted a positive opinion, recommending a change to the terms of the marketing authorisation for the medicinal product Ocrevus. The marketing authorisation holder for this medicinal product is Roche Registration GmbH. The CHMP adopted an extension to an existing indication as follows: Ocrevus is indicated for the treatment of adult patients and paediatric patients aged 10 years and older with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features (see section 5.1)."
+    },
+    {
+      "title": "Anzupgo - opinion on variation to marketing authorisation - ema.europa.eu",
+      "url": "https://www.ema.europa.eu/en/medicines/human/variation/anzupgo",
+      "date": "2026-09-18T10:05:00Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "On 17 September 2026, the Committee for Medicinal Products for Human Use (CHMP) adopted a positive opinion recommending a change to the terms of the marketing authorisation for the medicinal product Anzupgo. The marketing authorisation holder for this medicinal product is LEO PHARMA A/S. The CHMP adopted an extension to the existing indication as follows: Anzupgo is indicated for the treatment of moderate to severe chronic hand eczema (CHE) in adults and adolescents 12 years and older for whom topical corticosteroids are inadequate or inappropriate (see section 5.1)."
     },
     {
       "title": "Cosentyx - opinion on variation to marketing authorisation - ema.europa.eu",
@@ -2228,7 +2228,7 @@
       "summary": "September 17, 2026 Approval Letter -FAYUVI fda.gov."
     },
     {
-      "title": "Clinical trials reach a new automation inflection point - fiercepharma.com",
+      "title": "Clinical trials reach a new automation inflection point - Fierce Pharma",
       "url": "https://www.fiercepharma.com/sponsored/clinical-trials-reach-new-automation-inflection-point",
       "date": "2026-09-17T20:56:55Z",
       "source": "FiercePharma",
@@ -2236,7 +2236,7 @@
       "summary": "For years, sponsors have pursued incremental gains in clinical development through process improvement and task-based automation. But as protocols become more complex and operational demands intensify, many organizations are discovering that efficiency challenges often stem not from individual tasks, but from the gaps between them."
     },
     {
-      "title": "FDA approves Ultragenyx’s gene therapy Fayuvi for rare neurodegenerative disorder - fiercepharma.com",
+      "title": "FDA approves Ultragenyx’s gene therapy Fayuvi for rare neurodegenerative disorder - Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/fda-approves-ultragenyx-gene-therapy-fayuvi-rare-neurodegenerative-disorder",
       "date": "2026-09-17T20:50:37Z",
       "source": "FiercePharma",
@@ -2356,7 +2356,7 @@
       "summary": "The FDA's newly launched expedited IND pilot program took center stage at an Endpoints News live event in Washington, DC, where Center for Biologics Evalua."
     },
     {
-      "title": "Bayer’s Kerendia secures FDA nod as first drug in 30 years for Type 1 diabetes-associated kidney disease - fiercepharma.com",
+      "title": "Bayer’s Kerendia secures FDA nod as first drug in 30 years for Type 1 diabetes-associated kidney disease - Fierce Pharma",
       "url": "https://www.fiercepharma.com/pharma/bayers-kerendia-secures-fda-nod-3rd-indication-now-first-drug-30-years-ckd-t1d-patients",
       "date": "2026-09-17T18:06:00Z",
       "source": "FiercePharma",
