@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T16:51:44Z",
+  "last_updated": "2026-09-18T16:52:38Z",
   "poland": [
     {
       "title": "\"Nie piłem, nie paliłem\". O chorobie dowiedział się, kiedy potrzebował nowej wątroby - Medonet",
@@ -409,7 +409,7 @@
       "date": "2026-09-18T16:17:10Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Thirteen year olds across the EU could be banned from freely accessing tech platforms like Instagram and YouTube, while those under 13 would be barred from creating their own accounts, the European Commission (EC) has announced.1 Called the “‘EU Kids ’Act,” the proposed legislation will also set 15 as the EU-wide minimum age for children to have their own social media account. Commission president Ursula von der Leyen said that social media companies in the EU will also be banned from using addictive, attention grabbing algorithms and reward mechanisms designed to encourage infinite scrolling for users under 18.2 She said that children are now engaging with the “most sophisticated technology ever created,” which was “not designed with their wellbeing in mind.” Under the legislation, minors’ profiles on social media must be private by default, with geolocation, camera, and microphone access turned off. It …."
+      "summary": "EU social media ban: Commission announces restrictions for under-13s The BMJ."
     },
     {
       "title": "GPs in England postpone collective action as they seek “reset” with government - The BMJ",
@@ -417,7 +417,7 @@
       "date": "2026-09-18T16:15:38Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Further escalation by GPs in collective action against changes to doctors’ contracts has been postponed. Instead, the BMA’s General Practitioners Committee in England (GPCE) said it will re-enter “bilateral” contract talks with the Department of Health and Social Care and NHS England as part of a reset of relations with officials. GPCE has been engaged in collective action since March, after GPs in England voted by 99% to reject the government’s changes to their contract for 2026-27.1 This action has included asking practices to stop signing up to voluntary data sharing agreements,2 switching off non-contractual medicines optimisation software,3 and rejecting what the GPCE labelled …."
+      "summary": "GPs in England postpone collective action as they seek “reset” with government The BMJ."
     },
     {
       "title": "Occupational Therapist job with Coventry & Warwickshire Partnership Trust (Health Careers) | 849147 - The BMJ",
@@ -449,7 +449,7 @@
       "date": "2026-09-18T14:52:01Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Might artificial intelligence indeed kill us all? The chances are greater than 10%, according to one expert. Another researcher has publicly quit the AI company Anthropic over safety fears.1 This news arrives around the same time that Anthropic warns us that people are attempting to use AI to create biological weapons (doi:10.1136/bmj-2026-100871).2 The threat from such weapons is real and is a major concern for ministries of defence around the world."
+      "summary": "Failing to act on warning signs: from Letby to AI The BMJ."
     },
     {
       "title": "New Cochrane Review: Cardiac Rehab Should Be an Easy Yes for Way More People - MedPage Today",
@@ -1264,6 +1264,14 @@
       "summary": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 12-18 September, and includes updates on Ebola, malaria, botulism, avian influenza A(H9N2), influenza A(H5), respiratory virus epidemiology in the EU/.EEA, West Nile virus infections, chikungunya, dengue, Crimean-Congo haemorrhagic fever, Vibrio, measles, and expert deployments."
     },
     {
+      "title": "WHO launches new primary health care course to strengthen health systems globally - World Health Organization (WHO)",
+      "url": "https://www.who.int/news/item/21-09-2026-who-launches-new-primary-health-care-course-to-strengthen-health-systems-globally",
+      "date": "2026-09-18T10:16:19Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Health is a human right – yet not everyone can access the health services they need, when and where they need them, without financial hardship. Primary health care (PHC) provides a whole-of-society approach to achieving universal health coverage, putting people and communities at the centre of health systems. Despite nearly 50 years of global commitment to PHC, implementation remains fragmented."
+    },
+    {
       "title": "One in four doctors nearing retirement age as WHO warns of global health workforce gap - World Health Organization (WHO)",
       "url": "https://www.who.int/news/item/18-09-2026-one-in-four-doctors-nearing-retirement-age-as-who-warns-of-global-health-workforce-gap",
       "date": "2026-09-18T08:21:53Z",
@@ -1598,14 +1606,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "The Cyclospora outbreak linked to tainted iceberg lettuce was declared over last week."
-    },
-    {
-      "title": "WHO Director-General's opening remarks at the media briefing – 16 September 2026 - World Health Organization (WHO)",
-      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-16-september-2026",
-      "date": "2026-09-16T16:44:03Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "I have said before that the Ebola epidemic in the Democratic Republic of the Congo had a big head start, and we were playing catch-up in the response."
     }
   ],
   "clinical_trials": [
@@ -1754,12 +1754,20 @@
       "summary": "Study Details | NCT07826858 | SPECTRA: Intraoperative Hyperspectral Imaging for Prostate Cancer ClinicalTrials.gov."
     },
     {
-      "title": "Study Details | NCT07824830 | Effects of CrossFit Training on the Immune System - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07824830",
+      "title": "Study Details | NCT07825298 | TECAR Therapy and Chronic Low Back Pain - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07825298",
       "date": "2026-09-17T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Study Details | NCT07824830 | Effects of CrossFit Training on the Immune System ClinicalTrials.gov."
+      "summary": "Study Details | NCT07825298 | TECAR Therapy and Chronic Low Back Pain ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07825844 | Tools for Return of Facial Function - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07825844",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07825844 | Tools for Return of Facial Function ClinicalTrials.gov."
     },
     {
       "title": "Study Details | NCT07826494 | Short-term Spinal Stimulation Effects in Cerebral Palsy - ClinicalTrials.gov",
@@ -1786,14 +1794,6 @@
       "summary": "Study Details | NCT07825259 | A Study of Itraconazole and Posaconazole for Chronic Pulmonary Aspergillosis ClinicalTrials.gov."
     },
     {
-      "title": "Study Details | NCT07825844 | Tools for Return of Facial Function - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07825844",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07825844 | Tools for Return of Facial Function ClinicalTrials.gov."
-    },
-    {
       "title": "Study Details | NCT07825428 | AI-Stratified Myopia Control for Children in Remote Areas - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07825428",
       "date": "2026-09-17T07:00:00Z",
@@ -1810,6 +1810,22 @@
       "summary": "Behavioural Acceptability of PARO in Paediatric Dentistry : a Descriptive Observational Study ClinicalTrials.gov."
     },
     {
+      "title": "Study Details | NCT07825012 | External Validation of the FedHist Dynamic Early Warning Model for Mortality Risk in Critically Ill Patients: A Prospective Multicenter Study - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07825012",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07825012 | External Validation of the FedHist Dynamic Early Warning Model for Mortality Risk in Critically Ill Patients: A Prospective Multicenter Study ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07824830 | Effects of CrossFit Training on the Immune System - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07824830",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07824830 | Effects of CrossFit Training on the Immune System ClinicalTrials.gov."
+    },
+    {
       "title": "Study Details | NCT07825701 | Individual Patient Expanded Access for Velzatinib (GSK6042981) in Patients With Gastrointestinal Stromal Tumours With KIT Mutations - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07825701",
       "date": "2026-09-17T07:00:00Z",
@@ -1824,22 +1840,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07826923 | Safety and Acute Effects of tDCS on Musical Performance in Adolescent Musicians ClinicalTrials.gov."
-    },
-    {
-      "title": "Study Details | NCT07825298 | TECAR Therapy and Chronic Low Back Pain - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07825298",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07825298 | TECAR Therapy and Chronic Low Back Pain ClinicalTrials.gov."
-    },
-    {
-      "title": "Study Details | NCT07825012 | External Validation of the FedHist Dynamic Early Warning Model for Mortality Risk in Critically Ill Patients: A Prospective Multicenter Study - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07825012",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07825012 | External Validation of the FedHist Dynamic Early Warning Model for Mortality Risk in Critically Ill Patients: A Prospective Multicenter Study ClinicalTrials.gov."
     },
     {
       "title": "Study Details | NCT07826338 | Artificial Intelligence-supported Mobile Application for Patients With Breast Cancer - ClinicalTrials.gov",
@@ -2065,7 +2065,7 @@
       "date": "2026-09-18T15:07:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "China sets ambitious goals for global drug and biotech expansion in new five-year plan Endpoints News."
+      "summary": "China's new five-year plan targets 20% annual pharma revenue growth and a quarter of the world's first-in-class drugs by 2030."
     },
     {
       "title": "Anthropic starts allowing some life sciences researchers to use Mythos - Endpoints News",
@@ -2073,7 +2073,7 @@
       "date": "2026-09-18T14:46:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Anthropic launched a Life Sciences Verification Program, granting select researchers access to AI models Mythos, Opus, and Sonnet, while maintaining biosafety restrictions on high-risk biological tasks."
+      "summary": "Anthropic starts allowing some life sciences researchers to use Mythos Endpoints News."
     },
     {
       "title": "Ultragenyx prices Sanfilippo gene therapy at $4M; Bristol Myers shelves Orum drug - BioPharma Dive",
@@ -2113,7 +2113,7 @@
       "date": "2026-09-18T11:00:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Legend names new CEO as Carvykti competition grows; Vertex makes a flurry of moves Endpoints News."
+      "summary": "Legend Biotech has tapped Novartis executive Ingrid Zhang as its new CEO at a time when the company is seeking its next act."
     },
     {
       "title": "Lisata deal propels Marea’s drug pipeline to Wall Street - BioPharma Dive",
@@ -2193,7 +2193,7 @@
       "date": "2026-09-18T04:09:53Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Live from DC: Is secrecy the solution?｜Post-Hoc Live finance.biggo.com."
+      "summary": "## The secrecy turn in US biotech Drew Armstrong, executive editor of Endpoints News, opens this Post Talk Live panel with a scenario that has become rout."
     },
     {
       "title": "Medical Device Recalls - accessdata.fda.gov",
@@ -2345,7 +2345,7 @@
       "date": "2026-09-17T19:08:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "David Lee: US Biotechs Face a \"Coming Wave\" of Chinese Competition They Stopped Watching finance.biggo.com."
+      "summary": "US drug developers are responding to China's dramatically faster clinical infrastructure by retreating into secrecy — refusing to name targets even to…."
     },
     {
       "title": "Updated: Ultragenyx’s new gene therapy will cost $3.95 million - Endpoints News",
@@ -2436,14 +2436,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "HPAI Clade 2.3.4.4b Virus Infection in Alpacas."
-    },
-    {
-      "title": "WHO Director-General's opening remarks at the media briefing – 16 September 2026 - World Health Organization (WHO)",
-      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-16-september-2026",
-      "date": "2026-09-16T16:44:03Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "I have said before that the Ebola epidemic in the Democratic Republic of the Congo had a big head start, and we were playing catch-up in the response."
     }
   ],
   "daily_top5": [
