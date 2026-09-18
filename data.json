@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T09:47:39Z",
+  "last_updated": "2026-09-18T09:48:40Z",
   "poland": [
     {
       "title": "Porozumienie Zielonogórskie przeciw zmianom w POZ - Podyplomie.pl",
@@ -404,12 +404,20 @@
   ],
   "world": [
     {
+      "title": "ESC Issues First Joint Guidelines Bridging Cardiorenal Care - Medscape",
+      "url": "https://www.medscape.com/viewarticle/esc-issues-first-joint-guidelines-bridging-cardiorenal-care-2026a1000yv2",
+      "date": "2026-09-18T09:47:00Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "From mandatory dual-parameter screenings to aggressive blood pressure targets, the new ESC/ERA guidelines signal a major paradigm shift in cardiorenal care."
+    },
+    {
       "title": "UK maternity inquiries over 25 years—or 100? - bmj.com",
       "url": "https://www.bmj.com/content/394/bmj-2026-100839",
       "date": "2026-09-18T09:16:39Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "UK maternity inquiries over 25 years—or 100? bmj.com."
+      "summary": "Edwards and colleagues rightly ask why UK maternity units keep producing the same failures despite 895 recommendations made since 2014.1 In fact, the diagnosis of failure is …."
     },
     {
       "title": "New brief highlights gaps and recommendations for improving violence data on women - World Health Organization (WHO)",
@@ -633,7 +641,7 @@
       "date": "2026-09-17T14:03:43Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Ebola business narrative and the cycle of distrust bmj.com."
+      "summary": "Credibility and trust are key to transforming the response Over 100 days since the start of the current Ebola outbreak, the response in the Democratic Republic of Congo (DRC) is at an impasse, with fears the situation will worsen. The World Health Organization declared the outbreak, caused by the Bundibugyo species of Ebola virus, a public health emergency of international concern in May. On 6 September 2026, the DRC reported a total of 6686 confirmed and probable cases and 3226 deaths, with 586 new confirmed cases and 276 deaths in the past seven days.1 The outbreak looks set be worse than the 2014-16 crisis, which caused 11 325 deaths.23 Global health leaders have called for additional support for frontline health workers and effective coordination of the response, and for donors to speed up the dispersal of pledged aid."
     },
     {
       "title": "Assisted dying: Jersey won’t be a “Dignitas-style model” for Brits, says Sarah Wollaston - bmj.com",
@@ -641,7 +649,7 @@
       "date": "2026-09-17T14:00:32Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Assisted dying: Jersey won’t be a “Dignitas-style model” for Brits, says Sarah Wollaston bmj.com."
+      "summary": "Jersey will not provide a “Dignitas-style model” for British citizens seeking an assisted death after the bill for England and Wales was rejected,1 the head of the island’s implementation committee has told The BMJ . But Sarah Wollaston, the doctor and former British MP now overseeing the rollout of the Channel Island’s assisted dying service, said that Jersey could provide a template for UK nations if they decide to revisit the debate again. In February, Jersey passed a law to introduce an assisted dying service—becoming the first UK and Channel Island jurisdiction to do so.2 Wollaston, a former GP and MP who served as chair of the commons health and care select committee, is now charged with ensuring that the service is introduced safely and effectively as chair of Jersey’s assisted dying assurance and delivery committee."
     },
     {
       "title": "Six rules for doctors using AI - The BMJ",
@@ -794,17 +802,17 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Hazel Thornton returned from a holiday in France in 1991 to find an invitation to attend Essex County Hospital in Colchester for a routine breast scan. Like many, she found the prospect slightly unnerving. Yet she had more reason than most to worry: surgery for a malignant melanoma some years earlier had left a hole in her leg the size of an apple."
-    },
-    {
-      "title": "Public consultation on the Discussion paper: Global initiative to eliminate cataract-related blindness and vision impairment - World Health Organization (WHO)",
-      "url": "https://www.who.int/news-room/articles-detail/call-for-public-consultation-on-the-discussion-paper--global-initiative-to-eliminate-cataract-related-blindness-and-vision-impairment",
-      "date": "2026-09-17T10:10:25Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "WHO invites Member States, stakeholders and the public to comment on the consultation draft of the Discussion paper: Global initiative to eliminate cataract-related blindness and vision impairment."
     }
   ],
   "guidelines": [
+    {
+      "title": "ESC Issues First Joint Guidelines Bridging Cardiorenal Care - Medscape",
+      "url": "https://www.medscape.com/viewarticle/esc-issues-first-joint-guidelines-bridging-cardiorenal-care-2026a1000yv2",
+      "date": "2026-09-18T09:47:00Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "From mandatory dual-parameter screenings to aggressive blood pressure targets, the new ESC/ERA guidelines signal a major paradigm shift in cardiorenal care."
+    },
     {
       "title": "New guidance puts diabetes distress assessment alongside glucose care for adults - Medical Xpress",
       "url": "https://medicalxpress.com/news/2026-09-guidance-diabetes-distress-glucose-adults.html",
@@ -1196,14 +1204,6 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Perioperative Durvalumab Plus FLOT Improves OS in Patients with Resectable Gastric or GEJ Adenocarcinoma European Society For Medical Oncology | ESMO."
-    },
-    {
-      "title": "Hispanic Heritage Month: Representation matters for heart health - www.heart.org",
-      "url": "https://newsroom.heart.org/news/hispanic-heritage-month-representation-matters-for-heart-health",
-      "date": "2026-09-15T09:05:57Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "DALLAS, Sept. 15, 2026 — As Hispanic Heritage Month begins, a new report from the American Heart Association reveals a troubling milestone: cardiovascular disease has surpassed cancer as the leading cause of death among Hispanic adults in the United..."
     }
   ],
   "epidemiology": [
@@ -2414,6 +2414,14 @@
   ],
   "critical_alerts": [
     {
+      "title": "Ebola business narrative and the cycle of distrust - bmj.com",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100849/article-info",
+      "date": "2026-09-17T14:03:43Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Credibility and trust are key to transforming the response Over 100 days since the start of the current Ebola outbreak, the response in the Democratic Republic of Congo (DRC) is at an impasse, with fears the situation will worsen. The World Health Organization declared the outbreak, caused by the Bundibugyo species of Ebola virus, a public health emergency of international concern in May. On 6 September 2026, the DRC reported a total of 6686 confirmed and probable cases and 3226 deaths, with 586 new confirmed cases and 276 deaths in the past seven days.1 The outbreak looks set be worse than the 2014-16 crisis, which caused 11 325 deaths.23 Global health leaders have called for additional support for frontline health workers and effective coordination of the response, and for donors to speed up the dispersal of pledged aid."
+    },
+    {
       "title": "WHO Director-General's closing remarks at the High-level interinstitutional dialogue on the margins of the 8th meeting of the Intergovernmental Working Group to Draft and negotiate the annex to the WHO Pandemic Agreement – 17 September 2026 - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-closing-remarks-at-the-high-level-interinstitutional-dialogue-on-the-margins-of-the-8th-meeting-of-the-intergovernmental-working-group-to-draft-and-negotiate-the-annex-to-the-who-pandemic-agreement---17-september-2026",
       "date": "2026-09-17T16:42:30Z",
@@ -2428,14 +2436,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Cautious optimism in the Ebola outbreak, FDA still stymied by DOGE cuts, and other health updates from the Morning Rounds newsletter."
-    },
-    {
-      "title": "Ebola business narrative and the cycle of distrust - bmj.com",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100849/article-info",
-      "date": "2026-09-17T14:03:43Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Ebola business narrative and the cycle of distrust bmj.com."
     },
     {
       "title": "Experimental Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Alpacas, 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
