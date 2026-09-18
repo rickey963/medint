@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T19:22:19Z",
+  "last_updated": "2026-09-18T19:23:17Z",
   "poland": [
     {
       "title": "Te dwa czynniki zwiększają ryzyko demencji. Sprawdź, czy też jesteś w grupie ryzyka - Medonet",
@@ -339,7 +339,7 @@
     },
     {
       "title": "Młodzież i alkohol – wielkie ryzyko - pacjent.gov.pl",
-      "url": "https://pacjent.gov.pl/aktualnosc/mlodziez-i-alkohol-wielkie-ryzyko",
+      "url": "http://pacjent.gov.pl/aktualnosc/mlodziez-i-alkohol-wielkie-ryzyko",
       "date": "2026-09-18T09:22:19Z",
       "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 2,
@@ -347,7 +347,7 @@
     },
     {
       "title": "Młodzież i alkohol – wielkie ryzyko - pacjent.gov.pl",
-      "url": "http://pacjent.gov.pl/aktualnosc/mlodziez-i-alkohol-wielkie-ryzyko",
+      "url": "https://pacjent.gov.pl/aktualnosc/mlodziez-i-alkohol-wielkie-ryzyko",
       "date": "2026-09-18T09:22:19Z",
       "source": "Internetowe Konto Pacjenta",
       "confirmed_by": 2,
@@ -497,7 +497,7 @@
       "date": "2026-09-18T14:52:01Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Might artificial intelligence indeed kill us all? The chances are greater than 10%, according to one expert. Another researcher has publicly quit the AI company Anthropic over safety fears.1 This news arrives around the same time that Anthropic warns us that people are attempting to use AI to create biological weapons (doi:10.1136/bmj-2026-100871).2 The threat from such weapons is real and is a major concern for ministries of defence around the world."
+      "summary": "Failing to act on warning signs: from Letby to AI bmj.com."
     },
     {
       "title": "New Cochrane Review: Cardiac Rehab Should Be an Easy Yes for Way More People - medpagetoday.com",
@@ -529,7 +529,7 @@
       "date": "2026-09-18T12:47:50Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "A female in her 70s with a history of rectal cancer resection presented with acute abdominal and pelvic pain following persistent coughing, resulting in a perineal mass. Clinical examination revealed eviscerated loops of congested small bowel through a posterior vaginal wall defect, beyond the introitus. She underwent emergency laparotomy, with combined transabdominal and vaginal reduction of the eviscerated small bowel and repair of posterior vaginal wall defect within 4 hours of presentation."
+      "summary": "Transvaginal small bowel evisceration after rectal cancer resection BMJ Case Reports."
     },
     {
       "title": "Kids With Congenital Droopy Eyelids More Likely to Have ADHD - Medscape",
@@ -545,7 +545,7 @@
       "date": "2026-09-18T12:41:34Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "With the death of Rick van Saene on 25 March, the intensive care community lost a physician-microbiologist who made a significant contribution to the treatment of critically ill patients by introducing the concept of selective decontamination of the digestive tract (SDD). Rick studied medicine in Leuven, Belgium, qualifying in 1972. He then moved to Maastricht, Netherlands, for his training as a microbiologist and began working at the University Hospital in Groningen in the late 1970s."
+      "summary": "Rick van Saene bmj.com."
     },
     {
       "title": "Rick van Saene - bmj.com",
@@ -553,7 +553,7 @@
       "date": "2026-09-18T12:41:30Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "With the death of Rick van Saene on 25 March, the intensive care community lost a physician-microbiologist who made a significant contribution to the treatment of critically ill patients by introducing the concept of selective decontamination of the digestive tract (SDD). Rick studied medicine in Leuven, Belgium, qualifying in 1972. He then moved to Maastricht, Netherlands, for his training as a microbiologist and began working at the University Hospital in Groningen in the late 1970s."
+      "summary": "Rick van Saene bmj.com."
     },
     {
       "title": "How genes shape personality and experience - Nature",
@@ -1115,7 +1115,7 @@
       "date": "2026-09-17T08:04:09Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
-      "summary": "Światowy Dzień Bezpieczeństwa Pacjentów 2026 nil.org.pl."
+      "summary": "Naczelna Izba Lekarska."
     },
     {
       "title": "Overview | Digital technologies to support home monitoring of vision changes for people with advanced dry age-related macular degeneration: early-use assessment | Guidance - NICE website",
@@ -1448,20 +1448,20 @@
       "summary": "WHO will host a virtual launch of its new report, Artificial Intelligence-related Health Research: Ethics Review and Oversight, which provides practical recommendations for researchers, ethics committees, regulators, funders and policy-makers on the responsible conduct of AI-enabled health research."
     },
     {
-      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
-    },
-    {
       "title": "Snakebite envenoming - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/fact-sheets/detail/snakebite-envenoming",
       "date": "2026-09-17T07:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "WHO fact sheet on snake antivenoms with key facts and providing information on global situation, challenges producing antivenoms, weak health systems and lack of data and WHO action."
+    },
+    {
+      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     },
     {
       "title": "30th meeting of the Malaria Policy Advisory Group (MPAG) - World Health Organization (WHO)",
@@ -2073,7 +2073,7 @@
       "date": "2026-09-18T16:21:05Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "FRIDAY, Sept. 18, 2026 A bit of carefully placed local anesthesia can significantly reduce pain among women receiving an IUD, a new study says. Currently, docto."
+      "summary": "FRIDAY, Sept. 18, 2026 A bit of carefully placed local anesthesia can significantly reduce pain among women receiving an IUD, a new study says.Currently, doctor."
     },
     {
       "title": "Healthy Food, Not One Diet, Linked To Slower Aging, Study Claims - Drugs.com",
@@ -2257,7 +2257,7 @@
       "date": "2026-09-18T04:09:53Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "## The secrecy turn in US biotech Drew Armstrong, executive editor of Endpoints News, opens this Post Talk Live panel with a scenario that has become rout."
+      "summary": "Live from DC: Is secrecy the solution?｜Post-Hoc Live finance.biggo.com."
     },
     {
       "title": "Medical Device Recalls - accessdata.fda.gov",
