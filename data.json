@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T05:38:12Z",
+  "last_updated": "2026-09-18T05:39:06Z",
   "poland": [
     {
       "title": "Nowe zasady dostępu do Portalu NFZ. Pięć zmian dla świadczeniodawców i aptek - Alert Medyczny",
@@ -72,6 +72,14 @@
       "source": "Medycyna po Dyplomie",
       "confirmed_by": 1,
       "summary": "NFZ rezygnuje z 5-proc. współczynnika korygującego i daje uzdrowiskom większą swobodę w organizacji świadczeń."
+    },
+    {
+      "title": "Odcinek 5: Niewydolność serca w opiece koordynowanej - Podyplomie.pl",
+      "url": "https://podyplomie.pl/medVOD/films/10591",
+      "date": "2026-09-17T18:39:08Z",
+      "source": "Medycyna po Dyplomie",
+      "confirmed_by": 1,
+      "summary": "medVOD - specjalistyczne filmy medyczne dla lekarzy."
     },
     {
       "title": "Wchodzą do mieszkań i domów. Jest sposób, by zatrzymać plagę - Rynek Zdrowia",
@@ -392,14 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Jednym z największych problemów polskiej opieki zdrowotnej jest jej przesunięcie w stronę medycyny proceduralnej. W relacji sprawozdawczej na linii NFZ – świadczeniodawca główny nacisk kładzie się na wykonanie i rozliczenie konkretnej procedury, a nie na zapewnienie ciągłości opieki nad pacjentem – zwróciła uwagę dr Maria Libura podczas debaty eksperckiej dotyczącej jakości w polskiej onkologii."
-    },
-    {
-      "title": "Składka za niepracującego małżonka? - Medycyna Praktyczna",
-      "url": "https://prawo.mp.pl/wiadomosci/449093,skladka-za-niepracujacego-malzonka",
-      "date": "2026-09-17T11:27:05Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Sejmowa Komisja ds. Petycji rozpatrzyła petycję w sprawie wprowadzenia obowiązku odprowadzania składki za niepracującego małżonka dopisanego do ubezpieczenia zdrowotnego pracującego małżonka."
     }
   ],
   "world": [
@@ -505,7 +505,7 @@
       "date": "2026-09-17T15:06:56Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "US-UK drug pricing deal: MPs urge National Audit Office to investigate costs The BMJ."
+      "summary": "The cost implications of the US-UK drug pricing deal must be rapidly investigated by the UK’s public spending watchdog, the heads of six different parliamentary committees have urged. The UK signed a drug trade deal with the US in December 2025 to reduce the effect of tariffs put in place by US president Donald Trump.1 As part of the deal, ministers agreed to raise the cost effectiveness thresholds used by the National Institute for Health and Care Excellence (NICE). These thresholds will rise from £20 000 to £30 000 per quality adjusted life year (QALY) to £25 000 to £35 000 per QALY."
     },
     {
       "title": "INSPIRE Lecture Series: connecting academic education and lifelong learning in health - World Health Organization (WHO)",
@@ -657,7 +657,7 @@
       "date": "2026-09-17T10:59:11Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Six rules for doctors using AI The BMJ."
+      "summary": "Doctors should avoid embracing every new AI system uncritically or refusing to use AI on principle, says Daniel Sokol AI is already being introduced into workflows in the NHS, and in the coming years it will undoubtedly become part of the day-to-day practice of most doctors. But what happens when AI contributes to patient harm? Unlike doctors, an AI system cannot be sued under English law."
     },
     {
       "title": "Novel Screen Quickly IDs Mental Illness, SUD, Suicide Risk - Medscape",
@@ -681,7 +681,7 @@
       "date": "2026-09-17T10:37:41Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Assisted dying: Jersey won’t be a “Dignitas-style model” for Brits, says Sarah Wollaston The BMJ."
+      "summary": "Jersey will not provide a “Dignitas-style model” for British citizens seeking an assisted death after the bill for England and Wales was rejected,1 the head of the island’s implementation committee has told The BMJ . But Sarah Wollaston, the doctor and former British MP now overseeing the rollout of the Channel Island’s assisted dying service, said that Jersey could provide a template for UK nations if they decide to revisit the debate again. In February, Jersey passed a law to introduce an assisted dying service—becoming the first UK and Channel Island jurisdiction to do so.2 Wollaston, a former GP and MP who served as chair of the commons health and care select committee, is now charged with ensuring that the service is introduced safely and effectively as chair of Jersey’s assisted dying assurance and delivery committee."
     },
     {
       "title": "A Sellas immunotherapy study, long delayed, will end in failure - statnews.com",
@@ -705,7 +705,7 @@
       "date": "2026-09-17T10:18:28Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Hazel Thornton: patient advocate who campaigned for informed choice The BMJ."
+      "summary": "Hazel Thornton returned from a holiday in France in 1991 to find an invitation to attend Essex County Hospital in Colchester for a routine breast scan. Like many, she found the prospect slightly unnerving. Yet she had more reason than most to worry: surgery for a malignant melanoma some years earlier had left a hole in her leg the size of an apple."
     },
     {
       "title": "Public consultation on the Discussion paper: Global initiative to eliminate cataract-related blindness and vision impairment - World Health Organization (WHO)",
@@ -801,7 +801,7 @@
       "date": "2026-09-17T04:03:02Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Allied health professional jobs in Southsea The BMJ."
+      "summary": "Allied health professional jobs in Southsea. 1 BMJ Health Careers job to view and apply for now with BMJ Health Careers."
     }
   ],
   "guidelines": [
@@ -926,7 +926,7 @@
       "summary": "The FDG has been sent to consultees for this appraisal who have 5 working days to advise if they wish to appeal against it and/or notify us of any factual errors. If an intent to appeal is submitted the consultees will have an additional 10 working days to submit their appeal. The FDG has been sent to commentators for information, who can consider notifying us of any factual errors only."
     },
     {
-      "title": "Światowy Dzień Bezpieczeństwa Pacjentów 2026 - NIL",
+      "title": "Światowy Dzień Bezpieczeństwa Pacjentów 2026 - nil.org.pl",
       "url": "https://nil.org.pl/aktualnosci/9403-swiatowy-dzien-bezpieczenstwa-pacjentow-2026",
       "date": "2026-09-17T08:04:09Z",
       "source": "Naczelna Izba Lekarska",
@@ -1022,7 +1022,7 @@
       "summary": "Recommendations support trimodal therapy as a curative alternative to bladder removal for select patients and define radiotherapy’s role after surgery and in advanced disease."
     },
     {
-      "title": "XV Łódzkie Spotkania Stomatologiczne 2026 - NIL",
+      "title": "XV Łódzkie Spotkania Stomatologiczne 2026 - nil.org.pl",
       "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/wydarzenia-stomatologiczne/9402-xv-lodzkie-spotkania-stomatologiczne-2026",
       "date": "2026-09-16T13:35:53Z",
       "source": "Naczelna Izba Lekarska",
@@ -1030,7 +1030,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "Wydarzenia stomatologiczne - NIL",
+      "title": "Wydarzenia stomatologiczne - nil.org.pl",
       "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/wydarzenia-stomatologiczne",
       "date": "2026-09-16T13:15:48Z",
       "source": "Naczelna Izba Lekarska",
@@ -1038,7 +1038,7 @@
       "summary": "Naczelna Izba Lekarska."
     },
     {
-      "title": "NIL na XXXV Forum Ekonomicznym w Karpaczu 2026 - NIL",
+      "title": "NIL na XXXV Forum Ekonomicznym w Karpaczu 2026 - nil.org.pl",
       "url": "https://nil.org.pl/aktualnosci/9401-nil-na-xxxv-forum-ekonomicznym-w-karpaczu-2026",
       "date": "2026-09-16T12:45:49Z",
       "source": "Naczelna Izba Lekarska",
@@ -1190,7 +1190,7 @@
       "summary": "DALLAS, Sept. 15, 2026 — As Hispanic Heritage Month begins, a new report from the American Heart Association reveals a troubling milestone: cardiovascular disease has surpassed cancer as the leading cause of death among Hispanic adults in the United..."
     },
     {
-      "title": "Paweł Barucha: Ministerstwo z dykty - NIL",
+      "title": "Paweł Barucha: Ministerstwo z dykty - nil.org.pl",
       "url": "https://nil.org.pl/dla-lekarzy/dla-stomatologow/9400-pawel-barucha-ministerstwo-z-dykty",
       "date": "2026-09-15T08:33:56Z",
       "source": "Naczelna Izba Lekarska",
