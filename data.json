@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-18T15:54:08Z",
+  "last_updated": "2026-09-18T15:55:19Z",
   "poland": [
+    {
+      "title": "To nie jest takie proste - Podsumowanie tygodnia - Podcasty - Medycyna Praktyczna",
+      "url": "https://www.mp.pl/podcasty/podsumowanie-tygodnia/449178,to-nie-jest-takie-proste",
+      "date": "2026-09-18T15:52:28Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Czy można było lepiej przygotować wprowadzenie nowych reguł walidacji recept? Co wiemy o systemie odpowiedzialności zawodowej lekarzy i dlaczego tak niewiele?"
+    },
     {
       "title": "Bezpłatne badania profilaktyczne na dworcach. PZU Zdrowie rusza z akcją w 5 miastach Polski - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/bezplatne-badania-profilaktyczne-n2498317",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Współczesne badania nad węchem są coraz bardziej zaawansowane, niektóre zupełnie jak z science-fiction – powiedziała prof. Agnieszka Sorokowska z Uniwersytetu Wrocławskiego."
-    },
-    {
-      "title": "Szpitale z ponad 30 mld zł zadłużenia. Prezydencka Rada Zdrowia ocenia planowane reformy - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/szpitale-z-ponad-30-mld-zl-zadluzenia-prezydencka-rada-zdrowia-ocenia-planowane-reformy/",
-      "date": "2026-09-18T07:06:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Zadłużenie publicznych szpitali przekroczyło 30 mld zł. Prezydencka Rada Zdrowia wskazuje na potrzebę głębokiej restrukturyzacji systemu."
     }
   ],
   "world": [
@@ -585,7 +585,7 @@
       "date": "2026-09-18T09:35:35Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Rudimentary horn pregnancy is a rare form of ectopic pregnancy associated with Müllerian duct anomalies and carries a high risk of uterine rupture and life-threatening haemorrhage. We report the case of a woman in her 20s, gravida 2, abortion 1, who presented with 6 weeks of amenorrhoea and a positive urine pregnancy test. Transvaginal ultrasonography demonstrated a 6-week 4-day gestational sac in the right adnexa with an empty uterine cavity, suggestive of an ectopic pregnancy."
+      "summary": "Rudimentary horn pregnancy mimicking tubal ectopic pregnancy: a diagnostic dilemma BMJ Case Reports."
     },
     {
       "title": "UK maternity inquiries over 25 years—or 100? - The BMJ",
@@ -632,7 +632,7 @@
       "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
       "date": "2026-09-18T07:29:06Z",
       "source": "WHO",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     },
     {
@@ -1738,6 +1738,14 @@
       "summary": "Effect of a Nurse-Led Transition Program on Resilience and Career Decisions in Senior Students ClinicalTrials.gov."
     },
     {
+      "title": "Study Details | NCT07826494 | Short-term Spinal Stimulation Effects in Cerebral Palsy - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07826494",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07826494 | Short-term Spinal Stimulation Effects in Cerebral Palsy ClinicalTrials.gov."
+    },
+    {
       "title": "Study Details | NCT07825259 | A Study of Itraconazole and Posaconazole for Chronic Pulmonary Aspergillosis - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07825259",
       "date": "2026-09-17T07:00:00Z",
@@ -2000,14 +2008,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07821541 | Changes in Serum Calprotectin and Their Clinical Correlates in Axial Spondyloarthritis Patients Undergoing Pulmonary Rehabilitation ClinicalTrials.gov."
-    },
-    {
-      "title": "Study Details | NCT07823153 | Biobehavioral Mechanisms of Activity and Loss of Control Eating in Children - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07823153",
-      "date": "2026-09-17T01:13:24Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07823153 | Biobehavioral Mechanisms of Activity and Loss of Control Eating in Children ClinicalTrials.gov."
     }
   ],
   "pharma_market": [
@@ -2153,7 +2153,7 @@
       "date": "2026-09-18T04:09:53Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Live from DC: Is secrecy the solution?｜Post-Hoc Live finance.biggo.com."
+      "summary": "## The secrecy turn in US biotech Drew Armstrong, executive editor of Endpoints News, opens this Post Talk Live panel with a scenario that has become rout."
     },
     {
       "title": "Medical Device Recalls - accessdata.fda.gov",
@@ -2297,7 +2297,7 @@
       "date": "2026-09-17T19:08:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "David Lee: US Biotechs Face a \"Coming Wave\" of Chinese Competition They Stopped Watching finance.biggo.com."
+      "summary": "US drug developers are responding to China's dramatically faster clinical infrastructure by retreating into secrecy — refusing to name targets even to…."
     },
     {
       "title": "Updated: Ultragenyx’s new gene therapy will cost $3.95 million - endpoints.news",
@@ -2472,12 +2472,12 @@
       "summary": "Snakebite envenoming is a neglected tropical disease affecting poor people in rural communities, particularly people of working age and children. Each year, nearly 5.4 million people are bitten by snakes worldwide, resulting in over 80,000 deaths and leaving three times that number of survivors with disabilities. Prompt administration of antivenoms can save lives and limit the long-term consequences of envenoming."
     },
     {
-      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
-      "date": "2026-09-18T07:29:06Z",
-      "source": "WHO",
-      "confirmed_by": 2,
-      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
+      "title": "International Snakebite Awareness Day 2026 (ISBAD ’26) - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/19/default-calendar/international-snakebite-awareness-day-2026--isbad-26",
+      "date": "2026-09-18T14:30:02Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Snakebite envenoming is a neglected tropical disease affecting poor people in rural communities, particularly people of working age and children. Each year, nearly 5.4 million people are bitten by snakes worldwide, resulting in over 80,000 deaths and leaving three times that number of survivors with disabilities. Prompt administration of antivenoms can save lives and limit the long-term consequences of envenoming."
     },
     {
       "title": "WHO Director-General's closing remarks at the High-level interinstitutional dialogue on the margins of the 8th meeting of the Intergovernmental Working Group to Draft and negotiate the annex to the WHO Pandemic Agreement – 17 September 2026 - World Health Organization (WHO)",
