@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T18:36:47Z",
+  "last_updated": "2026-09-18T18:37:46Z",
   "poland": [
     {
       "title": "\"ADHD to nie zaburzenie\". Znana brytyjska lekarka stawia mocną tezę - Medonet",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Highly Specialist Occupational Therapist - The BMJ",
+      "url": "https://www.bmj.com/healthcareers/job/847882/highly-specialist-occupational-therapist?LinkSource=SimilarJobPlatform",
+      "date": "2026-09-18T18:36:50Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "The @home Service are at the forefront of community healthcare transformation, aligning with NHS England's Long-Term Plan enabling London's ageing..."
+    },
+    {
       "title": "International Snakebite Awareness Day 2026 (ISBAD ’26) - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/19/default-calendar/international-snakebite-awareness-day-2026--isbad-26",
       "date": "2026-09-18T17:33:49Z",
@@ -537,7 +545,7 @@
       "date": "2026-09-18T12:41:30Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "With the death of Rick van Saene on 25 March, the intensive care community lost a physician-microbiologist who made a significant contribution to the treatment of critically ill patients by introducing the concept of selective decontamination of the digestive tract (SDD). Rick studied medicine in Leuven, Belgium, qualifying in 1972. He then moved to Maastricht, Netherlands, for his training as a microbiologist and began working at the University Hospital in Groningen in the late 1970s."
+      "summary": "Rick van Saene The BMJ."
     },
     {
       "title": "How genes shape personality and experience - Nature",
@@ -704,7 +712,7 @@
       "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
       "date": "2026-09-18T07:29:06Z",
       "source": "WHO",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     },
     {
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "The FDA approved a new gene therapy for Sanfilippo syndrome type A, an ultra-rare disease sometimes known as childhood Alzheimer’s."
-    },
-    {
-      "title": "International medical jobs in United Arab Emirates - The BMJ",
-      "url": "https://www.bmj.com/careers/jobs/international-medical-jobs/united-arab-emirates/",
-      "date": "2026-09-17T19:57:41Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "International medical jobs in United Arab Emirates The BMJ."
     }
   ],
   "guidelines": [
@@ -1778,36 +1778,12 @@
       "summary": "Study Details | NCT07825376 | Branching Scenario-Based Education in Coronary Artery Disease ClinicalTrials.gov."
     },
     {
-      "title": "Study Details | NCT07824817 | Demedetomidine and Remifentanil in Electroconvulsive Therapy (ECT) - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07824817",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07824817 | Demedetomidine and Remifentanil in Electroconvulsive Therapy (ECT) ClinicalTrials.gov."
-    },
-    {
-      "title": "Longevity Biotech Report Projects $617 Billion Market as Investment Surges Past $30 Billion - trialsitenews.com",
-      "url": "https://www.trialsitenews.com/a/longevity-biotech-report-projects-617-billion-market-as-investment-surges-past-30-billion-a34ce489",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "A new Longevity Biotech Report from Longevity.Technology argues that therapeutics targeting aging biology could develop into a $617 billion annual global market by 2045, as investors pour unprecedented capital into longevity biotechnology. Led by editor-in-chief Phil Newman, lead scientific researcher Christine Belleza, and researcher Arwin Atis, the analysis individually assessed 3,036 therapeutic assets across 781 companies."
-    },
-    {
       "title": "Study Details | NCT07826858 | SPECTRA: Intraoperative Hyperspectral Imaging for Prostate Cancer - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07826858",
       "date": "2026-09-17T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07826858 | SPECTRA: Intraoperative Hyperspectral Imaging for Prostate Cancer ClinicalTrials.gov."
-    },
-    {
-      "title": "POWER Study Finds Broader Tumor DNA Testing Opens Treatment Doors—but Eligibility Is Not the Same as Better Survival - trialsitenews.com",
-      "url": "https://www.trialsitenews.com/a/power-study-finds-broader-tumor-dna-testing-opens-treatment-doorsbut-eligibility-is-not-the-same-as-better-survival-2537611a",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "For patients with advanced cancer running out of conventional options, the tumor's DNA may reveal doors that its anatomical label leaves closed. A Canadian prospective study found that comprehensive genomic profiling changed treatment eligibility for nearly 28% of patients with advanced solid tumors. The finding is meaningful&mdash;but the distinction between identifying a possible therapy and proving that therapy improves survival is equally important."
     },
     {
       "title": "Study Details | NCT07824830 | Effects of CrossFit Training on the Immune System - ClinicalTrials.gov",
@@ -1874,20 +1850,44 @@
       "summary": "Automated vs Manual Polysomnography Scoring in Adults With Obstructive Sleep Apnea ClinicalTrials.gov."
     },
     {
-      "title": "Study Details | NCT07824557 | StressModex for Post-Traumatic Neck Pain - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07824557",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07824557 | StressModex for Post-Traumatic Neck Pain ClinicalTrials.gov."
-    },
-    {
       "title": "Study Details | NCT07825259 | A Study of Itraconazole and Posaconazole for Chronic Pulmonary Aspergillosis - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07825259",
       "date": "2026-09-17T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07825259 | A Study of Itraconazole and Posaconazole for Chronic Pulmonary Aspergillosis ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07824817 | Demedetomidine and Remifentanil in Electroconvulsive Therapy (ECT) - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07824817",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07824817 | Demedetomidine and Remifentanil in Electroconvulsive Therapy (ECT) ClinicalTrials.gov."
+    },
+    {
+      "title": "Longevity Biotech Report Projects $617 Billion Market as Investment Surges Past $30 Billion - trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/longevity-biotech-report-projects-617-billion-market-as-investment-surges-past-30-billion-a34ce489",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "A new Longevity Biotech Report from Longevity.Technology argues that therapeutics targeting aging biology could develop into a $617 billion annual global market by 2045, as investors pour unprecedented capital into longevity biotechnology. Led by editor-in-chief Phil Newman, lead scientific researcher Christine Belleza, and researcher Arwin Atis, the analysis individually assessed 3,036 therapeutic assets across 781 companies."
+    },
+    {
+      "title": "POWER Study Finds Broader Tumor DNA Testing Opens Treatment Doors—but Eligibility Is Not the Same as Better Survival - trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/power-study-finds-broader-tumor-dna-testing-opens-treatment-doorsbut-eligibility-is-not-the-same-as-better-survival-2537611a",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "For patients with advanced cancer running out of conventional options, the tumor's DNA may reveal doors that its anatomical label leaves closed. A Canadian prospective study found that comprehensive genomic profiling changed treatment eligibility for nearly 28% of patients with advanced solid tumors. The finding is meaningful&mdash;but the distinction between identifying a possible therapy and proving that therapy improves survival is equally important."
+    },
+    {
+      "title": "Study Details | NCT07824557 | StressModex for Post-Traumatic Neck Pain - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07824557",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07824557 | StressModex for Post-Traumatic Neck Pain ClinicalTrials.gov."
     },
     {
       "title": "Study Details | NCT07825428 | AI-Stratified Myopia Control for Children in Remote Areas - ClinicalTrials.gov",
@@ -2241,7 +2241,7 @@
       "date": "2026-09-18T04:09:53Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
-      "summary": "Live from DC: Is secrecy the solution?｜Post-Hoc Live finance.biggo.com."
+      "summary": "## The secrecy turn in US biotech Drew Armstrong, executive editor of Endpoints News, opens this Post Talk Live panel with a scenario that has become rout."
     },
     {
       "title": "Medical Device Recalls - accessdata.fda.gov",
@@ -2456,14 +2456,6 @@
       "summary": "Snakebite envenoming is a neglected tropical disease affecting poor people in rural communities, particularly people of working age and children. Each year, nearly 5.4 million people are bitten by snakes worldwide, resulting in over 80,000 deaths and leaving three times that number of survivors with disabilities. Prompt administration of antivenoms can save lives and limit the long-term consequences of envenoming."
     },
     {
-      "title": "Nigeria's HIV survivors become its community safety net - The Lancet",
-      "url": "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(26)00174-8/fulltext",
-      "date": "2026-09-18T15:48:42Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Nigeria's HIV survivors become its community safety net The Lancet."
-    },
-    {
       "title": "Member States advance negotiations on pathogen access and benefit-sharing ahead of UN General Assembly meeting on pandemics - World Health Organization (WHO)",
       "url": "https://www.who.int/news/item/18-09-2026-member-states-advance-negotiations-on-pathogen-access-and-benefit-sharing-ahead-of-un-general-assembly-meeting-on-pandemics",
       "date": "2026-09-18T15:23:34Z",
@@ -2478,6 +2470,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "WHO Member States concluded the eighth meeting of the Intergovernmental Working Group (IGWG) on the WHO Pandemic Agreement today, advancing negotiations on a proposed pathogen access and benefit-sharing (PABS) system that would underpin a faster and more equitable response to future pandemics."
+    },
+    {
+      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
+      "date": "2026-09-18T07:29:06Z",
+      "source": "WHO",
+      "confirmed_by": 2,
+      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     }
   ]
 }
