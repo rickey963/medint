@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T14:38:55Z",
+  "last_updated": "2026-09-18T14:40:09Z",
   "poland": [
     {
       "title": "Bezpłatne badania profilaktyczne na dworcach. PZU Zdrowie rusza z akcją w 5 miastach Polski - PolitykaZdrowotna.com",
@@ -214,7 +214,7 @@
       "url": "https://pacjent.gov.pl/aktualnosc/mlodziez-i-alkohol-wielkie-ryzyko",
       "date": "2026-09-18T09:22:19Z",
       "source": "Internetowe Konto Pacjenta",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Picie alkoholu przez młodzież szkolną to istotny problem, który dotyczy chłopców i dziewcząt. Zagraża ich zdrowiu i prawidłowemu rozwojowi."
     },
     {
@@ -433,7 +433,7 @@
       "date": "2026-09-18T12:47:50Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "A female in her 70s with a history of rectal cancer resection presented with acute abdominal and pelvic pain following persistent coughing, resulting in a perineal mass. Clinical examination revealed eviscerated loops of congested small bowel through a posterior vaginal wall defect, beyond the introitus. She underwent emergency laparotomy, with combined transabdominal and vaginal reduction of the eviscerated small bowel and repair of posterior vaginal wall defect within 4 hours of presentation."
+      "summary": "Transvaginal small bowel evisceration after rectal cancer resection BMJ Case Reports."
     },
     {
       "title": "Kids With Congenital Droopy Eyelids More Likely to Have ADHD - Medscape",
@@ -592,7 +592,7 @@
       "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
       "date": "2026-09-18T07:29:06Z",
       "source": "WHO",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     },
     {
@@ -2012,6 +2012,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Ultragenyx prices Sanfilippo gene therapy at $4M; Bristol Myers shelves Orum drug - BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/ultragenyx-fayuvi-orum-bristol-lunsumio-longeveron-rocket-danon/830512/",
+      "date": "2026-09-18T14:37:29Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Ultragenyx’s second gene therapy approval since August gives it another sellable voucher. Elsewhere, Roche declared success in a blood cancer trial and a cell therapy maker is cutting costs."
+    },
+    {
       "title": "BlossomHill Therapeutics Reports Second Quarter 2026 Financial Results - BioSpace",
       "url": "https://www.biospace.com/press-releases/blossomhill-therapeutics-reports-second-quarter-2026-financial-results",
       "date": "2026-09-18T12:12:16Z",
@@ -2276,20 +2284,20 @@
       "summary": "For adults with type 2 diabetes receiving sodium-glucose cotransporter-2 (SGLT2) inhibitors, risk factors for ketoacidosis include high hemoglobin A1c, previous."
     },
     {
-      "title": "Air Pollution Tied to Higher Risk for Suicide - Drugs.com",
-      "url": "https://www.drugs.com/news/air-pollution-tied-higher-risk-suicide-131360.html",
-      "date": "2026-09-17T18:36:26Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Air pollution is associated with an increased risk for death by suicide, attempted suicide, and suicidal thoughts, according to a review published online Sept."
-    },
-    {
       "title": "Eating More Whole Grains Daily Linked to Cardiometabolic Benefits - Drugs.com",
       "url": "https://www.drugs.com/news/eating-more-whole-grains-daily-linked-cardiometabolic-benefits-131363.html",
       "date": "2026-09-17T18:36:26Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Eating more whole grains each day reduces several major risk factors for cardiovascular disease in a dose-response fashion, according to a review published onli."
+    },
+    {
+      "title": "Air Pollution Tied to Higher Risk for Suicide - Drugs.com",
+      "url": "https://www.drugs.com/news/air-pollution-tied-higher-risk-suicide-131360.html",
+      "date": "2026-09-17T18:36:26Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Air pollution is associated with an increased risk for death by suicide, attempted suicide, and suicidal thoughts, according to a review published online Sept."
     },
     {
       "title": "AACR Annual Report Highlights Progress in Cancer Research - Drugs.com",
@@ -2402,14 +2410,6 @@
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "Armed with $180 million and a dual-acting antibody for eczema, the startup is capitalizing on a change in sentiment that’s led to a sudden spike in reverse merger deals."
-    },
-    {
-      "title": "UK-US Trade Deal Unlocks Enhertu Funding For HER2-Low Breast Cancer In England - insights.citeline.com",
-      "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/market-access/health-technology-assessment/uk-us-trade-deal-unlocks-enhertu-funding-for-her2-low-breast-cancer-in-england-2SWZRNPARVBCZJ7QCPNXI5WQPU/",
-      "date": "2026-09-17T15:43:15Z",
-      "source": "Pink Sheet",
-      "confirmed_by": 1,
-      "summary": "English funding for AstraZeneca/Daiichi Sankyo’s Enhertu in patients with HER2-low metastatic breast cancer was agreed by NICE following changes to the institute’s cost-effectiveness thresholds as part of a UK-US trade deal."
     }
   ],
   "critical_alerts": [
@@ -2496,12 +2496,12 @@
       "summary": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 12-18 September, and includes updates on Ebola, malaria, botulism, avian influenza A(H9N2), influenza A(H5), respiratory virus epidemiology in the EU/.EEA, West Nile virus infections, chikungunya, dengue, Crimean-Congo haemorrhagic fever, Vibrio, measles, and expert deployments."
     },
     {
-      "title": "New brief highlights gaps and recommendations for improving violence data on women - World Health Organization (WHO)",
-      "url": "https://www.who.int/philippines/news/detail-global/18-09-2026-new-brief-highlights-gaps-and-recommendations-for-improving-violence-data-on-women",
-      "date": "2026-09-18T08:41:55Z",
+      "title": "World Patient Safety Day, 17 September 2026: \"Safe care for noncommunicable diseases\" - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/17/default-calendar/world-patient-safety-day--17-september-2026---noncommunicable-diseases",
+      "date": "2026-09-18T07:29:06Z",
       "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "A new technical brief calls for more consistent and rigorous measurement of non-partner sexual violence against women and girls – a widespread form of violence that remains underreported and inadequately measured.Non-partner sexual violence, defined as sexual violence perpetrated by someone other than an intimate partner – is a global public health and human rights issue with serious consequences for women’s physical, mental, sexual and reproductive health. An estimated 263 million women and girls aged 15 years and older, or 8% globally, have been subjected to sexual violence from a man other than an intimate partner at least once since the age of 15 years. The prevalence is likely to be much higher because of gaps in available evidence, measurement challenges and the underreporting associated with stigma and fear of repercussions.The new brief by the UNDP/UNFPA/UNICEF/WHO/World Bank Special Programme of Research, Development and Research Training in Human Reproduction (HPR) and the World Health Organization (WHO) identifies key measurement challenges and provides recommendations to researchers, statistical offices and others designing population-based surveys for strengthening the measurement of non-partner sexual violence.Where are the gaps?WHO’s review of population-based surveys, conducted between 2000 and 2023, identified 140 countries with at least one eligible survey, covering 89% of the global population of women and girls aged 15 years and older."
+      "confirmed_by": 2,
+      "summary": "World Patient Safety Day 2025 theme is \"Safe care for every newborn and every child\" with the slogan \"Patient safety from the start!\"."
     },
     {
       "title": "WHO Director-General's closing remarks at the High-level interinstitutional dialogue on the margins of the 8th meeting of the Intergovernmental Working Group to Draft and negotiate the annex to the WHO Pandemic Agreement – 17 September 2026 - World Health Organization (WHO)",
