@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-18T16:29:04Z",
+  "last_updated": "2026-09-18T16:30:07Z",
   "poland": [
     {
-      "title": "Przez lata nie miał żadnych objawów. MASLD doprowadziła do raka wątroby - medonet.pl",
+      "title": "\"Nie piłem, nie paliłem\". O chorobie dowiedział się, kiedy potrzebował nowej wątroby - medonet.pl",
       "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-metaboliczne/byl-pilotem-i-regularnie-sie-badal-choroba-watroby-rozwijala-sie-przez-lata/v294e2y",
       "date": "2026-09-18T16:03:00Z",
       "source": "Medonet",
@@ -1216,6 +1216,14 @@
       "summary": "Multidrug-Resistant C. coli ST10042 Lineage."
     },
     {
+      "title": "Early Release - Multisectoral Emergence of Multidrug-Resistant Campylobacter coli Sequence Type 10042 Lineage, Europe, 2018–2025 - Volume 32, Number 10—October 2026 - Emerging Infectious Diseases journal - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0512_article",
+      "date": "2026-09-18T15:48:54Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Multidrug-Resistant C. coli ST10042 Lineage."
+    },
+    {
       "title": "Detection of Highly Pathogenic Avian Influenza A(H5N1) Virus in Cat and Rats during Outbreak in Backyard Poultry, United States, 2025 - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0418_article",
       "date": "2026-09-18T15:47:05Z",
@@ -1598,14 +1606,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "I have said before that the Ebola epidemic in the Democratic Republic of the Congo had a big head start, and we were playing catch-up in the response."
-    },
-    {
-      "title": "Global Respiratory Virus Activity: Weekly Update N° 595 - World Health Organization (WHO)",
-      "url": "https://www.who.int/publications/m/item/global-respiratory-virus-activity--weekly-update-n--595",
-      "date": "2026-09-16T15:49:08Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Publications of the World Health Organization."
     }
   ],
   "clinical_trials": [
@@ -1738,30 +1738,6 @@
       "summary": "Effect of a Nurse-Led Transition Program on Resilience and Career Decisions in Senior Students ClinicalTrials.gov."
     },
     {
-      "title": "Study Details | NCT07825428 | AI-Stratified Myopia Control for Children in Remote Areas - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07825428",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07825428 | AI-Stratified Myopia Control for Children in Remote Areas ClinicalTrials.gov."
-    },
-    {
-      "title": "Behavioural Acceptability of PARO in Paediatric Dentistry : a Descriptive Observational Study - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07824063",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Behavioural Acceptability of PARO in Paediatric Dentistry : a Descriptive Observational Study ClinicalTrials.gov."
-    },
-    {
-      "title": "Study Details | NCT07825701 | Individual Patient Expanded Access for Velzatinib (GSK6042981) in Patients With Gastrointestinal Stromal Tumours With KIT Mutations - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07825701",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07825701 | Individual Patient Expanded Access for Velzatinib (GSK6042981) in Patients With Gastrointestinal Stromal Tumours With KIT Mutations ClinicalTrials.gov."
-    },
-    {
       "title": "Study Details | NCT07824830 | Effects of CrossFit Training on the Immune System - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07824830",
       "date": "2026-09-17T07:00:00Z",
@@ -1792,6 +1768,30 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07825259 | A Study of Itraconazole and Posaconazole for Chronic Pulmonary Aspergillosis ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07825428 | AI-Stratified Myopia Control for Children in Remote Areas - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07825428",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07825428 | AI-Stratified Myopia Control for Children in Remote Areas ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07825701 | Individual Patient Expanded Access for Velzatinib (GSK6042981) in Patients With Gastrointestinal Stromal Tumours With KIT Mutations - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07825701",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07825701 | Individual Patient Expanded Access for Velzatinib (GSK6042981) in Patients With Gastrointestinal Stromal Tumours With KIT Mutations ClinicalTrials.gov."
+    },
+    {
+      "title": "Behavioural Acceptability of PARO in Paediatric Dentistry : a Descriptive Observational Study - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07824063",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Behavioural Acceptability of PARO in Paediatric Dentistry : a Descriptive Observational Study ClinicalTrials.gov."
     },
     {
       "title": "Study Details | NCT07826858 | SPECTRA: Intraoperative Hyperspectral Imaging for Prostate Cancer - ClinicalTrials.gov",
@@ -2011,6 +2011,14 @@
     }
   ],
   "pharma_market": [
+    {
+      "title": "FDA says initial rejections of new drugs have declined - Endpoints News",
+      "url": "https://endpoints.news/fda-says-initial-rejections-of-new-drugs-have-declined/",
+      "date": "2026-09-18T16:26:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "An FDA report pushes back on claims it's rejecting more drugs, showing first-cycle rejection rates fell from 47% in 2008 to about 27% in 2024."
+    },
     {
       "title": "Zealand’s Zeydovio Gets EMA Thumbs Up Despite US Rejection - insights.citeline.com",
       "url": "https://pink.pharmaintelligence.informa.com/pink-sheet/product-reviews/eu-chmp/zealands-zeydovio-gets-ema-thumbs-up-despite-us-rejection-RAOB2ZF4DZA3ZDEXU4FHSP4O7U/",
@@ -2402,14 +2410,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "THURSDAY, Sept. 17, 2026 A dairy-free frozen dessert has been recalled for the second time in nine months for the same reason cashew pieces that may contain sma."
-    },
-    {
-      "title": "The realities of China’s prolific biotech rise are felt at FDA - endpoints.news",
-      "url": "https://endpoints.news/fda-grapples-with-china-biotechs-rise-across-the-agency/",
-      "date": "2026-09-17T18:27:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "Senior FDA officials are clear-eyed about the difficulties in regulating data and companies originating from China."
     }
   ],
   "critical_alerts": [
