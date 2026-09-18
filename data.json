@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-18T21:30:30Z",
+  "last_updated": "2026-09-18T21:31:38Z",
   "poland": [
+    {
+      "title": "Spersonalizowane szczepionki mRNA – nowa nadzieja w leczeniu nowotworów - Serwis Zdrowie",
+      "url": "https://zdrowie.pap.pl/leki/spersonalizowane-szczepionki-mrna-nowa-nadzieja-w-leczeniu-nowotworow",
+      "date": "2026-09-18T21:27:03Z",
+      "source": "Serwis Zdrowie (PAP)",
+      "confirmed_by": 1,
+      "summary": "Mówiąc o szczepionkach, najczęściej mamy na myśli preparaty profilaktyczne, czyli takie, które chronią nas przed zachorowaniem."
+    },
     {
       "title": "Pili codziennie przez 365 dni. Wątroba wskoczyła na wyższe obroty - Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/Badania-i-rozwoj/Pili-codziennie-przez-365-dni-Watroba-wskoczyla-na-wyzsze-obroty,289076,11.html",
@@ -392,14 +400,6 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Czterem osobom z zarządu Szpitala Mazowieckiego w Garwolinie i trzem lekarzom przedstawiono zarzuty wyrządzenia tej placówce szkody na ponad 730 tys. zł. Z tego ponad 620 tys."
-    },
-    {
-      "title": "W Holandii po raz pierwszy zatwierdzono eutanazję dwuletniego dziecka. Lekarze nie byli zgodni - Alert Medyczny",
-      "url": "https://alertmedyczny.pl/w-holandii-po-raz-pierwszy-zatwierdzono-eutanazje-dwuletniego-dziecka-lekarze-nie-byli-zgodni/",
-      "date": "2026-09-18T09:01:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Holenderska komisja oceniła pierwszy przypadek zakończenia życia dziecka poniżej 12 lat. Lekarze różnili się w ocenie cierpienia."
     }
   ],
   "world": [
@@ -569,7 +569,7 @@
       "date": "2026-09-18T12:47:50Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "A female in her 70s with a history of rectal cancer resection presented with acute abdominal and pelvic pain following persistent coughing, resulting in a perineal mass. Clinical examination revealed eviscerated loops of congested small bowel through a posterior vaginal wall defect, beyond the introitus. She underwent emergency laparotomy, with combined transabdominal and vaginal reduction of the eviscerated small bowel and repair of posterior vaginal wall defect within 4 hours of presentation."
+      "summary": "Transvaginal small bowel evisceration after rectal cancer resection BMJ Case Reports."
     },
     {
       "title": "Kids With Congenital Droopy Eyelids More Likely to Have ADHD - Medscape",
@@ -1866,14 +1866,6 @@
       "summary": "Study Details | NCT07825298 | TECAR Therapy and Chronic Low Back Pain ClinicalTrials.gov."
     },
     {
-      "title": "Study Details | NCT07826286 | Changes in Intraocular Pressure After Intravitreal Injection - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07826286",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07826286 | Changes in Intraocular Pressure After Intravitreal Injection ClinicalTrials.gov."
-    },
-    {
       "title": "Study Details | NCT07825844 | Tools for Return of Facial Function - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07825844",
       "date": "2026-09-17T07:00:00Z",
@@ -1906,20 +1898,28 @@
       "summary": "Study Details | NCT07824583 | A Study Evaluating a New Radiation Treatment Workflow (NGDS) ClinicalTrials.gov."
     },
     {
-      "title": "Study Details | NCT07824141 | Fall Prevention Pathways - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07824141",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07824141 | Fall Prevention Pathways ClinicalTrials.gov."
-    },
-    {
       "title": "Study Details | NCT07824128 | Adaptango Performance PRocess for Older Adults Community reHabilitation - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07824128",
       "date": "2026-09-17T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07824128 | Adaptango Performance PRocess for Older Adults Community reHabilitation ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07826286 | Changes in Intraocular Pressure After Intravitreal Injection - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07826286",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07826286 | Changes in Intraocular Pressure After Intravitreal Injection ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07824141 | Fall Prevention Pathways - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07824141",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07824141 | Fall Prevention Pathways ClinicalTrials.gov."
     },
     {
       "title": "Study Details | NCT07825857 | Randomized Controlled Trial of Tirzepatide for Methamphetamine Use Disorder - ClinicalTrials.gov",
