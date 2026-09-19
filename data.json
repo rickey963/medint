@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-19T13:33:13Z",
+  "last_updated": "2026-09-19T13:34:05Z",
   "poland": [
+    {
+      "title": "Organizacje pacjentów coraz ważniejsze w badaniach klinicznych. Aktywni w Badaniach Klinicznych rozmawiali z ABM - PolitykaZdrowotna.com",
+      "url": "https://politykazdrowotna.com/artykul/organizacje-pacjentow-n2496508",
+      "date": "2026-09-19T13:30:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Organizacje pacjentów coraz ważniejsze w badaniach klinicznych. Aktywni w Badaniach Klinicznych rozmawiali z ABM PolitykaZdrowotna.com."
+    },
     {
       "title": "Pierwsza trombektomia płucna w słupskim szpitalu. Nowa procedura dla pacjentów z ciężką zatorowością - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/pierwsza-trombektomia-n2499143",
@@ -392,14 +400,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Prof. Nitsch-Osuch: Dorośli również potrzebują kalendarza szczepień PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Ministerstwo Zdrowia zaskoczone zapowiedzią protestu farmaceutów - Termedia",
-      "url": "https://www.termedia.pl/mz/Ministerstwo-Zdrowia-zaskoczone-zapowiedzia-protestu-farmaceutow,69079.html",
-      "date": "2026-09-18T13:27:00Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "Na 7 października przedstawiciele Częstochowskiej Okręgowej Izby Aptekarskiej zapowiedzieli pokojowy protest przed Sejmem. Jego celem jest zwrócenie uwagi na problemy z jakimi borykają się apteki i farmaceuci. Ministerstwo Zdrowia jest zdziwione tą inicjatywą."
     }
   ],
   "world": [
@@ -426,6 +426,14 @@
       "source": "Nature Medicine",
       "confirmed_by": 1,
       "summary": "Read the latest Research articles from Nature Medicine."
+    },
+    {
+      "title": "The AF and ICH Anticoagulation Conundrum, New Data Leave No Easy Choices - Medscape",
+      "url": "https://www.medscape.com/viewarticle/af-and-ich-anticoagulation-conundrum-new-data-leave-no-easy-2026a1000y9b?src=",
+      "date": "2026-09-19T10:16:47Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Neurologist Christoph Diener reviews the latest data, including ENRICH-AF, on the resumption of anticoagulation in patients with atrial fibrillation who have had an intracerebral hemorrhage."
     },
     {
       "title": "Survival benefit of deceased donor kidney transplantation versus continued dialysis: international target trial emulation - The BMJ",
@@ -508,14 +516,6 @@
       "summary": "Read this Journal Watch article and more clinical summaries on NEJM Clinician."
     },
     {
-      "title": "The AF and ICH Anticoagulation Conundrum, New Data Leave No Easy Choices - Medscape",
-      "url": "https://www.medscape.com/viewarticle/af-and-ich-anticoagulation-conundrum-new-data-leave-no-easy-2026a1000y9b?src=",
-      "date": "2026-09-18T21:51:47Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Neurologist Christoph Diener reviews the latest data, including ENRICH-AF, on the resumption of anticoagulation in patients with atrial fibrillation who have had an intracerebral hemorrhage."
-    },
-    {
       "title": "Fosfomycin Holds Promise for Management of Complicated Urinary Tract Infection - NEJM Clinician",
       "url": "https://clinician.nejm.org/fosfomycin-holds-promise-management-complicated-urinary-tract-infection-nejm-jw.na54495",
       "date": "2026-09-18T21:19:55Z",
@@ -556,7 +556,7 @@
       "summary": "Weekly epidemiological record World Health Organization (WHO)."
     },
     {
-      "title": "Fifth Universal Definition of MI: What It Means for Clinicians - NEJM Clinician",
+      "title": "Fifth Universal Definition of MI: What It Means for Clinicians - clinician.nejm.org",
       "url": "https://clinician.nejm.org/fifth-universal-definition-mi-means-clinicians-clingwna60532",
       "date": "2026-09-18T18:55:19Z",
       "source": "NEJM",
@@ -1970,20 +1970,20 @@
       "summary": "Study Details | NCT07824141 | Fall Prevention Pathways ClinicalTrials.gov."
     },
     {
-      "title": "Longevity Biotech Report Projects $617 Billion Market as Investment Surges Past $30 Billion - trialsitenews.com",
-      "url": "https://www.trialsitenews.com/a/longevity-biotech-report-projects-617-billion-market-as-investment-surges-past-30-billion-a34ce489",
-      "date": "2026-09-17T07:00:00Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "A new Longevity Biotech Report from Longevity.Technology argues that therapeutics targeting aging biology could develop into a $617 billion annual global market by 2045, as investors pour unprecedented capital into longevity biotechnology. Led by editor-in-chief Phil Newman, lead scientific researcher Christine Belleza, and researcher Arwin Atis, the analysis individually assessed 3,036 therapeutic assets across 781 companies."
-    },
-    {
       "title": "Study Details | NCT07825844 | Tools for Return of Facial Function - ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07825844",
       "date": "2026-09-17T07:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07825844 | Tools for Return of Facial Function ClinicalTrials.gov."
+    },
+    {
+      "title": "Longevity Biotech Report Projects $617 Billion Market as Investment Surges Past $30 Billion - trialsitenews.com",
+      "url": "https://www.trialsitenews.com/a/longevity-biotech-report-projects-617-billion-market-as-investment-surges-past-30-billion-a34ce489",
+      "date": "2026-09-17T07:00:00Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "A new Longevity Biotech Report from Longevity.Technology argues that therapeutics targeting aging biology could develop into a $617 billion annual global market by 2045, as investors pour unprecedented capital into longevity biotechnology. Led by editor-in-chief Phil Newman, lead scientific researcher Christine Belleza, and researcher Arwin Atis, the analysis individually assessed 3,036 therapeutic assets across 781 companies."
     },
     {
       "title": "Study Details | NCT07826494 | Short-term Spinal Stimulation Effects in Cerebral Palsy - ClinicalTrials.gov",
