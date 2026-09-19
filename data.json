@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T18:29:04Z",
+  "last_updated": "2026-09-19T18:30:03Z",
   "poland": [
     {
       "title": "Uważność może wspierać serce. Efekty widać już po kilku tygodniach - Medonet",
@@ -1224,6 +1224,14 @@
       "summary": "Health is a human right – yet not everyone can access the health services they need, when and where they need them, without financial hardship. Primary health care (PHC) provides a whole-of-society approach to achieving universal health coverage, putting people and communities at the centre of health systems. Despite nearly 50 years of global commitment to PHC, implementation remains fragmented."
     },
     {
+      "title": "Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal | Building Stronger Health Systems for Sustainable Health Security - World Health Organization (WHO)",
+      "url": "https://extranet.who.int/sph/spar/activities?items_per_page=20&search=&field_region=200&field_country=All&field_spar_status_target_id=All&sph_year=&page=3&order=field_year&sort=asc",
+      "date": "2026-09-19T10:52:47Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "The SPH Portal is an interactive digital platform that facilitates the sharing and exchange of information regarding multisectoral health security investments, activities, and capacities at national, regional, and global levels."
+    },
+    {
       "title": "Vaccine Scheduler - vaccine-schedule.ecdc.europa.eu",
       "url": "https://vaccine-schedule.ecdc.europa.eu/Scheduler/ByDisease?SelectedDiseaseId=3&SelectedCountryIdByDisease=166",
       "date": "2026-09-19T06:24:30Z",
@@ -1598,14 +1606,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Invasive Meningococcal Disease, Uzbekistan, 2026."
-    },
-    {
-      "title": "Detection of Divergent Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus, São Paulo, Brazil, 2025 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0723",
-      "date": "2026-09-16T22:41:24Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Divergent HPAI H5N1 Clade 2.3.4.4b Virus, Brazil."
     }
   ],
   "clinical_trials": [
@@ -2172,22 +2172,6 @@
       "summary": "Compare Dorzolamide / Timolol Ophthalmic vs Simbrinza head-to-head with other drugs for uses, ratings, cost, side effects and interactions."
     },
     {
-      "title": "Hydrogel-Based Dermal Regenerative Template Shows Promise in Wound Reconstruction - Drugs.com",
-      "url": "https://www.drugs.com/news/hydrogel-based-dermal-regenerative-template-shows-promise-wound-reconstruction-131380.html",
-      "date": "2026-09-18T18:34:04Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "A hydrogel-based dermal regenerative template (hDRT) composed of type I bovine collagen microspheres embedded within a lower-density type I bovine collagen hydr."
-    },
-    {
-      "title": "ASTRO Issues Guidance for Use of Radiation Therapy in Bladder Cancer - Drugs.com",
-      "url": "https://www.drugs.com/news/astro-issues-guidance-radiation-therapy-bladder-cancer-131377.html",
-      "date": "2026-09-18T18:34:04Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Recommendations are presented for the use of radiation therapy (RT) in bladder cancer in a clinical practice guideline issued by the American Society for Radiat."
-    },
-    {
       "title": "Strength Training Not Tied to Ventricular Arrhythmia in Those With Arrhythmogenic Cardiomyopathy - Drugs.com",
       "url": "https://www.drugs.com/news/training-not-tied-ventricular-arrhythmia-those-arrhythmogenic-cardiomyopathy-131378.html",
       "date": "2026-09-18T18:34:04Z",
@@ -2210,6 +2194,22 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "High-frequency spinal cord stimulation significantly reduces pain and improves sensory function in people with painful diabetic neuropathy, according to a study."
+    },
+    {
+      "title": "Hydrogel-Based Dermal Regenerative Template Shows Promise in Wound Reconstruction - Drugs.com",
+      "url": "https://www.drugs.com/news/hydrogel-based-dermal-regenerative-template-shows-promise-wound-reconstruction-131380.html",
+      "date": "2026-09-18T18:34:04Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "A hydrogel-based dermal regenerative template (hDRT) composed of type I bovine collagen microspheres embedded within a lower-density type I bovine collagen hydr."
+    },
+    {
+      "title": "ASTRO Issues Guidance for Use of Radiation Therapy in Bladder Cancer - Drugs.com",
+      "url": "https://www.drugs.com/news/astro-issues-guidance-radiation-therapy-bladder-cancer-131377.html",
+      "date": "2026-09-18T18:34:04Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Recommendations are presented for the use of radiation therapy (RT) in bladder cancer in a clinical practice guideline issued by the American Society for Radiat."
     },
     {
       "title": "Klygefa And Gevalka Edge Closer To EU Approval For gMG And Lung Cancer - pink.pharmaintelligence.informa.com",
