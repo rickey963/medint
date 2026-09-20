@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T23:50:33Z",
+  "last_updated": "2026-09-20T23:53:38Z",
   "poland": [
     {
       "title": "Rehabilitacja kardiologiczna zmniejsza ryzyko zawału o 28 proc. i hospitalizacji o 35 proc. - alertmedyczny.pl",
@@ -497,7 +497,7 @@
       "date": "2026-09-20T06:33:30Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Displacement of an intact mandibular coronoid process lateral to the zygomaticomaxillary complex (ZMC) is a rare complication of ZMC fractures. We report a case of a woman in her early 30s with malar flattening and inability to achieve full mouth closure following a fall from an electric scooter. Her CT scan revealed a comminuted right ZMC fracture with the ipsilateral intact coronoid process displaced laterally to the ZMC."
+      "summary": "Mechanical jaw restriction after zygomaticomaxillary complex fracture: an unusual coronoid–zygomatic relationship BMJ Case Reports."
     },
     {
       "title": "The Lancet, 19 September 2026, Volume 408, Issue 10560, Pages 1061-1146 - thelancet.com",
@@ -1432,7 +1432,7 @@
       "summary": "Weekly US Influenza Surveillance Report: Key Updates for Week 36, ending September 12, 2026 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Communicable disease threats report, 12-18 September, week 38 - ecdc.europa.eu",
+      "title": "Communicable disease threats report, 12-18 September, week 38 - European Centre for Disease Prevention and Control (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-12-18-september-week-38",
       "date": "2026-09-18T13:52:50Z",
       "source": "ECDC",
@@ -1472,20 +1472,20 @@
       "summary": "The World Health Organization (WHO) has published the National health workforce accounts: health workforce levels and trends 2026, the first in an annual series of reports offering the most comprehensive global picture of health workforce levels, trends and challenges based on official country data shared through the National Health Workforce Accounts (NHWA). In the past two decades, health workforce density (medical doctors, nursing and midwifery personnel, dentists and pharmacists) has increased by 52% globally, from 44.8 per 10 000 population in 2006 to 67.9 in 2025. There are now more than 70 million health and care workers worldwide."
     },
     {
-      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-09-18T07:00:00Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
-    },
-    {
       "title": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
       "date": "2026-09-18T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-09-18T07:00:00Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
     },
     {
       "title": "COVID-19 Ensemble Forecasts - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1526,6 +1526,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Wastewater Data for Avian Influenza A(H5) Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 35, ending September 5, 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-35.html",
+      "date": "2026-09-18T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Weekly US Influenza Surveillance Report: Key Updates for Week 35, ending September 5, 2026 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "About CDC's Wastewater Monitoring Program - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1582,14 +1590,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 35, ending September 5, 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-35.html",
-      "date": "2026-09-18T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Weekly US Influenza Surveillance Report: Key Updates for Week 35, ending September 5, 2026 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Advocates, lawmakers call for release of congressionally approved global health funds - CIDRAP",
@@ -2246,7 +2246,7 @@
       "summary": "African officials say the data don’t confirm that the Ebola outbreak has peaked, as cases near 7,500 and deaths top 3,600."
     },
     {
-      "title": "Communicable disease threats report, 12-18 September, week 38 - ecdc.europa.eu",
+      "title": "Communicable disease threats report, 12-18 September, week 38 - European Centre for Disease Prevention and Control (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-12-18-september-week-38",
       "date": "2026-09-18T13:52:50Z",
       "source": "ECDC",
