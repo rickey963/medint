@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-20T13:41:29Z",
+  "last_updated": "2026-09-20T13:42:24Z",
   "poland": [
+    {
+      "title": "To jedzą osoby dbające o cholesterol. Badania pokazują dlaczego - Medonet",
+      "url": "https://www.medonet.pl/narodowy-test-zdrowia-polakow/zyj-zdrowiej/pelne-ziarna-pomagaja-sercu-i-cukrowi-kluczowa-jest-jedna-liczba/2cf7620",
+      "date": "2026-09-20T13:34:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Treści z serwisu Medonet mają na celu polepszenie, a nie zastąpienie, kontaktu pomiędzy Użytkownikiem a jego lekarzem. Serwis ma charakter wyłącznie informacyjno-edukacyjny. Przed zastosowaniem się do porad z zakresu wiedzy specjalistycznej, w szczególności medycznych, zawartych w Serwisie należy bezwzględnie skonsultować się z lekarzem."
+    },
     {
       "title": "Szpital Pediatryczny w Bielsku-Białej po modernizacji. Inwestycja kosztowała ponad 27 mln zł - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/artykul/szpital-pediatryczny-n2496264",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Trzy miesiące ćwiczeń poprawiły nastrój osób w średnim wieku i wpłynęły na laboratoryjne wskaźniki procesów związanych z neurogenezą."
-    },
-    {
-      "title": "W Polsce szybko przybywa chorych na raka. \"Mają ewidentne objawy, nie zgłaszają się\" - Medonet",
-      "url": "https://www.medonet.pl/narodowy-test-zdrowia-polakow/nowotwory/w-polsce-szybko-przybywa-chorych-na-raka-maja-ewidentne-objawy-nie-zglaszaja-sie/j5nyy1r",
-      "date": "2026-09-19T07:31:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "— Jeśli chodzi o dostępność terapii onkologicznych, to myślę, że nie możemy mieć żadnych kompleksów wobec jakiegokolwiek innego kraju. Natomiast mamy zbyt późną diagnostykę i to jest przerażający fakt — mówi Medonetowi prof. Andrzej Fal pytany o to, dlaczego w Polsce przybywa pacjentów onkologicznych."
     }
   ],
   "world": [
@@ -449,7 +449,7 @@
       "date": "2026-09-20T04:52:14Z",
       "source": "Cochrane Library",
       "confirmed_by": 1,
-      "summary": "Prime Biome Reviews: Launches Ten-Ingredient Daily Probiotic Gummy Supplement for Skin and Gut Wellness in the U.S. mykxlg.com."
+      "summary": "New once-daily formula combines Bacillus coagulans, babchi, dandelion, fennel, inulin, fenugreek, lemon balm, organic."
     },
     {
       "title": "General search page - World Health Organization (WHO)",
@@ -1448,22 +1448,6 @@
       "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
     },
     {
-      "title": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
-      "date": "2026-09-18T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "COVID-19 Ensemble Forecasts - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
-      "date": "2026-09-18T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "COVID-19 Ensemble Forecasts Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Respiratory Illnesses Data Channel - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/index.html",
       "date": "2026-09-18T07:00:00Z",
@@ -1488,20 +1472,36 @@
       "summary": "Vaccination Trends | Respiratory Illnesses Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 35, ending September 5, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-35.html",
-      "date": "2026-09-18T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Weekly US Influenza Surveillance Report: Key Updates for Week 35, ending September 5, 2026 | FluView Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Severe Viral Respiratory Illness - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/illness-severity.html",
       "date": "2026-09-18T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Severe Viral Respiratory Illness Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
+      "date": "2026-09-18T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "COVID-19 Ensemble Forecasts - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
+      "date": "2026-09-18T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "COVID-19 Ensemble Forecasts Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 35, ending September 5, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-35.html",
+      "date": "2026-09-18T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Weekly US Influenza Surveillance Report: Key Updates for Week 35, ending September 5, 2026 | FluView Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Measles Cases and Outbreaks - cdc.gov",
@@ -1850,12 +1850,12 @@
       "summary": "Lessons from Hundreds of Clinical Trials: AI’s Successes, Gaps, and Opportunities Applied Clinical Trials Online."
     },
     {
-      "title": "Rama Kondru, PhD - appliedclinicaltrialsonline.com",
+      "title": "Rama Kondru, PhD - Applied Clinical Trials Online",
       "url": "https://www.appliedclinicaltrialsonline.com/authors/rama-kondru",
       "date": "2026-09-17T16:12:00Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Rama Kondru, PhD appliedclinicaltrialsonline.com."
+      "summary": "Rama Kondru, PhD Applied Clinical Trials Online."
     },
     {
       "title": "Altis Labs’ AI software detected treatment benefit earlier in oncology trial - Clinical Trials Arena",
