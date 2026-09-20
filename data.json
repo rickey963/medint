@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T13:25:31Z",
+  "last_updated": "2026-09-20T13:26:21Z",
   "poland": [
     {
       "title": "„Otyłe dzieci stają się otyłymi dorosłymi”. Prof. Iwona Beń-Skowronek o nowych zasadach żywienia - PolitykaZdrowotna.com",
@@ -633,7 +633,7 @@
       "date": "2026-09-19T09:28:03Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Kidney transplantation in older adults The BMJ."
+      "summary": "Survival benefit depends on the organ offered For people with kidney failure who are suitable for transplantation, the central question is rarely whether transplantation is beneficial in the abstract. It is whether accepting a particular kidney now is likely to offer a survival benefit, as well as improved quality of life, compared with continuing dialysis while waiting for another offer. This decision has become increasingly difficult as transplant programmes consider older and more medically complex candidates and use more kidneys from older donors or after circulatory death.12 A linked study (doi:10.1136/bmj-2026-100624) aims to reduce this uncertainty by using registry data from 64 035 waitlisted dialysis patients across five European registries.3 The authors emulated 60 sequential monthly trials, comparing transplantation during a given month with remaining waitlisted on dialysis during that month."
     },
     {
       "title": "Andrew Gareth Millman - The BMJ",
@@ -641,7 +641,7 @@
       "date": "2026-09-19T09:15:06Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "Andrew Gareth Millman The BMJ."
+      "summary": "Andrew grew up in Devon, attending Plymouth College before entering Guy’s Hospital Medical School in London. After qualifying he undertook his house jobs, first in Plymouth and then in Gloucester. He remained in the Gloucester area as a young doctor, qualifying initially as a GP and then …."
     },
     {
       "title": "Fifth Universal Definition of MI: What It Means for Clinicians - NEJM Clinician",
@@ -697,7 +697,7 @@
       "date": "2026-09-18T23:53:34Z",
       "source": "The BMJ",
       "confirmed_by": 1,
-      "summary": "EU social media ban: Commission announces restrictions for under-13s The BMJ."
+      "summary": "Thirteen year olds across the EU could be banned from freely accessing tech platforms like Instagram and YouTube, while those under 13 would be barred from creating their own accounts, the European Commission (EC) has announced.1 Called the “‘EU Kids ’Act,” the proposed legislation will also set 15 as the EU-wide minimum age for children to have their own social media account. Commission president Ursula von der Leyen said that social media companies in the EU will also be banned from using addictive, attention grabbing algorithms and reward mechanisms designed to encourage infinite scrolling for users under 18.2 She said that children are now engaging with the “most sophisticated technology ever created,” which was “not designed with their wellbeing in mind.” Under the legislation, minors’ profiles on social media must be private by default, with geolocation, camera, and microphone access turned off. It …."
     },
     {
       "title": "EU social media ban: Commission announces restrictions for under-13s - The BMJ",
@@ -1448,6 +1448,22 @@
       "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
     },
     {
+      "title": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting - cdc.gov",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
+      "date": "2026-09-18T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting cdc.gov."
+    },
+    {
+      "title": "COVID-19 Ensemble Forecasts - cdc.gov",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
+      "date": "2026-09-18T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "COVID-19 Ensemble Forecasts cdc.gov."
+    },
+    {
       "title": "Measles Cases and Outbreaks - cdc.gov",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-09-18T07:00:00Z",
@@ -1472,14 +1488,6 @@
       "summary": "Wastewater Data for Avian Influenza A(H5) cdc.gov."
     },
     {
-      "title": "State/Territory Wastewater Data for Respiratory Viruses - cdc.gov",
-      "url": "https://www.cdc.gov/wastewater/respiratory-viruses/state.html",
-      "date": "2026-09-18T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "State/Territory Wastewater Data for Respiratory Viruses cdc.gov."
-    },
-    {
       "title": "Vaccination Trends | Respiratory Illnesses - cdc.gov",
       "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
       "date": "2026-09-18T07:00:00Z",
@@ -1496,12 +1504,12 @@
       "summary": "Weekly US Influenza Surveillance Report: Key Updates for Week 35, ending September 5, 2026 | FluView cdc.gov."
     },
     {
-      "title": "COVID-19 Ensemble Forecasts - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
+      "title": "State/Territory Wastewater Data for Respiratory Viruses - cdc.gov",
+      "url": "https://www.cdc.gov/wastewater/respiratory-viruses/state.html",
       "date": "2026-09-18T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "COVID-19 Ensemble Forecasts Centers for Disease Control and Prevention | CDC (.gov)."
+      "summary": "State/Territory Wastewater Data for Respiratory Viruses cdc.gov."
     },
     {
       "title": "Variolation Techniques, Medical Explanations, and Dissemination in Late Imperial China - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1598,14 +1606,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Genomic Epidemiology of Salmonella Hadar."
-    },
-    {
-      "title": "Systematic Review and Meta-analysis of Group B Streptococcus Rectovaginal Colonization Rates and Serotype Distribution among Pregnant Women, Asia-Pacific Region, 2014–2025 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0687",
-      "date": "2026-09-17T15:36:29Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Group B Streptococcus Rates among Pregnant Women."
     }
   ],
   "clinical_trials": [
@@ -2092,7 +2092,7 @@
       "summary": "A new five-year biotech plan has been released by the Chinese government, revealing ambitious goals such as achieving five blockbuster medicines on the global markets in that time."
     },
     {
-      "title": "Darcalma Interactions Checker - Drugs.com",
+      "title": "Darcalma Interactions Checker - drugs.com",
       "url": "https://www.drugs.com/drug-interactions/hyoscyamine-methenamine-methylene-blue-phenyl-salicylate-sodium-biphosphate,darcalma.html?professional=1",
       "date": "2026-09-18T18:48:32Z",
       "source": "Drugs.com",
@@ -2116,20 +2116,20 @@
       "summary": "A hydrogel-based dermal regenerative template (hDRT) composed of type I bovine collagen microspheres embedded within a lower-density type I bovine collagen hydr."
     },
     {
-      "title": "ASTRO Issues Guidance for Use of Radiation Therapy in Bladder Cancer - drugs.com",
-      "url": "https://www.drugs.com/news/astro-issues-guidance-radiation-therapy-bladder-cancer-131377.html",
-      "date": "2026-09-18T18:34:04Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Recommendations are presented for the use of radiation therapy (RT) in bladder cancer in a clinical practice guideline issued by the American Society for Radiat."
-    },
-    {
       "title": "Strength Training Not Tied to Ventricular Arrhythmia in Those With Arrhythmogenic Cardiomyopathy - drugs.com",
       "url": "https://www.drugs.com/news/training-not-tied-ventricular-arrhythmia-those-arrhythmogenic-cardiomyopathy-131378.html",
       "date": "2026-09-18T18:34:04Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Strength training is not linked to ventricular arrhythmia for people living with arrhythmogenic cardiomyopathy (ACM), according to a study published online Sept."
+    },
+    {
+      "title": "ASTRO Issues Guidance for Use of Radiation Therapy in Bladder Cancer - drugs.com",
+      "url": "https://www.drugs.com/news/astro-issues-guidance-radiation-therapy-bladder-cancer-131377.html",
+      "date": "2026-09-18T18:34:04Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Recommendations are presented for the use of radiation therapy (RT) in bladder cancer in a clinical practice guideline issued by the American Society for Radiat."
     },
     {
       "title": "Composite Biomarker Helps ID Early-Stage Pancreatic Ductal Adenocarcinoma - Drugs.com",
