@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T07:15:13Z",
+  "last_updated": "2026-09-20T07:16:00Z",
   "poland": [
     {
       "title": "WIZYTA U LEKARZA - Rynek Zdrowia",
@@ -306,6 +306,14 @@
       "summary": "Udar pojawia się nagle i nie boli, może za to doprowadzić do trwałego uszkodzenia mózgu, kalectwa, nawet śmierci. Jeszcze do niedawna co roku udaru doznawało 60-70 tys. Polaków, dziś jest to już ponad 90 tys."
     },
     {
+      "title": "Prawo farmaceutyczne - Puls Medycyny",
+      "url": "https://pulsmedycyny.pl/puls-farmacji/prawo-farmaceutyczne/",
+      "date": "2026-09-19T06:41:10Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Sejm uchwalił w piątek (18 września) z poprawkami ustawę znoszącą całkowity zakaz reklamy aptek, do czego zobowiązał Polskę wyrok TSUE. Nowe regulacje pozwolą na prowadzenie reklamy, jednak z ograniczeniami. Złamanie przepisów będzie wiązało się z karą do 1 mln złotych."
+    },
+    {
       "title": "Kobietom rzadziej niż mężczyznom proponuje się aktywne leczenie tych samych schorzeń - Alert Medyczny",
       "url": "https://alertmedyczny.pl/kobietom-rzadziej-niz-mezczyznom-proponuje-sie-aktywne-leczenie-tych-samych-schorzen/",
       "date": "2026-09-19T06:10:14Z",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Otyłość może osłabiać naturalny mechanizm ochrony przed rakiem piersi. Naukowcy odkryli rolę 9S-HODE i ferroptozy."
-    },
-    {
-      "title": "Te dwa czynniki zwiększają ryzyko demencji. Sprawdź, czy też jesteś w grupie ryzyka - Medonet",
-      "url": "https://www.medonet.pl/choroby-od-a-do-z/choroby-neurologiczne/dwie-rzeczy-podnosza-ryzyko-demencji-mnostwo-polakow-ma-z-nimi-problem/hh6ch4q",
-      "date": "2026-09-18T22:15:51Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Badania naukowców ze Szpitala Uniwersyteckiego w Kopenhadze wykazały, że otyłość i nadciśnienie mają bezpośredni wpływ na rozwój demencji. Wczesne leczenie tych schorzeń może znacznie zmniejszyć prawdopodobieństwo wystąpienia choroby."
     }
   ],
   "world": [
@@ -1630,7 +1630,7 @@
       "url": "https://www.appliedclinicaltrialsonline.com/",
       "date": "2026-09-19T08:29:32Z",
       "source": "Applied Clinical Trials",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Applied Clinical Trials Online appliedclinicaltrialsonline.com."
     },
     {
@@ -1826,12 +1826,12 @@
       "summary": "Canadian COVID-19 vaccine-injury debates have often hardened into two camps: vaccines were overwhelmingly beneficial, or authorities catastrophically concealed their harms. Maria Dunning-Ballagh fits neither script&mdash;and that may be precisely why her story matters. CTV News reporter Scott Miller profiles the Walkerton, Ontario woman, who says debilitating symptoms began three weeks after her first COVID-19 vaccination in April 2021."
     },
     {
-      "title": "Lessons from Hundreds of Clinical Trials: AI’s Successes, Gaps, and Opportunities - Applied Clinical Trials Online",
+      "title": "Lessons from Hundreds of Clinical Trials: AI’s Successes, Gaps, and Opportunities - appliedclinicaltrialsonline.com",
       "url": "https://www.appliedclinicaltrialsonline.com/view/lessons-hundreds-clinical-trials-ai-successes-gaps-opportunities",
       "date": "2026-09-17T16:52:20Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
-      "summary": "Lessons from Hundreds of Clinical Trials: AI’s Successes, Gaps, and Opportunities Applied Clinical Trials Online."
+      "summary": "Lessons from Hundreds of Clinical Trials: AI’s Successes, Gaps, and Opportunities appliedclinicaltrialsonline.com."
     },
     {
       "title": "Rama Kondru, PhD - appliedclinicaltrialsonline.com",
@@ -2124,20 +2124,12 @@
       "summary": "Compare Dorzolamide / Timolol Ophthalmic vs Simbrinza head-to-head with other drugs for uses, ratings, cost, side effects and interactions."
     },
     {
-      "title": "Hydrogel-Based Dermal Regenerative Template Shows Promise in Wound Reconstruction - drugs.com",
+      "title": "Hydrogel-Based Dermal Regenerative Template Shows Promise in Wound Reconstruction - Drugs.com",
       "url": "https://www.drugs.com/news/hydrogel-based-dermal-regenerative-template-shows-promise-wound-reconstruction-131380.html",
       "date": "2026-09-18T18:34:04Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "A hydrogel-based dermal regenerative template (hDRT) composed of type I bovine collagen microspheres embedded within a lower-density type I bovine collagen hydr."
-    },
-    {
-      "title": "Strength Training Not Tied to Ventricular Arrhythmia in Those With Arrhythmogenic Cardiomyopathy - drugs.com",
-      "url": "https://www.drugs.com/news/training-not-tied-ventricular-arrhythmia-those-arrhythmogenic-cardiomyopathy-131378.html",
-      "date": "2026-09-18T18:34:04Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Strength training is not linked to ventricular arrhythmia for people living with arrhythmogenic cardiomyopathy (ACM), according to a study published online Sept."
     },
     {
       "title": "ASTRO Issues Guidance for Use of Radiation Therapy in Bladder Cancer - Drugs.com",
@@ -2146,6 +2138,14 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Recommendations are presented for the use of radiation therapy (RT) in bladder cancer in a clinical practice guideline issued by the American Society for Radiat."
+    },
+    {
+      "title": "Strength Training Not Tied to Ventricular Arrhythmia in Those With Arrhythmogenic Cardiomyopathy - Drugs.com",
+      "url": "https://www.drugs.com/news/training-not-tied-ventricular-arrhythmia-those-arrhythmogenic-cardiomyopathy-131378.html",
+      "date": "2026-09-18T18:34:04Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Strength training is not linked to ventricular arrhythmia for people living with arrhythmogenic cardiomyopathy (ACM), according to a study published online Sept."
     },
     {
       "title": "Composite Biomarker Helps ID Early-Stage Pancreatic Ductal Adenocarcinoma - Drugs.com",
