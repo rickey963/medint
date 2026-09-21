@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T12:25:10Z",
+  "last_updated": "2026-09-21T12:27:19Z",
   "poland": [
     {
       "title": "Pierwszy na świecie samobalansujący egzoszkielet osobisty zatwierdzony przez FDA trafił na rynek - Alert Medyczny",
@@ -72,6 +72,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Lekarz dostępny przez aplikację w telefonie. Szpital w Pszczynie testuje nowe rozwiązanie PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Leczenie alzheimera wykracza poza amyloid. Na celowniku inne mechanizmy - Puls Medycyny",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMVFYY2ZkcTlxalBpRXJob2tQU091M2hRN1M1ZzdhY1BKdlVKVnlQV2xKVUFDeG9EdUxSV1lMdmNIVTRhdkVZdEwtek9uaTFRemVLdlhtWGgtLTcwbnd1b0lQQzZ0cmpXUFlWU1ZiTDQ5T01reVdwQVNsZndTc1lWSl9zQnBXQ3NHREFJODdnWFpjOFQwZ2ZPM283ZmVSRVZxcTl2WE9XLVpfSHNna0M4c3gwdU0?oc=5",
+      "date": "2026-09-21T11:19:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Leczenie alzheimera wykracza poza amyloid. Na celowniku inne mechanizmy Puls Medycyny."
     },
     {
       "title": "Leczenie alzheimera wykracza poza amyloid. Na celowniku inne mechanizmy - Puls Medycyny",
@@ -392,17 +400,17 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Moralność według algorytmu - Ze świata - Kurier Medycyna Praktyczna."
-    },
-    {
-      "title": "Telix przejmuje ITM za 1,65 mld USD. Wielka fuzja na rynku radiofarmaceutyków - alertmedyczny.pl",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYnVheEg4V0dCejdxUlV5bDE5UGtDc1I5Z3NyNEQ5S2FmeEI2XzhDNXBMSURJMXI2Sk53NkJWdWlUUmpNNWRtTzhEazJLS3ZNWG52TEFHaGdIMzB0SjRCbFlobmZhN0pfZ0ZEdl9VOVpjdGd4TWxJcko1S2ZzY1N6Qi1FS0xNNlRxRGUzdzV4YWZLajhSREZQaHdmLV9aT0xiMzZZ?oc=5",
-      "date": "2026-09-21T07:16:00Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Telix przejmuje ITM za 1,65 mld USD. Wielka fuzja na rynku radiofarmaceutyków alertmedyczny.pl."
     }
   ],
   "world": [
+    {
+      "title": "Weight Loss Plus Exercise Can Ease Fatigue in Older Adults - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2tlREdOUmd6VmRqUnloMC1XVkJSNVFJd2RLTGJSV3FKRWFfN2dHaFMxR3RCZk9kRlB3aWduNW1lU09OUjdRdnZKemtSWi1UM0pRQUR6VmJFTWV3SjlSNDRxZlJ0Qjc5c1Q2NU9tLXJRTUFJSWRKQkl5dzdwdUkxRmJ2THRuSU9idm1CenFFcUlIcld4dUx5TGJnUEQzTTBkREhwTUVhcU0?oc=5",
+      "date": "2026-09-21T12:22:53Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Weight Loss Plus Exercise Can Ease Fatigue in Older Adults Medscape."
+    },
     {
       "title": "President Trump’s newest vaccine ‘demands’ repeat old misinformation - STAT",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUFjU3JGM2oxclFjM3RxN2hmWXc1OVJtaUdLYjZIOXllMjk2VTM3WGtVZlJMcTU2cFFRcDBteG14YWUtY28wb2czdnhPRlNiTTZjNFdReGdFU1F1eVZwa1RpZ3YzaUdlOFhhWlF6RkRjVkJzOGszcVd0aXBxTFFfZVcyTkltSXhDSmd2YlpXSm5nLTZCV1ZnUTN0YS1zR1QwWTRpZUJR?oc=5",
@@ -794,14 +802,6 @@
       "source": "Cochrane Library",
       "confirmed_by": 1,
       "summary": "New once-daily formula combines pine bark extract, tamarind, chlorella, ginkgo biloba, spirulina, lion’s mane mushroom,."
-    },
-    {
-      "title": "Charting the future of biomarkers and therapy in Alzheimer's disease - The Lancet",
-      "url": "https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(26)00319-4/abstract",
-      "date": "2026-09-20T12:39:45Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Charting the future of biomarkers and therapy in Alzheimer's disease The Lancet."
     }
   ],
   "guidelines": [
@@ -1186,7 +1186,7 @@
       "url": "https://www.escardio.org/guidelines/scientific-documents/recommended-reading/hypertension/",
       "date": "2026-09-11T07:00:00Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Although arterial hypertension is the most common cause of heart failure in women, it is important to assess female-specific risk factors in the prevention of heart failure. To update yourself on these aspects, I recommend reading the ESC expert consensus statement on Prevention of heart failure in women."
     }
   ],
