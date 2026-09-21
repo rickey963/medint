@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T00:58:48Z",
+  "last_updated": "2026-09-21T00:59:40Z",
   "poland": [
     {
       "title": "Rehabilitacja kardiologiczna zmniejsza ryzyko zawału o 28 proc. i hospitalizacji o 35 proc. - Alert Medyczny",
@@ -22,7 +22,7 @@
       "url": "https://ezwm.nfz.gov.pl/",
       "date": "2026-09-20T21:54:29Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 6,
       "summary": "System eZWM (e Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -1102,14 +1102,6 @@
       "summary": "New guidance puts diabetes distress assessment alongside glucose care for adults Medical Xpress."
     },
     {
-      "title": "Department Releases Guidance on Implementing Testosterone Deficiency Screenings for Male Service Members - U.S. Department of War (.gov)",
-      "url": "https://www.war.gov/News/News-Stories/Article/Article/4604632/department-releases-guidance-on-implementing-testosterone-deficiency-screenings/",
-      "date": "2026-09-17T23:27:39Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Department Releases Guidance on Implementing Testosterone Deficiency Screenings for Male Service Members U.S. Department of War (.gov)."
-    },
-    {
       "title": "How to reveal your market access blind spots - NICE website",
       "url": "https://www.nice.org.uk/news/blogs/how-to-reveal-your-market-access-blind-spots",
       "date": "2026-09-17T23:00:00Z",
@@ -1204,6 +1196,14 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Exploring Which EHR Interventions Improve Heart Failure Hospitalization Outcomes Across 10 Hospitals JACC Journals."
+    },
+    {
+      "title": "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 11 września 2026 r. zmieniające rozporządzenie w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy",
+      "url": "https://dziennikustaw.gov.pl/DU/2026/1211",
+      "date": "2026-09-15T17:11:10Z",
+      "source": "Dziennik Ustaw RP",
+      "confirmed_by": 1,
+      "summary": "Opublikowano w Dziennik Ustaw 2026, poz. 1211, z dniem ogłoszenia 2026-09-15."
     }
   ],
   "epidemiology": [
@@ -1432,7 +1432,7 @@
       "summary": "Weekly US Influenza Surveillance Report: Key Updates for Week 36, ending September 12, 2026 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Communicable disease threats report, 12-18 September, week 38 - European Centre for Disease Prevention and Control (ECDC)",
+      "title": "Communicable disease threats report, 12-18 September, week 38 - ecdc.europa.eu",
       "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-12-18-september-week-38",
       "date": "2026-09-18T13:52:50Z",
       "source": "ECDC",
@@ -1480,7 +1480,7 @@
       "summary": "Current Epidemic Trends (Based on Rt) Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
+      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - ecdc.europa.eu",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-18T07:00:00Z",
       "source": "ECDC",
@@ -1502,6 +1502,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Clinical Overview of Cyclosporiasis Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-09-18T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Respiratory Illnesses Data Channel - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1544,20 +1552,20 @@
       "summary": "About CDC's Wastewater Monitoring Program Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "State/Territory Wastewater Data for Respiratory Viruses - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/wastewater/respiratory-viruses/state.html",
-      "date": "2026-09-18T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "State/Territory Wastewater Data for Respiratory Viruses Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "WHO at the United Nations General Assembly 2026 - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/18/default-calendar/who-at-the-united-nations-general-assembly-2026",
       "date": "2026-09-18T07:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "WHO will highlight global health challenges and progress at the 81st United Nations General Assembly (UNGA) during September 2026, focusing on major diseases, health risks, and urgent actions needed worldwide."
+    },
+    {
+      "title": "State/Territory Wastewater Data for Respiratory Viruses - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/wastewater/respiratory-viruses/state.html",
+      "date": "2026-09-18T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "State/Territory Wastewater Data for Respiratory Viruses Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Vaccination Trends | Respiratory Illnesses - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1582,14 +1590,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/measles/data-research/index.html",
-      "date": "2026-09-18T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Advocates, lawmakers call for release of congressionally approved global health funds - CIDRAP",
@@ -2246,7 +2246,7 @@
       "summary": "African officials say the data don’t confirm that the Ebola outbreak has peaked, as cases near 7,500 and deaths top 3,600."
     },
     {
-      "title": "Communicable disease threats report, 12-18 September, week 38 - European Centre for Disease Prevention and Control (ECDC)",
+      "title": "Communicable disease threats report, 12-18 September, week 38 - ecdc.europa.eu",
       "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-12-18-september-week-38",
       "date": "2026-09-18T13:52:50Z",
       "source": "ECDC",
@@ -2254,7 +2254,7 @@
       "summary": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 12-18 September, and includes updates on Ebola, malaria, botulism, avian influenza A(H9N2), influenza A(H5), respiratory virus epidemiology in the EU/.EEA, West Nile virus infections, chikungunya, dengue, Crimean-Congo haemorrhagic fever, Vibrio, measles, and expert deployments."
     },
     {
-      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
+      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - ecdc.europa.eu",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-09-18T07:00:00Z",
       "source": "ECDC",
@@ -2263,6 +2263,14 @@
     }
   ],
   "daily_top5": [
+    {
+      "title": "System eZWM (e - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://ezwm.nfz.gov.pl/",
+      "date": "2026-09-20T21:54:29Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 6,
+      "summary": "System eZWM (e Narodowy Fundusz Zdrowia (NFZ)."
+    },
     {
       "title": "Virtual launch: New report on ethics oversight of AI-related health research - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2026/09/21/default-calendar/virtual-launch-new-report-on-ethics-oversight-of-ai-related-health-research",
@@ -2294,14 +2302,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Health is a human right – yet not everyone can access the health services they need, when and where they need them, without financial hardship. Primary health care (PHC) provides a whole-of-society approach to achieving universal health coverage, putting people and communities at the centre of health systems. Despite nearly 50 years of global commitment to PHC, implementation remains fragmented."
-    },
-    {
-      "title": "Charting the future of biomarkers and therapy in Alzheimer's disease - The Lancet",
-      "url": "https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(26)00319-4/abstract",
-      "date": "2026-09-20T12:39:45Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Charting the future of biomarkers and therapy in Alzheimer's disease The Lancet."
     }
   ]
 }
