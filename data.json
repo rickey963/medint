@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T06:53:30Z",
+  "last_updated": "2026-09-21T06:54:51Z",
   "poland": [
     {
       "title": "Przyszłość CZP pod znakiem sporu - Ochrona zdrowia - mp.pl",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Ivonescimab Extends Survival in PD-L1+ Advanced NSCLC - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzIwaTQyMG5wVElEb3dmQzZrRklyZThBUEszaWV2aU5nTV92ZmNhZlhfSHBfOU1TSTZMVWdwVTd5QmxmZGsxbEtkY1BCNzVlcklYaG5WeWZWSGlfaW1iZE4wZzZkck9QNTlLalpuR2pfMldjVFZBS2thMnI1RU1uNjhTY0VaN29ZcVNUd2pSSDd6cG5ydXduQlRaNkI1X0RY?oc=5",
+      "date": "2026-09-21T06:53:13Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Ivonescimab Extends Survival in PD-L1+ Advanced NSCLC Medscape."
+    },
+    {
       "title": "What Medical Schools Still Aren’t Teaching About AI - Medscape",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORlhWMmJGZmp4Q2Y1bUhTbWExczh6TFlxRGFIb21mMjdDcW1BY3o3bUVES0gxZWdPajZHSW94blVVUUZVVlVjR1ZYb2t4RnhTRGkwbThWN3JBUVZKbTUycnN0Wnl2Vk9BU0xPZDF5VWtoNmJiZVg1WVpqSmxudW9ZWXpkQXo4M2NSYkl3eXZuRm9zclJ6TEsxU01DVEkxVVd5X0VGZXFDNUc?oc=5",
       "date": "2026-09-21T05:52:42Z",
@@ -794,14 +802,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Read this Journal Watch article and more clinical summaries on NEJM Clinician."
-    },
-    {
-      "title": "Survival benefit of deceased donor kidney transplantation versus continued dialysis: international target trial emulation - The BMJ",
-      "url": "https://www.bmj.com/content/394/bmj-2026-100624/rapid-responses",
-      "date": "2026-09-19T09:31:37Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Objective To quantify the survival benefit of deceased donor kidney transplantation versus continued dialysis according to patients’ characteristics (age, diabetes, cardiovascular disease), donor quality (standard criteria donor or expanded criteria donor) and donor retrieval type (donation after brain death or donation after circulatory death). Design Target trial emulation. Setting European Renal Association Registry data from five countries or regions: Catalonia (Spain), Denmark, France, Norway, and the UK."
     }
   ],
   "guidelines": [
@@ -1174,14 +1174,6 @@
       "summary": "Eating four to six servings of wholegrain each day reduces several major risk factors for cardiovascular disease, according to a new study published in the European Heart Journal today."
     },
     {
-      "title": "National Diabetes Statistics Report - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/diabetes/php/data-research/index.html",
-      "date": "2026-09-16T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "National Diabetes Statistics Report Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Exploring Which EHR Interventions Improve Heart Failure Hospitalization Outcomes Across 10 Hospitals - JACC Journals",
       "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2026.109816",
       "date": "2026-09-16T07:00:00Z",
@@ -1204,6 +1196,14 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "ESMO Novel Cancer Therapies 2027: Payment & Cancellation Policy European Society For Medical Oncology | ESMO."
+    },
+    {
+      "title": "Preventing HIV with PrEP - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/hiv/prevention/prep.html",
+      "date": "2026-09-15T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Preventing HIV with PrEP Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
   "epidemiology": [
@@ -1552,20 +1552,20 @@
       "summary": "About CDC's Wastewater Monitoring Program Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "State/Territory Wastewater Data for Respiratory Viruses - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/wastewater/respiratory-viruses/state.html",
-      "date": "2026-09-18T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "State/Territory Wastewater Data for Respiratory Viruses Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Vaccination Trends | Respiratory Illnesses - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/vaccination-trends.html",
       "date": "2026-09-18T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Vaccination Trends | Respiratory Illnesses Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "State/Territory Wastewater Data for Respiratory Viruses - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/wastewater/respiratory-viruses/state.html",
+      "date": "2026-09-18T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "State/Territory Wastewater Data for Respiratory Viruses Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "WHO at the United Nations General Assembly 2026 - World Health Organization (WHO)",
