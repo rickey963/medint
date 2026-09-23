@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T08:39:22Z",
+  "last_updated": "2026-09-23T08:42:55Z",
   "poland": [
     {
       "title": "Zmarł prof. dr hab. Andrzej Mackiewicz. Przez lata rozwijał poznańską onkologię - PolitykaZdrowotna.com",
@@ -404,14 +404,6 @@
   ],
   "world": [
     {
-      "title": "Mentally ill women deserve more support to have children - STAT",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU0kzallzTm90MTZBcW13eE4xWV9SRWdJV3FqZkN0dF9ndENocmp0TUtoclNFYmJsbkRtd0gxZ0ltX1ZWc210VHc1RUZYbXYxVERqUnZkeWJqRUNwWkJHckxOa1dEcktrRzZHUWhvLW5QNUZiTWFaU2RReHRIU1hIZWRkdlllZ182OF84LU9uQUZqdmtXczY0ZnBEU2JraS13SUNrNFdaTUxiYlZ5ZHNSZEJOSFZXZw?oc=5",
-      "date": "2026-09-23T08:34:05Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "Mentally ill women deserve more support to have children STAT."
-    },
-    {
       "title": "A private equity-owned hospital chain is becoming a nonprofit. Is it just a bailout for investors? - STAT",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2FkUlQ5bDZldGFQUV9aVmpJeWszbXNXZnppMWJCVlhLUGxpdTlyVEd1RV9WSmxTaVFpSGRnQ0hnNmJjeFQwSUVvSzZBT3dvNkJlblI1Q1dXazUwQ0ZTQmJhQkQxeHU4ekVWdmJZamR3MnlkVTZ6bHlXOFUwMk12YlgzWGdfMF96eU52R0hTdGp2OFZjWTJMVHR3?oc=5",
       "date": "2026-09-23T08:33:45Z",
@@ -426,6 +418,14 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "UnitedHealth, CVS push back on Medicare plan to curb remote patient monitoring STAT."
+    },
+    {
+      "title": "Mentally ill women deserve more support to have children - STAT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU0kzallzTm90MTZBcW13eE4xWV9SRWdJV3FqZkN0dF9ndENocmp0TUtoclNFYmJsbkRtd0gxZ0ltX1ZWc210VHc1RUZYbXYxVERqUnZkeWJqRUNwWkJHckxOa1dEcktrRzZHUWhvLW5QNUZiTWFaU2RReHRIU1hIZWRkdlllZ182OF84LU9uQUZqdmtXczY0ZnBEU2JraS13SUNrNFdaTUxiYlZ5ZHNSZEJOSFZXZw?oc=5",
+      "date": "2026-09-23T08:33:45Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Mentally ill women deserve more support to have children STAT."
     },
     {
       "title": "Drugmakers, biotech VCs show ‘reinvigorated’ interest in osteoporosis treatments - STAT",
@@ -1058,7 +1058,7 @@
       "url": "https://www.cdc.gov/respiratory-viruses/data/index.html",
       "date": "2026-09-18T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Respiratory Illnesses Data Channel Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1068,14 +1068,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Weekly US Influenza Surveillance Report: Key Updates for Week 35, ending September 5, 2026 Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/measles/data-research/index.html",
-      "date": "2026-09-18T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Trastuzumab deruxtecan for treating HER2-low metastatic or unresectable breast cancer after chemotherapy - NICE website",
@@ -1094,6 +1086,14 @@
       "summary": "Learn how NICE Advice’s system engagement service helps life sciences companies spot NHS adoption barriers before they become roadblocks."
     },
     {
+      "title": "Syphilis Screening in Correctional Facilities — Alaska, October 2023–September 2025 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7536a1.htm",
+      "date": "2026-09-17T17:02:52Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Syphilis Screening in Correctional Facilities — Alaska, October 2023–September 2025 Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "Perioperative Durvalumab Continues to Show Clinical Benefit in Patients with Resectable Stage IIA to IIIB NSCLC - European Society For Medical Oncology | ESMO",
       "url": "https://www.esmo.org/oncology-news/perioperative-durvalumab-continues-to-show-clinical-benefit-in-patients-with-resectable-stage-iia-to-iiib-nsclc",
       "date": "2026-09-17T14:11:09Z",
@@ -1102,7 +1102,7 @@
       "summary": "Perioperative Durvalumab Continues to Show Clinical Benefit in Patients with Resectable Stage IIA to IIIB NSCLC European Society For Medical Oncology | ESMO."
     },
     {
-      "title": "Women’s kidney health may be overlooked, delaying critical prevention and treatment opportunities - newsroom.heart.org",
+      "title": "Women’s kidney health may be overlooked, delaying critical prevention and treatment opportunities - www.heart.org",
       "url": "https://newsroom.heart.org/news/womens-kidney-health-may-be-overlooked-delaying-critical-prevention-and-treatment-opportunities",
       "date": "2026-09-17T13:03:50Z",
       "source": "Wytyczne AHA/ACC",
