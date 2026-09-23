@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T16:54:02Z",
+  "last_updated": "2026-09-23T16:57:53Z",
   "poland": [
     {
       "title": "\"Nadal nie wierzę, że jestem chora, to jakaś abstrakcja\". Nieświadomość może trwać latami - Medonet",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Wastewater surveillance: UKHSA expands programme to detect major health threats - The BMJ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpVVpJMzJ0NlBYeXlGZmFQUVJOM3AwTEN1NjNaOXBPaFQtdEVpdGtNd256N040aVVmZndzOC11TzMtZXIzSlRWNjYweGkydUxfXzNlT210UlpuLXM?oc=5",
+      "date": "2026-09-23T16:52:50Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Wastewater surveillance: UKHSA expands programme to detect major health threats The BMJ."
+    },
+    {
       "title": "Flagship gets a Pentagon contract - STAT",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ0l2Q3RPWlhDSGQ5ZUFaY0dPOUNlT0NfUjV6YzMwYmd6SDZ2N0t4aERROGxaUWlJTjZQWTNiLXlLVnJsc0lQYXZlbTVjeTkxS0tKY1FQVWJDSW1sbUF3M1pWWWVSUTAtVVJtZFU4SUZfT2ViRlowdE5qZEd1YXJGVGhNLWhkZHRBSzBV?oc=5",
       "date": "2026-09-23T13:38:45Z",
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Did the Trump administration just cut Novo a huge financial win? STAT."
-    },
-    {
-      "title": "Is artificial intelligence an aid or an adversary to the global health workforce? - World Health Organization (WHO)",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/24/default-calendar/is-artificial-intelligence-an-aid-or-an-adversary-to-the-global-health-workforce",
-      "date": "2026-09-22T20:49:42Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Join this FREE online webinar held by the Royal College of General Practitioners (RCGP) in collaboration with the World Health Organisation (WHO).Artificial intelligence (AI) is rapidly reshaping health systems, creating new opportunities and challenges for workforce education, management and planning. This webinar will examine how AI is influencing the skills required of health professionals, transforming workforce deployment and decision-making and shaping national and global health labour markets. Participants will explore key lessons from emerging practice, including both the benefits of AI-enabled innovation and the barriers that may limit its adoption, such as workforce readiness, regulation, ethics and equity concerns."
     }
   ],
   "guidelines": [
@@ -812,6 +812,14 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 2,
       "summary": "The management of invasive lobular breast cancer is evolving European Society For Medical Oncology | ESMO."
+    },
+    {
+      "title": "FDA approves lutetium Lu 177 vipivotide tetraxetan with ARPI therapy for metastatic androgen pathway modulation-naïve or -sensitive prostate cancer - esmo.org",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNYUI2QjgtalBnaDFiTDJlMjI1UFVFeG5jWHVoRWxaeFBPWjktSGxFWmdzN1U4b09xWWRlNE1aWlE4dWFSdmwtV1lyZWJsVk8zUnBPMWp2OU9MVkhkMENDTjh0bk96SllmVHhzZURRUk53bDQzaldNeU9uLXZIYkZnQVpFYW5jcUFfVG0yaGw5T0VMT0luX09HM2R0a1pINDZJUy05dVpOck14YXVYTnllNzYzU1NSWW82X29YcXBabEhnTnVfV0pBYmFuRUEwRGRTZEtvTUxhQWpIRFpPb3FqSU5VT0JzUUJjcE56T0dXbzF2akRXN1VMRTZLNGoxNG5HVERlTkVfdEtUNmFManB5VzZjN3FjOEN5cVE?oc=5",
+      "date": "2026-09-23T15:43:21Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "FDA approves lutetium Lu 177 vipivotide tetraxetan with ARPI therapy for metastatic androgen pathway modulation-naïve or -sensitive prostate cancer esmo.org."
     },
     {
       "title": "Ibrutinib with R-CHOP for untreated mantle cell lymphoma when a stem cell transplant is suitable - NICE website",
@@ -1196,14 +1204,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Eating four to six servings of wholegrain each day reduces several major risk factors for cardiovascular disease, according to a new study published in the European Heart Journal today."
-    },
-    {
-      "title": "Paper of the month - European Society of Cardiology",
-      "url": "https://www.escardio.org/guidelines/scientific-documents/recommended-reading/hypertension/",
-      "date": "2026-09-11T07:00:00Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Although arterial hypertension is the most common cause of heart failure in women, it is important to assess female-specific risk factors in the prevention of heart failure. To update yourself on these aspects, I recommend reading the ESC expert consensus statement on Prevention of heart failure in women."
     }
   ],
   "epidemiology": [
@@ -1614,7 +1614,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUN0MEZEcENVUUx0OEFUUzJSb0hkSVJlOHNuNVN5bW1WVzRUaTVaUEpBM1dJb2t4MXBqdTBfM0VGTW4xVlBTN2pEbjZlMHl4S0s2ZUJ4bXFuODM4U3VlckxmTmJYZmZWdHd2SVpwOHVvcGpuay1yQV9LQ1ZETTc0a1lwUGVOTi03dHF3YlN5RjdGaUxMMDN3VEtHcDlPZXZ3QWc?oc=5",
       "date": "2026-09-23T15:40:21Z",
       "source": "Clinical Trials Arena",
-      "confirmed_by": 17,
+      "confirmed_by": 16,
       "summary": "First of Amgen’s Phase III Sjögren’s disease trials succeeds Clinical Trials Arena."
     },
     {
@@ -1648,14 +1648,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "NCT03759873 - ClinicalTrials.gov Clinical Trials.gov."
-    },
-    {
-      "title": "NCT00000516 - ClinicalTrials.gov - Clinical Trials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02RXlvUE5wbEY1bGNmcURkRjdULVNiRHd0MEhDeXR6bmM1elNQaXlUUF9wcHhFb1Zxa2p1bkdWS3E0dDVPS1JGM2tSaTVyTDU2bFBkOTRJdTNncEVsby1JYWU2TzZEQQ?oc=5",
-      "date": "2026-09-23T04:55:25Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "NCT00000516 - ClinicalTrials.gov Clinical Trials.gov."
     },
     {
       "title": "NCT00814099 - ClinicalTrials.gov - Clinical Trials.gov",
@@ -1800,6 +1792,14 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Moderna’s $69 Billion Question: Cancer Vaccine Excitement Meets an Extraordinary Valuation trialsitenews.com."
+    },
+    {
+      "title": "NCT00000516 - ClinicalTrials.gov - Clinical Trials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02RXlvUE5wbEY1bGNmcURkRjdULVNiRHd0MEhDeXR6bmM1elNQaXlUUF9wcHhFb1Zxa2p1bkdWS3E0dDVPS1JGM2tSaTVyTDU2bFBkOTRJdTNncEVsby1JYWU2TzZEQQ?oc=5",
+      "date": "2026-09-21T23:37:03Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "NCT00000516 - ClinicalTrials.gov Clinical Trials.gov."
     },
     {
       "title": "Who Really Controls NIH? White House Grant Plan Exposes a Larger Battle for Power Inside Trump’s Health Government - trialsitenews.com",
@@ -1972,12 +1972,20 @@
       "summary": "Enveda raises its third megaround in as many years for I&I and weight maintenance drug candidates Endpoints News."
     },
     {
-      "title": "Anti-Trans Laws Fuel Nationwide Stress, U.S. Study Finds - Drugs.com",
+      "title": "MCGP Sept. 23, 2026 FDA Panel Questions - fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vdWJqUV9sM1NPelpnYUZLbzA3eno0dGVKa0NzdTBDd2QxWWNGdzhkbVZzUUdZMUVldWV1RXVHWFdyRDhRWlR1MHUweC1HRmVndkw4?oc=5",
+      "date": "2026-09-23T15:13:54Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "MCGP Sept. 23, 2026 FDA Panel Questions fda.gov."
+    },
+    {
+      "title": "Anti-Trans Laws Fuel Nationwide Stress, U.S. Study Finds - drugs.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRUhORGpIcDVYdUtaMzdUUTFLdUQzS2NrZ0Zpd1RjMXA3UGlzdmhWUHlEakxfX2p6YS16WkJreWgyai0xdy1MdkdVdVFFZ2MtT2tTaGRmRGIzdU5KVmx6ZDVWQi0wamsxdjk1U1drWFZQMXJPZVhqMXFhSDFuRGNBQW5Da0c1RjcybW93Sm1yUnJ0ZzRHQ200LQ?oc=5",
       "date": "2026-09-23T14:36:28Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "Anti-Trans Laws Fuel Nationwide Stress, U.S. Study Finds Drugs.com."
+      "summary": "Anti-Trans Laws Fuel Nationwide Stress, U.S. Study Finds drugs.com."
     },
     {
       "title": "Basecamp Research lands $140M Series C to test AI-designed drugs - Dealroom",
@@ -2050,14 +2058,6 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Basecamp raises $140M Series C, unveils six-program pipeline in test of its AI Endpoints News."
-    },
-    {
-      "title": "MCGP Sept. 23, 2026 FDA Panel Questions - fda.gov",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vdWJqUV9sM1NPelpnYUZLbzA3eno0dGVKa0NzdTBDd2QxWWNGdzhkbVZzUUdZMUVldWV1RXVHWFdyRDhRWlR1MHUweC1HRmVndkw4?oc=5",
-      "date": "2026-09-23T11:02:07Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "MCGP Sept. 23, 2026 FDA Panel Questions fda.gov."
     },
     {
       "title": "Stable angina pectoris - European Medicines Agency (EMA)",
@@ -2364,7 +2364,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUN0MEZEcENVUUx0OEFUUzJSb0hkSVJlOHNuNVN5bW1WVzRUaTVaUEpBM1dJb2t4MXBqdTBfM0VGTW4xVlBTN2pEbjZlMHl4S0s2ZUJ4bXFuODM4U3VlckxmTmJYZmZWdHd2SVpwOHVvcGpuay1yQV9LQ1ZETTc0a1lwUGVOTi03dHF3YlN5RjdGaUxMMDN3VEtHcDlPZXZ3QWc?oc=5",
       "date": "2026-09-23T15:40:21Z",
       "source": "Clinical Trials Arena",
-      "confirmed_by": 17,
+      "confirmed_by": 16,
       "summary": "First of Amgen’s Phase III Sjögren’s disease trials succeeds Clinical Trials Arena."
     },
     {
