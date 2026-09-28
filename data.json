@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T06:27:40Z",
+  "last_updated": "2026-09-28T06:31:38Z",
   "poland": [
     {
       "title": "Rząd chce mocniej chronić dane medyczne. Gawkowski zapowiada nowe przepisy - Alert Medyczny",
@@ -40,6 +40,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Migrena częstsza o 40 proc. u kobiet z przerośniętymi piersiami. Nowe badanie Alert Medyczny."
+    },
+    {
+      "title": "W USA żyje się krócej niż w innych bogatych krajach. Znamy powody - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEFMT3dhYjlyclJMbTZCbjdIbXk1M3U0am1HUVQ0Z3BFQXF1NDYyTlR6ZFM3dDExeTB1ekNCbExmWU84MG5jTmxQb1Y2X0IwZlZyTnF0RlB1eHQ4X0MzeGQwUEVyOE1FN19SVnFZaUJCdkh2Zlg5eTRkSEthTGdyVGg2MVFZRkZUVlNQc3lrLTFaUVlvN3k2Z2JtUXhHdXFlTjl2ZXY4NVkyd2owb292TGdYdTdESHJ3TmhxMXhhbw?oc=5",
+      "date": "2026-09-28T05:10:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "W USA żyje się krócej niż w innych bogatych krajach. Znamy powody Rynek Zdrowia."
     },
     {
       "title": "Robot da Vinci trafi do szpitala w Koszalinie. Miasto przekaże milion złotych na zakup - politykazdrowotna.com",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Gałązka-Sobotka: NFZ może stymulować szpitale, by sięgały po innowacje Rynek Zdrowia."
-    },
-    {
-      "title": "Samotność zabiera zdrowie. Policzyli nawet ile lat - PolitykaZdrowotna.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56emVXd3YyR09GN3ZHU0dDc0g0NG5Qdy0tR0NnQkRfYnpnblVtYUFUaXBZUnVCSUV4RkxTSGxLcnVSTGJsTzMyRzFkREN6cEtnNTVaTFJxOGlWMm9GZEVHN0FUX2dkUzhYVEhaWGNkZ01VaUVHN1h2bHVjWjM?oc=5",
-      "date": "2026-09-27T07:30:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Samotność zabiera zdrowie. Policzyli nawet ile lat PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -1216,12 +1216,12 @@
       "summary": "Every year on 28 September, the global community comes together to raise awareness about rabies elimination! This year’s World Rabies Day theme, “Stronger Together,” highlights a simple truth: rabies elimination is only possible when we work together."
     },
     {
-      "title": "Figure 2 - Comparison of Baloxavir-Based Combinations and Monotherapies for Treating Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Mice - Volume 32, Number 10—October 2026 - Emerging Infectious Diseases journal - wwwnc.cdc.gov",
+      "title": "Figure 2 - Comparison of Baloxavir-Based Combinations and Monotherapies for Treating Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Mice - Volume 32, Number 10—October 2026 - Emerging Infectious Diseases journal - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOc21YVjhkYTI3THV4N3pzU25vT0VFSFZUS1haNk5xOFN2MXdGTTZoT09keG4xbUU5ZXhDdm4wNzZkWTlRMVJWNV9oNE5uR00xQWE0cXNGb0RkaHJWNTVz?oc=5",
       "date": "2026-09-26T23:02:29Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Figure 2 - Comparison of Baloxavir-Based Combinations and Monotherapies for Treating Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Mice - Volume 32, Number 10—October 2026 - Emerging Infectious Diseases journal wwwnc.cdc.gov."
+      "summary": "Figure 2 - Comparison of Baloxavir-Based Combinations and Monotherapies for Treating Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Mice - Volume 32, Number 10—October 2026 - Emerging Infectious Diseases journal Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Figure 4 - Comparison of Baloxavir-Based Combinations and Monotherapies for Treating Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Mice - Volume 32, Number 10—October 2026 - Emerging Infectious Diseases journal - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1496,20 +1496,20 @@
       "summary": "Recommended composition of influenza virus vaccines for use in the 2027 southern hemisphere influenza season World Health Organization (WHO)."
     },
     {
-      "title": "Isothermal Detection of Influenza D Virus using Reverse Transcription Loop-Mediated Isothermal Amplification - wwwnc.cdc.gov",
+      "title": "Isothermal Detection of Influenza D Virus using Reverse Transcription Loop-Mediated Isothermal Amplification - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fcnMyUmVteGFxWDdVeEZkRUxQSENCTzJQZjFlU2VTYTlyTkNaNFJNbGF6WDlkNHJfWkY2UVpndEIzbTZzNGEtUzJFXzhxWUtyXzB0UnVKOTVBal8tVGxz?oc=5",
       "date": "2026-09-25T10:25:41Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Isothermal Detection of Influenza D Virus using Reverse Transcription Loop-Mediated Isothermal Amplification wwwnc.cdc.gov."
+      "summary": "Isothermal Detection of Influenza D Virus using Reverse Transcription Loop-Mediated Isothermal Amplification Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025 - wwwnc.cdc.gov",
+      "title": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025 - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TX3VZN1dWYzFzTVFyUzhjNW5kU050cHo2N2NvTml1cHNDRGFOb3BOSnN6U0hDMk1WbGI0bE1YNWxCNzlVb2h4ZkNKMGJnRkxIRGZQeHlfSk5NLVQxNkZj?oc=5",
       "date": "2026-09-25T10:24:42Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025 wwwnc.cdc.gov."
+      "summary": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Age Differences in Pertussis Epidemics, New South Wales, Australia, 2015 and 2024 - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1576,14 +1576,6 @@
       "summary": "Respiratory Illnesses Data Channel Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Respiratory Virus Activity Levels - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
-      "date": "2026-09-25T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Respiratory Virus Activity Levels Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Infection Control Guidance: Candida auris - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yVGZZcEkwU2dKZDVITFJ1OEhGR0pyWGpzU3llUVZyYS01YXd3QkpQNG5jeEZtaF82ZFIyd1hOZVVKVm1EdmItc2FFSDlhM013N0tIcWY3aHpaTVRWVzhobFY0VWJLdzJhOUh5OE5ub3o0WWJH?oc=5",
       "date": "2026-09-25T07:00:00Z",
@@ -1598,6 +1590,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Respiratory Virus Activity Levels - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
+      "date": "2026-09-25T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Respiratory Virus Activity Levels Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Ebola Communication Resources for Healthcare Providers - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1852,12 +1852,12 @@
       "summary": "\"Six-sided\" Pill Images Drugs.com."
     },
     {
-      "title": "\"Rectangle\" Pill Images - drugs.com",
+      "title": "\"Rectangle\" Pill Images - Drugs.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZnpkR3NhMnJzd2Y5LUo0SUtHQmZ0QkxwVTJoME13QWhFY2ZZdjEycHBqb21DTERWNDctZXdlLUxmYVpJRzlSRnoxTmhhQnk0dmdzWFVsN3NIZDRjVnZtZ28xX0lDTnVWZ0hYcmUtdnZSR09ySmMwdlFPZlFaX0JOY3ltRFJxVDdY?oc=5",
       "date": "2026-09-27T10:04:19Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
-      "summary": "\"Rectangle\" Pill Images drugs.com."
+      "summary": "\"Rectangle\" Pill Images Drugs.com."
     },
     {
       "title": "\"e1 Yellow\" Pill Images - Drugs.com",
@@ -2116,12 +2116,12 @@
       "summary": "Insulin efsitora alfa (Ingredient) Drugs.com."
     },
     {
-      "title": "Three Topics Dominated US FDA Commissioner Nominee Overton’s Senate Hearing - insights.citeline.com",
+      "title": "Three Topics Dominated US FDA Commissioner Nominee Overton’s Senate Hearing - pink.pharmaintelligence.informa.com",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQ0FCcUhEcVdzZTBlM0pGVmo4b09DWjRWSlFZVVlSQ0l3SmtYeHNiUG1UQXV2b0JPaXVZR3JHb0pqUzN3N2VCNmpxR3RiMVFZVXFYS09lRGN1LVdWTVRkb3AtYUZENDBXd05GQUM3SXdndlV5UU9RWDlsUzRyVEF2ZWJzMkpRcVlvdGhYSDIyei05RHZPVWlJTXcwYnlVSFZnbHp2VTg4MzctNHI2cDJWNWRoTGxmM0E3bzlMLXc1b1VrVDJQNHhQTmZQV2RJcGFmUVZYcHU5WWxXMnF2WHB6S1J2WHZScVRDNmM1d0tQVzJzWVlucFJuazJCb3p0SkpjSDBMOGExeS1BX0I4eHlz?oc=5",
       "date": "2026-09-25T22:04:04Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Three Topics Dominated US FDA Commissioner Nominee Overton’s Senate Hearing insights.citeline.com."
+      "summary": "Three Topics Dominated US FDA Commissioner Nominee Overton’s Senate Hearing pink.pharmaintelligence.informa.com."
     },
     {
       "title": "Infrastructure procedures - European Medicines Agency (EMA)",
@@ -2132,12 +2132,12 @@
       "summary": "Infrastructure procedures European Medicines Agency (EMA)."
     },
     {
-      "title": "Industry Pushes US FDA To Define ‘Highly Persuasive’ Single-Trial Bar - insights.citeline.com",
+      "title": "Industry Pushes US FDA To Define ‘Highly Persuasive’ Single-Trial Bar - pink.pharmaintelligence.informa.com",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNa3ZGcDVLbmRidmRXNGFIcndyNjhVODM2VGhkQlNHX2JIWUthcHBaRnBYRlhRdEhBR2JFQ3dYZlBUYVBFWU1ZeHdZNmpOcHRhQkticE5QbHhCZXRQZExUQm4teEZlYTVaOFhWalpPbVVkYlJBR3B5Tk9veE14b0JyTTRNdk9nN1hwMG9qTHRpcmtjdk0ySEhaR01qU05JNW55MDJicUFtN2lra2swZFFRNndieEFRTWdRWmt5cnpCYlljLWgwQkZHSTRiM2d5Rk5pWGgwdkVFVzNLb1hWNlZvOVR5R0tuOVFqcXlpTDVxVzZGYXZHMXlPMWVlUThFWVQwQ0tkZXFMS0JaR0RxTnVqUDJYM0hpWDU5MWhfXw?oc=5",
       "date": "2026-09-25T21:01:07Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
-      "summary": "Industry Pushes US FDA To Define ‘Highly Persuasive’ Single-Trial Bar insights.citeline.com."
+      "summary": "Industry Pushes US FDA To Define ‘Highly Persuasive’ Single-Trial Bar pink.pharmaintelligence.informa.com."
     },
     {
       "title": "Mirum bags FDA approval for ultra-rare bone lesion disorder, heating up rivalry with Regeneron - Fierce Pharma",
@@ -2174,12 +2174,12 @@
   ],
   "critical_alerts": [
     {
-      "title": "Figure 2 - Comparison of Baloxavir-Based Combinations and Monotherapies for Treating Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Mice - Volume 32, Number 10—October 2026 - Emerging Infectious Diseases journal - wwwnc.cdc.gov",
+      "title": "Figure 2 - Comparison of Baloxavir-Based Combinations and Monotherapies for Treating Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Mice - Volume 32, Number 10—October 2026 - Emerging Infectious Diseases journal - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOc21YVjhkYTI3THV4N3pzU25vT0VFSFZUS1haNk5xOFN2MXdGTTZoT09keG4xbUU5ZXhDdm4wNzZkWTlRMVJWNV9oNE5uR00xQWE0cXNGb0RkaHJWNTVz?oc=5",
       "date": "2026-09-26T23:02:29Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Figure 2 - Comparison of Baloxavir-Based Combinations and Monotherapies for Treating Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Mice - Volume 32, Number 10—October 2026 - Emerging Infectious Diseases journal wwwnc.cdc.gov."
+      "summary": "Figure 2 - Comparison of Baloxavir-Based Combinations and Monotherapies for Treating Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Mice - Volume 32, Number 10—October 2026 - Emerging Infectious Diseases journal Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Figure 4 - Comparison of Baloxavir-Based Combinations and Monotherapies for Treating Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Mice - Volume 32, Number 10—October 2026 - Emerging Infectious Diseases journal - Centers for Disease Control and Prevention | CDC (.gov)",
