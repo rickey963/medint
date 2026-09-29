@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T10:30:01Z",
+  "last_updated": "2026-09-29T10:34:24Z",
   "poland": [
     {
       "title": "Szpitale bez zapasów na wypadek wojny - Termedia",
@@ -40,6 +40,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Nowe zalecenia UE. Po 35. roku życia badania serca co najmniej raz na 5 lat Alert Medyczny."
+    },
+    {
+      "title": "Ogłoszenia o pracę - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzlQX1pTcGN2WGwzQUN2a1VhLXZuNHU2YXRxenpZQjBmdHBtal92T2M1RGRfSkNzNTFxNS1GMTVvTGRvdVBvdXd0alg4ZEUtZlo0U2hVYUVfUzRNS283Q09vakNReW83YWRGVVJ1N2daUGdFc0d5NjRMNHBTeFVKcm5TSQ?oc=5",
+      "date": "2026-09-29T09:45:00Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 4,
+      "summary": "Ogłoszenia o pracę Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
       "title": "Koniec z lekarzami na walizkach - Termedia",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Europa chce zatrzymać medyków w zawodzie. Stawką jest m.in. dostęp pacjentów do leczenia Rynek Zdrowia."
-    },
-    {
-      "title": "ZUS czeka na zaświadczenie do 30 września. Potem wstrzyma wypłaty - Rynek Zdrowia",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRE9iSnRBcm5sVUdkTUNjclJxOFRpSUhzODJZVHI5d1RrX25fT3Z0UV9qV3FudUZJYTluRlRNeml1LWpsZXFkaDJEc3FqZWJORER5MEt5QVJjeEZLRG9FV3lDdk5fcXpaY2gxaWcxcTNQVGdoeXBON1AwVlBic1Jac2lyd1U2VjNtaFdCOTdFUkZMTTVjTEg1ckpFWm5QNWZaYlNHSzVLRDJDOHBJZV9vRWdiQ0NtUXVySVVnWENjdzFNQlVrRFQ0?oc=5",
-      "date": "2026-09-28T16:20:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "ZUS czeka na zaświadczenie do 30 września. Potem wstrzyma wypłaty Rynek Zdrowia."
     }
   ],
   "world": [
@@ -1580,6 +1580,14 @@
   ],
   "pharma_market": [
     {
+      "title": "BioNTech to close three sites in Germany after failing to secure a sale - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMG9pN0sxb09TUTBnVjZWY01aRkZFQVhOZFZuYkZRNU5mNTBnY3NQbVlDWDhYQlpyUzhvZlBZNGNLd3ZSLTctRVVPNDB6X2p5ZnJHTmRid19TWWFWQlhwN01yQ29DOUF3WFZoV2tHVFQxMS1LbTI1MzhEZlVOT1JSZjlfbTBiajliN3NjOUZqNzg4NExiOVdmUkJ1NA?oc=5",
+      "date": "2026-09-29T10:28:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 2,
+      "summary": "BioNTech to close three sites in Germany after failing to secure a sale Endpoints News."
+    },
+    {
       "title": "What We’re Reading - BioPharma Dive",
       "url": "https://www.biopharmadive.com/what-we-are-reading/",
       "date": "2026-09-29T09:49:13Z",
@@ -1970,14 +1978,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "510(k) Premarket Notification accessdata.fda.gov."
-    },
-    {
-      "title": "Eli Lilly's new initiative will take GLP-1s to lower-income nations - Fierce Pharma",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPenZJTk5WdXF3dTBtdVRFakxtVTJ2dW1nOVhVSUwzbF92OGZkZ3d2NkR4Rk9GdjJJYUJEQTJzTXJIUEt3SnVCSjZPSlpBaXhHYzVRVkk3N1RCR1lBU2NqMmU3VDdCNGJ5MXVySml5STV5b2ZLQ0hkc2hPaHFFV0xGYi1wdGRFM01McDBkYUhCUnNVX0xUTGY0X05fQQ?oc=5",
-      "date": "2026-09-28T13:59:49Z",
-      "source": "FiercePharma",
-      "confirmed_by": 1,
-      "summary": "Eli Lilly's new initiative will take GLP-1s to lower-income nations Fierce Pharma."
     }
   ],
   "critical_alerts": [
