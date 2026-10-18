@@ -1,19 +1,1915 @@
 {
-  "last_updated": "2026-10-08T10:23:33Z",
-  "poland": [],
-  "world": [],
-  "guidelines": [],
-  "epidemiology": [],
-  "clinical_trials": [],
-  "pharma_market": [],
-  "critical_alerts": [
+  "last_updated": "2026-10-18T21:51:09Z",
+  "poland": [
     {
-      "title": "Sytuacja stabilna - brak nowych alertów medycznych",
-      "summary": "",
-      "url": "",
-      "source": "",
-      "date": "2026-10-08T10:23:33Z"
+      "title": "System eZWM (e - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://ezwm.nfz.gov.pl/",
+      "date": "2026-10-18T17:49:45Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 2,
+      "summary": "System eZWM (e Narodowy Fundusz Zdrowia (NFZ)."
+    },
+    {
+      "title": "Najważniejsze informacje z posiedzenia CHMP - Ze świata - Kurier - Medycyna Praktyczna",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGdNZlNGVURxQ1VvUGNSNVBGM3VWUXR3aG15Wk90eHQzVFZYdFdUYkdZY2JIZE9YQVJaR3U3N1hJSmRqU0RhNlFHXzB6Y0p0R2ltWC1zdTdBYmhiZEt3MmlKWmlyU3VlcjRLMUxIdzljb3d6dkVsWmc2Z0x6ak5kbg?oc=5",
+      "date": "2026-10-18T17:48:23Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Najważniejsze informacje z posiedzenia CHMP - Ze świata - Kurier Medycyna Praktyczna."
+    },
+    {
+      "title": "Składka zdrowotna od dodatkowej działalności. Petycja o zmianę zasad do ministerstwa - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVFqVEJmOF9VSDdMcEtrSjcxbXNLZExYSmE0VDdBUmNVWHVFdm1zeUZWOEJKaDNidDdFeUQ1NDh3ME9acXFuY3VtQVJVcV9JaFhyejk4N2VXSnYyT1NBWTRUbWl1LW5xSnFSUW5ORERNaWxoNDZFMFFMcXBsTFRmTDVTLTl3VmNVakI2RFppZWZQVDIyTVZyczBpUHQzdFBGc2RjbUMzTC1zc1h5ck1aeDR0TWFseS00VzlpX1d6NXF1Qkt1eEZBcWhmVQ?oc=5",
+      "date": "2026-10-18T16:45:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Składka zdrowotna od dodatkowej działalności. Petycja o zmianę zasad do ministerstwa Rynek Zdrowia."
+    },
+    {
+      "title": "Pobyt w DPS może odebrać seniorowi 366 zł miesięcznie. Decyduje liczba dni - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSTBPOXliNVhTVi1TZlprVXRWdV9oWDJJbVZWU09EbHN3aC1fWk1IVFlkWFAwWUdZTVZ5V0lhVlE4X3M3MU5BNm05enVSZHE4WXR1R2EwR2JZbDBMR2ZCMVREeGc4WUo5TW5zQXdHWVl4UzVqdVNEdklvNkpfNkNrWjhrTzdwdTZxa2lRTzhhNVB5am9ZOGhhT2hRQVREWXQ3YzdQdHZhSzM0M1B5YjFQQzVxUjFYeVlEcGdMeEJGSQ?oc=5",
+      "date": "2026-10-18T16:30:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Pobyt w DPS może odebrać seniorowi 366 zł miesięcznie. Decyduje liczba dni Rynek Zdrowia."
+    },
+    {
+      "title": "NFZ zmienia zasady od 2 listopada. Chodzi o wizyty, badania i zabiegi - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXFndF9MWDFLUElxYmp3a1l4c1UybnFuNmM4dFEyTnk5Ny03MUFmc21GYnZIM1ZqZHJQeXdDRnVpNThURWJUOGNBVGFWMFllVUNvTkxEMzBDd3ZLZHpJeFNpVGlYQ3RuclphemNoZWdINzhOTXdaWFkteUxTSXdLdW9mb0Q4SVhHVGNZZTRiRlFOV2VRVVFqLUhrQm8yS19VZ3V3S0F3aEJ2OTJmRjZfakRFN2lnVlZXSjVN?oc=5",
+      "date": "2026-10-18T16:00:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "NFZ zmienia zasady od 2 listopada. Chodzi o wizyty, badania i zabiegi Rynek Zdrowia."
+    },
+    {
+      "title": "Aktualności (strona 16) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Płońsku - Gov.pl",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRczJmSDBKQnJiUGhPVS1QT0JHSmpHcGZ1THFzTlYyWHNaSGtsWmtFQUdadnFkTWlvOXVtYWdfS1BjbXFjV2NrcW4xQi11TTJWSDY2d0xsZmVENDVrTHFnVDZlZm9FeFNZY0x3M19NX1o?oc=5",
+      "date": "2026-10-18T15:35:02Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Aktualności (strona 16) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Płońsku Gov.pl."
+    },
+    {
+      "title": "Bilans tygodnia: pakiet reform ochrony zdrowia do zmiany? Minister zaskoczyła - Puls Medycyny",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd09FQ3lEQURWNU1hanlIMEZhY2J1b3MxTmwwa01mX212dTFfaDJ4dlhqeFB6ajVyTDdWUzA2eFRRRkpEYnQzRDdqcURsTDdPYWszMkM3ZVo0RFFjQ2pRdkNRQktEMTVhbHZ2LUI2eDNhZ3F0ckRPdmZhNHoyVGhVV05aaFZBY2Iyc2FxUDN3S1ZJYjlVeFpVckk5OTEzV09yV01QcTI4SU9wY2FCWXRiX2ZHQ3NFaGVkSWRhZDJLUGhNVUVtd2FsTw?oc=5",
+      "date": "2026-10-18T15:23:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Bilans tygodnia: pakiet reform ochrony zdrowia do zmiany? Minister zaskoczyła Puls Medycyny."
+    },
+    {
+      "title": "Rusza skrining raka płuca. Bez skierowania i limitów - Remedium | Portal medyczny",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVgybDhqMGpucDBGWDZxWG94aGl0Nl8tSV9WaUh6a3pKVHJJeDJMMFRwYV9sNlIxVk9IclJva3FkeEctX0s5OUdCT2pWcHJKTHVIVTdfM1d6a2ZkTHZlMlEzNmVlWEM0dUZ2VGtGVjhMcUo4M1lqOGl3QTV6d2REVzNWUkNjVWRTUkh5cVBtcGtfWVVBYWotRQ?oc=5",
+      "date": "2026-10-18T15:08:00Z",
+      "source": "Remedium.md",
+      "confirmed_by": 1,
+      "summary": "Rusza skrining raka płuca. Bez skierowania i limitów Remedium | Portal medyczny."
+    },
+    {
+      "title": "Aga miała 32 lata i raka w trzecim stadium. \"Nie badałam się\" - Medonet",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSWJla3d0S21aZWlZM3UxWmRtbC1oNjd4UUpMYXpuQmJaTVRHSEJ3TXhFOUxtSVg0QzJ6RnlIOEZPakhIY0pSQzVfSS14ak9BcFNkUkdQd1pnVVI1NVBna3FIN3lJOVVtYnZMQUJYT0pza1Zyem1vWF9KS3otR2FBc2szTmpiaXVRYjVpQmhDS1U1NFBsamlCVElJWVhBUndJWXNOUjNjLUVqeGFaNGN6clJTeTRDWlN6WV9ELXpsTWpzMFZHTm1YZVpDN0d3UmFsT1U2dG5xWmlCSDgwdHc?oc=5",
+      "date": "2026-10-18T15:03:04Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Aga miała 32 lata i raka w trzecim stadium. \"Nie badałam się\" Medonet."
+    },
+    {
+      "title": "W Polsce brakuje hematologów. Prof. Marcin Pasiarski ostrzega przed problemami z diagnostyką chorób krwi - PolitykaZdrowotna.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmhMbUJkMjZRZXRWYklpTHUxR3F5VlUtMUdZcUhwendhM0NQTGNsWG54X0dHUE5icWxMcF9QZmJOSEFiMUkzT3Q4MndhdTIwZmlZd2tGbUtWVXJvZml5TzdKYmpQclFuVmNfSjQ1WmNKMjFQY180VzlZVk5aODIxRQ?oc=5",
+      "date": "2026-10-18T14:30:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "W Polsce brakuje hematologów. Prof. Marcin Pasiarski ostrzega przed problemami z diagnostyką chorób krwi PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Najlepsza przekąska dla kobiet po \"60\". Wspiera osłabione kości - Medonet",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWi1FaUNZWl9qdGRRSEVvRXNFSlZVZXBWTHlsdVk0YTRHODZRb0stZVdVeFBNYjI4RFZndXlRMjJ6dl9zTGhsTGtpcWdVbWk5RkFyRDhLQVBLa0p5bDRlbHZBdXhiS016MFA3X2VzR1hrN2F3NWZabTJPb2ZPX2RkOS1OdldZNkNILTE5bTI0VG9JYTVjTm5rNkVKYTE4aThyLVNNR1ZtOC1pQkJMTExNVTVJeVBMYmtpWUUtak4yRzd3aWlkMnNjXzNENm03QQ?oc=5",
+      "date": "2026-10-18T14:03:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Najlepsza przekąska dla kobiet po \"60\". Wspiera osłabione kości Medonet."
+    },
+    {
+      "title": "Wyciąg z bergamoty + wyciąg z czosnku (bergamot extract + garlic extract) - Indeks Leków MP - Medycyna Praktyczna",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSWZ2dmJYTTlWNEk1U0ViOG4wVGNhdFZWVVdxNm5QSERDa2lDWVZ6MTdLU3hRdlBjbFc3YlBfQldEV1gyNjJidGg4ajI1dDA3SlZoNjhVMU8yYWg5NHh1aUFtTzcxSzh0ZGtqM0k2QkVnZ0k3VGw2OGVYZ2tEZw?oc=5",
+      "date": "2026-10-18T13:34:19Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Wyciąg z bergamoty + wyciąg z czosnku (bergamot extract + garlic extract) - Indeks Leków MP Medycyna Praktyczna."
+    },
+    {
+      "title": "Zdrowie psychiczne młodych sportowców. Znaczenie mają odpoczynek, relacje i obowiązki poza treningiem - PolitykaZdrowotna.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YNVBwcEhvRnpQSTEybTVvV0xLS292UHUtNzVTVFNwUDVpRmoxWjhRaS1RTkctZnhXUHRjdnRVUUx3YnNMeDF5VkRxUFJwUXN3Q19IRS10QXpadjhKZWpudWJZdkdBOVYyTXg0ZTI3REVMLUMtV0E?oc=5",
+      "date": "2026-10-18T13:30:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Zdrowie psychiczne młodych sportowców. Znaczenie mają odpoczynek, relacje i obowiązki poza treningiem PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Kobiety i mężczyźni inaczej reagują na leki. Dr Kinga Szydłowska wskazuje na ważne różnice biologiczne - PolitykaZdrowotna.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JWjk0MFRtU0stSlgyWnhUVGZzeVBjQ1JRSExXd2wzQ292V2kzSy1lTlAyclFSTmwzcXozbGZoOW5kbUU2ekxXMVo5RkwxU0pfSnp1aGNXMWYtQ1dOeVI1WlBjaFNzWC1sZmxCUHFoV3A0bmlS?oc=5",
+      "date": "2026-10-18T12:30:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Kobiety i mężczyźni inaczej reagują na leki. Dr Kinga Szydłowska wskazuje na ważne różnice biologiczne PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Firma „nie była świadoma”, że zarobiła w Polsce 70 mln zł na leku. Ministerstwo szykuje nowe zasady - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMlZxWVVXMHlYM1ppV2hQWmxCLUYyWFF1bDlrWnNLUXpxVjR0MjZGWW04cWc2WkJJVU0tUzBRb0VwOUNtR3I3N3BHYm5Ibzkzb0JVNFpBblBkOXJKNGYwSGRfdExtVzFPVFoteUVfOXQ5Qm9zNXBCaklNMUJWT010VHlubkotME4wVmFJS1lPaDZRTFRzdnNEc1h6WDVWaVJoSmc2Sk81LUlmcHZlOUE5Z0YtclFCbzV6VWJ4N000OXE3eDhCUy11dWI3eWpkQ3Utbncxd2JsdFlLS2wyNXhN?oc=5",
+      "date": "2026-10-18T12:15:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Firma „nie była świadoma”, że zarobiła w Polsce 70 mln zł na leku. Ministerstwo szykuje nowe zasady Rynek Zdrowia."
+    },
+    {
+      "title": "Radom – rozbudowa RCO dzięki wsparciu MZ - Aktualności - Onkologia - Medycyna Praktyczna",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2didmZhY1hoT0FaRkZlNDl6dndLYktLU2RUSl9abk50UHZKNlZIdTBCcDFNX2t6Qlh3UjZkZFVwd3hRSkV3cExOVG0zX1BFZkpxYk85emdvZFZ6ZE9LNW00UkYyd3hCdExhaGNtdGFXNTBGWjNNOFM2Y1REQUFsX0VMYTRvNkYzRlR0ZjBn?oc=5",
+      "date": "2026-10-18T11:53:21Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Radom – rozbudowa RCO dzięki wsparciu MZ - Aktualności - Onkologia Medycyna Praktyczna."
+    },
+    {
+      "title": "Prezent oznacza receptę. Sprawdzili jak lekarze przyjmujący pieniądze i prezenty od firm farmaceutycznych przepisują leki - PolitykaZdrowotna.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sa3JWaEE5VmRSVERqTjdJYVp5ZXFVZkR1ejRhSDkzZl9TN1oxbXV3UmdQNFNnU0RNRS1NaFdYUTMzYTl6a1I3Nm5XY3NXRUR3TDE1NzllbDhZeVduTHpaOUo3ZHR4ajNpc3dNWkVXRHBPVFkxaDhiZUhR?oc=5",
+      "date": "2026-10-18T11:30:00Z",
+      "source": "Polityka Zdrowotna",
+      "confirmed_by": 1,
+      "summary": "Prezent oznacza receptę. Sprawdzili jak lekarze przyjmujący pieniądze i prezenty od firm farmaceutycznych przepisują leki PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Urodziła kilka godzin po badaniach. Trwa spór o przebieg wizyty w szpitalu - Medonet",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUhaX19yRTBZVzJQQXlSSGhCOVZtRU5yY19JdkJLUml5Z01aXzRUUDYzNEFYT1dfNEZ5Zm9DbTJwdElqcmlHS0Z5ajZabUh6YmdlRUpPUTZPMEJIZ2tzZXktSC1GZldCeFM2a3JtZkdnQmVtTmtrWGdmM0FkSDhpYTNtNkNvREJTWnhOQ1VtR05YQ0s4V0ZXUVkwSlRZajZvbmcyMFp2ZnZJQzZlMHZyRGwwVmVDcm9Pc3JpclRoNlV2bk51clE?oc=5",
+      "date": "2026-10-18T11:08:28Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Urodziła kilka godzin po badaniach. Trwa spór o przebieg wizyty w szpitalu Medonet."
+    },
+    {
+      "title": "Badania nad paracetamolem. Zmiany w sercu już po tygodniu stosowania - Medonet",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2FSby1CZmNWQXlNQmp5ZFdQeEVrak5vWHE2dEg1UGVyOGkxVFRsWFZIWTU0OHd5WVNwb2E3eXlCTzYteTVnNTZuY1dzZUhmSEt5TFk1MnJhNjFOQUUyMHQ0UUZnaVBUaUxNcnp4WjdvZHdoNzlweEwyNXFrbTh1VWtodUVWVFgyN0pFbkFVcUdoVVB4RENCWVhFcTZnSEpxRkRwUXI5WDRVSGo0b0xuSTNsMGFlellMNlE?oc=5",
+      "date": "2026-10-18T11:03:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Badania nad paracetamolem. Zmiany w sercu już po tygodniu stosowania Medonet."
+    },
+    {
+      "title": "Odszedł radiolog – był związany z wojskiem - Termedia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUZoTXNUcE5WcHUzQktEalpra1QtLVItUTFmdDNjYndULXgtUWh0cnMwNFBIQmFwRVFtMk91U1dXRWdfdzJfdm8xN2pWNy1kV1NjbEJ4cDI2eEdlcTZKb1FsRTVZeDJPQ2FlWkp6OFBxemFiMURXNjZqaUZ4ZkJOcjEyN0g?oc=5",
+      "date": "2026-10-18T08:45:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Odszedł radiolog – był związany z wojskiem Termedia."
+    },
+    {
+      "title": "Balony powlekane lekiem zamiast stentów? Nowe badanie wskazuje na skuteczną alternatywę - Alert Medyczny",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDBUaWV5ZlkyRTNNdEl2SFVtVXZSUjF5Z1dEaDZXWjZhenRiQnVBZEd1WFR3ampMYS1WX2tWVVc1eGpycGpKU1o2SERxY1ZlSTZDYjJPMWtmT0VxUjk4RWpGckVzemJuN3VJR0w0UXFreDB3TXZQRWs2UXNTZ191bDVBN1hnbDhTcWRnV1NILU5TcUxsQjRFYktKOVpxMnVPNnd2WnBEUFRBZlpIY2tKSmRn?oc=5",
+      "date": "2026-10-18T08:43:07Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Balony powlekane lekiem zamiast stentów? Nowe badanie wskazuje na skuteczną alternatywę Alert Medyczny."
+    },
+    {
+      "title": "Pomorze – ponad 28 mln zł unijnego wsparcia - Z kraju - Kurier - Medycyna Praktyczna",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBONjlaQmVZV04xSjg0ZEszRjJJQVRXN3ZkTlQwVFV1a2dwLUtGLVBDUmJBNUZCekUwSldUN0loWnV6U1ZReFUxekgtWTN5TTRLbllJWlZQYlVSak9VSGJlbnNBY0R5WVR6LXdqVVd0ME5SVVdTY2g4OG1qS0lNdw?oc=5",
+      "date": "2026-10-18T08:43:02Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Pomorze – ponad 28 mln zł unijnego wsparcia - Z kraju - Kurier Medycyna Praktyczna."
+    },
+    {
+      "title": "Joga przed operacją może zmieniać reakcję organizmu na stres. Nowe badanie - Alert Medyczny",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZE94eHFBeF9PS2xWZW9LcnJycjZNNWFXcTBkNWF2X21rVkt6dGxyeUFZVHo0OGduQjFwcURIWngwVGFGdmlxYmpQQXhOQ3lCeGdFWmI3ek9zTC1OV2NYLWoxcU1Kc0xBTWpZaWlDRzl5c1k3ODh6NVNObG9lU2RUZGFycWVCU3J2a003Nkh4QmF4Q2dxRHF4bDhaaUNVQTl1?oc=5",
+      "date": "2026-10-18T08:36:42Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Joga przed operacją może zmieniać reakcję organizmu na stres. Nowe badanie Alert Medyczny."
+    },
+    {
+      "title": "Pacjentka z wczesną menopauzą - jak prowadzić terapię hormonalną? - Puls Medycyny",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONmxrMVluWjRuT2pxTjBsQUFvLUFTVzM4am0xeEVBdjh4SW9ENzJLR000dC1DYXA4bUFDSGgzeTFYbDBlMEExQk85dmY1XzNadl8xbVFBMld5VEJQUS1RTUZjeHlXcGJjemdSZGkwYkhFbjlNbTcyX2t2RS1adUhuTjJkcEdyc3RGeXJIV25OVFJwN214UDZzOEFIUjlFX1c2bnhLX3BHRGhnYUxhRGhaSjNpQTQwNm5ueTB5dG1B?oc=5",
+      "date": "2026-10-18T08:00:00Z",
+      "source": "Puls Medycyny",
+      "confirmed_by": 1,
+      "summary": "Pacjentka z wczesną menopauzą - jak prowadzić terapię hormonalną? Puls Medycyny."
+    },
+    {
+      "title": "Kontakt z przyrodą zmniejsza samotność. Badanie wykazało poprawę utrzymującą się przez rok - Alert Medyczny",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNk4tVE9mMWRHa2RKX2toR016LVVERnl2N1NpR2VRZHgxeWpVUTc3SVBWSE53Q2s1V1BWSS04eXJvRjFpS0VGYTB5NU9LVURxaFZheGw3OUk1Uk92LXl6MGZkT0JGQ1N1cnF1WHdheWxydkk1dUdFa3NXRFJtaTVRa0R0WXhfSk1VX3FUdWJ0YVlNSjVjTXZoejBuZjNkd3FOV1RSaEFyWUtsVXdLeGhoaG84eENrdw?oc=5",
+      "date": "2026-10-18T07:37:39Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Kontakt z przyrodą zmniejsza samotność. Badanie wykazało poprawę utrzymującą się przez rok Alert Medyczny."
+    },
+    {
+      "title": "Tajemnica pacjencka - Termedia",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NcldteU1NMWRlajZ5Z20yY2NLdG9HRk1LNG96bDlWbDFkTmRFVGticDJyeWpwNFAzN3dBU3VmalhLVEhOZnNGdEpCOUZDcTNCbVduOEpCYko4Q054Z050RmRRVzF0MTZS?oc=5",
+      "date": "2026-10-18T07:06:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Tajemnica pacjencka Termedia."
+    },
+    {
+      "title": "Od 18 października obowiązkowe e-orzeczenia medycyny pracy. Jak lekarze mają je wystawiać? - Alert Medyczny",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX015N3pVdmx1VFowQlhXTDh1VF9yZW55SlV4eFhyWXZlZExDLVVsRkRHLVFHWW9DRE9QazFhcENLNGNNRDZla2U4LU5TcEtOWkNtM3pJS3JILW8ydlkzTFNtMy1pRG9yVTQyV2puTHNJeVJjdHI5eUVNNllxTXctdDM5YWRfTUcyb2RRQU1IbEtRTGpUOXZtYXQyYVlodXBUejFKVXdUdUtfNzJfMWJHZUhXMUw?oc=5",
+      "date": "2026-10-18T06:07:03Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Od 18 października obowiązkowe e-orzeczenia medycyny pracy. Jak lekarze mają je wystawiać? Alert Medyczny."
+    },
+    {
+      "title": "Bruce D. Levy - Podyplomie.pl",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhWUZPelFQNWdvdzZaR1Q5N283cl9rbG9vUnJRY0MyZDVnTk5qOUFsclJ2Q0ZqaEhLelk3ekJTOUtDa1h0RFN4QkNvRlA3alZhU3c?oc=5",
+      "date": "2026-10-17T22:36:56Z",
+      "source": "Medycyna po Dyplomie",
+      "confirmed_by": 1,
+      "summary": "Bruce D. Levy Podyplomie.pl."
+    },
+    {
+      "title": "Punkt informacyjny - Gov.pl",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCRTkyaHdidURNZGJnODVoeHZnZFFwWFdPZEhFTWNicWdLYUtfTkI1ZGM0TlNRc1U0RDN2NldwSmoxN2IwVi1ZYVh2UWQzRkdYOUJ3cTM1b1dfeTY4V2c?oc=5",
+      "date": "2026-10-17T19:41:15Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Punkt informacyjny Gov.pl."
+    },
+    {
+      "title": "Niedobór testosteronu może dotyczyć znacznego odsetka mężczyzn. W październiku weszła w życie ważna zmiana - Termedia",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNEJBazVRV2FaQ0dlOFVGMWg5TTFjUHhobXVfaDNaeVhBMjZ4VnFhY1I5bjhYeE9qdTAyZmpxb0s3N1lHNHdpYmp5SnJMenBYMGptbE9TYlIzTTNsZ1A4Yk5yV3J1eDNxb1BFSXVJckVDSTNBMzRDUHFzRlE5enlQV1ZBYXRrMlhYcU0xMldScU1yc3BQNzBBa3NVcDU2NmptMkRrNEpJUlF6S004cDY2cG5ZMnc0LVRRWkRkUlJmUV8zeXpFcExlVFljYzZaRHBkd256QV9tWWNRWmc?oc=5",
+      "date": "2026-10-17T17:37:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Niedobór testosteronu może dotyczyć znacznego odsetka mężczyzn. W październiku weszła w życie ważna zmiana Termedia."
+    },
+    {
+      "title": "Zamienniki dla \" Ledaga - Remedium | Portal medyczny",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tdEFlN3F0ZlpHLWluU01oYUttZFRWZ0JfVy1ZX1oxRFlzOWxEY21lSkdIYVpEQmdKVXpMeUhQMUNYWE9mOHkxRDJDUnFCVXJRVUxoRHhwNHhlWkl0TDh0ekdScVFLN25QOHI0?oc=5",
+      "date": "2026-10-17T17:21:47Z",
+      "source": "Remedium.md",
+      "confirmed_by": 1,
+      "summary": "Zamienniki dla \" Ledaga Remedium | Portal medyczny."
+    },
+    {
+      "title": "Zamienniki dla \" Lumeblue - Remedium | Portal medyczny",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82WjNod05FcFkzWVo4cEQ5T0VLUHdUWnlhRGhrbTVWQzRrQ3p5SXVZcDdhTHQ1Q0JzZUp5M010T2JJRERJMDY1Sm4tTEVXeng1MzhGRVhTRVFjaGN2UUtFMW1DdTByeF80c2tr?oc=5",
+      "date": "2026-10-17T16:22:31Z",
+      "source": "Remedium.md",
+      "confirmed_by": 1,
+      "summary": "Zamienniki dla \" Lumeblue Remedium | Portal medyczny."
+    },
+    {
+      "title": "CAROLINE KUMSTA - artykuły i informacje - Termedia",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Xc2gyTXh5ZjBqb1dVNDF0clUyRzNaQVFLREEtMDYxekpRV0NGVHNiRHZIY1Fjektlc1FHbHo4XzN4MmczWGppUjJNbzJVNHNtTmN6OUVlYy0weGw4b1E?oc=5",
+      "date": "2026-10-17T15:22:58Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "CAROLINE KUMSTA - artykuły i informacje Termedia."
+    },
+    {
+      "title": "Wrzesień miesiącem profilaktyki | Aktualności | Narodowy Portal Kardiologiczny - kardiologia.gov.pl",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4OGpnY2t0aUF5Wks4SjJKTFd4S1NmMG1NZ3RFR3drQTNfMU1MVFlFZC1HQ3MySzIxQ1JLMy1zN3JsblNJNUFLeWRqOFFUMlVla09PalIwX1dWWGtQdlFWQVpQcmJaOEFONWtpSGtJczZ4cVRkWVhKOA?oc=5",
+      "date": "2026-10-17T08:09:25Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Wrzesień miesiącem profilaktyki | Aktualności | Narodowy Portal Kardiologiczny kardiologia.gov.pl."
+    },
+    {
+      "title": "Olaf Bąk, lekarz - DOZ.pl",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NcDQxNjhrSHhfSXdiUjhrVU5jcFdaZWlyMlkwUTUzV1dkb0I3c2p1eEVjREFSRW9yaW1KNzdOcnJVOHhfM29wakZFdzhtaXpuM0JNekJsYjlGd3M?oc=5",
+      "date": "2026-10-17T06:17:53Z",
+      "source": "DOZ.pl",
+      "confirmed_by": 1,
+      "summary": "Olaf Bąk, lekarz DOZ.pl."
+    },
+    {
+      "title": "Nabór na stanowisko inspektor/inspektorka do spraw obsługi sekretarskiej w Sekretariacie w Biurze Ministra - Gov.pl",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbHR2Ul83Y1gxVkg3Q043NWZ0dVZIWC1lNFV1NWZBaE5mZWNQS2VaR21nOHFCNElNMWdsNkprcVd3c19naDJ3dWVWMzlfZTB6SkxXTndtSU9sZmZYc1lqRXQwcVY0T3ZMNVQwc1Y5V3ZhN1hTcXBXVTFIa2p3NU1vTmE3QnI0dDR0SDEzUGZsdmtWVEZaZzc3U2llNm50RHhNZ2lzT3FaQWZyODh0dlhJQndlRWVNdFVxM2ZyR3hlRFJHMjdQMGxfNUpxa3JiY3hQdHc?oc=5",
+      "date": "2026-10-16T20:49:35Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Nabór na stanowisko inspektor/inspektorka do spraw obsługi sekretarskiej w Sekretariacie w Biurze Ministra Gov.pl."
+    },
+    {
+      "title": "Ataki w szkołach – brak uwagi i wsparcia ze strony dorosłych - Serwis Zdrowie",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcTZxMDZDaXpZZlcxcGcwcjdvbmxCWGVVWTBNMk5kSXBYRVNKMHZZZk9fTThRb3lRUl9FUm9YY1pudnk2MVJSVHJZajNib2tsR2xSclB5VENYRTBFclpuME5lTzBrS0Fkc1AtN2RxV2J4MHpuR2owUTVCc1ExRFB5d3FTQ0V2VlRJMVhMcEFjZEhFQQ?oc=5",
+      "date": "2026-10-16T13:49:34Z",
+      "source": "Serwis Zdrowie (PAP)",
+      "confirmed_by": 1,
+      "summary": "Ataki w szkołach – brak uwagi i wsparcia ze strony dorosłych Serwis Zdrowie."
+    },
+    {
+      "title": "Ciąża i poród u kota – ile trwa, jak przebiega i jak pomóc pupilowi? - DOZ.pl",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmQ3NGZWRlJ4aG9LWW1VMmtvUlhKaHRYVXR6YzBkTU5CQmNMUW1NR0xsSkNGdEY0OUxMeDVmLU9yMkN4ckg1THNtV0JUUTcyZDJaaUwycXdpc1kyZW5QV1pzeWtDSXBvVjA1Z3RHOG5FbUFtYjV4U2pHbGhleTdNb3luMWZoaEQxSFUteVZrNC1vVFNkQVNsazk1YlE5WXNyeUVR?oc=5",
+      "date": "2026-10-16T11:15:46Z",
+      "source": "DOZ.pl",
+      "confirmed_by": 1,
+      "summary": "Ciąża i poród u kota – ile trwa, jak przebiega i jak pomóc pupilowi? DOZ.pl."
+    },
+    {
+      "title": "Chorzy na celiakię latami czekają na trafną diagnozę - Serwis Zdrowie",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcEsyMWhialpJOEdpSmVRTlh5SFJiZmhfRU96UnhJcmVkYnNvalVDRGhfbFdHa2ZwaVcxX1llbjduSU5qMlpsTkNHa1UzUUZPcUpZeldidUNnX3Y2T05pMWN5dGtDUC1Mc1l2TW9tMUR6WlBCMHBEZzlDMVJmRTIxQ2VmTUNoTzdX?oc=5",
+      "date": "2026-10-16T07:04:37Z",
+      "source": "Serwis Zdrowie (PAP)",
+      "confirmed_by": 1,
+      "summary": "Chorzy na celiakię latami czekają na trafną diagnozę Serwis Zdrowie."
+    },
+    {
+      "title": "Co to jest cholekalcyferol – czyli jak powstaje witamina D w kapsułkach? - DOZ.pl",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2MyeWlSOFRSdXo1YXFleXdacl84NnJrMjhTR1QwUGZiSnF6aGJBZEZhLVE3OFV0M1hmTDlSVnpTN2s0eXlUN2ZEWWVsTTdnaEg4bnNEQ0s4MVl0bHprc1M3RWNvRWNpZnhiR0pCZW1kMlJPNC1FMXVUNV9NVktQTFV2OWI3UzE3U3JHQUE1SjBoUXl5eF9hc1I1eWNBdEc0WEhnaklBUEFpQQ?oc=5",
+      "date": "2026-10-16T07:00:00Z",
+      "source": "DOZ.pl",
+      "confirmed_by": 1,
+      "summary": "Co to jest cholekalcyferol – czyli jak powstaje witamina D w kapsułkach? DOZ.pl."
     }
   ],
-  "daily_top5": []
+  "world": [
+    {
+      "title": "Band 8a Clinical/Counselling Psychologist - Salisbury - The BMJ",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNjVWMUxHeFRhWk1hSU9Sc3V2TmsyRUNkNGNYSDMtOTIwWTNoWW9ucFVaWkMzWmQzRWRTMjJzdE5nQ2tyajFLMjZZdkxXaW5RTk5mSEhRLTI1aEhIekhCbWVHdllKWG1mWl9Id0lzSDNaX1licWhiQjF0TnZDUVVzaVVhTlhNX3lWZU9LTzlIZmM5TzQ3Z0R5YkVtb3lpblA1ZHBEU0luZkRJLV90Sy0tZEYxUGtaaVdlSFc0cFY0RFBUTkcy?oc=5",
+      "date": "2026-10-18T21:31:37Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Band 8a Clinical/Counselling Psychologist - Salisbury The BMJ."
+    },
+    {
+      "title": "Bladder and Bowel Practitioner **Internal Applicants Only** - The BMJ",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWS1MdUVKRC1lR0dnaktNaTdHTmlLaV9kRzE3V01mUGE5R0I5RU1fMEFHTmhLZUlZemltM05CZlQtLTVsUHhxMkViWU9TMWRvVUt4S1JiTF9KRGNGTzktZ09ZUlVrYmFmQ3JKLS1KR0k0OGRUVDJmcDhfOGxGdU84alE0OVZYLWhLcDNVcF9rVEVJUTl3ZFJsS0E5cC1acktEYVl5TF9sc25ReDBIMEpBNTRBTjRiN2NRd2JndHVVUF9kQlIxNkZMVF9qZw?oc=5",
+      "date": "2026-10-18T21:31:30Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Bladder and Bowel Practitioner **Internal Applicants Only** The BMJ."
+    },
+    {
+      "title": "Retatrutide fact check: Has a man died after taking the unapproved weight loss jab? - The BMJ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EZHFnZV9PYnRITXBBWjBBOHh2c3BibjNqUFNWbHd6WXJ4QUJ3YlFtNlhFdm93T2V6VDQzTkczUHYxcXZybjZxb21yZmNxeUh0Q2JSZ1ZHNzd6Q2drZk80YmN1UXBoUEZsV0VsVQ?oc=5",
+      "date": "2026-10-18T19:34:23Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Retatrutide fact check: Has a man died after taking the unapproved weight loss jab? The BMJ."
+    },
+    {
+      "title": "Long-term health, criminal justice, and socioeconomic outcomes among people subject to compulsory mental health care in Norway: - The Lancet",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaXUwYmdkMTQ2X3hUUTlaaHdWSUI1OS1XZllMdmh6ZVRsM1h4dTc4REFFSGNkdVVNa2JoLXBybEFSVDNsZElUeUJWcGd4OE1ZVWVvZnNoSlh6SUVfbmV0UjkxSDNmRjE3eHBLcW9vbE1RSUZQN1AyZkVXeUMteG1aUA?oc=5",
+      "date": "2026-10-18T15:38:47Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Long-term health, criminal justice, and socioeconomic outcomes among people subject to compulsory mental health care in Norway: The Lancet."
+    },
+    {
+      "title": "Artificial intelligence - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yMnhWWHFPQVNwMHBZemxvVDZud1F6ZEc2bHRxYnhyOXB5WkZzTWcyX3VmaDZjZHhabGhXSnE0aHcwdkxUZGJSM09vX25wX1BER2hPN2JFZUxWRUc1bXE3cE9IZTRqQnlaa3pLZ2xraGtvZnUtMHdqbw?oc=5",
+      "date": "2026-10-18T13:59:30Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Artificial intelligence World Health Organization (WHO)."
+    },
+    {
+      "title": "Lead Pharmacist, Renal Services - The BMJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHlVRWpnU19LZGlpOXFURl85OUtiWWlHYjdBUnFpXzhpX3pIZ3hIaVBZenhDeGpMMU5RXzRxRlBmb1ZoZERVc1F2TjJhQjEyTk5JV0lMUGlmVjNGaHFSVlR5NzNLSG9mUWMtSjc2OXJWRUl4UElFaWpHM3lIdzdFTnEzc2xfS0Z6d3FybldKSFk3MWxtY0lPcXpqRFZ6X3VrS1hITFd6VXU?oc=5",
+      "date": "2026-10-18T13:35:40Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Lead Pharmacist, Renal Services The BMJ."
+    },
+    {
+      "title": "Naval and Military Medical Services - The BMJ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1b1FTUk1IN21KNGltejRRLTBscGYwanZHRjlSZGxzakszc1JCTDJkM3VBMlpadkZiQ0NwcVpOSDV5dy1Ha1M1N0xqNU5kbjByVEM4Z1k1NUluVkp4S3RfSWZtelA?oc=5",
+      "date": "2026-10-18T13:02:17Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Naval and Military Medical Services The BMJ."
+    },
+    {
+      "title": "Social Worker - Adult Eating Disorders job with Cornwall Partnership NHS Foundation Trust (Health Careers) | 856392 - The BMJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVkdaVS05b0hYUDBZQTBjdnpuMHl1WGc3MTFJVUNTbGwxdlppTk9NcGE3Z3NxeHdNcEl5T2dPdjVrYU03SmFvdFhYaDdJYVlZMFhXSE8yVTM5ak9JOVhBd29kOFFVRV8wRThtcnllSmJYVi1DRW00TndOSUZjaVpxckJMeEdtV1B6a2R3SzdzZ2tzZ2lCREotcHZKZl9JWTFFakVEdzMzYlVlb3dpTzNtbQ?oc=5",
+      "date": "2026-10-18T12:08:26Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Social Worker - Adult Eating Disorders job with Cornwall Partnership NHS Foundation Trust (Health Careers) | 856392 The BMJ."
+    },
+    {
+      "title": "Senior Physiotherapist- Specialist Medicine job with Imperial College Healthcare NHS Trust (Health Careers) | 858199 - The BMJ",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbDVzazR0NGFfNXhBbGRzREpUcTlKYi10YTY2Z0Fib1oxRFcxdDlST3p6eDVHSkI2UVk0ZnRxMGY1WVdCbDJrODZQYlZmM1J3S2tCUHNIa2ZUZ2NnZGRGMFFfLUx2R2daUlFmdnBWLTRkSXdZT2hCT2lVbEVPNWVPcV80eUlnUFlYU3NBaTZ1RlF0QkVLYmNEeFlWNGV4aVFtYkpSZjM4TkZOWUpFUnRodHhaMThJRDRs?oc=5",
+      "date": "2026-10-18T11:58:44Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Senior Physiotherapist- Specialist Medicine job with Imperial College Healthcare NHS Trust (Health Careers) | 858199 The BMJ."
+    },
+    {
+      "title": "National Consultant to develop a comprehensive and updated Health Insurance Guidebook for the Health Insurance Administration - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDhrUlg4dHFNYTlWbEJtMW5QWndrNVhJb1Zzd0dzMGhBS2EwcnJ1NXBmR3ktZmZia293aDRTeFZYV3R1WFBrSGRFTjlHeHZxT0VKOTVGY054cE5DdjZXZ1NRb0RVanpFSHZaY2JCSjF3dDFZYTdvWEMtb204YW5sYWh0bm5iR1ZHTUJJUmtQVnVkRGlJRkxsTW1FUFlobFltZkRIS2pucnRiZHpoeGxv?oc=5",
+      "date": "2026-10-18T09:17:45Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "National Consultant to develop a comprehensive and updated Health Insurance Guidebook for the Health Insurance Administration World Health Organization (WHO)."
+    },
+    {
+      "title": "Planetary Health Research Digest - The Lancet",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkVPclNqa0tuQkFqYmNVdWh1LXg0c2RSd0tRVEV0SExsWWw3Z1p1NEFKcnJxUHYzMTZVUUp2bWh3bWs4d09YWDVGRlNQWXlteUdOMDRlVFFGa2swaTdZMzNuWnl6RzItYnlFNW5hTUM2Qk9QZ3RtakJieUd1a2ZMQQ?oc=5",
+      "date": "2026-10-18T07:35:38Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Planetary Health Research Digest The Lancet."
+    },
+    {
+      "title": "Global and regional guidance - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON0tPTFZRbUZSOWhEMjFoclJWNWJmX3JBaURPek1nTVRzYk9LZkg2Zm1RWVN2bEhMYUo2bFY3Z1ZZbjJyRnZFeFFhaFZBN2RhSnhvdzNHbXZPVDhwNnVPcFFtaUNjaTRhSHZsMDZ1bnJlYjcxd3dyb3U5WndCZ09udnZuUE1HM1czSjVSM1lEREJlRE53TjBhZnZ1NVZZQ0xIZEpUaVJWaXZjOVp6M1pvVDNsRWNTZWpLTV9jZzBLczFGemxFaFNhUFlreUtkeW9sRTBwek01eXkzTVcxU2RhQjJ1c2ZkWndmc2FpZkxNdVpINUV6ZGlz?oc=5",
+      "date": "2026-10-18T03:49:13Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Global and regional guidance World Health Organization (WHO)."
+    },
+    {
+      "title": "Department of Error - The Lancet",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2lBcVFoQU5Ra3poN2hIY0VDNmh4QUJSYlI2LTBCYUk3ekVsT21fTl9KTTM3RXBqYTVleFNmWDk2WVBMZnJ6c2lsWXoxX1g0WkhYd25ZT09HamhFRDFLQUIyUHo5TXR5eWRXN3BidmlxTWxLRU9tYUs4ZzRNa0JZUw?oc=5",
+      "date": "2026-10-17T08:24:44Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Department of Error The Lancet."
+    },
+    {
+      "title": "Eye tracking: an underused diagnostic tool with wide clinical potential - The Lancet",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYk9vclBwWU9BTkl2ZzNlT3hMQWJkd3VVdHh5MGFnV1R1QUpIMG5lTUdXdm1zWkZ3ZS1LQXgzbjlsTXhtTG9fOE82TFhza3VkREVodkNTbWhXR3lYRFdxNlgxX21RZTZEeW9Pamtqa2tOM2FWUkJ3eHphM3l1THJSdg?oc=5",
+      "date": "2026-10-17T08:20:04Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Eye tracking: an underused diagnostic tool with wide clinical potential The Lancet."
+    },
+    {
+      "title": "Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded - STAT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbTVuYm0yWVJJdHA3SVZvcVBXTkxnSzE2RVlqWUJKUFYyWHlES1ViZ2xCb185SkxDZ01ja1FyMWNhMnlxZ3BuQndEUmVOeldEZWFzeGlEYWljd0VYaXdkSkF4S1hCaFIxZDl0ZzRGQUFGOEFrZTZEMGJid0l2Z2F5Vm9mQUk3UjBGem5FR0g0Z3IyZw?oc=5",
+      "date": "2026-10-17T02:43:10Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded STAT."
+    },
+    {
+      "title": "Thyroid hormone receptor-β agonist simedeutirom (HSK31679) for Chinese patients with metabolic dysfunction-associated steatohepatitis: a 52-week, multicentre, randomised, double-blind, placebo-controlled, phase 2b trial - The Lancet",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3ZwQ25sY1NSODRjN0dyQVdFSE1JSjYxSmlCME9uQTlMVS00dmNGTTJ1d0ZGSFRuTkNnb2hfbVdZOWQtRVVzVERpM0kyYmN3ZEd6WVJLclBiXzBLVGx6dkU1Z3B5emcwNVJPb0w3MHplZVpqTmdRSjRRbmxBeFNrUlZMd2tublRmclhJ?oc=5",
+      "date": "2026-10-16T23:20:30Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Thyroid hormone receptor-β agonist simedeutirom (HSK31679) for Chinese patients with metabolic dysfunction-associated steatohepatitis: a 52-week, multicentre, randomised, double-blind, placebo-controlled, phase 2b trial The Lancet."
+    },
+    {
+      "title": "Cervical Cancer Screening Rates Rise, But Disparities Remain - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0p1V0E1Q1ZWVG1UT2IyNWQ5OXJkNzhYZFY0T1dOZG1GZ2lMNWZ4bGtjWjBWMGE2VG91SG52VGs2blptalZsLVIzb0VUMFB4Q0lrU0FVTk45Y3M4dTViZkk3RGw4UmZuWmlhQTVIQk55Z25HNFdobGpmckZoSFpkNmNyQXpqcmtBTG56ZERUZGdvU2Jlb2pSMWJFVU9jUDFLdTl0U1BHMlQ?oc=5",
+      "date": "2026-10-16T20:56:50Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Cervical Cancer Screening Rates Rise, But Disparities Remain Medscape."
+    },
+    {
+      "title": "Skin of Color Update (SOCU) 2026 - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sQmRyMnVkbTgtNi1zbXhBM1VxWE5hUEZHcDdZYmgyWGJSaGpzSElTNE5Xa1hrbTFqdUprV3ZGODFqVXhsbHNoYkRHTFI5OTBlcXFWWTBuZ0xDRUYySGxjb0RWODNQMjVfWnE1c0dVVHNjbFFSd2NJQl9veGZodw?oc=5",
+      "date": "2026-10-16T20:10:24Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Skin of Color Update (SOCU) 2026 Medscape."
+    },
+    {
+      "title": "Up and down the ladder: The latest comings and goings - STAT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjY0d1BxWWt4QmwzbjdDSnV0V0ltZnJzY25HdmVPNEh2cWFQQzNGY1o5ZFByTE5YWEdfdGtnVGNOTTM0Y0h2d1l3Yi1peklSUGV0YVlKMTFJQXBPVkFnNjJsT3EzZFhDdnFiRTNfcFNzOFVybjlreG1yU2IzZzhqVGNmUEVTbVZCcjd5bXMyX2ZtU0dGTnFLdGxwbDNQQTI3alFLTg?oc=5",
+      "date": "2026-10-16T20:00:45Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Up and down the ladder: The latest comings and goings STAT."
+    },
+    {
+      "title": "UEG 2026 - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVVpSmIxOUN3OXZ4M2NheWJDMFBTNlBnRFkyMkJkby1hMUlQYnlxR1BpcVhVeXBQODdZMHlKSDFobmJvdnRSdDlDbmp3aXNNLUJlTHlablNLT0NKTEFqdU9zYmE0ZG1rNzFuXzFxa1BHMUMxWGdKNmlBMWFHdEFJNzVCR3BpVEpOXy1DRWlITXU5dE9rWk4w?oc=5",
+      "date": "2026-10-16T19:50:35Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "UEG 2026 Medscape."
+    },
+    {
+      "title": "Automated Insulin Delivery in T2D: Latest System FDA Cleared - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdDRtdTFleWJ5M2VPcko1Z3ctTi1EVDJaT3RobnFtbkZ1WGJIR3hqbUVVdjJ5N3paZFppYU15QUUtNEFfQVdlbWhhY1dPTDlMZnpJcUhyczFzR2U3ZWlvZmF1WUo5VU1kWm44NGJ4TWNaUUd2d2pvUWgzSmg3dk9DZWZWdDlzMlVxWE9BRFU0VzJPT0NkTFJ4bzRzNWRSdDdhTkFHQVJpQ0twZw?oc=5",
+      "date": "2026-10-16T19:30:34Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Automated Insulin Delivery in T2D: Latest System FDA Cleared Medscape."
+    },
+    {
+      "title": "Hospitals’ next lucrative bet — longevity clinics - STAT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOejhTLWRxcXNrR2hhU1M0OUMzLXZxb0cxbmxxQTZzSll4dHU0MjZ3QVA2UUJSeG9NWG4zLXN6bTgwMENPQTV4M0NyMFF3UGt5THYzQWJaWXpicVFsZmRKbTd3Z192VXAxSW9OMWxRaGFtRUU5NGtlZ29mVm1MLWlkWk1ZNTEtNUFfenRZYXlzcmpnZC1LclN5bVJiYThscjA?oc=5",
+      "date": "2026-10-16T17:18:10Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Hospitals’ next lucrative bet — longevity clinics STAT."
+    },
+    {
+      "title": "Pharmalittle: We're reading about an HHS peptide push, Trump's pharma stock holdings, and more - STAT",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHlDdkx4ajB2M2NReEY5UTMycGFUNFFsUlZGYmctT1RCcnpaWnlmamRScXBKTUIzSGpGTmluUkY2aXJtMTBEamdTYTJEZVFWd21WSWloSmR1YVZwRmEwaS14S0ZYNGpwcWRDNjN6b3BWemtPVE9zMzd0MENkSF82N0NxOGwxQktXNWROVHNqeHZtblZXWHc?oc=5",
+      "date": "2026-10-16T14:19:30Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "Pharmalittle: We're reading about an HHS peptide push, Trump's pharma stock holdings, and more STAT."
+    },
+    {
+      "title": "RevMed’s pancreatic cancer drug nears European approval - STAT",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWTAxSGdaYVhsdWpMXy0wTkhlUHptM2ExQmZSTk4xd2dhQU9ObWNwWlBwUzZmZllkSTlwRGZXbmZhZndPRDhNUU5hbGxXdGNvWWotVUluMmc2QWFiaEZtRG81bWxmRld4anZFbnhQNExTMlNXeG9DV1BNUWFJdHJZbDdmbzY1dkN0MkEya1NBRjRjbkFuSi1vWUxHNWJIZWJpb1lnaGNR?oc=5",
+      "date": "2026-10-16T13:43:10Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "RevMed’s pancreatic cancer drug nears European approval STAT."
+    },
+    {
+      "title": "What to read before you go see that new documentary on Elizabeth Holmes - STAT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0ltaERKTHNEbC0wbEM0YVBneUVtcDB0WlNDeW9pbF92UEhvQmRLakM3dDFmVk1IeXg5TklOWU5sN1BMcUQwLTNOUG50QXRsYXR3b2JLVlZZYXc4cnRENDJhRzE5VDJVc3RvTU5VR0lqY2g3SkdjWU9ZeTV1d0JuT2VfbjdGeTcxV2ZFTm1zT1JvajRIWjRCTlVJdGp5TThQWHY4eFN0Yld1d2VL?oc=5",
+      "date": "2026-10-16T12:38:10Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "What to read before you go see that new documentary on Elizabeth Holmes STAT."
+    },
+    {
+      "title": "Conversational brain AI for adaptive epilepsy care - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OQjBCOER6MTBFX3NvR0RpaGR4M1pkVnlINExSS254WjBESGp6alFxV3JNN3dnYzFYQmRyTElLVVlZYzhXWG12cEhoY3MzS3FhN2R3TXVEZGlTdkhkNGZn?oc=5",
+      "date": "2026-10-16T12:21:32Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Conversational brain AI for adaptive epilepsy care Nature."
+    },
+    {
+      "title": "A reality check for autoimmune CAR T cells - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uaEZYTVJfOVhiWW5mZzJKcWV2RjJ2YTM3ZHF3bnNPSDVhZ2xBUm40Vmo0eVJvcTROUTJ2SHhTN3d2cmw3OVR5ZFE5S1ZqUFlhYnQwU0FWdEhCcW55QURF?oc=5",
+      "date": "2026-10-16T12:08:14Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "A reality check for autoimmune CAR T cells Nature."
+    },
+    {
+      "title": "EGFR-targeted antibody−toxin conjugate in recurrent glioma: a phase 1 trial - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KNmlobzF5eWxRUEp1SmtwekdxZXEwaThSMmFOZkRkb01ZTWktYXU3bXNnaXk1Mm5JYlRhcS1ORzh1OHNlLXFqZmlkYzREVGRidEhrbHJWanZZandqTDFv?oc=5",
+      "date": "2026-10-16T11:25:51Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "EGFR-targeted antibody−toxin conjugate in recurrent glioma: a phase 1 trial Nature."
+    },
+    {
+      "title": "Only time will tell - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTTZCNWxVT1RTMWo2eUxKVkhEVVY1VTVSR3V5UEJjakpuREg1Z1BPMFA4RUR3REppNFFXQ2Nab1ZVUzV2eTBFdVZXaC1TYzZqOWJNZmpBR2c2ZlB3SC1B?oc=5",
+      "date": "2026-10-16T11:07:45Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Only time will tell Nature."
+    },
+    {
+      "title": "Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ieC1ZQ3hZX2xIUDJ5VUZFajZ2V05PSnI3WXgzaVJJYnBJdFg4eFZ1ekE3MzFiOEUxYVREZmczX1pBUEVlTHQyYkVvOThOcnY5MXE4NEE2eTZESF9LbWg4?oc=5",
+      "date": "2026-10-16T10:40:31Z",
+      "source": "Nature Medicine",
+      "confirmed_by": 1,
+      "summary": "Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women Nature."
+    },
+    {
+      "title": "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnZUX05MOEM5Q1Vub3VkTXlROEZuM096eXRLN3N4dWdWWFZGZFc3NnhVVGhTX3d2U29FZ0toTEY4X2JvSS0tUkhWTXY0eHJaSWtNYUM2V09IQ3loXzZ4LXFaMTl6Y2lJVWVTN0hZOW5LeEtIZDBiYnJXdXN1OGo2c0VpaWRoMnI4UFVZTmkwZUFlMkp4VVZVTXROc1J3d1RrSU9HbFFnd0IwYTVkam52NUhCWkhXSzM0eHhwUURWQnlrU2s?oc=5",
+      "date": "2026-10-13T02:35:00Z",
+      "source": "Cochrane Library",
+      "confirmed_by": 1,
+      "summary": "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds News-Medical."
+    },
+    {
+      "title": "Industry gifts and payments can influence prescribing, Cochrane review finds - The Pharmaceutical Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOek8tTmR6b0MxMGtkelp2aTFxdWh0N2dLR2Nsd1FSY2R3QjN5ZmhtNFd1WTFRa2VINGQ0anNVWld0STJRdXQxMl9ZMkZFTjhMdmdBWFlBN3QzcmZ4cXRrUXZJcVI0Q29Wa2ZPaGJXMGxVZmlxdXRrVXJXNHA4dHdOMjc2R1ljNWVHUW1PXzlUbTNtVFJtLWdoaUU3alFzZDFBdDB1MEZsRGNsalZFY3Vic2owYWF6YXBMemJ4ZTRUUWw?oc=5",
+      "date": "2026-10-13T02:11:11Z",
+      "source": "Cochrane Library",
+      "confirmed_by": 1,
+      "summary": "Industry gifts and payments can influence prescribing, Cochrane review finds The Pharmaceutical Journal."
+    },
+    {
+      "title": "Medical Cannabis Fails to Show Clear Benefit for Insomnia in Cochrane Review - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLVl2cXdkVk5Zek5KSFNyVURXcFBSblBLRkJLcWFCYVBlV0wyR0I5VnA5ZThaRGFVYzlVUnNpX1d4NzVJV1QzMFhxTWU3TTZVSG9YaXBVVjRVTE5mWHFaOWxLR0p3THYwYUpCUFFWaXRvNmhZN19CVE8zTXB2NTdUbTlwcTgtaDJEWVlNenJyd3VXcXdzemFwbDlaNVRLWWg5c0Y0?oc=5",
+      "date": "2026-10-13T01:48:29Z",
+      "source": "Cochrane Library",
+      "confirmed_by": 1,
+      "summary": "Medical Cannabis Fails to Show Clear Benefit for Insomnia in Cochrane Review Bioengineer.org."
+    },
+    {
+      "title": "Free Meals and Other Perks From Big Pharma Really Do Sway Doctors, Review Finds - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcm5mUjlBWUMxc2duNzJTRzFhVGsxRWVyYjYzM2tRVHNQUHFCY0ltQ3pUWTVBLVotaHNjNlZkSlFNbWthYndmZFZkd2FoTENybjl5OG14cXNHR004aFVrakhwUU1QN2ptOWZYTE92NWtSYTU3cUl6LVRLTEhtS1NVOXVDOTIxbEZ5Y0NsVGpTUXJpVzg5bGFMM0dJSlZiYkR6RklKbWtZTVRXOWFvY3c?oc=5",
+      "date": "2026-10-09T21:15:51Z",
+      "source": "Cochrane Library",
+      "confirmed_by": 1,
+      "summary": "Free Meals and Other Perks From Big Pharma Really Do Sway Doctors, Review Finds Gizmodo."
+    },
+    {
+      "title": "Cochrane review links pharma payments to prescribing practices - Manufacturing Chemist",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckZzbWc4TWpOWGpQUUdZUDY3N1UxUVJab1ZVUl9VRExxM1VCcG5IOWtudkp1RHd0aXJwQ1BuXzdGY1NSUEh0UXY1a2djb21sRlVCY0tjSTZQbV9uR2lENTVUblRFbXZCbGY0aWRyUUNrNHVOT01VTGdFa1RIUWk4R2VlcGlWb3EtVkRVOGdWclJKTGdId0FYTjNwZw?oc=5",
+      "date": "2026-10-09T12:04:06Z",
+      "source": "Cochrane Library",
+      "confirmed_by": 1,
+      "summary": "Cochrane review links pharma payments to prescribing practices Manufacturing Chemist."
+    },
+    {
+      "title": "Cochrane International Mobility - Kristina Shcherbatiuk - Cochrane.org",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWRvQXdLenhmV0ZRVGIyNkxvRE9NYU91aE1kSXB5dHZTU0xlZDRLM3dHUHVraHVRS2NBelV1N2laUDd6eXc5TVMtbDlLZmd0NTJpOFBiYmhPTzZocGhlVUI0SU1PNjlVV0VIR2FabnRlSktBdmdfcEJkc3VEc1hZWDVjUUdNaGd6bzR0N3VjWU9XVGpNdnJZ?oc=5",
+      "date": "2026-10-09T09:25:56Z",
+      "source": "Cochrane Library",
+      "confirmed_by": 1,
+      "summary": "Cochrane International Mobility - Kristina Shcherbatiuk Cochrane.org."
+    }
+  ],
+  "guidelines": [
+    {
+      "title": "Applications - My ESC account - European Society of Cardiology - European Society of Cardiology",
+      "url": "https://myesc.escardio.org/ESCApplications",
+      "date": "2026-10-18T17:52:50Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Applications - My ESC account - European Society of Cardiology European Society of Cardiology."
+    },
+    {
+      "title": "Medicinal forms | Dexamethasone with neomycin and polymyxin B sulfate | Drugs - BNF",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmhySWc5VzRLaVVLX0RXNEYySkNMVWNIQkd4c1RLVWdwTjlhVkVxak5aWldIU0hJcS1DZjlkQVJYMUZBdEE2SG9nN1JwNzJ1U1pScGY2UUNNOWVuUmZDUEFqTkloNHBIWTJnS2lFS1ZhVmRfS09CSG12ZElkcHJZT3c0dG9MSkRfa0tnc1F4VzZ4NE9FanYyN01uS2lVWVE?oc=5",
+      "date": "2026-10-17T23:52:15Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Medicinal forms | Dexamethasone with neomycin and polymyxin B sulfate | Drugs BNF."
+    },
+    {
+      "title": "Global Convergence and Divergence in Clinical Practice Guidelines for Heart Failure With Preserved Ejection Fraction: A Systematic Comparative Review - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOMnA1Q3djMHJwUWtRcUZZeE9uUE1sa1V0T19ycUt5SlU4T0hXMjVDeFNkMkRDcjdHc1RZWXJCc1RKMDQ5V1pIalhEeUNBNnJvMG9GLUZUZVlKLXJrYm5aT2NsdmZudkRnNUlSZDhqb2hqYmlHTkd6OTZLZUNtUUtNQ0ptbkVIQ3I1M0VCTDdvaDlvUmZyeFotQWE4TWxyeUthLUthOUNmRGVhazhJVmVlS2U4RkthdDRwRlNGQ241T1lZdjc0N1REcHdDX29ZeXZkT0ZUdXZkb1lVRFM3UnZ5dFlsSU8zclRON1k5bkVjejktUVNodWNPQ1Y1NjZDYmU3NjBWcjdXVUdtREMtZFZqWDBQaWUwdw?oc=5",
+      "date": "2026-10-17T14:09:28Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Global Convergence and Divergence in Clinical Practice Guidelines for Heart Failure With Preserved Ejection Fraction: A Systematic Comparative Review Cureus."
+    },
+    {
+      "title": "Observational Study of Cardio-oncology cARe (OSCAR) - European Society of Cardiology",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRkNfOUJCVGhHbVBEVmpqbzJvWmxfWGlzaHlLX1J3NWZlNnNRejdfM0dwenhsc0JpTEtaaUdJM090Vnc3cnVrOFA2WEgxU1o1VWZ5WmREOWltWjJNbEthaWtIX0pQT2lmaWJqN2dLOF9qZEV3bWotMTVEXzItS1pSU1JkVS1fS2JlWDd0eGRabU90N2VobThVU3FOb3luVEl6QkYtS1JJU2ljWXFkQldUaGxUc2V2VTdU?oc=5",
+      "date": "2026-10-17T09:04:01Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Observational Study of Cardio-oncology cARe (OSCAR) European Society of Cardiology."
+    },
+    {
+      "title": "My ESC - Login - European Society of Cardiology",
+      "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNRE5EeTg3djh5eGJqNUNpQk1kcEhpV3FoS1dtSEJRSXdmellnUDZmRENLT0VueWJEMlgzTHpYNDMzMXgyNGlxX0RoZTV1VkY5cTlsMWFEVDRLeEExXy04YXUyU2RwYWpyajVacVBDTm92Vm9veTd4dERFRmNTVVdfSktwVGFSR1Itd21CTFBpMFJFREx2QUMwd1lhWlVMWmsxS2dsc2hWTU85blhLUlM2LU8wOXdIalk1bUNMeVplcDJlMEpUMTZWVDVLOHp5Skpkd0pscWdILUlJWjFJT1NuTjc2dFhrT2MxSVhDSUl2MWtKM2ZxQ2VUNjBKd3VkUnVyWm5IZVBIMEQzUFVYSTU5bFU3RUU1MDdaUmlEV3hOOW9jLUdDRjdDSXl3Q2ZqeUxTdHZUak5FV1JBODNlZ0lfUVRUWjRTdHhnSjZnOV8xTTNPVUcxdklzLTZWdEtud1c0NlFtY1AxR1RDV0NGdmZpLUVWUkpUS0l4OHY0bEswbVA0WDNLd0d6LUZHTDZpalNMbG5pc2FmbG5SZmp5LUUySDZjVUR0YUIwdGpCT0NHODByNW1aaXVWVWprRVJOeEluaTRqdTNwdmtaMVFLZ2h3MHpJMDFWaldfN0psbExEWGU2eUs1eHhfX2FJVTNRQnJTOTg5LXg3OVlpTmg0Wlo4SFQ3MHNvOGY3ZkxxUGZfOGFOTFpFQnhVWU9aWkNyMTU2cm1yZExaM012N0dxbzZyRzVjZUNzbC05LTFuM1R3TnZPWDNYRVhIZHpEZ0h5MEdjRDljN0tUX3c?oc=5",
+      "date": "2026-10-17T01:08:30Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "My ESC - Login European Society of Cardiology."
+    },
+    {
+      "title": "Chemotherapy-Free Regimen of Targeted Agent and Immunotherapeutic Superior to Imatinib and Chemotherapy Among Adult Patients with Ph-positive ALL - European Society For Medical Oncology | ESMO",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPaWVrelBRb3drdi1oTmJYc1hzSWVtN3NzSjZYQVFsU0VQblpDOWllYjUzcWJSanZnSVItdGJHY2NRTFB0eVM0VzNjOGtNOFlPWlFIVkI0aDh6S3RxemY2NHJ0VzdkdHdjdmt3TWFMMEQ4bWhwWTNQNGR0MGlkQm5RSUpfUW5rVWpPTm9Vd3FCOFg5YWtMTEd3T01nZkRxNm9qWnVBLVNJTTRqSjhFZU4yQy1FR2JPcm1IS19Hckk4R1hvd1ZRbjQzOWV1SVhFbF9xWGEydzJNNWJ4ZE1UZW1nTVFESHFvSGpqVURvRVgwTW5zZlFXWDZQRUdlek1ueDZGN1pTT01wZnp4UUFIc19iS1Rfb3JNNGJ5RHhpcQ?oc=5",
+      "date": "2026-10-16T18:59:11Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Chemotherapy-Free Regimen of Targeted Agent and Immunotherapeutic Superior to Imatinib and Chemotherapy Among Adult Patients with Ph-positive ALL European Society For Medical Oncology | ESMO."
+    },
+    {
+      "title": "Diabetes: metformin and SGLT-2 inhibitors (T2DM under 40 years) - NICE website",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMGxrQUZOMDRmRzVIelhqTVY4Qmg3TkRVc3dpV3dtaEFYLXBBb1l6ZldjeVhvUkljNXgyUXIwMUJwLW1yV0RWX3hJZ3c0SEtWdXNnR283R1JjRV95R3BzMGQxRTRrd19LVjdBQVYxd0QwY0VaSXF3aHBCYVVQTjY3S1IwOGRGWXJwRy0yZFNJX2RRdExIS0tXYVhiMWJKTU1JOTdVekhn?oc=5",
+      "date": "2026-10-16T13:14:48Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Diabetes: metformin and SGLT-2 inhibitors (T2DM under 40 years) NICE website."
+    },
+    {
+      "title": "Stanowisko Rady ds. Taryfikacji - leczenie chirurgiczne z zastosowaniem systemu robotowego - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLTJwbzRXZVg0c1BFbzhROGpRNk1pM016dWZGV0YxdXhIZEtpWUk0WURHUERnZzYwdDY1amR5dTJUN1RmYVN1UmVXTDNTT2NvRzVwQThaNTYzRWg3eWZnSjNUV180Z3lKT3FROUpOMTBLYjBjNmQtRU5LNGRTMEM5Rm9QUnRxTFVocXJSRkdEU20xNFhHaHhEOE9wbE1rQWZYUFRkbFc3cjlLYVdOdnJuRTNrcHlNZ3EtOVY3VFpPY1VmWmhJSm1RWkNaRGUzTms?oc=5",
+      "date": "2026-10-16T11:24:20Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Stanowisko Rady ds. Taryfikacji - leczenie chirurgiczne z zastosowaniem systemu robotowego Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Komunikat w sprawie posiedzenia Rady ds. Taryfikacji w dniu 15 października 2026 r. - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOHNkbkUtWXFHZjQyUG1TSXBnTWVzUnR2ZEtncFlSdXZOTWFhZzNYYnllY21GOS0yNU9wODFZdXpCV1o5Q05sWFpnOFJLeTJyeGdEaFJHcmwza2hEeFNVQm95cGlrdVAwX3dobFlsMHQ2MFFyYUE2bVNNVkt1VUx0MXJZREhqUno4bV9uVUVTZHpNNHZUU3loMzNKRWZCeEpyN3daNFJNMU1KclFocFFZSUx1dDVfVzlrZGo5ZURyLV9TVm82b0xr?oc=5",
+      "date": "2026-10-16T11:24:20Z",
+      "source": "AOTMiT",
+      "confirmed_by": 2,
+      "summary": "Komunikat w sprawie posiedzenia Rady ds. Taryfikacji w dniu 15 października 2026 r. Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Protokół z posiedzenia Rady ds. Taryfikacji w dniu 24 września 2026 r. - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmdtcGtCYlpBbmoyWVZ4VWNqOFlCdEtfT0xYclpIOEE2YWY4b0h0blZrMllUOXJ4bWJEXy1FNTdmamFmWGNSMkczRzNWMG83YnRvUU03NldwNjByNTlXOVpKT1R4NXBieDdHc3lzYUdnVmFlWXhyRlprekYxWVZsdE1vWXlOMjV5SE5nSlhBYzhrQ3h3WlJoSklaTDI0bl9TZW1GbDZPcXhzdVdWZHZOTUxteGFSUQ?oc=5",
+      "date": "2026-10-16T11:24:19Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Protokół z posiedzenia Rady ds. Taryfikacji w dniu 24 września 2026 r. Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Mediacja w NIL - wsparcie w poszukiwaniu porozumienia - NIL",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTNfenJsdkxQdThMb29DUXpkNnhmVkQ4d2c1Szg3NnNWdm8zTW1lN0k4eXFwdEtmdnpjSUx3UVQ2NmZ5WWE4MzBKOThPRHNtVVdxbjdqTUxybGVYbzBHSWxXeXlaSGtWMmY4ZnhWeWxGeml3aFhTVDdYNXhLalBhVWdfUEpLeGNEeDVsaUJKMHc?oc=5",
+      "date": "2026-10-16T10:41:05Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Mediacja w NIL - wsparcie w poszukiwaniu porozumienia NIL."
+    },
+    {
+      "title": "Overview | Insulin efsitora alfa for treating type 2 diabetes | Guidance - NICE website",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WcGF4cEo2R0Nwcnd0TU9BNl92d2t4cUR3SUtiOENjYTZOdmVxU2M2OHpUdENBbktRNVdqT2FhZzBlM2VQSDcyd2ktc1J3bFd1?oc=5",
+      "date": "2026-10-16T09:14:32Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Overview | Insulin efsitora alfa for treating type 2 diabetes | Guidance NICE website."
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-10-16T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Szkolenie OK COBIK NIL - Cykl: Podstawy organizacji zabezpieczenia medycznego i medycyny wojskowej cz. 2 - NIL",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KeGJFdy1XX2FjV3RVVzNKS1lnZVZrc3NFOXVUeFZqN2t5NVJmTTJDbVJDVU90QS1ON0F1LXFDZVBHY0JScU5XM0J3?oc=5",
+      "date": "2026-10-15T21:58:47Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Szkolenie OK COBIK NIL - Cykl: Podstawy organizacji zabezpieczenia medycznego i medycyny wojskowej cz. 2 NIL."
+    },
+    {
+      "title": "Review Backs ApoB to Flag Residual Risk That LDL-C Can Miss - The American Journal of Managed Care",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZkJJb2RQdkI4eTVXMGxmd21WZ2FnRVlvYkFsR3JDMmJXbDBWZTRUWDJ0V1k4OEpIM0ZTT1QzNG9Zd0hjOEVhZEhyMGNMeENVQlY2blJSSTNHeTRXNzJ1T1ZnYmtyZnVQSE9GWVV4NE5QaGxSUGJwOHdhalRfWTNDWHVUZDM4dV9pckxucTNR?oc=5",
+      "date": "2026-10-15T21:19:23Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Review Backs ApoB to Flag Residual Risk That LDL-C Can Miss The American Journal of Managed Care."
+    },
+    {
+      "title": "Effectiveness of DTaP Vaccine During Pertussis Outbreak - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11emhvV2pUZHkwbVdaTVN0clN5TVBZY1ZCQVR1cGRvcklsRGUydDMxUlU0S2NvWkROb21Qb21mbkxLWU50cU5lQVZQVUdKcldTekVnYXNHdDRHWUF5dzlOMg?oc=5",
+      "date": "2026-10-15T19:43:02Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Effectiveness of DTaP Vaccine During Pertussis Outbreak Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "AAO-HNSF Issues Updated Clinical Practice Guideline for Tinnitus - The Hearing Review",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHBQUG5rZTNvRUZaaHlUamVZWWxiZU82TjIzUFdiaWwtZGZzSGM4aUhoMHhwTk82Y0pxN2t1Zlhzcm1fNjRjRjhJN0p1OE1CM0llTDNvRlVCV3p1T29JOG0wSFFsbFl1MVI1NFJjR1BvU25udDZoVjQ5WVlacVZ1Q05CY21CZTFJd3pRSW9ERVJKTWszUzFSeVd1SndDRGdTa3otd1BwRkpWRWc3SnB0SkJB?oc=5",
+      "date": "2026-10-15T18:53:33Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "AAO-HNSF Issues Updated Clinical Practice Guideline for Tinnitus The Hearing Review."
+    },
+    {
+      "title": "ACOG guideline expands menopause VMS, sleep, and mood recommendations - Contemporary OB/GYN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOXRnZURvdVdENXQ3d3BTOGs3TktMTkoza0ZXR0pMYl9ybEhfR0FJWm5UNGwyZzRYd24xREltWWYzaFpXWG4zd1FJRWNEOEd5X3MwaHVIbEJERTdrUkFzYlFvaVVyRUJDa0pVdThiTVp6N0ZOM2Y5UWZjMnlwd2NVMEdIeUt3aDUwN19vbk13eThkeXNPeGl3SzgtWDh4WHFxQjNDcmhKTDNqQQ?oc=5",
+      "date": "2026-10-15T17:00:15Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "ACOG guideline expands menopause VMS, sleep, and mood recommendations Contemporary OB/GYN."
+    },
+    {
+      "title": "Episode 17: 'The price of performance': doping and the athlete's heart - Acute heart failure and cardiogenic shock - ESC 365",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56TFRYbGhiaVlIZXN2MGVRSGF5NS1NMW9uRFR0MUhCbl9KSHh1bENERnpXZ3hvNDRZOFhlbC1CSmdQTXBzZkgyR1JpbUstUjg?oc=5",
+      "date": "2026-10-15T14:44:25Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Episode 17: 'The price of performance': doping and the athlete's heart - Acute heart failure and cardiogenic shock ESC 365."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Koselugo (selumetinibum) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1RDMXp2dzd5NWpPOWNLY2w2Q1F4RXR3bTlpdmowbElZT2FzUFdIUmdUeFlGZU5pd1g3WHNGNVp2Q0ZtQkZNalFZaHNqX211MTd2b3d2NVJQb1lnd0x0VFpnVG5yNERON0c3Yzh1d3hocGxhR0xsdEVLdzhuMDgxcXZGODU2bnVNT0xIdE9KNFJFTUpI?oc=5",
+      "date": "2026-10-15T10:17:55Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja Prezesa – Koselugo (selumetinibum) Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "EMA Recommends Granting a Marketing Authorisation for Senaparib - European Society For Medical Oncology | ESMO",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb09Gc1JHaUNUbVh4TlRiTHBGS2dsNTZYOFlhLWRwc2U3M3dRR184UnpubmIzQjVDWUxMQnNIWG1mN3VOdWxTRmhGUjROclpYNFA4LThielZXXzBlQ1dGZnVGQ1JDOWJxckxITnM5WWZQLXdXVkxpdHgtdEd3YUFyUllhQzZlZHlaUFdNVDlHcnoydVlTRVJTeWNwcTA1Z05WdWc2eVBMZXZ5NXRDSjBv?oc=5",
+      "date": "2026-10-15T08:24:20Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "EMA Recommends Granting a Marketing Authorisation for Senaparib European Society For Medical Oncology | ESMO."
+    },
+    {
+      "title": "ACOG Issues Expanded Guideline on Managing Menopause-Related Vasomotor, Sleep, and Mood Symptoms - Patient Care Online",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNzRyVm0wMGxYVURFMVBBdEpDYk5scTJXUXlaVUtBZFF6bDU5cmZGdUhzVU91RTRCMS1YWEd2MFhJcjFEY2tEcXJDZndvUGhFaUJ3bElVSmhvdEJPcVhiM3JLamFHRkJueEVqR0tTeGMtRFRaX2FrSm1DOEpqY1NjSDJIVnhkY3FqVjhpT3JYNkdIa2lxRFFJWS14VXF3dHVneFFYRUVnejc2Wmp1OFA1VmEwNGhjdzlVc2xPRGJBNTY1djdSRW9BTFd1Q3drQQ?oc=5",
+      "date": "2026-10-15T07:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "ACOG Issues Expanded Guideline on Managing Menopause-Related Vasomotor, Sleep, and Mood Symptoms Patient Care Online."
+    },
+    {
+      "title": "A(H5) Bird Flu: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5maC1Rb3ctQTcxOG5XenBoQzVEa2xNMGpXaEp1c1pVQXo0NnlUVXN3ak9jR05iSnhhVG9fSC1leHdDY1lFS0pPUUZQeXo0R0Rza0g1bkdEbTd0WjJkLW1VSFhtaVprZ1px?oc=5",
+      "date": "2026-10-15T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "A(H5) Bird Flu: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "FDA approves zanidatamab-hrii and tislelizumab-jsgr for HER2-positive gastric, gastro-oesophageal junction, or oesophageal adenocarcinoma - European Society For Medical Oncology | ESMO",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPU2V0Q2h2N1lneHlOczlhUmxocDVSbDRscDQtNS1BNVA2dWk5bHlETW0wM1dhTTdabmtueTF0X0c0OW1ZNmRaTlJ2dnVxRmRPQUNvTS1FNnJKdnVaWU54NS05QXNreWVqcFhPbG9kYXZVME9naXlnS1AtZkpPaXhqci00SHRZdnUyNW9nNFZYS2gyZk1JSDdnTlhMczlkbjNYSGRkZTd5M0p2OXhKUEphTHF4Vmp3aWd0enpabWZtdkpmR01LZVh6VTQtS0RvYTd2VTltc0Jsc1FmcWVMNVkxdDJuMDdpeDNsUTRFenpQenlQbmN5bUtzU0gzbDhtc1lfY1U5cWYyd1lNbEp1bnpR?oc=5",
+      "date": "2026-10-14T21:56:49Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "FDA approves zanidatamab-hrii and tislelizumab-jsgr for HER2-positive gastric, gastro-oesophageal junction, or oesophageal adenocarcinoma European Society For Medical Oncology | ESMO."
+    },
+    {
+      "title": "The Most Recent European and American Guidelines on Cardiac Rehabilitation: A Lack of Focus on Diaphragm Training - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeVJ5a3NiUWV2NDNja1R6bnBKNWREakh1cmgyWURETnRfTVVHd0VVQl9BRHFVWUcyTXlOOGhweWVjVHJnbFhGMHhfNmxRSHR3OUhqa1M3ejJsYjk5SW5XdXMxVFdjMFpLTjd5NGhUNlc1OF9vcDJaVkt0S0d5LUgtazVpd0tSWHF5RnRkdUwzRjh1MnBmM3ZuWFQxd2M4YlU3TmhvbThfaVVYeFdBLUtweTZIRHI4QkdTQjkzQVdYWE9TOW13SkZSaHFpc2IzbUx6aDNUWUp4Q0pUU2ZNcmJJcmt2WUJvZw?oc=5",
+      "date": "2026-10-14T04:20:51Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "The Most Recent European and American Guidelines on Cardiac Rehabilitation: A Lack of Focus on Diaphragm Training Cureus."
+    },
+    {
+      "title": "Hypertension detection, treatment and control in young adults in Australia - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3ZnVLdU5Pb0ZvZnZOYl9NQjBNdHNiNWlDY25JaE1pX196dHhFQlZZb2tQcVQtQlluMzBFSDhYT2drVVBEemVWNVJINm41dDl3NGN5NTIxN3kyWjBkVm5n?oc=5",
+      "date": "2026-10-14T00:51:18Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Hypertension detection, treatment and control in young adults in Australia Nature."
+    },
+    {
+      "title": "Five-year survival outcomes with neoadjuvant therapy in melanoma demonstrate that neoadjuvant ICIs exceeded adjuvant benchmarks - European Society For Medical Oncology | ESMO",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWUo1ZlhXVWFBV0lWS2dUTU9Vd2xBV3NWQlZtVWJFT2o5dGtQREpLS2FJSVFEMUVCbzRjUnlqd2hLU1hlTlJDaDFNQzJIVG5VMHc2amRRRVpzN2lhdTdFcTZXZkp1a2Fpc2d3dUV6QjczNV9wMUVZaWs3MUpIb3JRcllIc1lNc3d3dEN0Vy1uRzlyYUM2THRna1R1UGZ2VlpZc25ERGpsTkFNRmNmbmRnVWdZMzVfbUFiZmFtZlhsSmVXQ3c1d3lWMGdYQWVQV2NfZENwZF9UNTlCVlVHdWRQd1lsVWpjZk1BbHM2MTRvdHFWOHA5QkYzUGNaTXBhY3ZPay16Wg?oc=5",
+      "date": "2026-10-13T20:00:25Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Five-year survival outcomes with neoadjuvant therapy in melanoma demonstrate that neoadjuvant ICIs exceeded adjuvant benchmarks European Society For Medical Oncology | ESMO."
+    },
+    {
+      "title": "CHEST Releases Inpatient Tobacco Treatment Clinical Guideline - Respiratory Therapy",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZzFIOUFOYTZuMFNvTm1reXJRN3ByLTlMQzB4cjZ2RzQzdEt6OFpzc1p6bEVUcW9HOXd0RTV0YU44emZ0VVlDZXM0d0ZZYjlBQVhkSEc0Mm04Y19xeXJKamFiRm91RUdGQmM5U0Fmd2E4QVF6N2ZaVEJiTU5CckJiSXNRQm5xSnIyWlpPQXIwRm1lYmJyNkRkUWFhY3YzWDhleUJyR0xpdWNuUjN6OTB0ekE2M05GZXZ0RjhyLVhieHNDQkk?oc=5",
+      "date": "2026-10-13T18:32:17Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "CHEST Releases Inpatient Tobacco Treatment Clinical Guideline Respiratory Therapy."
+    },
+    {
+      "title": "Cel szkolenia: - NIL",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQamlaYUhvbDNlRFNQcXhIb3NqcjhwdVBuSlN3aFBObVNPYWlCdVNZcnNfWDhuSHM1U040aF9lQVhGcFBzUkNNUWZNeWJEUWhmcGV1SVY4Z0xRSFZyZ1RUOUdCZnlYWjBFUnk4QXdZOTFWZXI5QUxJMVJWMWRxbW1iN1gwMlBDeGpyaEZqd3JYTnFkY3V2UE01dkNWel9jM29MbmVMLUxhQ1RCS2NNTEFKaDhhcFpvaUZtNThpSjFaNi00UlhNX0dpcmh3cw?oc=5",
+      "date": "2026-10-13T18:22:09Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Cel szkolenia: NIL."
+    },
+    {
+      "title": "Multidisciplinary Approach to Antiplatelet Management in Coronary Syndromes - professional.heart.org",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakN5UW9TTk5fdmtaRXV4MUQwY05aV0dfZWRqQjdEdWJZMnRLekRlakZkOUV3N3N1bzd2Tmx3cHF3TWVQNDVneG5WN21BX2NIZExmNWNza0ZpUUQ2LVdyYU5vREZrWVdYdDlDYVRqQ1c1Vm9sVTdybTFfQjE5RGZUYVB2dXdxcHRXa19NaDB1a2liRXNHWGxXU29xVGtEMExZMTNIWUZfamd3RUxqdzN4U1ZFbGE2eERFU0lJUGg0bw?oc=5",
+      "date": "2026-10-13T09:02:23Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Multidisciplinary Approach to Antiplatelet Management in Coronary Syndromes professional.heart.org."
+    },
+    {
+      "title": "Obwieszczenie Ministra Zdrowia z dnia 16 września 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych - Sejm Rzeczypospolitej Polskiej",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12NFRqRDMyTEhBYXJVaXp0T21rZXhENXdIVUZESkpFNTIwbHNHTGtxTE1FU2FqVTYyT005ei1pLUZGUFJSZHdXQ2VCT25EYkpSNFF3alVaNmxLQ2hLekZfNFNhbVFoM1lqYWc1UkswUFhNTjRL?oc=5",
+      "date": "2026-10-09T07:00:00Z",
+      "source": "ISAP",
+      "confirmed_by": 3,
+      "summary": "Obwieszczenie Ministra Zdrowia z dnia 16 września 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych Sejm Rzeczypospolitej Polskiej."
+    }
+  ],
+  "epidemiology": [
+    {
+      "title": "WHO Health Emergencies EPI-WIN webinar: Preparing for respiratory virus circulation during the northern hemisphere winter season (2): Influenza and COVID-19 prevention & control - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaWwxbE9HZWpZaWUxSmFTQnF0OF9aM1ZVYXB3M1I4VmJ2bV9mc3lRX0dWOFNkSDZodXFLTnJYNFF3LXhxNW5DaklnNHNUOTBjRXUtS0Q4bFRPd2gza214Wll1dnlncWRXT0JTd0NhNmNNaE9jYTkzdEdmOXlyQ0tFT011MlY4akNPbzQ0Sk42aXd6cmJDeVMwX0VCT2JXOW1tRG1tdkpTanFSRjBNNzlXQlVNUFBGUU1TM2RjZTd0ZVk4cktTa3dqS3Z6V3ptUTVxT2VJTmtFTWFfbFJvWnJzcGJncVlhY2JxSHM2M1VjRnh4ang5Mm93YlozVEw5eTFwRUdJSVBuU2haMTBBR19wbG5pNDJCQmlqX2FHZVJsV1ZmQ0Y4OV9mSHB0dUpfT2dPb19qMDctem1hSV9CS2xWZTFDSjFoOVA5YTFoeUNuQ3BLY0EtbnVUSnJvRXNxOG9UUUNkTWtCSWU?oc=5",
+      "date": "2026-10-18T10:15:33Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "WHO Health Emergencies EPI-WIN webinar: Preparing for respiratory virus circulation during the northern hemisphere winter season (2): Influenza and COVID-19 prevention & control World Health Organization (WHO)."
+    },
+    {
+      "title": "Notes for Media - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HaWpnS0VUUjBpNE0zdFQtUHlhWmQzeVJNaGR1SUc0S3J1Q082M2J4cEo3OUlJZWYwOHo1LVBJNnI4QU5ERkk1bXdaT0RXVFRpbGRVWFc2bTJSbUVwM3pDSw?oc=5",
+      "date": "2026-10-18T08:49:09Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Notes for Media World Health Organization (WHO)."
+    },
+    {
+      "title": "Invasive Enterovirus and Parechovirus Infections in Adults, Alberta, Canada, 2023–2025 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42TERVRnZSX1NiNWtlQjhwbmN4OFJFU2RVTXRwam8zM0V2RzhJQnhOb2J5RFBVUDFGbHloNWoyOFpxYS1GNkwyV0NwYkU3WWx3S3JCbFBhTzlGQ3ZLMnNN?oc=5",
+      "date": "2026-10-18T08:32:51Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Invasive Enterovirus and Parechovirus Infections in Adults, Alberta, Canada, 2023–2025 Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Medical devices - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQdTBIeV9EU1RXOS16bXY5X1ozd21EekRRQS0zLVVTVGplYVJnVVY1cDdyQXY5b19xQnNPbTBJNTc4bl9GcGQySllxSl9ka0RRZTMxODctVFBLR0VhdWJfMGw0ZUZ6a3d2NlJzUTd1dXBpRFlvcjlJNTRKcHpwQQ?oc=5",
+      "date": "2026-10-18T06:25:40Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Medical devices World Health Organization (WHO)."
+    },
+    {
+      "title": "Figure 3 - Five-Biomarker Definition for Hypervirulent Klebsiella pneumoniae Bloodstream Infection and Abscess Complications, Japan, 2022–2024 - Volume 32, Number 11—November 2026 - Emerging Infectious Diseases journal - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YV0tUby1nZ29fblUzcW1wS3Q5WndiNmF1SjR1ZU1xUlhubzZ0Ri1xNTFSeFRaVWw4M1liSkpON2JnS1U1bnREdC1RU1ZRLVM5RlRCQXRISllpSFVNRGJB?oc=5",
+      "date": "2026-10-18T05:28:45Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Figure 3 - Five-Biomarker Definition for Hypervirulent Klebsiella pneumoniae Bloodstream Infection and Abscess Complications, Japan, 2022–2024 - Volume 32, Number 11—November 2026 - Emerging Infectious Diseases journal Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "NSSP Commercial Laboratory Data for COVID, FLU and RSV | Data | Centers for Disease Control and Prevention - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTjlrYVpnVHdOLU56Q3NtckJhSzJiV1hMV292M1N4UWoxTWktX3pvOC1odmRfQTNfUHlrdWZzYXdGa05rTEJlaDlpZ0ZNRzRsR3VBdDNCVzhBbDUyNjA4bGhPVEFJX0NKLXhGb2xrbDh1WE8xUk9mQkpTSHRnc05OcGctekwyYXZPdHExUC1DNWI3ZTUyYlRlT05TdjBzdVAyWm9Yc3FwUjhrSDdRNk0yd2xjSHo2bmJLUXJhOExrUEFxXzlIaEZnVGl3MUw?oc=5",
+      "date": "2026-10-18T05:21:29Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "NSSP Commercial Laboratory Data for COVID, FLU and RSV | Data | Centers for Disease Control and Prevention Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Predictors and Patterns of Metastatic Candidozyma auris Infection, Spain, 2016–2024 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1acVdTdXdGM2JEdl9ZTWlaa29ZZlhZWG44ZnBfYjV2XzdrTFdnX2VjMTVDV2xiVERndVVEUnhNbUZWYTBpVHZ6ek5ydzVaR0FENUd4cXZRS05HaE5lbFRF?oc=5",
+      "date": "2026-10-18T04:30:05Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Predictors and Patterns of Metastatic Candidozyma auris Infection, Spain, 2016–2024 Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Figure 2 - Five-Biomarker Definition for Hypervirulent Klebsiella pneumoniae Bloodstream Infection and Abscess Complications, Japan, 2022–2024 - Volume 32, Number 11—November 2026 - Emerging Infectious Diseases journal - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1cnN4THA5RUlxZEgxLXBpdXZTdDNQS0VLeGdZbVltS1Z2eDVvZW96YUg4SWpUSUFnbDNUcFRmOEpRZUtuMVk1Q3FVNDBCa3NiSGVHV0s3N25WQWFJM2Yw?oc=5",
+      "date": "2026-10-17T20:36:47Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Figure 2 - Five-Biomarker Definition for Hypervirulent Klebsiella pneumoniae Bloodstream Infection and Abscess Complications, Japan, 2022–2024 - Volume 32, Number 11—November 2026 - Emerging Infectious Diseases journal Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "WHO | News releases - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUDBXM2szUjhMaWw1VnY3MmlNalBJVy1YSlJxTklNeGJvdXRlNGN6R2pncG91UFU0bW1hV291UUFOSkFRandRcEdGcHpMa0h3QThMU2VFZ250bENnNFlqTA?oc=5",
+      "date": "2026-10-17T19:45:43Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "WHO | News releases World Health Organization (WHO)."
+    },
+    {
+      "title": "Figure - Microbial Etiology of Postoperative Spinal Fusion Infections and Factors Associated with Gram-Negative Infections, United States, 2021–2022 - Volume 32, Number 11—November 2026 - Emerging Infectious Diseases journal - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03UEg4VGZtWHBJNG0tY2M0SksyblBxUzRqa1A1WlFla29tTElyNEVtdlU4Yzl0dzBXVXdMX3JVRnRvNTdSeXdHRDV3bVo3TDVuN2dsbmJ4UlNfS0tWLVVr?oc=5",
+      "date": "2026-10-17T18:55:53Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Figure - Microbial Etiology of Postoperative Spinal Fusion Infections and Factors Associated with Gram-Negative Infections, United States, 2021–2022 - Volume 32, Number 11—November 2026 - Emerging Infectious Diseases journal Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Predictors and Patterns of Metastatic Candidozyma auris Infection, Spain, 2016–2024 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56YUlKdWZxbHpZZnBHTFJyVjVzemhVUmtjT2g5TFZjdzRxZGRNbi1wdHEwd1dDQmV2VjlkODkwMks1SVVUZWpRbEZCM3RsQ3RhbHQ3Z2l0YjI5bzFETV9j?oc=5",
+      "date": "2026-10-17T18:55:49Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Predictors and Patterns of Metastatic Candidozyma auris Infection, Spain, 2016–2024 Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Invasive Enterovirus and Parechovirus Infections in Adults, Alberta, Canada, 2023–2025 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTnk4Tkx1N09JdlF5NVFkdjVtMk92OUxBNHp0OTUzOWk0cGpnRU1KUUZNeXA5ZGhBa2hyem40RXp5WncwQVdmYmZWWW5hODRXSjFJSWYxTnhqZHFsSFFF?oc=5",
+      "date": "2026-10-17T18:55:36Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Invasive Enterovirus and Parechovirus Infections in Adults, Alberta, Canada, 2023–2025 Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Middle East Respiratory Syndrome Coronavirus in Camels, Kazakhstan, 2025 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGZXlMRFdLVC14eWpGZlRlVDBrcUt5N01wOVFVcV9LX3Rpb0pBMjdsbnhoSGRLWEdfYzRNQ1h4anRPLUVVcjkzVFVyVTdYVVBqeTJlaDdWTF9GSE00ZGNR?oc=5",
+      "date": "2026-10-17T18:54:04Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Middle East Respiratory Syndrome Coronavirus in Camels, Kazakhstan, 2025 Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Table 3 - Five-Biomarker Definition for Hypervirulent Klebsiella pneumoniae Bloodstream Infection and Abscess Complications, Japan, 2022–2024 - Volume 32, Number 11—November 2026 - Emerging Infectious Diseases journal - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mYkgwaXFkaE10OHgydVUxS3pnbWFFdC1VWC1WZnVDYlJsckh1clNCVG5FUEMtdEs1VUQxTVBtVy1wbHRoQmZnZ1V1czhZWGFuZWxwakIwbWdoS2JJamJN?oc=5",
+      "date": "2026-10-17T16:47:50Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Table 3 - Five-Biomarker Definition for Hypervirulent Klebsiella pneumoniae Bloodstream Infection and Abscess Complications, Japan, 2022–2024 - Volume 32, Number 11—November 2026 - Emerging Infectious Diseases journal Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Choral Voices, Communal Vulnerability - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vOHo2RjZWXzN0WFV0Zlgzc0JlNzVrNnpZNXRCWlB0YzYzRzR3bFNSYmx5UV9vbjhwMzdZbDVFd3ltM3p0X2FKa2VXNW1FU2gxSm11aEtuSkRhVWxxWXdr?oc=5",
+      "date": "2026-10-17T14:33:17Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Choral Voices, Communal Vulnerability Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Figure 1 - Serologic Testing for Middle East Respiratory Syndrome Coronavirus and SARS-CoV-2 Cross-Reactive Immune Responses, the Netherlands - Volume 32, Number 11—November 2026 - Emerging Infectious Diseases journal - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ldy0yeGI1UXU3eFFUQk5BYmdjcEdXN2xxN3lQZnBDMFExOUhhb1NTUG5COTFsLThMOUpISFVzeENLVFZPUFIwVEdia1dQMTF1aHYzMThqaURVMzVCR2NJ?oc=5",
+      "date": "2026-10-17T05:00:18Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Figure 1 - Serologic Testing for Middle East Respiratory Syndrome Coronavirus and SARS-CoV-2 Cross-Reactive Immune Responses, the Netherlands - Volume 32, Number 11—November 2026 - Emerging Infectious Diseases journal Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "WHO technical package to stop obesity - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TVk5iVDZmQldCbHJLUzlqa0RkODRSaGotREtIOGUyTi1RX3dMZ1BRUXZKMUxsTnN3NGlnMTZtQzl3dXVsZUJsLUtKWVRoc0Y1MkE?oc=5",
+      "date": "2026-10-16T22:22:46Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "WHO technical package to stop obesity World Health Organization (WHO)."
+    },
+    {
+      "title": "Mifepristone monographs information webinar - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDBIU3l0d29LOWtyLWxEUzBaNUJGZ3lYdERtRHVncUVvS2hqdEJua1FUSm9jRXVBaHBsemxUVzF0WllPX2p3d3Q1eDN5T3FXMThHQkotUkYzQWNxdTJUWkttOUEwM2prd3U4b08zdFNXMWVDSFF5WVJac04wdDJxOE1EVlB6QnkzOGZFa1lkcVJ4ak9mN0tJb2ZkdkVaSmtrLS1MU1FybnlnazlmNUl6MUJfWURTZw?oc=5",
+      "date": "2026-10-16T21:22:29Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Mifepristone monographs information webinar World Health Organization (WHO)."
+    },
+    {
+      "title": "3rd person in Kenya tests positive for Ebola as DR Congo outbreak spreads to 8th province - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJfLU1Fc3pVT3pSWXhiWUc4ekNXUmRWNkg1QndSTmNxSW51cFZFLTI4MlVHSm5Sd0pYSkdGZWxTR1QwR0hBQ2FwMDNxUWE1ck9YN2FaZEdCYXF5OUdkTXVwZHprTEd5WC11dC1GendVdWEzbkRENDliSGJmMVFCbzBrUEk0UDlVQ3ZKblJncjUtYWxDVHM5N3ZRb2xsZW5JZ1NVN2R5UHozVjBRb2c?oc=5",
+      "date": "2026-10-16T20:03:44Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "3rd person in Kenya tests positive for Ebola as DR Congo outbreak spreads to 8th province CIDRAP."
+    },
+    {
+      "title": "US measles cases grow by 8% in 1 week for a total of 4,410 cases - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGRDdUVteEZlLU1EemFwUmRWZzR6Y0dBWkRSTE1NZ21ydzVldHBhWXl3dTBfa3A5dTFSMzl6OXNJUElmRG14M25tblRiamJoVGhUaHdEN2JzNXZGSmdZbGtaU29TS2JtMExfUUJmTjEzNDdPTktyUTFETHA5RDlrX1dqSE5xX19rV0E?oc=5",
+      "date": "2026-10-16T19:13:37Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "US measles cases grow by 8% in 1 week for a total of 4,410 cases CIDRAP."
+    },
+    {
+      "title": "Group of Friends of Traditional Medicine highlights growing global cooperation and priorities - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOW9rcVo1MTBKbUNHY2xKZ1VjUHBYUEZNeHBKeS11bFdjLXdPQ01pTll5YzBvZHg1cnh1cXdvYjBhaTg3eXhpN0hmcVhqaXJ2MDhTWU5xdTFvbUFLSVhQSkFmc3RCQl9tMndPczUwTlpjeXNtY3FXbWM4NWE0QWp1UTRNcTdYU1JEMHh3cUlQaUNmc1YxMkpXNHBBaWhzVDlwMmlsR1BPS0ZnZVo4SkNXUU9ET0dJbEpvOHU4bUhOemxpT3E0QllhT1d2SGlHRmM?oc=5",
+      "date": "2026-10-16T17:15:00Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Group of Friends of Traditional Medicine highlights growing global cooperation and priorities World Health Organization (WHO)."
+    },
+    {
+      "title": "World Bio Summit 2026 - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSW9ZZ0t1eWZaazBWVXQ1c2dKLVMzeTFjazFVbXgwNmF2S2VjYnhRUDFfNWlqNnZsYXVOcG1Gc08xQlUtZzJzWU9UR1FNdmpfczBMUTNxd242N0FVMEphU2wzSzRyZ2hpWlV5TmtWdGd5RXVRbG1hSnlPV2RrYlAta2daYjlJdjVqODQtaWFzMy0wck0waEZCMg?oc=5",
+      "date": "2026-10-16T16:45:28Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "World Bio Summit 2026 World Health Organization (WHO)."
+    },
+    {
+      "title": "QuickStats: Age-Adjusted Female Breast Cancer Death Rates by State — United States, 2024 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLUNTWktwcVFBLVVXYUk4MGNmZ3RuUVZRX3VJcFYzdnhEaTRwWVNuaXFwb01rM05KdmVBQVEyTDRNM0tZZTE1MWxXRnFvYk5DcWZZb2FDZnBPRGhOSm8yTlJaMEZmWlFoczBkV1dQTHBLWkRIVm4xTGZxT3NIM2NDaUt3WkVmZ1VBM2ZlQ1FYQ19nSlkzUkE1czh6NFpVSjRqN2UwU0xncHdNNGR1M3lwa3hjRHpkQ0ItdnV5cWNwWmRfdlpBLVd3?oc=5",
+      "date": "2026-10-16T16:09:59Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "QuickStats: Age-Adjusted Female Breast Cancer Death Rates by State — United States, 2024 Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Quick takes: US human avian flu case, dengue in Florida, plague in Madagascar, MERS in Saudi Arabia, more polio cases - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUotOGxaSzJ6ajF0bjB5T0p3X2RnMmJMT2hiNnJjbnNaNHhHV0xUcHVMcVdxWHU0VThIOEJhQWJaUHpvb01TWlp1U1VUbmNFVkZWazlmMWxQcmxmYWp0aVNjRURxOTBOdmlPNDJIMXNCRlVIY1dqWEdxR2REQWtKYkJvX1d3WklBQVkxTnNpejdCU3lLMkpTV0RNX2RRVGhjcU5EbDFXZVVUZ2tkNkt2LVlHeG9wTEZVQmlCcFVYMlhXN3c?oc=5",
+      "date": "2026-10-16T15:55:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Quick takes: US human avian flu case, dengue in Florida, plague in Madagascar, MERS in Saudi Arabia, more polio cases CIDRAP."
+    },
+    {
+      "title": "National newspaper supplements mark World Mental Health Day 2026 in Bangladesh - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVBTTGtGN2tyY1ZjSEZuRVpOcUlmWlZSUTR2bkM5UFpUb1RldGNvazFRalhyNUI3X1huNTdzcUhzdmlpZ3lDZTZ2cFNzbGFwS0Fab2FCSE5uRlBuZGM2X0NMY0VXOTBabHpySFRiRmxQOEFnd2xMTXh6aGVQSkhHT3VhWHl4ZkUwVEtfWHpIYU1xeTUtVnZOWDlRZ1p0a045eVF0bU5pcHVCWktKSE5qUG5qOFB4TWc4RVQ4RktjOTlOQ2lXVy1DeEppdw?oc=5",
+      "date": "2026-10-16T14:21:51Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "National newspaper supplements mark World Mental Health Day 2026 in Bangladesh World Health Organization (WHO)."
+    },
+    {
+      "title": "This week’s topics Executive summary - European Centre for Disease Prevention and Control (ECDC)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSEVkYm9NUkx2VDllZ2JYUm05XzdfWXp2V1oyT2JyVmJtNVl0Nlh2Sm9pYjk0Y2FuVEhfeEEtWjV1Ukl1RGxvMTdxVHoyS0xmRWdwdU1jTnBmQ3RoQ0ZfbWJTUkQ1NWdiRWlUX1N6SXFZVHBrZkV6blFvalpiWnh3UkhHVmVUUnd2WTN4UkdQVXBEOTdESGlZNFU4YmNqQTBlNEVSaDdpV0ZJUjNSTVE?oc=5",
+      "date": "2026-10-16T14:14:26Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "This week’s topics Executive summary European Centre for Disease Prevention and Control (ECDC)."
+    },
+    {
+      "title": "Communicable disease threats report, 10 - 16 October, week 42 - European Centre for Disease Prevention and Control (ECDC)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVzB4eE03d19wQ0RyYk84eW5mal9kM0VJQ1BYVFl1TjQzby1TWTVEYzdBNlpmUVhEbW1odzd3N3VzQVMwaDREQVNaOGQwZHdSdU80dGVFMDREZy1HUnV3UVl4cmVDbEtuU0FIV283a004S21CTTIxLVM1NXA1U0llXzM0aTdNU3ZTbC1sRXhyQjNlNGFUc3YxT0tUUTZ0LS1xSHBwVTI0cTM?oc=5",
+      "date": "2026-10-16T14:01:27Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Communicable disease threats report, 10 - 16 October, week 42 European Centre for Disease Prevention and Control (ECDC)."
+    },
+    {
+      "title": "Strengthening public health emergency operations centres in Europe through exchange of good practices - European Centre for Disease Prevention and Control (ECDC)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2VKZG5tU3A4ai1BMkQ3cmN4RmV6elNHQmZBSDZqT1BmRGJLWHFfTkdlS2xld0daNWhfSmhHMzE2WnRpWjFOeklfR290QTlZelU1d01oVmdGMGxXaldpWGxIeHBCYUNzUHhsVXJya2c5M2F0MlJLSFRJM0dPWDBFMmFZcGtKT3FDX0JtQS1YN2U5OWMxRXRxSmZwdDFNTzZ3MlRpdWc3VFpid1U5cjE1cWNoV2xPaXRVeTJfNjFTeFZqTXpMeGc?oc=5",
+      "date": "2026-10-16T13:00:29Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Strengthening public health emergency operations centres in Europe through exchange of good practices European Centre for Disease Prevention and Control (ECDC)."
+    },
+    {
+      "title": "Weekly respiratory virus update, week 41, October 2026 - European Centre for Disease Prevention and Control (ECDC)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaDhnYWQyekxQa29XRTJyR1hXMUpMeFRrQlBOTmJTUjQ3bTJPODdiYWdMUzlyX3dveEprSE8zQXFWakhueVZuTWNFRTFpSWw1ZEFVRXVqVjBMVzQ4bm93MXhTSjRQajQtMjhDZXBTZ3NrM0RkR1otTkpFZl9MN0hpRkVOcGdoQ2JKV3ZFa19oQXBZN2szeGVuVjJ2NHZ0cUNBOWc?oc=5",
+      "date": "2026-10-16T12:56:49Z",
+      "source": "ECDC",
+      "confirmed_by": 2,
+      "summary": "Weekly respiratory virus update, week 41, October 2026 European Centre for Disease Prevention and Control (ECDC)."
+    },
+    {
+      "title": "WHO and ADVANCE-ID strengthen clinical trial capacity through workshop - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRTRuYTNyUDFTdEtST01qUzBnaVpfbUpZVDJrdEs2bDk5Z252ZEJCY0dZREFnbllNa3U2Q1dNT2MtT2ljdFd0MVJKSTVoTlhNMlhfNFA4dGp2cHBZeGc2RkU3UTZYS1JmN0xEN3Z6YXlxMk9ibzhTYm5ZUTdnR2tRV01iM0djdEtGY1AwazhuMzRnUDhMWGhrQUFyYnFKYW9wRENKYTBoVUFIR3Z5RXB1Sw?oc=5",
+      "date": "2026-10-16T12:53:07Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "WHO and ADVANCE-ID strengthen clinical trial capacity through workshop World Health Organization (WHO)."
+    },
+    {
+      "title": "Early menopause: Why better research and global guidance matter for women’s health - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQS0wNFFuWVBDVjNCS0s0TUo5aDkwUHcxQXZJaUg2QTczZzJyMXVMNUMzR0ZCVG95RUtsS1NqYVRFdkxHQ0hDQ3pEczE4X1NEdXNpaTlSbFVKNTRCZndWbDVkVENmT0JHX2poVV9rR3lRaXo1VHZWc1JzMmw4ck4ycE5SckNzWHU5QXpTTHFWNnZDanN3VkhlTjBKNFp5SEN3bmo0Z21feWpGOFR0VzA4VzlMU2ZyT1l0TmFMM0hRRC0?oc=5",
+      "date": "2026-10-16T11:31:18Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Early menopause: Why better research and global guidance matter for women’s health World Health Organization (WHO)."
+    },
+    {
+      "title": "INTERPOL and WHO sign agreement to strengthen global health and security protection - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORThxUWR4V05mSG9md2VJV2g1QTVyOHFHVDJIMWJCUnc2bVduLUlKSVlGS1ktSWxfQk82THM3SDVQanlKWmhnX19qMmpreHkzcFk1VXRYYzF6WUxqQUhUaWNMMy1jOWF5clBhTkU0YUprV1JocjdSNWxVRXdtMU56bXVCdTRPeDVTZmxhZXY5OVVXWFVFRFZwM0dBWDJSc0drOGNyekU3dmFOdlNpLVh3dERGQndVblNuZHo4SzVpXzRGQQ?oc=5",
+      "date": "2026-10-16T08:34:49Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "INTERPOL and WHO sign agreement to strengthen global health and security protection World Health Organization (WHO)."
+    },
+    {
+      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-10-16T07:00:00Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
+    },
+    {
+      "title": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
+      "date": "2026-10-16T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S. Vaccine Policy - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVlJJNGhsei03SHFldUdGUERFUlN6ZDBRa1RYR3NzQ0pORW13X0FSOFVzcDZXU2dRa1hFWkVUeWdIZHhFS1FaNWZUYkQtOUZ4THZZWEVoLUhxNHpOYWlFUzJIaXEyQ1JqTXJVaHJyVDE0LURua0pvYjZNd0x6V2NFRUctODlWbkpfN2I3dXRaSFZxRXg1QnU1ZjFfU3pqY1NQSzdGaVlVWFRRc0xuSHk5YXo2dVVMQ293eVctZGpLRFAxSjQ?oc=5",
+      "date": "2026-10-15T21:31:23Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S. Vaccine Policy CIDRAP."
+    },
+    {
+      "title": "Washable, light-chargeable air filter shows promise for masks and air purifiers - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmFQOU5LY2gtbDE3clpOQUNldVdXN3BRYXpjQnk5SGgyYmFveWljX2ZKRkdORm8xXzVfVkhFZThpb1dKNk1zMmItWnctZGlnSlhzcWlibmhFU0RzVERqUDg1WHM5X2FSRjBIdTl2VVNSby03X2plUEhibUQ1TUxjd29VRVY3Y0VjQi11elhYUTBSRUVMNG1KUXhUVTh1OXI1bjJrTWcxUDZvczlsN3Nkd0puNHhsakZ1amdVWV9yQQ?oc=5",
+      "date": "2026-10-15T20:35:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Washable, light-chargeable air filter shows promise for masks and air purifiers CIDRAP."
+    },
+    {
+      "title": "Second Ebola patient identified in Kenya - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4aE5jUDZwT196U2xfUVotZkxmVG81SU10WmpHYkRYblhCZUpZdndUZUZQLVNhZlhqcW9zdFo2UEdsTHhneHFjcnA0VVZ1NDdXUERPRHVJOUtTUTRSeVE5ZmhDTjRHYmV4ZVNCY2o1WElBRUlVQ1F5akZR?oc=5",
+      "date": "2026-10-15T20:24:59Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Second Ebola patient identified in Kenya CIDRAP."
+    },
+    {
+      "title": "‘I ached so much’: Man describes bout with dengue fever contracted during Florida’s outbreak - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXIwTV8zT2dZTS1sOGhKUGo4MHh6WWFsM3RPZ2VSSGhDQ003VG5lY0JxeXlsajB5ZzE3TVVLYVpzQ0VKZmIxZU9XRlJ2bElCalZoZUhJMHBPdk9UYjdKMEc0SDFQdjhSOXpwWmlleTJROWl3eWIzN3hxdlNBeE1kTzh3QUNYNHhSN1RVczhIbU5KYUxrY1hNUmloWlpJYkFQMHdxelZqRmRuLXJ5MUFLcU1vTTNCZUpmT3c?oc=5",
+      "date": "2026-10-15T20:21:14Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "‘I ached so much’: Man describes bout with dengue fever contracted during Florida’s outbreak CIDRAP."
+    },
+    {
+      "title": "‘I ached so much’: Man shares bout with dengue fever contracted during Florida’s outbreak - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFZXS3loX2k5WjlmWEVVS2tZNm9aVmlDdUU0ZEZCczJvenNCUjJ2V0diQ0liYzNiWlJxcll0RURMVHhLODBXY0x1aHZLcGJIZlNkTnhoSFpLMl9uRENmRXQ2NG1aVVlKcWJldUIzLVdJektHbVVoRFZTT3BGQ2t0RHRrcFZYbC01YVNIX3dhZmFPTG00WnJfZExMSVpzZTZlRllkdmRIN2F2cUpzby1kNFJadFk5Zw?oc=5",
+      "date": "2026-10-15T20:21:14Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "‘I ached so much’: Man shares bout with dengue fever contracted during Florida’s outbreak CIDRAP."
+    },
+    {
+      "title": "New report details deadly toll of delayed measles complication in kids - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaG5QUkZPaEFJUGxfeEdNd3hQYjFvRWp5aDJCVmljZFA0TnhzRWFrTXNIalBMc0dsZDRad3RaUlhhd1lleTVLUHhnWEtWR3o1ZDQ0RS1pMmMzcndHOHFOVkJwSFhYYVJTMFBpM0JGQ3dVVHRtUTBvNVVrN2UxZURYQ0VKQUV2amZsZFRpUGloSDF4TW9PcXQxbGFZMU1yWXRz?oc=5",
+      "date": "2026-10-14T20:54:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "New report details deadly toll of delayed measles complication in kids CIDRAP."
+    },
+    {
+      "title": "One HPV vaccine dose often sufficient, say WHO advisers - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYno4U3lCck02eTY0RFhTVEpwbnRWekZXeUFVRE5kSXQtUzdTVkMwVHBKMDFGdlJia1owMjk3MGp4OFM5OXR3Z2ZxRWNfWWYtRllHUWJ3Sk8wc0FjWDdEUEZWbWp6Y0lTVlVfcVY2V1ZIbm94UUpkOG96bzEtM0Y2UTRCYTh4c2JSZElNel9tQVJDYUZJUU1OT3pYaw?oc=5",
+      "date": "2026-10-14T18:59:45Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "One HPV vaccine dose often sufficient, say WHO advisers CIDRAP."
+    },
+    {
+      "title": "In Greenland, 4 polar bears test positive for H5N1 avian flu antibodies - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTU5LUF80TFEtRjh2emJmRVAtclJMWU9nbTNWRnpUTHhybkhjM0lQVjAzRGRRUWpkUmdNb2s3THlmWkx6dGVvMGw5TjJTZlJ0Uk5lUC04Zk95Y0dRb2lJVk1rbDhlUS11TjJkelNXcE42UHdHMXZDR0dHdUlrMnEtZlQ5d1ZDclY1aFFmZDVWUm5tdUp1U0tQQnRmYjM3SmpZbjVwbHlXM01PT1dzWWMwZ19pQlVzdw?oc=5",
+      "date": "2026-10-14T18:30:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "In Greenland, 4 polar bears test positive for H5N1 avian flu antibodies CIDRAP."
+    },
+    {
+      "title": "Trial data explain failure of invasive E coli vaccine - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSk96NFNGYXkycDRuZ3l6TGZVMkdvUTNXenBvQWpOamRMYXFDOXY2YmhuQkZqSlBRVmljMThqMmQza2tQLTgyWWxkdGZGZE9ET29oak14Q0hZUUxYY1JJbFZxUjJmdk50T2YtQjBoMGM2dmc0NC1ERHdXWXRlTmRYOXBXeUZQSDBQY3ZQSGEyXzhaY0FaOTN0bW4xZWI3NlAzWlE?oc=5",
+      "date": "2026-10-14T15:55:40Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Trial data explain failure of invasive E coli vaccine CIDRAP."
+    },
+    {
+      "title": "Congressman urges medical, dental groups to educate clinicians about antibiotic stewardship - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmJ0RDVQNUtESGljWWVoM2xmZ0k0Wll3c0dfdXVEWW94d00tNGYzVmgyYmlOWE1ReGZ5eEhYMlkyb0JjVmZRUFNwYnRMWFJGekR2ZVdDalRnU3BKZldYSVFaYXlBR0tRaUVZOWhrbm1WRWxLR0E4bTU3eVMtczc5RWpWOVhTLU1sd3RmTXFiY3d6N1FnOTBzMVIzNDlVRXBBZVZPbkM1Z1ByZFcydThEOHBMMFY2Wm9K?oc=5",
+      "date": "2026-10-13T20:34:37Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Congressman urges medical, dental groups to educate clinicians about antibiotic stewardship CIDRAP."
+    },
+    {
+      "title": "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tNFp6RGt1aFdEWm00ZG1wTVVhSkh5OWFTZzlaZG9JUjMwbE1VUzdPWUN1b0RXU3dub21JdXh1dGxvckR0NUhHTGFUencxeFFHNjNVZERoNGxXdGhTZlVoYjVkOFF1bV8tNGkwTlVCNkNKdWdYc0gyRzdhNA?oc=5",
+      "date": "2026-10-13T19:18:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Ebola cases top 9,000 in DR Congo outbreak CIDRAP."
+    },
+    {
+      "title": "Pennsylvania reports its 6th measles death, in a Franklin County resident - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWlHVTR2b29sZEpsV3RSVlY0OWdqbk9Jenk4QmU3aGU0YXhGM0VIS1NzdjJwT1NMQjlWd2RKOFM3Q0Qya3lIQU1VQ0VheXRpX1Y0dkFaSy05VDh5SFRqVEhsMTZ6YmlXakRGTUhaNl81WXlhV3BPeFFoSkpBX1l4dTdaWVlCV08tTlpNeUxPVDRHaURBT2hiOUR4ZEMwZWh6cVZYaQ?oc=5",
+      "date": "2026-10-12T20:38:23Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Pennsylvania reports its 6th measles death, in a Franklin County resident CIDRAP."
+    }
+  ],
+  "clinical_trials": [
+    {
+      "title": "2026 SCRS Global Site Solutions Summit: What's a Mistake Sponsors or CROs Make When Rolling Out New Trial Technology? - Applied Clinical Trials Online",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNek9nSFY4NlYtbFdJcGsxY0pIeWFRS1lhMkpYR3RQYlFobXNoV3RlLXNKQjJnR2ZtWWcyTzk3T292WC1JTnhHQW9hYm5sSEJGbmFXRTFJOFF6THVYRVNvc3NCZ3FGMzd0WHFGYlVGR0ZmX0Nuam5XTG5oS28zcGEtWXRqeWxOdTJfaldUV0RKOVhYR3FwY0R1THJPU1pSYjlOamU5ZTNBeXBkQmZxUmVfLQ?oc=5",
+      "date": "2026-10-17T19:41:07Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "2026 SCRS Global Site Solutions Summit: What's a Mistake Sponsors or CROs Make When Rolling Out New Trial Technology? Applied Clinical Trials Online."
+    },
+    {
+      "title": "2026 SCRS Global Site Solutions Summit: Should the Industry Rethink What Scale Means? - Applied Clinical Trials Online",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFlLU3VHdEhLR1l0cG9EOUtvLUFoSkNEWmptcl9lSk81eFB0ekhwQi1acm9MNmhnTGh3ZnRCSTV4eU1kUjRyUlRzQVZSUHVFZUhGeHVpR1NLTkQ2R2FiTEpHT1BBTmNvcmVVa2dpTEJDRGVjQWpEcWc0NXlpejJUTW1PVThCX3FEclZSeGxrLUh0QU12THNtU0FZdw?oc=5",
+      "date": "2026-10-17T19:41:07Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "2026 SCRS Global Site Solutions Summit: Should the Industry Rethink What Scale Means? Applied Clinical Trials Online."
+    },
+    {
+      "title": "2026 SCRS Global Site Solutions Summit: What Causes Technology Adoption to Stall? - Applied Clinical Trials Online",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXy1peXFzbXBIWnY3Y0MyU0luVm1DRDRTTDRhQnk4VDRWMVVoSm1xODZoYUYxblNITDAwanVudEFQSWVhXzZMWGdycUswQ3ZQeFhBS0N3NFhncDBxWXlzWXROVHlFLXJCTHNTNGRLQWJjWlgyZ2JJVTF6VkJVWXkwZzYybldUU0dibWdlN3UyUFdDNXpuWmZR?oc=5",
+      "date": "2026-10-17T19:41:05Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "2026 SCRS Global Site Solutions Summit: What Causes Technology Adoption to Stall? Applied Clinical Trials Online."
+    },
+    {
+      "title": "2026 SCRS Global Site Solutions Summit: Concerns & Excitement Around Where Clinical Research is Heading - Applied Clinical Trials Online",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1NDemVRNzB6bUpxNGVmNzVxQVZucnZFSmZqRTdQSmZvQW1fYXZqTktQY21FSFFuUlZVWjM0WC1EZjlVQmh2a0xxNERqaU1US215RVVQaVdSMy1HR2pOdWVoRzRseGYzNHFubHd2Q0ZnUnpDbEpfU2ZCWlZic0NqeEo0MXAzbGpCTGx1SWhZUldCWF9pVVlLUmt3VzU0M1ZRYkJMa0hnQXZYQQ?oc=5",
+      "date": "2026-10-17T19:10:32Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "2026 SCRS Global Site Solutions Summit: Concerns & Excitement Around Where Clinical Research is Heading Applied Clinical Trials Online."
+    },
+    {
+      "title": "Revenue Recognition Risk in Contract Research Organizations - Applied Clinical Trials Online",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/revenue-recognition-risk-in-contract-research-organizations",
+      "date": "2026-10-17T17:06:08Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "Managing financial integrity in a complex, milestone-driven operating model."
+    },
+    {
+      "title": "2026 SCRS Global Site Solutions Summit: What's the Biggest Policy Gap Delaying Integrated, Community-Based Research Being the Norm? - Applied Clinical Trials Online",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzBNYUJsMFlfNFY2a2JJM0NWSmpjSVdEaUhza3JwLUpxbzJpMmhzWG9aTm1IRTFaaGcyMUVjdnNmU1JVZWFNMUxSQ1ctSFV6VGo5NkhTSHllTGtqcC1lS2s3X2JtSWlaQWFDcGhNRU55WmZLa2FPVndqcnVJSWd2S0RyZ0dUMkNjaDlXZS0wbE9heUZ0SDhlcUxqWUlUUy0tbGlpWmlfRUpWQWJaY083MDdoN3Z4VnFkUE1pcWxvMnk?oc=5",
+      "date": "2026-10-17T11:37:34Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "2026 SCRS Global Site Solutions Summit: What's the Biggest Policy Gap Delaying Integrated, Community-Based Research Being the Norm? Applied Clinical Trials Online."
+    },
+    {
+      "title": "2026 SCRS Global Site Solutions Summit: What Does it Take to Turn Three Independent Site Organizations into One Functioning Network? - Applied Clinical Trials Online",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUQxaHZZUXp4WWZqRGlvUktVQjVQQWNlV29lX2tySHE3MHJYNjNRaGVtRzQ0SEJLZHFIUmU2VEoyUzgwYjZrZGF3RTI4UkljWHg1TDNZYl9HRUhPUHBjWkY3S244ZmZDSnBpMmk5SVAtb0RrZDdMYzZiX3hjaWpEUjB4b2NVUTFyMm9UXzFKV0pOT3VNdW1sMDJrSlM0OGpkMC1CMFlkU0pseHhDcExQWTduSnA?oc=5",
+      "date": "2026-10-17T11:37:33Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "2026 SCRS Global Site Solutions Summit: What Does it Take to Turn Three Independent Site Organizations into One Functioning Network? Applied Clinical Trials Online."
+    },
+    {
+      "title": "2026 SCRS Global Site Solutions Summit: What Should Sponsors and CROs Change About How They Contract with a Network? - Applied Clinical Trials Online",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbEE2d2VnZHVkcEs4Zm1oUzU1V0tDdTNhcHdfQkxnMVR6R1hCM1d6bVdLaWhZSlBYQ3c1NUFYUVhGMk5kMHNjMzVZVmd3dDE2bG9Gb1hNT1pIVml1emM2SXpwRHJWaWFzOUZZclZENy12UDAxRTYxMVR2REdQbmh4Yy15UzZZdDdhVDM0ODd1OU1BS0xWMERmb01NT0hwUWc?oc=5",
+      "date": "2026-10-17T11:28:58Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "2026 SCRS Global Site Solutions Summit: What Should Sponsors and CROs Change About How They Contract with a Network? Applied Clinical Trials Online."
+    },
+    {
+      "title": "2026 SCRS Global Site Solutions Summit: What Does Embedding Research into Existing Physician Practices Require? - Applied Clinical Trials Online",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFhUdXQ1U3FVOWZNRHcxbmtSeDJjTWtFdmFoUlNUOUJ0MjUxTkUyUmZHV1ZkYW9fUGlOTVpRaHcyOVBaaDhJTnBnMkNpS3lZYzRabGFudVFXYWVSSzUxYVdpbi10bXNWdWNVa2J3ak1CYkV3dWItOERSWkRUamlsZlVGdWdPWkdpUngtZGtCd0p2NEdOeVJPajhsNTlrcUV6RXZpM2JfdW1OMDFGNkNiZlBGZnNTQQ?oc=5",
+      "date": "2026-10-17T10:57:35Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "2026 SCRS Global Site Solutions Summit: What Does Embedding Research into Existing Physician Practices Require? Applied Clinical Trials Online."
+    },
+    {
+      "title": "Effect of Ultrasound Guided PRP Injection on Post Trumatic Peripheral Nerve Regeneration. - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rOXVvYkZ4RnBXZGRJbXYxUUZtUVVINVdBazFURXVmRnQzYTdlc2FVSVIya0RaVjRjRWN6YUNURVNNVTU5NURZN3dXN3Q0aTAtNlZObm9kbw?oc=5",
+      "date": "2026-10-17T09:13:32Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Effect of Ultrasound Guided PRP Injection on Post Trumatic Peripheral Nerve Regeneration. ClinicalTrials.gov."
+    },
+    {
+      "title": "2026 SCRS Global Site Solutions Summit: What Does Al-Assisted Patient Matching Look Like? - Applied Clinical Trials Online",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFlzdERTcTJDZ01KN21kU3p1Z1BENzBTLS1CVTN4T0kxcTdEc2VnNE1zVXlIMzRzeVUyU0lnT21YZllJbC03TFhEZGdCSzVUR0NvZng0cEJJbHM0T2RYQ1V1MWx5V1B5Y2JCdVRzMmw4TGpkN3dSNVZYS3VkRndIQmppNXUtMXJNLUMtS3ZaandTekdnNkpiTg?oc=5",
+      "date": "2026-10-17T03:37:23Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "2026 SCRS Global Site Solutions Summit: What Does Al-Assisted Patient Matching Look Like? Applied Clinical Trials Online."
+    },
+    {
+      "title": "Study Details | NCT07871279 | Stimulating Your Nervous System for Calm (SYNC) Study - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTUFRmMHJkUEJ2clI0TzFvaGN2RWQ2Z0FnQXFLWVhzdXV5czVodGRsdXp6dlJpOGJ5ZDZIenRZeGVhQU8zX2UyaFB5Y0d5WUNiWmJBZ1ZaSUxLSEh6NHQyS0ZWYXdSWFo3MG11VVItMjBLaHdXZWdN?oc=5",
+      "date": "2026-10-17T00:49:25Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07871279 | Stimulating Your Nervous System for Calm (SYNC) Study ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07874737 | Mitoxantrone Hydrochloride Liposome Combined With Cladribine And Sotorasib For Relapsed Refractory Acute Myeloid Leukemia - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fU2Vsem5ROWlNWXZtVXZhV1hrdzNfdUtEMjhxaGNSZnRHdGs3dEdLbEJwT1JZNmY0NUVWQjhQSEdSYkJKNTduT3lKOXFfTk5OTUdLVWhMWQ?oc=5",
+      "date": "2026-10-17T00:07:51Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07874737 | Mitoxantrone Hydrochloride Liposome Combined With Cladribine And Sotorasib For Relapsed Refractory Acute Myeloid Leukemia ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07878546 | Ligasure Versus Conventional Diathermy in Hemorrhoidectomy - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12UHUtamptSFVhYUs4NmVsM0FYNy0zSF8wbzVJWDFWYjNldEpZMWR0dUFWa1BNVE5BdXh5cm9uQlQyTjdDRndZaHVrYW10RDQzTFJhNGxvQQ?oc=5",
+      "date": "2026-10-16T22:47:08Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07878546 | Ligasure Versus Conventional Diathermy in Hemorrhoidectomy ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07879261 | Hazardous Substances Injuries - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OTW9BaG1SU2l6cDdYS0hPVW1lckdnMVZhRlVFQXIxcmdPV2lSdWhGdnFlRGhfaEwyaDk5X1A4WmtJbEF2VjlGRFZBVndwR0JyTElkTVVVNA?oc=5",
+      "date": "2026-10-16T21:36:03Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07879261 | Hazardous Substances Injuries ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07878208 | Immunoprofiling of the Patient Tumor Microenvironment in BCMA Targeted Therapies - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLTWh1eFgxNFJWQ3VnTnkzcmEwbVMtZURTZXU2WnJ2aEVzRlN3NEliRXp1dGxPRFRDaVhKVmdpN3c0M1lEWnkydHVwOFFXSEJrQUJFNWlEcw?oc=5",
+      "date": "2026-10-16T20:45:11Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07878208 | Immunoprofiling of the Patient Tumor Microenvironment in BCMA Targeted Therapies ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07877792 | NICU Design: Open Space Versus Single Family Room - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLTjYwLUZXblJ4bUxUSUg1aXN3Qy1qLUJOQUs2MVFFTk1feHFTRGJIZVIwcmlvSGU2amMtdXNnTzlBZGVPa0RleEY2UnNmSjVNaVJ1YzhJZw?oc=5",
+      "date": "2026-10-16T20:25:50Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07877792 | NICU Design: Open Space Versus Single Family Room ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07878793 | Hypermobile Ehlers Danlos Syndrome Healthcare Usage and Outcomes in England - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wcFIwc1FiV01QcTAxNThGc0E2Zm0xUnE3bG8wQTVjRklrbDV5NEVQTUZfaGg4VmtyY1g1RkpGSWlJNWI5c2hwMlpPODB3TU41eWF3d05oOA?oc=5",
+      "date": "2026-10-16T19:45:49Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07878793 | Hypermobile Ehlers Danlos Syndrome Healthcare Usage and Outcomes in England ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07879482 | Bone-Bioactive Liquid as an Adjunct in Endodontic Surgery - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WU3Fhc1ROcS1fZUQ2WWJvTWo4TnZZdWRHSEFnQU5SbS1WQWIxdUdjYk5zQW5Kb0liak1obkQ5SmdLa2oySzBOZnp3V2VQazVNdkdNRkk4WQ?oc=5",
+      "date": "2026-10-16T19:43:31Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07879482 | Bone-Bioactive Liquid as an Adjunct in Endodontic Surgery ClinicalTrials.gov."
+    },
+    {
+      "title": "2026 SCRS Global Site Solutions Summit: The One Conversation the Industry Can't Ignore - Applied Clinical Trials Online",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjBraDUzUWF6VmRNcW81YnJjUUdtR1pJMUh3LXN5Z2lhaDhOMWI1cHBfZ0ZFQXJ4WGxEMUZ2cVp6ajZJWXBjR0l1V0dRWUFIUDNnZWtWQmpvV2FkeXJJY2V1TUt6QXhwVHc4MVNMUHF0c0pMTWNwS1YteVJ4THdLSXE3MlNXcnNrQ1ctWEFTMloyQ2pLMlQ2aVBzSThTOE0?oc=5",
+      "date": "2026-10-16T19:34:00Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "2026 SCRS Global Site Solutions Summit: The One Conversation the Industry Can't Ignore Applied Clinical Trials Online."
+    },
+    {
+      "title": "Study Details | NCT07877623 | CLINICAL INTUITION is an Experience-based, Often Unconscious Assessment of a Patient's Resilience and Tolerance. It is INFLUENCED by Clinical Signs, Behavior, Functioning, and Context. While it MAY PREDICT Patient Dr - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92RDZhN3lKUTZMUTh0djMtS2NYNUJqbzJSSi12Z05EY0g2SzRSSmV3NmxCVUZGYXZERkNDVU5NLVhiaEJkVWVaMk12YkdwZFBKWFd1bWZEOA?oc=5",
+      "date": "2026-10-16T18:23:17Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07877623 | CLINICAL INTUITION is an Experience-based, Often Unconscious Assessment of a Patient's Resilience and Tolerance. It is INFLUENCED by Clinical Signs, Behavior, Functioning, and Context. While it MAY PREDICT Patient Dr ClinicalTrials.gov."
+    },
+    {
+      "title": "in Side-to-Side Versus End-to-Side Brachiobasilic Fistulae - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82TEZJQUs5aDFYR3ZUNlpHRjlkcmRleWgxTTQwY2FBZXNqcmE1UzlxdjV4bHM0S1lMQ1ZwMkVRTXpHN3h6LTF4RGw4aWl6TzNRalhySktFWU1xdlhsUm1ZOXdFZnVBb2JSZDlmV213MA?oc=5",
+      "date": "2026-10-16T16:25:34Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "in Side-to-Side Versus End-to-Side Brachiobasilic Fistulae ClinicalTrials.gov."
+    },
+    {
+      "title": "SARS-CoV-2 Origins: Another NIH Revelation—or Another Trip Around the COVID Cover-Up Carousel? - TrialSite News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZmQ3ODhFTm5NR1EyTTFlREVtOVdEV2c3alJBZWVIV2I2VjRuaHVmTHh6UU1aZlFpcFdQRUJ0Y1ZIMlhra05jeEg5MDZfRmxyQ2Mwb3pvd20zRjkwSmZLY3l0cXhHcHZsdzRoVEt4R2dWUG5RRk5WcV9EX2ZXMzhpTHZRdHJqNWRiRGNrbUMxM29wRTRYX2NsUEU0aS00c2FhUE8yNzY2eVJnRzI4Y05zNjdES3NWMlBwVkpWQkQ1dVF0dnh0TW9iWnVlUjI?oc=5",
+      "date": "2026-10-16T16:18:28Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "SARS-CoV-2 Origins: Another NIH Revelation—or Another Trip Around the COVID Cover-Up Carousel? TrialSite News."
+    },
+    {
+      "title": "Idaho Twins Deaths--Children's Health Defense Makes a High-Stakes Gamble on a Mother Accused of Murder - TrialSite News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM21LYkVCNXJYYlpxSkZrYUJoVHRYMlI4Z1VMejJyazlUWi13R2kwTU51LTl2VG0zSU81ZGo5Y00zeEdJWHdfLWVIcFM0Uk5qakp5Tlpmb3FSUC02QVV2c0xTVFI0UE1aSzlRVGx4NXB3UGd3Z0VWWDV1alZYd0tid0s3LVlpcGRMSmRJSU1IeWhvRUIxek1IZXJqZkNSOGNRUlZRQTN1cUV3dENpOVF4VC15bTd4NElXNWZCUnA3anpweEUyRmhFNGJ6ZVRDX3NGVmYzOFQ5cUs?oc=5",
+      "date": "2026-10-16T16:01:41Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Idaho Twins Deaths--Children's Health Defense Makes a High-Stakes Gamble on a Mother Accused of Murder TrialSite News."
+    },
+    {
+      "title": "Independent Censorship-Free Media for Health & Biomedical Research - TrialSite News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kNWRSSDFxejA5cTFFYTgySXIycC0tcDQ4RVFoTzN3dTNJaVFsck5RR1o0c0hyQkJRM25jOG91akd1RUdHbmhfM1pyc0k5N1dnUVZlOTJ1Szg?oc=5",
+      "date": "2026-10-16T15:46:09Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Independent Censorship-Free Media for Health & Biomedical Research TrialSite News."
+    },
+    {
+      "title": "SPGL008 in Combination With SSGJ-706 ± Chemotherapy for Advanced Non-small Cell Lung Cancer - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5feTRTN2k4T3d4WU04MkVFdS1wZFRZT1FQRGRQdzM4SUJwWVEzQktVczBTeVFKNk5jSHVDWTU4X3JMQnNNVWpUbm1MVGphbjg1aFRRYU1YSQ?oc=5",
+      "date": "2026-10-16T14:42:15Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "SPGL008 in Combination With SSGJ-706 ± Chemotherapy for Advanced Non-small Cell Lung Cancer ClinicalTrials.gov."
+    },
+    {
+      "title": "ISEMBYLD for the Treatment of Spinal Muscular Atrophy, US - Clinical Trials Arena",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzdVV0JzWDkyU2VYVmNyNHhrSlhPN3dyRVAzWW4tOVBnS2Y3T2RtYTNkRlBQWndrbkdlazRwY3I3X0UxNHhCUjhYS2FoNWtralRzVTRxOGJKOU1YN0l3LXFIb2JheW1WX1ZOUzNIT1AwenFiaVUyNGxUb3dPTXNIR3pCNmJ6bGM2MHQ5WTFKV082R2gtR050WmhROVBJY2p5SS1Qbg?oc=5",
+      "date": "2026-10-16T14:02:39Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "ISEMBYLD for the Treatment of Spinal Muscular Atrophy, US Clinical Trials Arena."
+    },
+    {
+      "title": "Temperature and air pollution associated with increased risk of type 2 diabetes - Clinical Trials Arena",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTVyUjZzRE9FTGNCbWxtVnpiRE1UTGxBbHV5U3E3SlQ0aUxDUUhHTzdSSUxPMlA3Qi0tSHVfbndGa2Z5YkwwQ0ljOTV0ZDVvSXZneVltTXZKeTZKMHNuS2hXaVhleEl1Z1U3cGpOTG9ZYVRuQk41VHJ0azl0dmdUQWY3THNzbDFuVURsNWZMRUdzR2hrZUN3RUtB?oc=5",
+      "date": "2026-10-16T13:57:05Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "Temperature and air pollution associated with increased risk of type 2 diabetes Clinical Trials Arena."
+    },
+    {
+      "title": "First patient dosed in MacroGenics’ Phase I MGC030 trial - Clinical Trials Arena",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlZ6NWVUV1V5NmlpU2NFdnhwYk81amc4aUs4QmNKNUhiVWdSdkFjQmlVa1FRcjdlTDVfOW56c2ZISXI3Q05Xbjc1X2F2Mlp1dVc0aDh0dTkwUGNIdGs1X2JiN1NkVi03cWpUUmFfYXN1TkdvcGlXOGFhYlJUVENmNHdHVlZjT0xhb1RZQTFzbw?oc=5",
+      "date": "2026-10-16T11:15:19Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "First patient dosed in MacroGenics’ Phase I MGC030 trial Clinical Trials Arena."
+    },
+    {
+      "title": "Study Details | NCT07874763 | Bachmann's Bundle Versus Right Atrial Appendage Pacing - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QWEJvUXd6bGVIdGpVaGJuSHhJQ0oxSUxkMDR3blNzR01QbGFBbjZ1MGtSSTRHR0RmZzgwakppVlZMY054ZzdOdlZ6aXhvM2xpS0Q1OFFpUQ?oc=5",
+      "date": "2026-10-16T09:54:34Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07874763 | Bachmann's Bundle Versus Right Atrial Appendage Pacing ClinicalTrials.gov."
+    },
+    {
+      "title": "Is There a Hidden Language in DNA? Scientists Find Unusual Genetic Patterns Across 54 Species - TrialSite News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbHVuZVN4MDdOdkJzd1JyWjdGMy01aGc3aFNyYVJYclJyM2MtOXRTQzNWQllOM2tpc3lQdVgwcFJKd0VlWGFPN0JwOGtEb0Y5WHhfQkxZc2ZVbk91OXljRFgwc0Z3a1V2VmRBM0lLeEZacks1ZTh2Sk1BcTg0T2ZHTGRkNTEyNExnZWwxSHpiWlRQdDdMVGhYM2RYZHpZVEZ6UlNtSEYzaUhBamJ3dWJGUHhoQ1hrS21CS3lBbkxpLU1MeUNmYmVaXzRyRU5rdw?oc=5",
+      "date": "2026-10-16T02:34:25Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Is There a Hidden Language in DNA? Scientists Find Unusual Genetic Patterns Across 54 Species TrialSite News."
+    }
+  ],
+  "pharma_market": [
+    {
+      "title": "Environmental risk assessment - European Medicines Agency (EMA)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rU1hSSFlyVldtMExNUWc1cjYyODRGNWZzV0JCSWpvNWNnSzZKN2MwbTlyWGZfUk9GblVnbTVRMVBLQUtpWDE4VFVTQ0EyQmE4M0xOVGo2MWFQNUVT?oc=5",
+      "date": "2026-10-18T04:37:43Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Environmental risk assessment European Medicines Agency (EMA)."
+    },
+    {
+      "title": "UNII - JJU4XT142X | UNII Search Service - precisionFDA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50WWlsZkV3RTFDcWtRZGxBOUxSZmswV1IwbHdmc2lxLTJtb3dQWDdFeXkxT0pCaG10aUNzczFDa1ZXUGtNQTFscUF5WlBaZDdtOVU4TW5LalotZXJKM1pQbE40UW1zbDA?oc=5",
+      "date": "2026-10-18T02:54:58Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "UNII - JJU4XT142X | UNII Search Service precisionFDA (.gov)."
+    },
+    {
+      "title": "Interactions between Efalizumab and Tarlatamab - Drugs.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRlJPcTFRampIVjdORXZVMlA4RWZEaHVaZUlVMGhYWVJDZzBGNXdVeEh6OFZFb2JSandPSi1hSXhNeVpJdW5JUWp4dDM1bkZYc05kbzBuLUItdnJwT0tyYVJXV0VJQUp6R3NYNG12VkxlNVFSTng4ZzFMX3ZuOFBHaERITGhvaEtkS19yWjY0UUF4bTA5aDR4QVp3Z0VmRUhD?oc=5",
+      "date": "2026-10-18T02:34:32Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Interactions between Efalizumab and Tarlatamab Drugs.com."
+    },
+    {
+      "title": "Device Classification Under Section 513(f)(2)(De Novo) - U.S. Food and Drug Administration (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNNGhjYXVTTHVkakYwdTE4bVRLUUhNYURqdnhXMTB3R2ZFNXpMT3lrdVhoNURoanlGQUlGTmZMVUhmdS1UTnFMS1Q5ek9mVk5HRklMVzExRDdCMkM1aXZrTjM2dEtjRzRtYnRDbjNNSFBWdVhwbzFucUZkNHl5aFZjbFJnejJIYm9NSTVhRVp2NVAzLXhKT1JqUm9oX0FfWDJZU2RhUHk4cFFRcFAxc0JHMVRobjROQU45SWJ1cVZndThJYklBRGFTcDZGV2h6QnNlYXNUSk1DMDlHcFVGbnZ6NGVESzIxYm9sMHFQdkRfWE5DNzFmYmFGTzNrd3V0a2xLeW5LaThjNHRlS3lkaDQyMXM1VlktSGQwTkVUQnpGNDFLM2c1dFBKUThPNWZPVHB3eFRxb0ZhbWN1MHZnTm1DUl9UdEtIRkJCLXRVdHhnci1MT19oU2J5Y1JiX1EtQjlaSUt5aE5NaWY2c1lNYUVUWVJrT0k1a2xYbTBEYzRtTWxYYVBrN3c4RVItM1pya3MzaTJGYWFyNTROalZSdTU0MmlUTnhJTUwyelZrclFuSkg3WEpKUE5iSllwRGV5cUpGRHBtSnF3VQ?oc=5",
+      "date": "2026-10-18T01:45:28Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Device Classification Under Section 513(f)(2)(De Novo) U.S. Food and Drug Administration (.gov)."
+    },
+    {
+      "title": "\"lonapegsomatropin\" Pill Images - Drugs.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82Vk5Id1l3Wjg1ZjNHeDhLMFJVTEJYcnBYRTRrUWtwQU9Ibmc1QV9rLXZ4MDNkM0dSellZTmxNNkM0SXp0Y2QtTml1dlRmZDNBdDVKR3VNZXRFckNJcVRoQVlOOFlndm14YzVOai1n?oc=5",
+      "date": "2026-10-17T23:00:28Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "\"lonapegsomatropin\" Pill Images Drugs.com."
+    },
+    {
+      "title": "\"dihydrocodeine bitartrate acetaminophen and caffeine\" Pill Images - Drugs.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1ZYSGhXSC1sVDhXcVJ2a3U1cHlSOUpIT2hraEE1QXA3VktSOVJtRG1jcWVuRWtDZDdlR1NLYWh3QWVwY1FWQzU2VkxHcDBLa2phd3ZKdTVYWUJENy0xa2N5ZGp3bVd6NDdleG03YmRJblc3dm03SnNheHJDeE1FdVFTQ2FaX1A2dnNabUMxQWxmYmp6MDU2dDIxenk?oc=5",
+      "date": "2026-10-17T22:57:50Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "\"dihydrocodeine bitartrate acetaminophen and caffeine\" Pill Images Drugs.com."
+    },
+    {
+      "title": "Primary insomnia - European Medicines Agency (EMA)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vN3llQkE4VWtWV3FmMXVlWVVNeGhjSFV6eFZhWU93NzJFNTJseW95UUppVUZyZG1uOG0zZzY1c0ZkeHVPbmdmUUFnb1VPQVFvXzBJNU1CbXIyd09rakE?oc=5",
+      "date": "2026-10-17T22:24:51Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Primary insomnia European Medicines Agency (EMA)."
+    },
+    {
+      "title": "\"widaplik\" Pill Images - Drugs.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kVmltamlDUUQ1bnE1VVUwd0paN2phTC13SG10RHJ5QnlKMDM1WXlLZzNLdFRsalM1N0g0S2M4TFlDdGViU0NwMG9aMEoyN2UtWGtjX1B0VGw5TmRFS0hPQzc4a2JmNEpMUF9IYzBJWjZFWHQz?oc=5",
+      "date": "2026-10-17T21:48:11Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "\"widaplik\" Pill Images Drugs.com."
+    },
+    {
+      "title": "Interactions between Bcg and Amikacin - Drugs.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFZGUS1PeTFpS2M1TjhERlNRUmNaWGtLSzJNczZXSTgtOUlrOHpWc0I0ejZjS1pRZ2gyVTh6UTZwcWhDbUU3d0k1RmJvdUhWc0lSX1UtaWlMS0c5OENRR0tJOEh4TGVuY3pGUlotTUhCQkNnOWo4YktWNXdxTkViMlhkZV81N29USXpSdi0yZGE1R0U?oc=5",
+      "date": "2026-10-17T16:43:13Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "Interactions between Bcg and Amikacin Drugs.com."
+    },
+    {
+      "title": "AK-Con-A Interactions Checker - Drugs.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWRvM1V4TUYtNzRHM0FOQVN0SEpIWHlWQzlJUmdVZmFMbWRVR1ZELTRBOE15TTBSb096eTd3Njgwcko1QkVmOW1hVVNLS2ZvT2Z6ejVRdjB3UjdHb2tlNVJPZld3QlY1dXlmV05ENG5EM2dQa0hPbWI1eXpkdDZnYm5BZXFUUVBIZmxqYmZ5dXNrSUUwcHNMUGRiTXJuWGpXbUxBVjVB?oc=5",
+      "date": "2026-10-17T16:36:00Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "AK-Con-A Interactions Checker Drugs.com."
+    },
+    {
+      "title": "Class 2 Device Recall TMINI Miniature Robotic System Square Driver - U.S. Food and Drug Administration (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yRUNHNUNOaV9nczNxSUdUQUhOVlZMV2JjVHhPVjZTLVlkM2F3YXJ3ckM5N09lVGF2VVNDbnNpeHRVd2dKS29rdGlyLVVPQmVNd2JMZW9seVRVcVhWMUFid3gyd0R2VTJ0TVZaaW5SbTFydEE5aXhBaGp0bk9UUTA?oc=5",
+      "date": "2026-10-17T10:42:30Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Class 2 Device Recall TMINI Miniature Robotic System Square Driver U.S. Food and Drug Administration (.gov)."
+    },
+    {
+      "title": "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRy1qTHZSNWdmRjZ0NXRCb3l5RjFfUVBCNUZuMDlNY2xmRnQzNHoya3kwcDlGV19Eb1ZHSGZpeVhQOXZYZWVUdE9LN3pHN3BmVlMyNV82QXBVZHlvWXFqcFlVMzJkNWJkSFhjTVZDR0hxcVljY0FNN2VacXVnS0RmMXBkeFJqWjV2T3hrWFY1c1FEMVhYdjlycEhRODF5dUhXOVdqRA?oc=5",
+      "date": "2026-10-17T10:00:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more Endpoints News."
+    },
+    {
+      "title": "Class 2 Device Recall Medtronic Biopsy Needle Kit - U.S. Food and Drug Administration (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fNjY5dXIzZ2NDdU9hZ3lITFcxaUstSUVMZzhVaTRFM2lkSWMxV2lEMTFCejJ3WjF2b2tqeXQ2UWs1UHBNNkhPdmZBTzdkLV90dVRWcWE4b1FTR3FOSnRqMTlNOUxETVZTSS1haXRUOGp1UmptRC12ZXA1b2tJcGs?oc=5",
+      "date": "2026-10-17T08:47:06Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Class 2 Device Recall Medtronic Biopsy Needle Kit U.S. Food and Drug Administration (.gov)."
+    },
+    {
+      "title": "Central nervous system - European Medicines Agency (EMA)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00WXhVOFYxUGtLVnJoWncwSzNONVE2aF9Xb0JIRWE5cUpaQjJrUFg5dGZINjgwa1hhS2R2YkFFSDVrTEoxb3ZKVTllRmJlb2VSd2RUODZJMjFWanljeVE?oc=5",
+      "date": "2026-10-17T02:26:35Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Central nervous system European Medicines Agency (EMA)."
+    },
+    {
+      "title": "What We’re Reading - BioPharma Dive",
+      "url": "https://www.biopharmadive.com/what-we-are-reading/",
+      "date": "2026-10-16T22:47:44Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "BioPharma."
+    },
+    {
+      "title": "Biosimilar medicine - European Medicines Agency (EMA)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbXduTzBUM3l2Tnl4X08zWTBrbU1XYnlrVWV3MWlIa3ZGNUpRQ3VaclZaSkpMazNBZC13bHJjUmFiQjh2ZzcxUmNPTDk0a0VUczAwMnVvLWZmOGZs?oc=5",
+      "date": "2026-10-16T21:32:28Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Biosimilar medicine European Medicines Agency (EMA)."
+    },
+    {
+      "title": "Spinal Cord Injury Trials Turn To Function Over Strength With NervGen’s RESTORE As Test Case - Informa PLC",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQLTB4STh4OGYtRWlkdDhLR2Vxa3MtUnpSYWhDLW52YlAzMVljYlRlX1VKSzIySzAwWGxqVGNxUVBLWEZYQ0xBYUFFcG5RSm51RGFpV2h6SnRUZWZmXzE3NnB6MHktaS1rdUVCTWVQZlFzU1EwbXFqWTBLLXF4QlJMbWlpY1J3YkxEY1REaXNCeHMwdlZQb1pQZk1Qd0JqTWZGVjk5cnlYYTZRcGxsQ2Y3SE9seFZ3ck5oa0lCTkF0THRuamxpRjdDX0RfMWk1V1JXSlJBSlV6LURUQUhrVTlYWlNYTUJxM2FYQ1M5VDBjdlhEdm5WX3J1NXVuQ2k4M0VFUENnX1AweDRmTEN6dXZQRkVrY3lKMnZOTlVleDFxeFZocjRu?oc=5",
+      "date": "2026-10-16T21:24:18Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "Spinal Cord Injury Trials Turn To Function Over Strength With NervGen’s RESTORE As Test Case Informa PLC."
+    },
+    {
+      "title": "International Trials Blog Raises Questions About US FDA Communications, Definition Of ‘Policy’ - Informa PLC",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPcTlCc0hHajBjVmd5ekIwb2lkMjlZTGoxaEVCTW9JOXRyQlBPSWhtUVBWdl9mLVZSYXdUYThZSVRiNzJoVTNBeDFEUzU1T2gtcVV1cWI1czBwNWUycnNqemNBUzJ6VG0zTnJneGk4d0tvZHE4UG5TbDdINWFHUEZtYXVoNG9uR3U5SXVTX3pGVkdnWlZRakpoSWNaWF9xZTZBN0U2ZDBiUmo4OW1kRGU0cnFSSmxvbXMyc3RLQXlVQlk5WVB4NUM3cXI2c2V1RDNiU0psZEdxbTNUM0VCalB6WDdJY0NuYV85OEtnUXkteGhwWURFcXBVRW9adHc4Vk05cHhZRG9EbjJPclk0djM0bTduWkpjSkpoVXY2Sw?oc=5",
+      "date": "2026-10-16T21:20:57Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "International Trials Blog Raises Questions About US FDA Communications, Definition Of ‘Policy’ Informa PLC."
+    },
+    {
+      "title": "Exporting data... - U.S. Food and Drug Administration (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVXlUWk5lM21zUzlJbm9ta01CRkdLVWJWR2xxd1pacV9MMGNwTktxcm1sZXVYQ0ZkN0puRmdkV3NhX0FTaVFIZ1B3cWZzYkhRM2lndWM4aVRDRV90aENlc3JxdVo2QlRyZlowREFnVHkzWkMybDFIZ2FUdEVGUlBOT2wtclcwQ2JrTkJZbENJUTVVSzgyR2xIU2V0cVFoMXJlZG84N3JEWkhyUGtJc0R5Nl9VajNzX2lkM2NVdEhCU1dVeTJjT3RKaFNVV3NhbXJHWmN5TVBJOGRxUTM2TzJQaGl4SE1QRWhBTkdZZFA3bGlRXzB4NS1wQmxtbG9jSmJDV3gzRndTNEZ3UkppcU1WYS1qdTNxOEtNbGJGYktrYjdlZFExNURoVTQ0U2hXc0FXcFhaMnc4Y19lS2g4ZjNPYQ?oc=5",
+      "date": "2026-10-16T19:39:13Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Exporting data... U.S. Food and Drug Administration (.gov)."
+    },
+    {
+      "title": "Trump's pharma holdings surged as drugmakers benefited from Medicare price negotiation carveouts, Democrats allege - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSC1id2RqSDJ0RGtRWFFrb0hUdjZ4aVI0cTlQVHZvLTc4ZHIwM3NMVXVyX2c4RldPRkpveE9JNTJoR2Rfd1Bub3huUmVSaEZFVFRMLWxzbF9kYWZndVhhVGFwb2I2cm1qSU02SjdBWFYwc1hhNjNScEZvRzBCd1gyNU1BcFJhUlhETzdQZWF5UklSRWNYNTJnUTV1cjFuNVVGT2VxYTQzWXBSQVpDWk4xMFpSMlJfRVhmWkFB?oc=5",
+      "date": "2026-10-16T18:50:41Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Trump's pharma holdings surged as drugmakers benefited from Medicare price negotiation carveouts, Democrats allege Fierce Pharma."
+    },
+    {
+      "title": "Industry Worries About Misbranding Exposure In US FDA’s Distributed Manufacturing Path - Informa PLC",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQbU83UkpNaGdUVzc3SjJ5dHJ6aE12YzJGVzl5eDVzalJOMjNNQk5OVldZYkhiM1FrY1RaY0NReTVYS2JEcnJmS2VaRElWWWdxdnR5LWNKcGsweDc2azRvb0paMzdic1p3VDBNVXJrNmxrUWlVLWdRdUs2WDhHZWZtRExqVnAxUWpaYngycXNrZkVrbUtuNFlGaF9abEJJOUc3M1FxSnlmb0lCMDJ0Y3dpNDVXWHZiNkZFdzFJV09UMDdxdG5xeUNmQlVBUTlVTkE1V1laSktFWG9SYlYxQm9hZ1gtME9hRjNFZnMySEU0YUJmdU02TXR5azJXby1jRWdablJsSVZHVEtCRUc4d3ZlYlNGMHZLZlJMak53M0RR?oc=5",
+      "date": "2026-10-16T18:04:26Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "Industry Worries About Misbranding Exposure In US FDA’s Distributed Manufacturing Path Informa PLC."
+    },
+    {
+      "title": "Novartis terminates mid-stage trial of lupus nephritis treatment, Endpoints says - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVHJaeEZ5X0lac0s1Yk1XQktTdjF0UC1qbjFlTTNRTjJjdGNvd3MwQ3dJbXctNC1JQ0J4bTdTTjJkZ3p3YUpMc2owU0Rmc2lRcFhPQUtVWml6d2RZd2tvcTlMWkg3SzJKNTllSXA0Mi14bUFLN1g5ZGx2bVVWbXNUdGdjRThWZkVKZDMyTkZPRG5DTmxMZ0ljSVZpN0RDaE42UnJJRmRjUVhIY1h6TE15aG9KZGlXamUtUzU1OVYzVXI5VXhHUzlCQg?oc=5",
+      "date": "2026-10-16T17:59:27Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Novartis terminates mid-stage trial of lupus nephritis treatment, Endpoints says TipRanks."
+    },
+    {
+      "title": "Orthostatic hypotension - European Medicines Agency (EMA)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83WUt3bC1pSkRPNjl6S2V2Q0IxU29tVUhMbFRPZkFfd1pNQUw3TlgxVWVwekxYMm9iQ01ieG1KRUJzaUVOOTgzNHh6V2xZR1VzVU5DMmUwRXBsLVg0N3c?oc=5",
+      "date": "2026-10-16T17:45:01Z",
+      "source": "EMA",
+      "confirmed_by": 1,
+      "summary": "Orthostatic hypotension European Medicines Agency (EMA)."
+    },
+    {
+      "title": "Iambic CEO on taking an AI drug company public - BioPharma Dive",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1BJVUFsOFdRNTJ1SEVOeDVnZHhjMjN2c3BfLXBLYWVFSy1FVGJnTUg1aTk2bmliUXZtQk13X1NnYlhoUmR1UXFhNGZ1S2hjYlM4WHpyS1lGanBvdVg3QXB3WjBFbWxlbWR0NG1VU0JLQlVCNHdZcjE1Y29raExiNEVlUnpsZlQ1SWJXUjNvN0tYdWhOeVAzc0dn?oc=5",
+      "date": "2026-10-16T16:30:41Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Iambic CEO on taking an AI drug company public BioPharma Dive."
+    },
+    {
+      "title": "Ascendis’s US-Approved Yuviwel Gains EMA Backing For Achondroplasia - Informa PLC",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONm5TVjhEblhxQ2Jzek9WcGNFYlRJN25vSFlGWThCXzBGVjlKckUxejZmTGNmNnQyRjdDeXpGQnF3WFN0bmxCWnAwMUJvQi11eUVWTTNjT0pmY1U5QVVlTG5WSkZMRi1WM3FWRTEyTjNxeVpMVk01VWd3ZnFYUWlVVGZaSGk0Y2FzbmxUbmFoTGszaXExdFpzYlVyLVhiNERHRFc4UllnX0NWdkhwY0NqWlE3eTNBM2NmeUtSREQ2SVRIR2ZSeVBjVFhaak16RUgwLU9JYmYtRTJHRnpYcWl6TGxxLWZ5Tmlrd2N1T3IyTFE5SjMtbjItUVpqM0hSQ1QtOGhj?oc=5",
+      "date": "2026-10-16T16:15:44Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "Ascendis’s US-Approved Yuviwel Gains EMA Backing For Achondroplasia Informa PLC."
+    },
+    {
+      "title": "Q&A: Sanofi’s new research chief on AI, R&D failure rates and dealmaking - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnVURlNwbjhhRk1USWlRR0NwWDBPSTB4TnV2dlMyVE1iUjVxWWozd1JuNHhrc3pwQ1VBeDNnNDJJaTlZcDJvZ1VVbzByRWR0cC01YjhlWF9obEZ2a3JrN25PSTl4TG1pbUJsWkVVbm5Yb2lEckg3MzFkOEdzRlBHcXhoMzlFS2VhTFJzdGN3RHdYSWJnN1E?oc=5",
+      "date": "2026-10-16T16:02:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Q&A: Sanofi’s new research chief on AI, R&D failure rates and dealmaking Endpoints News."
+    },
+    {
+      "title": "Novartis scraps Fabhalta study in lupus nephritis - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iTDY5d3lWQTQ0NVJvbGM3MEQ1SjhoNXVRdEdNdHhHc25nM1hqbURCWWJLV0VFMGlJZEY4WFVRTkpNUWdlYVdFeE50bWV6dXNSbE9TWGVBWk5sTzBVQUtRbWZOMGI3TE94dFlGdVN6cTV0bUs1dDlXd0FXaTRWQQ?oc=5",
+      "date": "2026-10-16T15:32:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Novartis scraps Fabhalta study in lupus nephritis Endpoints News."
+    },
+    {
+      "title": "Lilly's obesity pill, RevMed's pancreatic cancer breakthrough among slew of CHMP endorsements in Europe - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPXzBLOWFETy1ZRXdyNE9LUjJEOWp3WWVKQWZJMVhacjZ0cE9OT0x6cmEwck9mVDh4bXg3cEhHcjU1VEpIYUVNTkU4Z3Z4clpOamM4V09oUUdLV1Nhcks3clFNRnZoRFdJcjhSUGhKaXoxNjNoZWk5ejJsaUtpQmRUVV9NZFduZGwzNzlSblVnUHBfcGo1X3lxNk1lRTliZnRYSkI5RnJtS1V6RHpObERsMkpkd210VF80dTBzcFp5S1A?oc=5",
+      "date": "2026-10-16T15:30:07Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Lilly's obesity pill, RevMed's pancreatic cancer breakthrough among slew of CHMP endorsements in Europe Fierce Pharma."
+    },
+    {
+      "title": "Chinese government pursues export ban on select biopharma tech - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VHp4YUE3Y1BzT1FsWHM4ZU12a0pwTlNOT2haRGVPSzlzZXB6Y0lqT1YyNHRlNWV5dEZ6RGhZa0t4eVpSQW96NlR2TkMwSXlvMkZ2X2xLYUhPSVdoNjZrNTBqa2NMUnQzSUo2TzU2azh3VFhRUzMtZVdWUjY1Tk0?oc=5",
+      "date": "2026-10-16T15:28:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Chinese government pursues export ban on select biopharma tech Endpoints News."
+    },
+    {
+      "title": "FDA considers interim access for compounded peptides; Enspryng’s label expansion - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmo4Ry1SWVJSOV9ITk9yWjVsYURPNFlzMk9ha2RoNEFCYmZKUEltczlkMHRWSUdZMjRQNFMzMVJXVU5jZjlfQ3lsS3BlbmdoTHYzQjBMUnFZVHN0UDQwWmt0VTNBV0RsUDlzVjZGMU5zdnUwaXV4ZVlFOTRXTDZfVjNsbWhaY2ttX2VITzhyMEFHQW1zQ0p2aW9Mem1GTFVMbGhENw?oc=5",
+      "date": "2026-10-16T15:23:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "FDA considers interim access for compounded peptides; Enspryng’s label expansion Endpoints News."
+    },
+    {
+      "title": "Lilly wants to study and improve the psychedelic ibogaine, its neuro leader says - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbWZ2QUZYZFp4anRhLWJXa0dSX1hoWmU0NVV3RHVfUWlqZjBqVVo4aG1OQnltckRFa1Qwd2dKZDRGd3VjYVB1emNwaDJFcnh5a1IxQURlSGNSdmFtMURZMkNYRC1zbk5JSzNIbVBMMVJCVGN6SHE0akY4MkkxRHlrOWFZcnVkaVV0ZEx6MVVobw?oc=5",
+      "date": "2026-10-16T14:04:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Lilly wants to study and improve the psychedelic ibogaine, its neuro leader says Endpoints News."
+    },
+    {
+      "title": "Inside Teva's Weltruza launch and Novo's GLP-1 strategy - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ2Nrd1hON1k3bVlXMTcxZGxJdDBkVE44ZE5TejlfNEYtLVdDbGNfWXcxU0dOTXE4MkZYWWZjRk1SdnZfWm90RHVSV1duY1JBUXFDQlBpTDVrU3hyNm95ZlFvVDlEbVUyUVpTTC1CRnI0S281VU94LUhrUWtyZFZLVkdMRWNaM2gwRGtQb0lENlVEZ2c?oc=5",
+      "date": "2026-10-16T13:29:50Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Inside Teva's Weltruza launch and Novo's GLP-1 strategy Fierce Pharma."
+    },
+    {
+      "title": "Roche makes class-first push into thyroid eye disease with new FDA nod for Enspryng - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY01xdGFxMzBtR3Bna0FYRWxRc0RtQkw5SU1pY2tUWkRsODgxX0R2eWRycVZVUGIyc3p1amFINkVQNmRvdVIxcFB0WEd4MDlsS21uUmZ1bHVoa1p6ZUJ3aUF6Wl9kZmhaRk9oN0FqQk5GY0VnSEplS2w4OG9oVi1HR0JmNFBXSmdha3FVdVUwaUxFckhza0RqV0o4dE00NzEzenJ5ZHBTSkg?oc=5",
+      "date": "2026-10-16T13:26:03Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Roche makes class-first push into thyroid eye disease with new FDA nod for Enspryng Fierce Pharma."
+    },
+    {
+      "title": "This week in charts: Moderna’s massive stock run - BioPharma Dive",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOHlUa2xRWUQ1akY1WlFlSVoyQk14czdKbGY1VUVUcnFucW51elpYcHpQbFB4eklyQVhzUUNONVBWS3ZrX3dubE1ROEJIWW9PNWk2ZkNNTEZPd3A0RUdUd0pmTlNMclpLalFjSk5Ed2Y4ZmJQQ21NX2RtZXdzREZxTjF0S3c3RUlnck1tQ01qQ1c?oc=5",
+      "date": "2026-10-16T13:19:14Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "This week in charts: Moderna’s massive stock run BioPharma Dive."
+    },
+    {
+      "title": "FDA Approves New Nonprescription Eye Drop for Relief of Eye Redness - U.S. Food and Drug Administration (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDg4MVB4ZHpBWGJsVUFIREM3d3RvdXVrVG0tRmZuZG9wNHVibTllZmNYRGNhajA5ajluWmtwQlB5QTlqUG4xNFZUQjk3VFlabzNlT2I2U25yTUUta0ZGTlhMNGs4bGZ4S3hHVklRMC1aZ3dFd2YxaWpQWXVMRDhrZVBPWXM3UjNtVXoycTJ5SV9wUFozbVNPZzVLVGxPV0thSzBkTFdqQUFkZWZ4X1VmQ0JOMA?oc=5",
+      "date": "2026-10-16T12:37:56Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "FDA Approves New Nonprescription Eye Drop for Relief of Eye Redness U.S. Food and Drug Administration (.gov)."
+    },
+    {
+      "title": "FDA issues warning over Eurofins’ selective recording that ‘compromises’ data - BioSpace",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHl6MWY3ck4tcUR3aHNSdG5kZXhlY1dHT1BvVnFSSGJlSHMzWDdpdWRtVmhsSExjcVZ2Q2x0R3dpWldJOFQ5aG1NVDB5STUxX0NhTGJ5dmVacEg2WTZuS1gyMmlkdE5WU05Fc3JSZFduU1duRy1MSDRXU2lNNVpHLXlnN19VVVJXbkNILVlweGVrb3J6SklGY2JNU0VYdE9OWkU4NHRR?oc=5",
+      "date": "2026-10-16T12:15:10Z",
+      "source": "BioSpace",
+      "confirmed_by": 1,
+      "summary": "FDA issues warning over Eurofins’ selective recording that ‘compromises’ data BioSpace."
+    },
+    {
+      "title": "Fierce Pharma Asia—Roche’s $1.2B obesity deal; Asahi Kasei’s FDA nod; Verastem’s KRAS boon - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWnZzbGJBVzRuMlpXdmMwaFdlSC0xTmVjOEtPOEFBYjRhaGs4ZTl1WFY4OEs2c3U5eWxtWUFldEZkTXcwbGctODZHbVlTZllLcTg5dHhoRVJIdkt4V3R5RHZDN2NOS0g1VDVDbDNIbTl6MnpaeWZNYU5KbEJBblpRNXdTcUphbjhJbmFlOVlKaUVvZ0FMQ0pVSHV0MjhLZw?oc=5",
+      "date": "2026-10-16T11:57:53Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Fierce Pharma Asia—Roche’s $1.2B obesity deal; Asahi Kasei’s FDA nod; Verastem’s KRAS boon Fierce Pharma."
+    },
+    {
+      "title": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy - BioPharma Dive",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXlzRGJKTF9IeUlWTUZQRVNPUS1DcU5TN3JIMDdBdW5KYUJ3QWJPenlHaGl2a0ZSSFc5NzA2ck91Si16dnFyZEJnS0JjYjE5Rks4OFFscnJMdnBEVXpJa013UVFLTGVEQVJQWmdqS3FQWWJuai1vUGZpYkdfZXM5MXFIV1ZnMmpnSGhlZFo5UUlINXc4akZsOWJ1cmZyMXduNXNUV29manFGeC1Odm1JMnM3a3dPZms?oc=5",
+      "date": "2026-10-16T10:53:31Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy BioPharma Dive."
+    },
+    {
+      "title": "Next-gen RNAi drugmaker City prices $200M IPO - BioPharma Dive",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2xOX25FbElYTnN6NVNRc3pfVWNmaHNpY1h5dHlEanpUZk9KdXRVTy0xSjZobS1ySjN0UjNqSnBzRXNHMkRNTzQxNmtoY2llUHJXaGdSeG5NaXU1dW41STJIckRidHR6LWtoa3hwRWVhcUtKWmxKX1F0UTRGRl9ra2VoYU5QbTFm?oc=5",
+      "date": "2026-10-16T10:53:31Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "Next-gen RNAi drugmaker City prices $200M IPO BioPharma Dive."
+    },
+    {
+      "title": "Class 2 Device Recall Medline - U.S. Food and Drug Administration (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZVlU4VnhqSkEyb1ZudXFxZlplWFByVF8tUDRnVnB1OUhKbEo2akZVVFBsUlpYYkJHcFhqYzBvNUllZGJ6NXBjbzFJbndLbGFMT2pxYVF2VmhVcXF5M1ROYXdVNVBQZktPeXhkZVZiQWxhMmR6RTVzdmhXN1BhQjA?oc=5",
+      "date": "2026-10-16T10:34:19Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Class 2 Device Recall Medline U.S. Food and Drug Administration (.gov)."
+    },
+    {
+      "title": "EMA’s First Phased Review Delivers Thumbs Up For Rasonque In Under 150 Days - Informa PLC",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORkl3clJ6Y0RlbjVMOWJ6OXhSN2drdTZFXzVibGF3Smh4NS0tSW14VGJ5S1l2WlR6Sng5eTlVMGVadl9oZC1MZ1NhTUFDQ1BodkpsQjhIYnotR3AyQ3R6ZHNwMk1PNXFTc1pKeklJZ01VZWFSREVOa1hqUktxa2M4c2dYWl9lSFpMaE1sZzJfYmxqZjJzWmNFQ1hxUW00RDhQWjh1RExqTGxtaDdiNnR1MXFKWTB0bko3M0NFajdiYXVON1JVbEJVR1NHY05ldWV3cC1VUm9Dam0yZkVuWUNXWWR0MVp1U2tObnFybFBKdS1Vc2gtbXJuQzVDNm0yd1FleEpsLTdrUmVFZ3hsTkE?oc=5",
+      "date": "2026-10-16T09:00:39Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "EMA’s First Phased Review Delivers Thumbs Up For Rasonque In Under 150 Days Informa PLC."
+    },
+    {
+      "title": "The Oral GLP-1 Tracker: Foundayo, Wegovy pill undergo minor fluctuations - Fierce Pharma",
+      "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+      "date": "2026-10-16T07:00:00Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "With the recent launches of Novo Nordisk’s Wegovy pill and Eli Lilly’s Foundayo, the obesity market has started to shift toward oral GLP-1 drugs. | Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions."
+    }
+  ],
+  "critical_alerts": [
+    {
+      "title": "3rd person in Kenya tests positive for Ebola as DR Congo outbreak spreads to 8th province - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJfLU1Fc3pVT3pSWXhiWUc4ekNXUmRWNkg1QndSTmNxSW51cFZFLTI4MlVHSm5Sd0pYSkdGZWxTR1QwR0hBQ2FwMDNxUWE1ck9YN2FaZEdCYXF5OUdkTXVwZHprTEd5WC11dC1GendVdWEzbkRENDliSGJmMVFCbzBrUEk0UDlVQ3ZKblJncjUtYWxDVHM5N3ZRb2xsZW5JZ1NVN2R5UHozVjBRb2c?oc=5",
+      "date": "2026-10-16T20:03:44Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "3rd person in Kenya tests positive for Ebola as DR Congo outbreak spreads to 8th province CIDRAP."
+    },
+    {
+      "title": "Quick takes: US human avian flu case, dengue in Florida, plague in Madagascar, MERS in Saudi Arabia, more polio cases - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUotOGxaSzJ6ajF0bjB5T0p3X2RnMmJMT2hiNnJjbnNaNHhHV0xUcHVMcVdxWHU0VThIOEJhQWJaUHpvb01TWlp1U1VUbmNFVkZWazlmMWxQcmxmYWp0aVNjRURxOTBOdmlPNDJIMXNCRlVIY1dqWEdxR2REQWtKYkJvX1d3WklBQVkxTnNpejdCU3lLMkpTV0RNX2RRVGhjcU5EbDFXZVVUZ2tkNkt2LVlHeG9wTEZVQmlCcFVYMlhXN3c?oc=5",
+      "date": "2026-10-16T15:55:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Quick takes: US human avian flu case, dengue in Florida, plague in Madagascar, MERS in Saudi Arabia, more polio cases CIDRAP."
+    },
+    {
+      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-10-16T07:00:00Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
+    },
+    {
+      "title": "Second Ebola patient identified in Kenya - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4aE5jUDZwT196U2xfUVotZkxmVG81SU10WmpHYkRYblhCZUpZdndUZUZQLVNhZlhqcW9zdFo2UEdsTHhneHFjcnA0VVZ1NDdXUERPRHVJOUtTUTRSeVE5ZmhDTjRHYmV4ZVNCY2o1WElBRUlVQ1F5akZR?oc=5",
+      "date": "2026-10-15T20:24:59Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Second Ebola patient identified in Kenya CIDRAP."
+    },
+    {
+      "title": "In Greenland, 4 polar bears test positive for H5N1 avian flu antibodies - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTU5LUF80TFEtRjh2emJmRVAtclJMWU9nbTNWRnpUTHhybkhjM0lQVjAzRGRRUWpkUmdNb2s3THlmWkx6dGVvMGw5TjJTZlJ0Uk5lUC04Zk95Y0dRb2lJVk1rbDhlUS11TjJkelNXcE42UHdHMXZDR0dHdUlrMnEtZlQ5d1ZDclY1aFFmZDVWUm5tdUp1U0tQQnRmYjM3SmpZbjVwbHlXM01PT1dzWWMwZ19pQlVzdw?oc=5",
+      "date": "2026-10-14T18:30:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "In Greenland, 4 polar bears test positive for H5N1 avian flu antibodies CIDRAP."
+    },
+    {
+      "title": "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tNFp6RGt1aFdEWm00ZG1wTVVhSkh5OWFTZzlaZG9JUjMwbE1VUzdPWUN1b0RXU3dub21JdXh1dGxvckR0NUhHTGFUencxeFFHNjNVZERoNGxXdGhTZlVoYjVkOFF1bV8tNGkwTlVCNkNKdWdYc0gyRzdhNA?oc=5",
+      "date": "2026-10-13T19:18:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Ebola cases top 9,000 in DR Congo outbreak CIDRAP."
+    }
+  ],
+  "daily_top5": [
+    {
+      "title": "Long-term health, criminal justice, and socioeconomic outcomes among people subject to compulsory mental health care in Norway: - The Lancet",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaXUwYmdkMTQ2X3hUUTlaaHdWSUI1OS1XZllMdmh6ZVRsM1h4dTc4REFFSGNkdVVNa2JoLXBybEFSVDNsZElUeUJWcGd4OE1ZVWVvZnNoSlh6SUVfbmV0UjkxSDNmRjE3eHBLcW9vbE1RSUZQN1AyZkVXeUMteG1aUA?oc=5",
+      "date": "2026-10-18T15:38:47Z",
+      "source": "The Lancet",
+      "confirmed_by": 1,
+      "summary": "Long-term health, criminal justice, and socioeconomic outcomes among people subject to compulsory mental health care in Norway: The Lancet."
+    },
+    {
+      "title": "Aktualności (strona 16) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Płońsku - Gov.pl",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRczJmSDBKQnJiUGhPVS1QT0JHSmpHcGZ1THFzTlYyWHNaSGtsWmtFQUdadnFkTWlvOXVtYWdfS1BjbXFjV2NrcW4xQi11TTJWSDY2d0xsZmVENDVrTHFnVDZlZm9FeFNZY0x3M19NX1o?oc=5",
+      "date": "2026-10-18T15:35:02Z",
+      "source": "Ministerstwo Zdrowia RP",
+      "confirmed_by": 1,
+      "summary": "Aktualności (strona 16) - Powiatowa Stacja Sanitarno-Epidemiologiczna w Płońsku Gov.pl."
+    },
+    {
+      "title": "Artificial intelligence - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yMnhWWHFPQVNwMHBZemxvVDZud1F6ZEc2bHRxYnhyOXB5WkZzTWcyX3VmaDZjZHhabGhXSnE0aHcwdkxUZGJSM09vX25wX1BER2hPN2JFZUxWRUc1bXE3cE9IZTRqQnlaa3pLZ2xraGtvZnUtMHdqbw?oc=5",
+      "date": "2026-10-18T13:59:30Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Artificial intelligence World Health Organization (WHO)."
+    },
+    {
+      "title": "WHO Health Emergencies EPI-WIN webinar: Preparing for respiratory virus circulation during the northern hemisphere winter season (2): Influenza and COVID-19 prevention & control - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaWwxbE9HZWpZaWUxSmFTQnF0OF9aM1ZVYXB3M1I4VmJ2bV9mc3lRX0dWOFNkSDZodXFLTnJYNFF3LXhxNW5DaklnNHNUOTBjRXUtS0Q4bFRPd2gza214Wll1dnlncWRXT0JTd0NhNmNNaE9jYTkzdEdmOXlyQ0tFT011MlY4akNPbzQ0Sk42aXd6cmJDeVMwX0VCT2JXOW1tRG1tdkpTanFSRjBNNzlXQlVNUFBGUU1TM2RjZTd0ZVk4cktTa3dqS3Z6V3ptUTVxT2VJTmtFTWFfbFJvWnJzcGJncVlhY2JxSHM2M1VjRnh4ang5Mm93YlozVEw5eTFwRUdJSVBuU2haMTBBR19wbG5pNDJCQmlqX2FHZVJsV1ZmQ0Y4OV9mSHB0dUpfT2dPb19qMDctem1hSV9CS2xWZTFDSjFoOVA5YTFoeUNuQ3BLY0EtbnVUSnJvRXNxOG9UUUNkTWtCSWU?oc=5",
+      "date": "2026-10-18T10:15:33Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "WHO Health Emergencies EPI-WIN webinar: Preparing for respiratory virus circulation during the northern hemisphere winter season (2): Influenza and COVID-19 prevention & control World Health Organization (WHO)."
+    },
+    {
+      "title": "National Consultant to develop a comprehensive and updated Health Insurance Guidebook for the Health Insurance Administration - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDhrUlg4dHFNYTlWbEJtMW5QWndrNVhJb1Zzd0dzMGhBS2EwcnJ1NXBmR3ktZmZia293aDRTeFZYV3R1WFBrSGRFTjlHeHZxT0VKOTVGY054cE5DdjZXZ1NRb0RVanpFSHZaY2JCSjF3dDFZYTdvWEMtb204YW5sYWh0bm5iR1ZHTUJJUmtQVnVkRGlJRkxsTW1FUFlobFltZkRIS2pucnRiZHpoeGxv?oc=5",
+      "date": "2026-10-18T09:17:45Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "National Consultant to develop a comprehensive and updated Health Insurance Guidebook for the Health Insurance Administration World Health Organization (WHO)."
+    }
+  ]
 }
