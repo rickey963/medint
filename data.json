@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-20T04:16:22Z",
+  "last_updated": "2026-10-20T04:20:26Z",
   "poland": [
+    {
+      "title": "Ekologiczna anestezjologia zmniejsza emisje o 45% i koszty znieczulenia o prawie 40% - Alert Medyczny",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDhia253OURiU1NjQmpzQjRjc0lmYWxVMWJkRy1yMDhpRVdZcVZmNm9EeFlxTTNQVGY1LVR5VlFha2hDenp6Qm16NVhIdjFZcWQxOXNxbk96MlM1MnBZc0dUa0R2R0ctWFBybzVGNXJ0RnZCbFhDMWp4eUFQUzRKNUtvblhWUFN3N3l6d3BUS3VJTnJZbjFFcTBBamVaNklvLTNOYnZSZnRNNDhk?oc=5",
+      "date": "2026-10-20T04:15:45Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Ekologiczna anestezjologia zmniejsza emisje o 45% i koszty znieczulenia o prawie 40% Alert Medyczny."
+    },
     {
       "title": "AI przejmuje funkcje kliniczne. Amerykańscy lekarze proponują nowe zasady - Alert Medyczny",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdDZXSnpQeTlrZ1VCNnBDZ3BqWU11bUxyY3JHSzhrX0xFZnk5R2YxdmdqMTZ5UHptYWptSS1ULWxJOUFUY1NBMk1DWGx1S3Y4Y0ZhekFKUzZ4OEtYWlZyTjh0aDRVQ2UwS09OdVRrUTljVmtQSEh2cnB4WUxPZkdSWjhSOUdfbVRuQUhZTjNWUm4zMDJ2Tmg5ZFdPOWR5d1k?oc=5",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Odwrotu od podspecjalizacji nie ma. Nie jesteśmy omnipotentami ► Termedia."
-    },
-    {
-      "title": "Ukraiński dron jak karetka. Transportuje rannych na froncie - PolitykaZdrowotna.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GdW5qOVZUdEdzOTllVlNOMEdsdjZ3a1I3WGFGM1VxRmd5ZndUeTZqYm1IOXp3ci1VWTdjdW8wbGxXYzFCVUd6ckpiOER5ZXRKOGFiNXB6RjNBQ2NnVzdpc0sweHQ4VkNYWFlHRUdjejVWejZZcF9rX080c2VxUQ?oc=5",
-      "date": "2026-10-19T13:00:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Ukraiński dron jak karetka. Transportuje rannych na froncie PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -1070,20 +1070,20 @@
       "summary": "EMA Recommends Granting a Marketing Authorisation for Senaparib European Society For Medical Oncology | ESMO."
     },
     {
+      "title": "A(H5) Bird Flu: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5maC1Rb3ctQTcxOG5XenBoQzVEa2xNMGpXaEp1c1pVQXo0NnlUVXN3ak9jR05iSnhhVG9fSC1leHdDY1lFS0pPUUZQeXo0R0Rza0g1bkdEbTd0WjJkLW1VSFhtaVprZ1px?oc=5",
+      "date": "2026-10-15T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "A(H5) Bird Flu: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "ACOG Issues Expanded Guideline on Managing Menopause-Related Vasomotor, Sleep, and Mood Symptoms - Patient Care Online",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNzRyVm0wMGxYVURFMVBBdEpDYk5scTJXUXlaVUtBZFF6bDU5cmZGdUhzVU91RTRCMS1YWEd2MFhJcjFEY2tEcXJDZndvUGhFaUJ3bElVSmhvdEJPcVhiM3JLamFHRkJueEVqR0tTeGMtRFRaX2FrSm1DOEpqY1NjSDJIVnhkY3FqVjhpT3JYNkdIa2lxRFFJWS14VXF3dHVneFFYRUVnejc2Wmp1OFA1VmEwNGhjdzlVc2xPRGJBNTY1djdSRW9BTFd1Q3drQQ?oc=5",
       "date": "2026-10-15T07:00:00Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "ACOG Issues Expanded Guideline on Managing Menopause-Related Vasomotor, Sleep, and Mood Symptoms Patient Care Online."
-    },
-    {
-      "title": "Current Outbreaks | Foodborne Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/foodborne-outbreaks/outbreaks/index.html",
-      "date": "2026-10-14T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Current Outbreaks | Foodborne Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
   "epidemiology": [
@@ -1153,7 +1153,7 @@
     },
     {
       "title": "WHO public health research agenda for influenza - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82NlJDT2JKTVhPcnFpSUdYUkhZYWJGMWkwZlFRVXpVUTE1LXhjOGQyQWJWVVVuZFJQalliU2ZSVklPUEtxWlRwTHliaE9KVy1aTXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TcWpzSmdxSDMwdHJ0dWM1dUJXXy1mSlR3V1FtdE8wcjVPdFI0TlNtLU1SUDNWdnNEWDZKUlhCLUZvUW1vNktyZGJSYnhnWG8z?oc=5",
       "date": "2026-10-19T19:45:06Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
@@ -1161,7 +1161,7 @@
     },
     {
       "title": "WHO public health research agenda for influenza - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TcWpzSmdxSDMwdHJ0dWM1dUJXXy1mSlR3V1FtdE8wcjVPdFI0TlNtLU1SUDNWdnNEWDZKUlhCLUZvUW1vNktyZGJSYnhnWG8z?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82NlJDT2JKTVhPcnFpSUdYUkhZYWJGMWkwZlFRVXpVUTE1LXhjOGQyQWJWVVVuZFJQalliU2ZSVklPUEtxWlRwTHliaE9KVy1aTXc?oc=5",
       "date": "2026-10-19T19:45:06Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
@@ -1698,20 +1698,20 @@
       "summary": "2026 SCRS Global Site Solutions Summit: The Difference Between Owning a Group of Sites and Operating Them as One Integrated Platform Applied Clinical Trials Online."
     },
     {
-      "title": "2026 SCRS Global Site Solutions Summit: Concerns & Excitement Around Where Clinical Research is Heading - Applied Clinical Trials Online",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1NDemVRNzB6bUpxNGVmNzVxQVZucnZFSmZqRTdQSmZvQW1fYXZqTktQY21FSFFuUlZVWjM0WC1EZjlVQmh2a0xxNERqaU1US215RVVQaVdSMy1HR2pOdWVoRzRseGYzNHFubHd2Q0ZnUnpDbEpfU2ZCWlZic0NqeEo0MXAzbGpCTGx1SWhZUldCWF9pVVlLUmt3VzU0M1ZRYkJMa0hnQXZYQQ?oc=5",
-      "date": "2026-10-17T19:10:32Z",
-      "source": "Applied Clinical Trials",
-      "confirmed_by": 1,
-      "summary": "2026 SCRS Global Site Solutions Summit: Concerns & Excitement Around Where Clinical Research is Heading Applied Clinical Trials Online."
-    },
-    {
       "title": "2026 SCRS Global Site Solutions Summit: What Does this Year’s Summit Say About Where the Industry is Right Now? - Applied Clinical Trials Online",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEFOTkFNcDhRLTF6ejhBcUFqZnNUVmRyZXExMG95Z2VJLVo1UFo4Z0FjZ05zQ29LWHhGZzktQTVETFlQRDJza3NlM2VnUGFDQmNTdXJPVDctSWFYeXBKdFlydXR3eWZtSjJobzh0WVR4WURjbVJsZEJqS3J3eXcyU1hZX2g1Nm51Q1Fpd1ZsQUpWTDJMY3ZV?oc=5",
       "date": "2026-10-17T19:10:32Z",
       "source": "Applied Clinical Trials",
       "confirmed_by": 1,
       "summary": "2026 SCRS Global Site Solutions Summit: What Does this Year’s Summit Say About Where the Industry is Right Now? Applied Clinical Trials Online."
+    },
+    {
+      "title": "2026 SCRS Global Site Solutions Summit: Concerns & Excitement Around Where Clinical Research is Heading - Applied Clinical Trials Online",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1NDemVRNzB6bUpxNGVmNzVxQVZucnZFSmZqRTdQSmZvQW1fYXZqTktQY21FSFFuUlZVWjM0WC1EZjlVQmh2a0xxNERqaU1US215RVVQaVdSMy1HR2pOdWVoRzRseGYzNHFubHd2Q0ZnUnpDbEpfU2ZCWlZic0NqeEo0MXAzbGpCTGx1SWhZUldCWF9pVVlLUmt3VzU0M1ZRYkJMa0hnQXZYQQ?oc=5",
+      "date": "2026-10-17T19:10:32Z",
+      "source": "Applied Clinical Trials",
+      "confirmed_by": 1,
+      "summary": "2026 SCRS Global Site Solutions Summit: Concerns & Excitement Around Where Clinical Research is Heading Applied Clinical Trials Online."
     },
     {
       "title": "RFK Jr.’s Vaccine Agenda: Is The New York Times Investigating a Public Health Threat—or Treating Scientific Dissent as Dangerous? - TrialSite News",
@@ -1803,6 +1803,14 @@
     }
   ],
   "pharma_market": [
+    {
+      "title": "Nipro’s Stemirac Set To Earn Japan’s First Full Approval For A Cell Therapy - Informa PLC",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPcUFGYnBZUEJrZ0dmQ2FMZEd6WmFZSUFKRTVtbXNaYkpTeVBfM1dJRXp3aG5GNHhJY3RoZURyRi1pS1BKR01KNVVrZjYyTDFBT1g4N0RlcmJkLWhsLWl1TVVuMFdGTldMd0ppNlpzWmhpTnRIcUpmeUhKWVc1QjJhYUwwbjRKdXpzRmtZbVlrWTJicmlGbEZ5YkhHSzNidm4xVkhIdWk1ZU1qRnpqRW5sUC1CS3JQT0RIdDREVE9aQllsRFhOR0YzNzBMSUpPZ0VKRWxsTXlyc2RQTm90WWtFWDhTNnZaN0QwNUh2VmdOVVdaU3ByRDFXZkFtZnZLb1VLRXJzajBfeG9VSGdpWlRLdFpfRVQ3QmtzcmtHXzNEcXlRZ0dHNVBHemdR?oc=5",
+      "date": "2026-10-20T04:14:11Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "Nipro’s Stemirac Set To Earn Japan’s First Full Approval For A Cell Therapy Informa PLC."
+    },
     {
       "title": "Haemonetics Announces FDA Approval of PerQseal® Elite Vascular Closure System - BioSpace",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdVNDYlowOW1Zb0oxUVRlVk5RM25jMzJKalhLVVR2RktvbWd6ZjV0RkRwRXpOSU5ZaXd3VGE2eTJ6NkVzOTY4cjQ4RHR4U1FQQy1OR2MyUkYzckVhamZONTJKdTBLRmRGb2dyeTJOQzl2Wk9PWGotRTkwUFZiWEQzSmlubFN6WDNMaDRod3phZG82S19MMnJLMTFJQXNHQzlRTHlnUWJRM1JweXVEODM4ZnhmMXU1SDQ?oc=5",
@@ -2194,14 +2202,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "\"Zymfentra\" Pill Images Drugs.com."
-    },
-    {
-      "title": "Exporting data... - U.S. Food and Drug Administration (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPS2psOHJPd19fajlWX2ttUVhNMU0wQWFJdl91NUVCY2VCVGp3SUdPUEJ2WTg2eThPNHZlOGpyS3BBVUpzQXI2dlItOG1zMm5kXzlzemdkRFRIU0NJRFFyMEFOUXFaSEV2bmJ2dEZmWENsZUVJaUsxTEJRN2JrU3ZIb2hPd25ZaW45Sl9NSXh1bGVkT3VkNDBhVVk4MEFKQThfaEl3WEg2bFFWWmpYa1RnZkk3U2drMlMyTi12OVBWaThMbS14VmsxRWJRLWhYQV9Nb3pURkNwY2VITnotOWl6bHNtS1hiQkU5NmhOMUg2dGV3US0wZTBLSEhvc0JvYmU2VVFKcExTSmRub0VXemJnelV3WnNQUQ?oc=5",
-      "date": "2026-10-19T13:41:58Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Exporting data... U.S. Food and Drug Administration (.gov)."
     }
   ],
   "critical_alerts": [
