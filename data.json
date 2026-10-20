@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T15:53:11Z",
+  "last_updated": "2026-10-20T15:57:30Z",
   "poland": [
     {
       "title": "Nie króliki, ale pacjenci, którzy chcą pomóc. Tak trzeba mówić o badaniach klinicznych - PolitykaZdrowotna.com",
@@ -1088,6 +1088,14 @@
   ],
   "epidemiology": [
     {
+      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-10-20T15:52:33Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
+    },
+    {
       "title": "WHO report examines inequalities in noncommunicable diseases and their risk factors - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFB5SjNVcDdiMWZmQS1kUUgyVGhvaEQ5a1F5ZG45X2hQUmV6cDhlV1dmV3ZRSzQ2UVZvSGNTVjVCd1ljYlNSYVJyQTBvaWJpQ1g3R1RuY05sNEVMU0RCS1F3MTNsbGJLaXRuZEJMdXVsTy12Z2JwbmlmNjhZU1FMMkNTcTlPaDRTakY2QkhHY1JoaVpqRzRGYXhnREpUS3VKZkZoaVRTalhSU2hibzl2UEFYUU1lbEdSbWpjOUQ0eFBFUQ?oc=5",
       "date": "2026-10-20T09:14:49Z",
@@ -1201,7 +1209,7 @@
     },
     {
       "title": "WHO public health research agenda for influenza - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82NlJDT2JKTVhPcnFpSUdYUkhZYWJGMWkwZlFRVXpVUTE1LXhjOGQyQWJWVVVuZFJQalliU2ZSVklPUEtxWlRwTHliaE9KVy1aTXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TcWpzSmdxSDMwdHJ0dWM1dUJXXy1mSlR3V1FtdE8wcjVPdFI0TlNtLU1SUDNWdnNEWDZKUlhCLUZvUW1vNktyZGJSYnhnWG8z?oc=5",
       "date": "2026-10-19T19:45:06Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
@@ -1209,7 +1217,7 @@
     },
     {
       "title": "WHO public health research agenda for influenza - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TcWpzSmdxSDMwdHJ0dWM1dUJXXy1mSlR3V1FtdE8wcjVPdFI0TlNtLU1SUDNWdnNEWDZKUlhCLUZvUW1vNktyZGJSYnhnWG8z?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82NlJDT2JKTVhPcnFpSUdYUkhZYWJGMWkwZlFRVXpVUTE1LXhjOGQyQWJWVVVuZFJQalliU2ZSVklPUEtxWlRwTHliaE9KVy1aTXc?oc=5",
       "date": "2026-10-19T19:45:06Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
@@ -1310,14 +1318,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Every story is unique, every journey matters: a call to accelerate action on women’s cancers in Africa World Health Organization (WHO)."
-    },
-    {
-      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-10-19T07:00:00Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
     },
     {
       "title": "Ending the neglect to attain the Sustainable Development Goals - World Health Organization (WHO)",
@@ -1510,7 +1510,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGQxTkEyTHlBUm1ackhPcy1FNUpDc3ZrMWhwRzIzbUJobjNCdzhhM3NTT2ZFZ2NhNk5hVUQ2QWtEUUljbHNqcFp6R0pzRnJ2NWlMZFllSWZkTlMwSnkyTUhIRWJTakdPMUFWVFVMT0tHMXNtcTJ1QTQ0SUEzOGpQRHlGckxvQzlFU2N1ZThDZFVKZXFmNExWSXZvS0EtMXc5SlA0?oc=5",
       "date": "2026-10-20T11:28:56Z",
       "source": "Applied Clinical Trials",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Where AI Governance in Clinical Development Falls Short Applied Clinical Trials Online."
     },
     {
@@ -2294,20 +2294,20 @@
   ],
   "critical_alerts": [
     {
+      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-10-20T15:52:33Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
+    },
+    {
       "title": "Kenya reports more Ebola cases, all linked to initial patient - CIDRAP",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTEZ1RTc1RnBNRzhSYzh0Zk1fel9QMEREOUpUbWZkM2xjbnFzMHFKa292Szc2Yjh1QVhBN2N0VzUxekpRSHlFazh2VHdKQVlOdVJTN1BnR0VIVzZYbWdTMFdEOFdEcG05bFE5S2NqdDc2c0FHMWM0akVEbW0yS3BkeVBNdlI5YWotTFltWGtnY2RMaEVt?oc=5",
       "date": "2026-10-19T20:58:00Z",
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Kenya reports more Ebola cases, all linked to initial patient CIDRAP."
-    },
-    {
-      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-10-19T07:00:00Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
     }
   ],
   "daily_top5": [
