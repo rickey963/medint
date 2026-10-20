@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T00:51:07Z",
+  "last_updated": "2026-10-20T00:55:23Z",
   "poland": [
     {
       "title": "AI przejmuje funkcje kliniczne. Amerykańscy lekarze proponują nowe zasady - Alert Medyczny",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "National consultant to develop clinical pathways and improve service delivery of priority health conditions - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zQ2M2SUxMS0RsN2sxQTNkU01INmZ3Z2hKRHk5V2dkOWtNNHg1NjJsNEtvOWRncUFsdl9pc1NqcjlOUnlyZjZZSm90VmpZb3lZcjRtamh0dEhoYWZPdFkwbS1PeW10dmpoTDRXdGpRcDk5bXJ4dHBQZEJuUlNFQVU?oc=5",
+      "date": "2026-10-20T00:12:10Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "National consultant to develop clinical pathways and improve service delivery of priority health conditions World Health Organization (WHO)."
+    },
+    {
       "title": "Foundation artificial intelligence models for health recognition by use of face photographs (FAHR-Face): a model development and validation study - The Lancet",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFdfc2g4U1o2WG1Eb3FHcUI4NnpGMGlYbWVVZFQyYTdQYVMxeFNONlB4NFVEakJENzFRQVBzUFRjRjZZaDZSSHU3cW4xQ1R3S0JzWTFBRlB4T1pnVnRrSWxOb2lHNnItX1JqakUyejJSaVhHNVlJZTJxYVNPWDNuVXBid0pxTlpTX2NN?oc=5",
       "date": "2026-10-20T00:00:00Z",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Reformulated Biologic Shows Duration in Diabetic Retinopathy Medscape."
-    },
-    {
-      "title": "APS, Lupus Pregnancies May Soon See Standard-of-Care Upgrade - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVQxUUZXUTBCTGVqSVJsSHYwR3RnOFR2QkFsRmg5RHpOSnh2T2w5VEpTYkdHRE9ldzhsbmo0VmlUSFNWbzNsQmtRN2s3eGZxdy1WQnVsb2RCRGZkSlNVYTFGNEJfckRZWVluQ2dUcWNaUWRZWHJ6aGZ0S3EzS2pTVEJJREtNbnpRS1p5TklvNVYzOUJhc2MtdzZsZndha3ltRmNOYnNhVFBzT1Nh?oc=5",
-      "date": "2026-10-19T13:47:22Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "APS, Lupus Pregnancies May Soon See Standard-of-Care Upgrade Medscape."
     }
   ],
   "guidelines": [
@@ -1088,20 +1088,20 @@
   ],
   "epidemiology": [
     {
+      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-10-20T00:47:42Z",
+      "source": "ECDC",
+      "confirmed_by": 1,
+      "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
+    },
+    {
       "title": "Where People Got Sick: Salmonella Outbreak, October 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fNXU5OXlkeGhqR3BBZ01YUVZtMzByMG5nT1o1eUt4UXpNZjBkd0xtcVBkUHl2Rk1wSTJFVHVNcnpDRGRUUWhFNWJ0RkR6dDJFT2ppVlB0RTdzVS1JNGFTNTR2OW5DTHNpQm94MWE2ZVBlOThGVVlfVw?oc=5",
       "date": "2026-10-19T23:10:45Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Where People Got Sick: Salmonella Outbreak, October 2026 Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-10-19T21:42:59Z",
-      "source": "ECDC",
-      "confirmed_by": 1,
-      "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
     },
     {
       "title": "One in four doctors nearing retirement age as WHO warns of global health workforce gap - World Health Organization (WHO)",
@@ -2192,7 +2192,7 @@
     {
       "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-10-19T21:42:59Z",
+      "date": "2026-10-20T00:47:42Z",
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
@@ -2216,6 +2216,14 @@
   ],
   "daily_top5": [
     {
+      "title": "National consultant to develop clinical pathways and improve service delivery of priority health conditions - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zQ2M2SUxMS0RsN2sxQTNkU01INmZ3Z2hKRHk5V2dkOWtNNHg1NjJsNEtvOWRncUFsdl9pc1NqcjlOUnlyZjZZSm90VmpZb3lZcjRtamh0dEhoYWZPdFkwbS1PeW10dmpoTDRXdGpRcDk5bXJ4dHBQZEJuUlNFQVU?oc=5",
+      "date": "2026-10-20T00:12:10Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "National consultant to develop clinical pathways and improve service delivery of priority health conditions World Health Organization (WHO)."
+    },
+    {
       "title": "Foundation artificial intelligence models for health recognition by use of face photographs (FAHR-Face): a model development and validation study - The Lancet",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFdfc2g4U1o2WG1Eb3FHcUI4NnpGMGlYbWVVZFQyYTdQYVMxeFNONlB4NFVEakJENzFRQVBzUFRjRjZZaDZSSHU3cW4xQ1R3S0JzWTFBRlB4T1pnVnRrSWxOb2lHNnItX1JqakUyejJSaVhHNVlJZTJxYVNPWDNuVXBid0pxTlpTX2NN?oc=5",
       "date": "2026-10-20T00:00:00Z",
@@ -2238,14 +2246,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "The World Health Organization (WHO) has published the National health workforce accounts: health workforce levels and trends 2026, the first in an annual series of reports offering the most comprehensive global picture of health workforce levels, trends and challenges based on official country data shared through the National Health Workforce Accounts (NHWA). In the past two decades, health workforce density (medical doctors, nursing and midwifery personnel, dentists and pharmacists) has increased by 52% globally, from 44.8 per 10 000 population in 2006 to 67.9 in 2025. There are now more than 70 million health and care workers worldwide."
-    },
-    {
-      "title": "Bourbon virus: an expanding tick-borne threat hidden by diagnostic blind spots - The Lancet",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcV9pNTFFV2xuRWV4d09tWkRveUlNR294SVRFRy05eVpUYl9BaVduS0NMQmx2WDNmWm9fUnV5bWJzald5SDNvM05UTmd4T3BmdjZPcnFPZlhmX0h4eUphNEFmWTh5a3FUdzUzWThyVjF3ZkxHWGg3czZpS1lpZTMtag?oc=5",
-      "date": "2026-10-19T20:36:26Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Bourbon virus: an expanding tick-borne threat hidden by diagnostic blind spots The Lancet."
     },
     {
       "title": "Diagnosis provision by young people's mental health services: a population-based study in South London integrating epidemiological estimates - The Lancet",
