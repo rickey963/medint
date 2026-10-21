@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T23:23:16Z",
+  "last_updated": "2026-10-21T23:27:32Z",
   "poland": [
     {
       "title": "Naukowcy odkryli związek między głodem a mechanizmami uzależnienia od alkoholu - Alert Medyczny",
@@ -254,7 +254,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTVHV0YxLUt0ZGQ0ZnpwVGpTVzBNb3haSDJ6ZW9ocVhEWkpIeC0zNVZIRUdkRS0ycTlQZlVSemVlbnZELTFtUjdaZFhzeHFDSWZKQU5JOFdubUdfb1hJUFNBZlo0SDdwaDgwMFN4RG43WlA0b1BFaENuX2Jpa2lWaktlTy1PSTFDQXhtaEVqZnoyZmdlMnp4SERfLUNXQ2xSUE1VQVBWVjVZRlZv?oc=5",
       "date": "2026-10-21T14:13:00Z",
       "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "W Lublinie powstanie centrum medyczne za 300 mln zł. Będzie też schron dla 800 osób Alert Medyczny."
     },
     {
@@ -700,12 +700,12 @@
       "summary": "Skull Base Clinical Nurse job with University Hospitals Coventry and Warwickshire NHS Trust (Health Careers) | 858828 The BMJ."
     },
     {
-      "title": "On the Frontlines of the Ebola Response, Dr Alain Mangolopa Kakule Fights to Save Lives - World Health Organization (WHO)",
+      "title": "On the Frontlines of the Ebola Response, Dr Alain Mangolopa Kakule Fights to Save Lives - WHO | Regional Office for Africa",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUXhfWnRYVEtkMFdnMW9pWTR0NUdUcmdHSmNoeUozd3JlX2d1WGY1WjdyaU9KbDZnOFE3ZDdFbnpNNGdlOGxwRTdtY1F5SVNyaWFYallDb0ZUcjRtRUlSdmY4Tk9zS3FaQ3AyQjhqOU1SUTJocHFVSXl6RmZ1QnJ3UTJVMmNXc3VwMndndGdOdU94N2RlSWtCb1FBQmU2TGJQWUlWcWNtMERMWXVYc1o5SDFRbXNuQV94M090STVqNExtN09WVE13cjMzVzZIams?oc=5",
       "date": "2026-10-21T15:20:44Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "On the Frontlines of the Ebola Response, Dr Alain Mangolopa Kakule Fights to Save Lives World Health Organization (WHO)."
+      "summary": "On the Frontlines of the Ebola Response, Dr Alain Mangolopa Kakule Fights to Save Lives WHO | Regional Office for Africa."
     },
     {
       "title": "A1c: Not as Useful in Practice as One Might Think - Medscape",
@@ -1092,6 +1092,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Episode 17: 'The price of performance': doping and the athlete's heart - Acute heart failure and cardiogenic shock ESC 365."
+    },
+    {
+      "title": "ESC in LATAM 2026 on ESC 365 - ESC 365",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XcU9uQnBqTDc1WXA2TEs0dWxoR1NIZ3pxWGh6U0JFS1lQUXpLMEt0ZGRnTzg4ekdSbWtUM040Rm9NQURFMUkybldxRFdsYjg?oc=5",
+      "date": "2026-10-15T07:00:00Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "ESC in LATAM 2026 on ESC 365 ESC 365."
     }
   ],
   "epidemiology": [
@@ -1900,12 +1908,28 @@
   ],
   "pharma_market": [
     {
+      "title": "China biotech RiboX reveals first data of circular RNA therapies in people - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGNLXzhtejhMTlJDM1VaT01MX1g4S0RpaVNDbTdlamFLaWpXNzJ0Y1l2ZEF0anJlRkVPYW5vX2VvakpNWjN3ZFpvejZNWWlPaFlPQ2tGY0xBdGxqX0hJVUpHUXliWnNybkkyQl9vc05va2poaXprTkdNLUNncFh1ZGt3djNxVnFjeTNNa3pBVFhKQlh3WmY4OG96akoyWGM?oc=5",
+      "date": "2026-10-21T23:19:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "China biotech RiboX reveals first data of circular RNA therapies in people Endpoints News."
+    },
+    {
       "title": "Medicare Part D PBM ‘Delinking’ Exclusion for Bona Fide Service Fees Builds On Part B Policies - Informa PLC",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQNkpsbEdITjhBUmdvU0hlWnA4Q2hOeDBBNm91Y1NxbmhkOWxXazA4cmVWbnBUZHhKREI3dlM2NTl2a2NHdGlDVjMxZWtSYlpFWXY1ZjNlWXN1aVFiOVQyMV9RajFLRW1tUktXVmQyVW9kUU9idy1jb00zSVhrSVRpWmFwekRHbHN2a3dzZUNUcmNOSTBpQlNwdzg4dHF0dTNsWnJjQVVqY21INUpEZERfTGNSWE5YU3ZuQXVHcy1ObGpWdlJmYzdNTFZDT1pvaGFMVXdjRkI3M1hMcWszYjJKRmloMmV0cENucHp2aHlpOTBCS3dPam8yNThSYjh2V1h2bGZHcTlYYnRaUVVsWFBvXzdLcnVXSms1SG9NNmQwcUlPUDhxa2pKNV9zYk9pMGFmOHo4UWZmbzhTYXh1?oc=5",
       "date": "2026-10-21T22:58:04Z",
       "source": "Pink Sheet",
       "confirmed_by": 1,
       "summary": "Medicare Part D PBM ‘Delinking’ Exclusion for Bona Fide Service Fees Builds On Part B Policies Informa PLC."
+    },
+    {
+      "title": "What We’re Reading - BioPharma Dive",
+      "url": "https://www.biopharmadive.com/what-we-are-reading/",
+      "date": "2026-10-21T21:12:59Z",
+      "source": "BioPharma Dive",
+      "confirmed_by": 1,
+      "summary": "BioPharma."
     },
     {
       "title": "Wedgewood Pharmacy Issues Recall of Certain Compounded Veterinary Medications Within Expiry Due to Potential Potency Issues - U.S. Food and Drug Administration (.gov)",
@@ -2282,32 +2306,16 @@
       "source": "EMA",
       "confirmed_by": 1,
       "summary": "Cannula, indwelling intravenous European Medicines Agency (EMA)."
-    },
-    {
-      "title": "AAO: Deep Learning Using Fundus Photograph Predicts Myopia Progression - Drugs.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOODRTQ2lHcVMyQW1uTlVsWnVQOFdHNWVsRTJ3TDNiRU9hR1VjTXROdVBWRnJ5SDZURmVfU0VfcFRVa3BfekktcVhwNm0xNTdLdUk3VHJ1c1p2SkVpeXJxdW5uX0F4Q0dzY1gtS1RXR0R3VkxhckZnRzRhajBoc3pZT21NdmJWa0swY3FITU1oeFlSTm1UelVwalIwQXBWRVJZZmVqVUhjdGs0ejdX?oc=5",
-      "date": "2026-10-21T00:17:13Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "AAO: Deep Learning Using Fundus Photograph Predicts Myopia Progression Drugs.com."
-    },
-    {
-      "title": "View PDF - HMA-EMA Catalogues",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlUlpuVURuODNCMzNvcGJ1LVc4VXE3WndlakM3bXpRMTh1ZHVpX0Q4b3BLUmpDSWhrRS1ubFZzSkh1T1FrM09pR3BSbnVIUVZxTE8xRzhyQ3RHSWRkOUw0cXF3?oc=5",
-      "date": "2026-10-20T22:25:45Z",
-      "source": "EMA",
-      "confirmed_by": 1,
-      "summary": "View PDF HMA-EMA Catalogues."
     }
   ],
   "critical_alerts": [
     {
-      "title": "On the Frontlines of the Ebola Response, Dr Alain Mangolopa Kakule Fights to Save Lives - World Health Organization (WHO)",
+      "title": "On the Frontlines of the Ebola Response, Dr Alain Mangolopa Kakule Fights to Save Lives - WHO | Regional Office for Africa",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUXhfWnRYVEtkMFdnMW9pWTR0NUdUcmdHSmNoeUozd3JlX2d1WGY1WjdyaU9KbDZnOFE3ZDdFbnpNNGdlOGxwRTdtY1F5SVNyaWFYallDb0ZUcjRtRUlSdmY4Tk9zS3FaQ3AyQjhqOU1SUTJocHFVSXl6RmZ1QnJ3UTJVMmNXc3VwMndndGdOdU94N2RlSWtCb1FBQmU2TGJQWUlWcWNtMERMWXVYc1o5SDFRbXNuQV94M090STVqNExtN09WVE13cjMzVzZIams?oc=5",
       "date": "2026-10-21T15:20:44Z",
       "source": "WHO",
       "confirmed_by": 1,
-      "summary": "On the Frontlines of the Ebola Response, Dr Alain Mangolopa Kakule Fights to Save Lives World Health Organization (WHO)."
+      "summary": "On the Frontlines of the Ebola Response, Dr Alain Mangolopa Kakule Fights to Save Lives WHO | Regional Office for Africa."
     },
     {
       "title": "WHO Health Emergencies EPI-WIN webinar: Safer Cholera treatment facilities: the latest WHO guidance on design, construction, WASH - World Health Organization (WHO)",
