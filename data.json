@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T20:12:11Z",
+  "last_updated": "2026-10-21T20:16:48Z",
   "poland": [
     {
       "title": "Komisja Zdrowia poparła poprawki do projektu ustawy o wynagrodzeniach medyków. Wymóg pół etatu nie obejmie niektórych specjalistów? - Puls Medycyny",
@@ -182,7 +182,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTVHV0YxLUt0ZGQ0ZnpwVGpTVzBNb3haSDJ6ZW9ocVhEWkpIeC0zNVZIRUdkRS0ycTlQZlVSemVlbnZELTFtUjdaZFhzeHFDSWZKQU5JOFdubUdfb1hJUFNBZlo0SDdwaDgwMFN4RG43WlA0b1BFaENuX2Jpa2lWaktlTy1PSTFDQXhtaEVqZnoyZmdlMnp4SERfLUNXQ2xSUE1VQVBWVjVZRlZv?oc=5",
       "date": "2026-10-21T14:13:00Z",
       "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "W Lublinie powstanie centrum medyczne za 300 mln zł. Będzie też schron dla 800 osób Alert Medyczny."
     },
     {
@@ -436,12 +436,12 @@
       "summary": "Wide Embrace of the Age-Friendly Care 4Ms Framework NEJM Catalyst Innovations in Care Delivery."
     },
     {
-      "title": "Bringing Age-Friendly Care to Rural Communities: The MobileMOC Interprofessional Mobile Health Model - NEJM Catalyst Innovations in Care Delivery",
+      "title": "Bringing Age-Friendly Care to Rural Communities: The MobileMOC Interprofessional Mobile Health Model - NEJM Catalyst",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hNjF2QzNKUHNDUG9TdG5KZFdQZU9mV0tpVDJXSjdpUU5FZUVkTk9Zd1JtYlRWSDFOMkNwRk1LNUdfRVhGTHlDZWFuLWFPV0hQLS11VzlYSlpKZlB5cFdlUVF3X0Y2TWwxVVpzOUxQVFAyU3Uwb3RzSUgtY3hLckE?oc=5",
       "date": "2026-10-21T18:23:19Z",
       "source": "NEJM",
       "confirmed_by": 1,
-      "summary": "Bringing Age-Friendly Care to Rural Communities: The MobileMOC Interprofessional Mobile Health Model NEJM Catalyst Innovations in Care Delivery."
+      "summary": "Bringing Age-Friendly Care to Rural Communities: The MobileMOC Interprofessional Mobile Health Model NEJM Catalyst."
     },
     {
       "title": "Adherence to the Age-Friendly Care 4Ms Framework and Association with Reduced Acute Care Utilization - NEJM Catalyst",
@@ -1100,14 +1100,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Episode 17: 'The price of performance': doping and the athlete's heart - Acute heart failure and cardiogenic shock ESC 365."
-    },
-    {
-      "title": "A(H5) Bird Flu: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5maC1Rb3ctQTcxOG5XenBoQzVEa2xNMGpXaEp1c1pVQXo0NnlUVXN3ak9jR05iSnhhVG9fSC1leHdDY1lFS0pPUUZQeXo0R0Rza0g1bkdEbTd0WjJkLW1VSFhtaVprZ1px?oc=5",
-      "date": "2026-10-15T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "A(H5) Bird Flu: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
   "epidemiology": [
@@ -1472,6 +1464,14 @@
       "summary": "NIH sees 7,400 fewer grants during fiscal year 2026 than in previous year CIDRAP."
     },
     {
+      "title": "Ebola Bundibugyo Virus Disease in Kenya - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15RDIxUmJuUEt2M04zRFFRRkhpVnd5VlRVMEhBY2NueXpiWUo5NEIzUXhEWkhlZ19MWEcyNXNlRmE0b2JROU9XOHZlMDk1bEtlbHRYUUNzcURSTUJmdkV2NlB5ZnM2QQ?oc=5",
+      "date": "2026-10-19T17:12:38Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Ebola Bundibugyo Virus Disease in Kenya Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "Study links antibiotic use with subsequent irritable bowel syndrome - CIDRAP",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZHRCREliUkt6WVNtNFQ1NGVxcHkwWjdPaHRrUFBoMmdaV2k2UDM1a3kyY2hsVzIxSXVSa0dxTzA4SzhWNWlpOVNUM0lQek5jY0RranRKSmpacGkya2xKUTM4R19vQXFyOWlzSmZKaVF2NVJtamFQSFhMMV9GdWJWMHFNSWRZYmV3V0FMUk5QQ21INVVTMU9fcHllb1FjRk9aQUlNb1BXb2ZKSy1qbTRvdjdxWHJiUQ?oc=5",
       "date": "2026-10-19T17:03:00Z",
@@ -1502,14 +1502,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Implementation of the Global Strategy and Plan of Action on Public Health, Innovation and Intellectual Property World Health Organization (WHO)."
-    },
-    {
-      "title": "Traditional medicine, resilience and well-being at World Health Summit 2026 - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcTZ3aUtRY2d6UkY1U2thVzBBdE84dDVTVDFZc1E0VzA0OG5VVUFpTFhGcDlvUmlnMkJDYUxwVGVLVTZKSnFjU2VwOWk3dGQ2Q0FMVTF6OXNwNDhnTEFoYm5vUFJHa2psUHZtMjNzY3lNeFM2UGdIODRWaS1EMlhmZkd6VzZvVGliaVh4SDE4b1ZxTnpaSUtCX2NrUXZVUGVfTHdYVmFvblp1X05UZ1Q2NFZRc0huZ0U?oc=5",
-      "date": "2026-10-19T14:52:53Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Traditional medicine, resilience and well-being at World Health Summit 2026 World Health Organization (WHO)."
     }
   ],
   "clinical_trials": [
