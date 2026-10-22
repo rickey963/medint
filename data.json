@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T11:25:17Z",
+  "last_updated": "2026-10-22T11:29:41Z",
   "poland": [
     {
       "title": "Czy istnieje polska wizja zdrowia? ► - Termedia",
@@ -40,6 +40,14 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Wirus Shamonda po raz pierwszy wykryty u człowieka. Zakażony pacjent nie żyje PolitykaZdrowotna.com."
+    },
+    {
+      "title": "Szlachetne zdrowie drogo kosztuje - Termedia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wRFBwYnhfNkFTdDFwS0kwQllOLThocDh6LW5ETVdPVUtCU2NCMVRaY2lYVTlzeldVVFhheGw2eTZRcG5TSFpWc09zRG9jQV93bVRHMklRWVBjTEt4Q2ZPdlVLWDIzZjhNbHlud3lvQ2JVaHNiVkFmQmh3OA?oc=5",
+      "date": "2026-10-22T10:22:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Szlachetne zdrowie drogo kosztuje Termedia."
     },
     {
       "title": "Blisko 70 mln zł długu NFZ wobec przychodni za opiekę koordynowaną. Wiceprezes PZ o finansowym hamulcu ważnego programu - Puls Medycyny",
@@ -392,14 +400,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Długowieczność zaczyna się od profilaktyki. Jak AI zmieni diagnostykę medyczną? Dr hab."
-    },
-    {
-      "title": "Branża MedTech chce zmian w przepisach. TECHNOMED przekazał postulaty do ministerstwa - Alert Medyczny",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHVkMkJsRVZwT2Z3cl83Z0VlVlU5cV9FNkJxOWNpSURSM1NjRTNxX0haZmZaX1NWSEZyanJmb3I0MlBpZTZjVU04MElzQU9DZnhRRXpETXQxeTVuYnE5dm9ZYXl1aW5IUTJPQWNoS2J2RTFJRk5vWjB5aXN6dlk4cTdUbm9fRG5hSnc4U09kUGlWVTZVYUYyN1VfWWxsSEVsU2ZhTlNpVWxwYkVDSUQw?oc=5",
-      "date": "2026-10-22T04:09:16Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Branża MedTech chce zmian w przepisach. TECHNOMED przekazał postulaty do ministerstwa Alert Medyczny."
     }
   ],
   "world": [
@@ -1448,22 +1448,6 @@
       "summary": "Strategic and technical advisory group of experts on well-being and health promotion World Health Organization (WHO)."
     },
     {
-      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-      "date": "2026-10-20T07:00:00Z",
-      "source": "ECDC",
-      "confirmed_by": 3,
-      "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
-    },
-    {
-      "title": "SI's Role in Stopping Legionnaires' Disease - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KOXotNkJuVk1xSURRX2N2NnFreXYyZy1mcmlIMEx6MmtldVpnRUd1YWZLTU1MZlhnXzZPbVc2eGx0YUx0a3RWNlMzTE90Snd1TTVZTjg1WnRNMDlNeGd3dGVEMWViZEIwblBqd1dmaTNkQTdFd01mNTktYWF4QQ?oc=5",
-      "date": "2026-10-20T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "SI's Role in Stopping Legionnaires' Disease Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "How CDC is Using SI - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzBkNXYwVWpiLXpQcWFLNEZTcktTMTJOMm81NkpqLVRqUEF5U1Y1YThocDN3cmtaUjNWcHBuLU9EbWZZZ3pMbWtTeE94VzdzUW9SdnVaY09sTk5ZcTNoYXlyZDRCSEg5aEE1NGpUaFk1cUQwcHZ0eXR6djBEZi1DNWw4VzM?oc=5",
       "date": "2026-10-20T07:00:00Z",
@@ -1472,12 +1456,28 @@
       "summary": "How CDC is Using SI Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
+      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+      "date": "2026-10-20T07:00:00Z",
+      "source": "ECDC",
+      "confirmed_by": 2,
+      "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
+    },
+    {
       "title": "Current Year Data (2026) | La Crosse Virus - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkZFRG0tSkI4dExUY1o5Z1BjX1BjdExmU2c4UTRHaFdqTWgxTGc2c1Vqd2pNXy1qYUR0MFBESFZDXzR0X1JGVkxJYzJKOU41Ry0ydUh6REtXYWNibjQzejNseUdLY3VhVzNRbFpLVVZid0lWQmt5aEdEVUQzTTVDQg?oc=5",
       "date": "2026-10-20T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Current Year Data (2026) | La Crosse Virus Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "SI's Role in Stopping Legionnaires' Disease - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KOXotNkJuVk1xSURRX2N2NnFreXYyZy1mcmlIMEx6MmtldVpnRUd1YWZLTU1MZlhnXzZPbVc2eGx0YUx0a3RWNlMzTE90Snd1TTVZTjg1WnRNMDlNeGd3dGVEMWViZEIwblBqd1dmaTNkQTdFd01mNTktYWF4QQ?oc=5",
+      "date": "2026-10-20T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "SI's Role in Stopping Legionnaires' Disease Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "LOCS Call: October 19, 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1646,7 +1646,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcE1kS0FxRUp6eHhPcXhNZ0Yyd2l2OFdaLWJkZGN1RmxvS2EzWFZ1ZWNMT3JrQWlDS05DQTlxcFNVRjlFQ1p4SUFzLW81MjEtckd3c0FuclJmeGpUajU5SzhLeDVGcjB1UzVmczZnS0xMdHJEQ1F2SExqcm1jMTdKNGJHUlR1U0FxempN?oc=5",
       "date": "2026-10-21T09:46:43Z",
       "source": "Clinical Trials Arena",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "AstraZeneca and Oracle collaborate to test AI in clinical trial recruitment Clinical Trials Arena."
     },
     {
@@ -2076,6 +2076,14 @@
       "summary": "AAO: Association Between GLP-1 Receptor Agonists and AMD Explored Drugs.com."
     },
     {
+      "title": "Direct-to-patient pharma programs transform drug access: survey - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3BmaUlzYjR2b3J5d1dTTG8wajIwWGRwMDYyY21sdHF3SHhSWFZqUktPRGo1eVFfMkU3ejM4ZGhSNnBSUHB4c21UbkJOamtCSnF1S1pIdkVOaDZ0Ml80Zkt5aTYtVzRORllVYU1mZ2ZETFo0VXN4WWJWME1BVnVLejZkMWI5MWdfd3FDVUVBWl9fRjlSTHFpakdOdEtzVWc?oc=5",
+      "date": "2026-10-21T17:24:51Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Direct-to-patient pharma programs transform drug access: survey Fierce Pharma."
+    },
+    {
       "title": "Samsung Bio union to contest court ruling blocking worker strikes - Endpoints News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ0cwYlAyQ3BYQ2xqYjByTjc0VjlySEU0VmtNZ0x4bEtoRWhMMjdmSm1ka3ZibnBzOC0zcU5vbU85c0hpN180MjN1OTVUNlNlUy0wQWlzSHlnekkyaVBTaXhrQWlQeUplajZUbTBBWWduWWstQUp5SEJsVHhueGhneTNHWDJQVzJuSlJIeHU0d0lxSXM?oc=5",
       "date": "2026-10-21T17:04:00Z",
@@ -2290,14 +2298,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Hibsago Injection for Hepatitis B: Uses & Side Effects Drugs.com."
-    },
-    {
-      "title": "Class 1 Device Recall VC - U.S. Food and Drug Administration (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xVzZnQ3FsNEFIcHRfSDlrMDJjb20xbjNFTlFaZjI0UGpGdGtvSTN3YnMtYV9HbWp4UjBfM1k1UldWaFloTEd2VVg1SlVCbVlpV3NQQTF0UGZPV0E4T3Z2bnA3QjFSTkRBa042Z2JTRG1YbEpsaWpwSV9WbGJZX00?oc=5",
-      "date": "2026-10-21T05:35:09Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Class 1 Device Recall VC U.S. Food and Drug Administration (.gov)."
     }
   ],
   "critical_alerts": [
@@ -2330,7 +2330,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-10-20T07:00:00Z",
       "source": "ECDC",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
     },
     {
