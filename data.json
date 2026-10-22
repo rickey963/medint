@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T08:06:33Z",
+  "last_updated": "2026-10-22T08:10:56Z",
   "poland": [
     {
       "title": "Sposób podawania leku ma znaczenie nie tylko dla jakości życia pacjenta - Serwis Zdrowie",
@@ -152,6 +152,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Branża MedTech chce zmian w przepisach. TECHNOMED przekazał postulaty do ministerstwa Alert Medyczny."
+    },
+    {
+      "title": "Lek działał, ale badanie się skończyło. Ministerstwo chce, by pacjent nie został bez terapii - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZEdJSlkyNXJvWlV4LXB3dDJUdkR3RWVxVVNySXdENng0VzdzYUhSXzI1a0kxdTlKczZDa1R4WklLYWJBQ1RTYWJJMnVSTGlVdEQwTVVqSTFKaTNWa0dHb2JRdE85VTRUOHdhSFA2VjN5bm5lMWUtZC1wNHFhUUtyRm82alZzQkdhZUFzbGxNUnpHYk5RcEJTb0QwNlRzY1ZRcXlDd1ZUOGdtRGhtbTBfZWpfMnFMMzdnem9qTXRRYW1MZVZWWmJTOEhoVUthUElTUVd4anh4UQ?oc=5",
+      "date": "2026-10-22T03:30:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Lek działał, ale badanie się skończyło. Ministerstwo chce, by pacjent nie został bez terapii Rynek Zdrowia."
     },
     {
       "title": "Poradniki z zakresu Pediatria | Portal medyczny Remedium - remedium.md",
@@ -392,14 +400,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Brakuje pielęgniarek w szkołach. MZ zamierza zmodyfikować przepisy PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Koniec skierowań do 8 lekarzy specjalistów. Nie trzeba czekać w kolejce do POZ - Rynek Zdrowia",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMUJfaTIzOVFnYmhLcm1wMEt3QkZiZDRCN0VVeHVNY0pUVXhFY00xODhzOHVEdUpjMXIxSTZyLW1tYmtHbE8yZlQ4ejR0b1hYQV8wSExXTGE1bWpWUHEyZVRLU1V4ZDZUc2hSNy1zQjQxUF8xMjQ0UHdLWGxtX0Vzdkw2UEYzSXBld0Qwa2pVZ3hVMDd5a1Q5Qmh5cmh6cEI1WHFJWFExYW1BaXk0SDVENDdkOGppNUVSWS1EODB2dEFadVE?oc=5",
-      "date": "2026-10-21T14:23:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Koniec skierowań do 8 lekarzy specjalistów. Nie trzeba czekać w kolejce do POZ Rynek Zdrowia."
     }
   ],
   "world": [
@@ -882,7 +882,7 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM2xpUWU3aFFyU0ZfaGIxRG1sSHZwNzRWbk1XUVVRM0FMYTF2a1plWUJSNjFhbWhZUFI5MnZBbG16czBKVkRWWEtfdmxMNXNueWMyNWtzc2hOS1ZHeW9jMTBsRzNsdThNM0xoR09rUUFrV0Q4ajlUWEY2YnMyLUptRmh2NDdKZVdlZVVodVFhYlVyM0pWRU4wcUV2WTJsRms0Qm9XVmVzUVVab01oN3hyTW5ZUUNvbHlkNXZJN3QzZzQwMTJhT2RQWDZQekEzSEo1bjZEN1FucnVIazNnYW9HQ0dKd294UkltN1VCRDlBckR0b1NR?oc=5",
       "date": "2026-10-21T08:38:14Z",
       "source": "ESMO (onkologia)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "ESMO launches new principles for humanising scientific reporting to strengthen the communication of cancer research European Society For Medical Oncology | ESMO."
     },
     {
@@ -962,7 +962,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15RDIxUmJuUEt2M04zRFFRRkhpVnd5VlRVMEhBY2NueXpiWUo5NEIzUXhEWkhlZ19MWEcyNXNlRmE0b2JROU9XOHZlMDk1bEtlbHRYUUNzcURSTUJmdkV2NlB5ZnM2QQ?oc=5",
       "date": "2026-10-19T17:12:38Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Ebola Bundibugyo Virus Disease in Kenya Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1030,12 +1030,28 @@
       "summary": "Balancing Therapy and Quality of Life in Aging Heart Failure Patients Cleveland Clinic."
     },
     {
+      "title": "AAP Updates Recommendations on Management of UTI in Children Younger Than 5 - Infectious Disease Advisor",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVnZIcUNORF9YTGVPTEotdHFuc1NDZi16VElzLVZCQ2lmaU53QmwzRXIxa182Nk5LUzh1cU5lSHZ2ZF9lYWZBaDNiaF9ic2MxcjNyMWVGT3d2eVQ0bkZzanA0elByMF9kRmV1LUJEWEtxZGtJS0wzYTdZdWMtUkRCVDVHdVlUeDJTR2ZZb3g4bm5tYTZOdGgzS0Q3dEc3dWVLTWJKN1NmdmQ3WC1kaGxPV09QQjlKTkRvSDIzbVFrYw?oc=5",
+      "date": "2026-10-19T04:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "AAP Updates Recommendations on Management of UTI in Children Younger Than 5 Infectious Disease Advisor."
+    },
+    {
       "title": "Global Convergence and Divergence in Clinical Practice Guidelines for Heart Failure With Preserved Ejection Fraction: A Systematic Comparative Review - The Cureus Journal of Medical Science",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOMnA1Q3djMHJwUWtRcUZZeE9uUE1sa1V0T19ycUt5SlU4T0hXMjVDeFNkMkRDcjdHc1RZWXJCc1RKMDQ5V1pIalhEeUNBNnJvMG9GLUZUZVlKLXJrYm5aT2NsdmZudkRnNUlSZDhqb2hqYmlHTkd6OTZLZUNtUUtNQ0ptbkVIQ3I1M0VCTDdvaDlvUmZyeFotQWE4TWxyeUthLUthOUNmRGVhazhJVmVlS2U4RkthdDRwRlNGQ241T1lZdjc0N1REcHdDX29ZeXZkT0ZUdXZkb1lVRFM3UnZ5dFlsSU8zclRON1k5bkVjejktUVNodWNPQ1Y1NjZDYmU3NjBWcjdXVUdtREMtZFZqWDBQaWUwdw?oc=5",
       "date": "2026-10-17T14:09:28Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Global Convergence and Divergence in Clinical Practice Guidelines for Heart Failure With Preserved Ejection Fraction: A Systematic Comparative Review The Cureus Journal of Medical Science."
+    },
+    {
+      "title": "Observational Study of Cardio-oncology cARe (OSCAR) - European Society of Cardiology",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRkNfOUJCVGhHbVBEVmpqbzJvWmxfWGlzaHlLX1J3NWZlNnNRejdfM0dwenhsc0JpTEtaaUdJM090Vnc3cnVrOFA2WEgxU1o1VWZ5WmREOWltWjJNbEthaWtIX0pQT2lmaWJqN2dLOF9qZEV3bWotMTVEXzItS1pSU1JkVS1fS2JlWDd0eGRabU90N2VobThVU3FOb3luVEl6QkYtS1JJU2ljWXFkQldUaGxUc2V2VTdU?oc=5",
+      "date": "2026-10-17T09:04:01Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Observational Study of Cardio-oncology cARe (OSCAR) European Society of Cardiology."
     },
     {
       "title": "Stanowisko Rady ds. Taryfikacji - leczenie chirurgiczne z zastosowaniem systemu robotowego - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1078,44 +1094,12 @@
       "summary": "Effectiveness of DTaP Vaccine During Pertussis Outbreak Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "AAO-HNSF Issues Updated Clinical Practice Guideline for Tinnitus - The Hearing Review",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHBQUG5rZTNvRUZaaHlUamVZWWxiZU82TjIzUFdiaWwtZGZzSGM4aUhoMHhwTk82Y0pxN2t1Zlhzcm1fNjRjRjhJN0p1OE1CM0llTDNvRlVCV3p1T29JOG0wSFFsbFl1MVI1NFJjR1BvU25udDZoVjQ5WVlacVZ1Q05CY21CZTFJd3pRSW9ERVJKTWszUzFSeVd1SndDRGdTa3otd1BwRkpWRWc3SnB0SkJB?oc=5",
-      "date": "2026-10-15T18:53:33Z",
-      "source": "Wytyczne kliniczne",
+      "title": "A(H5) Bird Flu: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5maC1Rb3ctQTcxOG5XenBoQzVEa2xNMGpXaEp1c1pVQXo0NnlUVXN3ak9jR05iSnhhVG9fSC1leHdDY1lFS0pPUUZQeXo0R0Rza0g1bkdEbTd0WjJkLW1VSFhtaVprZ1px?oc=5",
+      "date": "2026-10-15T07:00:00Z",
+      "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "AAO-HNSF Issues Updated Clinical Practice Guideline for Tinnitus The Hearing Review."
-    },
-    {
-      "title": "ACOG guideline expands menopause VMS, sleep, and mood recommendations - Contemporary OB/GYN",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOXRnZURvdVdENXQ3d3BTOGs3TktMTkoza0ZXR0pMYl9ybEhfR0FJWm5UNGwyZzRYd24xREltWWYzaFpXWG4zd1FJRWNEOEd5X3MwaHVIbEJERTdrUkFzYlFvaVVyRUJDa0pVdThiTVp6N0ZOM2Y5UWZjMnlwd2NVMEdIeUt3aDUwN19vbk13eThkeXNPeGl3SzgtWDh4WHFxQjNDcmhKTDNqQQ?oc=5",
-      "date": "2026-10-15T17:00:15Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "ACOG guideline expands menopause VMS, sleep, and mood recommendations Contemporary OB/GYN."
-    },
-    {
-      "title": "Episode 17: 'The price of performance': doping and the athlete's heart - Acute heart failure and cardiogenic shock - ESC 365",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56TFRYbGhiaVlIZXN2MGVRSGF5NS1NMW9uRFR0MUhCbl9KSHh1bENERnpXZ3hvNDRZOFhlbC1CSmdQTXBzZkgyR1JpbUstUjg?oc=5",
-      "date": "2026-10-15T14:44:25Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Episode 17: 'The price of performance': doping and the athlete's heart - Acute heart failure and cardiogenic shock ESC 365."
-    },
-    {
-      "title": "Osteosarcopenia and risk of atrial fibrillation from the UK Biobank - ESC 365",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50WTV6bzFERnpaWXdISjg3bC1lWjd3M0U5M3c0R1dHdUtEVzgycGRQMzhaaUxRUkxweFQxOWxtRzdmMmo5V1IwZnphczg0ZkJ1UWxFSHJuM1JYNFNNd2hzNzBYcW5qZTFTeVJJTXQtdndsYjg?oc=5",
-      "date": "2026-10-13T19:48:33Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Osteosarcopenia and risk of atrial fibrillation from the UK Biobank ESC 365."
-    },
-    {
-      "title": "CHEST Releases Inpatient Tobacco Treatment Clinical Guideline - Respiratory Therapy",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZzFIOUFOYTZuMFNvTm1reXJRN3ByLTlMQzB4cjZ2RzQzdEt6OFpzc1p6bEVUcW9HOXd0RTV0YU44emZ0VVlDZXM0d0ZZYjlBQVhkSEc0Mm04Y19xeXJKamFiRm91RUdGQmM5U0Fmd2E4QVF6N2ZaVEJiTU5CckJiSXNRQm5xSnIyWlpPQXIwRm1lYmJyNkRkUWFhY3YzWDhleUJyR0xpdWNuUjN6OTB0ekE2M05GZXZ0RjhyLVhieHNDQkk?oc=5",
-      "date": "2026-10-13T18:32:17Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "CHEST Releases Inpatient Tobacco Treatment Clinical Guideline Respiratory Therapy."
+      "summary": "A(H5) Bird Flu: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Cel szkolenia: - NIL",
@@ -1124,14 +1108,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Cel szkolenia: NIL."
-    },
-    {
-      "title": "Living with ringing in your ears? Updated guideline supports a personalized, evidence-based approach to tinnitus - Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVRyRFpZNkc2VHJJbXIwTHNmTmMtRDNWX1A0SGdxbGZPVDd4QnVsckowRHA0WmhSQk1QcjdJNlBtNFlaWG5lVFI3U05XQmY4czJHZEhJRmJRb0VlelFtNmlIYkpHZU5rMHpqRmdFUXZCakZ4WlhMejhwNjVUTDR2SVVSbUlyc2pFRVZJbmxIRQ?oc=5",
-      "date": "2026-10-12T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Living with ringing in your ears? Updated guideline supports a personalized, evidence-based approach to tinnitus Medical Xpress."
     }
   ],
   "epidemiology": [
@@ -2378,7 +2354,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15RDIxUmJuUEt2M04zRFFRRkhpVnd5VlRVMEhBY2NueXpiWUo5NEIzUXhEWkhlZ19MWEcyNXNlRmE0b2JROU9XOHZlMDk1bEtlbHRYUUNzcURSTUJmdkV2NlB5ZnM2QQ?oc=5",
       "date": "2026-10-19T17:12:38Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Ebola Bundibugyo Virus Disease in Kenya Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
