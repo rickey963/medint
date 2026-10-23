@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T19:19:53Z",
+  "last_updated": "2026-10-23T19:23:59Z",
   "poland": [
     {
       "title": "Koniec trzyosobowych komisji lekarskich w ZUS. Nowe prawo wywraca zasady - Rynek Zdrowia",
@@ -24,6 +24,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Komisja Zdrowia zmienia projekt dotyczący wynagrodzeń medyków. Które poprawki przeszły? Alert Medyczny."
+    },
+    {
+      "title": "Składka zdrowotna za październik i listopad 2026. NFZ wydał komunikat - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSFljUDc0Skg4bWk5a2pWUnFFRmN5ZWV4TTdlcUIyMFVxV3hsSUtIYVhrWHp5aTdQVFFMbFItUGxJV3RqUUEwVG81cFF5ZW5GUE0yajZHSEU5bGFCcDRjTkdMZFI5cmprdjVOc0ZkeFhpSC1JTDM3d3B6eXhGQ3dwbFZKNnlDcDQyY05tY0F5VE9uTThza1BDZlNVT0xRNWpGdVN2Sm9LR3pqRG13aWY0YVd6TngxMXM?oc=5",
+      "date": "2026-10-23T17:32:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Składka zdrowotna za październik i listopad 2026. NFZ wydał komunikat Rynek Zdrowia."
     },
     {
       "title": "Można zwolnić pracownika na L4 bez wypowiedzenia. Wystarczy, że przekroczy jeden termin - Rynek Zdrowia",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Częstsze używanie substancji związane z większym obciążeniem psychicznym - Aktualności - Psychiatria Medycyna Praktyczna."
-    },
-    {
-      "title": "Grypa groźniejsza tej jesieni? Szczepionki w aptekach się kończą, dostawy za miesiąc - Medonet",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSkxtU2hYMlNNbGlBNEdEOVZzWGNXTEMwNjNzQTE5cEQxb2NwcHhuWWZsT3ZlN1dfaEYwN2V0eWhOVGwyX1ROOEZna0xCb2hVUU9QYVA2NFI2SGlIOElQb2VJX0hiZXZsc1FJQ2lEQXlPUDdoeVQzYnhyTzBrTnVlZmJQLUJ6RVA2UEdKMEJsZ1lUMkNzLXQ2bUlJa0t3ejRpcWlpOGRUYU1VcFVHcVNvYzVScHBzc1FHRnRPY0JtdTU?oc=5",
-      "date": "2026-10-23T11:06:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Grypa groźniejsza tej jesieni? Szczepionki w aptekach się kończą, dostawy za miesiąc Medonet."
     }
   ],
   "world": [
@@ -1034,8 +1034,16 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HcHE3STdacFRwclN0b09XNC1tSTBHXzNuZDEwbS1oMnAtdVFKVXdqaUdMZHhZblFzZmpsMGJ0Z25nbkxaVjNOWTFPSXVXZnAxZlhKdlJJYkw?oc=5",
       "date": "2026-10-21T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Treatment of ADHD | Attention-Deficit / Hyperactivity Disorder (ADHD) Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "ACOG Releases Updated Guidance on Menopause Symptom Management - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVV6dExMVi11TExsdU9GWFlCdGJFNmIya0R5aHk1VllFZlE5a0dfdWNZck9ERGxjdUpPOHhoaFUwcTBqYm5uR0Vla1pETEpCVnd1NG5aRjN5OXZkYUdjZFZBZWx3M3F3TUMxVHVGUl8weUtNUnZtdkgwMC1rTFVuVERUZWk4bEV5QV9ETk1zel91SzlBRlBlWjBpbGp1MHlrTGhmd1pHa2xSMlhyaUE?oc=5",
+      "date": "2026-10-20T17:01:01Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "ACOG Releases Updated Guidance on Menopause Symptom Management Medscape."
     },
     {
       "title": "Clinical activity of talazoparib plus enzalutamide demonstrated in patients with high-volume mHNPC, but without clear benefit over enzalutamide in biomarker-unselected oopulation - European Society For Medical Oncology | ESMO",
@@ -1062,20 +1070,28 @@
       "summary": "Rekomendacja Prezesa – Basecal 200 Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
-      "title": "Rekomendacja Prezesa – Xiaflex (kolagenaza clostridium histolyticum) - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3BQSUxPUUxKV2QxYVIyZGM4M2VaeV9YZmtKb0EzM3ZjbmVTbUctTXlNaVFLYXBXTnQwRHdjYUowMGtFVWhlUzhaSDdiZDA5bE53SFJZUnhYVDc4aU5WQmtSazJCbk5vN09zQkljZm1FeTY4NW1TQVNXMWZfM2w3dUJySS03OHdrNG1kM0dMMUNPdm9BNWJ6UF84MGJHTHRDSlZJeGl5WThweTBRM1BvUQ?oc=5",
-      "date": "2026-10-20T10:02:07Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Xiaflex (kolagenaza clostridium histolyticum) Agencja Oceny Technologii Medycznych i Taryfikacji."
-    },
-    {
       "title": "Countries at Risk for Yellow Fever: South America - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByc09NUnNtR2lBbzg2a20wX05DMDJCVUtvMHZWNUxOLXVrQ2lzVm1tN3R3TTk1RlV1S2hENUhUUTJhRlZmUmYybHdUWXphT3lzR3BNc3I1ZXM1OWZzclFUaV9JUzBZSUNR?oc=5",
       "date": "2026-10-20T07:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Countries at Risk for Yellow Fever: South America Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Guideline Developed for Treatment of Menopausal Vasomotor Symptoms - Neurology Advisor",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNk9lMVRPbUl0WExTa3lZYVVkUEZEenl0S01wQ25TY3MzUVl1aTJPdG5JSW90WGlQRkVKU3YycnVDQTZ3SlhWQW1JMHlkWXpiM0tXRzg5OEFsTUx6cFFveklTVWRHRE9oUFp0TEZhSU1uX3F4SGpIb3lQMklIU1RkVzJlODdBYktyOVVGUlQxclo2QzdjMllRYWR0VUkydTE5WkVWaGRRYnE?oc=5",
+      "date": "2026-10-20T04:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Guideline Developed for Treatment of Menopausal Vasomotor Symptoms Neurology Advisor."
+    },
+    {
+      "title": "Panel at CHEST 2026 Discuss Bronchiectasis Management, Amid Recent Guidelines - Pulmonology Advisor",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1pmQklrNlUxNG9ERGtOY2dLemVlVkhUZko2aWtCVzhIcFdIcGpSQUdmZ1JqWTZEOWlIT2dzdjVjT2Q4TkxLakJ0a2tLTGRtS3E5VHM3T2dDMG9ZQzYxQlRVQWoxdVVibkhTUTNLTzZuOFBUVUc1TFppQTFiYWlWdVpjZEVDdDRIcWRhdFBEaVJuSUhTSFFIM0xpLTctZ0QtYTBtRF9CMFBiV3R2aWhCWDVhWmpVWWVKVTdrSw?oc=5",
+      "date": "2026-10-20T04:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Panel at CHEST 2026 Discuss Bronchiectasis Management, Amid Recent Guidelines Pulmonology Advisor."
     },
     {
       "title": "FDA approves daraxonrasib for metastatic pancreatic adenocarcinoma - European Society For Medical Oncology | ESMO",
@@ -1148,38 +1164,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Mediacja w NIL - wsparcie w poszukiwaniu porozumienia NIL."
-    },
-    {
-      "title": "AAO-HNSF Issues Updated Clinical Practice Guideline for Tinnitus - The Hearing Review",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHBQUG5rZTNvRUZaaHlUamVZWWxiZU82TjIzUFdiaWwtZGZzSGM4aUhoMHhwTk82Y0pxN2t1Zlhzcm1fNjRjRjhJN0p1OE1CM0llTDNvRlVCV3p1T29JOG0wSFFsbFl1MVI1NFJjR1BvU25udDZoVjQ5WVlacVZ1Q05CY21CZTFJd3pRSW9ERVJKTWszUzFSeVd1SndDRGdTa3otd1BwRkpWRWc3SnB0SkJB?oc=5",
-      "date": "2026-10-15T18:53:33Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "AAO-HNSF Issues Updated Clinical Practice Guideline for Tinnitus The Hearing Review."
-    },
-    {
-      "title": "ACOG guideline expands menopause VMS, sleep, and mood recommendations - Contemporary OB/GYN",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOXRnZURvdVdENXQ3d3BTOGs3TktMTkoza0ZXR0pMYl9ybEhfR0FJWm5UNGwyZzRYd24xREltWWYzaFpXWG4zd1FJRWNEOEd5X3MwaHVIbEJERTdrUkFzYlFvaVVyRUJDa0pVdThiTVp6N0ZOM2Y5UWZjMnlwd2NVMEdIeUt3aDUwN19vbk13eThkeXNPeGl3SzgtWDh4WHFxQjNDcmhKTDNqQQ?oc=5",
-      "date": "2026-10-15T17:00:15Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "ACOG guideline expands menopause VMS, sleep, and mood recommendations Contemporary OB/GYN."
-    },
-    {
-      "title": "CHEST Releases Inpatient Tobacco Treatment Clinical Guideline - Respiratory Therapy",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZzFIOUFOYTZuMFNvTm1reXJRN3ByLTlMQzB4cjZ2RzQzdEt6OFpzc1p6bEVUcW9HOXd0RTV0YU44emZ0VVlDZXM0d0ZZYjlBQVhkSEc0Mm04Y19xeXJKamFiRm91RUdGQmM5U0Fmd2E4QVF6N2ZaVEJiTU5CckJiSXNRQm5xSnIyWlpPQXIwRm1lYmJyNkRkUWFhY3YzWDhleUJyR0xpdWNuUjN6OTB0ekE2M05GZXZ0RjhyLVhieHNDQkk?oc=5",
-      "date": "2026-10-13T18:32:17Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "CHEST Releases Inpatient Tobacco Treatment Clinical Guideline Respiratory Therapy."
-    },
-    {
-      "title": "Living with ringing in your ears? Updated guideline supports a personalized, evidence-based approach to tinnitus - Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVRyRFpZNkc2VHJJbXIwTHNmTmMtRDNWX1A0SGdxbGZPVDd4QnVsckowRHA0WmhSQk1QcjdJNlBtNFlaWG5lVFI3U05XQmY4czJHZEhJRmJRb0VlelFtNmlIYkpHZU5rMHpqRmdFUXZCakZ4WlhMejhwNjVUTDR2SVVSbUlyc2pFRVZJbmxIRQ?oc=5",
-      "date": "2026-10-12T07:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Living with ringing in your ears? Updated guideline supports a personalized, evidence-based approach to tinnitus Medical Xpress."
     }
   ],
   "epidemiology": [
@@ -1996,6 +1980,14 @@
       "summary": "Q&A: Bristol Myers’ Lynelle Hoch on autoimmune CAR-T safety challenges, new patient death Endpoints News."
     },
     {
+      "title": "New CDC Guidelines Could Leave Babies Vulnerable To Hepatitis B, Study Warns - Drugs.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWTRpY2pKU1FfbFU5ajIxT2dpZFVSM1BZdkJjWUVKOG9BSEN0SG02QUxFT0xxTm1lTDBwUThyM2sxSFpYYXpCV0hjaS1yd1QxMHE2VkJyelRNellBS1UwSE5IaVlnX2FrUkE0YzByeHdCZ0wtS2JKOWJ6UnJxVXMxOGVGNDYtaFNlb1M4WGJ5ZzF6Z1pjWUNfaHJVMHhoa3BHNHpfbXE2Mk9GajZRTTU3YQ?oc=5",
+      "date": "2026-10-23T18:32:24Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "New CDC Guidelines Could Leave Babies Vulnerable To Hepatitis B, Study Warns Drugs.com."
+    },
+    {
       "title": "DOACs Beneficial for Patients With A-Fib and Prior Intracranial Bleeding - Drugs.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHpIdGd2YjhUX3lGVGFZNkVCcG4zYVR2VWI2VDdudEJmQWctMzg0WU1iUkwxZFlHTWtmSlhaXzdHa2tBcGJLS3lhUWV5SlhtbHJXQTRiTXFod1lILTRUZHBrMTlWWUlVWEVqRnFEQ0FjV1NyRURoNlIzU01fZmhCMXlBUFlTOTBaRm9majhDTGxHWDlwREFWekdzODk?oc=5",
       "date": "2026-10-23T18:00:36Z",
@@ -2378,14 +2370,6 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "American Medical Association CEO talks regulating AI care Endpoints News."
-    },
-    {
-      "title": "After Hip Surgery, Women Using Topical Estrogen Have Higher Risk Of UTIs, Study Finds - Drugs.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVFCOC1rdnFBZWNaQlVzNWg0N1RJWjhaQzlvd1Etc2dsLVM5VmkyMS1CaXdTdmk2UHZxWnN4WWNhVV9TblRFeUFQZDYyaTR1VlFYVWZ3aVUxNEt2alBuak9kbEJtT0hhV1RSamRSeE9tVmZIa2d0LW5jQUZmWV82UTRYaEN1dkJxUTdINVRfenZMXy1FbUlkdVI4cE5CZlp3bTVyc3AyZ3EyOFFSVVlrdVlkSzhPZnhpUFRj?oc=5",
-      "date": "2026-10-22T15:49:02Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "After Hip Surgery, Women Using Topical Estrogen Have Higher Risk Of UTIs, Study Finds Drugs.com."
     }
   ],
   "critical_alerts": [
