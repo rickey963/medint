@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-24T18:38:43Z",
+  "last_updated": "2026-10-24T18:43:09Z",
   "poland": [
+    {
+      "title": "Pierwsza taka szczepionka na raka. 42 proc. niższe ryzyko śmierci lub nawrotu - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMWllSzRFVlphRUw2VTNzNnZoWmVhaHJZdWJZdkZkX2hISVZOS3FZYUQxM2VOci16MVNkU1BTSWxob3E4blNiTjRuTXBMMm5OcGJUNlEySXpicXNKel90blpKTUFRQWpSVkxvS2h6WTdLY2lPUHhzSW1seVlfdVh5TXBOaGx5ZFdVVVgzMXh2NFpIaTZmVzQtaXcyZk1mU2VJYm5OOG9MVERZQldwQ0I4dEYzc2lNR1FsaWFJTUhUc1l5Z2VldXZOSHpxVnVCT3E3ZnN3?oc=5",
+      "date": "2026-10-24T17:01:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Pierwsza taka szczepionka na raka. 42 proc. niższe ryzyko śmierci lub nawrotu Rynek Zdrowia."
+    },
     {
       "title": "Brzuch jak balon i nieprzyjemne gazy. Jabłka, grzyby i jajka na zakazanej liście - Rynek Zdrowia",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzg4Y2tTSEZ3a1RrMEowNU1ieV9Pcmt3cS1STUs5aFg3V3RLajNZbTlEc19ZalNRVXNTMV9kb0NWMHJMVGR5MldRYWQ2WWNVWEwtM0s2SExPU2lHeUZEUkZuZVhvY2NvVFlPeXptTG1HSXdkM3lOLTRuY1VpRS0tQTJ6VlBiZzlyODM4eWZtMExoTm92Ry1zU0V2VV9qVUxUdDFXckt6ZTlHMzhJUFRwRmxQdm11Y0hTalFEWWNWZk5RRExz?oc=5",
@@ -392,14 +400,6 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Co nowego na IKP eZdrowie."
-    },
-    {
-      "title": "Lista chorób rzadkich - Choroby Rzadkie",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sOTVLcXYxZkV2cG5STk5Kb2R6aUNjR2tvOHp0bEVYQzl1NFV2eXc1dmt0Q3kxOEtqaHlvRjhSbzJRSklDODZtZVR0dk1XdU1Ta0t2b0ZkcWpvUnlRZTExTGtOejZQU3RuSlFONkRnaw?oc=5",
-      "date": "2026-10-24T00:39:35Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "Lista chorób rzadkich Choroby Rzadkie."
     }
   ],
   "world": [
@@ -410,6 +410,14 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Kidney Biopsies Safe Even in High-Risk Patients Medscape."
+    },
+    {
+      "title": "The ESMO presentation everyone’s been waiting for - STAT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEdmNzB1TmxkOVZyNUNfLUpBTWhrTUdjNnh6ZlpfZ1pnMU11bUV4SWVxaWFaMmJfcjgwTVRfUHY2a190bEVGc1RzZE9wUnZXeEh0b1lQc0ZZUndzbVIwV1VvQy1VTUR5dnJ4VW9wVG9kdnFkSVlnRl9sdzh5ODkzTUxBTTFabGJmQkFkalJhR1hRZXhmSVhhak1MdW01dU0?oc=5",
+      "date": "2026-10-24T17:04:40Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "The ESMO presentation everyone’s been waiting for STAT."
     },
     {
       "title": "Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial - Nature",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Hermansky–Pudlak syndrome type 9 presenting with pulmonary fibrosis: a novel phenotypic association BMJ Case Reports."
-    },
-    {
-      "title": "Clinically suspected intra-abdominal melioidosis mimicking postoperative ileus after laparoscopic hysterectomy - BMJ Case Reports",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wbDhEbV9hZmdMN2ctUmwwUjNmaFZKVWxDR0N2eFJBX3RlN1lScWV4c3AzRmZaWnJDSXl6SElIUHpFbGJiQ0NXUTQ2T0NaMERTRU1RNkI2RW9XNE5BMlE?oc=5",
-      "date": "2026-10-23T13:27:33Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Clinically suspected intra-abdominal melioidosis mimicking postoperative ileus after laparoscopic hysterectomy BMJ Case Reports."
     }
   ],
   "guidelines": [
@@ -1284,7 +1284,7 @@
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
       "date": "2026-10-23T14:51:27Z",
       "source": "ECDC",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC)."
     },
     {
@@ -2020,6 +2020,14 @@
       "summary": "Amgen's Imdelltra combo more than halves risk of death in small cell lung cancer Endpoints News."
     },
     {
+      "title": "Bayer's Nubeqa scores phase 3 win in high-risk prostate cancer - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkszZEZGNVdwTkkySjNVeExod2taSERsZGgwMkJkZWVIeDZHQlBYYWpvTkpCN0c5MGRubmF0ekNtVFp3YXpPS095NGl1eGNwcVpCa19tOHRDRGdGTWhSR19JWFlXNUF5UnMycmVzellOdllncXZMWUtqNERfdk1HZHl3a2JYUDhWVERMaWRRUWhJeXhJSlVpUzBILS1qT2c?oc=5",
+      "date": "2026-10-24T12:30:00Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Bayer's Nubeqa scores phase 3 win in high-risk prostate cancer Fierce Pharma."
+    },
+    {
       "title": "Cancer vaccine data from #ESMO26; Treasury proposal could curb China investment; and more - Endpoints News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3dLMDBSdDVYdkVLbHZDaXY3ZUtkTGpfTVAtbEpqeklFel81M3dISXBiSjBGZ21rQ19IZzVZRjNKTEtzaUZuS25WUklUWF8zcmRwdG5GTHcwZEpwdDBJLUlrTW9uWER0cjgtY2lPa0JDZFFDc1JaTVNZOUFka195VmRkeUNqNS1zbUpBT0hBaWRqM3VkV2kwQXNDREV4d0xwX3BkWXNvMGdVM2RIZFRF?oc=5",
       "date": "2026-10-24T10:00:00Z",
@@ -2394,14 +2402,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Evoxac: Uses, Dosage, Side Effects, & Warnings Drugs.com."
-    },
-    {
-      "title": "Communication Tool Selection Flowchart to Reach an Agreed to Product Development Plan - U.S. Food and Drug Administration (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pZ1FqaWRtYUw1RmI4aE1XQ2N6OFFnRTA4STQtRV85QWRtcnczUUFSMm5URDk0aW52VDZRRk9ESF9ka1d0ZWRTVU5lVUtLXzE4amFF?oc=5",
-      "date": "2026-10-23T04:33:21Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Communication Tool Selection Flowchart to Reach an Agreed to Product Development Plan U.S. Food and Drug Administration (.gov)."
     }
   ],
   "critical_alerts": [
