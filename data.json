@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T12:02:10Z",
+  "last_updated": "2026-10-25T12:06:43Z",
   "poland": [
     {
       "title": "Wyjątkowo groźne dla seniorów. Bierzesz jeden, a potem idzie kaskadowo - Rynek Zdrowia",
@@ -724,6 +724,14 @@
       "summary": "Cancer type(s) Global Cancer Observatory."
     },
     {
+      "title": "Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy - NEJM",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94VkJkUWtGc1dMblE4bXZHb0RGNXFoTUhrREdaWDdZSTJPMXhvNVBwamw0c0FHeGI2dVFLUm1ObjdOSVJIRmdLYjRqV3l3dVdrQW5TdjBhd2pxQkZkS29Z?oc=5",
+      "date": "2026-10-24T04:27:59Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy NEJM."
+    },
+    {
       "title": "Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses - The BMJ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYSVpvS3o4eUkwcHVHdHpIOG5EY0Q2N1poZVhuRjRhSjRkVFFHamlkVTJET08xalJrMkRLdVVwRUpiblF4SmUteW5hODlGUXNFNG1RNHA3N2hqUVNnOFM1SjVicFFEQWh0bkJMbA?oc=5",
       "date": "2026-10-24T04:03:44Z",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Sonographer jobs in Cornwall The BMJ."
-    },
-    {
-      "title": "Fast Five Quiz: Chronic Diarrhea - Medscape Reference",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVEQ4ckR0V3J5MkVCRHotYnhRV3FEX1Y2aTI1eGtXZ1FkWklKQjY3bXpRX1NpWXczN3NDOTl6ME1BMjF3ckYwaGlhMlJadl94SDlleW9LVnFTeW5MS0F2Nm11SHd6ZFVtdEtBdGdUbmt0SkRpUUlUbnoxR3VKQWw5UVBRMG0tZjZHX0RtQ09uZTc4OW5rXzA4?oc=5",
-      "date": "2026-10-23T22:19:41Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Fast Five Quiz: Chronic Diarrhea Medscape Reference."
     }
   ],
   "guidelines": [
@@ -1440,20 +1440,20 @@
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "National Wastewater Data for Respiratory Viruses - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/wastewater/respiratory-viruses/national.html",
-      "date": "2026-10-23T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "National Wastewater Data for Respiratory Viruses Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Illness Levels Over Time | Respiratory Illnesses - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/respiratory-viruses/data/activity-levels.html",
       "date": "2026-10-23T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Illness Levels Over Time | Respiratory Illnesses Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "National Wastewater Data for Respiratory Viruses - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/wastewater/respiratory-viruses/national.html",
+      "date": "2026-10-23T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "National Wastewater Data for Respiratory Viruses Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "About CDC's Wastewater Monitoring Program - Centers for Disease Control and Prevention | CDC (.gov)",
