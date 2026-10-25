@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T18:30:47Z",
+  "last_updated": "2026-10-25T18:34:54Z",
   "poland": [
     {
       "title": "Nie tylko \"górne\" ciśnienie się liczy. Dolna wartość też jest ważna - Medonet",
@@ -8,6 +8,14 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Nie tylko \"górne\" ciśnienie się liczy. Dolna wartość też jest ważna Medonet."
+    },
+    {
+      "title": "To najgorsza pora jedzenia dla wątroby. Ryzyko stłuszczenia i marskości rośnie lawinowo - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNXzkwZ09LdkNwMFZ2OWpSZkVrdmI1dkFncjZIR2hjYlEwdndleURPd3J4dWtqSWZwcktpREo3RlRoS1Rxd1MzX2Mza21XVExSZzZ5X3MzZ1ZHeXVONGFZS01vaWhndWt6S0szbmhZSV9LWnM4aVJYNkdfYXM5SkJqYTJQNjZDY0lvQkRBeElzQkY2am50VnhXYVRrRzBXaUR4YTVBSzM5SjI2RktKcW1SYW5nbHB3SW1MaE1pNDU4NnpCa05qZFc1N1FsNUVNbVk?oc=5",
+      "date": "2026-10-25T17:31:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "To najgorsza pora jedzenia dla wątroby. Ryzyko stłuszczenia i marskości rośnie lawinowo Rynek Zdrowia."
     },
     {
       "title": "Przez 14 lat mierzyli liczbę kroków. Testy sprawności mózgu były bezlitosne - Rynek Zdrowia",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "UKŁAD GLIMFATYCZNY - artykuły i informacje Termedia."
-    },
-    {
-      "title": "NOWELIZACJA USTAWY ZDROWOTNEJ - artykuły i informacje - Termedia",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ua1UzRFEtRHhaYXlBODV4ZHhHYlA0UTkwa21ORHU3SzROVUptNm5CeVNVMXVJamJwRUJva3lsSWJfbnI2cXNvVHRQbHh0OV9oMHo4MGFvOFRkNTEyRWpWRDI0N2RtNE5vdjBOb0I5S3o?oc=5",
-      "date": "2026-10-24T23:38:24Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "NOWELIZACJA USTAWY ZDROWOTNEJ - artykuły i informacje Termedia."
     }
   ],
   "world": [
@@ -1050,7 +1050,7 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-10-23T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1134,12 +1134,44 @@
       "summary": "National Kidney Foundation Highlights New Blood Pressure Guidance Putting Kidney Health at the Forefront PR Newswire."
     },
     {
+      "title": "Sex differences in atherosclerosis: what we need to know, from biology to clinical management - ESC 365",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55a1NkOGJfdGxib2NFZ1VnT1FMeUc2aFNFMlFGUjFfRmFPRTNyZVpPTTU1SFdrY2cycDFBSGJnb2MtdzhsZmtPMEVaYUZ1TGc?oc=5",
+      "date": "2026-10-22T16:20:32Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Sex differences in atherosclerosis: what we need to know, from biology to clinical management ESC 365."
+    },
+    {
+      "title": "AGA/AASLD joint guideline evaluates newer medications for primary biliary cholangitis - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmRySVBpeG1IVGI5TFczZm56bHRoRHUyMkhWREhwMzg4VUhibVJldzc4b2oxbWRTSlhEZjZXemNyYjAwRm92Rlk3ZEVCeGpfTHBTemNTRUFNYTdzdHF0MUZjNE1zbFI5Ull0RTJzRXBiWER4MmNKLTFBLUhKZHFVa09xVjkwRVAyT2VsZlFla1ViQjRuNFJ1UnJPTlBIV2pteEZ3d3VwUUxxbGRLdzVuR3d1MnVtSHJqOGdmeWhwd0ZTUUtwWk5OUkxJSjE?oc=5",
+      "date": "2026-10-22T16:14:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "AGA/AASLD joint guideline evaluates newer medications for primary biliary cholangitis News-Medical."
+    },
+    {
+      "title": "History | Software with artificial intelligence (AI)-derived algorithms to help interpret electroencephalograms (EEGs) for suspected epilepsy: early-use assessment | Guidance - NICE website",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mU18yRnN0bXZfMWEyRFJnMmFFZGV5UFRHVjY2V1p3WDhTc2ZTQzlTd19jd3VJVkRvbFJVSDRETEk3OEQ2Qk1aZnhqSXlXODNfcFRvalMtU0dlLUE?oc=5",
+      "date": "2026-10-22T03:56:37Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "History | Software with artificial intelligence (AI)-derived algorithms to help interpret electroencephalograms (EEGs) for suspected epilepsy: early-use assessment | Guidance NICE website."
+    },
+    {
       "title": "Putting evidence at the heart of women’s health - NICE website",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2NjeUFmZ0ZmS0FnYi1tTm1LQk9lVm9wOXNkYWlvRmJhUExaV20tTW5LNXFRd2J6OXRjTlNJTmdzSk1kd2Q5Qmk3RWk1VWR0bF9paTNpWTlnbHhLRk1iLUJELXJYUGx6T0FpcWlPR1g5V1l6UUpqSG9RaG9rUWdMQzdpODMzVndIN1E?oc=5",
       "date": "2026-10-21T23:00:00Z",
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Putting evidence at the heart of women’s health NICE website."
+    },
+    {
+      "title": "FAQ: How should pediatricians manage UTIs under new AAP guidance? - Contemporary Pediatrics",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1N5YW9PbkctODFqbGV4a1piUW81YVRGVnYzM0FsUDd3MzRtZTJKak9iYnY2UGtteFVwR0h0SGhoN3Mta1VNS3RZUHNUTENfZVlfRTd5T1U3VG4teWFQcWdsbkJoNnZyUXpKM2lyTWdIaXJ3R1h5N3hXTWVTbkhveFVUdlBZV3JQejhIRkE1d2RMbjhMRXhHRVVkSmhuSjRwOXZabDJLS2NaWGc?oc=5",
+      "date": "2026-10-21T19:45:48Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "FAQ: How should pediatricians manage UTIs under new AAP guidance? Contemporary Pediatrics."
     },
     {
       "title": "A Hidden Blood Pressure Problem Could Increase Your Fall Risk, Says New Research - The Healthy @Reader's Digest",
@@ -1166,44 +1198,12 @@
       "summary": "Clinical Care of ADHD in Children | Attention-Deficit / Hyperactivity Disorder (ADHD) Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Overview | XVIVO Perfusion System (ex-situ machine perfusion) for assessing and reconditioning marginal lungs for transplantation: early-use assessment | Guidance - NICE website",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ydFRfaUs3ZDVPTUl1ajBWQnpjRWxzYzhISlo2ak5tQ3plbFFSOHU5LUFSTWxNdW1OZEFxVmtKVHhGd3M4Um90Sk5OLWUyQl9W?oc=5",
-      "date": "2026-10-21T07:00:00Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Overview | XVIVO Perfusion System (ex-situ machine perfusion) for assessing and reconditioning marginal lungs for transplantation: early-use assessment | Guidance NICE website."
-    },
-    {
       "title": "CKM Syndrome: Insights From and Comparison of Recent Guidelines - American College of Cardiology",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVY1Nm9LaGV3VEE1bjVubk1tcUhTRC1tdUV6WHBlbHRpbTA3Z1RBc0t1LVdkNElXNTJuYnAyeFYtVWZCR1ljN1JvTzZlTm5xNTdBaFo3WGhHQjM0UHE3T3pEWEhFbnFzdE1sTmcweWlWU0R5NFp2U2hWYTkzYmVtQmN1MVBJQQ?oc=5",
       "date": "2026-10-20T15:13:45Z",
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "CKM Syndrome: Insights From and Comparison of Recent Guidelines American College of Cardiology."
-    },
-    {
-      "title": "Countries at Risk for Yellow Fever: South America - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByc09NUnNtR2lBbzg2a20wX05DMDJCVUtvMHZWNUxOLXVrQ2lzVm1tN3R3TTk1RlV1S2hENUhUUTJhRlZmUmYybHdUWXphT3lzR3BNc3I1ZXM1OWZzclFUaV9JUzBZSUNR?oc=5",
-      "date": "2026-10-20T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Countries at Risk for Yellow Fever: South America Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Uchwały Komisji Stomatologicznej NRL - NIL",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUhnN09vVENJNk9KeGJ6OFdVbThoQ3htTlBVaXdDUzBPb0ZRZDBQWlhqT1BHREFkZFZGLXFoT3AtY1dET3A1RHBnQ2hCOHpoQlNRZm90OXBTX0lrODNNYlMxOXMycFNRU2w0MHNQclpCa0pOeXkxZGFkNFZLS0czOXA1c2x5ZUt0aFo2WQ?oc=5",
-      "date": "2026-10-19T10:38:13Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Uchwały Komisji Stomatologicznej NRL NIL."
-    },
-    {
-      "title": "Mediacja w NIL - wsparcie w poszukiwaniu porozumienia - NIL",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTNfenJsdkxQdThMb29DUXpkNnhmVkQ4d2c1Szg3NnNWdm8zTW1lN0k4eXFwdEtmdnpjSUx3UVQ2NmZ5WWE4MzBKOThPRHNtVVdxbjdqTUxybGVYbzBHSWxXeXlaSGtWMmY4ZnhWeWxGeml3aFhTVDdYNXhLalBhVWdfUEpLeGNEeDVsaUJKMHc?oc=5",
-      "date": "2026-10-16T10:43:35Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Mediacja w NIL - wsparcie w poszukiwaniu porozumienia NIL."
     }
   ],
   "epidemiology": [
@@ -1448,14 +1448,6 @@
       "summary": "Cyclospora Case Data | Cyclosporiasis Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "RSV Ensemble Forecasts - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BRVlFMzdNbzI2bkowM2czQl9BQUQwUUFDTThIcXVFbk1seUQwTkFFSXRacDlTMFNPRUFiNE9teVNaUjdnZlR6aHhHNV8wNXFfeU55cVlMV0dkRS0zZjg3UDRvV0ctMUNrbVdnWTZiMmdOdGRENElQTF9RYkM?oc=5",
-      "date": "2026-10-23T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "RSV Ensemble Forecasts Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-10-23T07:00:00Z",
@@ -1518,6 +1510,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "About CDC's Wastewater Monitoring Program Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "RSV Ensemble Forecasts - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BRVlFMzdNbzI2bkowM2czQl9BQUQwUUFDTThIcXVFbk1seUQwTkFFSXRacDlTMFNPRUFiNE9teVNaUjdnZlR6aHhHNV8wNXFfeU55cVlMV0dkRS0zZjg3UDRvV0ctMUNrbVdnWTZiMmdOdGRENElQTF9RYkM?oc=5",
+      "date": "2026-10-23T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "RSV Ensemble Forecasts Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Hospitalizations and Deaths | Respiratory Illnesses - Centers for Disease Control and Prevention | CDC (.gov)",
