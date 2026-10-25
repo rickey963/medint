@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T13:16:46Z",
+  "last_updated": "2026-10-25T13:20:40Z",
   "poland": [
     {
       "title": "Nie długowieczność, a błędy w metrykach. Badacz obala teorię \"blue zones\" - Medonet",
@@ -1472,6 +1472,14 @@
       "summary": "National Wastewater Data for Respiratory Viruses Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
+      "title": "Wastewater Data for Avian Influenza A(H5) - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/wastewater/emerging-viruses/h5.html",
+      "date": "2026-10-23T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Wastewater Data for Avian Influenza A(H5) Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "About CDC's Wastewater Monitoring Program - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/wastewater/about/index.html",
       "date": "2026-10-23T07:00:00Z",
@@ -1486,14 +1494,6 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Hospitalizations and Deaths | Respiratory Illnesses Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Wastewater Data for Avian Influenza A(H5) - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/wastewater/emerging-viruses/h5.html",
-      "date": "2026-10-23T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Wastewater Data for Avian Influenza A(H5) Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "WHO Director-General's remarks at lunch with representatives of WHO Collaborating Centres – 22 October 2026 - World Health Organization (WHO)",
@@ -2012,12 +2012,28 @@
   ],
   "pharma_market": [
     {
+      "title": "Exporting data... - U.S. Food and Drug Administration (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQOEJYbDdoVHR6WFdvNkFLb08tbm92eVJiV3JTVm4xUW8wNXAxRG4zYnpuNTdTa0IwOWQzcEJfTm90X1UyNlZFd2JGQzRVUXVXRTBYS1VKNE5qZFdoSmxjbnA3bUFtZ2o5c2UwZHYzaDhUOC14SFRibzdvbXFicDJKRl9qZzhCbkhDQ0w1NnN5LUQxN1FsbWw4MzZvNmloa3cwa0JCLVJMMzltVzJrNzJjQVNiUjl6X2tlcW9wSVpOWi1GNFpqdUstVFBzQjE4aGY2WGx3OTV5ODlscmhRM2U0c1J4MHZYUFV6T0wxR3ZqdGdrbkdfa2NWZHU5U1BSckNXaDdEbHpvQkxEeDBCc2pYd0Z1cWVkMlZaWmxQV2J0UkppQ1FHMmsxcHVmdU1NZw?oc=5",
+      "date": "2026-10-25T10:46:47Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Exporting data... U.S. Food and Drug Administration (.gov)."
+    },
+    {
       "title": "Pfizer looks beyond lung cancer flop as BioNTech, BMS show early activity - Endpoints News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmZRdE1SWjgwUERnTnpZcmpTWGJmQ0tsZlo5NUlBdDMzNGtvVGQ4LTgzLVE2ZmxlZThkUVA4aXdOMTJsUC1kMzJ2eFdZVUl0OFBHMlpNYzRQQXB4ZWVYRWdDTTdNb1FXRkNUUGlvaG8tdEFBX2V3VmNZQVRGa0xJemR3Q0FIOWVGZ0tNcFA5LVlCVTFVVVdkMTRSNmNoc24tWmRsMA?oc=5",
       "date": "2026-10-25T10:00:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Pfizer looks beyond lung cancer flop as BioNTech, BMS show early activity Endpoints News."
+    },
+    {
+      "title": "List of Available Datasets - U.S. Food and Drug Administration (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWo3b3NJdUhhMXVqdTRFM1Rod3RwWHJEV1ZUeGtOalI4d3VZWFQ0WW9tX2VReFBlcGNMbjU0d1lSUDAySW1tRDgwbUlQeWFrRjlCVlpNUThMc1ZhemZ4bHY1eFpyaEx2akgzQ0FQZnptLWFaN3dqMkFTQXBDSVh1OVp3bUJGd2Z6R05TZE1fYUt6Tzg?oc=5",
+      "date": "2026-10-25T04:33:59Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "List of Available Datasets U.S. Food and Drug Administration (.gov)."
     },
     {
       "title": "Tonight We Ride, LLC Issues Voluntary Recall of Ultimate Forza Male Supplement Due to Presence of Undeclared Sildenafil, Tadalafil, and Dapoxetine - U.S. Food and Drug Administration (.gov)",
@@ -2394,22 +2410,6 @@
       "source": "FiercePharma",
       "confirmed_by": 1,
       "summary": "GSK's double FDA win, Roche's $15B deal and the rise of point-of-care marketing Fierce Pharma."
-    },
-    {
-      "title": "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership - Endpoints News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUppWFMxcVd3LWlUSHJYVVJzaTZSUUxWMDIxeVpMTktiUVJVamZkRGZRS2dSQmJ2ZFI5VXpDV3Y1WVQzM1dHOEYwcHBBM3VqdENQSm1WSFhRazR1aGc0eDVTR1Q2Z0lodmpDeFR0UWN3UHpRT0E5NlZ1NjY4SlVGM2lIc0ZMVHYwdEZDN1l1NFgwaTdUTEttMzFGU1I?oc=5",
-      "date": "2026-10-23T13:00:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership Endpoints News."
-    },
-    {
-      "title": "Biotech takes a hit as dealmakers take a knee in Q3 - Endpoints News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmhCOEM4TVktTW1vYktxdUdZNzEwV3NycHE4N1pFOHY1WGI5QzZlQ3dOMlJBc1FHMGtsX2VydjdmekllTGNORzgxV1NCOW9KU1hHUE40ZFc3OEQxa2x0WWp5MXlPbXFuU3RRb1U3SWpsN2R3N2UyT1pNTXQzcnlTYw?oc=5",
-      "date": "2026-10-23T13:00:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "Biotech takes a hit as dealmakers take a knee in Q3 Endpoints News."
     }
   ],
   "critical_alerts": [
