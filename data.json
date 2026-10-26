@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T11:46:21Z",
+  "last_updated": "2026-10-26T11:50:34Z",
   "poland": [
     {
       "title": "NFZ zwiększa finansowanie leczenia o 3,36 mld zł. Szpitale otrzymają pieniądze za nadwykonania - PolitykaZdrowotna.com",
@@ -404,6 +404,22 @@
   ],
   "world": [
     {
+      "title": "Midwives in Italy Push for More Inclusive LGBTQIA+ Care - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTlppU3ZSalgwMERyelpoRkU3RDVvQ0NMV0RYcl9wcW5tUlR6dTVhNU1MMVpHZmlGd0o5WDJXNWxWcVNhX2MtMzN6OVVpSGx2VTg3V1otU1g3NzRvN3BhUU0zWkROcXpZNjdPck02cWJsckZ1eXFackhUc2N1ckdYd2dpQmNnU0R0RGFSOFBXYUQwZHhBX1UycWNNdzJJUQ?oc=5",
+      "date": "2026-10-26T11:45:07Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Midwives in Italy Push for More Inclusive LGBTQIA+ Care Medscape."
+    },
+    {
+      "title": "Reforming PIP: The Clinician's Role in Assessments - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOamI2RFVYUUVBZVJoYWwwaWZwdklaMUYtREkzNkxmS0ZmR3lZYjF6WllFTUNMaUxzX0I3NFZkM3JjbDZWU0Z4SWtkRElBOU5LbWE0QXNGejVQTjNnN1c4Rm9DbzVpenJ4bUhZb0xvaU55Wl80OGdnQURhdF9lV2VzQ3UtZnFpMmtTb18yZzAxaHZxUklfMWc?oc=5",
+      "date": "2026-10-26T11:45:07Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Reforming PIP: The Clinician's Role in Assessments Medscape."
+    },
+    {
       "title": "Fair regulation cannot depend on universal good faith - The BMJ",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1WDZpdzlTeUlkWl92cXhnVDhMbmowaW1iS01kN1R3UHNJRE5uNlR2YXQ5enRNMW1BdzBJdmNtVUl2aVBtT01Tc2ZNd0dIR0dBSHRqRjhwa2kzalE?oc=5",
       "date": "2026-10-26T11:28:31Z",
@@ -786,22 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Association between allergic diseases and autism spectrum disorder: protocol for a systematic review and meta-analysis BMJ Open."
-    },
-    {
-      "title": "Immunotherapy Combo Improves Bladder Cancer EFS - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2pNQzVBU2RsN0t4T1NoYXpab0NpYW1GdDJYRTFoZlZKdzY1b1c1V1ZlV0VJNHFocDU4WFB6clJJbHJUejkzQ0RrUDdoclVxQnVNQ2RGejN4WEFpWUVtb2d1Y0x5OWRHS2l2dmJLOEtwVER2NE9jUTQ4OTd6MUg4Vkg4WGpfeVEtMnBZODRWTTNmeEVTQVBDNDI2M29pdkw3TXJDaHhuNA?oc=5",
-      "date": "2026-10-25T20:24:57Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Immunotherapy Combo Improves Bladder Cancer EFS Medscape."
-    },
-    {
-      "title": "Personalized Melanoma Vaccine Improves RFS in Phase 3 Trial - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVjJUY3BINHU0TjBJeTJFTEtKdDMxaXBuY2tMYTMzNnRMWGZhRXpoVGZCd24wTFpXQnNBWXpIYjd6MDVNa1VpQjV3cjF4YWs5MGFjQ0RCbHpsR2dVMU9rRVlnUVNuQkJ0cGVwUWY2MXNuZzNEM1h3VjN5bFNnMkpDODhqdjF0ZktTY01xZ01SZV9kcUlaU0d5NGFFZUxaRHBORkNQNzVoQQ?oc=5",
-      "date": "2026-10-25T18:04:11Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Personalized Melanoma Vaccine Improves RFS in Phase 3 Trial Medscape."
     }
   ],
   "guidelines": [
@@ -1130,7 +1130,7 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-10-23T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1158,12 +1158,12 @@
       "summary": "New AI tools could help spot prostate cancer more accurately NICE website."
     },
     {
-      "title": "Sex differences in atherosclerosis: what we need to know, from biology to clinical management - ESC 365",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55a1NkOGJfdGxib2NFZ1VnT1FMeUc2aFNFMlFGUjFfRmFPRTNyZVpPTTU1SFdrY2cycDFBSGJnb2MtdzhsZmtPMEVaYUZ1TGc?oc=5",
-      "date": "2026-10-22T16:20:32Z",
-      "source": "ESC (kardiologia)",
+      "title": "AGA/AASLD joint guideline evaluates newer medications for primary biliary cholangitis - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmRySVBpeG1IVGI5TFczZm56bHRoRHUyMkhWREhwMzg4VUhibVJldzc4b2oxbWRTSlhEZjZXemNyYjAwRm92Rlk3ZEVCeGpfTHBTemNTRUFNYTdzdHF0MUZjNE1zbFI5Ull0RTJzRXBiWER4MmNKLTFBLUhKZHFVa09xVjkwRVAyT2VsZlFla1ViQjRuNFJ1UnJPTlBIV2pteEZ3d3VwUUxxbGRLdzVuR3d1MnVtSHJqOGdmeWhwd0ZTUUtwWk5OUkxJSjE?oc=5",
+      "date": "2026-10-22T16:14:00Z",
+      "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Sex differences in atherosclerosis: what we need to know, from biology to clinical management ESC 365."
+      "summary": "AGA/AASLD joint guideline evaluates newer medications for primary biliary cholangitis News-Medical."
     },
     {
       "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1190,20 +1190,20 @@
       "summary": "Putting evidence at the heart of women’s health NICE website."
     },
     {
-      "title": "A Hidden Blood Pressure Problem Could Increase Your Fall Risk, Says New Research - The Healthy @Reader's Digest",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDEwYzVOMUJJMDVKTXk5cXNVaWwwSlNPUE5SSGo4YWxZSnhCQUJtTm0wckctSGFTTGdtbWhySmNoTUNtV0NxZlJlMmstRi1ENlNWcGtaSEZTQUE1dE5KcHE2SjU5ZUd2eV9DVkJSaWdoLWV5SWUxMmlTcnNpc01IZlpmbi13SjZBX2ZRZlJCc3FqRkZ5N1BGVEo4Q0pQMEYxMXVHVDVpdw?oc=5",
-      "date": "2026-10-21T12:19:17Z",
-      "source": "Wytyczne AHA/ACC",
+      "title": "FAQ: How should pediatricians manage UTIs under new AAP guidance? - Contemporary Pediatrics",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1N5YW9PbkctODFqbGV4a1piUW81YVRGVnYzM0FsUDd3MzRtZTJKak9iYnY2UGtteFVwR0h0SGhoN3Mta1VNS3RZUHNUTENfZVlfRTd5T1U3VG4teWFQcWdsbkJoNnZyUXpKM2lyTWdIaXJ3R1h5N3hXTWVTbkhveFVUdlBZV3JQejhIRkE1d2RMbjhMRXhHRVVkSmhuSjRwOXZabDJLS2NaWGc?oc=5",
+      "date": "2026-10-21T19:45:48Z",
+      "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "A Hidden Blood Pressure Problem Could Increase Your Fall Risk, Says New Research The Healthy @Reader's Digest."
+      "summary": "FAQ: How should pediatricians manage UTIs under new AAP guidance? Contemporary Pediatrics."
     },
     {
-      "title": "Treatment of ADHD | Attention-Deficit / Hyperactivity Disorder (ADHD) - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HcHE3STdacFRwclN0b09XNC1tSTBHXzNuZDEwbS1oMnAtdVFKVXdqaUdMZHhZblFzZmpsMGJ0Z25nbkxaVjNOWTFPSXVXZnAxZlhKdlJJYkw?oc=5",
-      "date": "2026-10-21T07:00:00Z",
-      "source": "CDC (rekomendacje)",
+      "title": "ESMO 2026 Guideline: Key Updates in Gastric and Esophageal Cancer Management - Oncodaily",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uemVxRkN5SEprc0xFT0FPZWRVUldLd09nN2RmelpvV0VaUVR1UjgzVmZYVjJzdVVUVldXQjRCV2FiemJDU0tJYVU0WXBCVVUwRFhOXy1pbVBCRjNfcUQtbXVDcVlLLXJnVXFFbHJYX0xSajRmRFBuQ05QVzM?oc=5",
+      "date": "2026-10-21T16:46:49Z",
+      "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Treatment of ADHD | Attention-Deficit / Hyperactivity Disorder (ADHD) Centers for Disease Control and Prevention | CDC (.gov)."
+      "summary": "ESMO 2026 Guideline: Key Updates in Gastric and Esophageal Cancer Management Oncodaily."
     }
   ],
   "epidemiology": [
