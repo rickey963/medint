@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T01:11:42Z",
+  "last_updated": "2026-10-26T01:15:56Z",
   "poland": [
     {
       "title": "Sztuczna inteligencja przewiduje skuteczność immunoterapii w różnych typach nowotworów - Alert Medyczny",
@@ -428,6 +428,14 @@
       "summary": "Specialist Dietitian - Head and Neck Cancer and Nutrition Support The BMJ."
     },
     {
+      "title": "Infection prevention and control simulation on the implementation of standard and transmission-based precautions - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WdVhPTl9Xb2R0dkRGUTRmRkpuVUtuWDhxZ29YM0Nsbkp6ZHVUaXJGS3dfZ1dXS18wNVhBRWVGVTBCUmZCWjJRQV9JZnQwSU1ELWc?oc=5",
+      "date": "2026-10-25T21:23:20Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Infection prevention and control simulation on the implementation of standard and transmission-based precautions World Health Organization (WHO)."
+    },
+    {
       "title": "Egypt is the first country globally to maintain Gold Tier status on the path to hepatitis C elimination - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVURoeTd5SjdRQkhUdFpUTDNhSVdRZDUzb1VidDZ1c0R1WEVkSjEyM1o2U2QzZ1J4MEh5QXdXeFl3OXlUN2huQ2YzR25VSzQ5R1JxYUFOMVhpUkM3TnhKWFBuNTcyLVl4czh6R1Z0TVN6dUZQdDgzX083b2xjSHBwY1d5MTI5QXBXVkpWUTVBckFEdDRfYUVpTUtwMjhhbzNkZGVHRmZtU0FBeVhsTF9Dal9rZkpWUUVWWERnMi1fcXlWeWZoSVBYMHVENFkyamkwXzRxeGFUdHVDcWZ0?oc=5",
       "date": "2026-10-25T21:17:32Z",
@@ -692,12 +700,12 @@
       "summary": "Advancing African health workforce capacity through a consortium model The Lancet."
     },
     {
-      "title": "Kidney Biopsies Safe Even in High-Risk Patients - Medscape",
+      "title": "Kidney Biopsies Using Standardized Protocol Safe Even in High-Risk Patients - Medscape",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMk85UEplYVZjWS1HMjJMSVg4MEM3ay1IR3BaNXotcTBBLTZHVG5IY09LZTJZcDRNZHpKT0VPdS03ZGlpLUM3d1hFSFROZzRkVW1XSTMxTS1ucXZwUVFEY244N2ZBWEpDYUpXZWNsWFJmSmVNX3VuZjV0NEEzcExnR3N6M3pQV3pDR2Y3MjZxbzdQWV9MY0JiRFdqcFJGck5ycG4yd2VUeThiTjdH?oc=5",
       "date": "2026-10-24T17:38:32Z",
       "source": "Medscape",
       "confirmed_by": 1,
-      "summary": "Kidney Biopsies Safe Even in High-Risk Patients Medscape."
+      "summary": "Kidney Biopsies Using Standardized Protocol Safe Even in High-Risk Patients Medscape."
     },
     {
       "title": "The ESMO presentation everyone’s been waiting for - STAT",
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "Christina Applegate puts a face on one of the most consequential challenges in neurology STAT."
-    },
-    {
-      "title": "Safety and immunogenicity of an adenoviral-vectored vaccine against Crimean–Congo haemorrhagic fever in the UK - The Lancet",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUhxQ3pqdzFGSDJnQnF5RFlDS0NOMlhQY1A4d1EwV1RNbFB1WEFYblp5RC1YZTRVNXlHZEx2MkRNSTBxa1g1QVBWNEd2VDlfTkR1Z2czWU5hRFpieGVuNVBHOGp4ZXZQa21FcXg3c0RlbjllWXR6MXp5NHRyaXEycQ?oc=5",
-      "date": "2026-10-24T09:51:55Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Safety and immunogenicity of an adenoviral-vectored vaccine against Crimean–Congo haemorrhagic fever in the UK The Lancet."
     }
   ],
   "guidelines": [
@@ -1464,22 +1464,6 @@
       "summary": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Cyclospora Case Data | Cyclosporiasis - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/cyclosporiasis/cases/index.html",
-      "date": "2026-10-23T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Cyclospora Case Data | Cyclosporiasis Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/measles/data-research/index.html",
-      "date": "2026-10-23T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "COVID-19 Ensemble Forecasts - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
       "date": "2026-10-23T07:00:00Z",
@@ -1488,12 +1472,28 @@
       "summary": "COVID-19 Ensemble Forecasts Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
+      "title": "Cyclospora Case Data | Cyclosporiasis - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/cyclosporiasis/cases/index.html",
+      "date": "2026-10-23T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Cyclospora Case Data | Cyclosporiasis Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "RSV Ensemble Forecasts - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BRVlFMzdNbzI2bkowM2czQl9BQUQwUUFDTThIcXVFbk1seUQwTkFFSXRacDlTMFNPRUFiNE9teVNaUjdnZlR6aHhHNV8wNXFfeU55cVlMV0dkRS0zZjg3UDRvV0ctMUNrbVdnWTZiMmdOdGRENElQTF9RYkM?oc=5",
       "date": "2026-10-23T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "RSV Ensemble Forecasts Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-10-23T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Illness Levels Over Time | Respiratory Illnesses - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -2456,6 +2456,14 @@
       "summary": "2026 UHC Day Youth Advocacy Workshop World Health Organization (WHO)."
     },
     {
+      "title": "Infection prevention and control simulation on the implementation of standard and transmission-based precautions - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WdVhPTl9Xb2R0dkRGUTRmRkpuVUtuWDhxZ29YM0Nsbkp6ZHVUaXJGS3dfZ1dXS18wNVhBRWVGVTBCUmZCWjJRQV9JZnQwSU1ELWc?oc=5",
+      "date": "2026-10-25T21:23:20Z",
+      "source": "WHO",
+      "confirmed_by": 1,
+      "summary": "Infection prevention and control simulation on the implementation of standard and transmission-based precautions World Health Organization (WHO)."
+    },
+    {
       "title": "Egypt is the first country globally to maintain Gold Tier status on the path to hepatitis C elimination - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVURoeTd5SjdRQkhUdFpUTDNhSVdRZDUzb1VidDZ1c0R1WEVkSjEyM1o2U2QzZ1J4MEh5QXdXeFl3OXlUN2huQ2YzR25VSzQ5R1JxYUFOMVhpUkM3TnhKWFBuNTcyLVl4czh6R1Z0TVN6dUZQdDgzX083b2xjSHBwY1d5MTI5QXBXVkpWUTVBckFEdDRfYUVpTUtwMjhhbzNkZGVHRmZtU0FBeVhsTF9Dal9rZkpWUUVWWERnMi1fcXlWeWZoSVBYMHVENFkyamkwXzRxeGFUdHVDcWZ0?oc=5",
       "date": "2026-10-25T21:17:32Z",
@@ -2478,14 +2486,6 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Rift Valley fever resurgence in Africa: why local governments should lead one health implementation The Lancet."
-    },
-    {
-      "title": "Decentralised rare disease care for children living in remote areas: the Pilbara Hub Rare Care model in Western Australia - The Lancet",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVdNSFRobnh6MEJnMEE5M0xTRFN1QjdNYV9Bb1dNbE50bXZGYzdHcXo0OWpsR2NjdHJoM0NOTVJNdFhYaUIwMkNzV1c1eHdIZzNmdVZsMGZLRTljbkJUcksxMGtFb3EwUTBITDJRdkR5NWxwcGoxZm9yRVY5dm5BNw?oc=5",
-      "date": "2026-10-25T06:09:20Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Decentralised rare disease care for children living in remote areas: the Pilbara Hub Rare Care model in Western Australia The Lancet."
     }
   ]
 }
