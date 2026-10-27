@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T22:45:32Z",
+  "last_updated": "2026-10-27T22:49:38Z",
   "poland": [
     {
       "title": "Artykuły na temat: Urząd Rejestracji Produktów Leczniczych Wyrobów Medycznych i Produktów Biobójczych - Termedia",
@@ -810,7 +810,7 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iODdNRmZudFlvdWk2SEJndWFUMFFmVFFzbmhTQjVGdy0xOU9wT2FvNzRpNXlHd3FZeEQ2cDRaUkpvelVfVHcxeUh6ZnJLYUZUUk5ESXVwcExOLXczYjB6OXpUNlNnMUdQNWVn?oc=5",
       "date": "2026-10-27T18:28:20Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Antimicrobial Resistance Threats | AR Threats Report Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1208,14 +1208,6 @@
   ],
   "epidemiology": [
     {
-      "title": "Drug-resistant group A Streptococcus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1Janc5VlY4U0lURk9neElFWnlUeWNZSlRpMTR2U092REkyZEJFXzhSLS1qVE5rekptbzVLVmFaMWdoSUJn?oc=5",
-      "date": "2026-10-27T20:59:51Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Drug-resistant group A Streptococcus Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Clindamycin-resistant group B Streptococcus - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1KY2ZLcVVsdjU3OUNxdkx3UW94b1dvZUE3c2RsT1pfNkVTdVM2UlpVc01KN3hMak1ZOWlmV01DTFhhSERt?oc=5",
       "date": "2026-10-27T20:59:51Z",
@@ -1230,6 +1222,14 @@
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Drug-resistant Mycobacterium tuberculosis Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Drug-resistant group A Streptococcus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1Janc5VlY4U0lURk9neElFWnlUeWNZSlRpMTR2U092REkyZEJFXzhSLS1qVE5rekptbzVLVmFaMWdoSUJn?oc=5",
+      "date": "2026-10-27T20:59:51Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Drug-resistant group A Streptococcus Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Study suggests gut microbiome determines vaccine reaction - CIDRAP",
@@ -1464,20 +1464,20 @@
       "summary": "The Madrid Global Obesity Summit World Health Organization (WHO)."
     },
     {
-      "title": "Reducing Antibiotic Drug Use Effects on Clostridioides difficile Colonization in Nursing Home Residents1 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90ei1zT01pbnBFRTlGbTFac1JucnFLeGQtaGc5cE04bDdiTU96U1dIeDE5T3RrM0J0RTZIUEM1VGNrMDBOTUJpOUpNemliWDF5WG1pQW1SMFl2ZFVvSWlVLUd5WEdDSGc?oc=5",
-      "date": "2026-10-26T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Reducing Antibiotic Drug Use Effects on Clostridioides difficile Colonization in Nursing Home Residents1 Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Target regimen profiles for long-acting injectables for tuberculosis prevention and treatment - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIQjB2N0RSOUIzenI5Y1NmMEo4czlrd0t6aUNQc1R4WXhsczhZcXdvaFJkcHN2cGhFMlFCaUcyOXhzcmZNMmw2b29PRWxPRS1wclQwOE00WXMxSHptY1VILXVXNA?oc=5",
       "date": "2026-10-26T07:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Target regimen profiles for long-acting injectables for tuberculosis prevention and treatment World Health Organization (WHO)."
+    },
+    {
+      "title": "Reducing Antibiotic Drug Use Effects on Clostridioides difficile Colonization in Nursing Home Residents1 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90ei1zT01pbnBFRTlGbTFac1JucnFLeGQtaGc5cE04bDdiTU96U1dIeDE5T3RrM0J0RTZIUEM1VGNrMDBOTUJpOUpNemliWDF5WG1pQW1SMFl2ZFVvSWlVLUd5WEdDSGc?oc=5",
+      "date": "2026-10-26T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Reducing Antibiotic Drug Use Effects on Clostridioides difficile Colonization in Nursing Home Residents1 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Ebola disease: Multi-country outbreak 2026 - European Centre for Disease Prevention and Control (ECDC)",
@@ -2012,6 +2012,14 @@
   ],
   "pharma_market": [
     {
+      "title": "US FDA Wants ‘Fit-For-Purpose’ Evidence To Become The Norm For Rare Diseases - Informa PLC",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPelREMm5uTlVUem5VNDlILTUtX1lnNlIwN1E2eU9nVHdPWDZGYmFXc3VCdUdOSjNOLVNmQ1hSbV9PZDBLbV9PeF84aVVjSGtBcGlmNWZHODBUWFZoUl9RWDUyQVphek16VDBiUG9EWnBiSWxxMG1XOUg0Snc2MVYzTGFEUjRxc25FMkVra3M1TUp2VnlwcDN0M1NtM0JtLXY3SjQzOE5GMEtwNlprTVpQbDJSUFQ5dTk0YkVOaUt3SkE5U3kwWXlQeEpqVWVPdlRYRlpYc1dnVjB6Wm56U1VSRXpVeEZXbGctYzNkaVdybzlMSklQUm4wODBFTnlrUWEw?oc=5",
+      "date": "2026-10-27T22:34:37Z",
+      "source": "Pink Sheet",
+      "confirmed_by": 1,
+      "summary": "US FDA Wants ‘Fit-For-Purpose’ Evidence To Become The Norm For Rare Diseases Informa PLC."
+    },
+    {
       "title": "Anthropic's latest biotech buy is a one-man stealth startup run by an pseudonymous Twitter poster - Endpoints News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHpwcmFPOUt4SGt2Q3VCTHJoT0FWdGp5eWJsZHFsQjdUczVLWFNQYXdFTDNkYVBOeFNuWjlvRUxWRHVKUzNlNEZSNVg2aU4yY2RucnNrQkNwYkdPOTRUak4tWnFIRnBSUGpnbWFFb1Z5SU9NVzVnLWNQblJUM0tkYzlIMHhxLV9XU3I4WnJPdmNEcWQ2alA2eTdn?oc=5",
       "date": "2026-10-27T22:31:00Z",
@@ -2402,14 +2410,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "TPLC - Total Product Life Cycle U.S. Food and Drug Administration (.gov)."
-    },
-    {
-      "title": "Ethanol Dosage Guide + Max Dose, Adjustments - Drugs.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SeUZjYmszTXRuRzU2LTJ5bFZoZXFwcVV1ZWxXS0lhOVFyNlM2blVjZGNVQXo2OFhnTzI4RjBRVWZnT3VYY0pNUEtweW1sdWU5aFdn?oc=5",
-      "date": "2026-10-27T05:41:23Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Ethanol Dosage Guide + Max Dose, Adjustments Drugs.com."
     }
   ],
   "critical_alerts": [
