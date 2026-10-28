@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T22:23:06Z",
+  "last_updated": "2026-10-28T22:27:23Z",
   "poland": [
     {
       "title": "Prace w komisjach senackich – 28 października 2026 r. - Senat",
@@ -54,7 +54,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZW1mdHRZRGJ5OU9iTFVLU2VoaEI3amRkU0ZyMzA1eGJrQWVoWW84cTVNUTNxOXdaZTBpaTlaSmh6dEN6ZmVZb2RKVUpFNVhCeng2emVzMlJwTmtmenFrMTd3TU9pdk1fR3dLTjJJMXMtY1RRNk1yNG9UQlpGWkE1Q1F1M21MUExxWTFjOUprcEtPUkZWLWV0a2pqV2J6YnpRZXBvbjJfelViM2pMT0NiX0VRMkpJejZGM0MySXFOTk9iUFJRdjBRMXNxTkM4QThGbjlUOFlpdmRSeG9NdFE?oc=5",
       "date": "2026-10-28T17:35:00Z",
       "source": "Puls Medycyny",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Startują zapisy koordynatorów opieki w POZ na bezpłatne szkolenia. Decyduje kolejność zgłoszeń Puls Medycyny."
     },
     {
@@ -238,7 +238,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuMjl1b0VWRzRldzBqSHhJOVFuQ0thNkp0QnVOc2RMb2daSUVUQTc2c2Jaenp1dVhNcUFtVXM5SC1hZHdLR281bVAza3lmS3JDY1Z6czJSa2k1Qm0yeU1sRjF3eGFsOUo4Q21pSHNiOVZDM1E2ZlE?oc=5",
       "date": "2026-10-28T15:30:00Z",
       "source": "Polityka Zdrowotna",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Ministerstwo Zdrowia zapowiada: karta DiLO od 2027 roku tylko w wersji elektronicznej PolitykaZdrowotna.com."
     },
     {
@@ -410,6 +410,14 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "SLC6A19 Inhibitor Repinatrabit and Phenylalanine Levels in Phenylketonuria NEJM."
+    },
+    {
+      "title": "Immediate Ambulatory Electrocardiographic Monitoring in Syncope - NEJM",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PbmhYczlMNHBRWnd1MW0yQ3NIUG5PdnFhRm1qZUR1SHlSUzZSdmFpMDQwYmlIanZtX0QyQkxwX1dKMUhydzlHR3o1d082ZDhrMklkc29wNml1d3N3NkxHUA?oc=5",
+      "date": "2026-10-28T21:30:59Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Immediate Ambulatory Electrocardiographic Monitoring in Syncope NEJM."
     },
     {
       "title": "A New Guide to Diagnosing Cranial Neuropathies - NEJM Clinician",
@@ -794,14 +802,6 @@
       "source": "STAT News",
       "confirmed_by": 1,
       "summary": "How pediatricians like me are helping families stay calm and informed about measles STAT."
-    },
-    {
-      "title": "Climate change is a growing health emergency, Lancet Countdown warns - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDYyZUV3WUpvSDRLNU5PY3V1a0ZTM2ZIVGpvRjRuaXF4dkNGU0RXb0wzYkFiWE91S3VfVUVZZ0c2amFaMG9oQ3MtSWpLbEtYZzE2ME9seEIxNVotVFV6Z0hHYUU2YVhRb2hlcVBpazB4Z1ozMHdwaS00dUx6SDRBckJJcVlac0RYWWFNRTdDNXY5ZWNVQmtsUGQwQ2FIa2pVRF9KNHlmYTNrWHlWVUE?oc=5",
-      "date": "2026-10-28T08:04:17Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Climate change is a growing health emergency, Lancet Countdown warns World Health Organization (WHO)."
     }
   ],
   "guidelines": [
@@ -882,7 +882,7 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iODdNRmZudFlvdWk2SEJndWFUMFFmVFFzbmhTQjVGdy0xOU9wT2FvNzRpNXlHd3FZeEQ2cDRaUkpvelVfVHcxeUh6ZnJLYUZUUk5ESXVwcExOLXczYjB6OXpUNlNnMUdQNWVn?oc=5",
       "date": "2026-10-27T18:28:20Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Antimicrobial Resistance Threats | AR Threats Report Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1210,7 +1210,7 @@
     {
       "title": "1 CENTERS FOR DISEASE CONTROL AND PREVENTION - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbXpEMG0tdW4tRDl0eTVqWDZUdFU4R1FxUDM4NHFmZTA2NFNHYllpZ1BFVjVSbnNmSklGdllhWHlQN0k4SFFGUU5PaGNJb3RNeW9JalFOdDZhOHd0OWZFaWd6bndZLVNSRW1mVHc3MGNDTVJ2TTJERmtPc0o0bWNWcW05OTVYSHB6WkV2eHB4RjRlSDQ?oc=5",
-      "date": "2026-10-28T21:16:41Z",
+      "date": "2026-10-28T22:21:42Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "1 CENTERS FOR DISEASE CONTROL AND PREVENTION Centers for Disease Control and Prevention | CDC (.gov)."
@@ -2464,6 +2464,14 @@
       "summary": "SLC6A19 Inhibitor Repinatrabit and Phenylalanine Levels in Phenylketonuria NEJM."
     },
     {
+      "title": "Immediate Ambulatory Electrocardiographic Monitoring in Syncope - NEJM",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PbmhYczlMNHBRWnd1MW0yQ3NIUG5PdnFhRm1qZUR1SHlSUzZSdmFpMDQwYmlIanZtX0QyQkxwX1dKMUhydzlHR3o1d082ZDhrMklkc29wNml1d3N3NkxHUA?oc=5",
+      "date": "2026-10-28T21:30:59Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Immediate Ambulatory Electrocardiographic Monitoring in Syncope NEJM."
+    },
+    {
       "title": "WHO advises coexistence of digital and non-digital ship-related health documents - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzRjYmlLYzk2Xy1TMExLcUtOWEFqandCel9LZDRjUl9Tdkpxa2xCamNoSXFmaWdjLU81U0pwbC0zWFhaUVNybGJDV0VzdlN2YmkwS21xWnlGTER5V184MDhiYXBHSF81QjlUeUxVNUNqa2FHcy1NQ1FwVWxwcG15ZlZLRTNXR3FWTHJweTZlR2RhdnRXVjRpcS1oSTVuV3E3WmlxU3VLRkdNUUx1SXUyZnA3Y1BjbWN4akpuUjF3?oc=5",
       "date": "2026-10-28T20:09:26Z",
@@ -2486,14 +2494,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "A New Guide to Diagnosing Cranial Neuropathies NEJM Clinician."
-    },
-    {
-      "title": "Ghana National Oral Health Strategy - WHO | Regional Office for Africa",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsWjZ6XzZELVJFQXB5cTNfemh6Sk1TV2NwRnJ2WmtubzZUdjkxR0l1WnF2UG1pM2Z6MDN2MnVYNFZCdUNld1FlbVNYa0pNdUgydUJNRjB5QkoxSEZrLWpRV2FTQ0YzYkNFSHVmNE00UG5lUFRHMGpnVjVhNnhzUQ?oc=5",
-      "date": "2026-10-28T17:18:28Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Ghana National Oral Health Strategy WHO | Regional Office for Africa."
     }
   ]
 }
