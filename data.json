@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T08:41:07Z",
+  "last_updated": "2026-11-01T08:44:56Z",
   "poland": [
     {
       "title": "Praca na nocne zmiany w ciąży może sprzyjać zaburzeniom neurorozwojowym dziecka - PolitykaZdrowotna.com",
@@ -34,14 +34,6 @@
       "summary": "Nowy Zakład Patomorfologii w Szczecinie już otwarty. Inwestycja za 43,9 mln zł wesprze diagnostykę nowotworów PolitykaZdrowotna.com."
     },
     {
-      "title": "System eZWM (e - Narodowy Fundusz Zdrowia (NFZ)",
-      "url": "https://ezwm.nfz.gov.pl/",
-      "date": "2026-11-01T07:22:56Z",
-      "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
-      "summary": "System eZWM (e Narodowy Fundusz Zdrowia (NFZ)."
-    },
-    {
       "title": "Nie tylko liczba kroków. Szybszy chód wiąże się z 23% niższym ryzykiem zgonu - Alert Medyczny",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR3Z2YWNoOHNVTDF5NzBIY1dXUHgzR19ua3RDSTh5Q3ZRMDBCclJ6WTNpQy1SOXhLMERJc2RkV3JfRVVNVEx2aFlMVE1ocUlmZkdjMlVxZ3UwaTdJVVg4RDJTVVh2aW5WQjVnVVlaaGg2WllNMldSZnRlS3dRNndzWmVfckN3dlRiRU9sdlBLZ3E5U2FOOGNodUJqa09RYzRHNXc?oc=5",
       "date": "2026-11-01T07:14:04Z",
@@ -64,6 +56,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "Od 1 listopada koniec z bilokacją lekarzy. Szpitale mają nowy obowiązek Alert Medyczny."
+    },
+    {
+      "title": "System eZWM (e - Narodowy Fundusz Zdrowia (NFZ)",
+      "url": "https://ezwm.nfz.gov.pl/",
+      "date": "2026-11-01T04:04:13Z",
+      "source": "Narodowy Fundusz Zdrowia",
+      "confirmed_by": 1,
+      "summary": "System eZWM (e Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
       "title": "Z kontroli dowiesz się: - Najwyższa Izba Kontroli",
@@ -1006,6 +1006,14 @@
       "summary": "The future of dMMR/MSI-H locally advanced rectal cancer could be free from chemotherapy European Society For Medical Oncology | ESMO."
     },
     {
+      "title": "Tumour-informed ctDNA assay predicts lung cancer relapse - European Society For Medical Oncology | ESMO",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVDlMLU9hREl3MW1NcjhObXFoRFJTdzc0bU5wRDBmdDR1aHctRm5mb3FYTHludzk0Zi1BMThvalptaXlFb3p0UGE1U0lqZGY3a2YyU3h0c29tS2xRVlE2N090Uk9nLWJvOVZ5Q1Rnak45Q2xPM2RYQU1YVldhdGNYMG9DaTFsdzdpUUZERVk1UUpULWdDTTNBeVF4UUM0cDJ5VUFFdl95UkNFVDM2d0tNZ1dKSnZTNGhpMG1zQ3R3cmxERWVXYnI4ckZBR2kyaGhwMkVJTnFUX0xDcWlOQmJ6TFRtVzdaVER5d3lsTzRGbVpNeXpNTmZwanhUNHlRWktpT1hiNFYzeUF3TjZGNEhV?oc=5",
+      "date": "2026-10-27T14:16:16Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Tumour-informed ctDNA assay predicts lung cancer relapse European Society For Medical Oncology | ESMO."
+    },
+    {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 27 października 2026 r. zmieniające rozporządzenie w sprawie ramowych procedur obsługi zgłoszeń alarmowych i powiadomień o zdarzeniach przez dyspozytora medycznego - Sejm Rzeczypospolitej",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tdnphanhQS0VoaGhnd3I1dzRiRXdnc0VDYTZTLXQ4Wkc2N0lLT29uWHNXRkFPMFpSLXJQdnNhc0lQcVRRWXBaSVBVdVVjSUtSYXhKaG1mdEdSZXFHd21iS3dkc1FnaUctZTFRTUtkWndXUF9U?oc=5",
       "date": "2026-10-27T07:00:00Z",
@@ -1038,12 +1046,12 @@
       "summary": "Heart Health Across a Woman’s Lifetime: New Guidance Links Hormones, Mind and Cardiovascular Risk Bioengineer.org."
     },
     {
-      "title": "Tucatinib improves intracranial progression-free survival in patients with HER2+ metastatic breast cancer - European Society For Medical Oncology | ESMO",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWXNmX2QwaGJXejdrSjRhRUJyUVpTbnh3QlRIc2doTTR6STM4RDFUWHFNeXVHU3lTeF9rMEx1RVBiT2JzZHRRSkdJcU9WRGtCcHNhanJQbVQyejR6blZaS3Y4bk92S216bHNUYTJjLUhMd0Z1ODNqUTdWbmhXQ0ZvT1d0R2F3NjN5LW4tWW9VcVROYnVIMEhUdjFEY29OY1BtSUhIMGtkMk1COUV3V3YxYWREN05aR2hRaHM0RmZBc0VzaTlrNGhLdHNtZlY1NkpuQk84dnhJaWpKU09feFFVUTZ0TFhlQQ?oc=5",
-      "date": "2026-10-26T22:40:41Z",
+      "title": "Antibody-drug conjugates improve survival in EGFR-mutant NSCLC - European Society For Medical Oncology | ESMO",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVFQ3ekVaNnoxSE9ncEZHVW5TS3dEVW9XS18wVGFid3dfVnhIQmlpMURidHhqRlBKeTdBU1JwY0x0YU40STV6czVvXy1iUHktNmFCX2hwSXpvcDB4RWwyQzBqdVpNNVR3NHppRkloUkNLM2JmUTJVMTdLeWhaSHJOLXp0NnlQUW5mdXkxUndIZG9tX1BjaTR6OVFWZ3pCNXI2ajI0YUV0QTh4bWVXR3Z4V3NYVU1EN2tCME9ENVk3dGZnMFRhYmhQWGRPZTVpLV84T3dNc3dFSFBFcGhWZEEwRFZRWWZ4VEwzcExTZVV5Mm1rVldOY0E?oc=5",
+      "date": "2026-10-26T22:49:07Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "Tucatinib improves intracranial progression-free survival in patients with HER2+ metastatic breast cancer European Society For Medical Oncology | ESMO."
+      "summary": "Antibody-drug conjugates improve survival in EGFR-mutant NSCLC European Society For Medical Oncology | ESMO."
     },
     {
       "title": "Shared framework aims to redefine heart health for girls and women - Medical Xpress",
@@ -1328,20 +1336,20 @@
       "summary": "The Weekly Epidemiological Record (WER) World Health Organization (WHO)."
     },
     {
-      "title": "Respiratory Illnesses Data Channel - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/respiratory-viruses/data/index.html",
-      "date": "2026-10-30T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Respiratory Illnesses Data Channel Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "State/Territory Wastewater Data for Respiratory Viruses - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/wastewater/respiratory-viruses/state.html",
       "date": "2026-10-30T07:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "State/Territory Wastewater Data for Respiratory Viruses Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Respiratory Illnesses Data Channel - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/respiratory-viruses/data/index.html",
+      "date": "2026-10-30T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Respiratory Illnesses Data Channel Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Ebola disease: Multi-country outbreak 2026 - European Centre for Disease Prevention and Control (ECDC)",
