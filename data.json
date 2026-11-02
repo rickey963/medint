@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T13:40:10Z",
+  "last_updated": "2026-11-02T13:44:05Z",
   "poland": [
     {
       "title": "Co ze śladem węglowym pozostawianym przez ochronę zdrowia? - Termedia",
@@ -110,7 +110,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHRUNGpPa0lvY2tIdHBlYmhmX2tETWMwbGtBZkpWalRxRHQ4bzlrY21JOFBXbnpnSEdFZzg3RmIyR1VYN1k5S2h3MmVId0NPMXZiekxEMk9vSm80bFA2N3lyZjgtMXl4bDNNblV2M1lPTmxHNkxRVG1nNjRUT2pKMmNJZGc3cW1Ta3Yxck1nZjlpekx6Q05BUlVZUzNvSzdhR051STdselJuOHBnYl9CcW4xN2lxd1NyZjBFeWFZY0Z4UQ?oc=5",
       "date": "2026-11-02T12:18:02Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Prace serwisowe w dniu 02 listopada 2026r. w systemie KOLCE Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "Use of a Simple Plastic Device May Ease Pain in Infants During Routine Vaccination - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2lsQl9NNjhUbzdMM1ZJMk4yTTFiRzRGblNpTC1KNmV2U0tTWDJ2alNZVU1JcGQ2Q3RPNmVxcXc4THR6NTVEbmc0aUpPekZQUXZZMkFoZ3g1RTVtd3VkeHIwaENla19pTi1USS1tM0pTS01HMTYzeVY5alZ2a0Q1RVcwQlNOazhzLXk1RHZPVk1WRFJZY2VDc09VeG1zY3JPZ0FHWWRQbFpfdk84Mnc?oc=5",
+      "date": "2026-11-02T13:39:06Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Use of a Simple Plastic Device May Ease Pain in Infants During Routine Vaccination Medscape."
+    },
     {
       "title": "Clinicians Can Break Barriers for People With Disabilities - Medscape",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdkpGZkRaWDZISVdKbkNMekFZVlFrVFJBVV95VHJsZzZ5anItbnU1Z0FEOXVoakxjSHVZenllQUx4RHhjNjFVYnZMUUdMeUdobTBMM3VjSHo3akdpOVgxYVlzRnBhLTg5QmxUcTVhck9DX0F3dXEzaWFjQmthckl2TFliT2Q3aTJhdDYyWDI1czlGcExHMC1uRFJvNlQzb2p2amtOZVIzNA?oc=5",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Radiation for Low-Risk Prostate Cancer Becomes Less Common Medscape."
-    },
-    {
-      "title": "Treating severe acute malnutrition and saving young lives in Herat, Afghanistan - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEFvQXY0aGJDcy16WmVzalN2dUhQVUg2TGdJMjEwcmQ2UUExZl9FMmk4dTRpVWM3SzF4X3pnd3MzM0VHOVUtWjVSQU5zcGJPckFMWkRaN2RYc0tFQzA0dUFaMGxmeE9fUXFsSUJpMG0tLWpHeWdEUmRIeHdZd3o0bW9SUFVRRi1IX2hqaV8zTVlJVXdUVFRKbi1qcnZCbmg1dVIyMUktczF5ZS1HYUpWcW5md3Q5N3BjdTVzSzlqdDBEODhSM1NlVg?oc=5",
-      "date": "2026-11-02T04:15:48Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Treating severe acute malnutrition and saving young lives in Herat, Afghanistan World Health Organization (WHO)."
     }
   ],
   "guidelines": [
@@ -994,8 +994,16 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-10-30T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Information for Travelers Returning from Ebola-Affected Areas Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-10-30T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1038,20 +1046,28 @@
       "summary": "ESMO and ASCO publish joint consensus statement on streamlining clinical research European Society For Medical Oncology | ESMO."
     },
     {
+      "title": "New ASTRO Guideline Backs Hypofractionated Radiation in Prostate Cancer - CancerNetwork",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcWJEVWJqVTItLXROMnd3YVV1bk1rcDhVSUU0Q1B6azlWZE9YU21hMmFrTURvWEFPVElxMGUxd281ZjlTZ1JEMkMtVkhaZGNLOE9zZnN2SjVOYXB4QU85VV9iWDlMdHhtb2dRTWNkUW1UZHpPN2NRcHJUcHpRcUttVDhzVHdNdkN1anhWT2pwamlzTkdPa2llZ3pCRTB5LW9jdlZ3YTNCWXdwZw?oc=5",
+      "date": "2026-10-28T19:09:44Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "New ASTRO Guideline Backs Hypofractionated Radiation in Prostate Cancer CancerNetwork."
+    },
+    {
+      "title": "ASTRO Guideline Backs Hypofractionation Across Risk Groups in Localized Prostate Cancer - OncLive",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDdwMlktUEd2Tm5aNmtOZURHYTVXLXdXRjlRNmxiYVRhREJjMTJ0LUZiQkJQdDFEOGQtY01oeFNKdWozc2VWaERVNGVkSDNnQzV6ZV9MeExaXzBuRFNRZFhPdVNRTTE4QkFBaFc0T05rRnRhTnNfV1Q0THBQQWRXVzgwalhNQUswdkktRl95dUFVUS1ValJMTUJBUk5oT1JoVW1lNG9JUlo5RFFsUlVhNnMtNF81MnM?oc=5",
+      "date": "2026-10-28T18:03:56Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "ASTRO Guideline Backs Hypofractionation Across Risk Groups in Localized Prostate Cancer OncLive."
+    },
+    {
       "title": "Immunotherapy for acute leukemia: An updated SITC clinical practice guideline - aml-hub.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUHJKQ1p0aW9IY0M1TEI3UXN1cFNjYjBibE5Ma09NOFJ6bGRJY3RtYV9KSkxLcHg1Z29WdzNLVHpyVDYxUldKYXYxb2JianhoQzVNVUpzNjJEVlZtalQ1ckVEY1JwcFJTRXRCNVc5S1ZTTjJsbjBiZjJaazd2WTBFR0podHhhbGNDZkNHVUwtTExMR0s3dzZuekMyOTNyS0ZBNEJSeU5KZWRtX2dVeHZiZElCemhFRTQ?oc=5",
       "date": "2026-10-28T13:05:11Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Immunotherapy for acute leukemia: An updated SITC clinical practice guideline aml-hub.com."
-    },
-    {
-      "title": "Tunisia Issues First National Clinical Guideline for Children and Adolescents with Autism - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnljQ0h0QllwS2FCTjVRM1R0UjRKX19lZ29IX18yRVVxOFdhX2VRdDNXdFpIb2Z1THNXd2M1aTZlZzFLQno5bGhHVWdlR29oR2hkVTUxeUtOWG5ZczVwOFVuWXhmcDM1VEZORFpFbTJEd0tIaVo1bVdJTmtNVEVIbHItRDR5bXlsR0JCNjZ4cFl0ejZDcHNwWFhTSmV4MTJoZTJDSGNwc09HLTEtTFA2a09XSGE?oc=5",
-      "date": "2026-10-27T18:14:37Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Tunisia Issues First National Clinical Guideline for Children and Adolescents with Autism Bioengineer.org."
     },
     {
       "title": "New targeted treatments raise the bar in immunotherapy-resistant melanoma - European Society For Medical Oncology | ESMO",
@@ -1086,28 +1102,12 @@
       "summary": "Rozporządzenie Ministra Zdrowia z dnia 27 października 2026 r. zmieniające rozporządzenie w sprawie ramowych procedur obsługi zgłoszeń alarmowych i powiadomień o zdarzeniach przez dyspozytora medycznego Sejm Rzeczypospolitej."
     },
     {
-      "title": "New guideline provides recommendations on managing shift work disorder - American Academy of Sleep Medicine | AASM",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdTlCaDJTUVpXQ294ai1Kd3FYSW9GODR0OTFxVzdHc1F3a3RFUUk4S3FOY2VRa2Z6X2tpeFFHcFJMVm1qUnpMRFFFX0JGQ3hLdFlod183d1ctNXBVZHhWb1kwbFoydWVUZm5HMndaY05UT1JXR2hnWEhyOFVGdnpBMXJwbEZuU3FYYWZ1Qi15S0h0QQ?oc=5",
-      "date": "2026-10-26T17:24:40Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "New guideline provides recommendations on managing shift work disorder American Academy of Sleep Medicine | AASM."
-    },
-    {
       "title": "Protokół z posiedzenia Rady Przejrzystości w dniu 26 października 2026 r. - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3Jndm9kMUEzeWFDNnM2TmktSE8waGxnRktLMnpnOEVncGJLNzk3aHZQbjdoNmdZdmtnTnJ3M2hwLWRPRlpyTXE1NzlaWGlVMy1MZ0I5cmI0WHhjVGJpT1l1TGlJa3liem5WVnVuMnpNb0hEVXh3VE5vejlFUUF2Y3FNRDZSdDlQT3RramhORTEzSUhQc1NhWW5zaDNaaEJvbGQ2YW40Zy1UdWRDbWxDdXRFRDlSd1JwblNv?oc=5",
       "date": "2026-10-26T07:00:00Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Protokół z posiedzenia Rady Przejrzystości w dniu 26 października 2026 r. Agencja Oceny Technologii Medycznych i Taryfikacji."
-    },
-    {
-      "title": "Start of the 2026-2028's mandate for the Council on Basic Cardiovascular Science - European Society of Cardiology",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd2dYZ3RRUHp6NzQ2U2NkWk5JT29vOFE1NXBpYlNYeHpxczBnT1NCc2c0bjBLRGFTTGhxOFZrVndTaE10c2xsZEhYbHZtQnd2OXV6bURGbjdnRWdIZW1rbF9xMnQ2TjhuMHQ3VXdqaE9JWV9FbkhtZXY2VVhnMUlyaGJ4VkMwQ01rZkdMWW5WSmkzSy1oYVZfenNkc1g?oc=5",
-      "date": "2026-10-26T07:00:00Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Start of the 2026-2028's mandate for the Council on Basic Cardiovascular Science European Society of Cardiology."
     },
     {
       "title": "Rekomendacja Prezesa – Fungizone 10% (amfoterycyna B) - Agencja Oceny Technologii Medycznych i Taryfikacji",
@@ -1126,14 +1126,6 @@
       "summary": "Rekomendacja Prezesa – Gazyvaro (obinutuzumab) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
-      "title": "EACVI Teaching Course on Transoesophageal 2D&3D Echocardiography - ESC 365",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TSVVtRGJodWdIeXVKUk5MOGdIY0RGOGpSamxCTHRVMUZneGZzdnBKelVFaTA5M2xweHRZY01abzU0Zmgxem1OVjluclFZRlE?oc=5",
-      "date": "2026-10-23T07:00:00Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "EACVI Teaching Course on Transoesophageal 2D&3D Echocardiography ESC 365."
-    },
-    {
       "title": "M&PD Annual meeting 2026 on ESC 365 - ESC 365",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JMmtqeWVKdUtESnkwZzVpa0VoVDNlendQa25tbldydWhMakJBWk5NdS1lSXBKajl4YjByVzhTTktVcjBjRGlfWjJFeHM1Y2s?oc=5",
       "date": "2026-10-23T07:00:00Z",
@@ -1142,12 +1134,20 @@
       "summary": "M&PD Annual meeting 2026 on ESC 365 ESC 365."
     },
     {
-      "title": "AAO-HNSF Issues Updated Clinical Practice Guideline for Tinnitus - The Hearing Review",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHBQUG5rZTNvRUZaaHlUamVZWWxiZU82TjIzUFdiaWwtZGZzSGM4aUhoMHhwTk82Y0pxN2t1Zlhzcm1fNjRjRjhJN0p1OE1CM0llTDNvRlVCV3p1T29JOG0wSFFsbFl1MVI1NFJjR1BvU25udDZoVjQ5WVlacVZ1Q05CY21CZTFJd3pRSW9ERVJKTWszUzFSeVd1SndDRGdTa3otd1BwRkpWRWc3SnB0SkJB?oc=5",
-      "date": "2026-10-15T07:00:00Z",
-      "source": "Wytyczne kliniczne",
+      "title": "EACVI Teaching Course on Transoesophageal 2D&3D Echocardiography - ESC 365",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TSVVtRGJodWdIeXVKUk5MOGdIY0RGOGpSamxCTHRVMUZneGZzdnBKelVFaTA5M2xweHRZY01abzU0Zmgxem1OVjluclFZRlE?oc=5",
+      "date": "2026-10-23T07:00:00Z",
+      "source": "ESC (kardiologia)",
       "confirmed_by": 1,
-      "summary": "AAO-HNSF Issues Updated Clinical Practice Guideline for Tinnitus The Hearing Review."
+      "summary": "EACVI Teaching Course on Transoesophageal 2D&3D Echocardiography ESC 365."
+    },
+    {
+      "title": "Sex differences in atherosclerosis: what we need to know, from biology to clinical management - ESC 365",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55a1NkOGJfdGxib2NFZ1VnT1FMeUc2aFNFMlFGUjFfRmFPRTNyZVpPTTU1SFdrY2cycDFBSGJnb2MtdzhsZmtPMEVaYUZ1TGc?oc=5",
+      "date": "2026-10-22T16:20:32Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Sex differences in atherosclerosis: what we need to know, from biology to clinical management ESC 365."
     }
   ],
   "epidemiology": [
@@ -1528,6 +1528,14 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07905924 | A Study to Evaluate the Safety and Effectiveness of Different Doses of RO7836748 Alone or in Combination With Other Cancer Therapies in People With Solid Tumors With a Rat Sarcoma Viral Oncogene Homolog Glycine 12 Va ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07907744 | Plasma Exeresis Plus NB-UVB Versus NB-UVB Alone for Stable Vitiligo - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mZW5mNjQ2RnNfMDFCSzFudXJrd3k3aE5ZdUFocTROb3VmUUJ3RzMxYlh1aXA2dHFwZFh4ZUpvLUNWb3I1bU13X090NE9MRTRLM1kwbFVYVQ?oc=5",
+      "date": "2026-10-30T21:08:21Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07907744 | Plasma Exeresis Plus NB-UVB Versus NB-UVB Alone for Stable Vitiligo ClinicalTrials.gov."
     },
     {
       "title": "Study Details | NCT07906444 | Low Pneumoperitoneum Pressure for Delirium Prevention in Elderly Laparoscopy - ClinicalTrials.gov",
@@ -2122,8 +2130,16 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html",
       "date": "2026-10-30T07:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Information for Travelers Returning from Ebola-Affected Areas Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-10-30T07:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
   "daily_top5": [
