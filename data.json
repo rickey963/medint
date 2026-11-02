@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T02:37:09Z",
+  "last_updated": "2026-11-02T02:40:46Z",
   "poland": [
     {
       "title": "NFZ wprowadza nowość od 2 listopada. Chodzi o wizyty, badania i zabiegi - Rynek Zdrowia",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Band 6 Physiotherapist - Rochester job with Kent Community Health NHS Foundation Trust (Health Careers) | 860990 - The BMJ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUkllUy1tS0lZckNGNjVSSnhhR3U3WHNFR3o5dTBCbE1PN1dkcUlEdmliR29OY2Jtc1M5SFU0ZVNCeTdrTThUMzQ1RWI0d29yTFNRUm93NG5uWkg3MzVMQmVPY2lVdmdiWVFjT1Q5a054Z1dIRnVmRHljQ1pkRm9HZDBVczF2TUxWZFhJSGFWdnJiWlFXZE8zVXNXMTZ5dw?oc=5",
+      "date": "2026-11-02T02:33:42Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Band 6 Physiotherapist - Rochester job with Kent Community Health NHS Foundation Trust (Health Careers) | 860990 The BMJ."
+    },
+    {
       "title": "Scientists find surprisingly little evidence that medical cannabis helps you sleep - Science Daily",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGUlZpX1hvSl9OaE9rWXV2aE9DMk5pMTNrZ0dsRDVXM2FOYk5sZTQ1T1ZJTGVHT3NRQ2pOR1VGb1huWTAxdUJiaVJrNzM3c3RkN0RuNzhJOE5WZHBLMGt4Z3hXVVR2TGY4WVI0dnJ3?oc=5",
       "date": "2026-11-02T01:48:08Z",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Other Health Profession jobs in Cayman Islands The BMJ."
-    },
-    {
-      "title": "Improving men's health in a changing world - The Lancet",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMjQwMVV6Ykxrd0t0WElvdUxmUk5kcGUzTXFDSF9aNlhpS1Y4Sk52aURXeHlvQWUwVnRSZUNyYklkOU1jaTNLaXlyZl9mUDBBVzU3SUpNRGNTbGF3RkJzNy1jYzdUMFZ2eEJQLW9XTXNFX3p3M3FZNW9yOVJsNVU3VndCbXFjZFdQZlpV?oc=5",
-      "date": "2026-10-31T17:27:01Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Improving men's health in a changing world The Lancet."
     }
   ],
   "guidelines": [
@@ -926,14 +926,6 @@
       "summary": "Information for Travelers Returning from Ebola-Affected Areas Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/measles/data-research/index.html",
-      "date": "2026-10-30T07:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-10-30T07:00:00Z",
@@ -942,12 +934,12 @@
       "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Denecimig for preventing bleeding episodes in haemophilia A - NICE website",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jR0RmcHpBc21jRkx4b0Q1V2RMWDJoVXF6d3F5SUN2RUhmUjJRQXo4aldTX0E4TWt6T2FyVjFGRFlienJLc1EweHZHc1pMTjJZUlZjMG1qSThFZjEzUlI2RW9ta0dPRE1pSEpENDlNWVlfZ2ZGWnc1Ng?oc=5",
-      "date": "2026-10-29T20:11:27Z",
-      "source": "NICE",
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-10-30T07:00:00Z",
+      "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Denecimig for preventing bleeding episodes in haemophilia A NICE website."
+      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Percentage of Children Who Had Ever Received an ADHD Diagnosis - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -958,20 +950,28 @@
       "summary": "Percentage of Children Who Had Ever Received an ADHD Diagnosis Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Surveillance to Detect Severe Group A Strep Infections Among People... - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uc0ZNQXp5UzFwZm9HOUMwYTRidFVFd2FXandfTm9sZWlieW5YQXhaeWc5akxWaF9UVWc4aXhDYk1qYVpxSUpwVUZfR1BScFN4WUt6bWRoMUppUmx3NmpHbDFRVkRhV096Sk1mMU5JdEp5QXFEU0xpaTJaVQ?oc=5",
-      "date": "2026-10-29T16:59:29Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Surveillance to Detect Severe Group A Strep Infections Among People... Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "ESC TV Today - Episode 18: Atrial mitral regurgitation - Cardiac protection in cancer patients on ESC 365 - ESC 365",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zdncwQzZTMi1aVlFkX3hJTnh2dFpNcHl3VXdVTTNyQ1lkNkxsY0c1NEVNYmZpUFBlREtJc1BySEtJZG5pbmpsdG1sQmJRT00?oc=5",
       "date": "2026-10-29T16:07:10Z",
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "ESC TV Today - Episode 18: Atrial mitral regurgitation - Cardiac protection in cancer patients on ESC 365 ESC 365."
+    },
+    {
+      "title": "Overview | Maralixibat for treating cholestatic pruritus in Alagille syndrome in people 2 months and over | Guidance - NICE website",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pRkM2OENmNkx0el9aN3EzTzV2N04wZmtVTWtmbzhwaGxxYUpOUzJmZGYxRHFlOFBnOEs0el8xajFMTDVMd0JHZnVGcHN2OWJS?oc=5",
+      "date": "2026-10-29T11:07:08Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Overview | Maralixibat for treating cholestatic pruritus in Alagille syndrome in people 2 months and over | Guidance NICE website."
+    },
+    {
+      "title": "ESMO and ASCO publish joint consensus statement on streamlining clinical research - European Society For Medical Oncology | ESMO",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVlabU1wV0t0bXVXaDRjZEFfSGw0VXFtb3pZdmZoQ2p5cnRZTF80MHJTYTNCUEd5amI5cVhXVUhiNk5scERoTl9xV0dlNEN3alV5WEpMaHlpQnJVejN4a2Z5TTlycklfemJUbUhfSENISnhFV3BUMFhtaW0zYzZRS2VhN2FXRk9OVjVSSkt4UHVWNUpocHlMZHppejlsTVh6WXlNbDQ4c1lQcGFCYVRWMUxHMXk2ZmJNMlNtdVg0d3hsb1hFZWZz?oc=5",
+      "date": "2026-10-29T00:51:01Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "ESMO and ASCO publish joint consensus statement on streamlining clinical research European Society For Medical Oncology | ESMO."
     },
     {
       "title": "New ASTRO Guideline Backs Hypofractionated Radiation in Prostate Cancer - CancerNetwork",
@@ -1014,6 +1014,14 @@
       "summary": "The future of dMMR/MSI-H locally advanced rectal cancer could be free from chemotherapy European Society For Medical Oncology | ESMO."
     },
     {
+      "title": "Tumour-informed ctDNA assay predicts lung cancer relapse - European Society For Medical Oncology | ESMO",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVDlMLU9hREl3MW1NcjhObXFoRFJTdzc0bU5wRDBmdDR1aHctRm5mb3FYTHludzk0Zi1BMThvalptaXlFb3p0UGE1U0lqZGY3a2YyU3h0c29tS2xRVlE2N090Uk9nLWJvOVZ5Q1Rnak45Q2xPM2RYQU1YVldhdGNYMG9DaTFsdzdpUUZERVk1UUpULWdDTTNBeVF4UUM0cDJ5VUFFdl95UkNFVDM2d0tNZ1dKSnZTNGhpMG1zQ3R3cmxERWVXYnI4ckZBR2kyaGhwMkVJTnFUX0xDcWlOQmJ6TFRtVzdaVER5d3lsTzRGbVpNeXpNTmZwanhUNHlRWktpT1hiNFYzeUF3TjZGNEhV?oc=5",
+      "date": "2026-10-27T14:16:16Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Tumour-informed ctDNA assay predicts lung cancer relapse European Society For Medical Oncology | ESMO."
+    },
+    {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 27 października 2026 r. zmieniające rozporządzenie w sprawie ramowych procedur obsługi zgłoszeń alarmowych i powiadomień o zdarzeniach przez dyspozytora medycznego - Sejm Rzeczypospolitej",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tdnphanhQS0VoaGhnd3I1dzRiRXdnc0VDYTZTLXQ4Wkc2N0lLT29uWHNXRkFPMFpSLXJQdnNhc0lQcVRRWXBaSVBVdVVjSUtSYXhKaG1mdEdSZXFHd21iS3dkc1FnaUctZTFRTUtkWndXUF9U?oc=5",
       "date": "2026-10-27T07:00:00Z",
@@ -1044,14 +1052,6 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Heart Health Across a Woman’s Lifetime: New Guidance Links Hormones, Mind and Cardiovascular Risk Bioengineer.org."
-    },
-    {
-      "title": "Tucatinib improves intracranial progression-free survival in patients with HER2+ metastatic breast cancer - European Society For Medical Oncology | ESMO",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWXNmX2QwaGJXejdrSjRhRUJyUVpTbnh3QlRIc2doTTR6STM4RDFUWHFNeXVHU3lTeF9rMEx1RVBiT2JzZHRRSkdJcU9WRGtCcHNhanJQbVQyejR6blZaS3Y4bk92S216bHNUYTJjLUhMd0Z1ODNqUTdWbmhXQ0ZvT1d0R2F3NjN5LW4tWW9VcVROYnVIMEhUdjFEY29OY1BtSUhIMGtkMk1COUV3V3YxYWREN05aR2hRaHM0RmZBc0VzaTlrNGhLdHNtZlY1NkpuQk84dnhJaWpKU09feFFVUTZ0TFhlQQ?oc=5",
-      "date": "2026-10-26T22:40:41Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "Tucatinib improves intracranial progression-free survival in patients with HER2+ metastatic breast cancer European Society For Medical Oncology | ESMO."
     },
     {
       "title": "Shared framework aims to redefine heart health for girls and women - Medical Xpress",
@@ -1332,7 +1332,7 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UbDhURTRyTGJkX2RLenFlTWVObzJudUJMYnIxdEdRandOMUpZTV9Na2JCT1E0ejM2dTEtcFJvRFlOc3d0c0dMQzE5cmJPTGlCNk1ha3dMdGtjU2c0V21NZlY1V3JtaDZEMmw2RmdtUE9LcVU?oc=5",
       "date": "2026-10-30T07:00:00Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Salmonella Outbreak Linked to Raw Oysters Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1352,20 +1352,20 @@
       "summary": "COVID-19 Ensemble Forecasts Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/measles/data-research/index.html",
-      "date": "2026-10-30T07:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "The Weekly Epidemiological Record (WER) - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdURYeEprd29XTzNKWkhZNXAtNk5MMERfQTdTaWNhQ3JObF9zc0MtV2VQRTZtZUJzaUh5MFJYNHpvY2IzeDFKVUZ6eG1FbWw2NkpHTjFQYzVTQ0ppbk5feUZuN1FaZVpBSVJocFNUU0thbm5qYTdwbW1sZDNJNWp3SGJZOHlmd3Ru?oc=5",
       "date": "2026-10-30T07:00:00Z",
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "The Weekly Epidemiological Record (WER) World Health Organization (WHO)."
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-10-30T07:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Illness Levels Over Time | Respiratory Illnesses - Centers for Disease Control and Prevention | CDC (.gov)",
