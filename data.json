@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T14:43:12Z",
+  "last_updated": "2026-11-05T14:47:43Z",
   "poland": [
     {
       "title": "AI wspiera diagnostykę chorób serca. Niemal 4600 osób przebadano z pomocą personelu bez doświadczenia w USG - PolitykaZdrowotna.com",
@@ -62,7 +62,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxV1kxTkVJWTBoOFJNVElvRUotN2NoeU9kSGZtM3Fsdzh1cEZKc3Y0VE1qR1Uwcm9iX0NqaDZGVDlOSHgyam1GcFRuOG40ME9Pb0FMVkdaaGgteGNvdHVjOEJwUXJiMkZ4TmhTU0ZiZ2U5WG54QUZYbjlXeDFjQQ?oc=5",
       "date": "2026-11-05T13:18:32Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Biuletyn Informacji Publicznej Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "Enzalutamide Does Not Improve 8-Year MFS in Prostate Cancer - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRUc5Mnhzemh1bTYyREZmTnFOVnpUbXBRZVB3NjFUcncxaHJsNEgydnlJM1lJQUM2UmRVTVQ0QUgzX1QxMVFEY01Way1WNVhCWkN5MjUyV2gtUFoteWw2eE5nS0xwdzc3RjJBVzFtWDJ3a0FydFZ1MWZUSTd0TjJ4MTVJRlVUWXIwdlVhWmNpOEJsSkdlenNzNnlUeUZWWXVkN1ZmZzBHYVlWZkQ1bUZJcQ?oc=5",
+      "date": "2026-11-05T14:40:39Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Enzalutamide Does Not Improve 8-Year MFS in Prostate Cancer Medscape."
+    },
     {
       "title": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity - NEJM",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lWDJpU193VzJDRm9GeWNDRHJXRTdXcW1aazlUdEJFMVc0eTcxWk02VHdYb0trRUZSMlU5OXFiVXdTbEhZbm8xY3FUX1lIUkNpUWYtT2VubXVmbFlsUXc0?oc=5",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Cord Blood Transfusion Appears Feasible in Preterm Infants Medscape."
-    },
-    {
-      "title": "Consultant in Emergency Medicine Post - Bahamas (BS) Nassau job with Doctors Hospital Health System | 863235 - The BMJ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOTYwWUVhb3FMTlgxSGlFYmNPYmY1eUEzQm9xbEsxeHNqTHc5bzVYTXVwYmtLd3QtNHFVT052R1c4MUdyZW5xUnRZLU9rSUVXcFpyaFJyY3pRVXlxUXhZalEzbVIyQnRnWWlNZ1FXTjlQRWtrc2FEbWZYS3FDWnR5RkFBSQ?oc=5",
-      "date": "2026-11-04T22:41:47Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Consultant in Emergency Medicine Post - Bahamas (BS) Nassau job with Doctors Hospital Health System | 863235 The BMJ."
     }
   ],
   "guidelines": [
@@ -1762,20 +1762,20 @@
       "summary": "Merck begins Phase III ENHANCE-3 trial of Ohtuvayre in COPD Clinical Trials Arena."
     },
     {
-      "title": "Long COVID Overstated? Landmark Stanford Study Exposes Flawed Science—But Berenson Goes Too Far - Trial Site News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPemp0TGl1eUJxMFc4U0NDUXl3UE9RTzVKelJZMFEtS2hOaGM1c2lhOXZrTWl3dXBqYVNnZ1hIb0dpdm43cnlmYXBFQmZNbHVOOVN4VWE1aTlkS3o2bzRlbXFZLWFpYjY2cnVtcTVhcXF0Wjh3dTJJbzZOdGUxUnVKcHYzSjE2VXRHUlZkaUVHN21kX0M1XzQ3ZzRsaURVSEdURnEyQXpKMEVOSllnVHcwSnlMV1hNTHhqNVhhbFBnWDgxU3hzcUxNWWpJcjlaczg?oc=5",
-      "date": "2026-11-04T07:28:33Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Long COVID Overstated? Landmark Stanford Study Exposes Flawed Science—But Berenson Goes Too Far Trial Site News."
-    },
-    {
       "title": "Pentacel Under the Microscope--Five Trial Deaths, No Inert Placebo—and Claims That Outrun the Evidence - Trial Site News",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTWFvNVlGY1BudGpkbmZwZXBiVWl2Nlh0cS1CelhrRE1mRU5FMnJMc0dZV2oyTzliN1o1aUpteXJONDJkLU42QUxNUGxBWXNyNVVfMk5sbHd2NDczYVBfSTJmWFRhZTlYRzN3WWMtWDBuVVNNLXpKRDFwUXJCWWM2Q1ZBeGRubmp1SmlwS3dhV0RqVnBwcG1mWUFQbFBvZi1pLTYtN3pLZlhHbUdJcFNTSjlDZldXRmpfcmFzdU52RkVLNG1mTXY5NGc3TV8wQnBlTzBNU1Vlaw?oc=5",
       "date": "2026-11-04T07:28:33Z",
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Pentacel Under the Microscope--Five Trial Deaths, No Inert Placebo—and Claims That Outrun the Evidence Trial Site News."
+    },
+    {
+      "title": "Long COVID Overstated? Landmark Stanford Study Exposes Flawed Science—But Berenson Goes Too Far - Trial Site News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPemp0TGl1eUJxMFc4U0NDUXl3UE9RTzVKelJZMFEtS2hOaGM1c2lhOXZrTWl3dXBqYVNnZ1hIb0dpdm43cnlmYXBFQmZNbHVOOVN4VWE1aTlkS3o2bzRlbXFZLWFpYjY2cnVtcTVhcXF0Wjh3dTJJbzZOdGUxUnVKcHYzSjE2VXRHUlZkaUVHN21kX0M1XzQ3ZzRsaURVSEdURnEyQXpKMEVOSllnVHcwSnlMV1hNTHhqNVhhbFBnWDgxU3hzcUxNWWpJcjlaczg?oc=5",
+      "date": "2026-11-04T07:28:33Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "Long COVID Overstated? Landmark Stanford Study Exposes Flawed Science—But Berenson Goes Too Far Trial Site News."
     },
     {
       "title": "When Hospital AI Harms Patients, Who Pays? University of Bologna Researchers Expose a Growing Liability Gap - Trial Site News",
