@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-06T00:07:35Z",
+  "last_updated": "2026-11-06T00:12:03Z",
   "poland": [
+    {
+      "title": "DBS w chorobie Parkinsona. Medtronic i Fundacja Michaela J. Foxa uruchamiają program edukacyjny - Alert Medyczny",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2NoTGNuR0NCZUZEMjJlUzg5R042N0laV2dIUXM0a21ENXcwdVZNT2VaRVVUZExDVHYwcXlHWmlvalpPWFpoeHB4SU9Jd1NTalM4eURXVFZ3MnRrTHY0YUhmUW1ZQldNemRwSW9Ya045MElzbTczVS1qaUUydHZyRGJtci1MWXgyVDF3alNqcWlmSjJ5dGY4TVAtR3JQd3Jod1packtWLUd4SUE3R0lYei0zaVRBYjdJS29N?oc=5",
+      "date": "2026-11-06T00:05:34Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "DBS w chorobie Parkinsona. Medtronic i Fundacja Michaela J. Foxa uruchamiają program edukacyjny Alert Medyczny."
+    },
     {
       "title": "Sejmowa batalia o SZNUR przyspiesza - Termedia",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMVd3TkRQR04tR051WXJZYk9CNHhKS2Y5UnBUd1RKU040UDlIdHpoSHhzcDlrTGk2Ri1BckRNUldhWExtV1dUU1ExR2tLSDY5Z0pmVGY1MWFJZTVucFlZZnBPZ0pxT2E1S0RIWmpTY000S2RVcEVfMW5RZjlIZw?oc=5",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Prof. Piotr Rutkowski z tytułem FASCO - Aktualności - Onkologia Medycyna Praktyczna."
-    },
-    {
-      "title": "Nowa międzynarodowa klasyfikacja miejsc zgonu - Ze świata - Kurier - Medycyna Praktyczna",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSl9QM2E2QmY2OURVa2VnajhOVnVxWmpONGVZNXBoLVlrTG93MXZQMVZKaVNYdDN2dWJReVRLMm9ZQkRyUzhMcU51d3JSVy00Zl9MdTlfc2ZkTlkxX2RqQ2JmRUlkR0lwT2NnREVGazNGanprbWdVNGVwMlVTSzZ1Mm5Xaw?oc=5",
-      "date": "2026-11-05T11:30:10Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Nowa międzynarodowa klasyfikacja miejsc zgonu - Ze świata - Kurier Medycyna Praktyczna."
     }
   ],
   "world": [
@@ -498,6 +498,14 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Primary health care-oriented responses for migrants, refugees and displaced populations World Health Organization (WHO)."
+    },
+    {
+      "title": "Bird flu: Washington state resident dies in first US fatality of 2026 - The BMJ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zZ0twc041T2c0aWRaNTdUd2pOR255eWt5dkhTYlJoUDhVV1hkZ2JzWndvYldJOWJ3NmlUeHEzOHBLYS1FaVc3WnVLcjk0ZGZEZkZSeFQtUmRLbEE?oc=5",
+      "date": "2026-11-05T17:01:19Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Bird flu: Washington state resident dies in first US fatality of 2026 The BMJ."
     },
     {
       "title": "Multi-cancer blood tests to be trialled at GP surgeries in England - The BMJ",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "We need to build risk management into training curriculums The BMJ."
-    },
-    {
-      "title": "As more doctors consult chatbots, health systems can block them — or buy in - STAT",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFQ3MEFBb3B1WEx1ZEpVam9IbFpxMms4MldaZm5rTE5ZUzJTN0lON3hXa3pmYy1uNzJMSHVFWnFUaENjSS1OejZrR3dDdThaUDVvcHZHOHVGYnNJaG1Md2xwWDVEd1ViM0pGT0lEU2FXUUNEMzJzWlA4eEFsb2hBc2ZHaEhxeDhpZjRQNDUyNVo?oc=5",
-      "date": "2026-11-05T09:36:10Z",
-      "source": "STAT News",
-      "confirmed_by": 1,
-      "summary": "As more doctors consult chatbots, health systems can block them — or buy in STAT."
     }
   ],
   "guidelines": [
@@ -1308,7 +1308,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUhCMzhudVUzOXNrOEYtWEV3SjFTMVVZcXEweWdGSTd0Rld3UWJscFAwRlQ5d2FyZ0Q0MzljQXBIakktN25FNDJYamFUMVNsR0tKQkFVQ0x1QkoxNHJ0M3BTR3JZRTJ0blpMYTZmOWFkNVNrRjBNRzE4UXJPSHRsUUlVa0dGRjBmU3JlMkFvUFFqZXlDdXJlaTdaOTctUVlfN3FSM2s0RzNFeGEyWTlR?oc=5",
       "date": "2026-11-05T07:51:55Z",
       "source": "ECDC",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "From preparedness to response: EU Reference Laboratories for Public Health in action European Centre for Disease Prevention and Control (ECDC)."
     },
     {
@@ -1994,20 +1994,20 @@
       "summary": "A Study of JNJ-101556143 With Best Supportive Care in Participants With Metastatic Prostate Cancer ClinicalTrials.gov."
     },
     {
-      "title": "Study Details | NCT03072927 | MILD® Percutaneous Image-Guided Lumbar Decompression: A Medicare Claims Study - ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03072927",
-      "date": "2026-11-03T08:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT03072927 | MILD® Percutaneous Image-Guided Lumbar Decompression: A Medicare Claims Study ClinicalTrials.gov."
-    },
-    {
       "title": "Study Details | NCT03588975 | A Study of MACI in Patients Aged 10 to 17 Years With Symptomatic Chondral or Osteochondral Defects of the Knee - ClinicalTrials.gov",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDSWoySG5lQXVid2JlSDZHTFhDVTdGMEFQd0RhQ0JOUUljNGc1TUVLX0ZwSXpLaGpHQ0l3Q2VLTUJBUVp0RTl1VHNzMFFLRmhUaFhMVUZUNA?oc=5",
       "date": "2026-11-03T08:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT03588975 | A Study of MACI in Patients Aged 10 to 17 Years With Symptomatic Chondral or Osteochondral Defects of the Knee ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07598825 | A Trial of Inebilizumab in Participants With Autoimmune Hepatitis - ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07598825",
+      "date": "2026-11-03T08:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07598825 | A Trial of Inebilizumab in Participants With Autoimmune Hepatitis ClinicalTrials.gov."
     }
   ],
   "pharma_market": [
