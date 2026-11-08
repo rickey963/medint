@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-08T00:03:49Z",
+  "last_updated": "2026-11-08T00:08:15Z",
   "poland": [
+    {
+      "title": "Leki GLP-1 wiążą się z niższym ryzykiem cukrzycy i chorób serca niż metformina - Alert Medyczny",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON19zTnRUeU9nR1J5dVF1NXJaVlpEVkFETFFrUnRXbmp1Q1pEZWNwYU5pdVJWaWpHc1BjM1o5YzlHWFlpWWVtYXlKWDd2T0JkOTdrZUlEYktUTFVJNGtXbFdqSHhrUVBGOWlSbHY0V1RjanVHWlZqS1RFQjRPVTlIellYVU15VkFaVTZSZngyeWUwRC02NzlDcHctdFJzNlo3WmVtYi1yRQ?oc=5",
+      "date": "2026-11-08T00:00:16Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Leki GLP-1 wiążą się z niższym ryzykiem cukrzycy i chorób serca niż metformina Alert Medyczny."
+    },
     {
       "title": "Zamach w Krakowie. Nie żyje 6 osób. Sprawca to 25-letni obywatel Rzeczypospolitej - PolitykaZdrowotna.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hWWI3Nm1fX3FOeFk0dVJ3X1ZFVnRRdDMtU0Jscy1YYTlkOGVuS3RRcnRlendlRzVacmFlZmFEeXA0dDd5VzF2T282R0swQ29YdTlpWmw3Q2NmaU5sa000N3BXTFlJMnpiQjY3Zm1ibldtTFVaV09J?oc=5",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "3386 zł miesięcznie za opiekę nad rodzicem. Jeden błąd i pieniądze przepadną Rynek Zdrowia."
-    },
-    {
-      "title": "KANCELARIA SEJMU Biuro Komisji Sejmowych - Sejm Rzeczypospolitej",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSG1jclRUajN0ZHl5SkhDM0dSY3hQX0s3VWczOXZSWWRNQ2wyUXlnc3lqOTBPSS1mNHhUZHhNb1owOERTNlgtSzVjZkpFVWx3ZnJyMkFEd05JRUFJeElsakxBeGNYZTY1LXo3UzQyNnRpc0JSanBLS2lNR3FxRm5RdnFIY0VTcGsybElXdHJmaUZSWUpYZWI4?oc=5",
-      "date": "2026-11-06T18:20:10Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "KANCELARIA SEJMU Biuro Komisji Sejmowych Sejm Rzeczypospolitej."
     }
   ],
   "world": [
@@ -424,7 +424,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SZmxrNERXMG1SNEptQ054ZnY4YV9tcy1HcjV5MVpjd0kzejZydG12WjlNTDdYbWFiVF8yOWEwSU1JZXU0YWx0dlc2VVd0OElXS1V1SjUxOVA0QTJHa2Yw?oc=5",
       "date": "2026-11-07T23:09:37Z",
       "source": "NEJM",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Intensive Blood-Pressure Lowering in Patients with Type 2 Diabetes NEJM."
     },
     {
@@ -474,6 +474,14 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Band 7 Team Lead Occupational Therapist The BMJ."
+    },
+    {
+      "title": "Intensive Blood-Pressure Control in Patients with Previous Ischemic Stroke - NEJM",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01cHFJQUdyMTd2WFRqT1lMeHlLbzNzQk5mNkNhTGFJLTJhVGgyYXZhazQwb2dTNG5jWVJIdEhLWDhUck9yUWNrRU9SRElpWHNxN2NMdFdObEhUZmNPMk84Mw?oc=5",
+      "date": "2026-11-07T21:06:26Z",
+      "source": "NEJM",
+      "confirmed_by": 1,
+      "summary": "Intensive Blood-Pressure Control in Patients with Previous Ischemic Stroke NEJM."
     },
     {
       "title": "Lead Cons Practitioner Psychologist, Professional Lead for PP - The BMJ",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Science Media Centre “legitimises” industries that harm health, study claims The BMJ."
-    },
-    {
-      "title": "Doctor who faked CV to secure NHS hospital job is struck off - The BMJ",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odXR2Unl5ZVFYdVZGV29BNHJ3RWZKRDJQVks2NzhmQklHY0RwZFl0dTBLdnBub1ZFWG4tMGo1V1JObjk4ck8zV1N6TVR0dnFSSXdnanJhdjVKZGc?oc=5",
-      "date": "2026-11-06T20:05:21Z",
-      "source": "The BMJ",
-      "confirmed_by": 1,
-      "summary": "Doctor who faked CV to secure NHS hospital job is struck off The BMJ."
     }
   ],
   "guidelines": [
@@ -1062,20 +1062,20 @@
       "summary": "Updated Guidelines on Surgical Management of Drug-Resistant Epilepsy Neurology Advisor."
     },
     {
-      "title": "SZKOLENIE HYBRYDOWE Szkolenie OK COBIK NIL - Laktacja w POZ. Najczęstsze sytuacje kliniczne w codziennej praktyce lekarskiej - NIL",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rMmcxOGZaM29BTmt4TkhTVnY2NlV4dTBpVDd2Q2ZVTTlXOFBaME1FdjdnV2pRcVV3bkhOcGJSM1NKM3ZyZ1luSVRB?oc=5",
-      "date": "2026-11-03T22:14:40Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "SZKOLENIE HYBRYDOWE Szkolenie OK COBIK NIL - Laktacja w POZ. Najczęstsze sytuacje kliniczne w codziennej praktyce lekarskiej NIL."
-    },
-    {
       "title": "Szkolenie OK COBIK NIL - Po co lekarzowi współpraca z mediami? Jak bezpiecznie wejść w dyskusję publiczną i stać się gł - NIL",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1maE4xQ1U0M1FPVUw4ZzBBMlhWSlo0SjliTEo0ZkFRekIyUTRWdG9pdTgyWEUxU2l6a3dHV1VUMkZwSjJaQS1ZYnd3?oc=5",
       "date": "2026-11-03T16:54:57Z",
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Szkolenie OK COBIK NIL - Po co lekarzowi współpraca z mediami? Jak bezpiecznie wejść w dyskusję publiczną i stać się gł NIL."
+    },
+    {
+      "title": "Szkolenie OK COBIK NIL: Poza schematem cukrzycy typu 1 i 2. Dlaczego warto rozmawiać o cukrzycy monogenowej? - NIL",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xVHRCeGlUaVdSSE5pblJocjk4cG9lRE5hMkowY1R4bDNVMWlQWmlIeExlTE9TNk01OUZ1R3JCR05FNjUxWWNUdGV3?oc=5",
+      "date": "2026-11-03T16:19:13Z",
+      "source": "Naczelna Izba Lekarska",
+      "confirmed_by": 1,
+      "summary": "Szkolenie OK COBIK NIL: Poza schematem cukrzycy typu 1 i 2. Dlaczego warto rozmawiać o cukrzycy monogenowej? NIL."
     },
     {
       "title": "Order: Requirement for Attestation by All Persons Traveling by Air to the United States - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1932,6 +1932,14 @@
       "summary": "Class 2 Device Recall MWave U.S. Food and Drug Administration (.gov)."
     },
     {
+      "title": "Class 2 Device Recall ACUSON Orgin Ultrasound Imaging System - U.S. Food and Drug Administration (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41c1lKNlA4dEJPczZWY3ZkWmhab0RfR1dZelFvSmtfU2phYTY3cnJPYUZSVVk0aE5vU3hSU2tFYTFHZ0tHVnVhZHkwOHlXaHdkWG1Uc0VWSVFVYzVQMHJaRnRqR0ZBejlsaENLdmVlOE5ud1REQjhJV3RCVnliWWM?oc=5",
+      "date": "2026-11-07T06:39:51Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Class 2 Device Recall ACUSON Orgin Ultrasound Imaging System U.S. Food and Drug Administration (.gov)."
+    },
+    {
       "title": "Class 2 Device Recall OCS Liver System - U.S. Food and Drug Administration (.gov)",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQX1RXbS0zWndSaVJGekpRd2V5aTRtUDIwVi1nd3lLZFhzemg2T1oyUXozamtkMFNKVXktLUZvdDZ3Y3hHNUNaMldMbjk1OWRVT2lscjBYSjQ3clBSQVB5X01wR2oyQjRJbmRiMTJzc1MzWlZVc2pwam1aVlFVMlU?oc=5",
       "date": "2026-11-07T06:39:51Z",
@@ -1946,14 +1954,6 @@
       "source": "FDA Drug News",
       "confirmed_by": 1,
       "summary": "Class 2 Device Recall ARTIS icono floor U.S. Food and Drug Administration (.gov)."
-    },
-    {
-      "title": "Class 2 Device Recall ACUSON Orgin Ultrasound Imaging System - U.S. Food and Drug Administration (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41c1lKNlA4dEJPczZWY3ZkWmhab0RfR1dZelFvSmtfU2phYTY3cnJPYUZSVVk0aE5vU3hSU2tFYTFHZ0tHVnVhZHkwOHlXaHdkWG1Uc0VWSVFVYzVQMHJaRnRqR0ZBejlsaENLdmVlOE5ud1REQjhJV3RCVnliWWM?oc=5",
-      "date": "2026-11-07T06:39:51Z",
-      "source": "FDA Drug News",
-      "confirmed_by": 1,
-      "summary": "Class 2 Device Recall ACUSON Orgin Ultrasound Imaging System U.S. Food and Drug Administration (.gov)."
     },
     {
       "title": "Class 2 Device Recall ARTIS pheno - U.S. Food and Drug Administration (.gov)",
@@ -2332,7 +2332,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SZmxrNERXMG1SNEptQ054ZnY4YV9tcy1HcjV5MVpjd0kzejZydG12WjlNTDdYbWFiVF8yOWEwSU1JZXU0YWx0dlc2VVd0OElXS1V1SjUxOVA0QTJHa2Yw?oc=5",
       "date": "2026-11-07T23:09:37Z",
       "source": "NEJM",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Intensive Blood-Pressure Lowering in Patients with Type 2 Diabetes NEJM."
     },
     {
