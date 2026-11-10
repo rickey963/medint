@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T20:01:49Z",
+  "last_updated": "2026-11-10T20:05:56Z",
   "poland": [
     {
       "title": "Pielęgniarka genetyczna – sposób na polski system ochrony zdrowia - Termedia",
@@ -24,6 +24,14 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Polacy wracają do gęsiny. Kontrole wykazały wspaniałą rzecz Medonet."
+    },
+    {
+      "title": "RAK BŁONY NACZYNIOWEJ OKA - artykuły i informacje - Termedia",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mUlhYLW82LWNTYjFjaXVVYmc5clZKWF9scUhWNzJfVlFrUC15UExqeHRSTkpNVWl5Z255bzBEZVZPQzJTQXd5eW1EcUtDM0l2Q0lkNDdmTXFmcnhGNkJtY3N5UG1XYURLaEhz?oc=5",
+      "date": "2026-11-10T17:59:13Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "RAK BŁONY NACZYNIOWEJ OKA - artykuły i informacje Termedia."
     },
     {
       "title": "CZERNIAK SKÓRY I BŁON ŚLUZOWYCH - artykuły i informacje - Termedia",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Lekarz Chopina na tropie zakrzepicy Medycyna Praktyczna."
-    },
-    {
-      "title": "Epidemia HIV w Rosji, ponad 1,2 miliona osób zakażonych w 27 regionach - Medonet",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWM1SFZrSlZncExaZmhkdmlkUU83OW5iQTJJdUVPdGZrX1BiRWpXZUJsajJ5MnRIWFdhbmR2SWRKYmVlcEVTVXJqMUlmNWlLd2x4azRxYWxpQnZHR254clRia092dWxhUkxoTVBjNkFURWtXUVpwbzRJSGx4d0docl96ZXpicnBPd1pKN0MyYUdFaG43amNPV3c0M2gwc2dKSnB2aE5TWVEzckhBWkxXeXAxbGd0OWZQaHlLeXdOTQ?oc=5",
-      "date": "2026-11-10T13:02:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Epidemia HIV w Rosji, ponad 1,2 miliona osób zakażonych w 27 regionach Medonet."
     }
   ],
   "world": [
@@ -1176,6 +1176,14 @@
   ],
   "epidemiology": [
     {
+      "title": "Cervical cancer - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer",
+      "date": "2026-11-10T19:56:10Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "WHO fact sheet on cervical cancer, including key facts, causes, prevention and WHO response."
+    },
+    {
       "title": "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX2dTYlV3dEdoMW1FWUZwZ0hmRlpkV2hrV0pzSC1WYldxdXhRSXpmV2RhNFR2U1g1ZlVkbGhrbVJCelJNYlE4NWFBa2dFT3FxaDZFMWZqMHFoUlVZWkp1UVNBSmpRWTctT01VWTBoNlhpYVVHdVJFXzEtQnBPcG5Tek9ybE5rcXZ2ZmF1RU5QRFN6T0g4ZkVDQnJPeFJJa3lIU1lfUVM5aVZsa3BMMHJCTHBsQ2dCWm0zdlpXRTFvd1h4ejZzMnJQRDVFRmJPMm5NY0ZGdDhuZHZ5M1RDNWU4ZmtlTGFYU1lMNU5CcUptTlFpenhjeUpTeC05T3EyZ3UtNVE?oc=5",
       "date": "2026-11-10T19:45:53Z",
@@ -1198,14 +1206,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "WHO updates global catalogue for interpreting tuberculosis drug resistance mutations World Health Organization (WHO)."
-    },
-    {
-      "title": "Cervical cancer - World Health Organization (WHO)",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer",
-      "date": "2026-11-10T17:41:09Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "WHO fact sheet on cervical cancer, including key facts, causes, prevention and WHO response."
     },
     {
       "title": "Traumatic Brain Injury Deaths in the United States - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -2214,14 +2214,6 @@
       "summary": "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak World Health Organization (WHO)."
     },
     {
-      "title": "Epidemia HIV w Rosji, ponad 1,2 miliona osób zakażonych w 27 regionach - Medonet",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWM1SFZrSlZncExaZmhkdmlkUU83OW5iQTJJdUVPdGZrX1BiRWpXZUJsajJ5MnRIWFdhbmR2SWRKYmVlcEVTVXJqMUlmNWlLd2x4azRxYWxpQnZHR254clRia092dWxhUkxoTVBjNkFURWtXUVpwbzRJSGx4d0docl96ZXpicnBPd1pKN0MyYUdFaG43amNPV3c0M2gwc2dKSnB2aE5TWVEzckhBWkxXeXAxbGd0OWZQaHlLeXdOTQ?oc=5",
-      "date": "2026-11-10T13:02:00Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Epidemia HIV w Rosji, ponad 1,2 miliona osób zakażonych w 27 regionach Medonet."
-    },
-    {
       "title": "Syrian Arab Republic launches coordinated public health response following poliovirus detection in Deir Ezzor - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2Z3cm95STlIaVlBdE5uSzUwX3owSTZuaWRwbDdUYW1ZM2h2aWg5UnpBNmhJLXUwZHZmbjF0V1ZsUlFORHM5cWttM3ZJVm1FSTZ3OVZVMHZuUmlEVDFvaTI0S1ZyaGtzWHZLWEozLTlaeDdKaWZZN2JMYWVVUFAycjQ1S3pUaU1GRExyVGlPMVU3b3VNQzZPdjdRaExoNDVfbkFLcXhDNUhOakRna1VNYk9jM3U3UlZiLWdDWVRSNHQtNXBRYzdnQ2tNeGRJaUphWm54eDNFdENqRDk4aG0xdVZlblc?oc=5",
       "date": "2026-11-10T11:34:06Z",
@@ -2239,6 +2231,14 @@
     }
   ],
   "daily_top5": [
+    {
+      "title": "Cervical cancer - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer",
+      "date": "2026-11-10T19:56:10Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "WHO fact sheet on cervical cancer, including key facts, causes, prevention and WHO response."
+    },
     {
       "title": "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX2dTYlV3dEdoMW1FWUZwZ0hmRlpkV2hrV0pzSC1WYldxdXhRSXpmV2RhNFR2U1g1ZlVkbGhrbVJCelJNYlE4NWFBa2dFT3FxaDZFMWZqMHFoUlVZWkp1UVNBSmpRWTctT01VWTBoNlhpYVVHdVJFXzEtQnBPcG5Tek9ybE5rcXZ2ZmF1RU5QRFN6T0g4ZkVDQnJPeFJJa3lIU1lfUVM5aVZsa3BMMHJCTHBsQ2dCWm0zdlpXRTFvd1h4ejZzMnJQRDVFRmJPMm5NY0ZGdDhuZHZ5M1RDNWU4ZmtlTGFYU1lMNU5CcUptTlFpenhjeUpTeC05T3EyZ3UtNVE?oc=5",
@@ -2262,14 +2262,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "From commitments to implementation: ATACH Day at COP31 delivers practical solutions for climate and health World Health Organization (WHO)."
-    },
-    {
-      "title": "WHO updates global catalogue for interpreting tuberculosis drug resistance mutations - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWlZS0hZajUxaEtaN1FSVXlFTTBQX29lLVgzVkd1QU1hRW90S3d0TXNnRkZzdlhjTUhhdVJiNDZXNHhwMEQxOXZkamJBaGdDeXBUd2Q3QWt2UkhoOXI4X2lPaG90Sy1xQ3RtTDJXU3JabHlZdUoycDZTWGNzNjh0Q1pMMHIyUWNqVzVxVmtzaGxsOGF4SFNxdGppRnQ2MVhGWWpXakhDSkxGQWoySEN4dlIwZ1NPQ2RsOGMtcVNGQks4MXc?oc=5",
-      "date": "2026-11-10T17:56:11Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "WHO updates global catalogue for interpreting tuberculosis drug resistance mutations World Health Organization (WHO)."
     },
     {
       "title": "Starszy Referent (k/m)* w Wydziale Obsługi Klientów i Profilaktyki - Umowa o pracę - pełen etat/ 1 etat - Narodowy Fundusz Zdrowia (NFZ)",
