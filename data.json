@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T12:05:06Z",
+  "last_updated": "2026-11-11T12:09:15Z",
   "poland": [
     {
       "title": "Brakuje ci jodu. Organizm wysyła siedem ważnych sygnałów - Medonet",
@@ -126,7 +126,7 @@
       "url": "https://ezwm.nfz.gov.pl/",
       "date": "2026-11-11T07:59:46Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 10,
+      "confirmed_by": 9,
       "summary": "System eZWM (e Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -958,14 +958,6 @@
       "summary": "FAQ: ASTRO guideline on hypofractionated radiation therapy for localized prostate cancer Urology Times."
     },
     {
-      "title": "Overview | AI methods for evidence framework | Guidance - NICE website",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wNEhTYzRMNzYxNXRSbE9NYUJGUmptek5aLVhuYk5HVDJ5ZWhUOTVtT0NPbDBBb2ZYYnpNSVc3ZVdNVmVmSExpc1VfUFlFdjlB?oc=5",
-      "date": "2026-11-09T08:00:00Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Overview | AI methods for evidence framework | Guidance NICE website."
-    },
-    {
       "title": "AI methods for technical documents | AI methods for evidence framework | Guidance - NICE website",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFJJazc5am1JenljbnlONUtUMTZvQlFMQkVHTXJuNFhxMTBOZVNmNjljQllCYjg4cjFhYmI2TEVHeDY4UzRQNkhITDUxd2lNWUdDYnZyN2Z3LTFZeDRSZS04SlVETWxkdUZUUm1YNzlSYlpMU2NrSnJfNzhXd2xSQmN2bXBCT1k5a1E?oc=5",
       "date": "2026-11-09T08:00:00Z",
@@ -980,6 +972,14 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "AI methods for evidence framework NICE website."
+    },
+    {
+      "title": "Overview | AI methods for evidence framework | Guidance - NICE website",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wNEhTYzRMNzYxNXRSbE9NYUJGUmptek5aLVhuYk5HVDJ5ZWhUOTVtT0NPbDBBb2ZYYnpNSVc3ZVdNVmVmSExpc1VfUFlFdjlB?oc=5",
+      "date": "2026-11-09T08:00:00Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Overview | AI methods for evidence framework | Guidance NICE website."
     },
     {
       "title": "Tools and resources | AI methods for evidence framework | Guidance - NICE website",
@@ -1964,14 +1964,6 @@
   ],
   "pharma_market": [
     {
-      "title": "What We’re Reading - BioPharma Dive",
-      "url": "https://www.biopharmadive.com/what-we-are-reading/",
-      "date": "2026-11-11T11:04:28Z",
-      "source": "BioPharma Dive",
-      "confirmed_by": 1,
-      "summary": "What We’re Reading BioPharma Dive."
-    },
-    {
       "title": "WuXi AppTec Removed From 1260H List, For Now - Informa PLC",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOd0JKcUtHMFRGcGQzSlFsZ3FkUTNKOG9zNVdQejF2ZGlaYXZ0aS1sS2hZZHp0eVBXSkN3X3NIdWF0ZnVLbmFUaThvSW9Sc182b3hINWw3czVmXzlnM2VjaW1MY1hOOUE1SG8tOUtZdXlYLW50Zk1iNks0ZWZCZDFQcFVFWkJUZ1ZCUmVmTGpXWHlOeUpPZ2VqTFpvd1pKYVk5dDhreHBfZFlTWlVlRENxYXpjTGlJLXVhVFJsNFJNWFNwZUhXZk9wUlhGZmtBS21tdHc5YXNFVThCS3ZodjViNWdxVFBtTmFwSzhsYk1ibll5NWxWQ3c?oc=5",
       "date": "2026-11-11T05:56:01Z",
@@ -2362,6 +2354,14 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Research Challenges Fusion for Lumbar Degenerative Spondylolisthesis Drugs.com."
+    },
+    {
+      "title": "White House presses ahead with Overton as confirmation window narrows - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON1lIVkFOYk9VSXlKbFhWb3JpNVBITHUyUVlnX3I3RFk1YUQ0NDd6VnBhUV9OTTFVdk5lVk5NUW92ekdmeHBqcDBER25BZzVWUFVMZWZDMWQtMkNqNmE2dzRUNlpKZkgwd19iRHk4SUxnVHZKbDZvbEZKWmNSMnZqWVE3OVFpRWc?oc=5",
+      "date": "2026-11-10T15:34:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "White House presses ahead with Overton as confirmation window narrows Endpoints News."
     }
   ],
   "critical_alerts": [
@@ -2444,7 +2444,7 @@
       "url": "https://ezwm.nfz.gov.pl/",
       "date": "2026-11-11T07:59:46Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 10,
+      "confirmed_by": 9,
       "summary": "System eZWM (e Narodowy Fundusz Zdrowia (NFZ)."
     }
   ]
