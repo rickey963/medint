@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T16:16:27Z",
+  "last_updated": "2026-11-13T16:20:45Z",
   "poland": [
     {
       "title": "Prezydent podpisał ustawę. Koniec całkowitego zakazu reklamy aptek - Alert Medyczny",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "SDPA 2026 - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMlpSTjNfTkZQVl90UWxSNHI0R25lV0pXSHhMc1BGVVJLQXdid2JERFcwSTc3aWNMQlJQTHpWdk80MGs5aXBiaFFScEtsQWktYjh0OGdWdTAzZXYzRjY0RGdHX0RoUVdFU1Uyb2stQ2N2bTVKekJSSGJwMTRjTG5Mamk4dS1XemE0dWhNdHpGamE3d29DMS1COFZDcUNRckRTSTNiMVVn?oc=5",
+      "date": "2026-11-13T16:13:43Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "SDPA 2026 Medscape."
+    },
+    {
       "title": "Microsoft IT outage: NHS cancels operations as many services affected - The BMJ",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wMXFiTGN4b2h5aElxb1JBdHUtaEhSS2FDY3l6REx4TFowM3kyYXlZamxFelp2LXQ1NEg0Y0tOWF85dmttSjM1ZVlVRVdISUtpaTV6d1k3bDhVdEk?oc=5",
       "date": "2026-11-13T15:16:08Z",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "10 facts on tuberculosis World Health Organization (WHO)."
-    },
-    {
-      "title": "One in Four Placebo Patients in Chronic Pancreatitis Trials Report Pain Relief - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVERJNEdUN3I0UEVyYjFuS3FGeVpMUXFiaWgzUlYwZmhBdVJqZGhnczVtSGFmVERYRzBxeUFDQWtMU2NlbW5WTmtzREFlNVdNNGg4QlAtRk1ZcG8yYmRoTmd0NjZrenZGNVVwMWxLZjFpcWZkTHlFNG1EQ2V3a1BBTVlxTU1qWmR6bU5TZF9JSTBxRm1RYnFGQXFGa09vT2M4M0JJVGlR?oc=5",
-      "date": "2026-11-12T21:06:53Z",
-      "source": "Cochrane Library",
-      "confirmed_by": 1,
-      "summary": "One in Four Placebo Patients in Chronic Pancreatitis Trials Report Pain Relief Bioengineer.org."
     }
   ],
   "guidelines": [
@@ -1142,20 +1142,20 @@
       "summary": "Samorząd lekarski rozpoczyna reformę od siebie. NRL zwołuje Nadzwyczajny Krajowy Zjazd Lekarzy NIL."
     },
     {
-      "title": "Guideline-Directed Medication Therapy for Diabetes and CKD - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVlh2UmhvZ29MNjUtVjV0a29Yb05rNk9yV2NLa1BCRkk3MUdGMEJGOFZNZk1lUkZSdlBjWnI0aFdzXzkzN04xTEQ1QzY5WWN1a1ZpOUhIanJ3Ni1jTENDcXRPNFNBdmFiRnJRdlByNF9Mb08wOGJtSFIwZTdoWENPdGNjcHlFbUFxZ19XUUJnRHB0UV8zUmdRdnJqNDJZQ2d4VEJueTZNT0VzaG9hdXc?oc=5",
-      "date": "2026-11-04T08:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Guideline-Directed Medication Therapy for Diabetes and CKD Medscape."
-    },
-    {
       "title": "OBWIESZCZENIE MINISTRA ZDROWIA z dnia 4 listopada 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdro - Dziennik Ustaw",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhaVNHUEQ0T1J3ekcyR2RFRnFGaWFKc2VkV0MyNDJJTWljaE50T25QYVlJemNQSDlGMFZqRXd3b0wxSFY1Rk5aSnVPMHp1bnVpdWxFaXBYN2hHQXc?oc=5",
       "date": "2026-11-04T08:00:00Z",
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 1,
       "summary": "OBWIESZCZENIE MINISTRA ZDROWIA z dnia 4 listopada 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdro Dziennik Ustaw."
+    },
+    {
+      "title": "Guideline-Directed Medication Therapy for Diabetes and CKD - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVlh2UmhvZ29MNjUtVjV0a29Yb05rNk9yV2NLa1BCRkk3MUdGMEJGOFZNZk1lUkZSdlBjWnI0aFdzXzkzN04xTEQ1QzY5WWN1a1ZpOUhIanJ3Ni1jTENDcXRPNFNBdmFiRnJRdlByNF9Mb08wOGJtSFIwZTdoWENPdGNjcHlFbUFxZ19XUUJnRHB0UV8zUmdRdnJqNDJZQ2d4VEJueTZNT0VzaG9hdXc?oc=5",
+      "date": "2026-11-04T08:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Guideline-Directed Medication Therapy for Diabetes and CKD Medscape."
     },
     {
       "title": "Acute heart failure in emergency settings - European Society of Cardiology",
@@ -1586,6 +1586,14 @@
   ],
   "clinical_trials": [
     {
+      "title": "AHA 2026: Novo reveals baseline data for Phase III ARTEMIS trial - Clinical Trials Arena",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmNmdTJiMUFlWGJYZzUxdWNIdThMZGZ2WGNuQW9BSy1xOHNpYkVyYjhiazJ2SVJoZXBlTGo2S056bnMwYzhJdHdRbjJGb3ZON3dXOHVoVFJITHE5aHF3UjRWOW9Ca3VSVnZyMEF1VU94ZVBaQ01NR3lfOUZLaUhVcjJJd0NYSjZEQmdPMzZtblJCbS1iWklSX1htVDlKSjFEQ2ZORnlUY2VNeUdTTkRKSWs5NUNJN3c?oc=5",
+      "date": "2026-11-13T16:14:32Z",
+      "source": "Clinical Trials Arena",
+      "confirmed_by": 1,
+      "summary": "AHA 2026: Novo reveals baseline data for Phase III ARTEMIS trial Clinical Trials Arena."
+    },
+    {
       "title": "AHA26: Kerendia shows efficacy in heart failure across kidney failure risk strata - Clinical Trials Arena",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQURQMkdmaXBpOUNtVGZaQi1mdkNWbGs0U2QzSVdkVkFyNHQ3SS00M1VnRHVEeWF2bkY5SHhZWFNnWjNNZ2VzYTFiNXV3ZDNodVJZNXFydXZHVmRXZ3ZDNlliNU1mV01fNWVHcVRXRWJQMkRMZUhsUHNNV1ppakdQWFF4RmpLS0x2c2VoLWpjZTRZMUVRTVBlQWo5UW1GcWV2ZExVNnRfb1RoaldlbDVqcjJ5RUV3NWJqZGJXX3RxNS1DT2tFMnNoaTlnQUQ?oc=5",
       "date": "2026-11-13T16:06:48Z",
@@ -1976,14 +1984,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07930039 | A Clinical Trial of Multiple Doses of GR2301 Injection in Participants With Vitiligo. ClinicalTrials.gov."
-    },
-    {
-      "title": "Azithromycin as an Adjunct to Corticosteroids in Children With Newly Diagnosed Immune Thrombocytopenia - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xR2ZhdXo4X3RweElSaXF0cGNyMXNhem52Y1hkSmt1X2FkT1dFYWwwRC1wYnN3QTVTeFlER2hBanh6U0NQZEVLemhzeFdBUEJuMXRqTTdiWQ?oc=5",
-      "date": "2026-11-10T16:39:34Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Azithromycin as an Adjunct to Corticosteroids in Children With Newly Diagnosed Immune Thrombocytopenia ClinicalTrials.gov."
     }
   ],
   "pharma_market": [
