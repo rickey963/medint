@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T16:42:59Z",
+  "last_updated": "2026-11-13T16:47:34Z",
   "poland": [
     {
       "title": "Wyszukane artykuły - \"historia\" - Najwyższa Izba Kontroli",
@@ -128,6 +128,14 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Rak żołądka - choruje coraz więcej młodych dorosłych. Jakie mogą być tego przyczyny? Puls Medycyny."
+    },
+    {
+      "title": "Leczenie tętniczego nadciśnienia płucnego w pierwszym roku po rozpoznaniu - Medycyna Praktyczna",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQkMtNzRaWVNfM2Zjc2xFMm1CbG9NN3hIZGRnMGNISlpKMEhONloxMkkwZEtuOXpTamFuRnl1cjQtMWgwaXVvdFR6SFo0LUt2eGxEUnNvUmNmeUFINmRlQ2tyRlFKVm9BWDctck9GZnQ4Y09UTkt2T0RCRHZ6ajhaT21PY1VCU3JiN2dob0N3R19uSHpKd01XYW5BeFFlLV82VGh5SlhTVUlWejdUYTVxSmtPNkEtZUplSWJPWmhibi15X2hi?oc=5",
+      "date": "2026-11-13T12:23:23Z",
+      "source": "Medycyna Praktyczna",
+      "confirmed_by": 1,
+      "summary": "Leczenie tętniczego nadciśnienia płucnego w pierwszym roku po rozpoznaniu Medycyna Praktyczna."
     },
     {
       "title": "Gorąco wokół leków na odchudzanie. Pacjenci czekają na decyzję - Rynek Zdrowia",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "1 mln zł dla Krajowej Izby Ratowników Medycznych. Na co zostaną przeznaczone środki? Alert Medyczny."
-    },
-    {
-      "title": "Wszystko na temat: opieka domowa - Podyplomie.pl",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NMUo4NTJ4Yk9JbWFxLS1NMm5jbFdGYjItMklOQmlHM1RndHBIcGVXSjViSm9RdWNVbWs5eS1SOUZocGk3WHZBU0ZzNWJZU2V0R2loSlh3?oc=5",
-      "date": "2026-11-13T07:50:29Z",
-      "source": "Medycyna po Dyplomie",
-      "confirmed_by": 1,
-      "summary": "Wszystko na temat: opieka domowa Podyplomie.pl."
     }
   ],
   "world": [
@@ -846,14 +846,6 @@
       "summary": "New Clinical Guideline Offers Recommendations on Managing Shift Work Disorder Sleep Review."
     },
     {
-      "title": "EHRA CIED Course 2027 on ESC 365 - ESC 365",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JWkRBXzVuams1Qk5BTFFyY0FhSmpJUFFFVlZGekY4Z3Q1eWI1bllIX05HN09jajRvaXFDRmo4R19kX0l3ZHZKNDluWVd4ZUU?oc=5",
-      "date": "2026-11-12T23:13:02Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "EHRA CIED Course 2027 on ESC 365 ESC 365."
-    },
-    {
       "title": "Joint Medical Guideline Evaluates Newer Therapies For Primary Biliary Cholangitis - Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTR3MGh3cjU0QXNQZGtQUmxxTmwwbENYbzRybUFHQ0szeUdGZGN3TWxfaENmVV9vSXJhVnV6VXU2Nmk3RWNBWXdyYXJkOGlzQ245eXU0Z01yR3laRmhSc3YyWGpjVnQtSGNYeV9xRkhxS3N3T2h6NGJ3SXVvaTBuMUc4bXNKVmtra3ZETVdxd29NbWRWRW9RMHYwN1I5ektIX3pHT1p3ZG9Mdw?oc=5",
       "date": "2026-11-12T21:26:53Z",
@@ -1132,6 +1124,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Tragiczne wydarzenia w Krakowie NIL."
+    },
+    {
+      "title": "EHRA CIED Course 2027 on ESC 365 - ESC 365",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JWkRBXzVuams1Qk5BTFFyY0FhSmpJUFFFVlZGekY4Z3Q1eWI1bllIX05HN09jajRvaXFDRmo4R19kX0l3ZHZKNDluWVd4ZUU?oc=5",
+      "date": "2026-11-05T20:50:28Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "EHRA CIED Course 2027 on ESC 365 ESC 365."
     },
     {
       "title": "Samorząd lekarski rozpoczyna reformę od siebie. NRL zwołuje Nadzwyczajny Krajowy Zjazd Lekarzy - NIL",
@@ -1936,46 +1936,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07930104 | Study of Fosfomycin-containing Antibiotic Regimens for the Treatment of Infective Endocarditis in Clinical Practice ClinicalTrials.gov."
-    },
-    {
-      "title": "Study Details | NCT07927764 | Predictive Factors of Long-term Survivor (LTS) of Patients With Recurrent or Metastatic, Radio-iodine Resistant Differentiated Thyroid Cancer (RRDTC) After Lenvatinib: a Multicenter Study - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tVEVnZk9LVHI0MVhvZXBsUmdseFdVTHNsZEZKSno2dDhzVHZ2NGNiRWphWFRxZk9jZ1NpV3F5djVHRVNhYXpZemVsQkxRRFpZd3d1OFNpYw?oc=5",
-      "date": "2026-11-10T16:47:18Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07927764 | Predictive Factors of Long-term Survivor (LTS) of Patients With Recurrent or Metastatic, Radio-iodine Resistant Differentiated Thyroid Cancer (RRDTC) After Lenvatinib: a Multicenter Study ClinicalTrials.gov."
-    },
-    {
-      "title": "Study Details | NCT07928960 | Conventional or Ultrasound Guided Puncture Technique for the Distal Radial Artery, Direct Comparison Study (Sound Distal Trial). - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TMGNaWUhxR1d2aEJRWjRQNGIzS1ZDS2t3NGN1OXpvZG1mVHJKMU8yLWNhUU5QWHo5b0RGTmhyVkF6MkZZbllWNTNHN3I0S3A4dTN4S1c5RQ?oc=5",
-      "date": "2026-11-10T16:45:54Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07928960 | Conventional or Ultrasound Guided Puncture Technique for the Distal Radial Artery, Direct Comparison Study (Sound Distal Trial). ClinicalTrials.gov."
-    },
-    {
-      "title": "Study Details | NCT07928648 | Low Intensity Focused Ultrasound in Cocaine Use Disorder - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mRGZILWZST2JOOXpRTmhObEszdi1XTDN2U1FSQ3pIVDZKc2FUeUtrSnhGR2hOZTdSQ0IyS1RLZmpzX19HYklwdGdsalE3NmMyQWwtOEowZw?oc=5",
-      "date": "2026-11-10T16:44:43Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07928648 | Low Intensity Focused Ultrasound in Cocaine Use Disorder ClinicalTrials.gov."
-    },
-    {
-      "title": "Bioavailability and Bioequivalence Study of Ziftomenib in Participants With Relapsed/​Refractory AML or MDS - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCTHptcmliWDh2ZWZubFFBV19qeUxvT3g4bUxuXzU3UnYzck41aHV0Y2ZRblhIWGE2ODB0TERqVmU2bUM0Wlo3Y0EzdGd2bl81TjlUQjNQYw?oc=5",
-      "date": "2026-11-10T16:43:41Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Bioavailability and Bioequivalence Study of Ziftomenib in Participants With Relapsed/​Refractory AML or MDS ClinicalTrials.gov."
-    },
-    {
-      "title": "PNF Plus Progressive Rehabilitation for Adolescent Athletes With Osgood-Schlatter Syndrome (PNF-OSD) - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSM1dYclBXNkdEa2RXc0lpSHF3dTNnS1ZXc2lVZ2RRYnhhM0ZOaGRBR1hlQldjdUM4ZEV0QjB0bE5XZE5mcVpDRjB1alF3cjFPOHpXdVdicw?oc=5",
-      "date": "2026-11-10T16:43:13Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "PNF Plus Progressive Rehabilitation for Adolescent Athletes With Osgood-Schlatter Syndrome (PNF-OSD) ClinicalTrials.gov."
     }
   ],
   "pharma_market": [
