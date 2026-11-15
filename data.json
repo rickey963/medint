@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T13:49:58Z",
+  "last_updated": "2026-11-15T13:54:14Z",
   "poland": [
     {
       "title": "Niepokojące dane o cukrzycy u dzieci w Polsce. Co drugi mały pacjent może wymagać pilnej hospitalizacji - PolitykaZdrowotna.com",
@@ -574,7 +574,7 @@
     {
       "title": "Customer Service - NEJM - The New England Journal of Medicine - The New England Journal of Medicine",
       "url": "https://myaccount.nejm.org/contact-us",
-      "date": "2026-11-14T23:20:13Z",
+      "date": "2026-11-14T23:20:14Z",
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Monday - Friday 8 AM - 7 PM ET 1-800-THE-NEJM (1-800-843-6356) +1-781-434-7888 (outside U.S. & Canada)."
@@ -1304,6 +1304,14 @@
       "summary": "Weekly US Influenza Surveillance Report: Key Updates for Week 44, ending November 7, 2026 | FluView Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
+      "title": "COVID-19 Ensemble Forecasts - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
+      "date": "2026-11-13T08:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "COVID-19 Ensemble Forecasts Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "Tracking C. auris | Candida auris (C. auris) - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiUDktOGU4ZlJVWThmV21KbjdBQUNTVmFLN1JsTVVlcmlrSHhrZ0VHc0VPWlNNMGhmUkQtTlBXZ3FrQ0lNeFZRbndoWlZUYjFTaGlDVUVsU0pqT2dSNmhaQWtVVkhMZjJiMmNMS1ZR?oc=5",
       "date": "2026-11-13T08:00:00Z",
@@ -1440,14 +1448,6 @@
       "summary": "Global tuberculosis report 2026 – information sheet World Health Organization (WHO)."
     },
     {
-      "title": "Global tuberculosis report 2026 - Top findings and messages - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGZ4STVZMDNnTjVzQTQ3czlyXzFsSG5nc01yV19iNDI1SXlwWkdsalpZNkN5Y29vVThWMTAwN3R6Zm4zUTRFbkVFOFR1d1lrMlNTTV9jdmZSeDdXd3FsdnNzZGQ2ZXR6bndzSDVWVEMwZkxBaDIwQndQVWhFZjNEdkNRSnlhdFpvRlZTU2M4OWR5QV9qTk94czBkQ293NEpD?oc=5",
-      "date": "2026-11-12T13:50:21Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Global tuberculosis report 2026 - Top findings and messages World Health Organization (WHO)."
-    },
-    {
       "title": "Common diabetes drug linked to lower risk of death after COVID infection - CIDRAP",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOalBVOC1GeUtxdUlVNkVKTTVBM2ZkS0pOSTVONW9HcGRYcTl1R3ladTByTFQ1NGZCdmlmOEtSLXRvRzFKS013Z0J0R21GRzBWMnFWWENmekRrMHZGZk9tMzRTQ0JvaHlzeGx4YV82VGU2cV90cXJTWGRPaHk5TXpJdjFnS3dDRUZod0JzS0VmOEpCejlCZEtLN3N4STBvT05MZm94cg?oc=5",
       "date": "2026-11-11T20:51:35Z",
@@ -1494,14 +1494,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Study examines cervical cancer’s global burden now and by 2050 CIDRAP."
-    },
-    {
-      "title": "Wider use of Ervebo vaccine urged as DR Congo Ebola outbreak nears 11,000 cases - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ09mNUk1TFdPQi1iNWpVdTZJcTk4QXdrRzg5eUZ0akhZeWVlVzhmX2pPUVNweUt6bW1ZVzNveEt4X2c0NUVLTG1BaTIyS01NUzBmSFhSbW9PRG9tWk54cEt2MEJ4amozSW1CNWlraVFCNktqbzFoRVJtaEFqQm9xODBiWTJuVlBMTHZaeVplWU1mTFB4LTZ6YUQzOGJ0LWZxcktFNnJ4Q2ZJYS1KYldOcUYtZE5GOUFVZDVyUG5MYjE?oc=5",
-      "date": "2026-11-09T21:31:12Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Wider use of Ervebo vaccine urged as DR Congo Ebola outbreak nears 11,000 cases CIDRAP."
     }
   ],
   "clinical_trials": [
@@ -1682,20 +1674,28 @@
       "summary": "Eggshell-Derived Hydroxyapatite With Platelet-Rich Fibrin for Bone Regeneration After Jaw Cyst Removal ClinicalTrials.gov."
     },
     {
-      "title": "Study Details | NCT07935525 | Movement Controlled by Breath for Recovery - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTmVibk1nbVZoTklfdGNsUVVYOTREY2JiTGh0XzFfNEg3Z0hJYUVvVmQtbFlWY2V6emNqSk1KT3d0cXlyZzh1NXQ1b1BfZUxhYVRRSF9ydGt4dWFZTnR4S1lCNHVZeU5qMkc3S2tyeHFBcWVkM1FnZ0hreGVldVJtQW5jT3JNVUtxcVFjRlR4M3lxWW9vaG1EYllGLW5WSDgyM21DdzlVS1BYekFtaVg0VHU2U0dEZWh6VFlaekF0MUd2VEU?oc=5",
-      "date": "2026-11-13T08:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07935525 | Movement Controlled by Breath for Recovery ClinicalTrials.gov."
-    },
-    {
       "title": "Study Details | NCT07937124 | An All-Oral Combination of Ivosidenib, Sonrotoclax, and Chidamide for Newly Diagnosed Acute Myeloid Leukemia With an IDH1 Mutation (ISC) - ClinicalTrials.gov",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZc2lOUThMdVdnOTF1QkppT3ktcFBFQ1R5cWcxdFJwMk5JSkI3b245OU1TeWNHVEZIWmNTMmphdjBGSnFsLWJGdXZxTjltZWZvTkZtQnVaU3hVX3R1bVRLSF9aSFB1TTNoSjN2X2JEbko4STFEcGVV?oc=5",
       "date": "2026-11-13T08:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07937124 | An All-Oral Combination of Ivosidenib, Sonrotoclax, and Chidamide for Newly Diagnosed Acute Myeloid Leukemia With an IDH1 Mutation (ISC) ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07935824 | Melodies for Mums to Be: Community Group Singing Intervention for Pregnant Women With Antenatal Depressive Symptoms - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NZXlrd0pjNFlUczFZcWE3YUVub21kY1hYaEtibTNYV0lfdmJrN2pEZDIxVVFNWGJTTzRsV19nYzNlZElES1dSa2ZNYlhSTU5yTVpLOVNKSQ?oc=5",
+      "date": "2026-11-13T08:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07935824 | Melodies for Mums to Be: Community Group Singing Intervention for Pregnant Women With Antenatal Depressive Symptoms ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07935525 | Movement Controlled by Breath for Recovery - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTmVibk1nbVZoTklfdGNsUVVYOTREY2JiTGh0XzFfNEg3Z0hJYUVvVmQtbFlWY2V6emNqSk1KT3d0cXlyZzh1NXQ1b1BfZUxhYVRRSF9ydGt4dWFZTnR4S1lCNHVZeU5qMkc3S2tyeHFBcWVkM1FnZ0hreGVldVJtQW5jT3JNVUtxcVFjRlR4M3lxWW9vaG1EYllGLW5WSDgyM21DdzlVS1BYekFtaVg0VHU2U0dEZWh6VFlaekF0MUd2VEU?oc=5",
+      "date": "2026-11-13T08:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07935525 | Movement Controlled by Breath for Recovery ClinicalTrials.gov."
     },
     {
       "title": "Study Details | NCT07675135 | A Phase 3 Efficacy and Safety Study of HBS-301 in Participants With Narcolepsy - ClinicalTrials.gov",
@@ -1712,14 +1712,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07936227 | Effect of Sirolimus on Oocyte Quality in Women Undergoing IVF ClinicalTrials.gov."
-    },
-    {
-      "title": "Study Details | NCT07935824 | Melodies for Mums to Be: Community Group Singing Intervention for Pregnant Women With Antenatal Depressive Symptoms - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NZXlrd0pjNFlUczFZcWE3YUVub21kY1hYaEtibTNYV0lfdmJrN2pEZDIxVVFNWGJTTzRsV19nYzNlZElES1dSa2ZNYlhSTU5yTVpLOVNKSQ?oc=5",
-      "date": "2026-11-13T08:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07935824 | Melodies for Mums to Be: Community Group Singing Intervention for Pregnant Women With Antenatal Depressive Symptoms ClinicalTrials.gov."
     },
     {
       "title": "He Survived a Coma. Now He Wants Answers: Canada’s Vaccine Injury Backlog Meets India’s Supreme Court Reckoning - TrialSite News",
@@ -2220,14 +2212,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Kenya begins Ebola-free countdown as DR Congo tops 11,000 cases CIDRAP."
-    },
-    {
-      "title": "Wider use of Ervebo vaccine urged as DR Congo Ebola outbreak nears 11,000 cases - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ09mNUk1TFdPQi1iNWpVdTZJcTk4QXdrRzg5eUZ0akhZeWVlVzhmX2pPUVNweUt6bW1ZVzNveEt4X2c0NUVLTG1BaTIyS01NUzBmSFhSbW9PRG9tWk54cEt2MEJ4amozSW1CNWlraVFCNktqbzFoRVJtaEFqQm9xODBiWTJuVlBMTHZaeVplWU1mTFB4LTZ6YUQzOGJ0LWZxcktFNnJ4Q2ZJYS1KYldOcUYtZE5GOUFVZDVyUG5MYjE?oc=5",
-      "date": "2026-11-09T21:31:12Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Wider use of Ervebo vaccine urged as DR Congo Ebola outbreak nears 11,000 cases CIDRAP."
     },
     {
       "title": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak - WHO | Regional Office for Africa",
