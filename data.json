@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-16T03:45:14Z",
+  "last_updated": "2026-11-16T03:49:10Z",
   "poland": [
     {
       "title": "AP-KOLCE - NFZ - Narodowy Fundusz Zdrowia (NFZ)",
       "url": "https://kolejki-online.nfz.gov.pl/ap-kolce/user/kolejkiwys/kolejkalst@default",
       "date": "2026-11-16T00:42:19Z",
       "source": "Narodowy Fundusz Zdrowia",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "AP-KOLCE - NFZ Narodowy Fundusz Zdrowia (NFZ)."
     },
     {
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Gallstone-Related Abscess in a Man 11 Years After Surgery - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckRKYnZYRGxlMldhbnhsOVk3ai1kMXoxMlZYNE1KQjctdE1fRjJiQ3BabzVHWC16RHFkYktZczhaeFVHUTYtMU1DVDNwaFVWODVkcUNJM1Q3dEpjSk9heVVkS0tkcnV1OTM5TWk0NDlpbUlsUzIyVzMtMlF4QTdyQUgwbzFfSlZ1RmpYLVoyOXctY0lzNi04QWppLS1QVGJYVFNlYw?oc=5",
+      "date": "2026-11-16T03:38:39Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Gallstone-Related Abscess in a Man 11 Years After Surgery Medscape."
+    },
+    {
       "title": "Apple and OpenEvidence launch experimental health chat app - STAT",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTJIWldKX3NmaVZIRnh4RE5zQ3UyNGFNZGlHdTl2OGZfSzdWWlhVMk5raTNKeEl1RS0yYy1EMEpWeUxUY2Z0Q3BRMGNRbDRlLWotVGxGbmRSUlhSVzFoYWZVYkxhRWRfMko3aDEwMU5MZWlMS2d2akF1d0t5Ynh4UXVyZ09OQnRKNzVuaTJoMDlPbVlUXzN3?oc=5",
       "date": "2026-11-16T02:25:35Z",
@@ -794,14 +802,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Japan contributes US$ 1.97 million to strengthen the health response in the Gaza Strip World Health Organization (WHO)."
-    },
-    {
-      "title": "Syrian Arab Republic launches coordinated public health response following poliovirus detection in Deir Ezzor - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2Z3cm95STlIaVlBdE5uSzUwX3owSTZuaWRwbDdUYW1ZM2h2aWg5UnpBNmhJLXUwZHZmbjF0V1ZsUlFORHM5cWttM3ZJVm1FSTZ3OVZVMHZuUmlEVDFvaTI0S1ZyaGtzWHZLWEozLTlaeDdKaWZZN2JMYWVVUFAycjQ1S3pUaU1GRExyVGlPMVU3b3VNQzZPdjdRaExoNDVfbkFLcXhDNUhOakRna1VNYk9jM3U3UlZiLWdDWVRSNHQtNXBRYzdnQ2tNeGRJaUphWm54eDNFdENqRDk4aG0xdVZlblc?oc=5",
-      "date": "2026-11-14T21:45:13Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Syrian Arab Republic launches coordinated public health response following poliovirus detection in Deir Ezzor World Health Organization (WHO)."
     }
   ],
   "guidelines": [
@@ -1078,14 +1078,6 @@
       "summary": "Tragiczne wydarzenia w Krakowie NIL."
     },
     {
-      "title": "Condition causing lifelong high cholesterol linked to pregnancy complication - European Society of Cardiology",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmtuYXlfT21nMjBvYUplOWl6UlF6WDZZbHlIUUFIM0tBNmFraWRTNnppSnJIbVAyOW1mVFp0M2VIR01ZRDFDUUY0SlBZWG1UZ3Jxd2NpRExWS0EyUktUcS1xTVBRNWx6UVRtTkpYSFdWanBZWVNYVk02ZU5JRkNWMldPNWQxT0tkLTdvM2ZZMmV6eW5OZTJUYk55cHFwR3lWNzFVSENibmZtYnBHSXMyTUhtbUdCVEZjYndhbzVHMmlOT1g4OEtB?oc=5",
-      "date": "2026-11-05T08:00:00Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "Condition causing lifelong high cholesterol linked to pregnancy complication European Society of Cardiology."
-    },
-    {
       "title": "Samorząd lekarski rozpoczyna reformę od siebie. NRL zwołuje Nadzwyczajny Krajowy Zjazd Lekarzy - NIL",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY2hhV3FfNmdMc2JzdkVoeTB5aWJhU0tnTWpBSDR1b3puY2VsOVZrcU9SSldkNkxBdlE1bmJmUHR0eFQyaDVGTExYV3dibzJncWE3eU5jZ0FlQlkwWmRhdEk4M0Rxb2FWWjByYW1HbUI5RXpCekxsMmZ5bFAtQnAybzBDcnFSc1RMbVBpOVJYLWtqalo1a0ZrREZzNXZ0SzdfdXdSNS14MWpVY25oWkE0RVZJZ04zWHllaGhMU3RodXp4RTFfMlY0YQ?oc=5",
       "date": "2026-11-04T21:47:26Z",
@@ -1108,14 +1100,6 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "Guideline-Directed Medication Therapy for Diabetes and CKD Medscape."
-    },
-    {
-      "title": "OBWIESZCZENIE MINISTRA ZDROWIA z dnia 4 listopada 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdro - Dziennik Ustaw",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhaVNHUEQ0T1J3ekcyR2RFRnFGaWFKc2VkV0MyNDJJTWljaE50T25QYVlJemNQSDlGMFZqRXd3b0wxSFY1Rk5aSnVPMHp1bnVpdWxFaXBYN2hHQXc?oc=5",
-      "date": "2026-11-04T08:00:00Z",
-      "source": "Dziennik Ustaw RP",
-      "confirmed_by": 1,
-      "summary": "OBWIESZCZENIE MINISTRA ZDROWIA z dnia 4 listopada 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdro Dziennik Ustaw."
     }
   ],
   "epidemiology": [
@@ -1260,7 +1244,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUjNUUXA2QWdLamVFdzVwNlV5RkF6aTZQLW9SYnpTVGJUY2VaT01DRF83UUNXMUh2NmpjcXB1VkZ2R2loa3M3b3NSLVE0c1R5eUE5c1NiYTdpc0pScWY0ZTBwTFdTazRlTmFlVDBIb0FBTjZVcU51cVRWUWwxN3JHc1pvbDA5WlIx?oc=5",
       "date": "2026-11-13T18:47:25Z",
       "source": "ECDC",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Disease overview on yellow fever European Centre for Disease Prevention and Control (ECDC)."
     },
     {
@@ -1706,6 +1690,14 @@
       "summary": "Eggshell-Derived Hydroxyapatite With Platelet-Rich Fibrin for Bone Regeneration After Jaw Cyst Removal ClinicalTrials.gov."
     },
     {
+      "title": "He Survived a Coma. Now He Wants Answers: Canada’s Vaccine Injury Backlog Meets India’s Supreme Court Reckoning - TrialSite News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMzYwZE1jSll2OEFSLVhzbUZTSjBRS0YtUHYweUNQNGs0cm1uTktqSzF2eUZDWnY3ZWdIOTVOaW1ud19aRVVJcTVfRmVvTERyb2VaNXloS3VEV1k4bEVlOXdMMlFUVEluSVdpeFdTcmZkU0RSOGVXYWFfb2hldnpXd2FaTVF1djVaODV4XzJBUEpOal9tQk10dDhLOGtjZF9FbTVZaVdHUmtUNFVGMjlLWFdkNl9VN1JjX3JMMWVLZVM3ZWg4Tlh5VjhmODlmcnQwSDZFZUlZeTIyNWUwWFpibTBJVQ?oc=5",
+      "date": "2026-11-13T08:00:00Z",
+      "source": "TrialSite News",
+      "confirmed_by": 1,
+      "summary": "He Survived a Coma. Now He Wants Answers: Canada’s Vaccine Injury Backlog Meets India’s Supreme Court Reckoning TrialSite News."
+    },
+    {
       "title": "Study Details | NCT07935525 | Movement Controlled by Breath for Recovery - ClinicalTrials.gov",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTmVibk1nbVZoTklfdGNsUVVYOTREY2JiTGh0XzFfNEg3Z0hJYUVvVmQtbFlWY2V6emNqSk1KT3d0cXlyZzh1NXQ1b1BfZUxhYVRRSF9ydGt4dWFZTnR4S1lCNHVZeU5qMkc3S2tyeHFBcWVkM1FnZ0hreGVldVJtQW5jT3JNVUtxcVFjRlR4M3lxWW9vaG1EYllGLW5WSDgyM21DdzlVS1BYekFtaVg0VHU2U0dEZWh6VFlaekF0MUd2VEU?oc=5",
       "date": "2026-11-13T08:00:00Z",
@@ -1720,14 +1712,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07936227 | Effect of Sirolimus on Oocyte Quality in Women Undergoing IVF ClinicalTrials.gov."
-    },
-    {
-      "title": "He Survived a Coma. Now He Wants Answers: Canada’s Vaccine Injury Backlog Meets India’s Supreme Court Reckoning - TrialSite News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMzYwZE1jSll2OEFSLVhzbUZTSjBRS0YtUHYweUNQNGs0cm1uTktqSzF2eUZDWnY3ZWdIOTVOaW1ud19aRVVJcTVfRmVvTERyb2VaNXloS3VEV1k4bEVlOXdMMlFUVEluSVdpeFdTcmZkU0RSOGVXYWFfb2hldnpXd2FaTVF1djVaODV4XzJBUEpOal9tQk10dDhLOGtjZF9FbTVZaVdHUmtUNFVGMjlLWFdkNl9VN1JjX3JMMWVLZVM3ZWg4Tlh5VjhmODlmcnQwSDZFZUlZeTIyNWUwWFpibTBJVQ?oc=5",
-      "date": "2026-11-13T08:00:00Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "He Survived a Coma. Now He Wants Answers: Canada’s Vaccine Injury Backlog Meets India’s Supreme Court Reckoning TrialSite News."
     },
     {
       "title": "Study Details | NCT07675135 | A Phase 3 Efficacy and Safety Study of HBS-301 in Participants With Narcolepsy - ClinicalTrials.gov",
@@ -2188,14 +2172,6 @@
       "source": "WHO",
       "confirmed_by": 1,
       "summary": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak WHO | Regional Office for Africa."
-    },
-    {
-      "title": "Syrian Arab Republic launches coordinated public health response following poliovirus detection in Deir Ezzor - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2Z3cm95STlIaVlBdE5uSzUwX3owSTZuaWRwbDdUYW1ZM2h2aWg5UnpBNmhJLXUwZHZmbjF0V1ZsUlFORHM5cWttM3ZJVm1FSTZ3OVZVMHZuUmlEVDFvaTI0S1ZyaGtzWHZLWEozLTlaeDdKaWZZN2JMYWVVUFAycjQ1S3pUaU1GRExyVGlPMVU3b3VNQzZPdjdRaExoNDVfbkFLcXhDNUhOakRna1VNYk9jM3U3UlZiLWdDWVRSNHQtNXBRYzdnQ2tNeGRJaUphWm54eDNFdENqRDk4aG0xdVZlblc?oc=5",
-      "date": "2026-11-14T21:45:13Z",
-      "source": "WHO",
-      "confirmed_by": 1,
-      "summary": "Syrian Arab Republic launches coordinated public health response following poliovirus detection in Deir Ezzor World Health Organization (WHO)."
     },
     {
       "title": "Statement of the Forty-sixth Meeting of the Polio IHR Emergency Committee - World Health Organization (WHO)",
