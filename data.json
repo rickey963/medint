@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T14:48:53Z",
+  "last_updated": "2026-11-17T14:52:40Z",
   "poland": [
     {
       "title": "Koniec jednorazowych e-papierosów? Co zakłada projekt nowelizacji ustawy tytoniowej - PolitykaZdrowotna.com",
@@ -970,7 +970,7 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-11-13T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1070,6 +1070,14 @@
       "summary": "Board, executive team and senior leaders interests register NICE website."
     },
     {
+      "title": "Follow-up, Long-term Implications and Survivorship - European Society For Medical Oncology | ESMO",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSGxjd1k2WmpGdE1lWEJyV1NxdXhiSElWb281Y0tqaE9hZ2xSZ3BIN25oWGM0ZklXLVJLTUhRLWFJRGU4ak9JTzc5dnZTeURNYlJjeUx5ckJtcFZsT1lTcjFwZ1Iyak1xM1NNRjJ6a3U0a09PRFowVnVNc3AxN0JnZ0ZKYm1jSlB6Z3dLUFRNeWJwQlhjNW5pRnloajdXTEZRcUtSc2JFZUVEV19xRE9fMFIzcFBSaGloNVZCU1h6RlItampTNk5qaWNrVDYtZmw3Rkw3T3VDWXJaNkpmOW1QRkFBRTFVQUE?oc=5",
+      "date": "2026-11-11T02:35:44Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "Follow-up, Long-term Implications and Survivorship European Society For Medical Oncology | ESMO."
+    },
+    {
       "title": "Tragiczne wydarzenia w Krakowie - NIL",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FNTZnck1NOERqUFg5cWNETUpuWERXRHN3b2xvV3lvdWM0MXp2Qm91OVY4S2x5OURtNDJMbkVRVEJGamZPRUF3MGhfS0dCSnAxbEZoZUhlYVNjX1RhNnYxVmVrVW1pM0pyTDZMMHZYNm1mU3hpYVE?oc=5",
       "date": "2026-11-07T18:16:02Z",
@@ -1092,14 +1100,6 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Samorząd lekarski rozpoczyna reformę od siebie. NRL zwołuje Nadzwyczajny Krajowy Zjazd Lekarzy NIL."
-    },
-    {
-      "title": "The future of dMMR/MSI-H locally advanced rectal cancer could be free from chemotherapy - European Society For Medical Oncology | ESMO",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbVAwLUdHQThyRUhKUl9GbVFfTzJTYk9TS05YUFB5YzVPbjI0djZpOVBRcDhYY3lFSHY0ZkhsTVpjd3o5b0xwdHpFVm9EZzBTdjl1Xy1vMnV3YjQyV1Z0bTEza21Na205NDBFTHpFRWNQdjZScFhEZ0xNWDdCQTVzeWZIMHVJZThWU2pPS2JaNjZaSnFrb2Fkb2lVNEViMFBFUENSSGhsb0tyUzEzbVNfWUllTEtzVnlUSjFKZFFiUEhXWEJKaDFsSHV1eTM4UEE?oc=5",
-      "date": "2026-10-27T07:00:00Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "The future of dMMR/MSI-H locally advanced rectal cancer could be free from chemotherapy European Society For Medical Oncology | ESMO."
     }
   ],
   "epidemiology": [
@@ -1692,20 +1692,20 @@
       "summary": "AriBio’s oral Alzheimer’s drug meets monotherapy goal in phase 3 as Fosun weighs licensing option Fierce Pharma."
     },
     {
-      "title": "Marrow raises $173M for siRNA drug to compete with one-time CRISPR therapy for sickle cell - Endpoints News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ21jNnplOFpoUTdZdjRTU3A5ZFJIRFk0dEtsbGRqaTNMUDR6OEFjaEZHeUJJa1M5bzJNalJLVXp0S0tlTGQyOFlCdEFCeWtwbUxfeWtLeHQzWlNJaVRPXzVFcWp2eHBsWTl3cUVYZ1NCblZhYXFyTHBfVml3d0tnTVJJTXlNN0JJU3BqTThTcWZwa3lNamVTUmxXV0NveGJ5VGx1anR3?oc=5",
-      "date": "2026-11-17T12:00:00Z",
-      "source": "Endpoints News",
-      "confirmed_by": 1,
-      "summary": "Marrow raises $173M for siRNA drug to compete with one-time CRISPR therapy for sickle cell Endpoints News."
-    },
-    {
       "title": "Roche enters the SERD market with FDA approval in late-stage breast cancer - Endpoints News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbmhMVGNLQzFHbjc5S28xWUUzY2pEXzFVSFU1c09XMGx5MDc4Z0RUN0FueTFnbjRlNURIZU9mdlZGZHhVbWRQSUtVTFB0VkkxQWlpbnBiaXhGdlQ0ZGRMRS05V01fcFoyVXFpeEZpYktPV20ybjhESlowNDBhUVFPeklNdU9HZENsYUstQ0xfYWhlX1NDdWk1UG9TeW9RR0U?oc=5",
       "date": "2026-11-17T12:00:00Z",
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "Roche enters the SERD market with FDA approval in late-stage breast cancer Endpoints News."
+    },
+    {
+      "title": "Marrow raises $173M for siRNA drug to compete with one-time CRISPR therapy for sickle cell - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ21jNnplOFpoUTdZdjRTU3A5ZFJIRFk0dEtsbGRqaTNMUDR6OEFjaEZHeUJJa1M5bzJNalJLVXp0S0tlTGQyOFlCdEFCeWtwbUxfeWtLeHQzWlNJaVRPXzVFcWp2eHBsWTl3cUVYZ1NCblZhYXFyTHBfVml3d0tnTVJJTXlNN0JJU3BqTThTcWZwa3lNamVTUmxXV0NveGJ5VGx1anR3?oc=5",
+      "date": "2026-11-17T12:00:00Z",
+      "source": "Endpoints News",
+      "confirmed_by": 1,
+      "summary": "Marrow raises $173M for siRNA drug to compete with one-time CRISPR therapy for sickle cell Endpoints News."
     },
     {
       "title": "Change and Programme/Project Management Assistant - careers.ema.europa.eu",
