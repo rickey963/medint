@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T21:23:56Z",
+  "last_updated": "2026-11-17T21:27:56Z",
   "poland": [
     {
       "title": "Nadchodzą duże zmiany w dostępie do leków. Ministerstwo Zdrowia potwierdza - Rynek Zdrowia",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "Fact or Fiction: RSV in Pediatrics - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVUJnbnk2bUk3d2YwWEVRX216RjBCcXNuMTA2bW4wMDNJeXIzRWZLbkpIcEVNTUhPcVh4VFdDSGlrcDN4TzRmcm1YM3JpZS11Q1U2Y3RCeU1IWWVUNzZjUW5ab3dGZXBsaF9yNHQ3SzB6UE5SbmhMUFpUX1BQSk90ZE04OFh2Z1BTa2hENTNERzVweHV4QXRPUUdKbGNsZmpOSXJ1cnd2eFZzVVBsQ0ZJ?oc=5",
+      "date": "2026-11-17T21:18:25Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Fact or Fiction: RSV in Pediatrics Medscape."
+    },
+    {
       "title": "Dietitian - Prescot job with Mersey Care NHS Foundation Trust (Health Careers) | 866646 - The BMJ",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN3FZcFBiZHMySVFmM1RxZHlMY0dOWDhtdHdOUDVYNWFYQkN2Tmtsclg4MzJ2QTlKRjV5RTNYWjhMREdNeEs1LUlicVFnN2NjUzFFcHRHR2FYOHhuSGpueU9lVHVWTHZOazBHdWtDdFMwaDdneGRiZHl5cU9JVXd0ZkRYb3V3cTVYWU5GVg?oc=5",
       "date": "2026-11-17T19:25:02Z",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Cognitive Behavioural Therapist job with Lincolnshire Partnership NHS Foundation Trust (Health Careers) | 866627 The BMJ."
-    },
-    {
-      "title": "EMA Expands Prevention Options for Two Pediatric Infections - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTmNXeGJLc0VCR1Fwd0hDWWh3NEppQjJDNGpOeURhNnZjTkpDSk9vNWloTHczYUc5ODJUd1IxMmYwaUlkSlhjREY3RzJweUNFcFpmMktSbVNLMWl3THBINXZoeVMydWpJSVkxanZnOHlLSFd2dzUtQmpOb25tZUFxUmxCWXpsMUlrY2JzZHF5NDFRTXhFN0s3cjJTbElkbm5VdTZuSURNYkI?oc=5",
-      "date": "2026-11-17T11:32:42Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "EMA Expands Prevention Options for Two Pediatric Infections Medscape."
     }
   ],
   "guidelines": [
@@ -954,7 +954,7 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-11-13T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1708,20 +1708,20 @@
       "summary": "FDA Approves First Factor XIa Inhibitor for Secondary Stroke Prevention Drugs.com."
     },
     {
-      "title": "ACR: Brepocitinib Yields Improvements in Cutaneous Sarcoidosis - Drugs.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQelFndFNxcDQtOXozUHlXVndtVTR0SGVXZ3ZvaWswUWJuT2pOLVZVeGpuVk5YRHZNam1hVm02dTRGdHpmV19LVHhNZGw5STQ0bTRHcVBBdzEyQm45eWlBUTBkRU03VWRMYlR4Q3lIR0hOVHRKUG1UeWZKVlk0WE5XM3lGNFk0eGdxc1E0cFEzeFBzbTQwUF8yXzlhR1d2QQ?oc=5",
-      "date": "2026-11-17T19:36:37Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "ACR: Brepocitinib Yields Improvements in Cutaneous Sarcoidosis Drugs.com."
-    },
-    {
       "title": "Screening, Treating STIs During Pregnancy May Cut Preterm Birth Risk - Drugs.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcjBkZVhPdmZlVzNYMDEzUnN0a1FpbzRvTFhRQmRtc08yRjZMVDU4ZE9JYlVzWDVQZ3hRYkhNNWc0Vmx6OUhZbEhKV1AxdFdxOEpDU2ZnVDF6M3JZX1RoYW9VU3dYSGlzNUZqNHdHVV9odnl0R2Y0bVlVSVBwR0Z3cEhqdkRWMWFqQ3ItNEFlMTZFSjJsX0JFYU13bnhRQVc4azRaQWRIU2Y2UQ?oc=5",
       "date": "2026-11-17T19:36:37Z",
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Screening, Treating STIs During Pregnancy May Cut Preterm Birth Risk Drugs.com."
+    },
+    {
+      "title": "ACR: Brepocitinib Yields Improvements in Cutaneous Sarcoidosis - Drugs.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQelFndFNxcDQtOXozUHlXVndtVTR0SGVXZ3ZvaWswUWJuT2pOLVZVeGpuVk5YRHZNam1hVm02dTRGdHpmV19LVHhNZGw5STQ0bTRHcVBBdzEyQm45eWlBUTBkRU03VWRMYlR4Q3lIR0hOVHRKUG1UeWZKVlk0WE5XM3lGNFk0eGdxc1E0cFEzeFBzbTQwUF8yXzlhR1d2QQ?oc=5",
+      "date": "2026-11-17T19:36:37Z",
+      "source": "Drugs.com",
+      "confirmed_by": 1,
+      "summary": "ACR: Brepocitinib Yields Improvements in Cutaneous Sarcoidosis Drugs.com."
     },
     {
       "title": "Salerno Faces US FDA Withdrawal Of Liquid Simvastatin After Failing To Submit Annual Reports - Informa PLC",
