@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-20T11:42:53Z",
+  "last_updated": "2026-11-20T11:47:02Z",
   "poland": [
     {
       "title": "Szkolenie online GIS 23 i 24 listopada br. - Zalecenia i wymagania higieniczno-sanitarne przy świadczeniu usług fryzjerskich, kosmetycznych, tatuażu i odnowy biologicznej - Gov.pl",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPV1REaVQtWVBDaS16WmJtZGo1TVlIWm9GTW9XUC1MR0J2Zzd6bEMtNUhRNEVIblJYazhlRVVRcDRLd2ducGRwSlRaNUNTbThvVXRNSFpHMGRaeGQ2cHlLeklHeTV6clZnZ19YMHRRVkFFSjlEV3B2NUxvbHRKaWJETG5IRWpxN1BTejNpT2oxS1JSeDlELWtkWlh6LXdnbmNXcjJ5N041SGlNd1VrakNub1ozaXhzaUJBczRtWnVKcVVDRXBpWjNsWlRCVDJNS1dGdWtWWWZyYnlsWVRfUWZnOWFtNFQyeDBObWxCdDdHR3k2cGh1bnN6d3FXVWh3TWd3bm1zZTFZejd6SzRRS1g0RFFFaFA5aTZzY19UdEtLUmFnWEJWWXAtaUZnMA?oc=5",
-      "date": "2026-11-20T11:36:03Z",
+      "date": "2026-11-20T11:35:46Z",
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Szkolenie online GIS 23 i 24 listopada br. - Zalecenia i wymagania higieniczno-sanitarne przy świadczeniu usług fryzjerskich, kosmetycznych, tatuażu i odnowy biologicznej Gov.pl."
@@ -40,6 +40,14 @@
       "source": "Medycyna po Dyplomie",
       "confirmed_by": 1,
       "summary": "GIS wyjaśnił zasady nowego kalendarza szczepień Podyplomie.pl."
+    },
+    {
+      "title": "Brakuje środków na in vitro. Pacjenci korzystający z rządowego programu mają problem - Alert Medyczny",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHlPVVpPclI0VkJiZUNtRHFKY1VIei1PeEpjUF9CQXN0OEJsbGxKN3pzdTRWdzhuSjFtNDdtSVg1ZDZmcVplQi1KR0NOSEgwUUF2YWljblFYRDB4WVo1Q0RST29wUE5CM0dMYVRwZUw0bmlfaEZvamszQUZkSndVOERiZTl1OFFiMHoyZUFLSFhiaTZOVlljUW1iS2ZITFZwcWhUQlpYNjVDVEFzcEE?oc=5",
+      "date": "2026-11-20T10:56:22Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Brakuje środków na in vitro. Pacjenci korzystający z rządowego programu mają problem Alert Medyczny."
     },
     {
       "title": "Prof. Kłoda: sukces leczenia otyłości to nie tylko utracone kilogramy. Jak chronić masę mięśniową? - Puls Medycyny",
@@ -392,14 +400,6 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Lampka wina jako sposób na zdrowy mózg? \"Rozsądny kompromis\". Nowe badania obalają wiele mitów Medonet."
-    },
-    {
-      "title": "Blisko 1,8 mld zł przychodów PZU Zdrowie. Co napędza rozwój medycznego biznesu? - PolitykaZdrowotna.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02amhzN3VBMzNDMzBPMEo0QU9rUTQ4LWZleFVxRzBSdEhfTzRvMXc4OWlFSjJtME9xUHlzczB5TGRKc0JkVjVLOFB3cElzU0d1TmI3WTJCYTNUU016SG83X01HWmtraWRoTmYzbFU2dm1wVjJZYzhPNWNyeXc?oc=5",
-      "date": "2026-11-19T18:30:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Blisko 1,8 mld zł przychodów PZU Zdrowie. Co napędza rozwój medycznego biznesu? PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -866,7 +866,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Fa2FmbGxfaVVrODh0Yy1XWWl5aWhzQ0JUSFBqVS16aG14WDJ0cGRSLVE5bUdET1pybFhCVVRFeERtaHo5UXJpNFRNUGk3bk5yR3BNb1d5c1ptMUxvXzlaNXByOVVEX1dpSUhNcXFnNk1sV3RIc1BwVEFwZw?oc=5",
       "date": "2026-11-19T19:22:18Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Stroke Death Rates Among Adults Aged ≥18 Years — United States, 2000–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1162,32 +1162,16 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-11-13T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 4,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Giardia Infection Prevention and Control - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzbi1obi1MTWFQSTNidEtwUU5ycTF0eGtlci1oMVBodDlaY09QQXJGZkMzdVRnR2VEOW1tS0Q1UnlvOFl4V3RzaTNEYWFhRG9Tcl9ZY1pDTkUzczBiRVE?oc=5",
-      "date": "2026-11-13T08:00:00Z",
+      "title": "Use of Glucagon-Like Peptide-1 Medications and Modified Medication Use Among Adults — United States, 2025 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tdHZsTkdSaGREQU1Eci1KMFNoRWdQTHFsZDB2ejViemlOREdQZE9kZng5R251V2JLRm1VeURSQ2pNSWhqS3pzVlN1ODN6Q0p2cVJsLWg2eFBIRXFwQU5TeQ?oc=5",
+      "date": "2026-11-12T18:00:57Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "Giardia Infection Prevention and Control Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "New Clinical Guideline Offers Recommendations on Managing Shift Work Disorder - Sleep Review",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaGVnTkNLQXVDUWxBNjJvcUREdXhaaEhKcHpyVzBGWWVpRE5Ibm5tUE85MHlJYmJXWFdKeHNxYXFqTVF6bHdILXJKczRrTDkyS2xSNnhNeGp0empxNDFnaHRFdG95MnRWNEZZWVl2ZENKZUdhVDVzUHNvLWlPallzWG5SdFFQdUE4aUxPZXhGbDM5MzktSk8yY1pqLWc2Q0ZrWElselhwbG94UXdJUjRWT0RHLWdDdnpMTndCSEUyalhyRkU?oc=5",
-      "date": "2026-11-13T06:42:20Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "New Clinical Guideline Offers Recommendations on Managing Shift Work Disorder Sleep Review."
-    },
-    {
-      "title": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sc0thbmZTUHFzSGp0Mm9GZVZHazNyRjFSRWNjQjk4clFzbHEzLW90SHBfOXRPVjRMZGFjUlM4N0RtWUlaUl9sUjdyX05FOWNUQlJvWVZhbENvUDZqZE5n?oc=5",
-      "date": "2026-11-12T12:32:32Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update Nature."
+      "summary": "Use of Glucagon-Like Peptide-1 Medications and Modified Medication Use Among Adults — United States, 2025 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "NIL gospodarzem posiedzenia Europejskiej Rady Izb Lekarskich - NIL",
