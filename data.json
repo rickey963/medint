@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T20:08:21Z",
+  "last_updated": "2026-11-20T20:12:31Z",
   "poland": [
     {
       "title": "Podlaskie z trzema nowymi ambulansami - Aktualności - Ratownictwo - Medycyna Praktyczna",
@@ -64,6 +64,14 @@
       "source": "Puls Medycyny",
       "confirmed_by": 1,
       "summary": "Państwo chce lojalności lekarzy, ale czy samo na nią zasługuje? [FELIETON] Puls Medycyny."
+    },
+    {
+      "title": "Kraków: Kolejna osoba poszkodowana w zamachu opuściła szpital - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTW1zMzFxSzRSZWJ5UXE3Vmw5d3VValJvOUs4aERfV1BPanhxOHAwWHRjbG9feDRicS1iN0JnZEJaRHJuR2s4ZU1RQUViVENFaFJKZHVlaFh4WnFWcjJFcVRTVV96MUEwRHJvUFRRcDY5V29lZHZhaW1rdUhZZG9pUlBkM21oMlI1aHRuNWo5N3lhdnZ4Ynk0SmVWVVRacm9ab25lOEtjV09ZTzZPcTdLNkhqVmF4T2lUcmJqTkJfSQ?oc=5",
+      "date": "2026-11-20T16:51:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Kraków: Kolejna osoba poszkodowana w zamachu opuściła szpital Rynek Zdrowia."
     },
     {
       "title": "Tyle witaminy D potrzebujesz każdego dnia. Wytyczne są jasne - Medonet",
@@ -392,14 +400,6 @@
       "source": "Ministerstwo Zdrowia RP",
       "confirmed_by": 1,
       "summary": "Szkolenie online GIS 23 i 24 listopada br. - Zalecenia i wymagania higieniczno-sanitarne przy świadczeniu usług fryzjerskich, kosmetycznych, tatuażu i odnowy biologicznej Gov.pl."
-    },
-    {
-      "title": "Po skandalu w Suwałkach. Rzecznik apeluje: nieprawidłowości po stracie ciąży trzeba zgłaszać - PolitykaZdrowotna.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWXB4eVpjbUNJbkQ3T3NZbldtZzVlSHNGTlEyWDF0UXlsMmhnLUhtbjdnN2VsVjB4NWp6WDBySEhVQkctWFg3aVJwRjFRZ29UTnMtWENuMlZZbnFQRk5UWFBYSlJ0X1cxdG9tSFBabVZCcUlqUm9ab2hvMWdsblgzMA?oc=5",
-      "date": "2026-11-20T11:30:00Z",
-      "source": "Polityka Zdrowotna",
-      "confirmed_by": 1,
-      "summary": "Po skandalu w Suwałkach. Rzecznik apeluje: nieprawidłowości po stracie ciąży trzeba zgłaszać PolitykaZdrowotna.com."
     }
   ],
   "world": [
@@ -429,7 +429,7 @@
     },
     {
       "title": "Prevention of Venous Thromboembolism after Total Hip or Knee Replacement - NEJM Clinician",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJb21LWVc1eENXYkN3RTJrVU1hZG9jdnRkbU52UUhMQ1VSaG5NUDdHTGNqZFpScjZzN1hYaWIwSWhjal9DM3NRNUltcUl5UUVFVmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQTh4VUdSLUZQekE3dm9VZm9QNklMOEpUSlR2QUk1Rl9OVUM0aGdwWEZ5MkJGaG9id0tTQ09uRHdJeE96MTlfTWJtSlV2b1lJYkE?oc=5",
       "date": "2026-11-20T17:52:26Z",
       "source": "NEJM",
       "confirmed_by": 1,
@@ -437,7 +437,7 @@
     },
     {
       "title": "Prevention of Venous Thromboembolism after Total Hip or Knee Replacement - NEJM Clinician",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQTh4VUdSLUZQekE3dm9VZm9QNklMOEpUSlR2QUk1Rl9OVUM0aGdwWEZ5MkJGaG9id0tTQ09uRHdJeE96MTlfTWJtSlV2b1lJYkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJb21LWVc1eENXYkN3RTJrVU1hZG9jdnRkbU52UUhMQ1VSaG5NUDdHTGNqZFpScjZzN1hYaWIwSWhjal9DM3NRNUltcUl5UUVFVmc?oc=5",
       "date": "2026-11-20T17:52:26Z",
       "source": "NEJM",
       "confirmed_by": 1,
@@ -1618,6 +1618,30 @@
       "summary": "Study Details | NCT07950592 | The ABODE Study for Patients Undergoing Neoadjuvant Chemotherapy ClinicalTrials.gov."
     },
     {
+      "title": "Study Details | NCT07951606 | Safty and Efficacy of KH658 in Subjects With Diabetic Retinopathy - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41MmVUYjEwWUVWNUE3M21PR3RVNEMxSDNodWkyZmtKcWdaMldRYjdLbEhOR2wyYWZyMVVvZUo5eHptWUN5cnIxQ0ptUkY0ZHVxN0RJZkJyOA?oc=5",
+      "date": "2026-11-20T18:55:20Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07951606 | Safty and Efficacy of KH658 in Subjects With Diabetic Retinopathy ClinicalTrials.gov."
+    },
+    {
+      "title": "Study Details | NCT07951528 | Association Between Childhood Obesity and Myopia: A Prospective Cohort Study - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxT1B1RjliandDcktCbml0SUNTUTluc2p4TmptU3VwTlpCWWhvTDEzVWhuZ3N1eXRJRmlWVEY3UWtzZXVPenh3QVJKSmhQUGNCV3ZHdjF1RQ?oc=5",
+      "date": "2026-11-20T18:55:20Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07951528 | Association Between Childhood Obesity and Myopia: A Prospective Cohort Study ClinicalTrials.gov."
+    },
+    {
+      "title": "Effects of Tirzepatide on Corneal Nerve Morphology and Other Ocular Parameters in Adults With Obesity - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hNHNDbU1vSm96d0xlbEZrYUQtRGFxQnl1cWUxc3NxUXhveXVTZXBoWG82dm9NR1hyYmhka2IwVkxBUnNLQV9YUzVodElnbWRKbjZSMHZESQ?oc=5",
+      "date": "2026-11-20T18:55:20Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Effects of Tirzepatide on Corneal Nerve Morphology and Other Ocular Parameters in Adults With Obesity ClinicalTrials.gov."
+    },
+    {
       "title": "MSD’s ADC gains OS win but PFS miss in Phase III stomach cancer trial - Clinical Trials Arena",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3ZaVmR0LUdUS3NSY21TcjRQU0h3d2QyTkg0WWF3aHJ0dEMtdkhBZ1MycFpTYjRtWDZ0M3A0QVQ4azl1c3NSa2ljcEFreTUxZk8waGRidmZvOWowYjNmVFhWVEtYSVp5Mm1POF9mTmtTV1VEc2lab2JpOHZlRkVvNXdHeUFSQnBQeVZUcEdjSm14M0dKLXJ3XzBNYzVVY040ZXdvelNhTUU?oc=5",
       "date": "2026-11-20T17:07:10Z",
@@ -2369,7 +2393,7 @@
     },
     {
       "title": "Prevention of Venous Thromboembolism after Total Hip or Knee Replacement - NEJM Clinician",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJb21LWVc1eENXYkN3RTJrVU1hZG9jdnRkbU52UUhMQ1VSaG5NUDdHTGNqZFpScjZzN1hYaWIwSWhjal9DM3NRNUltcUl5UUVFVmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQTh4VUdSLUZQekE3dm9VZm9QNklMOEpUSlR2QUk1Rl9OVUM0aGdwWEZ5MkJGaG9id0tTQ09uRHdJeE96MTlfTWJtSlV2b1lJYkE?oc=5",
       "date": "2026-11-20T17:52:26Z",
       "source": "NEJM",
       "confirmed_by": 1,
@@ -2377,7 +2401,7 @@
     },
     {
       "title": "Prevention of Venous Thromboembolism after Total Hip or Knee Replacement - NEJM Clinician",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQTh4VUdSLUZQekE3dm9VZm9QNklMOEpUSlR2QUk1Rl9OVUM0aGdwWEZ5MkJGaG9id0tTQ09uRHdJeE96MTlfTWJtSlV2b1lJYkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJb21LWVc1eENXYkN3RTJrVU1hZG9jdnRkbU52UUhMQ1VSaG5NUDdHTGNqZFpScjZzN1hYaWIwSWhjal9DM3NRNUltcUl5UUVFVmc?oc=5",
       "date": "2026-11-20T17:52:26Z",
       "source": "NEJM",
       "confirmed_by": 1,
