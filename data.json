@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T07:41:59Z",
+  "last_updated": "2026-11-21T07:46:06Z",
   "poland": [
     {
       "title": "Śmieciowe jedzenie wiąże się z gorszym zdrowiem psychicznym i wynikami w nauce dzieci - Alert Medyczny",
@@ -612,6 +612,14 @@
       "summary": "P-114 Anticipatory grief – clinical interventions: a systematic review BMJ Supportive & Palliative Care."
     },
     {
+      "title": "Orbital neurofibromatosis presenting with secondary glaucoma and phakic corneal decompensation - BMJ Case Reports",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uVDhKQzRGUGFmQ1lZQjhPVDVGWXZNcTR4QXM0X1JEUkp1eHhSQ3RmWGNIVEN3c0VfQklEUHd3bGRuZ1FjcGEzWFlZVGxuUDhTbzFGTW9DX3ByLXdlUTZDc2FNN09lWTJBVUVkcDN1MjJhdw?oc=5",
+      "date": "2026-11-20T18:17:58Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "Orbital neurofibromatosis presenting with secondary glaucoma and phakic corneal decompensation BMJ Case Reports."
+    },
+    {
       "title": "VTE Prophylaxis after Hip or Knee Replacement - NEJM Clinician",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoRDZBN0ZSTnhlUnB3c05VWTFFSFpfc0VMYjBxa2tFTTBPT05Sa1RGYnk4RXc0SE5pVE5DTlpya0Y2SFF0bHRZNnRQakhqRU40U3c?oc=5",
       "date": "2026-11-20T17:52:27Z",
@@ -794,14 +802,6 @@
       "source": "The BMJ",
       "confirmed_by": 1,
       "summary": "Metaplastic breast cancer: a unique subtype with clinical and therapeutic challenges BMJ Case Reports."
-    },
-    {
-      "title": "Allergy & Clinical Immunology - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CYk94TC1uVEhzSktWTFF1MDlURmR4bE9QNjdwaFN6MGJKS0xSenc0ZkM2ZkNhTVZWWjFVX1NxRW5zTWpMWk91RzR5YURRUkdoa0h4UWxn?oc=5",
-      "date": "2026-11-20T13:27:23Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Allergy & Clinical Immunology Medscape."
     }
   ],
   "guidelines": [
@@ -898,7 +898,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Fa2FmbGxfaVVrODh0Yy1XWWl5aWhzQ0JUSFBqVS16aG14WDJ0cGRSLVE5bUdET1pybFhCVVRFeERtaHo5UXJpNFRNUGk3bk5yR3BNb1d5c1ptMUxvXzlaNXByOVVEX1dpSUhNcXFnNk1sV3RIc1BwVEFwZw?oc=5",
       "date": "2026-11-19T19:22:18Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Stroke Death Rates Among Adults Aged ≥18 Years — United States, 2000–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1122,7 +1122,7 @@
       "url": "https://www.cdc.gov/new-world-screwworm/situation-summary/index.html",
       "date": "2026-11-18T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "New World Screwworm Outbreak Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1158,12 +1158,28 @@
       "summary": "What is a CAC test, and should you get one? www.heart.org."
     },
     {
+      "title": "German Cohort Study Reveals Broad Polymyalgia Care Adherence Despite Steroid Dosing Gaps - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWhPQ2RyQ1NKS2xRSS13RDQ4WWhwN0VWQ2Fyc3BWcUNIUGdDZXc5N0Q0TUl5RXZLcG5SZW15SzluMU5rM0RCVEZyTVc2ck1pZFp3UTYydmhuMFJtSlJoaXllR3VrZDFXWTNDR3FRMWw5Tm9OMkJRWnVTZThISGFSZU80eVY4Q3RQVnJ6N0l0ckUtRzRHNUl1S2VlNndfdXd6UlpBMGdPOWxYYVFyMUhlZXZBRQ?oc=5",
+      "date": "2026-11-17T21:25:46Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "German Cohort Study Reveals Broad Polymyalgia Care Adherence Despite Steroid Dosing Gaps Bioengineer.org."
+    },
+    {
       "title": "Kolejny \"Czwartek z AOTMiT\" już 19 listopada - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVdHa2pMakNyX2k0bWFxTGVZMEdVYTY5M3o5Rm1icDBZWmhXQU1BM01ZdXFMZWR2c1d2WkJ6SnFTSGNILTRkZWgyeDVLNHpEZlUwSnVCM1VDckEtbl80UWFiTl8tVW94WjZuemdYaE5ZTHBaV2p6OFo5dDhzMUt3aU5SbUdFNlpXQ01Vd0x6WUFZV2c?oc=5",
       "date": "2026-11-17T11:20:49Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Kolejny \"Czwartek z AOTMiT\" już 19 listopada Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "New Guidance Targets Dangerous ‘Rhino Tranq’ Withdrawal - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0hEZEtsS2FzaUtxQmpSR3FEbjB5TTZQMl94S0JNVV9LblNVRm9ZZHVabW0yQ0NDSkpkSmNjODRjdWVMalZob3NkR0djRXhUMW82dWRWWE5oTkFvRzNZREE3TjVnZ1l2UW5xOFNhNHRnY01KOWlZdFNqWldlOVB4SEFIMGJkY1d1eHJDai1kT3BaQm5ZWDU2bGw5WEtzTWc0WTNYNnJB?oc=5",
+      "date": "2026-11-17T10:43:04Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "New Guidance Targets Dangerous ‘Rhino Tranq’ Withdrawal Medscape."
     },
     {
       "title": "Consultation | Capsule sponge tests for detecting Barrett's oesophagus and oesophageal cancer and surveillance of Barrett’s oesophagus [ID6683] | Guidance - NICE website",
@@ -1174,12 +1190,12 @@
       "summary": "Consultation | Capsule sponge tests for detecting Barrett's oesophagus and oesophageal cancer and surveillance of Barrett’s oesophagus [ID6683] | Guidance NICE website."
     },
     {
-      "title": "Healthcare Resources | C. diff - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTc3ZhZEJfdDE2Rk9oNlZYXy1LWUpBYzl1c3lDaEY4bWdtc2YxZ19DSENCRkZpOE9FYk1kSktfR0lWMlNYQnhuc1JWT3hMM1BEeVctQWJBVjlMQzhEb3BTYg?oc=5",
-      "date": "2026-11-17T08:00:00Z",
-      "source": "CDC (rekomendacje)",
+      "title": "Pioneering partnership with Manchester University NHS Foundation Trust to help shape the future of evidence-based care - NICE website",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUWRUMXhlNlB3WEFyS0k2U080T1R1ZDJLanF3dG16WG5zY2lxQkZ6dXVwbHp3MWVyc2YxWkN5Q05VVS03ZVBya3pzWGs4cmNkX1pWSjFFcm9oTkwzM1ZhMHQwRldic2haYndicUFEcDhVbmwzQzRxeWIxX2R2VkRhMUxtcWdPUUlXZldFNDRIRTVoakphaVhJWVFRVEtLSzNoYUlNaWpfZ1FzRWJFb2x3dzdybE14dGF0M21OUzc4NjZBd1diQkhtQndhRlBsUkk3dHFtRWR3dUhQYVZscUJpVkwzYUxqeko1NU00M05KNlVhb2FndGlfM2NhdWtnSzRPdEE?oc=5",
+      "date": "2026-11-17T00:00:00Z",
+      "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Healthcare Resources | C. diff Centers for Disease Control and Prevention | CDC (.gov)."
+      "summary": "Pioneering partnership with Manchester University NHS Foundation Trust to help shape the future of evidence-based care NICE website."
     },
     {
       "title": "Assessing the 2026 ACC/AHA Guideline on the Management of Dyslipidemia - American Academy Of Family Physicians | AAFP",
@@ -1188,33 +1204,9 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Assessing the 2026 ACC/AHA Guideline on the Management of Dyslipidemia American Academy Of Family Physicians | AAFP."
-    },
-    {
-      "title": "Comparing Dyslipidemia Recommendations: Evidence Supporting USPSTF vs ACC/AHA Guidelines - American Academy Of Family Physicians | AAFP",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUZUaTVfX25sczFSTHY3M3JlVVkwdFhYbm5pZEhLVjhfVTU3UVZmM3I3WUZUcl9HZFBKMXlSekRlekxTQXBhZUxlUnhISy1JdDhORUM2c24tOEtSTUowM250NUNoZFBBTE51MF9rZ1VrcU5UUUJRYXVPX3ZXdVl0OUtCSU5VU2FJeDE1eA?oc=5",
-      "date": "2026-11-16T16:17:51Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Comparing Dyslipidemia Recommendations: Evidence Supporting USPSTF vs ACC/AHA Guidelines American Academy Of Family Physicians | AAFP."
-    },
-    {
-      "title": "ESMO launches new journal dedicated to artificial intelligence in oncology - European Society For Medical Oncology | ESMO",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUpheTlORV9sOUtOenZINmdCMk9BOTZ6ZTVEcU5qUWpFVW1GYVFKYUgxWkg3M2t1U2h6THNlZ1oyeVRPNnFtRmQwbzNrQnMwOVR1UGVKOTkyZHIwZzlzLUhRWE5zZk83UWtMSjdGNW5IcFRPMURFb2loTmtvLXFObGZxdnR0b1NlM0Vib1RyWldxeE1zRkluSW5aVFFXSGtENXBhNDZnMktFdG5icHR5M0RDLUtHWXlHVnVpa2l3?oc=5",
-      "date": "2026-11-16T08:30:45Z",
-      "source": "ESMO (onkologia)",
-      "confirmed_by": 1,
-      "summary": "ESMO launches new journal dedicated to artificial intelligence in oncology European Society For Medical Oncology | ESMO."
     }
   ],
   "epidemiology": [
-    {
-      "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 45, ending November 14, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iSWUxdHJObXVBYlV0MjRHUXFMbDRFREgyaUF4SDE2VmRnWnZDOGo0d0k1WHZnODVYa3NRdE44aFVvOXhJZUh6OFhyRWRjcUZ6ZkswdDMwTmFGazdyY3FBR2tNaWxtVFplNVE?oc=5",
-      "date": "2026-11-21T02:47:21Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 2,
-      "summary": "Weekly US Influenza Surveillance Report: Key Updates for Week 45, ending November 14, 2026 | FluView Centers for Disease Control and Prevention | CDC (.gov)."
-    },
     {
       "title": "Ebola disease caused by Bundibugyo virus- Democratic Republic of the Congo, Kenya and Nigeria - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93b2lkNHY5bzZ2N2pmeDVqQ0JXNGpkcURBUXdOR0toZ3NuRDZzX1hLdzhmRnVLMzdVbXhZSm5DOURpc2VwUW82WElsWWNUVl9DZEltTlE0RTVMbUVoOHdTX29uclZ1WVUzRTBObEVKZnBhdm1NOXc1YmNR?oc=5",
@@ -1228,7 +1220,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1ZxWG1aVjVySm5oM3dnQVJRMFNIM3hxaEhkYVIwQ2tqbHB5WkhFTzBCUVozVGFnSnRuekhLaFJ0YS1vMlVOdzhfNFNsVElEU3cycTA0UnNEVm0xOUlJUmRKM2Fyc3JmMThNUmhYUUJuYmdFb09kVkhFdXJVLVNGZ0RB?oc=5",
       "date": "2026-11-20T22:56:40Z",
       "source": "CDC Outbreaks",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Video: Fungal Diseases Start Where Life Happens Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1246,6 +1238,14 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Wisconsin sees triple-digit measles increase as US nears 6,000 cases CIDRAP."
+    },
+    {
+      "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 45, ending November 14, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iSWUxdHJObXVBYlV0MjRHUXFMbDRFREgyaUF4SDE2VmRnWnZDOGo0d0k1WHZnODVYa3NRdE44aFVvOXhJZUh6OFhyRWRjcUZ6ZkswdDMwTmFGazdyY3FBR2tNaWxtVFplNVE?oc=5",
+      "date": "2026-11-20T21:09:43Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Weekly US Influenza Surveillance Report: Key Updates for Week 45, ending November 14, 2026 | FluView Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Protecting health from climate change is an investment, not a cost - World Health Organization (WHO)",
