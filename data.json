@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T02:06:56Z",
+  "last_updated": "2026-11-21T02:11:23Z",
   "poland": [
     {
       "title": "Demencja rozwija się później u młodszych pokoleń. Wyniki badania 219 tys. osób - Alert Medyczny",
@@ -404,6 +404,14 @@
   ],
   "world": [
     {
+      "title": "The Linbury Doctors - The BMJ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zTkNzYi1uTkJHY19MTzllSmZtMWI2RWIwVWJEX2tURkVpX21wWk1RQ2NOd0NkVUhna29OTi1KNGxiVktzQThCelhQcW1sLTF4U0VvVEtUZThKLTJIb2lqQWZvTzhCUFpRVXpNRENuc201LUNfa2E2YmJB?oc=5",
+      "date": "2026-11-21T02:04:19Z",
+      "source": "The BMJ",
+      "confirmed_by": 1,
+      "summary": "The Linbury Doctors The BMJ."
+    },
+    {
       "title": "World Prematurity Day 2026: investing in follow-up care to give every preterm baby the chance to thrive - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaDJPaDc1NmROUjZLRXZGV09qYUV0TTZRdFVkT1BZN1RKSkNBRlRPTk12YnNuODd5bWlobVFLZ2xXVjlrVnpmQ05tNHZVbUIwendLV2s2Q0VKdlJTSGxQWUJ1NEp1SWhyRGZldjR3OHpmMHMwb2RfdFItdDNBcXpRLVZWVmZjcFdjWk1qVGs3Y2NoY0FhRUg4bTFaTldaSXhTdl9jdzNzdk5hRk1tU0cyYU9kd0lkUHUtekE3LVZ3MDlMWTZ4dF9SM3cwRmFpZHlwdlZ1NjV3X1FhQlk?oc=5",
       "date": "2026-11-21T00:48:09Z",
@@ -794,14 +802,6 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Paediatric IBD With Genetic Syndromes: Higher Care Burden Medscape."
-    },
-    {
-      "title": "AI-ECG Model Shows Promise in Detecting Acute MI - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXpPVlNodlppMWczNEpHX1hpUTU5VGxfSkk2c19uWEhIME0xX2FOVzBjS19hNGNiXy1zYXZmNzRzNEFMWlJHVDJ2ZWJaZW50b3JzOVQyQm1iejJDWVMtU3NDQmUyekh1bmpoWjlyX2pOVW1CenlRbk5DUHNTZnNxR21kUHF1LVRsRzBBRHhaZ1Fqc2RKMTBqanFZV01GakdGSjgzck1FQVdZWXJ1blE?oc=5",
-      "date": "2026-11-20T12:01:41Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "AI-ECG Model Shows Promise in Detecting Acute MI Medscape."
     }
   ],
   "guidelines": [
@@ -862,20 +862,20 @@
       "summary": "Medicinal forms | Orforglipron | Drugs BNF."
     },
     {
-      "title": "Medicinal forms | Donidalorsen | Drugs - BNF",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ScGJZVHNCd3dJa0lFZGx2ZEl6YnlUbUM3TkZNVEpLNlNDTDJoNWo0NHRKY1ViLTFzNFRPR2QtUnBaR2paS3h2aFQxWGdBTlhCd3J2LXgwZWw5R0VJRU03bWRSOGozYWpMRnNV?oc=5",
-      "date": "2026-11-19T20:16:36Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Medicinal forms | Donidalorsen | Drugs BNF."
-    },
-    {
       "title": "Medicinal forms | Resmetirom | Drugs - BNF",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MUW9yNmM3THJEWmpxWVhSWGh3Y0dxcHYtLVc4SXdncE42NkV3MFlwQVlHdmxkdTlXbVkydWdWNkF4XzNuWHFzSHJJSGl1U2JUalpvdlVFUXJWMFF6Q21XeXN2R0doN0o2?oc=5",
       "date": "2026-11-19T20:16:36Z",
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Medicinal forms | Resmetirom | Drugs BNF."
+    },
+    {
+      "title": "Medicinal forms | Donidalorsen | Drugs - BNF",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ScGJZVHNCd3dJa0lFZGx2ZEl6YnlUbUM3TkZNVEpLNlNDTDJoNWo0NHRKY1ViLTFzNFRPR2QtUnBaR2paS3h2aFQxWGdBTlhCd3J2LXgwZWw5R0VJRU03bWRSOGozYWpMRnNV?oc=5",
+      "date": "2026-11-19T20:16:36Z",
+      "source": "NICE",
+      "confirmed_by": 1,
+      "summary": "Medicinal forms | Donidalorsen | Drugs BNF."
     },
     {
       "title": "Medicinal forms | Nipocalimab | Drugs - BNF",
@@ -1906,6 +1906,14 @@
       "summary": "Study Details | NCT07947277 | First-Line Nivolumab Plus Ipilimumab or Cabozantinib Followed by Second-Line Lenvatinib Plus Everolimus in Metastatic TFE-Rearranged Renal Cell Carcinoma ClinicalTrials.gov."
     },
     {
+      "title": "A Phase I Dose-Escalation Study of CUG279 in Participants With Select Advanced or Metastatic Solid Tumors - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YWE9BY1VNZEFwRDhidVRyYkdLbnFLd2pIbXBzay1pOWhHUUlwdkp0bXJ6M2Q3SS14aEZaQUl2YXlOUXU2NVdYTnU5VG9aVUxLZjRMb2xsOA?oc=5",
+      "date": "2026-11-18T08:00:00Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "A Phase I Dose-Escalation Study of CUG279 in Participants With Select Advanced or Metastatic Solid Tumors ClinicalTrials.gov."
+    },
+    {
       "title": "A Clinical Trial of Study Medicine (Marstacimab) in Pediatric Patients With Hemophilia A or Hemophilia B (BASIS KIDS) - ClinicalTrials.gov",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50VEFtZHVMLWdvLTVSaGhlSHR4RnM5MGZWTnpodlZPeEJUT0hxNzBnRWw2cTRIb0ZTMTFLSU5DcDJmWC05WmJxM2FwM1FoRWNaU2xCVVpXZw?oc=5",
       "date": "2026-11-18T08:00:00Z",
@@ -1928,14 +1936,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Study Details | NCT07659795 | A Phase 2 Study of VS-7375 in Patients With KRAS G12D-Mutated Colorectal Cancer ClinicalTrials.gov."
-    },
-    {
-      "title": "A Phase I Dose-Escalation Study of CUG279 in Participants With Select Advanced or Metastatic Solid Tumors - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YWE9BY1VNZEFwRDhidVRyYkdLbnFLd2pIbXBzay1pOWhHUUlwdkp0bXJ6M2Q3SS14aEZaQUl2YXlOUXU2NVdYTnU5VG9aVUxLZjRMb2xsOA?oc=5",
-      "date": "2026-11-18T08:00:00Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "A Phase I Dose-Escalation Study of CUG279 in Participants With Select Advanced or Metastatic Solid Tumors ClinicalTrials.gov."
     },
     {
       "title": "Investigating the Effectiveness of Calisda, a Digital Health Intervention for Patients With Menopause Symptoms (CHIME) - ClinicalTrials.gov",
@@ -2332,6 +2332,14 @@
       "summary": "American College of Rheumatology, Nov. 6-11 Drugs.com."
     },
     {
+      "title": "Biogen unblurs life with Friedreich ataxia in patient-centered Skyclarys campaign - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1V2bUtueXNkaUppSXQ4Z1IyT2NTLVBqOElzUS1qNUIzbldhRklleVdVYXZRRmpEaEV5Zms1dHoyU0VPbWVnNDZHUGRhTkM0dnJmNVRjNlNxTEhYVUhlTTZMOE5NY3J5Z00wNHk1YzZrM3RoNW1CUEdnNzZ6SUJwdWVETlRISC1NVVpPZWpKSk16WTkyQ1NoSUpzWU42dFcyNE5zci1aMldSYzBibDVUaUhn?oc=5",
+      "date": "2026-11-19T19:42:00Z",
+      "source": "FiercePharma",
+      "confirmed_by": 1,
+      "summary": "Biogen unblurs life with Friedreich ataxia in patient-centered Skyclarys campaign Fierce Pharma."
+    },
+    {
       "title": "Reference Intervals Developed for Children, Adults With Duffy Null Status - Drugs.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM29YcnFPR2VFY0RKRTlwZ3JDTlFGQ3JScXUwQVkwXzJYOUQ1Wkw5RUMxT0pWYXRiUU1XTTlFRHNoSDRGZTRRdjI2QWNjX2s5U2tSWkZ0aXJBM1RwNFFSSV8tblVEUG1fVGUxcFRTWlAzQnZqTGl1N20yYWR5NGVWUl9MQmNCRG02UHIwd0pBZERGTXpDTG0taHIwb1RuYWQ0SDNwVw?oc=5",
       "date": "2026-11-19T19:41:50Z",
@@ -2386,14 +2394,6 @@
       "source": "EMA",
       "confirmed_by": 1,
       "summary": "Pharmacovigilance Risk Assessment Committee (PRAC): 7 - 10 June 2027 European Medicines Agency (EMA)."
-    },
-    {
-      "title": "Broad Genomic Sequencing Improves Survival in First-Line Setting in Advanced NSCLC - Drugs.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTdrekVYSi03aDZiUlhZblZqaHZIeWlqcjNHaHRLRS1HdHJvX3FYajFseE93ai0wN2l1blAzSHd2R2U5QkN4M0laVUN5R3NzdXc5WE9zQzE5WDR5VExQYzl0c2N6WnpFNklNZWVXWGlzVnpDakI4LXpBQTM1bFBhMWhoNUpUeUk1cEtBbG8wYWhmd2tBbUdoMGw2cUVQREpHcTJBTkdSRFNTYzRRbm5KdWw0eUVQQQ?oc=5",
-      "date": "2026-11-19T17:45:25Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Broad Genomic Sequencing Improves Survival in First-Line Setting in Advanced NSCLC Drugs.com."
     }
   ],
   "critical_alerts": [
