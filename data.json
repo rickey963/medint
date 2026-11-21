@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-21T07:37:38Z",
+  "last_updated": "2026-11-21T07:41:59Z",
   "poland": [
+    {
+      "title": "Śmieciowe jedzenie wiąże się z gorszym zdrowiem psychicznym i wynikami w nauce dzieci - Alert Medyczny",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcy1jUzM1VDVQY25hQVI1NXVkQ3VHUlRMVnB1Y3RUYkREZnpVQXZpUG9EaEFrWWRRZzNwN1lNUHNzLVg2bVBReHJGTVNpYlcxWXB5ODZvU0EzNUtCTGMtd185U0xfaHZOcXpQeTR2LXRJUWRKSDROb2ZLZkV4UlBoWHY2MDhCbHpIMVRRcExldXA2dldwRUJSYjFjZDhZRktnTm81dzB5VU9WSk4tWmJZTw?oc=5",
+      "date": "2026-11-21T07:13:06Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Śmieciowe jedzenie wiąże się z gorszym zdrowiem psychicznym i wynikami w nauce dzieci Alert Medyczny."
+    },
     {
       "title": "5390 zł wypłaty co miesiąc przez trzy lata. Trzy uprawnione grupy, wnioski do 31 grudnia - Rynek Zdrowia",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSExOY0pXWjRuMTA1UzRsMHdxWWpadWdSQVhvenBGZ1NFc2FjdlN4SFJtbkJjbW93MWdkWDRFOHlVR3M4SDBmX2xob2luSVZ6bGtIeEp5aUM4cEoxdHB1QXU0YXFuSUhHVHlLMUJweFhNZjlXMHFhZzF1NGstNmdsNGoyQXJjTXJXTlU4bXVrRDlaeUpJdEt5RTk1Slp2ekdnVzF6eWhZRWhPc0pCX2piY0JiWDh3dXJUQUU1MDJhMUdFbHdrUU9HSEpheWJ6RDA?oc=5",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Zmiany w konkursach NFZ. Te szpitale zyskają nawet 10 punktów Rynek Zdrowia."
-    },
-    {
-      "title": "Wiceprezes Asseco Poland: w cyfryzacji ochrony zdrowia nie ma już przeszkód technicznych - Puls Medycyny",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcnNwYjhLZHgxX01ZSWVITUVuNkRBTktqX2kyT3JKZHpqMk9pS2taM29hbjJHX1lsS3V2YVA2SkxuU3RYZ3ZhWklJc21reklGTE9VWkktZGM4dlR5VERJTkJEVUZRVkxCb1BVUmJKWlpZVktacjExWFo0a0Q5bHVuTkZKYUpnR3JsOWk3SU5LMWV6TlJUT1VaSmZvLVZQRm02RmZrY1NaOHFRdU5Db3M1azZTRDZ5MzdvaEM5NGtSellLQlhuQzFBWW1RRG9nWXdReXVXVTYwUWlPMkx2MHluZ2xBc3U1SE14S0JaeS0tZmE0TXFqTmI2cGlYZnhoWUZD?oc=5",
-      "date": "2026-11-20T13:30:00Z",
-      "source": "Puls Medycyny",
-      "confirmed_by": 1,
-      "summary": "Wiceprezes Asseco Poland: w cyfryzacji ochrony zdrowia nie ma już przeszkód technicznych Puls Medycyny."
     }
   ],
   "world": [
@@ -898,7 +898,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Fa2FmbGxfaVVrODh0Yy1XWWl5aWhzQ0JUSFBqVS16aG14WDJ0cGRSLVE5bUdET1pybFhCVVRFeERtaHo5UXJpNFRNUGk3bk5yR3BNb1d5c1ptMUxvXzlaNXByOVVEX1dpSUhNcXFnNk1sV3RIc1BwVEFwZw?oc=5",
       "date": "2026-11-19T19:22:18Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Stroke Death Rates Among Adults Aged ≥18 Years — United States, 2000–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1122,7 +1122,7 @@
       "url": "https://www.cdc.gov/new-world-screwworm/situation-summary/index.html",
       "date": "2026-11-18T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 4,
+      "confirmed_by": 1,
       "summary": "New World Screwworm Outbreak Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1158,28 +1158,12 @@
       "summary": "What is a CAC test, and should you get one? www.heart.org."
     },
     {
-      "title": "German Cohort Study Reveals Broad Polymyalgia Care Adherence Despite Steroid Dosing Gaps - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWhPQ2RyQ1NKS2xRSS13RDQ4WWhwN0VWQ2Fyc3BWcUNIUGdDZXc5N0Q0TUl5RXZLcG5SZW15SzluMU5rM0RCVEZyTVc2ck1pZFp3UTYydmhuMFJtSlJoaXllR3VrZDFXWTNDR3FRMWw5Tm9OMkJRWnVTZThISGFSZU80eVY4Q3RQVnJ6N0l0ckUtRzRHNUl1S2VlNndfdXd6UlpBMGdPOWxYYVFyMUhlZXZBRQ?oc=5",
-      "date": "2026-11-17T21:25:46Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "German Cohort Study Reveals Broad Polymyalgia Care Adherence Despite Steroid Dosing Gaps Bioengineer.org."
-    },
-    {
       "title": "Kolejny \"Czwartek z AOTMiT\" już 19 listopada - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVdHa2pMakNyX2k0bWFxTGVZMEdVYTY5M3o5Rm1icDBZWmhXQU1BM01ZdXFMZWR2c1d2WkJ6SnFTSGNILTRkZWgyeDVLNHpEZlUwSnVCM1VDckEtbl80UWFiTl8tVW94WjZuemdYaE5ZTHBaV2p6OFo5dDhzMUt3aU5SbUdFNlpXQ01Vd0x6WUFZV2c?oc=5",
       "date": "2026-11-17T11:20:49Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Kolejny \"Czwartek z AOTMiT\" już 19 listopada Agencja Oceny Technologii Medycznych i Taryfikacji."
-    },
-    {
-      "title": "New Guidance Targets Dangerous ‘Rhino Tranq’ Withdrawal - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0hEZEtsS2FzaUtxQmpSR3FEbjB5TTZQMl94S0JNVV9LblNVRm9ZZHVabW0yQ0NDSkpkSmNjODRjdWVMalZob3NkR0djRXhUMW82dWRWWE5oTkFvRzNZREE3TjVnZ1l2UW5xOFNhNHRnY01KOWlZdFNqWldlOVB4SEFIMGJkY1d1eHJDai1kT3BaQm5ZWDU2bGw5WEtzTWc0WTNYNnJB?oc=5",
-      "date": "2026-11-17T10:43:04Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "New Guidance Targets Dangerous ‘Rhino Tranq’ Withdrawal Medscape."
     },
     {
       "title": "Consultation | Capsule sponge tests for detecting Barrett's oesophagus and oesophageal cancer and surveillance of Barrett’s oesophagus [ID6683] | Guidance - NICE website",
@@ -1204,6 +1188,22 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Assessing the 2026 ACC/AHA Guideline on the Management of Dyslipidemia American Academy Of Family Physicians | AAFP."
+    },
+    {
+      "title": "Comparing Dyslipidemia Recommendations: Evidence Supporting USPSTF vs ACC/AHA Guidelines - American Academy Of Family Physicians | AAFP",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUZUaTVfX25sczFSTHY3M3JlVVkwdFhYbm5pZEhLVjhfVTU3UVZmM3I3WUZUcl9HZFBKMXlSekRlekxTQXBhZUxlUnhISy1JdDhORUM2c24tOEtSTUowM250NUNoZFBBTE51MF9rZ1VrcU5UUUJRYXVPX3ZXdVl0OUtCSU5VU2FJeDE1eA?oc=5",
+      "date": "2026-11-16T16:17:51Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Comparing Dyslipidemia Recommendations: Evidence Supporting USPSTF vs ACC/AHA Guidelines American Academy Of Family Physicians | AAFP."
+    },
+    {
+      "title": "ESMO launches new journal dedicated to artificial intelligence in oncology - European Society For Medical Oncology | ESMO",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUpheTlORV9sOUtOenZINmdCMk9BOTZ6ZTVEcU5qUWpFVW1GYVFKYUgxWkg3M2t1U2h6THNlZ1oyeVRPNnFtRmQwbzNrQnMwOVR1UGVKOTkyZHIwZzlzLUhRWE5zZk83UWtMSjdGNW5IcFRPMURFb2loTmtvLXFObGZxdnR0b1NlM0Vib1RyWldxeE1zRkluSW5aVFFXSGtENXBhNDZnMktFdG5icHR5M0RDLUtHWXlHVnVpa2l3?oc=5",
+      "date": "2026-11-16T08:30:45Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "ESMO launches new journal dedicated to artificial intelligence in oncology European Society For Medical Oncology | ESMO."
     }
   ],
   "epidemiology": [
@@ -2009,7 +2009,7 @@
       "date": "2026-11-21T04:42:53Z",
       "source": "FiercePharma",
       "confirmed_by": 1,
-      "summary": "The Oral GLP-1 Tracker: Foundayo holds steady as Wegovy pill takes a 5% dip Fierce Pharma."
+      "summary": "| Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions."
     },
     {
       "title": "Capricor’s Duchenne therapy is rejected again, as FDA cites significant issues with trial - Endpoints News",
