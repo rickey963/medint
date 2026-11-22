@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T07:20:08Z",
+  "last_updated": "2026-11-22T07:23:50Z",
   "poland": [
     {
       "title": "Migrena i palenie tytoniu. Ryzyko udaru niedokrwiennego rośnie 3,6-krotnie - Alert Medyczny",
@@ -238,7 +238,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSjlYSUhCT1RkQ3B6TVdlbWZfVDhtVU5NcVMxWWlMUXVrbnI4cXJMMWpYY2JXUWNfX0I4aDRfd0VEMWVvTUJKZmtkeGEzTzB6U0kzSFBCcm1HMXRoU1h4WURWTlIzZDhVQjFLNUhDWUZLT2JHX3FlcV9oc2lkbm9ockVoRjJXX3Y3ZVRpSWxHVklacWhDWEphNDVWN2hJN2lVRW9vZA?oc=5",
       "date": "2026-11-21T10:47:38Z",
       "source": "alertmedyczny.pl",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "PZU Zdrowie przyspiesza rozwój. Blisko 1,8 mld zł przychodów i 4,8 tys. placówek Alert Medyczny."
     },
     {
@@ -1070,20 +1070,20 @@
       "summary": "Rozporządzenie Ministra Zdrowia z dnia 18 listopada 2026 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z Dziennik Ustaw."
     },
     {
+      "title": "Current Outbreaks | Foodborne Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/foodborne-outbreaks/outbreaks/index.html",
+      "date": "2026-11-18T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Current Outbreaks | Foodborne Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "New World Screwworm Outbreak - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/new-world-screwworm/situation-summary/index.html",
       "date": "2026-11-18T08:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "New World Screwworm Outbreak Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Zimbabwe - Traveler view | Travelers' Health - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/zimbabwe",
-      "date": "2026-11-18T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Official U.S. government health recommendations for traveling. Provided by the U.S."
     },
     {
       "title": "What is a CAC test, and should you get one? - www.heart.org",
@@ -1142,14 +1142,6 @@
       "summary": "Przedłużenie terminu zgłaszania kandydatur do Odznaczenia Meritus Pro Medicis NIL."
     },
     {
-      "title": "New Clinical Guideline Offers Recommendations on Managing Shift Work Disorder - Sleep Review",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaGVnTkNLQXVDUWxBNjJvcUREdXhaaEhKcHpyVzBGWWVpRE5Ibm5tUE85MHlJYmJXWFdKeHNxYXFqTVF6bHdILXJKczRrTDkyS2xSNnhNeGp0empxNDFnaHRFdG95MnRWNEZZWVl2ZENKZUdhVDVzUHNvLWlPallzWG5SdFFQdUE4aUxPZXhGbDM5MzktSk8yY1pqLWc2Q0ZrWElselhwbG94UXdJUjRWT0RHLWdDdnpMTndCSEUyalhyRkU?oc=5",
-      "date": "2026-11-13T06:42:20Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "New Clinical Guideline Offers Recommendations on Managing Shift Work Disorder Sleep Review."
-    },
-    {
       "title": "NIL gospodarzem posiedzenia Europejskiej Rady Izb Lekarskich - NIL",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNC1WQmgzaXZ4R1lLc2R6aUM2U0xYclBiWWZyb1dQZGh4SzFKOG9lVlFrODE2Ny1RaXVVSTJpMEpKcC1kelN5N09aUkdKQzhLSF94NXZ6WE9sU2FTQ0J0aC1UTXZSLWV5Z0ZsaXp5YWlPWEJ2SXhUSlVhU05Tems2bl9DU2oxTWUyZmRyeHdJa0ZvMl9FLTZiZ3NLR3E?oc=5",
       "date": "2026-11-12T08:03:43Z",
@@ -1172,6 +1164,14 @@
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
       "summary": "VA/DoD Tobacco Cessation Guideline Supports Pharmacotherapy, Not Vaping Medscape."
+    },
+    {
+      "title": "Updated Guidelines on Surgical Management of Drug-Resistant Epilepsy - Neurology Advisor",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV1ZpcmRCci1rTnIxbjE1NXlUVVZWSGgyN1FROXRoX0JFdjFtLXQ3NzlEajNteDZ0RHNvRmpNVWdqSU5xRnVQRkFFU2psTHBJTG5lTDZIdENOZVRVT1lhb0lxOGp3Mi1yZVlBbkR2VnRqNzhtSGp2VFQ2NmhpMF84MFVwLWV2bTZvZDkza21WakI1a2gwMENPa3hTcUc?oc=5",
+      "date": "2026-11-04T08:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Updated Guidelines on Surgical Management of Drug-Resistant Epilepsy Neurology Advisor."
     }
   ],
   "epidemiology": [
