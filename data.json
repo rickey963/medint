@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-22T15:21:07Z",
+  "last_updated": "2026-11-22T15:25:05Z",
   "poland": [
+    {
+      "title": "Upały uderzają w nietoperze. Naukowcy ostrzegają przed wirusami - Medonet",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2laQklfMWJDbjJvWDN2YnVZQlVqMm1QTnpNa0RUODdNUGlCMGJhY3hyaDZSSzdua0FuT0RfSWdCUmRsWnE1emZrZ1lLZmVnOTA5Vk92d2hmTjJpN2prZGMwX1BtM2kyelNqb212SHZBLWkweFpYcmgtMFdMamNkcmVERXVjeGxNaHFDZzBtUkFuTzBMRVp0ZGtKbllVZ1prRmdEZm5DclpNSVJMWlZWYXNNVUM?oc=5",
+      "date": "2026-11-22T14:02:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Upały uderzają w nietoperze. Naukowcy ostrzegają przed wirusami Medonet."
+    },
     {
       "title": "Nowy budynek szpitala MSWiA w Krakowie już otwarty. Trzy sale operacyjne i nowe oddziały dla pacjentów - PolitykaZdrowotna.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WdzBXQ0FVRl9Kb2p0Mmd2RzdaZDhmYVdDR2w2cm15VlJjVjZjTFdqaUxxYnpRR2M1dEJVNHA5TU10T3VkWWtwcENnSG1iSVhibWFsZVRnUmhieUVZLTNxdGV3azJzRGttU29GcnB5UmpDdWR5SnA4?oc=5",
@@ -392,14 +400,6 @@
       "source": "Polityka Zdrowotna",
       "confirmed_by": 1,
       "summary": "Psychiatra: grzeczne dzieci zbyt późno dostają pomoc, bo ich cierpienia nikt nie widzi PolitykaZdrowotna.com."
-    },
-    {
-      "title": "Leki na nadciśnienie chronią częściej, niż szkodzą. Także po 80. - Medonet",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0VZZU5xLVE5V0hWNjZjOFpleHRyMElLVzRDd3h2Z1NvOGZwclYyWFlhdVJZY0RwWEhjOVZmVGRZa2FCanVhY3hVVHpNckxtUDZBamd0M01DNmRRd3dJdTlDNDlSQXZJWWtoUzlYeVB3Sm9xclZSRWxId2wzRnBfeFFUNFdPNmJCT0Z1bllWeFkzYVNZRFdkdE1ocjZGOUtIY2lNUWNZeFlUdU13MHc1bjAzMDZnd243V2N6SDdnR3hTWnVxalE?oc=5",
-      "date": "2026-11-21T11:48:21Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Leki na nadciśnienie chronią częściej, niż szkodzą. Także po 80. Medonet."
     }
   ],
   "world": [
@@ -854,14 +854,6 @@
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-11-20T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Clinical Overview of Measles - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QY2k1WkRUNG9FV2RNejJFQmFlSGhXQWVwR1RRTnNxMkxBWHlVNU1FY2VlSnZfN3JaOHFlZlQyYnFFYUxhaFNSZ2syX1VkZkRxVnhyMmhyNnF2c3Bab0lXRG9yYVRNMU9Ec2pRWQ?oc=5",
       "date": "2026-11-20T08:00:00Z",
@@ -876,6 +868,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "A(H5) Bird Flu: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-11-20T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "The Obesity Society Honors Dr. Amanda Staiano for Pediatric Obesity Research - Bioengineer.org",
@@ -1006,6 +1006,14 @@
       "summary": "Diabetic foot problems: prevention and management - topical wound oxygen therapy for diabetic foot ulcers NICE website."
     },
     {
+      "title": "Research: Doxycycline and Tooth Staining | Rocky Mountain Spotted Fever (RMSF) - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkJBQmg4Q2FLSXhHR2x3aXE3TkNOQUtvcl9kVXJua0ZNUzdfNlloT3BfRnYyeFVTSi03ZWFYRU9TYWV0RUJhWWlsd256REV6N0stTmRxMWZ0aFppTTBuSWc5OTFFV0YtUVozdXMzWDN5QkZabXRIMEhjS1h1UUxXV3Q0SQ?oc=5",
+      "date": "2026-11-19T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Research: Doxycycline and Tooth Staining | Rocky Mountain Spotted Fever (RMSF) Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "Night-shift work linked to differences in heart structure and biomarkers - European Society of Cardiology",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbTlja0ZyWHFVcm8yQUNhMktzdUZMSlBXUElGMVl1S2ZMSTVVMURFaWNjVUpiRFBnbzBZSmdQSF91U1NXZXgzM1NDVkNaclVCdi1zbm9uOG54X2R6TjhQQlBBUWN3WFdhSkk1UmZUemF0Z3dodEVOYTZubU02V2tXSkoxUVJnOVBENWtOR0FrSUhPWW00WHptRXRxdWIzMHpIdllyUFROUUxrcGMwYTk1ZzNFQ0NidW05Mi1TVW1PZ185dw?oc=5",
       "date": "2026-11-19T06:04:47Z",
@@ -1086,6 +1094,14 @@
       "summary": "Kolejny \"Czwartek z AOTMiT\" już 19 listopada Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
+      "title": "Assessing the 2026 ACC/AHA Guideline on the Management of Dyslipidemia - American Academy Of Family Physicians | AAFP",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXZGaldJZGRPRU5HdEZ6d01TLUZzLUlxY1VnWGV0b0NrcVZlV1RROUJnSnJ4Um5VbHdCckc4dWhfcEF2c1k5Rmx5b0FOeFBiTkRrUkFZMEtUOU53aGlqbHZQb2hNeXFpazl3TzVsWENpczhZUHNjVm5QYnJrQVE1MW5hUVZNaDFVVm1Vazc1WQ?oc=5",
+      "date": "2026-11-16T16:17:53Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Assessing the 2026 ACC/AHA Guideline on the Management of Dyslipidemia American Academy Of Family Physicians | AAFP."
+    },
+    {
       "title": "Przedłużenie terminu zgłaszania kandydatur do Odznaczenia Meritus Pro Medicis - NIL",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlhtY2xhSXJraFV1TDZVbVZkSFlobWc2QWdSekdTVnk4RExFMWs3RkFRNkZqZjFqcHdtWGNnbFg1d1dPSnBxNFBFTnl1eGJFREFKSG16OWtNZlMtblFETU82UzdaRlo5TktiZzFiTzJKN0FFdUo4ejM5TmNBQVpYdHhiNTZ6UkRhTUhsODdEZlNSRTNLdXZRcXR5TzgzTUU5QmFZMmNpMUQxYS1ZTFY5U0RVZw?oc=5",
       "date": "2026-11-13T10:22:32Z",
@@ -1102,20 +1118,12 @@
       "summary": "Stopping statins after 70 may be safer than expected, but there's a catch ScienceDaily."
     },
     {
-      "title": "Video | Dr. Dan Jones on HYP26 - 89 adds to what we know - www.heart.org",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tam0xTTg4elJLenNiTlhNT0dhdU1QSVlvOFhrR3NIaTNFUllKM0w3a0FMeXlTQnZCRElqQVNUUHcyN3dxMEdRSzU5LU84cUo2eW44QUVTbWhZNDJUTmRmbkFKR0xFUy01ZktLcA?oc=5",
-      "date": "2026-11-12T18:37:10Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Video | Dr. Dan Jones on HYP26 - 89 adds to what we know www.heart.org."
-    },
-    {
-      "title": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sc0thbmZTUHFzSGp0Mm9GZVZHazNyRjFSRWNjQjk4clFzbHEzLW90SHBfOXRPVjRMZGFjUlM4N0RtWUlaUl9sUjdyX05FOWNUQlJvWVZhbENvUDZqZE5n?oc=5",
-      "date": "2026-11-12T08:00:00Z",
+      "title": "New Clinical Guideline Offers Recommendations on Managing Shift Work Disorder - Sleep Review",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaGVnTkNLQXVDUWxBNjJvcUREdXhaaEhKcHpyVzBGWWVpRE5Ibm5tUE85MHlJYmJXWFdKeHNxYXFqTVF6bHdILXJKczRrTDkyS2xSNnhNeGp0empxNDFnaHRFdG95MnRWNEZZWVl2ZENKZUdhVDVzUHNvLWlPallzWG5SdFFQdUE4aUxPZXhGbDM5MzktSk8yY1pqLWc2Q0ZrWElselhwbG94UXdJUjRWT0RHLWdDdnpMTndCSEUyalhyRkU?oc=5",
+      "date": "2026-11-13T06:42:20Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update Nature."
+      "summary": "New Clinical Guideline Offers Recommendations on Managing Shift Work Disorder Sleep Review."
     },
     {
       "title": "Video | Dr. Ferdinand on HYP26 - TH125 how to take BP correctly - www.heart.org",
