@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T23:00:16Z",
+  "last_updated": "2026-11-22T23:03:38Z",
   "poland": [
     {
       "title": "Miliony czekają na kontach po zmarłych. Dziedziczenie nie tylko przez rodzinę - Rynek Zdrowia",
@@ -858,8 +858,16 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-11-20T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 6,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-11-20T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Clinical Overview of Measles - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -876,14 +884,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "A(H5) Bird Flu: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-11-20T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "The Obesity Society Honors Dr. Amanda Staiano for Pediatric Obesity Research - Bioengineer.org",
@@ -924,22 +924,6 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Medicinal forms | Orforglipron | Drugs BNF."
-    },
-    {
-      "title": "Medicinal forms | Nipocalimab | Drugs - BNF",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wR1g3c2c1SnhjcWRxNFJfVHhjNmFXa2JvOFR0Q1UxMFBFUkZ6RFg2QWViOEl6TC04eUNLUUVZTHU1MHFMT25wVHU4Y2RkR3hPNURNLWstSDR2ZlF3RU5uUzAtOGxJQVdlNlE?oc=5",
-      "date": "2026-11-19T20:16:36Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Medicinal forms | Nipocalimab | Drugs BNF."
-    },
-    {
-      "title": "Stroke Death Rates Among Adults Aged ≥18 Years — United States, 2000–2024 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Fa2FmbGxfaVVrODh0Yy1XWWl5aWhzQ0JUSFBqVS16aG14WDJ0cGRSLVE5bUdET1pybFhCVVRFeERtaHo5UXJpNFRNUGk3bk5yR3BNb1d5c1ptMUxvXzlaNXByOVVEX1dpSUhNcXFnNk1sV3RIc1BwVEFwZw?oc=5",
-      "date": "2026-11-19T19:22:18Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Stroke Death Rates Among Adults Aged ≥18 Years — United States, 2000–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "AI-Assisted Auditing Reveals Gaps in HNSCC Guideline Adherence - Physicians Weekly",
@@ -996,6 +980,14 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "ALK-positive NSCLC: Systemic Progression European Society For Medical Oncology | ESMO."
+    },
+    {
+      "title": "CompassionWorks Schedules Killeen EMDR Training for March and April 2027 - Canton Repository",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTdjV3BydExkQmxncUFtSlFQSHNTWW1LV0otc3h2WFN3QWdyR3c5dDFlTkNTZnN2U0ZnOEowRkdERW9fck5XUmdZUUM5WC12VG9nT05IcU92Ni1YVVpuc0taR2lVREg4UGVCdzUzQTZmN2w2d2cyNmxpdVNNd24ycG9xSHhvNFF0dTM0c2d2Z0xnUTY0MmxPSWM2TUV1R0l0aGpDNmFPaWhFT2xWSm9CYk1kZjdWUTRjYlMzX3VuZUotQXlQ?oc=5",
+      "date": "2026-11-19T00:03:12Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "CompassionWorks Schedules Killeen EMDR Training for March and April 2027 Canton Repository."
     },
     {
       "title": "Management of Stage IV mNSCLC with EGFR ex20ins Mutation - European Society For Medical Oncology | ESMO",
@@ -1062,6 +1054,14 @@
       "summary": "Kolejny \"Czwartek z AOTMiT\" już 19 listopada Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
+      "title": "New Guidance Targets Dangerous ‘Rhino Tranq’ Withdrawal - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0hEZEtsS2FzaUtxQmpSR3FEbjB5TTZQMl94S0JNVV9LblNVRm9ZZHVabW0yQ0NDSkpkSmNjODRjdWVMalZob3NkR0djRXhUMW82dWRWWE5oTkFvRzNZREE3TjVnZ1l2UW5xOFNhNHRnY01KOWlZdFNqWldlOVB4SEFIMGJkY1d1eHJDai1kT3BaQm5ZWDU2bGw5WEtzTWc0WTNYNnJB?oc=5",
+      "date": "2026-11-17T10:43:04Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "New Guidance Targets Dangerous ‘Rhino Tranq’ Withdrawal Medscape."
+    },
+    {
       "title": "Assessing the 2026 ACC/AHA Guideline on the Management of Dyslipidemia - American Academy Of Family Physicians | AAFP",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXZGaldJZGRPRU5HdEZ6d01TLUZzLUlxY1VnWGV0b0NrcVZlV1RROUJnSnJ4Um5VbHdCckc4dWhfcEF2c1k5Rmx5b0FOeFBiTkRrUkFZMEtUOU53aGlqbHZQb2hNeXFpazl3TzVsWENpczhZUHNjVm5QYnJrQVE1MW5hUVZNaDFVVm1Vazc1WQ?oc=5",
       "date": "2026-11-16T16:17:53Z",
@@ -1078,20 +1078,12 @@
       "summary": "Comparing Dyslipidemia Recommendations: Evidence Supporting USPSTF vs ACC/AHA Guidelines American Academy Of Family Physicians | AAFP."
     },
     {
-      "title": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sc0thbmZTUHFzSGp0Mm9GZVZHazNyRjFSRWNjQjk4clFzbHEzLW90SHBfOXRPVjRMZGFjUlM4N0RtWUlaUl9sUjdyX05FOWNUQlJvWVZhbENvUDZqZE5n?oc=5",
-      "date": "2026-11-12T08:00:00Z",
-      "source": "Wytyczne kliniczne",
+      "title": "Przedłużenie terminu zgłaszania kandydatur do Odznaczenia Meritus Pro Medicis - NIL",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlhtY2xhSXJraFV1TDZVbVZkSFlobWc2QWdSekdTVnk4RExFMWs3RkFRNkZqZjFqcHdtWGNnbFg1d1dPSnBxNFBFTnl1eGJFREFKSG16OWtNZlMtblFETU82UzdaRlo5TktiZzFiTzJKN0FFdUo4ejM5TmNBQVpYdHhiNTZ6UkRhTUhsODdEZlNSRTNLdXZRcXR5TzgzTUU5QmFZMmNpMUQxYS1ZTFY5U0RVZw?oc=5",
+      "date": "2026-11-13T10:22:32Z",
+      "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
-      "summary": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update Nature."
-    },
-    {
-      "title": "VA/DoD Tobacco Cessation Guideline Supports Pharmacotherapy, Not Vaping - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFZ5aExPUDdJVnZIN1V6Yjg2N2VROWxQT1c3ZndjcXFLTXNYTWlvTnd2UnIwQUNKUkRlWlVHcmI4eTJGV3RXaHZ2eWZlbzl1SF9kYnkyZlhBQnhMZGxiTWRCcF9yWUNfN0dKU0FsQWlVaFZ2dmNNTzM1Y0xwbDZNRnA1Z3VxNUYySUhYODR5cEVqbWdLa3hGUlB6eUtYWFpmR2JHejh5ODhkY0dxM0E?oc=5",
-      "date": "2026-11-11T08:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "VA/DoD Tobacco Cessation Guideline Supports Pharmacotherapy, Not Vaping Medscape."
+      "summary": "Przedłużenie terminu zgłaszania kandydatur do Odznaczenia Meritus Pro Medicis NIL."
     },
     {
       "title": "Follow-up, Long-term Implications and Survivorship - European Society For Medical Oncology | ESMO",
