@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T19:52:26Z",
+  "last_updated": "2026-11-22T19:56:16Z",
   "poland": [
     {
       "title": "Alarm na lotnisku we Frankfurcie. Dziesiątki pasażerów źle się poczuły - Medonet",
@@ -48,6 +48,14 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Antek Królikowski apeluje o pomoc. Młody aktor walczy o zdrowie Medonet."
+    },
+    {
+      "title": "Nowość w mojeIKP. 6 mln Polaków ma aplikację, ale nie wszyscy znają tę funkcję - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb2pZUTNDdFlsaFY2cXl5RXJVQlRBZDd3ZEp6cnRWVkJHdTNzd1lKQXRtOThFRzJIcG5HRDRvT2tIZ3RSc0I3ZUtIYXlhYW5jenBYSUZJb2NuODBSU2syT3ZtVjkwd05uWEtIQlBJV0dEa3YzUU9ScDBmMkJsbndwYXJGZk82OHl3YmE5SzFERmhxcFZDeUtNeWh6R3NVbHdOX0dYMWszRURpbEpTQkM2cXZRV2R4blNEa2ctTkl1RkxUN19lZHVj?oc=5",
+      "date": "2026-11-22T17:00:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Nowość w mojeIKP. 6 mln Polaków ma aplikację, ale nie wszyscy znają tę funkcję Rynek Zdrowia."
     },
     {
       "title": "Inteligentny partner robi trzy rzeczy. Widać je na co dzień - Medonet",
@@ -392,14 +400,6 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Księżna Kate wraca do walki z nowotworem - \"Rak cię zmienia\". Jej słowa poruszyły internautów Medonet."
-    },
-    {
-      "title": "Nasza Koleżanka w gronie wyróżnionych! - Kardiologia - Medycyna Praktyczna",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUlhHRTU5bVFycGEwTGlPNGp4dFBJbVY2UVEzNWFFczNyZ0ZhUjFBQkhDVktibVRIaElOZEVrNTBuRUYySXVMV3lIbFU0NG9RXzFzT3pkY3BPN3JMWFZIU2xOR3JuS3ZvU1NaYzBCN01RVVY5M1YwazNfekE0U2hrQ096ODFydTdq?oc=5",
-      "date": "2026-11-21T18:57:43Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "Nasza Koleżanka w gronie wyróżnionych! Kardiologia - Medycyna Praktyczna."
     }
   ],
   "world": [
@@ -858,8 +858,16 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-11-20T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 6,
+      "confirmed_by": 1,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-11-20T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Clinical Overview of Measles - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -876,14 +884,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "A(H5) Bird Flu: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-11-20T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "The Obesity Society Honors Dr. Amanda Staiano for Pediatric Obesity Research - Bioengineer.org",
@@ -958,14 +958,6 @@
       "summary": "Medicinal forms | Nipocalimab | Drugs BNF."
     },
     {
-      "title": "Stroke Death Rates Among Adults Aged ≥18 Years — United States, 2000–2024 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Fa2FmbGxfaVVrODh0Yy1XWWl5aWhzQ0JUSFBqVS16aG14WDJ0cGRSLVE5bUdET1pybFhCVVRFeERtaHo5UXJpNFRNUGk3bk5yR3BNb1d5c1ptMUxvXzlaNXByOVVEX1dpSUhNcXFnNk1sV3RIc1BwVEFwZw?oc=5",
-      "date": "2026-11-19T19:22:18Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Stroke Death Rates Among Adults Aged ≥18 Years — United States, 2000–2024 Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "AI-Assisted Auditing Reveals Gaps in HNSCC Guideline Adherence - Physicians Weekly",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzVrWTE3RElnRFpzMGJtYjR4S2hpaTBVSnFWNW4xV0hQWkJmTlN2aG8tV1U5V1RGakNaaDZzWGpoZy1lT1U5Y2JvenNVWmhvZkRCdjl5Y1lNVDlMTUVwbF9SakhrLXVDeWdHWFdpMG9OZ05NYWJIdkxMOHVTQ0wtQ25xVmpRbTBvd2laZXBQenRfLW12V0kwMjBveEp3TU14OXc?oc=5",
       "date": "2026-11-19T18:00:53Z",
@@ -998,12 +990,12 @@
       "summary": "Posiedzenie Rady do spraw Taryfikacji 15/2026 w dniu 19.11.2026 r. Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
-      "title": "Diabetic foot problems: prevention and management - topical wound oxygen therapy for diabetic foot ulcers - NICE website",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQlctTzJiX1B1dG9rZmVJcHRUZmlJZ2UzcW1SNzZJa2JyQ2VCdnZ0QVRqYWtxX1h1bVNqVkxjTlZHUjV2RmxSV0JXSTRZNWFBa2Z6clhtbl9uRk5iQnl3Y3R0LWphTS13SGFRcXY1SVpUQkVZLVZ2ZnhqVHN5ZkgyMjNIZTlIak9vdWhPRFIycDk?oc=5",
+      "title": "Project information | Treprostinil for treating idiopathic pulmonary fibrosis | Guidance - NICE website",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vVy1iekZDR21zanZVblM1SG00U0lTTG91MUxGZnJyN3dlZmdXZHdxaXV0czEyWGVhQjBENHdkWEdJNEZXeHEyVW5PcVBWT2JFcWhDamZveFBxNkhQdTdfcFltS3E5bFdSNncwd3BEbjdIc2M?oc=5",
       "date": "2026-11-19T08:00:00Z",
       "source": "NICE",
       "confirmed_by": 1,
-      "summary": "Diabetic foot problems: prevention and management - topical wound oxygen therapy for diabetic foot ulcers NICE website."
+      "summary": "Project information | Treprostinil for treating idiopathic pulmonary fibrosis | Guidance NICE website."
     },
     {
       "title": "Night-shift work linked to differences in heart structure and biomarkers - European Society of Cardiology",
@@ -1020,14 +1012,6 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "ALK-positive NSCLC: Systemic Progression European Society For Medical Oncology | ESMO."
-    },
-    {
-      "title": "CompassionWorks Schedules Killeen EMDR Training for March and April 2027 - Canton Repository",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTdjV3BydExkQmxncUFtSlFQSHNTWW1LV0otc3h2WFN3QWdyR3c5dDFlTkNTZnN2U0ZnOEowRkdERW9fck5XUmdZUUM5WC12VG9nT05IcU92Ni1YVVpuc0taR2lVREg4UGVCdzUzQTZmN2w2d2cyNmxpdVNNd24ycG9xSHhvNFF0dTM0c2d2Z0xnUTY0MmxPSWM2TUV1R0l0aGpDNmFPaWhFT2xWSm9CYk1kZjdWUTRjYlMzX3VuZUotQXlQ?oc=5",
-      "date": "2026-11-19T00:03:12Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "CompassionWorks Schedules Killeen EMDR Training for March and April 2027 Canton Repository."
     },
     {
       "title": "Management of Stage IV mNSCLC with EGFR ex20ins Mutation - European Society For Medical Oncology | ESMO",
@@ -1110,12 +1094,12 @@
       "summary": "Stopping statins after 70 may be safer than expected, but there's a catch ScienceDaily."
     },
     {
-      "title": "Video | Dr. Dan Jones on HYP26 - 89 adds to what we know - www.heart.org",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tam0xTTg4elJLenNiTlhNT0dhdU1QSVlvOFhrR3NIaTNFUllKM0w3a0FMeXlTQnZCRElqQVNUUHcyN3dxMEdRSzU5LU84cUo2eW44QUVTbWhZNDJUTmRmbkFKR0xFUy01ZktLcA?oc=5",
-      "date": "2026-11-12T18:37:10Z",
-      "source": "Wytyczne AHA/ACC",
+      "title": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sc0thbmZTUHFzSGp0Mm9GZVZHazNyRjFSRWNjQjk4clFzbHEzLW90SHBfOXRPVjRMZGFjUlM4N0RtWUlaUl9sUjdyX05FOWNUQlJvWVZhbENvUDZqZE5n?oc=5",
+      "date": "2026-11-12T08:00:00Z",
+      "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Video | Dr. Dan Jones on HYP26 - 89 adds to what we know www.heart.org."
+      "summary": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update Nature."
     },
     {
       "title": "Video | Dr. Ferdinand on HYP26 - TH125 how to take BP correctly - www.heart.org",
@@ -1124,6 +1108,22 @@
       "source": "Wytyczne AHA/ACC",
       "confirmed_by": 1,
       "summary": "Video | Dr. Ferdinand on HYP26 - TH125 how to take BP correctly www.heart.org."
+    },
+    {
+      "title": "Video | Dr. Dan Jones on HYP26 - 89 Global hypertension impact - www.heart.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4OFJxU0JMUktIc1NSZF94dGtrby1ranNIYmhOWGI3bkR6YjNHamhuX2UzdVppVUNSVjQxNEluOFNqSW1XSEJIYzgwbFhOYVN2LVlUa21qcUFRMmZmM0dUMnBWX0h1VktOUGFSbQ?oc=5",
+      "date": "2026-11-11T14:32:14Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Video | Dr. Dan Jones on HYP26 - 89 Global hypertension impact www.heart.org."
+    },
+    {
+      "title": "VA/DoD Tobacco Cessation Guideline Supports Pharmacotherapy, Not Vaping - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFZ5aExPUDdJVnZIN1V6Yjg2N2VROWxQT1c3ZndjcXFLTXNYTWlvTnd2UnIwQUNKUkRlWlVHcmI4eTJGV3RXaHZ2eWZlbzl1SF9kYnkyZlhBQnhMZGxiTWRCcF9yWUNfN0dKU0FsQWlVaFZ2dmNNTzM1Y0xwbDZNRnA1Z3VxNUYySUhYODR5cEVqbWdLa3hGUlB6eUtYWFpmR2JHejh5ODhkY0dxM0E?oc=5",
+      "date": "2026-11-11T08:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "VA/DoD Tobacco Cessation Guideline Supports Pharmacotherapy, Not Vaping Medscape."
     },
     {
       "title": "Follow-up, Long-term Implications and Survivorship - European Society For Medical Oncology | ESMO",
