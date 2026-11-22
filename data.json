@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-22T10:36:40Z",
+  "last_updated": "2026-11-22T10:40:21Z",
   "poland": [
+    {
+      "title": "Medycyna paliatywna w centrum uwagi - Termedia",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyaE14T3lKUFpJSWswTU9ZcEpDLUNpRTNGbkdOREtheGFqUEExakxCZVJDZEY1RzViSGJxWW9UUGJORkdVSG9GUDZnOGIwOEhxazh3ejFLUGI2eGFLcElMVVhCWHBocC1MT3M5MThYdEV1cWZiTzJwUG5fellPYVE?oc=5",
+      "date": "2026-11-22T10:08:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Medycyna paliatywna w centrum uwagi Termedia."
+    },
     {
       "title": "Studium kryzysu - Opinie - Kurier - Medycyna Praktyczna",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdlBxX3N4dC1ISmV2MVBKU19pWUVyRU56ZnBleXNFUWRBVjhaMnZsSTltblZxaVlxQ3ZNZHZfWGtvWEQyMjQ2OGdpVXRQS0tFaTdlYkpNOEQwems?oc=5",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "GLP-1 - informacje. Czytaj więcej na rynekzdrowia.pl Rynek Zdrowia."
-    },
-    {
-      "title": "To nie tylko liczba godzin snu. Badanie wskazuje ważniejszy czynnik - Medonet",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjhGRGJKMVhtVDU2dkJadV9RTURyZjgtR2ZkdHlkMUFRV0hDeUFEMGFSSTNNOFRmaFM3SUVIeEdCWmR2QjNwQlBUWWlmQThtaDc3eDI2Um1mMG5ZSGlzSDZWZENyc3RITWJjYWJGYWxqdGEtaUhBd21HUzRjVnloUDJuVFdfLXJYZWE5U1BPR0lZdHVvalFCeFFEOTVTSTJmdkVCOV9IVGwtRkJaQlRIbmxjS2pIOG9ybjNUTjEzMlhGSlVz?oc=5",
-      "date": "2026-11-21T09:54:29Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "To nie tylko liczba godzin snu. Badanie wskazuje ważniejszy czynnik Medonet."
     }
   ],
   "world": [
@@ -982,14 +982,6 @@
       "summary": "Posiedzenie Rady do spraw Taryfikacji 15/2026 w dniu 19.11.2026 r. Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
-      "title": "Project information | Treprostinil for treating idiopathic pulmonary fibrosis | Guidance - NICE website",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vVy1iekZDR21zanZVblM1SG00U0lTTG91MUxGZnJyN3dlZmdXZHdxaXV0czEyWGVhQjBENHdkWEdJNEZXeHEyVW5PcVBWT2JFcWhDamZveFBxNkhQdTdfcFltS3E5bFdSNncwd3BEbjdIc2M?oc=5",
-      "date": "2026-11-19T08:00:00Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Project information | Treprostinil for treating idiopathic pulmonary fibrosis | Guidance NICE website."
-    },
-    {
       "title": "Diabetic foot problems: prevention and management - topical wound oxygen therapy for diabetic foot ulcers - NICE website",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQlctTzJiX1B1dG9rZmVJcHRUZmlJZ2UzcW1SNzZJa2JyQ2VCdnZ0QVRqYWtxX1h1bVNqVkxjTlZHUjV2RmxSV0JXSTRZNWFBa2Z6clhtbl9uRk5iQnl3Y3R0LWphTS13SGFRcXY1SVpUQkVZLVZ2ZnhqVHN5ZkgyMjNIZTlIak9vdWhPRFIycDk?oc=5",
       "date": "2026-11-19T08:00:00Z",
@@ -1068,6 +1060,14 @@
       "source": "Dziennik Ustaw RP",
       "confirmed_by": 3,
       "summary": "Rozporządzenie Ministra Zdrowia z dnia 18 listopada 2026 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z Dziennik Ustaw."
+    },
+    {
+      "title": "New World Screwworm Outbreak - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/new-world-screwworm/situation-summary/index.html",
+      "date": "2026-11-18T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "New World Screwworm Outbreak Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "What is a CAC test, and should you get one? - www.heart.org",
@@ -1344,12 +1344,12 @@
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "COVID-19 Ensemble Forecasts - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
+      "title": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
       "date": "2026-11-20T08:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "COVID-19 Ensemble Forecasts Centers for Disease Control and Prevention | CDC (.gov)."
+      "summary": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "History of Measles - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1384,12 +1384,12 @@
       "summary": "Wastewater Data for Avian Influenza A(H5) Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html",
+      "title": "COVID-19 Ensemble Forecasts - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/cfa-modeling-and-forecasting/covid19-data-vis/index.html",
       "date": "2026-11-20T08:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
-      "summary": "Current Epidemic Trends (Based on Rt) | CFA: Modeling and Forecasting Centers for Disease Control and Prevention | CDC (.gov)."
+      "summary": "COVID-19 Ensemble Forecasts Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Hospitalizations and Deaths | Respiratory Illnesses - Centers for Disease Control and Prevention | CDC (.gov)",
