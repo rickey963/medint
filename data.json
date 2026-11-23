@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T22:14:05Z",
+  "last_updated": "2026-11-23T22:17:39Z",
   "poland": [
     {
       "title": "Naukowcy odkryli, co mikroplastik robi w jelitach. Wyniki są niepokojące - Medonet",
@@ -24,6 +24,14 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Unia Europejska bije na alarm: toksyczne chemikalia w jajkach i rybach Rynek Zdrowia."
+    },
+    {
+      "title": "Dopłata za pobyt w zakładzie opiekuńczym łamie prawo. Zgoda rodziny nic nie zmienia - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPelZ4VGtZc3Z5bnhpemRpY09ITlpNWnBNQ3ZvWnlaa245eDVHbm9MbV9lUEY0RHFQOU9KUVRreFdTRXdrb2RxOC1kdm9pQnN0cmJGMmlQWVY0Ujhwalp6MzdvX2IxSEN2bnpKcjk3S0NuVTdvUjNHVUZLVTdybTg3Q3hKQ1A3VllYeC1ZVEc2Nnpyc21mQ2t5MkxqZDh1ekt1aERnZzlLZWFvc2hHT1k4eXg0WkVqN09Ic1llWFZTNmpyaEVPQ3VuVzF3?oc=5",
+      "date": "2026-11-23T19:32:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Dopłata za pobyt w zakładzie opiekuńczym łamie prawo. Zgoda rodziny nic nie zmienia Rynek Zdrowia."
     },
     {
       "title": "Decyzyjny głos pacjentów - Termedia",
@@ -392,14 +400,6 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "Gruźlica ma niewidoczne oblicze - Aktualności - Pulmonologia Medycyna Praktyczna."
-    },
-    {
-      "title": "MZ o refundacji leku przeciwzakrzepowego - Wiadomości - Choroba zakrzepowo-zatorowa - Medycyna Praktyczna",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWtoVjJJc1BkaHpWY0ZjTjBoQXB6UnNQYUIzY1V6QlRPdlBsdVhOQjZDdDJ4OGJ6LVZGYTdMY1dhaVd0ZDBIYnFzakJEMUNLa0hGTUF3bklOWGc2T20tbmJReXdCdlFPamVYckpXZ0wtdTNrbzlKRTJ4UVlJSWVuQ291c1JZazZxc0k1cG5RNFE?oc=5",
-      "date": "2026-11-23T14:11:06Z",
-      "source": "Medycyna Praktyczna",
-      "confirmed_by": 1,
-      "summary": "MZ o refundacji leku przeciwzakrzepowego - Wiadomości - Choroba zakrzepowo-zatorowa Medycyna Praktyczna."
     }
   ],
   "world": [
@@ -525,7 +525,7 @@
     },
     {
       "title": "Former NIH scientist has over 30 papers retracted - The BMJ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZV3VMclNqYzlQb19WLXpBajNYRzQ2eExNbENvOUJPTVd3QlpxcmdyeDNIaWUxSmlnZjV3ZDhOU3VKX2N0LVZpaGhzNGNwbWszTElTX0R2aDR2aElJUTJuZWQxakVhdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oQTIwRVVDcUY4YTR2MW5BamRycjVjMG1KR3l6dGMwdVJ1MTZyUkY1RXd0bVNtMVFhSk9ldmhmSDVNZDFVZG1pcXJuUEhMLWV1RnN0Q3JlbkF5ZERwOGpudEg1NXJRTjJIcGc?oc=5",
       "date": "2026-11-23T17:51:21Z",
       "source": "The BMJ",
       "confirmed_by": 1,
@@ -533,7 +533,7 @@
     },
     {
       "title": "Former NIH scientist has over 30 papers retracted - The BMJ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oQTIwRVVDcUY4YTR2MW5BamRycjVjMG1KR3l6dGMwdVJ1MTZyUkY1RXd0bVNtMVFhSk9ldmhmSDVNZDFVZG1pcXJuUEhMLWV1RnN0Q3JlbkF5ZERwOGpudEg1NXJRTjJIcGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZV3VMclNqYzlQb19WLXpBajNYRzQ2eExNbENvOUJPTVd3QlpxcmdyeDNIaWUxSmlnZjV3ZDhOU3VKX2N0LVZpaGhzNGNwbWszTElTX0R2aDR2aElJUTJuZWQxakVhdw?oc=5",
       "date": "2026-11-23T17:51:21Z",
       "source": "The BMJ",
       "confirmed_by": 1,
@@ -862,11 +862,19 @@
       "summary": "ASTRO Urges EviCore to Restore Low-Dose Radiation Coverage Wisevoter."
     },
     {
+      "title": "Coronary artery calcium testing may not be necessary for everyone - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEp1bVdBdEFlZkdrMWRmMENoZndyaTJ2cWp5OGx4R01mNjByMGlJRkFyMFZjTE5vMHhIZTRaQmxoa3NHb01oY2thZ21OU1NlQjN0Q21ZMS1RNWhyRFozakpoVFJXZG83U1RrcndoQzBrUDZ0Q2JXYzlWRDFzZ3NCcHo1LTZyNE9uT2lialk0ZnlhQ0JyN2MxODBqdERCMGF1RXdwdEtsaWpOWW9pU0JjV0tiWQ?oc=5",
+      "date": "2026-11-20T17:18:00Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Coronary artery calcium testing may not be necessary for everyone News-Medical."
+    },
+    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-11-20T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 7,
+      "confirmed_by": 1,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -958,14 +966,6 @@
       "summary": "Posiedzenie Rady do spraw Taryfikacji 15/2026 w dniu 19.11.2026 r. Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
-      "title": "Research: Doxycycline and Tooth Staining | Rocky Mountain Spotted Fever (RMSF) - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkJBQmg4Q2FLSXhHR2x3aXE3TkNOQUtvcl9kVXJua0ZNUzdfNlloT3BfRnYyeFVTSi03ZWFYRU9TYWV0RUJhWWlsd256REV6N0stTmRxMWZ0aFppTTBuSWc5OTFFV0YtUVozdXMzWDN5QkZabXRIMEhjS1h1UUxXV3Q0SQ?oc=5",
-      "date": "2026-11-19T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
-      "summary": "Research: Doxycycline and Tooth Staining | Rocky Mountain Spotted Fever (RMSF) Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Night-shift work linked to differences in heart structure and biomarkers - European Society of Cardiology",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbTlja0ZyWHFVcm8yQUNhMktzdUZMSlBXUElGMVl1S2ZMSTVVMURFaWNjVUpiRFBnbzBZSmdQSF91U1NXZXgzM1NDVkNaclVCdi1zbm9uOG54X2R6TjhQQlBBUWN3WFdhSkk1UmZUemF0Z3dodEVOYTZubU02V2tXSkoxUVJnOVBENWtOR0FrSUhPWW00WHptRXRxdWIzMHpIdllyUFROUUxrcGMwYTk1ZzNFQ0NidW05Mi1TVW1PZ185dw?oc=5",
       "date": "2026-11-19T06:04:47Z",
@@ -982,28 +982,12 @@
       "summary": "ALK-positive NSCLC: Systemic Progression European Society For Medical Oncology | ESMO."
     },
     {
-      "title": "CompassionWorks Schedules Killeen EMDR Training for March and April 2027 - Canton Repository",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTdjV3BydExkQmxncUFtSlFQSHNTWW1LV0otc3h2WFN3QWdyR3c5dDFlTkNTZnN2U0ZnOEowRkdERW9fck5XUmdZUUM5WC12VG9nT05IcU92Ni1YVVpuc0taR2lVREg4UGVCdzUzQTZmN2w2d2cyNmxpdVNNd24ycG9xSHhvNFF0dTM0c2d2Z0xnUTY0MmxPSWM2TUV1R0l0aGpDNmFPaWhFT2xWSm9CYk1kZjdWUTRjYlMzX3VuZUotQXlQ?oc=5",
-      "date": "2026-11-19T00:03:12Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "CompassionWorks Schedules Killeen EMDR Training for March and April 2027 Canton Repository."
-    },
-    {
       "title": "Management of Stage IV mNSCLC with EGFR ex20ins Mutation - European Society For Medical Oncology | ESMO",
       "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQWjF3T2ktQ25VOWVXRXNlU0szVm5rWWZFQzliZXBlcmltR0Z3UEZkcDFBMmxFZ3lSbG56SFZnbmp2ZkZtd1NJMkJaNHpRWGVESThWQmhadnI4b25fSE9fWkVObk5rUW5WQVFpR3hyREx5dW9MYXE5QjJfLVJ2VGpoMm1STEhiZzVCWXFDYjRWWUFpNjMxZ0l0VmNnNGMzaDMwbWZ6ODNsNU5hX0hTQXcyQklleGVFR0psWGo5Wko2UDVtYlhKRmpoOVNmRk56NWtEUEpYWHVsRFBzcDlfdDY2MUhzY1JaNktyX3Myc1d0dE5YRUIwMGNqVFdDT005S1MyOExUbnhKdTNWaGJTXzY4VUh5b1RwZF9nMFcxSmlRdFZ3UVlOaFF1eUtiTFdhWlVWMkVidDJxXzY0TVBMUC1sOHZucjYtMnNIemNQdkNGRlNFN0M3VXRONlhtZmN4TEZzWGthSGlaQm9tb0x0?oc=5",
       "date": "2026-11-18T21:02:37Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Management of Stage IV mNSCLC with EGFR ex20ins Mutation European Society For Medical Oncology | ESMO."
-    },
-    {
-      "title": "New Decision Aid Supports Patients Selecting Obstructive Sleep Apnea Treatment - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUZuQXh2WlI3TXNCdlVRaTRiWXp0b2ViTndJeGFZc2J4cmNZTFBKWXZUTjRXdTVkVUx5N1lXUkZxR0dDMHl2V0tFQm5LY25keHBCZzVKSEZXY3lrdDUxdmVBMklzbHJhYi00aF9YZVNNZnFDQzZsZE15RTJ1Ukd6UDBOd0kyRng0YVRaRWV4c1dubnpLZklJUDMzM2pZYktKaXdabEFR?oc=5",
-      "date": "2026-11-18T19:46:26Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "New Decision Aid Supports Patients Selecting Obstructive Sleep Apnea Treatment Bioengineer.org."
     },
     {
       "title": "ALK-positive NSCLC: First-line Treatment - European Society For Medical Oncology | ESMO",
@@ -1062,14 +1046,6 @@
       "summary": "Assessing the 2026 ACC/AHA Guideline on the Management of Dyslipidemia American Academy Of Family Physicians | AAFP."
     },
     {
-      "title": "Comparing Dyslipidemia Recommendations: Evidence Supporting USPSTF vs ACC/AHA Guidelines - American Academy Of Family Physicians | AAFP",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUZUaTVfX25sczFSTHY3M3JlVVkwdFhYbm5pZEhLVjhfVTU3UVZmM3I3WUZUcl9HZFBKMXlSekRlekxTQXBhZUxlUnhISy1JdDhORUM2c24tOEtSTUowM250NUNoZFBBTE51MF9rZ1VrcU5UUUJRYXVPX3ZXdVl0OUtCSU5VU2FJeDE1eA?oc=5",
-      "date": "2026-11-16T16:17:51Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "Comparing Dyslipidemia Recommendations: Evidence Supporting USPSTF vs ACC/AHA Guidelines American Academy Of Family Physicians | AAFP."
-    },
-    {
       "title": "Przedłużenie terminu zgłaszania kandydatur do Odznaczenia Meritus Pro Medicis - NIL",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlhtY2xhSXJraFV1TDZVbVZkSFlobWc2QWdSekdTVnk4RExFMWs3RkFRNkZqZjFqcHdtWGNnbFg1d1dPSnBxNFBFTnl1eGJFREFKSG16OWtNZlMtblFETU82UzdaRlo5TktiZzFiTzJKN0FFdUo4ejM5TmNBQVpYdHhiNTZ6UkRhTUhsODdEZlNSRTNLdXZRcXR5TzgzTUU5QmFZMmNpMUQxYS1ZTFY5U0RVZw?oc=5",
       "date": "2026-11-13T08:00:00Z",
@@ -1078,12 +1054,20 @@
       "summary": "Przedłużenie terminu zgłaszania kandydatur do Odznaczenia Meritus Pro Medicis NIL."
     },
     {
-      "title": "Management of Local and Locoregional Disease: OSCC - European Society For Medical Oncology | ESMO",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaGs3MHRpTFBZaDVOMkJsVFZmUG5PakIxWG9wR1lqRFJUTFZ0UnhEcTBtbG5TU0xSR1hUd3FRVkh1aEozWXdGbWhQR1BBSGdNZFMxNlhJOTBRazVHVmlNYnBJUlUxNEo2cGplbkMtWkh3WWZnR01kRGUydHJiVF81YTVJWEZiN3NNaHE2YkJ0bnJqVGRGQTZ1aEY0VDhlSjJac0ZNZkpXYnJCampaWXBsakNkMUlqQW9QSnZYOU5qNjVWaVJLOF9vSjNORlJaV0dHS3pkblgyRkF2RDZxZmhXN1M3NnJXLU42YUZxRFFicVFfdw?oc=5",
-      "date": "2026-11-10T19:55:20Z",
-      "source": "ESMO (onkologia)",
+      "title": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sc0thbmZTUHFzSGp0Mm9GZVZHazNyRjFSRWNjQjk4clFzbHEzLW90SHBfOXRPVjRMZGFjUlM4N0RtWUlaUl9sUjdyX05FOWNUQlJvWVZhbENvUDZqZE5n?oc=5",
+      "date": "2026-11-12T08:00:00Z",
+      "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "Management of Local and Locoregional Disease: OSCC European Society For Medical Oncology | ESMO."
+      "summary": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update Nature."
+    },
+    {
+      "title": "VA/DoD Tobacco Cessation Guideline Supports Pharmacotherapy, Not Vaping - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFZ5aExPUDdJVnZIN1V6Yjg2N2VROWxQT1c3ZndjcXFLTXNYTWlvTnd2UnIwQUNKUkRlWlVHcmI4eTJGV3RXaHZ2eWZlbzl1SF9kYnkyZlhBQnhMZGxiTWRCcF9yWUNfN0dKU0FsQWlVaFZ2dmNNTzM1Y0xwbDZNRnA1Z3VxNUYySUhYODR5cEVqbWdLa3hGUlB6eUtYWFpmR2JHejh5ODhkY0dxM0E?oc=5",
+      "date": "2026-11-11T08:00:00Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "VA/DoD Tobacco Cessation Guideline Supports Pharmacotherapy, Not Vaping Medscape."
     }
   ],
   "epidemiology": [
