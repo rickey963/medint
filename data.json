@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T09:53:54Z",
+  "last_updated": "2026-11-24T09:57:50Z",
   "poland": [
     {
       "title": "Badacz z UJ CM pokieruje Akcją COST ENCORE - Aktualności - Psychiatria - Medycyna Praktyczna",
@@ -72,6 +72,14 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Policja analizuje fałszywe recepty. Zabezpieczono 10 tys. tabletek Medonet."
+    },
+    {
+      "title": "Prezydent podpisał ustawę. Stare zaległości Polaków będą umorzone - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcHpDc1NzLW9USlhneHd2MDRybWN4TWxtejFKMmVKSnNNd1A2eFMydlNPanRlUlhXSHhiZ1hLeEZySEhFLUFqa21pQmw1d2JfdkJfellRMHYxRDcySTRBV05La0xIV1NtN011dXgyd2FMSGcwRF9pTnBNb3NEZlhtZlM4eEVUQXpHbUljdTFZZ1IwNXh1aGtQTFA0Zk5uaGFYeld6dF8zMjBjMXJBT3I2N3BSVzVVVlZiYmRIT1VUREt6MlNlc1FF?oc=5",
+      "date": "2026-11-24T08:50:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Prezydent podpisał ustawę. Stare zaległości Polaków będą umorzone Rynek Zdrowia."
     },
     {
       "title": "Zmiany w mikrobiocie po powszechnie stosowanych lekach. Niektóre działają podobnie jak antybiotyki - Termedia",
@@ -392,14 +400,6 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Badanie PSA: eksperci opublikowali nowe zalecenia. Są bardzo precyzyjne Medonet."
-    },
-    {
-      "title": "52/2026 ZLC - Biuletyn Informacji Publicznej AOTMiT",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdUVGZXdpa2tNQnl2MDk0N1BHOEZ1V0lOUjVnVXN1MC1LN2N4aGlzLWhGeHAxV1BWU3RKLW8zX1gwT0QzbXJjbWVSYTBMS3RsMG9uYTJydTJEWjdBYmRWNENZTVZ3TXI3ZWFUQzBqQ3NENWh6SzVVUnBudUZ4UVhtdURIRQ?oc=5",
-      "date": "2026-11-23T19:43:38Z",
-      "source": "Ministerstwo Zdrowia RP",
-      "confirmed_by": 1,
-      "summary": "52/2026 ZLC Biuletyn Informacji Publicznej AOTMiT."
     }
   ],
   "world": [
@@ -906,7 +906,7 @@
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-11-20T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 7,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -990,12 +990,28 @@
       "summary": "ALK-positive NSCLC: Systemic Progression European Society For Medical Oncology | ESMO."
     },
     {
+      "title": "CompassionWorks Schedules Killeen EMDR Training for March and April 2027 - The Clarion-Ledger",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR3NQb1VCQVd6Vms2N25XcWxMME12eldjUmFHd3FUbklSQWVXZGFQSEctRDgxV1lyNHpuV1ZaWVB0Q0hnYmp2aUtHdm5RQll0a3RmeGxSYXhDaVpZelVNakNOa1VkdlRVNVN5WGZUNlNPOXJNdVBoTWVjX1d3Nk9ORFpBaDREMG5fbzlkWktsRVRpUElndXEyalNlcGtrUVRrX2hsUk9FUFlIajJVYjZESlZ2cml2UW5McC1SSERoTWZOWUZ5WVV6YkdB?oc=5",
+      "date": "2026-11-19T00:06:04Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "CompassionWorks Schedules Killeen EMDR Training for March and April 2027 The Clarion-Ledger."
+    },
+    {
       "title": "Management of Stage IV mNSCLC with EGFR ex20ins Mutation - European Society For Medical Oncology | ESMO",
       "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQWjF3T2ktQ25VOWVXRXNlU0szVm5rWWZFQzliZXBlcmltR0Z3UEZkcDFBMmxFZ3lSbG56SFZnbmp2ZkZtd1NJMkJaNHpRWGVESThWQmhadnI4b25fSE9fWkVObk5rUW5WQVFpR3hyREx5dW9MYXE5QjJfLVJ2VGpoMm1STEhiZzVCWXFDYjRWWUFpNjMxZ0l0VmNnNGMzaDMwbWZ6ODNsNU5hX0hTQXcyQklleGVFR0psWGo5Wko2UDVtYlhKRmpoOVNmRk56NWtEUEpYWHVsRFBzcDlfdDY2MUhzY1JaNktyX3Myc1d0dE5YRUIwMGNqVFdDT005S1MyOExUbnhKdTNWaGJTXzY4VUh5b1RwZF9nMFcxSmlRdFZ3UVlOaFF1eUtiTFdhWlVWMkVidDJxXzY0TVBMUC1sOHZucjYtMnNIemNQdkNGRlNFN0M3VXRONlhtZmN4TEZzWGthSGlaQm9tb0x0?oc=5",
       "date": "2026-11-18T21:02:37Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "Management of Stage IV mNSCLC with EGFR ex20ins Mutation European Society For Medical Oncology | ESMO."
+    },
+    {
+      "title": "New Decision Aid Supports Patients Selecting Obstructive Sleep Apnea Treatment - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUZuQXh2WlI3TXNCdlVRaTRiWXp0b2ViTndJeGFZc2J4cmNZTFBKWXZUTjRXdTVkVUx5N1lXUkZxR0dDMHl2V0tFQm5LY25keHBCZzVKSEZXY3lrdDUxdmVBMklzbHJhYi00aF9YZVNNZnFDQzZsZE15RTJ1Ukd6UDBOd0kyRng0YVRaRWV4c1dubnpLZklJUDMzM2pZYktKaXdabEFR?oc=5",
+      "date": "2026-11-18T19:46:26Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "New Decision Aid Supports Patients Selecting Obstructive Sleep Apnea Treatment Bioengineer.org."
     },
     {
       "title": "ALK-positive NSCLC: First-line Treatment - European Society For Medical Oncology | ESMO",
@@ -1020,6 +1036,14 @@
       "source": "Naczelna Izba Lekarska",
       "confirmed_by": 1,
       "summary": "Od finansowania po edukację - podsumowanie październikowego posiedzenia KS NRL NIL."
+    },
+    {
+      "title": "What should be done about newly diagnosed chronic kidney disease in the cardiology clinic? - ESC 365",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ad2lhUU1VbF9mdi1kSGdUTGtoU3RCU21IWVo3bVNRdEp6aVQwaDNsX1NHdk5lQzl4OFdyUmUtSUd5VXJZbjA4OU5HbjBxdE0?oc=5",
+      "date": "2026-11-18T08:00:00Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "What should be done about newly diagnosed chronic kidney disease in the cardiology clinic? ESC 365."
     },
     {
       "title": "Rozporządzenie Ministra Zdrowia z dnia 18 listopada 2026 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z - Dziennik Ustaw",
@@ -1052,22 +1076,6 @@
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
       "summary": "ESMO launches new journal dedicated to artificial intelligence in oncology European Society For Medical Oncology | ESMO."
-    },
-    {
-      "title": "Recommendations Provided for Managing Shift Work Disorder - Ophthalmology Advisor",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXdRVFVKbEwzU0tEbGJrbDFWTjBZWHNpRW1MRE1FRzhoZzJTaDZiYXMtOHZVZHR2bDBfVVh6RzF0eFY5VGFUQjl0a080YVJRNEFEWXJhX2VsWml0TTFYMVdQMmM1UmRkRzUybS10blBaX0RSQzFFZUU1OXdqUHU3elRSOWtiOE1Hbmw2M1IyTG9mWGhEVV9yMkthR1o5SzMyNnc?oc=5",
-      "date": "2026-11-16T05:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Recommendations Provided for Managing Shift Work Disorder Ophthalmology Advisor."
-    },
-    {
-      "title": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sc0thbmZTUHFzSGp0Mm9GZVZHazNyRjFSRWNjQjk4clFzbHEzLW90SHBfOXRPVjRMZGFjUlM4N0RtWUlaUl9sUjdyX05FOWNUQlJvWVZhbENvUDZqZE5n?oc=5",
-      "date": "2026-11-12T08:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update Nature."
     }
   ],
   "epidemiology": [
@@ -1912,7 +1920,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGRlRnlXY3ZMeF9ZeU1IaGpYdllQQWc2MjJKeGxhWVFQOWE4NEVyX3RPVW51QlJjUzNvV3AyUGFWVWN6SldkSXBLTlJVWmhYd1c1WWlObEhHVm9DWnlqd3Q4MlNDYTdEUlZZZHc0RmVCQUhNVHJlb1lxWHVPUml3NDY0S0xJTHdGN2c2R0ZTYks?oc=5",
       "date": "2026-11-23T19:13:00Z",
       "source": "Endpoints News",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "FDA approves BridgeBio rare disease drug for muscular dystrophy Endpoints News."
     },
     {
