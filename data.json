@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T05:55:32Z",
+  "last_updated": "2026-11-26T06:00:03Z",
   "poland": [
     {
       "title": "Naukowcy odtworzyli 6986 mózgów w komputerze. Chcą lepiej zrozumieć demencję - Alert Medyczny",
@@ -1074,7 +1074,7 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGM1VuN0JraXdKZjlvRHVvRXZRR29OM0ZBa21Vb0JXbEJuMTVlXzFfNmJIaHRSRW9XajNIZ1lnSVJpWFlFcWYyZGgxNGZsYjVpSEtqV1Jlbld5VUlOWkZWcV9laWZRQTVGYnRTQk8yMjNUQ1RJWXVPeQ?oc=5",
       "date": "2026-11-24T04:36:38Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 6,
       "summary": "H5 Bird Flu Update Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1158,6 +1158,14 @@
       "summary": "A(H5) Bird Flu: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
+      "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 45, ending November 14, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iSWUxdHJObXVBYlV0MjRHUXFMbDRFREgyaUF4SDE2VmRnWnZDOGo0d0k1WHZnODVYa3NRdE44aFVvOXhJZUh6OFhyRWRjcUZ6ZkswdDMwTmFGazdyY3FBR2tNaWxtVFplNVE?oc=5",
+      "date": "2026-11-20T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Weekly US Influenza Surveillance Report: Key Updates for Week 45, ending November 14, 2026 | FluView Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "AI-Assisted Auditing Reveals Gaps in HNSCC Guideline Adherence - Physicians Weekly",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzVrWTE3RElnRFpzMGJtYjR4S2hpaTBVSnFWNW4xV0hQWkJmTlN2aG8tV1U5V1RGakNaaDZzWGpoZy1lT1U5Y2JvenNVWmhvZkRCdjl5Y1lNVDlMTUVwbF9SakhrLXVDeWdHWFdpMG9OZ05NYWJIdkxMOHVTQ0wtQ25xVmpRbTBvd2laZXBQenRfLW12V0kwMjBveEp3TU14OXc?oc=5",
       "date": "2026-11-19T18:00:53Z",
@@ -1174,36 +1182,28 @@
       "summary": "Current Patterns and Best Practices for Prescribing Novel Heart Failure Medications in Children professional.heart.org."
     },
     {
-      "title": "European Parliament backs key priorities advocated by ESMO for cancer research and innovation - European Society For Medical Oncology | ESMO",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZWpjXy1CZUtPdm9RNklzRTRNbmlYNDJPQkdjNlh0UXhkVUR6Q3lwNHBrTy1yVmQxeWdERlJJNVBLYkQ3eUJfQ2p6bDFwNmVmZnh4cjIxWktlYzFPZi1Bd2Qyb19MdElJWDU1RVNfeTgyUVpiWmZUWWcxVmstNmVpdEJ0dlFQUXltU3hwYldYc1QxWVFBX25sNE9jaUdtZXlkRjZTWDlqdm5rT2RTc0JacmMyYkJpdTVSYlpkNmtsRHlqOWEzUTdqMGFCMFptWWR6Q2k2OXdWSQ?oc=5",
-      "date": "2026-11-19T08:40:12Z",
+      "title": "Night-shift work linked to differences in heart structure and biomarkers - European Society of Cardiology",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbTlja0ZyWHFVcm8yQUNhMktzdUZMSlBXUElGMVl1S2ZMSTVVMURFaWNjVUpiRFBnbzBZSmdQSF91U1NXZXgzM1NDVkNaclVCdi1zbm9uOG54X2R6TjhQQlBBUWN3WFdhSkk1UmZUemF0Z3dodEVOYTZubU02V2tXSkoxUVJnOVBENWtOR0FrSUhPWW00WHptRXRxdWIzMHpIdllyUFROUUxrcGMwYTk1ZzNFQ0NidW05Mi1TVW1PZ185dw?oc=5",
+      "date": "2026-11-19T06:04:47Z",
+      "source": "ESC (kardiologia)",
+      "confirmed_by": 1,
+      "summary": "Night-shift work linked to differences in heart structure and biomarkers European Society of Cardiology."
+    },
+    {
+      "title": "ALK-positive NSCLC: Systemic Progression - European Society For Medical Oncology | ESMO",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPS3IwSHdEd3p4UmE3Y3lPUTlQd0tNdW1uM0JqWlQ4QTVNcHlUYVEtbnlMTG5BWVlvcld2XzRHWHRUNi1zemEyUWt4OEJ3WG03dlZEMDl0ZlhHZlNfTkVBMnhTQ3Z3Qnh1aE0zN3gxLXcxQXdxUjBidlBuSjU1dWJIekhOZElxMFd0WjdId0hha25uQ0xNRFo3SFk1NEpERnZhRU5oTXJhMFZvZjNVaHBiRG5BNS1YSWdJeXh1Z0ROdzlzNmpUNXRwNnJPTV9JdW9TR1FOWmNTUWJxWXBVUzY2Y0FmSmJoV1V6QzNjbTFfbkNjMXdhRUdiS3g0VXA0TGN4dU81RU1LRS1xVVNKLXY2bmYwcWpJdTVnVFFMZg?oc=5",
+      "date": "2026-11-19T05:39:12Z",
       "source": "ESMO (onkologia)",
       "confirmed_by": 1,
-      "summary": "European Parliament backs key priorities advocated by ESMO for cancer research and innovation European Society For Medical Oncology | ESMO."
+      "summary": "ALK-positive NSCLC: Systemic Progression European Society For Medical Oncology | ESMO."
     },
     {
-      "title": "What is a CAC test, and should you get one? - www.heart.org",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEbWNRTjJtWmFCQ2FvcDY1cnE2WXl5Z2tHZXFzby12ZzlGOFh1U0pvNTFLTFNTSlltQ0FHLTFGeXJBNXJITHNZVE1XMUpacW02cGRGX0xta1hTWnQtWU5pdE9BQmJCTnBpdlZsb000UVFDak1OeXFwUV82MTUydw?oc=5",
-      "date": "2026-11-17T08:00:00Z",
-      "source": "Wytyczne AHA/ACC",
-      "confirmed_by": 1,
-      "summary": "What is a CAC test, and should you get one? www.heart.org."
-    },
-    {
-      "title": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sc0thbmZTUHFzSGp0Mm9GZVZHazNyRjFSRWNjQjk4clFzbHEzLW90SHBfOXRPVjRMZGFjUlM4N0RtWUlaUl9sUjdyX05FOWNUQlJvWVZhbENvUDZqZE5n?oc=5",
-      "date": "2026-11-12T08:00:00Z",
+      "title": "CompassionWorks Schedules Killeen EMDR Training for March and April 2027 - The Clarion-Ledger",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR3NQb1VCQVd6Vms2N25XcWxMME12eldjUmFHd3FUbklSQWVXZGFQSEctRDgxV1lyNHpuV1ZaWVB0Q0hnYmp2aUtHdm5RQll0a3RmeGxSYXhDaVpZelVNakNOa1VkdlRVNVN5WGZUNlNPOXJNdVBoTWVjX1d3Nk9ORFpBaDREMG5fbzlkWktsRVRpUElndXEyalNlcGtrUVRrX2hsUk9FUFlIajJVYjZESlZ2cml2UW5McC1SSERoTWZOWUZ5WVV6YkdB?oc=5",
+      "date": "2026-11-19T00:06:04Z",
       "source": "Wytyczne kliniczne",
       "confirmed_by": 1,
-      "summary": "GLADEL–PANLAR clinical practice guidelines for the management of systemic lupus erythematosus: 2025 update Nature."
-    },
-    {
-      "title": "VA/DoD Tobacco Cessation Guideline Supports Pharmacotherapy, Not Vaping - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFZ5aExPUDdJVnZIN1V6Yjg2N2VROWxQT1c3ZndjcXFLTXNYTWlvTnd2UnIwQUNKUkRlWlVHcmI4eTJGV3RXaHZ2eWZlbzl1SF9kYnkyZlhBQnhMZGxiTWRCcF9yWUNfN0dKU0FsQWlVaFZ2dmNNTzM1Y0xwbDZNRnA1Z3VxNUYySUhYODR5cEVqbWdLa3hGUlB6eUtYWFpmR2JHejh5ODhkY0dxM0E?oc=5",
-      "date": "2026-11-11T08:00:00Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "VA/DoD Tobacco Cessation Guideline Supports Pharmacotherapy, Not Vaping Medscape."
+      "summary": "CompassionWorks Schedules Killeen EMDR Training for March and April 2027 The Clarion-Ledger."
     }
   ],
   "epidemiology": [
