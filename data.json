@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T14:25:51Z",
+  "last_updated": "2026-11-26T14:30:00Z",
   "poland": [
     {
       "title": "RPO o projekcie zmian w refundacji leków - Medycyna Praktyczna",
@@ -194,7 +194,7 @@
       "summary": "Nie żyje prof. Eugeniusz Szmatłoch. Kardiolog miał łączną rolę nauki i sportu Medonet."
     },
     {
-      "title": "Prorektor Uniwersytetu Medycznego w Poznaniu odwołany. Prof. Michał N. usłyszał poważne zarzuty, grozi mu do 8 lat więzienia - Puls Medycyny",
+      "title": "Prorektor Uniwersytetu Medycznego w Poznaniu odwołany. Prof. Michał N. usłyszał poważne zarzuty, grozi mu nawet 8 lat więzienia - Puls Medycyny",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWjVnR295N3ltaDc2NnpvOTVneE1Jb3g3ZXVGQWswbWxBaklGSTBIV2hFc1RIb2QwRUhVckx2TTdCU1AtWVpWWnZWTVBlSTA3YzZQV2ZYcXFkSXlMcUVNQ1VsNGtDRk50OWF3SktwcE5nNV9TMVRNd05TYzZEZFliYlIyd1pFVVBuSy11cExTVjJqYkxkNF9wcGNlRXFTSUJWUURYdEhQQzJLeXhSNEwxZlZKWnU2ZkhoSEhvM3E5TEVJRnJpcEEtWTVVZ1VhaWZBNlZBSDBuUzNjYndKNElsV0E5NFJrZVBZZlYzczM5b2R0R2FOcU03Wk1LT1E3eS0zY01zLThVZmt0cVgt?oc=5",
       "date": "2026-11-26T09:47:00Z",
       "source": "Puls Medycyny",
@@ -450,6 +450,14 @@
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Tildrakizumab Sustains Psoriasis Clearance for 5 Years in Real-World Study Medscape."
+    },
+    {
+      "title": "Add-On Mycophenolate May Benefit Patients With Severe IgAN - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2hEV2NaakF3WWdueVBTdk5INGMwbF9kLUxQWVJoeUtveklTQ3lqOGI2RWZOYnVFaGxNTHRST2V5V2d4TmpjLVBuRDhzYVhOSEJ0ci1qZm9RV2NNS0RpOE1KSmx4MVl0TWRBUUtISi0zRG5IcG52RlhKWWdWMmlmX3lmYXppN3hGeVhmOVh6cW04VEMwdG9DUWFzVHdybThEZjY2U2Z3ZEFEOGZJX05V?oc=5",
+      "date": "2026-11-26T12:02:03Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Add-On Mycophenolate May Benefit Patients With Severe IgAN Medscape."
     },
     {
       "title": "British doctor in Gaza bombing tells how colleague was killed - The BMJ",
@@ -794,14 +802,6 @@
       "source": "NEJM",
       "confirmed_by": 1,
       "summary": "Monoclonal Antibodies in Heparin-Induced Thrombocytopenia NEJM."
-    },
-    {
-      "title": "When Politics Displaces Science — How the HHS Report on Transgender Youth Care Harms Patients - NEJM",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtLWttMzhWT0hqNlo0LXhodjYya3hfUnN0SWFBR25IYW9VSThhRjE4ektXX2x5QlZSS3A2b00zaHlCZVhIZDVQOGtLUy1PSDVtYnVFb3doY3BYMElIbWtR?oc=5",
-      "date": "2026-11-25T23:31:54Z",
-      "source": "NEJM",
-      "confirmed_by": 1,
-      "summary": "When Politics Displaces Science — How the HHS Report on Transgender Youth Care Harms Patients NEJM."
     }
   ],
   "guidelines": [
@@ -922,7 +922,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjUnJnaW9IVFBJbXlQM0Nid2k5Z3R4dV83Y051VE9wNWF4ejJLekhRTWFpVldWYjU3dEV3ZUhEQmRpTU8wUFV6OURkZ0g2bHB6UUlEc3o4WkV0VTJNcTliVVFIb21VaDcxUzlCYlRfSWJTN0NDNTgxQUt2MA?oc=5",
       "date": "2026-11-25T18:03:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths — United States, 2015–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1178,7 +1178,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MZzJoeXd5OGYwNnBfREE5QkRDa3hHTmNZWlJicTMzZjhKOFhzN3RQLWo2bGZhWkUwaW5FakdGdUk1QnBBazBLTVNmV0FISEUzdnYtdnJkcjJ5QlBmTHNyVjJWeXA0UHpYLXc?oc=5",
       "date": "2026-11-23T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 2,
       "summary": "Catheter-Associated Urinary Tract Infections (CAUTI) Prevention Guideline Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1190,20 +1190,20 @@
       "summary": "Late-Breaking Science Submission Rules and Guidelines European Society of Cardiology."
     },
     {
+      "title": "Coronary artery calcium testing may not be necessary for everyone - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEp1bVdBdEFlZkdrMWRmMENoZndyaTJ2cWp5OGx4R01mNjByMGlJRkFyMFZjTE5vMHhIZTRaQmxoa3NHb01oY2thZ21OU1NlQjN0Q21ZMS1RNWhyRFozakpoVFJXZG83U1RrcndoQzBrUDZ0Q2JXYzlWRDFzZ3NCcHo1LTZyNE9uT2lialk0ZnlhQ0JyN2MxODBqdERCMGF1RXdwdEtsaWpOWW9pU0JjV0tiWQ?oc=5",
+      "date": "2026-11-20T17:18:00Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Coronary artery calcium testing may not be necessary for everyone News-Medical."
+    },
+    {
       "title": "Clinical Overview of Measles - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QY2k1WkRUNG9FV2RNejJFQmFlSGhXQWVwR1RRTnNxMkxBWHlVNU1FY2VlSnZfN3JaOHFlZlQyYnFFYUxhaFNSZ2syX1VkZkRxVnhyMmhyNnF2c3Bab0lXRG9yYVRNMU9Ec2pRWQ?oc=5",
       "date": "2026-11-20T08:00:00Z",
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Clinical Overview of Measles Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Narodowy Program Zdrowia 2027-2036 pomija kwestie kadr, wycen świadczeń oraz stomatologii - NIL",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTDg4SDFnM2otSG1SVHVVV04yQTFyT2JOUnRQY0lnaS1rNFQyeXVnQjNieVUtZVpUOHlJTmJiWnBzUVpUWXpUUmFOb3NxUkhRalptRDlDSmx0RU1heVp6M0lYV2JELXlIX2E1SUxEQjVCZlhFOE9OR0xhOUx6T1F2S1NPYVdMZHpYVkFnbnJPbjU4ZGNPZHFWS3kwWnRtTXZwU2lJdTJiMkw5RFo5cm5BdEMxa2Zhdkg2TFVVSm4tQS1pUQ?oc=5",
-      "date": "2026-11-20T08:00:00Z",
-      "source": "Naczelna Izba Lekarska",
-      "confirmed_by": 1,
-      "summary": "Narodowy Program Zdrowia 2027-2036 pomija kwestie kadr, wycen świadczeń oraz stomatologii NIL."
     }
   ],
   "epidemiology": [
@@ -1978,22 +1978,6 @@
       "summary": "Study Details | NCT07953439 | GB268 Alone or in Combination for Metastatic Non-Small Cell Lung Cancer ClinicalTrials.gov."
     },
     {
-      "title": "Head-to-Head Comparison of Two Ambient Artificial Intelligence Documentation Tools on Clinician Usability - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0TUJjckpfOExacmVHX3BaSFlmQTVrWlhkRjZjQTJPeENOWkdreXc4eHJxRjRHWFJnbjVQOFktSFhhVE1tTWYtM3BZZ2pPRXhXZndKb2ZyNA?oc=5",
-      "date": "2026-11-23T14:29:27Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Head-to-Head Comparison of Two Ambient Artificial Intelligence Documentation Tools on Clinician Usability ClinicalTrials.gov."
-    },
-    {
-      "title": "Study Details | NCT07952100 | Dexmedetomidine Versus Tramadol With Bupivacaine in PECS II Block for Analgesia After Modified Radical Mastectomy - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiZ3N0RV91VUNQQ1YyX01BR01mM0NjR2dXSzJaLU1sRk45U0F5Xzl1b29sMlB2cVpwUTV4Rzloc0s5cXhHTnYyY25RYlhlQlg5TkFXYlp3cw?oc=5",
-      "date": "2026-11-23T14:29:26Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07952100 | Dexmedetomidine Versus Tramadol With Bupivacaine in PECS II Block for Analgesia After Modified Radical Mastectomy ClinicalTrials.gov."
-    },
-    {
       "title": "Study Details | NCT07952867 | Effect of Two Different Doses of Sugammadex on Bleeding Profile in Thyroidectomy - ClinicalTrials.gov",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kMTVUZlFuUmhFeTcyQ25oZlJOV2VpTHBGaEVsSWhZQkREdW9FRVNmZW1sX2tGU2ItSlUwR1cyQUZhZ3lXcXpGRHFwcFB0U3Jld2FtY2pHMA?oc=5",
       "date": "2026-11-23T14:29:16Z",
@@ -2002,12 +1986,12 @@
       "summary": "Study Details | NCT07952867 | Effect of Two Different Doses of Sugammadex on Bleeding Profile in Thyroidectomy ClinicalTrials.gov."
     },
     {
-      "title": "Study Details | NCT07953231 | How AI Advice Influences Physicians' Decisions to Start Blood Pressure Medication - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DNmM2OEJ5dVl3SF9ISWdOOG9SdXBGSDlwWUMxSy0wcUpfVnJZQ0hkRDZQT2V3ZklaTkxNRllxaUZYZHMtOW9oX1BwTVQ3TWgwODBBTDJUcw?oc=5",
-      "date": "2026-11-23T14:29:13Z",
+      "title": "Study Details | NCT07952880 | Clinical Validation of the Metrix CTNGTV Test - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aaU12LWxYMFhjTWtURVhHaVZ1M2ZPNjhITHFpRXhEM3ZzREoxNWlRdE5qTW04WmUtWXhGT0FvX19FZHpYQWRDU09VYmRGeE1jWWpPVjVwbw?oc=5",
+      "date": "2026-11-23T14:29:08Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Study Details | NCT07953231 | How AI Advice Influences Physicians' Decisions to Start Blood Pressure Medication ClinicalTrials.gov."
+      "summary": "Study Details | NCT07952880 | Clinical Validation of the Metrix CTNGTV Test ClinicalTrials.gov."
     }
   ],
   "pharma_market": [
