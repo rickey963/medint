@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T15:51:59Z",
+  "last_updated": "2026-11-27T15:55:54Z",
   "poland": [
     {
       "title": "Opatrunki gipsowe – zastosowanie, rodzaje i najważniejsze właściwości - Alert Medyczny",
@@ -238,7 +238,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWExCV0dEQmx2YUs5NW93N3ZZZ0htb2Fpd2VXMnhyZGJtMkVRenZ3VmVXYWxreGhLX2ZTNTFQSEZRSXU5Q0tlTjIzdWFRLXBRUGhQMzFYT2M2TUIzV3RJZE5kbEYxTS1sQTF3SjJocTV2ZGRSUUFlbXh1Qk9lRHI2YzhIUXhHd0FJWEVhc2ZXMU1TQXZwSTZoNUQ0U0RpcnpEQy1nVlRLbFlubXhqWUJCWkZZLXlzaTNSbWhaclFacw?oc=5",
       "date": "2026-11-27T10:40:00Z",
       "source": "Serwis Zdrowie (PAP)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Krajowa Izba Fizjoterapeutów oczekuje działań Ministerstwa Zdrowia: prawie 1,5 miliona Polaków czeka na bezpośredni dostęp do fizjoterapeuty Serwis Zdrowie."
     },
     {
@@ -279,7 +279,7 @@
       "date": "2026-11-27T10:21:29Z",
       "source": "Puls Medycyny",
       "confirmed_by": 1,
-      "summary": "Co zrobić, gdy badanie kliniczne się kończy, a pacjent nadal potrzebuje leku, który mu pomaga, choć nie został on jeszcze zarejestrowany? - Nowa procedura Compassionate Use ma umożliwić kontynuowanie takiego leczenia - mówił Grzegorz Cessak, prezes URPL, podczas XXII Okrągłego Stołu dla Polityki Lek…."
+      "summary": "Co zrobić, gdy badanie kliniczne się kończy, a pacjent nadal potrzebuje leku, który mu pomaga, choć nie został on jeszcze zarejestrowany? - Nowa proce…."
     },
     {
       "title": "Co w programie V konferencji Grudniowe Spotkania z Infekcjami - Termedia",
@@ -1042,7 +1042,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjUnJnaW9IVFBJbXlQM0Nid2k5Z3R4dV83Y051VE9wNWF4ejJLekhRTWFpVldWYjU3dEV3ZUhEQmRpTU8wUFV6OURkZ0g2bHB6UUlEc3o4WkV0VTJNcTliVVFIb21VaDcxUzlCYlRfSWJTN0NDNTgxQUt2MA?oc=5",
       "date": "2026-11-25T18:03:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths — United States, 2015–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1134,11 +1134,19 @@
       "summary": "Sebetralstat for treating acute attacks of hereditary angioedema in people aged 12 and over [ID6284] NICE website."
     },
     {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 5,
+      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "About Childhood Lead Poisoning Prevention - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ObmdNb2I3andXVnFpalBka1RYc0JUNWptaHZqNXpDMURLdmdaT3NJSmZYVlBvLXZMQ21sUmF4dlJod1RQV3JEa3h3cVRuUlo3WUZsYjZRdjJuWjdHYnN6RjFn?oc=5",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 1,
       "summary": "About Childhood Lead Poisoning Prevention Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1156,14 +1164,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-11-25T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
-      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "162/2026 ZLC - Biuletyn Informacji Publicznej AOTMiT",
@@ -1940,6 +1940,14 @@
   ],
   "pharma_market": [
     {
+      "title": "Alligator Bioscience Completes Sale of Mitazalimab to Biossil - BioSpace",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWxyTWtJRk1sMHYxVHBhMHRZcGRnLXFiQjg1d1J1cDU0TWdqTkY2cE9QZUFXY09lbjJoSUJxMGVUY0llQVhwUHd1V1BDVk95TzJKRldDellUNnVkYk0xR2R2Zm5VOWZERnlfVVJyU3hteFdTVFU4aDh5MUQ3ODhiRGc2d0FFR1JyZmd4ODJkcGV1YlNUSGpzemZ4Z2xHZW1hT01Z?oc=5",
+      "date": "2026-11-27T15:46:19Z",
+      "source": "BioSpace",
+      "confirmed_by": 1,
+      "summary": "Alligator Bioscience Completes Sale of Mitazalimab to Biossil BioSpace."
+    },
+    {
       "title": "Arch Biopartners Closes Non-Brokered Private Placement - November 27, 2026 - BioSpace",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR2MxdjRjWWpiaGlnRmZJVHlxRmx3dEN1aUY2NVNjY0lsd1AzNExSWEttZVl5NEw3cmN3ZFBXNXZZUllucnFaZ2Y1SHVTbHBvempVNGptRGZLeTJ4TmJsazBmLWk3VFBCNkxLVjc1SzAtSUJJRWtKZGd5TG9MRDNyLVE2RE5iemUzRUtLbmNRNXFSWDRfZlQzX2tjTWowNnN5akJnbklZd0pGRUNHOFZyQg?oc=5",
       "date": "2026-11-27T14:19:31Z",
@@ -2330,14 +2338,6 @@
       "source": "BioPharma Dive",
       "confirmed_by": 1,
       "summary": "Amgen takes next step toward biosimilar Opdivo; Bristol Myers taps a new finance head BioPharma Dive."
-    },
-    {
-      "title": "If Healthcare Is Truly About Patients, They Must Be our Equal Partners in Shaping it - Fierce Pharma",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY0UzN3hNLUdkaVVZOHJDOHF4aS1OXzhibWZDb2UwNUFDNlAwTjBacmRIQlYtQnFiWWtWam9vRWs2Z3pFaFM1VlBvbzl6S0RxeEpHMGFaaDhJMllTTTZqLVI4R1h5LTZ4TG1NSFp6bGpja1YwX3dBWGczOW5Za2NCdkZCTUt2UXhZa0gtWWkzTGdLcWEzTk81TWlhSGNCeWJlaUloS0R4X0p2Sy1pRUVCTUpTalVxY00?oc=5",
-      "date": "2026-11-25T16:31:34Z",
-      "source": "FiercePharma",
-      "confirmed_by": 1,
-      "summary": "If Healthcare Is Truly About Patients, They Must Be our Equal Partners in Shaping it Fierce Pharma."
     }
   ],
   "critical_alerts": [
@@ -2378,7 +2378,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 5,
       "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
