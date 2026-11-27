@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T02:23:35Z",
+  "last_updated": "2026-11-27T02:27:42Z",
   "poland": [
     {
       "title": "Stwardnienie rozsiane nie czeka. Pacjenci mają problem z dostępem do refundowanego leczenia - Alert Medyczny",
@@ -962,7 +962,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjUnJnaW9IVFBJbXlQM0Nid2k5Z3R4dV83Y051VE9wNWF4ejJLekhRTWFpVldWYjU3dEV3ZUhEQmRpTU8wUFV6OURkZ0g2bHB6UUlEc3o4WkV0VTJNcTliVVFIb21VaDcxUzlCYlRfSWJTN0NDNTgxQUt2MA?oc=5",
       "date": "2026-11-25T18:03:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths — United States, 2015–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1178,7 +1178,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFBJR2Z6LXp1WHZwNElmdFliMTJtMVU2MjRHU0VoajFON240aVpiYmw3RHFZR0tFZllYcldENVlldElDcmpEVGtqMjN0VDhhQzVwSlF0MkMxa253Si1faXdJTDJxeVBlbFlzRlI4SGpSdllWOC04NXpJNUdEUS1reA?oc=5",
       "date": "2026-11-24T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 2,
       "summary": "Best Practices in Dental Infection Prevention and Control Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1198,12 +1198,12 @@
       "summary": "H5 Bird Flu Update Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "ESMO Advanced Course on Cholangiocarcinoma: Where are we going? 2026: Barcelona - European Society For Medical Oncology | ESMO",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnN2Z0FfemdVal9jOG15NzB4VXI5YXVqOS00RWctbFlTaGpqdzZpTlJxdzJxWndmSEEyTXRKWW1UbGdyYTFLeEVJMGVkd0NPclJYUEVnYnJacG9yUld3RHBWcXNZa0ZtM2xPWGN4YjFDR01IV0hEM2h3RDhxQWJXTHZjd2dzUjEwSzdkSW1rUHQxZ2RZQjRTdlhjMlNKTkd5clZmUTJ1b01XNXhrbm5FaFdjVQ?oc=5",
-      "date": "2026-11-23T20:49:52Z",
-      "source": "ESMO (onkologia)",
+      "title": "Catheter-Associated Urinary Tract Infections (CAUTI) Prevention Guideline - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MZzJoeXd5OGYwNnBfREE5QkRDa3hHTmNZWlJicTMzZjhKOFhzN3RQLWo2bGZhWkUwaW5FakdGdUk1QnBBazBLTVNmV0FISEUzdnYtdnJkcjJ5QlBmTHNyVjJWeXA0UHpYLXc?oc=5",
+      "date": "2026-11-23T08:00:00Z",
+      "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
-      "summary": "ESMO Advanced Course on Cholangiocarcinoma: Where are we going? 2026: Barcelona European Society For Medical Oncology | ESMO."
+      "summary": "Catheter-Associated Urinary Tract Infections (CAUTI) Prevention Guideline Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
   "epidemiology": [
@@ -1286,6 +1286,14 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "WHO Rapid Risk Assessment-Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo v5 World Health Organization (WHO)."
+    },
+    {
+      "title": "WHO Rapid Risk Assessment - Arboviral diseases (Dengue, chikungunya and Zika), Global v1 - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcVBpS0VSb0NXQ19BUktMN0RnOHQyNzFuYVBnUFhFaHluODY5eFpHc0FpLWZYb1ByR2pZVS1hRmIyUGR6UW5IVHM0ZWRTejlzbGs4TlhXYkYzazRlLTRZZ2xnckQ0UjJYX1AtVmhXM2g1aGlfQmNsTGVsbU9NeUVMMm1QOUhpUGVjSXlvTnJKS0FaSFNtWUZLWklSOU0yenBzeWpnY1pBVGxnMW1Tb1RZNkx3OWFqeThPcWNCR2lQVjB1NDc0RDZV?oc=5",
+      "date": "2026-11-25T18:42:38Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "WHO Rapid Risk Assessment - Arboviral diseases (Dengue, chikungunya and Zika), Global v1 World Health Organization (WHO)."
     },
     {
       "title": "Post–COVID-19 Emergence and Spread of Hypertransmissible Cryptosporidium hominis gp60 Subtype IfA12G1R5, Spain - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1382,6 +1390,14 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "West Nile virus World Health Organization (WHO)."
+    },
+    {
+      "title": "Heat-stable vaccines in low-and middle-income settings: findings from a Vaccine Innovation Prioritisation Strategy (VIPS) country consultation - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCYWJqSDRWa3l3M0pkcUVqM3BfVVJGaGFvNUdiSzJFdjAwQUZLNVVNNnRKa3NPdWgtQmRaVmdMNzBoMnU5WFBXM0dWRDJxMTlxQ3o3YnBNWWU3QQ?oc=5",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "WHO Disease Outbreak News",
+      "confirmed_by": 1,
+      "summary": "Heat-stable vaccines in low-and middle-income settings: findings from a Vaccine Innovation Prioritisation Strategy (VIPS) country consultation World Health Organization (WHO)."
     },
     {
       "title": "Foodborne trematode infections - World Health Organization (WHO)",
@@ -1590,22 +1606,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "WHO Global Evidence to Policy Workshop on Health, Migration and Displacement World Health Organization (WHO)."
-    },
-    {
-      "title": "Health financing progress matrix assessment: Zimbabwe, 2026 - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LanJTaGtsZEdlMnJzUmhZX3FnNW9iUWdnaDNBMm93SU1qVHh3T3pfT2pfVWRub0Vnc1J6NzQ0ZXZhU1ZlRE1jRnpJMk05SnhSd0ljSmFVT2Z4VnNOZ29aWl93aw?oc=5",
-      "date": "2026-11-24T09:14:04Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Health financing progress matrix assessment: Zimbabwe, 2026 World Health Organization (WHO)."
-    },
-    {
-      "title": "Countries face critical gaps in health inequality monitoring systems - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDYzR0lkc0ZBbDZZZmFodzFBMWE4cmVxYUh5R1U5cXJfT0VnaVd4NlhxUHMxekZxV1FFcmdMMGo2V1dfUF83cU1kU2E0bUZaN3Z4OXlpSlF2WU55NnpSMldLbTJaZjU1aE53enBVem9OMElYOGp6N0w0YmhYc0dXenRieFhhSU9QVTh6eGotZENKVUJ0ZjlsQjdHbEI1ZzJtSWVmenJLWHgyeXFOY2c?oc=5",
-      "date": "2026-11-24T08:26:49Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Countries face critical gaps in health inequality monitoring systems World Health Organization (WHO)."
     }
   ],
   "clinical_trials": [
@@ -1882,12 +1882,12 @@
       "summary": "First patients dosed in Aeovian’s Phase II RESTOR-1 trial of AV078 Clinical Trials Arena."
     },
     {
-      "title": "Study Details | NCT05786924 | Phase 1/2 Trial of S241656 in Selected RAS/MAPK Mutation- Positive Malignancies - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0NmdaM1pwd3IybWxSTWwycmRJdFVRQ0NwUGRoSkw3blJieU14THZJQzRuLWp0a0liaFdkcnJIbm5Vd2J3Q0VDUVJyOXRwRnI4SFppSzBkVQ?oc=5",
+      "title": "Study Details | NCT07957183 | Nurse-Led Progressive Muscle Relaxation for Pain, Sleep Quality, and Kinesiophobia After Joint Replacement Surgery - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13RWxrZUhEWWowT2hJbzdwcDhkMEk5bk5sSUJlNzdLbEM1NG9iVmg5UG9lYlB5ZkNFdHFXdkx6aVVxUU40QUgxcHlMQVhvQ1pMemU0LTZOYw?oc=5",
       "date": "2026-11-24T08:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Study Details | NCT05786924 | Phase 1/2 Trial of S241656 in Selected RAS/MAPK Mutation- Positive Malignancies ClinicalTrials.gov."
+      "summary": "Study Details | NCT07957183 | Nurse-Led Progressive Muscle Relaxation for Pain, Sleep Quality, and Kinesiophobia After Joint Replacement Surgery ClinicalTrials.gov."
     },
     {
       "title": "Study Details | NCT06783309 | CNP-103 in Adolescent and Adult Subjects Ages 12-35 With Recently Diagnosed (Within 6 Months) Stage 3 Type 1 Diabetes (T1D) - ClinicalTrials.gov",
@@ -1898,12 +1898,12 @@
       "summary": "Study Details | NCT06783309 | CNP-103 in Adolescent and Adult Subjects Ages 12-35 With Recently Diagnosed (Within 6 Months) Stage 3 Type 1 Diabetes (T1D) ClinicalTrials.gov."
     },
     {
-      "title": "Study Details | NCT07957183 | Nurse-Led Progressive Muscle Relaxation for Pain, Sleep Quality, and Kinesiophobia After Joint Replacement Surgery - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13RWxrZUhEWWowT2hJbzdwcDhkMEk5bk5sSUJlNzdLbEM1NG9iVmg5UG9lYlB5ZkNFdHFXdkx6aVVxUU40QUgxcHlMQVhvQ1pMemU0LTZOYw?oc=5",
+      "title": "Study Details | NCT05786924 | Phase 1/2 Trial of S241656 in Selected RAS/MAPK Mutation- Positive Malignancies - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0NmdaM1pwd3IybWxSTWwycmRJdFVRQ0NwUGRoSkw3blJieU14THZJQzRuLWp0a0liaFdkcnJIbm5Vd2J3Q0VDUVJyOXRwRnI4SFppSzBkVQ?oc=5",
       "date": "2026-11-24T08:00:00Z",
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
-      "summary": "Study Details | NCT07957183 | Nurse-Led Progressive Muscle Relaxation for Pain, Sleep Quality, and Kinesiophobia After Joint Replacement Surgery ClinicalTrials.gov."
+      "summary": "Study Details | NCT05786924 | Phase 1/2 Trial of S241656 in Selected RAS/MAPK Mutation- Positive Malignancies ClinicalTrials.gov."
     },
     {
       "title": "Glucosuria and Histological Prostatitis in Men With Lower Urinary Tract Symptoms and PSA 3-10 ng/​mL - ClinicalTrials.gov",
