@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T10:10:02Z",
+  "last_updated": "2026-11-27T10:14:09Z",
   "poland": [
     {
       "title": "Miliony na inwestycje w POZ - Termedia",
@@ -32,6 +32,14 @@
       "source": "Medycyna Praktyczna",
       "confirmed_by": 1,
       "summary": "WUM będzie współpracował z chińską uczelnią - Z kraju - Kurier Medycyna Praktyczna."
+    },
+    {
+      "title": "Wszystko na temat: endosonografia EUS - Podyplomie.pl",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZWjVqOHJ0eUMyOVllSXgta0VtVFBsdDhuSFFRdWN5MlF3bjBzdjhmczgtUDBtSFZUbUtCazJNazNsYWNGR0VWR3VUUGk0NXZZTFBIeV8tdnJwajJB?oc=5",
+      "date": "2026-11-27T08:48:32Z",
+      "source": "Medycyna po Dyplomie",
+      "confirmed_by": 1,
+      "summary": "Wszystko na temat: endosonografia EUS Podyplomie.pl."
     },
     {
       "title": "Wszystko na temat: leczenie endoskopowe - Podyplomie.pl",
@@ -392,14 +400,6 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "NIO w Gliwicach otworzył zmodernizowaną Pracownię Endoskopii. Inwestycja za 9,7 mln zł Alert Medyczny."
-    },
-    {
-      "title": "MIROSŁAW LEŚNIEWSKI - artykuły i informacje - Termedia",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yOWdkRWtvemhxaTJPMzdsQU1BODRWTzUtQTFvdDhoSTQzRWI5V1FsdmhpZ3g0T3dzODJWSUkzc1FVbU0tSlU5bk9pTVFYNFd1OWl5NnV3S2JEZlljdzNMcHJjMA?oc=5",
-      "date": "2026-11-26T16:33:07Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "MIROSŁAW LEŚNIEWSKI - artykuły i informacje Termedia."
     }
   ],
   "world": [
@@ -520,7 +520,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUEVpQjJHMHdSQ1RWa2FXTGNfbXE3VnlCa2lMQkc1dm1BUjdpWlpBcm9VZ0c1MVJrb3ZNb01MQlJKcFExSl9BRHFvNEI4UmdkQ1F3YmtnN1Q1RF9lOGM3d2NGcmtXUW1OVEQ3ZkY4QnJ1UWVURHhVUW8zN0t4V2d3ZHRVaXdacUF5WGhodmlONldrNEpMWXc?oc=5",
       "date": "2026-11-26T23:59:05Z",
       "source": "The Lancet",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "World AIDS Day 2026: ending preventable deaths from advanced HIV disease The Lancet."
     },
     {
@@ -806,6 +806,14 @@
   ],
   "guidelines": [
     {
+      "title": "Rekomendacja Prezesa – Scemblix (asciminib) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMElCeUR5SV9xVlVNRWFhWkFGNXdKUEdwbFM3X0ZXbjlDWmxqT1dWeXRLWS1VTmtNVHRIM0FlaGNLeUlfeXVjcl9wb3BmNkdhR3E4ckxPek8yVUZxWkp3bHpKVDZJdHpkZjhiWG01dXdxNW8tSTlvbVpIQmh4NmpFRUhoTnluQ1lFcnNRbnE5UQ?oc=5",
+      "date": "2026-11-27T09:23:49Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja Prezesa – Scemblix (asciminib) Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
       "title": "Guidance assessment consultation document for HTG10875 Monofocal intraocular lenses for cataract surgery - NICE website",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0NHS1RtYVdlNldtbzlNSW9IU2tmSXNyUUJzY21rZkpFQU5JRENGQkttWnBrU2dacWJBdXI3SVpJRDgzUlFWVTBpQnhuLUIwLWY3al9qVFZXazUtN2ZjVWpFTHdvcTdDczF0WFJUQ1ZwMmFoZnJPRS1sanF3SzJnbTY4UWJuZw?oc=5",
       "date": "2026-11-26T20:34:02Z",
@@ -1070,11 +1078,19 @@
       "summary": "Sebetralstat for treating acute attacks of hereditary angioedema in people aged 12 and over [ID6284] NICE website."
     },
     {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 2,
+      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "About Childhood Lead Poisoning Prevention - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ObmdNb2I3andXVnFpalBka1RYc0JUNWptaHZqNXpDMURLdmdaT3NJSmZYVlBvLXZMQ21sUmF4dlJod1RQV3JEa3h3cVRuUlo3WUZsYjZRdjJuWjdHYnN6RjFn?oc=5",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "About Childhood Lead Poisoning Prevention Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1092,14 +1108,6 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "162/2026 ZLC Biuletyn Informacji Publicznej AOTMiT."
-    },
-    {
-      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-11-25T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
-      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "ESMO Review: Upper GI Cancer 2026 - European Society For Medical Oncology | ESMO",
@@ -1196,14 +1204,6 @@
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Świadczenia, w których istotny koszt stanowi wyrób medyczny – leczenie zaburzeń słuchu za pomocą wszczepialnych protez słuchu i wymiana przetworników/procesorów mowy Agencja Oceny Technologii Medycznych i Taryfikacji."
-    },
-    {
-      "title": "Rekomendacja Prezesa – Calcort (deflazakort) - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcmU3MHlJM19vV1hTVHF0cDhXOW9ScVBVZV9EaGRBWFFDaksyQTg3T0IyNmxZSXY0T2phY3Yxd195SVNvSGx3QThFYmUzWGZacU5ycm1qS3d0Y3VZR2dtZHBIMVc0MnZmNHlKeUxtbGNXN3NITU5UbTdfUXQ1ejhzSmVGRHJuVmxFYkdoS2JISnFhb0k?oc=5",
-      "date": "2026-11-24T17:26:59Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Calcort (deflazakort) Agencja Oceny Technologii Medycznych i Taryfikacji."
     }
   ],
   "epidemiology": [
@@ -1622,7 +1622,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2Uzb0ZhNmVJSjVOMDg5eV84dXhMX240OTZGRHdSaXh0YWYwckgxS0FYTS1IYnF3NndOMnlLX1RJT241VG1hNTRPeVRtSzVqRVZDbEtUWkhwUGVVZnBpR3FVbHY2TDNHQXNtSHlTTEJWNGlPdk1xcXlnTHZXbzJ4Z1AyRVluN2VHXzdSdi1ScFF6ak5nVlYzZnZBUVpVeFRkemRmdzhFYw?oc=5",
       "date": "2026-11-26T17:03:58Z",
       "source": "Clinical Trials Arena",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Applied Biologics treats first patient in Phase III diabetic foot ulcer study Clinical Trials Arena."
     },
     {
@@ -2084,6 +2084,14 @@
       "summary": "Kewaunee Scientific to Report Results for Second Quarter Fiscal Year 2027 BioSpace."
     },
     {
+      "title": "Kiniksa Pharmaceuticals to Present at Citi’s 2026 Global Healthcare Conference - BioSpace",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVBBTWJDd3dXeGppTWxmR2t4SkFXOW1zb3p2eU9XYkp6RVRKbjBIenJxb3Vpa3AtV1FBMUFDX2pWTkhCNDFuTzJVX1R5Qkw4dTVYRm0waFc5OUowMkV6Yng2bVREdmdSVEVkVV9HTWREWnRrWFZzLXdrM0gtT3lHYXR2Z1d6M1BWQ294dFEtS0pwTWNJdU9aaXo4VkI1NjM4U2VOSlI2ZU5WY1B5eDBwbVBya21Ed0Vr?oc=5",
+      "date": "2026-11-26T00:40:51Z",
+      "source": "BioSpace",
+      "confirmed_by": 1,
+      "summary": "Kiniksa Pharmaceuticals to Present at Citi’s 2026 Global Healthcare Conference BioSpace."
+    },
+    {
       "title": "Arcturus Therapeutics to Present at Citi’s 2026 Global Healthcare Conference - BioSpace",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPek9YSkhvcDNDWTlocjZlVDRpOVUtc1FnVlFuSTg0RVltMzhYaEh2WTdWQVczUVM5VkUzQUYxa3hqM3lHd3BLWFFqYnk1Y1FGQzZ2TUxaVlRrTG0zbFV1Z1BQNGUzem02d0RBdXpyZFF5ZTRYY0xLMVo2aHVxYzVYLUZLcVJ3TnM4Nk9qbnczQVJYWlBUZ1dnSUxOR3oycnBEbjVwa3dZcDItVzhVeENZbUJkZkR5dw?oc=5",
       "date": "2026-11-26T00:17:34Z",
@@ -2322,14 +2330,6 @@
       "source": "Endpoints News",
       "confirmed_by": 1,
       "summary": "‘Prof Oak’ is now lending his expertise to Anthropic Endpoints News."
-    },
-    {
-      "title": "Use Of Muscle-Building Creatine Nearly Doubles Among College Students - Drugs.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdlRmMHhFS3VvWVo1akF3SmNwNkZtVGlDMVp5Q2RhdUY0SDV0a280TDVKVkg2Z1owM3dkbUxzYUd3SFdnSTV5SGQ3SzlCQnh1RHhOM1NlOTY1dmNVRFFaUHZTSVF2M196RDhfZXJTVTJDeVRhbkpNdVFjeTRkTnlVc3l4cVVxdEE1T1NJMUNuNEZ2QzUxQW1pQUVRUzI0YUtPNkhB?oc=5",
-      "date": "2026-11-25T14:43:58Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "Use Of Muscle-Building Creatine Nearly Doubles Among College Students Drugs.com."
     }
   ],
   "critical_alerts": [
@@ -2362,7 +2362,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 2,
       "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -2416,12 +2416,12 @@
       "summary": "Global Clinical Trials Forum strengthens collaboration to advance implementation of resolution WHA75.8 World Health Organization (WHO)."
     },
     {
-      "title": "World AIDS Day 2026: ending preventable deaths from advanced HIV disease - The Lancet",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUEVpQjJHMHdSQ1RWa2FXTGNfbXE3VnlCa2lMQkc1dm1BUjdpWlpBcm9VZ0c1MVJrb3ZNb01MQlJKcFExSl9BRHFvNEI4UmdkQ1F3YmtnN1Q1RF9lOGM3d2NGcmtXUW1OVEQ3ZkY4QnJ1UWVURHhVUW8zN0t4V2d3ZHRVaXdacUF5WGhodmlONldrNEpMWXc?oc=5",
-      "date": "2026-11-26T23:59:05Z",
+      "title": "Corrigendum to “Development and validation of a novel prognostic model to predict 1-year post-transplant mortality for acute-o - The Lancet",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWoxRWZxVzdyZGIzM3M4XzNJUFFXbVNaSWxUVm9VT09UU3NNU3VEcXg2dEhQTWhiaVI5RFpNUGNOc2ZGTnlpX3Bab0lpdjVUZmdJcVB0bDFJWVlwVjg2TTRDYTdoRWN6emN3czRWbHJZZHB2T2tBTzk1TThIcTFYQg?oc=5",
+      "date": "2026-11-27T05:22:02Z",
       "source": "The Lancet",
-      "confirmed_by": 2,
-      "summary": "World AIDS Day 2026: ending preventable deaths from advanced HIV disease The Lancet."
+      "confirmed_by": 1,
+      "summary": "Corrigendum to “Development and validation of a novel prognostic model to predict 1-year post-transplant mortality for acute-o The Lancet."
     }
   ]
 }
