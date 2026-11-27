@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T16:00:00Z",
+  "last_updated": "2026-11-27T16:03:49Z",
   "poland": [
     {
       "title": "Opatrunki gipsowe – zastosowanie, rodzaje i najważniejsze właściwości - Alert Medyczny",
@@ -279,7 +279,7 @@
       "date": "2026-11-27T10:21:29Z",
       "source": "Puls Medycyny",
       "confirmed_by": 1,
-      "summary": "Co zrobić, gdy badanie kliniczne się kończy, a pacjent nadal potrzebuje leku, który mu pomaga, choć nie został on jeszcze zarejestrowany? - Nowa procedura Compassionate Use ma umożliwić kontynuowanie takiego leczenia - mówił Grzegorz Cessak, prezes URPL, podczas XXII Okrągłego Stołu dla Polityki Lek…."
+      "summary": "Co zrobić, gdy badanie kliniczne się kończy, a pacjent nadal potrzebuje leku, który mu pomaga, choć nie został on jeszcze zarejestrowany? - Nowa proce…."
     },
     {
       "title": "Co w programie V konferencji Grudniowe Spotkania z Infekcjami - Termedia",
@@ -1134,19 +1134,11 @@
       "summary": "Sebetralstat for treating acute attacks of hereditary angioedema in people aged 12 and over [ID6284] NICE website."
     },
     {
-      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-11-25T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 2,
-      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "About Childhood Lead Poisoning Prevention - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ObmdNb2I3andXVnFpalBka1RYc0JUNWptaHZqNXpDMURLdmdaT3NJSmZYVlBvLXZMQ21sUmF4dlJod1RQV3JEa3h3cVRuUlo3WUZsYjZRdjJuWjdHYnN6RjFn?oc=5",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "About Childhood Lead Poisoning Prevention Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1164,6 +1156,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 2,
+      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "162/2026 ZLC - Biuletyn Informacji Publicznej AOTMiT",
@@ -1456,6 +1456,14 @@
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
+      "title": "Current Year Data (2026) | Dengue - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/dengue/data-research/facts-stats/current-data.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Current Year Data (2026) | Dengue Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "West Nile virus - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90R2cxTHA2b0E3aFFQMGNDNFBJRVljRkVDY21QVWxJZXM5ckxMQko5M2NqRmhRUEl0dUJINDdRTnhyR09RX0JPNlhKT1lua0pXWmUxS0ktaktFMVEtNFZRZEFHRDBMa1lhaEJCWHNCVDg3QQ?oc=5",
       "date": "2026-11-25T08:00:00Z",
@@ -1598,14 +1606,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Bundibugyo virus continental preparedness and response plan, November 2026–May 2027: Ownership, anticipation and accountability World Health Organization (WHO)."
-    },
-    {
-      "title": "Influenza A(H5N1) - United States of America - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IUWdzS0RESUhKTjNCX1VQT082VTlhdFhkUE4zdlVObW4yMjZxUGlqbXA1N2lOcFZFNG9wazd4dFg3Skw3WlE2SWpUc3U4TmFBVW84eXhraEVGNkxROElMMG02eVFoby12SDJRdDhBMUdCS1ljMVlJdFVn?oc=5",
-      "date": "2026-11-24T16:46:02Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Influenza A(H5N1) - United States of America World Health Organization (WHO)."
     }
   ],
   "clinical_trials": [
@@ -2388,14 +2388,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Quick takes: Advance access to Ebola vaccine, chlorhexidine cloth shortage, more screwworm in Texas CIDRAP."
-    },
-    {
-      "title": "Influenza A(H5N1) - United States of America - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IUWdzS0RESUhKTjNCX1VQT082VTlhdFhkUE4zdlVObW4yMjZxUGlqbXA1N2lOcFZFNG9wazd4dFg3Skw3WlE2SWpUc3U4TmFBVW84eXhraEVGNkxROElMMG02eVFoby12SDJRdDhBMUdCS1ljMVlJdFVn?oc=5",
-      "date": "2026-11-24T16:46:02Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Influenza A(H5N1) - United States of America World Health Organization (WHO)."
     }
   ],
   "daily_top5": [
