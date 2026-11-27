@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-27T21:11:03Z",
+  "last_updated": "2026-11-27T21:15:05Z",
   "poland": [
+    {
+      "title": "Pół godziny na nowiny - Termedia",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UWE15SWx3ZUY2NXczTXFsa2NPb1FFZnUtbWlENk1ZVjQwQnRWZFNULVNzOVRGTkVWdTdBNnlxT0NtTDk4VHRQeWNOMGMxaWZ5U29XY3dHUzBaOXBOSXlvUkNsZzRiVVZrUHlz?oc=5",
+      "date": "2026-11-27T20:05:00Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "Pół godziny na nowiny Termedia."
+    },
     {
       "title": "NPChUK a EU Safe Hearts Plan - Kardiologia - Medycyna Praktyczna",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEQXVpUDRFT1JndFJjUmZGemFvN1lmWkVUbjBQbENPRkZhNjhSMXpWVlpvcF9mZkNtWUpoR1B4Vlhqa3NhRTE4blhSWFZGYWJJN2NCVlNnR3B5dU9rWHZaNmpOakQ0d2JGdXFuLVNad05lSWdTeWJ3c3FuMHM?oc=5",
@@ -392,14 +400,6 @@
       "source": "Medycyna po Dyplomie",
       "confirmed_by": 1,
       "summary": "Czy lekarz POZ musi kontynuować leczenie zalecone przez psychiatrę? Podyplomie.pl."
-    },
-    {
-      "title": "Ratownik uratował żonę i czwórkę dzieci. Pożar zniszczył cały ich dom - Medonet",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDgzaGl4dzFETTJfUldjWVVJNEFwY0p0b19zb0RjTUZOZHNtdF9vS1lMY1lKaVhpNjZvamVLVnNaMm1vSXVNelg4dUw1Y2Q2cTZWZERSUl9PbWhaWjFYLS1rVFlFOXNSUWhLNUNoaFVNVENDanJWclRVdTNSRVp6SmFNYml3a3paWlRYdElfYm5xZ3VKWDNtTVRXa3NrVUlzQ2xmQzAwNjdMZ1ExeTFjanlNXzRqVkZM?oc=5",
-      "date": "2026-11-27T11:03:41Z",
-      "source": "Medonet",
-      "confirmed_by": 1,
-      "summary": "Ratownik uratował żonę i czwórkę dzieci. Pożar zniszczył cały ich dom Medonet."
     }
   ],
   "world": [
@@ -1464,20 +1464,20 @@
       "summary": "New World Screwworm Outbreak Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Current Year Data (2026) | Dengue - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/dengue/data-research/facts-stats/current-data.html",
-      "date": "2026-11-25T08:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Current Year Data (2026) | Dengue Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Current Year Data (2026) | Dengue - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/dengue/data-research/facts-stats/current-data.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Current Year Data (2026) | Dengue Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Historic Data (2010-2025) | Dengue - Centers for Disease Control and Prevention | CDC (.gov)",
