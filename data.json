@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T16:07:40Z",
+  "last_updated": "2026-11-27T16:11:35Z",
   "poland": [
     {
       "title": "Opatrunki gipsowe – zastosowanie, rodzaje i najważniejsze właściwości - Alert Medyczny",
@@ -279,7 +279,7 @@
       "date": "2026-11-27T10:21:29Z",
       "source": "Puls Medycyny",
       "confirmed_by": 1,
-      "summary": "Co zrobić, gdy badanie kliniczne się kończy, a pacjent nadal potrzebuje leku, który mu pomaga, choć nie został on jeszcze zarejestrowany? - Nowa proce…."
+      "summary": "Co zrobić, gdy badanie kliniczne się kończy, a pacjent nadal potrzebuje leku, który mu pomaga, choć nie został on jeszcze zarejestrowany? - Nowa procedura Compassionate Use ma umożliwić kontynuowanie takiego leczenia - mówił Grzegorz Cessak, prezes URPL, podczas XXII Okrągłego Stołu dla Polityki Lek…."
     },
     {
       "title": "Co w programie V konferencji Grudniowe Spotkania z Infekcjami - Termedia",
@@ -403,6 +403,14 @@
     }
   ],
   "world": [
+    {
+      "title": "FDA extends assessment of experimental Vertex kidney drug - STAT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSlktVUh3aHdqbjVYenhEdjZVWHhhcTBpZ0ZycDFibjc5ekNLdkhSUE43dkVHVG5wSmxmNktrMXgtdV8wNF9OYURFR0p4SWFONlJZNy1WYnQ0bUN5S1NFVllYMTFPNGlVb290T0l3eTh4M3lFSldtU3NiZ0RzLVI5R3FsTzU3WVZOWTBEbmpodWZTNmd3eUUyMFR4bW5VekpXblBBZ0dWZw?oc=5",
+      "date": "2026-11-27T16:03:42Z",
+      "source": "STAT News",
+      "confirmed_by": 1,
+      "summary": "FDA extends assessment of experimental Vertex kidney drug STAT."
+    },
     {
       "title": "The stories we’re grateful for this year - STAT",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbC1ucVNUZ0U5dDRtX3hxX0szTzh3TTNqTTlWR0NSSmdnQjhCSFRJb09YSnAwRGloVy1KdjdoX2JhQU5RbzlzM05BeFF3bnRvclpmTTQ5UnV5cE5KQTdPN3dFU0JlYTdaZjFqWVdIcGFNRkpDTEVMang1bU5qNEVBVlZOekgyS1NwLWFxTTZR?oc=5",
@@ -794,14 +802,6 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Treatment selection in mHSPC: lessons from the STOPCAP meta-analysis The Lancet."
-    },
-    {
-      "title": "Oral therapies for psoriasis - The Lancet",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmVUM25OcVVoQzhWbkc0Z2hXWVRseGpiQmxhZDZrdWFqYmZPd1pIa1BRNWtwRW1HWnk5MTlha1ZEaERTa0NlcjAxN3NrNjdRMkg0NkdRYVI2VG1PSlR0WmpZYlFtTldlTE82M2xJZnd4eGkxU0RrUHQyU1FzRGRhMmZ1NnBQdDhFRVVmRUctcTV3Ty1tbVE?oc=5",
-      "date": "2026-11-26T23:59:05Z",
-      "source": "The Lancet",
-      "confirmed_by": 1,
-      "summary": "Oral therapies for psoriasis The Lancet."
     }
   ],
   "guidelines": [
@@ -1026,7 +1026,7 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JRVZPdEhTUkVwTDVramlNY2FvUFlQX2pUbGdHdlJQN011c1liZ0lIeFBYbkljZG1fOWxGOFlPbnpDcUZBRE1vTzlvenFfdmd1cHB6dVRsU2Z0WU0?oc=5",
       "date": "2026-11-25T21:51:43Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "A Comparison Between Rural and Urban US Children of Screen Time and Sleep Duration, 2018–2023 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1042,7 +1042,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjUnJnaW9IVFBJbXlQM0Nid2k5Z3R4dV83Y051VE9wNWF4ejJLekhRTWFpVldWYjU3dEV3ZUhEQmRpTU8wUFV6OURkZ0g2bHB6UUlEc3o4WkV0VTJNcTliVVFIb21VaDcxUzlCYlRfSWJTN0NDNTgxQUt2MA?oc=5",
       "date": "2026-11-25T18:03:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths — United States, 2015–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1134,19 +1134,11 @@
       "summary": "Sebetralstat for treating acute attacks of hereditary angioedema in people aged 12 and over [ID6284] NICE website."
     },
     {
-      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-11-25T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
-      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "About Childhood Lead Poisoning Prevention - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ObmdNb2I3andXVnFpalBka1RYc0JUNWptaHZqNXpDMURLdmdaT3NJSmZYVlBvLXZMQ21sUmF4dlJod1RQV3JEa3h3cVRuUlo3WUZsYjZRdjJuWjdHYnN6RjFn?oc=5",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "About Childhood Lead Poisoning Prevention Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1156,6 +1148,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Testing for Lead Poisoning in Children Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 5,
+      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -1182,6 +1182,14 @@
       "summary": "ESMO Review: Lower GI Cancer 2026 European Society For Medical Oncology | ESMO."
     },
     {
+      "title": "Cholesterol Guidelines Push Earlier Screening and Treatment - Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3lyaWZ1R1Y1eWFaaXB5OVg0OVdqaW5KWUhRWUZqb2VDTHJCdWJxYlZ5X20tQ044cGs4VXAwZmFSMDQzb3VFUTYxQVVSc1pUX0dJejRGaGhTWFhrTU9zcDFKSkZONUE1QVNweG12dlJwT3hDMy1MaE5jTXpqSFFWa1lzaUVzMnc3Nk1QOWx3?oc=5",
+      "date": "2026-11-25T02:58:32Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Cholesterol Guidelines Push Earlier Screening and Treatment Wisevoter."
+    },
+    {
       "title": "173/2026 ZLC - Biuletyn Informacji Publicznej AOTMiT",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEZONGxXQkZYclEyQUhNdnZMSTdjeG5hU2RCSWptVWZEVlJrcnZLam5DWFNYQzNBWTMtVVhKTm1QTzhhQUd5ZTNHdVMtWGZLOFJiQUUxbll3X1YtS1N4SXZwRnlFejNhYUp3V2dhLVByZ1F6SFhMZnVkZ1paWTVxZnMyY0I?oc=5",
       "date": "2026-11-25T02:27:52Z",
@@ -1196,14 +1204,6 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Overview | Pembrolizumab with paclitaxel, with or without bevacizumab, for treating platinum-resistant epithelial ovarian, fallopian tube or primary peritoneal cancer after 1 or 2 lines of systemic treatment | Guidance NICE website."
-    },
-    {
-      "title": "Pembrolizumab with enfortumab vedotin for neoadjuvant and adjuvant treatment of muscle-invasive bladder cancer - NICE website",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qZ3VZd182UkxWdGNOMmsyTXpEaHpUSUVobWRjZFl3UGwzTG5UOXRvenByaTJlMXdJaW9uTWZoMDB0WUpVQ05DUXBMT3d6Wklf?oc=5",
-      "date": "2026-11-25T01:32:18Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Pembrolizumab with enfortumab vedotin for neoadjuvant and adjuvant treatment of muscle-invasive bladder cancer NICE website."
     }
   ],
   "epidemiology": [
