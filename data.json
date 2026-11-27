@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T12:29:21Z",
+  "last_updated": "2026-11-27T12:33:08Z",
   "poland": [
     {
       "title": "840 mln zł na nowe badania kliniczne i leki. ABM przedstawiła plan na 2027 rok - Alert Medyczny",
@@ -155,14 +155,6 @@
     },
     {
       "title": "WYTYCZNE PRAKTYCZNE – ZALECENIA POLSKIEGO TOWARZYSTWA DIABETOLOGICZNEGO 2027 - Termedia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGVfeTJYQmxtd3Z0bXdRcnE2UUU0dzRsc1JrZ2taanBERjdhcmd4UDM1MGtQVW96V3FHTFl3QURnQ1JmcnRkRTFCc2l2S0VZZWlmUDVGVGhGNUZhMzV2UkgzRVJVaUp6eExFbWJjMHZCTmItdGtwdExISlJjdkJmUWFsNkFTb2NYSFFGSGNIX2VqM3pJa0ZxNFBmWDcwNlF2?oc=5",
-      "date": "2026-11-27T10:18:46Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "WYTYCZNE PRAKTYCZNE – ZALECENIA POLSKIEGO TOWARZYSTWA DIABETOLOGICZNEGO 2027 Termedia."
-    },
-    {
-      "title": "WYTYCZNE PRAKTYCZNE – ZALECENIA POLSKIEGO TOWARZYSTWA DIABETOLOGICZNEGO 2027 - Termedia",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTJRVXozNXBtVUFWbFhOVktsczdqbVhiNUtFQnNtOTBwRmh2ZlZnZ01VQ2QyQXF0djNqRVlzVFppNHhLZUl4RHBxcS1lZDQ4YThKYnVpWWRaZ2dZVDlmcUlkVkk1SGFRZnViN09QWEdRQWpmX2VTU3ZqQllSV1NONF8xRlh6NnF4Z3Q3R0lzTENXbm5aYUJwQmRiX2tqempPOVUtYkRn?oc=5",
       "date": "2026-11-27T10:18:46Z",
       "source": "Termedia",
@@ -172,6 +164,14 @@
     {
       "title": "WYTYCZNE PRAKTYCZNE – ZALECENIA POLSKIEGO TOWARZYSTWA DIABETOLOGICZNEGO 2027 - Termedia",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1RMMzdTQVV4OXotS0s1NkZKOEE0S3d5SWoyZUhRNWlZQUVqejdlcGRoMVNFTUxKTWZjN2czY2syOVFQRmtTNVRjOFdKVzMwcFRJYURnbDlCT1I3ZmU4dE5SdlhmTHZnQkdlRE1ES0xTSzlUOTBJckNEdU90U3B5VnFqRGtLM05ydkYtUXZWSFR1bVUtYkl3ODJLcXBmU1REd0kyY3RhblBlZw?oc=5",
+      "date": "2026-11-27T10:18:46Z",
+      "source": "Termedia",
+      "confirmed_by": 1,
+      "summary": "WYTYCZNE PRAKTYCZNE – ZALECENIA POLSKIEGO TOWARZYSTWA DIABETOLOGICZNEGO 2027 Termedia."
+    },
+    {
+      "title": "WYTYCZNE PRAKTYCZNE – ZALECENIA POLSKIEGO TOWARZYSTWA DIABETOLOGICZNEGO 2027 - Termedia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGVfeTJYQmxtd3Z0bXdRcnE2UUU0dzRsc1JrZ2taanBERjdhcmd4UDM1MGtQVW96V3FHTFl3QURnQ1JmcnRkRTFCc2l2S0VZZWlmUDVGVGhGNUZhMzV2UkgzRVJVaUp6eExFbWJjMHZCTmItdGtwdExISlJjdkJmUWFsNkFTb2NYSFFGSGNIX2VqM3pJa0ZxNFBmWDcwNlF2?oc=5",
       "date": "2026-11-27T10:18:46Z",
       "source": "Termedia",
       "confirmed_by": 1,
@@ -1098,7 +1098,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1408,6 +1408,14 @@
       "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
+      "title": "New World Screwworm Outbreak - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/new-world-screwworm/situation-summary/index.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "New World Screwworm Outbreak Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-11-25T08:00:00Z",
@@ -1430,14 +1438,6 @@
       "source": "WHO Disease Outbreak News",
       "confirmed_by": 1,
       "summary": "Foodborne trematode infections World Health Organization (WHO)."
-    },
-    {
-      "title": "New World Screwworm Outbreak - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/new-world-screwworm/situation-summary/index.html",
-      "date": "2026-11-25T08:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "New World Screwworm Outbreak Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Heat-stable vaccines in low-and middle-income settings: findings from a Vaccine Innovation Prioritisation Strategy (VIPS) country consultation - World Health Organization (WHO)",
@@ -2354,7 +2354,7 @@
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
