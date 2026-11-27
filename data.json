@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T11:36:36Z",
+  "last_updated": "2026-11-27T11:40:47Z",
   "poland": [
     {
       "title": "Prezes szpitala powiatowego: wymóg 1/4 etatu będzie skutkował zamykaniem poradni i oddziałów - Puls Medycyny",
@@ -806,20 +806,20 @@
   ],
   "guidelines": [
     {
-      "title": "Rekomendacja Prezesa – Scemblix (asciminib) - Agencja Oceny Technologii Medycznych i Taryfikacji",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMElCeUR5SV9xVlVNRWFhWkFGNXdKUEdwbFM3X0ZXbjlDWmxqT1dWeXRLWS1VTmtNVHRIM0FlaGNLeUlfeXVjcl9wb3BmNkdhR3E4ckxPek8yVUZxWkp3bHpKVDZJdHpkZjhiWG01dXdxNW8tSTlvbVpIQmh4NmpFRUhoTnluQ1lFcnNRbnE5UQ?oc=5",
-      "date": "2026-11-27T09:23:49Z",
-      "source": "AOTMiT",
-      "confirmed_by": 1,
-      "summary": "Rekomendacja Prezesa – Scemblix (asciminib) Agencja Oceny Technologii Medycznych i Taryfikacji."
-    },
-    {
       "title": "Rekomendacja Prezesa – Raxone (idebenon) - Agencja Oceny Technologii Medycznych i Taryfikacji",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclJmakxTQmduT0hFbFhyZzVYYzNQVTFMaDhvUTB6cHhKOExsNG1kQnNzS3JTQmZtNnR0STRpRjEwMG5fMWlQTkRVYTBvQktWNkRGeEd3cktRNVhXS19QS3otcHNHR1M1UjFnUWttaHJQZGN3TlpnNGFicVgwWWtjLVBKWmgwU0JRTXhMMWR3?oc=5",
       "date": "2026-11-27T09:23:49Z",
       "source": "AOTMiT",
       "confirmed_by": 1,
       "summary": "Rekomendacja Prezesa – Raxone (idebenon) Agencja Oceny Technologii Medycznych i Taryfikacji."
+    },
+    {
+      "title": "Rekomendacja Prezesa – Scemblix (asciminib) - Agencja Oceny Technologii Medycznych i Taryfikacji",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMElCeUR5SV9xVlVNRWFhWkFGNXdKUEdwbFM3X0ZXbjlDWmxqT1dWeXRLWS1VTmtNVHRIM0FlaGNLeUlfeXVjcl9wb3BmNkdhR3E4ckxPek8yVUZxWkp3bHpKVDZJdHpkZjhiWG01dXdxNW8tSTlvbVpIQmh4NmpFRUhoTnluQ1lFcnNRbnE5UQ?oc=5",
+      "date": "2026-11-27T09:23:49Z",
+      "source": "AOTMiT",
+      "confirmed_by": 1,
+      "summary": "Rekomendacja Prezesa – Scemblix (asciminib) Agencja Oceny Technologii Medycznych i Taryfikacji."
     },
     {
       "title": "Szkolenie OK COBIK NIL - Jak wprowadzić innowację komunikacyjną w swojej praktyce lekarskiej - NIL",
@@ -1094,19 +1094,11 @@
       "summary": "Sebetralstat for treating acute attacks of hereditary angioedema in people aged 12 and over [ID6284] NICE website."
     },
     {
-      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-11-25T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
-      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "About Childhood Lead Poisoning Prevention - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ObmdNb2I3andXVnFpalBka1RYc0JUNWptaHZqNXpDMURLdmdaT3NJSmZYVlBvLXZMQ21sUmF4dlJod1RQV3JEa3h3cVRuUlo3WUZsYjZRdjJuWjdHYnN6RjFn?oc=5",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 7,
       "summary": "About Childhood Lead Poisoning Prevention Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1116,6 +1108,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 5,
+      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "162/2026 ZLC - Biuletyn Informacji Publicznej AOTMiT",
@@ -1628,7 +1628,7 @@
     {
       "title": "CGT: Bottlenecks slowing development - Clinical Trials Arena",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcldEQWlMUml0QlEtaVJDcXQtbkZGb0ZPaXZld2lPelJWRENqZWJhNUZiRkRHV1pjaW14MkJCZXYyRGNSV04yVnFmQlNGWGlPS0hmZ3RmMk9sNXZoaTlPT2NRQkI2SVJuTlFmNWp3Y21ybGMyRkV6c01SX29JcGlwRnFBNjlhVjA2?oc=5",
-      "date": "2026-11-27T11:02:11Z",
+      "date": "2026-11-27T11:02:16Z",
       "source": "Clinical Trials Arena",
       "confirmed_by": 1,
       "summary": "CGT: Bottlenecks slowing development Clinical Trials Arena."
