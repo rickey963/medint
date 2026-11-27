@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T22:16:14Z",
+  "last_updated": "2026-11-27T22:20:18Z",
   "poland": [
     {
       "title": "Pół godziny na nowiny - Termedia",
@@ -510,7 +510,7 @@
     {
       "title": "Diabetes & Endocrinology - Medscape",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nX1NITXNTYVB0UTU3QW5aQkxEWU8zby16MGdCMkIxeXdUNDVGZlhRV19CM0k4SF9aZ1hFUm1yNkcyWGVvREVLUjRDUUdxRnVLRHpxeUNGRVlFUlE?oc=5",
-      "date": "2026-11-27T13:38:15Z",
+      "date": "2026-11-27T13:28:26Z",
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Diabetes & Endocrinology Medscape."
@@ -518,7 +518,7 @@
     {
       "title": "Pathology & Lab Medicine - Medscape",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2LUdkN1BZeVNfa1c0ZzhEQWJIbHRTWEhpLUxrQXVtT09yajdOVW5UejJZNFlIcHBpVzh5ZWoxSGdLdFppVndETktn?oc=5",
-      "date": "2026-11-27T13:13:14Z",
+      "date": "2026-11-27T13:15:20Z",
       "source": "Medscape",
       "confirmed_by": 1,
       "summary": "Pathology & Lab Medicine Medscape."
@@ -862,6 +862,14 @@
       "summary": "Szkolenie OK COBIK NIL - Jak wprowadzić innowację komunikacyjną w swojej praktyce lekarskiej NIL."
     },
     {
+      "title": "ESMO Review: Lower GI Cancer 2026 - European Society For Medical Oncology | ESMO",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUTG5URlQyOVpqeXhjY0laSzFYMjFJUnR6Ymw3SU5zVV9UVnN5dUhNR1ZpWHBZQlhyMGZ0RU0zREdVZm9Iak9YQkoxMXJvYUUwZzF6ZWZ5QTNuSGhUa2ZvSEttald0M2tXRWZ4TXJ5aEpMQTlHdURVM09jcWpDcjQ?oc=5",
+      "date": "2026-11-27T04:42:52Z",
+      "source": "ESMO (onkologia)",
+      "confirmed_by": 1,
+      "summary": "ESMO Review: Lower GI Cancer 2026 European Society For Medical Oncology | ESMO."
+    },
+    {
       "title": "ESMO Review: Upper GI Cancer 2026 - European Society For Medical Oncology | ESMO",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JTnFDSFlRRnVYQ0c0QWJyOF9iT2EzMUh4bU5tcmxabUlHQmQyX2dZMzdzdFJROTRJY0VORmV0TzJrTVB5VEcyUWM2enZDLUdSV2VWR2VWVjBMSUJ5Tk9VN0lFeTJHRWNxMW1rZzJFWEFRX3d2em9PUTFKLV9Qejg?oc=5",
       "date": "2026-11-27T04:42:52Z",
@@ -1196,14 +1204,6 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
-      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
-      "date": "2026-11-25T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
-      "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
   "epidemiology": [
@@ -1464,20 +1464,20 @@
       "summary": "New World Screwworm Outbreak Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Current Year Data (2026) | Dengue - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/dengue/data-research/facts-stats/current-data.html",
-      "date": "2026-11-25T08:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Current Year Data (2026) | Dengue Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/measles/data-research/index.html",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Current Year Data (2026) | Dengue - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/dengue/data-research/facts-stats/current-data.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Current Year Data (2026) | Dengue Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Historic Data (2010-2025) | Dengue - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -2337,8 +2337,8 @@
       "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
       "date": "2026-11-25T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
       "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
