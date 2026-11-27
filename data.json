@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T23:04:14Z",
+  "last_updated": "2026-11-27T23:08:28Z",
   "poland": [
     {
       "title": "Pół godziny na nowiny - Termedia",
@@ -564,6 +564,14 @@
       "summary": "Inside Job? Tiny Robots Aim to Treat From Within the Body Medscape."
     },
     {
+      "title": "Prenatal Food Insecurity Tied to Child Neurodevelopment Risk - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHZPUWh6QnB6cFNlYkR4SXFic1NHaUZXY05TSXFXdlV3aUZMUm42MHhWOTdfaHdCZnZydjJXRGVwUVppa3pSczgyRV9oTEdpVjNWckVlR1ZoT1Z5dWZHM0dqVVBNX2F5U2R5WFhyb196TXV1YmtfNWltTGxBZzQ4ZFVWRzhGSWYzeUNIUmVNODZ6cUdBdjNyb1FPbXotcTNMZDI0?oc=5",
+      "date": "2026-11-27T12:16:12Z",
+      "source": "Medscape",
+      "confirmed_by": 1,
+      "summary": "Prenatal Food Insecurity Tied to Child Neurodevelopment Risk Medscape."
+    },
+    {
       "title": "Consultant Psychiatrist - Private Addictions Ward - Bristol job with Priory | 870142 - The BMJ",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUM3elFTNWdTbnMtck9namhsOE5YWmhJUTZGY1ZWaU1Ob2VXSVg4VzNvTS1KYXpkR2VHU290ZHdRcEx2dEhuNlYzN0V6elNQaHRmenliQVdQMkVhb3huMTlOaDROUWF4d1Zpbnd6SHY4Z2RjMi1WVEtGVW15d1FmWmYwOW9mcEIxY2o2UlhBeVc?oc=5",
       "date": "2026-11-27T12:13:43Z",
@@ -794,14 +802,6 @@
       "source": "The Lancet",
       "confirmed_by": 1,
       "summary": "Offline: Humanitarian health—the shameful silence The Lancet."
-    },
-    {
-      "title": "Colorectal Cancer Risk: Why a Negative FIT May Not Be Enough - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXBlbFBOVU55V0NJMXAyckdWcVhIUmxkQlhTVVVFR1lZOHFBYUg5djhHQ0xiQ3d0SHVSenotY1QxZXp3bGk2Z3o2ekk5QkNjeVN4MnJ5UjVQS20zenFIYjZHWEJfOVVlclRSMW1DWDRhOUh4TTZ6WXFOUFdVR3lqNzB4N2ZKUFNIeXZJc3l1NjVxSTJfajNFanRhclhaLVo4UVluWE9pSGt6ems?oc=5",
-      "date": "2026-11-27T06:54:36Z",
-      "source": "Medscape",
-      "confirmed_by": 1,
-      "summary": "Colorectal Cancer Risk: Why a Negative FIT May Not Be Enough Medscape."
     }
   ],
   "guidelines": [
@@ -1090,7 +1090,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjUnJnaW9IVFBJbXlQM0Nid2k5Z3R4dV83Y051VE9wNWF4ejJLekhRTWFpVldWYjU3dEV3ZUhEQmRpTU8wUFV6OURkZ0g2bHB6UUlEc3o4WkV0VTJNcTliVVFIb21VaDcxUzlCYlRfSWJTN0NDNTgxQUt2MA?oc=5",
       "date": "2026-11-25T18:03:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths — United States, 2015–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1186,7 +1186,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ObmdNb2I3andXVnFpalBka1RYc0JUNWptaHZqNXpDMURLdmdaT3NJSmZYVlBvLXZMQ21sUmF4dlJod1RQV3JEa3h3cVRuUlo3WUZsYjZRdjJuWjdHYnN6RjFn?oc=5",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 5,
       "summary": "About Childhood Lead Poisoning Prevention Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1888,14 +1888,6 @@
       "source": "TrialSite News",
       "confirmed_by": 1,
       "summary": "Senator Johnson Releases FDA Vaccine Death Records: Three Young Women, Myocarditis and Questions About a Delayed Safety Review TrialSite News."
-    },
-    {
-      "title": "Gut Bacteria May Shape Lung Cancer Immunotherapy Success: NADIM II Analysis Identifies Two Potential Pathways - TrialSite News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZnUxTzB4Tm0weE5ZZU1Rc0o4ZkMyRjExSVo4NVlOZzFMRU9tVVJuNGs2bW9HUC1mSURJVW1KOFk2UGthWTNYelc0VXUyVnZ4dy04d21vT0V5UVpYQVVuVWJBNmJYWFEzelJreGNQQW9YMXgzeWl3ZjFQcW0ydzh1NWVMbHhFRVNqQ25mN04wYnNjd0hBQ0FYa29lS1dEazdzVG94SE1nUG9kNEFtQWNKTXlBLW1qRTFyeWRxdnByZFJUOENKVmtSYURQQVMzWGs2OC1oTkYzZ0xXcWdqMzgyV21MUQ?oc=5",
-      "date": "2026-11-24T23:08:24Z",
-      "source": "TrialSite News",
-      "confirmed_by": 1,
-      "summary": "Gut Bacteria May Shape Lung Cancer Immunotherapy Success: NADIM II Analysis Identifies Two Potential Pathways TrialSite News."
     }
   ],
   "pharma_market": [
