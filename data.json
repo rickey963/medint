@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T08:05:38Z",
+  "last_updated": "2026-11-27T08:09:26Z",
   "poland": [
     {
       "title": "Nagrody Innovaticus NCBR przyznane - Z kraju - Kurier - Medycyna Praktyczna",
@@ -480,7 +480,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUEVpQjJHMHdSQ1RWa2FXTGNfbXE3VnlCa2lMQkc1dm1BUjdpWlpBcm9VZ0c1MVJrb3ZNb01MQlJKcFExSl9BRHFvNEI4UmdkQ1F3YmtnN1Q1RF9lOGM3d2NGcmtXUW1OVEQ3ZkY4QnJ1UWVURHhVUW8zN0t4V2d3ZHRVaXdacUF5WGhodmlONldrNEpMWXc?oc=5",
       "date": "2026-11-26T23:59:05Z",
       "source": "The Lancet",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "World AIDS Day 2026: ending preventable deaths from advanced HIV disease The Lancet."
     },
     {
@@ -978,7 +978,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjUnJnaW9IVFBJbXlQM0Nid2k5Z3R4dV83Y051VE9wNWF4ejJLekhRTWFpVldWYjU3dEV3ZUhEQmRpTU8wUFV6OURkZ0g2bHB6UUlEc3o4WkV0VTJNcTliVVFIb21VaDcxUzlCYlRfSWJTN0NDNTgxQUt2MA?oc=5",
       "date": "2026-11-25T18:03:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths — United States, 2015–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1068,6 +1068,14 @@
       "source": "NICE",
       "confirmed_by": 1,
       "summary": "Sebetralstat for treating acute attacks of hereditary angioedema in people aged 12 and over [ID6284] NICE website."
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 2,
+      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "162/2026 ZLC - Biuletyn Informacji Publicznej AOTMiT",
@@ -1196,14 +1204,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "the cardiology knowledge hub ESC 365."
-    },
-    {
-      "title": "Best Practices in Dental Infection Prevention and Control - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFBJR2Z6LXp1WHZwNElmdFliMTJtMVU2MjRHU0VoajFON240aVpiYmw3RHFZR0tFZllYcldENVlldElDcmpEVGtqMjN0VDhhQzVwSlF0MkMxa253Si1faXdJTDJxeVBlbFlzRlI4SGpSdllWOC04NXpJNUdEUS1reA?oc=5",
-      "date": "2026-11-24T08:00:00Z",
-      "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
-      "summary": "Best Practices in Dental Infection Prevention and Control Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
   "epidemiology": [
@@ -1390,6 +1390,14 @@
       "source": "ECDC",
       "confirmed_by": 1,
       "summary": "Surveillance systems for non-cholera Vibrio and Shewanella infections in EU/EEA countries European Centre for Disease Prevention and Control (ECDC)."
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "West Nile virus - World Health Organization (WHO)",
@@ -1598,14 +1606,6 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "Hepatitis B vaccination rates in US newborns falling, Public Health Alerts report shows CIDRAP."
-    },
-    {
-      "title": "Call for consultant expressions of interest: ICHI Traditional Medicine code set development - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTB2R2NaUTBKSXZZX2x1OUE4eW4tTVdYbzRtb0V5dk9JQmo3VFZlSEZFZHZhdEdNdkFMcjBPQlA2N3RVQUFCMmlBZEd1ZlpsQzlNUm5waXZ2OE5MUThFTnNOaExjR280bmg1a2h2MnowaElvYlc0TnlGdkhubFQyUnJXcnV1cVpEMFl4eWZuN19OV25leGx2OC0zMzBldW1BbTl4dTNOVVVobmU2clNuclBWSjFBZHhNQ3hlbHFCYnYxYTlFNTZvWnBUcG0?oc=5",
-      "date": "2026-11-24T13:41:20Z",
-      "source": "WHO Disease Outbreak News",
-      "confirmed_by": 1,
-      "summary": "Call for consultant expressions of interest: ICHI Traditional Medicine code set development World Health Organization (WHO)."
     }
   ],
   "clinical_trials": [
@@ -2400,12 +2400,12 @@
       "summary": "Global Clinical Trials Forum strengthens collaboration to advance implementation of resolution WHA75.8 World Health Organization (WHO)."
     },
     {
-      "title": "World AIDS Day 2026: ending preventable deaths from advanced HIV disease - The Lancet",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUEVpQjJHMHdSQ1RWa2FXTGNfbXE3VnlCa2lMQkc1dm1BUjdpWlpBcm9VZ0c1MVJrb3ZNb01MQlJKcFExSl9BRHFvNEI4UmdkQ1F3YmtnN1Q1RF9lOGM3d2NGcmtXUW1OVEQ3ZkY4QnJ1UWVURHhVUW8zN0t4V2d3ZHRVaXdacUF5WGhodmlONldrNEpMWXc?oc=5",
-      "date": "2026-11-26T23:59:05Z",
+      "title": "Corrigendum to “Development and validation of a novel prognostic model to predict 1-year post-transplant mortality for acute-o - The Lancet",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWoxRWZxVzdyZGIzM3M4XzNJUFFXbVNaSWxUVm9VT09UU3NNU3VEcXg2dEhQTWhiaVI5RFpNUGNOc2ZGTnlpX3Bab0lpdjVUZmdJcVB0bDFJWVlwVjg2TTRDYTdoRWN6emN3czRWbHJZZHB2T2tBTzk1TThIcTFYQg?oc=5",
+      "date": "2026-11-27T05:22:02Z",
       "source": "The Lancet",
-      "confirmed_by": 2,
-      "summary": "World AIDS Day 2026: ending preventable deaths from advanced HIV disease The Lancet."
+      "confirmed_by": 1,
+      "summary": "Corrigendum to “Development and validation of a novel prognostic model to predict 1-year post-transplant mortality for acute-o The Lancet."
     }
   ]
 }
