@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T23:12:30Z",
+  "last_updated": "2026-11-27T23:16:30Z",
   "poland": [
     {
       "title": "Pół godziny na nowiny - Termedia",
@@ -136,6 +136,14 @@
       "source": "Medonet",
       "confirmed_by": 1,
       "summary": "Prezydent zawetował wyższą opłatę cukrową. Ministerstwo wylicza stratę NFZ na 1,3 mld zł rocznie Medonet."
+    },
+    {
+      "title": "Oszczędzają na ogrzewaniu mieszkań. Pierwsi pacjenci już na SOR - Rynek Zdrowia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPekRpQ2tDZ191UEVrMjU3ZXhobmlfSlVJQnpLamI1ZWdEWUtiWE9XZklRMjIxREFnZ3VkeUNRbS1JVUl5VzBHY016QTBPVEJaaXVsLVNfeE5CcC1Ubzdsc2dpYjBlWkt6YnBRLUY1dF9pXzVoa1hXbzJ6dlo2Mk9zWk9UR3FBMUVhQ1JNaEFUNFNjajRiUG9hVHVUZjRVT24xVC0zOW1yWVREOXNTQnNZTjVNczBHV1hUcWdtbQ?oc=5",
+      "date": "2026-11-27T15:25:00Z",
+      "source": "Rynek Zdrowia",
+      "confirmed_by": 1,
+      "summary": "Oszczędzają na ogrzewaniu mieszkań. Pierwsi pacjenci już na SOR Rynek Zdrowia."
     },
     {
       "title": "Żel zamiast implantu w koszalińskim szpitalu. Ponad 500 zabiegów pod lupą NFZ, sprawą zajęła się prokuratura - Puls Medycyny",
@@ -392,14 +400,6 @@
       "source": "Serwis Zdrowie (PAP)",
       "confirmed_by": 1,
       "summary": "Plecak ewakuacyjny na 72 godziny Serwis Zdrowie."
-    },
-    {
-      "title": "Szpital pozwał NFZ do sądu i znowu to zrobi. Nowi pacjenci bez gwarancji leczenia - Rynek Zdrowia",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVzRWM2hKWnh1OHh6Sm9fQURZYnN3Z2pWNFpTSkpEdVplYTVUZWhJcjV4ekVsQ0htenpFSVBPZEYtRmdCbzBsMW1wSTUyd21wdnRTSFZFNjhDMHJ0eEJET1h2dVQ0M2U1b0pnYnI2enUyVGt6ejBJazFDWHBYOVJyYlBiTElVcU0wdzE3emQzS1RJNGJfUEtJdEtiNjVULUtuYjhTbHJyVXM1eEJxZW5Nc2NoY0hGVGV5aDQzOW9qOFdzcnZfYXd4MTFNVklWeE1XLVN3ZlRqYVBFVy14?oc=5",
-      "date": "2026-11-27T11:17:00Z",
-      "source": "Rynek Zdrowia",
-      "confirmed_by": 1,
-      "summary": "Szpital pozwał NFZ do sądu i znowu to zrobi. Nowi pacjenci bez gwarancji leczenia Rynek Zdrowia."
     }
   ],
   "world": [
@@ -1090,7 +1090,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjUnJnaW9IVFBJbXlQM0Nid2k5Z3R4dV83Y051VE9wNWF4ejJLekhRTWFpVldWYjU3dEV3ZUhEQmRpTU8wUFV6OURkZ0g2bHB6UUlEc3o4WkV0VTJNcTliVVFIb21VaDcxUzlCYlRfSWJTN0NDNTgxQUt2MA?oc=5",
       "date": "2026-11-25T18:03:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths — United States, 2015–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1186,7 +1186,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ObmdNb2I3andXVnFpalBka1RYc0JUNWptaHZqNXpDMURLdmdaT3NJSmZYVlBvLXZMQ21sUmF4dlJod1RQV3JEa3h3cVRuUlo3WUZsYjZRdjJuWjdHYnN6RjFn?oc=5",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 3,
       "summary": "About Childhood Lead Poisoning Prevention Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1464,20 +1464,20 @@
       "summary": "New World Screwworm Outbreak Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/measles/data-research/index.html",
-      "date": "2026-11-25T08:00:00Z",
-      "source": "CDC Outbreaks",
-      "confirmed_by": 1,
-      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
-    },
-    {
       "title": "Current Year Data (2026) | Dengue - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://www.cdc.gov/dengue/data-research/facts-stats/current-data.html",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC Outbreaks",
       "confirmed_by": 1,
       "summary": "Current Year Data (2026) | Dengue Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC Outbreaks",
+      "confirmed_by": 1,
+      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
       "title": "Historic Data (2010-2025) | Dengue - Centers for Disease Control and Prevention | CDC (.gov)",
