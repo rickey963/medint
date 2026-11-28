@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-28T09:28:01Z",
+  "last_updated": "2026-11-28T09:31:54Z",
   "poland": [
+    {
+      "title": "Long COVID: połowa pacjentów zgłasza problemy z oddychaniem nawet cztery lata po zakażeniu - Alert Medyczny",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONTZ4WDZJZExmXzZJU3lXTGRxRXdqLXpxeEdpRldGWUxCdGlnU0RyX1RQNGpnWnFCWm42dTdPTVowVGp6Qk85TGp6ZjhQT2dWdjVsSnYxQm5hVmhXbXdrdE5iYXdfeXdlOVJfRWNZVTNiM0xZX21yY1FmdEhzdF82TzRQazhsWnJyUk5uV2NVVnJWVUdsNElIMTIybzVXZTRnaFVJU0Y4c3A3cGp6SmdaZjNSWFZrUQ?oc=5",
+      "date": "2026-11-28T09:24:43Z",
+      "source": "alertmedyczny.pl",
+      "confirmed_by": 1,
+      "summary": "Long COVID: połowa pacjentów zgłasza problemy z oddychaniem nawet cztery lata po zakażeniu Alert Medyczny."
+    },
     {
       "title": "Medycyna i Zdrowie wiadomości, Portal dla systemu ochrony zdrowia - PolitykaZdrowotna.com - PolitykaZdrowotna.com",
       "url": "https://politykazdrowotna.com/",
@@ -392,14 +400,6 @@
       "source": "Termedia",
       "confirmed_by": 1,
       "summary": "Próg po drodze Termedia."
-    },
-    {
-      "title": "PRZEMYSŁAW MIKOŁAJCZAK - artykuły i informacje - Termedia",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ba2cyYWVSa2JaSTQ1UmhHRnZQLUw0S2x6aHBaOXdLWTBydHNNdkphaVhtNjU2d1FrTkQyVWFuS0UtNFFGMmVodVlyVG9ZNVRLTk0ybWxIZl9hMUU0WVlWUC0yVVNQY1U?oc=5",
-      "date": "2026-11-27T13:40:54Z",
-      "source": "Termedia",
-      "confirmed_by": 1,
-      "summary": "PRZEMYSŁAW MIKOŁAJCZAK - artykuły i informacje Termedia."
     }
   ],
   "world": [
@@ -1098,7 +1098,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjUnJnaW9IVFBJbXlQM0Nid2k5Z3R4dV83Y051VE9wNWF4ejJLekhRTWFpVldWYjU3dEV3ZUhEQmRpTU8wUFV6OURkZ0g2bHB6UUlEc3o4WkV0VTJNcTliVVFIb21VaDcxUzlCYlRfSWJTN0NDNTgxQUt2MA?oc=5",
       "date": "2026-11-25T18:03:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths — United States, 2015–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1182,19 +1182,11 @@
       "summary": "Renal Rehabilitation Guideline Update Highlights Exercise and Multidisciplinary Care Across Kidney Disease Bioengineer.org."
     },
     {
-      "title": "Sebetralstat for treating acute attacks of hereditary angioedema in people aged 12 and over [ID6284] - NICE website",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRRjdja3RMUkpSemp1VHFULUJhVXQ1YWdiN1kzOFdjeWVwVUN6TW9BLVNHSWw4YmJxREd5ZzY2WFBqYklxNnMyYmZod0xobHplOUFwbGhscEdQbjRnajJlSmZqX0dIWi10Z3ZnZjdPaGNLRTVrSXdEZFh4X0c?oc=5",
-      "date": "2026-11-25T09:31:08Z",
-      "source": "NICE",
-      "confirmed_by": 1,
-      "summary": "Sebetralstat for treating acute attacks of hereditary angioedema in people aged 12 and over [ID6284] NICE website."
-    },
-    {
       "title": "About Childhood Lead Poisoning Prevention - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ObmdNb2I3andXVnFpalBka1RYc0JUNWptaHZqNXpDMURLdmdaT3NJSmZYVlBvLXZMQ21sUmF4dlJod1RQV3JEa3h3cVRuUlo3WUZsYjZRdjJuWjdHYnN6RjFn?oc=5",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 3,
       "summary": "About Childhood Lead Poisoning Prevention Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1204,6 +1196,14 @@
       "source": "CDC (rekomendacje)",
       "confirmed_by": 1,
       "summary": "Testing for Lead Poisoning in Children Centers for Disease Control and Prevention | CDC (.gov)."
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "date": "2026-11-25T08:00:00Z",
+      "source": "CDC (rekomendacje)",
+      "confirmed_by": 1,
+      "summary": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)."
     }
   ],
   "epidemiology": [
@@ -1512,14 +1512,6 @@
       "summary": "Ebola in DR Congo at 6 months: Rampant spread, new waves of violence CIDRAP."
     },
     {
-      "title": "Virginia, Pennsylvania report new measles deaths, bringing US total to 13 - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlQxLUN1NFJzZFB4dHZELVR6NV9WRG55bDJvWk9lc1dTUnVGUXY4VXNUcFNxRFNiTlFOVTRZbDBHUFNXZ3NWYXhueHFzZ0xIVllGbjdyaWo4eVk3WWRFR0lFWXdrUThNeXpGcTh3U2xydVQyLTR6ck9NbUVkWGZkejZfbEo2ZUZDcWQ5UWtYZkE1QU9fQUVoNzZWaGlzZ3IxMkVoWjZn?oc=5",
-      "date": "2026-11-23T21:03:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Virginia, Pennsylvania report new measles deaths, bringing US total to 13 CIDRAP."
-    },
-    {
       "title": "Flu vaccine might help stave off early signs of Alzheimer's - CIDRAP",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1E3YXFPMmhHbzRMRjlBRTg5SlZkZGQwR0h5T1M2REVyS0tIR1BjUjdxYk15RHkwcm5NUFlTNGdDcFhIYnhaVjZSUGFrMHNmOEVZYWE0dVR3dm14b0RWZ3l3NFU3RFc2Ri1qRDlPd3BCUDVESVNGSGlhX2Z5cnJKWnN6anFGQ01TaUJSTENFWERLdkdua0RRM1ZTejNodw?oc=5",
       "date": "2026-11-23T20:30:57Z",
@@ -1706,6 +1698,14 @@
       "summary": "Study Details | NCT07961655 | NxPFA vs. LEAD-PFA for Paroxysmal Atrial Fibrillation ClinicalTrials.gov."
     },
     {
+      "title": "Study Details | NCT07962435 | The Experience of Hearing the Fetal Heartbeat - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FMjN4OGFVRDB5T1ZNYzEzdDdZYVliU1dwZVktbGkzU3FlMDB5cDFqRldkb2k0TFRNZWtnWF83aDRhV3poNGYzTENpZHdQaDdqR3VXQXo4UQ?oc=5",
+      "date": "2026-11-28T04:38:55Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07962435 | The Experience of Hearing the Fetal Heartbeat ClinicalTrials.gov."
+    },
+    {
       "title": "Study Details | NCT07963592 | EGS Suzetrigine Study: A Randomized Controlled Trial - ClinicalTrials.gov",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qS2FHendrQ25STXlac0lNNVVBbnlQWXFHdkZ6SHpHTWVVb3ZGcW1NU2x6QWw4OTVXUHBUdWUtWWgxYlJ4RGo4bncxdXpGLXFsT3lJMk4xWQ?oc=5",
       "date": "2026-11-28T04:38:55Z",
@@ -1736,14 +1736,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Microneedling-Based Treatments for Non-Scarring Tractional Alopecia: A Comparative Clinical and Dermoscopic Study ClinicalTrials.gov."
-    },
-    {
-      "title": "Study Details | NCT07962435 | The Experience of Hearing the Fetal Heartbeat - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FMjN4OGFVRDB5T1ZNYzEzdDdZYVliU1dwZVktbGkzU3FlMDB5cDFqRldkb2k0TFRNZWtnWF83aDRhV3poNGYzTENpZHdQaDdqR3VXQXo4UQ?oc=5",
-      "date": "2026-11-28T04:38:55Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07962435 | The Experience of Hearing the Fetal Heartbeat ClinicalTrials.gov."
     },
     {
       "title": "Study Details | NCT07961525 | Comparison of Gingko Biloba Alone and Gingko Biloba Combined With Anti-oxidants in the Treatment of Tinnitus - ClinicalTrials.gov",
@@ -1955,6 +1947,14 @@
     }
   ],
   "pharma_market": [
+    {
+      "title": "Class 2 Device Recall Halyard - U.S. Food and Drug Administration (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JS0VsYnVuNkNLWjlENmdOMXJDeUtDRmZyTDdUYkgyMm1Vdk0xNDl1ZklacUJtMjl4NW1ZcVBEcWlNS2dRTGkyY1ZtSGhNYjV1RDd2bkJiWUJFRDkyaDhiRXJYTHR5c3h4S21FdE1PYjhDR2NfajlfSUdHUGJJZlk?oc=5",
+      "date": "2026-11-28T09:25:46Z",
+      "source": "FDA Drug News",
+      "confirmed_by": 1,
+      "summary": "Class 2 Device Recall Halyard U.S. Food and Drug Administration (.gov)."
+    },
     {
       "title": "Class 2 Device Recall Chirp Halo Menstrual Relief Muscle Stimulator Pads - U.S. Food and Drug Administration (.gov)",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXb2dMb3JWX2FUVk1yMWhfX21MMnAxaGxtZTVtak9CS0JDNzIyVEUxdDRZY1RhNFdBY2xvT0RQdHR5VFc2TzNXbzVPYThXM09iaXBnRmxLTHExaWcxWlBLWjZZTTVLZ0Rzc20zbENwUER4SUwyR2Q4RXFIQUdKSGM?oc=5",
@@ -2346,14 +2346,6 @@
       "source": "Drugs.com",
       "confirmed_by": 1,
       "summary": "Igalmi: Uses, Dosage, Side Effects, Warnings Drugs.com."
-    },
-    {
-      "title": "2000 to 2024 Saw Decrease in Age-Adjusted Stroke Death Rate in U.S. - Drugs.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOHZBc1N1RDZCWUdSdl9iZXZCQ29iLVRfeS1wZnc4S1ZMLWdSX0VneS1zN0lWSUJaNXpSUklRR0xieDgyWVVockFiWkNHV01pQXh5M1pwMFN6eDA1ZmNMcUZhWjRSWTRndmd4SnVMSkdXTXUybnBTOHhNNy1pQUF2UUY4RUVWajJfblRHWTFKalJmZGhiV0FHdjhHU1I?oc=5",
-      "date": "2026-11-26T08:00:00Z",
-      "source": "Drugs.com",
-      "confirmed_by": 1,
-      "summary": "2000 to 2024 Saw Decrease in Age-Adjusted Stroke Death Rate in U.S. Drugs.com."
     }
   ],
   "critical_alerts": [
