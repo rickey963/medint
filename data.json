@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T11:41:13Z",
+  "last_updated": "2026-11-28T11:45:11Z",
   "poland": [
     {
       "title": "Szpital w Kaliszu ma ponad 40 mln zł straty. Dyrektor chce zlikwidować premie pracowników - PolitykaZdrowotna.com",
@@ -16,6 +16,14 @@
       "source": "alertmedyczny.pl",
       "confirmed_by": 1,
       "summary": "WHO wzmacnia globalny system badań klinicznych i przyspiesza wdrażanie rezolucji WHA75.8 Alert Medyczny."
+    },
+    {
+      "title": "Polacy traktują zdrowie jak luksus. Najnowszy sondaż CBOS - Medonet",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDFNME0yN0lIM1VEUE5MUWxBd2FBMHBsakZqQ0s1VHRYaXhVX3VfTUd6TlJUQzFTZTVGbEpYX3ZEUkVBY19kQ0dvT0g0MU5ibTlHR011NWtCSEM0eXhwdkVsTWptdldSN3pVNlMzZnJuZmJwRlFpenc2VGRpRXBiX29IX0VNV3pTMU1ZaVYxOGV2aWRpTUkyZHdpcHktclBFQUZTS29ldHk?oc=5",
+      "date": "2026-11-28T11:12:00Z",
+      "source": "Medonet",
+      "confirmed_by": 1,
+      "summary": "Polacy traktują zdrowie jak luksus. Najnowszy sondaż CBOS Medonet."
     },
     {
       "title": "Kurier z podczerwieni - Termedia",
@@ -392,14 +400,6 @@
       "source": "Rynek Zdrowia",
       "confirmed_by": 1,
       "summary": "Ministerstwo Zdrowia odpowiada na kolejne weto prezydenta do podwyżki opłaty cukrowej Rynek Zdrowia."
-    },
-    {
-      "title": "Kosztowny błąd centrum medycznego. WSA potwierdził zasadność kary UODO - Alert Medyczny",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTd3MEkzR0Z5SjN4RkhqaVVwdnFsQXZJb2Q2UWRZYUdGaXJfZWNqa3ZBSlQ5WnhNc1YyZUFWb2VsTzA5UUQwdGx3MG5IZ0w2YVV6R2IyNG5zWTIwaXZGS3BVcWNhSnI1Mzlxb09vODNRa0ZZUmg2ai1wd0FhSE54LVZPdXJoNTFUQXFJeUZnNXZMclZDVUxfQXp4OA?oc=5",
-      "date": "2026-11-27T15:05:09Z",
-      "source": "alertmedyczny.pl",
-      "confirmed_by": 1,
-      "summary": "Kosztowny błąd centrum medycznego. WSA potwierdził zasadność kary UODO Alert Medyczny."
     }
   ],
   "world": [
@@ -1098,7 +1098,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjUnJnaW9IVFBJbXlQM0Nid2k5Z3R4dV83Y051VE9wNWF4ejJLekhRTWFpVldWYjU3dEV3ZUhEQmRpTU8wUFV6OURkZ0g2bHB6UUlEc3o4WkV0VTJNcTliVVFIb21VaDcxUzlCYlRfSWJTN0NDNTgxQUt2MA?oc=5",
       "date": "2026-11-25T18:03:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 1,
+      "confirmed_by": 3,
       "summary": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths — United States, 2015–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1166,11 +1166,19 @@
       "summary": "Could an AI-powered app improve outcomes for patients? European Society of Cardiology."
     },
     {
+      "title": "Renal Rehabilitation Guideline Update Highlights Exercise and Multidisciplinary Care Across Kidney Disease - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb004dE45NGwyZlRlSXJzeEEzTTNzaVRtMFYzdUhQWFc1S29uSDlqMTRCckh2amxYUW1ZYjVBLTdMNmwwcE41VlhaUjZCQnB2WDc3MkVTX0Nwd2MyWWo2ZzdpaUo3UTBhNnM5bUJtRk1uQTFsMGR3Z3ZNTjlJVkEwTW1qRzk5YmZFbE5DSHpoM2lTdDItcDhQcmktNlVUM0xoXzlzeW42QzFaRHM4UzliMXZUYTFGM19qNlNHMmx3d1h2UWtQYUZva3doMA?oc=5",
+      "date": "2026-11-25T09:35:06Z",
+      "source": "Wytyczne kliniczne",
+      "confirmed_by": 1,
+      "summary": "Renal Rehabilitation Guideline Update Highlights Exercise and Multidisciplinary Care Across Kidney Disease Bioengineer.org."
+    },
+    {
       "title": "About Childhood Lead Poisoning Prevention - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ObmdNb2I3andXVnFpalBka1RYc0JUNWptaHZqNXpDMURLdmdaT3NJSmZYVlBvLXZMQ21sUmF4dlJod1RQV3JEa3h3cVRuUlo3WUZsYjZRdjJuWjdHYnN6RjFn?oc=5",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 5,
       "summary": "About Childhood Lead Poisoning Prevention Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1196,14 +1204,6 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Tricuspid case featuring the use of 4D ICE / TEE in combination for guidance ESC 365."
-    },
-    {
-      "title": "the cardiology knowledge hub - ESC 365",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GdklSVzVfWTZGaXVnZnRZelRROGtqbDNULWd1dG1rLTNrUENMRnRwc1Rxa1RkVEtHYkNBd25TUkh3YmdFZWl2LUdhMnZJYlE?oc=5",
-      "date": "2026-11-24T09:34:33Z",
-      "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
-      "summary": "the cardiology knowledge hub ESC 365."
     }
   ],
   "epidemiology": [
@@ -1574,6 +1574,14 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "The return of endemic measles is a likely harbinger of future crises CIDRAP."
+    },
+    {
+      "title": "Vaccine hesitancy spills over to pet owners - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yVDRpSTVPc1dyR2plQk9iNG0wMG5LLTB5LTNiV29BRWswWE01WjIybklSSXc4YzMtVnpJVHIzSkIwR0xPb3lQakt5REFvemt3Q2dlSEhwV0R6b1JZMmVFY21adGdwZ1RQVS1vRXYwZ3ZtSDNZU2VIZXNGNXNHd0k?oc=5",
+      "date": "2026-11-19T08:00:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Vaccine hesitancy spills over to pet owners CIDRAP."
     }
   ],
   "clinical_trials": [
