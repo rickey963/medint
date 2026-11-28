@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T12:24:52Z",
+  "last_updated": "2026-11-28T12:28:39Z",
   "poland": [
     {
       "title": "Polskie jabłka ważniejsze niż pieniądze na zdrowie. Nawrocki zawetował, nie będzie 1 mld zł dla NFZ - Rynek Zdrowia",
@@ -1098,7 +1098,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjUnJnaW9IVFBJbXlQM0Nid2k5Z3R4dV83Y051VE9wNWF4ejJLekhRTWFpVldWYjU3dEV3ZUhEQmRpTU8wUFV6OURkZ0g2bHB6UUlEc3o4WkV0VTJNcTliVVFIb21VaDcxUzlCYlRfSWJTN0NDNTgxQUt2MA?oc=5",
       "date": "2026-11-25T18:03:34Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 3,
+      "confirmed_by": 1,
       "summary": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths — United States, 2015–2024 Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1122,7 +1122,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2lUTEN4bmRSbExwZGM1Wkk0bkFWbk5VajRPcHRBWElORkIxTkZUQ0dJT0ZtNDRvSmFiZXI5MWdfbEVCMlUyT3Bpa2VyMGxHek93MmlmbHE1QVVneTNGd0NKUG5nU2EwTzRTWjZjd2Z0Sk5CdXNLRV9nLVEyZFZtU2ZjVFR6UGtI?oc=5",
       "date": "2026-11-25T16:16:55Z",
       "source": "ESC (kardiologia)",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Board of the Council on Valvular Heart Disease European Society of Cardiology."
     },
     {
@@ -1166,19 +1166,11 @@
       "summary": "Could an AI-powered app improve outcomes for patients? European Society of Cardiology."
     },
     {
-      "title": "Renal Rehabilitation Guideline Update Highlights Exercise and Multidisciplinary Care Across Kidney Disease - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb004dE45NGwyZlRlSXJzeEEzTTNzaVRtMFYzdUhQWFc1S29uSDlqMTRCckh2amxYUW1ZYjVBLTdMNmwwcE41VlhaUjZCQnB2WDc3MkVTX0Nwd2MyWWo2ZzdpaUo3UTBhNnM5bUJtRk1uQTFsMGR3Z3ZNTjlJVkEwTW1qRzk5YmZFbE5DSHpoM2lTdDItcDhQcmktNlVUM0xoXzlzeW42QzFaRHM4UzliMXZUYTFGM19qNlNHMmx3d1h2UWtQYUZva3doMA?oc=5",
-      "date": "2026-11-25T09:35:06Z",
-      "source": "Wytyczne kliniczne",
-      "confirmed_by": 1,
-      "summary": "Renal Rehabilitation Guideline Update Highlights Exercise and Multidisciplinary Care Across Kidney Disease Bioengineer.org."
-    },
-    {
       "title": "About Childhood Lead Poisoning Prevention - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ObmdNb2I3andXVnFpalBka1RYc0JUNWptaHZqNXpDMURLdmdaT3NJSmZYVlBvLXZMQ21sUmF4dlJod1RQV3JEa3h3cVRuUlo3WUZsYjZRdjJuWjdHYnN6RjFn?oc=5",
       "date": "2026-11-25T08:00:00Z",
       "source": "CDC (rekomendacje)",
-      "confirmed_by": 5,
+      "confirmed_by": 3,
       "summary": "About Childhood Lead Poisoning Prevention Centers for Disease Control and Prevention | CDC (.gov)."
     },
     {
@@ -1204,6 +1196,14 @@
       "source": "ESC (kardiologia)",
       "confirmed_by": 1,
       "summary": "Tricuspid case featuring the use of 4D ICE / TEE in combination for guidance ESC 365."
+    },
+    {
+      "title": "Coronary artery calcium testing may not be necessary for everyone - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEp1bVdBdEFlZkdrMWRmMENoZndyaTJ2cWp5OGx4R01mNjByMGlJRkFyMFZjTE5vMHhIZTRaQmxoa3NHb01oY2thZ21OU1NlQjN0Q21ZMS1RNWhyRFozakpoVFJXZG83U1RrcndoQzBrUDZ0Q2JXYzlWRDFzZ3NCcHo1LTZyNE9uT2lialk0ZnlhQ0JyN2MxODBqdERCMGF1RXdwdEtsaWpOWW9pU0JjV0tiWQ?oc=5",
+      "date": "2026-11-20T17:18:00Z",
+      "source": "Wytyczne AHA/ACC",
+      "confirmed_by": 1,
+      "summary": "Coronary artery calcium testing may not be necessary for everyone News-Medical."
     }
   ],
   "epidemiology": [
@@ -1520,14 +1520,6 @@
       "summary": "Ebola in DR Congo at 6 months: Rampant spread, new waves of violence CIDRAP."
     },
     {
-      "title": "Virginia, Pennsylvania report new measles deaths, bringing US total to 13 - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlQxLUN1NFJzZFB4dHZELVR6NV9WRG55bDJvWk9lc1dTUnVGUXY4VXNUcFNxRFNiTlFOVTRZbDBHUFNXZ3NWYXhueHFzZ0xIVllGbjdyaWo4eVk3WWRFR0lFWXdrUThNeXpGcTh3U2xydVQyLTR6ck9NbUVkWGZkejZfbEo2ZUZDcWQ5UWtYZkE1QU9fQUVoNzZWaGlzZ3IxMkVoWjZn?oc=5",
-      "date": "2026-11-23T21:03:00Z",
-      "source": "CIDRAP",
-      "confirmed_by": 1,
-      "summary": "Virginia, Pennsylvania report new measles deaths, bringing US total to 13 CIDRAP."
-    },
-    {
       "title": "Flu vaccine might help stave off early signs of Alzheimer's - CIDRAP",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1E3YXFPMmhHbzRMRjlBRTg5SlZkZGQwR0h5T1M2REVyS0tIR1BjUjdxYk15RHkwcm5NUFlTNGdDcFhIYnhaVjZSUGFrMHNmOEVZYWE0dVR3dm14b0RWZ3l3NFU3RFc2Ri1qRDlPd3BCUDVESVNGSGlhX2Z5cnJKWnN6anFGQ01TaUJSTENFWERLdkdua0RRM1ZTejNodw?oc=5",
       "date": "2026-11-23T20:30:57Z",
@@ -1566,6 +1558,14 @@
       "source": "CIDRAP",
       "confirmed_by": 1,
       "summary": "The return of endemic measles is a likely harbinger of future crises CIDRAP."
+    },
+    {
+      "title": "Vaccine hesitancy spills over to pet owners - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yVDRpSTVPc1dyR2plQk9iNG0wMG5LLTB5LTNiV29BRWswWE01WjIybklSSXc4YzMtVnpJVHIzSkIwR0xPb3lQakt5REFvemt3Q2dlSEhwV0R6b1JZMmVFY21adGdwZ1RQVS1vRXYwZ3ZtSDNZU2VIZXNGNXNHd0k?oc=5",
+      "date": "2026-11-19T08:00:00Z",
+      "source": "CIDRAP",
+      "confirmed_by": 1,
+      "summary": "Vaccine hesitancy spills over to pet owners CIDRAP."
     }
   ],
   "clinical_trials": [
@@ -1722,6 +1722,14 @@
       "summary": "Study Details | NCT07961655 | NxPFA vs. LEAD-PFA for Paroxysmal Atrial Fibrillation ClinicalTrials.gov."
     },
     {
+      "title": "Study Details | NCT07962435 | The Experience of Hearing the Fetal Heartbeat - ClinicalTrials.gov",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FMjN4OGFVRDB5T1ZNYzEzdDdZYVliU1dwZVktbGkzU3FlMDB5cDFqRldkb2k0TFRNZWtnWF83aDRhV3poNGYzTENpZHdQaDdqR3VXQXo4UQ?oc=5",
+      "date": "2026-11-28T04:38:55Z",
+      "source": "ClinicalTrials.gov",
+      "confirmed_by": 1,
+      "summary": "Study Details | NCT07962435 | The Experience of Hearing the Fetal Heartbeat ClinicalTrials.gov."
+    },
+    {
       "title": "Study Details | NCT07963592 | EGS Suzetrigine Study: A Randomized Controlled Trial - ClinicalTrials.gov",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qS2FHendrQ25STXlac0lNNVVBbnlQWXFHdkZ6SHpHTWVVb3ZGcW1NU2x6QWw4OTVXUHBUdWUtWWgxYlJ4RGo4bncxdXpGLXFsT3lJMk4xWQ?oc=5",
       "date": "2026-11-28T04:38:55Z",
@@ -1744,14 +1752,6 @@
       "source": "ClinicalTrials.gov",
       "confirmed_by": 1,
       "summary": "Effects of Dietary Fiber on Treatment Outcomes in Pediatric Stem Cell Transplant Patients (PedFiberHSCT) ClinicalTrials.gov."
-    },
-    {
-      "title": "Study Details | NCT07962435 | The Experience of Hearing the Fetal Heartbeat - ClinicalTrials.gov",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FMjN4OGFVRDB5T1ZNYzEzdDdZYVliU1dwZVktbGkzU3FlMDB5cDFqRldkb2k0TFRNZWtnWF83aDRhV3poNGYzTENpZHdQaDdqR3VXQXo4UQ?oc=5",
-      "date": "2026-11-28T04:38:55Z",
-      "source": "ClinicalTrials.gov",
-      "confirmed_by": 1,
-      "summary": "Study Details | NCT07962435 | The Experience of Hearing the Fetal Heartbeat ClinicalTrials.gov."
     },
     {
       "title": "Microneedling-Based Treatments for Non-Scarring Tractional Alopecia: A Comparative Clinical and Dermoscopic Study - ClinicalTrials.gov",
